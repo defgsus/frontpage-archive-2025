@@ -1,4 +1,6 @@
-from typing import Generator, Tuple
+from typing import Generator, Tuple, Optional
+
+import bs4
 
 from ...scraper import Scraper
 
@@ -32,3 +34,6 @@ class Bild(Scraper):
         "Geld & Wirtschaft",
         "Wirtschaft",
     ]
+
+    def find_headline(self, tag: bs4.Tag) -> Optional[bs4.Tag]:
+        return super().find_headline(tag) or tag.find("div", {"class": "teaser__title"})
