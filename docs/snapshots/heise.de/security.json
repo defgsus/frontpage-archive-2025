@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-09T09:09:53",
+  "timestamp": "2025-01-09T10:09:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress-Plug-in Fancy Product Designer",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-bedroht-WordPress-Plug-in-Fancy-Product-Designer-10233192.html"
+    },
+    {
       "title": "Ivanti Connect Secure, Policy Secure, ZTA Gateways",
       "url": "https://www.heise.de/news/Ivanti-Connect-Secure-Angreifer-attackieren-kritische-Sicherheitsluecke-10233099.html"
     },
@@ -44,14 +48,16 @@
       "url": "https://www.heise.de/news/US-Sicherheitsbehoerde-warnt-vor-Attacken-auf-MiCollab-und-WebLogic-Server-10231353.html"
     },
     {
-      "title": "Chrome, Firefox, Thunderbird",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-und-Firefox-Updates-stopfen-teils-hochriskante-Luecken-10231176.html"
+      "title": "Google: Device Fingerprinting ist okay",
+      "teaser": "Google lässt ab Februar das Tracking von Verbrauchern per Device Fingerprinting für Werbezwecke zu – eine fundamentale Abkehr von seiner bisherigen Position.",
+      "url": "https://www.heise.de/news/Google-Device-Fingerprinting-ist-okay-10233355.html",
+      "image_title": "Fingerabdruck auf einer Taste"
     },
     {
-      "title": "Ivanti Connect Secure: Angreifer attackieren kritische Sicherheitslücke",
-      "teaser": "Ivanti warnt vor aktiven Angriffen auf Ivanti Secure Connect-Systeme. Durch Codeschmuggel können Netzwerke kompromittiert werden.",
-      "url": "https://www.heise.de/news/Ivanti-Connect-Secure-Angreifer-attackieren-kritische-Sicherheitsluecke-10233099.html",
-      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
+      "title": "Kein Patch für Lücke in WordPress-Plug-in Fancy Product Designer in Sicht",
+      "teaser": "Es können Attacken auf Onlineshops auf WordPress-Basis mit Fancy Product Designer bevorstehen.",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-bedroht-WordPress-Plug-in-Fancy-Product-Designer-10233192.html",
+      "image_title": "Bildschirm mit Warnsymbol"
     },
     {
       "title": "Angestellte klickten dreimal so oft auf Phishing-Links ‒ häufig in Suchmaschinen",
@@ -88,6 +94,12 @@
       "teaser": "Admins sollten ihre Systeme mit Mitel- und Oracle-Software gegen derzeit laufende Angriffe rüsten.",
       "url": "https://www.heise.de/news/US-Sicherheitsbehoerde-warnt-vor-Attacken-auf-MiCollab-und-WebLogic-Server-10231353.html",
       "image_title": "Schriftzug \"Virus detected\""
+    },
+    {
+      "title": "Webbrowser: Chrome- und Firefox-Updates stopfen teils hochriskante Lücken",
+      "teaser": "Neue Versionen von Google Chrome und Mozilla Firefox schließen Sicherheitslücken in den Webbrowsern. Einige gelten als hochriskant.",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-und-Firefox-Updates-stopfen-teils-hochriskante-Luecken-10231176.html",
+      "image_title": "Stilisiertes Bild: Suche liefert Spam und Malware"
     },
     {
       "title": "Sicherheitslücken: Hintertür gefährdet Industrie-Router von Moxa",
@@ -156,17 +168,6 @@
       "image_title": "Lastatur mit \"Leak\"-Taste"
     },
     {
-      "title": "Stimmen die Voraussetzungen, kann Schadcode auf Asus-Router gelangen",
-      "teaser": "Angreifer können Router von Asus ins Visier nehmen und attackieren. Dagegen sind abgesicherte Firmwares erschienen.",
-      "url": "https://www.heise.de/news/Stimmen-die-Voraussetzungen-kann-Schadcode-auf-Asus-Router-gelangen-10226829.html"
-    },
-    {
-      "title": "Kryptowährungen: Ethereum-Entwickler im Visier von Angreifern",
-      "teaser": "Kriminelle haben gefälschte NPM-Pakete für die Ethereum-Entwicklungsplattform Hardhat verteilt und damit kritische Daten abgegriffen.",
-      "url": "https://www.heise.de/news/Kryptowaehrungen-Ethereum-Entwickler-im-Visier-von-Angreifern-10225994.html",
-      "image_title": "Programmierer vor dem Computer, Krimineller daneben zeigt mit Krypto-Coin in der Hand auf Codeschnippsel"
-    },
-    {
       "title": "C-Level Kommunikation",
       "teaser": "Wie sag ich's meinem Chef? Das ist oft die Frage, wenn Budget-Freigaben oder die Projektzustimmung für wichtige Security-Projekte anstehen. Für die richtige Überzeugungskraft beim Chef geben wir Ihnen die notwendigen Fertigkeiten an die Hand, um das Thema Informationssicherheit richtig zu platzieren.",
       "url": "https://heise-academy.de/webinare/wie-sag-ichs-meinem-chef?wt_mc=intern.academy.security.web_c-level.ho_teaser.teaser.teaser"
@@ -190,19 +191,19 @@
       "image_title": "Mann zeigt auf Spirale aus geometrischen Körpern"
     },
     {
-      "title": "Einen Hacker engagieren",
-      "teaser": "Forum: Rent-A-Hacker: Online-Markplatz für Hacker-Jobs",
-      "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/Rent-A-Hacker-Online-Markplatz-fuer-Hacker-Jobs/Einen-Hacker-engagieren/posting-44779060/show/"
-    },
-    {
-      "title": "Re: spiegel.de (Spiegel Online) deshalb down?",
-      "teaser": "Forum: Rent-A-Hacker: Online-Markplatz für Hacker-Jobs",
-      "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/Rent-A-Hacker-Online-Markplatz-fuer-Hacker-Jobs/Re-spiegel-de-Spiegel-Online-deshalb-down/posting-44779020/show/"
-    },
-    {
       "title": "Re: Desinfect't 2024 p4",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-t-2024-p4/posting-44768976/show/"
+    },
+    {
+      "title": "[gelöst]: desinfect 24/25 erscheint nicht im Thinkpad-Boot-Menu",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/geloest-desinfect-24-25-erscheint-nicht-im-Thinkpad-Boot-Menu/posting-44768540/show/"
+    },
+    {
+      "title": "Re: Desinfect 2024/25 Teamviewer funktioniert nicht",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2024-25-Teamviewer-funktioniert-nicht/posting-44760854/show/"
     }
   ]
 }
