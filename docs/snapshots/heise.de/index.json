@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-10T15:08:30",
+  "timestamp": "2025-01-10T16:10:39",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -37,7 +37,7 @@
       "image_title": ","
     },
     {
-      "title": "Gehaltsüberblick: Was man als Informatiker erwarten kann",
+      "title": "GehaltsüberblickWas man als Informatiker an Einkommen erwarten kann",
       "teaser": "Laut einer Auswertung liegt das Median-Bruttogehalt in Deutschland bei 45.800 Euro. ITler sind meistens deutlich drüber.",
       "url": "https://www.heise.de/news/Gehaltsueberblick-Was-man-als-Informatiker-erwarten-kann-10236240.html",
       "image_title": "Münzen aufeinander gestapelt"
@@ -171,6 +171,18 @@
       "image_title": "Die Digitale Automatische Kupplung soll den Schienengüterverkehr effizienter machen."
     },
     {
+      "title": "Nvidia: ARM-Angriff gegen AMD, Intel, Apple und Qualcomm",
+      "teaser": "Nvidia bildet ein Trio mit ARM und Mediatek. Zusammen breiten sie offensichtlich einen Rundumschlag vor, fasst Mark Mantel zusammen.",
+      "url": "https://www.heise.de/meinung/Nvidia-ARM-Angriff-gegen-AMD-Intel-Apple-und-Qualcomm-10236310.html",
+      "image_title": "Renderbild von Nvidas GB10"
+    },
+    {
+      "title": "Wegen Rechtsstreit: Automattic kündigt Mitarbeit an Wordpress fast komplett auf",
+      "teaser": "Man wolle die Arbeitszeit lieber in kommerzielle Produkte investieren, so das Unternehmen in seinem Blog. Hintergrund ist der Streit mit WP Engine.",
+      "url": "https://www.heise.de/news/Wegen-Rechtsstreit-Automattic-kuendigt-Mitarbeit-an-Wordpress-fast-komplett-auf-10236304.html",
+      "image_title": "Wordpress-Logo auf Smartphone"
+    },
+    {
       "title": "Mobvoi Ticwatch Atlas im Test: Die beste günstige Smartwatch für Sportler?",
       "teaser": "Mit GPS, Pulsmessung, speziellen Trainings-Features und Outdoor-Zertifizierung will die Mobvoi Ticwatch Atlas eine günstige Alternative zur Fenix-Serie von Garmin sein. Kann die China-Uhr der teuren Konkurrenz das Wasser reichen?",
       "url": "https://www.heise.de/bestenlisten/testbericht/mobvoi-ticwatch-atlas-im-test/qjk4jc7?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -203,18 +215,6 @@
       "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
       "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-10224797.html",
       "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "AlertAnonymisierendes Linux: Tails 6.11 stopft kritische Sicherheitslecks",
-      "teaser": "Die Linux-Distribution Tails zum Mitnehmen auf USB-Stick zum anonymen Surfen im Netz schließt mit Version 6.11 kritische Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-11-stopft-kritische-Sicherheitslecks-10236120.html",
-      "image_title": "Tails 6.11 Desktop auf Notebook"
-    },
-    {
-      "title": "Programmieren in Go: Wie man Webservices schreibt",
-      "teaser": "Mit Go entstehen Backends für Webanwendungen. In der Sprache enthalten ist: ein kurzer Trip zu Endpunkten, Multiplexern, Servern, Goroutinen und Channels.",
-      "url": "https://www.heise.de/hintergrund/Programmieren-in-Go-Wie-man-Webservices-schreibt-10216093.html",
-      "image_title": ", !!! kommt neu von jnac"
     },
     {
       "title": "Besser lebenTageslichtwecker im Test: Sanft aufwachen mit künstlicher Sonne",
@@ -282,6 +282,18 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "AlertAnonymisierendes Linux: Tails 6.11 stopft kritische Sicherheitslecks",
+      "teaser": "Die Linux-Distribution Tails zum Mitnehmen auf USB-Stick zum anonymen Surfen im Netz schließt mit Version 6.11 kritische Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-11-stopft-kritische-Sicherheitslecks-10236120.html",
+      "image_title": "Tails 6.11 Desktop auf Notebook"
+    },
+    {
+      "title": "Programmieren in Go: Wie man Webservices schreibt",
+      "teaser": "Mit Go entstehen Backends für Webanwendungen. In der Sprache enthalten ist: ein kurzer Trip zu Endpunkten, Multiplexern, Servern, Goroutinen und Channels.",
+      "url": "https://www.heise.de/hintergrund/Programmieren-in-Go-Wie-man-Webservices-schreibt-10216093.html",
+      "image_title": ", !!! kommt neu von jnac"
+    },
+    {
       "title": "LignoSat: Erster Satellit aus Holz ins All entlassen",
       "teaser": "Schon seit Dezember kreist ein Satellit aus Holz um die Erde. Instrumente sollen ermitteln, wie gut sich der Baustoff für den Einsatz in der Raumfahrt eignet.",
       "url": "https://www.heise.de/news/LignoSat-Erster-Satellit-aus-Holz-ins-All-entlassen-10236001.html",
@@ -346,6 +358,11 @@
       "image_title": "Tube Map Pro für iOS"
     },
     {
+      "title": "NIS2 in der Praxis: Rechtliche Anforderungen und Umsetzungstipps für Unternehmen",
+      "teaser": "Die EU-Richtlinie NIS2 stellt neue Anforderungen an die Cybersicherheit. Erfahren Sie n dieser Webcast-Aufzeichnung, was auf Ihr Unternehmen zukommt und wie Sie die Vorgaben konkret umsetzen können.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/nis2-in-der-praxis-rechtliche-anforderungen-und-umsetzungstipps-fuer-unternehmen-4829/?source=hbsad-ersatz"
+    },
+    {
       "title": "Einsame Winterlandschaften und imposante Schiffe: Die Bilder der Woche KW 52",
       "teaser": "In der letzten Woche des Jahres entführen uns unsere Galeriefotografen in verschneite Landschaften und weckten den Wunsch nach Freiheit.",
       "url": "https://www.heise.de/news/Einsame-Winterlandschaften-und-imposante-Schiffe-Die-Bilder-der-Woche-KW-52-10211061.html"
@@ -355,11 +372,6 @@
       "teaser": "Mazda stellt eine elegante Limousine mit E-Antrieb vor. Bei den Konfigurationen des Antriebs geht die Marke sehr ungewöhnliche Wege.",
       "url": "https://www.heise.de/news/Vorstellung-Elektroauto-Mazda-6e-Eigenwillige-Pfade-10235663.html",
       "image_title": "Mazda 6e"
-    },
-    {
-      "title": "NIS2 in der Praxis: Rechtliche Anforderungen und Umsetzungstipps für Unternehmen",
-      "teaser": "Die EU-Richtlinie NIS2 stellt neue Anforderungen an die Cybersicherheit. Erfahren Sie n dieser Webcast-Aufzeichnung, was auf Ihr Unternehmen zukommt und wie Sie die Vorgaben konkret umsetzen können.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/nis2-in-der-praxis-rechtliche-anforderungen-und-umsetzungstipps-fuer-unternehmen-4829/?source=hbsad-ersatz"
     },
     {
       "title": "SoftwareArchitekTOUR – Episode 100: Softwarearchitektur visualisieren mit C4",
@@ -408,17 +420,6 @@
       "teaser": "Ubisoft-Chef Yves Guillemot sieht mehrere Wege aus der Krise – verrät aber nicht, wie sie aussehen. Unternehmensberater sollen helfen.",
       "url": "https://www.heise.de/news/Sorge-um-Ubisoft-Investoren-bekommen-keine-Antworten-auf-ihre-Fragen-10235159.html",
       "image_title": "Screenshot aus \"Assassin's Creed Shadows\""
-    },
-    {
-      "title": "Legion Go S: Wie schlägt sich SteamOS auf neuer Hardware?",
-      "teaser": "Das erste offizielle SteamOS-Handheld, das nicht von Valve kommt: Wir haben Lenovos Legion Go S auf der CES probegespielt und wagen eine erste Einschätzung.",
-      "url": "https://www.heise.de/news/Lenovo-Legion-Go-S-Das-bessere-Steam-Deck-10234981.html"
-    },
-    {
-      "title": "Merkur-Sonde BepiColombo hat ihr Ziel planmäßig letztmals knapp passiert",
-      "teaser": "BepiColombo soll den kleinen Planeten Merkur erforschen. Bevor der Flugkörper in die Umlaufbahn geht, kommt er seinem Ziel noch ein letztes Mal nahe. Warum?",
-      "url": "https://www.heise.de/news/Merkur-Sonde-BepiColombo-hat-ihr-Ziel-planmaessig-letztmals-knapp-passiert-10235148.html",
-      "image_title": "Mehrere Aufnahmen des Merkur"
     },
     {
       "title": "40 Jahre C128: Commodores letzter 8-Bit-Versuch",
@@ -581,22 +582,16 @@
       "url": "https://www.heise.de/en/news/Project-Digits-Nvidia-shrinks-AI-system-DGX-into-a-mini-PC-10229487.html"
     },
     {
-      "title": "Software-Lizenzen: Speichermanipulationen verletzen nicht das Urheberrecht",
-      "teaser": "Manipulationen durch Cheat-Programme verstoßen nicht gegen das Urheberrecht, so der EuGH. Das hat Auswirkungen auf Lizenzverträge jedweder Software.",
-      "url": "https://www.heise.de/hintergrund/Software-Lizenzen-Speichermanipulationen-verletzen-nicht-das-Urheberrecht-10230270.html",
-      "image_title": ", Sony"
-    },
-    {
       "title": "Das Raspberry Pi Compute Module 5 im Test",
       "teaser": "Die Technik des Raspberry Pi 5 ist nun als Steckmodul CM5 mit neuen Schnittstellen erhältlich, lässt sich in andere Geräte einbauen und ist zum CM4 kompatibel.",
       "url": "https://www.heise.de/tests/Das-Raspberry-Pi-Compute-Module-5-im-Test-10231897.html",
       "image_title": ","
     },
     {
-      "title": "Programmieren in Go: Wie man Webservices schreibt",
-      "teaser": "Mit Go entstehen Backends für Webanwendungen. In der Sprache enthalten ist: ein kurzer Trip zu Endpunkten, Multiplexern, Servern, Goroutinen und Channels.",
-      "url": "https://www.heise.de/hintergrund/Programmieren-in-Go-Wie-man-Webservices-schreibt-10216093.html",
-      "image_title": ", !!! kommt neu von jnac"
+      "title": "Software-Lizenzen: Speichermanipulationen verletzen nicht das Urheberrecht",
+      "teaser": "Manipulationen durch Cheat-Programme verstoßen nicht gegen das Urheberrecht, so der EuGH. Das hat Auswirkungen auf Lizenzverträge jedweder Software.",
+      "url": "https://www.heise.de/hintergrund/Software-Lizenzen-Speichermanipulationen-verletzen-nicht-das-Urheberrecht-10230270.html",
+      "image_title": ", Sony"
     },
     {
       "title": "Alte Apps retten: Wenn auf iPhone und iPad plötzlich Apps fehlen",
@@ -728,21 +723,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-ueberwachungskamera-mit-top-nachtsicht-im-test/sndlfnq?wt_mc=intern.red.bestenliste.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "100 Tage, 100 Erlasse: So plant Trump den radikalen Umbau der USA",
-      "teaser": "Republikaner will nach dem 20. Januar Fakten schaffen. Radikalste Änderungen betreffen Einwanderung und Migranten. Drohungen gegen Panama und Grönland sorgen weiter für Debatten.",
-      "url": "https://www.heise.de/tp/features/100-Tage-100-Erlasse-So-plant-Trump-den-radikalen-Umbau-der-USA-10235218.html"
+      "title": "Zwischen Moral und Machtpolitik: Jimmy Carters Chile-Dilemma",
+      "teaser": "Jimmy Carter, der als \"Menschenrechtspräsident\" bekannt wurde, stand vor einem Dilemma in Chile. Seine moralischen Ideale kollidierten mit geopolitischen Realitäten. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Zwischen-Moral-und-Machtpolitik-Jimmy-Carters-Chile-Dilemma-10235568.html",
+      "image_title": "ein Mann vor einem Rednerpult"
     },
     {
-      "title": "Bizarre Selfies: Wie Musk und Weidel auf X Performance machen",
-      "teaser": "Millionen Nutzer verfolgen das Gespräch der Selbstdarsteller. Experten sehen darin eine beunruhigende Transformation des politischen Systems. Knalleffekt für die AfD?",
-      "url": "https://www.heise.de/tp/features/Bizarre-Selfies-Wie-Musk-und-Weidel-auf-X-Performance-machen-10236276.html",
-      "image_title": "Hände eines Hirten, möglicherweise göttlicher Berufung, locken ein Schaf"
+      "title": "Selenskyjs Pipeline-Aus: Ein Eigentor für die Ukraine?",
+      "teaser": "Selenskyj stoppt Gastransit durch die Ukraine. Ein riskanter Schritt, der nicht nur Europa, sondern auch die Ukraine selbst trifft. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Selenskyjs-Pipeline-Aus-Ein-Eigentor-fuer-die-Ukraine-10233477.html",
+      "image_title": "Zwei Männer geben sich vor einem Rednerpult die Hand"
     },
     {
-      "title": "Römisches Reich: Als Blei den IQ der Europäer senkte",
-      "teaser": "Neue Studie zeigt: Bleiverschmutzung durch Bergbau und Verhüttung im Römischen Reich könnte IQ der europäischen Bevölkerung um bis zu 3 Punkte gesenkt haben.",
-      "url": "https://www.heise.de/tp/features/Roemisches-Reich-Als-Blei-den-IQ-der-Europaeer-senkte-10234469.html",
-      "image_title": "Römische Silbermünzen"
+      "title": "Was Google aus unseren Bildern liest: Ex-Mitarbeiter veröffentlicht Analysetool",
+      "teaser": "Was weiß Google alles über uns, wenn wir unsere Fotos hochladen? Ein neues Tool zeigt, wie die KI des Konzerns Bilder bis ins kleinste Detail analysiert. Ein Selbstversuch.",
+      "url": "https://www.heise.de/tp/features/Was-Google-aus-unseren-Bildern-liest-Ex-Mitarbeiter-veroeffentlicht-Analysetool-10231885.html",
+      "image_title": "eine Lupe vor einem Bildschirm"
     },
     {
       "title": "NordPass für Unternehmen im Test",
