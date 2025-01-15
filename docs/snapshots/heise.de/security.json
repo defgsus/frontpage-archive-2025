@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-15T09:09:55",
+  "timestamp": "2025-01-15T10:09:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Typo3",
+      "url": "https://www.heise.de/news/CMS-Typo3-Entwickler-dichten-zehn-Sicherheitsluecken-ab-10243108.html"
+    },
+    {
       "title": "Zoom Workplace Apps & Jenkins-Plug-in",
       "url": "https://www.heise.de/news/Videokonferenzen-Zoom-stopft-mehrere-Sicherheitslecks-in-Workplace-Apps-10243023.html"
     },
@@ -44,26 +48,22 @@
       "url": "https://www.heise.de/news/Microsoft-Patchday-Angreifer-nutzen-drei-Luecken-in-Hyper-V-aus-10242955.html"
     },
     {
-      "title": "BeyondTrust PRA/RS, Qlik Sense",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-BeyondTrust-PRA-RS-und-Qlik-Sense-10241812.html"
+      "title": "CMS: Typo3-Entwickler dichten zehn Sicherheitslücken ab",
+      "teaser": "Das Content-Management-System Typo3 schließt mit aktualisierten Paketen zehn Sicherheitslücken.",
+      "url": "https://www.heise.de/news/CMS-Typo3-Entwickler-dichten-zehn-Sicherheitsluecken-ab-10243108.html",
+      "image_title": "Woman,Creating,Her,Own,Website,On,Computer, Wordpress, CMS, Bildschirm, Webseite,"
     },
     {
-      "title": "Videokonferenzen: Zoom stopft mehrere Sicherheitslecks in Workplace Apps",
+      "title": "E-Mails: Experten schleusen Fälschungen mittels geknackter DKIM-Schlüssel ein",
+      "teaser": "Mit geringem Aufwand brachten die Sicherheitsexperten drei Anbieter dazu, eine gefälschte E-Mail zu akzeptieren. Admins sollten ihr Mail-Setup checken.",
+      "url": "https://www.heise.de/news/E-Mails-Experten-schleusen-Faelschungen-mittels-geknackter-DKIM-Schluessel-ein-10242534.html",
+      "image_title": "Email,Marketing,Concept,,Company,Sending,Many,E-mails,Or,Digital,Newsletter"
+    },
+    {
+      "title": "Webkonferenzen: Zoom Workplace Apps mit Sicherheitslücken",
       "teaser": "In den Workplace Apps und im Jenkins Plug-in von Zoom klaffen Sicherheitslücken. Updates zum Abdichten der Lecks stehen bereit.",
       "url": "https://www.heise.de/news/Videokonferenzen-Zoom-stopft-mehrere-Sicherheitslecks-in-Workplace-Apps-10243023.html",
       "image_title": "Webkonferenz mit SMartphones als Kamera"
-    },
-    {
-      "title": "Adobe-Patchday: Gefährliche Sicherheitslücken in Photoshop & Co. geschlossen",
-      "teaser": "Angreifer können Adobe-Anwendungen attackieren, um Computer zu kompromittieren. Sicherheitsupdates schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Adobe-Patchday-Schadcode-Attacken-auf-Photoshop-Co-moeglich-10243019.html",
-      "image_title": "Laptop mit Adobe-Logo auf dem Display brennt"
-    },
-    {
-      "title": "Microsoft-Patchday: Angreifer nutzen drei Lücken in Hyper-V aus",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates unter anderem für Azure, Office und Windows veröffentlicht. Es laufen bereits Attacken.",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Angreifer-nutzen-drei-Luecken-in-Hyper-V-aus-10242955.html",
-      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
     },
     {
       "title": "\"Passwort\" Folge 23: Schnitzeljagd um ein Linux-Bootkit",
@@ -93,6 +93,17 @@
       "teaser": "Während Docker-Dateien fälschlicherweise Warnungen auslösten, hatte Bitdefender ein Sicherheitsproblem in macOS.",
       "url": "https://www.heise.de/news/Probleme-mit-Malware-Schutz-in-macOS-Bitdefender-und-Docker-betroffen-10242104.html",
       "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
+    },
+    {
+      "title": "Jetzt patchen! Attacken auf BeyondTrust PRA/RS und Qlik Sense",
+      "teaser": "Die US-Sicherheitsbehörde CISA warnt vor Attacken auf Fernzugriffssoftware von BeyondTrust und die Datenanalyselösung Qlik Sense Enterprise.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-BeyondTrust-PRA-RS-und-Qlik-Sense-10241812.html"
+    },
+    {
+      "title": "SAP-Patchday: Updates schließen 14 teils kritische Schwachstellen",
+      "teaser": "Im Januar bedenkt SAP Produkte mit 14 Sicherheitsmitteilungen und zugehörigen Updates. Zwei davon gelten als kritisch.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Hersteller-stopft-teils-kritische-SIcherheitsluecken-10241447.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "Gravy Analytics: Positionsdatensammler gibt Datenpanne zu",
@@ -151,18 +162,6 @@
       "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
       "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-10224797.html",
       "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails 6.11 stopft kritische Sicherheitslecks",
-      "teaser": "Die Linux-Distribution Tails zum Mitnehmen auf USB-Stick zum anonymen Surfen im Netz schließt mit Version 6.11 kritische Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-11-stopft-kritische-Sicherheitslecks-10236120.html",
-      "image_title": "Tails 6.11 Desktop auf Notebook"
-    },
-    {
-      "title": "LKA Niedersachsen warnt vor gefälschten Krypto-Anlageseiten",
-      "teaser": "Gefälschte Anzeigen mit berühmten Persönlichkeiten, die für Krypto-Anlagen werben, sind laut LKA Niedersachsen eine andauernde Bedrohung.",
-      "url": "https://www.heise.de/news/LKA-Niedersachsen-warnt-vor-gefaelschten-Krypto-Anlageseiten-10235653.html",
-      "image_title": "Programmierer vor dem Computer, Krimineller daneben zeigt mit Krypto-Coin in der Hand auf Codeschnippsel"
     },
     {
       "title": "C-Level Kommunikation",
