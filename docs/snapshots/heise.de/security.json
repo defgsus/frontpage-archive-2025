@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-16T09:09:25",
+  "timestamp": "2025-01-16T10:09:26",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Aruba Networking AOS Controllers",
+      "url": "https://www.heise.de/news/Es-kann-Schadcode-auf-HPE-Aruba-Networking-AOS-Controllers-und-Gateways-gelangen-10244669.html"
+    },
+    {
       "title": "Ivanti Application Control Engine, Avalanche, EPM",
       "url": "https://www.heise.de/news/Ivanti-schliesst-Luecken-in-Application-Control-Engine-Avalanche-und-EPM-10244653.html"
     },
@@ -44,8 +48,22 @@
       "url": "https://www.heise.de/news/Patchday-Fortinet-Hintertuer-ermoeglicht-unbefugte-Zugriffe-auf-FortiSwitch-10243684.html"
     },
     {
-      "title": "Typo3",
-      "url": "https://www.heise.de/news/CMS-Typo3-Entwickler-dichten-zehn-Sicherheitsluecken-ab-10243108.html"
+      "title": "Codefinger-Ransomware verschlüsselt Amazon-S3-Buckets",
+      "teaser": "Die Ransomware Codefinger verschlüsselt Daten in Amazon-S3-Buckets. Im Darknet kursieren viele AWS-Zugänge, die Tür und Tor dafür öffnen.",
+      "url": "https://www.heise.de/news/Codefinger-Ransomware-verschluesselt-Amazon-S3-Buckets-10244874.html",
+      "image_title": "Ein Krimineller versucht, Verschlüsselung/Login eines Rechners zu knacken"
+    },
+    {
+      "title": "Fehlerquelle OAuth: Daten von Mitarbeitern gescheiterter Start-ups gefährdet",
+      "teaser": "Fehlerquelle OAuth - wer seine Domains nicht korrekt schließt, riskiert Datenleck. Spätere Abhilfe gibt es nicht.",
+      "url": "https://www.heise.de/news/Fehler-in-Google-OAuth-Daten-von-Mitarbeitern-gescheiterter-Start-ups-gefaehrdet-10243898.html",
+      "image_title": "Schloss vor einer Tastatur"
+    },
+    {
+      "title": "Es kann Schadcode auf HPE Aruba Networking AOS Controllers und Gateways gelangen",
+      "teaser": "Netzwerktechnik von HPE Aruba ist verwundbar. Aktuelle Updates schließen insgesamt zwei Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Es-kann-Schadcode-auf-HPE-Aruba-Networking-AOS-Controllers-und-Gateways-gelangen-10244669.html",
+      "image_title": "Hand drückt auf \"Update\"-Button"
     },
     {
       "title": "Updates gegen Lecks in Ivanti Application Control Engine, Avalanche und EPM",
@@ -69,12 +87,6 @@
       "teaser": "Vollständige Konfigurationsdateien mit VPN-Passwörtern im Klartext: Eine Gruppe verschenkt diese Daten im Darknet. heise security liegt der Datensatz vor.",
       "url": "https://www.heise.de/news/Darknet-Konfigurationen-und-VPN-Passwoerter-von-Fortinet-Geraeten-aufgetaucht-10244015.html",
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Fehler in Google OAuth: Daten von Mitarbeitern gescheiterter Start-ups gefährdet",
-      "teaser": "Ein Sicherheitsforscher hat einen Fehler in Googles OAuth entdeckt, der Daten von Mitarbeitern ehemaliger Unternehmen gefährdet. Einen Fix gibt es bisher nicht.",
-      "url": "https://www.heise.de/news/Fehler-in-Google-OAuth-Daten-von-Mitarbeitern-gescheiterter-Start-ups-gefaehrdet-10243898.html",
-      "image_title": "Schloss vor einer Tastatur"
     },
     {
       "title": "Cybergang Cl0p: Angeblich Daten durch Cleo-Sicherheitslücke abgezogen",
@@ -152,17 +164,6 @@
       "teaser": "Während Docker-Dateien fälschlicherweise Warnungen auslösten, hatte Bitdefender ein Sicherheitsproblem in macOS.",
       "url": "https://www.heise.de/news/Probleme-mit-Malware-Schutz-in-macOS-Bitdefender-und-Docker-betroffen-10242104.html",
       "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
-    },
-    {
-      "title": "Jetzt patchen! Attacken auf BeyondTrust PRA/RS und Qlik Sense",
-      "teaser": "Die US-Sicherheitsbehörde CISA warnt vor Attacken auf Fernzugriffssoftware von BeyondTrust und die Datenanalyselösung Qlik Sense Enterprise.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-BeyondTrust-PRA-RS-und-Qlik-Sense-10241812.html"
-    },
-    {
-      "title": "SAP-Patchday: Updates schließen 14 teils kritische Schwachstellen",
-      "teaser": "Im Januar bedenkt SAP Produkte mit 14 Sicherheitsmitteilungen und zugehörigen Updates. Zwei davon gelten als kritisch.",
-      "url": "https://www.heise.de/news/SAP-Patchday-Hersteller-stopft-teils-kritische-SIcherheitsluecken-10241447.html",
-      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "C-Level Kommunikation",
