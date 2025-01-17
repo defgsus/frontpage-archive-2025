@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-17T19:07:06",
+  "timestamp": "2025-01-17T20:09:29",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,10 +116,24 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Patrick Deneen : Was macht Trump als Nächstes, Herr Deneen?",
+      "teaser": "Er gilt als Einflüsterer von Amerikas Rechten. Hier erzählt Patrick Deneen, worüber Musk-Anhänger und Nationalisten streiten. Und wie Trump die US-Politik ausrichtet.",
+      "url": "https://www.zeit.de/kultur/2025-01/patrick-deneen-usa-donald-trump-konflikte-tech-industrie",
+      "image_url": "https://img.zeit.de/kultur/2025-01/patrick-deneen-usa-donald-trump-konflikte-tech-industrie-bild/wide__1000x562",
+      "image_title": "Patrick Deneen: STOCKHOLM 2019-08-19 Patrick J Deneen, amerikansk professor i stasvetenskap som skrivit boken Why liberalism failed"
+    },
+    {
+      "title": "Deepfakes : Die Ohnmacht angesichts dieser Bilder",
+      "teaser": "Deepfake-Pornos sind die neueste Art, wie mit Bildern sexualisierte Gewalt gegen Frauen verübt wird. Die Fallzahlen steigen rasant. Warum handelt die Politik noch nicht?",
+      "url": "https://www.zeit.de/kultur/2025-01/deep-fakes-ki-internet-misogynie-pornographie",
+      "image_url": "https://img.zeit.de/kultur/2025-01/deep-fakes-ki-internet-misogynie/super__430x286",
+      "image_title": "deep-fakes-ki-internet-misogynie"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Corona-Politik : \"Ich war zeitweise der beliebteste deutsche Politiker!\"",
       "teaser": "Karl Lauterbach ist stolz auf seine Corona-Politik. Die Autorin Thea Dorn findet: Er sollte sich für einiges lieber entschuldigen. Hier streiten sie miteinander.",
       "url": "https://www.zeit.de/2025/03/coronapolitik-karl-lauterbach-thea-dorn-pandemie",
-      "image_url": "https://img.zeit.de/2025/03/muessen-wir-noch-mal-ueber-corona-reden-bild-3/wide__1000x562",
+      "image_url": "https://img.zeit.de/2025/03/muessen-wir-noch-mal-ueber-corona-reden-bild-3/super__430x286",
       "image_title": "Corona-Politik: Thea Dorn und Karl Lauterbach - Streitgespräch über die Aufarbeitung der Corona-Politik DZ #03/2025"
     },
     {
@@ -122,18 +142,6 @@
       "url": "https://www.zeit.de/politik/ausland/2025-01/ukraine-lage-militaer-skandale-luftwaffe-deserteure-woche",
       "image_url": "https://img.zeit.de/politik/ausland/2025-01/ukraine-lage-militaer-skandale-luftwaffe-dersteure-woche-bild-syrskyj-selenskyj/super__430x286",
       "image_title": "Lage in der Ukraine: Ukraine's President Volodymyr Zelenskiy listens a report of Commander of the Ground Forces colonel general Oleksandr Syrskyi at a position near the front line, amid Russia's attack on Ukraine, in Donetsk region, Ukraine June 26, 2023. Ukrainian Presidential Press Service/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY."
-    },
-    {
-      "title": "Liveblog:Nahost : Israelische Regierung berät über Zustimmung zu Waffenruhe-Abkommen",
-      "teaser": "Das Sicherheitskabinett hat seine Zustimmung gegeben, nun berät die gesamte Regierung. Die Palästinensische Autonomiebehörde will künftig Gaza kontrollieren. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/nahost-krieg-israel-hamas-waffenruhe-gaza-live"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Selbstbestimmungsgesetz : Rechtsextremist Liebich heißt jetzt Marla-Svenja",
-      "teaser": "Eine rechtsextreme Person aus Halle beschäftigt seit Jahren deutsche Behörden. Nun hat sie ihren Namen und Geschlechtseintrag ändern lassen – nicht die erste Provokation.",
-      "url": "https://www.zeit.de/gesellschaft/2025-01/selbstbestimmungsgesetz-rechtsextremist-marla-svenja-liebich-geschlechtseintrag",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-01/sven-liebich-rechtsextremist-geschlechtseintrag-neonazi-vorname-bild/super__430x286",
-      "image_title": "Selbstbestimmungsgesetz: 2023-06-22 Rechtsextremist Sven Liebich sitzt im Amtsgericht, in dem die Hauptverhandlung fortgesetzt werden soll, auf der Anklagebank. Die Staatsanwaltschaft legt dem Angeklagten mehrere Straftaten in Verbindung mit wöchentlichen Veranstaltungen auf dem Marktplatz in Halle zur Last."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); David Lynch : Im Himmel ist alles gut",
@@ -157,18 +165,11 @@
       "image_title": "Kompromisskultur: Am Ende geben sich die Schweizer Politikerinnen und Politiker meist doch noch die Hand."
     },
     {
-      "title": "Raumfahrt : Starship-Rakete von Space X muss vorerst am Boden bleiben",
-      "teaser": "Nach der Explosion der Starship-Rakete von Elon Musk bei einem Testflug fordert die US-Luftfahrtbehörde eine Untersuchung. Vorerst darf die Rakete nicht mehr starten.",
-      "url": "https://www.zeit.de/wissen/2025-01/raumfahrt-starship-rakete-elon-musk-explosion-untersuchung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2025-01/spacex-starship/super__430x286",
-      "image_title": "SpaceX Starship"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); TikTok-Verbot : Wird TikTok in den USA jetzt abgeschaltet?",
-      "teaser": "Das oberste US-Gericht bestätigt: TikTok muss bis Sonntag verkauft werden – oder es ist Schluss für die App in den USA. Hier erklären wir, was jetzt passiert.",
-      "url": "https://www.zeit.de/digital/2025-01/tiktok-verbot-usa-supreme-court-verkauf",
-      "image_url": "https://img.zeit.de/digital/2025-01/tiktok-usa-verbot-us-supreme-court/super__430x286",
-      "image_title": "TikTok-Verbot: Wird TikTok in den USA jetzt abgeschaltet?"
+      "title": "Liveblog:Nahost : Israelische Regierung berät über Zustimmung zu Waffenruhe-Abkommen",
+      "teaser": "Das Sicherheitskabinett hat seine Zustimmung gegeben, nun berät die gesamte Regierung. Die Palästinensische Autonomiebehörde will künftig Gaza kontrollieren. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/nahost-krieg-israel-hamas-waffenruhe-gaza-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/benjamin-netanjahu/super__430x286",
+      "image_title": "Benjamin Netanjahu"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schlafprobleme : Das Grübeln hört nachts nicht auf? So klappt es mit dem Einschlafen",
@@ -185,11 +186,11 @@
       "image_title": "Sterilisierung von Frauen: Eine Sterilisation ist im Vergleich zu einem \"Brazilian Butt Lift\" ein ungefährlicher Routineeingriff."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kinderbetreuung • Z+ Empfehlung : \"Es ist eine empirische Tatsache: Kinder werden zur Randerscheinung\"",
-      "teaser": "Kinder verbringen viel Zeit in Kita und Schule, doch die sind überfordert. Der Soziologe El-Mafaalani erklärt, warum sich das nicht ändert – und Boomer die Rettung sind.",
-      "url": "https://www.zeit.de/2025/03/kinderbetreuung-muetter-kindergarten-schule-demografischer-wandel",
-      "image_url": "https://img.zeit.de/2025/03/der-staat-kann-nicht-die-muetter-ersetzen-bild-2/super__430x286",
-      "image_title": "Kinderbetreuung • Z+ Empfehlung: Aladin El-Mafaalani fotografiert am Campus der TU Dortmund ++++++++++<br /> Aladin El-Mafaalani fotografiert am Campus der TU Dortmund"
+      "title": "Z+ (abopflichtiger Inhalt); Selbstbestimmungsgesetz : Rechtsextremist Liebich heißt jetzt Marla-Svenja",
+      "teaser": "Eine rechtsextreme Person aus Halle beschäftigt seit Jahren deutsche Behörden. Nun hat sie ihren Namen und Geschlechtseintrag ändern lassen – nicht die erste Provokation.",
+      "url": "https://www.zeit.de/gesellschaft/2025-01/selbstbestimmungsgesetz-rechtsextremist-marla-svenja-liebich-geschlechtseintrag",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-01/sven-liebich-rechtsextremist-geschlechtseintrag-neonazi-vorname-bild/super__430x286",
+      "image_title": "Selbstbestimmungsgesetz: 2023-06-22 Rechtsextremist Sven Liebich sitzt im Amtsgericht, in dem die Hauptverhandlung fortgesetzt werden soll, auf der Anklagebank. Die Staatsanwaltschaft legt dem Angeklagten mehrere Straftaten in Verbindung mit wöchentlichen Veranstaltungen auf dem Marktplatz in Halle zur Last."
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -199,18 +200,18 @@
       "image_title": "Waldbrände in Kalifornien: Warum dieses Haus noch steht"
     },
     {
-      "title": "Inauguration : Donald Trumps Vereidigung wird ins Kapitol verlegt",
-      "teaser": "Die Vereidigung von Donald Trump kann wegen extremer Kälte nicht vor der Fassade des Kapitols stattfinden. Die Präsidentenparade wird in einer Mehrzweckhalle abgehalten.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/us-praesident-donald-trump-amtseinfuehrung-kapitol",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/trump-amtseinfuehrung-capitol-bild/super__430x286",
-      "image_title": "Inauguration: January 16, 2025, Washington, D.C, California, U.S: Snow falls at night during a storm outside of the U.S. Capitol Building in Washington, D.C. Washington, D.C U.S - ZUMAa303 20250116_znp_a303_003 Copyright: xMarkxAlfredx"
+      "title": "Raumfahrt : Starship-Rakete von SpaceX muss vorerst am Boden bleiben",
+      "teaser": "Nach der Explosion der Starship-Rakete von Elon Musk bei einem Testflug fordert die US-Luftfahrtbehörde eine Untersuchung. Vorerst darf die Rakete nicht mehr starten.",
+      "url": "https://www.zeit.de/wissen/2025-01/raumfahrt-starship-rakete-elon-musk-explosion-untersuchung",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2025-01/spacex-starship/super__430x286",
+      "image_title": "SpaceX Starship"
     },
     {
-      "title": "Deutschland-Monitor : 40 Prozent der Deutschen unzufrieden mit Demokratie",
-      "teaser": "Hinter der Idee der Demokratie stehen einer Umfrage zufolge fast alle Bundesbürger, mit ihrem Funktionieren sind viele unzufrieden. Besonders im Osten gibt es Kritik.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/deutschland-monitor-studie-demokratie-kritik",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/demokratie-deutschland/super__430x286",
-      "image_title": "Demokratie Deutschland"
+      "title": "Z+ (abopflichtiger Inhalt); TikTok-Verbot : Wird TikTok in den USA jetzt abgeschaltet?",
+      "teaser": "Das oberste US-Gericht bestätigt: TikTok muss bis Sonntag verkauft werden – oder es ist Schluss für die App in den USA. Hier erklären wir, was jetzt passiert.",
+      "url": "https://www.zeit.de/digital/2025-01/tiktok-verbot-usa-supreme-court-verkauf",
+      "image_url": "https://img.zeit.de/digital/2025-01/tiktok-usa-verbot-us-supreme-court/super__430x286",
+      "image_title": "TikTok-Verbot: Wird TikTok in den USA jetzt abgeschaltet?"
     },
     {
       "title": "Ausgabe 03/2025 : Popkultur. Willkommen im Wochenende.",
@@ -262,18 +263,11 @@
       "image_title": "Bundeswehr: Hilfe, mein Sohn will zur Bundeswehr!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Brad Pitt : Liebe auf den ersten Fake",
-      "teaser": "Eine Frau hat alles, was sie hatte, einem Mann gegeben, der sich als Brad Pitt ausgab. Wie dumm kann man sein? So dumm, dass es jedem passieren könnte.",
-      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2025-01/brad-pitt-love-scam",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/04/liebe-leute-bild-1/super__430x286",
-      "image_title": "Brad Pitt: Was würden Sie tun, wenn dieser Mann Ihnen auf Instagram schreibt?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ernährung beim Abnehmen : Woher weiß ich, wann ich satt bin?",
-      "teaser": "Essen, wenn man Hunger hat – aufhören, wenn man satt ist? Können viele nicht. Wer sich gesünder ernähren will, braucht einen Reset. Dabei hilft eine Skala.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/ernaehrung-abnehmen-gesundheit-saettigung-hunger",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-01/ernaehrung-abnehmen-gesundheit-saettigung-hunger-teaserb-abtest/super__430x286",
-      "image_title": "Ernährung beim Abnehmen: Woher weiß ich, wann ich satt bin?"
+      "title": "Deutschland-Monitor : 40 Prozent der Deutschen unzufrieden mit Demokratie",
+      "teaser": "Hinter der Idee der Demokratie stehen einer Umfrage zufolge fast alle Bundesbürger, mit ihrem Funktionieren sind viele unzufrieden. Besonders im Osten gibt es Kritik.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/deutschland-monitor-studie-demokratie-kritik",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/demokratie-deutschland/super__430x286",
+      "image_title": "Demokratie Deutschland"
     },
     {
       "title": "Folge 20 : Darum misstrauen Sie Wahlversprechen",
@@ -416,25 +410,11 @@
       "image_title": "Gesünder leben: Mehr Sport, weniger Kohlenhydrate essen und am besten noch auf Alkohol verzichten – wer sich zu viel vornimmt, macht am Ende oft gar nichts. Doch es gibt Vorsätze, die sich leichter umsetzen lassen und von denen unsere Gesundheit trotzdem profitiert."
     },
     {
-      "title": "Bundesliga-Vorschau : Fazit: \"Scheißsaison\"",
-      "teaser": "Dank Andrej Kramarićs ehrlichem Feedback lohnt sich aktuell sogar der Blick nach Hoffenheim. Und rettet Manchester City Nuri Şahin? Der 18. Spieltag",
-      "url": "https://www.zeit.de/sport/2025-01/bundesliga-vorschau-tsg-hoffenheim-omar-marmoush-borussia-dortmund",
-      "image_url": "https://img.zeit.de/sport/2025-01/bundesliga-vorschau-tsg-hoffenheim-andrej-kramaric-bild/super__430x286",
-      "image_title": "Bundesliga-Vorschau: \"Würde ich alles sagen, was in meinem Kopf ist, würde ich die größte Strafe der Bundesliga bekommen\", sagte Andrej Kramarić nach dem 0:5 in München."
-    },
-    {
-      "title": "Luftfahrt : Lufthansa startet Übernahme von ITA Airways",
-      "teaser": "Die Lufthansa ist bei der italienischen Fluggesellschaft ITA Airways eingestiegen. Zunächst übernimmt die deutsche Airline 41 Prozent der Anteile – der Rest soll folgen.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2025-01/luftfahrt-lufthansa-ita-airways-uebernahme",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2025-01/ita-airways-lufthansa-group/super__430x286",
-      "image_title": "ITA Airways Lufthansa Group"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krankmeldungen : Los, los ins Büro",
-      "teaser": "Den Krankenstand aktiv zu senken, ist das Ziel jeder Firma. Nur wie? Über eine Agenturchefin, die daran verzweifelte – und einen Betrieb, der den Schlüssel gefunden hat.",
-      "url": "https://www.zeit.de/arbeit/2025-01/krankmeldungen-arbeitnehmer-krankenstand-senkung",
-      "image_url": "https://img.zeit.de/arbeit/2025-01/krankmeldungen-arbeitnehmer-krankenstand/super__430x286",
-      "image_title": "Krankmeldungen: Los, los ins Büro"
+      "title": "Z+ (abopflichtiger Inhalt); Brad Pitt : Liebe auf den ersten Fake",
+      "teaser": "Eine Frau hat alles, was sie hatte, einem Mann gegeben, der sich als Brad Pitt ausgab. Wie dumm kann man sein? So dumm, dass es jedem passieren könnte.",
+      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2025-01/brad-pitt-love-scam",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/04/liebe-leute-bild-1/super__430x286",
+      "image_title": "Brad Pitt: Was würden Sie tun, wenn dieser Mann Ihnen auf Instagram schreibt?"
     },
     {
       "title": "Diese Woche in der ZEIT : Radikal entfesselt",
@@ -465,16 +445,16 @@
       "image_title": "Deutscher Bauernkrieg: Bauernkriege: Die Schlacht bei Frankenhausen am 15. Mai 1525 (nach einer Lithographie von Theodor Hosemann, 1861)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Alice Weidel : Ihr wahres Gesicht",
-      "teaser": "Alice Weidel tritt so radikal auf wie nie. Ist das Überzeugung oder Opportunismus? In ihrer Heimat kommt man einer Antwort näher.",
-      "url": "https://www.zeit.de/2025/03/alice-weidel-afd-rechtspopulismus-parteitag",
-      "image_url": "https://img.zeit.de/2025/03/ihr-wahres-gesicht-bild-1/super__430x286",
-      "image_title": "Alice Weidel: Alice Weidel setzt nicht darauf, in diesem Jahr Kanzlerin zu werden. Sie möchte, dass Friedrich Merz scheitert. Dann sei es so weit."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Wärmepumpe : Warum die Wärmepumpe in Deutschland so teuer ist",
       "teaser": "Nirgends in Europa kostet der Einbau einer Wärmepumpe so viel und dauert so lange wie in Deutschland. Bereichern sich die Installateure an der Förderung?",
-      "url": "https://www.zeit.de/wirtschaft/2025-01/waermepumpe-heizung-finanzen-foerderung-deutsche-umwelthilfe"
+      "url": "https://www.zeit.de/wirtschaft/2025-01/waermepumpe-heizung-finanzen-foerderung-deutsche-umwelthilfe",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-01/waermepumpe-heizung-finanzen-foerderung-deutsche-umwelthilfe-bild/super__430x286",
+      "image_title": "Wärmepumpe: Warum die Wärmepumpe in Deutschland so teuer ist"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Alice Weidel : Ihr wahres Gesicht",
+      "teaser": "Alice Weidel tritt so radikal auf wie nie. Ist das Überzeugung oder Opportunismus? In ihrer Heimat kommt man einer Antwort näher.",
+      "url": "https://www.zeit.de/2025/03/alice-weidel-afd-rechtspopulismus-parteitag"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kinderbetreuung • Z+ Empfehlung : \"Es ist eine empirische Tatsache: Kinder werden zur Randerscheinung\"",
@@ -544,11 +524,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Nato-Mitglied : Litauische Regierung will Militärausgaben deutlich steigern",
-      "teaser": "Litauen hat angekündigt, seine Verteidigungsausgaben auf mindestens 5 Prozent des Bruttoinlandsproduktes zu erhöhen. Geplant ist unter anderem ein Panzerbataillon.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/litauen-vertiedigungsausgaben-5-prozent",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/litauen-verteidigungsausgaben/wide__892x501",
-      "image_title": "Litauen Verteidigungsausgaben"
+      "title": "Inauguration : Donald Trumps Vereidigung wird ins Kapitol verlegt",
+      "teaser": "Die Vereidigung von Donald Trump kann wegen extremer Kälte nicht vor der Fassade des Kapitols stattfinden. Die Präsidentenparade wird in einer Mehrzweckhalle abgehalten.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/us-praesident-donald-trump-amtseinfuehrung-kapitol",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/trump-amtseinfuehrung-capitol-bild/wide__892x501",
+      "image_title": "Inauguration: January 16, 2025, Washington, D.C, California, U.S: Snow falls at night during a storm outside of the U.S. Capitol Building in Washington, D.C. Washington, D.C U.S - ZUMAa303 20250116_znp_a303_003 Copyright: xMarkxAlfredx"
     },
     {
       "title": "Verlagsangebot : Online Schreib-Workshop – So schreiben Sie Ihre Geschichte",
@@ -558,18 +538,18 @@
       "image_title": "Online Schreib-Workshop – So schreiben Sie Ihre Geschichte"
     },
     {
-      "title": "USA : Donald Trump spricht mit Xi Jinping über TikTok",
-      "teaser": "China und die USA würden künftig \"gemeinsam\" Probleme lösen, sagt Donald Trump. Dazu könnte auch der ausstehende Verkauf von TikTok gehören.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/donald-trump-xi-jinping-telefonat-tiktok",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/trump/super__430x286",
-      "image_title": "Trump"
+      "title": "Nato-Mitglied : Litauische Regierung will Militärausgaben deutlich steigern",
+      "teaser": "Litauen hat angekündigt, seine Verteidigungsausgaben auf mindestens 5 Prozent des Bruttoinlandsproduktes zu erhöhen. Geplant ist unter anderem ein Panzerbataillon.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/litauen-vertiedigungsausgaben-5-prozent",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/litauen-verteidigungsausgaben/super__430x286",
+      "image_title": "Litauen Verteidigungsausgaben"
     },
     {
-      "title": "Internationaler Währungsfonds : IWF senkt Wachstumsprognose für Deutschland deutlich",
-      "teaser": "Der IWF senkt erneut die Prognose für Deutschland. Demnach wächst die Wirtschaft in diesem Jahr nur um 0,3 Prozent – 0,5 Prozentpunkte weniger als zuvor prognostiziert.",
-      "url": "https://www.zeit.de/wirtschaft/2025-01/internationaler-waehrungsfonds-deutschland-wirtschaftleistung-prognose",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-01/wachstumsprognose-wirtschaft-deutschland/wide__892x501",
-      "image_title": "Wachstumsprognose-wirtschaft-deutschland"
+      "title": "Luftfahrt : Lufthansa startet Übernahme von Ita Airways",
+      "teaser": "Die Lufthansa ist bei der italienischen Fluggesellschaft Ita Airways eingestiegen. Zunächst übernimmt die deutsche Airline 41 Prozent der Anteile – der Rest soll folgen.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2025-01/luftfahrt-lufthansa-ita-airways-uebernahme",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2025-01/ita-airways-lufthansa-group/wide__892x501",
+      "image_title": "ITA Airways Lufthansa Group"
     },
     {
       "title": "Verlagsangebot : Quiz: Wir lieben Schottland",
@@ -579,11 +559,11 @@
       "image_title": "Quiz: Wir lieben Schottland"
     },
     {
-      "title": "China : Chinas Wirtschaft wächst um mehr als fünf Prozent",
-      "teaser": "Anders als erwartet hat die chinesische Regierung ihr Wirtschaftsziel für 2024 doch noch erreicht. Die Industrieproduktion legte zu, der Einzelhandel brach ein.",
-      "url": "https://www.zeit.de/wirtschaft/2025-01/china-wirtschaftswachstum-fuenf-prozent",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/china-wachstum-wirtschaft-bild/super__430x286",
-      "image_title": "China: BEIJING, CHINA - NOVEMBER 07: Commuters and delivery drivers wait to cross an intersection at rush hour on November 7, 2024 in Beijing, China. This week, the Chinese government is expected to announce new fiscal measures aimed at boosting economic growth and consumer spending in the world's second largest economy."
+      "title": "Internationaler Währungsfonds : IWF senkt Wachstumsprognose für Deutschland deutlich",
+      "teaser": "Der IWF senkt erneut die Prognose für Deutschland. Demnach wächst die Wirtschaft in diesem Jahr nur um 0,3 Prozent – 0,5 Prozentpunkte weniger als zuvor prognostiziert.",
+      "url": "https://www.zeit.de/wirtschaft/2025-01/internationaler-waehrungsfonds-deutschland-wirtschaftleistung-prognose",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-01/wachstumsprognose-wirtschaft-deutschland/super__430x286",
+      "image_title": "Wachstumsprognose-wirtschaft-deutschland"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Alleinerziehende Frauen : \"2.000 Euro Miete brechen mir finanziell das Genick\"",
@@ -607,18 +587,18 @@
       "image_title": "Girokonto: Das beste Girokonto finden Sie jetzt auch mit staatlicher Hilfe"
     },
     {
-      "title": "Inflation : 86 Prozent der Tarifangestellten bekamen Inflationsausgleich",
-      "teaser": "Im Durchschnitt haben Tarifbeschäftigte in den letzten zwei Jahren 2.680 Euro Inflationsausgleichsprämie erhalten. Doch zwischen den Branchen gibt es große Unterschiede.",
-      "url": "https://www.zeit.de/arbeit/2025-01/arbeit-inflationsausgleich-tarifbindung-oeffentlicher-dienst-einkommen-gehalt",
-      "image_url": "https://img.zeit.de/arbeit/2025-01/arbeit-inflationsausgleich-tarifbindung-oeffentlicher-dienst-einkommen-gehalt-bild/wide__892x501",
-      "image_title": "Inflation: Symbolbild Bauarbeiter: Construction workers are seen at a new condominium building project in Huerth, western Germany, on April 5, 2023."
+      "title": "Z+ (abopflichtiger Inhalt); Krankmeldungen : Los, los ins Büro",
+      "teaser": "Den Krankenstand aktiv zu senken, ist das Ziel jeder Firma. Nur wie? Über eine Agenturchefin, die daran verzweifelte – und einen Betrieb, der den Schlüssel gefunden hat.",
+      "url": "https://www.zeit.de/arbeit/2025-01/krankmeldungen-arbeitnehmer-krankenstand-senkung",
+      "image_url": "https://img.zeit.de/arbeit/2025-01/krankmeldungen-arbeitnehmer-krankenstand/wide__892x501",
+      "image_title": "Krankmeldungen: Los, los ins Büro"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Job kündigen : \"Ich begriff, dass ich gehen musste, damit es mir besser geht\"",
-      "teaser": "Ob nach 30 Jahren im Betrieb oder direkt nach dem Führungswechsel: Fünf Angestellte erzählen, weshalb sie gekündigt haben und die Entscheidung genau richtig war.",
-      "url": "https://www.zeit.de/arbeit/2025-01/job-kuendigen-angestellte-freiheit-beruf",
-      "image_url": "https://img.zeit.de/arbeit/2025-01/job-kuendigen-angestellte-freiheit-2/super__430x286",
-      "image_title": "Job kündigen: Wann ist Zeit, zu gehen? Diese Frage stellen sich viele Beschäftigte."
+      "title": "Leseraufruf : Wie viel verdienen Sie?",
+      "teaser": "In Deutschland spricht man selten über sein Gehalt oder darüber, was am Ende des Monats davon übrig bleibt. Wieso eigentlich? Erzählen Sie uns von Ihrem Kontoauszug!",
+      "url": "https://www.zeit.de/arbeit/2021-09/gehalt-einkommen-geld-leseraufruf",
+      "image_url": "https://img.zeit.de/arbeit/2025-01/gehalt-einkommen-geld/super__430x286",
+      "image_title": "Leseraufruf: Wie viel verdienen Sie?"
     },
     {
       "title": "Familie : Eltern bevorzugen laut Auswertung Töchter",
@@ -899,11 +879,11 @@
       "image_title": "Buchweizen: Das beste Getreide, das gar keines ist"
     },
     {
-      "title": "Tupperware : \"Jetzt haben wir den Salat\"",
-      "teaser": "Weggetuppert von der Billigkonkurrenz aus Fernost: Wie fühlt es sich an, vom Markt zu verschwinden? Eine Tupperdose bricht ihr Schweigen.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/upperware-dose-unternehmen-betriebsaufgabe-deutschland",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-01/tupperware-bild/super__430x286",
-      "image_title": "Tupperware: Women experiment with Tupperware at a Tupperware party in the USA, circa 1955. (Photo by Graphic House/Archive Photos/Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Ernährung beim Abnehmen : Woher weiß ich, wann ich satt bin?",
+      "teaser": "Essen, wenn man Hunger hat – aufhören, wenn man satt ist? Können viele nicht. Wer sich gesünder ernähren will, braucht einen Reset. Dabei hilft eine Skala.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/ernaehrung-abnehmen-gesundheit-saettigung-hunger",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025-01/ernaehrung-abnehmen-gesundheit-saettigung-hunger-teaserb-abtest/super__430x286",
+      "image_title": "Ernährung beim Abnehmen: Woher weiß ich, wann ich satt bin?"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -941,18 +921,18 @@
       "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
     },
     {
+      "title": "Tupperware : \"Jetzt haben wir den Salat\"",
+      "teaser": "Weggetuppert von der Billigkonkurrenz aus Fernost: Wie fühlt es sich an, vom Markt zu verschwinden? Eine Tupperdose bricht ihr Schweigen.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/upperware-dose-unternehmen-betriebsaufgabe-deutschland",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-01/tupperware-bild/wide__892x501",
+      "image_title": "Tupperware: Women experiment with Tupperware at a Tupperware party in the USA, circa 1955. (Photo by Graphic House/Archive Photos/Getty Images)"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Grünkohl mit Pinkel : Nordisch by Nature",
       "teaser": "Grünkohl mit Pinkel gehört zur norddeutschen Diät dazu. Unsere Autorin kennt das Gericht aus ihrer Kindheit – und alle Tricks, damit der Kohl süß statt bitter schmeckt.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-12/gruenkohl-pinkel-norddeutsch-kartoffel-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/gruenkohl-pinkel-norddeutsch-kartoffel-rezept-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-12/gruenkohl-pinkel-norddeutsch-kartoffel-rezept-bild/super__430x286",
       "image_title": "Grünkohl mit Pinkel: Grünkohl mit Pinkel"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mittagspause : Bleibt mir weg mit eurem Meal Prep!",
-      "teaser": "Früher hieß es Vorkochen, heute Meal Prep – und ist plötzlich ein tolles Konzept? Ja. Wenn man altes, matschiges Essen will, auf das man dann gar keine Lust mehr hat.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/meal-prep-ernaehrung-essen-geschmack",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/tupperware-meal-prep-bild/super__430x286",
-      "image_title": "Mittagspause: Bleibt mir weg mit eurem Meal Prep!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Rote-Bete-Tartine : Und dazu ein belegtes Brot mit Nitamago-Ei",
@@ -997,25 +977,25 @@
       "image_title": "Europäischer Gerichtshof: Tor zum Place du Commerce in Lissabon am 13. Dezember 2024: Französische, bulgarische und slowenische Gymnasiasten reisen im Rahmen eines von der EU finanzierten Erasmus-Austauschs nach Portugal, um das Bewusstsein für nachhaltige Entwicklung zu schärfen."
     },
     {
-      "title": "Verlagsangebot : Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
+    },
+    {
+      "title": "Bundesliga-Vorschau : Fazit: \"Scheißsaison\"",
+      "teaser": "Dank Andrej Kramarićs ehrlichem Feedback lohnt sich aktuell sogar der Blick nach Hoffenheim. Und rettet Manchester City Nuri Şahin? Der 18. Spieltag",
+      "url": "https://www.zeit.de/sport/2025-01/bundesliga-vorschau-tsg-hoffenheim-omar-marmoush-borussia-dortmund",
+      "image_url": "https://img.zeit.de/sport/2025-01/bundesliga-vorschau-tsg-hoffenheim-andrej-kramaric-bild/wide__892x501",
+      "image_title": "Bundesliga-Vorschau: \"Würde ich alles sagen, was in meinem Kopf ist, würde ich die größte Strafe der Bundesliga bekommen\", sagte Andrej Kramarić nach dem 0:5 in München."
     },
     {
       "title": "Borussia Dortmund : Vielleicht hätte Nuri nein sagen sollen",
       "teaser": "Unsere Kolumnistin hat ein Herz für Nuri Şahin. Doch wenn die Dortmunder mit jungen Spielern erfolgreich sein wollen, brauchen sie einen erfahrenen Coach.",
       "url": "https://www.zeit.de/sport/2025-01/borussia-dormund-nuri-sahin-fussball-gruenflaeche",
-      "image_url": "https://img.zeit.de/sport/2025-01/wochenende-03-borussia-dortmund-nuri-sahin-fussball-gruenflaeche-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/sport/2025-01/wochenende-03-borussia-dortmund-nuri-sahin-fussball-gruenflaeche-bild/super__430x286",
       "image_title": "Borussia Dortmund: Vielleicht hätte Nuri nein sagen sollen"
-    },
-    {
-      "title": "Tennis : Zverev zieht ins Achtelfinale der Australian Open ein",
-      "teaser": "Alexander Zverev besiegt in der dritten Runde den Briten Jacob Fearnley und wahrt die Chance auf seinen ersten Grand-Slam-Titel. Laura Siegemund scheidet hingegen aus.",
-      "url": "https://www.zeit.de/sport/2025-01/tennis-australian-open-zverev-achtelfinale",
-      "image_url": "https://img.zeit.de/sport/2025-01/australian-open-alexander-zverev-jacob-fearnley-bild/super__430x286",
-      "image_title": "Tennis: MELBOURNE, AUSTRALIA - JANUARY 17: Alexander Zverev of Germany plays a backhand against Jacob Fearnley of Great Britain in the Men's Singles Third Round during day six of the 2025 Australian Open at Melbourne Park on January 17, 2025 in Melbourne, Australia."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Lina Ghotmeh : \"Unsere Eingriffe werden wie Akupunktur sein\"",
@@ -1032,12 +1012,24 @@
       "image_title": "Hamburger Polizei: Eine Polizeistreife auf dem Hamburger Winterdom."
     },
     {
-      "title": "Bevorstehender Wechsel: Stürmer Marmoush gegen Dortmund nicht in Frankfurts Kader",
-      "url": "https://www.zeit.de/news/2025-01/17/medien-frankfurt-und-city-einig-ueber-marmoush-transfer"
+      "title": "3. Fußball-Liga: Jakob sieht Gelb-Rot: Aue verliert bei Härtel-Debüt",
+      "url": "https://www.zeit.de/news/2025-01/17/jakob-sieht-gelb-rot-aue-verliert-bei-haertel-debuet"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Doppelpacker Corredor rettet Darmstadt Remis",
+      "url": "https://www.zeit.de/news/2025-01/17/doppelpacker-corredor-rettet-darmstadt-remis"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Breitenreiter jubelt beim Comeback als Hannover-Coach",
+      "url": "https://www.zeit.de/news/2025-01/17/breitenreiter-jubelt-beim-comeback-als-hannover-coach"
     },
     {
       "title": "Unfälle: Frau stirbt bei Frontalzusammenstoß in Niederbayern",
       "url": "https://www.zeit.de/news/2025-01/17/frau-stirbt-bei-frontalzusammenstoss-in-niederbayern"
+    },
+    {
+      "title": "Bevorstehender Wechsel: Stürmer Marmoush unmittelbar vor Wechsel zu Man City",
+      "url": "https://www.zeit.de/news/2025-01/17/medien-frankfurt-und-city-einig-ueber-marmoush-transfer"
     },
     {
       "title": "Nahost-Konflikt: Streit wegen Palästina-Flagge - Prozess gegen Lehrer",
@@ -1050,18 +1042,6 @@
     {
       "title": "Vor Drogenhilfeeinrichtung: Toter an Straße in Hamburg-Harburg gefunden",
       "url": "https://www.zeit.de/news/2025-01/17/toter-an-strasse-in-hamburg-harburg-gefunden"
-    },
-    {
-      "title": "Migration: Waldheim soll dauerhafte Asylunterkunft bekommen",
-      "url": "https://www.zeit.de/news/2025-01/17/waldheim-soll-dauerhafte-asylunterkunft-bekommen"
-    },
-    {
-      "title": "Personalie: Muntendorf wird neue Chefin der Kunstfestspiele Herrenhausen",
-      "url": "https://www.zeit.de/news/2025-01/17/muntendorf-wird-neue-chefin-der-kunstfestspiele-herrenhausen"
-    },
-    {
-      "title": "Video-App: Tiktok unterliegt vor Oberstem Gericht der USA",
-      "url": "https://www.zeit.de/news/2025-01/17/tiktok-unterliegt-vor-oberstem-gericht-der-usa"
     }
   ]
 }
