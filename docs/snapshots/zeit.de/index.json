@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-18T14:06:58",
+  "timestamp": "2025-01-18T15:07:26",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,14 +116,28 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); USA gegen China : Das große Grabschen",
-      "teaser": "Donald Trump droht Panama und Grönland. Klingt einfach nur irre. Doch hinter dieser Außenpolitik verbirgt sich eine Logik: Alle Wege führen nach Peking.",
-      "url": "https://www.zeit.de/politik/2025-01/usa-china-donald-trump-aussenpolitik-groenland-panama",
-      "image_url": "https://img.zeit.de/politik/2025-01/usa-china-donald-trump-aussenpolitik-groenland/wide__1000x562",
-      "image_title": "USA gegen China: Das große Grabschen"
+      "title": "Z+ (abopflichtiger Inhalt); Internet : Social Media ist tot",
+      "teaser": "Instagram, Facebook und X sind asoziale Aufmerksamkeitsmaschinen. Ihr Konzept ging nie ganz auf. Weil es drei wesentliche Konstruktionsfehler gibt.",
+      "url": "https://www.zeit.de/digital/internet/2025-01/internet-social-media-instagram-facebook-x-plattformen",
+      "image_url": "https://img.zeit.de/digital/2025-01/social-media-tod/wide__1000x562",
+      "image_title": "Internet: Social Media ist tot"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Welternährungsprogramm der Vereinten Nationen : \"Die Lkw stehen bereit\"",
+      "title": "Z+ (abopflichtiger Inhalt); Konzernchefs in den USA : Es kommt dümmer, als man dachte",
+      "teaser": "Keine \"Zensur\", keine Diversity, kein Klimaschutz: Konzernchefs machen sich fit für Trump. Ihre Über-Unterwerfung lässt den Abgrund erkennen, der uns noch erwartet.",
+      "url": "https://www.zeit.de/kultur/2025-01/konzernchefs-usa-donald-trump-amtszeit-mark-zuckerberg",
+      "image_url": "https://img.zeit.de/kultur/2025-01/konzernchefs-usa-donald-trump-amtszeit-mark-3/super__430x286",
+      "image_title": "Konzernchefs in den USA: Es kommt dümmer, als man dachte"
+    },
+    {
+      "title": "US-Präsidentschaft : Merkel und Merz rufen EU vor Trumps Amtsantritt zum Zusammenhalt auf",
+      "teaser": "Zwei Tage vor Amtsübernahme des neuen US-Präsidenten fordern die Ex-Kanzlerin und der CDU-Kanzlerkandidat: Europa muss seine Interessen einen und Kräfte bündeln.",
+      "url": "https://www.zeit.de/politik/2025-01/angela-merkel-friedrich-merz-usa",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/angela-merkel-friedrich-merz-usa-bild/super__430x286",
+      "image_title": "US-Präsidentschaft: Neujahrsempfang der CDU NRW am 18.01.2025 in der Station Airport in Düsseldorf Angela Merkel ( Ehemalige Bundeskanzlerin )"
+    },
+    {
+      "title": "Welternährungsprogramm der Vereinten Nationen : \"Die Lkw stehen bereit\"",
       "teaser": "Mit der Waffenruhe sollen Hilfslieferungen wieder leichter nach Gaza kommen. Die \"Welternährungsprogramm\"-Sprecherin Abeer Etefa ist dennoch nur verhalten optimistisch.",
       "url": "https://www.zeit.de/politik/ausland/2025-01/wfp-abeer-etefa-gazastreifen-waffenruhe-zivilbevoelkerung",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-01/wfp-interview-gaza-bild/super__430x286",
@@ -131,18 +151,11 @@
       "image_title": "Waffenruhe in Nahost: Propalästinensischer Demonstrant in New York City nach der Verkündung des Waffenstillstands zwischen Israel und der Hamas"
     },
     {
-      "title": "Waffenruhe-Abkommen : Wie geht es nach Beginn der Waffenruhe weiter?",
-      "teaser": "Der Waffenruhe-Deal ist besiegelt. Die ersten Freilassungen von israelischen Geiseln und palästinensischen Häftlingen stehen bevor. Wie laufen die nächsten Schritte ab?",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/waffenruhe-geisel-abkommen-israel-gaza-naechste-schritte",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/nahost-gazastreifen-waffenruhe-wie-geht-es-weiter-faq-bild/super__430x286",
-      "image_title": "Waffenruhe-Abkommen: A woman sits with a child with salvaged footwear amidst debris and rubble at the site of Israeli bombardment on a residential block in Jalaa Street in Gaza City on January 14, 2025 amid the ongoing war in the Palestinian territory between Israel and Hamas. (Photo by Omar AL-QATTAA / AFP) (Photo by OMAR AL-QATTAA/AFP via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Matthias Miersch : \"Am Ende werden wir vorne liegen\"",
-      "teaser": "Matthias Miersch ist seit 100 Tagen Generalsekretär der SPD. Hier spricht er über teure Wahlkampfversprechen und den Glauben, dass auch der künftige Kanzler Scholz heißt.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/matthias-miersch-spd-generalsekretaer-partei-fehler-vision",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/matthias-miersch-spd-generalsekretaer/wide__892x501",
-      "image_title": "Matthias Miersch: \"Am Ende werden wir vorne liegen\""
+      "title": "Z+ (abopflichtiger Inhalt); Leben in Nahost : \"Vielleicht müssen wir fünfzig Jahre warten, bis wir Frieden haben\"",
+      "teaser": "Der junge Israeli Maor Friedman will zum Militär. Der Freund der Palästinenserin Tamara Hamdans ist in Israel in Haft. Sind diese jungen Menschen Feinde?",
+      "url": "https://www.zeit.de/2025/03/leben-nahost-israel-westjordanland-palaestina-jugendliche",
+      "image_url": "https://img.zeit.de/politik/2025-01/leben-nahost-israel-westjordanland-palaestina-jugendliche-bild-3/wide__892x501",
+      "image_title": "Leben in Nahost: \"Vielleicht müssen wir fünfzig Jahre warten, bis wir Frieden haben\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Weißensee in Kärnten : \"Die Arbeit wird gefährlicher\"",
@@ -159,18 +172,18 @@
       "image_title": "Genf: BU: 120.000 Menschen besuchen das Museum jedes Jahr ++++++++++<br /> Museum"
     },
     {
-      "title": "Herbert Kickl : FPÖ-Chef Herbert Kickl sagt Österreichs Verbleib in der EU zu",
-      "teaser": "Beim Neujahrstreffen der rechtspopulistischen FPÖ bekennt sich Parteichef Herbert Kickl erneut zur \"Festung Österreich\". Aus der EU austreten wolle er aber nicht.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/oesterreich-herbert-kickl-fpoe-eu-festung-migration",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/fpoe-herbert-kickl-zusicherung-verbleib-oesterreichs-in-eu-bild/super__430x286",
-      "image_title": "Herbert Kickl: Far-right Freedom Party (FPO) leader Herbert Kickl claps as he delivers a speech at the annual new year's meeting of his party in Voesendorf, Austria, January 18, 2025."
+      "title": "Z+ (abopflichtiger Inhalt); Familienleben in der Großstadt : \"Es geht nicht mehr. Ich will nicht mehr. Ich will nach Hause\"",
+      "teaser": "Die Dirfards erfüllten sich den Familientraum von Haus und Garten auf dem Land. Und merkten bald, dass das Dorf anonymer war als die Großstadt. Also zogen sie zurück.",
+      "url": "https://www.zeit.de/familie/2025-01/familienleben-grossstadt-land-kleinstadt-haus",
+      "image_url": "https://img.zeit.de/familie/2025-01/familienleben-grossstadt-land-kleinstadt-6/wide__892x501",
+      "image_title": "Familienleben in der Großstadt: \"Es geht nicht mehr. Ich will nicht mehr. Ich will nach Hause\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Küssen : Warum wir küssen",
-      "teaser": "Wer küsst, ballert Dopamin und Serotonin – und tauscht in zehn Sekunden 80 Millionen Bakterien aus. Nicht per se gesund. Aber die Evolution hat sich etwas dabei gedacht.",
-      "url": "https://www.zeit.de/wissen/2025-01/kuessen-gluecklich-reduziert-stress-schmerzen",
-      "image_url": "https://img.zeit.de/wissen/2025-01/kuessen-gluecklich-reduziert-stress-schmerzen-bild/wide__892x501",
-      "image_title": "Küssen: 1999 by Iacopo Pasqui"
+      "title": "Z+ (abopflichtiger Inhalt); Verzicht auf Alkohol • Das Beste aus Z+ : Fünf Jahre ohne Alkohol – eine ernüchternde Bilanz",
+      "teaser": "Wer nüchtern lebt, wird fitter, wacher, schlanker? Kann unser Autor nicht bestätigen. Er bemerkt viele negative Folgen. Die Bilanz? Fast ein Plädoyer fürs Weitertrinken.",
+      "url": "https://www.zeit.de/zeit-magazin/2025/02/verzicht-alkohol-veraenderung-koerper-gesundheit",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025-01/verzicht-alkohol-veraenderung-koerper-gesundheit-bild/super__430x286",
+      "image_title": "Verzicht auf Alkohol • Das Beste aus Z+: Fünf Jahre ohne Alkohol – eine ernüchternde Bilanz"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Erziehung in der Pubertät : \"Ein Freund sagte: Pubertät ist Payback-Time\"",
@@ -229,88 +242,32 @@
       "image_title": "Bundeswehr: Hilfe, mein Sohn will zur Bundeswehr!"
     },
     {
-      "title": "Sexuelle Belästigung : Sender entfernt wegen Zweifeln Berichte über Grünenpolitiker Gelbhaar",
-      "teaser": "Dem Abgeordneten Stefan Gelbhaar wurde sexuelle Belästigung vorgeworfen. Nun gibt es laut rbb Zweifel: \"Mit hoher Wahrscheinlichkeit\" existiert eine der Frauen gar nicht.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/stefan-gelbhaar-gruenen-politiker-sexuelle-belaestigung-vorwuerfe-zweifel",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/belaestigungsvorwuerfe-gegen-den-gruenen-bundestagsabgeordneten-stefan-gelbhaar/super__430x286",
-      "image_title": "Sexuelle Belästigung: Der Bundestagsabgeordnete Stefan Gelbhaar (Bündnis 90/Die Grünen) reagiert auf seine ausgebliebene Wiederwahl als Direktkandidat für den Wahlkreis Berlin-Pankow zur kommenden Bundestagswahl. Bei einer Versammlung am Abend beschlossen die Grünen statt Gelbhaar die Landesabgeordnete Julia Schneider ins Rennen zu schicken. +++ dpa-Bildfunk +++"
+      "title": "Matthias Miersch : \"Am Ende werden wir vorne liegen\"",
+      "teaser": "Matthias Miersch ist seit 100 Tagen Generalsekretär der SPD. Hier spricht er über teure Wahlkampfversprechen und den Glauben, dass auch der künftige Kanzler Scholz heißt.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/matthias-miersch-spd-generalsekretaer-partei-fehler-vision",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/matthias-miersch-spd-generalsekretaer/super__430x286",
+      "image_title": "Matthias Miersch: \"Am Ende werden wir vorne liegen\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Donald Trump : Alles, was Sie über Team Trump wissen sollten",
-      "teaser": "Radikale Hardliner, Loyalisten und Verschwörungstheoretiker werden die USA lenken. Wir zeigen die 17 wichtigsten Köpfe der nächsten Trump-Ära und welche Macht sie haben.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/team-trump-usa-regierungsposten-steckbriefe",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/team-trump-usa-regierungsposten/wide__892x501",
-      "image_title": "Donald Trump: Alles, was Sie über Team Trump wissen sollten"
+      "title": "Herbert Kickl : FPÖ-Chef Herbert Kickl sagt Österreichs Verbleib in der EU zu",
+      "teaser": "Beim Neujahrstreffen der rechtspopulistischen FPÖ bekennt sich Parteichef Herbert Kickl erneut zur \"Festung Österreich\". Aus der EU austreten wolle er aber nicht.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/oesterreich-herbert-kickl-fpoe-eu-festung-migration",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/fpoe-herbert-kickl-zusicherung-verbleib-oesterreichs-in-eu-bild/super__430x286",
+      "image_title": "Herbert Kickl: Far-right Freedom Party (FPO) leader Herbert Kickl claps as he delivers a speech at the annual new year's meeting of his party in Voesendorf, Austria, January 18, 2025."
     },
     {
-      "title": "Ukraine-Krieg : Drei Menschen durch russischen Angriff auf Kyjiw getötet",
-      "teaser": "Zum zweiten Mal innerhalb weniger Tage hat Russland die ukrainische Hauptstadt direkt angegriffen. Die Raketen wurden abgefangen, durch Trümmer starben trotzdem Menschen.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/russland-ukraine-krieg-angriff-kyjiw",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/russland-ukraine-krieg-angriff-kyjiw-bild/super__430x286",
-      "image_title": "Ukraine-Krieg: Police officers stand guard at a site of a Russian missile strike, amid Russia's attack on Ukraine, in Kyiv, Ukraine January 18, 2025."
+      "title": "Agrarprotest : Landwirte fordern bei Großdemonstration mehr politische Unterstützung",
+      "teaser": "Im Rahmen der Grünen Woche sind Tausende Landwirte durch das Regierungsviertel in Berlin gezogen. Sie werfen der Bundesregierung vor, Konzerninteressen zu priorisieren.",
+      "url": "https://www.zeit.de/gesellschaft/2025-01/demonstration-landwirte-agrarpolitik",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-01/demonstration-landwirte-agrarpolitik-bild/super__430x286",
+      "image_title": "Agrarprotest: Protesters take part in a demonstration titled \"We are fed up!\" and demanding a socially just agricultural transition, in front of the Reichstag building that houses teh Bundestag, lower house of parliament, in Berlin on January 18, 2025. The activists call on the next federal government and the EU to \"secure our livelihoods, social unity and a good life for people and animals, in urban and rural areas, in Germany and around the world!\""
     },
     {
-      "title": "Linkenparteitag : Linke setzt auf Mietendeckel und Senkung der Lebenshaltungskosten",
-      "teaser": "Die Linke kommt in Berlin zu ihrem Parteitag zusammen. In nur sechs Stunden will die ehemals zerstrittene Partei das Programm für die Bundestagswahl beschließen.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/parteitag-die-linke-parteivorsitzender-jan-van-aken",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/parteitag-die-linke-parteivorsitzender-jan-van-aken-bild/super__430x286",
-      "image_title": "Linkenparteitag: Jan van Aken, Bundesvorsitzender der Partei Die Linke, und Ines Schwerdtner, Bundesvorsitzende der Partei Die Linke, stehen vor Beginn des Bundesparteitags der Linken zur Bundestagswah 2025 in der Halle. Bei dem außerordentlichen Parteitag soll das Wahlprogramm der Partei beschlossen werden. +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Goldene Hühnersuppe : Super Suppensonne",
-      "teaser": "Wenn sich unser Hausstern, die Sonne, länger nicht am Himmel zeigt, muss man das Dämmerlicht mit ordentlich Kurkuma aufhellen. Zum Beispiel in dieser goldenen Suppe.",
-      "url": "https://www.zeit.de/zeit-magazin/2025/03/goldene-huehnersuppe-kartoffel-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/03/suppensonne-bild-1/wide__892x501",
-      "image_title": "Goldene Hühnersuppe: Super Suppensonne"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnung mit hohen Decken : Es liegt was in der Luft",
-      "teaser": "Hohe Decken fühlen sich an wie Freiheit, niedrige wie Gefängnis. Ob das wirklich so ist? Eine Selbstbefragung mit tatkräftiger Hilfe von Handwerkern und Wissenschaftlern",
-      "url": "https://www.zeit.de/zeit-magazin/2025/03/wohnung-hohe-decken-vorteile-konstruktion",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-01/wohnung-hohe-decken-vorteile-konstruktion-teaser/super__430x286",
-      "image_title": "Wohnung mit hohen Decken: Es liegt was in der Luft"
-    },
-    {
-      "title": "Nachrichtenpodcast : Ist Friedrich Merz jetzt Antifaschist?",
-      "teaser": "Der CDU-Vorsitzende beschwört die Brandmauer, in Österreich stürzt sie ein. Und die Rechtsradikalen werden immer stärker. Warum es jetzt auf die Konservativen ankommt.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/rechtsextremismus-friedrich-merz-cdu-afd-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2025-01/was-jetzt-wahlkreis-moderation/super__430x286",
-      "image_title": "Nachrichtenpodcast: Ist Friedrich Merz jetzt Antifaschist?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Muskelbotenstoffe : Wie Muskeln unseren Körper heilen",
-      "teaser": "Wer Sport macht, aktiviert eine Geheimwaffe: Muskelbotenstoffe. Sie verjüngen das Gehirn, schmelzen Fett und stoppen Krebs. Wie viel Training es braucht, sie zu wecken.",
-      "url": "https://www.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport",
-      "image_url": "https://img.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport-teaser/super__430x286",
-      "image_title": "Muskelbotenstoffe: Wie Muskeln unseren Körper heilen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Geld sparen : Sparen ohne Verzicht? Mit diesen Tricks klappt's",
-      "teaser": "Sie würden gerne mehr Geld zurücklegen, aber wollen sich nicht einschränken? Wir erklären, wie man mit minimalem Aufwand ziemlich viel sparen kann.",
-      "url": "https://www.zeit.de/geld/2024-12/geld-sparen-tipps-finanzen-anlage",
-      "image_url": "https://img.zeit.de/geld/2024-12/geld-sparen-tipps-finanzen/super__430x286",
-      "image_title": "Geld sparen: Sparen ohne Verzicht? Mit diesen Tricks klappt's"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bindungsorientierte Erziehung : Wie viel Nähe braucht ein Kind?",
-      "teaser": "Das Psychologenpaar Karin und Klaus Grossmann hat erforscht, wie frühe Bindungen sich auf die Psyche auswirken. Hier erklären sie, wie Eltern feinfühlig handeln können.",
-      "url": "https://www.zeit.de/2023/54/bindungsorientierte-erziehung-bindungstheorie-bowlby-psychologie",
-      "image_url": "https://img.zeit.de/2023/54/wie-viel-naehe-braucht-ein-kind-herr-und-frau-grossmann-bild-1/super__430x286",
-      "image_title": "Bindungsorientierte Erziehung: Karin und Klaus Grossmann, 81 und 88, begründeten die Bindungsforschung in Deutschland. Ihre Längsschnittstudien veränderten den Blick auf Kinder und brachten ihnen international Anerkennung. Klaus Grossmann war bis 2003 Psychologieprofessor an der Universität Regensburg, Karin Grossmann forschte in seinem Team und gab das Wissen an Fachpersonal weiter"
-    },
-    {
-      "title": "Hybride Kriegsführung : Wenn der Anker zur Waffe wird",
-      "teaser": "Schiffe aus Russland und China stehen im Verdacht, kritische Unterwasser-Infrastruktur zu beschädigen. Was genau steckt hinter diesen Attacken?",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/chinesische-sabotage-taiwan-ostsee-infrastruktur-unterwasserkabel-stromkabel",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/chinesische-sabotage-taiwan-ostsee-infrastruktur-unterwasserkabel-stromkabel-bild/super__430x286",
-      "image_title": "Hybride Kriegsführung: The Chinese ship, the bulk carrier Yi Peng 3 is anchored and being monitored by a Danish naval patrol vessel (unseen) in the sea of Kattegat, near the City og Granaa in Jutland, Denmark, on November 20, 2024. Denmark's navy said on November 20, 2024 it was shadowing a Chinese cargo vessel in the Baltic Sea, a day after Finland and Sweden opened investigations into suspected sabotage of two severed undersea telecoms cables. \"The Danish Defence can confirm that we are present in the area near the Chinese ship Yi Peng 3,\" the military wrote in an email to AFP, adding that it would make no further comment for the time-being. (Photo by Mikkel Berg Pedersen / Ritzau Scanpix / AFP) / Denmark OUT (Photo by MIKKEL BERG PEDERSEN/Ritzau Scanpix/AFP via Getty Images)"
-    },
-    {
-      "title": "Brände in Kalifornien : Erneute Starkwinde könnten Brände bei Los Angeles anfachen",
-      "teaser": "Die Feuergefahr in Los Angeles hält an. Der Wetterdienst warnt davor, dass die Santa-Ana-Winde zurückkehren, die die Flammen wieder antreiben könnten.",
-      "url": "https://www.zeit.de/wissen/2025-01/braende-kalifornien-feuer-starkwinde",
-      "image_url": "https://img.zeit.de/wissen/2025-01/die-feuergefahr-in-los-angeles-bleibt-der-wetterdienst-warnt-vor-erneuten-winden-die-die-braende-anfachen-koennten/super__430x286",
-      "image_title": "Brände in Kalifornien: PASADENA, CALIFORNIA - JANUARY 17: A California Conservation Corps fire crew gathers during a meeting before beginning their shift at the Rose Bowl Stadium on January 17, 2025 in Pasadena, California. Multiple wildfires fueled by intense Santa Ana Winds are burning across Los Angeles County. Reportedly at least 10 people have died with over 180,000 people having been under evacuation orders. Over 9,000 structures have been damaged or burned while more than more than 25,000 acres were burning from the fires. (Photo by Brandon Bell/Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Elphinstone-Riff : Gebt mir Haie!",
+      "teaser": "Im Roten Meer will sich unser Autor den größten Traum seines Taucherlebens erfüllen – und findet sein kleines Glück in einer Seegraswiese.",
+      "url": "https://www.zeit.de/2025/03/elphinstone-riff-tauchen-rotes-meer-urlaub",
+      "image_url": "https://img.zeit.de/2025/03/elphinstone-riff-tauchen-rotes-meer-bild-1/wide__892x501",
+      "image_title": "Elphinstone-Riff: Unser Autor trifft beim Tauchen auf eine Meeresschildkröte."
     },
     {
       "title": "Folge 20 : Darum misstrauen Sie Wahlversprechen",
@@ -432,18 +389,93 @@
       "image_title": "Sprachnachricht: \"Rechtsradikale sollten nicht im Parlament arbeiten dürfen\""
     },
     {
-      "title": "Wintersport : Biathlon-Rekordsieger Johannes Thingnes Bø kündigt Karriereende an",
-      "teaser": "Früher als geplant gab der norwegische Biathlon-Ausnahmesportler Bø sein Karriereende für dieses Frühjahr bekannt. Er will nun seine Familie in den Vordergrund stellen.",
-      "url": "https://www.zeit.de/sport/2025-01/biathlon-johannes-thingnes-boe-karierreende",
-      "image_url": "https://img.zeit.de/sport/2025-01/biathlon-johannes-thingnes-boe-karierreende-bild/super__430x286",
-      "image_title": "Wintersport: Norway's Johannes Thingnes Bo competes during the men's 4x7.5 km relay event of the IBU Biathlon World Cup in Ruhpolding, southern Germany on January 17, 2025. (Photo by Tobias SCHWARZ / AFP) (Photo by TOBIAS SCHWARZ/AFP via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); USA gegen China : Das große Grabschen",
+      "teaser": "Donald Trump droht Panama und Grönland. Klingt einfach nur irre. Doch hinter dieser Außenpolitik verbirgt sich eine Logik: Alle Wege führen nach Peking.",
+      "url": "https://www.zeit.de/politik/2025-01/usa-china-donald-trump-aussenpolitik-groenland-panama",
+      "image_url": "https://img.zeit.de/politik/2025-01/usa-china-donald-trump-aussenpolitik-groenland/super__430x286",
+      "image_title": "USA gegen China: Das große Grabschen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Alex Kapranos : \"Lass die Pilze in Ruhe, wenn sie in der Pfanne braten\"",
-      "teaser": "Immer nur ein halber Grieche, aber kochen kann er: Alex Kapranos, Sänger der Band Franz Ferdinand, über Furcht, Melancholie und Samtanzüge.",
-      "url": "https://www.zeit.de/zeit-magazin/2025/03/alex-kapranos-ratschlaege-leben",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/03/was-ich-gern-frueher-gewusst-haette-bild-1/super__430x286",
-      "image_title": "Alex Kapranos: \"Lass die Pilze in Ruhe, wenn sie in der Pfanne braten\""
+      "title": "Z+ (abopflichtiger Inhalt); Donald Trump : Alles, was Sie über Team Trump wissen sollten",
+      "teaser": "Radikale Hardliner, Loyalisten und Verschwörungstheoretiker werden die USA lenken. Wir zeigen die 17 wichtigsten Köpfe der nächsten Trump-Ära und welche Macht sie haben.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/team-trump-usa-regierungsposten-steckbriefe",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/team-trump-usa-regierungsposten/wide__892x501",
+      "image_title": "Donald Trump: Alles, was Sie über Team Trump wissen sollten"
+    },
+    {
+      "title": "Wie politisch darf sie sein?",
+      "teaser": "Die Pfarrerin Brigitte Lammert hisste eine Regenbogenfahne an ihrer Kirche in Pirna. Dafür gab es Anfeindungen. Jetzt sucht sie nach einem Mittelweg.",
+      "url": "https://www.zeit.de/2025/03/politik-religion-regenbogenfahne-pfarrerin",
+      "image_url": "https://img.zeit.de/2025/03/wie-politisch-darf-kirche-sein-bild-5/super__430x286",
+      "image_title": "\"Ich sehe es als meine Aufgabe an, der Gemeinde Hoffnung zu machen\", sagt Pfarrerin Brigitte Lammert."
+    },
+    {
+      "title": "Ukraine-Krieg : Drei Menschen durch russischen Angriff auf Kyjiw getötet",
+      "teaser": "Zum zweiten Mal innerhalb weniger Tage hat Russland die ukrainische Hauptstadt direkt angegriffen. Die Raketen wurden abgefangen, durch Trümmer starben trotzdem Menschen.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/russland-ukraine-krieg-angriff-kyjiw",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/russland-ukraine-krieg-angriff-kyjiw-bild/super__430x286",
+      "image_title": "Ukraine-Krieg: Police officers stand guard at a site of a Russian missile strike, amid Russia's attack on Ukraine, in Kyiv, Ukraine January 18, 2025."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Küssen : Warum wir küssen",
+      "teaser": "Wer küsst, ballert Dopamin und Serotonin – und tauscht in zehn Sekunden 80 Millionen Bakterien aus. Nicht per se gesund. Aber die Evolution hat sich etwas dabei gedacht.",
+      "url": "https://www.zeit.de/wissen/2025-01/kuessen-gluecklich-reduziert-stress-schmerzen",
+      "image_url": "https://img.zeit.de/wissen/2025-01/kuessen-gluecklich-reduziert-stress-schmerzen-bild/super__430x286",
+      "image_title": "Küssen: 1999 by Iacopo Pasqui"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Goldene Hühnersuppe : Super Suppensonne",
+      "teaser": "Wenn sich unser Hausstern, die Sonne, länger nicht am Himmel zeigt, muss man das Dämmerlicht mit ordentlich Kurkuma aufhellen. Zum Beispiel in dieser goldenen Suppe.",
+      "url": "https://www.zeit.de/zeit-magazin/2025/03/goldene-huehnersuppe-kartoffel-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/03/suppensonne-bild-1/super__430x286",
+      "image_title": "Goldene Hühnersuppe: Super Suppensonne"
+    },
+    {
+      "title": "Nachrichtenpodcast : Ist Friedrich Merz jetzt Antifaschist?",
+      "teaser": "Der CDU-Vorsitzende beschwört die Brandmauer, in Österreich stürzt sie ein. Und die Rechtsradikalen werden immer stärker. Warum es jetzt auf die Konservativen ankommt.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/rechtsextremismus-friedrich-merz-cdu-afd-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2025-01/was-jetzt-wahlkreis-moderation/super__430x286",
+      "image_title": "Nachrichtenpodcast: Ist Friedrich Merz jetzt Antifaschist?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Muskelbotenstoffe : Wie Muskeln unseren Körper heilen",
+      "teaser": "Wer Sport macht, aktiviert eine Geheimwaffe: Muskelbotenstoffe. Sie verjüngen das Gehirn, schmelzen Fett und stoppen Krebs. Wie viel Training es braucht, sie zu wecken.",
+      "url": "https://www.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport",
+      "image_url": "https://img.zeit.de/gesundheit/2024-10/muskelbotenstoffe-myokine-koerper-heilung-sport-teaser/super__430x286",
+      "image_title": "Muskelbotenstoffe: Wie Muskeln unseren Körper heilen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geld sparen : Sparen ohne Verzicht? Mit diesen Tricks klappt's",
+      "teaser": "Sie würden gerne mehr Geld zurücklegen, aber wollen sich nicht einschränken? Wir erklären, wie man mit minimalem Aufwand ziemlich viel sparen kann.",
+      "url": "https://www.zeit.de/geld/2024-12/geld-sparen-tipps-finanzen-anlage",
+      "image_url": "https://img.zeit.de/geld/2024-12/geld-sparen-tipps-finanzen/super__430x286",
+      "image_title": "Geld sparen: Sparen ohne Verzicht? Mit diesen Tricks klappt's"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bindungsorientierte Erziehung : Wie viel Nähe braucht ein Kind?",
+      "teaser": "Das Psychologenpaar Karin und Klaus Grossmann hat erforscht, wie frühe Bindungen sich auf die Psyche auswirken. Hier erklären sie, wie Eltern feinfühlig handeln können.",
+      "url": "https://www.zeit.de/2023/54/bindungsorientierte-erziehung-bindungstheorie-bowlby-psychologie",
+      "image_url": "https://img.zeit.de/2023/54/wie-viel-naehe-braucht-ein-kind-herr-und-frau-grossmann-bild-1/super__430x286",
+      "image_title": "Bindungsorientierte Erziehung: Karin und Klaus Grossmann, 81 und 88, begründeten die Bindungsforschung in Deutschland. Ihre Längsschnittstudien veränderten den Blick auf Kinder und brachten ihnen international Anerkennung. Klaus Grossmann war bis 2003 Psychologieprofessor an der Universität Regensburg, Karin Grossmann forschte in seinem Team und gab das Wissen an Fachpersonal weiter"
+    },
+    {
+      "title": "Hybride Kriegsführung : Wenn der Anker zur Waffe wird",
+      "teaser": "Schiffe aus Russland und China stehen im Verdacht, kritische Unterwasser-Infrastruktur zu beschädigen. Was genau steckt hinter diesen Attacken?",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/chinesische-sabotage-taiwan-ostsee-infrastruktur-unterwasserkabel-stromkabel",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/chinesische-sabotage-taiwan-ostsee-infrastruktur-unterwasserkabel-stromkabel-bild/super__430x286",
+      "image_title": "Hybride Kriegsführung: The Chinese ship, the bulk carrier Yi Peng 3 is anchored and being monitored by a Danish naval patrol vessel (unseen) in the sea of Kattegat, near the City og Granaa in Jutland, Denmark, on November 20, 2024. Denmark's navy said on November 20, 2024 it was shadowing a Chinese cargo vessel in the Baltic Sea, a day after Finland and Sweden opened investigations into suspected sabotage of two severed undersea telecoms cables. \"The Danish Defence can confirm that we are present in the area near the Chinese ship Yi Peng 3,\" the military wrote in an email to AFP, adding that it would make no further comment for the time-being. (Photo by Mikkel Berg Pedersen / Ritzau Scanpix / AFP) / Denmark OUT (Photo by MIKKEL BERG PEDERSEN/Ritzau Scanpix/AFP via Getty Images)"
+    },
+    {
+      "title": "Proteste im Iran : Kurdischer Rapper nach Haftentlassung im Berliner Exil angekommen",
+      "teaser": "Wegen seiner regimekritischen Texte war Saman Yasin jahrelang im Iran inhaftiert. Unter anderem hatte sich der Schriftstellerverband PEN für seine Freilassung eingesetzt.",
+      "url": "https://www.zeit.de/kultur/2025-01/pen-berlin-iran-rapper-saman-yasin-haft-freilassung-exil",
+      "image_url": "https://img.zeit.de/kultur/2025-01/pen-berlin-iran-rapper-saman-yasin-haft-freilassung-exil-bild/super__430x286",
+      "image_title": "Proteste im Iran: Protest On Anniversary Of Mahsa Amini Death 09 16 2023 Toronto, Canada. A young woman holds a banner featuring Saman Yasin, a rapper who has been imprisoned since the protests sparked by Mahsa Amini s death, during the one-year anniversary protests in her memory. Mahsa Amini, a 22-year-old woman who was detained by Iran s moral police for violating the mandatory veil law in The Islamic Republic, lost her life. Toronto Ontario Canada"
+    },
+    {
+      "title": "Wintersport : Deutsche Biathletinnen siegen beim Weltcup in Ruhpolding",
+      "teaser": "Beim Biathlon liegen die deutschen Frauen zum zweiten Mal in Folge ganz vorn. Trotz Ausfällen durch Krankheit waren sie 17 Sekunden schneller als die Norwegerinnen.",
+      "url": "https://www.zeit.de/sport/2025-01/wintersport-biathlon-weltcup-frauen-deutschland-sieg-staffel-norwegen-frankreich"
     },
     {
       "title": "Diese Woche in der ZEIT : Radikal entfesselt",
@@ -460,14 +492,14 @@
       "image_title": "Alice Weidel: Alice Weidel setzt nicht darauf, in diesem Jahr Kanzlerin zu werden. Sie möchte, dass Friedrich Merz scheitert. Dann sei es so weit."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kinderbetreuung : \"Es ist eine empirische Tatsache: Kinder werden zur Randerscheinung\"",
-      "teaser": "Kinder verbringen viel Zeit in Kita und Schule, doch die sind überfordert. Der Soziologe El-Mafaalani erklärt, warum sich das nicht ändert – und Boomer die Rettung sind.",
-      "url": "https://www.zeit.de/2025/03/kinderbetreuung-muetter-kindergarten-schule-demografischer-wandel"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Wärmepumpe : Warum die Wärmepumpe in Deutschland so teuer ist",
       "teaser": "Nirgends in Europa kostet der Einbau einer Wärmepumpe so viel und dauert so lange wie in Deutschland. Bereichern sich die Installateure an der Förderung?",
       "url": "https://www.zeit.de/wirtschaft/2025-01/waermepumpe-heizung-finanzen-foerderung-deutsche-umwelthilfe"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Erziehung in der Pubertät : \"Ein Freund sagte: Pubertät ist Payback-Time\"",
+      "teaser": "Das Kind ist plötzlich ein rebellischer oder in sich gekehrter Teenager? Die Pubertät ist für die gesamte Familie herausfordernd. Was Eltern wirklich geholfen hat.",
+      "url": "https://www.zeit.de/familie/2025-01/erziehung-pubertaet-teenager-eltern-rebellisch-tipps"
     },
     {
       "title": "Waldbrände in Kalifornien : Warum dieses Haus noch steht",
@@ -504,18 +536,18 @@
       "url": "https://www.zeit.de/politik/ausland/2025-01/waffenruhe-nahost-alan-posener-kritik-hamas"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Leben in Nahost : \"Vielleicht müssen wir fünfzig Jahre warten, bis wir Frieden haben\"",
+      "teaser": "Der junge Israeli Maor Friedman will zum Militär. Der Freund der Palästinenserin Tamara Hamdans ist in Israel in Haft. Sind diese jungen Menschen Feinde?",
+      "url": "https://www.zeit.de/2025/03/leben-nahost-israel-westjordanland-palaestina-jugendliche",
+      "image_url": "https://img.zeit.de/politik/2025-01/leben-nahost-israel-westjordanland-palaestina-jugendliche-bild-2/wide__892x501",
+      "image_title": "Leben in Nahost: \"Vielleicht müssen wir fünfzig Jahre warten, bis wir Frieden haben\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Job kündigen • Das Beste aus Z+ : \"Ich begriff, dass ich gehen musste, damit es mir besser geht\"",
       "teaser": "Ob nach 30 Jahren im Betrieb oder direkt nach dem Führungswechsel: Fünf Angestellte erzählen, weshalb sie gekündigt haben und die Entscheidung genau richtig war.",
       "url": "https://www.zeit.de/arbeit/2025-01/job-kuendigen-angestellte-freiheit-beruf",
-      "image_url": "https://img.zeit.de/arbeit/2025-01/job-kuendigen-angestellte-freiheit-2/wide__892x501",
+      "image_url": "https://img.zeit.de/arbeit/2025-01/job-kuendigen-angestellte-freiheit-2/super__430x286",
       "image_title": "Job kündigen • Das Beste aus Z+: Wann ist Zeit, zu gehen? Diese Frage stellen sich viele Beschäftigte."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Donald Trump : Alles, was Sie über Team Trump wissen sollten",
-      "teaser": "Radikale Hardliner, Loyalisten und Verschwörungstheoretiker werden die USA lenken. Wir zeigen die 17 wichtigsten Köpfe der nächsten Trump-Ära und welche Macht sie haben.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/team-trump-usa-regierungsposten-steckbriefe",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/team-trump-usa-regierungsposten/super__430x286",
-      "image_title": "Donald Trump: Alles, was Sie über Team Trump wissen sollten"
     },
     {
       "title": "Verlagsangebot : Die 10 beliebtesten Reiseziele 2025",
@@ -532,11 +564,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Wirtschaftsbündnis : Nigeria wird Partnerland der Brics-Staatengruppe",
-      "teaser": "Als wirtschaftsstarkes Land verfügt Nigeria über viel Einfluss in Afrika. Die Brics-Staaten nehmen es nun als Partnerland in ihr Wirtschaftsbündnis auf.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/brics-erweiterung-nigeria-partnerland",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/brics-erweiterung-nigeria-partnerland-bild/wide__892x501",
-      "image_title": "Wirtschaftsbündnis: TOPSHOT - This aerial photograph shows the Obalende bus terminus in Lagos on September 24, 2024. (Photo by Olympia DE MAISMONT / AFP) (Photo by OLYMPIA DE MAISMONT/AFP via Getty Images)"
+      "title": "Sexuelle Belästigung : Sender entfernt wegen Zweifeln Berichte über Grünenpolitiker Gelbhaar",
+      "teaser": "Dem Abgeordneten Stefan Gelbhaar wurde sexuelle Belästigung vorgeworfen. Nun gibt es laut rbb Zweifel: \"Mit hoher Wahrscheinlichkeit\" existiert eine der Frauen gar nicht.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/stefan-gelbhaar-gruenen-politiker-sexuelle-belaestigung-vorwuerfe-zweifel",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/belaestigungsvorwuerfe-gegen-den-gruenen-bundestagsabgeordneten-stefan-gelbhaar/wide__892x501",
+      "image_title": "Sexuelle Belästigung: Der Bundestagsabgeordnete Stefan Gelbhaar (Bündnis 90/Die Grünen) reagiert auf seine ausgebliebene Wiederwahl als Direktkandidat für den Wahlkreis Berlin-Pankow zur kommenden Bundestagswahl. Bei einer Versammlung am Abend beschlossen die Grünen statt Gelbhaar die Landesabgeordnete Julia Schneider ins Rennen zu schicken. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Verlagsangebot : Online Schreib-Workshop – So schreiben Sie Ihre Geschichte",
@@ -546,11 +578,11 @@
       "image_title": "Online Schreib-Workshop – So schreiben Sie Ihre Geschichte"
     },
     {
-      "title": "Ukrainekarte aktuell : Russland dringt vom Donbass aus nach Westen vor",
-      "teaser": "Russische Truppen haben ein Dorf bei Welyka Nowosilka eingenommen. Experten vermuten, dass sie die strategisch wichtige Siedlung im Osten der Ukraine einkreisen wollen.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286",
-      "image_title": "Ukrainekarte aktuell: Russland dringt vom Donbass aus nach Westen vor"
+      "title": "Wirtschaftsbündnis : Nigeria wird Partnerland der Brics-Staatengruppe",
+      "teaser": "Als wirtschaftsstarkes Land verfügt Nigeria über viel Einfluss in Afrika. Die Brics-Staaten nehmen es nun als Partnerland in ihr Wirtschaftsbündnis auf.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/brics-erweiterung-nigeria-partnerland",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/brics-erweiterung-nigeria-partnerland-bild/super__430x286",
+      "image_title": "Wirtschaftsbündnis: TOPSHOT - This aerial photograph shows the Obalende bus terminus in Lagos on September 24, 2024. (Photo by Olympia DE MAISMONT / AFP) (Photo by OLYMPIA DE MAISMONT/AFP via Getty Images)"
     },
     {
       "title": "Klemens Haselsteiner : Chef des österreichischen Baukonzerns Strabag ist tot",
@@ -742,18 +774,18 @@
       "image_title": "deep-fakes-ki-internet-misogynie"
     },
     {
+      "title": "Brände in Kalifornien : Erneute Starkwinde könnten Brände bei Los Angeles anfachen",
+      "teaser": "Die Feuergefahr in Los Angeles hält an. Der Wetterdienst warnt davor, dass die Santa-Ana-Winde zurückkehren, die die Flammen wieder antreiben könnten.",
+      "url": "https://www.zeit.de/wissen/2025-01/braende-kalifornien-feuer-starkwinde",
+      "image_url": "https://img.zeit.de/wissen/2025-01/die-feuergefahr-in-los-angeles-bleibt-der-wetterdienst-warnt-vor-erneuten-winden-die-die-braende-anfachen-koennten/wide__892x501",
+      "image_title": "Brände in Kalifornien: PASADENA, CALIFORNIA - JANUARY 17: A California Conservation Corps fire crew gathers during a meeting before beginning their shift at the Rose Bowl Stadium on January 17, 2025 in Pasadena, California. Multiple wildfires fueled by intense Santa Ana Winds are burning across Los Angeles County. Reportedly at least 10 people have died with over 180,000 people having been under evacuation orders. Over 9,000 structures have been damaged or burned while more than more than 25,000 acres were burning from the fires. (Photo by Brandon Bell/Getty Images)"
+    },
+    {
       "title": "Klimawandel : Tauende Permafrostböden bedrohen Millionen Menschen in der Arktis",
       "teaser": "Durch den Klimawandel taut der Permafrost, Erdmassen bewegen sich. Auch Gefahrstoffe gibt der Untergrund frei. Eine Studie zeigt, was das für die Bewohner bedeutet.",
       "url": "https://www.zeit.de/wissen/2025-01/klimawandel-permafrost-boden-arktis-gefahrenstoffe",
-      "image_url": "https://img.zeit.de/wissen/2025-01/klimawandel-tauende-permafrostboeden-bedrohen-millionen-menschen-in-der-arktis/wide__892x501",
+      "image_url": "https://img.zeit.de/wissen/2025-01/klimawandel-tauende-permafrostboeden-bedrohen-millionen-menschen-in-der-arktis/super__430x286",
       "image_title": "Klimawandel: HANDOUT - Dieses im Jahr 2021 aufgenommene und durch die Uni Wien zur Verfügung gestellte Foto zeigt eine Hütte die im Zuge von Permafrost-Tau und Erosion am kanadischen Mackenzie-Flussdelta zerstört wurde. +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Raumfahrt : Starship-Rakete von SpaceX muss vorerst am Boden bleiben",
-      "teaser": "Nach der Explosion der Starship-Rakete von Elon Musk bei einem Testflug fordert die US-Luftfahrtbehörde eine Untersuchung. Vorerst darf die Rakete nicht mehr starten.",
-      "url": "https://www.zeit.de/wissen/2025-01/raumfahrt-starship-rakete-elon-musk-explosion-untersuchung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2025-01/spacex-starship/super__430x286",
-      "image_title": "SpaceX Starship"
     },
     {
       "title": "Anzeige : Reisen mit der ZEIT",
@@ -866,6 +898,13 @@
       "image_title": "US-Wahl: Warum wieder Trump?"
     },
     {
+      "title": "CDU-Vorsitzender : Friedrich Merz gibt sich vor Amtsantritt von Donald Trump gelassen",
+      "teaser": "Als \"Chance für Europa\" sieht Unions-Kanzlerkandidat Friedrich Merz den Regierungswechsel in Washington. Außerdem denkt er, dass es mit Trump mehr Klarheit geben werde.",
+      "url": "https://www.zeit.de/video/2025-01/6367292940112/cdu-vorsitzender-friedrich-merz-gibt-sich-vor-amtsantritt-von-donald-trump-gelassen",
+      "image_url": "https://img.zeit.de/video/2025-01/6367292940112-still/super__430x286",
+      "image_title": "CDU-Vorsitzender: Friedrich Merz gibt sich vor Amtsantritt von Donald Trump gelassen"
+    },
+    {
       "title": "Jugendamt : \"Sie nahmen mir meine Tochter\"",
       "teaser": "Vor zwei Jahren schickte das Familiengericht Lindas Tochter in ein Heim – wegen einer \"zu engen Beziehung zur Mutter\". Seitdem kämpft sie um ihr Kind. Ein Dokumentarfilm",
       "url": "https://www.zeit.de/gesellschaft/2023-10/jugendamt-tochter-inobhutnahme-familiengericht-sorgerecht",
@@ -873,25 +912,18 @@
       "image_title": "Jugendamt: \"Sie nahmen mir meine Tochter\""
     },
     {
-      "title": "Konstruierte Sprachen : Beim Papst der vermutlich nutzlosesten Sprache der Welt",
-      "teaser": "In Bonn lebt der oberste Wächter über die vergessene Weltsprache Volapük. Er beherrscht sie selbst kaum. Die Linguisten für \"Dune\" und \"Game of Thrones\" erklären, warum.",
-      "url": "https://www.zeit.de/video/2024-05/konstruierte-sprachen-film-serie-linguistik",
-      "image_url": "https://img.zeit.de/video/2024-05/volapuek-mit-sprechblase/super__430x286",
-      "image_title": "Konstruierte Sprachen: Timothée Chalamet als Paul Atreides in \"Dune\", Hermann Philipps, der achte Cifal des Volapük, und Emilia Clarke als Daenerys Targaryen in \"Game of Thrones\"."
+      "title": "Z+ (abopflichtiger Inhalt); Alex Kapranos : \"Lass die Pilze in Ruhe, wenn sie in der Pfanne braten\"",
+      "teaser": "Immer nur ein halber Grieche, aber kochen kann er: Alex Kapranos, Sänger der Band Franz Ferdinand, über Furcht, Melancholie und Samtanzüge.",
+      "url": "https://www.zeit.de/zeit-magazin/2025/03/alex-kapranos-ratschlaege-leben",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/03/was-ich-gern-frueher-gewusst-haette-bild-1/wide__892x501",
+      "image_title": "Alex Kapranos: \"Lass die Pilze in Ruhe, wenn sie in der Pfanne braten\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schlafprobleme : Das Grübeln hört nachts nicht auf? So klappt es mit dem Einschlafen",
-      "teaser": "Man liegt im Bett, aber Gedanken halten einen wach. Was tun? Experten erklären die wahre Macht der To-do-Liste – und wie man sich selbst zum Schlafen konditionieren kann.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-01/schlafprobleme-einschlafen-hilfe-tipps",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-01/schlafprobleme-einschlafen-hilfe-tipps-bild/wide__892x501",
-      "image_title": "Schlafprobleme: Das Grübeln hört nachts nicht auf? So klappt es mit dem Einschlafen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Brad Pitt : Liebe auf den ersten Fake",
-      "teaser": "Eine Frau hat alles, was sie hatte, einem Mann gegeben, der sich als Brad Pitt ausgab. Wie dumm kann man sein? So dumm, dass es jedem passieren könnte.",
-      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2025-01/brad-pitt-love-scam",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/04/liebe-leute-bild-1/super__430x286",
-      "image_title": "Brad Pitt: Was würden Sie tun, wenn dieser Mann Ihnen auf Instagram schreibt?"
+      "title": "Z+ (abopflichtiger Inhalt); Wohnung mit hohen Decken : Es liegt was in der Luft",
+      "teaser": "Hohe Decken fühlen sich an wie Freiheit, niedrige wie Gefängnis. Ob das wirklich so ist? Eine Selbstbefragung mit tatkräftiger Hilfe von Handwerkern und Wissenschaftlern",
+      "url": "https://www.zeit.de/zeit-magazin/2025/03/wohnung-hohe-decken-vorteile-konstruktion",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025-01/wohnung-hohe-decken-vorteile-konstruktion-teaser/super__430x286",
+      "image_title": "Wohnung mit hohen Decken: Es liegt was in der Luft"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -985,11 +1017,11 @@
       "image_title": "Europäischer Gerichtshof: Tor zum Place du Commerce in Lissabon am 13. Dezember 2024: Französische, bulgarische und slowenische Gymnasiasten reisen im Rahmen eines von der EU finanzierten Erasmus-Austauschs nach Portugal, um das Bewusstsein für nachhaltige Entwicklung zu schärfen."
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
       "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Tennis : Eva Lys zieht unerwartet ins Achtelfinale der Australian Open ein",
@@ -999,11 +1031,11 @@
       "image_title": "Tennis: Germany's Eva Lys reacts on a point against Romania's Jaqueline Cristian during their women's singles match on day seven of the Australian Open tennis tournament in Melbourne on January 18, 2025. (Photo by Paul Crock / AFP) / -- IMAGE RESTRICTED TO EDITORIAL USE - STRICTLY NO COMMERCIAL USE -- (Photo by PAUL CROCK/AFP via Getty Images)"
     },
     {
-      "title": "Bundesliga, 18. Spieltag – Freitag : Dortmund verliert in Frankfurt",
-      "teaser": "Der BVB kann auch das dritte Bundesligaspiel des Jahres nicht gewinnen. Für Frankfurt trifft zwar nicht mehr Marmoush – dafür Ekitiké und Højlund. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2025-01/bundesliga-18-spieltag-frankfurt-dortmund",
-      "image_url": "https://img.zeit.de/sport/2025-01/bundesliga-18-spieltag-frankfurt-dortmund-bild-2/super__430x286",
-      "image_title": "Bundesliga, 18. Spieltag – Freitag: Frankfurts Ansgar Knauff (vorn) bejubelt das 1:0 seines Teamgefährten Hugo Ekitike."
+      "title": "Wintersport : Biathlon-Rekordsieger Johannes Thingnes Bø kündigt Karriereende an",
+      "teaser": "Früher als geplant gab der norwegische Biathlon-Ausnahmesportler Bø sein Karriereende für dieses Frühjahr bekannt. Er will nun seine Familie in den Vordergrund stellen.",
+      "url": "https://www.zeit.de/sport/2025-01/biathlon-johannes-thingnes-boe-karierreende",
+      "image_url": "https://img.zeit.de/sport/2025-01/biathlon-johannes-thingnes-boe-karierreende-bild/super__430x286",
+      "image_title": "Wintersport: Norway's Johannes Thingnes Bo competes during the men's 4x7.5 km relay event of the IBU Biathlon World Cup in Ruhpolding, southern Germany on January 17, 2025. (Photo by Tobias SCHWARZ / AFP) (Photo by TOBIAS SCHWARZ/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Lina Ghotmeh : \"Unsere Eingriffe werden wie Akupunktur sein\"",
@@ -1020,36 +1052,36 @@
       "image_title": "Hamburger Polizei: Eine Polizeistreife auf dem Hamburger Winterdom."
     },
     {
-      "title": "Unfall: Autofahrer erfasst Fußgänger und flüchtet",
-      "url": "https://www.zeit.de/news/2025-01/18/autofahrer-erfasst-fussgaenger-und-fluechtet"
+      "title": "Demonstrationen: Tausende demonstrieren in Kassel gegen rechts",
+      "url": "https://www.zeit.de/news/2025-01/18/tausende-demonstrieren-in-kassel-gegen-rechts"
     },
     {
-      "title": "Wahlkampf CDU: Merkel: Transatlantische Partnerschaft unverzichtbar",
-      "url": "https://www.zeit.de/news/2025-01/18/wuest-deutschland-als-impulsgeber-international-ausgefallen"
+      "title": "3. Fußball-Liga: Hansa Rostock rückt Richtung Aufstiegsplatz vor",
+      "url": "https://www.zeit.de/news/2025-01/18/hansa-rostock-rueckt-richtung-aufstiegsplatz-vor"
     },
     {
-      "title": "Kriminalität: Kater auf Norderney gestohlen - Übergabe geplant",
-      "url": "https://www.zeit.de/news/2025-01/18/kater-auf-norderney-gestohlen-uebergabe-geplant"
+      "title": "Banken: \"Financial Times\": Commerzbank prüft Abbau tausender Jobs",
+      "url": "https://www.zeit.de/news/2025-01/18/financial-times-commerzbank-prueft-abbau-tausender-jobs"
     },
     {
-      "title": "Nahost-Konflikt: Armee: Erneut Huthi-Angriff auf Israel",
-      "url": "https://www.zeit.de/news/2025-01/18/armee-erneut-angriff-aus-dem-jemen-auf-israel"
+      "title": "Bundestagswahlkampf: Tausende demonstrieren gegen \"Abschiebetickets\" der AfD",
+      "url": "https://www.zeit.de/news/2025-01/18/demo-gegen-abschiebetickets-der-afd"
     },
     {
-      "title": "Lifte und Pisten geöffnet: Sonnenschein und Schnee: Viele Besucher zieht es in den Harz",
-      "url": "https://www.zeit.de/news/2025-01/18/sonnenschein-und-schnee-viele-besucher-zieht-es-in-den-harz"
+      "title": "3. Liga: Saarbrücken siegt zum Rückrunden-Auftakt 4:0",
+      "url": "https://www.zeit.de/news/2025-01/18/saarbruecken-siegt-zum-rueckrunden-auftakt-4-0"
     },
     {
-      "title": "Tarifkonflikt: Warnstreik in Baden-Württemberg mit Folgen für Ludwigshafen",
-      "url": "https://www.zeit.de/news/2025-01/18/warnstreik-in-baden-wuerttemberg-mit-folgen-fuer-ludwigshafen"
+      "title": "Notfälle: Bei der Arbeit gestorben: Mann stürzt in Hennigsdorf ab",
+      "url": "https://www.zeit.de/news/2025-01/18/bei-der-arbeit-gestorben-mann-stuerzt-in-hennigsdorf-ab"
     },
     {
-      "title": "Lage im Überblick: Austausch von 33 Gaza-Geiseln gegen 1.904 Palästinenser",
-      "url": "https://www.zeit.de/news/2025-01/18/israels-regierung-stimmt-waffenruhe-zu"
+      "title": "Heim-Weltcup: Biathletinnen feiern zweiten Staffelsieg nacheinander",
+      "url": "https://www.zeit.de/news/2025-01/18/biathletinnen-siegen-in-der-staffel-in-ruhpolding"
     },
     {
-      "title": "Europa: EVP: Wirtschaft mit umfassendem Bürokratieabbau ankurbeln",
-      "url": "https://www.zeit.de/news/2025-01/18/evp-wirtschaft-mit-umfassendem-buerokratieabbau-ankurbeln"
+      "title": "Technischer Defekt: Eisarena in Bremerhaven wegen Havarie weiter gesperrt",
+      "url": "https://www.zeit.de/news/2025-01/18/eisarena-in-bremerhaven-wegen-havarie-weiter-gesperrt"
     }
   ]
 }
