@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-20T15:09:21",
+  "timestamp": "2025-01-20T16:10:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Moxa-Ethernet-Switch",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Unbefugte-Zugriffe-auf-bestimmte-Switches-von-Moxa-moeglich-10249285.html"
+    },
+    {
       "title": "Nvidia GPU- und vGPU-Treiber",
       "url": "https://www.heise.de/news/Nvidia-Datenabfluss-durch-Sicherheitsleck-in-Grafiktreiber-moeglich-10248258.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Es-kann-Schadcode-auf-HPE-Aruba-Networking-AOS-Controllers-und-Gateways-gelangen-10244669.html"
     },
     {
-      "title": "Ivanti Application Control Engine, Avalanche, EPM",
-      "url": "https://www.heise.de/news/Ivanti-schliesst-Luecken-in-Application-Control-Engine-Avalanche-und-EPM-10244653.html"
+      "title": "Sicherheitspatch: Unbefugte Zugriffe auf bestimmte Switches von Moxa möglich",
+      "teaser": "Angreifer können bei Moxa-Switches der EDS-508A-Serie die Authentifizierung umgehen. Die Sicherheitslücke gilt als kritisch.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Unbefugte-Zugriffe-auf-bestimmte-Switches-von-Moxa-moeglich-10249285.html",
+      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
     },
     {
       "title": "Wenn der Staat die Patientenakte lesen will",
@@ -66,15 +72,15 @@
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
+      "title": "Deutsche Unternehmen setzen auf Managed Services",
+      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Secure Coding: Apache Maven gegen Cache-Poisoning-Attacken rüsten",
       "teaser": "Dependency-Management-Systeme wie Maven sind immer wieder Ziel von Cache-Poisoning-Angriffen, gegen die nur konsequent umgesetzte Sicherheitspraktiken helfen.",
       "url": "https://www.heise.de/hintergrund/Secure-Coding-Apache-Maven-gegen-Cache-Poisoning-Attacken-ruesten-10244779.html",
       "image_title": "Mann grübelt vor unübersichtlichem Netzwerk"
-    },
-    {
-      "title": "Deutsche Unternehmen setzen auf Managed Services",
-      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iX-Workshop: E-Rechnungspflicht - Anpassung von Faktura- und ERP-Software",
@@ -163,12 +169,6 @@
       "title": "Kopierdienst rsync mit kritischer Lücke",
       "teaser": "Sicherheitsforscher entdeckten Lücken in der Open-Source-Software rsync, mit der man sehr effizient Dateien synchronisieren oder auch nur kopieren kann.",
       "url": "https://www.heise.de/news/Sechs-Bugs-in-rsync-Server-gefixt-einer-davon-kritisch-10244157.html"
-    },
-    {
-      "title": "Darknet: Konfigurationen und VPN-Passwörter von Fortinet-Geräten aufgetaucht",
-      "teaser": "Vollständige Konfigurationsdateien mit VPN-Passwörtern im Klartext: Eine Gruppe verschenkt diese Daten im Darknet. heise security liegt der Datensatz vor.",
-      "url": "https://www.heise.de/news/Darknet-Konfigurationen-und-VPN-Passwoerter-von-Fortinet-Geraeten-aufgetaucht-10244015.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
       "title": "C-Level Kommunikation",
