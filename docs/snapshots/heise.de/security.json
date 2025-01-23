@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-23T09:09:43",
+  "timestamp": "2025-01-23T10:09:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Unraid",
+      "url": "https://www.heise.de/news/Heimserver-Betriebssystem-Updates-beheben-Sicherheitsluecken-in-Unraid-10253366.html"
+    },
+    {
       "title": "Brute-Force-Angriff auf M365",
       "url": "https://www.heise.de/news/Grossflaechige-Brute-Force-Angriffe-auf-M365-vorsichtshalber-Log-ins-checken-10252167.html"
     },
@@ -44,20 +48,33 @@
       "url": "https://www.heise.de/news/7-Zip-Luecke-erlaubt-Umgehung-von-Mark-of-the-Web-10250351.html"
     },
     {
-      "title": "Brave",
-      "url": "https://www.heise.de/news/Webbrowser-Luecke-in-Brave-ermoeglicht-gefaelschte-Anzeige-der-Download-Quelle-10250205.html"
-    },
-    {
       "title": "iX-Workshop: NIS 2: Anforderungen und Vorgaben",
       "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
       "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-10242337.html",
       "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
     },
     {
+      "title": "Star Blizzard: WhatsApp-Kontoübernahme durch Phishing-Kampagne",
+      "teaser": "Microsoft berichtet von einer Phishing-Kampagne der kriminellen Gruppe Star Blizzard. Sie versucht, WhatsApp-Konten zu übernehmen.",
+      "url": "https://www.heise.de/news/Star-Blizzard-WhatsApp-Kontouebernahme-durch-Phishing-Kampagne-10252402.html",
+      "image_title": "Betrügerische Mail oder SMS mit Angelhaken auf einem Smartphone."
+    },
+    {
+      "title": "Großflächige Brute-Force-Angriffe auf M365 – vorsichtshalber Log-ins checken",
+      "teaser": "In den vergangenen Wochen gab es großflächige Angriffe auf Zugangsdaten zur Microsoft-Cloud. IT-Admins sollten prüfen, ob diese eventuell erfolgreich waren.",
+      "url": "https://www.heise.de/news/Grossflaechige-Brute-Force-Angriffe-auf-M365-vorsichtshalber-Log-ins-checken-10252167.html",
+      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
+    },
+    {
       "title": "Graylark schließt öffentlichen Zugang zu KI-Tool für Geolokalisierung",
       "teaser": "Das KI-Tool Geospy erkennt Orte auf Fotos. Bisher war es öffentlich zugänglich. Nachdem ein US-Medium berichtet hat, wurde der Zugang geschlossen.",
       "url": "https://www.heise.de/news/Graylark-schliesst-oeffentlichen-Zugang-zu-KI-Tool-fuer-Geolokalisierung-10252109.html",
       "image_title": "Screenshot Geospy"
+    },
+    {
+      "title": "Deutsche Unternehmen setzen auf Managed Services",
+      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "KI-Bots legen Linux-News-Seite und weitere lahm",
@@ -70,11 +87,6 @@
       "teaser": "Nach einem unbefugten Zugriff auf ein Antragsportal von D-Trust für sichere Identitäten informiert das Unternehmen erneut. Demnach sind auch Ärzte betroffen.",
       "url": "https://www.heise.de/news/Nach-Angriff-auf-Antragsportal-D-Trust-informiert-ueber-neue-Erkenntnisse-10251620.html",
       "image_title": "Projektion einer Karte für eine digitale Identität, die von einer Hand gehalten wird."
-    },
-    {
-      "title": "Deutsche Unternehmen setzen auf Managed Services",
-      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Oracle schützt Anwendungen mit 318 Sicherheitsupdates vor möglichen Attacken",
@@ -159,18 +171,6 @@
       "teaser": "Kriminelle haben Daten bei der Verwaltungsplattform Otelier geklaut. Rund 437.000 Datensätze etwa von Hilton, Hyatt oder Marriott sind nun bei HIBP.",
       "url": "https://www.heise.de/news/Hilton-Hyatt-Marriott-437-000-Datensaetze-aus-Verwaltungsplattform-bei-HIBP-10248339.html",
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Nvidia: Datenabfluss durch Sicherheitsleck in Grafiktreiber möglich",
-      "teaser": "Nvidia hat Sicherheitslücken in seinen Grafikkartentreibern entdeckt. Angreifer können dadurch Informationen abgreifen. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Nvidia-Datenabfluss-durch-Sicherheitsleck-in-Grafiktreiber-moeglich-10248258.html",
-      "image_title": "Grafikkarte vor Monitor, darauf sind Viren zu sehen"
-    },
-    {
-      "title": "iX-Workshop: Webanwendungen absichern mit OWASP® Top 10",
-      "teaser": "Lernen Sie, wie Sie die häufigsten Sicherheitsrisiken in Webanwendungen erkennen und abwehren können: Mit praktischen Übungen zu den OWASP® Top 10.",
-      "url": "https://www.heise.de/news/iX-Workshop-Webanwendungen-absichern-mit-OWASP-R-Top-10-10236612.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
       "title": "C-Level Kommunikation",
