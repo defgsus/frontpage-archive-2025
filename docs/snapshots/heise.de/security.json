@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-24T07:08:41",
+  "timestamp": "2025-01-24T08:12:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Gitlab",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Cross-Site-Scripting-und-Denial-of-Service-in-GitLab-moeglich-10254924.html"
+    },
+    {
+      "title": "jQuery",
+      "url": "https://www.heise.de/news/Angriffe-auf-alte-jQuery-Bibliotheken-beobachtet-10254936.html"
+    },
+    {
       "title": "SonicWall SMA1000",
       "url": "https://www.heise.de/news/Sicherheits-Appliance-Angreifer-kapern-SonicWall-Geraete-mit-Systemkommandos-10254491.html"
     },
@@ -40,24 +48,39 @@
       "url": "https://www.heise.de/news/Schwachstellen-in-Jenkins-Plug-ins-gefaehrden-Entwicklungsumgebungen-10254105.html"
     },
     {
-      "title": "Cisco Meeting Management, Broadworks, ClamAV",
-      "url": "https://www.heise.de/news/Cisco-Kritische-Sicherheitsluecke-in-Meeting-Management-10253499.html"
+      "title": "Cyberangriff auf Schulen in Rheinland-Pfalz: Steckt Lockbit dahinter?",
+      "teaser": "Über vierzig Schulen sind von dem Angriff betroffen und derzeit nicht am Netz. Die Urheber waren bislang unklar, nun reklamiert Lockbit die Attacke für sich.",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-Schulen-in-Rheinland-Pfalz-Steckt-Lockbit-dahinter-10254814.html",
+      "image_title": "Ransomware auf einem Rechner"
     },
     {
-      "title": "Unraid",
-      "url": "https://www.heise.de/news/Heimserver-Betriebssystem-Updates-beheben-Sicherheitsluecken-in-Unraid-10253366.html"
+      "title": "Jetzt patchen: Cross-Site-Scripting und Denial of Service in GitLab möglich",
+      "teaser": "GitLab warnt vor drei Schwachstellen, von denen eine den Bedrohungsgrad \"hoch\" trägt. Patches stehen für die jüngeren Versionen bereit.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Cross-Site-Scripting-und-Denial-of-Service-in-GitLab-moeglich-10254924.html",
+      "image_title": "Rotes Warndreieck schwebt im Raum"
+    },
+    {
+      "title": "Logindaten und ChatGPT-Keys im Visier: Details zu Attacke auf Chrome-Extensions",
+      "teaser": "Der breite und aufwendige Lieferkettenangriff auf die Entwickler von Chrome Extensions gefährdet Login-Daten und ChatGPT-Keys. Jetzt werden Details bekannt.",
+      "url": "https://www.heise.de/news/Logindaten-und-ChatGPT-Keys-im-Visier-Details-zu-Attacke-auf-Chrome-Extensions-10254535.html",
+      "image_title": "Finger tippt auf Chrome-Kachel auf Windows-Gerät"
+    },
+    {
+      "title": "Angriffe auf alte jQuery-Bibliotheken beobachtet",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde warnt, dass Angreifer auf eine alte Sicherheitslücke in jQuery losgehen.",
+      "url": "https://www.heise.de/news/Angriffe-auf-alte-jQuery-Bibliotheken-beobachtet-10254936.html",
+      "image_title": "Ein alter, rostiger Server wird von Viren angegriffen"
+    },
+    {
+      "title": "Deutsche Unternehmen setzen auf Managed Services",
+      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Bessere Datensicherheit für Android-Handys",
       "teaser": "Google bietet neue Softwarefunktionen für Datensicherheit auf Android-Handys, vorerst Pixel mit Android 15 und Samsung mit One UI 7.",
       "url": "https://www.heise.de/news/Bessere-Datensicherheit-fuer-Android-Handys-10254834.html",
       "image_title": "Auf einem Holztisch liegt ein Smartphone, daneben steht eine grüne Android-Figur"
-    },
-    {
-      "title": "Sicherheits-Appliance: Angreifer kapern SonicWall-Geräte mit Systemkommandos",
-      "teaser": "Die Sicherheitslücke wird bereits von Missetätern angewendet, so der Hersteller. Wer die betroffene Appliance einsetzt, sollte patchen.",
-      "url": "https://www.heise.de/news/Sicherheits-Appliance-Angreifer-kapern-SonicWall-Geraete-mit-Systemkommandos-10254491.html",
-      "image_title": "Ein Threat Actor / Hacker mit Kapuzenpulli und Maske greift einen Serverschrank mit Aufschrift \"SonicWall\" an"
     },
     {
       "title": "Prorussische DDoS-Angriffe auf Schweizer Einrichtungen",
@@ -72,11 +95,6 @@
       "image_title": "Alarm-Symbol"
     },
     {
-      "title": "Deutsche Unternehmen setzen auf Managed Services",
-      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "\"Geschenk\" an China: Untersuchung zu massivem Cyberangriff in den USA gestoppt",
       "teaser": "Seit Monaten beschäftigt ein massiver Cyberangriff auf Provider die USA. Eine Untersuchung durch ein Beratergremium wurde nun offenbar abrupt gestoppt.",
       "url": "https://www.heise.de/news/Geschenk-an-China-Untersuchung-zu-massivem-Cyberangriff-in-den-USA-gestoppt-10253945.html",
@@ -89,9 +107,16 @@
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
     },
     {
-      "title": "Mehrere Staaten desinfizieren Botnetz, Deutschland nicht",
-      "teaser": "Während Behörden in Frankreich und den USA die Schadsoftware Plug-X auf betroffenen Computern abschalten, wird in Deutschland über Infektionen nur informiert.",
-      "url": "https://www.heise.de/news/Botnetz-Plug-X-Reinemachen-geht-nicht-10252309.html"
+      "title": "Microsoft: Probleme mit Authenticator bei Microsoft-365-Diensten",
+      "teaser": "Microsoft berichtet von aktuellen Problemen mit der Authentifizierung mittels Authenticator bei Microsoft-365-Diensten.",
+      "url": "https://www.heise.de/news/Microsoft-Probleme-mit-Authenticator-bei-Microsoft-365-Diensten-10253297.html",
+      "image_title": "Person vor Computer will Aktion ausführen, Sicherheitspersonal stoppt sie jedoch und überprüft sie erst"
+    },
+    {
+      "title": "Heimserver-Betriebssystem: Updates beheben Sicherheitslücken in Unraid",
+      "teaser": "Angreifer könnten die Lücken ausnutzen, um dem UnRAID-Admin eigenen Javascript-Code oder bösartige Plug-ins unterzuschieben.",
+      "url": "https://www.heise.de/news/Heimserver-Betriebssystem-Updates-beheben-Sicherheitsluecken-in-Unraid-10253366.html",
+      "image_title": "Brennende NAS-Systeme"
     },
     {
       "title": "iX-Workshop: NIS 2: Anforderungen und Vorgaben",
@@ -146,30 +171,6 @@
       "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-10240953.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Aufregung um \"Solarspitzengesetz\": Keine Steuerung über Hersteller-Clouds",
-      "teaser": "Berichten zufolge sieht das \"Solarspitzengesetz\" eine Steuerung von Wechselrichtern privater PV-Anlagen vor. Im Entwurf ist davon jedoch keine Rede.",
-      "url": "https://www.heise.de/news/Aufregung-um-Solarspitzengesetz-Keine-Steuerung-ueber-Hersteller-Clouds-10249819.html",
-      "image_title": "Solaranlagen auf einer Wiese"
-    },
-    {
-      "title": "BSI zertfiziert erste quantensichere Smartcard",
-      "teaser": "Das BSI hat die erste quantensichere Smartcard zertifiziert. Quantencomputer können die Verschlüsselung von Daten damit nicht knacken.",
-      "url": "https://www.heise.de/news/BSI-zertifiziert-erste-Smartcard-mit-Post-Quanten-kryptografischem-Algorithmus-10250779.html",
-      "image_title": "Stilisierter Schlüssel"
-    },
-    {
-      "title": "7-Zip: Lücke erlaubt Umgehung von Mark-of-the-Web",
-      "teaser": "In 7-Zip ermöglicht eine Sicherheitslücke, den Mark-of-the-Web-Schutzmechanismus auszuhebeln und so Code auszuführen. Ein Update ist verfügbar.",
-      "url": "https://www.heise.de/news/7-Zip-Luecke-erlaubt-Umgehung-von-Mark-of-the-Web-10250351.html",
-      "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
-    },
-    {
-      "title": "iX-Workshop: Windows Server absichern und härten",
-      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10240847.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "C-Level Kommunikation",
