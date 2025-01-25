@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-25T04:10:22",
+  "timestamp": "2025-01-25T05:08:22",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -110,11 +116,18 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlkampf : Die Merz-Zäsur",
-      "teaser": "Nach dem Angriff von Aschaffenburg ist Merz der CDU-Kandidat, auf den die SPD gehofft hatte: provokant und getrieben von populistischen Aussagen. Auch die AfD frohlockt.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/friedrich-merz-cdu-aschaffenburg-wahlkampf-populismus",
-      "image_url": "https://img.zeit.de/politik/2025-01/friedrich-merz-cdu-aschaffenburg-wahlkampf/wide__1000x562",
-      "image_title": "Wahlkampf: Die Merz-Zäsur"
+      "title": "US-Regierung : Umstrittener Moderator Hegseth als US-Verteidigungsminister bestätigt",
+      "teaser": "Er hat keine politische Erfahrung, gilt als Trinker und soll Frauen sexuell misshandelt haben. Nun hat der US-Senat Pete Hegseth mit einer knappen Mehrheit bestätigt.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/pete-hegseth-bestaetigung-us-verteidigungsminister-senat-j-d-vance",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/pete-hegseth-bestaetigung-us-verteidigungsminister-senat-j-d-vance-bild/wide__1000x562",
+      "image_title": "US-Regierung: Pete Hegseth bei seiner Bestätigungsanhörung vor dem Streitkräfteausschuss des Senats im Kapitol ."
+    },
+    {
+      "title": "Trumps erste Tage im Amt : US-Regierung benennt Golf von Mexiko um",
+      "teaser": "Die US-Behörden bezeichnen den Golf von Mexiko künftig als Golf von Amerika. Auch der höchste Berg Nordamerikas wird unter einem anderen Namen geführt.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/golf-von-mexiko-mount-denali-umbenennung-us-regierung",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/golf-von-mexiko-mount-denali-umbenennung-us-regierung-bild/super__430x286",
+      "image_title": "Trumps erste Tage im Amt: Ein Paar beobachtet den Sonnenaufgang über dem Golf von Mexiko von einem Strand im Bundesstaat Texas aus."
     },
     {
       "title": "Neue US-Regierung : US-Außenministerium friert fast alle Hilfsprogramme weltweit ein",
@@ -124,25 +137,25 @@
       "image_title": "Neue US-Regierung: US-Außenminister Marco Rubio bei einer Ansprache vor Mitarbeitern, fotografiert am 21. Januar."
     },
     {
-      "title": "Demonstration in Washington, D. C. : Trump und Vance unterstützen Gegner von Schwangerschaftsabbrüchen",
-      "teaser": "Der US-Präsident und sein Vize beteiligten sich am jährlichen Protest von Pro-Life-Aktivisten in Washington. Er trete \"stolz für Familien und das Leben ein\", sagte Trump.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/trump-vance-unterstuetzen-abtreibungsgegner-pro-life-protest-washington",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/trump-vance-unterstuetzen-abtreibungsgegner-pro-life-protest-washington-bild/super__430x286",
-      "image_title": "Demonstration in Washington, D. C.: WASHINGTON, DC - JANUARY 24, 2025: Thomas Rousseau and other members of the Patriot Front assemble on the steps of the Jefferson Memorial as people attend the annual March for Life rally on the National Mall on January 24, 2025 in Washington, DC. Anti-abortion activists attend the annual march that marked the anniversary of the Supreme Court's, now overturned, 1973, Roe v. Wade ruling which legalized abortion in all 50 states. (Photo by Kent Nishimura/Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Wahlkampf : Die Merz-Zäsur",
+      "teaser": "Nach dem Angriff von Aschaffenburg ist Merz der CDU-Kandidat, auf den die SPD gehofft hatte: provokant und getrieben von populistischen Aussagen. Auch die AfD frohlockt.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/friedrich-merz-cdu-aschaffenburg-wahlkampf-populismus",
+      "image_url": "https://img.zeit.de/politik/2025-01/friedrich-merz-cdu-aschaffenburg-wahlkampf/super__430x286",
+      "image_title": "Wahlkampf: Die Merz-Zäsur"
     },
     {
-      "title": "US-Regierung : Umstrittener Moderator Hegseth als US-Verteidigungsminister bestätigt",
-      "teaser": "Er hat keine politische Erfahrung, gilt als Trinker und soll Frauen sexuell misshandelt haben. Nun hat der US-Senat Pete Hegseth mit einer knappen Mehrheit bestätigt.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/pete-hegseth-bestaetigung-us-verteidigungsminister-senat-j-d-vance",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/pete-hegseth-bestaetigung-us-verteidigungsminister-senat-j-d-vance-bild/super__430x286",
-      "image_title": "US-Regierung: Pete Hegseth bei seiner Bestätigungsanhörung vor dem Streitkräfteausschuss des Senats im Kapitol ."
+      "title": "Aschaffenburg : 500 Gegendemonstranten bei AfD-Kundgebung",
+      "teaser": "Die AfD hat in Aschaffenburg der Opfer der Messerattacke gedacht. Unter den 70 Teilnehmern war auch Björn Höcke. Weitaus mehr Menschen protestierten gegen die AfD.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/aschaffenburg-demonstration-afd-gegner-bjoern-hoecke-widerstand",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/gegendemonstranten-in-aschaffenburg/super__430x286",
+      "image_title": "Aschaffenburg: Gegendemonstranten einer Gedenkveranstaltung der AfD sitzen im Aschaffenburger Park Schöntal auf dem Boden."
     },
     {
-      "title": "Trumps erste Tage im Amt : US-Regierung benennt Golf von Mexiko um",
-      "teaser": "Die US-Behörden bezeichnen den Golf von Mexiko künftig als Golf von Amerika. Auch der höchste Berg Nordamerikas wird unter einem anderen Namen geführt.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/golf-von-mexiko-mount-denali-umbenennung-us-regierung",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/golf-von-mexiko-mount-denali-umbenennung-us-regierung-bild/super__430x286",
-      "image_title": "Trumps erste Tage im Amt: Ein Paar beobachtet den Sonnenaufgang über dem Golf von Mexiko von einem Strand im Bundesstaat Texas aus."
+      "title": "Frank-Walter Steinmeier : Bundespräsident dringt auf zügige Aufarbeitung der Coronapandemie",
+      "teaser": "Seit Monaten stecken Gespräche zwischen Regierung und Opposition fest. Nun macht der Bundespräsident Druck. Er will zur Not selbst eine Untersuchungskommission anstoßen.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/bundespraesident-steinmeier-dringt-aufarbeitung-corona-pandemie",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/bundespraesident-steinmeier-dringt-aufarbeitung-corona-pandemie-bild/super__430x286",
+      "image_title": "Frank-Walter Steinmeier: FFP2-Masken hängen an einer Türklinke in Nürnberg. Aufnahmedatum: 12.04.2023 Bildnachweis: picture alliance/dpa | Daniel Karmann"
     },
     {
       "title": "FPÖ : Extrem rechts und womöglich bald Kanzler",
@@ -159,20 +172,6 @@
       "image_title": "Umweltverantwortungsinitiative: BU: Wie sähe die Schweiz aus, wenn sie ihre Wirtschaft an dem ausrichten würde, was die Natur vertragen kann? ++++++++++<br /> online"
     },
     {
-      "title": "Migrationspolitik : Olaf Scholz warnt Friedrich Merz vor Zusammenarbeit mit AfD",
-      "teaser": "Der Bundeskanzler hat den Unionsfraktionschef Merz davor gewarnt, künftig auf AfD-Stimmen zu setzen. Scholz will nun am Mittwoch eine Regierungserklärung abgeben.",
-      "url": "https://www.zeit.de/politik/2025-01/scholz-merz-afd-brandmauer-bundestag",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/scholz-warnung-merz-migrationsdebatte-bild/super__430x286",
-      "image_title": "Migrationspolitik: German Chancellor Olaf Scholz speaks to the media following a deadly knife attack in Aschaffenburg, on the day of a downhill in Erfurt, Germany, January 23, 2025. REUTERS/Karina Hessland"
-    },
-    {
-      "title": "Frank-Walter Steinmeier : Bundespräsident dringt auf zügige Aufarbeitung der Coronapandemie",
-      "teaser": "Seit Monaten stecken Gespräche zwischen Regierung und Opposition fest. Nun macht der Bundespräsident Druck. Er will zur Not selbst eine Untersuchungskommission anstoßen.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/bundespraesident-steinmeier-dringt-aufarbeitung-corona-pandemie",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/bundespraesident-steinmeier-dringt-aufarbeitung-corona-pandemie-bild/super__430x286",
-      "image_title": "Frank-Walter Steinmeier: FFP2-Masken hängen an einer Türklinke in Nürnberg. Aufnahmedatum: 12.04.2023 Bildnachweis: picture alliance/dpa | Daniel Karmann"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); ADHS : Menschen mit ADHS sterben bis zu zehn Jahre früher",
       "teaser": "Eine Studie zeigt, dass ADHS die Lebenserwartung in etwa so stark reduziert wie langjähriges Rauchen. Warum das so ist – und was Lebensjahre retten kann.",
       "url": "https://www.zeit.de/gesundheit/2025-01/adhs-krankheit-studie-tod-behandlung",
@@ -187,31 +186,17 @@
       "image_title": "Plan D: Autismus • Das Beste aus Z+: Hochfunktional, aber irgendwas stimmt nicht"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gazakrieg : Wie viele Menschen starben in Gaza?",
-      "teaser": "Über die Zahl der seit dem 7. Oktober getöteten Palästinenser wurde viel diskutiert. Wie man sich der Wahrheit nähert – und warum Forscher noch mehr Tote vermuten.",
-      "url": "https://www.zeit.de/2025/04/gaza-krieg-tote-opfer-zahlen-statistik",
-      "image_url": "https://img.zeit.de/2025/04/wie-viele-menschen-starben-in-gaza-bild-1/super__430x286",
-      "image_title": "Gazakrieg: Wie viele Menschen starben in Gaza?"
-    },
-    {
-      "title": "Liveblog:Nahost : US-Regierung fordert Verlängerung der Waffenruhe im Libanon",
-      "teaser": "Die Waffenruhe zwischen Hisbollah und Israel endet Sonntag, Israel spricht von Problemen beim Abzug. USA gehen von bis zu 15.000 neuen Hamas-Mitgliedern aus. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/nahost-krieg-israel-hamas-waffenruhe-gaza-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/israelisch-libanesische-grenze/super__430x286",
-      "image_title": "Nahost: Eine Mauer markiert die israelisch-libanesische Grenze in der Nähe des Dorfes Odaisseh im Südlibanon"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Michael Wildt : \"Auschwitz ist präzedenzlos\"",
-      "teaser": "Wie kam es zum Massenmord an Europas Juden? 80 Jahre nach der Befreiung von Auschwitz sagt Historiker Michael Wildt: Die Shoah ist einzigartig, aber nicht unvergleichbar.",
-      "url": "https://www.zeit.de/zeit-geschichte/2025/01/michael-wildt-holocaust-auschwitz-juden-massenmord",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2025/01/auschwitz-ist-praezedenzlos-bild-2/wide__892x501",
-      "image_title": "Michael Wildt: Stumme Zeugen Ein Besucher betrachtet die Schuhe der Ermordeten im Museum Auschwitz"
+      "title": "Z+ (abopflichtiger Inhalt); Ricarda Lang • Das Beste aus Z+ : \"Ich habe ja nicht gesagt, dass Dicksein das Geilste ever ist\"",
+      "teaser": "Kaum eine Politikerin hat wegen ihres Körpers so viel Hass erfahren wie Ricarda Lang. Nun hat sie abgenommen. Ziemlich viel. Hier spricht sie zum ersten Mal darüber.",
+      "url": "https://www.zeit.de/zeit-magazin/2025/04/ricarda-lang-gruene-hass-netz-koerperbild",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/04/ich-habe-ja-nicht-gesagt-dass-dicksein-das-geilste-ever-ist-bild-1/super__430x286",
+      "image_title": "Ricarda Lang • Das Beste aus Z+: Ihr Entschluss, abzunehmen, habe nichts zu tun gehabt mit den Abwertungen im Netz, sagt die Grünen-Politikerin Ricarda Lang"
     },
     {
       "title": "Lage in der Ukraine : Zur Schau gestellte Brutalität",
       "teaser": "Russische Soldaten richten Kriegsgefangene offenbar immer häufiger hin. Oft auf grausame Weise – und mit symbolischem Segen ihres Präsidenten. Der Wochenrückblick",
       "url": "https://www.zeit.de/politik/ausland/2025-01/ukraine-lage-hinrichtung-kriegsgefangene-kriegsverbrechen-wladimir-putin-woche",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/ukraine-lage-hinrichtung-kriegsgefangene-kriegsverbrechen-wladimir-putin-woche-bild-mural/super__430x286",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/ukraine-lage-hinrichtung-kriegsgefangene-kriegsverbrechen-wladimir-putin-woche-bild-mural/wide__892x501",
       "image_title": "Lage in der Ukraine: People walk in front of a mural with anti-war and anti-Putin inscriptions, seen in Lviv's center. On Sunday, January 08, 2023, in Lviv, Lviv Oblast, Ukraine. (Photo by Artur Widak/NurPhoto)NO USE FRANCE"
     },
     {
@@ -222,18 +207,11 @@
       "image_title": "Ukrainekrieg: Der russische Präsident Wladimir Putin bei einer Videokonferenz."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ricarda Lang • Das Beste aus Z+ : \"Ich habe ja nicht gesagt, dass Dicksein das Geilste ever ist\"",
-      "teaser": "Kaum eine Politikerin hat wegen ihres Körpers so viel Hass erfahren wie Ricarda Lang. Nun hat sie abgenommen. Ziemlich viel. Hier spricht sie zum ersten Mal darüber.",
-      "url": "https://www.zeit.de/zeit-magazin/2025/04/ricarda-lang-gruene-hass-netz-koerperbild",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/04/ich-habe-ja-nicht-gesagt-dass-dicksein-das-geilste-ever-ist-bild-1/super__430x286",
-      "image_title": "Ricarda Lang • Das Beste aus Z+: Ihr Entschluss, abzunehmen, habe nichts zu tun gehabt mit den Abwertungen im Netz, sagt die Grünen-Politikerin Ricarda Lang"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Otfried-Preußler-Schule : Kein Fall für die Lehrbücher",
-      "teaser": "Das Otfried-Preußler-Gymnasium in Pullach wird umbenannt. Obwohl es am Ende alle Beteiligten wollten, gibt es in dem Fall nur Verlierer. Die Geschichte einer Eskalation",
-      "url": "https://www.zeit.de/kultur/2025-01/otfried-preussler-schule-pullach-muenchen-umbenennung",
-      "image_url": "https://img.zeit.de/kultur/2025-01/otfried-preussler-schule-pullach/super__430x286",
-      "image_title": "otfried-preussler-schule-pullach"
+      "title": "Z+ (abopflichtiger Inhalt); Gazakrieg : Wie viele Menschen starben in Gaza?",
+      "teaser": "Über die Zahl der seit dem 7. Oktober getöteten Palästinenser wurde viel diskutiert. Wie man sich der Wahrheit nähert – und warum Forscher noch mehr Tote vermuten.",
+      "url": "https://www.zeit.de/2025/04/gaza-krieg-tote-opfer-zahlen-statistik",
+      "image_url": "https://img.zeit.de/2025/04/wie-viele-menschen-starben-in-gaza-bild-1/super__430x286",
+      "image_title": "Gazakrieg: Wie viele Menschen starben in Gaza?"
     },
     {
       "title": "Ausgabe 04/2025 : Mach mal Brause. Willkommen im Wochenende.",
@@ -285,18 +263,18 @@
       "image_title": "Mikrowelle: Was Sie schon immer über Ihre Mikrowelle wissen wollten"
     },
     {
-      "title": "Aschaffenburg : 500 Gegendemonstranten bei AfD-Kundgebung",
-      "teaser": "Die AfD hat in Aschaffenburg der Opfer der Messerattacke gedacht. Unter den 70 Teilnehmern war auch Björn Höcke. Weitaus mehr Menschen protestierten gegen die AfD.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/aschaffenburg-demonstration-afd-gegner-bjoern-hoecke-widerstand",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/gegendemonstranten-in-aschaffenburg/super__430x286",
-      "image_title": "Aschaffenburg: Gegendemonstranten einer Gedenkveranstaltung der AfD sitzen im Aschaffenburger Park Schöntal auf dem Boden."
-    },
-    {
       "title": "Premierminister Robert Fico : Zehntausende demonstrieren in der Slowakei gegen Regierung",
       "teaser": "Regierungsgegner werfen der slowakischen Regierung einen prorussischen Kurs vor. Sie fordern deshalb den Rücktritt von Premierminister Robert Fico.",
       "url": "https://www.zeit.de/politik/ausland/2025-01/premierminister-robert-fico-slowakei-protest-russland-zehntausende",
       "image_url": "https://img.zeit.de/politik/ausland/2025-01/proteste-in-bratislava/super__430x286",
       "image_title": "Premierminister Robert Fico: Demonstranten halten bei Protesten in Bratislava ihre Handys hoch"
+    },
+    {
+      "title": "Sicherheit in der Arktis : General plädiert für Stationierung von EU-Soldaten auf Grönland",
+      "teaser": "Grönland ist strategisch wichtig, Trump erhebt Anspruch auf die Insel. Der Chef des EU-Militärausschusses hält es für sinnvoll, dass die EU dort militärisch präsent ist.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/groenland-usa-stationierung-eu-soldaten-sicherheit-arktis",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/groenland-usa-stationierung-eu-soldaten-sicherheit-arktis-bild/super__430x286",
+      "image_title": "Sicherheit in der Arktis: Eine US-Militärbasis im Norden Grönlands."
     },
     {
       "title": "Zentralafrika : UN-Blauhelmsoldaten liefern sich schwere Kämpfe mit Milizen im Kongo",
@@ -526,21 +504,21 @@
       "url": "https://www.zeit.de/politik/deutschland/2025-01/friedrich-merz-cdu-aschaffenburg-wahlkampf-populismus"
     },
     {
-      "title": "Krieg in der Ukraine : Donald Trump gibt Wolodymyr Selenskyj Mitschuld am Krieg",
-      "teaser": "Der ukrainische Staatschef sei \"kein Engel\", sagt der US-Präsident. Er beklagt, dass sich die Ukraine auf den Kampf gegen einen überlegenen Gegner eingelassen habe.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/ukraine-krieg-donald-trump-wolodymyr-selenskyj",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/ukraine-krieg-donald-trump-wolodymyr-selenskyj-bild/super__430x286",
-      "image_title": "Krieg in der Ukraine: PARIS, FRANCE - DECEMBER 7: French President Emmanuel Macron and Ukrainian president Volodymyr Zelenskyy meets with President-Elect Donald Trump at the Elysee Palace on December 7, 2024 in Paris, France. Donald Trump was among the wave of foreign dignitaries descending on Paris this weekend to attend a reopening ceremony at Notre-Dame Cathedral, more than five years after it was damaged in a major fire. (Photo by Oleg Nikishin/Getty Images)"
-    },
-    {
       "title": "Friedrich Merz : Union will AfD-Zustimmung zu Migrationsplänen in Kauf nehmen",
       "teaser": "Friedrich Merz will seine Pläne zur Migrationspolitik nächste Woche in den Bundestag einbringen. Wer ihnen zustimmen wolle, \"der soll zustimmen\", sagt der CDU-Chef.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/union-antraege-migrationspolitik-afd-zustimmung"
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/union-antraege-migrationspolitik-afd-zustimmung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/cdu-csu-bild/super__430x286",
+      "image_title": "Friedrich Merz: Norbert Röttgen (r, CDU), Vorsitzender der Enquetekommission, und Thomas Silberhorn (l, CDU), stellvertretender Vorsitzender der Enquetekommission, übergeben Friedrich Merz, Vorsitzender der CDU/CSU-Bundestagsfraktion, den Abschlussbericht der Fraktions-Enquete «Frieden und Sicherheit in Europa» der Unionsfraktion im Deutschen Bundestag. Die Kommission aus Fraktionsmitgliedern und externen Experten hat Vorschläge und Handlungsempfehlungen zur Außen- und Sicherheitspolitik für die CDU/CSU-Fraktion erarbeitet. - Weniger lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 24.01.2025 Bildnachweis picture alliance/dpa | Bernd von Jutrczenka"
     },
     {
       "title": "ZDF-Politbarometer : Linke wäre laut neuer Umfrage im Bundestag – BSW nicht",
       "teaser": "Vier Wochen vor der Bundestagswahl steigt die Zustimmung zur Linkspartei, Friedrich Merz gewinnt in der Kandidatenfrage hinzu. Das BSW liegt unter der Fünfprozenthürde.",
       "url": "https://www.zeit.de/politik/deutschland/2025-01/politbarometer-linke-bsw-bundestagswahl"
+    },
+    {
+      "title": "Migrationspolitik : Olaf Scholz warnt Friedrich Merz vor Zusammenarbeit mit AfD",
+      "teaser": "Der Bundeskanzler hat den Unionsfraktionschef Merz davor gewarnt, künftig auf AfD-Stimmen zu setzen. Scholz will nun am Mittwoch eine Regierungserklärung abgeben.",
+      "url": "https://www.zeit.de/politik/2025-01/scholz-merz-afd-brandmauer-bundestag"
     },
     {
       "title": "Friedrich Merz : Union will AfD-Zustimmung zu Migrationsplänen in Kauf nehmen",
@@ -562,18 +540,18 @@
       "url": "https://www.zeit.de/politik/deutschland/2025-01/politbarometer-linke-bsw-bundestagswahl"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bernhard Nocht : Ist sein Name noch tragbar?",
-      "teaser": "Das Hamburger Institut für Tropenmedizin ist nach seinem ersten Direktor Bernhard Nocht benannt. Zwei Studien beleuchten seine Rolle im Kolonialismus und in der NS-Zeit.",
-      "url": "https://www.zeit.de/hamburg/2025-01/bernhard-nocht-kolonialismus-ns-zeit-hamburger-institut-tropenmedizin",
-      "image_url": "https://img.zeit.de/hamburg/2025-01/bernhard-nocht-kolonialismus/wide__892x501",
-      "image_title": "Bernhard Nocht: Außenansicht vom Bernhard Nocht Institut für Tropenmedizin in Hamburg Bernhard Nocht um 1912"
+      "title": "Z+ (abopflichtiger Inhalt); Michael Wildt : \"Auschwitz ist präzedenzlos\"",
+      "teaser": "Wie kam es zum Massenmord an Europas Juden? 80 Jahre nach der Befreiung von Auschwitz sagt Historiker Michael Wildt: Die Shoah ist einzigartig, aber nicht unvergleichbar.",
+      "url": "https://www.zeit.de/zeit-geschichte/2025/01/michael-wildt-holocaust-auschwitz-juden-massenmord",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2025/01/auschwitz-ist-praezedenzlos-bild-2/wide__892x501",
+      "image_title": "Michael Wildt: Stumme Zeugen Ein Besucher betrachtet die Schuhe der Ermordeten im Museum Auschwitz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Benachteiligung : Wann kommt die Steuererleichterung für Übergrößen?",
-      "teaser": "Zur Nazizeit waren die Deutschen ein Volk selbsternannter Helden. Heute sind sie ein Volk selbsternannter Opfer. Jeder fühlt sich irgendwie benachteiligt. Das nervt.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-01/benachteiligung-zweifel-deutschland-nazizeit-volk",
-      "image_url": "https://img.zeit.de/zeit-verlag/2025-01/benachteiligung-zweifel-deutschland-nazizeit-volk-bild-2/super__430x286",
-      "image_title": "Benachteiligung: Wann kommt die Steuererleichterung für Übergrößen?"
+      "title": "Z+ (abopflichtiger Inhalt); Otfried-Preußler-Schule : Kein Fall für die Lehrbücher",
+      "teaser": "Das Otfried-Preußler-Gymnasium in Pullach wird umbenannt. Obwohl es am Ende alle Beteiligten wollten, gibt es in dem Fall nur Verlierer. Die Geschichte einer Eskalation",
+      "url": "https://www.zeit.de/kultur/2025-01/otfried-preussler-schule-pullach-muenchen-umbenennung",
+      "image_url": "https://img.zeit.de/kultur/2025-01/otfried-preussler-schule-pullach/super__430x286",
+      "image_title": "otfried-preussler-schule-pullach"
     },
     {
       "title": "Verlagsangebot : Diese sieben Haupt­städte sollten Sie sich merken",
@@ -590,11 +568,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Israel : UNRWA muss Jerusalem bis Ende Januar verlassen",
-      "teaser": "Israels UN-Botschafter hat das Palästinenserhilfswerk UNRWA aufgefordert, die Arbeit in Jerusalem einzustellen. Genutzte Gebäude sollen bis zum 30. Januar geräumt werden.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/unrwa-israel-nahost-palaestinenser-hilfswerk-jerusalem-datum",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/unrwa-in-jerusalem/wide__892x501",
-      "image_title": "Israel: Die Außenstelle des Hilfswerks der Vereinten Nationen für Palästinaflüchtlinge im Nahen Osten (UNRWA) in Jerusalem"
+      "title": "Neue Amtszeit von Donald Trump : \"America first\" mit dem Holzhammer",
+      "teaser": "Trump will die USA umkrempeln. Wir schauen uns seine ersten vier Tage im Amt genau an – denn die könnten eine Miniatur seiner Politik der nächsten vier Jahre sein.",
+      "url": "https://www.zeit.de/politik/2025-01/neue-amtszeit-donald-trump-executive-orders-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/neue-amtszeit-donald-trump-executive-orders-nachrichtenpodcast-bild/wide__892x501",
+      "image_title": "Neue Amtszeit von Donald Trump: Washington , DC - January 20: President Donald Trump signs a series of executive orders at the White House on January 20, 2025, in Washington, DC. (Photo by Jabin Botsford /The Washington Post via Getty Images)"
     },
     {
       "title": "Verlagsangebot : Die richtige Ernährung kann so schön und einfach sein",
@@ -604,11 +582,11 @@
       "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Angriff auf das Kapitol : Richter verbietet Rechtsextremisten Einreise nach Washington, D. C.",
-      "teaser": "Mehreren begnadigten Teilnehmern des Sturms auf das Kapitol wird der Zugang zur Hauptstadt der USA untersagt. Unter ihnen ist der bekannte Rechtsextremist Stewart Rhodes.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/sturm-kapitol-stewart-rhodes-entlassung-washington",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/sturm-kapitol-stewart-rhodes-entlassung-washington-bild/super__430x286",
-      "image_title": "Angriff auf das Kapitol: WASHINGTON, DC - JANUARY 22: Oath Keepers founder Stewart Rhodes speaks to the press in the Cannon Rotunda on January 22, 2025 in Washington, DC. Rhodes and Ivan Raiklin met with U.S. Reps. Gus Bilirakis (R-FL) to discuss the release of Jeremy Brown who was sentenced to 7 years after his role in the January 6, 2021 attack on the U.S. Capitol. Rhodes, who was among about the 1,500 criminal defendants who were charged in the January 6 attacks was pardoned by President Donald Trump. (Photo by Kayla Bartkowski/Getty Images)"
+      "title": "Israel : UNRWA muss Jerusalem bis Ende Januar verlassen",
+      "teaser": "Israels UN-Botschafter hat das Palästinenserhilfswerk UNRWA aufgefordert, die Arbeit in Jerusalem einzustellen. Genutzte Gebäude sollen bis zum 30. Januar geräumt werden.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/unrwa-israel-nahost-palaestinenser-hilfswerk-jerusalem-datum",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/unrwa-in-jerusalem/super__430x286",
+      "image_title": "Israel: Die Außenstelle des Hilfswerks der Vereinten Nationen für Palästinaflüchtlinge im Nahen Osten (UNRWA) in Jerusalem"
     },
     {
       "title": "Österreich : René Benko muss in Untersuchungshaft",
@@ -688,6 +666,13 @@
       "image_title": "Papierlose Schule: \"Das ist Recyclingpapier, das bleibt im Kopierer hängen\""
     },
     {
+      "title": "Bücherpodcast : Hilft jetzt nur noch Alkohol?",
+      "teaser": "Bas Kasts neuer Bestseller erklärt, warum Wein, Bier und Co. lebensgefährlich sind. Außerdem im Bücherpodcast: Die Tochter von Giselé Pelicot erzählt ihre Geschichte.",
+      "url": "https://www.zeit.de/kultur/2025-01/bas-kast-alkohol-gesundheit-buecherpodcast",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/maja-beckers-alexander-cammann-literatur-podcast-aufmacherfoto/super__320x213",
+      "image_title": "Bücherpodcast: Hilft jetzt nur noch Alkohol?"
+    },
+    {
       "title": "Politikpodcast : \"In der aktuellen Lage steckt tatsächlich viel Anlass für Hoffnung\"",
       "teaser": "Im Schatten des Amtsantritts von Donald Trump entwickelt sich das Geiseldrama in Nahost weiter: Hält der Deal mit der Hamas? Und wie eng wird es für Benjamin Netanjahu?",
       "url": "https://www.zeit.de/politik/2025-01/nahost-benjamin-netanjahu-israel-geiseln-politikpodcast",
@@ -728,13 +713,6 @@
       "url": "https://www.zeit.de/gesellschaft/2025-01/krankmeldung-gehalt-angestellte-alpenpodcast",
       "image_url": "https://img.zeit.de/politik/2025-01/krankmeldung-gehalt-angestellte-alpenpodcast-bild/super__320x213",
       "image_title": "Krankmeldung: Trotzdem zur Arbeit?"
-    },
-    {
-      "title": "Krisenpodcast \"Auch das noch?\" : Datenanalyse fürs Klima – und gegen Verbrecher",
-      "teaser": "Komplexitätsforscher Stefan Thurner analysiert Daten. Er spürt so Kriminelle auf, verfolgt Lieferketten und könnte beim Klimaschutz helfen.",
-      "url": "https://www.zeit.de/wissen/2025-01/datenanalyse-komplexitaetsforschung-stephan-thurner-krisenpodcast",
-      "image_url": "https://img.zeit.de/wissen/2025-01/datenanalyse-komplexitaetsforschung-stephan-thurner-krisenpodcast-bild/super__320x213",
-      "image_title": "Krisenpodcast \"Auch das noch?\": Datenanalyse fürs Klima – und gegen Verbrecher"
     },
     {
       "title": "Brandbrief der Autozulieferer : Das passiert, wenn man Chinas Planwirtschaft kopieren will",
@@ -938,18 +916,18 @@
       "image_title": "Waldbrände in Kalifornien: Warum dieses Haus noch steht"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Benachteiligung : Wann kommt die Steuererleichterung für Übergrößen?",
+      "teaser": "Zur Nazizeit waren die Deutschen ein Volk selbsternannter Helden. Heute sind sie ein Volk selbsternannter Opfer. Jeder fühlt sich irgendwie benachteiligt. Das nervt.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-01/benachteiligung-zweifel-deutschland-nazizeit-volk",
+      "image_url": "https://img.zeit.de/zeit-verlag/2025-01/benachteiligung-zweifel-deutschland-nazizeit-volk-bild-2/wide__892x501",
+      "image_title": "Benachteiligung: Wann kommt die Steuererleichterung für Übergrößen?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Handtaschenhaken : Sie hat einen Haken",
       "teaser": "Dieser Handtaschenhaken ist zugleich Accessoire und Kommunikationswerkzeug. Kein Wunder, dass unsere Autorin ihn von ihrer Urgroßmutter abgeschaut hat.",
       "url": "https://www.zeit.de/zeit-magazin/2025-01/handtaschenhaken-tasche-accessoire-alltag",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-01/zwe-ode-an-ein-ding-taschenhaken/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025-01/zwe-ode-an-ein-ding-taschenhaken/super__430x286",
       "image_title": "Handtaschenhaken: Sie hat einen Haken"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bananen-Curry : Fanfaren für diese Bananen",
-      "teaser": "Ins Müsli gequetscht, zu Chips getrocknet, ins Bananenbrot gebacken: Kennt man. Aber wer Bananen noch nie gekocht hat, verpasst was im Leben. Dieses Curry ist der Beweis.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/bananen-curry-kokosmilch-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/bananen-curry-kokosmilch-rezept-bild/super__430x286",
-      "image_title": "Bananen-Curry: Fanfaren für diese Bananen"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -987,17 +965,24 @@
       "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bananen-Curry : Fanfaren für diese Bananen",
+      "teaser": "Ins Müsli gequetscht, zu Chips getrocknet, ins Bananenbrot gebacken: Kennt man. Aber wer Bananen noch nie gekocht hat, verpasst was im Leben. Dieses Curry ist der Beweis.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/bananen-curry-kokosmilch-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/bananen-curry-kokosmilch-rezept-bild/wide__892x501",
+      "image_title": "Bananen-Curry: Fanfaren für diese Bananen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rezepte für die Woche : Eine Woche voller Wintergemüse",
       "teaser": "Ein Meal Plan für Kohl- und Knollenfans: Diese Rezepte reichen fünf Tage lang, verwenden die jeweiligen Reste – und lassen sich einfrieren, wenn man sich umentscheidet.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/rezepte-woche-meal-planning-winter-gemuese",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/rezepte-woche-meal-planning-winter-gemuese-teaserbild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/rezepte-woche-meal-planning-winter-gemuese-teaserbild/super__430x286",
       "image_title": "Rezepte für die Woche: Eine Woche voller Wintergemüse"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Mhajeb : Hauchdünne Hülle mit aromatischer Fülle",
       "teaser": "Auf den ersten Blick sehen Mhajeb schlicht aus, doch in den dünnen Teigschichten verbergen sich karamellisierte Zwiebeln, Tomaten und Harissa. Einfach sind sie trotzdem.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/mhajeb-gefuellte-algerische-fladenbrote-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/mhajeb-teaser/super__430x286",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/mhajeb-teaser/super__320x213",
       "image_title": "Mhajeb: Hauchdünne Hülle mit aromatischer Fülle"
     },
     {
@@ -1029,13 +1014,6 @@
       "image_title": "Lemon Drizzle Cake: Lemon Drizzle Cake mit Mohn"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Goldene Hühnersuppe : Super Suppensonne",
-      "teaser": "Wenn sich unser Hausstern, die Sonne, länger nicht am Himmel zeigt, muss man das Dämmerlicht mit ordentlich Kurkuma aufhellen. Zum Beispiel in dieser goldenen Suppe.",
-      "url": "https://www.zeit.de/zeit-magazin/2025/03/goldene-huehnersuppe-kartoffel-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/03/suppensonne-bild-1/super__320x213",
-      "image_title": "Goldene Hühnersuppe: Super Suppensonne"
-    },
-    {
       "title": "Studium in den USA : Werden US-Unis fairer, wenn man sie mit Geld zuschüttet?",
       "teaser": "Wer in den USA studiert, muss sich krass verschulden. An einem New Yorker College ist dank einer Milliardärin Schluss damit. Klingt nach Märchen, ist aber komplizierter.",
       "url": "https://www.zeit.de/gesellschaft/2025-01/werden-us-unis-fairer-wenn-man-sie-mit-geld-zuschuettet",
@@ -1043,11 +1021,11 @@
       "image_title": "Studium in den USA: Werden US-Unis fairer, wenn man sie mit Geld zuschüttet?"
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot : Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Bundesliga – 19. Spieltag : Kiel gleicht in Wolfsburg spät aus",
@@ -1064,50 +1042,50 @@
       "image_title": "Biathlon: Norway's Tarjei Bo prepares during the zeroing prior the start of the men's 10km sprint event of the IBU Biathlon World Cup in Antholz-Anterselva, Italy, on January 24, 2025."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bernhard Nocht : Ist sein Name noch tragbar?",
+      "teaser": "Das Hamburger Institut für Tropenmedizin ist nach seinem ersten Direktor Bernhard Nocht benannt. Zwei Studien beleuchten seine Rolle im Kolonialismus und in der NS-Zeit.",
+      "url": "https://www.zeit.de/hamburg/2025-01/bernhard-nocht-kolonialismus-ns-zeit-hamburger-institut-tropenmedizin",
+      "image_url": "https://img.zeit.de/hamburg/2025-01/bernhard-nocht-kolonialismus/wide__892x501",
+      "image_title": "Bernhard Nocht: Außenansicht vom Bernhard Nocht Institut für Tropenmedizin in Hamburg Bernhard Nocht um 1912"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sprengmeister : \"Ich schiebe die Angst zur Seite\"",
       "teaser": "Michael Hein, 61, entschärft alte Bomben. Einen Zünder hat er als Mahnung behalten. Er kostete ihn fast das Leben.",
       "url": "https://www.zeit.de/2025/01/sprengmeister-bomben-entschaerfen-arbeit-kampfmittelraeumung",
-      "image_url": "https://img.zeit.de/2025/01/michael-hein-61-entschaerft-alte-bomben-einen-zuender-hat-er-als-mahnung-behalten-er-kostete-ihn-fas-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2025/01/michael-hein-61-entschaerft-alte-bomben-einen-zuender-hat-er-als-mahnung-behalten-er-kostete-ihn-fas-bild-1/super__430x286",
       "image_title": "Sprengmeister: Michael Hein"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rückblick : Warum der HSV-Fan aus Casablanca noch nie in Hamburg war",
-      "teaser": "Immer wieder haben wir in den vergangenen Monaten über Menschen berichtet, die vor einem Umbruch standen. Hier erzählen wir, wie es mit ihnen weiterging.",
-      "url": "https://www.zeit.de/2025/01/rueckblick-umbruch-leben-wende-berichte",
-      "image_url": "https://img.zeit.de/2025/01/was-wurde-eigentlich-aus-oussama-ritahiv-bild/super__430x286",
-      "image_title": "Rückblick: Oussama Ritahi, HSV-Fan aus Casablanca"
+      "title": "Migration: Kirchen gewähren deutlich häufiger Asyl",
+      "url": "https://www.zeit.de/news/2025-01/25/kirchen-gewaehren-deutlich-haeufiger-asyl"
+    },
+    {
+      "title": "Evolution: Drastische Unterschiede im Wachstum von Männern und Frauen",
+      "url": "https://www.zeit.de/news/2025-01/25/drastische-unterschiede-im-wachstum-von-maennern-und-frauen"
+    },
+    {
+      "title": "Kultur: Berlins Staatliche Museen halten an Eintrittspreisen fest",
+      "url": "https://www.zeit.de/news/2025-01/25/berlins-staatliche-museen-halten-an-eintrittspreisen-fest"
+    },
+    {
+      "title": "TV-Ausblick: \"Das Ende der Nacht\": Spannung pur im Saarbrücken-\"Tatort\"",
+      "url": "https://www.zeit.de/news/2025-01/25/das-ende-der-nacht-spannung-pur-im-saarbruecken-tatort"
+    },
+    {
+      "title": "Feuerwehreinsatz: Halbe Million Euro Schaden bei Hausbrand auf Rügen",
+      "url": "https://www.zeit.de/news/2025-01/25/halbe-million-euro-schaden-bei-hausbrand-auf-ruegen"
+    },
+    {
+      "title": "CO2-Bilanz: Paketbranche setzt zunehmend auf Elektro-Transporter",
+      "url": "https://www.zeit.de/news/2025-01/25/paketbranche-setzt-zunehmend-auf-elektro-transporter"
+    },
+    {
+      "title": "Lage im Überblick: Hamas soll heute weitere Geiseln freilassen",
+      "url": "https://www.zeit.de/news/2025-01/25/hamas-soll-heute-weitere-geiseln-freilassen"
     },
     {
       "title": "CO2-Bilanz: Elektro-Anteil in der Paketbranche steigt",
       "url": "https://www.zeit.de/news/2025-01/25/elektro-anteil-in-der-paketbranche-steigt"
-    },
-    {
-      "title": "Fußball-Nationalmannschaft: Trotz Nagelsmann-Verbleib: Völler plant nur bis 2026",
-      "url": "https://www.zeit.de/news/2025-01/25/trotz-nagelsmann-verbleib-voeller-plant-nur-bis-2026"
-    },
-    {
-      "title": "Gesellschaft: Schuster: Würde nicht überall studieren wollen",
-      "url": "https://www.zeit.de/news/2025-01/25/schuster-wuerde-nicht-ueberall-studieren-wollen"
-    },
-    {
-      "title": "Messerangriff und die Folgen: SPD: Merz wird mit Migrationsplänen scheitern",
-      "url": "https://www.zeit.de/news/2025-01/25/spd-merz-wird-mit-migrationsplaenen-scheitern"
-    },
-    {
-      "title": "Arbeitsmarkt: Millionen für Weiterbildung und mehr Tempo bei Zuwanderung",
-      "url": "https://www.zeit.de/news/2025-01/25/millionen-fuer-weiterbildung-und-mehr-tempo-bei-zuwanderung"
-    },
-    {
-      "title": "Fahrschulen: Mehr Fahrlehrer in Sachsen ausgebildet",
-      "url": "https://www.zeit.de/news/2025-01/25/mehr-fahrlehrer-in-sachsen-ausgebildet"
-    },
-    {
-      "title": "Aufgabe von Lokalen: Stabile Zahl der Gaststätten in größeren Städten",
-      "url": "https://www.zeit.de/news/2025-01/25/stabile-zahl-der-gaststaetten-in-groesseren-staedten"
-    },
-    {
-      "title": "Mindestlohn: Sachsen-Anhalt weit vorn bei Niedriglöhnen",
-      "url": "https://www.zeit.de/news/2025-01/25/sachsen-anhalt-weit-vorn-bei-niedrigloehnen"
     }
   ]
 }
