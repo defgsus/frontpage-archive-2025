@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-27T11:07:46",
+  "timestamp": "2025-01-27T12:16:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Silicon Labs Treiber+Software-Installer",
+      "url": "https://www.heise.de/news/Silicon-Labs-Software-und-Treiber-Installer-mit-DLL-Injection-Luecken-10257362.html"
+    },
+    {
       "title": "Palo-Alto-Serien PA-3200, PA-5200, PA-7000",
       "url": "https://www.heise.de/news/Palo-Alto-Sicherheitsluecken-in-Firmware-und-Bootloadern-von-Firewalls-10257031.html"
     },
@@ -44,13 +48,31 @@
       "url": "https://www.heise.de/news/Angriffe-auf-alte-jQuery-Bibliotheken-beobachtet-10254936.html"
     },
     {
-      "title": "SonicWall SMA1000",
-      "url": "https://www.heise.de/news/Sicherheits-Appliance-Angreifer-kapern-SonicWall-Geraete-mit-Systemkommandos-10254491.html"
+      "title": "Silicon Labs: Software- und Treiber-Installer mit DLL-Injection-Lücken",
+      "teaser": "In zehn Installationsprogrammen von Software und Treibern von Silicon Labs können Angreifer eine DLL-Injection-Schwachstelle missbrauchen.",
+      "url": "https://www.heise.de/news/Silicon-Labs-Software-und-Treiber-Installer-mit-DLL-Injection-Luecken-10257362.html",
+      "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
+    },
+    {
+      "title": "l+f: Scriptkiddies verbrennen sich an verseuchtem Trojaner-Baukasten",
+      "teaser": "Cyberkriminelle attackieren andere Cyberkriminelle und greifen unter anderem Log-in-Daten ab.",
+      "url": "https://www.heise.de/news/l-f-Scriptkiddies-verbrennen-sich-an-verseuchtem-Trojaner-Baukasten-10257398.html"
+    },
+    {
+      "title": "Mehr Cybersicherheitsvorfälle gegen kritische Infrastruktur",
+      "teaser": "Mal sind es Kriminelle, mal staatliche Akteure. Die Meldungen zu Vorfällen, die die Cybersicherheit wichtiger Einrichtungen betreffen, nehmen zu.",
+      "url": "https://www.heise.de/news/Mehr-Cybersicherheitsvorfaelle-gegen-kritische-Infrastruktur-10257402.html",
+      "image_title": "Farbverändertes Negativ eines Mobilfunkmastes mit mehreren Antennen"
     },
     {
       "title": "heise security Webinar: Wie sag ich’s meinem Chef? – Gesprachsführung für ITler",
       "teaser": "Ein wichtiges Security-Projekt steht an, aber es gibt weder Budget noch Ressourcen? Dieses Webinar hilft, dem Chef das Thema Sicherheit richtig \"zu verkaufen\".",
       "url": "https://www.heise.de/news/heise-security-Webinar-Wie-sag-ich-s-meinem-Chef-Gesprachsfuehrung-fuer-ITler-10256895.html"
+    },
+    {
+      "title": "Deutsche Unternehmen setzen auf Managed Services",
+      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Apples USB-C-Controller aus dem iPhone entschlüsselt",
@@ -68,11 +90,6 @@
       "teaser": "Die Firmware und Bootloader von einigen Palo-Alto-Firewalls weisen Sicherheitslecks auf, die Angreifern das Einnisten nach Angriffen ermöglichen.",
       "url": "https://www.heise.de/news/Palo-Alto-Sicherheitsluecken-in-Firmware-und-Bootloadern-von-Firewalls-10257031.html",
       "image_title": "Stilisierte Grafik: eine brennende Appliance im Netz"
-    },
-    {
-      "title": "Deutsche Unternehmen setzen auf Managed Services",
-      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Urteil: Google haftet bei betrügerischen Anzeigen als Störer nach dem DSA",
@@ -149,24 +166,6 @@
       "teaser": "Die Sicherheitslücke wird bereits von Missetätern angewendet, so der Hersteller. Wer die betroffene Appliance einsetzt, sollte patchen.",
       "url": "https://www.heise.de/news/Sicherheits-Appliance-Angreifer-kapern-SonicWall-Geraete-mit-Systemkommandos-10254491.html",
       "image_title": "Ein Threat Actor / Hacker mit Kapuzenpulli und Maske greift einen Serverschrank mit Aufschrift \"SonicWall\" an"
-    },
-    {
-      "title": "Prorussische DDoS-Angriffe auf Schweizer Einrichtungen",
-      "teaser": "Seit Dienstag stehen Schweizer Einrichtungen unter DDoS-Beschuss. Verursacher ist das prorussische Kollektiv \"NoName057(16)\".",
-      "url": "https://www.heise.de/news/Prorussische-DDoS-Angriffe-auf-Schweizer-Einrichtungen-10254044.html",
-      "image_title": "Server werden von Kriminellen angegriffen, Nutzer davor verzweifelt"
-    },
-    {
-      "title": "Schwachstellen in Jenkins-Plug-ins gefährden Entwicklungsumgebungen",
-      "teaser": "Aktuelle Versionen von mehreren Jenkins-Plug-ins schließen diverse Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Schwachstellen-in-Jenkins-Plug-ins-gefaehrden-Entwicklungsumgebungen-10254105.html",
-      "image_title": "Alarm-Symbol"
-    },
-    {
-      "title": "\"Geschenk\" an China: Untersuchung zu massivem Cyberangriff in den USA gestoppt",
-      "teaser": "Seit Monaten beschäftigt ein massiver Cyberangriff auf Provider die USA. Eine Untersuchung durch ein Beratergremium wurde nun offenbar abrupt gestoppt.",
-      "url": "https://www.heise.de/news/Geschenk-an-China-Untersuchung-zu-massivem-Cyberangriff-in-den-USA-gestoppt-10253945.html",
-      "image_title": "Digitale Darstellung der US-Flagge"
     },
     {
       "title": "C-Level Kommunikation",
