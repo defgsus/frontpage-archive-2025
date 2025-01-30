@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-30T17:07:51",
+  "timestamp": "2025-01-30T18:12:00",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -34,6 +34,12 @@
       "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
     }
   ],
   "articles": [
@@ -41,13 +47,12 @@
       "title": "SZ PlusExklusiv:„Mittwoch war der Tabubruch. Freitag wäre die Wiederholungstat“",
       "teaser": "SPD und Grüne sind entsetzt über Friedrich Merz. Nun könnte die Union erneut mit der AfD abstimmen – dieses Mal sogar über einen Gesetzentwurf. Doch schon jetzt ist klar: Es ist diese Woche etwas kaputtgegangen.",
       "url": "https://www.sueddeutsche.de/politik/union-afd-gesetzentwurf-abstimmung-spd-gruene-entsetzen-li.3192440",
-      "image_url": "https://www.sueddeutsche.de/2025/01/30/a839eddb-631d-4cdd-9ffb-03f5de37dab4.jpeg?rect=0,156,3000,1687&width=1000&fm=jpeg&q=60"
+      "image_url": "https://www.sueddeutsche.de/2025/01/30/a839eddb-631d-4cdd-9ffb-03f5de37dab4.jpeg?rect=0,313,3000,1687&width=1000&fm=jpeg&q=60"
     },
     {
-      "title": "SZ PlusMeinung:Olaf Scholz nutzt eine Chance, die er gar nicht mehr zu haben schien",
-      "url": "https://www.sueddeutsche.de/meinung/olaf-scholz-friedrich-merz-afd-wahlkampf-kommentar-li.3192415",
-      "image_url": "https://www.sueddeutsche.de/2024/07/15/8ac472e5-96db-43b5-ae33-54cd4935763c.png?width=45&ar=1:1&fit=crop&fm=png&q=60",
-      "image_title": "Portrait Korrespondent im Berliner Parlamentsbüro Daniel Brössler"
+      "title": "SZ PlusExklusiv:Bundestagspräsidentin warnt Merz vor „schwerem Schaden“",
+      "teaser": "Die Union will am Freitag das Zustrombegrenzungsgesetz in den Bundestag einbringen – und könnte erneut mit der AfD abstimmen. Franz Müntefering findet das „wirklich dilettantisch“, Viktor Orbán applaudiert. Und Bärbel Bas schickt eine Warnung.",
+      "url": "https://www.sueddeutsche.de/politik/merkel-merz-zusammenarbeit-afd-bundestag-li.3192438"
     },
     {
       "title": "Live:Welle von Protesten gegen das Vorgehen von CDU und CSU",
@@ -60,13 +65,8 @@
       "url": "https://www.sueddeutsche.de/politik/bundestagswahl-2025-angela-merkel-friedrich-merz-5-punkte-plan-afd-migration-li.3192493"
     },
     {
-      "title": "SZ PlusExklusiv:„Tun Sie es nicht, Herr Merz“",
-      "teaser": "Die Auschwitz-Überlebende Eva Umlauf warnt den CDU-Chef in einem Brief davor, Politik mit der Zustimmung von Rechten zu machen – und zieht einen historischen Vergleich.",
-      "url": "https://www.sueddeutsche.de/kultur/eva-umlauf-appell-friedrich-merz-abstimmung-migration-afd-li.3192103",
-      "image_url": "https://www.sueddeutsche.de/2025/01/30/4729e676-4c70-42d5-8f2d-b4547702ca5f.jpeg?rect=0,207,4000,2250&width=630&fm=jpeg&q=60"
-    },
-    {
       "title": "Eklat im bayerischen Landtag: SPD wirft CSU Abkehr von Demokratie vor",
+      "teaser": "Die CSU reagiert empört und fordert umgehend eine Entschuldigung. CSU-Fraktionschef Klaus Holetschek spricht von einem Skandal.",
       "url": "https://www.sueddeutsche.de/bayern/bayern-landtag-spd-csu-demokratie-vorwuerfe-eklat-li.3192873"
     },
     {
@@ -102,7 +102,7 @@
     },
     {
       "title": "SZ PlusUSA:Der überfüllte Himmel über Washington",
-      "teaser": "Über den Flugbetrieb der US-Hauptstadt wird längst diskutiert. Am Himmel gehe es zu wie in einem Bienenstock, heißt es. Nun kam es beim Landeanflug eines Passagierflugzeugs zur Katastrophe. Wie konnte das geschehen?",
+      "teaser": "Über der Hauptstadt gehe es zu wie in einem Bienenstock, heißt es. Nun kam es beim Landeanflug eines Passagierflugzeugs zu einer tödlichen Katastrophe. Und Donald Trump? Macht die Demokraten und die Diversität mitverantwortlich.",
       "url": "https://www.sueddeutsche.de/panorama/flugzeugkollision-washington-tote-zusammenstoss-militaerhubschrauber-li.3192667",
       "image_url": "https://www.sueddeutsche.de/2025/01/30/78cdee4a-0bbe-4cc6-b663-7a8352920ff2.jpeg?rect=0,151,2900,1631&width=630&fm=jpeg&q=60"
     },
@@ -113,22 +113,16 @@
       "image_url": "https://www.sueddeutsche.de/2025/01/29/afcbca17-a6fe-4462-98c2-84ebb9bcc418.jpeg?rect=76,97,955,537&width=630&fm=jpeg&q=60"
     },
     {
-      "title": "Frankreich:Hat Dominique Pelicot auch gemordet?",
-      "teaser": "Nach dem Prozess von Avignon geht die Justiz in Frankreich einer Reihe ungeklärter Verbrechen nach, in denen Frauen betäubt, vergewaltigt und in einem Fall auch getötet wurden. Im Verdacht: Dominique Pelicot.",
-      "url": "https://www.sueddeutsche.de/panorama/dominique-pelicot-gisele-pelicot-verdacht-mord-vergewaltigung-cold-case-li.3192255",
-      "image_url": "https://www.sueddeutsche.de/2024/09/17/c21ce04b-f9a4-431b-9450-88fb750fa351.jpeg?rect=0,411,3956,2226&width=465&fm=jpeg&q=60"
+      "title": "Psychische Gesundheit:„Mir fehlen die Worte, um auszudrücken, was in mir vorgeht“",
+      "teaser": "Unser Autor findet eine Leiche und denkt zunächst – gar nichts. Er funktioniert nur. Doch Tage später fängt er plötzlich an zu weinen. Was geschieht da mit ihm?",
+      "url": "https://www.sueddeutsche.de/muenchen/ebersberg/ebersberg-ersthelfer-psychische-gesundheit-kriseninterventionsteam-lux.YZZJZKt9SeA2HBu9TGcKRc",
+      "image_url": "https://www.sueddeutsche.de/2022/06/14/235b3c84-9bd8-45df-8d46-c3739cf1e544.jpeg?rect=255,146,1095,616&width=465&fm=jpeg&q=60"
     },
     {
-      "title": "Sängerin Anna Buchegger:„Unser Vaterland wackelt auf der Bierbank“",
-      "teaser": "Die österreichische Sängerin Anna Buchegger will sich den Begriff „Heimat“ von den Rechten zurückholen. Die wünschen ihr dafür Impfschäden. Über einen Kulturkampf mit Hackbrett und Dream-Pop-Beats.",
-      "url": "https://www.sueddeutsche.de/kultur/anna-buchegger-folklore-popmusik-li.3183693",
-      "image_url": "https://www.sueddeutsche.de/2025/01/16/9355b336-0da3-4c35-a9b0-8dbbed2e2205.jpeg?rect=226,652,1442,812&width=465&fm=jpeg&q=60"
-    },
-    {
-      "title": "SZ MagazinEssen und Trinken:„Ich will Nudeln! Nur Nudeln!“",
-      "teaser": "Viele Eltern verzweifeln daran, dass ihre Kinder fast jede Mahlzeit ablehnen und nie etwas Neues probieren wollen. Wie sollte man darauf reagieren? 16 Tipps.",
-      "url": "https://sz-magazin.sueddeutsche.de/essen-und-trinken/picky-eating-tipps-kinder-essen-maekelig-94724",
-      "image_url": "https://www.sueddeutsche.de/2025/01/14/61545b09-fdd7-4215-bbba-32eadf5ab1bd.jpeg?rect=0,259,3200,1800&width=465&fm=jpeg&q=60"
+      "title": "ExklusivBrief an CDU-Vorsitzenden:„Tun Sie es nicht, Herr Merz“",
+      "teaser": "Die Auschwitz-Überlebende Eva Umlauf warnt den CDU-Chef in einem Brief davor, Politik mit der Zustimmung von Rechten zu machen – und zieht einen historischen Vergleich.",
+      "url": "https://www.sueddeutsche.de/kultur/eva-umlauf-appell-friedrich-merz-abstimmung-migration-afd-li.3192103",
+      "image_url": "https://www.sueddeutsche.de/2025/01/30/4729e676-4c70-42d5-8f2d-b4547702ca5f.jpeg?rect=0,207,4000,2250&width=465&fm=jpeg&q=60"
     },
     {
       "title": "Autokauf:Tesla, wir haben ein Problem",
@@ -137,15 +131,21 @@
       "image_url": "https://www.sueddeutsche.de/2025/01/30/5e5ecd01-668f-4579-a6e0-88a996f4e247.jpeg?rect=0,375,4000,2250&width=465&fm=jpeg&q=60"
     },
     {
+      "title": "Sängerin Anna Buchegger:„Unser Vaterland wackelt auf der Bierbank“",
+      "teaser": "Die österreichische Sängerin Anna Buchegger will sich den Begriff „Heimat“ von den Rechten zurückholen. Die wünschen ihr dafür Impfschäden. Über einen Kulturkampf mit Hackbrett und Dream-Pop-Beats.",
+      "url": "https://www.sueddeutsche.de/kultur/anna-buchegger-folklore-popmusik-li.3183693",
+      "image_url": "https://www.sueddeutsche.de/2025/01/16/9355b336-0da3-4c35-a9b0-8dbbed2e2205.jpeg?rect=226,652,1442,812&width=465&fm=jpeg&q=60"
+    },
+    {
       "title": "SZ PlusMillionen-Einigung:Der Zuckerberg-Trump-Deal – der Stoff, aus dem eigentlich nur Filme sein sollten",
       "url": "https://www.sueddeutsche.de/wirtschaft/zuckerberg-trump-meta-politik-social-media-li.3192412",
       "image_url": "https://www.sueddeutsche.de/2025/01/30/aadaebd0-7d05-4da5-8ecb-ad5e0432e071.jpeg?width=630&ar=16:9&fit=crop&fm=jpeg&q=60"
     },
     {
-      "title": "SZ PlusMigration:Merz begeht einen Tabubruch – für wenig Ertrag",
-      "url": "https://www.sueddeutsche.de/meinung/kommentar-merz-cdu-asyl-brandmauer-afd-li.3191121",
-      "image_url": "https://www.sueddeutsche.de/2024/07/15/59270f02-2427-49b6-aec5-a1223520bcb4.png?width=45&ar=1:1&fit=crop&fm=png&q=60",
-      "image_title": "Portrait Leiter der Parlamentsredaktion Nicolas Richter"
+      "title": "SZ PlusBundestagswahl:Olaf Scholz nutzt eine Chance, die er gar nicht mehr zu haben schien",
+      "url": "https://www.sueddeutsche.de/meinung/olaf-scholz-friedrich-merz-afd-wahlkampf-kommentar-li.3192415",
+      "image_url": "https://www.sueddeutsche.de/2024/07/15/8ac472e5-96db-43b5-ae33-54cd4935763c.png?width=45&ar=1:1&fit=crop&fm=png&q=60",
+      "image_title": "Portrait Korrespondent im Berliner Parlamentsbüro Daniel Brössler"
     },
     {
       "title": "SZ PlusAus bei der Handball-WM:Olympia-Silber ist der falsche Maßstab für die deutschen Handballer",
@@ -164,22 +164,32 @@
       "image_url": "https://www.sueddeutsche.de/2025/01/28/c0105e40-5a77-44de-9d51-10e52628e1c3.jpeg?rect=224,466,2727,1534&width=1000&fm=jpeg&q=60"
     },
     {
-      "title": "Schweden:Tödliche Schüsse auf den Mann, der Koran-Bücher verbrannte",
-      "teaser": "Der gebürtige Iraker Salwan Momika löste weltweit Proteste von Muslimen aus, als er 2023 öffentlich Exemplare ihrer heiligen Schrift verbrannte. Die Polizei ermittelt nun wegen Mordverdachts.",
-      "url": "https://www.sueddeutsche.de/politik/schweden-koranverbrennungen-momika-erschossen-li.3192479",
-      "image_url": "https://www.sueddeutsche.de/2025/01/30/bbc4e158-85cf-4ef1-88af-daecc891be7e.jpeg?rect=0,276,3500,1969&width=465&fm=jpeg&q=60"
-    },
-    {
       "title": "Bundesverfassungsgericht:Wahl eines neuen Richters geplatzt",
       "teaser": "Eigentlich sollte in Karlsruhe längst ein neuer Verfassungsrichter Recht sprechen. Doch der Kandidat der Union passt SPD und Grünen überhaupt nicht. Nun wurde die Kür erst mal verschoben. Muss CDU-Chef Merz den Bewerber wechseln?",
       "url": "https://www.sueddeutsche.de/politik/bundesverfassungsgericht-richterwahl-bundestag-cdu-asylkritiker-li.3192419",
       "image_url": "https://www.sueddeutsche.de/2025/01/30/fad8eda2-9235-4636-a548-7315d8d2ca59.jpeg?rect=0,0,3213,1807&width=465&fm=jpeg&q=60"
     },
     {
+      "title": "SZ PlusExklusivVerbraucher:Satelliten sollen Handy-Funklöcher stopfen",
+      "teaser": "Der Vodafone-Konzern will es Kunden demnächst ermöglichen, mit normalen Handys über Satelliten zu telefonieren oder im Internet zu surfen.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/vodafone-ast-satelliten-funkloecher-apple-li.3192185",
+      "image_url": "https://www.sueddeutsche.de/2022/06/08/25b37d7c-8a74-424e-af71-5cf10b62a3de.jpeg?rect=0,69,1353,761&width=465&fm=jpeg&q=60"
+    },
+    {
       "title": "SZ PlusZum Tod von Rolf Benz:Der Sofakönig",
       "teaser": "Er schuf blühende Sitzlandschaften und prägte damit den Wohnstil der BRD. Ein Nachruf auf den Designer Rolf Benz, der auch die legendäre Couch für „Wetten, dass..?“ gestaltet hat.",
       "url": "https://www.sueddeutsche.de/kultur/rolf-benz-tot-nachruf-designer-wohnen-li.3192744",
       "image_url": "https://www.sueddeutsche.de/2025/01/30/09b465e7-f9da-4ca8-9a4b-3f0c6515bb10.jpeg?rect=0,37,3000,1687&width=465&fm=jpeg&q=60"
+    },
+    {
+      "title": "SZ PlusGesundheit in Bayern:Warum Bayern bei der Krankenhausreform von NRW lernen kann",
+      "teaser": "Wie soll die Krankenhauslandschaft in Bayern künftig aussehen? Landräte, Gemeinden und auch die Opposition fordern klarere Vorgaben des Freistaates. Als Beispiel wird immer wieder NRW genannt. Kann sich der Freistaat im Norden etwas abschauen?",
+      "url": "https://www.sueddeutsche.de/bayern/krankenhaeuser-klinkreform-bayern-nrw-li.3187139"
+    },
+    {
+      "title": "Schweden:Tödliche Schüsse auf den Mann, der Koran-Bücher verbrannte",
+      "teaser": "Der gebürtige Iraker Salwan Momika löste weltweit Proteste von Muslimen aus, als er 2023 öffentlich Exemplare ihrer heiligen Schrift verbrannte. Die Polizei ermittelt nun wegen Mordverdachts.",
+      "url": "https://www.sueddeutsche.de/politik/schweden-koranverbrennungen-momika-erschossen-li.3192479"
     },
     {
       "title": "Nach Bundestagsentscheidung:Proteste vor Münchner CSU-Zentrale: Mehrere Tausend wollen „Brandmauer“ errichten",
@@ -277,7 +287,13 @@
       "title": "Leute:„Das war nicht korrekt“",
       "teaser": "„Culcha Candela“ entschuldigen sich für Pöbeleien gegen einen Fan. Jackie Chan begrüßt das Jahr der Schlange. Und André Schürrle geht mal wieder ans Limit.",
       "url": "https://www.sueddeutsche.de/panorama/promis-culcha-candela-fans-instagram-musik-li.3192398",
-      "image_url": "https://www.sueddeutsche.de/2025/01/30/e7bd4815-fb1c-448a-9ad7-851e299850c6.jpeg?rect=0,156,3000,1687&width=465&fm=jpeg&q=60"
+      "image_url": "https://www.sueddeutsche.de/2025/01/30/e7bd4815-fb1c-448a-9ad7-851e299850c6.jpeg?rect=0,156,3000,1687&width=630&fm=jpeg&q=60"
+    },
+    {
+      "title": "SZ Plus„Poison“ im Kino:Die Lücke",
+      "teaser": "Désirée Nosbusch erzählt in ihrem Regiedebüt „Poison“ von zwei Eltern, die sich am Grab des Sohnes wiedertreffen. Lässt sich der Tod eines Kindes jemals verarbeiten?",
+      "url": "https://www.sueddeutsche.de/kultur/poison-film-rezension-li.3170699",
+      "image_url": "https://www.sueddeutsche.de/2025/01/27/72656635-fb88-4627-ba09-4c8af0f6adb9.jpeg?rect=0,59,3000,1687&width=465&fm=jpeg&q=60"
     },
     {
       "title": "SZ PlusNeues Album von Bonnie „Prince“ Billy:„Nur Feiglinge tragen Schusswaffen“",
@@ -461,26 +477,26 @@
       "image_url": "https://www.sueddeutsche.de/2025/01/08/2397e387-d0c4-44de-821b-913c5a1a28e5.jpeg?width=217&ar=4:3&fit=crop&fm=jpeg&q=60"
     },
     {
-      "title": "SZ PlusGesundheit in Bayern:Warum Bayern bei der Krankenhausreform von NRW lernen kann",
-      "teaser": "Wie soll die Krankenhauslandschaft in Bayern künftig aussehen? Landräte, Gemeinden und auch die Opposition fordern klarere Vorgaben des Freistaates. Als Beispiel wird immer wieder NRW genannt. Kann sich der Freistaat im Norden etwas abschauen?",
-      "url": "https://www.sueddeutsche.de/bayern/krankenhaeuser-klinkreform-bayern-nrw-li.3187139",
-      "image_url": "https://www.sueddeutsche.de/2025/01/29/4bb09226-f2c1-4b46-8fe0-f0f3ab6a7561.jpeg?rect=0,209,4000,2250&width=630&fm=jpeg&q=60"
-    },
-    {
       "title": "SZ PlusOB-Wahl:Wer rettet das Erfolgsmodell Ingolstadt?",
+      "teaser": "Die einstige Boom-Stadt steckt mit Audi in der Krise. Nun wird ein neuer Oberbürgermeister gewählt. Doch im Wahlkampf vermeiden die Kandidaten unpopuläre Aussagen – und hoffen, dass alles wieder gut wird.",
       "url": "https://www.sueddeutsche.de/bayern/ingolstadt-audi-ob-wahlkampf-csu-spd-scharpf-li.3190263",
-      "image_url": "https://www.sueddeutsche.de/2022/06/21/aa6e0027-62df-460c-b01d-154c6b71525c.jpeg?rect=0,0,1200,900&width=217&fm=jpeg&q=60"
+      "image_url": "https://www.sueddeutsche.de/2022/06/21/aa6e0027-62df-460c-b01d-154c6b71525c.jpeg?rect=0,140,1352,760&width=630&fm=jpeg&q=60"
     },
     {
-      "title": "Eklat in Rosenheimer Stadtrat:„Nazis raus“ im Rathaus",
-      "url": "https://www.sueddeutsche.de/bayern/demonstration-bauer-stadtrat-rosenheim-afd-li.3192465",
+      "title": "Eklat im Rosenheimer Rathaus:Stadtrat vereidigt, der sogar der AfD zu extrem war",
+      "url": "https://www.sueddeutsche.de/bayern/demonstration-bauer-stadtrat-rosenheim-afd-rechtsextremismus-li.3192465",
       "image_url": "https://www.sueddeutsche.de/2022/06/22/92e17f2d-37e7-454a-8e80-0d3e75a09067.jpeg?rect=62,0,1200,900&width=217&fm=jpeg&q=60"
+    },
+    {
+      "title": "Innenminister berichtet im Landtag:Gegen den Angreifer von Aschaffenburg liefen 18 Strafverfahren",
+      "url": "https://www.sueddeutsche.de/bayern/aschaffenburg-totes-kind-messerangriff-strafverfahren-verdaechtiger-migration-li.3191055",
+      "image_url": "https://www.sueddeutsche.de/2025/01/29/50911446-703f-409a-8562-e062aaee58e3.jpeg?rect=194,0,3112,2334&width=217&fm=jpeg&q=60"
     },
     {
       "title": "Momentaufnahmen im Januar:Bilder des Tages",
       "teaser": "Schönes, Erschreckendes, Absurdes und ganz Alltägliches: Momentaufnahmen aus allen Ecken der Welt, laufend aktualisiert.",
-      "url": "https://www.sueddeutsche.de/leben/bilder-des-tages-fotografie-pressefotografie-li.3191941",
-      "image_url": "https://www.sueddeutsche.de/2025/01/29/3a07d18d-4caf-42d1-b75a-6a10b4d31d6e.jpeg?rect=0,183,3500,1969&width=630&fm=jpeg&q=60"
+      "url": "https://www.sueddeutsche.de/leben/bilder-des-tages-fotografie-pressefotografie-li.3192822",
+      "image_url": "https://www.sueddeutsche.de/2025/01/30/50e16178-2500-456b-a338-1b54cd46b914.jpeg?rect=0,209,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
       "title": "Einmal im Leben:Mit dem Boot auf dem Ganges fahren",
@@ -493,20 +509,20 @@
       "image_url": "https://www.sueddeutsche.de/2025/01/22/d46291a5-1c87-4d3c-877d-50d790fb26b2.jpeg?rect=318,0,3362,2522&width=217&fm=jpeg&q=60"
     },
     {
-      "title": "SZ PlusSPD und Grüne:Erst Tränen, dann Entschlossenheit",
-      "teaser": "Sozialdemokraten und Grüne sind nach der Migrationsabstimmung in Schockstarre. Einige können sich keine Koalition unter einem Kanzler Merz mehr vorstellen. Irgendwann weicht das Entsetzen neuem Mut – doch die großen Fragen bleiben.",
-      "url": "https://www.sueddeutsche.de/politik/gruene-spd-merz-union-afd-5-punkte-plan-bundestagswahl-li.3192188",
-      "image_url": "https://www.sueddeutsche.de/2025/01/29/18ca297f-8d84-4abf-bae3-e760e34d3ba5.jpeg?rect=0,130,3000,1687&width=630&fm=jpeg&q=60"
+      "title": "SZ PlusCDU/CSU:Was kommt nach dem großen Knall?",
+      "teaser": "An diesem Freitag stellen CDU und CSU im Bundestag ein Gesetz zur Abstimmung, das den Zustrom von Migranten begrenzen soll. Wie schon am Mittwoch könnte eine Mehrheit zusammen mit der AfD zustande kommen. Die wichtigsten Fragen und Antworten.",
+      "url": "https://www.sueddeutsche.de/politik/asyl-union-afd-li.3192442",
+      "image_url": "https://www.sueddeutsche.de/2025/01/30/7ee4c5df-f8c8-4aed-ade4-938ac274267a.jpeg?rect=0,174,3000,1687&width=630&fm=jpeg&q=60"
     },
     {
-      "title": "SZ PlusBerlin:Das mach' ich doch mit Rechts",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/bundestag-migration-merz-scholz-debatte-berlin-e749546/",
-      "image_url": "https://www.sueddeutsche.de/2025/01/29/8c984068-e450-463d-a7cf-76b05494f52e.jpeg?rect=111,0,1777,1333&width=217&fm=jpeg&q=60"
+      "title": "AfD:Ins Blaue hinein",
+      "url": "https://www.sueddeutsche.de/politik/unionsantrag-asylpolitik-afd-li.3192445",
+      "image_url": "https://www.sueddeutsche.de/2025/01/30/2842f908-002d-4dfe-b76e-7b6d22e47f60.jpeg?rect=194,0,3112,2334&width=217&fm=jpeg&q=60"
     },
     {
-      "title": "SZ PlusMeinungAsylpolitik:Mit ihrem schrillen Kurs vergrault die Union viele christliche Wähler",
-      "url": "https://www.sueddeutsche.de/meinung/kirche-asylpolitik-merz-union-kommentar-li.3191737",
-      "image_url": "https://www.sueddeutsche.de/2025/01/29/cad6c2ad-7383-4ca2-a1dc-3d429e60e548.jpeg?rect=190,0,3620,2715&width=217&fm=jpeg&q=60"
+      "title": "SZ PlusBundestagswahl:Wie die Parteien die Migration verringern wollen",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/bundestagswahl-2025-parteien-migration-plaene-wahlprogramme-im-check-e591584/",
+      "image_url": "https://www.sueddeutsche.de/2025/01/29/a7bd635e-edf3-4d78-a13f-6ff39fcee49d.png?rect=240,0,1440,1080&width=217&fm=png&q=60"
     },
     {
       "title": "SZ PlusGedenken an toten Radfahraktivisten:„Die Stimmung im Straßenverkehr ist aggressiver geworden“",
@@ -815,36 +831,36 @@
       "image_url": "https://www.sueddeutsche.de/2023/08/14/59fa31bd-ba4f-421f-b138-739da7b0b52c.jpeg?rect=174,0,853,640&width=217&fm=jpeg&q=60"
     },
     {
-      "title": "Großes Bärchen:Ab 18.990 Euro: Fiat legt den Panda neu auf",
-      "url": "https://www.sueddeutsche.de/wirtschaft/grosses-baerchen-ab-18-990-euro-fiat-legt-den-panda-neu-auf-dpa.urn-newsml-dpa-com-20090101-250130-930-360807"
+      "title": "Wahlkampf:Tausende Menschen demonstrieren vor CDU-Zentrale",
+      "url": "https://www.sueddeutsche.de/politik/wahlkampf-tausende-menschen-demonstrieren-vor-cdu-zentrale-dpa.urn-newsml-dpa-com-20090101-250130-930-360790"
     },
     {
-      "title": "Angestrebte Klimaneutralität:Anpassungen beim Klimaschutzgesetz verabschiedet",
-      "url": "https://www.sueddeutsche.de/wirtschaft/angestrebte-klimaneutralitaet-anpassungen-beim-klimaschutzgesetz-verabschiedet-dpa.urn-newsml-dpa-com-20090101-250130-930-360783"
+      "title": "Gaza-Krieg:Hamas bestätigt erstmals Tod ihres Militärchefs",
+      "url": "https://www.sueddeutsche.de/politik/gaza-krieg-hamas-bestaetigt-erstmals-tod-ihres-militaerchefs-dpa.urn-newsml-dpa-com-20090101-250130-930-360849"
     },
     {
-      "title": "Demonstrationen:Tausende demonstrieren in Leipzig nach Migrationsabstimmung",
-      "url": "https://www.sueddeutsche.de/politik/demonstrationen-tausende-demonstrieren-in-leipzig-nach-migrationsabstimmung-dpa.urn-newsml-dpa-com-20090101-250130-930-360800"
+      "title": "Rechtsprechung:BGH: Encrochat-Daten bei Cannabis-Prozessen verwertbar",
+      "url": "https://www.sueddeutsche.de/panorama/rechtsprechung-bgh-encrochat-daten-bei-cannabis-prozessen-verwertbar-dpa.urn-newsml-dpa-com-20090101-250130-930-360847"
     },
     {
-      "title": "Schule geräumt:14-Jährige versprüht auf Mädchentoilette Pfefferspray",
-      "url": "https://www.sueddeutsche.de/panorama/schule-geraeumt-14-jaehrige-versprueht-auf-maedchentoilette-pfefferspray-dpa.urn-newsml-dpa-com-20090101-250130-930-360798"
+      "title": "Bundestagswahl:Dresdner können ab Montag Wählerverzeichnis prüfen",
+      "url": "https://www.sueddeutsche.de/politik/bundestagswahl-dresdner-koennen-ab-montag-waehlerverzeichnis-pruefen-dpa.urn-newsml-dpa-com-20090101-250130-930-360837"
     },
     {
-      "title": "Fußball-Bundesliga:FC Augsburg verpflichtet Matsima langfristig",
-      "url": "https://www.sueddeutsche.de/bayern/fussball-bundesliga-fc-augsburg-verpflichtet-matsima-langfristig-dpa.urn-newsml-dpa-com-20090101-250130-930-360794"
+      "title": "2. Fußball-Bundesliga:Vor Spiel in Elversberg: Karlsruher SC verleiht Rupp",
+      "url": "https://www.sueddeutsche.de/sport/2-fussball-bundesliga-vor-spiel-in-elversberg-karlsruher-sc-verleiht-rupp-dpa.urn-newsml-dpa-com-20090101-250130-930-360368"
     },
     {
-      "title": "Wahlkampf:CDU schickt Personal wegen Demo nach Hause",
-      "url": "https://www.sueddeutsche.de/politik/wahlkampf-cdu-schickt-personal-wegen-demo-nach-hause-dpa.urn-newsml-dpa-com-20090101-250130-930-360790"
+      "title": "Betrugsverdacht:Schwarzarbeit im Nagelstudio? Großrazzia mit 120 Kräften",
+      "url": "https://www.sueddeutsche.de/panorama/betrugsverdacht-schwarzarbeit-im-nagelstudio-grossrazzia-mit-120-kraeften-dpa.urn-newsml-dpa-com-20090101-250130-930-360832"
     },
     {
-      "title": "Instagram-Post:SZA posiert mit Trikot von Heinsberger Gartenbauer",
-      "url": "https://www.sueddeutsche.de/panorama/instagram-post-sza-posiert-mit-trikot-von-heinsberger-gartenbauer-dpa.urn-newsml-dpa-com-20090101-250130-930-360631"
+      "title": "Kriminalität:Haftbefehl wegen Volksverhetzung und Bedrohung",
+      "url": "https://www.sueddeutsche.de/panorama/kriminalitaet-haftbefehl-wegen-volksverhetzung-und-bedrohung-dpa.urn-newsml-dpa-com-20090101-250130-930-360830"
     },
     {
-      "title": "Klimaneutrales Reisen:Bahn plant Forschung zu Motoren mit Wasserstoff in Bremen",
-      "url": "https://www.sueddeutsche.de/wirtschaft/klimaneutrales-reisen-bahn-plant-forschung-zu-motoren-mit-wasserstoff-in-bremen-dpa.urn-newsml-dpa-com-20090101-250130-930-360361"
+      "title": "Gefahr bei Brückenabbruch:Bomben-Spezialisten bei Abbruch an Dresdner Carolabrücke",
+      "url": "https://www.sueddeutsche.de/wirtschaft/gefahr-bei-brueckenabbruch-bomben-spezialisten-bei-abbruch-an-dresdner-carolabruecke-dpa.urn-newsml-dpa-com-20090101-250130-930-360532"
     },
     {
       "title": "Exklusiv„Ewigkeits-Chemikalie“:Angriff der PFAS-Lobby",
