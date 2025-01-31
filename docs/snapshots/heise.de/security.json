@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-31T08:11:50",
+  "timestamp": "2025-01-31T09:09:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Dell NetWorker",
+      "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Dell-NetWorker-geschlossen-10265156.html"
+    },
+    {
+      "title": "Zoho ManageEngine Applications Manager",
+      "url": "https://www.heise.de/news/Zoho-ManageEngine-Applications-Manager-Sicherheitsluecke-verschafft-Admin-Rechte-10265019.html"
+    },
+    {
       "title": "VMware Aria Operations",
       "url": "https://www.heise.de/news/VMware-Aria-Operations-Angreifer-koennen-Zugangsdaten-auslesen-10264941.html"
     },
@@ -40,18 +48,33 @@
       "url": "https://www.heise.de/news/Warten-auf-Patch-Das-Admin-Interface-Voyager-fuer-Laravel-Apps-ist-verwundbar-10263859.html"
     },
     {
-      "title": "Mitel und Zyxel",
-      "url": "https://www.heise.de/news/Mirai-Botnetz-Angreifer-attackieren-Zyxel-Router-und-Mitel-SIP-Phones-10261786.html"
+      "title": "Schadcode-Schlupfloch in Dell NetWorker geschlossen",
+      "teaser": "Angreifer können an mehreren Sicherheitslücken in Dells Backuplösung NetWorker ansetzen. Sicherheitsupdates stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/Schadcode-Schlupfloch-in-Dell-NetWorker-geschlossen-10265156.html",
+      "image_title": "Laptop steht auf Schreibtisch vor Serverschränken, es brennt"
     },
     {
-      "title": "Dell Enterprise SONiC Distribution",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Dell-Enterprise-Sonic-Distribution-kompromittieren-10261797.html"
+      "title": "Microsoft Teams will Betrüger effektiver auffliegen lassen",
+      "teaser": "Damit sich keine Hochstapler in Meetings einschmuggeln, will Microsoft zeitnah den Phishing-Schutz von Teams erweitern.",
+      "url": "https://www.heise.de/news/Microsoft-Teams-will-Betrueger-effektiver-auffliegen-lassen-10264995.html",
+      "image_title": "Teams auf Smartphone und PC"
+    },
+    {
+      "title": "Zoho ManageEngine Applications Manager: Sicherheitslücke verschafft Admin-Rechte",
+      "teaser": "Zohocorp warnt vor einer Schwachstelle in ManageEngine Applications Manager. Angreifer können sich Admin-Rechte verschaffen.",
+      "url": "https://www.heise.de/news/Zoho-ManageEngine-Applications-Manager-Sicherheitsluecke-verschafft-Admin-Rechte-10265019.html",
+      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
     },
     {
       "title": "VMware Aria Operations: Angreifer können Zugangsdaten auslesen",
       "teaser": "Broadcom warnt vor Sicherheitslücken in VMware Aria Operations, durch die Angreifer etwa Zugangsdaten ausspähen können. Updates stehen bereit.",
       "url": "https://www.heise.de/news/VMware-Aria-Operations-Angreifer-koennen-Zugangsdaten-auslesen-10264941.html",
       "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
+    },
+    {
+      "title": "Top 10 Nebenverdienstideen im Jahr 2025",
+      "teaser": "Sie wollen sich etwas hinzuverdienen, Ihren Vollzeitjob aber nicht aufgeben? Hier finden Sie 10 kreative Ideen, bewertet nach dem Zeit- und Arbeitsaufwand, den sie aufbringen müssen, sowie nach dem möglichen Verdienst",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6903812872&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Warten auf Patch: Das Admin-Interface Voyager für Laravel-Apps ist verwundbar",
@@ -69,11 +92,6 @@
       "teaser": "Derzeit attackieren Angreifer Geräte von Mitel und Zyxel. Für betroffenen Zyxel-Router gibt es bislang kein Sicherheitsupdate.",
       "url": "https://www.heise.de/news/Mirai-Botnetz-Angreifer-attackieren-Zyxel-Router-und-Mitel-SIP-Phones-10261786.html",
       "image_title": "Bild mit Binärcode und dem Wort Hacker"
-    },
-    {
-      "title": "Deutsche Unternehmen setzen auf Managed Services",
-      "teaser": "Insbesondere beim Thema Cyber-Security lassen sie sich von Spezialisten helfen. Einer aktuellen Studie zufolge setzt sich dieser Trend auch die nächsten Jahre fort.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6897346000&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Angreifer können Dell Enterprise Sonic Distribution kompromittieren",
@@ -152,24 +170,6 @@
       "teaser": "Die Gematik nahm die Sicherheitslücken bei der E-Patientenakte wohl erst nach Kenntnis von gültigen, auf Kleinanzeigen käuflichen Praxisidentitäten ernst.",
       "url": "https://www.heise.de/news/Elektronische-Patientenakte-Gematik-hielt-Sicherheitsluecke-fuer-akzeptabel-10259471.html",
       "image_title": "Person im Anzug zeigt auf ein offenes Sicherheitsschloss"
-    },
-    {
-      "title": "\"Passwort\" Folge 24: Zertifikate sind schwierig, Malwarenamen auch",
-      "teaser": "In der neuen Folge des Security-Podcasts geht es um ungewöhnliche Malware-Opfer, komische Malware-Namen und natürlich Zertifikate, Zertifikate und Zertifikate.",
-      "url": "https://www.heise.de/news/Passwort-Folge-24-Zertifikate-sind-schwierig-Malwarenamen-auch-10253780.html",
-      "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "NIS2-Umsetzung und Kritis-Dachgesetz endgültig gescheitert",
-      "teaser": "Die deutschen Umsetzungsgesetze zu CER- und NIS2-Richtlinie kommen nicht mehr vor der Bundestagswahl. Damit herrscht weiter Unsicherheit für die Wirtschaft.",
-      "url": "https://www.heise.de/news/NIS2-Umsetzung-und-Kritis-Dachgesetz-endgueltig-gescheitert-10259832.html",
-      "image_title": "Mast einer Überlandstromleitung mit stilisiertem Hintergrund und den sichtbaren Worten \"Cyber Attack\"."
-    },
-    {
-      "title": "Signal: Messenger ermöglicht künftig Synchronisierung von Nachrichten",
-      "teaser": "Der Signal-Messenger erhält ein Feature, um die bisherigen Nachrichten auf gekoppelte Geräte zu übertragen. Und es gibt bereits weitere Pläne hierfür.",
-      "url": "https://www.heise.de/news/Signal-Messenger-Neue-Funktion-um-Nachrichten-zu-synchronisieren-10259560.html",
-      "image_title": "Neue Synchronisierungsfunktion in Signal"
     },
     {
       "title": "C-Level Kommunikation",
