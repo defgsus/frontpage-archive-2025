@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-01T14:07:01",
+  "timestamp": "2025-02-01T15:08:11",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -110,11 +116,25 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wettrup im Emsland : Paradies aus Backstein",
+      "teaser": "Mietpreisbremse, sozialer Wohnungsbau, Kappungsgrenze: In Wettrup sind das Fremdwörter. Hier wohnen fast alle im Eigenheim. Sieht so das deutsche Glück aus?",
+      "url": "https://www.zeit.de/gesellschaft/2025-01/wettrup-im-emsland-eigenheim-cdu-konservativismus-scheibenschiessen",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-01/wettrup-im-emsland-eigenheim-cdu-konservativismus-scheibenschiessen-bild/wide__1000x562",
+      "image_title": "Wettrup im Emsland: Scheibenschießen (Schützenfest.) in Wettrup"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Geiselnahme : \"Was ihr seht, zeigt nur zehn Prozent ihrer Grausamkeit\"",
       "teaser": "Drei weitere Geiseln der Hamas sind frei, auch Yarden Bibas. Seine Frau und seine Söhne werden vermisst. Das Schicksal der Familie ist zum Sinnbild des Grauens geworden.",
       "url": "https://www.zeit.de/politik/ausland/2025-02/geiselnahme-gaza-familie-bibas-vater-frau-kinder",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-02/geiselnahme-gaza-familie-bibas-vater-frau-kinder-bild/wide__1000x562",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/geiselnahme-gaza-familie-bibas-vater-frau-kinder-bild/super__430x286",
       "image_title": "Geiselnahme: Yifat Zailer shows photos of her cousin, Shiri Bibas, center, her husband Yarden, left, and their children Ariel, top right, and Kfir, who are held hostage by Hamas in the Gaza Strip, at home in Herziliyya, Israel, Wednesday, Jan. 15, 2025. Kfir was an infant when they were captured and is now marking his second birthday. (AP Photo/Maya Alleruzzo)"
+    },
+    {
+      "title": "Demonstrationen : Tausende Menschen demonstrieren erneut gegen Rechtsruck",
+      "teaser": "Deutschlandweit wird gegen die Abstimmung von CDU, AfD und FDP im Bundestag protestiert. Am Sonntag soll der Publizist Michel Friedman bei einer Demo in Berlin sprechen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/demonstrationen-brandmauer-friedman-migrationspolitik",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/demonstration-gegen-rechts-brandmauer-deutschland-bild-2/super__430x286",
+      "image_title": "Demonstrationen: Brandmauer Demo am 01.02.2025 in Karlsruhe (Stephansplatz), Germany Schäm Dich Fritz auf einem Demo Plakat Jorinda Fahringer, Stadträtin seit 2019, Fraktionsvorsitzende, Geschäftsführerin Grüner Kreisverband Karlsruhe-Stadt. Fahringer lädt zum Protest Wir sind die Brandmauer. Karlsruhe Stephansplatz Baden-Württemberg Germany *"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Horst Köhler : Nach seinem Rücktritt wie befreit",
@@ -124,27 +144,6 @@
       "image_title": "Horst Köhler: Deutschland, 01.02.2025: S/W-Version von Archivbild von Horst Köhler Ursprüngliche Aufnahme vom 31.01.2024, aufgenommen bei der Holocaust-Gedenkstunde im Deutschen Bundestag"
     },
     {
-      "title": "Außenhandel : Kukies will über ein neues Freihandelsabkommen mit den USA verhandeln",
-      "teaser": "Der Bundesfinanzminister spricht sich für ein neues Handelsabkommen mit den USA aus. Deutschland könne Öl und Gas importieren. Zuvor hatte Trump mit Strafzöllen gedroht.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-02/kukies-freihandelsabkommen-trump-usa",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/kukies-freihandelsabkommen-trump-usa-bild/super__430x286",
-      "image_title": "Außenhandel: Jörg Kukies (SPD), Bundesminister der Finanzen, spricht auf dem \"Frankfurt European Banking Congress\". (zu dpa: «Finanzminister Kukies will Reform der Schuldenbremse»)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Strafzölle : Die Rechnung zahlt auch er selbst",
-      "teaser": "Strafzölle gegen Mexiko und Kanada hat Donald Trump lange angekündigt – nun treten sie tatsächlich in Kraft. Der US-Präsident schadet damit auch dem eigenen Land.",
-      "url": "https://www.zeit.de/wirtschaft/2025-01/us-strafzoelle-handel-donald-trump-wirtschaftspolitik",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-02/us-strafzoelle-handel-donald-trump-wirtschaftspolitik-bild-3/square__430x430",
-      "image_title": "US-Strafzölle: Gefällt sich als \"Tariff Man\": US-Präsident Donald Trump"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); John Bolton : \"Dass Friedrich Merz Golf spielt, ist in Bezug auf Trump ein Vorteil\"",
-      "teaser": "Donald Trump hat weder Ahnung noch Strategie, sagt sein ehemaliger Sicherheitsberater John Bolton über den US-Präsidenten. Das könnten andere Staatschefs für sich nutzen.",
-      "url": "https://www.zeit.de/politik/ausland/2025-01/john-bolton-donald-trump-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/john-bolton-donald-trump-usa-bild/square__430x430",
-      "image_title": "John Bolton: John Bolton, U.S. National Security Advisor, sits for an interview and delivers remarks at an event organized by the Bay of Pigs Veterans Association-Brigade 2506, on the failed invasion's 58th anniversary, in Miami, Fl., on April 17, 2019."
-    },
-    {
       "title": "Liveblog:Bundestagswahl 2025 : Christian Lindner lehnt Koalition mit den Grünen ab",
       "teaser": "Ob die FDP es in den nächsten Bundestag schafft, ist ungewiss. Ihr Parteichef stellt schon einmal klar: Er will nach der Wahl nicht mit den Grünen koalieren. Das Liveblog",
       "url": "https://www.zeit.de/politik/deutschland/2025-01/bundestagswahl-2025-kandidaten-umfragen-liveblog",
@@ -152,18 +151,18 @@
       "image_title": "Bundestagswahl 2025: Free Democratic Party (FDP) leader and former German Finance Minister Christian Lindner walks, on the day of a session of the lower house of parliament Bundestag, after Christian Democratic Party (CDU) party leader Friedrich Merz succeeded on Wednesday in getting a motion passed in parliament that calls for a migration crackdown, including the rejection of asylum seekers at the country's land borders, in Berlin, Germany, January 31, 2025. REUTERS/Nadja Wohlleben"
     },
     {
-      "title": "Nachrichtenpodcast : Clusterfuck im Bundestag",
-      "teaser": "Friedrich Merz macht gemeinsame Sache mit der AfD. Was diese düstere Woche in Deutschland verändert.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/unionsvotum-afd-cdu-friedrich-merz-migrationspolitik-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2025-01/was-jetzt-wahlkreis-moderation/super__430x286",
-      "image_title": "Nachrichtenpodcast: Clusterfuck im Bundestag"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Studieren in Magdeburg : \"Ich will nur noch weg aus Magdeburg\"",
       "teaser": "Seit dem Anschlag im Dezember und Merz' Agieren im Bundestag will unsere Autorin ihre Unistadt verlassen. Hier schreibt sie, warum.",
       "url": "https://www.zeit.de/campus/2025-01/studieren-magdeburg-anschlag-migration-rassismus-umzug",
       "image_url": "https://img.zeit.de/campus/2025-01/studieren-magdeburg-anschlag-migration-rassismus-umzug-bild-3/super__430x286",
       "image_title": "Studieren in Magdeburg: AfD Faschisten mobilisieren nach dem Terroronschlag in Magdeburg. Nach dem Anschlag mit einem Auto auf den Weihnachtsmarkt von Magdeburg wird in der Stadt den Opfern gedacht. Die Faschisten der AfD nutzen die Stimmung um sie mit Hass und Rassismus auf einer Kundgebung. Redner waren Mitglieder der AfD und die Vorsitzende und Spitzenkandidatin Alice Weidel. Teilnehmer der Kundgebung auf dem Domplatz. 23/12/2024"
+    },
+    {
+      "title": "Asylpolitik : Italien holt Geflüchtete wieder aus Albanien ab",
+      "teaser": "Für die Regierung von Giorgia Meloni ist es bereits die dritte Niederlage: Die Internierung von 43 Migranten in Albanien war unzulässig. Die Männer dürfen nach Italien.",
+      "url": "https://www.zeit.de/politik/ausland/2025-02/asylpolitik-italien-albanien-eu",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/italien-holt-fluechtlinge-wieder-aus-albanien-ab-bild/super__430x286",
+      "image_title": "Asylpolitik: A group of migrants embark on an Italian coast guard ship at the Shengjin port in Albania on February 1, 2025. Dozens of migrants departed from Albania under Italian custody on February 1, after a ruling by judges in Rome struck a fresh blow against Italian prime minister's embattled migrtion scheme. On January 31, Rome's Court of Appeals referred the case to the European Court of Justice (ECJ), meaning the 43 migrants in Albania had to be transferred to Italy, a government source told AFP."
     },
     {
       "title": "Alexander Horwath : \"Die Witzfigur, die sich aufs Pferd setzt\"",
@@ -180,18 +179,25 @@
       "image_title": "\"Verzauberte Vorbestimmung\" von Jonas Lüscher: Der Autor, Jahrgang 1976, hat ein literarisches Vernetzungswunder geschrieben"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kryonik : Gefrierbrand, aber glücklich",
-      "teaser": "Es ist eine erfrischende Idee, Menschen einzufrieren und in der Zukunft wieder aufzutauen. Firmen arbeiten schon daran. Aber haben sie es zu Ende gedacht?",
-      "url": "https://www.zeit.de/2025/05/kryonik-technologie-wiederbelebung-start-up-risiken",
-      "image_url": "https://img.zeit.de/2025/05/kryonik-technologie-wiederbelebung-start-up-risiken-teaserbild/wide__892x501",
-      "image_title": "Kryonik: »Blue Marble« aus: Consider Things"
+      "title": "Politische Wendepunkte : Stehen wir an einem Wendepunkt der Weltgeschichte?",
+      "teaser": "Weltweit warnen Politiker vor ihnen, unter Historikern ist die Vorstellung von Wendepunkten aber umstritten. Denn wer nur auf Ereignisse blickt, übersieht ihre Ursachen.",
+      "url": "https://www.zeit.de/wissen/2025-01/politische-wendepunkte-geschichte-zeitenwende-rhetorik",
+      "image_url": "https://img.zeit.de/wissen/2025-01/politische-wendepunkte-geschichte-zeitenwende-rhetorik-bild/wide__892x501",
+      "image_title": "Politische Wendepunkte: Stehen wir an einem Wendepunkt der Weltgeschichte?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bauchfett • Das Beste aus Z+ : Wie kriege ich das Bauchfett weg?",
-      "teaser": "Es gibt massig Tipps für einen flachen Bauch. Kann man mit Sport und Ernährung steuern, wo der Körper Fett abbaut? Um sich Frust zu ersparen, muss man das Fett verstehen.",
-      "url": "https://www.zeit.de/gesundheit/zeit-doctor/2023-08/bauchfett-verlieren-abnehmen-tipps-gesundheit",
-      "image_url": "https://img.zeit.de/gesundheit/zeit-doctor/2023-12/bauchfett-verlieren-abnehmen-tipps-gesundheit-bild/super__430x286",
-      "image_title": "Bauchfett • Das Beste aus Z+: Wie kriege ich das Bauchfett weg?"
+      "title": "Z+ (abopflichtiger Inhalt); John Bolton : \"Dass Friedrich Merz Golf spielt, ist in Bezug auf Trump ein Vorteil\"",
+      "teaser": "Donald Trump hat weder Ahnung noch Strategie, sagt sein ehemaliger Sicherheitsberater John Bolton über den US-Präsidenten. Das könnten andere Staatschefs für sich nutzen.",
+      "url": "https://www.zeit.de/politik/ausland/2025-01/john-bolton-donald-trump-usa",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-01/john-bolton-donald-trump-usa-bild/super__430x286",
+      "image_title": "John Bolton: John Bolton, U.S. National Security Advisor, sits for an interview and delivers remarks at an event organized by the Bay of Pigs Veterans Association-Brigade 2506, on the failed invasion's 58th anniversary, in Miami, Fl., on April 17, 2019."
+    },
+    {
+      "title": "Liveblog:Ukrainekrieg : Ukraine meldet mehr als 160 russische Luftangriffe",
+      "teaser": "Die ukrainische Luftwaffe will den Großteil eines umfangreichen russischen Beschusses abgewehrt haben. In Poltawa und Charkiw gab es Tote und Verletzte. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/ukraine-krieg-news-liveblog-bild-2/super__430x286",
+      "image_title": "Ukrainekrieg: A firefighter inspects the rubble of a damaged residential building following a missile strike in Poltava on February 1, 2025, amid the Russian invasion of Ukraine."
     },
     {
       "title": "Ausgabe 05/2025 : Tiefkühlruhe. Willkommen im Wochenende.",
@@ -243,18 +249,11 @@
       "image_title": "Darm-Hirn-Achse: Das Gehirn isst mit"
     },
     {
-      "title": "Waldbrände in Kalifornien : Brände in Los Angeles nach drei Wochen unter Kontrolle",
-      "teaser": "Die schweren Waldbrände in Los Angeles sind vollständig unter Kontrolle, die Behörden heben die Evakuierungsvorgaben auf. Weiter unklar bleibt die Brandursache.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/los-angeles-braende-kalifornien-kontrolle",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-02/waldbraende-la-unter-kontrolle-bild/super__430x286",
-      "image_title": "Waldbrände in Kalifornien: ALTADENA, CALIFORNIA - JANUARY 19: Firefighters with the Middleton Star Fire District work to clear hotspots on January 19, 2025 in Altadena, California. Multiple wildfires which were fueled by intense Santa Ana Winds have burned across Los Angeles County leaving at least 27 dead with over 180,000 people having been under evacuation orders. Over 12,000 structures, many of them homes and businesses, burned in the Palisades and Eaton Fires."
-    },
-    {
-      "title": "Sächsische Schweiz : Leichtes Erdbeben nahe Dresden gemessen",
-      "teaser": "Wie ein \"dumpfer Schlag\": Bei Pirna wurde ein leichtes Erdbeben der Stärke 2,6 gemessen. Es ist nicht das erste Mal, dass in der Region die Erde bebt.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/sachsen-erdbeben-dresden-pirna",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-02/erdbeben-pirna-bild/super__430x286",
-      "image_title": "Sächsische Schweiz: DRESDEN, GERMANY - SEPTEMBER 25: A general view into the old town of Pirna on September 25, 2017 in Pirna, Germany. While the AfD came in third place nationally behind the German Christian Democrats (CDU) and the German Social Democrats (SPD), in Saxony the party finished first, with 27% of the vote, just slightly more than the CDU, who in Saxony received 26.9%. In some small communities near Dresden support for the AfD was even higher, at over 40%. The AfD went into the election with slogans emphasizing a strong stance against open borders, refugees, Islam and the undermining of traditional German identity. (Photo by Jens Schlueter/Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Bauchfett • Das Beste aus Z+ : Wie kriege ich das Bauchfett weg?",
+      "teaser": "Es gibt massig Tipps für einen flachen Bauch. Kann man mit Sport und Ernährung steuern, wo der Körper Fett abbaut? Um sich Frust zu ersparen, muss man das Fett verstehen.",
+      "url": "https://www.zeit.de/gesundheit/zeit-doctor/2023-08/bauchfett-verlieren-abnehmen-tipps-gesundheit",
+      "image_url": "https://img.zeit.de/gesundheit/zeit-doctor/2023-12/bauchfett-verlieren-abnehmen-tipps-gesundheit-bild/super__430x286",
+      "image_title": "Bauchfett • Das Beste aus Z+: Wie kriege ich das Bauchfett weg?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schiffswrack auf Sylt : Wellen, Sand – und der Schatz ist weg",
@@ -451,9 +450,9 @@
       "url": "https://www.zeit.de/politik/2025-01/friedrich-merz-cdu-afd-migrationsgesetz-ablehnung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Unionsantrag zu Migration : Diese Abgeordneten kosteten Merz die Mehrheit",
-      "teaser": "Zwölf Unionsabgeordnete haben sich bei der Abstimmung über ein verschärftes Asylgesetz gegen Friedrich Merz gestellt. Auch bei der FDP gab es Abweichler. Wer wie stimmte",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/unionsantrag-migration-abstimmung-bundestag-abgeordnete"
+      "title": "Z+ (abopflichtiger Inhalt); Friedrich Merz : Merz lacht, er prustet fast",
+      "teaser": "Am Ende einer denkwürdigen Woche schaut Friedrich Merz wie ein Entertainer auf die Geschehnisse im Bundestag zurück. Er glaubt noch immer: Seine Wette kann aufgehen.",
+      "url": "https://www.zeit.de/politik/2025-01/friedrich-merz-erfurt-thueringen-ablehnung-migrationsgesetz-bundestag"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Friedrich Merz : Merz lacht, er prustet fast",
@@ -490,18 +489,18 @@
       "url": "https://www.zeit.de/politik/2025-01/friedrich-merz-cdu-afd-migrationsgesetz-ablehnung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Linsen-Fladenbrote : Blinsen aus Linsen",
-      "teaser": "Oft braucht es nicht viel, um etwas Besonderes auf den Tisch zu bringen: Rote Linsen werden mit Wasser und Gewürzen zu knusprigen Fladenbroten. Dazu gibt's Erbsencreme.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-02/linsen-fladenbrote-erbsen-hummus-meal-plan-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-02/linsen-fladenbrote-erbsen-hummus-meal-plan-rezept-teaserbild/wide__892x501",
-      "image_title": "Linsen-Fladenbrote: Erbsenhummus mit Linsenbrot"
+      "title": "Z+ (abopflichtiger Inhalt); Wettrup im Emsland : Paradies aus Backstein",
+      "teaser": "Mietpreisbremse, sozialer Wohnungsbau, Kappungsgrenze: In Wettrup sind das Fremdwörter. Hier wohnen fast alle im Eigenheim. Sieht so das deutsche Glück aus?",
+      "url": "https://www.zeit.de/gesellschaft/2025-01/wettrup-im-emsland-eigenheim-cdu-konservativismus-scheibenschiessen",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-01/wettrup-im-emsland-eigenheim-cdu-konservativismus-scheibenschiessen-bild/wide__892x501",
+      "image_title": "Wettrup im Emsland: Scheibenschießen (Schützenfest.) in Wettrup"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Marry Me Beans : Ja, ich will Bohnen!",
-      "teaser": "Den Namen kann man albern finden, aber der Effekt ist erstaunlich: Bei diesen cremig-würzigen Bohnen fällt Commitment nicht schwer. Zumindest zum Immer-wieder-Kochen.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-02/marry-me-beans-meal-plan-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/marry-me-beans-meal-plan-rezept-bild/super__430x286",
-      "image_title": "Marry Me Beans: Marry Me Beans"
+      "title": "Z+ (abopflichtiger Inhalt); Kryonik : Gefrierbrand, aber glücklich",
+      "teaser": "Es ist eine erfrischende Idee, Menschen einzufrieren und in der Zukunft wieder aufzutauen. Firmen arbeiten schon daran. Aber haben sie es zu Ende gedacht?",
+      "url": "https://www.zeit.de/2025/05/kryonik-technologie-wiederbelebung-start-up-risiken",
+      "image_url": "https://img.zeit.de/2025/05/kryonik-technologie-wiederbelebung-start-up-risiken-teaserbild/super__430x286",
+      "image_title": "Kryonik: »Blue Marble« aus: Consider Things"
     },
     {
       "title": "Verlagsangebot : Neun charmante Kleinstädte in Deutschland",
@@ -518,11 +517,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Liveblog:Ukrainekrieg : Ukraine meldet mehr als 160 russische Luftangriffe",
-      "teaser": "Die ukrainische Luftwaffe will den Großteil eines umfangreichen russischen Beschusses abgewehrt haben. In Poltowa und Charkiw gab es Tote und Verletzte. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-02/ukraine-krieg-news-liveblog-bild-2/wide__892x501",
-      "image_title": "Ukrainekrieg: A firefighter inspects the rubble of a damaged residential building following a missile strike in Poltava on February 1, 2025, amid the Russian invasion of Ukraine."
+      "title": "Bundespräsidialamt : Früherer Bundespräsident Horst Köhler ist tot",
+      "teaser": "Horst Köhler ist im Alter von 81 Jahren gestorben. Er war von 2004 bis 2010 Bundespräsident und vor allem für sein Engagement für Afrika bekannt.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-02/frueherer-bundespraesident-horst-koehler-ist-tot",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/horst-koehler-bild/wide__892x501",
+      "image_title": "Bundespräsidialamt: BERLIN, GERMANY - JANUARY 24: Former German President Horst Koehler arrives for the state memorial ceremony for the late former German President Roman Herzog at the Dom cathedral on January 24, 2017 in Berlin, Germany. Herzog served as German president from 1994 to 1999 and died on January 10, 2017."
     },
     {
       "title": "Verlagsangebot : Die Kraft von sozialen Beziehungen und wie wir sie stärken können",
@@ -532,18 +531,18 @@
       "image_title": "Die Kraft von sozialen Beziehungen und wie wir sie stärken können"
     },
     {
-      "title": "Bundespräsidialamt : Früherer Bundespräsident Horst Köhler ist tot",
-      "teaser": "Horst Köhler ist im Alter von 81 Jahren gestorben. Er war von 2004 bis 2010 Bundespräsident und vor allem für sein Engagement für Afrika bekannt.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-02/frueherer-bundespraesident-horst-koehler-ist-tot",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/horst-koehler-bild/super__430x286",
-      "image_title": "Bundespräsidialamt: BERLIN, GERMANY - JANUARY 24: Former German President Horst Koehler arrives for the state memorial ceremony for the late former German President Roman Herzog at the Dom cathedral on January 24, 2017 in Berlin, Germany. Herzog served as German president from 1994 to 1999 and died on January 10, 2017."
+      "title": "Nahostkonflikt : Hamas lässt drei israelische Geiseln frei",
+      "teaser": "In Chan Junis hat die Hamas dem Roten Kreuz zwei Geiseln übergeben. Darunter ist der Vater der Familie Bibas. Eine weitere Geisel kam im Hafen von Gaza-Stadt frei.",
+      "url": "https://www.zeit.de/politik/ausland/2025-02/hamas-laesst-zwei-israelische-geiseln-frei",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/hamas-laesst-zwei-israelische-geiseln-frei-bild/super__430x286",
+      "image_title": "Nahostkonflikt: Ofer Kalderon, a hostage held in Gaza since the deadly October 7, 2023 attack, is released by Palestinian Hamas militants as part of a ceasefire and a hostages-prisoners swap deal between Hamas and Israel, in Khan Younis in the southern Gaza Strip, February 1, 2025."
     },
     {
-      "title": "Handelsstreit : Donald Trump bekräftigt Zolldrohungen gegen die EU",
-      "teaser": "An diesem Samstag treten neue US-Zölle gegen Mexiko, Kanada und China in Kraft. Der Präsident kündigt zudem Maßnahmen gegen die EU an: \"Wir werden so schlecht behandelt.\"",
-      "url": "https://www.zeit.de/wirtschaft/2025-01/handelsstreit-donald-trump-europaeische-union-zoelle",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-02/handelsstreit-donald-trump-europaeische-union-zoelle-bild/wide__892x501",
-      "image_title": "Handelsstreit: Donald Trump bei seinem kurzen Pressestatement vor dem Weißen Haus in Washington"
+      "title": "Z+ (abopflichtiger Inhalt); US-Strafzölle : Die Rechnung zahlt auch er selbst",
+      "teaser": "Strafzölle gegen Mexiko und Kanada hat Donald Trump lange angekündigt – nun treten sie tatsächlich in Kraft. Der US-Präsident schadet damit auch dem eigenen Land.",
+      "url": "https://www.zeit.de/wirtschaft/2025-01/us-strafzoelle-handel-donald-trump-wirtschaftspolitik",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-02/us-strafzoelle-handel-donald-trump-wirtschaftspolitik-bild-3/wide__892x501",
+      "image_title": "US-Strafzölle: Gefällt sich als \"Tariff Man\": US-Präsident Donald Trump"
     },
     {
       "title": "Verlagsangebot : Quiz: Wie gut kennen Sie die Hauptstädte der englischsprachigen Welt?",
@@ -553,11 +552,11 @@
       "image_title": "Quiz: Wie gut kennen Sie die Hauptstädte der englischsprachigen Welt?"
     },
     {
-      "title": "Österreich : Signa-Gründer René Benko bleibt in Untersuchungshaft",
-      "teaser": "René Benko soll Gläubiger und Behörden getäuscht haben. Ein Gericht in Wien verlängerte nun die Untersuchungshaft für den früheren Immobilieninvestor.",
-      "url": "https://www.zeit.de/wirtschaft/2025-01/signa-gruender-rene-benko-untersuchungshaft-verlaengerung",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-01/signa-gruender-ren-benko-untersuchungshaft-bild/super__430x286",
-      "image_title": "Österreich: FILE PHOTO: Fallen Austrian property tycoon Rene Benko appears before a parliamentary commission in Vienna, Austria, May 22, 2024."
+      "title": "Handelsstreit : Donald Trump bekräftigt Zolldrohungen gegen die EU",
+      "teaser": "An diesem Samstag treten neue US-Zölle gegen Mexiko, Kanada und China in Kraft. Der Präsident kündigt zudem Maßnahmen gegen die EU an: \"Wir werden so schlecht behandelt.\"",
+      "url": "https://www.zeit.de/wirtschaft/2025-01/handelsstreit-donald-trump-europaeische-union-zoelle",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-02/handelsstreit-donald-trump-europaeische-union-zoelle-bild/super__430x286",
+      "image_title": "Handelsstreit: Donald Trump bei seinem kurzen Pressestatement vor dem Weißen Haus in Washington"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Aktienmarkt : Was Anleger aus dem Nvidia-Crash lernen können",
@@ -616,6 +615,13 @@
       "image_title": "Spracherwerb: \"Kinder korrigieren das chaotische System der Erwachsenensprache\""
     },
     {
+      "title": "Nachrichtenpodcast : Clusterfuck im Bundestag",
+      "teaser": "Friedrich Merz macht gemeinsame Sache mit der AfD. Was diese düstere Woche in Deutschland verändert.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/unionsvotum-afd-cdu-friedrich-merz-migrationspolitik-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2025-01/was-jetzt-wahlkreis-moderation/super__320x213",
+      "image_title": "Nachrichtenpodcast: Clusterfuck im Bundestag"
+    },
+    {
       "title": "Hamburg-Podcast \"Elbvertiefung\" : Wie Hamburg gerade das Heizen revolutioniert",
       "teaser": "Für die Zukunft des Heizens setzt Hamburg auf Fernwärme. Wie kann sie klimafreundlicher werden? Und: Woher weiß ich, ob auch ich irgendwann mit Fernwärme heizen kann?",
       "url": "https://www.zeit.de/hamburg/2025-01/fernwaerme-heizen-hamburg-podcast-elbvertiefung",
@@ -658,13 +664,6 @@
       "image_title": "Podcast \"Warum denken Sie das?\": \"Rechte Parteien gehören zur Demokratie dazu\""
     },
     {
-      "title": "Kicken kann er : Omar Marmoush geht gerne steil",
-      "teaser": "Omar Marmoush hat sich mit einer überragenden Hinrunde aus der Bundesliga in die Premiere League geschossen. Ein guter Move? Der Fußballpodcast ist skeptisch.",
-      "url": "https://www.zeit.de/sport/2025-01/omar-marmoush-manchester-city-karriere",
-      "image_url": "https://img.zeit.de/sport/2025-01/omar-marmoush-manchester-city-podcast/super__320x213",
-      "image_title": "Kicken kann er: Premier League Manchester City v Chelsea Omar Marmoush of Manchester City during the Premier League match Manchester City vs Chelsea at Etihad Stadium, Manchester, United Kingdom, 25th January 2025 Photo by Mark Cosgrove/News Images Manchester Etihad Stadium Manchester United, ManU Kingdom Copyright: xMarkxCosgrove/NewsxImagesx"
-    },
-    {
       "title": "Wirtschaft von oben #304 – Glücksspiel in den Emiraten : Hier haben sich US-Casinobetreiber in Dubai komplett verzockt",
       "teaser": "Um mehr Touristen anzulocken, wollen die Vereinten Arabischen Emirate Glücksspiel legalisieren. Doch nicht alle ziehen mit. Satellitenbilder zeigen die Milliardenwetten der Casinomarken.",
       "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/wirtschaft-von-oben-304-gluecksspiel-in-den-emiraten-hier-haben-sich-us-casinobetreiber-in-dubai-komplett-verzockt/30178908.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
@@ -693,18 +692,18 @@
       "image_title": "Flugverkehr: Flugzeuge rollen auf dem Flughafen Frankfurt im letzten Sonnenlicht des Tages über die Rollbahn. Aufnahmedatum 29.02.2024"
     },
     {
-      "title": "Flugzeugabsturz : Rettungsjet stürzt in Philadelphia ab",
-      "teaser": "In den USA ist es erneut zu einem schweren Flugzeugunglück gekommen. In einer belebten Gegend der Stadt Philadelphia stürzte ein Jet ab. An Bord waren sechs Personen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/flugzeugabsturz-philadelphia-rettungsjet-explosion",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-02/flugzeugabsturz-in-philadelphia-bild/wide__892x501",
-      "image_title": "Flugzeugabsturz: PHILADELPHIA, PENNSYLVANIA - JANUARY 31: Emergency service members respond to a plane crash in a neighborhood near Cottman Avenue on January 31, 2025 in Philadelphia, Pennsylvania. The plane, a medical transport jet carrying a child patient, crashed after taking off from Northeast Philadelphia Airport, damaging several homes and vehicles."
+      "title": "Weihnachtsmarkt Magdeburg : Generalstaatsanwaltschaft hält Täter von Magdeburg für schuldfähig",
+      "teaser": "zufolge mit Vorsatz. Mit einem psychiatrischen Gutachten zu seiner Schuldfähigkeit wird in einigen Wochen gerechnet.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/anschlag-magdeburg-attentaeter-schuldfaehigkeit",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-02/generalstaatsanwaltschaft-schuldfaehigkeit-anschlag-magdeburg-bild/wide__892x501",
+      "image_title": "Weihnachtsmarkt Magdeburg: Müll und andere Gegenstände liegen auf dem Weihnachtsmarkt. Am Vorabend war ein Autofahrer in eine Menschengruppe gefahren. Es gab mehrere Tote und Verletzte."
     },
     {
-      "title": "Flugzeugunglück in Washington, D. C. : Donald Trump gibt Hubschrauberbesatzung Schuld für Kollision",
-      "teaser": "Nach dem schweren Flugunglück in Washington, D.C., hat sich der US-Präsident zur Ursache geäußert. Der Hubschrauberverkehr über der US-Hauptstadt wird eingeschränkt.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-01/flugzeugunglueck-washington-schuld-hubschrauber",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-01/trump-militaerhubschrauber-schuld-kollision-bild/super__430x286",
-      "image_title": "Flugzeugunglück in Washington, D. C.: WASHINGTON, DC - JANUARY 30: (EDITOR'S NOTE: This Handout image was provided by a third-party organization and may not adhere to Getty Images' editorial policy.) In this U.S. Coast Guard handout, the Coast Guard investigates aircraft wreckage on the Potomac River on January 30, 2025 in Washington, DC. An American Airlines flight from Wichita, Kansas collided midair with a military Black Hawk helicopter while on approach to Ronald Reagan Washington National Airport outside of Washington, DC. According to reports, there were no survivors among the 67 people onboard both aircraft. (Photo by Petty Officer 1st Class Brandon Giles/ U.S. Coast Guard via Getty Images)"
+      "title": "Flugzeugabsturz : Rettungsjet stürzt in Philadelphia ab",
+      "teaser": "In den USA hat es erneut ein schweres Flugzeugunglück gegeben. In einer belebten Gegend in Philadelphia stürzte ein Jet ab. Alle sechs Passagiere starben.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/flugzeugabsturz-philadelphia-rettungsjet-explosion",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-02/flugzeugabsturz-in-philadelphia-bild/super__430x286",
+      "image_title": "Flugzeugabsturz: PHILADELPHIA, PENNSYLVANIA - JANUARY 31: Emergency service members respond to a plane crash in a neighborhood near Cottman Avenue on January 31, 2025 in Philadelphia, Pennsylvania. The plane, a medical transport jet carrying a child patient, crashed after taking off from Northeast Philadelphia Airport, damaging several homes and vehicles."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kaffee und Identität : Espresso ohne Bart",
@@ -866,18 +865,18 @@
       "image_title": "Kampf gegen Antisemitismus: \"Auch Muslime lehnen Islamismus ab\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zimtschnecken-Gugelhupf : Treffen sich zwei Legenden",
-      "teaser": "Zimtschnecken? Lieben wir! Aber haben Sie schon mal Zimtschnecken als Gugelhupf probiert? Dank der Kuchenform bleibt mehr Feuchtigkeit im Teig, für next level Saftigkeit.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/zimtschnecken-gugelhupf-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/zimtschnecken-gugelhupf-rezept-wochenmarkt-teaser/wide__892x501",
-      "image_title": "Zimtschnecken-Gugelhupf: Zimtschnecken-Gugelhupf"
+      "title": "Z+ (abopflichtiger Inhalt); Linsen-Fladenbrote : Blinsen aus Linsen",
+      "teaser": "Oft braucht es nicht viel, um etwas Besonderes auf den Tisch zu bringen: Rote Linsen werden mit Wasser und Gewürzen zu knusprigen Fladenbroten. Dazu gibt's Erbsencreme.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-02/linsen-fladenbrote-erbsen-hummus-meal-plan-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-02/linsen-fladenbrote-erbsen-hummus-meal-plan-rezept-teaserbild/wide__892x501",
+      "image_title": "Linsen-Fladenbrote: Erbsenhummus mit Linsenbrot"
     },
     {
-      "title": "Grenzen beim Sex : War das okay?",
-      "teaser": "Wenn Grenzen beim Sex überschritten werden, ist oft die Frau das Opfer. Es geht aber auch andersrum. Haben Sie als Frau mal die Grenze eines Mannes verletzt?",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-01/grenzen-sex-frauen-maenner-konsens-aufruf",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-01/grenzen-sex-frauen-maenner-konsens-aufruf-bild/super__430x286",
-      "image_title": "Grenzen beim Sex: War das okay?"
+      "title": "Z+ (abopflichtiger Inhalt); Marry Me Beans : Ja, ich will Bohnen!",
+      "teaser": "Den Namen kann man albern finden, aber der Effekt ist erstaunlich: Bei diesen cremig-würzigen Bohnen fällt Commitment nicht schwer. Zumindest zum Immer-wieder-Kochen.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-02/marry-me-beans-meal-plan-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/marry-me-beans-meal-plan-rezept-bild/super__430x286",
+      "image_title": "Marry Me Beans: Marry Me Beans"
     },
     {
       "title": "Worträtsel : Wortiger",
@@ -915,17 +914,24 @@
       "image_title": "Kreuzworträtsel: Um die Ecke gedacht"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Zimtschnecken-Gugelhupf : Treffen sich zwei Legenden",
+      "teaser": "Zimtschnecken? Lieben wir! Aber haben Sie schon mal Zimtschnecken als Gugelhupf probiert? Dank der Kuchenform bleibt mehr Feuchtigkeit im Teig, für next level Saftigkeit.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/zimtschnecken-gugelhupf-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/zimtschnecken-gugelhupf-rezept-wochenmarkt-teaser/wide__892x501",
+      "image_title": "Zimtschnecken-Gugelhupf: Zimtschnecken-Gugelhupf"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Salat aus Flower Sprouts : Grünkohl x Rosenkohl = pudelwohl",
       "teaser": "Wortwörtlich junges Gemüse: Kalettes oder \"Flower Sprouts\" sind eine Kreuzung aus Rosen- und Grünkohl, die das beste beider vereint. Als Salat ein Frischekick im Winter.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/salat-flower-sprouts-rosenkohl-gruenkohl-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/salat-flower-sprouts-rosenkohl-gruenkohl-rezept-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/salat-flower-sprouts-rosenkohl-gruenkohl-rezept-bild-1/super__430x286",
       "image_title": "Salat aus Flower Sprouts: Grünkohl x Rosenkohl = pudelwohl"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pasta mit Schwarze-Bohnen-Ragù : Die beste Bohnen-Bolo aller Zeiten",
       "teaser": "Auf Pasta mit Ragù können sich alle einigen. In diesem sorgen schwarze Bohnen für geschmackliche Tiefe. Das wahre Geheimnis dieses Rezepts sind trotzdem andere Zutaten.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/pasta-schwarze-bohnen-ragu-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/pasta-schwarze-bohnen-ragu-rezept-wochenmarkt-teaser/super__430x286",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/pasta-schwarze-bohnen-ragu-rezept-wochenmarkt-teaser/super__320x213",
       "image_title": "Pasta mit Schwarze-Bohnen-Ragù: Pasta mit Schwarze-Bohnen-Ragù"
     },
     {
@@ -955,13 +961,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-01/bammy-kokosmilch-rezept-aris-guzman-sonntagsessen",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/bammy-kokosmilch-rezept-aris-guzman-sonntagsessen-teaser/super__320x213",
       "image_title": "Bammy: Bammy - In Kokosmilch eingelegte Maniokküchlein"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wintersalat mit Chicorée : Ein extrovertierter Salat",
-      "teaser": "Dieser Wintersalat ist geschmacklich zum Glück gar nicht zurückhaltend. Er schmeckt nach einem Spaziergang in der Kälte genauso gut wie nach einem Tag auf dem Sofa.",
-      "url": "https://www.zeit.de/zeit-magazin/2025/04/wintersalat-chicoree-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/04/was-frisches-bild-1/super__320x213",
-      "image_title": "Wintersalat mit Chicorée: Ein extrovertierter Salat"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Soziale Angststörung : Alle denken, dass ich komisch bin",
@@ -1006,36 +1005,36 @@
       "image_title": "Achim Reichel: Achim Reichel, 81, im Studio mit seinem Hund Junek"
     },
     {
-      "title": "Asyldebatte: Brandenburgs Abgeordnete mehrheitlich gegen Migrationsgesetz",
-      "url": "https://www.zeit.de/news/2025-02/01/brandenburgs-abgeordnete-mehrheitlich-gegen-migrationsgesetz"
+      "title": "Gaza-Abkommen: Grenzübergang Rafah offen: Patienten verlassen Gazastreifen",
+      "url": "https://www.zeit.de/news/2025-02/01/grenzuebergang-rafah-offen-patienten-verlassen-gazastreifen"
     },
     {
-      "title": "Demos gegen rechts: Tausende demonstrieren in Bayern gegen Einfluss von rechts",
-      "url": "https://www.zeit.de/news/2025-02/01/tausende-demonstrieren-in-bayern-gegen-einfluss-von-rechts"
+      "title": "Nahost-Konflikt: Arabische Länder lehnen Trump-Vorschlag zu Gaza ab",
+      "url": "https://www.zeit.de/news/2025-02/01/arabische-laender-lehnen-trump-vorschlag-zu-gaza-ab"
     },
     {
-      "title": "Demonstration: Hunderte protestieren gegen Kongress der Jungen Alternative",
-      "url": "https://www.zeit.de/news/2025-02/01/hunderte-protestieren-gegen-kongress-der-jungen-alternative"
+      "title": "Polizei schätzt 8.000 Menschen: \"Offene Zusammenarbeit mit der Rechten\" – Proteste in Halle",
+      "url": "https://www.zeit.de/news/2025-02/01/offene-zusammenarbeit-mit-der-rechten-proteste-in-halle"
     },
     {
-      "title": "Gedenken: Schweitzer: Köhler hat Deutschland mit Weitsicht vertreten",
-      "url": "https://www.zeit.de/news/2025-02/01/schweitzer-koehler-hat-deutschland-mit-weitsicht-vertreten"
+      "title": "3. Fußball-Liga: Hansa Rostock gewinnt Auswärtsspiel bei Dortmund II",
+      "url": "https://www.zeit.de/news/2025-02/01/hansa-rostock-gewinnt-auswaertsspiel-bei-dortmund-ii"
     },
     {
-      "title": "Ohne Führerschein: Betrunkener verursacht Zusammenstoß - zwei Schwerverletzte",
-      "url": "https://www.zeit.de/news/2025-02/01/betrunkener-verursacht-zusammenstoss-zwei-schwerverletzte"
+      "title": "2. Fußball-Bundesliga: Hertha blamiert sich: \"Erschrocken von unserer Gegenwehr\"",
+      "url": "https://www.zeit.de/news/2025-02/01/hertha-blamiert-sich-erschrocken-von-unserer-gegenwehr"
     },
     {
-      "title": "Offshore-Windenergie: EU-Millionenförderung für Anbindung von Ostsee-Windenergie",
-      "url": "https://www.zeit.de/news/2025-02/01/eu-millionenfoerderung-fuer-anbindung-von-ostsee-windenergie"
+      "title": "AfD-Nachwuchs: Junge Alternative löst sich auf",
+      "url": "https://www.zeit.de/news/2025-02/01/junge-alternative-loest-sich-auf"
     },
     {
-      "title": "Bundestagswahl: \"Brandmauer\" gefallen? Migrationsdebatte heizt Wahlkampf an",
-      "url": "https://www.zeit.de/news/2025-02/01/merz-merkel-afd-was-von-einer-denkwuerdigen-woche-bleibt"
+      "title": "Protest: Tausende demonstrieren nach Abstimmung über Migration",
+      "url": "https://www.zeit.de/news/2025-02/01/tausende-demonstrieren-nach-abstimmung-ueber-migration"
     },
     {
-      "title": "Auszeichnung: Komponist Lachenmann in Frankreich für Lebenswerk geehrt",
-      "url": "https://www.zeit.de/news/2025-02/01/komponist-lachenmann-in-frankreich-fuer-lebenswerk-geehrt"
+      "title": "Tod des Ex-Staatsoberhaupts: Wüst: Köhler hatte klare Ideale",
+      "url": "https://www.zeit.de/news/2025-02/01/wuest-koehler-hatte-klare-ideale"
     }
   ]
 }
