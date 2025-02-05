@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-05T10:09:28",
+  "timestamp": "2025-02-05T11:07:35",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "Material UI & Co.: UI-Libraries können Ihr Projekt ruinieren",
+      "url": "https://www.heise.de/blog/Material-UI-Co-UI-Libraries-koennen-Ihr-Projekt-ruinieren-10266999.html"
+    },
+    {
+      "title": "c't Fotografie für Einsteiger: Kameraeinstellungen für gelungene Bilder",
+      "url": "https://www.heise.de/news/c-t-Fotografie-fuer-Einsteiger-Kameraeinstellungen-fuer-gelungene-Bilder-10269671.html"
+    },
+    {
+      "title": "Kurztests: Drei Premium-In-Ear-Kopfhörer von Huawei, Google und Edifier",
+      "url": "https://www.heise.de/tests/Kurztests-Drei-Premium-In-Ear-Kopfhoerer-von-Huawei-Google-und-Edifier-10268744.html"
+    },
+    {
+      "title": "Webservices in Go programmieren",
+      "url": "https://www.heise.de/hintergrund/Webservices-in-Go-programmieren-10261859.html"
+    },
+    {
+      "title": "API-Client-Generator: Microsoft Kiota lernt den Umgang mit Dart",
+      "url": "https://www.heise.de/news/API-Client-Generator-Microsoft-Kiota-lernt-den-Umgang-mit-Dart-10270392.html"
+    },
     {
       "title": "Problem für Shein und TemuUS-Post nimmt keine Pakete aus China mehr an",
       "teaser": "Wer in den USA ein Paket aus China erwartet, wird erst einmal leer ausgehen. Die dortige Post hat die Annahme komplett gestoppt.",
@@ -148,6 +168,29 @@
       "image_title": "Sonnenlichtreflexionen"
     },
     {
+      "title": "Neue Invites-App von Apple: Partiful fühlt sich gesherlockt",
+      "teaser": "Apple hat eine brandneue Anwendung vorgelegt, die mehr iCloud+-Abos verkaufen soll: ein Programm zur Verwaltung von Einladungen. Einen Konkurrenten stört das.",
+      "url": "https://www.heise.de/news/Neue-Invites-App-von-Apple-Partiful-fuehlt-sich-gesherlockt-10270512.html",
+      "image_title": "Partiful-App"
+    },
+    {
+      "title": "AlertVeeam Backup: Codeschmuggel durch MitM-Lücke im Updater möglich",
+      "teaser": "Veeam Backup enthält einen Updater, der für Man-in-the-Middle-Attacken anfällig ist. Angreifer können Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/Veeam-Backup-Codeschmuggel-durch-MitM-Luecke-im-Updater-moeglich-10270446.html",
+      "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
+    },
+    {
+      "title": "Top 10 Nebenverdienstideen im Jahr 2025",
+      "teaser": "Sie wollen sich etwas hinzuverdienen, Ihren Vollzeitjob aber nicht aufgeben? Hier finden Sie 10 kreative Ideen, bewertet nach dem Zeit- und Arbeitsaufwand, den sie aufbringen müssen, sowie nach dem möglichen Verdienst",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6903812872&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "AlertZugriffsmanagement: HPE Aruba Networking CPPM ist verwundbar",
+      "teaser": "Netzwerkadmins sollten HPE Aruba Networking ClearPass Policy Manager aus Sicherheitsgründen aktualisieren.",
+      "url": "https://www.heise.de/news/Zugriffsmanagement-HPE-Aruba-Networking-CPPM-ist-verwundbar-10270508.html",
+      "image_title": "Update-Taste"
+    },
+    {
       "title": "Streaming-Box von Sonos soll bis zu 400 US-Dollar kosten",
       "teaser": "Einem Bericht von The Verge zufolge arbeitet Sonos an seiner ersten Streaming-Box für TV-Geräte. Sie soll mit Android laufen und bis zu 400 Dollar kosten.",
       "url": "https://www.heise.de/news/Streaming-Box-von-Sonos-soll-bis-zu-400-US-Dollar-kosten-10270333.html",
@@ -175,24 +218,6 @@
       "teaser": "Dieser iX-Workshop vermittelt Best Practices zum Auf- oder Ausbau einer effektiven und erfolgreichen IT-Strategie.",
       "url": "https://www.heise.de/news/iX-Workshop-Strategisches-IT-und-Technologie-Management-10261315.html",
       "image_title": "Strategisches IT-Management entwickeln und umsetzen (iX-Workshop)"
-    },
-    {
-      "title": "Autoindustrie: Nissan möchte keine Tochtermarke von Honda werden",
-      "teaser": "Nissan und Honda haben sich noch nicht auf die Bedingungen für ein Zusammenleben in einer Holding einigen können. Nissan möchte keine Tochtermarke werden.",
-      "url": "https://www.heise.de/news/Autoindustrie-Nissan-moechte-keine-Tochtermarke-von-Honda-werden-10270000.html",
-      "image_title": "Nissan Ariya"
-    },
-    {
-      "title": "Jetzt trifft es auch Go: Bösartiges Typosquatting im Ökosystem entdeckt",
-      "teaser": "Ein bösartiges Paket im Go-Ökosystem imitiert BoltDB und enthält eine Hintertür. Angreifer nutzten den Caching-Dienst, um die Malware unbemerkt zu verbreiten.",
-      "url": "https://www.heise.de/news/Typosquatting-im-Go-Oekosystem-Gefaelschtes-BoltDB-Paket-entdeckt-10270016.html",
-      "image_title": "Scrabble-Buchstaben auf einem Haufen"
-    },
-    {
-      "title": "AlertSupport ausgelaufen: Keine Sicherheitsupdates mehr für attackierte Zyxel-Router",
-      "teaser": "Derzeit hat es eine Mirai-Botnet-Malware auf bestimmte Routermodelle von Zyxel abgesehen. Weil der Support ausgelaufen ist, müssen Admins jetzt handeln.",
-      "url": "https://www.heise.de/news/Support-ausgelaufen-Keine-Sicherheitsupdates-mehr-fuer-attackierte-Zyxel-Router-10269938.html",
-      "image_title": "Anzeige \"Malware!\" auf einem Display"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -259,6 +284,24 @@
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
     },
     {
+      "title": "Autoindustrie: Nissan möchte keine Tochtermarke von Honda werden",
+      "teaser": "Nissan und Honda haben sich noch nicht auf die Bedingungen für ein Zusammenleben in einer Holding einigen können. Nissan möchte keine Tochtermarke werden.",
+      "url": "https://www.heise.de/news/Autoindustrie-Nissan-moechte-keine-Tochtermarke-von-Honda-werden-10270000.html",
+      "image_title": "Nissan Ariya"
+    },
+    {
+      "title": "Jetzt trifft es auch Go: Bösartiges Typosquatting im Ökosystem entdeckt",
+      "teaser": "Ein bösartiges Paket im Go-Ökosystem imitiert BoltDB und enthält eine Hintertür. Angreifer nutzten den Caching-Dienst, um die Malware unbemerkt zu verbreiten.",
+      "url": "https://www.heise.de/news/Typosquatting-im-Go-Oekosystem-Gefaelschtes-BoltDB-Paket-entdeckt-10270016.html",
+      "image_title": "Scrabble-Buchstaben auf einem Haufen"
+    },
+    {
+      "title": "AlertSupport ausgelaufen: Keine Sicherheitsupdates mehr für attackierte Zyxel-Router",
+      "teaser": "Derzeit hat es eine Mirai-Botnet-Malware auf bestimmte Routermodelle von Zyxel abgesehen. Weil der Support ausgelaufen ist, müssen Admins jetzt handeln.",
+      "url": "https://www.heise.de/news/Support-ausgelaufen-Keine-Sicherheitsupdates-mehr-fuer-attackierte-Zyxel-Router-10269938.html",
+      "image_title": "Anzeige \"Malware!\" auf einem Display"
+    },
+    {
       "title": "7-Zip: Mark-of-the-Web-Lücke wurde von Angreifern missbraucht",
       "teaser": "Die kürzlich gemeldete Mark-of-the-Web-Schwachstelle in 7-Zip wurde von Angreifern in freier Wildbahn für Schadcode-Schmuggel missbraucht.",
       "url": "https://www.heise.de/news/7-Zip-Mark-of-the-Web-Luecke-wurde-von-Angreifern-missbraucht-10269973.html",
@@ -317,6 +360,11 @@
       "image_title": "Google-Schriftzug auf Glasfassade eines Bürogebäudes"
     },
     {
+      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
+      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
+    },
+    {
       "title": "Finanzen: Alphabet macht erstmals über 100 Milliarden US-Dollar Reingewinn",
       "teaser": "Google macht mehr Umsatz und steigert gleichzeitig die Marge. Das bringt Alphabet Rekordgewinne. Doch gibt der Konzern noch mehr Geld aus.",
       "url": "https://www.heise.de/news/Finanzen-Alphabet-macht-erstmals-ueber-100-Milliarden-US-Dollar-Reingewinn-10269824.html",
@@ -332,11 +380,6 @@
       "title": "Top 10: Das beste günstige Tablet bis 300 Euro – Xiaomi ist Testsieger",
       "teaser": "Ein günstiges Tablet bietet nahezu alles, was man zur mobilen Unterhaltung auf der Couch benötigt. Wir zeigen die besten Geräte bis 300 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-guenstige-tablet-im-test-xiaomi-lenovo-samsung-und-co/wq0c4t9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
-      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
     },
     {
       "title": "Sprachmodell: OpenEuroLLM soll KI in der EU unabhängiger und vielfältiger machen",
@@ -379,23 +422,6 @@
       "teaser": "Hohe Bitcoin-Kurse erquicken Mining-Farmen. Sie verwenden so viel Hardware zum Schürfen wie noch nie.",
       "url": "https://www.heise.de/news/Rekord-Ueber-830-Trillionen-Hashes-pro-Sekunde-fuers-Bitcoin-Mining-10269522.html",
       "image_title": "Bitcoin-Münzen"
-    },
-    {
-      "title": "Anthropic: KI-Unternehmen verbietet KI-geschriebene Bewerbungen",
-      "teaser": "Obwohl Anthropic selbst Sprachmodelle entwickelt, sind mit KI verfasste Bewerbungen nicht erlaubt. Das Unternehmen will die menschliche Kommunikation bewerten.",
-      "url": "https://www.heise.de/news/Anthropic-KI-Unternehmen-verbietet-KI-geschriebene-Bewerbungen-10269010.html",
-      "image_title": "Gehirn-Skizze vor Laptop"
-    },
-    {
-      "title": "\"Murderesses\": MagentaTV entfernt Serie mit KI-Synchronisation",
-      "teaser": "Die polnische Viaplay-Serie \"Murderesses\" erschien bei MagentaTV und Prime Video mit KI-generierter Synchronisation. Die Telekom hat die Serie nun gelöscht.",
-      "url": "https://www.heise.de/news/Murderesses-MagentaTV-entfernt-Serie-mit-KI-Synchronisation-10269372.html",
-      "image_title": "Szene aus \"Murderesses\" zeigt Polizistin"
-    },
-    {
-      "title": "Die besten monatlich kündbaren Tarife im Februar: 28 GB bei Telekom für 15 Euro",
-      "teaser": "28 GB im Telekom-Netz für 15 Euro, 20 GB im O2-Netz für 7 Euro oder 30 GB im Vodafone-Netz ab 9 Euro – wir zeigen die besten monatlich kündbaren Handytarife im Februar 2025.",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/monatlich-kuendbar-der-beste-handyvertrag-bis-30-euro/6r7pf35?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Werbeboykott zeigt Wirkung: X klagt nun auch gegen Lego, Pinterest und Nestlé",
@@ -569,21 +595,20 @@
       "url": "https://www.heise.de/en/news/Civilization-7-starts-the-pre-release-period-with-proper-reviews-10268041.html"
     },
     {
-      "title": "Lenovo ThinkPad P1 Gen 7: Notebook mit austauschbarem Arbeitsspeicher im Test",
-      "teaser": "LPDDR5X-Speicher ist effizienter als normaler DDR5-Speicher, musste aber aufgelötet werden. Beim ThinkPad P1 Gen7 lässt sich der Speicher einfach umrüsten.",
-      "url": "https://www.heise.de/tests/Lenovo-ThinkPad-P1-Gen-7-Notebook-mit-austauschbarem-Arbeitsspeicher-im-Test-10266085.html"
-    },
-    {
-      "title": "Webservices in Go programmieren",
-      "teaser": "Mit SQLite speichern Sie Daten in einer Datenbank, die einen Neustart überstehen. Außerdem erfahren Sie etwas über zeitgesteuertes Ausführen von Funktionen.",
-      "url": "https://www.heise.de/hintergrund/Webservices-in-Go-programmieren-10261859.html",
-      "image_title": ", KI, Collage c’t"
+      "title": "Android-Smartphone Redmi Note 14 Pro+ 5G im Test",
+      "teaser": "Xiaomis Redmi Note 14 Pro+ soll einerseits günstig sein, andererseits gute Hardware bieten. Fürs Display und die Kamera stimmt das, anderswo jedoch nicht.",
+      "url": "https://www.heise.de/tests/Android-Smartphone-Redmi-Note-14-Pro-5G-im-Test-10262811.html"
     },
     {
       "title": "Hard disk fraud: Increasing evidence of origin in China",
       "teaser": "Almost 200 readers have now noticed long runtimes on their new Seagate hard disks. Reports from abroad are also increasing.",
       "url": "https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html",
       "image_title": "Seagate hard disk on a white background"
+    },
+    {
+      "title": "Lenovo ThinkPad P1 Gen 7: Notebook mit austauschbarem Arbeitsspeicher im Test",
+      "teaser": "LPDDR5X-Speicher ist effizienter als normaler DDR5-Speicher, musste aber aufgelötet werden. Beim ThinkPad P1 Gen7 lässt sich der Speicher einfach umrüsten.",
+      "url": "https://www.heise.de/tests/Lenovo-ThinkPad-P1-Gen-7-Notebook-mit-austauschbarem-Arbeitsspeicher-im-Test-10266085.html"
     },
     {
       "title": "iPhone EU-Edition: So spaltet Apple iOS immer weiter auf",
@@ -604,6 +629,12 @@
       "image_title": ", Apple"
     },
     {
+      "title": "AnleitungVon Arduino zur PlatformIO IDE umsteigen",
+      "teaser": "PlatformIO bringt Tools mit, die das Programmieren von Mikrocontrollern erleichtert. Was die IDE kann und wie der Einstieg gelingt.",
+      "url": "https://www.heise.de/ratgeber/Von-Arduino-zur-PlatformIO-IDE-Umstieg-fuer-Einsteiger-leicht-gemacht-10255242.html",
+      "image_title": ","
+    },
+    {
       "title": "Anleitung: Smartes Rücklicht für einen Fahrradhelm bauen",
       "teaser": "Ein Rücklicht am Helm trägt zu mehr Sicherheit im Straßenverkehr bei. Man kann ihm sogar beibringen, auf Knopfdruck in die gewünschte Fahrtrichtung zu blinken.",
       "url": "https://www.heise.de/ratgeber/Anleitung-Smartes-Ruecklicht-fuer-einen-Fahrradhelm-bauen-10254048.html",
@@ -614,12 +645,6 @@
       "teaser": "Bis zu 100W aus einem USB-PD-Netzteil stellt diese USB-C-Trigger-Lösung bereit. Die Spannung ist fix oder per Potenziometer stufenlos einstellbar.",
       "url": "https://www.heise.de/news/Viel-Leistung-Flexibles-USB-PD-Trigger-Board-fuer-Maker-10260493.html",
       "image_title": "USB-PD Trigger Board PPS"
-    },
-    {
-      "title": "RP2040 im Arduino-Uno-Design",
-      "teaser": "Das UNIT-DualMCU-One-Board kombiniert ESP32 und RP2040 für IoT-Projekte. Mit Arduino-Shield-Kompatibilität stehen mit diesem Board viele Türen offen.",
-      "url": "https://www.heise.de/news/RP2040-im-Arduino-Uno-Design-10260588.html",
-      "image_title": "Board ist von schräg oben zu sehen."
     },
     {
       "title": "Wie Sie Lichtspuren fotografieren: Ein Interview",
@@ -718,22 +743,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-tv-stick-im-test/ydfhkdk?wt_mc=intern.red.bestenliste.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Batterie-Boom: Der versteckte Preis der Energiewende",
-      "teaser": "Die Energiewende braucht Batterien wie nie zuvor. Doch deren Produktion hat massive Folgen für Mensch und Natur. Forscher haben die versteckten Kosten untersucht.",
-      "url": "https://www.heise.de/tp/features/Batterie-Boom-Der-versteckte-Preis-der-Energiewende-10269076.html",
-      "image_title": "Grünes Recycling-Symbol mit gebrauchten Batterien im Inneren. Konzept der Abfallwirtschaft und des Umweltschutzes."
+      "title": "Vergessenes Monument: Forscher legen Pyramide der Caral-Kultur frei",
+      "teaser": "Archäologen entdecken nahe Caral eine verborgene Pyramide. Der Bau könnte neue Erkenntnisse über die Stadtstruktur der ältesten Hochkultur Amerikas liefern.",
+      "url": "https://www.heise.de/tp/features/Vergessenes-Monument-Forscher-legen-Pyramide-der-Caral-Kultur-frei-10266236.html",
+      "image_title": "Antike Ruine in trockener Landschaft"
     },
     {
-      "title": "Gaspreise im Sturzflug: Trumps Handelskrieg beschert Europa günstiges LNG",
-      "teaser": "China belegt US-Flüssiggas mit Strafzöllen. Für Europa bedeutet das sinkende Gaspreise durch mehr verfügbare LNG-Lieferungen. Doch die Freude könnte von kurzer Dauer sein.",
-      "url": "https://www.heise.de/tp/features/Gaspreise-im-Sturzflug-Trumps-Handelskrieg-beschert-Europa-guenstiges-LNG-10269677.html",
-      "image_title": "Grafik eines LNG-Tankers auf hoher See."
+      "title": "KI sagt Sonnenstürme auf die Minute genau voraus",
+      "teaser": "KI kann Sonnenstürme mit erstaunlicher Genauigkeit vorhersagen. Forscher nutzen historische Daten, um Algorithmen zu trainieren. Welche Vorteile bringt das?",
+      "url": "https://www.heise.de/tp/features/KI-sagt-Sonnenstuerme-auf-die-Minute-genau-voraus-10267520.html",
+      "image_title": "Aufnahme eines Sonnensturms"
     },
     {
-      "title": "Wording im Journalismus: Wenn aus Kontrolle Macht wird",
-      "teaser": "Medien machen Wörter zu Machtworten. Wie Begriffe in der Berichterstattung Deutungshoheit schaffen.",
-      "url": "https://www.heise.de/tp/features/Wording-im-Journalismus-Wenn-aus-Kontrolle-Macht-wird-10269792.html",
-      "image_title": "Screenshot von tagesschau.de-News-Seite"
+      "title": "Neues Schmerzmittel: Anfang vom Ende der Opioid-Ära?",
+      "teaser": "FDA genehmigt Mittel gegen Schmerzen. Das Mittel wirkt anders als Opioide und macht nicht süchtig. Kann es der Befreiungsschlag gegen die Opioidkrise sein?",
+      "url": "https://www.heise.de/tp/features/Neues-Schmerzmittel-Anfang-vom-Ende-der-Opioid-Aera-10267804.html"
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
