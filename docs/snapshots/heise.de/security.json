@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-05T08:12:07",
+  "timestamp": "2025-02-05T09:09:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.519c50ee7237a0f230da",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.af9a98359f1341a606f7",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zyxel-Router",
+      "url": "https://www.heise.de/news/Support-ausgelaufen-Keine-Sicherheitsupdates-mehr-fuer-attackierte-Zyxel-Router-10269938.html"
+    },
     {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Android-Angreifer-nutzen-Kernel-Sicherheitsluecke-aus-10268408.html"
@@ -44,26 +48,22 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Zahlreiche-Luecken-gefaehrden-Backup-Appliances-von-Dell-10267578.html"
     },
     {
-      "title": "GarageBand",
-      "url": "https://www.heise.de/news/GarageBand-Boeser-Fehler-kann-zu-Code-Ausfuehrung-fuehren-10265857.html"
+      "title": "Typosquatting im Go-Ökosystem: Gefälschtes BoltDB-Paket entdeckt",
+      "teaser": "Ein bösartiges Paket im Go-Ökosystem imitiert BoltDB und enthält eine Hintertür. Angreifer nutzten den Caching-Dienst, um die Malware unbemerkt zu verbreiten.",
+      "url": "https://www.heise.de/news/Typosquatting-im-Go-Oekosystem-Gefaelschtes-BoltDB-Paket-entdeckt-10270016.html",
+      "image_title": "Scrabble-Buchstaben auf einem Haufen"
     },
     {
-      "title": "7-Zip: Mark-of-the-Web-Lücke wurde von Angreifern missbraucht",
-      "teaser": "Die kürzlich gemeldete Mark-of-the-Web-Schwachstelle in 7-Zip wurde von Angreifern in freier Wildbahn für Schadcode-Schmuggel missbraucht.",
-      "url": "https://www.heise.de/news/7-Zip-Mark-of-the-Web-Luecke-wurde-von-Angreifern-missbraucht-10269973.html",
-      "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
+      "title": "Support ausgelaufen: Keine Sicherheitsupdates mehr für attackierte Zyxel-Router",
+      "teaser": "Derzeit hat es eine Mirai-Botnet-Malware auf bestimmte Routermodelle von Zyxel abgesehen. Weil der Support ausgelaufen ist, müssen Admins jetzt handeln.",
+      "url": "https://www.heise.de/news/Support-ausgelaufen-Keine-Sicherheitsupdates-mehr-fuer-attackierte-Zyxel-Router-10269938.html",
+      "image_title": "Anzeige \"Malware!\" auf einem Display"
     },
     {
       "title": "Jahresbericht: Erneut knapp 2,4 Millionen Apps aus Google Play verbannt",
       "teaser": "Google erläutert, was sie 2024 gegen Malware-Apps im eigenen App Store getan haben und zeigt auf, wie viele Apps und Entwickler gesperrt wurden.",
       "url": "https://www.heise.de/news/Jahresbericht-Erneut-knapp-2-4-Millionen-Apps-aus-Google-Play-verbannt-10269344.html",
       "image_title": "Stilisierte Grafik: zersplittertes Google Play Store Logo, aus dem Viren kommen"
-    },
-    {
-      "title": "Let's Encrypt: 6-Tage-Zertifikate, keine Ablauf-Nachrichten zu Zertifikaten mehr",
-      "teaser": "Let's Encrypt sieht einige Änderungen vor: Zertifikate mit sechs Tagen Laufzeit kommen neu hinzu. Zertifikat-Ablauf-Nachrichten fallen weg.",
-      "url": "https://www.heise.de/news/Let-s-Encrypt-Ende-von-Zertifikat-Ablauf-Nachrichten-und-6-Tage-Zertifikate-10269311.html",
-      "image_title": "Server in der MItte, Verbindungen zu darum herumstehenden Clients, Verschlüsselungssymbole"
     },
     {
       "title": "Als Hochzeitseinladung getarnt: WhatsApp-Nachrichten mit Malware-Installern",
@@ -75,6 +75,18 @@
       "title": "Top 10 Nebenverdienstideen im Jahr 2025",
       "teaser": "Sie wollen sich etwas hinzuverdienen, Ihren Vollzeitjob aber nicht aufgeben? Hier finden Sie 10 kreative Ideen, bewertet nach dem Zeit- und Arbeitsaufwand, den sie aufbringen müssen, sowie nach dem möglichen Verdienst",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6903812872&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Patchday Android: Angreifer nutzen Kernel-Sicherheitslücke aus",
+      "teaser": "Es sind wichtige Sicherheitsupdates für Android 12, 12L, 13, 14 und 15 erschienen. Angreifer können Geräte kompromittieren.",
+      "url": "https://www.heise.de/news/Patchday-Android-Angreifer-nutzen-Kernel-Sicherheitsluecke-aus-10268408.html",
+      "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
+    },
+    {
+      "title": "1win-Datenleck: Knapp 100 Millionen Nutzerdatensätze bei Have-I-Been-Pwned",
+      "teaser": "Das Have-I-Been-Pwned-Projekt hat Daten von knapp 100 Millionen 1win-Nutzern erhalten. Sie stammen aus einem Datenleck im November.",
+      "url": "https://www.heise.de/news/1win-Datenleck-Knapp-100-Millionen-Nutzerdatensaetze-bei-Have-I-Been-Pwned-10268548.html",
+      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
       "title": "HP Anyware: Linux-Client ermöglicht Rechteausweitung",
@@ -157,18 +169,6 @@
       "teaser": "Erfahren Sie, wie Künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
       "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-10256218.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Schwachstellenbewertung: Opensource-Entwickler erneuert Kritik an CVSS und CVE",
-      "teaser": "cURL-Entwickler Daniel Stenberg stört, dass seine CVE-Einträge eigenmächtig von der CISA mit CVSS-Scores versehen werden. Er hat plausible Argumente.",
-      "url": "https://www.heise.de/news/Schwachstellenbewertung-Opensource-Entwickler-erneuert-Kritik-an-CVSS-und-CVE-10263271.html",
-      "image_title": "Eine Person inem einem Raum voller Monitore"
-    },
-    {
-      "title": "SimpleHelp RMM: Angriffe auf Sicherheitslücken beobachtet",
-      "teaser": "In SimpleHelp RMM missbrauchen Angreifer Sicherheitslücken, um Netzwerke zu kompromittieren. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Cyberangriffe-auf-SimpleHelp-RMM-beobachtet-10265414.html",
-      "image_title": "Ein Krimineller greift Rechner an und steuert ihn fern"
     },
     {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
