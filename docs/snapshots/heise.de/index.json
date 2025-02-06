@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-06T03:12:47",
+  "timestamp": "2025-02-06T04:11:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Forscher haben Mikroplastik im menschlichen Gehirn nachgewiesen",
+      "url": "https://www.heise.de/news/Forscher-haben-Mikroplastik-im-menschlichen-Gehirn-nachgewiesen-10271611.html"
+    },
     {
       "title": "Spotify ist nach 17 Jahren erstmals profitabel",
       "url": "https://www.heise.de/news/Spotify-schreibt-2024-erstmals-Reingewinn-10271702.html"
@@ -60,10 +64,6 @@
     {
       "title": "Volkswagen: Elektroauto für unter 20.000 Euro soll 2027 kommen",
       "url": "https://www.heise.de/news/Volkswagen-Elektroauto-fuer-unter-20-000-Euro-soll-2027-kommen-10271429.html"
-    },
-    {
-      "title": "Deep will Unterwassersiedlungen in allen Ozeanen aufbauen",
-      "url": "https://www.heise.de/news/Deep-will-Unterwassersiedlungen-in-allen-Ozeanen-aufbauen-10271403.html"
     },
     {
       "title": "Temu, Shein & CoEU-Kommission will Billigimporte besser prüfen",
@@ -189,21 +189,27 @@
       "image_title": "Sonnenlichtreflexionen"
     },
     {
+      "title": "Forscher haben Mikroplastik im menschlichen Gehirn nachgewiesen",
+      "teaser": "US-Forscher haben knapp 100 Proben aus Gehirnen untersucht und darin eine unerwartet hohe Konzentration von Plastik festgestellt. Diese nimmt zu.",
+      "url": "https://www.heise.de/news/Forscher-haben-Mikroplastik-im-menschlichen-Gehirn-nachgewiesen-10271611.html",
+      "image_title": "CT-Scan eines Gehirns"
+    },
+    {
       "title": "Spotify ist nach 17 Jahren erstmals profitabel",
       "teaser": "Spotify hat die Wende geschafft. Zum ersten Mal kann der schwedische Streamer rundum positive Jahreszahlen berichten. Er hat auch mehr Abonnenten denn je.",
       "url": "https://www.heise.de/news/Spotify-schreibt-2024-erstmals-Reingewinn-10271702.html",
       "image_title": "Spotify-Logo auf iPhone, daneben liegen AirPods"
     },
     {
+      "title": "Top 10 Nebenverdienstideen im Jahr 2025",
+      "teaser": "Sie wollen sich etwas hinzuverdienen, Ihren Vollzeitjob aber nicht aufgeben? Hier finden Sie 10 kreative Ideen, bewertet nach dem Zeit- und Arbeitsaufwand, den sie aufbringen müssen, sowie nach dem möglichen Verdienst",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6903812872&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "E-Brieftasche: EU-Kommission will ständige Personenkennung durch die Hintertür",
       "teaser": "Bürgerrechtler beklagen Foulspiel der EU-Kommission bei der europäischen digitalen Identität: Firmen dürften verifizierte Ausweisdaten abfragen.",
       "url": "https://www.heise.de/news/E-Brieftasche-EU-Kommission-will-staendige-Personenkennung-durch-die-Hintertuer-10271634.html",
       "image_title": "Eine Zeichnung, auf der ein Chef zu sehen ist, der seinen Mitarbeiter mit einer Lupe beobachtet."
-    },
-    {
-      "title": "Top 10 Nebenverdienstideen im Jahr 2025",
-      "teaser": "Sie wollen sich etwas hinzuverdienen, Ihren Vollzeitjob aber nicht aufgeben? Hier finden Sie 10 kreative Ideen, bewertet nach dem Zeit- und Arbeitsaufwand, den sie aufbringen müssen, sowie nach dem möglichen Verdienst",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6903812872&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Vodafone verliert Umsatz und Festnetzkunden",
@@ -235,12 +241,6 @@
       "image_title": "VW ID.2all"
     },
     {
-      "title": "Deep will Unterwassersiedlungen in allen Ozeanen aufbauen",
-      "teaser": "Das britische Unternehmen Deep entwickelt Wohnungen, in denen Menschen dauerhaft auf dem Meeresgrund leben können. Ein Testmodul soll in Kürze abtauchen.",
-      "url": "https://www.heise.de/news/Deep-will-Unterwassersiedlungen-in-allen-Ozeanen-aufbauen-10271403.html",
-      "image_title": "Künstlerische Darstellung des Unterwasserhabitats Sentinel"
-    },
-    {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
       "teaser": "Im Winter droht Schimmelgefahr. Wann Luftentfeuchter wirklich helfen und wie sie ins Smart Home integriert werden.",
       "url": "https://www.heise.de/ratgeber/Gegen-Feuchtigkeit-und-Schimmel-Elektrische-Luftentfeuchter-im-Test-10019764.html"
@@ -265,20 +265,21 @@
       "url": "https://www.heise.de/news/Bundestag-beschliesst-Solarspitzengesetz-zahlreiche-Aenderungen-fuer-PV-Besitzer-10260971.html"
     },
     {
-      "title": "Risiko so hoch wie lange nicht: Neu entdeckter Asteroid könnte 2032 Erde treffen",
-      "url": "https://www.heise.de/news/Risiko-so-hoch-wie-lange-nicht-Neu-entdeckter-Asteroid-koennte-2032-Erde-treffen-10260083.html"
+      "title": "Werbeboykott zeigt Wirkung: X klagt nun auch gegen Lego, Pinterest und Nestlé",
+      "url": "https://www.heise.de/news/Werbeboykott-zeigt-Wirkung-X-klagt-nun-auch-gegen-Lego-Pinterest-und-Nestle-10267408.html"
+    },
+    {
+      "title": "DeepSeek in der Praxis-Analyse: Was den ChatGPT-Konkurrenten besonders macht",
+      "url": "https://www.heise.de/hintergrund/DeepSeek-in-der-Praxis-Analyse-Was-den-ChatGPT-Konkurrenten-besonders-macht-10262594.html",
+      "image_title": "Künstliche Intelligenz: Roboter mit Klemmbrett vor Globus"
     },
     {
       "title": "Studie Solarversorgung der Wärmepumpe: Wie sinnvoll eine Batterie wirklich ist",
       "url": "https://www.heise.de/hintergrund/Studie-Solarversorgung-der-Waermepumpe-Wie-sinnvoll-eine-Batterie-wirklich-ist-10234591.html"
     },
     {
-      "title": "DeepSeek in der Praxis-Analyse: Was den ChatGPT-Konkurrenten besonders macht",
-      "url": "https://www.heise.de/hintergrund/DeepSeek-in-der-Praxis-Analyse-Was-den-ChatGPT-Konkurrenten-besonders-macht-10262594.html"
-    },
-    {
-      "title": "DeepSeek: Blick hinter die Kulissen des Reasoning-Modells R1",
-      "url": "https://www.heise.de/hintergrund/DeepSeek-Blick-hinter-die-Kulissen-des-Reasoning-Modells-R1-10260703.html"
+      "title": "Elektroauto Skoda Elroq 50 im Test: Konkurrent und Kannibale",
+      "url": "https://www.heise.de/tests/Elektroauto-Skoda-Elroq-50-im-Test-Konkurrent-und-Kannibale-10259150.html"
     },
     {
       "title": "Merz: Wer Daten bereitstellt, zahlt 10 Prozent weniger Krankenkassenbeiträge",
@@ -303,6 +304,12 @@
       "title": "heise+ Jubiläumsangebot",
       "teaser": "Wir feiern 6 Jahre heise+ mit einem besonderen Angebot: Sichern Sie sich jetzt 12 Monate heise+ mit 50 % Rabatt und freuen Sie sich auf geballtes IT- und Tech-Wissen. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Deep will Unterwassersiedlungen in allen Ozeanen aufbauen",
+      "teaser": "Das britische Unternehmen Deep entwickelt Wohnungen, in denen Menschen dauerhaft auf dem Meeresgrund leben können. Ein Testmodul soll in Kürze abtauchen.",
+      "url": "https://www.heise.de/news/Deep-will-Unterwassersiedlungen-in-allen-Ozeanen-aufbauen-10271403.html",
+      "image_title": "Künstlerische Darstellung des Unterwasserhabitats Sentinel"
     },
     {
       "title": "Nothing Ear (Open) im Test: Endlich ein Open-Ear-Kopfhörer mit Bass",
@@ -373,15 +380,15 @@
       "image_title": "Universal Cable for Apple Watch"
     },
     {
+      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
+      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
+    },
+    {
       "title": "Boeing macht 2 Milliarden US-Dollar Verlust mit dem Starliner",
       "teaser": "Nach dem Misserfolg der Starliner-Mission zur ISS hat Boeing weitere finanzielle Verluste ausgewiesen. Insgesamt sind es 2 Milliarden US-Dollar.",
       "url": "https://www.heise.de/news/Boeing-macht-2-Milliarden-US-Dollar-Verlust-mit-dem-Starliner-10270783.html",
       "image_title": "Raumfahrzeug Starliner an der ISS"
-    },
-    {
-      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
-      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
     },
     {
       "title": "Studie: KI verhindert Fehldiagnosen nicht",
@@ -436,15 +443,14 @@
       "image_title": "Sonos Soundbar im Wohnzimmer unter Fernseher"
     },
     {
-      "title": "Asphalt aus Biomasseabfällen repariert Straßenrisse selbstständig",
-      "teaser": "Die Reparatur von Rissen in Straßen kostet viel Geld. Britische Wissenschaftler haben nun selbstheilenden Asphalt auf Biobasis entwickelt.",
-      "url": "https://www.heise.de/news/Asphalt-aus-Biomasseabfaellen-repariert-Strassenrisse-selbststaendig-10270321.html",
-      "image_title": "Zutaten selbstheilenden Asphalts in Gläsern auf Straße"
+      "title": "Nach Trump-Dekret: Apple Maps beginnt offenbar mit Bergumbenennung",
+      "url": "https://www.heise.de/news/Nach-Trump-Dekret-Apple-Maps-beginnt-offenbar-mit-Bergumbenennung-10269633.html",
+      "image_title": "Mount McKinley in Apple Maps"
     },
     {
-      "title": "UpdateNicht jugendfrei: Apple lässt erste Porno-App auf iPhones in der EU",
-      "url": "https://www.heise.de/news/Nicht-jugendfrei-Apple-laesst-erste-Porno-App-auf-iPhones-in-der-EU-10268168.html",
-      "image_title": "iPhone Rückseite"
+      "title": "7-Zip: Mark-of-the-Web-Lücke wurde von Angreifern missbraucht",
+      "url": "https://www.heise.de/news/7-Zip-Mark-of-the-Web-Luecke-wurde-von-Angreifern-missbraucht-10269973.html",
+      "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
     },
     {
       "title": "DeepSeek soll V3 mit viel stärkerer Nvidia-Hardware entwickelt haben",
@@ -452,24 +458,29 @@
       "image_title": "Nvidias KI-Beschleuniger H100"
     },
     {
-      "title": "Fax-Verbot beschert Österreichs Gesundheitssystem Chaos",
-      "url": "https://www.heise.de/news/Fax-Verbot-beschert-Oesterreichs-Gesundheitssystem-Chaos-10268321.html",
-      "image_title": "Altes Faxgerät"
-    },
-    {
       "title": "Treibhausgas: ESA-Satellit findet die größten kontinuierlichen Methanleaks",
       "url": "https://www.heise.de/news/Treibhausgas-ESA-Satellit-findet-die-groessten-kontinuierlichen-Methanleaks-10268863.html",
       "image_title": "Unterschiedlich eingefärbter Ausschnitt einer Weltkarte, am rötesten in Nordafrika und Südasien"
     },
     {
-      "title": "Renault will mit Elektrofahrzeug im Retrolook auf Effizienzrekordjagd gehen",
-      "url": "https://www.heise.de/news/Renault-will-mit-E-Rekordfahrzeug-im-Retrolook-auf-Effizienzrekordjagd-gehen-10268197.html",
-      "image_title": "Renault Filante Rekord 2025"
+      "title": "Ladeperformance von E-Autos im Vergleich: Bringt die ISO 12906 Klarheit?",
+      "url": "https://www.heise.de/hintergrund/Ladeperformance-von-E-Autos-im-Vergleich-Bringt-die-ISO-12906-Klarheit-10267955.html",
+      "image_title": "Mercedes EQS an Ladesäule"
     },
     {
-      "title": "Raumfahrt: Space-Shuttle-Nachfolger besteht Test für Frachtmission",
-      "url": "https://www.heise.de/news/Raumtransporter-Dream-Chaser-besteht-Test-fuer-Frachtmission-10267947.html",
-      "image_title": "Raumfrachter Dream Chaser"
+      "title": "Asphalt aus Biomasseabfällen repariert Straßenrisse selbstständig",
+      "url": "https://www.heise.de/news/Asphalt-aus-Biomasseabfaellen-repariert-Strassenrisse-selbststaendig-10270321.html",
+      "image_title": "Zutaten selbstheilenden Asphalts in Gläsern auf Straße"
+    },
+    {
+      "title": "Dauersekunde bei der Apple Watch: Ab der Series 10 möglich, doch Apple bremst",
+      "url": "https://www.heise.de/news/Dauersekunde-bei-der-Apple-Watch-Ab-der-Series-10-moeglich-doch-Apple-bremst-10267782.html",
+      "image_title": "Zifferblätter mit Sekundenanzeige"
+    },
+    {
+      "title": "\"Apple Einladungen\": Neue iOS-App soll iCloud+ attraktiver machen",
+      "url": "https://www.heise.de/news/Apple-Invites-Neue-iPhone-App-fuer-Event-Einladungen-10269623.html",
+      "image_title": "Bedienoberfläche von Apple Einladungen"
     },
     {
       "title": "Löschflugzeug beschädigt: Mann in Kalifornien gesteht folgenschweren Drohnenflug",
@@ -477,19 +488,14 @@
       "image_title": "Detail des von der Drohne verursachten Schadens an der Tragfläche des Löschflugzeugs."
     },
     {
-      "title": "Akku für die Apple Watch: 1200 mAh fürs Armband",
-      "url": "https://www.heise.de/news/Akku-fuer-die-Apple-Watch-1200-mAh-fuers-Armband-10267690.html",
-      "image_title": "1200mAh-Power-Bank für Apple Watch"
+      "title": "UpdateNicht jugendfrei: Apple lässt erste Porno-App auf iPhones in der EU",
+      "url": "https://www.heise.de/news/Nicht-jugendfrei-Apple-laesst-erste-Porno-App-auf-iPhones-in-der-EU-10268168.html",
+      "image_title": "iPhone Rückseite"
     },
     {
-      "title": "Nach Trump-Dekret: Apple Maps beginnt offenbar mit Bergumbenennung",
-      "url": "https://www.heise.de/news/Nach-Trump-Dekret-Apple-Maps-beginnt-offenbar-mit-Bergumbenennung-10269633.html",
-      "image_title": "Mount McKinley in Apple Maps"
-    },
-    {
-      "title": "\"Civilization 7\" startet mit ordentlichen Reviews in den Vorabzugang",
-      "url": "https://www.heise.de/news/Civilization-7-startet-mit-ordentlichen-Reviews-in-den-Vorabzugang-10267740.html",
-      "image_title": "Screenshot aus \"Civ 7\""
+      "title": "\"Murderesses\": MagentaTV entfernt Serie mit KI-Synchronisation",
+      "url": "https://www.heise.de/news/Murderesses-MagentaTV-entfernt-Serie-mit-KI-Synchronisation-10269372.html",
+      "image_title": "Szene aus \"Murderesses\" zeigt Polizistin"
     },
     {
       "title": "Now And Then: KI-restaurierter Beatles Song gewinnt Grammy",
@@ -497,24 +503,24 @@
       "image_title": "Album Cover der Beatles"
     },
     {
-      "title": "Bioware: \"Ausgeliehene\" Mitarbeiter dürfen nicht zurück",
-      "url": "https://www.heise.de/news/Bioware-Ausgeliehene-Mitarbeiter-duerfen-nicht-zurueck-10267450.html",
-      "image_title": "Screenshot aus \"Dragon Age The Veilguard\""
-    },
-    {
       "title": "El Salvador schafft Bitcoin als Währung wieder ab",
       "url": "https://www.heise.de/news/El-Salvador-schafft-Bitcoin-als-Waehrung-wieder-ab-10268264.html",
       "image_title": "Zerbrechende Bitcoin-Münze"
     },
     {
-      "title": "Bundestagswahl: Alternativen zum Wahl-O-Mat",
-      "url": "https://www.heise.de/news/Bundestagswahl-Alternativen-zum-Wahl-O-Mat-10265436.html",
-      "image_title": "Person wirft Wahlzettel in Urne"
+      "title": "Finanzen: Alphabet macht erstmals über 100 Milliarden US-Dollar Reingewinn",
+      "url": "https://www.heise.de/news/Finanzen-Alphabet-macht-erstmals-ueber-100-Milliarden-US-Dollar-Reingewinn-10269824.html",
+      "image_title": "Schriftzug \"Google\" an Glasfassade eines Bürogebäudes"
     },
     {
-      "title": "Salesforce kündigt Mitarbeitern und stellt andere Mitarbeiter ein",
-      "url": "https://www.heise.de/news/Mitarbeiter-wechsel-dich-Salesforce-kuendigt-und-stellt-ein-10268422.html",
-      "image_title": "Luftaufnahme von San Francisco mit dem Salesforce-Tower."
+      "title": "Robotaxi-Firma Cruise: Die Hälfte der Mitarbeiter muss gehen",
+      "url": "https://www.heise.de/news/Robotaxi-Firma-Cruise-Die-Haelfte-der-Mitarbeiter-muss-gehen-10269778.html",
+      "image_title": "Cruise-Auto an der Kreuzung Stockton & Sutter in San Francisco (farblich verfälscht)"
+    },
+    {
+      "title": "Nach Corona-Schub: Digitalisierung kommt wieder nur noch langsam voran",
+      "url": "https://www.heise.de/news/Studie-Digitalisierung-kommt-nur-noch-langsam-voran-10269928.html",
+      "image_title": "Frau hält Bezahlterminal an Smartwatch"
     },
     {
       "title": "Vernetzte Geräte: Höhere Sicherheitsanforderungen greifen im August 2025",
@@ -527,18 +533,13 @@
       "image_title": "Eine Waage, auf der die Buchstaben AI und die Zeichnung eines menschlichen Gehirns liegen."
     },
     {
-      "title": "Wenn der Staat die elektronische Patientenakte lesen will",
-      "url": "https://www.heise.de/hintergrund/Wenn-der-Staat-die-Patientenakte-lesen-will-10248249.html",
-      "image_title": "Hände an einer Tastatur. Drumherum Sicherheits- und Gesundheits-Icons."
-    },
-    {
       "title": "DOGE: Elon Musk nimmt unter Kontroversen seine Arbeit auf",
       "url": "https://www.heise.de/news/DOGE-Elon-Musk-nimmt-unter-Kontroversen-seine-Arbeit-auf-10269544.html"
     },
     {
-      "title": "Dienstag: Beitragsnachlass gegen Daten, El Salvador streicht Bitcoin als Währung",
-      "url": "https://www.heise.de/news/Dienstag-Beitragsnachlass-gegen-Daten-El-Salvador-streicht-Bitcoin-als-Waehrung-10268330.html",
-      "image_title": "Arzt an einem Bildschirm, dazu Text: DIENSTAG Krankenkassenbeiträge, Bitcoin, Werbeboykott, DeepSeek-V3 & Porno-App"
+      "title": "Mittwoch: Alphabets Rekordergebnis enttäuscht Börse, AMDs Rekordumsätze dank KI",
+      "url": "https://www.heise.de/news/Mittwoch-Alphabets-Rekordergebnis-enttaeuscht-Boerse-AMDs-Rekordumsaetze-dank-KI-10269902.html",
+      "image_title": "Börsen-Infos, Zahlen und Symbole; Mittwoch: Google-Gewinne, AMD-Rekordzahlen, Paypal-Wachstum, Cruise-Ende & China-Betrugsverdacht"
     },
     {
       "title": "Zahlen, bitte! 120 Grad auf dem Globus verteilt für stete Weltraumkommunikation",
@@ -595,31 +596,32 @@
       "image_title": "Dream Chaser space freighter"
     },
     {
-      "title": "UpdatePG: Apple lets first porn app on iPhones in the EU",
-      "url": "https://www.heise.de/en/news/PG-Apple-lets-first-porn-app-on-iPhones-in-the-EU-10268184.html",
-      "image_title": "iPhone back"
+      "title": "Hard disk fraud: Increasing evidence of origin in China",
+      "url": "https://www.heise.de/en/news/Hard-disk-fraud-Increasing-evidence-of-origin-in-China-10269059.html",
+      "image_title": "Seagate hard disk on a white background"
     },
     {
-      "title": "FOSDEM 25: Confidence in Rust for the Linux kernel",
-      "url": "https://www.heise.de/en/news/FOSDEM-25-Confidence-in-Rust-for-the-Linux-kernel-10267067.html"
+      "title": "Salary increases at SAP: Works Council and trade union dissatisfied",
+      "url": "https://www.heise.de/en/news/Salary-increases-at-SAP-Works-Council-and-trade-union-dissatisfied-10263909.html"
     },
     {
-      "title": "Russian disinformation campaigns discover Bluesky",
-      "url": "https://www.heise.de/en/news/Russian-disinformation-campaigns-discover-Bluesky-10247757.html"
+      "title": "Fraud with Seagate hard disks: Dozens of readers report suspected cases",
+      "url": "https://www.heise.de/en/news/Fraud-with-Seagate-hard-disks-Dozens-of-readers-report-suspected-cases-10259237.html"
     },
     {
-      "title": "\"Civilization 7\" starts the pre-release period with proper reviews",
-      "url": "https://www.heise.de/en/news/Civilization-7-starts-the-pre-release-period-with-proper-reviews-10268041.html"
+      "title": "NASA astronaut Sunita Williams breaks a record",
+      "url": "https://www.heise.de/en/news/NASA-astronaut-Sunita-Williams-breaks-a-record-10266886.html"
+    },
+    {
+      "title": "Webservices in Go programmieren",
+      "teaser": "Mit SQLite speichern Sie Daten in einer Datenbank, die einen Neustart überstehen. Außerdem erfahren Sie etwas über zeitgesteuertes Ausführen von Funktionen.",
+      "url": "https://www.heise.de/hintergrund/Webservices-in-Go-programmieren-10261859.html",
+      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "Lenovo ThinkPad P1 Gen 7: Notebook mit austauschbarem Arbeitsspeicher im Test",
       "teaser": "LPDDR5X-Speicher ist effizienter als normaler DDR5-Speicher, musste aber aufgelötet werden. Beim ThinkPad P1 Gen7 lässt sich der Speicher einfach umrüsten.",
       "url": "https://www.heise.de/tests/Lenovo-ThinkPad-P1-Gen-7-Notebook-mit-austauschbarem-Arbeitsspeicher-im-Test-10266085.html"
-    },
-    {
-      "title": "Android-Smartphone Redmi Note 14 Pro+ 5G im Test",
-      "teaser": "Xiaomis Redmi Note 14 Pro+ soll einerseits günstig sein, andererseits gute Hardware bieten. Fürs Display und die Kamera stimmt das, anderswo jedoch nicht.",
-      "url": "https://www.heise.de/tests/Android-Smartphone-Redmi-Note-14-Pro-5G-im-Test-10262811.html"
     },
     {
       "title": "iPhone EU-Edition: So spaltet Apple iOS immer weiter auf",
@@ -628,15 +630,15 @@
       "image_title": ","
     },
     {
+      "title": "KaufberatungWelches iPad sollte es sein?",
+      "teaser": "Wer sich ein Apple-Tablet zulegen will, steht vor Fragen nach Display, Entspiegelung, Stiftwahl, Tastatur, Prozessor, RAM und Speicher. So wählen Sie richtig.",
+      "url": "https://www.heise.de/ratgeber/Kaufberatung-Welches-iPad-sollte-es-sein-10258933.html",
+      "image_title": ", Apple"
+    },
+    {
       "title": "So geht'sAlten iMac zum externen 5K-Monitor umbauen",
       "teaser": "Ein alter iMac kann mit etwas Werkzeug und Adapterplatine zum externen 5K-Monitor umgebaut werden.",
       "url": "https://www.heise.de/ratgeber/So-geht-s-Alten-iMac-zum-externen-5K-Monitor-umbauen-10250423.html",
-      "image_title": ","
-    },
-    {
-      "title": "Tipp-Hilfen: Tastaturen für das iPad im Test",
-      "teaser": "Die Unterschiede zwischen externen Tastaturen für das Apple-Tablet sind groß – bei Preis ebenso wie bei Qualität. Wir testen 12 Keyboards mit und ohne Hülle.",
-      "url": "https://www.heise.de/tests/Tipp-Hilfen-Tastaturen-fuer-das-iPad-im-Test-10258723.html",
       "image_title": ","
     },
     {
@@ -702,22 +704,22 @@
       "image_title": "Nissan Ariya"
     },
     {
-      "title": "Ladeperformance von E-Autos im VergleichBringt die ISO 12906 Klarheit?",
-      "teaser": "Mit der ISO 12906 lässt sich die Leistungsfähigkeit von Batterien in E-Autos auf verschiedene Arten vergleichen. Welches Kriterium ist das wichtigste?",
-      "url": "https://www.heise.de/hintergrund/Ladeperformance-von-E-Autos-im-Vergleich-Bringt-die-ISO-12906-Klarheit-10267955.html",
-      "image_title": "Mercedes EQS an Ladesäule"
-    },
-    {
-      "title": "Robotaxi-Firma Cruise: Die Hälfte der Mitarbeiter muss gehen",
-      "teaser": "GM schließt seine Tochterfirma Cruise, die selbstfahrende Autos entwickelt hat. GM übernimmt nur etwa die Hälfte der Mitarbeiter.",
-      "url": "https://www.heise.de/news/Robotaxi-Firma-Cruise-Die-Haelfte-der-Mitarbeiter-muss-gehen-10269778.html",
-      "image_title": "Cruise-Auto an der Kreuzung Stockton & Sutter in San Francisco (farblich verfälscht)"
-    },
-    {
       "title": "Citroën ë-C4 X Facelift im FahrberichtNur optisch aufgefrischt",
       "teaser": "Eine kleine Auffrischung soll die ungewöhnlich geformte Limousine mit E-Antrieb aufwerten. Wir konnten sie bereits ein paar Kilometer probefahren.",
       "url": "https://www.heise.de/tests/Citroen-e-C4-X-Facelift-im-Fahrbericht-Nur-optisch-aufgefrischt-10269072.html",
       "image_title": "Citroën ë-C4 X Facelift"
+    },
+    {
+      "title": "Verkehrswende in Paris Eigene Spur für Fahrgemeinschaften",
+      "teaser": "Die Überlastung der Pariser Stadtautobahn ist ein Ärgernis mit hoher Umweltbelastung. Jetzt reserviert die Stadt zur Rushhour eine Spur für Fahrgemeinschaften.",
+      "url": "https://www.heise.de/news/Verkehrswende-Paris-gibt-Fahrgemeinschaften-eigene-Spur-auf-der-Stadtautobahn-10268580.html",
+      "image_title": "Paris"
+    },
+    {
+      "title": "Harley-Davidson Pan America 1250 STEtwas heruntergeschraubt",
+      "teaser": "Harley-Davidson stellt seine Reiseenduro Pan America 1250 auf 17-Zoll-Räder und kürzt die Federwege. Als Crossover-Bike soll sie neue Kundenkreise erschließen.",
+      "url": "https://www.heise.de/news/Harley-Davidson-Pan-America-1250-ST-Etwas-heruntergeschraubt-10260339.html",
+      "image_title": "Harley-Davidson Pan America 1250 ST"
     },
     {
       "title": "Deepseek: Ist die KI aus China doch nicht so energiesparend wie erhofft?",
@@ -755,21 +757,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-7-die-beste-waermebildkamera-fuers-handy-im-test/m9y4787?wt_mc=intern.red.bestenliste.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Trump kündigt Richtungswechsel an: Weitere Ukraine-Hilfen gegen seltene Erden",
-      "teaser": "Donald Trump knüpft Ukraine-Hilfen an Bedingungen. Washington will Zugang zu begehrten seltenen Erden. Doch Russlands Vormarsch könnte den Plan durchkreuzen.",
-      "url": "https://www.heise.de/tp/features/Trump-kuendigt-Richtungswechsel-an-Weitere-Ukraine-Hilfen-gegen-seltene-Erden-10269323.html"
-    },
-    {
-      "title": "US-Finanzministerium: Elon Musk bekommt Einblick in sensible Zahlungsdaten",
-      "teaser": "Musks Team erhält Zugriff auf Zahlungssystem des US-Finanzministeriums. Kritiker warnen nun vor einem nationalen Sicherheitsrisiko.",
-      "url": "https://www.heise.de/tp/features/US-Finanzministerium-Elon-Musk-bekommt-Einblick-in-sensible-Zahlungsdaten-10271407.html",
-      "image_title": "Elon Musk lächelt bei einer Veranstaltung in die Kamera."
+      "title": "US-Gesundheitsbehörde verbannt Gender-Sprache aus der Forschung",
+      "teaser": "Die CDC schafft das Gendern ab. Donald Trump begründet dies mit der \"biologischen Wahrheit\". Was das für laufende Studien bedeutet.",
+      "url": "https://www.heise.de/tp/features/US-Gesundheitsbehoerde-verbannt-Gender-Sprache-aus-der-Forschung-10271034.html",
+      "image_title": "Logo des CDC auf Homepage, darüber Lupe"
     },
     {
       "title": "Deutschland, deine Milliardäre: Mehr Erben als Gründer",
       "teaser": "Oxfam-Studie zeigt hohe Vermögenskonzentration. Erbschaften in Deutschland besonders relevant. Betroffene fordern höhere Besteuerung.",
       "url": "https://www.heise.de/tp/features/Deutschland-deine-Milliardaere-Mehr-Erben-als-Gruender-10269412.html",
       "image_title": "Eine Motoryacht auf offener See von oben betrachtet"
+    },
+    {
+      "title": "Batterie-Boom: Der versteckte Preis der Energiewende",
+      "teaser": "Die Energiewende braucht Batterien wie nie zuvor. Doch deren Produktion hat massive Folgen für Mensch und Natur. Forscher haben die versteckten Kosten untersucht.",
+      "url": "https://www.heise.de/tp/features/Batterie-Boom-Der-versteckte-Preis-der-Energiewende-10269076.html",
+      "image_title": "Grünes Recycling-Symbol mit gebrauchten Batterien im Inneren. Konzept der Abfallwirtschaft und des Umweltschutzes."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
