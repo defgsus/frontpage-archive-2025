@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-08T07:07:36",
+  "timestamp": "2025-02-08T08:10:15",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10274050.html"
+    },
     {
       "title": "Google Maps: Ein Stück Internetgeschichte wird 20 Jahre alt",
       "url": "https://www.heise.de/news/Google-Maps-Ein-Stueck-Internetgeschichte-wird-20-Jahre-alt-10269569.html"
@@ -60,10 +64,6 @@
     {
       "title": "Nokia-Patentstreit: Laut Amazon keine Gefahr für Prime Video",
       "url": "https://www.heise.de/news/Nokia-gewinnt-Patentstreit-gegen-Amazon-Prime-Video-koennte-abgeschaltet-werden-10274925.html"
-    },
-    {
-      "title": "Schlafapnoe-Messung: \"Die Apple Watch gibt robuste Langzeitdaten aus\"",
-      "url": "https://www.heise.de/hintergrund/Schlafapnoe-Messung-Die-Apple-Watch-gibt-robuste-Langzeitdaten-aus-10264012.html"
     },
     {
       "title": "AppleiPhone SE 4 soll angeblich bald vorgestellt werden",
@@ -183,6 +183,12 @@
       "image_title": "Die Sims"
     },
     {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Laravel, Crane, Unicode, Eclipse SUMO, Plotly, Aider, RAG Challenge und Crates.io",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10274050.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
       "title": "Google Maps: Ein Stück Internetgeschichte wird 20 Jahre alt",
       "teaser": "Am 8. Februar 2005 feiert Google Maps seinen 20. Geburtstag. Was als digitale Karte begann, veränderte die Navigation im Auto oder zu Fuß nachhaltig.",
       "url": "https://www.heise.de/news/Google-Maps-Ein-Stueck-Internetgeschichte-wird-20-Jahre-alt-10269569.html",
@@ -220,12 +226,6 @@
       "url": "https://www.heise.de/news/Mehr-Weichen-Vollsperrungen-am-Berliner-Hauptbahnhof-10275029.html"
     },
     {
-      "title": "Schlafapnoe-Messung: \"Die Apple Watch gibt robuste Langzeitdaten aus\"",
-      "teaser": "Wir haben mit Wissenschaftlern der Technischen Hochschule Mittelhessen gesprochen, wie sie die Ergebnisse der Apple Watch im Schlaflabor einordnen.",
-      "url": "https://www.heise.de/hintergrund/Schlafapnoe-Messung-Die-Apple-Watch-gibt-robuste-Langzeitdaten-aus-10264012.html",
-      "image_title": "Schlafapnoe-Erkennung auf der Apple Watch mit Ausgabe auf dem iPhone"
-    },
-    {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
       "teaser": "Im Winter droht Schimmelgefahr. Wann Luftentfeuchter wirklich helfen und wie sie ins Smart Home integriert werden.",
       "url": "https://www.heise.de/ratgeber/Gegen-Feuchtigkeit-und-Schimmel-Elektrische-Luftentfeuchter-im-Test-10019764.html"
@@ -246,21 +246,21 @@
       "image_title": "Friedrich Merz 2025 in Flensburg zum Wahlkampf"
     },
     {
-      "title": "Bundestag beschließt \"Solarspitzengesetz\": zahlreiche Änderungen für PV-Besitzer",
-      "url": "https://www.heise.de/news/Bundestag-beschliesst-Solarspitzengesetz-zahlreiche-Aenderungen-fuer-PV-Besitzer-10260971.html"
-    },
-    {
       "title": "Werbeboykott zeigt Wirkung: X klagt nun auch gegen Lego, Pinterest und Nestlé",
       "url": "https://www.heise.de/news/Werbeboykott-zeigt-Wirkung-X-klagt-nun-auch-gegen-Lego-Pinterest-und-Nestle-10267408.html"
     },
     {
-      "title": "DeepSeek in der Praxis-Analyse: Was den ChatGPT-Konkurrenten besonders macht",
-      "url": "https://www.heise.de/hintergrund/DeepSeek-in-der-Praxis-Analyse-Was-den-ChatGPT-Konkurrenten-besonders-macht-10262594.html",
-      "image_title": "Künstliche Intelligenz: Roboter mit Klemmbrett vor Globus"
+      "title": "Bundestag beschließt \"Solarspitzengesetz\": zahlreiche Änderungen für PV-Besitzer",
+      "url": "https://www.heise.de/news/Bundestag-beschliesst-Solarspitzengesetz-zahlreiche-Aenderungen-fuer-PV-Besitzer-10260971.html"
     },
     {
       "title": "Elektroauto Skoda Elroq 50 im Test: Konkurrent und Kannibale",
-      "url": "https://www.heise.de/tests/Elektroauto-Skoda-Elroq-50-im-Test-Konkurrent-und-Kannibale-10259150.html"
+      "url": "https://www.heise.de/tests/Elektroauto-Skoda-Elroq-50-im-Test-Konkurrent-und-Kannibale-10259150.html",
+      "image_title": "Skoda Elroq"
+    },
+    {
+      "title": "Bastelprojekt: Ein modulares Kontrollpanel wie aus einem Agentenfilm bauen",
+      "url": "https://www.heise.de/ratgeber/Bastelprojekt-ein-modulares-Kontrollpanel-wie-aus-einem-Agentenfilm-bauen-10247183.html"
     },
     {
       "title": "Studie Solarversorgung der Wärmepumpe: Wie sinnvoll eine Batterie wirklich ist",
@@ -289,6 +289,12 @@
       "title": "heise+ Jubiläumsangebot",
       "teaser": "Wir feiern 6 Jahre heise+ mit einem besonderen Angebot: Sichern Sie sich jetzt 12 Monate heise+ mit 50 % Rabatt und freuen Sie sich auf geballtes IT- und Tech-Wissen. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Schlafapnoe-Messung: \"Die Apple Watch gibt robuste Langzeitdaten aus\"",
+      "teaser": "Wir haben mit Wissenschaftlern der Technischen Hochschule Mittelhessen gesprochen, wie sie die Ergebnisse der Apple Watch im Schlaflabor einordnen.",
+      "url": "https://www.heise.de/hintergrund/Schlafapnoe-Messung-Die-Apple-Watch-gibt-robuste-Langzeitdaten-aus-10264012.html",
+      "image_title": "Schlafapnoe-Erkennung auf der Apple Watch mit Ausgabe auf dem iPhone"
     },
     {
       "title": "15 Jahre mit dem iPad | Mac & i-Podcast",
@@ -358,15 +364,15 @@
       "url": "https://www.heise.de/news/Visual-Studio-Code-1-97-bringt-Copilot-Edits-und-verschiebbare-Palette-10274105.html"
     },
     {
+      "title": "Wie GPU und CPU zusammenspielen",
+      "teaser": "Grafikprozessoren (GPUs) sind für das Training und die Anwendung von KI-Modellen unverzichtbar. Die hohen Investitionen in die teuren Beschleuniger sind jedoch nur dann gerechtfertigt, wenn die Serverplattform sie optimal unterstützt.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-systeme-optimal-einsetzen-4875/?source=hbsadersatz"
+    },
+    {
       "title": "Metaanalyse: Junge Erwachsene fallen online leichter auf Fehlinformationen rein",
       "teaser": "In zahlreichen US-Studien wurde untersucht, wer am leichtesten auf Fehlinformationen im Internet hereinfällt. Nun gibt es dazu eine Zusammenfassung.",
       "url": "https://www.heise.de/news/Metaanalyse-Junge-Erwachsene-fallen-online-leichter-auf-Fehlinformationen-rein-10273934.html",
       "image_title": "Frustrierter Mann mit hocherhobenen Händen und einem Laptop auf dem Schoß"
-    },
-    {
-      "title": "Case Study: Schneller produzieren, kreativer arbeiten",
-      "teaser": "Wie das Team der Global Entertainment Awards seine Leistungsfähigkeit und Kreativität steigerte.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/schneller-produzieren-kreativer-arbeiten-4876/?source=hbsad-ersatz"
     },
     {
       "title": "Neu in .NET 9.0 [7]: Prioritäten für Methodenüberladungen in C# 13.0",
@@ -422,18 +428,30 @@
     },
     {
       "title": "Urteil: TLS-Verschlüsselung bei E-Mail-Rechnungen an Privatkunden zu wenig?",
-      "teaser": "Der Fall einer per E-Mail geschickten Privatkunden-Rechnung, die von Kriminellen manipuliert wurde, wanderte vor Gericht. Der Knackpunkt: die Verschlüsselung.",
       "url": "https://www.heise.de/news/Urteil-TLS-Verschluesselung-bei-E-Mail-Rechnungen-an-Privatkunden-zu-wenig-10274040.html"
     },
     {
-      "title": "Linux: Minimalsystem läuft im PDF-Dokument",
-      "url": "https://www.heise.de/news/Linux-laeuft-im-PDF-10272022.html",
-      "image_title": "Linux läuft im PDF-Dokument"
+      "title": "Geheimbefehl: Apple soll Briten Behördenzugriff auf verschlüsselte iCloud geben",
+      "url": "https://www.heise.de/news/Britische-Regierung-erzwingt-Zugriff-auf-Apples-verschluesselte-Cloud-Daten-10273896.html",
+      "image_title": "ein geöffnetes Schloss neben einem Apple-Logo"
     },
     {
-      "title": "Pure Storage: Neue Systeme sollen das Ende der Festplatten einläuten",
-      "url": "https://www.heise.de/news/Pure-Storage-Neue-Systeme-sollen-das-Ende-der-Festplatten-einlaeuten-10269647.html",
-      "image_title": "Server-Hardware"
+      "title": "Elektronische Patientenakte: Fast alle gesetzlich Versicherten haben eine",
+      "url": "https://www.heise.de/news/Elektronische-Patientenakte-Fast-alle-gesetzlich-Versicherten-haben-eine-10272717.html"
+    },
+    {
+      "title": "Student baut eigenen Laptop",
+      "url": "https://www.heise.de/news/Student-baut-eigenen-Laptop-10272636.html"
+    },
+    {
+      "title": "Das perfekte gekochte Ei",
+      "url": "https://www.heise.de/news/Mit-Stroemungsmechanik-zum-perfekten-Fruehstuecksei-10272687.html",
+      "image_title": "Ein perfektes Frühstücksei in einem Eierbecher auf einem Teller"
+    },
+    {
+      "title": "ASAP: Forscher lassen humanoiden Roboter Moves von bekannten Sportlern ausführen",
+      "url": "https://www.heise.de/news/ASAP-Forscher-lassen-humanoiden-Roboter-Moves-von-bekannten-Sportlern-ausfuehren-10273606.html",
+      "image_title": "Roboter ahmt Ronaldos Siu-Luftsprung nach"
     },
     {
       "title": "Nach Trump-Dekret: Apple Maps beginnt offenbar mit Bergumbenennung",
@@ -441,38 +459,14 @@
       "image_title": "Mount McKinley in Apple Maps"
     },
     {
-      "title": "Student baut eigenen Laptop",
-      "url": "https://www.heise.de/news/Student-baut-eigenen-Laptop-10272636.html"
+      "title": "Malware war auch im App Store: Stealer klauen Passwörter per OCR aus Screenshots",
+      "url": "https://www.heise.de/news/Klaut-Passwoerter-aus-Screenshots-Stealer-Apps-erstmals-im-App-Store-gesichtet-10273411.html",
+      "image_title": "In einem dunklen Raum hält eine Hand ein Handy"
     },
     {
-      "title": "Forscher haben Mikroplastik im menschlichen Gehirn nachgewiesen",
-      "url": "https://www.heise.de/news/Forscher-haben-Mikroplastik-im-menschlichen-Gehirn-nachgewiesen-10271611.html",
-      "image_title": "CT-Scan eines Gehirns"
-    },
-    {
-      "title": "Deutsches Unternehmen Atmos Space Cargo testet rückführbaren Weltraumcontainer",
-      "url": "https://www.heise.de/news/Deutsches-Unternehmen-Atmos-Space-Cargo-testet-rueckfuehrbaren-Weltraumcontainer-10272387.html",
-      "image_title": "Künstlerische Darstellung der Phoenix Space Capsule im All"
-    },
-    {
-      "title": "38 Fragen, 29 Parteien: Der Wahl-O-Mat zur Bundestagswahl ist jetzt online",
-      "url": "https://www.heise.de/news/Noch-knapp-zwei-Wochen-Zeit-Der-Wahl-O-Mat-zur-Bundestagswahl-ist-jetzt-online-10272267.html",
-      "image_title": "T-Shirt mit der Aufschrift: \"Willst du mit mir wählen gehen\""
-    },
-    {
-      "title": "Abo statt Einmalkauf: Apple baut AppleCare+ um",
-      "url": "https://www.heise.de/news/AppleCare-Schrittweise-Abschaffung-des-Einzelkaufs-kommt-Abo-bevorzugt-10270655.html",
-      "image_title": "AppleCare-Geräteversicherung"
-    },
-    {
-      "title": "Dauersekunde bei der Apple Watch: Ab der Series 10 möglich, doch Apple bremst",
-      "url": "https://www.heise.de/news/Dauersekunde-bei-der-Apple-Watch-Ab-der-Series-10-moeglich-doch-Apple-bremst-10267782.html",
-      "image_title": "Zifferblätter mit Sekundenanzeige"
-    },
-    {
-      "title": "Steam: Valve warnt vor Abandonware",
-      "url": "https://www.heise.de/news/Steam-warnt-jetzt-vor-Software-Leichen-10271881.html",
-      "image_title": "Steam auf Laptop"
+      "title": "Prozess in Berlin: Referent für Digitalisierung machte wohl Schul-iPads zu Geld",
+      "url": "https://www.heise.de/news/Prozess-in-Berlin-Referent-fuer-Digitalisierung-machte-wohl-Schul-iPads-zu-Geld-10273524.html",
+      "image_title": "iPad Air 4 und iPad 8"
     },
     {
       "title": "Sonos feuert 200 Mitarbeiter",
@@ -480,24 +474,29 @@
       "image_title": "Mehrere Sonos-Lautsprecher nebeneinander"
     },
     {
-      "title": "Mittelalter-Rollenspiel: \"Kingdom Come Deliverance 2\" legt Traumstart hin",
-      "url": "https://www.heise.de/news/Mittelalter-Rollenspiel-Kingdom-Come-Deliverance-2-legt-Traumstart-hin-10272777.html",
-      "image_title": "Screenshot aus \"Kingdom Come Deliverance 2\""
+      "title": "Linux: Minimalsystem läuft im PDF-Dokument",
+      "url": "https://www.heise.de/news/Linux-laeuft-im-PDF-10272022.html",
+      "image_title": "Linux läuft im PDF-Dokument"
     },
     {
-      "title": "Bundesnetzagentur zieht Tausende illegale Produkte aus dem Verkehr",
-      "url": "https://www.heise.de/news/Bundesnetzagentur-zieht-Tausende-illegale-Produkte-aus-dem-Verkehr-10271770.html",
-      "image_title": "Deutschland- und EU-Fahne"
+      "title": "Steam: Valve warnt vor Abandonware",
+      "url": "https://www.heise.de/news/Steam-warnt-jetzt-vor-Software-Leichen-10271881.html",
+      "image_title": "Steam auf Laptop"
     },
     {
-      "title": "Volkswagen: Elektroauto für unter 20.000 Euro soll 2027 kommen",
-      "url": "https://www.heise.de/news/Volkswagen-Elektroauto-fuer-unter-20-000-Euro-soll-2027-kommen-10271429.html",
-      "image_title": "VW ID.2all"
+      "title": "Elektromotorrad Sol Motors Pocket Rocket: Ein Rohr auf Rädern",
+      "url": "https://www.heise.de/news/Elektromotorrad-Sol-Motors-Pocket-Rocket-Ein-Rohr-auf-Raedern-10269387.html",
+      "image_title": "Sol Motors Pocket Rocket"
     },
     {
-      "title": "Fax-Verbot beschert Österreichs Gesundheitssystem Chaos",
-      "url": "https://www.heise.de/news/Fax-Verbot-beschert-Oesterreichs-Gesundheitssystem-Chaos-10268321.html",
-      "image_title": "Altes Faxgerät"
+      "title": "Indischer Navigationssatellit hängt im falschen Orbit fest",
+      "url": "https://www.heise.de/news/Triebwerksproblem-Indischer-Satellit-erreicht-vorgesehen-Orbit-nicht-10272823.html",
+      "image_title": "Indischer Satellit NVS-02"
+    },
+    {
+      "title": "Raumfahrt: Airbus plant angeblich europäische SpaceX-Alternative",
+      "url": "https://www.heise.de/news/Raumfahrt-Airbus-plant-angeblich-europaeische-SpaceX-Alternative-10273153.html",
+      "image_title": "Langzeitbelichtung einer startenden Rakete"
     },
     {
       "title": "E-Brieftasche: EU-Kommission will ständige Personenkennung durch die Hintertür",
@@ -505,27 +504,28 @@
       "image_title": "Eine Zeichnung, auf der ein Chef zu sehen ist, der seinen Mitarbeiter mit einer Lupe beobachtet."
     },
     {
+      "title": "Sicherheitsexperten enthüllen triviale Datenlecks bei Legaltechs",
+      "url": "https://www.heise.de/news/Sicherheitsexperten-enthuellen-triviale-Datenlecks-bei-Legaltechs-10272273.html",
+      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
+    },
+    {
       "title": "Prognose: Ausbauziel bei Windrädern erstmals realistisch",
       "url": "https://www.heise.de/news/Prognose-Ausbauziel-bei-Windraedern-erstmals-realistisch-10273145.html",
       "image_title": "Windräder auf dem Land"
-    },
-    {
-      "title": "Doctolib will KI-Modelle mit anonymisierten Patientendaten trainieren",
-      "url": "https://www.heise.de/news/Doctolib-aendert-Datenschutzerklaerung-fuer-KI-Training-mit-anonymisierten-Daten-10272104.html",
-      "image_title": "Die elektronische Patientenakte soll laut Gesundheitsminister Karl Lauterbach Telemedizin ermöglichen."
     },
     {
       "title": "DOGE: Elon Musk nimmt unter Kontroversen seine Arbeit auf",
       "url": "https://www.heise.de/news/DOGE-Elon-Musk-nimmt-unter-Kontroversen-seine-Arbeit-auf-10269544.html"
     },
     {
-      "title": "Donnerstag: Mikroplastik in menschlichen Gehirnen, Abo-Rückgang bei Disney+",
-      "url": "https://www.heise.de/news/Donnerstag-Mikroplastik-in-menschlichen-Gehirnen-Abo-Rueckgang-bei-Disney-10271764.html",
-      "image_title": "Neuronen, Gehirn; Donnerstag: Gehirn-Müll, Streamer-Rückgang, Spotify-Gewinn, EUid-Kritik, Vodafone-Einbußen & #heiseshow"
+      "title": "Freitag: ARM gegen Nuvia statt gegen Qualcomm, Amazons Wachstum lässt etwas nach",
+      "url": "https://www.heise.de/news/Freitag-ARM-gegen-Nuvia-statt-gegen-Qualcomm-Amazons-Wachstum-laesst-etwas-nach-10273586.html",
+      "image_title": "Nahaufnahme einer Maschine, die Chips von einem Silizium-Wafer entnimmt und auf ein Substrat aufbringt; Freitag: Chip-Lizenzstreit, Amazon-Gewinne, Malware-Texterkennung, DAZN-Sammelklage & Datenschutz-Podcast"
     },
     {
-      "title": "Podcast: \"Das Ziel ist die maximale Verunsicherung der Bevölkerung\"",
-      "url": "https://www.heise.de/news/Podcast-Das-Ziel-ist-die-maximale-Verunsicherung-der-Bevoelkerung-10272562.html"
+      "title": "Auslegungssache 127: Zum Umgang mit Datenleaks",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-127-Zum-Umgang-mit-Datenleaks-10272173.html",
+      "image_title": "Marie-Claire Koch (links oben), Christopher Kunz (rechts oben), Ronald Eikenberg (links unten) und Joerg Heidrich (rechts unten)"
     },
     {
       "title": "Live Fragen stellenheise+ Expertentalk: Jobs in der IT-Branche",
@@ -577,27 +577,26 @@
       "image_title": "Visualized data streams in the server room"
     },
     {
-      "title": "Dream Chaser space transporter passes test for cargo mission",
-      "url": "https://www.heise.de/en/news/Dream-Chaser-space-transporter-passes-test-for-cargo-mission-10267982.html",
-      "image_title": "Dream Chaser space freighter"
-    },
-    {
       "title": "Is a kernel developer blocking the success of Rust for Linux? Yes and no!",
-      "url": "https://www.heise.de/en/news/Is-a-kernel-developer-blocking-the-success-of-Rust-for-Linux-Yes-and-no-10269318.html"
+      "url": "https://www.heise.de/en/news/Is-a-kernel-developer-blocking-the-success-of-Rust-for-Linux-Yes-and-no-10269318.html",
+      "image_title": "A penguin sits in front of the computer displaying Linux source code and a Rust logo."
     },
     {
-      "title": "Salary increases at SAP: Works Council and trade union dissatisfied",
-      "url": "https://www.heise.de/en/news/Salary-increases-at-SAP-Works-Council-and-trade-union-dissatisfied-10263909.html"
+      "title": "Data leak at Thermomix: data from 1 million German users on the darknet",
+      "url": "https://www.heise.de/en/news/Data-leak-at-Thermomix-data-from-1-million-German-users-on-the-darknet-10273939.html"
+    },
+    {
+      "title": "Dream Chaser space transporter passes test for cargo mission",
+      "url": "https://www.heise.de/en/news/Dream-Chaser-space-transporter-passes-test-for-cargo-mission-10267982.html"
     },
     {
       "title": "Fraud with Seagate hard disks: Dozens of readers report suspected cases",
       "url": "https://www.heise.de/en/news/Fraud-with-Seagate-hard-disks-Dozens-of-readers-report-suspected-cases-10259237.html"
     },
     {
-      "title": "Support-Ende von Windows 10: Das müssen Sie wissen",
-      "teaser": "Im Oktober will Microsoft die letzten Updates für Windows 10 bereitstellen und erklärt damit Millionen funktionstüchtiger PCs vorzeitig zu Elektroschrott.",
-      "url": "https://www.heise.de/ratgeber/Support-Ende-von-Windows-10-Das-muessen-Sie-wissen-10249881.html",
-      "image_title": ", KI, saran25 - stock.adobe.com, Collage c't"
+      "title": "eM Client: Kalender importieren und abonnieren",
+      "teaser": "Ich nutze eM Client statt Outlook und komme gut zurecht. Ich finde aber keine Option, eine ICS-Datei oder ein Kalenderabo per URL im Kalendermodul einzubinden.",
+      "url": "https://www.heise.de/ratgeber/eM-Client-Kalender-importieren-und-abonnieren-10269880.html"
     },
     {
       "title": "Atemaussetzern auf der Spur: So funktioniert Apples Schlafapnoe-Erkennung",
@@ -606,16 +605,16 @@
       "image_title": ", Gorodenkoff, stock.adobe.com"
     },
     {
-      "title": "iPhone EU-Edition: So spaltet Apple iOS immer weiter auf",
-      "teaser": "In der EU müssen sich iOS und iPadOS immer weiter öffnen – auf Gedeih und Verderb. Im Gegenzug sperrt Apple Funktionen. Was das konkret für die Nutzer bedeutet.",
-      "url": "https://www.heise.de/hintergrund/iPhone-EU-Edition-So-spaltet-Apple-iOS-immer-weiter-auf-10252891.html",
-      "image_title": ","
-    },
-    {
       "title": "KaufberatungWelches iPad sollte es sein?",
       "teaser": "Wer sich ein Apple-Tablet zulegen will, steht vor Fragen nach Display, Entspiegelung, Stiftwahl, Tastatur, Prozessor, RAM und Speicher. So wählen Sie richtig.",
       "url": "https://www.heise.de/ratgeber/Kaufberatung-Welches-iPad-sollte-es-sein-10258933.html",
       "image_title": ", Apple"
+    },
+    {
+      "title": "Schlafapnoe-Messung: \"Die Apple Watch gibt robuste Langzeitdaten aus\"",
+      "teaser": "Wir haben mit Wissenschaftlern der Technischen Hochschule Mittelhessen gesprochen, wie sie die Ergebnisse der Apple Watch im Schlaflabor einordnen.",
+      "url": "https://www.heise.de/hintergrund/Schlafapnoe-Messung-Die-Apple-Watch-gibt-robuste-Langzeitdaten-aus-10264012.html",
+      "image_title": "Schlafapnoe-Erkennung auf der Apple Watch mit Ausgabe auf dem iPhone"
     },
     {
       "title": "Wie man aus einem Fahrrad ein Hydrobike baut",
@@ -657,12 +656,6 @@
       "image_title": "Bahnhof mit alter Eisenbahn"
     },
     {
-      "title": "Elektromotorrad Sol Motors Pocket RocketEin Rohr auf Rädern",
-      "teaser": "Die Pocket Rocket ist mit zwei Leistungen für die Führerscheinklassen AM und A1 ab 6000 Euro erhältlich. Ein Elektrobike, auf dem man jederzeit auffällt.",
-      "url": "https://www.heise.de/news/Elektromotorrad-Sol-Motors-Pocket-Rocket-Ein-Rohr-auf-Raedern-10269387.html",
-      "image_title": "Sol Motors Pocket Rocket"
-    },
-    {
       "title": "Citroën ë-C3 Aircross im ersten FahrberichtGünstig, aber auch gut?",
       "teaser": "Mit einem aggressiv eingepreisten SUV will Stellantis der E-Mobilität zum Erfolg verhelfen. Dafür muss der Interessent ein paar Einschränkungen hinnehmen.",
       "url": "https://www.heise.de/tests/Elektroauto-Citroen-e-C3-Aircross-im-ersten-Fahrbericht-Guenstig-aber-auch-gut-10272496.html",
@@ -679,6 +672,12 @@
       "teaser": "Kia und Skoda demonstrieren mit dem EV3 und Elroq unterschiedliche Ausstattungsstrategien. Für den Kunden wird es dadurch mitunter unnötig teuer.",
       "url": "https://www.heise.de/ratgeber/Kia-EV3-und-Skoda-Elroq-Ausstattung-und-Kosten-im-Vergleich-10231979.html",
       "image_title": "Skoda Elroq und Kia EV3"
+    },
+    {
+      "title": "Ford-CEO Farley zu US-Zöllen\"Würden US-Autoindustrie schwer treffen\"",
+      "teaser": "US-Präsident Donald Trump will Zölle deutlich anheben. Das schade den US-Autoherstellern, warnt der CEO von Ford.",
+      "url": "https://www.heise.de/news/Ford-CEO-Farley-Zoelle-wuerden-US-Autoindustrie-schwer-treffen-10271851.html",
+      "image_title": "Ford Explorer"
     },
     {
       "title": "Le Chat ausprobiert: So schlägt sich die KI-App im Vergleich zu ChatGPT und Co.",
@@ -716,16 +715,15 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-7-die-beste-waermebildkamera-fuers-handy-im-test/m9y4787?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Trumps Zoll-Offensive: Nordamerika am Scheideweg",
-      "teaser": "Donald Trump kündigt massive Zölle an. Die 25-Prozent-Abgaben sollen ab Februar gelten. Was der Ex-Präsident damit bezweckt, beunruhigt Experten weltweit.",
-      "url": "https://www.heise.de/tp/features/Trumps-Zoll-Offensive-Nordamerika-am-Scheideweg-10274877.html",
-      "image_title": "Die Grafik zeigt zwei Container, die zusammenkrachen, einer mit der US Fahne, der anderen mit der chinesische Fahne"
+      "title": "USA vs. China: Der gefährliche Mythos vom heilsamen Konflikt",
+      "teaser": "Die USA und China steuern auf einen gefährlichen Konflikt zu. Ein Trugschluss der Scharfmacher lautet Heilung durch Rivalität. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/USA-vs-China-Der-gefaehrliche-Mythos-vom-heilsamen-Konflikt-10269526.html",
+      "image_title": "Zwei Fäuste gegeneinander, mit US-Flagge und China-Flagge"
     },
     {
-      "title": "Bundestagswahl 2025: Das große Schweigen zum Ukraine-Desaster",
-      "teaser": "Ukraine-Krieg – größter Konflikt in Europa seit 1945. Deutschland zweitgrößter Waffenlieferant. Warum spricht darüber im Wahlkampf niemand?",
-      "url": "https://www.heise.de/tp/features/Bundestagswahl-2025-Das-grosse-Schweigen-zum-Ukraine-Desaster-10272367.html",
-      "image_title": "Bundestagswahlzettel über zersplitterter Ukraine-Flagge mit Blutspuren"
+      "title": "Atomwaffen für die Ukraine? Trump erteilt klare Absage",
+      "teaser": "USA lehnen atomare Bewaffnung der Ukraine ab. Ukraine-Beauftragter Kellogg erteilt Selenskyjs Forderung Absage. Chancen \"zwischen gering und null\".",
+      "url": "https://www.heise.de/tp/features/Atomwaffen-fuer-die-Ukraine-Trump-erteilt-klare-Absage-10273868.html"
     },
     {
       "title": "Fremde Akteure: Die schwere Abgrenzung der EU zum Autoritarismus",
