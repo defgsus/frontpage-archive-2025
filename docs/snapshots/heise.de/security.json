@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-11T12:17:06",
+  "timestamp": "2025-02-11T13:17:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Solarwinds Platform",
+      "url": "https://www.heise.de/news/Solarwinds-Update-schliesst-teils-kritische-Luecken-in-Platform-10278244.html"
+    },
+    {
       "title": "Zimbra",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Zimbra-Angreifer-koennen-Metadaten-von-E-Mails-auslesen-10277628.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-12-schliesst-Deanonymisierungs-Luecke-10276001.html"
     },
     {
-      "title": "Trimble Cityworks",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Trimble-Cityworks-beobachtet-10276058.html"
+      "title": "Solarwinds: Update schließt teils kritische Lücken in Platform",
+      "teaser": "Solarwinds hat das Update 2025.1 von Solarwinds Platform veröffentlicht. Es schließt einige teilweise kritische Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Solarwinds-Update-schliesst-teils-kritische-Luecken-in-Platform-10278244.html",
+      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
+    },
+    {
+      "title": "AMD schließt schwere Microcode-Sicherheitslücke – per Microcode-Update",
+      "teaser": "Bei Cloud-Servern mit Epyc-Prozessoren lässt sich die RAM-Verschlüsselung zur Abschottung virtueller Maschinen aushebeln. Erste Updates stehen bereit.",
+      "url": "https://www.heise.de/news/AMD-schliesst-schwere-Microcode-Sicherheitsluecke-per-Microcode-Update-10278175.html",
+      "image_title": "Server-CPU AMD Epyc 7763"
     },
     {
       "title": "Sicherheit und mehr: Das steckt in den jüngsten Updates für Mac, iPhone und iPad",
@@ -155,18 +167,6 @@
       "image_title": "Brennendes Laptop vor Servern, die das Laptop überwacht"
     },
     {
-      "title": "Angriffe mit Ransomware: 2024 wieder deutlich weniger Lösegeld gezahlt",
-      "teaser": "Verschiedene Maßnahmen gegen Cyberkriminelle haben 2024 wohl einmal mehr Erfolge gezeigt: Die Lösegeldzahlungen nach Ransomware-Angriffen sind wieder gesunken.",
-      "url": "https://www.heise.de/news/Angriffe-mit-Ransomware-2024-wieder-deutlich-weniger-Loesegeld-gezahlt-10273692.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "Sicherheitsexperten enthüllen triviale Datenlecks bei Legaltechs",
-      "teaser": "Zwei Legaltechs helfen Bürgern bei der Durchsetzung rechtlicher Ansprüche. Doch deren Daten standen teilweise ungeschützt im Netz, wie Hacker herausfanden.",
-      "url": "https://www.heise.de/news/Sicherheitsexperten-enthuellen-triviale-Datenlecks-bei-Legaltechs-10272273.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
       "title": "Wie man Unterseekabel repariert: \"Der größte Aufwand liegt nicht im Bergen\"",
       "teaser": "Jonas Franken von der TU Darmstadt erforscht die Resilienz kritischer Infrastrukturen. Er beschreibt Schritte zur Reparatur beschädigter Unterseekabel.",
       "url": "https://www.heise.de/hintergrund/Wie-man-Unterseekabel-repariert-Der-groesste-Aufwand-liegt-nicht-im-Bergen-10277568.html",
@@ -185,6 +185,11 @@
       "image_title": "Marie-Claire Koch (links oben), Christopher Kunz (rechts oben), Ronald Eikenberg (links unten) und Joerg Heidrich (rechts unten)"
     },
     {
+      "title": "Re: Probleme Eset/WithSecure-Update: Lizenz ungültig, Signatur-Update schlägt fe",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Probleme-Eset-WithSecure-Update-Lizenz-ungueltig-Signatur-Update-schlaegt-fe/posting-44905339/show/"
+    },
+    {
       "title": "Re: WithSecure-Updates haben bei mir aktuell nicht funktioniert",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-Updates-haben-bei-mir-aktuell-nicht-funktioniert/posting-44879377/show/"
@@ -193,11 +198,6 @@
       "title": "Re: In absehbarer Zeit??",
       "teaser": "Forum: Digitale Signaturen: Erster Standard für Post-Quantum-Signaturen",
       "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/Digitale-Signaturen-Erster-Standard-fuer-Post-Quantum-Signaturen/Re-In-absehbarer-Zeit/posting-44854163/show/"
-    },
-    {
-      "title": "Re: Kein Scan möglich: \"dysfunktionale Signaturen\" (gelöst)",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Kein-Scan-moeglich-dysfunktionale-Signaturen-geloest/posting-44821863/show/"
     }
   ]
 }
