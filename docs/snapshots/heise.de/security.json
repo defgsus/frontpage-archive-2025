@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-11T09:09:38",
+  "timestamp": "2025-02-11T10:10:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zimbra",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Zimbra-Angreifer-koennen-Metadaten-von-E-Mails-auslesen-10277628.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/SAP-Patchday-18-neue-Schwachstellen-korrigiert-10277422.html"
     },
@@ -44,8 +48,22 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Trimble-Cityworks-beobachtet-10276058.html"
     },
     {
-      "title": "HCL BigFix Server Automation",
-      "url": "https://www.heise.de/news/Defekter-Sicherheitspatch-fuer-HCL-BigFix-Server-Automation-repariert-10273805.html"
+      "title": "Sicherheit und mehr: Das steckt in den jüngsten Updates für Mac, iPhone und iPad",
+      "teaser": "Apple hat weitere Informationen zu iOS 18.3.1, iPadOS 18.3.1, iPadOS 17.7.5 sowie macOS 13.7.4, 14.7.4 und 15.3.1 veröffentlicht. Leider nicht sehr ausführlich.",
+      "url": "https://www.heise.de/news/Sicherheit-und-mehr-Das-steckt-in-den-juengsten-Updates-fuer-Mac-iPhone-und-iPad-10277332.html",
+      "image_title": "iOS-18-Übersicht"
+    },
+    {
+      "title": "Sicherheitsupdates Zimbra: Angreifer können Metadaten von E-Mails auslesen",
+      "teaser": "Die Zimbra-Entwickler haben unter anderem mindestens eine kritische Lücke in der E-Mail- und Groupwarelösung geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Zimbra-Angreifer-koennen-Metadaten-von-E-Mails-auslesen-10277628.html",
+      "image_title": "Person tippt am Laptop."
+    },
+    {
+      "title": "Wie man Unterseekabel repariert: \"Der größte Aufwand liegt nicht im Bergen\"",
+      "teaser": "Jonas Franken von der TU Darmstadt erforscht die Resilienz kritischer Infrastrukturen. Er beschreibt Schritte zur Reparatur beschädigter Unterseekabel.",
+      "url": "https://www.heise.de/hintergrund/Wie-man-Unterseekabel-repariert-Der-groesste-Aufwand-liegt-nicht-im-Bergen-10277568.html",
+      "image_title": "Unterseekabel"
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -149,21 +167,10 @@
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
-      "title": "Bitwarden erhöht Zugangssicherheit von Nutzerkonten",
-      "teaser": "Bitwarden erhöht die Sicherheit von Zugängen: Wer keine Zwei-Faktor-Authentifizierung aktiviert hat, bekommt Bestätigungscodes per E-Mail.",
-      "url": "https://www.heise.de/news/Bitwarden-erhoeht-Zugangssicherheit-von-Nutzerkonten-10273590.html"
-    },
-    {
-      "title": "Auslegungssache 127: Zum Umgang mit Datenleaks",
-      "teaser": "Im c't-Datenschutz-Podcast geht es diesmal um aktuelle Datenlecks. heise-Redakteure diskutieren über mangelndes Verantwortungsbewusstsein und Transparenz.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-127-Zum-Umgang-mit-Datenleaks-10272173.html",
-      "image_title": "Marie-Claire Koch (links oben), Christopher Kunz (rechts oben), Ronald Eikenberg (links unten) und Joerg Heidrich (rechts unten)"
-    },
-    {
-      "title": "Malware war auch im App Store: Stealer klauen Passwörter per OCR aus Screenshots",
-      "teaser": "Die auf Android wie iOS abzielende Malware steckt in unscheinbar wirkenden Apps. Diese erschleichen sich Zugriff auf Fotos und nutzen Texterkennung.",
-      "url": "https://www.heise.de/news/Klaut-Passwoerter-aus-Screenshots-Stealer-Apps-erstmals-im-App-Store-gesichtet-10273411.html",
-      "image_title": "In einem dunklen Raum hält eine Hand ein Handy"
+      "title": "Wie man Unterseekabel repariert: \"Der größte Aufwand liegt nicht im Bergen\"",
+      "teaser": "Jonas Franken von der TU Darmstadt erforscht die Resilienz kritischer Infrastrukturen. Er beschreibt Schritte zur Reparatur beschädigter Unterseekabel.",
+      "url": "https://www.heise.de/hintergrund/Wie-man-Unterseekabel-repariert-Der-groesste-Aufwand-liegt-nicht-im-Bergen-10277568.html",
+      "image_title": "Unterseekabel"
     },
     {
       "title": "Secure Coding: Sicherere Passwörter mit Salt, Pepper und Hashing",
@@ -176,12 +183,6 @@
       "teaser": "Im c't-Datenschutz-Podcast geht es diesmal um aktuelle Datenlecks. heise-Redakteure diskutieren über mangelndes Verantwortungsbewusstsein und Transparenz.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-127-Zum-Umgang-mit-Datenleaks-10272173.html",
       "image_title": "Marie-Claire Koch (links oben), Christopher Kunz (rechts oben), Ronald Eikenberg (links unten) und Joerg Heidrich (rechts unten)"
-    },
-    {
-      "title": "Secure Coding: Passwort-Hashing zum Schutz vor Brute-Force und Rainbow-Tabellen",
-      "teaser": "Warum sichere Passwörter wichtig sind und welche Hashing-Algorithmen Java-Anwendung sowie Benutzerkonten zuverlässig vor Hackern schützen.",
-      "url": "https://www.heise.de/hintergrund/Secure-Coding-Passwort-Hashing-zum-Schutz-vor-Brute-Force-und-Rainbow-Tabellen-10265244.html",
-      "image_title": "Mann zeigt auf Verschlüsselungsmaschine"
     },
     {
       "title": "Re: WithSecure-Updates haben bei mir aktuell nicht funktioniert",
