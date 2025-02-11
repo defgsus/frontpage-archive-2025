@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-11T15:09:52",
+  "timestamp": "2025-02-11T16:11:27",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -124,27 +130,6 @@
       "image_title": "Kevin Kühnert im Bundestag: Kevin Kühnert, ehemaliger SPD- Generalsekretär, spricht im Bundestag in der Generaldebatte zur «Situation in Deutschland». Das Parlament kommt zu seiner letzten regulären Sitzung vor der Bundestagswahl zusammen."
     },
     {
-      "title": "Roundtable : In der Todeszone der Fünf-Prozent-Hürde",
-      "teaser": "Bei der Bundestagswahl müssen viele kleine Parteien um den Einzug ins Parlament bangen – darunter auch die Linke, das BSW und die FDP. Über das Dilemma kleiner Parteien",
-      "url": "https://www.zeit.de/politik/2025-02/kleine-parteien-bundestagswahl-volt-fdp-linke-bsw-politikpodcast",
-      "image_url": "https://img.zeit.de/politik/2025-02/kleine-parteien-bundestagswahl-volt-fdp-linke-bsw-politikpodcast-bild/super__430x286",
-      "image_title": "Roundtable: Ein zerissenes Wahlplakat von der VOLT Partei in München am 07.02.2025."
-    },
-    {
-      "title": "Liveblog:Bundestagswahl 2025 : Kretschmann kritisiert Zusammenarbeit von Scholz mit den Ländern",
-      "teaser": "Unter Scholz sei die Distanz zwischen Bund und Ländern größer geworden, sagt Ministerpräsident Kretschmann. Die Ampelkoalition sei auch deswegen gescheitert. Das Liveblog",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/bundestagswahl-2025-kandidaten-umfragen-liveblog",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/bundestagswahl-2025-kandidaten-umfragen-liveblog-kretschmann/super__430x286",
-      "image_title": "Bundestagswahl 2025: Winfried Kretschmann (Bündnis 90/Die Grünen), Ministerpräsident von Baden-Württemberg, spricht bei einem Interview im Staatsministerium. 19/12/2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Zölle gegen Europa : Waffen her, Zölle runter",
-      "teaser": "Die EU arbeitet an einer Reaktion auf die neuen Zölle der US-Regierung. So vorzugehen wie zu Donald Trumps erster Amtszeit, wird aber nicht funktionieren.",
-      "url": "https://www.zeit.de/wirtschaft/2025-02/us-zoelle-europa-aluminium-stahl-donald-trump-eu-kommission",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-02/us-zoelle-europa-aluminium-stahl-donald-trump-eu-kommission-bild/super__430x286",
-      "image_title": "US-Zölle gegen Europa: Donald Trumps neue Zölle auf Stahl und Alumium fordern die EU heraus."
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); OpenAI : Die 100-Milliarden-Dollar-Falle",
       "teaser": "Die Fehde zwischen Elon Musk und Sam Altman geht weiter: Der reichste Mann der Welt will OpenAI kaufen. Sein Angebot ist gewieft, denn es trifft einen wunden Punkt.",
       "url": "https://www.zeit.de/digital/2025-02/openai-elon-musk-uebernahme-angebot-kuenstliche-intelligenz",
@@ -180,20 +165,6 @@
       "image_title": "Fachkräfte aus dem Ausland: Ullas Wadhwa, hier in der Hapag-Lloyd-Zentrale am Ballindamm, arbeitet als Kundenzufriedenheitsmanager"
     },
     {
-      "title": "Börse : Dax steigt auf Rekordwert von 22.000 Punkten",
-      "teaser": "Die Börse befindet sich auf einem Hoch, die Anlegenden sind dank hoher Firmengewinne weiter risikofreundlich. Daran ändern auch die neuen US-Zölle vorerst nichts.",
-      "url": "https://www.zeit.de/wirtschaft/boerse/2025-02/boerse-dax-rekordwert-anleger-usa-zoelle",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-02/deutscher-leitindex-dax-boerse-frankfurt/super__430x286",
-      "image_title": "Börse: 27/01/2025 - Händler im Handelssaal der Deutschen Börse."
-    },
-    {
-      "title": "Deutscher Außenhandel : Deutschland exportiert mehr nach Polen als nach China",
-      "teaser": "Die deutschen Exporte sind leicht rückläufig, gegen diesen Trend stellt sich der Außenhandel mit Osteuropa: Polen und die Ukraine importierten zuletzt mehr.",
-      "url": "https://www.zeit.de/wirtschaft/2025-02/polen-china-exporte-deutschland",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-02/polen-china-exporte-deutschland-grenze/super__430x286",
-      "image_title": "Deutscher Außenhandel: Lkw stauen sich auf der Autobahn nahe Frankfurt (Oder) vor dem deutsch-polnischen Grenzübergang. 18/03/2020"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Haiangriffe : Wie oft greifen Haie wirklich an?",
       "teaser": "Jeder schreckliche Todesfall durch einen Hai schafft es in die Medien. Aber das zeigt nicht das wahre Bild. Neue Daten zeigen Überraschendes.",
       "url": "https://www.zeit.de/wissen/umwelt/2025-02/haiangriffe-statistik-haie-surfen-badestrand",
@@ -208,18 +179,32 @@
       "image_title": "Einspringen für Kollegen: \"Ich kann fast vorhersagen, wann sich die Kollegin abmeldet\""
     },
     {
-      "title": "Wohnungsbau : Immobilienweise warnen vor wachsendem Wohnungsmangel",
-      "teaser": "Das Frühjahrsgutachten der Immobilienweisen sieht eine \"tiefgreifende Krise\" im Wohnungsbau. Der Wohnungsmangel habe große Konsequenzen für Mieten und Immobilienpreise.",
-      "url": "https://www.zeit.de/wirtschaft/2025-02/immobilenweise-wohnungsbau-mangel-krise-gutachten",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/fruehjahrsgutachten-immobilienweisen-wohnungsneubau-bild/super__430x286",
-      "image_title": "Wohnungsbau: BERLIN, GERMANY - OCTOBER 23: Cranes stand over the construction site of a new commercial development at Alexanderplatz on October 23, 2024 in Berlin, Germany. The International Monetary Fund (IMF) has corrected its economic outlook for Germany downward, to zero percent growth for this year and 0.8% growth in 2025. Factors include weak automobile, industry and real estate sectors. The outlook puts Germany at the bottom of leading industrial nations in terms of economic growth. (Photo by Sean Gallup/Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Literaturbranche : Blurb nicht so rum",
+      "teaser": "In den USA gibt es eine Diskussion über Kollegenjubel auf Roman-Umschlägen. Ist das schon ein Fall für die Buchrückengesundheit?",
+      "url": "https://www.zeit.de/kultur/literatur/2025-02/literatur-romane-literaturbetrieb-blurb-werbung-schriftsteller",
+      "image_url": "https://img.zeit.de/kultur/literatur/2025-02/literatur-romane-literaturbetrieb-blurb-werbung-schriftsteller-2/super__430x286",
+      "image_title": "literatur-romane-literaturbetrieb-blurb-werbung-schriftsteller"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rentenrechner • Z+ Empfehlung : So groß ist Ihre Rentenlücke",
-      "teaser": "Die gesetzliche Rente reicht selten, um den Lebensstandard im Alter zu halten. Unser Rechner zeigt, wie lang Sie arbeiten müssten. Und wie Sie die Lücke schließen können.",
-      "url": "https://www.zeit.de/geld/2025-02/rentenrechner-arbeit-ruhestand-geld-finanzen",
-      "image_url": "https://img.zeit.de/geld/2025-01/rentenrechner-arbeit-ruhestand-geld/super__430x286",
-      "image_title": "Rentenrechner • Z+ Empfehlung: So groß ist Ihre Rentenlücke"
+      "title": "Z+ (abopflichtiger Inhalt); Treffen von mutmaßlichen Islamisten : 270 junge Männer, eine Turnhalle. Und dann ertönte \"Allahu Akbar\".",
+      "teaser": "Am Wochenende stoppte die Polizei ein mutmaßliches Geheimtreffen von Islamisten in einer Hamburger Schule. Was hatten sie vor?",
+      "url": "https://www.zeit.de/hamburg/2025-02/treffen-mutmassliche-islamisten-hamburg-bergedorfer-sporthalle-polizei",
+      "image_url": "https://img.zeit.de/hamburg/2025-02/treffen-mutmassliche-islamisten-bergedorfer-sporthalle-polizei-bild/super__430x286",
+      "image_title": "Treffen von mutmaßlichen Islamisten: Treffen von mutmaßlichen Islamisten"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); US-Zölle gegen Europa : Waffen her, Zölle runter",
+      "teaser": "Die EU arbeitet an einer Reaktion auf die neuen Zölle der US-Regierung. So vorzugehen wie zu Donald Trumps erster Amtszeit, wird aber nicht funktionieren.",
+      "url": "https://www.zeit.de/wirtschaft/2025-02/us-zoelle-europa-aluminium-stahl-donald-trump-eu-kommission",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-02/us-zoelle-europa-aluminium-stahl-donald-trump-eu-kommission-bild/super__430x286",
+      "image_title": "US-Zölle gegen Europa: Donald Trumps neue Zölle auf Stahl und Alumium fordern die EU heraus."
+    },
+    {
+      "title": "Trump-Dekrete : Religiöse Gruppen verklagen US-Regierung wegen Einwanderungspolitik",
+      "teaser": "US-Behörden sollen illegal eingereiste Migranten künftig auch in Kirchen festnehmen können. Religiöse Organisationen sehen darin eine Verletzung der Glaubensfreiheit.",
+      "url": "https://www.zeit.de/politik/ausland/2025-02/usa-donald-trump-migration-einwanderung-verklagen-kirchen-religion",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/usa-donald-trump-migration-einwanderung-verklagen-kirchen/super__430x286",
+      "image_title": "Trump-Dekrete: People gather during a service at Starting Point Community Church, which assists members of the newly arrived migrant community, amid concerns of intensified immigration enforcement by U.S. Immigration and Customs Enforcement (ICE) after the inauguration of U.S. President Donald Trump, in Chicago, Illinois U.S. January 26, 2025. REUTERS/Vincent Alban"
     },
     {
       "title": "Folge 27 : Scholz gegen Merz: Wer Sie im TV-Duell überzeugt hat",
@@ -341,13 +326,6 @@
       "image_title": "Sprachnachricht: \"Musk will die AfD salonfähiger machen\""
     },
     {
-      "title": "Messerattacke : Ermittlungen gegen Polizisten zu Vorfall mit Aschaffenburg-Angreifer",
-      "teaser": "Der mutmaßliche Angreifer von Aschaffenburg soll bereits im vergangenen August einen Messerangriff verübt haben. Die Justiz prüft, warum damals nicht ermittelt wurde.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/aschaffenburg-angreifer-messerattacke-ermittlungen-polizisten",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-02/aschaffenburg-angreifer-messerattacke-ermittlungen-polizisten-bild/super__430x286",
-      "image_title": "Messerattacke: German police secure a park, where on 22 January two people were killed in a knife attack in Aschaffenburg, Germany, 23 January 2025. Two people have been killed in an attack on a group of children in a park in the Franconian town of Aschaffenburg. The victims were a 41-year-old man and a two-year-old boy from Morocco, according to Bavaria's Interior Minister Joachim Herrmann. Police detained a suspected perpetrator."
-    },
-    {
       "title": "Liveblog:Ukrainekrieg : Russland wiederholt Ansprüche auf Teile der Ukraine",
       "teaser": "Trotz Spekulationen über Gespräche zwischen Russland und den USA bleibt Putin bei seinen territorialen Forderungen. Ukraine attackiert Ölraffinerie. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
@@ -355,25 +333,32 @@
       "image_title": "Ukrainekrieg: 09/02/2025 - Soldaten bemannen einen Panzer, als das 1. Panzerbataillon der 5. schweren mechanisierten Brigade der Ukraine mit Leopard 1A5-Panzern in Richtungurachove und Pokrowsk in der Region Donezk im Osten der Ukraine eingesetzt wird."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Darm-Hirn-Achse : Das Gehirn isst mit",
-      "teaser": "Wer sein Mikrobiom mit den richtigen Nahrungsmitteln füttert, kann sein Demenzrisiko senken. Dahinter steckt die Darm-Hirn-Achse, die Forscher immer weiter entschlüsseln.",
-      "url": "https://www.zeit.de/gesundheit/2025-01/darm-hirn-achse-gesundheit-demenz-mikrobiom-ernaehrung",
-      "image_url": "https://img.zeit.de/wissen/2025-01/darm-hirn-achse-gesundheit-demenz-mikrobiom-ernaehrung-bild/super__430x286",
-      "image_title": "Darm-Hirn-Achse: Das Gehirn isst mit"
+      "title": "Demokratische Republik Kongo : Rebellen drohen mit neuer Offensive im Kongo",
+      "teaser": "Die M23-Rebellen in der DR Kongo hatten eine einseitige Waffenruhe ausgerufen. Nun drohen sie damit, weiter vorzurücken. An der Front wird von Kämpfen berichtet.",
+      "url": "https://www.zeit.de/politik/ausland/2025-02/kongo-krieg-m23-drohung-bukavu",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/demokratische-republik-kongo-m23-rebellen-provinzhauptstadt-bukavu/super__430x286",
+      "image_title": "Demokratische Republik Kongo: M23-Rebellen patrouillieren durch die Straßen von Goma.29/01/2025"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kulinarik : Sie wissen, wie wir morgen essen",
-      "teaser": "Aufbruchsstimmung statt Krise: Diese zehn Menschen aus der Genusswelt setzen mit ihren Ideen neue Impulse: als Gastronomin, Netzwerker, Aktivistin, Koch – oder Malerin.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-02/kulinarik-kochkuenstlerinnen-gastronomie-wochenmarkt-2025",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-01/gastronomie-neue-kulinarische-welle-lila-steinkampf/super__430x286",
-      "image_title": "Kulinarik: Sie wissen, wie wir morgen essen"
+      "title": "Z+ (abopflichtiger Inhalt); Verletzlichkeit : Wer sich das Leben nicht schönredet, lebt glücklicher",
+      "teaser": "Die meisten denken, ein überdurchschnittlich guter Mensch zu sein. Sogar Straftäter. Dabei zeigt die Psychologie, welch nicht zu unterschätzende Kraft in Demut liegt.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-02/verletzlichkeit-kontrolle-staerke-glueck-psychologie",
+      "image_url": "https://img.zeit.de/zeit-verlag/2025-02/verletzlichkeit-kontrolle-staerke-glueck-psychologie-bild/super__430x286",
+      "image_title": "Verletzlichkeit: Wer sich das Leben nicht schönredet, lebt glücklicher"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Briefwahl bei der Bundestagswahl : Die Risiken der Briefwahl stärken vor allem eine Partei",
-      "teaser": "Wahlleiter warnen vor der Briefwahl – viele Stimmen könnten auf dem Postweg liegen bleiben. Das könnte die nahende Bundestagswahl zugunsten der AfD verschieben.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-01/briefwahlen-bundestagswahl-2025-daten",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-01/briefwahlen-bundestagswahl-2025-daten-teaserbild/super__430x286",
-      "image_title": "Briefwahl bei der Bundestagswahl: Die Risiken der Briefwahl stärken vor allem eine Partei"
+      "title": "Z+ (abopflichtiger Inhalt); Grippe : Ist doch nur Grippe, oder?",
+      "teaser": "Herzinfarkt und Frühgeburt – die Grippe greift nicht nur die Atemwege an, sondern auch Organe wie das Herz. Und wird so manchen gefährlich, die nicht damit rechnen.",
+      "url": "https://www.zeit.de/gesundheit/2025-01/grippe-erkrankung-folgen-risikogruppe-impfung",
+      "image_url": "https://img.zeit.de/gesundheit/2025-01/grippe-erkrankung-folgen-risikogruppe-impfung-bild/super__430x286",
+      "image_title": "Grippe: Ist doch nur Grippe, oder?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Charisma lernen : Es sind im Grunde nur sieben Schritte",
+      "teaser": "Manche Menschen präsentieren etwas, und alle hören gebannt zu. Doch Charisma ist nicht angeboren. Jeder kann lernen, selbstbewusst und überzeugend aufzutreten.",
+      "url": "https://www.zeit.de/arbeit/2025-01/charisma-lernen-ueberzeugungskraft-ausstrahlung-faq",
+      "image_url": "https://img.zeit.de/arbeit/2025-01/charisma-lernen-ueberzeugungskraft/super__430x286",
+      "image_title": "Charisma lernen: Es sind im Grunde nur sieben Schritte"
     },
     {
       "title": "Plan D – \"Wie lösen wir das?\" : Sind die Landärzte noch zu retten?",
@@ -418,18 +403,11 @@
       "image_title": "Wirecard-Skandal: \"Es war ein sehr guter Scam\""
     },
     {
-      "title": "Künstliche Intelligenz : Pariser KI-Gipfel spricht sich für ethische und nachhaltige KI aus",
-      "teaser": "Zahlreiche Staaten haben sich zum Ziel einer inklusiven, offenen und ethischen KI bekannt. Auch China unterschrieb die Erklärung – Großbritannien und die USA nicht.",
-      "url": "https://www.zeit.de/digital/2025-02/paris-kuenstliche-intelligenz-abschlusserklaerung-ethisch",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-02/paris-ki-gipfel-kuenstliche-intelligenz/super__430x286",
-      "image_title": "Künstliche Intelligenz: France's President Emmanuel Macron (front C) poses for a group picture with world leaders and attendees at the end of the plenary session of the Artificial Intelligence (AI) Action Summit, at the Grand Palais, in Paris, on February 11, 2025. (Photo by Ludovic MARIN / AFP) (Photo by LUDOVIC MARIN/AFP via Getty Images)"
-    },
-    {
-      "title": "Sexismus-Skandal : Luis Rubiales will Spielerin um Kuss-Erlaubnis gefragt haben",
-      "teaser": "Bei dem WM 2023 küsste Spaniens Fußballverbandschef Luis Rubiales die Spielerin Jennifer Hermoso – angeblich einvernehmlich. Vor Gericht entlastet ihn ein Lippenleser.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/luis-rubiales-jennifer-hermoso-kuss-skandal-sexismus-gericht",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-02/luis-rubiales-jennifer-hermoso-kuss-skandal-sexismus-gericht-bild/super__430x286",
-      "image_title": "Sexismus-Skandal: Former president of the Spanish football federation Luis Rubiales, accused of sex assault and coercion over forcible kiss, flanked by his lawyer Olga Tubau (R), arrives for his trial at the court of San Fernando de Henares, east of Madrid, on February 11, 2025. Spain's former football federation chief is to give his highly anticipated version of events in his trial over his forced kiss on player Jenni Hermoso. The 47-year-old provoked worldwide outrage after he cupped Hermoso's head and gave her an unsolicited kiss during the medal ceremony after Spain won the 2023 Women's World Cup in Australia."
+      "title": "Kriminalpodcast : Jenseits der Scham",
+      "teaser": "Gisèle Pelicot führte das gewöhnliche Leben einer Großmutter. Dann kam ans Licht, dass ihr Mann sie jahrelang sediert und Männern zur Vergewaltigung angeboten hat.",
+      "url": "https://www.zeit.de/politik/2025-02/gisele-pelicot-misshandlung-vergewaltigung-gericht-kriminalpodcast",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/gisele-pelicot-misshandlung-vergewaltigung-gericht-kriminalpodcast-bild/super__430x286",
+      "image_title": "Kriminalpodcast: Gisele Pelicot kommt am 20. November 2024 beim Prozess gegen Dominique Pelicot und 50 Mitangeklagte im Gerichtsgebäude in Avignon in Frankreich an."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Luftqualität in Norddeutschland : \"Vom Joggen würde ich in diesen Tagen eher abraten\"",
@@ -437,6 +415,20 @@
       "url": "https://www.zeit.de/hamburg/2025-02/luftqualitaet-norddeutschland-hamburg-wetter-app-daten",
       "image_url": "https://img.zeit.de/hamburg/2025-02/luftqualitaet-norddeutschland-hamburg-wetter-app-daten-himmel/super__430x286",
       "image_title": "Luftqualität in Norddeutschland: Luftqualität (Symbolbild)"
+    },
+    {
+      "title": "Reisen in Deutschland : Tourismusbranche verbucht Rekordjahr",
+      "teaser": "Deutsche Hotels und andere Beherbergungsbetriebe haben 2025 mehr Übernachtungen verkauft als je zuvor. Besonders Camping ist seit der Coronapandemie beliebt.",
+      "url": "https://www.zeit.de/wirtschaft/2025-02/tourismus-deutschland-rekord-campingplaetze",
+      "image_url": "https://img.zeit.de/wirtschaft/2024-05/tourismusrekord-deutschland-tourismus/super__430x286",
+      "image_title": "Tourismusrekord Deutschland Tourismus"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fischbällchen : Wie Fischstäbchen, nur besser",
+      "teaser": "Nicht nur Fischers Fritz futtert frischen Fisch am liebsten in Form von mundgerechten Bällchen. Die saftigen Kugeln sind ruckzuck fertig und schmecken auch Erwachsenen.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-02/fischbaellchen-dill-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-02/fischbaellchen-dill-rezept-wochenmarkt-bild/super__430x286",
+      "image_title": "Fischbällchen: Gurkensalat mit Fischbällchen serviert mit typisch persischem Dillreis."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einspringen für Kollegen : \"Ich kann fast vorhersagen, wann sich die Kollegin abmeldet\"",
@@ -480,14 +472,14 @@
       "image_title": "Bundestagsdebatte: Bundeskanzler Olaf Scholz (SPD) spricht im Bundestag in der Generaldebatte zur «Situation in Deutschland». Das Parlament kommt zu seiner letzten regulären Sitzung vor der Bundestagswahl zusammen."
     },
     {
+      "title": "Kevin Kühnert im Bundestag : \"Schützen wir unsere Demokratie. Ich tue das in Zukunft von außen\"",
+      "teaser": "In der ersten Rede im Bundestag nach seinem Rücktritt warf Kevin Kühnert Merz fehlende Integrität vor. Und rief das Parlament zum gemeinsamen Schutz der Demokratie auf.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-02/bundestag-debatte-kevin-kuehnert-spd"
+    },
+    {
       "title": "Livestream:Bundestagswahl : Jetzt live: Die letzte Bundestagsdebatte vor der Wahl",
       "teaser": "Der aktuelle Bundestag hält seine wohl letzte Sitzung. Bei der Debatte zur Situation in Deutschland sprechen unter anderem Olaf Scholz und Friedrich Merz. Der Livestream",
       "url": "https://www.zeit.de/politik/deutschland/2025-02/bundestagsdebatte-situation-deutschland-letzte-sitzung-bundestagswahl-live"
-    },
-    {
-      "title": "Paragraf 218 : Legalisierung von Schwangerschaftsabbrüchen vorerst gescheitert",
-      "teaser": "Der Bundestag wird in der jetzigen Zusammensetzung wohl nicht über eine Neuregelung von Schwangerschaftsabbrüchen abstimmen. Eine Ausschusssitzung endete ergebnislos.",
-      "url": "https://www.zeit.de/gesellschaft/2025-02/paragraf-218-schwangerschaftsabbrueche-sachverstaendigen-sitzung-rechtsausschuss"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Folge 3 : Rechnung ohne Wirt",
@@ -518,11 +510,11 @@
       "image_title": "Fragen Sie ZEIT ONLINE: Haben Sie ein Thema verpasst?"
     },
     {
-      "title": "Kriminalpodcast : Jenseits der Scham",
-      "teaser": "Gisèle Pelicot führte das gewöhnliche Leben einer Großmutter. Dann kam ans Licht, dass ihr Mann sie jahrelang sediert und Männern zur Vergewaltigung angeboten hat.",
-      "url": "https://www.zeit.de/politik/2025-02/gisele-pelicot-misshandlung-vergewaltigung-gericht-kriminalpodcast",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-02/gisele-pelicot-misshandlung-vergewaltigung-gericht-kriminalpodcast-bild/wide__892x501",
-      "image_title": "Kriminalpodcast: Gisele Pelicot kommt am 20. November 2024 beim Prozess gegen Dominique Pelicot und 50 Mitangeklagte im Gerichtsgebäude in Avignon in Frankreich an."
+      "title": "Liveblog:Bundestagswahl 2025 : Kretschmann kritisiert Bund-Länder-Zusammenarbeit unter Scholz",
+      "teaser": "Unter Scholz sei die Distanz zwischen Bund und Ländern größer geworden, sagt Ministerpräsident Kretschmann. Die Ampelkoalition sei auch deswegen gescheitert. Das Liveblog",
+      "url": "https://www.zeit.de/politik/deutschland/2025-01/bundestagswahl-2025-kandidaten-umfragen-liveblog",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/bundestagswahl-2025-kandidaten-umfragen-liveblog-kretschmann/wide__892x501",
+      "image_title": "Bundestagswahl 2025: Winfried Kretschmann (Bündnis 90/Die Grünen), Ministerpräsident von Baden-Württemberg, spricht bei einem Interview im Staatsministerium. 19/12/2024"
     },
     {
       "title": "Verlagsangebot : Quiz: Wie gut kennen Sie die Hauptstädte der englischsprachigen Welt?",
@@ -539,11 +531,11 @@
       "image_title": "Istanbul: Supporters of Istanbul Mayor Ekrem Imamoglu hold masks depicting his face, as they gather in front of the Caglayan Courthouse, in Istanbul on January 31, 2025. Imamoglu, the Turkish President's main political rival, is due to appear before the public prosecutor on January 31, as part of two separate investigations. (Photo by Yasin AKGUL / AFP) (Photo by YASIN AKGUL/AFP via Getty Images)"
     },
     {
-      "title": "Reisen in Deutschland : Tourismusbranche verbucht Rekordjahr",
-      "teaser": "Deutsche Hotels und andere Beherbergungsbetriebe haben 2025 mehr Übernachtungen verkauft als je zuvor. Besonders Camping ist seit der Coronapandemie beliebt.",
-      "url": "https://www.zeit.de/wirtschaft/2025-02/tourismus-deutschland-rekord-campingplaetze",
-      "image_url": "https://img.zeit.de/wirtschaft/2024-05/tourismusrekord-deutschland-tourismus/wide__892x501",
-      "image_title": "Tourismusrekord Deutschland Tourismus"
+      "title": "Deutscher Außenhandel : Deutschland exportiert mehr nach Polen als nach China",
+      "teaser": "Die deutschen Exporte sind leicht rückläufig, gegen diesen Trend stellt sich der Außenhandel mit Osteuropa: Polen und die Ukraine importierten zuletzt mehr.",
+      "url": "https://www.zeit.de/wirtschaft/2025-02/polen-china-exporte-deutschland",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-02/polen-china-exporte-deutschland-grenze/wide__892x501",
+      "image_title": "Deutscher Außenhandel: Lkw stauen sich auf der Autobahn nahe Frankfurt (Oder) vor dem deutsch-polnischen Grenzübergang. 18/03/2020"
     },
     {
       "title": "Verlagsangebot : In drei Wochen zu mehr Zuversicht und Gelassenheit",
@@ -553,11 +545,11 @@
       "image_title": "In drei Wochen zu mehr Zuversicht und Gelassenheit"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Handelsstreit : Was Donald Trumps Zölle bringen sollen",
-      "teaser": "Der US-Präsident kündigt höhere Abgaben für Importe von Stahl und Aluminium an. Stärkt das die heimische Wirtschaft und sichert es amerikanische Arbeitsplätze?",
-      "url": "https://www.zeit.de/wirtschaft/2025-02/trump-zoelle-stahl-aluminium-warum",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-02/donald-trump-zoelle/super__430x286",
-      "image_title": "Donald Trump Zölle"
+      "title": "Börse : Dax steigt auf Rekordwert von 22.000 Punkten",
+      "teaser": "Die Börse befindet sich auf einem Hoch, die Anlegenden sind dank hoher Firmengewinne weiter risikofreundlich. Daran ändern auch die neuen US-Zölle vorerst nichts.",
+      "url": "https://www.zeit.de/wirtschaft/boerse/2025-02/boerse-dax-rekordwert-anleger-usa-zoelle",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-02/deutscher-leitindex-dax-boerse-frankfurt/super__430x286",
+      "image_title": "Börse: 27/01/2025 - Händler im Handelssaal der Deutschen Börse."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Anschlussfinanzierung von Immobilien : So schaffen Sie die Anschlussfinanzierung",
@@ -623,6 +615,13 @@
       "image_title": "Mirko Drotschmann: Wie geht Lernen, MrWissen2go?"
     },
     {
+      "title": "Roundtable : In der Todeszone der Fünf-Prozent-Hürde",
+      "teaser": "Bei der Bundestagswahl müssen viele kleine Parteien um den Einzug ins Parlament bangen – darunter auch die Linke, das BSW und die FDP. Über das Dilemma kleiner Parteien",
+      "url": "https://www.zeit.de/politik/2025-02/kleine-parteien-bundestagswahl-volt-fdp-linke-bsw-politikpodcast",
+      "image_url": "https://img.zeit.de/politik/2025-02/kleine-parteien-bundestagswahl-volt-fdp-linke-bsw-politikpodcast-bild/super__320x213",
+      "image_title": "Roundtable: Ein zerissenes Wahlplakat von der VOLT Partei in München am 07.02.2025."
+    },
+    {
       "title": "Politik-Talk \"Ehrlich Jetzt?\" : \"Es sind Menschen, keine Nationalitäten\"",
       "teaser": "Katja Mast findet das Gemeinsame Europäische Asylsystem richtig. Bei \"Ehrlich jetzt?\" nimmt die SPD-Politikerin junge Wähler in Schutz. Und plädiert für mehr Respekt.",
       "url": "https://www.zeit.de/politik/2025-02/katja-mast-spd-politik-talk-ehrlich-jetzt",
@@ -658,13 +657,6 @@
       "image_title": "Was liest du gerade?: Die Sprache der Liebe"
     },
     {
-      "title": "Hamburg-Podcast \"Elbvertiefung\" : Berufe auf Stimmzetteln: Wie manche Hamburger Politiker dabei tricksen",
-      "teaser": "Bäcker, Metzgerin, Krankenpfleger – wer so einen Beruf hat, wird eher gewählt, sagt die Forschung. Aber stimmen die Angaben der Politiker auch?",
-      "url": "https://www.zeit.de/hamburg/2025-02/berufe-politiker-wahlen-vorteil-hamburg-podcast-elbvertiefung",
-      "image_url": "https://img.zeit.de/hamburg/2025-02/berufe-politiker-wahlen-vorteil-hamburg-podcast-elbvertiefung-baecker/super__320x213",
-      "image_title": "Hamburg-Podcast \"Elbvertiefung\": Ein Bäcker knetet Teig in einer Backstube."
-    },
-    {
       "title": "Milliarden-Angebot für OpenAI : Elon Musks verlogene Offerte",
       "teaser": "Ausgerechnet Elon Musk geriert sich als Hüter von Offenheit und Gemeinnützigkeit in der Software-Entwicklung. Echt jetzt? Ein Kommentar.",
       "url": "https://www.wiwo.de/technologie/digitale-welt/milliarden-angebot-fuer-openai-elon-musks-verlogene-offerte/30206674.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
@@ -693,18 +685,18 @@
       "image_title": "Tesla in Europa: A new Tesla Inc. electric vehicle at a showroom in Marseille, France, on Thursday, Feb. 6, 2025. Tesla Inc. registrations plummeted 63% last month in France, the European Union's second-biggest market for battery-electric vehicles. Photographer: Jeremy Suyker/Bloomberg via Getty Images"
     },
     {
-      "title": "Arizona : Toter und Verletzte nach Zusammenstoß zweier Privatjets am Flughafen",
-      "teaser": "Am Flughafen der Stadt Scottsdale in den USA ist ein Privatflieger von der Landebahn abgekommen und in einen Jet gekracht. Eine Person ist tot, vier weitere verletzt.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/flugzeugkollision-usa-scottsdale-arizona-tote-verletzte",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-02/flugzeugkollision-usa-scottsdale-arizona-tote-verletzte-bild/wide__892x501",
-      "image_title": "Arizona: Das vom Instagram-Account @donniefitz2 zur Verfügung gestellte Bild zeigt Feuerwehrleute auf dem Scottsdale Airport in Scottsdale, Arizona, nach der Kollision zweier Jets."
+      "title": "Ukrainekrieg : Menschenrechtsgericht verurteilt Russlands Vorgehen gegen Kriegsgegner",
+      "teaser": "Der Europäische Gerichtshof für Menschenrechte hat Russland wegen überzogener Strafen für Kriegskritiker verurteilt. Geklagt hatten russische Medien und Oppositionelle.",
+      "url": "https://www.zeit.de/gesellschaft/2025-02/ukraine-krieg-russland-egmr-urteil",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/frankreich-russland-ukraine-justiz-menschenrechte-konflikte-bild/wide__892x501",
+      "image_title": "Ukrainekrieg: Russian journalist Nadezhda Kevorkova attends court hearing on the extension of pre-trial detention, in Moscow on August 2, 2024. Russian journalist Nadezhda Kevorkova, 65, has been charged with \"justifying terrorism\" over posts on her Telegram account. Kevorkova wrote for a number of medias including Novaya Gazeta and Russia Today. (Photo by TATYANA MAKEYEVA / AFP) (Photo by TATYANA MAKEYEVA/AFP via Getty Images)"
     },
     {
-      "title": "Paragraf 218 : Legalisierung von Schwangerschaftsabbrüchen vorerst gescheitert",
-      "teaser": "Der Bundestag wird in der jetzigen Zusammensetzung wohl nicht über eine Neuregelung von Schwangerschaftsabbrüchen abstimmen. Eine Ausschusssitzung endete ergebnislos.",
-      "url": "https://www.zeit.de/gesellschaft/2025-02/paragraf-218-schwangerschaftsabbrueche-sachverstaendigen-sitzung-rechtsausschuss",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-02/bundestag-abstimmung-abtreibungsrecht-liberalisierung/super__430x286",
-      "image_title": "Paragraf 218: Appell von 50 zivilgesellschaftlichen Organisationen zur Neuregelung Paragraphen 218 Demonstration und Eil Apell von 50 zivilgesellschaftlichen Organisationen zur Neuregelung von Schwangerschaftsabbruechen und des Pragraphen 218, Berlin, 10.02.2025 Berlin Berlin Deutschland *** Urgent appeal by 50 civil society organizations for the revision of paragraph 218 Demonstration and urgent appeal by 50 civil society organizations for the revision of abortion and paragraph 218, Berlin, 10 02 2025 Berlin Berlin Germany"
+      "title": "Messerattacke : Ermittlungen gegen Polizisten zu Vorfall mit Aschaffenburg-Angreifer",
+      "teaser": "Der mutmaßliche Angreifer von Aschaffenburg soll bereits im vergangenen August einen Messerangriff verübt haben. Die Justiz prüft, warum damals nicht ermittelt wurde.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-02/aschaffenburg-angreifer-messerattacke-ermittlungen-polizisten",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-02/aschaffenburg-angreifer-messerattacke-ermittlungen-polizisten-bild/super__430x286",
+      "image_title": "Messerattacke: German police secure a park, where on 22 January two people were killed in a knife attack in Aschaffenburg, Germany, 23 January 2025. Two people have been killed in an attack on a group of children in a park in the Franconian town of Aschaffenburg. The victims were a 41-year-old man and a two-year-old boy from Morocco, according to Bavaria's Interior Minister Joachim Herrmann. Police detained a suspected perpetrator."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Isabelle Kaiser : Unheimlich, überraschend, brutal",
@@ -824,10 +816,17 @@
       "image_title": "krankheitswelle-atemwegserkrankung-kinder"
     },
     {
+      "title": "Künstliche Intelligenz : Pariser KI-Gipfel spricht sich für ethische und nachhaltige KI aus",
+      "teaser": "Zahlreiche Staaten haben sich zum Ziel einer inklusiven, offenen und ethischen KI bekannt. Auch China unterschrieb die Erklärung – Großbritannien und die USA nicht.",
+      "url": "https://www.zeit.de/digital/2025-02/paris-kuenstliche-intelligenz-abschlusserklaerung-ethisch",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-02/paris-ki-gipfel-kuenstliche-intelligenz/wide__892x501",
+      "image_title": "Künstliche Intelligenz: France's President Emmanuel Macron (front C) poses for a group picture with world leaders and attendees at the end of the plenary session of the Artificial Intelligence (AI) Action Summit, at the Grand Palais, in Paris, on February 11, 2025. (Photo by Ludovic MARIN / AFP) (Photo by LUDOVIC MARIN/AFP via Getty Images)"
+    },
+    {
       "title": "Videospiele : Wer in Deutschland wie viel spielt",
       "teaser": "Sechs von zehn Deutschen spielen Videospiele. Wie viele Menschen neue Freunde in Games gefunden haben und was der beste E-Sportler verdient, zeigt unsere Grafik.",
       "url": "https://www.zeit.de/2025/06/videospiele-statistiken-sucht-produktion-wettbewerbe",
-      "image_url": "https://img.zeit.de/2025/06/videospiele-statistiken-sucht-produktion-wettbewerbe-teaserbild/wide__892x501",
+      "image_url": "https://img.zeit.de/2025/06/videospiele-statistiken-sucht-produktion-wettbewerbe-teaserbild/super__430x286",
       "image_title": "Videospiele: Wer in Deutschland wie viel spielt"
     },
     {
@@ -836,13 +835,6 @@
       "url": "https://www.zeit.de/wirtschaft/2025-02/openai-investorengruppe-elon-musk-kontrolle-angebot",
       "image_url": "https://img.zeit.de/wirtschaft/2025-02/openai-investorengruppe-elon-musk-kontrolle-angebot-bild-2/super__430x286",
       "image_title": "Künstliche Intelligenz: OpenAI CEO Sam Altman (L) and SoftBank group Chairman and CEO Masayoshi Son attend a press conference in Tokyo on February 3, 2025. Japan's SoftBank Group will form a joint venture with US tech giant OpenAI to offer advanced artificial intelligence to businesses, SoftBank chief executive Masayoshi Son announced on February 3."
-    },
-    {
-      "title": "KI-Gipfel in Paris : Frankreich kündigt KI-Investitionen in Höhe von 109 Milliarden Euro an",
-      "teaser": "In Paris beraten Wirtschaft und Politik über die Zukunft der künstlichen Intelligenz. Die französische Regierung gewinnt private Geldgeber für KI-Projekte.",
-      "url": "https://www.zeit.de/digital/2025-02/frankreich-ki-gipfel-investitionen-109-milliarden-euro",
-      "image_url": "https://img.zeit.de/digital/2025-02/frankreich-ki-investitionen-macron/super__430x286",
-      "image_title": "KI-Gipfel in Paris: Der französische Präsident Emmanuel Macron gibt dem französischen Journalisten Laurent Delahousse und der indischen Journalistin Palki Sharma Upadhyay im Grand Palais ein Interview im Vorfeld des KI-Aktionsgipfels, der vom 10. bis 11. Februar 2025 in Paris stattfindet."
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -971,11 +963,11 @@
       "image_title": "Zwischenmenschliche Beziehungen: \"Ich hoffe, wir müssen nicht mehr ohne einander sein\""
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
     },
     {
       "title": "Superbowl : Der Sturz der Könige",
@@ -992,50 +984,50 @@
       "image_title": "Bundesligarückschau: Münchner Stillleben"
     },
     {
+      "title": "Hamburg-Podcast \"Elbvertiefung\" : Berufe auf Stimmzetteln: Wie manche Hamburger Politiker dabei tricksen",
+      "teaser": "Bäcker, Metzgerin, Krankenpfleger – wer so einen Beruf hat, wird eher gewählt, sagt die Forschung. Aber stimmen die Angaben der Politiker auch?",
+      "url": "https://www.zeit.de/hamburg/2025-02/berufe-politiker-wahlen-vorteil-hamburg-podcast-elbvertiefung",
+      "image_url": "https://img.zeit.de/hamburg/2025-02/berufe-politiker-wahlen-vorteil-hamburg-podcast-elbvertiefung-baecker/wide__892x501",
+      "image_title": "Hamburg-Podcast \"Elbvertiefung\": Ein Bäcker knetet Teig in einer Backstube."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Opernhaus in der HafenCity : Bedenken? Geschenkt!",
       "teaser": "Lange wurde verhandelt, jetzt steht der Deal: Hamburg bekommt ein neues Opernhaus, bezahlt vom Milliardär Klaus-Michael Kühne. Ein Ortstermin beim Bürgermeister",
       "url": "https://www.zeit.de/hamburg/2025-02/opernhaus-hafencity-hamburg-deal-klaus-michael-kuehne",
-      "image_url": "https://img.zeit.de/hamburg/2025-02/baakenhoeft/wide__892x501",
+      "image_url": "https://img.zeit.de/hamburg/2025-02/baakenhoeft/super__430x286",
       "image_title": "Opernhaus in der HafenCity: Bedenken? Geschenkt!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gröninger Hof : Parkst du noch oder wohnst du schon?",
-      "teaser": "Wohnungsnot macht kreativ: In Hamburg entstehen Apartments in einem alten Parkhaus. Das Projekt ist komplizierter als gedacht – auch, weil Behörden umdenken müssen.",
-      "url": "https://www.zeit.de/hamburg/2025-02/groeninger-hof-karin-pein-bauprojekt-genehmigung-abriss",
-      "image_url": "https://img.zeit.de/hamburg/2025-02/groeninger-hof-karin-pein-bauprojekt-genehmigung-abriss-foto/super__430x286",
-      "image_title": "Gröninger Hof: Parkst du noch oder wohnst du schon?"
+      "title": "Unfall: Lebensgefährlich Verletzter stirbt nach Zugunfall in Hamburg",
+      "url": "https://www.zeit.de/news/2025-02/11/ice-prallt-in-hamburg-gegen-sattelzug-zwoelf-verletzte"
     },
     {
-      "title": "Prozesse: Mord in Mainleus - Zwölf Jahre Haft für 41-Jährigen",
-      "url": "https://www.zeit.de/news/2025-02/11/mord-in-mainleus-zwoelf-jahre-haft-fuer-41-jaehrigen"
+      "title": "Teterow: Nach Explosion in Silvesternacht: Polizei sucht nach Zeugen",
+      "url": "https://www.zeit.de/news/2025-02/11/nach-explosion-in-silvesternacht-polizei-sucht-nach-zeugen"
     },
     {
-      "title": "Grüne Lunge in Gefahr: Breiter Schulterschluss für neuen Waldpakt",
-      "url": "https://www.zeit.de/news/2025-02/11/breiter-schulterschluss-fuer-neuen-waldpakt"
+      "title": "Mannheim: Mann mit Schwert auf Marktplatz löst Polizeieinsatz aus",
+      "url": "https://www.zeit.de/news/2025-02/11/mann-mit-schwert-auf-marktplatz-loest-polizeieinsatz-aus"
     },
     {
-      "title": "Verwaltung: \"Trüffelsucher Bürger\": Thüringen führt Bürokratiemelder ein",
-      "url": "https://www.zeit.de/news/2025-02/11/trueffelsucher-buerger-thueringen-fuehrt-buerokratiemelder-ein"
+      "title": "2. Fußball-Bundesliga: 1. FC Nürnberg trennt sich von Sportdirektor Rebbe",
+      "url": "https://www.zeit.de/news/2025-02/11/1-fc-nuernberg-trennt-sich-von-sportdirektor-rebbe"
     },
     {
-      "title": "WM in Saalbach-Hinterglemm: Patzer und Tränen: Deutsches Drama in der Team-Kombination",
-      "url": "https://www.zeit.de/news/2025-02/11/deutsches-ski-team-aicher-duerr-in-wm-kombi-auf-medaillenkurs"
+      "title": "Kriminalität: Zwei Männer bei Angriff in Mehrfamilienhaus schwer verletzt",
+      "url": "https://www.zeit.de/news/2025-02/11/zwei-maenner-bei-angriff-in-mehrfamilienhaus-schwer-verletzt"
     },
     {
-      "title": "Gesetzentwurf: Neues Gesetz - Digitale Bildung im Saarland wird Pflicht",
-      "url": "https://www.zeit.de/news/2025-02/11/neues-gesetz-digitale-bildung-im-saarland-wird-pflicht"
+      "title": "Neue Arbeitswelten: Umfrage: Auch im Homeoffice guter Kontakt zu Kollegen",
+      "url": "https://www.zeit.de/news/2025-02/11/umfrage-auch-im-homeoffice-guter-kontakt-zu-kollegen"
     },
     {
-      "title": "Luftverkehr: Tui-Chef zu möglichem Warnstreik: Vorkehrungen getroffen",
-      "url": "https://www.zeit.de/news/2025-02/11/tui-chef-zu-moeglichem-warnstreik-vorkehrungen-getroffen"
+      "title": "Mordkommission eingerichtet: 81-Jähriger tot gefunden - Mordermittlung läuft",
+      "url": "https://www.zeit.de/news/2025-02/11/81-jaehriger-tot-in-wohnung-gefunden-obduktion-laeuft"
     },
     {
-      "title": "Tiere: Kugelgürteltier mit Nachwuchs im Dresdner Zoo",
-      "url": "https://www.zeit.de/news/2025-02/11/kugelguerteltier-mit-nachwuchs-im-dresdner-zoo"
-    },
-    {
-      "title": "Gegen die Stromnot: Ukraine will Bulgarien zwei Atomreaktoren abkaufen",
-      "url": "https://www.zeit.de/news/2025-02/11/ukraine-will-bulgarien-zwei-atomreaktoren-abkaufen"
+      "title": "Atomkraft: Walker erteilt Söder-Forderung nach AKW-Reaktivierung Absage",
+      "url": "https://www.zeit.de/news/2025-02/11/walker-erteilt-soeder-forderung-nach-akw-reaktivierung-absage"
     }
   ]
 }
