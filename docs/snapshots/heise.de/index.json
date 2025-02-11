@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-11T21:08:04",
+  "timestamp": "2025-02-11T22:08:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Streaming-Studie: Vergütungsmodelle bevorteilen große Künstler",
+      "url": "https://www.heise.de/news/Streaming-Studie-Verguetungsmodelle-bevorteilen-grosse-Kuenstler-10279067.html"
+    },
     {
       "title": "EU-Cloud-Wettbewerber zeigen Microsoft die gelbe und Broadcom die rote Karte",
       "url": "https://www.heise.de/news/EU-Cloud-Wettbewerber-zeigen-Microsoft-die-gelbe-und-Broadcom-die-rote-Karte-10279041.html"
@@ -60,10 +64,6 @@
     {
       "title": "iOS 18.3.1 und macOS 15.3.1: Updates schalten deaktivierte Apple-KI wieder an",
       "url": "https://www.heise.de/news/iOS-18-3-1-und-macOS-15-3-1-Updates-schalten-deaktivierte-Apple-KI-wieder-an-10278801.html"
-    },
-    {
-      "title": "Öffentliche Verwaltung: Ruf nach klaren Kriterien zur Open-Source-Beschaffung",
-      "url": "https://www.heise.de/news/Oeffentliche-Verwaltung-Ruf-nach-klaren-Kriterien-zur-Open-Source-Beschaffung-10278793.html"
     },
     {
       "title": "KI-GipfelUSA kritisieren EU scharf und verweigern Unterschrift",
@@ -185,20 +185,26 @@
       "image_title": "Blonde Ärztin im weißen Kittel gibt Patienten ihre Krankenkassenkarte."
     },
     {
+      "title": "Streaming-Studie: Vergütungsmodelle bevorteilen große Künstler",
+      "teaser": "Mangelnde Transparenz im Musikstreamingmarkt ortet eine Studie. Sie wurde im Auftrag der Bundesregierung erstellt.",
+      "url": "https://www.heise.de/news/Streaming-Studie-Verguetungsmodelle-bevorteilen-grosse-Kuenstler-10279067.html",
+      "image_title": "Winziges Piano"
+    },
+    {
       "title": "EU-Cloud-Wettbewerber zeigen Microsoft die gelbe und Broadcom die rote Karte",
       "teaser": "Der CISPE-Verband europäischer Cloud-Anbieter hat sein 1. Wettbewerbsbarometer veröffentlicht. Broadcom gehe \"brutal und inakzeptabel\" vor, lautet die Kritik.",
       "url": "https://www.heise.de/news/EU-Cloud-Wettbewerber-zeigen-Microsoft-die-gelbe-und-Broadcom-die-rote-Karte-10279041.html",
       "image_title": "Im Hintergrund blau beleuchtete Serverracks, im Vordergrund schweben leuchtende Code-Zeilen"
     },
     {
-      "title": "Top 5: Das beste Foldable-Smartphone im Test – Honor klappt besser als Samsung",
-      "teaser": "Foldable-Smartphones verdoppeln ihre Display-Fläche im Handumdrehen. Wir zeigen die besten großen Modelle sowie ihre Stärken und Schwächen.",
-      "url": "https://www.heise.de/bestenlisten/top-5-das-beste-foldable-smartphone-im-test/v07qnee?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Wenn jede Sekunde bei einem Security-Notfall zählt",
       "teaser": "Bei einer Ransomware-Attacke können in kürzester Zeit zentrale Systeme kompromittiert sein. Es gilt daher, schnell zu sein: Systeme absichern, kritische Bereiche isolieren und anschließend die Wiederherstellung starten.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 5: Das beste Foldable-Smartphone im Test – Honor klappt besser als Samsung",
+      "teaser": "Foldable-Smartphones verdoppeln ihre Display-Fläche im Handumdrehen. Wir zeigen die besten großen Modelle sowie ihre Stärken und Schwächen.",
+      "url": "https://www.heise.de/bestenlisten/top-5-das-beste-foldable-smartphone-im-test/v07qnee?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Helsing und Loft Orbital wollen mit KI Echtzeitinformationen aus dem All liefern",
@@ -228,12 +234,6 @@
       "teaser": "Apples KI ist auf unterstützten iPhones, iPads und Macs standardmäßig aktiv. Hat der Nutzer das deaktiviert, schaltet das jüngste Update es wieder an.",
       "url": "https://www.heise.de/news/iOS-18-3-1-und-macOS-15-3-1-Updates-schalten-deaktivierte-Apple-KI-wieder-an-10278801.html",
       "image_title": "Apple Intelligence Icon"
-    },
-    {
-      "title": "Öffentliche Verwaltung: Ruf nach klaren Kriterien zur Open-Source-Beschaffung",
-      "teaser": "Die Open Source Business Alliance fordert neue Ausschreibungskriterien, um die Auswahl nachhaltiger Softwareprojekte zu erleichtern und Preisdumping zu stoppen.",
-      "url": "https://www.heise.de/news/Oeffentliche-Verwaltung-Ruf-nach-klaren-Kriterien-zur-Open-Source-Beschaffung-10278793.html",
-      "image_title": "Bildschirm eines Laptops, auf dem Code zu sehen ist."
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -299,6 +299,12 @@
       "title": "heise+ Jubiläumsangebot",
       "teaser": "Wir feiern 6 Jahre heise+ mit einem besonderen Angebot: Sichern Sie sich jetzt 12 Monate heise+ mit 50 % Rabatt und freuen Sie sich auf geballtes IT- und Tech-Wissen. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Öffentliche Verwaltung: Ruf nach klaren Kriterien zur Open-Source-Beschaffung",
+      "teaser": "Die Open Source Business Alliance fordert neue Ausschreibungskriterien, um die Auswahl nachhaltiger Softwareprojekte zu erleichtern und Preisdumping zu stoppen.",
+      "url": "https://www.heise.de/news/Oeffentliche-Verwaltung-Ruf-nach-klaren-Kriterien-zur-Open-Source-Beschaffung-10278793.html",
+      "image_title": "Bildschirm eines Laptops, auf dem Code zu sehen ist."
     },
     {
       "title": "Astronomie: Womöglich erstmals hyperschnelles Planetensystem entdeckt",
@@ -371,15 +377,15 @@
       "image_title": "Smartphone mit Discord-App darauf, im Hintergrund Controller und Tastatur"
     },
     {
+      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
+      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
+    },
+    {
       "title": "AlertSolarwinds: Update schließt teils kritische Lücken in Platform",
       "teaser": "Solarwinds hat das Update 2025.1 von Solarwinds Platform veröffentlicht. Es schließt einige teilweise kritische Sicherheitslücken.",
       "url": "https://www.heise.de/news/Solarwinds-Update-schliesst-teils-kritische-Luecken-in-Platform-10278244.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
-    },
-    {
-      "title": "Case Study: Schneller produzieren, kreativer arbeiten",
-      "teaser": "Wie das Team der Global Entertainment Awards seine Leistungsfähigkeit und Kreativität steigerte.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/schneller-produzieren-kreativer-arbeiten-4876/?source=hbsad-ersatz"
     },
     {
       "title": "Siemens Gamesa baut Riesen-Windrad",
@@ -432,11 +438,6 @@
       "teaser": "Version 13 der Postgres-Erweiterung Citus stellt neue Query- und Optimizer-Funktionen aus PostgreSQL 17 auch für verteilte Datenbank-Cluster bereit.",
       "url": "https://www.heise.de/news/Cloud-Native-DB-Citus-13-bringt-PostgreSQL-17-in-verteilte-Cluster-Umgebungen-10277774.html",
       "image_title": "Server-Hardware"
-    },
-    {
-      "title": "Digital Design & UX: Das Programm für die Konferenz in Dortmund steht",
-      "teaser": "Bei der Konferenz zu Digital Design im Deutschen Fußballmuseum in Dortmund stehen die Themen KI, Bildung und Barrierefreiheit besonders im Fokus.",
-      "url": "https://www.heise.de/news/Digital-Design-UX-Das-Programm-fuer-die-Konferenz-in-Dortmund-steht-10276401.html"
     },
     {
       "title": "Eine Million deutsche Nutzer betroffen: Datenleck bei Thermomix",
@@ -610,6 +611,11 @@
       "url": "https://www.heise.de/hintergrund/Recht-Anonymer-Online-Hinweis-kann-Hausdurchsuchung-ausloesen-10271019.html"
     },
     {
+      "title": "SpamBlocker: Werbeanrufe und Phishing-SMS datenschutzfreundlich blockieren",
+      "teaser": "Die Open-Source-App SpamBlocker schützt Android-Nutzer vor Spam-Anrufen und -SMS. Sie läuft auch auf Custom-ROMs und funktioniert ohne Internetverbindung.",
+      "url": "https://www.heise.de/ratgeber/SpamBlocker-Werbeanrufe-und-Phishing-SMS-datenschutzfreundlich-blockieren-10269435.html"
+    },
+    {
       "title": "Atemaussetzern auf der Spur: So funktioniert Apples Schlafapnoe-Erkennung",
       "teaser": "Neuere Apple-Watch-Modelle analysieren auf Wunsch, ob es im Schlaf häufiger zu Atemunregelmäßigkeiten kommt. Wir haben im Labor untersucht, wie zuverlässig.",
       "url": "https://www.heise.de/tests/Atemausetzern-auf-der-Spur-So-funktioniert-Apples-Schlafapnoe-Erkennung-10263938.html",
@@ -638,10 +644,9 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-1-25-Einstieg-in-beliebte-Maker-Tools-10272773.html"
     },
     {
-      "title": "BastelprojektWie man aus einem Fahrrad ein Hydrobike baut",
-      "teaser": "Mit einer selbst gebauten Konstruktion aus eigener Kraft über Wasser zu fahren: Wir beschreiben, wie man ein Hydrobike baut.",
-      "url": "https://www.heise.de/ratgeber/Wie-man-aus-einem-Fahrrad-ein-Hydrobike-baut-10222733.html",
-      "image_title": ","
+      "title": "Open-Source-ProjektStudent baut eigenen Laptop",
+      "teaser": "Ein US-amerikanischer Student hat in nur sechs Monaten einen hochwertigen Laptop selbst entworfen und gebaut.",
+      "url": "https://www.heise.de/news/Student-baut-eigenen-Laptop-10272636.html"
     },
     {
       "title": "Landschaftsfotografie: Wie Sie Fließgewässer fotografieren",
@@ -723,22 +728,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wahlkampf in Deutschland: Die Wahrheit zwischen den Narrativen",
-      "teaser": "Polit-Dokumentation \"Die Vertrauensfrage\": Scholz auf dem Taurus, Merz im Wald und Habecks schwarze Weste – Stephan Lambys Versuch einer Politik-Erklärung in der ARD.",
-      "url": "https://www.heise.de/tp/features/Wahlkampf-in-Deutschland-Die-Wahrheit-zwischen-den-Narrativen-10278411.html",
-      "image_title": "Porträt: Olaf Scholz"
-    },
-    {
-      "title": "Bundeswirtschaftsminister unter Druck: Plagiatsvorwürfe wegen Robert Habecks Dissertation",
-      "teaser": "Skandal im Wahlkampf? Plagiatsprüfer Stefan Weber erhebt Vorwürfe gegen Grünen-Politiker. Hat er getäuscht? Der Minister wehrt sich und bekommt Beistand.",
-      "url": "https://www.heise.de/tp/features/Bundeswirtschaftsminister-unter-Druck-Plagiatsvorwuerfe-wegen-Robert-Habecks-Dissertation-10277148.html",
-      "image_title": "Robert Habeck kratzt sich am Kopf"
+      "title": "Düstere Aussichten: Deutsche Wirtschaft bleibt über Jahre abgehängt",
+      "teaser": "Während die Weltwirtschaft wächst, hinkt Deutschland hinterher – nicht nur in diesem Jahr. Was bremst die deutsche Wirtschaft aus?",
+      "url": "https://www.heise.de/tp/features/Duestere-Aussichten-Deutsche-Wirtschaft-bleibt-ueber-Jahre-abgehaengt-10277659.html",
+      "image_title": "Übersicht über die sinkenden Einkommen der deutschen Einwohner. Graph symbolisiert die Industriekrise. Das deutsche BIP sinkt."
     },
     {
       "title": "Zoll-Hammer: USA verhängen Strafzölle auf Stahl und Aluminium aus der EU",
       "teaser": "Donald Trump verschärft Ton im Handelsstreit mit EU. Er will ab 12. März Strafzölle auf Stahl und Aluminium erheben. Was das für deutsche Unternehmen bedeutet.",
       "url": "https://www.heise.de/tp/features/Zoll-Hammer-USA-verhaengen-Strafzoelle-auf-Stahl-und-Aluminium-aus-der-EU-10278621.html",
       "image_title": "Flüssigmetall aus Tanks im Stahlwerk"
+    },
+    {
+      "title": "Der gefährliche Sprachgehorsam des Journalismus: Wenn Trump die Begriffe diktiert",
+      "teaser": "Große Medien übernehmen kritiklos Trumps Wortwahl. Sie prägt die Berichterstattung. Was das für die Wahrheit bedeutet, ist alarmierend. Analyse",
+      "url": "https://www.heise.de/tp/features/Der-gefaehrliche-Sprachgehorsam-des-Journalismus-Wenn-Trump-die-Begriffe-diktiert-10275785.html"
     },
     {
       "title": "[Werbung] Internxt: Einmal zahlen und lebenslangen Cloud-Speicher erhalten",
