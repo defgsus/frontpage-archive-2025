@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-11T07:09:02",
+  "timestamp": "2025-02-11T08:12:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/SAP-Patchday-18-neue-Schwachstellen-korrigiert-10277422.html"
+    },
+    {
       "title": "Tails",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-12-schliesst-Deanonymisierungs-Luecke-10276001.html"
     },
@@ -44,20 +48,10 @@
       "url": "https://www.heise.de/news/Defekter-Sicherheitspatch-fuer-HCL-BigFix-Server-Automation-repariert-10273805.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Cisco-stopft-Sicherheitsluecken-in-mehreren-Produkten-auch-kritische-10272291.html"
-    },
-    {
-      "title": "Lup-Kliniken von Cyberangriff betroffen",
-      "teaser": "Zwei Standorte der Lup-Kliniken sind derzeit online nicht erreichbar, da sie vorsorglich vom Netz getrennt wurden. Notfälle werden weiter versorgt.",
-      "url": "https://www.heise.de/news/Lup-Kliniken-von-Cyberangriff-betroffen-10277022.html",
-      "image_title": "Website der Lup-Kliniken mit einem Hinweis auf eine technische Störung"
-    },
-    {
-      "title": "Google-Konten: Zeitplan für Mehr-Faktor-Authentifizierung steht",
-      "teaser": "Im November hat Google es angekündigt, nun steht der Zeitplan für die erzwungene Umstellung auf Mehr-Faktor-Authentifizierung von Google-Konten.",
-      "url": "https://www.heise.de/news/Google-Zeitplan-steht-fuer-Mehr-Faktor-Authentifizierung-fuer-Online-Konten-10276374.html",
-      "image_title": "Google-Icon auf einem iPhone​"
+      "title": "SAP-Patchday: 18 Sicherheitsmitteilungen zu teils hochriskanten Lücken",
+      "teaser": "SAP veröffentlicht zum Februar-Patchday 18 Sicherheitsmitteilungen, die Sicherheitslücken behandeln, die teils als hohes Risiko eingestuft werden.",
+      "url": "https://www.heise.de/news/SAP-Patchday-18-neue-Schwachstellen-korrigiert-10277422.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
       "title": "iX-Workshop: Linux-Server härten",
@@ -78,10 +72,21 @@
       "image_title": "Dialog mit Fortschrittsbalken \"Attack successful\""
     },
     {
+      "title": "Microsoft gibt auf: Windows 11 24H2-Update-Probleme nur manuell lösbar",
+      "teaser": "Windows-11-24H2-Installationen mit bestimmten Update-Ständen können keine weiteren Updates mehr installieren. Nur eine manuelle Korrektur hilft.",
+      "url": "https://www.heise.de/news/Windows-11-24H2-Update-Probleme-Microsoft-gibt-bei-Loesungssuche-auf-10275867.html"
+    },
+    {
       "title": "iX-Workshop: IT-Sicherheit jenseits der Bits - Physische Schutzstrategien",
       "teaser": "Praxisnah mit simuliertem Penetrationstest: IT-Infrastruktur physisch absichern, Sicherheitslücken erkennen und wirksame Schutzmaßnahmen auswählen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-jenseits-der-Bits-Physische-Schutzstrategien-10272118.html",
       "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
+    },
+    {
+      "title": "Nach Sicherheitswarnungen: USA planen Verbot von Deepseek",
+      "teaser": "Deepseek soll Daten an gleich mehrere chinesische Firmen weiterleiten. In den USA soll ein Verbot für Regierungsmitarbeiter kommen.",
+      "url": "https://www.heise.de/news/USA-planen-Verbot-von-Deepseek-Sicherheitsforscher-warnen-10275583.html",
+      "image_title": "Ein Kopf bildet sich aus kleinen Teilchen."
     },
     {
       "title": "Cyberangriff? OpenAI untersucht potenzielles Leck von 20 Millionen Nutzerdaten",
@@ -159,12 +164,6 @@
       "teaser": "In mehreren Produkten hat Cisco Sicherheitslücken entdeckt und warnt in Sicherheitsmitteilungen davor. Updates stehen bereit.",
       "url": "https://www.heise.de/news/Cisco-stopft-Sicherheitsluecken-in-mehreren-Produkten-auch-kritische-10272291.html",
       "image_title": "Stilisiertes Bild: Ein Stapel brennender Cisco-Appliances"
-    },
-    {
-      "title": "Quartalssicherheitsupdates: F5 rüstet BIG-IP-Appliances gegen mögliche Angriffe",
-      "teaser": "Die F5-Entwickler haben mehrere Sicherheitslücken in unter anderem BIG-IP Next und BIG-IQ geschlossen. Es kann zur Ausführung von Schadcode kommen.",
-      "url": "https://www.heise.de/news/Quartalssicherheitsupdates-F5-ruestet-BIG-IP-Appliances-gegen-moegliche-Angriffe-10272058.html",
-      "image_title": "Eine Appliance verbindet viele Clients mit Kabeln durch die Cloud. Sie und paar Clients brennen."
     },
     {
       "title": "Auslegungssache 127: Zum Umgang mit Datenleaks",
