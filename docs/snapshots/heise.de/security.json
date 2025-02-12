@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-12T07:09:00",
+  "timestamp": "2025-02-12T08:12:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Ivanti ICS, IPS, ISAC und CSA",
+      "url": "https://www.heise.de/news/Ivanti-Kritische-Codeschmuggel-Luecken-in-VPN-und-CSA-10279170.html"
+    },
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-und-loeschen-Daten-10279178.html"
+    },
+    {
       "title": "Solarwinds Platform",
       "url": "https://www.heise.de/news/Solarwinds-Update-schliesst-teils-kritische-Luecken-in-Platform-10278244.html"
     },
@@ -40,12 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Zimbra-Angreifer-koennen-Metadaten-von-E-Mails-auslesen-10277628.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/SAP-Patchday-18-neue-Schwachstellen-korrigiert-10277422.html"
+      "title": "Ivanti: Kritische Codeschmuggel-Lücken in VPN und CSA",
+      "teaser": "In Ivantis VPN-Software ICS, IPS und ISAC sowie in Ivanti CSA klaffen kritische Sicherheitslecks. Angreifer können Schadcode unterjubeln.",
+      "url": "https://www.heise.de/news/Ivanti-Kritische-Codeschmuggel-Luecken-in-VPN-und-CSA-10279170.html",
+      "image_title": "Schwer bewaffnete Kriminelle stehen um Server, die zeigen Verschlüsselungssymbole. Menschen sitzen mt Laptops drum herum."
     },
     {
-      "title": "Tails",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-6-12-schliesst-Deanonymisierungs-Luecke-10276001.html"
+      "title": "Microsoft-Patchday: Angreifer attackieren Windows und löschen Daten",
+      "teaser": "Es sind wichtige Sicherheitsupdates für Azure, Office, Windows und Co. erschienen. Es gibt bereits Attacken. Weitere können bevorstehen.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-und-loeschen-Daten-10279178.html",
+      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "DeepSeek: Große Sicherheitsbedenken gegen chinesische KI",
@@ -153,18 +165,6 @@
       "teaser": "Deepseek soll Daten an gleich mehrere chinesische Firmen weiterleiten. In den USA soll ein Verbot für Regierungsmitarbeiter kommen.",
       "url": "https://www.heise.de/news/USA-planen-Verbot-von-Deepseek-Sicherheitsforscher-warnen-10275583.html",
       "image_title": "Ein Kopf bildet sich aus kleinen Teilchen."
-    },
-    {
-      "title": "Cyberangriff? OpenAI untersucht potenzielles Leck von 20 Millionen Nutzerdaten",
-      "teaser": "Cyberkriminelle behaupten, private Daten von Millionen OpenAI-Konten gestohlen zu haben. Forscher sind skeptisch, der ChatGPT-Hersteller ermittelt in dem Fall.",
-      "url": "https://www.heise.de/news/Cyberangriff-OpenAI-untersucht-potenzielles-Leck-von-20-Millionen-Nutzerdaten-10275538.html",
-      "image_title": "Netzwerkstecker"
-    },
-    {
-      "title": "Europol: Finanzinstitute sollten rasch auf quantensichere Kryptografie umsatteln",
-      "teaser": "Angesichts der Fortschritte beim Quantenrechnen ist die kryptographische Sicherheit des Finanzsektors unmittelbar bedroht, warnt Europol und mahnt zum Handeln.",
-      "url": "https://www.heise.de/news/Europol-Finanzinstitute-sollten-rasch-auf-quantensichere-Kryptografie-umsatteln-10274967.html",
-      "image_title": "Europol-Gebäude in Den Haag"
     },
     {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
