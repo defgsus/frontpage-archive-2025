@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-12T21:08:04",
+  "timestamp": "2025-02-12T22:08:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "ICANN Opfer von Phishing: Online-Konto für Kryptowährungs-Reklame missbraucht",
+      "url": "https://www.heise.de/news/ICANN-Opfer-von-Phishing-Online-Konto-fuer-Kryptowaehrungs-Reklame-missbraucht-10280537.html"
+    },
     {
       "title": "Apple TV+ jetzt auch als App für Android-Smartphones verfügbar",
       "url": "https://www.heise.de/news/Apple-TV-jetzt-auch-als-App-fuer-Android-Smartphones-verfuegbar-10279557.html"
@@ -60,10 +64,6 @@
     {
       "title": "Apple-Roboter: Analyst rechnet frühestens 2028 mit Massenproduktion",
       "url": "https://www.heise.de/news/Apple-Roboter-Analyst-rechnet-fruehestens-2028-mit-Massenproduktion-10280226.html"
-    },
-    {
-      "title": "Manipulierte Bakterien können Nylon verdauen",
-      "url": "https://www.heise.de/news/Recycling-Forscher-setzen-Bakterien-ein-um-Nylon-zu-zersetzen-10280188.html"
     },
     {
       "title": "GeForce RTX 5090Nvidia hat offenbar die Stromversorgung verbockt",
@@ -186,20 +186,26 @@
       "image_title": "XB-1 nach dem Start"
     },
     {
+      "title": "ICANN Opfer von Phishing: Online-Konto für Kryptowährungs-Reklame missbraucht",
+      "teaser": "\"Die ICANN gibt dem Internet seine eigene Währung\", schallte es von einem offiziellen ICANN-Konto eines Sozialen Netzes. Hinter \"$DNS\" stecken aber Kriminelle.",
+      "url": "https://www.heise.de/news/ICANN-Opfer-von-Phishing-Online-Konto-fuer-Kryptowaehrungs-Reklame-missbraucht-10280537.html",
+      "image_title": "Brennende Geldscheine"
+    },
+    {
       "title": "Apple TV+ jetzt auch als App für Android-Smartphones verfügbar",
       "teaser": "Apple bietet seinen Streaming-Dienst jetzt auch als native Android-App für Smartphones an. Damit erreicht der iPhone-Hersteller künftig ein größeres Publikum.",
       "url": "https://www.heise.de/news/Apple-TV-jetzt-auch-als-App-fuer-Android-Smartphones-verfuegbar-10279557.html",
       "image_title": "Die Apple TV App für Android"
     },
     {
-      "title": "Top 10: Der beste HDMI-Switch im Test – Testsieger kostet 18 Euro",
-      "teaser": "Zu wenig HDMI-Anschlüsse am Fernseher? Ein HDMI-Switch ist eine praktische Lösung für mehr Ports und erleichtert den Wechsel zwischen Konsole, TV-Stick oder Beamer. Wir zeigen die besten HDMI-Switches.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hdmi-switch-fuer-heimkino-tv-und-co-im-test/htm6fr3?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Wenn jede Sekunde bei einem Security-Notfall zählt",
       "teaser": "Bei einer Ransomware-Attacke können in kürzester Zeit zentrale Systeme kompromittiert sein. Es gilt daher, schnell zu sein: Systeme absichern, kritische Bereiche isolieren und anschließend die Wiederherstellung starten.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Der beste HDMI-Switch im Test – Testsieger kostet 18 Euro",
+      "teaser": "Zu wenig HDMI-Anschlüsse am Fernseher? Ein HDMI-Switch ist eine praktische Lösung für mehr Ports und erleichtert den Wechsel zwischen Konsole, TV-Stick oder Beamer. Wir zeigen die besten HDMI-Switches.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hdmi-switch-fuer-heimkino-tv-und-co-im-test/htm6fr3?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "BSH und DWD starten Messkampagne für künftige Offshore-Windparks",
@@ -229,12 +235,6 @@
       "title": "Apple-Roboter: Analyst rechnet frühestens 2028 mit Massenproduktion",
       "teaser": "Kürzlich zeigte Apple eine Roboter-Lampe, die mit dem Nutzer interagiert. Bis zu fertigen Produkten sei es noch ein langer Weg, sagt ein bekannter Analyst.",
       "url": "https://www.heise.de/news/Apple-Roboter-Analyst-rechnet-fruehestens-2028-mit-Massenproduktion-10280226.html"
-    },
-    {
-      "title": "Ubuntu für WSL in neuer TAR-Version – Perfekt für individuelle Setups",
-      "teaser": "WSL wird unabhängiger vom Microsoft Store: Ubuntu kann jetzt als TAR-Archiv installiert und angepasst werden.",
-      "url": "https://www.heise.de/news/Ubuntu-fuer-WSL-in-neuer-TAR-Version-Perfekt-fuer-individuelle-Setups-10280138.html",
-      "image_title": "Man sieht Fenster mit den Eingabeterminals von Ubuntu auf einem Windows 11 Desktop."
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -298,6 +298,12 @@
       "title": "heise+ Jubiläumsangebot",
       "teaser": "Wir feiern 6 Jahre heise+ mit einem besonderen Angebot: Sichern Sie sich jetzt 12 Monate heise+ mit 50 % Rabatt und freuen Sie sich auf geballtes IT- und Tech-Wissen. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Ubuntu für WSL in neuer TAR-Version – Perfekt für individuelle Setups",
+      "teaser": "WSL wird unabhängiger vom Microsoft Store: Ubuntu kann jetzt als TAR-Archiv installiert und angepasst werden.",
+      "url": "https://www.heise.de/news/Ubuntu-fuer-WSL-in-neuer-TAR-Version-Perfekt-fuer-individuelle-Setups-10280138.html",
+      "image_title": "Man sieht Fenster mit den Eingabeterminals von Ubuntu auf einem Windows 11 Desktop."
     },
     {
       "title": "Apple-Accounts: Käufe übertragen erstmals möglich – aber nicht in der EU",
@@ -368,15 +374,15 @@
       "image_title": "Apple-Logo"
     },
     {
+      "title": "Case Study: Schneller produzieren, kreativer arbeiten",
+      "teaser": "Wie das Team der Global Entertainment Awards seine Leistungsfähigkeit und Kreativität steigerte.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/schneller-produzieren-kreativer-arbeiten-4876/?source=hbsad-ersatz"
+    },
+    {
       "title": "JavaScript-Bibliothek React: Neue Umfrage zum Ökosystem zeigt die Trends",
       "teaser": "Laut einer Umfrage haben React-Developer weiterhin mit den gleichen APIs und Hooks zu kämpfen. TanStack Query erhält positive Bewertungen und überholt Next.js.",
       "url": "https://www.heise.de/news/State-of-React-2024-TanStack-Query-jetzt-beliebter-als-Next-js-10279478.html",
       "image_title": "JavaScript-Bibliothek React"
-    },
-    {
-      "title": "Intelligente Cyberabwehr fängt bei den Mitarbeitern an",
-      "teaser": "Wie Sie Ihre Mitarbeiter zu einer starken Verteidigungslinie gegen Cyberangriffe machen und dadurch Risiken deutlich reduzieren, erfahren Sie im Live-Webcast am 18. März 2025 um 11:00 Uhr.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/intelligente-cyberabwehr-faengt-bei-den-mitarbeitern-an-4873/?source=hbsad-ersatz"
     },
     {
       "title": "Apple Watch Series 10: Berichte über Lautsprecherausfälle",
@@ -429,12 +435,6 @@
       "teaser": "T-Systems und Scytáles, ein schwedischer Hersteller für digitale Identitäten, entwickeln zusammen einen Alterscheck auf Basis der ID-Wallet.",
       "url": "https://www.heise.de/news/Telekom-und-Scytales-kooperieren-fuer-Altersverifizierung-10278318.html",
       "image_title": "Kind schaut im Dunkeln auf einen Computer."
-    },
-    {
-      "title": "Powerbeats Pro 2 überholen Apple: AirPods Pro 3 mit Herzfrequenzsensor fehlen",
-      "teaser": "Mit Start der neuesten Beats-Stöpsel wirken die aktuellen AirPods Pro von 2022 nur noch angestaubter. Einem Bericht zufolge bleibt das noch für \"Monate\" so.",
-      "url": "https://www.heise.de/news/Powerbeats-Pro-2-ueberholen-Apple-AirPods-Pro-3-mit-Herzfrequenzsensor-fehlen-10278979.html",
-      "image_title": "AirPods Pro 2 mit Lanyard."
     },
     {
       "title": "UpdateDatev: Nach weitreichenden Störungen Dienste \"grundsätzlich wieder verfügbar\"",
@@ -643,12 +643,6 @@
       "url": "https://www.heise.de/news/Neues-Leben-fuer-alte-Gebaeude-10276409.html"
     },
     {
-      "title": "Landschaftsfotografie: Wie Sie Fließgewässer fotografieren",
-      "teaser": "Fließende Gewässer bahnen sich ihren Weg durch die Natur – vom Rinnsal bis zum Strom. Mark Robertz weiß, wie man alle Facetten von Flüssen gekonnt fotografiert.",
-      "url": "https://www.heise.de/ratgeber/Landschaftsfotografie-Wie-Sie-Fliessgewaesser-fotografieren-10236406.html",
-      "image_title": "Sie sind selten geworden, die Wasserläufe, die einen Hauch von Wildnis mit sich bringen. Einst durchströmten sie das Land und versorgten es mit allen lebensnotwendigen Stoffen., Alle Bilder: Mark Robertz"
-    },
-    {
       "title": "FotonewsNeue Mondkamera und OM-Festival",
       "teaser": "OM stärkt MFT, Nikons P1100 ist neu, noch neuer ein 35mm f/1.2.",
       "url": "https://www.heise.de/news/Nikons-Mondkamera-neu-aufgelegt-und-OM-Festival-die-Fotonews-der-Woche-6-2025-10275428.html"
@@ -663,6 +657,11 @@
       "teaser": "In Yokohama steht Sonys Imaging-Headquarter. Wir haben es besucht.",
       "url": "https://www.heise.de/hintergrund/Reise-zu-Sony-Wo-die-scharfen-Kameras-wohnen-10254673.html",
       "image_title": "Sony City Minatomirai"
+    },
+    {
+      "title": "Im Kurztest: 100-400-mm-Telezoom von OM System",
+      "teaser": "Das neue, überarbeitete M.Zuiko 100-400mm F5.0-6.3 IS II bietet eine größere Brennweite und verbesserte Bildstabilisierung. Wir haben es getestet.",
+      "url": "https://www.heise.de/tests/Im-Kurztest-100-400-mm-Telezoom-von-OM-System-10273112.html"
     },
     {
       "title": "Reiseenduro Ducati Multistrada V2Leichter vielseitig",
@@ -723,26 +722,26 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "KI-Waffen: Google streicht rote Linien aus Ethik-Kodex",
-      "teaser": "Google-Konzern Alphabet hebt Beschränkungen für KI in Waffen auf. Menschenrechtler warnen vor den Folgen. Was bedeutet das für autonome Waffensysteme?",
-      "url": "https://www.heise.de/tp/features/KI-Waffen-Google-streicht-rote-Linien-aus-Ethik-Kodex-10278218.html",
-      "image_title": "Symbolbild einer Drohne mit künstlicher Intelligenz"
+      "title": "Duell um ChatGPT: Musk bietet 97 Milliarden US-Dollar für OpenAI",
+      "teaser": "Streit zwischen Elon Musk und OpenAI eskaliert. Dessen Chef Sam Altman lehnt Übernahmeangebot ab. Welche Rolle spielt Trumps Weißes Haus?",
+      "url": "https://www.heise.de/tp/features/Duell-um-ChatGPT-Musk-bietet-97-Milliarden-US-Dollar-fuer-OpenAI-10277961.html",
+      "image_title": "Donald Trump auf einem Bildschirm, dahinter Elon Musk"
     },
     {
-      "title": "Zoll-Hammer: USA verhängen Strafzölle auf Stahl und Aluminium aus der EU",
-      "teaser": "Donald Trump verschärft Ton im Handelsstreit mit EU. Er will ab 12. März Strafzölle auf Stahl und Aluminium erheben. Was das für deutsche Unternehmen bedeutet.",
-      "url": "https://www.heise.de/tp/features/Zoll-Hammer-USA-verhaengen-Strafzoelle-auf-Stahl-und-Aluminium-aus-der-EU-10278621.html",
-      "image_title": "Flüssigmetall aus Tanks im Stahlwerk"
+      "title": "Geschwisterforschung: Welches Kind wir bevorzugen",
+      "teaser": "Eltern haben oft ein Lieblingskind. Eine neue Studie mit 20.000 Teilnehmern zeigt klare Muster. Wer dabei besonders gut wegkommt – und was Eltern tun können.",
+      "url": "https://www.heise.de/tp/features/Geschwisterforschung-Welches-Kind-wir-bevorzugen-10279304.html"
     },
     {
-      "title": "Stockholmsyndrom? Wenn Wähler ihre Ausbeuter lieben",
-      "teaser": "Welche Parteien eine Umverteilung nach oben planen und was Normalverdiener zu erwarten haben. Rechenbeispiele, Analyse und Kommentar.",
-      "url": "https://www.heise.de/tp/features/Stockholmsyndrom-Wenn-Waehler-ihre-Ausbeuter-lieben-10277344.html"
+      "title": "Kosmisches Rätsel: Wenn tote Galaxien plötzlich aufleuchten",
+      "teaser": "Tote Galaxien sollten eigentlich friedlich ruhen. Doch Astronomen haben jetzt einen gewaltigen Radioblitz aus einer uralten Galaxie empfangen. Was steckt dahinter?",
+      "url": "https://www.heise.de/tp/features/Kosmisches-Raetsel-Wenn-tote-Galaxien-ploetzlich-aufleuchten-10277589.html",
+      "image_title": "Chime-Teleskop in Kanada"
     },
     {
-      "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
-      "teaser": "Wo gibt es den meisten Gratis-Speicher, wo den besten Datenschutz? Wir Cloud-Anbieter getestet und erklären, worauf bei der Auswahl zu achten ist.",
-      "url": "https://www.heise.de/download/specials/Die-10-besten-Cloud-Speicher-3149052"
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Wahl-O-Mat 2025 (Bundestagswahl)",
