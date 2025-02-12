@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-12T08:12:24",
+  "timestamp": "2025-02-12T09:09:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Adobe-Patchday-Schadcode-Sicherheitsluecken-gefaehrden-Illustrator-Co-10279209.html"
+    },
+    {
       "title": "Ivanti ICS, IPS, ISAC und CSA",
       "url": "https://www.heise.de/news/Ivanti-Kritische-Codeschmuggel-Luecken-in-VPN-und-CSA-10279170.html"
     },
@@ -44,20 +48,21 @@
       "url": "https://www.heise.de/news/Solarwinds-Update-schliesst-teils-kritische-Luecken-in-Platform-10278244.html"
     },
     {
-      "title": "Zimbra",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Zimbra-Angreifer-koennen-Metadaten-von-E-Mails-auslesen-10277628.html"
+      "title": "Pandas im Sandsturm: Das Namenschaos des Cybercrime durchschauen",
+      "teaser": "Wussten Sie, dass hinter einem LockBit-Angriff in der Regel nicht die LockBit-Gang steckt? Wir erklären warum und beleuchten verwirrende Namenskonventionen.",
+      "url": "https://www.heise.de/hintergrund/Pandas-im-Sandsturm-Das-Namenschaos-des-Cybercrime-durchschauen-10251629.html"
+    },
+    {
+      "title": "Opensource-Sicherheitsplattform: Kritische Lücke in Wazuh erlaubte Codeschmuggel",
+      "teaser": "Über eine unsichere Deserialisierung konnten Angreifer auf Wazuh-Servern eigenen Code aus der Ferne ausführen. Der Angriff gelang auch über gekaperte Agenten.",
+      "url": "https://www.heise.de/news/Opensource-Sicherheitsplattform-Kritische-Luecke-in-Wazuh-erlaubte-Codeschmuggel-10279201.html",
+      "image_title": "IT-Verwalter sitzt vorm Server und überwacht die Performance"
     },
     {
       "title": "Ivanti: Kritische Codeschmuggel-Lücken in VPN und CSA",
       "teaser": "In Ivantis VPN-Software ICS, IPS und ISAC sowie in Ivanti CSA klaffen kritische Sicherheitslecks. Angreifer können Schadcode unterjubeln.",
       "url": "https://www.heise.de/news/Ivanti-Kritische-Codeschmuggel-Luecken-in-VPN-und-CSA-10279170.html",
       "image_title": "Schwer bewaffnete Kriminelle stehen um Server, die zeigen Verschlüsselungssymbole. Menschen sitzen mt Laptops drum herum."
-    },
-    {
-      "title": "Microsoft-Patchday: Angreifer attackieren Windows und löschen Daten",
-      "teaser": "Es sind wichtige Sicherheitsupdates für Azure, Office, Windows und Co. erschienen. Es gibt bereits Attacken. Weitere können bevorstehen.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-und-loeschen-Daten-10279178.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "DeepSeek: Große Sicherheitsbedenken gegen chinesische KI",
@@ -132,6 +137,18 @@
       "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
+      "title": "Lup-Kliniken von Cyberangriff betroffen",
+      "teaser": "Zwei Standorte der Lup-Kliniken sind derzeit online nicht erreichbar, da sie vorsorglich vom Netz getrennt wurden. Notfälle werden weiter versorgt.",
+      "url": "https://www.heise.de/news/Lup-Kliniken-von-Cyberangriff-betroffen-10277022.html",
+      "image_title": "Website der Lup-Kliniken mit einem Hinweis auf eine technische Störung"
+    },
+    {
+      "title": "Google-Konten: Zeitplan für Mehr-Faktor-Authentifizierung steht",
+      "teaser": "Im November hat Google es angekündigt, nun steht der Zeitplan für die erzwungene Umstellung auf Mehr-Faktor-Authentifizierung von Google-Konten.",
+      "url": "https://www.heise.de/news/Google-Zeitplan-steht-fuer-Mehr-Faktor-Authentifizierung-fuer-Online-Konten-10276374.html",
+      "image_title": "Google-Icon auf einem iPhone​"
+    },
+    {
       "title": "iX-Workshop: Linux-Server härten",
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-Effektiv-und-umfassend-10272235.html",
@@ -148,23 +165,6 @@
       "teaser": "Das Asset-Managementsystem Cityworks von Trimble ist verwundbar: Derzeit nutzen Angreifer eine Sicherheitslücke aus.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Schadcode-Attacken-auf-Trimble-Cityworks-beobachtet-10276058.html",
       "image_title": "Dialog mit Fortschrittsbalken \"Attack successful\""
-    },
-    {
-      "title": "Microsoft gibt auf: Windows 11 24H2-Update-Probleme nur manuell lösbar",
-      "teaser": "Windows-11-24H2-Installationen mit bestimmten Update-Ständen können keine weiteren Updates mehr installieren. Nur eine manuelle Korrektur hilft.",
-      "url": "https://www.heise.de/news/Windows-11-24H2-Update-Probleme-Microsoft-gibt-bei-Loesungssuche-auf-10275867.html"
-    },
-    {
-      "title": "iX-Workshop: IT-Sicherheit jenseits der Bits - Physische Schutzstrategien",
-      "teaser": "Praxisnah mit simuliertem Penetrationstest: IT-Infrastruktur physisch absichern, Sicherheitslücken erkennen und wirksame Schutzmaßnahmen auswählen.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-jenseits-der-Bits-Physische-Schutzstrategien-10272118.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "Nach Sicherheitswarnungen: USA planen Verbot von Deepseek",
-      "teaser": "Deepseek soll Daten an gleich mehrere chinesische Firmen weiterleiten. In den USA soll ein Verbot für Regierungsmitarbeiter kommen.",
-      "url": "https://www.heise.de/news/USA-planen-Verbot-von-Deepseek-Sicherheitsforscher-warnen-10275583.html",
-      "image_title": "Ein Kopf bildet sich aus kleinen Teilchen."
     },
     {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
