@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-13T20:09:49",
+  "timestamp": "2025-02-13T21:08:06",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Cyberattacke auf die Universität der Bundeswehr München",
+      "url": "https://www.heise.de/news/Cyberattacke-auf-die-Universitaet-der-Bundeswehr-Muenchen-10281927.html"
+    },
     {
       "title": "Top 7: Die beste Soundbar mit Subwoofer im Test – Teufel, Sonos, LG & Co.",
       "url": "https://www.heise.de/bestenlisten/top-7-die-beste-soundbar-mit-subwoofer-im-test/ttww195"
@@ -60,10 +64,6 @@
     {
       "title": "Sicher zahlen im Netz: Wie man Betrug beim Online-Einkauf vermeidet",
       "url": "https://www.heise.de/ratgeber/Sicher-Zahlen-im-Netz-Wie-man-Online-Betrug-beim-Einkauf-vermeidet-10252286.html"
-    },
-    {
-      "title": "Geforderte Hintertür zu iCloud trifft auf politischen Widerstand in den USA",
-      "url": "https://www.heise.de/news/Geforderte-Hintertuer-zu-iCloud-trifft-auf-politischen-Widerstand-in-den-USA-10281690.html"
     },
     {
       "title": "OpenAI-ÜbernahmeMusk will Angebot zurückziehen, wenn Gemeinnützigkeit bleibt",
@@ -186,20 +186,26 @@
       "image_title": "iPhone zeigt iCloud-Grafik"
     },
     {
+      "title": "Cyberattacke auf die Universität der Bundeswehr München",
+      "teaser": "Ein Rechenzentrum der Bundeswehr-Uni in München wurde Mitte Januar erfolgreich angegriffen. Das bestätigte die Bundeswehr am Abend auf Anfrage von heise online.",
+      "url": "https://www.heise.de/news/Cyberattacke-auf-die-Universitaet-der-Bundeswehr-Muenchen-10281927.html",
+      "image_title": "Hände am Laptop im Gegenlicht, Vordergrund im Dunklen"
+    },
+    {
       "title": "Top 7: Die beste Soundbar mit Subwoofer im Test – Teufel, Sonos, LG & Co.",
       "teaser": "Soundbars sind platzsparend, einfach zu installieren und verbessern den Sound von TV oder Beamer enorm. Richtig Spaß kommt erst mit kräftigem Bass auf. Wir zeigen die besten Soundbars mit Subwoofer.",
       "url": "https://www.heise.de/bestenlisten/top-7-die-beste-soundbar-mit-subwoofer-im-test/ttww195?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Durchbruch in China: Apple gewinnt Alibaba als KI-Partner",
       "teaser": "Lange war unklar, mit dem Apple in Sachen KI im wichtigen Markt China an den Start geht. Alibaba machte vor anderen KI-Anbietern das Rennen.",
       "url": "https://www.heise.de/news/Durchbruch-in-China-Apple-gewinnt-Alibaba-als-KI-Partner-10281840.html",
       "image_title": "Apple-Intelligence-Icon mit Farbverlauf"
-    },
-    {
-      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
-      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Aus für Hololens: Microsoft übergibt Militäraufträge an Anduril",
@@ -229,12 +235,6 @@
       "teaser": "Die Monopolkommission hat Empfehlungen für die nächste Bundesregierung herausgegeben. Auch Big Tech und Machtballungen im Digitalen stehen im Fokus.",
       "url": "https://www.heise.de/news/Monopolkommission-fordert-vollstaendige-Privatisierung-von-Telekom-und-Post-10281640.html",
       "image_title": "Leipzig,,Germany,-,October,31,,2021:,Logo,Of,German,Telekom"
-    },
-    {
-      "title": "Porsche will bis 2029 rund 1900 Stellen im Stammwerk und Weissach abbauen",
-      "teaser": "Schwache Verkäufe besonders von E-Autos belasten Ergebnis und Kurs, Porsche will neue Verbrenner entwickeln. Dafür soll nun auch beim Personal gespart werden.",
-      "url": "https://www.heise.de/news/Porsche-will-bis-2029-rund-1900-Stellen-im-Stammwerk-und-Weissach-abbauen-10281500.html",
-      "image_title": "Porsche Taycan GTS Sport Turismo"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -285,8 +285,8 @@
       "url": "https://www.heise.de/news/DOGE-Elon-Musks-Team-fuettert-sensible-US-Regierungsdaten-an-KI-10273602.html"
     },
     {
-      "title": "Warum Porsche wieder mehr auf Verbrenner setzt",
-      "url": "https://www.heise.de/news/Warum-Porsche-wieder-mehr-auf-Verbrenner-setzt-10275340.html"
+      "title": "Deutschlandticket: Fahrkartenshop fliegt auf, Kunden werden zu Schwarzfahrern",
+      "url": "https://www.heise.de/news/Vorsicht-vor-ungueltigen-Deutschlandtickets-Schwarzfahrer-wider-Willen-10279694.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -298,6 +298,12 @@
       "title": "heise+ Jubiläumsangebot",
       "teaser": "Wir feiern 6 Jahre heise+ mit einem besonderen Angebot: Sichern Sie sich jetzt 12 Monate heise+ mit 50 % Rabatt und freuen Sie sich auf geballtes IT- und Tech-Wissen. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Porsche will bis 2029 rund 1900 Stellen im Stammwerk und Weissach abbauen",
+      "teaser": "Schwache Verkäufe besonders von E-Autos belasten Ergebnis und Kurs, Porsche will neue Verbrenner entwickeln. Dafür soll nun auch beim Personal gespart werden.",
+      "url": "https://www.heise.de/news/Porsche-will-bis-2029-rund-1900-Stellen-im-Stammwerk-und-Weissach-abbauen-10281500.html",
+      "image_title": "Porsche Taycan GTS Sport Turismo"
     },
     {
       "title": "Xiaomi Poco X7 im Test: Günstiges Smartphone mit IP68 & Top-Display",
@@ -367,15 +373,15 @@
       "image_title": "Weißes zweistöckiges Gebäude, davor drei Fahnenstangen mit Fahnen"
     },
     {
+      "title": "Wie GPU und CPU zusammenspielen",
+      "teaser": "Grafikprozessoren (GPUs) sind für das Training und die Anwendung von KI-Modellen unverzichtbar. Die hohen Investitionen in die teuren Beschleuniger sind jedoch nur dann gerechtfertigt, wenn die Serverplattform sie optimal unterstützt.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-systeme-optimal-einsetzen-4875/?source=hbsadersatz"
+    },
+    {
       "title": "Gefangenenaustausch mit Russland: USA lassen Ex-Chef von Btc-e frei",
       "teaser": "Der Chef von Btc-e hat die Kryptobörse zum zentralen Anlaufpunkt für Cyberkriminelle gemacht, 2017 wurde er festgenommen. Weitere Haft bleibt ihm wohl erspart.",
       "url": "https://www.heise.de/news/Gefangenenaustausch-mit-Russland-USA-lassen-Ex-Chef-von-Btc-e-frei-10281026.html",
       "image_title": "Bitcoin-Münzen"
-    },
-    {
-      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
-      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
     },
     {
       "title": "MacBook Air und MacBook Pro: Lieferkettendetails zu neuen Display-Technologien",
@@ -428,12 +434,6 @@
       "title": "Western Digital: HAMR-Festplatten kommen 2026",
       "teaser": "In einem Webcast für Finanzinvestoren gab Western Digital Informationen zur kommenden Roadmap heraus. Das Wichtigste: Auch WD setzt auf HAMR.",
       "url": "https://www.heise.de/news/Western-Digital-HAMR-Festplatten-kommen-2026-10280727.html"
-    },
-    {
-      "title": "Grundlagen von Wi-Fi 7: So funktioniert der neue WLAN-Standard",
-      "teaser": "Die ersten Apple-Geräte haben das flottere Wi-Fi 7 an Bord. Wir erklären, was neu ist und wie viel es bringen kann.",
-      "url": "https://www.heise.de/hintergrund/Grundlagen-von-Wi-Fi-7-So-funktioniert-der-neue-WLAN-Standard-10263971.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
     },
     {
       "title": "AlertMicrosoft-Patchday: Angreifer attackieren Windows und löschen Daten",
@@ -737,10 +737,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ferien im Reich der Kims: Wie Nordkorea zum Urlaubsparadies für Russen werden soll",
-      "teaser": "Nordkorea und Russland vertiefen ihr Bündnis jetzt auch auf touristischem Gebiet. Was dies für die Entwicklung in Nordkorea bedeuten kann. Eine Analyse.",
-      "url": "https://www.heise.de/tp/features/Ferien-im-Reich-der-Kims-Wie-Nordkorea-zum-Urlaubsparadies-fuer-Russen-werden-soll-10280081.html",
-      "image_title": "Nordkoreas Flagge mit Strandzubehör auf Sand"
+      "title": "Russland und Iran vereinbaren historischen Gas-Liefervertrag",
+      "teaser": "Russland und Iran schmieden einen historischen Pakt. Putin verspricht massive Gaslieferungen in die Islamische Republik. Doch der Deal hat einen Haken.",
+      "url": "https://www.heise.de/tp/features/Russland-und-Iran-vereinbaren-historischen-Gas-Liefervertrag-10278127.html",
+      "image_title": "Gasleitung von Russland- zu Iranflagge"
     },
     {
       "title": "Knochenarbeit: Forscher entschlüsseln grausame Steinzeit-Praktiken",
@@ -748,10 +748,10 @@
       "url": "https://www.heise.de/tp/features/Knochenarbeit-Forscher-entschluesseln-grausame-Steinzeit-Praktiken-10281594.html"
     },
     {
-      "title": "Unterwassertarnung am Ende? Chinas neue Waffe gegen US-U-Boote",
-      "teaser": "Chinesische Forscher entwickeln Methode zur Erkennung von U-Boot-Bugwellen. Technologie bedroht traditionelle Tarnfähigkeit. Kräfteverhältnis im Südchinesischen Meer verschiebt sich weiter.",
-      "url": "https://www.heise.de/tp/features/Unterwassertarnung-am-Ende-Chinas-neue-Waffe-gegen-US-U-Boote-10276956.html",
-      "image_title": "Ein U-Boot auf See"
+      "title": "US-Hilfen als Erpressungsmittel? Trumps Fehlkalkulation mit Jordanien",
+      "teaser": "Trump setzt auf Erpressung, doch Jordaniens König Abdullah zögert. Welche Folgen das für die Region haben könnte. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/US-Hilfen-als-Erpressungsmittel-Trumps-Fehlkalkulation-mit-Jordanien-10280014.html",
+      "image_title": "Ein Mann im Anzug"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
