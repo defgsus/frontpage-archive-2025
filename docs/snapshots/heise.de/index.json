@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-13T12:16:47",
+  "timestamp": "2025-02-13T13:16:53",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sicherheitslücken: Gitlab-Entwickler raten zu zügigem Update",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10281262.html"
+    },
+    {
+      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
+      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-10280593.html"
+    },
+    {
+      "title": "All-Flash-NAS im Test: Terramaster F8 SSD Plus",
+      "url": "https://www.heise.de/tests/All-Flash-NAS-im-Test-Terramaster-F8-SSD-Plus-10271320.html"
+    },
     {
       "title": "iOS-Apps müssen Tracking anfragen: Bundeskartellamt meldet Bedenken an",
       "url": "https://www.heise.de/news/Wegen-Apples-iPhone-Trackingschutz-Bundeskartellamt-hat-Bedenken-10281117.html"
@@ -52,18 +64,6 @@
     {
       "title": "iX-Workshop: OWASP® Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-10271200.html"
-    },
-    {
-      "title": "software-architektur.tv: Spaß mit KI – Agentic Workflows und Self-Verification",
-      "url": "https://www.heise.de/news/software-architektur-tv-Spass-mit-KI-Agentic-Workflows-und-Self-Verification-10280617.html"
-    },
-    {
-      "title": "Digitalpolitische Konzepte der Parteien vor der Wahl 2025",
-      "url": "https://www.heise.de/hintergrund/Digitalpolitische-Konzepte-der-Parteien-vor-der-Wahl-2025-10249911.html"
-    },
-    {
-      "title": "iPhone SE 4: Verschiebt Apple auf nächste Woche?",
-      "url": "https://www.heise.de/news/iPhone-SE-4-Verschiebt-Apple-auf-naechste-Woche-10280841.html"
     },
     {
       "title": "GeForce RTX 5090Nvidia hat offenbar die Stromversorgung verbockt",
@@ -175,7 +175,7 @@
     },
     {
       "title": "Datenschutzbeauftragte Besorgt über \"rapide\" Zunahme privater Videoüberwachung",
-      "teaser": "Die steigenden Beschwerden über private Videoüberwachungssysteme bereiten der NRW-Landesdatenschutzbeauftragten ernsthafte Sorgen.",
+      "teaser": "Die Beschwerden über private Videoüberwachungssysteme bereiten der NRW-Landesdatenschutzbeauftragten ernsthafte Sorgen.",
       "url": "https://www.heise.de/news/Datenschutzbeauftragte-besorgt-ueber-rapide-Zunahme-privater-Videoueberwachung-10280689.html",
       "image_title": "Überwachungskamera an Gebäude"
     },
@@ -185,7 +185,28 @@
       "url": "https://www.heise.de/news/Patchday-Intel-schliesst-kritische-Sicherheitsluecke-in-Fernwartungsfunktion-BMC-10280666.html"
     },
     {
-      "title": "iOS-Apps müssen Tracking anfragen: Bundeskartellamt meldet Bedenken an",
+      "title": "AlertSicherheitslücken: Gitlab-Entwickler raten zu zügigem Update",
+      "teaser": "Gitlab ist unter anderem für DoS-Attacken anfällig. Außerdem können vertrauliche Informationen leaken.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10281262.html",
+      "image_title": "Frau zeigt mit ihrem Finger auf ein Update-Zeichen"
+    },
+    {
+      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
+      "teaser": "Ab dem 09.04. lernen Sie in fünf Sessions die Welt der künstlichen Intelligenz kennen. Von Machine Learning über neuronale Netze bis zu Deep Learning.",
+      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-10280593.html"
+    },
+    {
+      "title": "Wenn jede Sekunde bei einem Security-Notfall zählt",
+      "teaser": "Bei einer Ransomware-Attacke können in kürzester Zeit zentrale Systeme kompromittiert sein. Es gilt daher, schnell zu sein: Systeme absichern, kritische Bereiche isolieren und anschließend die Wiederherstellung starten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "All-Flash-NAS im Test: Terramaster F8 SSD Plus",
+      "teaser": "All-Flash-NAS werden zum Massenprodukt: Terramaster hat zwei Modelle im Buchformat herausgebracht. Wir haben das besser ausgestattete F8 SSD Plus getestet.",
+      "url": "https://www.heise.de/tests/All-Flash-NAS-im-Test-Terramaster-F8-SSD-Plus-10271320.html"
+    },
+    {
+      "title": "UpdateiOS-Apps müssen Tracking anfragen: Bundeskartellamt meldet Bedenken an",
       "teaser": "Per Tracking Transparency Framework werden iOS-Apps gezwungen, User vor einer Verfolgung zu Werbezwecken um Erlaubnis zu fragen. Ist das ein Wettbewerbsverstoß?",
       "url": "https://www.heise.de/news/Wegen-Apples-iPhone-Trackingschutz-Bundeskartellamt-hat-Bedenken-10281117.html",
       "image_title": "Weißes zweistöckiges Gebäude, davor drei Fahnenstangen mit Fahnen"
@@ -195,11 +216,6 @@
       "teaser": "Der Chef von Btc-e hat die Kryptobörse zum zentralen Anlaufpunkt für Cyberkriminelle gemacht, 2017 wurde er festgenommen. Weitere Haft bleibt ihm wohl erspart.",
       "url": "https://www.heise.de/news/Gefangenenaustausch-mit-Russland-USA-lassen-Ex-Chef-von-Btc-e-frei-10281026.html",
       "image_title": "Bitcoin-Münzen"
-    },
-    {
-      "title": "Wenn jede Sekunde bei einem Security-Notfall zählt",
-      "teaser": "Bei einer Ransomware-Attacke können in kürzester Zeit zentrale Systeme kompromittiert sein. Es gilt daher, schnell zu sein: Systeme absichern, kritische Bereiche isolieren und anschließend die Wiederherstellung starten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "MacBook Air und MacBook Pro: Lieferkettendetails zu neuen Display-Technologien",
@@ -218,23 +234,6 @@
       "teaser": "Das Bundeskabinett hat die Basis für die Einführung eines digitalen Führerscheins und weiterer Fahrzeugdokumente gelegt. \"Papiere bitte!\" könnte aussterben.",
       "url": "https://www.heise.de/news/Digitalisierung-Regierung-will-Fuehrer-und-Fahrzeugschein-aufs-Handy-bringen-10280949.html",
       "image_title": "Geldbörse mit Führerschein"
-    },
-    {
-      "title": "UpdateE-Rechnung mit Hindernissen: Was bei der DATEV geht und was nicht",
-      "teaser": "Seit Januar müssen Selbstständige E-Rechnungen akzeptieren. Das geht auch mit dem beliebten DATEV Unternehmen online – wenn man weiß, wie. Unsere Tipps.",
-      "url": "https://www.heise.de/ratgeber/E-Rechnung-mit-Hindernissen-Was-bei-der-DATEV-geht-und-was-nicht-10277267.html",
-      "image_title": "Rechnungen, Münzen und ein DATEV-Logo"
-    },
-    {
-      "title": "iX-Workshop: OWASP® Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
-      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
-      "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-10271200.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "software-architektur.tv: Spaß mit KI – Agentic Workflows und Self-Verification",
-      "teaser": "Lisa Maria Schäfer spricht mit Ralf D. Müller in dieser Episode des Videocasts über Large Language Models und deren Fähigkeiten, selbstständig zu arbeiten.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Spass-mit-KI-Agentic-Workflows-und-Self-Verification-10280617.html"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -300,6 +299,23 @@
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
     },
     {
+      "title": "UpdateE-Rechnung mit Hindernissen: Was bei der DATEV geht und was nicht",
+      "teaser": "Seit Januar müssen Selbstständige E-Rechnungen akzeptieren. Das geht auch mit dem beliebten DATEV Unternehmen online – wenn man weiß, wie. Unsere Tipps.",
+      "url": "https://www.heise.de/ratgeber/E-Rechnung-mit-Hindernissen-Was-bei-der-DATEV-geht-und-was-nicht-10277267.html",
+      "image_title": "Rechnungen, Münzen und ein DATEV-Logo"
+    },
+    {
+      "title": "iX-Workshop: OWASP® Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-R-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-10271200.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
+      "title": "software-architektur.tv: Spaß mit KI – Agentic Workflows und Self-Verification",
+      "teaser": "Lisa Maria Schäfer spricht mit Ralf D. Müller in dieser Episode des Videocasts über Large Language Models und deren Fähigkeiten, selbstständig zu arbeiten.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Spass-mit-KI-Agentic-Workflows-und-Self-Verification-10280617.html"
+    },
+    {
       "title": "Digitalpolitische Konzepte der Parteien vor der Wahl 2025",
       "teaser": "Eine Analyse der Parteiprogramme spiegelt die unterschiedlichen Herangehensweisen der Parteien bei IT und Digitalisierung in verschiedenen Bereichen wider.",
       "url": "https://www.heise.de/hintergrund/Digitalpolitische-Konzepte-der-Parteien-vor-der-Wahl-2025-10249911.html",
@@ -359,6 +375,11 @@
       "url": "https://www.heise.de/hintergrund/IT-Security-Verdeckt-angreifen-mit-Beacon-Object-Files-10277655.html"
     },
     {
+      "title": "Bessere Cyberversicherung dank konsequenter Security-Strategie",
+      "teaser": "Eine Kombination aus UEM und SOAR bietet einen ganzheitlichen Schutz. Angenehmer Nebeneffekt: Das wirkt sich auch positiv auf die Prämien bei einer Cyberversicherung aus. In einem Webcast erfahren Sie, wie Sie sonst noch Anforderungen von Cyberversicherern erfüllen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/cyberversicherungen-und-uem-bessere-vertraege-dank-konsequenter-security-strategie-4828/?source=karussell%2F%3Fsource=hbsad-ersatz"
+    },
+    {
       "title": "HyQReal: Hydraulischer zweiarmiger Telepräsenzroboter für gefährliche Arbeiten",
       "teaser": "Der zweiarmige Telepräsenzroboter HyQReal soll überall dort helfen, wo es für Menschen zu gefährlich ist. Dazu besitzt er ein ausgeklügeltes Steuerungssystem.",
       "url": "https://www.heise.de/news/HyQReal-Hydraulischer-zweiarmiger-Telepraesenzroboter-fuer-gefaehrliche-Arbeiten-10280621.html",
@@ -374,11 +395,6 @@
       "title": "Karrierestart als IT-Werkstudent: Ratgeber zum Einstieg und Gehaltsaussichten",
       "teaser": "Neben der Uni für eine Firma coden und Geld verdienen: IT-Werkstudenten können ihr Wissen anwenden. Wir zeigen die Aufgaben im Beruf – und die Höhe des Gehalts.",
       "url": "https://www.heise.de/ratgeber/Karrierestart-als-IT-Werkstudent-Ratgeber-zum-Einstieg-und-Gehaltsaussichten-10258018.html"
-    },
-    {
-      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
-      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
     },
     {
       "title": "Musk zahlt Trump Millionen für Verbannung von Twitter/X",
@@ -419,23 +435,6 @@
       "teaser": "Apple bietet seinen Streaming-Dienst jetzt auch als native Android-App für Smartphones an. Damit erreicht der iPhone-Hersteller künftig ein größeres Publikum.",
       "url": "https://www.heise.de/news/Apple-TV-jetzt-auch-als-App-fuer-Android-Smartphones-verfuegbar-10279557.html",
       "image_title": "Die Apple TV App für Android"
-    },
-    {
-      "title": "Top 10: Der beste HDMI-Switch im Test – Testsieger kostet 18 Euro",
-      "teaser": "Zu wenig HDMI-Anschlüsse am Fernseher? Ein HDMI-Switch ist eine praktische Lösung für mehr Ports und erleichtert den Wechsel zwischen Konsole, TV-Stick oder Beamer. Wir zeigen die besten HDMI-Switches.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hdmi-switch-fuer-heimkino-tv-und-co-im-test/htm6fr3?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "BSH und DWD starten Messkampagne für künftige Offshore-Windparks",
-      "teaser": "In den kommenden 20 Jahren soll die Offshore-Windkapazität deutlich ausgebaut werden. BSH und DWD lassen nach geeigneten Standorten für Windparks suchen.",
-      "url": "https://www.heise.de/news/Windenergie-BSH-und-DWD-suchen-nach-Standorten-fuer-Offshore-Windparks-10280445.html",
-      "image_title": "Offshore-Windpark"
-    },
-    {
-      "title": "Globalstar: Verfahrensfehler sorgt für Börsenaussetzer",
-      "teaser": "Viele Banken und Neobroker haben den Handel mit Globalstar ausgesetzt, lassen Kunden aber im Dunkeln tappen.",
-      "url": "https://www.heise.de/news/Globalstar-Verfahrensfehler-sorgt-fuer-Boersenaussetzer-10280361.html",
-      "image_title": "Ein Satellit umkreist die Erde"
     },
     {
       "title": "Killscreen von Donkey Kong nach 44 Jahren überwunden",
@@ -606,6 +605,11 @@
       "url": "https://www.heise.de/en/news/Major-disruption-Thousands-of-Netcologne-customers-offline-10280113.html"
     },
     {
+      "title": "All-Flash-NAS im Test: Terramaster F8 SSD Plus",
+      "teaser": "All-Flash-NAS werden zum Massenprodukt: Terramaster hat zwei Modelle im Buchformat herausgebracht. Wir haben das besser ausgestattete F8 SSD Plus getestet.",
+      "url": "https://www.heise.de/tests/All-Flash-NAS-im-Test-Terramaster-F8-SSD-Plus-10271320.html"
+    },
+    {
       "title": "Sechs Speicher für Balkonkraftwerke im Test",
       "teaser": "Ein Balkonkraftwerk spart im Sommer ordentlich Strom. Batteriespeicher hilft dabei, die Überproduktion für später zu sichern, statt sie ins Netz zu verschenken.",
       "url": "https://www.heise.de/tests/Sechs-Speicher-fuer-Balkonkraftwerke-im-Test-10267879.html",
@@ -681,16 +685,15 @@
       "image_title": "Ducati Multistrada V2"
     },
     {
-      "title": "Lädt flinker, fährt weiterCupra Leon 1.5 e-Hybrid im Test",
-      "teaser": "Volkswagen hat den Plug-in-Hybrid aufgewertet: Eine Idealbesetzung in einem flotten Kombi wie dem Cupra Leon eHybrid?",
-      "url": "https://www.heise.de/tests/Cupra-Leon-1-5-e-Hybrid-im-Test-Laedt-flinker-und-faehrt-weiter-als-bisher-10276413.html",
-      "image_title": "Cupra Leon Sportstourer"
-    },
-    {
       "title": "Elektro-Transporter von RenaultBewährte Namen, neue Technik",
       "teaser": "Die batterieelektrischen Kleinlaster Renault Estafette, Goelette und Trafic sollen den Transportern und Kastenwagen von VW, Peugeot und Opel Konkurrenz machen.",
       "url": "https://www.heise.de/news/Elektro-Transporter-von-Renault-Bewaehrte-Namen-neue-Technik-10276918.html",
       "image_title": "Renault elektrische Nutzfahrzeuge"
+    },
+    {
+      "title": "Tempolimit in BerlinVermehrt wieder 50 statt 30 km/h",
+      "teaser": "In Berlin wird derzeit geprüft, ob auf einigen Streckenabschnitten das bisherige Tempolimit von 30 auf 50 km/h angehoben werden kann. Daran gibt es Kritik.",
+      "url": "https://www.heise.de/news/Tempolimit-in-Berlin-Vermehrt-wieder-50-statt-30-km-h-10275881.html"
     },
     {
       "title": "Dark Mode und Blaufilter: Was diese Features wirklich bringen",
@@ -734,16 +737,16 @@
       "image_title": "Zwei Soldaten von hinten in Uniformen der Ukraine"
     },
     {
-      "title": "Münchener Sicherheitskonferenz: Wenn der Schutz zur Bedrohung wird",
-      "teaser": "Die Nato-Staaten rüsten massiv auf. Deutschland soll fünf Prozent oder mehr des BIP fürs Militär ausgeben. Alles stützt sich auf eine Hoffnung.",
-      "url": "https://www.heise.de/tp/features/Muenchener-Sicherheitskonferenz-Wenn-der-Schutz-zur-Bedrohung-wird-10279520.html",
-      "image_title": "Erdkugel und Pfeile mit Atom-Signet von Europa nach Russland und in die andere Richtung"
+      "title": "Agentic AI: Wie künstliche Intelligenz die Arbeitswelt 2025 verändert",
+      "teaser": "Tech-Giganten investieren Milliarden in KI-Agenten. Die Software soll Büroarbeit revolutionieren und Routinen übernehmen. Doch was bedeutet das für Millionen Arbeitsplätze?",
+      "url": "https://www.heise.de/tp/features/Agentic-AI-Wie-kuenstliche-Intelligenz-die-Arbeitswelt-2025-veraendert-10276292.html",
+      "image_title": "Schreibtisch mit Mensch und Roboter vor Laptop"
     },
     {
-      "title": "Merz, Trump, Blair: Mit biometrischer Überwachung gegen illegale Migration",
-      "teaser": "\"Datenschutz ist Täterschutz\", meint die CDU/CSU. Auch USA und UK setzen auf digitale Identität und KI. Was verborgen bleibt: Die Forderungen sind älter als jede Migrationskrise.",
-      "url": "https://www.heise.de/tp/features/Merz-Trump-Blair-Mit-biometrischer-Ueberwachung-gegen-illegale-Migration-10280551.html",
-      "image_title": "Überwachungskamera als Graffitizeichnung an einer Wand, schwarz auf weiß."
+      "title": "3,1 Billionen Dollar: Der Preis des Friedens für Europa",
+      "teaser": "Donald Trump und Wladimir Putin beraten über Zukunft der Ukraine. EU fürchtet einen faulen Kompromiss zulasten Europas. Auf den Kontinent kommen gewaltige Kosten zu.",
+      "url": "https://www.heise.de/tp/features/3-1-Billionen-Dollar-Der-Preis-des-Friedens-fuer-Europa-10281105.html",
+      "image_title": "Weiße Taube mit Blume und Peace-Symbol"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
