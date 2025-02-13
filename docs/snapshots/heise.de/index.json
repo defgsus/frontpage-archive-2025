@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-13T14:08:59",
+  "timestamp": "2025-02-13T15:09:44",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "Xiaomi Poco X7 im Test: Günstiges Smartphone mit IP68 & Top-Display",
+      "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-poco-x7-im-test/6vexcm2"
+    },
+    {
+      "title": "Massiver Cyberangriff auf US-Provider: Attacken gehen immer noch weiter",
+      "url": "https://www.heise.de/news/Massiver-Cyberangriff-auf-US-Provider-Attacken-gehen-immer-noch-weiter-10281222.html"
+    },
+    {
+      "title": "Codeberg: Spam- und DoS-Angriffe auf nichtkommerzielle Entwicklungsplattform",
+      "url": "https://www.heise.de/news/Codeberg-Spam-und-DoS-Angriffe-auf-nichtkommerzielle-Entwicklungsplattform-10281324.html"
+    },
     {
       "title": "Programmiersprache: Go 1.24 unterstützt WebAssembly und generische Typ-Aliasse",
       "url": "https://www.heise.de/news/Programmiersprache-Go-1-24-unterstuetzt-WebAssembly-und-generische-Typ-Aliasse-10280985.html"
@@ -54,22 +66,10 @@
       "url": "https://www.heise.de/news/Umfrage-Mehrheit-der-Deutschen-hat-Angst-vor-Cyberkrieg-10281093.html"
     },
     {
-      "title": "Sicherheitslücken: Gitlab-Entwickler raten zu zügigem Update",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10281262.html"
-    },
-    {
-      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
-      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-10280593.html"
-    },
-    {
-      "title": "All-Flash-NAS im Test: Terramaster F8 SSD Plus",
-      "url": "https://www.heise.de/tests/All-Flash-NAS-im-Test-Terramaster-F8-SSD-Plus-10271320.html"
-    },
-    {
-      "title": "GeForce RTX 5090Nvidia hat offenbar die Stromversorgung verbockt",
-      "teaser": "Bei der GeForce RTX 5090 laufen bis zu 575 Watt über eine einzelne Platinenleitung. Sicherheitsmechanismen fehlen.",
-      "url": "https://www.heise.de/news/GeForce-RTX-5090-Nvidia-hat-offenbar-die-Stromversorgung-verbockt-10279896.html",
-      "image_title": "PCB der Nvidia GeForce RTX 5090 Founders Edition"
+      "title": "Massiver Cyberangriff auf US-ProviderAttacken gehen immer noch weiter",
+      "teaser": "Im Herbst wurde der schlimmste Telekommunikationshack der US-Geschichte entdeckt. Die Angreifer wurden nicht gestoppt, im Gegenteil.",
+      "url": "https://www.heise.de/news/Massiver-Cyberangriff-auf-US-Provider-Attacken-gehen-immer-noch-weiter-10281222.html",
+      "image_title": "Bunte Ethernetkabel"
     },
     {
       "title": "Android-SmartphonesSamsung Galaxy S25 Ultra und S25+ im Vergleich",
@@ -94,16 +94,16 @@
       "image_title": "Mehrere iPhone-14-Geräte von Apple"
     },
     {
-      "title": "Nachdem KI-generiertes Video viral gehtScarlett Johansson fordert Regulierung",
-      "teaser": "Ein KI-generiertes Video mit Scarlett Johansson und anderen Stars geht viral. Johansson fordert strengere Maßnahmen der Regierung.",
-      "url": "https://www.heise.de/news/Nachdem-KI-generiertes-Video-viral-geht-Scarlett-Johansson-fordert-Regulierung-10280603.html",
-      "image_title": "Scarlett Johansson"
+      "title": "Datenschutzbeauftragte Besorgt über \"rapide\" Zunahme privater Videoüberwachung",
+      "teaser": "Die Beschwerden über private Videoüberwachungssysteme bereiten der NRW-Landesdatenschutzbeauftragten ernsthafte Sorgen.",
+      "url": "https://www.heise.de/news/Datenschutzbeauftragte-besorgt-ueber-rapide-Zunahme-privater-Videoueberwachung-10280689.html",
+      "image_title": "Überwachungskamera an Gebäude"
     },
     {
-      "title": "AlertMicrosoft-PatchdayAngreifer attackieren Windows und löschen Daten",
-      "teaser": "Es sind wichtige Sicherheitsupdates für Azure, Office, Windows und Co. erschienen. Es gibt bereits Attacken.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-und-loeschen-Daten-10279178.html",
-      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
+      "title": "GeForce RTX 5090Nvidia hat offenbar die Stromversorgung verbockt",
+      "teaser": "Bei der GeForce RTX 5090 laufen bis zu 575 Watt über eine einzelne Platinenleitung. Sicherheitsmechanismen fehlen.",
+      "url": "https://www.heise.de/news/GeForce-RTX-5090-Nvidia-hat-offenbar-die-Stromversorgung-verbockt-10279896.html",
+      "image_title": "PCB der Nvidia GeForce RTX 5090 Founders Edition"
     },
     {
       "title": "Gutes Preis-Leistungs-VerhältnisElektroauto Skoda Elroq 50 im Test",
@@ -128,9 +128,10 @@
       "image_title": "Sony, Sonos und Bose treten gegen Apples AirPods Max an"
     },
     {
-      "title": "Bis zu 44 TByteWestern Digital bringt 2026 HAMR-Festplatten",
-      "teaser": "In einem Webcast gab Western Digital Informationen zur kommenden Roadmap heraus. Das Wichtigste: Auch WD setzt auf HAMR.",
-      "url": "https://www.heise.de/news/Western-Digital-HAMR-Festplatten-kommen-2026-10280727.html"
+      "title": "\"Avowed\" angespieltAbenteuer in der \"Pillars of Eternity\"-Welt",
+      "teaser": "Die Spielwelt des Rollenspiels \"Avowed\" weckt unwiderstehlichen Erkundungsdrang. Die Kämpfe sind robust, die Dialoge leider steif.",
+      "url": "https://www.heise.de/tests/Avowed-angespielt-Abenteuer-in-der-Pillars-of-Eternity-Welt-10280716.html",
+      "image_title": "Screenshot aus \"Avowed\""
     },
     {
       "title": "Strompreis in DeutschlandWarum teurer Winterstrom das neue Normal ist",
@@ -156,10 +157,10 @@
       "image_title": "Mülldeponie mit Nebel oder Staub"
     },
     {
-      "title": "EndeavourOS MercuryUnkompliziertes Arch Linux veröffentlicht",
-      "teaser": "EndeavourOS bietet eine einfache Möglichkeit, Arch Linux zu installieren. Mercury bringt Desktops & Software auf den neuesten Stand.",
-      "url": "https://www.heise.de/news/Unkompliziertes-Arch-Linux-EndeavourOS-Mercury-veroeffentlicht-10279655.html",
-      "image_title": "Screenshot des EndeavourOS-Live-Systems"
+      "title": "AlertMicrosoft-PatchdayAngreifer attackieren Windows und löschen Daten",
+      "teaser": "Es sind wichtige Sicherheitsupdates für Azure, Office, Windows und Co. erschienen. Es gibt bereits Attacken.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-und-loeschen-Daten-10279178.html",
+      "image_title": "Windows-Logo mit Flecken und der Aufschrift \"Patchday\""
     },
     {
       "title": "Ausstattung und KostenIm Vergleich: Elektro-SUVs Kia EV3 gegen Skoda Elroq",
@@ -168,21 +169,37 @@
       "image_title": "Skoda Elroq und Kia EV3"
     },
     {
-      "title": "\"Crysis 4\" eingestampftCrytek entlässt 60 Mitarbeiter",
-      "teaser": "Das Frankfurter Entwicklerstudio Crytek entlässt 60 Mitarbeiter. Der vierte Teil der \"Crysis\"-Reihe wird nicht mehr weiterentwickelt.",
-      "url": "https://www.heise.de/news/Crytek-entlaesst-Mitarbeiter-und-stellt-Crysis-4-ein-10279726.html",
-      "image_title": "Screnshot aus \"Crysis 3 Remastered\""
+      "title": "EndeavourOS MercuryUnkompliziertes Arch Linux veröffentlicht",
+      "teaser": "EndeavourOS bietet eine einfache Möglichkeit, Arch Linux zu installieren. Mercury bringt Desktops & Software auf den neuesten Stand.",
+      "url": "https://www.heise.de/news/Unkompliziertes-Arch-Linux-EndeavourOS-Mercury-veroeffentlicht-10279655.html",
+      "image_title": "Screenshot des EndeavourOS-Live-Systems"
     },
     {
-      "title": "Datenschutzbeauftragte Besorgt über \"rapide\" Zunahme privater Videoüberwachung",
-      "teaser": "Die Beschwerden über private Videoüberwachungssysteme bereiten der NRW-Landesdatenschutzbeauftragten ernsthafte Sorgen.",
-      "url": "https://www.heise.de/news/Datenschutzbeauftragte-besorgt-ueber-rapide-Zunahme-privater-Videoueberwachung-10280689.html",
-      "image_title": "Überwachungskamera an Gebäude"
+      "title": "Nachdem KI-generiertes Video viral gehtScarlett Johansson fordert Regulierung",
+      "teaser": "Ein KI-generiertes Video mit Scarlett Johansson und anderen Stars geht viral. Johansson fordert strengere Maßnahmen der Regierung.",
+      "url": "https://www.heise.de/news/Nachdem-KI-generiertes-Video-viral-geht-Scarlett-Johansson-fordert-Regulierung-10280603.html",
+      "image_title": "Scarlett Johansson"
     },
     {
-      "title": "AlertPatchdayIntel schließt Sicherheitslücken in CPUs und Grafiktreibern",
-      "teaser": "Es sind wichtige Updates für verschiedene Produkte von Intel erschienen. Admins sollten sie zeitnah installieren.",
-      "url": "https://www.heise.de/news/Patchday-Intel-schliesst-kritische-Sicherheitsluecke-in-Fernwartungsfunktion-BMC-10280666.html"
+      "title": "Bis zu 44 TByteWestern Digital bringt 2026 HAMR-Festplatten",
+      "teaser": "In einem Webcast gab Western Digital Informationen zur kommenden Roadmap heraus. Das Wichtigste: Auch WD setzt auf HAMR.",
+      "url": "https://www.heise.de/news/Western-Digital-HAMR-Festplatten-kommen-2026-10280727.html"
+    },
+    {
+      "title": "Xiaomi Poco X7 im Test: Günstiges Smartphone mit IP68 & Top-Display",
+      "teaser": "Für relativ wenig Geld bietet das Poco X7 sogar IP68, eine gute Kamera und ein scharfes OLED-Display mit 120 Hz. Wie es sich in der Praxis schlägt, zeigt dieser Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-poco-x7-im-test/6vexcm2?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Codeberg: Spam- und DoS-Angriffe auf nichtkommerzielle Entwicklungsplattform",
+      "teaser": "Massenhafte Spam-Nachrichten, überlaufende E-Mail-Postfächer und verstopfte Internetleitungen: Anonyme Attacken plagen die gemeinnützige Github-Alternative.",
+      "url": "https://www.heise.de/news/Codeberg-Spam-und-DoS-Angriffe-auf-nichtkommerzielle-Entwicklungsplattform-10281324.html",
+      "image_title": "Codeberg wird angegriffen."
+    },
+    {
+      "title": "Wenn jede Sekunde bei einem Security-Notfall zählt",
+      "teaser": "Bei einer Ransomware-Attacke können in kürzester Zeit zentrale Systeme kompromittiert sein. Es gilt daher, schnell zu sein: Systeme absichern, kritische Bereiche isolieren und anschließend die Wiederherstellung starten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Programmiersprache: Go 1.24 unterstützt WebAssembly und generische Typ-Aliasse",
@@ -193,17 +210,6 @@
       "title": "KI-Update kompakt: OpenAIs GPT 4.5, Jugendschutz, YouTube, KI-Regulierung",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-OpenAIs-GPT-4-5-Jugendschutz-YouTube-KI-Regulierung-10281022.html"
-    },
-    {
-      "title": "Wenn jede Sekunde bei einem Security-Notfall zählt",
-      "teaser": "Bei einer Ransomware-Attacke können in kürzester Zeit zentrale Systeme kompromittiert sein. Es gilt daher, schnell zu sein: Systeme absichern, kritische Bereiche isolieren und anschließend die Wiederherstellung starten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
-    },
-    {
-      "title": "\"Avowed\" angespielt: Abenteuer in der \"Pillars of Eternity\"-Welt",
-      "teaser": "Die Insel-Spielwelt des Rollenspiels \"Avowed\" weckt unwiderstehlichen Erkundungsdrang. Zudem ist Obsidian ein bemerkenswert robustes Kampfsystem gelungen.",
-      "url": "https://www.heise.de/tests/Avowed-angespielt-Abenteuer-in-der-Pillars-of-Eternity-Welt-10280716.html",
-      "image_title": "Screenshot aus \"Avowed\""
     },
     {
       "title": "VR-Gaming im Seniorenheim: Motivationsboost für Reha und Physiotherapie",
@@ -227,12 +233,6 @@
       "teaser": "Ein Großteil sieht Cyberkriminalität als große Gefahr und findet, dass Deutschland schlecht auf Cyberangriffe vorbereitet ist. Das zeigt eine Bitkom-Umfrage.",
       "url": "https://www.heise.de/news/Umfrage-Mehrheit-der-Deutschen-hat-Angst-vor-Cyberkrieg-10281093.html",
       "image_title": "Warndreieck mit Ausrufezeichen."
-    },
-    {
-      "title": "AlertSicherheitslücken: Gitlab-Entwickler raten zu zügigem Update",
-      "teaser": "Gitlab ist unter anderem für DoS-Attacken anfällig. Außerdem können vertrauliche Informationen leaken.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10281262.html",
-      "image_title": "Frau zeigt mit ihrem Finger auf ein Update-Zeichen"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -296,6 +296,12 @@
       "title": "heise+ Jubiläumsangebot",
       "teaser": "Wir feiern 6 Jahre heise+ mit einem besonderen Angebot: Sichern Sie sich jetzt 12 Monate heise+ mit 50 % Rabatt und freuen Sie sich auf geballtes IT- und Tech-Wissen. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "AlertSicherheitslücken: Gitlab-Entwickler raten zu zügigem Update",
+      "teaser": "Gitlab ist unter anderem für DoS-Attacken anfällig. Außerdem können vertrauliche Informationen leaken.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10281262.html",
+      "image_title": "Frau zeigt mit ihrem Finger auf ein Update-Zeichen"
     },
     {
       "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
@@ -367,15 +373,20 @@
       "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
     },
     {
+      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
+      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
+    },
+    {
       "title": "Konzern aus Nissan, Honda und Mitsubishi gescheitert, Zusammenarbeit wird enger",
       "teaser": "Nissan, Honda und Mitsubishi können sich nicht auf eine Kooperation unter einem Dach einigen. Es bleibt eine strategische Partnerschaft, vor allem beim E-Auto.",
       "url": "https://www.heise.de/news/Konzern-aus-Nissan-Honda-und-Mitsubishi-gescheitert-Zusammenarbeit-wird-enger-10280751.html",
       "image_title": "Hybrid Allrad SUV Honda CR-V e:HEV"
     },
     {
-      "title": "Wie GPU und CPU zusammenspielen",
-      "teaser": "Grafikprozessoren (GPUs) sind für das Training und die Anwendung von KI-Modellen unverzichtbar. Die hohen Investitionen in die teuren Beschleuniger sind jedoch nur dann gerechtfertigt, wenn die Serverplattform sie optimal unterstützt.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-systeme-optimal-einsetzen-4875/?source=hbsadersatz"
+      "title": "AlertPatchday: Intel schließt Sicherheitslücken in CPUs und Grafiktreibern",
+      "teaser": "Es sind wichtige Updates für verschiedene Produkte von Intel erschienen. Admins sollten sie zeitnah installieren.",
+      "url": "https://www.heise.de/news/Patchday-Intel-schliesst-kritische-Sicherheitsluecke-in-Fernwartungsfunktion-BMC-10280666.html"
     },
     {
       "title": "Finanzspritzchen: Regierung fördert mobile Satellitenstarts in der Nordsee",
@@ -425,17 +436,6 @@
       "image_title": "HyQReal Roboter im Labor"
     },
     {
-      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
-      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-10270372.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Karrierestart als IT-Werkstudent: Ratgeber zum Einstieg und Gehaltsaussichten",
-      "teaser": "Neben der Uni für eine Firma coden und Geld verdienen: IT-Werkstudenten können ihr Wissen anwenden. Wir zeigen die Aufgaben im Beruf – und die Höhe des Gehalts.",
-      "url": "https://www.heise.de/ratgeber/Karrierestart-als-IT-Werkstudent-Ratgeber-zum-Einstieg-und-Gehaltsaussichten-10258018.html"
-    },
-    {
       "title": "Killscreen von Donkey Kong nach 44 Jahren überwunden",
       "url": "https://www.heise.de/news/Killscreen-von-Donkey-Kong-nach-44-Jahren-ueberwunden-10275674.html"
     },
@@ -480,6 +480,11 @@
       "image_title": "Apple-Maps-Ansicht"
     },
     {
+      "title": "\"Crysis 4\" eingestampft: Crytek entlässt 60 Mitarbeiter",
+      "url": "https://www.heise.de/news/Crytek-entlaesst-Mitarbeiter-und-stellt-Crysis-4-ein-10279726.html",
+      "image_title": "Screnshot aus \"Crysis 3 Remastered\""
+    },
+    {
       "title": "Powerbeats Pro 2 überholen Apple: AirPods Pro 3 mit Herzfrequenzsensor fehlen",
       "url": "https://www.heise.de/news/Powerbeats-Pro-2-ueberholen-Apple-AirPods-Pro-3-mit-Herzfrequenzsensor-fehlen-10278979.html",
       "image_title": "AirPods Pro 2 mit Lanyard."
@@ -488,11 +493,6 @@
       "title": "Audi Q4 e-tron: Basismodell wird technisch aufgerüstet",
       "url": "https://www.heise.de/news/Audi-Q4-e-tron-Basismodell-wird-technisch-aufgeruestet-10277990.html",
       "image_title": "Audi Q4 e-tron"
-    },
-    {
-      "title": "Youtube: Fernseher überholt Handy",
-      "url": "https://www.heise.de/news/Youtube-wird-mehr-auf-dem-Fernseher-als-auf-dem-Handy-geschaut-10279294.html",
-      "image_title": "Youtube-Logo auf Gebäude"
     },
     {
       "title": "Boom XB-1 durchbricht erneut die Schallmauer – und wird stillgelegt",
@@ -602,6 +602,11 @@
     {
       "title": "Major disruption: Thousands of Netcologne customers offline",
       "url": "https://www.heise.de/en/news/Major-disruption-Thousands-of-Netcologne-customers-offline-10280113.html"
+    },
+    {
+      "title": "All-Flash-NAS im Test: Terramaster F8 SSD Plus",
+      "teaser": "All-Flash-NAS werden zum Massenprodukt: Terramaster hat zwei Modelle im Buchformat herausgebracht. Wir haben das besser ausgestattete F8 SSD Plus getestet.",
+      "url": "https://www.heise.de/tests/All-Flash-NAS-im-Test-Terramaster-F8-SSD-Plus-10271320.html"
     },
     {
       "title": "Sechs Speicher für Balkonkraftwerke im Test",
@@ -726,21 +731,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Rekord-Neutrino entdeckt: Tiefsee-Teleskop eröffnet neues Fenster ins Universum",
-      "teaser": "Wissenschaftler haben mit dem Neutrinoteleskop KM3NeT das energiereichste Neutrino aller Zeiten nachgewiesen. Was bedeutet diese Entdeckung für die Astronomie?",
-      "url": "https://www.heise.de/tp/features/Rekord-Neutrino-entdeckt-Tiefsee-Teleskop-eroeffnet-neues-Fenster-ins-Universum-10280006.html",
-      "image_title": "Optisches Modul des Neutrinoteleskops KM3NeT, das in das Backbone-Kabel integriert ist und eine Detektionseinheit bildet."
+      "title": "Bildungskrise 2025: Warum Deutschland seine Zukunft verschläft",
+      "teaser": "Im Wahlkampf dominiert Migration – dabei gibt es eine dramatische Bildungskrise. Studien zeigen: Das System versagt bei der Chancengleichheit. Was passiert, wenn wir jetzt nicht handeln?",
+      "url": "https://www.heise.de/tp/features/Bildungskrise-2025-Warum-Deutschland-seine-Zukunft-verschlaeft-10279553.html",
+      "image_title": "Euromünze mit Doktorhut mit ausgespartem grünem Segment"
     },
     {
-      "title": "Geschwisterforschung: Welches Kind wir bevorzugen",
-      "teaser": "Eltern haben oft ein Lieblingskind. Eine neue Studie mit 20.000 Teilnehmern zeigt klare Muster. Wer dabei besonders gut wegkommt – und was Eltern tun können.",
-      "url": "https://www.heise.de/tp/features/Geschwisterforschung-Welches-Kind-wir-bevorzugen-10279304.html"
+      "title": "Münchener Sicherheitskonferenz: Wenn der Schutz zur Bedrohung wird",
+      "teaser": "Die Nato-Staaten rüsten massiv auf. Deutschland soll fünf Prozent oder mehr des BIP fürs Militär ausgeben. Alles stützt sich auf eine Hoffnung.",
+      "url": "https://www.heise.de/tp/features/Muenchener-Sicherheitskonferenz-Wenn-der-Schutz-zur-Bedrohung-wird-10279520.html",
+      "image_title": "Erdkugel und Pfeile mit Atom-Signet von Europa nach Russland und in die andere Richtung"
     },
     {
-      "title": "Höhlenforscher finden weltweit größten unterirdischen Thermalsee in Albanien",
-      "teaser": "Im griechisch-albanischen Grenzgebiet stießen Forscher auf einen riesigen Thermalsee. Erste Vermessungen erfolgt. Die Höhlen der Region sind bislang nur wenig erforscht.",
-      "url": "https://www.heise.de/tp/features/Hoehlenforscher-finden-weltweit-groessten-unterirdischen-Thermalsee-in-Albanien-10279661.html",
-      "image_title": "Ein unterirdfischer See"
+      "title": "USA drohen mit Handelskrieg gegen EU-Nachhaltigkeitsregeln",
+      "teaser": "EU-Vorschriften zur Nachhaltigkeit sorgen in den USA für Unmut. Handelsminister Lutnick erwägt Gegenmaßnahmen zum Schutz amerikanischer Unternehmen.",
+      "url": "https://www.heise.de/tp/features/USA-drohen-mit-Handelskrieg-gegen-EU-Nachhaltigkeitsregeln-10279844.html",
+      "image_title": "Europäische und amerikanische Flaggen beim Europäischen Rat in Brüssel"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
