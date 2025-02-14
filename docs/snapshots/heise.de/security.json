@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-14T07:08:46",
+  "timestamp": "2025-02-14T08:12:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Lexmark",
+      "url": "https://www.heise.de/news/Lexmark-warnt-vor-Sicherheitsluecken-in-Drucker-Software-und-Firmware-10282090.html"
+    },
+    {
       "title": "Gitlab",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10281262.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Fortinet-schliesst-Sicherheitsluecken-in-diversen-Produkten-Angriffe-laufen-10279425.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Adobe-Patchday-Schadcode-Sicherheitsluecken-gefaehrden-Illustrator-Co-10279209.html"
+      "title": "Progress Telerik und Loadmaster stopfen hochriskante Sicherheitslücken",
+      "teaser": "In Loadmaster und Telerik von Progress hat der Hersteller hochriskante Schwachstellen entdeckt. Updates bessern sie aus.",
+      "url": "https://www.heise.de/news/Progress-Telerik-und-Loadmaster-stopfen-hochriskante-Sicherheitsluecken-10282137.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
+    },
+    {
+      "title": "Lexmark warnt vor Sicherheitslücken in Drucker-Software und -Firmware",
+      "teaser": "Lexmark hat Sicherheitslücken in Drucker-Firmware und Begleitsoftware gefunden. Updates stehen bereit, um sie zu schließen.",
+      "url": "https://www.heise.de/news/Lexmark-warnt-vor-Sicherheitsluecken-in-Drucker-Software-und-Firmware-10282090.html",
+      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "Cyberattacke auf die Universität der Bundeswehr München",
@@ -85,7 +97,8 @@
     {
       "title": "Deutschlandticket: Fahrkartenshop fliegt auf, Kunden werden zu Schwarzfahrern",
       "teaser": "Ein Online-Shop hat unter mysteriösen Umständen Fahrkarten verkauft, die jetzt ungültig sind. Viele Reisende fahren unwissentlich ohne gültiges Ticket.",
-      "url": "https://www.heise.de/news/Vorsicht-vor-ungueltigen-Deutschlandtickets-Schwarzfahrer-wider-Willen-10279694.html"
+      "url": "https://www.heise.de/news/Vorsicht-vor-ungueltigen-Deutschlandtickets-Schwarzfahrer-wider-Willen-10279694.html",
+      "image_title": "Handy auf dem man ein Deutschlandticket sieht"
     },
     {
       "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
@@ -151,18 +164,6 @@
       "teaser": "Auf der KI-Entwicklungsplattform Hugging Face haben IT-Forscher bösartige ML-Modelle entdeckt. Angreifer könnten damit Befehle einschleusen.",
       "url": "https://www.heise.de/news/Hugging-Face-Boesartige-ML-Modelle-auf-Entwicklungsplattform-aufgedeckt-10278387.html",
       "image_title": "Ein KI-Wurm schaut aus dem Display eines Laptops heraus"
-    },
-    {
-      "title": "Solarwinds: Update schließt teils kritische Lücken in Platform",
-      "teaser": "Solarwinds hat das Update 2025.1 von Solarwinds Platform veröffentlicht. Es schließt einige teilweise kritische Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Solarwinds-Update-schliesst-teils-kritische-Luecken-in-Platform-10278244.html",
-      "image_title": "Stilisiertes Bild: Ein Stapel brennender Appliances"
-    },
-    {
-      "title": "AMD schließt schwere Microcode-Sicherheitslücke – per Microcode-Update",
-      "teaser": "Bei Cloud-Servern mit Epyc-Prozessoren lässt sich die RAM-Verschlüsselung zur Abschottung virtueller Maschinen aushebeln. Erste Updates stehen bereit.",
-      "url": "https://www.heise.de/news/AMD-schliesst-schwere-Microcode-Sicherheitsluecke-per-Microcode-Update-10278175.html",
-      "image_title": "Server-CPU AMD Epyc 7763"
     },
     {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
