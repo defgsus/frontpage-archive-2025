@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-14T10:09:32",
+  "timestamp": "2025-02-14T11:07:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PostgreSQL",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Angreifer-koennen-PostgreSQL-Datenbanken-attackieren-10282360.html"
+    },
+    {
       "title": "Progress Telerik, Loadmaster",
       "url": "https://www.heise.de/news/Progress-Telerik-und-Loadmaster-stopfen-hochriskante-Sicherheitsluecken-10282137.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10281262.html"
     },
     {
-      "title": "Patchday Intel",
-      "url": "https://www.heise.de/news/Patchday-Intel-schliesst-kritische-Sicherheitsluecke-in-Fernwartungsfunktion-BMC-10280666.html"
+      "title": "Sicherheitslücke: Angreifer können PostgreSQL-Datenbanken attackieren",
+      "teaser": "Ein Sicherheitspatch schließt eine Schadcode-Lücke im Datenbankmanagementsystem PostgreSQL.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Angreifer-koennen-PostgreSQL-Datenbanken-attackieren-10282360.html"
     },
     {
       "title": "Progress Telerik und Loadmaster: Updates dichten Sicherheitslecks ab",
@@ -54,22 +59,16 @@
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
-      "title": "Lexmark warnt vor Sicherheitslücken in Drucker-Software und -Firmware",
-      "teaser": "Lexmark hat Sicherheitslücken in Drucker-Firmware und Begleitsoftware gefunden. Updates stehen bereit, um sie zu schließen.",
-      "url": "https://www.heise.de/news/Lexmark-warnt-vor-Sicherheitsluecken-in-Drucker-Software-und-Firmware-10282090.html",
-      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
-    },
-    {
       "title": "Cyberattacke auf die Universität der Bundeswehr München",
       "teaser": "Ein Rechenzentrum der Bundeswehr-Uni in München wurde Mitte Januar erfolgreich angegriffen. Das bestätigte die Bundeswehr am Abend auf Anfrage von heise online.",
       "url": "https://www.heise.de/news/Cyberattacke-auf-die-Universitaet-der-Bundeswehr-Muenchen-10281927.html",
       "image_title": "Hände am Laptop im Gegenlicht, Vordergrund im Dunklen"
     },
     {
-      "title": "Massiver Cyberangriff auf US-Provider: Attacken gehen immer noch weiter",
-      "teaser": "Im Herbst wurde der schlimmste Telekommunikationshack in der US-Geschichte entdeckt. Die Angreifer wurden noch nicht gestoppt, ganz im Gegenteil.",
-      "url": "https://www.heise.de/news/Massiver-Cyberangriff-auf-US-Provider-Attacken-gehen-immer-noch-weiter-10281222.html",
-      "image_title": "Bunte Ethernetkabel"
+      "title": "Codeberg: Spam- und DoS-Angriffe auf nichtkommerzielle Entwicklungsplattform",
+      "teaser": "Massenhafte Spam-Nachrichten, überlaufende E-Mail-Postfächer und verstopfte Internetleitungen: Anonyme Attacken plagen die gemeinnützige Github-Alternative.",
+      "url": "https://www.heise.de/news/Codeberg-Spam-und-DoS-Angriffe-auf-nichtkommerzielle-Entwicklungsplattform-10281324.html",
+      "image_title": "Codeberg wird angegriffen."
     },
     {
       "title": "Sicherheitslücken: Gitlab-Entwickler raten zu zügigem Update",
@@ -105,6 +104,11 @@
       "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10272731.html",
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
+    },
+    {
+      "title": "secIT 2025: Krisenmanagement – das muss nach einer Cyberattacke erledigt werden",
+      "teaser": "Wenn Angreifer im Firmennetzwerk Geschäftsdaten kopieren, ist effektives Handeln gefragt. Was dann zu erledigen ist, erfahren Admins auf der secIT 2025.",
+      "url": "https://www.heise.de/news/secIT-2025-Krisenmanagement-das-muss-nach-einer-Cyberattacke-erledigt-werden-10277533.html"
     },
     {
       "title": "Fortinet: Angriffe auf Schwachstellen laufen, Updates für diverse Produkte",
@@ -158,12 +162,6 @@
       "teaser": "Strafverfolgungsbehörden aus 14 Ländern haben vier Anführer der Ransomware-Gruppe 8Base festgenommen. Weltweit hat die Gruppe hohe Lösegeldsummen erpresst.",
       "url": "https://www.heise.de/news/8Base-Vier-Festnahmen-und-17-Server-in-Deutschland-beschlagnahmt-10278809.html",
       "image_title": "Banner von Europol, aus dem hervorgeht, dass die Leaksite von 8base beschlagnahmt wurde"
-    },
-    {
-      "title": "Hugging Face: Bösartige ML-Modelle auf Entwicklungsplattform aufgedeckt",
-      "teaser": "Auf der KI-Entwicklungsplattform Hugging Face haben IT-Forscher bösartige ML-Modelle entdeckt. Angreifer könnten damit Befehle einschleusen.",
-      "url": "https://www.heise.de/news/Hugging-Face-Boesartige-ML-Modelle-auf-Entwicklungsplattform-aufgedeckt-10278387.html",
-      "image_title": "Ein KI-Wurm schaut aus dem Display eines Laptops heraus"
     },
     {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
