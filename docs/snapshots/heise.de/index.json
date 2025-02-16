@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-16T07:07:51",
+  "timestamp": "2025-02-16T08:10:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Missing Link: Kampf dem Online-Schrotthandel!",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Kampf-dem-Online-Schrotthandel-10283080.html"
+    },
     {
       "title": "SpamBlocker: Werbeanrufe und Phishing-SMS datenschutzfreundlich blockieren",
       "url": "https://www.heise.de/ratgeber/SpamBlocker-Werbeanrufe-und-Phishing-SMS-datenschutzfreundlich-blockieren-10269435.html"
@@ -60,10 +64,6 @@
     {
       "title": "Online-Shopping: Wo und mit welchen Mitteln Sie gute Deals machen",
       "url": "https://www.heise.de/ratgeber/Online-Shopping-Wo-und-mit-welchen-Mitteln-Sie-gute-Deals-machen-10255832.html"
-    },
-    {
-      "title": "iX-Workshop IEC 62443: IT-Sicherheit in der Produktentwicklung",
-      "url": "https://www.heise.de/news/iX-Workshop-IEC-62443-IT-Sicherheit-in-der-Produktentwicklung-10282565.html"
     },
     {
       "title": "MSC 2025Wie viel Regulierung von Tech-Konzernen muss sein?",
@@ -182,19 +182,25 @@
       "image_title": "YouTube"
     },
     {
+      "title": "Missing Link: Kampf dem Online-Schrotthandel!",
+      "teaser": "Der Online-Fernhandel unterläuft Schutzstandards. Die Verbraucher sind selbst mit Schuld daran - die Politik muss sie dennoch wirksamer schützen.",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Kampf-dem-Online-Schrotthandel-10283080.html",
+      "image_title": "Beschlagnahmte Kartons und Produkte in einem Lager."
+    },
+    {
       "title": "SpamBlocker: Werbeanrufe und Phishing-SMS datenschutzfreundlich blockieren",
       "teaser": "Die Open-Source-App SpamBlocker schützt Android-Nutzer vor Spam-Anrufen und -SMS. Sie läuft auch auf Custom-ROMs und funktioniert ohne Internetverbindung.",
       "url": "https://www.heise.de/ratgeber/SpamBlocker-Werbeanrufe-und-Phishing-SMS-datenschutzfreundlich-blockieren-10269435.html"
     },
     {
-      "title": "Top 10: Die beste Überwachungskamera für innen im Test – Eufy vor TP-Link",
-      "teaser": "Bewegungsverfolgung, Geräuscherkennung, Linienüberschreitung – moderne Überwachungskameras haben einiges zu bieten. Wie gut sie in der Praxis funktionieren, zeigt unsere Liste der besten Überwachungskameras für Innenräume.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-ueberwachungskamera-fuer-innen-im-test/54fdpjs?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-4-auswahlkriterien-auflosung-zwei-wege-audio-gerauscherkennung-babyphone-smart-home-wlan"
-    },
-    {
       "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
       "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Die beste Überwachungskamera für innen im Test – Eufy vor TP-Link",
+      "teaser": "Bewegungsverfolgung, Geräuscherkennung, Linienüberschreitung – moderne Überwachungskameras haben einiges zu bieten. Wie gut sie in der Praxis funktionieren, zeigt unsere Liste der besten Überwachungskameras für Innenräume.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-ueberwachungskamera-fuer-innen-im-test/54fdpjs?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-4-auswahlkriterien-auflosung-zwei-wege-audio-gerauscherkennung-babyphone-smart-home-wlan"
     },
     {
       "title": "Auch die Geforce RTX 5070 Ti wird wohl knapp und teuer",
@@ -222,12 +228,6 @@
       "teaser": "Riesendisplays aus winzigen Leuchtdioden beherrschten die Hallen der Integrated Systems Europe. In Konferenzen soll KI künftig für echte Teilhabe sorgen.",
       "url": "https://www.heise.de/news/Integrated-Systems-Europe-Leuchtdioden-KI-und-Immersion-10283705.html",
       "image_title": "Großes LED-Display \"The Wall\" von Samsung"
-    },
-    {
-      "title": "Online-Shopping: Wo und mit welchen Mitteln Sie gute Deals machen",
-      "teaser": "Einkaufsclubs, Gutscheine, Cashback und vieles mehr: Wir zeigen Ihnen, wie Sie die Schnäppchenjagd mit Methode angehen und wo Sie wirklich etwas sparen.",
-      "url": "https://www.heise.de/ratgeber/Online-Shopping-Wo-und-mit-welchen-Mitteln-Sie-gute-Deals-machen-10255832.html",
-      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -291,6 +291,12 @@
       "title": "heise+ Jubiläumsangebot",
       "teaser": "Wir feiern 6 Jahre heise+ mit einem besonderen Angebot: Sichern Sie sich jetzt 12 Monate heise+ mit 50 % Rabatt und freuen Sie sich auf geballtes IT- und Tech-Wissen. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/jubilaeum?affiliateId=42425_HP000114_29626_3_57&wt_mc=intern.abo.plus.hp_2025_jubilaeum.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Online-Shopping: Wo und mit welchen Mitteln Sie gute Deals machen",
+      "teaser": "Einkaufsclubs, Gutscheine, Cashback und vieles mehr: Wir zeigen Ihnen, wie Sie die Schnäppchenjagd mit Methode angehen und wo Sie wirklich etwas sparen.",
+      "url": "https://www.heise.de/ratgeber/Online-Shopping-Wo-und-mit-welchen-Mitteln-Sie-gute-Deals-machen-10255832.html",
+      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "iX-Workshop IEC 62443: IT-Sicherheit in der Produktentwicklung",
@@ -362,14 +368,14 @@
       "image_title": "Ein Smartphone mit geöffneter Messaging-App in einer menschlichen Hand, auf dem Bildschirm ist verschwommen ein Chat zu sehen."
     },
     {
+      "title": "Bessere Cyberversicherung dank konsequenter Security-Strategie",
+      "teaser": "Eine Kombination aus UEM und SOAR bietet einen ganzheitlichen Schutz. Angenehmer Nebeneffekt: Das wirkt sich auch positiv auf die Prämien bei einer Cyberversicherung aus. In einem Webcast erfahren Sie, wie Sie sonst noch Anforderungen von Cyberversicherern erfüllen können.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/cyberversicherungen-und-uem-bessere-vertraege-dank-konsequenter-security-strategie-4828/?source=karussell%2F%3Fsource=hbsad-ersatz"
+    },
+    {
       "title": "UpdateNetflix tauchte in den USA erstmals in Apples TV-App auf",
       "teaser": "In Apples TV-App können verschiedene Abodienste in eine Übersicht integriert werden. Netflix gehört bislang nicht dazu. Und das bleibt wohl auch vorerst so.",
       "url": "https://www.heise.de/news/Netflix-taucht-in-den-USA-erstmals-in-Apples-TV-App-auf-10283419.html"
-    },
-    {
-      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
-      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
     },
     {
       "title": "Portfolio: Astrofotograf Stefan Liebermann",
@@ -419,12 +425,6 @@
       "title": "RAG mit deutschsprachigen Embedding-Modellen aufsetzen",
       "teaser": "RAG soll Dokumente gezielt und mit geringer Fehlerrate durchsuchen. Schon bei der Wahl des Embedding-Modells lassen sich wichtige Weichen stellen.",
       "url": "https://www.heise.de/ratgeber/RAG-mit-deutschsprachigen-Embedding-Modellen-aufsetzen-10231709.html"
-    },
-    {
-      "title": "SAP: Geschäftsdaten-Cloud für KI",
-      "teaser": "SAPs Business Data Cloud soll Daten aus unterschiedlichen Anwendungen auf einer semantischen Ebene zusammenführen – für nützlichere KI-Anwendungen.",
-      "url": "https://www.heise.de/news/SAP-Geschaeftsdaten-Cloud-fuer-KI-10283086.html",
-      "image_title": "SAP-Buchstaben an einem Glasgebäude"
     },
     {
       "title": "UpdateDelphi wird 30 Jahre alt – Totgesagte leben länger",
@@ -735,22 +735,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Ukraine-Konflikt: EU steht vor 3,1-Billionen-Dollar-Investition",
+      "teaser": "Trump und Putin planen Friedensgespräche zur Ukraine in Saudi-Arabien. Die EU wurde davon völlig überrascht. Was die Europäer nicht ahnten: Der Preis für den Frieden wird astronomisch.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Konflikt-EU-steht-vor-3-1-Billionen-Dollar-Investition-10281105.html",
+      "image_title": "Weiße Taube mit Blume und Peace-Symbol"
+    },
+    {
       "title": "Bundestagswahl 2025: Die Kunst des schönen Versprechens",
       "teaser": "Plakate zieren wieder Deutschlands Straßen. Die Parteien überbieten sich mit Versprechungen für eine bessere Zukunft. Doch wer glaubt noch woran – und warum?",
       "url": "https://www.heise.de/tp/features/Bundestagswahl-2025-Die-Kunst-des-schoenen-Versprechens-10280965.html",
       "image_title": "Wahlplakate zur Bundestagswahl 2025"
     },
     {
-      "title": "Battlefield Management: Wenn der Krieg zum Computerspiel wird",
-      "teaser": "Moderne Kriegsführung ähnelt immer mehr einem Computerspiel. Auf Bildschirmen verfolgen Soldaten Bewegungen von Drohnen und Truppen in Echtzeit.",
-      "url": "https://www.heise.de/tp/features/Battlefield-Management-Wenn-der-Krieg-zum-Computerspiel-wird-10281989.html",
-      "image_title": "KI-gernerierte Grafik zeigt Kriegsgerät, Panzer, Fahrzeuge, Flugzeuge und Drohnen, sowie Soladten auf einem Gefechtsfeld, in dessen Mitte ein computerähnliches Sechseck sitzt"
-    },
-    {
-      "title": "Warum dürfen deutsche Kinder nicht, was Kakao-Kinder müssen?",
-      "teaser": "In Deutschland ist Kinderarbeit seit 1960 verboten, doch Schokolade aus Kinderhand ist erlaubt. Große Konzerne profitieren von der Arbeit der Kinder in Westafrika. Warum diese Doppelmoral?",
-      "url": "https://www.heise.de/tp/features/Warum-duerfen-deutsche-Kinder-nicht-was-Kakao-Kinder-muessen-10281173.html",
-      "image_title": "Mistgabel und Krücke streichen Teddybären durch"
+      "title": "USAID und deutsche Medien: Wenn Desinformation viral geht",
+      "teaser": "Infografik auf X suggeriert, dass deutsche Medien Millionen von der US-Behörde erhalten. Die Zahlen scheinen nicht völlig unglaubwürdig. Dann kommen erste Zweifel auf.",
+      "url": "https://www.heise.de/tp/features/USAID-und-deutsche-Medien-Wenn-Desinformation-viral-geht-10283712.html",
+      "image_title": "Eine Hand mit US-Dollars vor dem Schriftzug USAID"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
