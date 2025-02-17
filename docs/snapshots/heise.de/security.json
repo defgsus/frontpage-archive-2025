@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-17T11:08:08",
+  "timestamp": "2025-02-17T12:17:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Winzip",
+      "url": "https://www.heise.de/news/Winzip-Sicherheitsluecke-ermoeglicht-Unterschieben-von-Schadcode-10284660.html"
+    },
+    {
       "title": "HP Laserdrucker",
       "url": "https://www.heise.de/news/HP-Laserdrucker-ermoeglichen-Codeschmuggel-durch-Postscript-Sicherheitsleck-10284208.html"
     },
@@ -44,11 +48,13 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Sonicwall-Angreifer-umgehen-Authentifizierung-von-Firewalls-10283899.html"
     },
     {
-      "title": "Palo Alto PAN-OS",
-      "url": "https://www.heise.de/news/Palo-Alto-PAN-OS-Exploit-Code-fuer-hochriskante-Luecke-aufgetaucht-10282742.html"
+      "title": "Winzip: Angreifer können durch Sicherheitsleck Schadcode einschleusen",
+      "teaser": "Eine Schwachstelle in Winzip ermöglicht Angreifern, mit manipulierten Archiven beliebigen Code einzuschleusen. Ein Update korrigiert das.",
+      "url": "https://www.heise.de/news/Winzip-Sicherheitsluecke-ermoeglicht-Unterschieben-von-Schadcode-10284660.html",
+      "image_title": "Eine ZIP-Datei öffnet sich und entlässt Malware auf dem Rechner"
     },
     {
-      "title": "Google Chrome: KI-Schutz vor Phishing-Websites & Co. ab sofort aktivierbar",
+      "title": "Safe Browsing: KI-Feature in Google Chrome ab sofort verfügbar",
       "teaser": "Das Surfen mit Chrome soll sicherer werden. Dabei spielt KI die zentrale Rolle. Der Schutz ist standardmäßig aber nicht aktiv.",
       "url": "https://www.heise.de/news/Google-Chrome-KI-Schutz-vor-Phishing-Websites-Co-ab-sofort-aktivierbar-10284604.html",
       "image_title": "Laptop installiert vor Servern, die verschlüsselt sind, davor ein Einbrecher, der Daten aus Google Chrome angelt"
@@ -156,12 +162,6 @@
       "teaser": "\"Die ICANN gibt dem Internet seine eigene Währung\", schallte es von einem offiziellen ICANN-Konto eines sozialen Netzes. Hinter \"$DNS\" stecken aber Kriminelle.",
       "url": "https://www.heise.de/news/ICANN-Opfer-von-Phishing-Online-Konto-fuer-Kryptowaehrungs-Reklame-missbraucht-10280537.html",
       "image_title": "Brennende Geldscheine"
-    },
-    {
-      "title": "Deutschlandticket: Fahrkartenshop fliegt auf, Kunden werden zu Schwarzfahrern",
-      "teaser": "Ein Online-Shop hat unter mysteriösen Umständen Fahrkarten verkauft, die jetzt ungültig sind. Viele Reisende fahren unwissentlich ohne gültiges Ticket.",
-      "url": "https://www.heise.de/news/Vorsicht-vor-ungueltigen-Deutschlandtickets-Schwarzfahrer-wider-Willen-10279694.html",
-      "image_title": "Handy auf dem man ein Deutschlandticket sieht"
     },
     {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
