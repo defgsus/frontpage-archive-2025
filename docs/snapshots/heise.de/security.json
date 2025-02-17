@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-17T07:09:59",
+  "timestamp": "2025-02-17T08:13:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HP Laserdrucker",
+      "url": "https://www.heise.de/news/HP-Laserdrucker-ermoeglichen-Codeschmuggel-durch-Postscript-Sicherheitsleck-10284208.html"
+    },
+    {
       "title": "iOS; iPadOS, Mitel SIP-Phone, PAN-OS",
       "url": "https://www.heise.de/news/Angreifer-attackieren-Sicherheitsluecken-in-iOS-Mitel-SIP-Phones-und-PAN-OS-10284172.html"
     },
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/Palo-Alto-PAN-OS-Exploit-Code-fuer-hochriskante-Luecke-aufgetaucht-10282742.html"
     },
     {
-      "title": "PostgreSQL",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-Angreifer-koennen-PostgreSQL-Datenbanken-attackieren-10282360.html"
-    },
-    {
-      "title": "Angreifer attackieren Sicherheitslücken in iOS, Mitel SIP-Phones und PAN-OS",
-      "teaser": "IT-Forscher haben Angriffe auf Sicherheitslücken in iPadOS, Mitel SIP-Phones und PAN-OS beobachtet. Updates dichten die Sicherheitslecks ab.",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Sicherheitsluecken-in-iOS-Mitel-SIP-Phones-und-PAN-OS-10284172.html",
-      "image_title": "\"Attack successful\"-Meldung auf Bildschirm"
+      "title": "HP-Laserdrucker ermöglichen Codeschmuggel durch Postscript-Sicherheitsleck",
+      "teaser": "In zahlreichen HP-Laserdruckern können Angreifer eine Lücke beim Verarbeiten von Postscript zum Einschleusen von Schadcode missbrauchen.",
+      "url": "https://www.heise.de/news/HP-Laserdrucker-ermoeglichen-Codeschmuggel-durch-Postscript-Sicherheitsleck-10284208.html",
+      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "Prorussischer DDoS-Angriff legt Internetseiten von Bayerns Staatsregierung lahm",
@@ -81,6 +81,11 @@
       "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive Abschlussprüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-Spezialwissen-fuer-KRITIS-Pruefverfahrenskompetenz-gemaess-8a-BSIG-10270595.html",
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
+    },
+    {
+      "title": "Palo Alto PAN-OS: Exploit-Code für hochriskante Lücke aufgetaucht",
+      "teaser": "Im Betriebssystem PAN-OS für Firewalls von Palo Alto Networks klaffen Sicherheitslücken. Für eine davon gibt es bereits Exploit-Code.",
+      "url": "https://www.heise.de/news/Palo-Alto-PAN-OS-Exploit-Code-fuer-hochriskante-Luecke-aufgetaucht-10282742.html"
     },
     {
       "title": "Sicherheitslücke: Attacken auf PostgreSQL-Clients möglich",
@@ -156,12 +161,6 @@
       "title": "secIT 2025: Krisenmanagement – das muss nach einer Cyberattacke erledigt werden",
       "teaser": "Wenn Angreifer im Firmennetzwerk Geschäftsdaten kopieren, ist effektives Handeln gefragt. Was dann zu erledigen ist, erfahren Admins auf der secIT 2025.",
       "url": "https://www.heise.de/news/secIT-2025-Krisenmanagement-das-muss-nach-einer-Cyberattacke-erledigt-werden-10277533.html"
-    },
-    {
-      "title": "Fortinet: Angriffe auf Schwachstellen laufen, Updates für diverse Produkte",
-      "teaser": "Fortinet hat für zahlreiche Produkte Sicherheitsupdates veröffentlicht. Mindestens eine Lücke wird bereits attackiert.",
-      "url": "https://www.heise.de/news/Fortinet-schliesst-Sicherheitsluecken-in-diversen-Produkten-Angriffe-laufen-10279425.html",
-      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
