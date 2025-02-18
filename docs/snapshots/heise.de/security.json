@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-18T08:12:27",
+  "timestamp": "2025-02-18T09:09:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Xerox Phaser, Versalink, Workcentre",
+      "url": "https://www.heise.de/news/Xerox-Versalink-Multifunktionsdrucker-geben-Zugangsdaten-preis-10285610.html"
+    },
+    {
       "title": "Brocade SANnav",
       "url": "https://www.heise.de/news/Brocade-SANnav-Angreifer-koennen-Zugangsdaten-durch-Sicherheitslecks-erlangen-10284859.html"
     },
@@ -44,8 +48,21 @@
       "url": "https://www.heise.de/news/HP-Laserdrucker-ermoeglichen-Codeschmuggel-durch-Postscript-Sicherheitsleck-10284208.html"
     },
     {
-      "title": "iOS; iPadOS, Mitel SIP-Phone, PAN-OS",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Sicherheitsluecken-in-iOS-Mitel-SIP-Phones-und-PAN-OS-10284172.html"
+      "title": "Onlinekonferenz zur NIS2-Regulierung: Was Unternehmen jetzt tun müssen",
+      "teaser": "NIS2 kommt dieses Jahr – Unternehmen müssen sich jetzt vorbereiten. In unserer Onlinekonferenz erfahren Sie, was zu tun ist. Frühbucherrabatt gibt es bis 28.2.",
+      "url": "https://www.heise.de/news/Onlinekonferenz-zur-NIS2-Regulierung-Was-Unternehmen-jetzt-tun-muessen-10282494.html"
+    },
+    {
+      "title": "Xerox Versalink: Multifunktionsdrucker geben Zugangsdaten preis",
+      "teaser": "In den Versalink-Multifunktionsdruckern von Xerox wurden Schwachstellen entdeckt, durch die Angreifer Zugangsdaten abgreifen können.",
+      "url": "https://www.heise.de/news/Xerox-Versalink-Multifunktionsdrucker-geben-Zugangsdaten-preis-10285610.html",
+      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
+    },
+    {
+      "title": "Secure Coding: Sichere Datenhaltung in der JVM – Risiken und Best Practices",
+      "teaser": "Vertrauliche Daten in der JVM absichern. Wie sich Heap-Dumps, Debugging und Speicherlecks gezielt verhindern lassen.",
+      "url": "https://www.heise.de/hintergrund/Secure-Coding-Sichere-Datenhaltung-in-der-JVM-Risiken-und-Best-Practices-10281133.html",
+      "image_title": "Mann zeigt auf Speicher Chip"
     },
     {
       "title": "iX-Workshop: Active Directory Hardening - Vom Audit zur sicheren Umgebung",
@@ -146,27 +163,15 @@
       "image_title": "Hände am Laptop im Gegenlicht, Vordergrund im Dunklen"
     },
     {
-      "title": "Massiver Cyberangriff auf US-Provider: Attacken gehen immer noch weiter",
-      "teaser": "Im Herbst wurde der schlimmste Telekommunikationshack in der US-Geschichte entdeckt. Die Angreifer wurden noch nicht gestoppt, ganz im Gegenteil.",
-      "url": "https://www.heise.de/news/Massiver-Cyberangriff-auf-US-Provider-Attacken-gehen-immer-noch-weiter-10281222.html",
-      "image_title": "Bunte Ethernetkabel"
-    },
-    {
-      "title": "Codeberg: Spam- und DoS-Angriffe auf nichtkommerzielle Entwicklungsplattform",
-      "teaser": "Massenhafte Spam-Nachrichten, überlaufende E-Mail-Postfächer und verstopfte Internetleitungen: Anonyme Attacken plagen die gemeinnützige Github-Alternative.",
-      "url": "https://www.heise.de/news/Codeberg-Spam-und-DoS-Angriffe-auf-nichtkommerzielle-Entwicklungsplattform-10281324.html",
-      "image_title": "Codeberg wird angegriffen."
-    },
-    {
-      "title": "Sicherheitslücken: Gitlab-Entwickler raten zu zügigem Update",
-      "teaser": "Gitlab ist unter anderem für DoS-Attacken anfällig. Außerdem können vertrauliche Informationen leaken.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10281262.html",
-      "image_title": "Frau zeigt mit ihrem Finger auf ein Update-Zeichen"
-    },
-    {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
       "teaser": "Wie bringe ich Struktur in meine AD-Sicherheit? Das Ebenenmodell und gesicherte Admin-Arbeitsplätze sind essenziell, aber oft schwierig umzusetzen. Unser Webinar vermittelt Ihnen praxisnahe Lösungen für Tiering, PAWs und Hybrid-IT – und zeigt, wie Sie das Clean-Source-Prinzip erfolgreich etablieren.",
       "url": "https://heise-academy.de/webinare/ad-tiering?wt_mc=intern.academy.security.web_ad.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "Secure Coding: Sichere Datenhaltung in der JVM – Risiken und Best Practices",
+      "teaser": "Vertrauliche Daten in der JVM absichern. Wie sich Heap-Dumps, Debugging und Speicherlecks gezielt verhindern lassen.",
+      "url": "https://www.heise.de/hintergrund/Secure-Coding-Sichere-Datenhaltung-in-der-JVM-Risiken-und-Best-Practices-10281133.html",
+      "image_title": "Mann zeigt auf Speicher Chip"
     },
     {
       "title": "Pandas im Sandsturm: Das Namenschaos des Cybercrime durchschauen",
@@ -178,12 +183,6 @@
       "teaser": "Jonas Franken von der TU Darmstadt erforscht die Resilienz kritischer Infrastrukturen. Er beschreibt Schritte zur Reparatur beschädigter Unterseekabel.",
       "url": "https://www.heise.de/hintergrund/Wie-man-Unterseekabel-repariert-Der-groesste-Aufwand-liegt-nicht-im-Bergen-10277568.html",
       "image_title": "Unterseekabel"
-    },
-    {
-      "title": "Secure Coding: Sicherere Passwörter mit Salt, Pepper und Hashing",
-      "teaser": "Sicherheit durch Passwort-Hashing ist unverzichtbar. Best Practices für den gezielten Einsatz von Salt und Pepper steigern das Schutzniveau weiter.",
-      "url": "https://www.heise.de/hintergrund/Secure-Coding-Sicherere-Passwoerter-mit-Salt-Pepper-und-Hashing-10274977.html",
-      "image_title": "Mann zeigt nach oben auf Verschlüsselungsmaschine"
     },
     {
       "title": "Re: Desinfect 2024/25 Teamviewer funktioniert nicht",
