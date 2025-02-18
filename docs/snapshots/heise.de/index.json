@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-18T03:12:29",
+  "timestamp": "2025-02-18T04:11:10",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "US-Urteil: Recht auf Autoreparatur ist nicht illegal",
+      "url": "https://www.heise.de/news/US-Urteil-Recht-auf-Autoreparatur-ist-nicht-illegal-10285516.html"
+    },
     {
       "title": "Hyundai zeigt Plan für Frachtschiff mit Nuklearantrieb",
       "url": "https://www.heise.de/news/Hyundai-will-atombetriebenen-Containerfrachter-bauen-10285438.html"
@@ -60,10 +64,6 @@
     {
       "title": "BSI-Bericht: Erhebliche Schwachstellen bei Fitness-Trackern & Co.",
       "url": "https://www.heise.de/news/BSI-Bericht-Erhebliche-Schwachstellen-bei-Fitness-Trackern-Co-10285313.html"
-    },
-    {
-      "title": "Humanoid zeigt seinen ersten humanoiden Roboter HMND 01",
-      "url": "https://www.heise.de/news/Humanoid-zeigt-seinen-ersten-humanoiden-Roboter-HMND-01-10285210.html"
     },
     {
       "title": "BSI Erhebliche Schwachstellen bei Fitness-Trackern & Co.",
@@ -184,21 +184,27 @@
       "image_title": "Beschlagnahmte Kartons und Produkte in einem Lager."
     },
     {
+      "title": "US-Urteil: Recht auf Autoreparatur ist nicht illegal",
+      "teaser": "Das Volk Massachusetts' hat ein Recht auf Zugriff auf ihre Autodaten für Reparaturzwecke beschlossen. Hersteller haben jahrelang dagegen prozessiert.",
+      "url": "https://www.heise.de/news/US-Urteil-Recht-auf-Autoreparatur-ist-nicht-illegal-10285516.html",
+      "image_title": "Autowerkstatt"
+    },
+    {
       "title": "Hyundai zeigt Plan für Frachtschiff mit Nuklearantrieb",
       "teaser": "Bis 2050 sollen Schiffe klimaneutral sein. Der südkoreanische Konzern will das mit einem Atomantrieb erreichen.",
       "url": "https://www.heise.de/news/Hyundai-will-atombetriebenen-Containerfrachter-bauen-10285438.html",
       "image_title": "Zeichnung eines atombetriebenen Containerfrachters"
     },
     {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Ray-Ban Meta Glasses: Massive Produktionssteigerung geplant",
       "teaser": "Die Ray-Ban Meta-Brille ist ein Verkaufshit. Der Hersteller will die Produktion auf 10 Millionen Stück pro Jahr erhöhen. Gerüchte gibt es um diverse Neuerungen.",
       "url": "https://www.heise.de/news/Ray-Ban-Meta-Glasses-Massive-Produktionssteigerung-geplant-10285498.html",
       "image_title": "Die von Ray Ban entworfenen AR-Brillen von Meta."
-    },
-    {
-      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
-      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Die besten Spiele für Nintendo Switch – Zelda, Mario, Pokémon & Co.",
@@ -229,12 +235,6 @@
       "image_title": "Leichte Sturmflut in Wilhelmshaven"
     },
     {
-      "title": "Humanoid zeigt seinen ersten humanoiden Roboter HMND 01",
-      "teaser": "Der humanoide Roboter HMND 01 soll in der Industrie arbeiten. Die Entwickler wollen ihn jedoch modular aufbauen.",
-      "url": "https://www.heise.de/news/Humanoid-zeigt-seinen-ersten-humanoiden-Roboter-HMND-01-10285210.html",
-      "image_title": "HMND 01 Roboter läuft Gang entlang."
-    },
-    {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
       "teaser": "Im Winter droht Schimmelgefahr. Wann Luftentfeuchter wirklich helfen und wie sie ins Smart Home integriert werden.",
       "url": "https://www.heise.de/ratgeber/Gegen-Feuchtigkeit-und-Schimmel-Elektrische-Luftentfeuchter-im-Test-10019764.html"
@@ -250,16 +250,17 @@
       "url": "https://www.heise.de/ratgeber/PV-Strom-auf-Mehrdamilienhaeusern-umsetzen-Wie-Mieter-und-Vermieter-profitieren-9998894.html"
     },
     {
-      "title": "Microsoft gibt auf: Windows 11 24H2-Update-Probleme nur manuell lösbar",
-      "url": "https://www.heise.de/news/Windows-11-24H2-Update-Probleme-Microsoft-gibt-bei-Loesungssuche-auf-10275867.html"
-    },
-    {
       "title": "Das Blatt hat sich gewendet: Kredite von Twitter-Übernahme ohne Verlust verkauft",
-      "url": "https://www.heise.de/news/Das-Blatt-hat-sich-gewendet-Kredite-von-Twitter-Uebernahme-ohne-Verlust-verkauft-10282147.html"
+      "url": "https://www.heise.de/news/Das-Blatt-hat-sich-gewendet-Kredite-von-Twitter-Uebernahme-ohne-Verlust-verkauft-10282147.html",
+      "image_title": "X-Logo und Musks Gesicht"
     },
     {
       "title": "Deutschlandticket: Fahrkartenshop fliegt auf, Kunden werden zu Schwarzfahrern",
       "url": "https://www.heise.de/news/Vorsicht-vor-ungueltigen-Deutschlandtickets-Schwarzfahrer-wider-Willen-10279694.html"
+    },
+    {
+      "title": "Elon Musk will Übernahmeangebot zurückziehen, wenn OpenAI gemeinnützig bleibt",
+      "url": "https://www.heise.de/news/Elon-Musk-will-Uebernahmeangebot-zurueckziehen-wenn-OpenAI-gemeinnuetzig-bleibt-10281718.html"
     },
     {
       "title": "DeepSeek ohne China-Verbindung testen: Chatbot lokal installieren und ausführen",
@@ -296,6 +297,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Humanoid zeigt seinen ersten humanoiden Roboter HMND 01",
+      "teaser": "Der humanoide Roboter HMND 01 soll in der Industrie arbeiten. Die Entwickler wollen ihn jedoch modular aufbauen.",
+      "url": "https://www.heise.de/news/Humanoid-zeigt-seinen-ersten-humanoiden-Roboter-HMND-01-10285210.html",
+      "image_title": "HMND 01 Roboter läuft Gang entlang."
     },
     {
       "title": "Studie zu Magnetschwebebahn in Nürnberg fehlt – Finanzierung auch nicht geklärt",
@@ -366,15 +373,15 @@
       "image_title": ","
     },
     {
+      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
+      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
+    },
+    {
       "title": "Kreditkartendaten und Phishing-Mails: KI-Agenten überlisten leicht gemacht",
       "teaser": "Forscher haben KI-Agenten getestet. Die Assistenten sind offenbar gegen kein noch so einfaches Angriffsszenario gewappnet.",
       "url": "https://www.heise.de/news/Kreditkartendaten-und-Phishing-Mails-KI-Agenten-ueberlisten-leicht-gemacht-10284588.html",
       "image_title": "Wolke über Kopf mit Schriftzug \"AI\""
-    },
-    {
-      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
-      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
     },
     {
       "title": "Mehr Details zu neuen Apple-Monitoren: Studio Display ja, Pro Display nein",
@@ -431,56 +438,52 @@
       "image_title": "Siri mit Apple Intelligence"
     },
     {
-      "title": "C++26: Ein Lock-freier Stack mit Atomic Smart Pointer",
-      "teaser": "Der einfachste Weg, das in einem früheren Beitrag beschriebene Speicherleck zu beheben, ist die Verwendung eines std::shared_ptr.",
-      "url": "https://www.heise.de/blog/C-26-Ein-Lock-freier-Stack-mit-Atomic-Smart-Pointer-10282847.html",
-      "image_title": "Holzwürfel mit dem Schriftzug C++"
+      "title": "AlertAngriffe auf Sicherheitslücken in iOS, iPadOS, Mitel SIP-Phones und PAN-OS",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-Sicherheitsluecken-in-iOS-Mitel-SIP-Phones-und-PAN-OS-10284172.html",
+      "image_title": "\"Attack successful\"-Meldung auf Bildschirm"
     },
     {
-      "title": "Intel-Aktie schießt nach TSMC-Gerüchten hoch",
-      "url": "https://www.heise.de/news/Intel-Aktie-schiesst-nach-TSMC-Geruechten-hoch-10283411.html",
-      "image_title": "Wafer mit Meteor-Lake-Dies"
+      "title": "Prorussischer DDoS-Angriff legt Internetseiten von Bayerns Staatsregierung lahm",
+      "url": "https://www.heise.de/news/Prorussischer-DDoS-Angriff-legt-Internetseiten-von-Bayerns-Staatsregierung-lahm-10284158.html",
+      "image_title": "Verschwommene Hände an Tastatur"
     },
     {
-      "title": "Waterworth: Meta will das längste Unterseekabel der Welt bauen",
-      "url": "https://www.heise.de/news/Waterworth-Meta-will-das-laengste-Unterseekabel-der-Welt-bauen-10283882.html",
-      "image_title": "Unterseekabel"
+      "title": "AlertHP-Laserdrucker ermöglichen Codeschmuggel durch Postscript-Sicherheitsleck",
+      "url": "https://www.heise.de/news/HP-Laserdrucker-ermoeglichen-Codeschmuggel-durch-Postscript-Sicherheitsleck-10284208.html",
+      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
-      "title": "Humanoide Roboter erobern das Silicon Valley",
-      "url": "https://www.heise.de/news/Humanoide-Roboter-erobern-das-Silicon-Valley-10283645.html",
-      "image_title": "Meta"
+      "title": "Google-Kalender zeigt keine Geburtstage mehr an",
+      "url": "https://www.heise.de/ratgeber/Google-Kalender-zeigt-keine-Geburtstage-mehr-an-9687169.html"
+    },
+    {
+      "title": "Terminal-Emulator Ghostty im Test",
+      "url": "https://www.heise.de/tests/Terminal-Emulator-Ghostty-im-Test-10274548.html",
+      "image_title": ","
     },
     {
       "title": "Gleichzeitige WireGuard-Verbindungen",
       "url": "https://www.heise.de/ratgeber/Gleichzeitige-WireGuard-Verbindungen-10269892.html"
     },
     {
-      "title": "Jetzt in der Make 1/25: Toniebox entfesseln",
-      "url": "https://www.heise.de/news/Jetzt-in-der-Make-1-25-Toniebox-entfesseln-10281376.html"
+      "title": "USB-C bei iPhone und Mac absichern: MDM-Admins dürfen Sicherheit reduzieren",
+      "url": "https://www.heise.de/news/USB-C-bei-iPhone-und-Mac-absichern-MDM-Admins-duerfen-Sicherheit-reduzieren-10279840.html",
+      "image_title": "iPhone 15 mit USB-C-Port"
     },
     {
-      "title": "UBTech zeigt humanoiden Roboter Una in Form einer Frau",
-      "url": "https://www.heise.de/news/UBTech-zeigt-humanoiden-Roboter-Una-in-Form-einer-Frau-10279125.html",
-      "image_title": "Roboter Una"
+      "title": "Datenschutzbedenken: Nach Italien verbietet auch Südkorea DeepSeek",
+      "url": "https://www.heise.de/news/Datenschutzbedenken-Nach-Italien-verbietet-auch-Suedkorea-DeepSeek-10284146.html",
+      "image_title": "Handybildschirm mit DeepSeeks Logo"
     },
     {
-      "title": "Core Ultra 300: Panther Lake soll weniger Kerne, aber mehr Abwärme bekommen",
-      "url": "https://www.heise.de/news/Core-Ultra-300-Panther-Lake-soll-weniger-Kerne-aber-mehr-Abwaerme-bekommen-10283724.html"
+      "title": "Falsche Antworten: Amazons KI-Alexa muss erneut verschoben werden",
+      "url": "https://www.heise.de/news/Falsche-Antworten-Amazons-KI-Alexa-muss-erneut-verschoben-werden-10284241.html",
+      "image_title": "Alexa-Lautsprecher auf Holztisch"
     },
     {
-      "title": "iPhone SE 4 voraus: Tim Cook macht Ankündigung für den 19. Februar",
-      "url": "https://www.heise.de/news/iPhone-SE-4-voraus-Launch-wohl-am-19-Februar-10281750.html",
-      "image_title": "iPhone 14 Vorder- und Rueckseite"
-    },
-    {
-      "title": "WhatsApp führt neue Chatdesigns ein",
-      "url": "https://www.heise.de/news/WhatsApp-fuehrt-neue-Chatdesigns-ein-10282604.html",
-      "image_title": "Auswahl der neuen Chatdesigns in WhatsApp"
-    },
-    {
-      "title": "DeepSeek unzensiert (und lokal)",
-      "url": "https://www.heise.de/news/DeepSeek-unzensiert-und-lokal-10283345.html"
+      "title": "20 Jahre Youtube: Die Deutschen stehen auf Bildung",
+      "url": "https://www.heise.de/hintergrund/20-Jahre-Youtube-Virale-Videos-und-deutsche-Bildung-10281308.html",
+      "image_title": "Der Schreibtisch eines Video-Creators."
     },
     {
       "title": "\"Anno 117\": Anmeldung für Beta-Test jetzt möglich",
@@ -488,8 +491,13 @@
       "image_title": "Screenshot aus \"Anno 117\""
     },
     {
-      "title": "Regenbogen-Eis und in US-Flaggen gehüllte Hunde: Die Bilder der Woche KW 6",
-      "url": "https://www.heise.de/news/Regenbogen-Eis-und-in-US-Flaggen-gehuellte-Hunde-Die-Bilder-der-Woche-KW-6-10282011.html"
+      "title": "DeepSeek unzensiert (und lokal)",
+      "url": "https://www.heise.de/news/DeepSeek-unzensiert-und-lokal-10283345.html"
+    },
+    {
+      "title": "Argentinien: Präsident Milei bewirbt Memecoin vor deren Kollaps",
+      "url": "https://www.heise.de/news/Argentinien-Scharfe-Kritik-an-Praesident-Milei-nach-Werbung-fuer-Memecoin-10284220.html",
+      "image_title": "Stock,Markets,Down,Chart,On,Grid,Background.,Abstract,Concept,Of"
     },
     {
       "title": "CPU-Marktanteile: AMD legt vor allem bei Desktop-CPUs zu",
@@ -500,13 +508,9 @@
       "url": "https://www.heise.de/news/Broadcom-weiter-an-Uebernahme-von-Intels-Chip-Entwicklung-interessiert-10283937.html"
     },
     {
-      "title": "Seagate will Zulieferer aller Festplattenhersteller übernehmen",
-      "url": "https://www.heise.de/news/Festplatten-Seagate-will-wichtigen-Zulieferer-aufkaufen-10282998.html",
-      "image_title": "Zwei offene Festplatten nebeneinander"
-    },
-    {
-      "title": "MSC 2025: Wie viel Regulierung von Tech-Konzernen muss sein?",
-      "url": "https://www.heise.de/news/MSC-2025-Wie-viel-Regulierung-von-Tech-Konzernen-muss-sein-10283788.html"
+      "title": "Waterworth: Meta will das längste Unterseekabel der Welt bauen",
+      "url": "https://www.heise.de/news/Waterworth-Meta-will-das-laengste-Unterseekabel-der-Welt-bauen-10283882.html",
+      "image_title": "Unterseekabel"
     },
     {
       "title": "Nachdem KI-generiertes Video viral geht: Scarlett Johansson fordert Regulierung",
@@ -518,17 +522,17 @@
       "url": "https://www.heise.de/news/Cybersicherheit-in-Kriegszeiten-Taeglich-ist-Tag-Null-10283051.html"
     },
     {
+      "title": "Montag: Diebstahlschutz für Supercharger, BMWs schnellere Elektro-Kurvenfahrten",
+      "url": "https://www.heise.de/news/Montag-Diebstahlschutz-fuer-Supercharger-BMWs-schnellere-Elektro-Kurvenfahrten-10284140.html",
+      "image_title": "Tesla-Elektroautos an Ladestation; Montag: Tesla-Diebstahlschutz, BMW-Fahrcomputer, AMD-Marktanteile, Thermomix-Neuheit & Fernhandel-Schutz"
+    },
+    {
       "title": "Apple-Photoshop und Nikons Z-Red – die Fotonews der Woche 7/2025",
       "url": "https://www.heise.de/news/Apple-Photoshop-und-Nikons-Z-Red-die-Fotonews-der-Woche-7-2025-10284022.html"
     },
     {
-      "title": "Dranbleiben mit Habit-Tracking-Apps | c’t uplink",
-      "url": "https://www.heise.de/news/Dranbleiben-mit-Habit-Tracking-Apps-c-t-uplink-10282754.html"
-    },
-    {
-      "title": "#TGIQF - Das Quiz rund um YouTube",
-      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-YouTube-10282746.html",
-      "image_title": "YouTube"
+      "title": "Trumps neue Erlasse: Freibrief für Tiktok, DOGE verpufft",
+      "url": "https://www.heise.de/news/Trumps-neue-Erlasse-Freibrief-fuer-Tiktok-DOGE-verpufft-10249771.html"
     },
     {
       "title": "Live Fragen stellenheise+ Expertentalk: Jobs in der IT-Branche",
@@ -575,26 +579,26 @@
       "url": "https://www.heise.de/multimediadatei/KI-Gipfel-in-Paris-iCloud-in-UK-20-Jahre-Google-Maps-heiseshow-10281892.html"
     },
     {
-      "title": "JetBrains stops own IDE plans: Kotlin multiplatform development in focus",
-      "url": "https://www.heise.de/en/news/JetBrains-stops-own-IDE-plans-Kotlin-multiplatform-development-in-focus-10282312.html",
-      "image_title": "Stylized man with wrench"
-    },
-    {
       "title": "\"Anno 117\": Registration for beta test now open",
       "url": "https://www.heise.de/en/news/Anno-117-Registration-for-beta-test-now-open-10277611.html",
       "image_title": "Screenshot aus \"Anno 117\""
     },
     {
-      "title": "Analyst: Apple's Studio Display 2 finally arrives – with new features",
-      "url": "https://www.heise.de/en/news/Analyst-Apple-s-Studio-Display-2-finally-arrives-with-new-features-10282570.html"
+      "title": "JetBrains stops own IDE plans: Kotlin multiplatform development in focus",
+      "url": "https://www.heise.de/en/news/JetBrains-stops-own-IDE-plans-Kotlin-multiplatform-development-in-focus-10282312.html",
+      "image_title": "Stylized man with wrench"
     },
     {
-      "title": "Uncomplicated Arch Linux: EndeavourOS Mercury released",
-      "url": "https://www.heise.de/en/news/Uncomplicated-Arch-Linux-EndeavourOS-Mercury-released-10280382.html"
+      "title": "Meta's head of AI: Yann LeCun does not believe in the future of generative AI",
+      "url": "https://www.heise.de/en/news/Meta-s-head-of-AI-Yann-LeCun-does-not-believe-in-the-future-of-generative-AI-10276181.html"
     },
     {
-      "title": "Broadcom still interested in taking over Intel's chip development",
-      "url": "https://www.heise.de/en/news/Broadcom-still-interested-in-taking-over-Intel-s-chip-development-10283950.html"
+      "title": "Patch Sonicwall now! Attackers bypass authentication of firewalls",
+      "url": "https://www.heise.de/en/news/Patch-Sonicwall-now-Attackers-bypass-authentication-of-firewalls-10283906.html"
+    },
+    {
+      "title": "Security vulnerability: Attackers can attack PostgreSQL databases",
+      "url": "https://www.heise.de/en/news/Security-vulnerability-Attackers-can-attack-PostgreSQL-databases-10282685.html"
     },
     {
       "title": "Blockadekonzepte: Unerwünschte Internetdienste und Server sperren",
@@ -603,21 +607,14 @@
       "image_title": ", KI, Collage c’t"
     },
     {
-      "title": "Telekom behebt Störung an DSL-Leitung monatelang nicht",
-      "teaser": "Versorgung mit schnellem Internet ist heutzutage fast so wichtig wie mit Energie. Deshalb müssen die Unternehmen Störungen so rasch wie möglich beseitigen.",
-      "url": "https://www.heise.de/ratgeber/Telekom-behebt-Stoerung-an-DSL-Leitung-monatelang-nicht-10280196.html",
-      "image_title": ","
+      "title": "Core Ultra 300: Panther Lake to get fewer cores but more waste heat",
+      "teaser": "Rumor mongers are getting excited about Intel's upcoming Panther Lake processor generation.",
+      "url": "https://www.heise.de/en/news/Core-Ultra-300-Panther-Lake-to-get-fewer-cores-but-more-waste-heat-10283773.html"
     },
     {
       "title": "c't-Workshop: Effiziente DHCP-Verwaltung mit Kea",
       "teaser": "Der zweitägige Workshop vermittelt System-Administratoren, wie sie den modernen DHCP-Server Kea einrichten, konfigurieren und bestehende Setups migrieren.",
       "url": "https://www.heise.de/news/c-t-Workshop-Effiziente-DHCP-Verwaltung-mit-Kea-10280631.html"
-    },
-    {
-      "title": "AusprobiertAirPods Max gegen die Top-Konkurrenz",
-      "teaser": "Lohnt sich der Umstieg von den AirPods Max zum Wettbewerb, wenn man bereits im Apple-Ökosystem unterwegs ist?",
-      "url": "https://www.heise.de/ratgeber/Ausprobiert-AirPods-Max-gegen-die-Topkonkurrenten-von-Bose-Sonos-und-Sony-10259284.html",
-      "image_title": "Sony, Sonos und Bose treten gegen Apples AirPods Max an"
     },
     {
       "title": "Grundlagen von Wi-Fi 7: So funktioniert der neue WLAN-Standard",
@@ -626,10 +623,16 @@
       "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
     },
     {
-      "title": "Powerbeats Pro 2 im Test: Hören aufs Herz",
-      "teaser": "Die In-Ears von Beats halten sicher im Ohr und bieten aktive Geräuschunterdrückung sowie Herzfrequenzmessung – ein Novum in Apples Kopfhörer-Portfolio.",
-      "url": "https://www.heise.de/tests/Powerbeats-Pro-2-im-Test-Hoeren-aufs-Herz-10278487.html",
-      "image_title": "PowerBeats Pro 2 liegt auf dem Tisch vor einem Ladekästchen"
+      "title": "Router mit Wi-Fi 7 und 6 GHz ausprobiert: Was es für Apple-Anwender bringt",
+      "teaser": "Der Funkstandard Wi-Fi 7 verspricht mehr Geschwindigkeit und Stabilität im Heimnetz. Wir prüfen, wie stark Apple-Geräte von solchen Access Points profitieren.",
+      "url": "https://www.heise.de/ratgeber/Router-mit-Wi-Fi-7-und-6-GHz-ausprobiert-Was-es-fuer-Apple-Anwender-bringt-10268960.html",
+      "image_title": "AVM Fritzbox 5690 Pro mit Wi-Fi 7"
+    },
+    {
+      "title": "AusprobiertAirPods Max gegen die Top-Konkurrenz",
+      "teaser": "Lohnt sich der Umstieg von den AirPods Max zum Wettbewerb, wenn man bereits im Apple-Ökosystem unterwegs ist?",
+      "url": "https://www.heise.de/ratgeber/Ausprobiert-AirPods-Max-gegen-die-Topkonkurrenten-von-Bose-Sonos-und-Sony-10259284.html",
+      "image_title": "Sony, Sonos und Bose treten gegen Apples AirPods Max an"
     },
     {
       "title": "UpdateDietPi: Linux-Alternative für Single-Board-Computer bringt neue RISC-V-Images",
@@ -638,16 +641,20 @@
       "image_title": "DietPi 9.10 auf Starfive Visionfive 2"
     },
     {
+      "title": "Jetzt in der Make 1/25: Toniebox entfesseln",
+      "teaser": "Wie man seine Toniebox mit eigenen Inhalten bespielt und günstig mit NFC-Tags steuert, zeigen wir in der Make 1/25.",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-1-25-Toniebox-entfesseln-10281376.html"
+    },
+    {
       "title": "Berliner Forschungsgruppe entwickelt 3D-Druckverfahren für keramisches Material",
       "teaser": "Keramische Materialien haben attraktive Eigenschaften für viele Anwendungen, sind aber nur schwer zu verarbeiten. Ein neues 3D-Druckverfahren soll das ändern.",
       "url": "https://www.heise.de/news/Berliner-Forschungsgruppe-entwickelt-3D-Druckverfahren-fuer-keramisches-Material-10281514.html",
       "image_title": "3D-gedruckte Modelle eines Mondautos und einer Mondlandefähre"
     },
     {
-      "title": "Ubuntu für WSL in neuer TAR-Version – Perfekt für individuelle Setups",
-      "teaser": "WSL wird unabhängiger vom Microsoft Store: Ubuntu kann jetzt als TAR-Archiv installiert und angepasst werden.",
-      "url": "https://www.heise.de/news/Ubuntu-fuer-WSL-in-neuer-TAR-Version-Perfekt-fuer-individuelle-Setups-10280138.html",
-      "image_title": "Man sieht Fenster mit den Eingabeterminals von Ubuntu auf einem Windows 11 Desktop."
+      "title": "Regenbogen-Eis und in US-Flaggen gehüllte Hunde: Die Bilder der Woche KW 6",
+      "teaser": "Auch diese Woche fangen unsere Galeriefotografen vielfältige Motive ein – von Eismustern über Hunde in US-Flaggen bis zur beeindruckender Natur.",
+      "url": "https://www.heise.de/news/Regenbogen-Eis-und-in-US-Flaggen-gehuellte-Hunde-Die-Bilder-der-Woche-KW-6-10282011.html"
     },
     {
       "title": "BildbearbeitungPhotoshop-Alternative Pixelmator Pro gehört jetzt Apple",
@@ -665,11 +672,6 @@
       "teaser": "Fließende Gewässer bahnen sich ihren Weg durch die Natur – vom Rinnsal bis zum Strom. Mark Robertz weiß, wie man alle Facetten von Flüssen gekonnt fotografiert.",
       "url": "https://www.heise.de/ratgeber/Landschaftsfotografie-Wie-Sie-Fliessgewaesser-fotografieren-10236406.html",
       "image_title": "Sie sind selten geworden, die Wasserläufe, die einen Hauch von Wildnis mit sich bringen. Einst durchströmten sie das Land und versorgten es mit allen lebensnotwendigen Stoffen., Alle Bilder: Mark Robertz"
-    },
-    {
-      "title": "FotonewsNeue Mondkamera und OM-Festival",
-      "teaser": "OM stärkt MFT, Nikons P1100 ist neu, noch neuer ein 35mm f/1.2.",
-      "url": "https://www.heise.de/news/Nikons-Mondkamera-neu-aufgelegt-und-OM-Festival-die-Fotonews-der-Woche-6-2025-10275428.html"
     },
     {
       "title": "DeepSeek-R1: Die Technik hinter dem Hype",
@@ -745,22 +747,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "KI: Vertrauen in den Menschen – oder ein gefährlicher Irrglaube?",
-      "teaser": "KI soll Menschen nicht ersetzen, heißt es oft. Der Mensch müsse stets die finale Kontrolle behalten. Doch neue Studien zeigen: Das könnte ein fataler Irrtum sein.",
-      "url": "https://www.heise.de/tp/features/KI-Vertrauen-in-den-Menschen-oder-ein-gefaehrlicher-Irrglaube-10282781.html",
-      "image_title": "KI-gesteuertes Lämpchen zeigt nach rechts, Hand zeigt nach links"
-    },
-    {
       "title": "Kernkraft-Debakel: EDF-Pläne für sechs neue Reaktoren stoßen auf Kritik",
       "teaser": "Französischer Atomkonzern EDF will sechs neue Reaktoren bauen. Doch die Pläne stoßen auf Kritik. Kostenschätzungen zu ungenau, Reaktorkonzepte nicht ausgereift.",
       "url": "https://www.heise.de/tp/features/Kernkraft-Debakel-EDF-Plaene-fuer-sechs-neue-Reaktoren-stossen-auf-Kritik-10284895.html",
       "image_title": "Ansicht des EDF-Schildes (Electricité de France) am Eingang des Kernkraftwerks von Nogent-sur-Seine und der beiden Kühltürme aus der Froschperspektive."
     },
     {
-      "title": "Mehrfachdrohnenwerfer: Neue Superwaffe der modernen Kriegsführung",
-      "teaser": "Weltweit entwickeln Länder Fahrzeuge, die Dutzende Drohnen gleichzeitig starten können. Diese Mehrfachdrohnenwerfer könnten die Zukunft des Krieges drastisch verändern.",
-      "url": "https://www.heise.de/tp/features/Mehrfachdrohnenwerfer-Neue-Superwaffe-der-modernen-Kriegsfuehrung-10283923.html",
-      "image_title": "Ki-generiertes Bild von Mehrfachdrohnenwerfern zeigt Lastwagen und Drohnen sowie Raketen"
+      "title": "Kellogg-Plan in Umsetzung? Trump und Putin am Telefon, EU im Abseits",
+      "teaser": "Trump und Putin telefonieren über den Ukraine-Krieg, in Europa schrillen die Alarmglocken. Welche Einblicke der Kellogg-Plan in die Zukunft gibt. Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Kellogg-Plan-in-Umsetzung-Trump-und-Putin-am-Telefon-EU-im-Abseits-10283379.html",
+      "image_title": "Ein russisches und ein US-Flugzeug"
+    },
+    {
+      "title": "Russlands langer Weg zum (erneuten) eigenständigen Flugzeugbau",
+      "teaser": "Russlands Luftfahrtindustrie will sich von westlicher Abhängigkeit befreien. Doch der Weg zu eigenen Jets ist beschwerlich. Diesen Sommer soll der Durchbruch gelingen.",
+      "url": "https://www.heise.de/tp/features/Russlands-langer-Weg-zum-erneuten-eigenstaendigen-Flugzeugbau-10279906.html"
     },
     {
       "title": "GetResponse KI Online-Kurs-Plattform im Test",
