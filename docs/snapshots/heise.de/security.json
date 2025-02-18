@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-18T10:09:51",
+  "timestamp": "2025-02-18T11:07:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell BIOS, NetWorker",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-BIOS-und-NetWorker-Luecke-geschlossen-10285948.html"
+    },
+    {
       "title": "Xerox Phaser, Versalink, Workcentre",
       "url": "https://www.heise.de/news/Xerox-Versalink-Multifunktionsdrucker-geben-Zugangsdaten-preis-10285610.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Winzip-Sicherheitsluecke-ermoeglicht-Unterschieben-von-Schadcode-10284660.html"
     },
     {
-      "title": "HP Laserdrucker",
-      "url": "https://www.heise.de/news/HP-Laserdrucker-ermoeglichen-Codeschmuggel-durch-Postscript-Sicherheitsleck-10284208.html"
+      "title": "XCSSET: macOS-Malware ist wieder aktiv",
+      "teaser": "Einige Zeit war es ruhig um die Mac-Malware XCSSET. Nun hat Microsoft neue aktive Varianten entdeckt, die Xcode-Projekte befallen.",
+      "url": "https://www.heise.de/news/XCSSET-macOS-Malware-ist-wieder-aktiv-10285697.html",
+      "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
+    },
+    {
+      "title": "Sicherheitsupdates Dell: BIOS- und NetWorker-Lücke geschlossen",
+      "teaser": "Angreifer können Dell-PCs und -Software attackieren. Im schlimmsten Fall kann Schadcode auf Geräte gelangen. Ein Patch ist aber bislang nicht verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-BIOS-und-NetWorker-Luecke-geschlossen-10285948.html"
     },
     {
       "title": "\"PirateFi\": Valve entfernt infiziertes Free2Play-Spiel",
@@ -149,18 +160,6 @@
       "title": "Sicherheitslücke: Attacken auf PostgreSQL-Clients möglich",
       "teaser": "Ein Patch schließt eine Schadcode-Lücke, die unter bestimmten Voraussetzungen für Clients mit Zugriff auf Postgre-SQL-Datenbanken gefährlich werden kann.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Angreifer-koennen-PostgreSQL-Datenbanken-attackieren-10282360.html"
-    },
-    {
-      "title": "Progress Telerik und Loadmaster: Updates dichten Sicherheitslecks ab",
-      "teaser": "In Loadmaster und Telerik von Progress hat der Hersteller hochriskante Schwachstellen entdeckt. Updates bessern sie aus.",
-      "url": "https://www.heise.de/news/Progress-Telerik-und-Loadmaster-stopfen-hochriskante-Sicherheitsluecken-10282137.html",
-      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
-    },
-    {
-      "title": "Lexmark warnt vor Sicherheitslücken in Drucker-Software und -Firmware",
-      "teaser": "Lexmark hat Sicherheitslücken in Drucker-Firmware und Begleitsoftware gefunden. Updates stehen bereit, um sie zu schließen.",
-      "url": "https://www.heise.de/news/Lexmark-warnt-vor-Sicherheitsluecken-in-Drucker-Software-und-Firmware-10282090.html",
-      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
