@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-18T04:11:10",
+  "timestamp": "2025-02-18T05:09:24",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "EuGH bestätigt: Datenschutz-Strafen können am Konzernumsatz bemessen werden",
+      "url": "https://www.heise.de/news/EuGH-bestaetigt-Datenschutz-Strafen-koennen-am-Konzernumsatz-bemessen-werden-10285532.html"
+    },
     {
       "title": "US-Urteil: Recht auf Autoreparatur ist nicht illegal",
       "url": "https://www.heise.de/news/US-Urteil-Recht-auf-Autoreparatur-ist-nicht-illegal-10285516.html"
@@ -60,10 +64,6 @@
     {
       "title": "Sturmflut-KI: Machine Learning kann beim Küstenschutz helfen",
       "url": "https://www.heise.de/news/Sturmflut-KI-Machine-Learning-kann-beim-Kuestenschutz-helfen-10285327.html"
-    },
-    {
-      "title": "BSI-Bericht: Erhebliche Schwachstellen bei Fitness-Trackern & Co.",
-      "url": "https://www.heise.de/news/BSI-Bericht-Erhebliche-Schwachstellen-bei-Fitness-Trackern-Co-10285313.html"
     },
     {
       "title": "BSI Erhebliche Schwachstellen bei Fitness-Trackern & Co.",
@@ -184,21 +184,27 @@
       "image_title": "Beschlagnahmte Kartons und Produkte in einem Lager."
     },
     {
+      "title": "EuGH bestätigt: Datenschutz-Strafen können am Konzernumsatz bemessen werden",
+      "teaser": "Datenschutzstrafen für angeklagte Unternehmen dürfen sich am Konzernumsatz orientieren, nicht nur am Umsatz des straffälligen Betriebs. Auch vor Strafgerichten.",
+      "url": "https://www.heise.de/news/EuGH-bestaetigt-Datenschutz-Strafen-koennen-am-Konzernumsatz-bemessen-werden-10285532.html",
+      "image_title": "Die zwölf gelben EU-Sterne auf blauem Hintnergrund; im Kreis sind ein weißes Vorhängeschloss und die Buchstaben DSGVO zu sehen; der blaue Hintergrund ist eine Landkarte Europas"
+    },
+    {
       "title": "US-Urteil: Recht auf Autoreparatur ist nicht illegal",
       "teaser": "Das Volk Massachusetts' hat ein Recht auf Zugriff auf ihre Autodaten für Reparaturzwecke beschlossen. Hersteller haben jahrelang dagegen prozessiert.",
       "url": "https://www.heise.de/news/US-Urteil-Recht-auf-Autoreparatur-ist-nicht-illegal-10285516.html",
       "image_title": "Autowerkstatt"
     },
     {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Hyundai zeigt Plan für Frachtschiff mit Nuklearantrieb",
       "teaser": "Bis 2050 sollen Schiffe klimaneutral sein. Der südkoreanische Konzern will das mit einem Atomantrieb erreichen.",
       "url": "https://www.heise.de/news/Hyundai-will-atombetriebenen-Containerfrachter-bauen-10285438.html",
       "image_title": "Zeichnung eines atombetriebenen Containerfrachters"
-    },
-    {
-      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
-      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Ray-Ban Meta Glasses: Massive Produktionssteigerung geplant",
@@ -227,12 +233,6 @@
       "title": "Smart Home: SMLight Netzwerk-Zigbee-Adapter mit PoE im Test",
       "teaser": "Ist der Heimserver zu weit von den per Funk verbundenen Geräten entfernt, wirds hakelig. SMLight löst das Problem mit einer netzwerkfähigen Zigbee-Basis.",
       "url": "https://www.heise.de/tests/Smart-Home-SMLight-Netzwerk-Zigbee-Adapter-mit-PoE-im-Test-10279145.html"
-    },
-    {
-      "title": "Sturmflut-KI: Machine Learning kann beim Küstenschutz helfen",
-      "teaser": "Die Universität Hamburg hat eine KI trainiert, um die Häufigkeit und die Höhe von Sturmfluten vorherzusagen. Dies könne beim Küstenschutz helfen.",
-      "url": "https://www.heise.de/news/Sturmflut-KI-Machine-Learning-kann-beim-Kuestenschutz-helfen-10285327.html",
-      "image_title": "Leichte Sturmflut in Wilhelmshaven"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -297,6 +297,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Sturmflut-KI: Machine Learning kann beim Küstenschutz helfen",
+      "teaser": "Die Universität Hamburg hat eine KI trainiert, um die Häufigkeit und die Höhe von Sturmfluten vorherzusagen. Dies könne beim Küstenschutz helfen.",
+      "url": "https://www.heise.de/news/Sturmflut-KI-Machine-Learning-kann-beim-Kuestenschutz-helfen-10285327.html",
+      "image_title": "Leichte Sturmflut in Wilhelmshaven"
     },
     {
       "title": "Humanoid zeigt seinen ersten humanoiden Roboter HMND 01",
@@ -367,15 +373,15 @@
       "image_title": "Brennende NAS-Systeme"
     },
     {
+      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
+      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
+    },
+    {
       "title": "Terminal-Emulator Ghostty im Test",
       "teaser": "Schon lange hat kein neues Terminal so viel Aufsehen erregt wie Ghostty. Wir haben uns den Terminal-Emulator für macOS und Linux genauer angesehen.",
       "url": "https://www.heise.de/tests/Terminal-Emulator-Ghostty-im-Test-10274548.html",
       "image_title": ","
-    },
-    {
-      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
-      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
     },
     {
       "title": "Kreditkartendaten und Phishing-Mails: KI-Agenten überlisten leicht gemacht",
@@ -432,12 +438,6 @@
       "image_title": "Monorail,Motion,Blur,In,Dubai,,Uae.,Dubai,Metro,,Abstract.,Fpv"
     },
     {
-      "title": "Intelligentere Siri: Braucht Apple länger als erhofft?",
-      "teaser": "Seit Jahren warten Apple-Nutzer auf eine smartere Sprachassistentin. Mit iOS 18.4 sollte es losgehen. Doch womöglich dauert es noch länger.",
-      "url": "https://www.heise.de/news/Intelligentere-Siri-Braucht-Apple-laenger-als-erhofft-10284277.html",
-      "image_title": "Siri mit Apple Intelligence"
-    },
-    {
       "title": "AlertAngriffe auf Sicherheitslücken in iOS, iPadOS, Mitel SIP-Phones und PAN-OS",
       "url": "https://www.heise.de/news/Angreifer-attackieren-Sicherheitsluecken-in-iOS-Mitel-SIP-Phones-und-PAN-OS-10284172.html",
       "image_title": "\"Attack successful\"-Meldung auf Bildschirm"
@@ -457,13 +457,12 @@
       "url": "https://www.heise.de/ratgeber/Google-Kalender-zeigt-keine-Geburtstage-mehr-an-9687169.html"
     },
     {
-      "title": "Terminal-Emulator Ghostty im Test",
-      "url": "https://www.heise.de/tests/Terminal-Emulator-Ghostty-im-Test-10274548.html",
-      "image_title": ","
-    },
-    {
       "title": "Gleichzeitige WireGuard-Verbindungen",
       "url": "https://www.heise.de/ratgeber/Gleichzeitige-WireGuard-Verbindungen-10269892.html"
+    },
+    {
+      "title": "Jetzt in der Make 1/25: Toniebox entfesseln",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-1-25-Toniebox-entfesseln-10281376.html"
     },
     {
       "title": "USB-C bei iPhone und Mac absichern: MDM-Admins dürfen Sicherheit reduzieren",
@@ -601,15 +600,14 @@
       "url": "https://www.heise.de/en/news/Security-vulnerability-Attackers-can-attack-PostgreSQL-databases-10282685.html"
     },
     {
-      "title": "Blockadekonzepte: Unerwünschte Internetdienste und Server sperren",
-      "teaser": "Kriminelle Server werden durch Firewalls oder Malware-Blocker begrenzt. Doch Regierungen können sie ohne Netzwerk-Kontakt auch gänzlich verstummen lassen.",
-      "url": "https://www.heise.de/hintergrund/Blockadekonzepte-Unerwuenschte-Internetdienste-und-Server-sperren-10273884.html",
-      "image_title": ", KI, Collage c’t"
+      "title": "Wie Sie taktile Karten erstellen, bearbeiten und in 3D ausdrucken",
+      "teaser": "Tastbare Karten helfen Menschen mit Sehbehinderung, sich in einer neuen Umgebung zurechtzufinden. Wir zeigen, wie Sie solche Karten mit TouchMapper erzeugen.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-taktile-Karten-erstellen-bearbeiten-und-in-3D-ausdrucken-10272908.html"
     },
     {
-      "title": "Core Ultra 300: Panther Lake to get fewer cores but more waste heat",
-      "teaser": "Rumor mongers are getting excited about Intel's upcoming Panther Lake processor generation.",
-      "url": "https://www.heise.de/en/news/Core-Ultra-300-Panther-Lake-to-get-fewer-cores-but-more-waste-heat-10283773.html"
+      "title": "Helium- oder Luftfüllung in der Festplatte?",
+      "teaser": "Ich suche eine große Festplatte für mein Archiv, möchte aber keine mit Heliumfüllung. Woran erkenne ich, welche Platten mit Luft gefüllt sind?",
+      "url": "https://www.heise.de/ratgeber/Helium-oder-Luftfuellung-in-der-Festplatte-10269896.html"
     },
     {
       "title": "c't-Workshop: Effiziente DHCP-Verwaltung mit Kea",
@@ -641,15 +639,16 @@
       "image_title": "DietPi 9.10 auf Starfive Visionfive 2"
     },
     {
-      "title": "Jetzt in der Make 1/25: Toniebox entfesseln",
-      "teaser": "Wie man seine Toniebox mit eigenen Inhalten bespielt und günstig mit NFC-Tags steuert, zeigen wir in der Make 1/25.",
-      "url": "https://www.heise.de/news/Jetzt-in-der-Make-1-25-Toniebox-entfesseln-10281376.html"
-    },
-    {
       "title": "Berliner Forschungsgruppe entwickelt 3D-Druckverfahren für keramisches Material",
       "teaser": "Keramische Materialien haben attraktive Eigenschaften für viele Anwendungen, sind aber nur schwer zu verarbeiten. Ein neues 3D-Druckverfahren soll das ändern.",
       "url": "https://www.heise.de/news/Berliner-Forschungsgruppe-entwickelt-3D-Druckverfahren-fuer-keramisches-Material-10281514.html",
       "image_title": "3D-gedruckte Modelle eines Mondautos und einer Mondlandefähre"
+    },
+    {
+      "title": "Ubuntu für WSL in neuer TAR-Version – Perfekt für individuelle Setups",
+      "teaser": "WSL wird unabhängiger vom Microsoft Store: Ubuntu kann jetzt als TAR-Archiv installiert und angepasst werden.",
+      "url": "https://www.heise.de/news/Ubuntu-fuer-WSL-in-neuer-TAR-Version-Perfekt-fuer-individuelle-Setups-10280138.html",
+      "image_title": "Man sieht Fenster mit den Eingabeterminals von Ubuntu auf einem Windows 11 Desktop."
     },
     {
       "title": "Regenbogen-Eis und in US-Flaggen gehüllte Hunde: Die Bilder der Woche KW 6",
@@ -747,21 +746,20 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Kernkraft-Debakel: EDF-Pläne für sechs neue Reaktoren stoßen auf Kritik",
-      "teaser": "Französischer Atomkonzern EDF will sechs neue Reaktoren bauen. Doch die Pläne stoßen auf Kritik. Kostenschätzungen zu ungenau, Reaktorkonzepte nicht ausgereift.",
-      "url": "https://www.heise.de/tp/features/Kernkraft-Debakel-EDF-Plaene-fuer-sechs-neue-Reaktoren-stossen-auf-Kritik-10284895.html",
-      "image_title": "Ansicht des EDF-Schildes (Electricité de France) am Eingang des Kernkraftwerks von Nogent-sur-Seine und der beiden Kühltürme aus der Froschperspektive."
-    },
-    {
-      "title": "Kellogg-Plan in Umsetzung? Trump und Putin am Telefon, EU im Abseits",
-      "teaser": "Trump und Putin telefonieren über den Ukraine-Krieg, in Europa schrillen die Alarmglocken. Welche Einblicke der Kellogg-Plan in die Zukunft gibt. Eine Analyse.",
-      "url": "https://www.heise.de/tp/features/Kellogg-Plan-in-Umsetzung-Trump-und-Putin-am-Telefon-EU-im-Abseits-10283379.html",
-      "image_title": "Ein russisches und ein US-Flugzeug"
-    },
-    {
       "title": "Russlands langer Weg zum (erneuten) eigenständigen Flugzeugbau",
       "teaser": "Russlands Luftfahrtindustrie will sich von westlicher Abhängigkeit befreien. Doch der Weg zu eigenen Jets ist beschwerlich. Diesen Sommer soll der Durchbruch gelingen.",
       "url": "https://www.heise.de/tp/features/Russlands-langer-Weg-zum-erneuten-eigenstaendigen-Flugzeugbau-10279906.html"
+    },
+    {
+      "title": "Parteien-Check zur Bundestagswahl: Wer kämpft gegen die Vermögenskluft – und wer verteidigt sie?",
+      "teaser": "Die Vermögenskluft in Deutschland ist die größte in Europa. Wer will das ändern? Telepolis fragt nach: Das Konzept der Parteien zum Thema Ungleichheit, Teil 1.",
+      "url": "https://www.heise.de/tp/features/Parteien-Check-zur-Bundestagswahl-Wer-kaempft-gegen-die-Vermoegenskluft-und-wer-verteidigt-sie-10284106.html"
+    },
+    {
+      "title": "Whistleblowing: Wenn Mut nicht belohnt wird",
+      "teaser": "Drei Münchner Tramfahrer weigern sich, eine Straßenbahn mit Bundeswehrwerbung zu steuern. Das Gewissen spielt auch im Job eine wichtige Rolle. Doch wer Missstände aufdeckt, riskiert alles.",
+      "url": "https://www.heise.de/tp/features/Whistleblowing-Wenn-Mut-nicht-belohnt-wird-10282506.html",
+      "image_title": "Spechblase mit Ausrufezeichen in Rollstuhl"
     },
     {
       "title": "GetResponse KI Online-Kurs-Plattform im Test",
