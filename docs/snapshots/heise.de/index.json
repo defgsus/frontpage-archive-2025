@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-19T20:09:59",
+  "timestamp": "2025-02-19T21:08:10",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Skonto für Google: 326 Millionen Euro Steuernachzahlung statt einer Milliarde",
+      "url": "https://www.heise.de/news/Missverstaendnis-Google-entkommt-Milliardenforderung-der-italienischen-Steuer-10288693.html"
+    },
     {
       "title": "Top 10: E-Mountainbike – das beste günstige E-MTB im Test kostet 800 Euro",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-e-mountainbike-das-beste-guenstige-e-mtb-im-test/f30sv9f"
@@ -60,10 +64,6 @@
     {
       "title": "Erweiterter Support: Oracle-Datenbank 19c erhält Unterstützung bis Ende 2032",
       "url": "https://www.heise.de/news/Fuenf-Jahre-Extra-Support-Oracle-19c-bekommt-Unterstuetzung-bis-Ende-2032-10288121.html"
-    },
-    {
-      "title": "Affinity 2.6: Kostenloses Update mit Machine-Learning-Funktionen",
-      "url": "https://www.heise.de/news/Affinity-2-6-Grafik-und-Design-Apps-mit-lokalen-ML-Funktionen-10288334.html"
     },
     {
       "title": "UpdateEinstiegs-iPhoneApple legt iPhone SE als \"16e\" komplett neu auf",
@@ -183,19 +183,25 @@
       "image_title": "Aufmacherbild Zahlen, bitte"
     },
     {
+      "title": "Skonto für Google: 326 Millionen Euro Steuernachzahlung statt einer Milliarde",
+      "teaser": "Nach einem aufgeklärten Missverständnis muss Google in Italien 306 Millionen Euro Steuern nachzahlen. Ach nein, das war 2017. Diesmal sind es 326 Millionen.",
+      "url": "https://www.heise.de/news/Missverstaendnis-Google-entkommt-Milliardenforderung-der-italienischen-Steuer-10288693.html",
+      "image_title": "Drei grau uniformierte Beamte der italienischen Guadia di Finanza, im Hintergrund ein Einsatzfahrzeug"
+    },
+    {
       "title": "Top 10: E-Mountainbike – das beste günstige E-MTB im Test kostet 800 Euro",
       "teaser": "Günstig & trotzdem gut: Wir haben preiswerte E-Mountainbikes von 600 Euro bis 1400 Euro getestet. Dabei kostet das beste E-MTB nur 800 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-e-mountainbike-das-beste-guenstige-e-mtb-im-test/f30sv9f?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "AlertUnifi Protect: Kritische Sicherheitslücken in Kameras und Verwaltungsoberfläche",
-      "teaser": "Angreifer mit Zugriff auf das lokale Netzwerk können Überwachungskameras übernehmen und eigenen Code einschleusen, warnt Ubiquiti. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Unifi-Protect-Kritische-Sicherheitsluecken-in-Kameras-und-Verwaltungsoberflaeche-10288305.html"
-    },
-    {
       "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
       "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "AlertUnifi Protect: Kritische Sicherheitslücken in Kameras und Verwaltungsoberfläche",
+      "teaser": "Angreifer mit Zugriff auf das lokale Netzwerk können Überwachungskameras übernehmen und eigenen Code einschleusen, warnt Ubiquiti. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Unifi-Protect-Kritische-Sicherheitsluecken-in-Kameras-und-Verwaltungsoberflaeche-10288305.html"
     },
     {
       "title": "WWF sucht mit KI nach Geisternetzen",
@@ -224,12 +230,6 @@
       "title": "Ouvis F1K im Test: Edler Mini-PC mit Glasoberseite & Aluminiumgehäuse",
       "teaser": "Mit schickem Gehäuse und mit Ryzen 7 kommt der Ouvis F1K daher, was viel Leistung verspricht. Ob der PC performant und dabei leise ist, haben wir ausführlich getestet.",
       "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-ouvis-f1k-im-test/t9enb6j?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Vivo-Smartphones werden nach Nokia-Klage nun wieder in Deutschland verkauft",
-      "teaser": "Schon vor einem Jahr einigten sich Nokia und Vivo auf ein neues Lizenzabkommen. Erst jetzt kann man Vivo-Handys aber wieder in Deutschland kaufen.",
-      "url": "https://www.heise.de/news/Vivo-Smartphones-werden-nach-Nokia-Klage-nun-wieder-in-Deutschland-verkauft-10288301.html",
-      "image_title": "Smartphone liegt auf Tisch"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -293,6 +293,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Vivo-Smartphones werden nach Nokia-Klage nun wieder in Deutschland verkauft",
+      "teaser": "Schon vor einem Jahr einigten sich Nokia und Vivo auf ein neues Lizenzabkommen. Erst jetzt kann man Vivo-Handys aber wieder in Deutschland kaufen.",
+      "url": "https://www.heise.de/news/Vivo-Smartphones-werden-nach-Nokia-Klage-nun-wieder-in-Deutschland-verkauft-10288301.html",
+      "image_title": "Smartphone liegt auf Tisch"
     },
     {
       "title": "Autohandel: Gute Geschäfte, trübe Aussicht",
@@ -365,15 +371,15 @@
       "image_title": ", KI, Collage c’t"
     },
     {
+      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
+      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
+    },
+    {
       "title": "Französischer Forschungsreaktor WEST erhält Plasma über 22 Minuten",
       "teaser": "Am französischen Forschungsreaktors WEST wurde Plasma über 22 Minuten stabil gehalten. Das Team will künftig mehrere Stunden schaffen.",
       "url": "https://www.heise.de/news/Franzoesischer-Forschungsreaktor-WEST-erhaelt-Plasma-ueber-22-Minuten-10287854.html",
       "image_title": "Vakuumkammer des Fusionsforschungsreaktors WEST"
-    },
-    {
-      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
-      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
     },
     {
       "title": "Die Broken-Windows-Theorie: Null Toleranz für Softwarequalität",
@@ -427,12 +433,6 @@
       "teaser": "Am Bundesgerichtshof ging es um ein Meme über die Grünen-Politikerin Renate Künast. Die Frage, die das Gericht zu klären hat, geht aber viel weiter.",
       "url": "https://www.heise.de/news/Kuenast-Klage-zu-Falschzitat-Europaeischer-Gerichtshof-soll-entscheiden-10287594.html",
       "image_title": "Renate Künast"
-    },
-    {
-      "title": "iX-Workshop: Echtzeitüberwachung mit Prometheus und Grafana",
-      "teaser": "Infrastruktur und Anwendungen effektiv überwachen, Alarme einrichten und Probleme frühzeitig erkennen, um auf kritische Situationen reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Echtzeitueberwachung-mit-Prometheus-und-Grafana-10279011.html",
-      "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
     },
     {
       "title": "\"Apple Launch\": Was am Mittwoch kommen könnte und was nicht",
@@ -604,10 +604,15 @@
       "url": "https://www.heise.de/en/news/Potentially-dangerous-asteroid-2024-YR-space-company-OHB-examines-defense-plan-10285714.html"
     },
     {
-      "title": "Automatische Foto-Verschlagwortung mit Grafikkartenunterstützung beschleunigen",
-      "teaser": "Bei der Verschlagwortung von Bildern kann künstliche Intelligenz und die Nutzung der PC-Grafikkarte wertvolle Dienste leisten. Wir erklären, wie das geht.",
-      "url": "https://www.heise.de/ratgeber/Automatische-Foto-Verschlagwortung-mit-Grafikkartenunterstuetzung-beschleunigen-10276286.html",
+      "title": "Fotos in einer Sammlung finden: Multimodale KI in Python einbinden und befragen",
+      "teaser": "KI kann Bilder analysieren und Fragen dazu beantworten. Wir zeigen, wie Sie ein solches KI-Modell in Ihr Python-Skript integrieren und damit Metadaten erzeugen.",
+      "url": "https://www.heise.de/hintergrund/Fotos-in-einer-Sammlung-finden-Multimodale-KI-in-Python-einbinden-und-befragen-10276083.html",
       "image_title": ", KI, Collage c’t"
+    },
+    {
+      "title": "c't-Workshop: 3D-Visualisierungen effizient umsetzen mit Blender",
+      "teaser": "Von der Idee zum fertigen 3D-Bild: Lernen Sie in zwei Tagen, wie Sie mit Blender professionelle Visualisierungen und fotorealistische Szenen gestalten.",
+      "url": "https://www.heise.de/news/c-t-Workshop-3D-Visualisierungen-effizient-umsetzen-mit-Blender-10285636.html"
     },
     {
       "title": "So funktioniert der neue WLAN-StandardGrundlagen von Wi-Fi 7",
@@ -742,22 +747,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "US-Zollpläne: Deutsche Autoindustrie besonders gefährdet",
-      "teaser": "Trumps Zollpolitik versetzt Europas Wirtschaft in Alarmbereitschaft. Deutsche Autobauer sehen ihr mit Sorge entgegen. Was passiert, wenn Zölle von 2,5 auf zehn Prozent steigen?",
-      "url": "https://www.heise.de/tp/features/US-Zollplaene-Deutsche-Autoindustrie-besonders-gefaehrdet-10286059.html",
-      "image_title": "Cointainer hinter einem Zaun mit Stacheldraht"
+      "title": "Datenschutz: Wenn der Chef zu viel wissen will",
+      "teaser": "Personaldaten landen immer öfter auf Servern im Ausland. Die EU-Richter haben dazu jetzt ein wichtiges Urteil gefällt. Doch was bedeutet das für die Macht der Chefs?",
+      "url": "https://www.heise.de/tp/features/Datenschutz-Wenn-der-Chef-zu-viel-wissen-will-10284803.html",
+      "image_title": "Zahlenschloss mit EU-Skala hängt an Paragraphenzeichen"
     },
     {
-      "title": "EU-Gipfel zur Ukraine: Viel Lärm um nichts",
-      "teaser": "Macrons Gipfel enttäuscht und Europas Uneinigkeit wächst. Was bedeutet das für die Zukunft der Ukraine? Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/EU-Gipfel-zur-Ukraine-Viel-Laerm-um-nichts-10286611.html",
-      "image_title": "Die französische Flagge mehrfach vor dem Elysee-Palast"
+      "title": "Unabhängigkeit der Medien: Wer zahlt, bestimmt die Richtung",
+      "teaser": "Die Mittel für USAID werden gestrichen. Weltweit bangen Redaktionen um ihre Existenz. Wie unabhängig sind diese Medien? Die Millionen-Dollar-Frage. Analyse.",
+      "url": "https://www.heise.de/tp/features/Unabhaengigkeit-der-Medien-Wer-zahlt-bestimmt-die-Richtung-10286382.html",
+      "image_title": "Zeigefinger eines Chefs bei einem Gespräch"
     },
     {
-      "title": "Deutsche Bahn unpünktlicher als britische Züge",
-      "teaser": "Olaf Scholz kritisierte Englands Bahnsystem als abschreckendes Beispiel. Briten konterten mit Analyse der Deutschen Bahn. Was sie herausfanden, ist für Deutschland peinlich.",
-      "url": "https://www.heise.de/tp/features/Deutsche-Bahn-unpuenktlicher-als-britische-Zuege-10287878.html",
-      "image_title": "Anzeige am Bahnhof zeigt, dass zahlreiche Züge ausfallen"
+      "title": "Shahid Bagheri: Der schwimmende Drohnenstützpunkt des Iran",
+      "teaser": "Iran stellt seinen ersten Drohnenträger vor: ein umgebautes Containerschiff als schwimmender Stützpunkt. Was das militärisch für die Golfregion bedeutet. Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Shahid-Bagheri-Der-schwimmende-Drohnenstuetzpunkt-des-Iran-10286025.html"
     },
     {
       "title": "NordPass für Unternehmen im Test",
