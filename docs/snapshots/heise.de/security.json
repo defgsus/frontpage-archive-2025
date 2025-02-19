@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-19T13:16:31",
+  "timestamp": "2025-02-19T14:09:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -8,44 +8,83 @@
     {
       "type": null,
       "src": "https://cmp.heise.de/unified/wrapperMessagingWithoutDetection.js",
-      "id": null,
+      "id": "sourcepoint-js",
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://www.heise.de/js/mobile-deflect.min.js?.ltc.3b8b7721db03f7b8b3f5",
+      "type": null,
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.af9a98359f1341a606f7",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.a7483e37a7500f7a6857",
+      "src": "https://hl.upscore.com/config/heise.de.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "OpenSSH",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-OpenSSH-Angreifer-koennen-sich-in-Verbindungen-einklinken-10287547.html"
+      "title": "Punkteklau im SupermarktCyberkriminelle stehlen Rewe-Bonuspunkte",
+      "teaser": "Über eine Funktion zum gemeinsamen Sammeln klauen Gauner derzeit in einer Bonus-App Guthaben und versilbern es im Markt.",
+      "url": "https://www.heise.de/news/Punkteklau-im-Supermarkt-Cyberkriminelle-stehlen-Rewe-Bonuspunkte-10287640.html"
     },
     {
-      "title": "Universal Boot Loader U-Boot",
-      "url": "https://www.heise.de/news/Bootloader-U-Boot-Sicherheitsluecken-ermoeglichen-Umgehen-der-Chain-of-Trust-10287480.html"
+      "title": "Pandas im Sandsturm: Das Namenschaos des Cybercrime durchschauen",
+      "teaser": "Wussten Sie, dass hinter einem LockBit-Angriff in der Regel nicht die LockBit-Gang steckt? Wir erklären warum und beleuchten verwirrende Namenskonventionen.",
+      "url": "https://www.heise.de/hintergrund/Pandas-im-Sandsturm-Das-Namenschaos-des-Cybercrime-durchschauen-10251629.html"
     },
     {
-      "title": "Juniper Session Smart Router",
-      "url": "https://www.heise.de/news/Juniper-Session-Smart-Router-Sicherheitsleck-ermoeglicht-Uebernahme-10287396.html"
+      "title": "AlertSicherheitsupdates: Lernplattform Moodle vielfältig angreifbar",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Lernplattform-Moodle-vielfaeltig-angreifbar-10288147.html",
+      "image_title": "Würfel mit Buchstaben buchstabieren \"CYBERCRIME\"; ein Finge dreht gerade einige Buchstaben um, um daraus \"CYBERSECURITY\" zu machen."
     },
     {
-      "title": "Dell BIOS, NetWorker",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-BIOS-und-NetWorker-Luecke-geschlossen-10285948.html"
+      "title": "Secure Coding: Sichere Datenhaltung in der JVM – Risiken und Best Practices",
+      "teaser": "Vertrauliche Daten in der JVM absichern. Wie sich Heap-Dumps, Debugging und Speicherlecks gezielt verhindern lassen.",
+      "url": "https://www.heise.de/hintergrund/Secure-Coding-Sichere-Datenhaltung-in-der-JVM-Risiken-und-Best-Practices-10281133.html",
+      "image_title": "Mann zeigt auf Speicher Chip"
+    },
+    {
+      "title": "Wie man Unterseekabel repariert: \"Der größte Aufwand liegt nicht im Bergen\"",
+      "teaser": "Jonas Franken von der TU Darmstadt erforscht die Resilienz kritischer Infrastrukturen. Er beschreibt Schritte zur Reparatur beschädigter Unterseekabel.",
+      "url": "https://www.heise.de/hintergrund/Wie-man-Unterseekabel-repariert-Der-groesste-Aufwand-liegt-nicht-im-Bergen-10277568.html",
+      "image_title": "Unterseekabel"
+    },
+    {
+      "title": "Secure Coding: Sicherere Passwörter mit Salt, Pepper und Hashing",
+      "teaser": "Sicherheit durch Passwort-Hashing ist unverzichtbar. Best Practices für den gezielten Einsatz von Salt und Pepper steigern das Schutzniveau weiter.",
+      "url": "https://www.heise.de/hintergrund/Secure-Coding-Sicherere-Passwoerter-mit-Salt-Pepper-und-Hashing-10274977.html",
+      "image_title": "Mann zeigt nach oben auf Verschlüsselungsmaschine"
+    },
+    {
+      "title": "heise security Webinar: Praktische Basis-Security fürs Active Directory",
+      "teaser": "Wer ein Active Directory betreibt, sollte Ebenen trennen und gesicherte Admin-Workstations nutzen. Dieses Webinar gibt praktische Hilfe bei der Umsetzung.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Praktische-Security-in-Windows-Netzen-Tiering-und-PAWs-10241866.html",
+      "image_title": "Tiering-Illustration"
+    },
+    {
+      "title": "heise security Webinar: Wie sag ich’s meinem Chef? – Gesprachsführung für ITler",
+      "teaser": "Ein wichtiges Security-Projekt steht an, aber es gibt weder Budget noch Ressourcen? Dieses Webinar hilft, dem Chef das Thema Sicherheit richtig \"zu verkaufen\".",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Wie-sag-ich-s-meinem-Chef-Gesprachsfuehrung-fuer-ITler-10236037.html"
+    },
+    {
+      "title": "Webinar-Tipp: KI-Agenten: Grundlagen, Anwendungsgebiete und Zukunftsperspektiven",
+      "teaser": "In diesem Webinar erhalten Sie einen kompakten Überblick über KI-Agenten, ihre Funktionsweise, Einsatzmöglichkeiten und zukünftige Entwicklungen.",
+      "url": "https://www.heise.de/news/Webinar-Tipp-KI-Agenten-Grundlagen-Anwendungsgebiete-und-Zukunftsperspektiven-10228770.html",
+      "image_title": "KI-Agenten"
+    },
+    {
+      "title": "Workshop | 11.06.2025Einführung ins Threat Modeling",
+      "teaser": "Etablieren Sie IT-Security als Mindset und lernen Sie Threat Modeling als leichtgewichtige Methode kennen, um Security frühzeitig zu adressieren.",
+      "url": "https://heise-academy.de/schulungen/einfuehrung-threat-modeling?wt_mc=intern.academy.ct.ws_threat-modeling.ct_buehne.teaser.teaser"
+    },
+    {
+      "title": "AlertSicherheitsupdates: Lernplattform Moodle vielfältig angreifbar",
+      "teaser": "Die Moodle-Entwickler haben mehrere Sicherheitslücken geschlossen. Bislang gibt es keine Berichte zu Attacken.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Lernplattform-Moodle-vielfaeltig-angreifbar-10288147.html",
+      "image_title": "Würfel mit Buchstaben buchstabieren \"CYBERCRIME\"; ein Finge dreht gerade einige Buchstaben um, um daraus \"CYBERSECURITY\" zu machen."
     },
     {
       "title": "iX-Workshop: Spezialwissen für KRITIS – Prüfverfahrenskompetenz gemäß § 8a BSIG",
@@ -54,7 +93,12 @@
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
     },
     {
-      "title": "Sicherheitsupdate OpenSSH: Angreifer können sich in Verbindungen einklinken",
+      "title": "Punkteklau im Supermarkt: Cyberkriminelle stehlen Rewe-Bonuspunkte",
+      "teaser": "Über eine Funktion zum gemeinsamen Sammeln klauen Gauner derzeit in einer Bonus-App Guthaben und versilbern es im Markt. Was hinter der Masche steckt.",
+      "url": "https://www.heise.de/news/Punkteklau-im-Supermarkt-Cyberkriminelle-stehlen-Rewe-Bonuspunkte-10287640.html"
+    },
+    {
+      "title": "AlertSicherheitsupdate OpenSSH: Angreifer können sich in Verbindungen einklinken",
       "teaser": "In der aktuellen OpenSSH-Version haben die Entwickler zwei Schwachstellen geschlossen. Attacken sind aber an bestimmte Voraussetzungen gebunden.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-OpenSSH-Angreifer-koennen-sich-in-Verbindungen-einklinken-10287547.html",
       "image_title": "Update-Anzeige auf Bildschirm"
@@ -66,13 +110,13 @@
       "image_title": "Ein Pinguin sitzt vor dem Computer, der Linux-Quellcode und ein Rust-Logo anzeigt."
     },
     {
-      "title": "Bootloader U-Boot: Sicherheitslücken ermöglichen Umgehen der Chain-of-Trust",
+      "title": "AlertBootloader U-Boot: Sicherheitslücken ermöglichen Umgehen der Chain-of-Trust",
       "teaser": "Der Universal Boot Loader U-Boot ist von Schwachstellen betroffen, durch die Angreifer beliebigen Code einschleusen können.",
       "url": "https://www.heise.de/news/Bootloader-U-Boot-Sicherheitsluecken-ermoeglichen-Umgehen-der-Chain-of-Trust-10287480.html",
       "image_title": "Virus detected steht vor Servern"
     },
     {
-      "title": "Juniper Session Smart Router: Sicherheitsleck ermöglicht Übernahme",
+      "title": "AlertJuniper Session Smart Router: Sicherheitsleck ermöglicht Übernahme",
       "teaser": "Juniper warnt außer der Reihe vor einer kritischen Sicherheitslücke in Junipers Session Smart Router. Angreifer können die Geräte übernehmen.",
       "url": "https://www.heise.de/news/Juniper-Session-Smart-Router-Sicherheitsleck-ermoeglicht-Uebernahme-10287396.html",
       "image_title": "Einbrecher will Hintertüt in Netzwerk-Gerät öffnen"
@@ -90,7 +134,7 @@
       "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
     },
     {
-      "title": "Sicherheitsupdates Dell: BIOS- und NetWorker-Lücke geschlossen",
+      "title": "AlertSicherheitsupdates Dell: BIOS- und NetWorker-Lücke geschlossen",
       "teaser": "Angreifer können Dell-PCs und -Software attackieren. Es kann Schadcode auf Geräte gelangen. Einer der Patches ist aber bislang nicht verfügbar.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-BIOS-und-NetWorker-Luecke-geschlossen-10285948.html"
     },
@@ -106,7 +150,7 @@
       "url": "https://www.heise.de/news/Onlinekonferenz-zur-NIS2-Regulierung-Was-Unternehmen-jetzt-tun-muessen-10282494.html"
     },
     {
-      "title": "Xerox Versalink: Multifunktionsdrucker geben Zugangsdaten preis",
+      "title": "AlertXerox Versalink: Multifunktionsdrucker geben Zugangsdaten preis",
       "teaser": "In den Versalink-Multifunktionsdruckern von Xerox wurden Schwachstellen entdeckt, durch die Angreifer Zugangsdaten abgreifen können.",
       "url": "https://www.heise.de/news/Xerox-Versalink-Multifunktionsdrucker-geben-Zugangsdaten-preis-10285610.html",
       "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
@@ -130,77 +174,63 @@
       "image_title": "Person mit Fitness-Armband bindet sich Sportschuhe"
     },
     {
-      "title": "Brocade SANnav: Angreifer können Zugangsdaten durch Sicherheitslecks erlangen",
-      "teaser": "Broadcom warnt vor Sicherheitslücken in Brocade SANnav, durch die Angreifer unbefugt Zugang erlangen können. Aktualisierte Software schließt sie.",
-      "url": "https://www.heise.de/news/Brocade-SANnav-Angreifer-koennen-Zugangsdaten-durch-Sicherheitslecks-erlangen-10284859.html",
-      "image_title": "Brennende NAS-Systeme"
+      "title": "Agile Produktentwicklung: In fünf Sessions zum Scrum Product Owner",
+      "teaser": "Werden Sie ab dem 18.03. zum Product Owner und steuern mit Scrum die Entwicklung Ihres Produkts. Lernen Sie das agile Mindset und die Scrum-Methodik kennen.",
+      "url": "https://www.heise.de/news/Agile-Produktentwicklung-In-fuenf-Sessions-zum-Scrum-Product-Owner-10284433.html"
     },
     {
-      "title": "Winzip: Angreifer können durch Sicherheitsleck Schadcode einschleusen",
-      "teaser": "Eine Schwachstelle in Winzip ermöglicht Angreifern, mit manipulierten Archiven beliebigen Code einzuschleusen. Ein Update korrigiert das.",
-      "url": "https://www.heise.de/news/Winzip-Sicherheitsluecke-ermoeglicht-Unterschieben-von-Schadcode-10284660.html",
-      "image_title": "Eine ZIP-Datei öffnet sich und entlässt Malware auf dem Rechner"
+      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
+      "teaser": "Ab dem 09.04. lernen Sie in fünf Sessions die Welt der künstlichen Intelligenz kennen. Von Machine Learning über neuronale Netze bis zu Deep Learning.",
+      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-10280593.html"
     },
     {
-      "title": "Safe Browsing: KI-Feature in Google Chrome ab sofort verfügbar",
-      "teaser": "Das Surfen mit Chrome soll sicherer werden. Dabei spielt KI die zentrale Rolle. Der Schutz ist standardmäßig aber nicht aktiv.",
-      "url": "https://www.heise.de/news/Google-Chrome-KI-Schutz-vor-Phishing-Websites-Co-ab-sofort-aktivierbar-10284604.html",
-      "image_title": "Laptop installiert vor Servern, die verschlüsselt sind, davor ein Einbrecher, der Daten aus Google Chrome angelt"
+      "title": "Agile Produktentwicklung: In fünf Sessions zum Scrum Product Owner",
+      "teaser": "Werden Sie ab dem 18.03. zum Product Owner und steuern mit Scrum die Entwicklung Ihres Produkts. Lernen Sie das agile Mindset und die Scrum-Methodik kennen.",
+      "url": "https://www.heise.de/news/Agile-Produktentwicklung-In-fuenf-Sessions-zum-Scrum-Product-Owner-10268072.html"
     },
     {
-      "title": "USB-C bei iPhone und Mac absichern: MDM-Admins dürfen Sicherheit reduzieren",
-      "teaser": "Eigentlich sorgt der sogenannte USB-Restricted-Mode dafür, dass sich Apple-Geräte nur schwer über den USB-C-Port angreifen lassen. Admins können das verhindern.",
-      "url": "https://www.heise.de/news/USB-C-bei-iPhone-und-Mac-absichern-MDM-Admins-duerfen-Sicherheit-reduzieren-10279840.html",
-      "image_title": "iPhone 15 mit USB-C-Port"
+      "title": "Last Call: Produktiver coden mit KI-Assistenten: GitHub Copilot, OpenAI und mehr",
+      "teaser": "KI-gestützte Entwicklungstools prägen zunehmend den Programmieralltag. Unser Experte erklärt, was GitHub Copilot OpenAI, Anthropic und Co. können und was nicht.",
+      "url": "https://www.heise.de/news/Last-Call-Produktiver-coden-mit-KI-Assistenten-GitHub-Copilot-OpenAI-und-mehr-10268010.html"
     },
     {
-      "title": "HP-Laserdrucker ermöglichen Codeschmuggel durch Postscript-Sicherheitsleck",
-      "teaser": "In zahlreichen HP-Laserdruckern können Angreifer eine Lücke beim Verarbeiten von Postscript zum Einschleusen von Schadcode missbrauchen.",
-      "url": "https://www.heise.de/news/HP-Laserdrucker-ermoeglichen-Codeschmuggel-durch-Postscript-Sicherheitsleck-10284208.html",
-      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
+      "title": "Fahrkartenshop fliegt auf, Kunden werden zu Schwarzfahrern",
+      "url": "https://www.heise.de/news/Vorsicht-vor-ungueltigen-Deutschlandtickets-Schwarzfahrer-wider-Willen-10279694.html",
+      "image_title": "Handy auf dem man ein Deutschlandticket sieht"
     },
     {
-      "title": "Angriffe auf Sicherheitslücken in iOS, iPadOS, Mitel SIP-Phones und PAN-OS",
-      "teaser": "IT-Forscher haben Angriffe auf Sicherheitslücken in iPadOS, Mitel SIP-Phones und PAN-OS beobachtet. Updates dichten die Sicherheitslecks ab.",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Sicherheitsluecken-in-iOS-Mitel-SIP-Phones-und-PAN-OS-10284172.html",
-      "image_title": "\"Attack successful\"-Meldung auf Bildschirm"
+      "title": "Angreifer attackieren Windows und löschen Daten",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-attackieren-Windows-und-loeschen-Daten-10279178.html"
     },
     {
-      "title": "Praktische Security in Windows-Netzen: Tiering und PAWs",
-      "teaser": "Wie bringe ich Struktur in meine AD-Sicherheit? Das Ebenenmodell und gesicherte Admin-Arbeitsplätze sind essenziell, aber oft schwierig umzusetzen. Unser Webinar vermittelt Ihnen praxisnahe Lösungen für Tiering, PAWs und Hybrid-IT – und zeigt, wie Sie das Clean-Source-Prinzip erfolgreich etablieren.",
-      "url": "https://heise-academy.de/webinare/ad-tiering?wt_mc=intern.academy.security.web_ad.hs_teaser.teaser.teaser"
+      "title": "Attacken gehen immer noch weiter",
+      "url": "https://www.heise.de/news/Massiver-Cyberangriff-auf-US-Provider-Attacken-gehen-immer-noch-weiter-10281222.html"
     },
     {
-      "title": "Secure Coding: Sichere Datenhaltung in der JVM – Risiken und Best Practices",
-      "teaser": "Vertrauliche Daten in der JVM absichern. Wie sich Heap-Dumps, Debugging und Speicherlecks gezielt verhindern lassen.",
-      "url": "https://www.heise.de/hintergrund/Secure-Coding-Sichere-Datenhaltung-in-der-JVM-Risiken-und-Best-Practices-10281133.html",
-      "image_title": "Mann zeigt auf Speicher Chip"
+      "title": "Was zu tun ist, wenn Sie gehackt wurden",
+      "url": "https://www.heise.de/ratgeber/Sie-wurden-gehackt-Das-ist-jetzt-zu-tun-9989769.html",
+      "image_title": ","
     },
     {
-      "title": "Pandas im Sandsturm: Das Namenschaos des Cybercrime durchschauen",
-      "teaser": "Wussten Sie, dass hinter einem LockBit-Angriff in der Regel nicht die LockBit-Gang steckt? Wir erklären warum und beleuchten verwirrende Namenskonventionen.",
-      "url": "https://www.heise.de/hintergrund/Pandas-im-Sandsturm-Das-Namenschaos-des-Cybercrime-durchschauen-10251629.html"
+      "title": "Wie Google Chrome Passkeys auf anderen Geräten synchronisiert",
+      "url": "https://www.heise.de/ratgeber/Wie-Google-Chrome-Passkeys-auf-anderen-Geraeten-synchronisiert-9931948.html"
     },
     {
-      "title": "Wie man Unterseekabel repariert: \"Der größte Aufwand liegt nicht im Bergen\"",
-      "teaser": "Jonas Franken von der TU Darmstadt erforscht die Resilienz kritischer Infrastrukturen. Er beschreibt Schritte zur Reparatur beschädigter Unterseekabel.",
-      "url": "https://www.heise.de/hintergrund/Wie-man-Unterseekabel-repariert-Der-groesste-Aufwand-liegt-nicht-im-Bergen-10277568.html",
-      "image_title": "Unterseekabel"
+      "title": "IT-Security: Mehr Sicherheit durch API-Firewalls",
+      "url": "https://www.heise.de/ratgeber/IT-Security-Mehr-Sicherheit-durch-API-Firewalls-9755074.html"
     },
     {
-      "title": "Re: Desinfect 2024/25 Teamviewer funktioniert nicht",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2024-25-Teamviewer-funktioniert-nicht/posting-44921445/show/"
+      "title": "Linus Torvalds würde Maintainer-Veto übergehen",
+      "url": "https://www.heise.de/news/Linus-Torvalds-wuerde-Maintainer-Veto-zu-Rust-Kernel-Code-uebergehen-10287503.html",
+      "image_title": "Ein Pinguin sitzt vor dem Computer, der Linux-Quellcode und ein Rust-Logo anzeigt."
     },
     {
-      "title": "Re: Probleme Eset/WithSecure-Update: Lizenz ungültig, Signatur-Update schlägt fe",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Probleme-Eset-WithSecure-Update-Lizenz-ungueltig-Signatur-Update-schlaegt-fe/posting-44905692/show/"
+      "title": "Cyberkriminelle stehlen Rewe-Bonuspunkte",
+      "url": "https://www.heise.de/news/Punkteklau-im-Supermarkt-Cyberkriminelle-stehlen-Rewe-Bonuspunkte-10287640.html"
     },
     {
-      "title": "Re: WithSecure-Updates haben bei mir aktuell nicht funktioniert",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-Updates-haben-bei-mir-aktuell-nicht-funktioniert/posting-44879377/show/"
+      "title": "Attacken gehen immer noch weiter",
+      "url": "https://www.heise.de/news/Massiver-Cyberangriff-auf-US-Provider-Attacken-gehen-immer-noch-weiter-10281222.html"
     }
   ]
 }
