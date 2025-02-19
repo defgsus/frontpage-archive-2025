@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-19T04:11:01",
+  "timestamp": "2025-02-19T05:09:09",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bericht: NASA hat in einem Monat rund 10 Prozent aller Stellen gestrichen",
+      "url": "https://www.heise.de/news/Bericht-NASA-hat-in-einem-Monat-rund-10-Prozent-aller-Stellen-gestrichen-10287346.html"
+    },
     {
       "title": "Wiener Spitäler brauchen neue Fax-Anlage",
       "url": "https://www.heise.de/news/Wiener-Spitaeler-brauchen-neue-Fax-Anlage-10287324.html"
@@ -60,10 +64,6 @@
     {
       "title": "Auch Ironwolf betroffen: Festplatten-Betrug wird raffinierter",
       "url": "https://www.heise.de/news/Festplatten-Betrug-Weitere-Ironwolf-Platten-mit-verwirrenden-Daten-aufgetaucht-10286816.html"
-    },
-    {
-      "title": "Schleswig-Holsteins mutiger Umstieg auf LibreOffice & Co. – ein Interview",
-      "url": "https://www.heise.de/hintergrund/Schleswig-Holsteins-mutiger-Umstieg-auf-LibreOffice-Co-ein-Interview-10279968.html"
     },
     {
       "title": "Auch Ironwolf betroffenFestplatten-Betrug wird raffinierter",
@@ -185,21 +185,27 @@
       "image_title": "Ein Team von xAI und Elon Musk im Livestream."
     },
     {
+      "title": "Bericht: NASA hat in einem Monat rund 10 Prozent aller Stellen gestrichen",
+      "teaser": "Der vom Weißen Haus initiierte Sparkurs bei US-Behörden betrifft fast 1800 NASA-Mitarbeiter, die ihren Job verloren haben. Weitere Entlassungen werden erwartet.",
+      "url": "https://www.heise.de/news/Bericht-NASA-hat-in-einem-Monat-rund-10-Prozent-aller-Stellen-gestrichen-10287346.html",
+      "image_title": "NASA-Logo auf einem Modell der Erdkugel vor dem Kennedy Space Center"
+    },
+    {
       "title": "Wiener Spitäler brauchen neue Fax-Anlage",
       "teaser": "Mindestens 60 Fax-Übertragungen gleichzeitig sollen neue Fax-Server für Wiens Kliniken bewältigen. Die Open-Source-Strategie der Stadt wird vernachlässigt.",
       "url": "https://www.heise.de/news/Wiener-Spitaeler-brauchen-neue-Fax-Anlage-10287324.html",
       "image_title": "Altes Faxgerät"
     },
     {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Girocard wächst, Bankomatkarte wächst schneller",
       "teaser": "Deutsche Girocards wurden 2024 rund 7,9 Milliarden Mal gezückt. Österreichische Bankomatkarten werden mehr als doppelt so oft eingesetzt.",
       "url": "https://www.heise.de/news/Statistik-2024-Bargeldloses-Zahlen-mit-Girocard-im-Handel-am-meisten-gefragt-10287308.html",
       "image_title": "Kreditkarterterminal, daneben ein Thermodrucker"
-    },
-    {
-      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
-      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Mini-PC Minisforum UM760 Slim mit Ryzen 5 im Test: Weniger Kerne, mehr Leistung",
@@ -229,12 +235,6 @@
       "teaser": "Dem Messenger WhatsApp droht die Einstufung als Very Large Online Platform. Grund sind die Nutzerzahlen bei den WhatsApp Channels.",
       "url": "https://www.heise.de/news/WhatsApp-ueberschreitet-EU-Schwellenwert-Strengere-Regulierung-droht-10287130.html",
       "image_title": "Whatsapp, schematische Darstellung"
-    },
-    {
-      "title": "Künstliches Blatt mit Kupfernanostruktur erzeugt komplexe Kohlenwasserstoffe",
-      "teaser": "Ein von der Photosynthese inspiriertes System soll zur Herstellung von synthetischen Treibstoffen eingesetzt werden. Es liefert zudem wertvolle Beiprodukte.",
-      "url": "https://www.heise.de/news/Kuenstliches-Blatt-mit-Kupfernanostruktur-erzeugt-komplexe-Kohlenwasserstoffe-10287048.html",
-      "image_title": "Solar fuel generator"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -299,6 +299,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Künstliches Blatt mit Kupfernanostruktur erzeugt komplexe Kohlenwasserstoffe",
+      "teaser": "Ein von der Photosynthese inspiriertes System soll zur Herstellung von synthetischen Treibstoffen eingesetzt werden. Es liefert zudem wertvolle Beiprodukte.",
+      "url": "https://www.heise.de/news/Kuenstliches-Blatt-mit-Kupfernanostruktur-erzeugt-komplexe-Kohlenwasserstoffe-10287048.html",
+      "image_title": "Solar fuel generator"
     },
     {
       "title": "Schleswig-Holsteins mutiger Umstieg auf LibreOffice & Co. – ein Interview",
@@ -370,15 +376,15 @@
       "url": "https://www.heise.de/hintergrund/Neue-LEO-Satelliten-von-Almagest-AST-SpaceSail-und-Starlink-auf-dem-Markt-10277852.html"
     },
     {
+      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
+      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
+    },
+    {
       "title": "Apple wirbt wieder auf X, kauft Hashtags",
       "teaser": "Seit über einem Jahr gab es keine bezahlte Apple-Werbung mehr auf X, vormals Twitter. Seit letzter Woche ist das nicht mehr so.",
       "url": "https://www.heise.de/news/Apple-wirbt-wieder-auf-X-kauft-Hashtags-10286508.html",
       "image_title": "Unscharfer Elon Musk hinter Smartphone mit Logo von X vor Twitter-Vogel"
-    },
-    {
-      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
-      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
     },
     {
       "title": "Continental: Standort Nürnberg schließt",
@@ -432,12 +438,6 @@
       "teaser": "Am 22. und 23. März ist es wieder so weit, dann öffnen die Chemnitzer Linux-Tage 2025 die Tore für Linux-begeisterte Besucher.",
       "url": "https://www.heise.de/news/Chemnitzer-Linux-Tage-2025-Das-Programm-steht-10286075.html",
       "image_title": "Bild \"Culture of Open Source\" der CLT"
-    },
-    {
-      "title": "Geheimdienste brauchen KI für Auswertung von Datenbergen",
-      "teaser": "Geheimdienste können nach Sicht von Vertretern des Geheimdienstes ohne Automatisierung und KI nur schwer etwas mit den angesammelten Datenbergen anfangen.",
-      "url": "https://www.heise.de/news/Geheimdienste-brauchen-KI-fuer-Datenberge-10285494.html",
-      "image_title": "Zwei Köpfe im Dunkeln, die künstlich aussehen"
     },
     {
       "title": "China: Xi Jinping trifft IT-Bosse, die Aktienkurse der Nichtanwesenden sacken ab",
@@ -613,15 +613,15 @@
       "url": "https://www.heise.de/news/c-t-Workshop-Effiziente-DHCP-Verwaltung-mit-Kea-10280631.html"
     },
     {
-      "title": "Blockadekonzepte: Unerwünschte Internetdienste und Server sperren",
-      "teaser": "Kriminelle Server werden durch Firewalls oder Malware-Blocker begrenzt. Doch Regierungen können sie ohne Netzwerk-Kontakt auch gänzlich verstummen lassen.",
-      "url": "https://www.heise.de/hintergrund/Blockadekonzepte-Unerwuenschte-Internetdienste-und-Server-sperren-10273884.html",
+      "title": "Automatische Foto-Verschlagwortung mit Grafikkartenunterstützung beschleunigen",
+      "teaser": "Bei der Verschlagwortung von Bildern kann künstliche Intelligenz und die Nutzung der PC-Grafikkarte wertvolle Dienste leisten. Wir erklären, wie das geht.",
+      "url": "https://www.heise.de/ratgeber/Automatische-Foto-Verschlagwortung-mit-Grafikkartenunterstuetzung-beschleunigen-10276286.html",
       "image_title": ", KI, Collage c’t"
     },
     {
-      "title": "Fotos in einer Sammlung finden: Multimodale KI in Python einbinden und befragen",
-      "teaser": "KI kann Bilder analysieren und Fragen dazu beantworten. Wir zeigen, wie Sie ein solches KI-Modell in Ihr Python-Skript integrieren und damit Metadaten erzeugen.",
-      "url": "https://www.heise.de/hintergrund/Fotos-in-einer-Sammlung-finden-Multimodale-KI-in-Python-einbinden-und-befragen-10276083.html",
+      "title": "Blockadekonzepte: Unerwünschte Internetdienste und Server sperren",
+      "teaser": "Kriminelle Server werden durch Firewalls oder Malware-Blocker begrenzt. Doch Regierungen können sie ohne Netzwerk-Kontakt auch gänzlich verstummen lassen.",
+      "url": "https://www.heise.de/hintergrund/Blockadekonzepte-Unerwuenschte-Internetdienste-und-Server-sperren-10273884.html",
       "image_title": ", KI, Collage c’t"
     },
     {
@@ -754,21 +754,20 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Die große Auto-Lüge: Wie wir uns selbst in die Katastrophe fahren",
-      "teaser": "Autos töten jedes Jahr mehr Menschen als Kriege. Trotzdem wird die Maschine kaum hinterfragt. Warum sind wir blind für Ihre Zerstörungskraft?",
-      "url": "https://www.heise.de/tp/features/Die-grosse-Auto-Luege-Wie-wir-uns-selbst-in-die-Katastrophe-fahren-10285982.html",
-      "image_title": "Gewicht mit SUVs zerdrückt mit Straßen umschlungene Erdkugel"
+      "title": "Duftkerzen & Co: Die unterschätzte Gefahr für Ihre Atemwege",
+      "teaser": "Raumsprays und Duftkerzen sind beliebt. Doch die vermeintlich harmlosen Produkte können die Luft stark belasten. Was in Ihrer Wohnung jetzt gefährlicher ist als Autoabgase.",
+      "url": "https://www.heise.de/tp/features/Duftkerzen-Co-Die-unterschaetzte-Gefahr-fuer-Ihre-Atemwege-10287126.html"
     },
     {
-      "title": "Russlands langer Weg zum (erneuten) eigenständigen Flugzeugbau",
-      "teaser": "Russlands Luftfahrtindustrie will sich von westlicher Abhängigkeit befreien. Doch der Weg zu eigenen Jets ist beschwerlich. Diesen Sommer soll der Durchbruch gelingen.",
-      "url": "https://www.heise.de/tp/features/Russlands-langer-Weg-zum-erneuten-eigenstaendigen-Flugzeugbau-10279906.html"
+      "title": "Autowelle aus dem Osten: Wie China Russlands Straßen erobert",
+      "teaser": "Seit Kriegsausbruch schaffen chinesische Hersteller in Russland etwas, was in der Zeit mit westlichen Marken nicht geschah: Sie verdrängen einheimische Hersteller vom zivilen Markt. Ein Szenario auch für die EU?",
+      "url": "https://www.heise.de/tp/features/Autowelle-aus-dem-Osten-Wie-China-Russlands-Strassen-erobert-10285858.html"
     },
     {
-      "title": "Nordkorea rüstet auf: Kim Jong Un ordnet Ausbau der Urananreicherung an",
-      "teaser": "Pjöngjang intensiviert die Urananreicherung. Das Atomprogramm sei keine Verhandlungsmasse. Technische Probleme könnten den Fortschritt verzögern.",
-      "url": "https://www.heise.de/tp/features/Nordkorea-ruestet-auf-Kim-Jong-Un-ordnet-Ausbau-der-Urananreicherung-an-10278540.html",
-      "image_title": "Mehrere Personen in einer industriemäßigen Anlage"
+      "title": "US-Zollpläne: Deutsche Autoindustrie besonders gefährdet",
+      "teaser": "Trumps Zollpolitik versetzt Europas Wirtschaft in Alarmbereitschaft. Deutsche Autobauer sehen ihr mit Sorge entgegen. Was passiert, wenn Zölle von 2,5 auf zehn Prozent steigen?",
+      "url": "https://www.heise.de/tp/features/US-Zollplaene-Deutsche-Autoindustrie-besonders-gefaehrdet-10286059.html",
+      "image_title": "Cointainer hinter einem Zaun mit Stacheldraht"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
