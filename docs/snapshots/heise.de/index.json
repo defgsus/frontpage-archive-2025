@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-20T22:08:28",
+  "timestamp": "2025-02-20T23:09:12",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,7 +26,11 @@
   ],
   "articles": [
     {
-      "title": "Amazon sperrt AWS Chime",
+      "title": "MWC: Vodafone zeigt Flugdrohne als Glasfaser-Pflaster",
+      "url": "https://www.heise.de/news/MWC-Vodafone-zeigt-Flugdrohne-als-Glasfaser-Pflaster-10290368.html"
+    },
+    {
+      "title": "Amazon sperrt AWS Chime zu",
       "url": "https://www.heise.de/news/AWS-schliesst-Kommunikationsplattform-Chime-10290334.html"
     },
     {
@@ -60,10 +64,6 @@
     {
       "title": "Selbstfahrendes Auto: Stellantis kündigt automatisiertes Fahren auf Level 3 an",
       "url": "https://www.heise.de/news/Selbstfahrendes-Auto-Stellantis-kuendigt-automatisiertes-Fahren-auf-Level-3-an-10289963.html"
-    },
-    {
-      "title": "Alto: Kanada plant 1000 Kilometer lange Hochgeschwindigkeitszugstrecke",
-      "url": "https://www.heise.de/news/Kanada-plant-Hochgeschwindigkeitszug-von-Toronto-nach-Quebec-City-10289728.html"
     },
     {
       "title": "ISO-SchreibprogrammTails warnt vor balenaEtcher",
@@ -186,21 +186,27 @@
       "image_title": "iPhone 16e"
     },
     {
-      "title": "Amazon sperrt AWS Chime",
+      "title": "MWC: Vodafone zeigt Flugdrohne als Glasfaser-Pflaster",
+      "teaser": "Mittels Flugdrohnen möchte Vodafone kurzfristige Glasfaser-Lücken überbrücken. Laser aus dem Google-Konzern helfen dabei.",
+      "url": "https://www.heise.de/news/MWC-Vodafone-zeigt-Flugdrohne-als-Glasfaser-Pflaster-10290368.html",
+      "image_title": "Quadkopter mit weißem Lasermodul schwebt über einem Rasen"
+    },
+    {
+      "title": "Amazon sperrt AWS Chime zu",
       "teaser": "Der Unified-Communications-Dienst Chime von Amazon Web Services akzeptiert keine neuen Kunden mehr und schließt in einem Jahr. Partner Slack darf weitermachen.",
       "url": "https://www.heise.de/news/AWS-schliesst-Kommunikationsplattform-Chime-10290334.html",
       "image_title": "Callcenter symbolisiert durch 2 Playmobil-Figuren"
+    },
+    {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Digital Services Act: Nutzerzahlen bei Porno-Plattformen in der EU brechen ein",
       "teaser": "Die vier größten europäischen Erotik-Portale weisen plötzlich deutlich weniger User aus als im Vorjahr. Nur noch XNXX müsste die strengsten DSA-Regeln beachten.",
       "url": "https://www.heise.de/news/Digital-Services-Act-Nutzerzahlen-bei-Porno-Plattformen-in-der-EU-brechen-ein-10290219.html",
       "image_title": "Screenshot Pornhub"
-    },
-    {
-      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
-      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Die beste Dashcam fürs Auto im Test – Testsieger von Garmin & Nextbase",
@@ -230,12 +236,6 @@
       "teaser": "In Kanada soll die erste Trasse für Hochgeschwindigkeitszüge gebaut werden. Es sei das bisher größte Infrastruktur des Landes, sagt Premier Justin Trudeau.",
       "url": "https://www.heise.de/news/Kanada-plant-Hochgeschwindigkeitszug-von-Toronto-nach-Quebec-City-10289728.html",
       "image_title": "Hochgeschwindigkeitszug TGV"
-    },
-    {
-      "title": "Open Source ECAD: Version 9 von KiCAD veröffentlicht",
-      "teaser": "Das große Elektronik-CAD-System KiCAD erreicht die neunte Version. Mit den jährlichen Updates sollen Planungssicherheit und Aktualität gesichert werden.",
-      "url": "https://www.heise.de/news/Open-Source-ECAD-Version-9-von-KiCAD-veroeffentlicht-10285933.html",
-      "image_title": "KiCAD GUI und große Zahl 9"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Open Source ECAD: Version 9 von KiCAD veröffentlicht",
+      "teaser": "Das große Elektronik-CAD-System KiCAD erreicht die neunte Version. Mit den jährlichen Updates sollen Planungssicherheit und Aktualität gesichert werden.",
+      "url": "https://www.heise.de/news/Open-Source-ECAD-Version-9-von-KiCAD-veroeffentlicht-10285933.html",
+      "image_title": "KiCAD GUI und große Zahl 9"
     },
     {
       "title": "Von 5c bis iPhone 16e: Apples turbulente Budget-iPhones | Mac & i-Podcast",
@@ -370,14 +376,14 @@
       "url": "https://www.heise.de/ratgeber/Desinfec-t-Potenziell-gefaehrliche-PDF-Dokumente-mit-QPDF-entschluesseln-10271961.html"
     },
     {
+      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
+      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
+    },
+    {
       "title": "Schimpfolino-Weiterentwicklung: Schimpfen jetzt über Handy und Smart Speaker",
       "teaser": "Der in der Make vorgestellte Schimpfwortgenerator Schimpfolino hat zwei Ableger bekommen: Jetzt kann man auch via Handy und Smart Speaker schimpfen.",
       "url": "https://www.heise.de/news/Make-Projekt-Schimpfolino-Schimpfen-jetzt-auch-ueber-Handy-und-Smart-Speaker-10289014.html"
-    },
-    {
-      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
-      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
     },
     {
       "title": "Neue Siri-Features wandern wohl in iOS 18.5",
@@ -432,12 +438,6 @@
       "teaser": "Seit mindestens 7 Jahren arbeitet Apple an einem eigenen 5G-Modem-Chip, nun erscheint er endlich. Der C1 kostete Milliarden und kommt teilweise aus München.",
       "url": "https://www.heise.de/news/Apple-5G-Modem-C1-Monumentale-technische-Errungenschaft-10288653.html",
       "image_title": "Apple C1: Erstes 5G-Modem von Apple"
-    },
-    {
-      "title": "Atomkernuhren: Die nächste Generation der Zeitmessung",
-      "teaser": "Mit Atomkernen als Taktgeber sollen diese Uhren die präzisesten der Welt werden. Forscher meisterten diverse Herausforderungen und erlebten nun den Durchbruch.",
-      "url": "https://www.heise.de/hintergrund/Atomkernuhren-Die-naechste-Generation-der-Zeitmessung-10270293.html",
-      "image_title": "Atom mit Uhr"
     },
     {
       "title": "UpdateAuch Ironwolf betroffen: Festplatten-Betrug wird raffinierter",
@@ -744,10 +744,9 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Tödliche Zeitbombe im Eis: Erwachen uralte Bakterien in der Arktis?",
-      "teaser": "Die Arktis taut schneller als je zuvor. 2016 tötete ein aufgetautes Milzbrand-Bakterium bereits über 2.500 Rentiere in Sibirien. Was, wenn noch gefährlichere Erreger erwachen?",
-      "url": "https://www.heise.de/tp/features/Toedliche-Zeitbombe-im-Eis-Erwachen-uralte-Bakterien-in-der-Arktis-10282722.html",
-      "image_title": "Mikroben (als Strichzeichnung) hinter Eis"
+      "title": "Bundestagswahl 2025: Wenig Personal, kurze Fristen, Zweifel an Briefwahl",
+      "teaser": "Die vorgezogene Bundestagswahl stellt Kommunen vor massive Probleme. Vor allem fehlen Wahlhelfer und die Zeit drängt. Was passiert, wenn nicht alle ihre Stimme abgeben können?",
+      "url": "https://www.heise.de/tp/features/Bundestagswahl-2025-Wenig-Personal-kurze-Fristen-Zweifel-an-Briefwahl-10290227.html"
     },
     {
       "title": "Showdown mit Elon Musk: Pentagon wehrt sich gegen Doge",
@@ -756,10 +755,10 @@
       "image_title": "Schriftzug des Pentagon mit US-Flagge"
     },
     {
-      "title": "Smotrichs Vision: Zurück nach 1948 im Westjordanland",
-      "teaser": "Israels Finanzminister Smotrich will mehr palästinensische Häuser abreißen als neue gebaut werden. Seine Vision für das Westjordanland ist klar. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Smotrichs-Vision-Zurueck-nach-1948-im-Westjordanland-10287798.html",
-      "image_title": "Ein Mann im Anzug, im Vordergrund uniformierte Personen"
+      "title": "Frieden ohne Ukraine? USA und Russland verhandeln in Riad",
+      "teaser": "Rubio und Lawrow haben sich in Riad getroffen. Ein Treffen zwischen Trump und Putin soll folgen. Geht es um Frieden, strategisches Kalkül oder um beides?",
+      "url": "https://www.heise.de/tp/features/Frieden-ohne-Ukraine-USA-und-Russland-verhandeln-in-Riad-10287529.html",
+      "image_title": "Zwei Leute schütteln die Hand hinter der Russischen und der US-amerikanischen Flagge"
     },
     {
       "title": "Alternativen zu Google, Microsoft & Co.",
