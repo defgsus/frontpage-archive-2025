@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-20T03:14:24",
+  "timestamp": "2025-02-20T04:11:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Microsoft bezeichnet neuen Majorana-Chip als Durchbruch für Quantencomputing",
+      "url": "https://www.heise.de/news/Microsoft-bezeichnet-neuen-Majorana-Chip-als-Durchbruch-fuer-Quantencomputing-10288761.html"
+    },
     {
       "title": "Murena bringt Pixel Tablet mit ohne Google",
       "url": "https://www.heise.de/news/Murena-bringt-Pixel-Tablet-mit-ohne-Google-10288733.html"
@@ -60,10 +64,6 @@
     {
       "title": "Einstiegs-iPhone: Apple legt iPhone SE als \"16e\" komplett neu auf",
       "url": "https://www.heise.de/news/iPhone-16e-Grosser-Neustart-fuer-Apples-Einstiegs-iPhone-10277171.html"
-    },
-    {
-      "title": "eero 7: Amazons günstigsten Router mit Wi-Fi 7",
-      "url": "https://www.heise.de/news/Amazon-stellt-seine-guenstigsten-Router-mit-Wi-Fi-7-vor-10288415.html"
     },
     {
       "title": "UpdateEinstiegs-iPhoneApple legt iPhone SE als \"16e\" komplett neu auf",
@@ -183,21 +183,27 @@
       "image_title": "Aufmacherbild Zahlen, bitte"
     },
     {
+      "title": "Microsoft bezeichnet neuen Majorana-Chip als Durchbruch für Quantencomputing",
+      "teaser": "Majorana 1 ist laut Microsoft der erste Quantenprozessor basierend auf topologischen Qubits. Der Chip soll enorm leistungsfähige Quantencomputer ermöglichen.",
+      "url": "https://www.heise.de/news/Microsoft-bezeichnet-neuen-Majorana-Chip-als-Durchbruch-fuer-Quantencomputing-10288761.html",
+      "image_title": "Microsofts Quantenprozessor Majorana 1"
+    },
+    {
       "title": "Murena bringt Pixel Tablet mit ohne Google",
       "teaser": "Der Entwickler des alternativen Smartphone-Betriebssystems /e/OS verkauft sein erstes Tablet: Es hat einen Google-Chip, aber kein Google-Tracking.",
       "url": "https://www.heise.de/news/Murena-bringt-Pixel-Tablet-mit-ohne-Google-10288733.html",
       "image_title": "Murena Pixel Tablet"
     },
     {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Skonto für Google: 326 Millionen Euro Steuernachzahlung statt einer Milliarde",
       "teaser": "Nach einem aufgeklärten Missverständnis muss Google in Italien 306 Millionen Euro Steuern nachzahlen. Ach nein, das war 2017. Diesmal sind es 326 Millionen.",
       "url": "https://www.heise.de/news/Missverstaendnis-Google-entkommt-Milliardenforderung-der-italienischen-Steuer-10288693.html",
       "image_title": "Drei grau uniformierte Beamte der italienischen Guadia di Finanza, im Hintergrund ein Einsatzfahrzeug"
-    },
-    {
-      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
-      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: E-Mountainbike – das beste günstige E-MTB im Test kostet 800 Euro",
@@ -225,12 +231,6 @@
       "title": "Erweiterter Support: Oracle-Datenbank 19c erhält Unterstützung bis Ende 2032",
       "teaser": "Oracle hat den Support für seine Datenbanken der Version 19c erneut verlängert. Insgesamt gibt es nun fünf Jahre zusätzliche Unterstützung.",
       "url": "https://www.heise.de/news/Fuenf-Jahre-Extra-Support-Oracle-19c-bekommt-Unterstuetzung-bis-Ende-2032-10288121.html"
-    },
-    {
-      "title": "Photoshop: Vor 35 Jahre veröffentlichte Adobe Version 1",
-      "teaser": "Adobe blickt auf 35 Jahre Entwicklungsgeschichte von Photoshop zurück: von einfacher Bildbearbeitung hin zum Bestandteil der umfangreichen Creative Cloud.",
-      "url": "https://www.heise.de/news/Photoshop-Vor-35-Jahre-veroeffentlichte-Adobe-Version-1-10288267.html",
-      "image_title": "Bildschirmfoto von Photoshop"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -261,16 +261,17 @@
       "url": "https://www.heise.de/news/Elon-Musk-will-Uebernahmeangebot-zurueckziehen-wenn-OpenAI-gemeinnuetzig-bleibt-10281718.html"
     },
     {
-      "title": "DeepSeek ohne China-Verbindung testen: Chatbot lokal installieren und ausführen",
-      "url": "https://www.heise.de/ratgeber/DeepSeek-ohne-China-Verbindung-testen-Chatbot-lokal-installieren-und-ausfuehren-10261374.html"
+      "title": "Was die nächste Solarzellengeneration leistet: 50 Prozent Wirkungsgrad",
+      "url": "https://www.heise.de/hintergrund/Was-die-naechste-Solarzellengeneration-leistet-50-Prozent-Wirkungsgrad-10241339.html",
+      "image_title": "Nahaufnahme einer Hand auf einem Solarpaneel mit leuchtenden Linien"
     },
     {
       "title": "Heizen mit der mobilen Klimaanlage: Midea PortaSplit statt Heizlüfter",
       "url": "https://www.heise.de/tests/Heizen-mit-der-mobilen-Klimaanlage-Midea-PortaSplit-statt-Heizluefter-10273836.html"
     },
     {
-      "title": "Sechs Speicher für Balkonkraftwerke im Test",
-      "url": "https://www.heise.de/tests/Sechs-Speicher-fuer-Balkonkraftwerke-im-Test-10267879.html"
+      "title": "DeepSeek ohne China-Verbindung testen: Chatbot lokal installieren und ausführen",
+      "url": "https://www.heise.de/ratgeber/DeepSeek-ohne-China-Verbindung-testen-Chatbot-lokal-installieren-und-ausfuehren-10261374.html"
     },
     {
       "title": "Thermomix TM7 mit großem Touch-Display kommt im April",
@@ -294,6 +295,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Photoshop: Vor 35 Jahre veröffentlichte Adobe Version 1",
+      "teaser": "Adobe blickt auf 35 Jahre Entwicklungsgeschichte von Photoshop zurück: von einfacher Bildbearbeitung hin zum Bestandteil der umfangreichen Creative Cloud.",
+      "url": "https://www.heise.de/news/Photoshop-Vor-35-Jahre-veroeffentlichte-Adobe-Version-1-10288267.html",
+      "image_title": "Bildschirmfoto von Photoshop"
     },
     {
       "title": "Ouvis F1K im Test: Edler Mini-PC mit Glasoberseite & Aluminiumgehäuse",
@@ -366,14 +373,14 @@
       "image_title": "Digital,Classroom,Concept,For,Online,Education.,Modern,Classroom,Desks,On"
     },
     {
+      "title": "Intelligente Cyberabwehr fängt bei den Mitarbeitern an",
+      "teaser": "Wie Sie Ihre Mitarbeiter zu einer starken Verteidigungslinie gegen Cyberangriffe machen und dadurch Risiken deutlich reduzieren, erfahren Sie im Live-Webcast am 18. März 2025 um 11:00 Uhr.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/intelligente-cyberabwehr-faengt-bei-den-mitarbeitern-an-4873/?source=hbsad-ersatz"
+    },
+    {
       "title": "Cisco Live 2025: Neues Servermodell für KI im RZ und optionale Cloud-Verwaltung",
       "teaser": "Den KI-Trend in den Rechenzentren will Cisco mit neuem Servermodell und Konzepten für den eigenen KI-Cluster bedienen.",
       "url": "https://www.heise.de/news/Cisco-Live-2025-Neues-Servermodell-fuer-KI-im-RZ-und-optionale-Cloud-Verwaltung-10287743.html"
-    },
-    {
-      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
-      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
     },
     {
       "title": "Automatische Foto-Verschlagwortung mit Grafikkartenunterstützung beschleunigen",
@@ -429,30 +436,19 @@
       "image_title": "Der App Store auf dem iPhone"
     },
     {
-      "title": "AlertSicherheitsupdate OpenSSH: Angreifer können sich in Verbindungen einklinken",
-      "teaser": "In der aktuellen OpenSSH-Version haben die Entwickler zwei Schwachstellen geschlossen. Attacken sind aber an bestimmte Voraussetzungen gebunden.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-OpenSSH-Angreifer-koennen-sich-in-Verbindungen-einklinken-10287547.html",
-      "image_title": "Update-Anzeige auf Bildschirm"
-    },
-    {
       "title": "\"Apple Launch\": Was am Mittwoch kommen könnte und was nicht",
       "url": "https://www.heise.de/news/Apple-Launch-Was-am-Mittwoch-kommen-koennte-und-was-nicht-10284616.html",
       "image_title": "Tim Cook bei einer Produktvorstellung im September 2022"
     },
     {
-      "title": "xAI veröffentlicht Grok 3 – Modellfamilie im Musk-Stil",
-      "url": "https://www.heise.de/news/xAI-veroeffentlicht-Grok-3-Modellfamilie-im-Musk-Stil-10285562.html",
-      "image_title": "Ein Team von xAI und Elon Musk im Livestream."
+      "title": "Wiener Spitäler brauchen neue Fax-Anlage",
+      "url": "https://www.heise.de/news/Wiener-Spitaeler-brauchen-neue-Fax-Anlage-10287324.html",
+      "image_title": "Altes Faxgerät"
     },
     {
-      "title": "China: Xi Jinping trifft IT-Bosse, die Aktienkurse der Nichtanwesenden sacken ab",
-      "url": "https://www.heise.de/news/China-Xi-Jinping-trifft-IT-Bosse-die-Aktienkurse-der-Nichtanwesenden-sacken-ab-10285558.html",
-      "image_title": "Chinesische Flage vor Darstellung einer Handelskurve der Börse"
-    },
-    {
-      "title": "Wohl viele große Himmelskörper von Alpha Centauri am Rand des Sonnensystems",
-      "url": "https://www.heise.de/news/Eine-Million-interstellare-Objekte-von-Alpha-Centauri-am-Rand-des-Sonnensystems-10284730.html",
-      "image_title": "Ein länglicher Himmelskörper, im Hintergrund die kleine Sonne"
+      "title": "Zu viele Channels-Nutzer: WhatsApp droht VLOP",
+      "url": "https://www.heise.de/news/WhatsApp-ueberschreitet-EU-Schwellenwert-Strengere-Regulierung-droht-10287130.html",
+      "image_title": "Whatsapp, schematische Darstellung"
     },
     {
       "title": "Unerwartetes TV-Signal in Messdaten könnte Radioastronomie retten helfen",
@@ -460,24 +456,34 @@
       "image_title": "Metallspinnen in Steppenlandschaft"
     },
     {
-      "title": "Potenziell gefährlicher Asteroid 2024 YR₄: Raumfahrtkonzern OHB prüft Abwehrplan",
-      "url": "https://www.heise.de/news/Potenziell-gefaehrlicher-Asteroid-2024-YR-Raumfahrtkonzern-OHB-prueft-Abwehrplan-10285624.html",
-      "image_title": "Rendering eines Gesteinsbrockens im All, im Hintergrund die Erde"
+      "title": "Gegen den \"Uncanny Valley\"-Effekt: KI-Vision-System macht Roboter lebensechter",
+      "url": "https://www.heise.de/news/Realbotix-KI-Vision-System-macht-humanoide-Roboter-realistischer-10286284.html",
+      "image_title": "Gleich aussehender Mensch und Roboter nebeneinander"
     },
     {
-      "title": "BSI-Bericht: Erhebliche Schwachstellen bei Fitness-Trackern & Co.",
-      "url": "https://www.heise.de/news/BSI-Bericht-Erhebliche-Schwachstellen-bei-Fitness-Trackern-Co-10285313.html",
-      "image_title": "Person mit Fitness-Armband bindet sich Sportschuhe"
+      "title": "Künstliches Blatt mit Kupfernanostruktur erzeugt komplexe Kohlenwasserstoffe",
+      "url": "https://www.heise.de/news/Kuenstliches-Blatt-mit-Kupfernanostruktur-erzeugt-komplexe-Kohlenwasserstoffe-10287048.html",
+      "image_title": "Solar fuel generator"
     },
     {
-      "title": "iPhone SE 4: Bessere Verkäufe als je zuvor?",
-      "url": "https://www.heise.de/news/iPhone-SE-4-Bessere-Verkaeufe-als-je-zuvor-10284356.html",
-      "image_title": "Ein iPhone 14, hier mit Bluesky-App"
+      "title": "Konkurrent fürs Smartphone gescheitert: HP kauft Humane, AI Pin wird stillgelegt",
+      "url": "https://www.heise.de/news/Konkurrent-fuers-Smartphone-gescheitert-HP-kauft-Humane-AI-Pin-wird-stillgelegt-10287378.html",
+      "image_title": "Person in einer Jacke mit dem bdaran befestigten AI PIN"
     },
     {
-      "title": "Zu viele Channels-Nutzer: WhatsApp droht VLOP",
-      "url": "https://www.heise.de/news/WhatsApp-ueberschreitet-EU-Schwellenwert-Strengere-Regulierung-droht-10287130.html",
-      "image_title": "Whatsapp, schematische Darstellung"
+      "title": "Importzölle: Acer erhöht Notebookpreise für US-Endkunden",
+      "url": "https://www.heise.de/news/Wegen-Importzoellen-Acer-hebt-Notebook-Preise-in-USA-um-10-Prozent-an-10287410.html",
+      "image_title": "Acer Notebook auf Tisch"
+    },
+    {
+      "title": "Apple wirbt wieder auf X, kauft Hashtags",
+      "url": "https://www.heise.de/news/Apple-wirbt-wieder-auf-X-kauft-Hashtags-10286508.html",
+      "image_title": "Unscharfer Elon Musk hinter Smartphone mit Logo von X vor Twitter-Vogel"
+    },
+    {
+      "title": "Trotz Mega-Erfolg: Netease schmeißt US-Entwickler hinter \"Marvel Rivals\" raus",
+      "url": "https://www.heise.de/news/Trotz-Mega-Erfolg-Netease-schmeisst-US-Entwickler-hinter-Marvel-Rivals-raus-10287525.html",
+      "image_title": "Screenshot aus \"Marvel Rivals\""
     },
     {
       "title": "Tesla-Supercharger: Kabeldiebe erleben ihr blaues Wunder",
@@ -489,24 +495,19 @@
       "image_title": "Steam-Seite von PirateFi"
     },
     {
-      "title": "Spotify: HiFi-Abo soll bis zu 6 US-Dollar teurer sein",
-      "url": "https://www.heise.de/news/Mehr-Tonqualitaet-fuer-mehr-Geld-Spotify-HiFi-soll-dieses-Jahr-wirklich-kommen-10285632.html",
-      "image_title": "Spotify-Logo auf Handy vor grünem Hintergrund"
+      "title": "Girocard wächst, Bankomatkarte wächst schneller",
+      "url": "https://www.heise.de/news/Statistik-2024-Bargeldloses-Zahlen-mit-Girocard-im-Handel-am-meisten-gefragt-10287308.html",
+      "image_title": "Kreditkarterterminal, daneben ein Thermodrucker"
     },
     {
-      "title": "US-Urteil: Recht auf Autoreparatur ist nicht illegal",
-      "url": "https://www.heise.de/news/US-Urteil-Recht-auf-Autoreparatur-ist-nicht-illegal-10285516.html",
-      "image_title": "Autowerkstatt"
+      "title": "UpdateBericht: NASA hat in einem Monat rund 10 Prozent aller Stellen gestrichen",
+      "url": "https://www.heise.de/news/Bericht-NASA-hat-in-einem-Monat-rund-10-Prozent-aller-Stellen-gestrichen-10287346.html",
+      "image_title": "NASA-Logo auf einem Modell der Erdkugel vor dem Kennedy Space Center"
     },
     {
-      "title": "Ray-Ban Meta Glasses: Massive Produktionssteigerung geplant",
-      "url": "https://www.heise.de/news/Ray-Ban-Meta-Glasses-Massive-Produktionssteigerung-geplant-10285498.html",
-      "image_title": "Die von Ray Ban entworfenen AR-Brillen von Meta."
-    },
-    {
-      "title": "Humanoid zeigt seinen ersten humanoiden Roboter HMND 01",
-      "url": "https://www.heise.de/news/Humanoid-zeigt-seinen-ersten-humanoiden-Roboter-HMND-01-10285210.html",
-      "image_title": "HMND 01 Roboter läuft Gang entlang."
+      "title": "Bericht: Milliarden-Deal um \"Pokémon Go\"",
+      "url": "https://www.heise.de/news/Bericht-Milliarden-Deal-um-Pokemon-Go-10287515.html",
+      "image_title": "Ein Wasserpokémon, Quapsel, am Strand in Santa Cruz."
     },
     {
       "title": "Justizposse: \"Löschanspruch\" beim Handelsregister-Portal ist nicht durchsetzbar",
@@ -514,28 +515,28 @@
       "image_title": "Eine Person sitzt am Laptop. Davor ein Symbol für einen offenen Ordner. Drumherum verschiedene Dateien, ebenfalls als Symbole."
     },
     {
+      "title": "\"Schon gespielt?\": Der Wahl-O-Mat zur Bundestagswahl mit neuem Nutzungsrekord",
+      "url": "https://www.heise.de/news/Schon-gespielt-Der-Wahl-O-Mat-zur-Bundestagswahl-mit-neuem-Nutzungsrekord-10287492.html",
+      "image_title": "Ein T-Shirt mit der Aufschrift \"Willst du mit mir wählen gehen\""
+    },
+    {
       "title": "Nach Urteil: Einspruch von X gegen Weitergabe von Daten zur Bundestagswahl",
       "url": "https://www.heise.de/news/Einspruch-gegen-Urteil-X-will-Forschern-keinen-Zugriff-auf-Daten-zur-Wahl-geben-10285792.html",
       "image_title": "X-Symbol auf einem Smartphone. Das Smartphone liegt auf einer Mac--Notebook-Tastatur."
     },
     {
-      "title": "Souveräne Cloud: Europa braucht einen Sovereign Cloud Code of Conduct",
-      "url": "https://www.heise.de/news/Souveraene-Cloud-Europa-braucht-einen-Sovereign-Cloud-Code-of-Conduct-10286621.html",
-      "image_title": "EU Cloud"
+      "title": "Mittwoch: Neues Fax-System für Wien, Bezahlkarten in Österreich häufiger genutzt",
+      "url": "https://www.heise.de/news/Mittwoch-Neues-Fax-System-fuer-Wien-Bezahlkarten-in-Oesterreich-haeufiger-genutzt-10287358.html",
+      "image_title": "Menschliche Hand zieht Blatt aus Faxgerät; Mittwoch: Spital-Faxen, Zahlkarten-Wachstum, NASA-Entlassungen, Megaprojekt-Hafen & Solarzellen-Neuerungen"
     },
     {
-      "title": "Dienstag: Kampf um Verbraucherrechte, Ray-Ban Meta-Brille ein Verkaufshit",
-      "url": "https://www.heise.de/news/Dienstag-Kampf-um-Verbraucherrechte-Ray-Ban-Meta-Brille-ein-Verkaufshit-10285550.html",
-      "image_title": "Diesel-Motor, dazu Text: DIENSTAG Autoreparatur, Ray-Ban Meta-Brille, Loop-Transportsystem, Alpha Centauri & Humanoid"
+      "title": "KI-Update kompakt: Grok 3, KI-Agenten, Mistrals Saba, Küstenschutz",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Grok-3-KI-Agenten-Mistrals-Saba-Kuestenschutz-10286265.html",
+      "image_title": "Aufmacherbild KI Update"
     },
     {
-      "title": "Neue Methoden zur Nanostrukturherstellung entwickelt",
-      "url": "https://www.heise.de/news/Nanostrukturen-Molekularer-Schnellkochtopf-aus-dem-Deutschen-Museum-10284722.html",
-      "image_title": "Mann experimentiert mit Graphit als Unterlage für die Molekül-Synthese im Nanolabor des Deutschen Museums."
-    },
-    {
-      "title": "KI-Update kompakt: OpenAI, Perplexity, Adobe Firefly, DeepSeek",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-OpenAI-Perplexity-Adobe-Firefly-DeepSeek-10282608.html"
+      "title": "Trumps neue Erlasse: Freibrief für Tiktok, DOGE verpufft",
+      "url": "https://www.heise.de/news/Trumps-neue-Erlasse-Freibrief-fuer-Tiktok-DOGE-verpufft-10249771.html"
     },
     {
       "title": "Live Fragen stellenheise+ Expertentalk: Jobs in der IT-Branche",
@@ -582,31 +583,31 @@
       "url": "https://www.heise.de/multimediadatei/KI-Gipfel-in-Paris-iCloud-in-UK-20-Jahre-Google-Maps-heiseshow-10281892.html"
     },
     {
+      "title": "Ifo study: Germany is one of the top nations in the semiconductor industry",
+      "url": "https://www.heise.de/en/news/Ifo-study-Germany-is-one-of-the-top-nations-in-the-semiconductor-industry-10287033.html",
+      "image_title": "Chip structures on silicon wafers"
+    },
+    {
       "title": "\"Anno 117\": Registration for beta test now open",
       "url": "https://www.heise.de/en/news/Anno-117-Registration-for-beta-test-now-open-10277611.html",
       "image_title": "Screenshot aus \"Anno 117\""
     },
     {
       "title": "Analyst: Apple's Studio Display 2 finally arrives – with new features",
-      "url": "https://www.heise.de/en/news/Analyst-Apple-s-Studio-Display-2-finally-arrives-with-new-features-10282570.html",
-      "image_title": "Mac accessories and Studio Dispay"
+      "url": "https://www.heise.de/en/news/Analyst-Apple-s-Studio-Display-2-finally-arrives-with-new-features-10282570.html"
+    },
+    {
+      "title": "Realbotix: AI vision system makes humanoid robots more realistic",
+      "url": "https://www.heise.de/en/news/Realbotix-AI-vision-system-makes-humanoid-robots-more-realistic-10286373.html"
     },
     {
       "title": "JetBrains stops own IDE plans: Kotlin multiplatform development in focus",
       "url": "https://www.heise.de/en/news/JetBrains-stops-own-IDE-plans-Kotlin-multiplatform-development-in-focus-10282312.html"
     },
     {
-      "title": "Discord introduces its new \"Ignore\" function",
-      "url": "https://www.heise.de/en/news/Discord-introduces-its-new-Ignore-function-10278404.html"
-    },
-    {
-      "title": "Potentially dangerous asteroid 2024 YR₄: space company OHB examines defense plan",
-      "url": "https://www.heise.de/en/news/Potentially-dangerous-asteroid-2024-YR-space-company-OHB-examines-defense-plan-10285714.html"
-    },
-    {
-      "title": "Fotos in einer Sammlung finden: Multimodale KI in Python einbinden und befragen",
-      "teaser": "KI kann Bilder analysieren und Fragen dazu beantworten. Wir zeigen, wie Sie ein solches KI-Modell in Ihr Python-Skript integrieren und damit Metadaten erzeugen.",
-      "url": "https://www.heise.de/hintergrund/Fotos-in-einer-Sammlung-finden-Multimodale-KI-in-Python-einbinden-und-befragen-10276083.html",
+      "title": "Automatische Foto-Verschlagwortung mit Grafikkartenunterstützung beschleunigen",
+      "teaser": "Bei der Verschlagwortung von Bildern kann künstliche Intelligenz und die Nutzung der PC-Grafikkarte wertvolle Dienste leisten. Wir erklären, wie das geht.",
+      "url": "https://www.heise.de/ratgeber/Automatische-Foto-Verschlagwortung-mit-Grafikkartenunterstuetzung-beschleunigen-10276286.html",
       "image_title": ", KI, Collage c’t"
     },
     {
@@ -615,10 +616,10 @@
       "url": "https://www.heise.de/en/news/Ironwolf-also-affected-Hard-drive-fraud-is-becoming-more-sophisticated-10287099.html"
     },
     {
-      "title": "So funktioniert der neue WLAN-StandardGrundlagen von Wi-Fi 7",
-      "teaser": "Die ersten Apple-Geräte haben das flottere Wi-Fi 7 an Bord. Wir erklären, was neu ist und wie viel es bringen kann.",
-      "url": "https://www.heise.de/hintergrund/Grundlagen-von-Wi-Fi-7-So-funktioniert-der-neue-WLAN-Standard-10263971.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
+      "title": "Fotos in einer Sammlung finden: Multimodale KI in Python einbinden und befragen",
+      "teaser": "KI kann Bilder analysieren und Fragen dazu beantworten. Wir zeigen, wie Sie ein solches KI-Modell in Ihr Python-Skript integrieren und damit Metadaten erzeugen.",
+      "url": "https://www.heise.de/hintergrund/Fotos-in-einer-Sammlung-finden-Multimodale-KI-in-Python-einbinden-und-befragen-10276083.html",
+      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "Router mit Wi-Fi 7 und 6 GHz ausprobiert: Was es für Apple-Anwender bringt",
@@ -627,10 +628,16 @@
       "image_title": "AVM Fritzbox 5690 Pro mit Wi-Fi 7"
     },
     {
-      "title": "AusprobiertAirPods Max gegen die Top-Konkurrenz",
-      "teaser": "Lohnt sich der Umstieg von den AirPods Max zum Wettbewerb, wenn man bereits im Apple-Ökosystem unterwegs ist?",
-      "url": "https://www.heise.de/ratgeber/Ausprobiert-AirPods-Max-gegen-die-Topkonkurrenten-von-Bose-Sonos-und-Sony-10259284.html",
-      "image_title": "Sony, Sonos und Bose treten gegen Apples AirPods Max an"
+      "title": "So funktioniert der neue WLAN-StandardGrundlagen von Wi-Fi 7",
+      "teaser": "Die ersten Apple-Geräte haben das flottere Wi-Fi 7 an Bord. Wir erklären, was neu ist und wie viel es bringen kann.",
+      "url": "https://www.heise.de/hintergrund/Grundlagen-von-Wi-Fi-7-So-funktioniert-der-neue-WLAN-Standard-10263971.html",
+      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
+    },
+    {
+      "title": "Was passt zum Mac?Extrabreite Displays im Test",
+      "teaser": "Monitore mit überbreiten Seitenverhältnissen bieten mehr Arbeitsfläche als Apple-Bildschirme. So behält man auch ohne ein Zweitdisplay viele Fenster im Blick.",
+      "url": "https://www.heise.de/tests/Extrabreite-Displays-im-Test-Was-passt-zum-Mac-10268980.html",
+      "image_title": "Ultrawide-Display von LG"
     },
     {
       "title": "AlertBootloader U-Boot: Sicherheitslücken ermöglichen Umgehen der Chain-of-Trust",
@@ -651,6 +658,12 @@
       "image_title": "Bild \"Culture of Open Source\" der CLT"
     },
     {
+      "title": "Spiegellose Systemkamera: Canon EOS R1 im Test",
+      "teaser": "Die EOS 1 war bereits zu Analogzeiten das Kamera-Flaggschiff und wurde früh Teil der digitalen Welt. Nun hat sie mit der EOS R1 endlich den Spiegel abgelegt.",
+      "url": "https://www.heise.de/tests/Spiegellose-Systemkamera-Canon-EOS-R1-im-Test-10284833.html",
+      "image_title": ", Peter Nonhoff-Arps"
+    },
+    {
       "title": "Unter EulenClick Boom Flash # 31 \"Vogelfotografie“",
       "teaser": "\"Romeo sag mal: Huhu!\", bittet Fotografin Rosl Rössner ihren gefiederten Begleiter. Er tut, wie ihm geheißen und huhut ins Mikrofon.",
       "url": "https://www.heise.de/news/Unter-Eulen-Click-Boom-Flash-31-Vogelfotografie-10281283.html",
@@ -665,12 +678,6 @@
       "title": "Regenbogen-Eis und in US-Flaggen gehüllte Hunde: Die Bilder der Woche KW 6",
       "teaser": "Auch diese Woche fangen unsere Galeriefotografen vielfältige Motive ein – von Eismustern über Hunde in US-Flaggen bis zur beeindruckender Natur.",
       "url": "https://www.heise.de/news/Regenbogen-Eis-und-in-US-Flaggen-gehuellte-Hunde-Die-Bilder-der-Woche-KW-6-10282011.html"
-    },
-    {
-      "title": "BildbearbeitungPhotoshop-Alternative Pixelmator Pro gehört jetzt Apple",
-      "teaser": "Offenbar gab es keine Einwände von Regulierern: Die beliebten Pixelmator-Apps ordnen sich offiziell Apple zu.",
-      "url": "https://www.heise.de/news/Photoshop-Alternative-Pixelmator-Pro-gehoert-jetzt-Apple-10280308.html",
-      "image_title": "Hinweis auf Apple-Übernahme in Photomator"
     },
     {
       "title": "DeepSeek-R1: Die Technik hinter dem Hype",
@@ -747,21 +754,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Unabhängigkeit der Medien: Wer zahlt, bestimmt die Richtung",
-      "teaser": "Die Mittel für USAID werden gestrichen. Weltweit bangen Redaktionen um ihre Existenz. Wie unabhängig sind diese Medien? Die Millionen-Dollar-Frage. Analyse.",
-      "url": "https://www.heise.de/tp/features/Unabhaengigkeit-der-Medien-Wer-zahlt-bestimmt-die-Richtung-10286382.html",
-      "image_title": "Zeigefinger eines Chefs bei einem Gespräch"
-    },
-    {
-      "title": "Duftkerzen & Co: Die unterschätzte Gefahr für Ihre Atemwege",
-      "teaser": "Raumsprays und Duftkerzen sind beliebt. Doch die vermeintlich harmlosen Produkte können die Luft stark belasten. Was in Ihrer Wohnung jetzt gefährlicher ist als Autoabgase.",
-      "url": "https://www.heise.de/tp/features/Duftkerzen-Co-Die-unterschaetzte-Gefahr-fuer-Ihre-Atemwege-10287126.html"
-    },
-    {
       "title": "Tödliche Zeitbombe im Eis: Erwachen uralte Bakterien in der Arktis?",
       "teaser": "Die Arktis taut schneller als je zuvor. 2016 tötete ein aufgetautes Milzbrand-Bakterium bereits über 2.500 Rentiere in Sibirien. Was, wenn noch gefährlichere Erreger erwachen?",
       "url": "https://www.heise.de/tp/features/Toedliche-Zeitbombe-im-Eis-Erwachen-uralte-Bakterien-in-der-Arktis-10282722.html",
       "image_title": "Mikroben (als Strichzeichnung) hinter Eis"
+    },
+    {
+      "title": "Parteiencheck 2025: Pläne gegen soziale Ungleichheit im Vergleich",
+      "teaser": "Die Vermögenskluft in Deutschland ist die größte in Europa. Wer will das ändern? Telepolis fragt nach: Das Konzept der Parteien zum Thema Ungleichheit (Teil 2 und Schluss).",
+      "url": "https://www.heise.de/tp/features/Parteiencheck-2025-Plaene-gegen-soziale-Ungleichheit-im-Vergleich-10287230.html",
+      "image_title": "Werbebuttons von unterschiedlichen Parteien"
+    },
+    {
+      "title": "Die große Auto-Lüge: Wie wir uns selbst in die Katastrophe fahren",
+      "teaser": "Autos töten jedes Jahr mehr Menschen als Kriege. Trotzdem wird die Maschine kaum hinterfragt. Warum sind wir blind für Ihre Zerstörungskraft?",
+      "url": "https://www.heise.de/tp/features/Die-grosse-Auto-Luege-Wie-wir-uns-selbst-in-die-Katastrophe-fahren-10285982.html",
+      "image_title": "Gewicht mit SUVs zerdrückt mit Straßen umschlungene Erdkugel"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
