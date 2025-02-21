@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-21T04:11:18",
+  "timestamp": "2025-02-21T05:09:09",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Auslegungssache 128: Scherbenhaufen Beschäftigtendatenschutz",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-128-Scherbenhaufen-Beschaeftigtendatenschutz-10289273.html"
+    },
     {
       "title": "OpenAI zählt mehr als 400 Millionen Nutzer und verdoppelt zahlende Firmenkunden",
       "url": "https://www.heise.de/news/OpenAI-zaehlt-mehr-als-400-Millionen-Nutzer-und-verdoppelt-zahlende-Firmenkunden-10290398.html"
@@ -60,10 +64,6 @@
     {
       "title": "Von Javier Milei beworben: Fast alle Trader haben mit Memecoin $Libra verloren",
       "url": "https://www.heise.de/news/Von-Javier-Milei-beworben-Fast-alle-Trader-haben-mit-Memecoin-Libra-verloren-10290035.html"
-    },
-    {
-      "title": "Amazon übernimmt die Kontrolle über James Bond",
-      "url": "https://www.heise.de/news/Amazon-uebernimmt-die-Kontrolle-ueber-James-Bond-10290137.html"
     },
     {
       "title": "ISO-SchreibprogrammTails warnt vor balenaEtcher",
@@ -186,21 +186,27 @@
       "image_title": "iPhone 16e"
     },
     {
+      "title": "Auslegungssache 128: Scherbenhaufen Beschäftigtendatenschutz",
+      "teaser": "Quo vadis Beschäftigtendatenschutz? Ein geplantes Gesetz ist mit dem Aus der Ampel gescheitert, und EuGH-Urteile verschärfen die Rechtsunsicherheit.",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-128-Scherbenhaufen-Beschaeftigtendatenschutz-10289273.html",
+      "image_title": "Dr. Marc Störing (links oben), Holger Bleich (rechts oben) und Joerg Heidrich (unten)"
+    },
+    {
       "title": "OpenAI zählt mehr als 400 Millionen Nutzer und verdoppelt zahlende Firmenkunden",
       "teaser": "Die Zahl der wöchentlichen KI-Nutzer ist laut OpenAI seit Dezember um ein Drittel gestiegen. Zudem zählt das KI-Unternehmen jetzt 2 Millionen Firmenabonnements.",
       "url": "https://www.heise.de/news/OpenAI-zaehlt-mehr-als-400-Millionen-Nutzer-und-verdoppelt-zahlende-Firmenkunden-10290398.html",
       "image_title": "Ein offener Laptop wird von einer Person mit blauem Hemd bedient; über der Tastatur schweben der Schriftzug ChatGPT und einigen abstrakte Symbole"
     },
     {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "MWC: Vodafone zeigt Flugdrohne als Glasfaser-Pflaster",
       "teaser": "Mittels Flugdrohnen möchte Vodafone kurzfristige Glasfaser-Lücken überbrücken. Laser aus dem Google-Konzern helfen dabei.",
       "url": "https://www.heise.de/news/MWC-Vodafone-zeigt-Flugdrohne-als-Glasfaser-Pflaster-10290368.html",
       "image_title": "Quadkopter mit weißem Lasermodul schwebt über einem Rasen"
-    },
-    {
-      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
-      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Amazon sperrt AWS Chime zu",
@@ -230,12 +236,6 @@
       "teaser": "High-End-Server haben Ethernet-Ports mit 400, 800 und bald auch 1600 Gbit/s. Stromdurst und Abwärme der elektrisch-optischen Umsetzer werden zum Problem.",
       "url": "https://www.heise.de/news/Optische-Server-Vernetzung-soll-weniger-Strom-fressen-10289921.html",
       "image_title": "SFP-Modul für 1 Gbit/s"
-    },
-    {
-      "title": "Von Javier Milei beworben: Fast alle Trader haben mit Memecoin $Libra verloren",
-      "teaser": "Nachdem Argentiniens Präsident Werbung für einen Memecoin gemacht hat, stieg der Wert kurzzeitig massiv. Nun zeigt eine Analyse, wer davon profitiert hat.",
-      "url": "https://www.heise.de/news/Von-Javier-Milei-beworben-Fast-alle-Trader-haben-mit-Memecoin-Libra-verloren-10290035.html",
-      "image_title": "Javier Milei"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Von Javier Milei beworben: Fast alle Trader haben mit Memecoin $Libra verloren",
+      "teaser": "Nachdem Argentiniens Präsident Werbung für einen Memecoin gemacht hat, stieg der Wert kurzzeitig massiv. Nun zeigt eine Analyse, wer davon profitiert hat.",
+      "url": "https://www.heise.de/news/Von-Javier-Milei-beworben-Fast-alle-Trader-haben-mit-Memecoin-Libra-verloren-10290035.html",
+      "image_title": "Javier Milei"
     },
     {
       "title": "Alto: Kanada plant 1000 Kilometer lange Hochgeschwindigkeitszugstrecke",
@@ -371,15 +377,15 @@
       "image_title": "Ein Drucker spuckt viele Seiten aus, während ein ganz kleiner Mann den Stecker zieht"
     },
     {
+      "title": "Wie KI den IT-Betrieb neu erfindet und zukunftssicher macht",
+      "teaser": "Wie bleibt Ihr Unternehmen angesichts sich ständig weiterentwickelnder Bedrohungen sicher und widerstandsfähig? Wie lässt sich der Betrieb gleichzeitig effizienter gestalten? Erfahren Sie im Live-Webcast am 27.03. um 11 Uhr, wie KI dies ermöglicht.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/wie-ki-den-it-betrieb-neu-erfindet-und-zukunftssicher-macht-4888/?source=hbsad-ersatz"
+    },
+    {
       "title": "KI-Update kompakt: OpenAI, Microsofts Muse, Apple Intelligence, Geisternetze",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-OpenAI-Microsofts-Muse-Apple-Intelligence-Geisternetze-10289490.html",
       "image_title": "KI Update Logo"
-    },
-    {
-      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
-      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
     },
     {
       "title": "Desinfec’t: Potenziell gefährliche PDF-Dokumente mit QPDF entschlüsseln",
@@ -432,12 +438,6 @@
       "teaser": "Der Schwimmroboter der EPFL und des Max-Planck-Instituts ist klein, leicht und hat einen Flossenantrieb mit künstlichen Muskeln.",
       "url": "https://www.heise.de/news/Zur-Umweltueberwachung-Miniatur-Schwimmroboter-mit-Flossen-Antrieb-10289118.html",
       "image_title": "Schwimmroboter in einem simuliertem Reisfeld"
-    },
-    {
-      "title": "Signal: Gefährliche Gruppeneinladungen vom Gegner",
-      "teaser": "Google warnt vor Angriffen auf ukrainische Signal-Nutzer. Doch die Methode funktioniert auch bei anderen populären Apps und Nutzern.",
-      "url": "https://www.heise.de/news/Signal-Gefaehrliche-Gruppeneinladungen-vom-Gegner-10289404.html",
-      "image_title": "Finger über Signal-App mit vier Benachrichtigungen"
     },
     {
       "title": "Punkteklau im Supermarkt: Cyberkriminelle stehlen Rewe-Bonuspunkte",
@@ -605,6 +605,12 @@
       "url": "https://www.heise.de/en/news/HP-laser-printers-enable-code-smuggling-through-Postscript-security-leak-10284256.html"
     },
     {
+      "title": "Ladesäulenbetreiber Aral bekommt Buchungsprobleme nicht in den Griff",
+      "teaser": "Dass Unternehmen nicht in der Lage sind, Zahlungen ihrer Kunden zu empfangen, ist eher selten. Aral als Betreiber von Ladeinfrastruktur schafft das nachhaltig.",
+      "url": "https://www.heise.de/ratgeber/Ladesaeulenbetreiber-Aral-bekommt-Buchungsprobleme-nicht-in-den-Griff-10277691.html",
+      "image_title": ","
+    },
+    {
       "title": "Freeware-Perlen Gratis und gut: 18 Apps für das iPad",
       "teaser": "Mit diesen kostenlosen Apps für Apples Tablet sammeln Sie Notizen, bleiben auf dem Laufenden und genießen Medien – ohne In-App-Sperenzien oder Werbung.",
       "url": "https://www.heise.de/ratgeber/Freeware-Perlen-fuer-das-iPad-10277394.html",
@@ -736,16 +742,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Römischer Beton: Das Geheimnis liegt in der Hitze",
-      "teaser": "Antike römische Bauwerke beeindrucken mit ihrer Haltbarkeit. Forscher haben den Schlüssel dafür entdeckt. Dabei spielt die Betontemperatur eine Rolle.",
-      "url": "https://www.heise.de/tp/features/Roemischer-Beton-Das-Geheimnis-liegt-in-der-Hitze-10285317.html",
-      "image_title": "Ein römischer Kuppelbau von unten betrachtet"
+      "title": "Macht uns Plastik-Geschirr krank?",
+      "teaser": "Plastikbehälter sind praktisch und überall im Einsatz. Wer sie häufig nutzt, könnte seine Herzgesundheit aufs Spiel setzen, so eine neue Studie.",
+      "url": "https://www.heise.de/tp/features/Macht-uns-Plastik-Geschirr-krank-10289822.html",
+      "image_title": "ahaufnahme von Menschen, die einen Plastikteller halten und die Speisen am Buffettisch im Hotel- oder Gaststättengewerbe sammeln"
     },
     {
-      "title": "Telepolis-Chef Neuber: \"Zwischen allen Stühlen – und das ist gut so\"",
-      "teaser": "Telepolis hat über 70.000 Altartikel offline genommen. Dies sorgte für heftige Debatten. Wie kam es dazu – und was bedeutet das für die Zukunft des Magazins?",
-      "url": "https://www.heise.de/tp/features/Telepolis-Chef-Neuber-Zwischen-allen-Stuehlen-und-das-ist-gut-so-10287840.html",
-      "image_title": "Fernglas liegt auf Telepolis-Logo"
+      "title": "Deutsche Bahn unpünktlicher als britische Züge",
+      "teaser": "Olaf Scholz kritisierte Englands Bahnsystem als abschreckendes Beispiel. Briten konterten mit Analyse der Deutschen Bahn. Was sie herausfanden, ist für Deutschland peinlich.",
+      "url": "https://www.heise.de/tp/features/Deutsche-Bahn-unpuenktlicher-als-britische-Zuege-10287878.html",
+      "image_title": "Anzeige am Bahnhof zeigt, dass zahlreiche Züge ausfallen"
     },
     {
       "title": "Sind die USA jetzt unser Feind? – Transatlantiker im Schockzustand",
