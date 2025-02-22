@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-22T06:11:32",
+  "timestamp": "2025-02-22T07:07:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10291062.html"
+    },
     {
       "title": "Blumenmuster auf Frauen und idyllische Berglandschaften: Die Bilder der Woche 7",
       "url": "https://www.heise.de/news/Blumenmuster-auf-Frauen-und-idyllische-Berglandschaften-Die-Bilder-der-Woche-7-10290328.html"
@@ -60,10 +64,6 @@
     {
       "title": "Backup-Spezialist Overland-Tandberg schließt",
       "url": "https://www.heise.de/news/Backup-Spezialist-Overland-Tandberg-schliesst-10291665.html"
-    },
-    {
-      "title": "Medizinwissen: Streaming-Dienst \"Medudy\" will Ärzten bei Weiterbildung helfen",
-      "url": "https://www.heise.de/hintergrund/Medudy-Streaming-Dienst-fuer-Medizinwissen-10291094.html"
     },
     {
       "title": "Seitenhieb gegen InvestorenNvidia-Chef äußert sich erstmals zum DeepSeek-Ausverkauf",
@@ -186,20 +186,26 @@
       "url": "https://www.heise.de/news/Telekom-setzt-erstmals-Drohne-zur-Mobilfunkabdeckung-ein-10290358.html"
     },
     {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Flux, Prometheus, Node, Postgres, Ignite, React App, Jupyter CAD, Linkerd und GitHub",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10291062.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
       "title": "Blumenmuster auf Frauen und idyllische Berglandschaften: Die Bilder der Woche 7",
       "teaser": "Von der Abstraktion ins Detail: Unsere Galeriefotografen inszenieren Zahnräder, einen Raben mit intensivem Blick, aber auch faszinierende Landschaften.",
       "url": "https://www.heise.de/news/Blumenmuster-auf-Frauen-und-idyllische-Berglandschaften-Die-Bilder-der-Woche-7-10290328.html",
       "image_title": "Rabe in Nahaufnahme"
     },
     {
-      "title": "Vor Bundestagswahl: Digitalpolitik unter der Lupe | c’t uplink",
-      "teaser": "Deutschland hinkt bei der Digitalisierung hinterher. Welche Baustellen es gibt und wie sich die Parteien positionieren, diskutieren wir in c’t uplink.",
-      "url": "https://www.heise.de/news/Vor-Bundestagswahl-Digitalpolitik-unter-der-Lupe-c-t-uplink-10289364.html"
-    },
-    {
       "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
       "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Vor Bundestagswahl: Digitalpolitik unter der Lupe | c’t uplink",
+      "teaser": "Deutschland hinkt bei der Digitalisierung hinterher. Welche Baustellen es gibt und wie sich die Parteien positionieren, diskutieren wir in c’t uplink.",
+      "url": "https://www.heise.de/news/Vor-Bundestagswahl-Digitalpolitik-unter-der-Lupe-c-t-uplink-10289364.html"
     },
     {
       "title": "Verfahren um Datenzugang: X lässt Richter austauschen",
@@ -229,12 +235,6 @@
       "teaser": "Die EU-Kommission hat eine Reihe von Maßnahmen zur Stärkung der Widerstandsfähigkeit von Unterseekabeln als kritischer Kommunikationsinfrastruktur vorgelegt.",
       "url": "https://www.heise.de/news/Schutz-von-Unterseekabel-EU-will-staerker-auf-Praevention-und-Abschreckung-setzen-10291797.html",
       "image_title": "Unterseekabel"
-    },
-    {
-      "title": "Medizinwissen: Streaming-Dienst \"Medudy\" will Ärzten bei Weiterbildung helfen",
-      "teaser": "Da Ärzte kaum Zeit für Weiterbildungen haben, will das Start-up \"Medudy\" mit einer Plattform helfen. Dort stehen Expertenvideos mit Medizinwissen zur Verfügung.",
-      "url": "https://www.heise.de/hintergrund/Medudy-Streaming-Dienst-fuer-Medizinwissen-10291094.html",
-      "image_title": "Medudy-Startseite, auf der ein Lernangebot für Ärzte zu sehen ist"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -298,6 +298,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Medizinwissen: Streaming-Dienst \"Medudy\" will Ärzten bei Weiterbildung helfen",
+      "teaser": "Da Ärzte kaum Zeit für Weiterbildungen haben, will das Start-up \"Medudy\" mit einer Plattform helfen. Dort stehen Expertenvideos mit Medizinwissen zur Verfügung.",
+      "url": "https://www.heise.de/hintergrund/Medudy-Streaming-Dienst-fuer-Medizinwissen-10291094.html",
+      "image_title": "Medudy-Startseite, auf der ein Lernangebot für Ärzte zu sehen ist"
     },
     {
       "title": "Notebookmarkt im Umbruch: Wer beerbt Intel als treibende Kraft?",
@@ -370,15 +376,15 @@
       "image_title": "US-Flagge vor dem Kapitol in Washington."
     },
     {
+      "title": "So finden Sie den richtigen Hypervisor für Ihre Anforderungen",
+      "teaser": "In einer sich schnell entwickelnden IT-Welt stehen Unternehmen vor der Herausforderung, ihre Infrastruktur an die stetig wachsenden Anforderungen anzupassen. Erfahren Sie im Live-Webcast am 11.3. um 11 Uhr, wie Sie hierfür den perfekten Hypervisor finden.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/hypervisor-strategie-fuer-die-moderne-it-infrastruktur-4882?source=hbsad_ersatz"
+    },
+    {
       "title": "KI-Recherche-Tool: InsightPersona für genauere Politik- und Medienanalysen",
       "teaser": "Der Wahlkampf tobt und viel Medienschelte geht damit einher. Was wird wirklich gesagt, was gezeigt? Ein neues Tool könnte hier mehr Transparenz schaffen.",
       "url": "https://www.heise.de/news/KI-Recherche-Tool-InsightPersona-fuer-genauere-Politik-und-Medienanalysen-10290853.html",
       "image_title": "Mann und Frau schauen auf Laptop"
-    },
-    {
-      "title": "So finden Sie den richtigen Hypervisor für Ihre Anforderungen",
-      "teaser": "In einer sich schnell entwickelnden IT-Welt stehen Unternehmen vor der Herausforderung, ihre Infrastruktur an die stetig wachsenden Anforderungen anzupassen. Erfahren Sie im Live-Webcast am 11.3. um 11 Uhr, wie Sie hierfür den perfekten Hypervisor finden.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/hypervisor-strategie-fuer-die-moderne-it-infrastruktur-4882?source=hbsad_ersatz"
     },
     {
       "title": "iX-Workshop: Microsoft 365 Copilot - Soll ich das neue KI-Tool einführen?",
@@ -429,12 +435,6 @@
       "title": "secIT 2025: Aktuelle Malware-Trends kennen und Attacken vorbeugen",
       "teaser": "Die redaktionell ausgewählten Workshops auf der secIT 2025 halten wertvolles Wissen für Admins bereit. Jetzt schnell Tickets sichern! Die Plätze sind begehrt.",
       "url": "https://www.heise.de/news/secIT-2025-Aktuelle-Malware-Trends-kennen-und-Attacken-vorbeugen-10287766.html"
-    },
-    {
-      "title": "Wie die DSL-Abschaltung in Deutschland ablaufen wird",
-      "teaser": "Die Tage der DSL-Anschlüsse sind gezählt. Bereits in acht Jahren könnten sie deutschlandweit abgeschaltet und durch Glasfaseranschlüsse ersetzt sein.",
-      "url": "https://www.heise.de/ratgeber/Wie-die-DSL-Abschaltung-in-Deutschland-ablaufen-wird-10276799.html",
-      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "ISO-Schreibprogramm: Tails warnt vor balenaEtcher",
@@ -605,10 +605,16 @@
       "url": "https://www.heise.de/en/news/Anno-117-Registration-for-beta-test-now-open-10277611.html"
     },
     {
-      "title": "Freeware-Perlen Gratis und gut: 18 Apps für das iPad",
-      "teaser": "Mit diesen kostenlosen Apps für Apples Tablet sammeln Sie Notizen, bleiben auf dem Laufenden und genießen Medien – ohne In-App-Sperenzien oder Werbung.",
-      "url": "https://www.heise.de/ratgeber/Freeware-Perlen-fuer-das-iPad-10277394.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Madlen Grunert, Mac & i"
+      "title": "Windows 11: Wege aus der Upgrade-Falle",
+      "teaser": "Microsoft hat Ihr Windows 11 von der Versorgung mit Sicherheits-Updates abgeschnitten? Es gibt Auswege, etwa der Doppelklick auf eine Datei in diesem Artikel.",
+      "url": "https://www.heise.de/ratgeber/Windows-11-Wege-aus-der-Upgrade-Falle-10260824.html",
+      "image_title": ", KI, Collage c‘t"
+    },
+    {
+      "title": "Wie die DSL-Abschaltung in Deutschland ablaufen wird",
+      "teaser": "Die Tage der DSL-Anschlüsse sind gezählt. Bereits in acht Jahren könnten sie deutschlandweit abgeschaltet und durch Glasfaseranschlüsse ersetzt sein.",
+      "url": "https://www.heise.de/ratgeber/Wie-die-DSL-Abschaltung-in-Deutschland-ablaufen-wird-10276799.html",
+      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "Bibliothek-Digitalisierer: Mit dieser App behalten Sie den Lese-Überblick",
@@ -621,6 +627,12 @@
       "teaser": "Der Funkstandard Wi-Fi 7 verspricht mehr Geschwindigkeit und Stabilität im Heimnetz. Wir prüfen, wie stark Apple-Geräte von solchen Access Points profitieren.",
       "url": "https://www.heise.de/ratgeber/Router-mit-Wi-Fi-7-und-6-GHz-ausprobiert-Was-es-fuer-Apple-Anwender-bringt-10268960.html",
       "image_title": "AVM Fritzbox 5690 Pro mit Wi-Fi 7"
+    },
+    {
+      "title": "So funktioniert der neue WLAN-StandardGrundlagen von Wi-Fi 7",
+      "teaser": "Die ersten Apple-Geräte haben das flottere Wi-Fi 7 an Bord. Wir erklären, was neu ist und wie viel es bringen kann.",
+      "url": "https://www.heise.de/hintergrund/Grundlagen-von-Wi-Fi-7-So-funktioniert-der-neue-WLAN-Standard-10263971.html",
+      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
     },
     {
       "title": "Open Source ECAD: Version 9 von KiCAD veröffentlicht",
@@ -645,6 +657,12 @@
       "image_title": "Bildschirmfoto von Photoshop"
     },
     {
+      "title": "Spiegellose Systemkamera: Canon EOS R1 im Test",
+      "teaser": "Die EOS 1 war bereits zu Analogzeiten das Kamera-Flaggschiff und wurde früh Teil der digitalen Welt. Nun hat sie mit der EOS R1 endlich den Spiegel abgelegt.",
+      "url": "https://www.heise.de/tests/Spiegellose-Systemkamera-Canon-EOS-R1-im-Test-10284833.html",
+      "image_title": ", Peter Nonhoff-Arps"
+    },
+    {
       "title": "Unter EulenClick Boom Flash # 31 \"Vogelfotografie“",
       "teaser": "\"Romeo sag mal: Huhu!\", bittet Fotografin Rosl Rössner ihren gefiederten Begleiter. Er tut, wie ihm geheißen und huhut ins Mikrofon.",
       "url": "https://www.heise.de/news/Unter-Eulen-Click-Boom-Flash-31-Vogelfotografie-10281283.html",
@@ -654,11 +672,6 @@
       "title": "Fotonews der Woche 7/2025Apple-Photoshop und Nikons Z-Red",
       "teaser": "Nikon bringt das Z-Bajonett an Cine-Kameras von Red und Apple übernimmt Pixelmator vollständig.",
       "url": "https://www.heise.de/news/Apple-Photoshop-und-Nikons-Z-Red-die-Fotonews-der-Woche-7-2025-10284022.html"
-    },
-    {
-      "title": "Regenbogen-Eis und in US-Flaggen gehüllte Hunde: Die Bilder der Woche KW 6",
-      "teaser": "Auch diese Woche fangen unsere Galeriefotografen vielfältige Motive ein – von Eismustern über Hunde in US-Flaggen bis zur beeindruckender Natur.",
-      "url": "https://www.heise.de/news/Regenbogen-Eis-und-in-US-Flaggen-gehuellte-Hunde-Die-Bilder-der-Woche-KW-6-10282011.html"
     },
     {
       "title": "DeepSeek-R1: Die Technik hinter dem Hype",
@@ -735,21 +748,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "DMT in der Therapie: Wie Psychedelika das Gehirn verändern",
-      "teaser": "Psychedelika wie DMT können das Gehirn schnell verändern. Doch wie genau funktioniert dieser Prozess? Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/DMT-in-der-Therapie-Wie-Psychedelika-das-Gehirn-veraendern-10289917.html",
-      "image_title": "Polygonale Figur eines Menschen vor dem Hintergrund des Universums."
+      "title": "Thutmose II: Das verlorene Grab des Pharaos ist gefunden",
+      "teaser": "Grab von Pharao Thutmose II. in der Nähe von Luxor entdeckt. Starke Schäden durch Überflutungen. Erste Entdeckung einer königlichen Ruhestätte seit 1922.",
+      "url": "https://www.heise.de/tp/features/Thutmose-II-Das-verlorene-Grab-des-Pharaos-ist-gefunden-10290021.html"
     },
     {
-      "title": "Nato-Beitritt der Ukraine: USA erteilen klare Absage",
-      "teaser": "USA zeigen sich zunehmend kritisch gegenüber Kiew. Präsident Trump attackiert Selenskyj öffentlich. Was das für die Ukraine und die EU bedeutet",
-      "url": "https://www.heise.de/tp/features/Nato-Beitritt-der-Ukraine-USA-erteilen-klare-Absage-10288911.html"
+      "title": "Vom \"Trump-Optimismus\" zur \"Trumpophilie\": Welchen Preis hat der Frieden?",
+      "teaser": "Die USA und Russland verhandeln. Russlands Elite ist euphorisch. Doch der Preis für eine Einigung könnte Moskaus Abkehr von China und dem Globalen Süden sein.",
+      "url": "https://www.heise.de/tp/features/Vom-Trump-Optimismus-zur-Trumpophilie-Welchen-Preis-hat-der-Frieden-10290834.html",
+      "image_title": "Ein Bild von Donald Trump"
     },
     {
-      "title": "Tödliche Zeitbombe im Eis: Erwachen uralte Bakterien in der Arktis?",
-      "teaser": "Die Arktis taut schneller als je zuvor. 2016 tötete ein aufgetautes Milzbrand-Bakterium bereits über 2.500 Rentiere in Sibirien. Was, wenn noch gefährlichere Erreger erwachen?",
-      "url": "https://www.heise.de/tp/features/Toedliche-Zeitbombe-im-Eis-Erwachen-uralte-Bakterien-in-der-Arktis-10282722.html",
-      "image_title": "Mikroben (als Strichzeichnung) hinter Eis"
+      "title": "Sind die USA jetzt unser Feind? – Transatlantiker im Schockzustand",
+      "teaser": "Medien: Deutsche Außenpolitik-Experten sind alarmiert. Die Abwendung der USA von Europa und ein Deal mit Russland: Was bedeutet das für unsere Sicherheit? Analyse.",
+      "url": "https://www.heise.de/tp/features/Sind-die-USA-jetzt-unser-Feind-Transatlantiker-im-Schockzustand-10289697.html",
+      "image_title": "Donald Trump als Präsident vor US-Flagge und Weißen Haus"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
