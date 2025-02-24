@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-24T21:08:00",
+  "timestamp": "2025-02-24T22:08:28",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Weltrauminternet: Konkurrenz für Elon Musks Starlink",
+      "url": "https://www.heise.de/news/Weltrauminternet-Konkurrenz-fuer-Elon-Musks-Starlink-10294168.html"
+    },
     {
       "title": "Netflix investiert eine Milliarde US-Dollar in Mexiko",
       "url": "https://www.heise.de/news/Netflix-investiert-eine-Milliarde-US-Dollar-in-Mexiko-10294130.html"
@@ -60,10 +64,6 @@
     {
       "title": "Mit einer Sprache: Landkarte der Glasfaserleitungen an Land geplant",
       "url": "https://www.heise.de/news/Mit-einer-Sprache-Landkarte-der-Glasfaserleitungen-an-Land-geplant-10293944.html"
-    },
-    {
-      "title": "Smartphone Jolla C2 mit Mobil-Linux Sailfish OS 5 im Test",
-      "url": "https://www.heise.de/tests/Smartphone-Jolla-C2-mit-Mobil-Linux-Sailfish-OS-5-im-Test-10257606.html"
     },
     {
       "title": "Geräte bei Pendlern beliebtNeue Studien: Hörschäden durch Noise-Cancelling-Headsets",
@@ -185,20 +185,26 @@
       "image_title": "Ethereum,Coin,On,An,Computer,Motherboard"
     },
     {
+      "title": "Weltrauminternet: Konkurrenz für Elon Musks Starlink",
+      "teaser": "Das Starlink-System von Elon Musk bekommt Konkurrenz durch Chinas SpaceSail und Amazons Project Kuiper. Chinas Bemühungen wecken Befürchtungen im Westen.",
+      "url": "https://www.heise.de/news/Weltrauminternet-Konkurrenz-fuer-Elon-Musks-Starlink-10294168.html",
+      "image_title": "Viele Satelliten"
+    },
+    {
       "title": "Netflix investiert eine Milliarde US-Dollar in Mexiko",
       "teaser": "Der US-Streamingdienst präsentiert einen Investitionsplan für die nächsten vier Jahre. Mexikos Präsidentin verweist auf die wirtschaftliche Bedeutung.",
       "url": "https://www.heise.de/news/Netflix-investiert-eine-Milliarde-US-Dollar-in-Mexiko-10294130.html",
       "image_title": "Los,Gatos,,California,,September,12,,2023:,Netflix,Incorporation,Headquarters,Glass"
     },
     {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Der beste Full-HD-Beamer für Heimkino, TV & Konsole im Test",
       "teaser": "Scharfes Bild, viele Ansi-Lumen, knackiger Autofokus und Widevine-L1: Es ist erstaunlich, wie gut Full-HD-Beamer schon im Einstiegssegment sind. Wir haben über 30 Full-HD-Projektoren getestet und zeigen die zehn besten Beamer.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-full-hd-beamer-im-test/qpx0dvs?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
-      "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "EU-Kommission will koordinierte Antwort auf großangelegte Cyberangriffe",
@@ -228,12 +234,6 @@
       "teaser": "Die Kosten der Bundesverwaltung für die Nutzung von Lizenzen für Produkte und Services von Microsoft sind 2024 von 197,7 auf 204,5 Millionen Euro gestiegen.",
       "url": "https://www.heise.de/news/Digitale-Insouveraenitaet-Bund-gibt-wieder-mehr-fuer-Microsoft-Lizenzen-aus-10293821.html",
       "image_title": "Hand auf Maus, die andere auf einer Tastatur"
-    },
-    {
-      "title": "Intel stellt 51 neue Prozessoren für Server und Workstations vor",
-      "teaser": "Intel schiebt eine ganze Riege neuer Serverprozessoren nach. Auf Wunsch gibt es diese auch mit dicker Ethernet-Anbindung direkt an Bord.",
-      "url": "https://www.heise.de/news/Xeon-6-Intels-Granite-Rapids-jetzt-auch-mit-16-bis-86-Kernen-fuer-LGA4710-10293934.html",
-      "image_title": "Renderbild von Intels verschieden großen Xeon 6"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -297,6 +297,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Intel stellt 51 neue Prozessoren für Server und Workstations vor",
+      "teaser": "Intel schiebt eine ganze Riege neuer Serverprozessoren nach. Auf Wunsch gibt es diese auch mit dicker Ethernet-Anbindung direkt an Bord.",
+      "url": "https://www.heise.de/news/Xeon-6-Intels-Granite-Rapids-jetzt-auch-mit-16-bis-86-Kernen-fuer-LGA4710-10293934.html",
+      "image_title": "Renderbild von Intels verschieden großen Xeon 6"
     },
     {
       "title": "Mit einer Sprache: Landkarte der Glasfaserleitungen an Land geplant",
@@ -368,14 +374,14 @@
       "image_title": "KI update Logo"
     },
     {
+      "title": "Case Study: Schneller produzieren, kreativer arbeiten",
+      "teaser": "Wie das Team der Global Entertainment Awards seine Leistungsfähigkeit und Kreativität steigerte.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/schneller-produzieren-kreativer-arbeiten-4876/?source=hbsad-ersatz"
+    },
+    {
       "title": "Der AI Act fordert ein ausreichendes Maß an KI-Kompetenz: Was das bedeutet",
       "teaser": "Unternehmen und Behörden müssen für eine ausreichende KI-Kompetenz bei ihren Mitarbeitern sorgen. Das gilt für jede Form des Einsatzes künstlicher Intelligenz.",
       "url": "https://www.heise.de/hintergrund/Der-AI-Act-fordert-ein-ausreichendes-Mass-an-KI-Kompetenz-Was-das-bedeutet-10237456.html"
-    },
-    {
-      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
-      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
     },
     {
       "title": "Neuer Vorstand, neue Pläne: Mozilla will sich mit Werbung und KI finanzieren",
@@ -429,12 +435,6 @@
       "teaser": "In dieser Folge spricht Richard Seidl mit Paul Gerrard über Anforderungen (Requirements) und wie sich diese verbessern lassen.",
       "url": "https://www.heise.de/blog/Software-Testing-Requirements-analysieren-und-verbessern-10293160.html",
       "image_title": "Software Testing: Requirements analysieren und verbessern"
-    },
-    {
-      "title": "Beyond IoT: Konferenz zu IIoT und Digitalisierung startet im September in Köln",
-      "teaser": "Die Nachfolgekonferenz der building IoT richtet ihren Fokus auf das IIoT und die intelligente Datenverarbeitung. Der Call for Proposals läuft bis zum 4. April.",
-      "url": "https://www.heise.de/news/Beyond-IoT-Konferenz-zu-IIoT-und-Digitalisierung-startet-im-September-in-Koeln-10288801.html",
-      "image_title": "Aufmacher Beyond IoT Konferenz"
     },
     {
       "title": "Nvidia-Chef äußert sich erstmals zum DeepSeek-Ausverkauf",
@@ -597,12 +597,6 @@
       "url": "https://www.heise.de/en/news/Linus-Torvalds-would-override-maintainer-veto-on-Rust-kernel-code-10287560.html"
     },
     {
-      "title": "History: The fastest hard disk in the world is 25 years old",
-      "teaser": "25 years ago, Seagate introduced the first hard disk whose platters rotated at 15,000 rpm. The Cheetah X15 thus achieved almost 40 MByte/s.",
-      "url": "https://www.heise.de/en/news/History-The-fastest-hard-disk-in-the-world-is-25-years-old-10291624.html",
-      "image_title": "Seagate Cheetah X15 hard disk opened"
-    },
-    {
       "title": "FAQ: c’t-Notfall-Windows 2025",
       "teaser": "Zu unserem Bausatz für ein Notfallsystem auf Basis von Windows erreichten uns viele Fragen. Gängige Antworten zum Bauen und zum Einsatz geben wir hier.",
       "url": "https://www.heise.de/ratgeber/FAQ-c-t-Notfall-Windows-2025-10276186.html"
@@ -612,6 +606,12 @@
       "teaser": "Microsoft hat Ihr Windows 11 von der Versorgung mit Sicherheits-Updates abgeschnitten? Es gibt Auswege, etwa der Doppelklick auf eine Datei in diesem Artikel.",
       "url": "https://www.heise.de/ratgeber/Windows-11-Wege-aus-der-Upgrade-Falle-10260824.html",
       "image_title": ", KI, Collage c‘t"
+    },
+    {
+      "title": "Freeware-Perlen Gratis und gut: 18 Apps für das iPad",
+      "teaser": "Mit diesen kostenlosen Apps für Apples Tablet sammeln Sie Notizen, bleiben auf dem Laufenden und genießen Medien – ohne In-App-Sperenzien oder Werbung.",
+      "url": "https://www.heise.de/ratgeber/Freeware-Perlen-fuer-das-iPad-10277394.html",
+      "image_title": ", KI-generiert mit freepik; bearbeitet von Madlen Grunert, Mac & i"
     },
     {
       "title": "Bibliothek-Digitalisierer: Mit dieser App behalten Sie den Lese-Überblick",
@@ -624,12 +624,6 @@
       "teaser": "Der Funkstandard Wi-Fi 7 verspricht mehr Geschwindigkeit und Stabilität im Heimnetz. Wir prüfen, wie stark Apple-Geräte von solchen Access Points profitieren.",
       "url": "https://www.heise.de/ratgeber/Router-mit-Wi-Fi-7-und-6-GHz-ausprobiert-Was-es-fuer-Apple-Anwender-bringt-10268960.html",
       "image_title": "AVM Fritzbox 5690 Pro mit Wi-Fi 7"
-    },
-    {
-      "title": "So funktioniert der neue WLAN-StandardGrundlagen von Wi-Fi 7",
-      "teaser": "Die ersten Apple-Geräte haben das flottere Wi-Fi 7 an Bord. Wir erklären, was neu ist und wie viel es bringen kann.",
-      "url": "https://www.heise.de/hintergrund/Grundlagen-von-Wi-Fi-7-So-funktioniert-der-neue-WLAN-Standard-10263971.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
     },
     {
       "title": "Linux-KernelDer Rust-DMA-Streit – ein Analyseversuch",
@@ -747,22 +741,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Heilige Kannibalen? Das Christentum und der Verzehr von Menschenfleisch",
-      "teaser": "Kannibalismus galt in Europa stets als barbarisch? Nein! Was viele nicht wissen: Auch Heilige wurden im Mittelalter auf ganz besondere Weise \"verzehrt\".",
-      "url": "https://www.heise.de/tp/features/Heilige-Kannibalen-Das-Christentum-und-der-Verzehr-von-Menschenfleisch-10292478.html",
-      "image_title": "„Kannibalen betrachten menschliche Überreste“ von Francisco de Goya."
-    },
-    {
-      "title": "Trump vs. EU: Warum das Handelsdefizit nur die halbe Wahrheit ist",
-      "teaser": "Trump droht der EU mit neuen Zöllen wegen des Handelsdefizits. Doch die Zahlen erzählen eine differenziertere Geschichte. Welche Rolle spielen die Dienstleistungsexporte?",
-      "url": "https://www.heise.de/tp/features/Trump-vs-EU-Warum-das-Handelsdefizit-nur-die-halbe-Wahrheit-ist-10286822.html",
-      "image_title": "Burger mit USA-Fähnchen darin"
+      "title": "Deutschland-Wahl: Französische Reaktionen – von Merz begeistert, von der AfD alarmiert",
+      "teaser": "Während Präsident Macron Merz' Sieg als Chance für eine engere Partnerschaft sieht, weckt der Erfolg der AfD Erinnerungen an den Aufstieg von Le Pens RN.",
+      "url": "https://www.heise.de/tp/features/Deutschland-Wahl-Franzoesische-Reaktionen-von-Merz-begeistert-von-der-AfD-alarmiert-10293509.html",
+      "image_title": "Emmanuel Macron"
     },
     {
       "title": "Gottes Krieger im Weißen Haus – Wenn Glaube zur Staatsdoktrin wird",
       "teaser": "Wer nur eurozentrisch denkt, übersieht gerne, dass in anderen Kulturen andere Denkmuster vorherrschen können. Dies gilt auch für die USA. Wer kann die Evangelikalen richtig einschätzen?",
       "url": "https://www.heise.de/tp/features/Gottes-Krieger-im-Weissen-Haus-Wenn-Glaube-zur-Staatsdoktrin-wird-10292504.html",
       "image_title": "Weißes Haus Nordseite"
+    },
+    {
+      "title": "Es liegt auf der Zunge: Wenn drei Hirnregionen Detektiv spielen",
+      "teaser": "Kennen Sie das? Sie wollen etwas sagen, aber das Wort liegt Ihnen nur auf der Zunge. Eine faszinierende Situation, die Forscher genau untersucht haben. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Es-liegt-auf-der-Zunge-Wenn-drei-Hirnregionen-Detektiv-spielen-10287994.html",
+      "image_title": "Ein Gehirn bestehend aus Buchstaben"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
