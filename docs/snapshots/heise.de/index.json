@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-25T08:12:42",
+  "timestamp": "2025-02-25T09:09:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,26 @@
   ],
   "articles": [
     {
+      "title": "Pwn2Own-Wettbewerb: Hacken gegen Geldprämie in Berlin",
+      "url": "https://www.heise.de/news/Pwn2Own-Wettbewerb-Hacken-gegen-Geldpraemie-in-Berlin-10294475.html"
+    },
+    {
+      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-10288848.html"
+    },
+    {
+      "title": "Tiobe-Index listet Delphi auf Platz 9 und Rust auf einem Allzeithoch",
+      "url": "https://www.heise.de/news/Delphi-steigt-im-Tiobe-Index-in-die-Top-10-Rust-auf-Allzeithoch-10294317.html"
+    },
+    {
+      "title": "1000 Mal weniger Strom: Europäischer Wetterdienst gibt KI-Wettervorhersage frei",
+      "url": "https://www.heise.de/news/Europaeischer-Wetterdienst-Neues-KI-Wettermodell-braucht-1000-Mal-weniger-Strom-10294362.html"
+    },
+    {
+      "title": "Staffel 2 von \"Andor\": The Revolution Starts Now",
+      "url": "https://www.heise.de/news/Staffel-2-von-Andor-The-Revolution-Starts-Now-10294358.html"
+    },
+    {
       "title": "Password-Spraying-Angriff auf M365-Konten von Botnet mit über 130.000 Drohnen",
       "url": "https://www.heise.de/news/Password-Spraying-Angriff-auf-M365-Konten-von-Botnet-mit-ueber-130-000-Drohnen-10294301.html"
     },
@@ -44,26 +64,6 @@
     {
       "title": "Software Testing: Warum Webkomponenten testen, wenn man die UI testen kann?",
       "url": "https://www.heise.de/blog/Software-Testing-Warum-Webkomponenten-testen-wenn-man-die-UI-testen-kann-10293221.html"
-    },
-    {
-      "title": "Cyberattacken auf Adobe Coldfusion und Oracle Agile PLM beobachtet",
-      "url": "https://www.heise.de/news/Cyberattacken-auf-Adobe-Coldfusion-und-Oracle-Agile-PLM-beobachtet-10294244.html"
-    },
-    {
-      "title": "KI-Modellkunde: Fundierte Entscheidungshilfe für KI-Modelle im Unternehmen",
-      "url": "https://www.heise.de/news/KI-Modellkunde-Fundierte-Entscheidungshilfe-fuer-KI-Modelle-im-Unternehmen-10293590.html"
-    },
-    {
-      "title": "Windows 11: Wege aus der Upgrade-Falle",
-      "url": "https://www.heise.de/ratgeber/Windows-11-Wege-aus-der-Upgrade-Falle-10260824.html"
-    },
-    {
-      "title": "Flottenverbrauch: Wie die Autohersteller die neuen Grenzwerte einhalten",
-      "url": "https://www.heise.de/hintergrund/Flottenverbrauch-Wie-die-Autohersteller-die-neuen-Grenzwerte-einhalten-10293749.html"
-    },
-    {
-      "title": "Musk will Arbeitsnachweise von US-Staatsbediensteten angeblich an KI füttern",
-      "url": "https://www.heise.de/news/Arbeitsnachweis-per-Mail-KI-soll-Antworten-von-US-Staatsbediensteten-auswerten-10294210.html"
     },
     {
       "title": "WeltrauminternetKonkurrenz für Elon Musks Starlink",
@@ -94,16 +94,16 @@
       "image_title": "Smart#1"
     },
     {
+      "title": "Botnet mit über 130.000 DrohnenPasswort-Angriffe auf M365-Konten",
+      "teaser": "IT-Forscher haben ein Botnet bei Password-Spraying-Angriffen gegen Microsoft-365-Konten beobachtet.",
+      "url": "https://www.heise.de/news/Password-Spraying-Angriff-auf-M365-Konten-von-Botnet-mit-ueber-130-000-Drohnen-10294301.html",
+      "image_title": "Ein Krimineller versucht, Verschlüsselung/Login eines Rechners zu knacken"
+    },
+    {
       "title": "Bundesverwaltung Kosten des Bundes für Microsoft-Lizenzen steigen wieder",
       "teaser": "Die Kosten der Bundesverwaltung für die Nutzung von Produkten und Services von Microsoft sind auf 204,5 Millionen Euro gestiegen.",
       "url": "https://www.heise.de/news/Digitale-Insouveraenitaet-Bund-gibt-wieder-mehr-fuer-Microsoft-Lizenzen-aus-10293821.html",
       "image_title": "Hand auf Maus, die andere auf einer Tastatur"
-    },
-    {
-      "title": "StromversorgungSchwimmende Atomkraftwerke sollen US-Küstenregionen versorgen",
-      "teaser": "Durch den wachsenden Strombedarf erlebt Atomkraft eine Renaissance. Core Power will schwimmende Anlagen vor den US-Küsten verankern.",
-      "url": "https://www.heise.de/news/Core-Power-will-schwimmende-Atomkraftwerke-fuer-die-USA-bauen-10294066.html",
-      "image_title": "Schwimmendes Atomkraftwerk"
     },
     {
       "title": "Im TestSpeicher für Balkonkraftwerke",
@@ -129,10 +129,10 @@
       "image_title": "Ultrawide-Display von LG"
     },
     {
-      "title": "iOS 18.4Ein Blick auf die Beta-Features – und das deutsche Apple Intelligence",
-      "teaser": "Ende letzter Woche kam endlich die erste Vorabversion von iOS 18.4 für Entwickler. Für deutsche User ist sie besonders spannend.",
-      "url": "https://www.heise.de/news/Ueberblick-iOS-18-4-Neuerungen-aus-der-Beta-erste-Infos-zur-deutschen-Apple-KI-10292516.html",
-      "image_title": "iOS-18-Übersicht"
+      "title": "StromversorgungSchwimmende Atomkraftwerke sollen US-Küstenregionen versorgen",
+      "teaser": "Atomkraft erlebt eine Renaissance. Core Power will schwimmende Anlagen vor den US-Küsten verankern.",
+      "url": "https://www.heise.de/news/Core-Power-will-schwimmende-Atomkraftwerke-fuer-die-USA-bauen-10294066.html",
+      "image_title": "Schwimmendes Atomkraftwerk"
     },
     {
       "title": "Programmieren mit PythonWahlergebnisse in interaktiver Karte darstellen",
@@ -152,9 +152,20 @@
       "image_title": "Kopfhörer"
     },
     {
+      "title": "iOS 18.4Ein Blick auf die Beta-Features – und das deutsche Apple Intelligence",
+      "teaser": "Ende letzter Woche kam endlich die erste Vorabversion von iOS 18.4 für Entwickler. Für deutsche User ist sie besonders spannend.",
+      "url": "https://www.heise.de/news/Ueberblick-iOS-18-4-Neuerungen-aus-der-Beta-erste-Infos-zur-deutschen-Apple-KI-10292516.html",
+      "image_title": "iOS-18-Übersicht"
+    },
+    {
       "title": "X-37BFoto des US-Raumgleiters in der Umlaufbahn zeigt die Weltkugel",
       "teaser": "Seit Jahren ist der Raumgleiter X-37B auf weitgehend geheimen Missionen im All unterwegs. Nun gibt es erstmals ein Foto davon.",
       "url": "https://www.heise.de/news/X-37B-Space-Force-veroeffentlicht-erstmals-Foto-des-US-Raumgleiters-im-All-10292548.html"
+    },
+    {
+      "title": "Sparen mit dynamischen StromtarifenE-Auto billiger laden mit dynamischen Stromtarifen",
+      "teaser": "Das E-Auto eignet sich wie kein anderer Verbraucher dazu, flexibel Strom zu beziehen. So sparen Sie mit zeitvariablen Stromkosten.",
+      "url": "https://www.heise.de/ratgeber/E-Auto-billiger-laden-Wie-das-mit-dynamischen-Stromtarifen-klappt-10241847.html"
     },
     {
       "title": "Palantir-CEO\"Silicon Valley vom Weg abgekommen\"",
@@ -163,21 +174,10 @@
       "image_title": "Palantir-Logo"
     },
     {
-      "title": "Sparen mit dynamischen StromtarifenE-Auto billiger laden mit dynamischen Stromtarifen",
-      "teaser": "Das E-Auto eignet sich wie kein anderer Verbraucher dazu, flexibel Strom zu beziehen. So sparen Sie mit zeitvariablen Stromkosten.",
-      "url": "https://www.heise.de/ratgeber/E-Auto-billiger-laden-Wie-das-mit-dynamischen-Stromtarifen-klappt-10241847.html"
-    },
-    {
       "title": "Nvidia-GrafikkartenAuch die GeForce RTX 5080 ist vom ROP-Mangel betroffen",
       "teaser": "Wer eine RTX-5000-Grafikkarte gekauft hat, sollte unbedingt einen Blick ins Auslese-Tool GPU-Z werfen.",
       "url": "https://www.heise.de/news/Auch-die-GeForce-RTX-5080-ist-vom-ROP-Mangel-betroffen-10293062.html",
       "image_title": "Nvidias GeForce RTX 5080 Founders Edition auf grünem Untergrund"
-    },
-    {
-      "title": "Wunsch des PräsidentenUS-Regierung entfernt Elektroauto-Ladestationen aus Bundesgebäuden",
-      "teaser": "Donald Trump hat angeordnet, dass Ladestationen für E-Autos aus Bundesgebäuden verschwinden. Sie seien \"nicht geschäftskritisch\".",
-      "url": "https://www.heise.de/news/US-Regierung-laesst-Elektroauto-Ladestationen-aus-Bundesgebaeuden-entfernen-10292343.html",
-      "image_title": "Symbol für ein Elektroauto"
     },
     {
       "title": "\"Quipu\"Größte Superstruktur des nahen Kosmos besteht aus 68 Galaxienhaufen",
@@ -186,20 +186,44 @@
       "image_title": "Zahlreiche große und kleine Galaxien"
     },
     {
-      "title": "Password-Spraying-Angriff auf M365-Konten von Botnet mit über 130.000 Drohnen",
-      "teaser": "IT-Forscher haben ein Botnet aus mehr als 130.000 Drohnen bei Password-Spraying-Angriffen gegen Microsoft-365-Konten beobachtet.",
-      "url": "https://www.heise.de/news/Password-Spraying-Angriff-auf-M365-Konten-von-Botnet-mit-ueber-130-000-Drohnen-10294301.html",
-      "image_title": "Ein Krimineller versucht, Verschlüsselung/Login eines Rechners zu knacken"
+      "title": "Pwn2Own-Wettbewerb: Hacken gegen Geldprämie in Berlin",
+      "teaser": "Der Hacking-Wettbewerb Pwn2Own findet erstmals in Berlin statt. Dabei können sich Teilnehmer unter anderem an der neuen KI-Kategorie versuchen.",
+      "url": "https://www.heise.de/news/Pwn2Own-Wettbewerb-Hacken-gegen-Geldpraemie-in-Berlin-10294475.html",
+      "image_title": "Sicherheitsschloss auf einer ausgestreckten Hand"
     },
     {
-      "title": "Homebanking-Daten von Windows in neue Mac-Software umziehen",
-      "teaser": "Wollen Homebanking-Nutzer ihre Daten in eine neue Software umziehen, lauern Fallstricke. Wir zeigen, was es für den verlustarmen Wechsel zu beachten gilt.",
-      "url": "https://www.heise.de/ratgeber/Homebanking-Daten-von-Windows-in-neue-Mac-Software-umziehen-10270678.html"
+      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-10288848.html",
+      "image_title": "iX-Workshop: Advanced Kubernetes Security"
     },
     {
       "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
       "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Tiobe-Index listet Delphi auf Platz 9 und Rust auf einem Allzeithoch",
+      "teaser": "Im Februar haben sich im Tiobe-Index einige Plazierungen verschoben: Rust und Delphi steigen, während PHP verliert.",
+      "url": "https://www.heise.de/news/Delphi-steigt-im-Tiobe-Index-in-die-Top-10-Rust-auf-Allzeithoch-10294317.html",
+      "image_title": "Eine Krabbe am Strand mit Tempel im Hintergrund"
+    },
+    {
+      "title": "1000 Mal weniger Strom: Europäischer Wetterdienst gibt KI-Wettervorhersage frei",
+      "teaser": "Der Wetterdienst für dutzende europäische Staaten veröffentlicht jetzt auch Prognosen, die per KI erstellt wurden. Dafür ist drastisch weniger Energie nötig.",
+      "url": "https://www.heise.de/news/Europaeischer-Wetterdienst-Neues-KI-Wettermodell-braucht-1000-Mal-weniger-Strom-10294362.html",
+      "image_title": "Regenbogen und Regenwolken über gelbem Weizenfeld"
+    },
+    {
+      "title": "Staffel 2 von \"Andor\": The Revolution Starts Now",
+      "teaser": "Am 22. April nimmt die Revolution wieder Fahrt auf: Disney hat einen ersten Trailer zur zweiten Staffel von \"Star Wars: Andor\" veröffentlicht.",
+      "url": "https://www.heise.de/news/Staffel-2-von-Andor-The-Revolution-Starts-Now-10294358.html",
+      "image_title": "Poster zur zweiten Staffel von \"Andor\" zeigt Cassian Andor auf Todesstern projiziert"
+    },
+    {
+      "title": "Homebanking-Daten von Windows in neue Mac-Software umziehen",
+      "teaser": "Wollen Homebanking-Nutzer ihre Daten in eine neue Software umziehen, lauern Fallstricke. Wir zeigen, was es für den verlustarmen Wechsel zu beachten gilt.",
+      "url": "https://www.heise.de/ratgeber/Homebanking-Daten-von-Windows-in-neue-Mac-Software-umziehen-10270678.html"
     },
     {
       "title": "Fraunhofer entwickelt KI für Stimmgesundheit, um Ausfälle zu reduzieren",
@@ -212,30 +236,6 @@
       "teaser": "Menschen bekämen unzuverlässige Informationen und Inhalteerstellern fehlen Klicks. Nur Google profitiere von den AI Overviews, heißt es in einer Klage.",
       "url": "https://www.heise.de/news/US-Wettbewerbsklage-Lernplattform-kritisiert-Googles-AI-Overviews-10294218.html",
       "image_title": "Google Schriftzug an einem Gebäude."
-    },
-    {
-      "title": "Software Testing: Warum Webkomponenten testen, wenn man die UI testen kann?",
-      "teaser": "Richard Seidl spricht in dieser Folge des Podcasts mit Felix Wunderlich über die Vorteile von UI-Testing und diverse Testautomatisierungsansätze.",
-      "url": "https://www.heise.de/blog/Software-Testing-Warum-Webkomponenten-testen-wenn-man-die-UI-testen-kann-10293221.html",
-      "image_title": "Software Testing: Warum Webkomponenten testen, wenn man die UI testen kann?"
-    },
-    {
-      "title": "AlertCyberattacken auf Adobe Coldfusion und Oracle Agile PLM beobachtet",
-      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor laufenden Angriffen auf Adobe Coldfusion und Oracle Agile PLM.",
-      "url": "https://www.heise.de/news/Cyberattacken-auf-Adobe-Coldfusion-und-Oracle-Agile-PLM-beobachtet-10294244.html",
-      "image_title": "Ein alter, rostiger Server wird von Viren angegriffen"
-    },
-    {
-      "title": "KI-Modellkunde: Fundierte Entscheidungshilfe für KI-Modelle im Unternehmen",
-      "teaser": "Im Webinar gibt einen praxisnahen Überblick über die aktuelle KI-Modell-Landschaft und erfahren, welche sich für Ihre spezifischen Anwendungsfälle eignen.",
-      "url": "https://www.heise.de/news/KI-Modellkunde-Fundierte-Entscheidungshilfe-fuer-KI-Modelle-im-Unternehmen-10293590.html",
-      "image_title": "KI-Modellkunde: Fundierte Entscheidungshilfe für KI-Modelle im Unternehmen"
-    },
-    {
-      "title": "Windows 11: Wege aus der Upgrade-Falle",
-      "teaser": "Microsoft hat Ihr Windows 11 von der Versorgung mit Sicherheits-Updates abgeschnitten? Es gibt Auswege, etwa der Doppelklick auf eine Datei in diesem Artikel.",
-      "url": "https://www.heise.de/ratgeber/Windows-11-Wege-aus-der-Upgrade-Falle-10260824.html",
-      "image_title": ", KI, Collage c‘t"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -302,6 +302,30 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "Software Testing: Warum Webkomponenten testen, wenn man die UI testen kann?",
+      "teaser": "Richard Seidl spricht in dieser Folge des Podcasts mit Felix Wunderlich über die Vorteile von UI-Testing und diverse Testautomatisierungsansätze.",
+      "url": "https://www.heise.de/blog/Software-Testing-Warum-Webkomponenten-testen-wenn-man-die-UI-testen-kann-10293221.html",
+      "image_title": "Software Testing: Warum Webkomponenten testen, wenn man die UI testen kann?"
+    },
+    {
+      "title": "AlertCyberattacken auf Adobe Coldfusion und Oracle Agile PLM beobachtet",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor laufenden Angriffen auf Adobe Coldfusion und Oracle Agile PLM.",
+      "url": "https://www.heise.de/news/Cyberattacken-auf-Adobe-Coldfusion-und-Oracle-Agile-PLM-beobachtet-10294244.html",
+      "image_title": "Ein alter, rostiger Server wird von Viren angegriffen"
+    },
+    {
+      "title": "KI-Modellkunde: Fundierte Entscheidungshilfe für KI-Modelle im Unternehmen",
+      "teaser": "Im Webinar gibt einen praxisnahen Überblick über die aktuelle KI-Modell-Landschaft und erfahren, welche sich für Ihre spezifischen Anwendungsfälle eignen.",
+      "url": "https://www.heise.de/news/KI-Modellkunde-Fundierte-Entscheidungshilfe-fuer-KI-Modelle-im-Unternehmen-10293590.html",
+      "image_title": "KI-Modellkunde: Fundierte Entscheidungshilfe für KI-Modelle im Unternehmen"
+    },
+    {
+      "title": "Windows 11: Wege aus der Upgrade-Falle",
+      "teaser": "Microsoft hat Ihr Windows 11 von der Versorgung mit Sicherheits-Updates abgeschnitten? Es gibt Auswege, etwa der Doppelklick auf eine Datei in diesem Artikel.",
+      "url": "https://www.heise.de/ratgeber/Windows-11-Wege-aus-der-Upgrade-Falle-10260824.html",
+      "image_title": ", KI, Collage c‘t"
+    },
+    {
       "title": "Dienstag: Konkurrenz für Starlink, EU subventioniert Halbleiter in Österreich",
       "teaser": "Wettbewerb im All + EU genehmigt Millionensubvention + Krisenmanagement gegen Cyberattacken + Apple verlagert Fertigung in die USA + Renaissance der Atomkraft",
       "url": "https://www.heise.de/news/Dienstag-Konkurrenz-fuer-Starlink-EU-subventioniert-Halbleiter-in-Oesterreich-10294200.html",
@@ -354,6 +378,11 @@
       "image_title": "Renderbild von Intels verschieden großen Xeon 6"
     },
     {
+      "title": "Intelligente Cyberabwehr fängt bei den Mitarbeitern an",
+      "teaser": "Wie Sie Ihre Mitarbeiter zu einer starken Verteidigungslinie gegen Cyberangriffe machen und dadurch Risiken deutlich reduzieren, erfahren Sie im Live-Webcast am 18. März 2025 um 11:00 Uhr.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/intelligente-cyberabwehr-faengt-bei-den-mitarbeitern-an-4873/?source=hbsad-ersatz"
+    },
+    {
       "title": "Mit einer Sprache: Landkarte der Glasfaserleitungen an Land geplant",
       "teaser": "Seekabel sind gut dokumentiert und Informationen darüber für jeden einsehbar. Für Glasfaserleitungen an Land fehlt so etwas noch. Ein Standard soll dies ändern.",
       "url": "https://www.heise.de/news/Mit-einer-Sprache-Landkarte-der-Glasfaserleitungen-an-Land-geplant-10293944.html"
@@ -375,11 +404,6 @@
       "teaser": "Saudi-Arabien will in fünf Jahren die Hälfte des Strombedarfs aus erneuerbaren Quellen decken. Dafür werden Stromspeicher gebaut.",
       "url": "https://www.heise.de/news/Erneuerbare-Energien-BYD-baut-12-5-Gigawattstunden-Speicher-in-Saudi-Arabien-10293695.html",
       "image_title": "Netzspeicher"
-    },
-    {
-      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
-      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
     },
     {
       "title": "Mini-PC für 209 Euro überraschend edel und gut: Ninkear N4 mit Ryzen 5 im Test",
@@ -415,28 +439,6 @@
       "teaser": "Zum Wochenende hat das australische Innenministerium die Installation von Kaspersky-Produkten auf Regierungsrechnern verboten.",
       "url": "https://www.heise.de/news/Australien-verbannt-Kaspersky-von-Regierungsrechnern-10293497.html",
       "image_title": "Ein Laptop zeigt ein durchgestrichenes Sicherhietsschild vor australischer Flagge"
-    },
-    {
-      "title": "Sigma stellt minimalistische Vollformatkamera BF vor",
-      "teaser": "Mit der Sigma BF präsentiert der japanische Kamerahersteller eine neue Vision für digitale Kameras und reduziert die Bedienelemente auf das Wesentliche.",
-      "url": "https://www.heise.de/news/Sigma-BF-Minimalistische-Vollformatkamera-mit-simplem-Design-vorgestellt-10293433.html"
-    },
-    {
-      "title": "KI-Update kompakt: Silicon Valley, Apple Intelligence, OpenAI, InsightPersona",
-      "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-Silicon-Valley-Apple-Intelligence-OpenAI-InsightPersona-10293211.html",
-      "image_title": "KI update Logo"
-    },
-    {
-      "title": "Der AI Act fordert ein ausreichendes Maß an KI-Kompetenz: Was das bedeutet",
-      "teaser": "Unternehmen und Behörden müssen für eine ausreichende KI-Kompetenz bei ihren Mitarbeitern sorgen. Das gilt für jede Form des Einsatzes künstlicher Intelligenz.",
-      "url": "https://www.heise.de/hintergrund/Der-AI-Act-fordert-ein-ausreichendes-Mass-an-KI-Kompetenz-Was-das-bedeutet-10237456.html"
-    },
-    {
-      "title": "Neuer Vorstand, neue Pläne: Mozilla will sich mit Werbung und KI finanzieren",
-      "teaser": "Mozilla will seinen Firefox-Browser künftig über KI und Werbung querfinanzieren. Dazu gibt es nach dem Rückzug von Mitchell Baker Neubesetzungen im Vorstand.",
-      "url": "https://www.heise.de/news/Neue-Einnahmequellen-gesucht-Mozilla-investiert-in-Open-Source-KI-und-Werbung-10292722.html",
-      "image_title": "Fassade der Mozilla-Foundation"
     },
     {
       "title": "Paypal-Phishing: \"Neue Adresse\"-Funktion missbraucht",
@@ -483,16 +485,16 @@
       "image_title": "Menschen blicken auf MacBook Air 15"
     },
     {
+      "title": "Sigma stellt minimalistische Vollformatkamera BF vor",
+      "url": "https://www.heise.de/news/Sigma-BF-Minimalistische-Vollformatkamera-mit-simplem-Design-vorgestellt-10293433.html"
+    },
+    {
       "title": "Android Auto erzwingt Smartphone-Neustart: Nutzer klagen über Probleme",
       "url": "https://www.heise.de/news/Android-Auto-erzwingt-Smartphone-Neustart-Nutzer-klagen-ueber-Probleme-10292042.html"
     },
     {
       "title": "Tesla-Supercharger: Kabeldiebe erleben ihr blaues Wunder",
       "url": "https://www.heise.de/news/Tesla-Supercharger-Kabeldiebe-erleben-ihr-blaues-Wunder-10284016.html"
-    },
-    {
-      "title": "Smart Home kann SO nice sein | Dashboards in Home Assistant",
-      "url": "https://www.heise.de/news/Smart-Home-kann-SO-nice-sein-Dashboards-in-Home-Assistant-10291461.html"
     },
     {
       "title": "HP rudert zurück: Keine absichtlichen Wartezeiten für Support-Anrufer mehr",
@@ -603,15 +605,20 @@
       "url": "https://www.heise.de/en/news/Swisscom-and-German-start-up-test-Quantum-security-solution-10291738.html"
     },
     {
-      "title": "History: Die schnellste Festplatte der Welt wird 25 Jahre alt",
-      "teaser": "Vor 25 Jahren stellte Seagate die erste Festplatte vor, deren Platter mit 15.000 Umdrehungen/Minute drehten. Damit erreichte die Cheetah X15 fast 40 MByte/s.",
-      "url": "https://www.heise.de/news/History-Die-schnellste-Festplatte-der-Welt-wird-25-Jahre-alt-10291417.html",
-      "image_title": "Seagate Cheetah X15 Festplatte geöffnet"
+      "title": "c't 3003Smart Home kann SO nice sein | Dashboards in Home Assistant",
+      "teaser": "Smart Home, aber schick: Mit Home Assistant erstellt ihr personalisierte Dashboards – sogar auf einem alten Tablet an der Wand.",
+      "url": "https://www.heise.de/news/Smart-Home-kann-SO-nice-sein-Dashboards-in-Home-Assistant-10291461.html"
     },
     {
       "title": "FAQ: c’t-Notfall-Windows 2025",
       "teaser": "Zu unserem Bausatz für ein Notfallsystem auf Basis von Windows erreichten uns viele Fragen. Gängige Antworten zum Bauen und zum Einsatz geben wir hier.",
       "url": "https://www.heise.de/ratgeber/FAQ-c-t-Notfall-Windows-2025-10276186.html"
+    },
+    {
+      "title": "History: Die schnellste Festplatte der Welt wird 25 Jahre alt",
+      "teaser": "Vor 25 Jahren stellte Seagate die erste Festplatte vor, deren Platter mit 15.000 Umdrehungen/Minute drehten. Damit erreichte die Cheetah X15 fast 40 MByte/s.",
+      "url": "https://www.heise.de/news/History-Die-schnellste-Festplatte-der-Welt-wird-25-Jahre-alt-10291417.html",
+      "image_title": "Seagate Cheetah X15 Festplatte geöffnet"
     },
     {
       "title": "Freeware-Perlen Gratis und gut: 18 Apps für das iPad",
@@ -688,6 +695,12 @@
       "url": "https://www.heise.de/hintergrund/IT-Security-Verdeckt-angreifen-mit-Beacon-Object-Files-10277655.html"
     },
     {
+      "title": "Ende der Touristenfahrten auf der Nürburgring-Nordschleife für Motorradfahrer",
+      "teaser": "\"Missverständnisse zwischen Zwei- und Vierrädern\" gefährden vor allem die Motorradfahrer. Daher verhängt das Management der Rennstrecke ein Zweiradverbot.",
+      "url": "https://www.heise.de/news/Ende-der-Touristenfahrten-auf-der-Nuerburgring-Nordschleife-fuer-Motorradfahrer-10294415.html",
+      "image_title": "Motorradrennen auf dem Nürburgring"
+    },
+    {
       "title": "Solides 18-Zoll-Angebot für Kompakte, ein VollversagerSommerreifen im Test",
       "teaser": "Im Sommerreifentest des ADAC mit der Dimension 225/40 R 18, beliebt auf Kompakten, zeigt sich ein solides Spitzenfeld, drei sind jedoch nicht empfehlenswert.",
       "url": "https://www.heise.de/ratgeber/ADAC-Sommerreifentest-Solides-18-Zoll-Angebot-fuer-Kompakte-ein-Vollversager-10293794.html",
@@ -704,12 +717,6 @@
       "teaser": "Werden aus kurzen Tempo-30-Abschnitten flächendeckende Zonen, kann das den öffentlichen Nahverkehr ausbremsen. Ein Omnibusverband mahnt daher Rücksichtnahme an.",
       "url": "https://www.heise.de/news/Verkehrspolitik-30er-Zonen-mit-Ruecksicht-auf-den-OePNV-ausbauen-10292703.html",
       "image_title": "Daimler Truck Omnibus"
-    },
-    {
-      "title": "Ladeinfrastruktur für die E-MobilitätEU gibt 45 Millionen Euro für 1400 neue Ladepunkte frei",
-      "teaser": "Weitere 1400 öffentliche Ladepunkte für Lkw und Pkw sollen für 45 Millionen Euro bis 2027 dank eines EU-Infrastrukturprojekts europaweit aufgestellt werden.",
-      "url": "https://www.heise.de/news/Elektromobilitaet-EU-gibt-45-Millionen-Euro-fuer-1400-neue-Ladepunkte-frei-10291143.html",
-      "image_title": "Eldrive-Ladestationen Litauen"
     },
     {
       "title": "Mit wenigen Klicks: So einfach entstehen Memecoins wirklich",
@@ -747,21 +754,20 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Isar Aerospace in den Startlöchern: Deutscher Raketenhersteller vor erstem Testflug",
+      "teaser": "Erster privater Allzugang aus Europa: Münchner Raumfahrt-Startup wartet auf Startgenehmigung für seine Rakete Spectrum. Triebwerkstest war erfolgreich.",
+      "url": "https://www.heise.de/tp/features/Isar-Aerospace-in-den-Startloechern-Deutscher-Raketenhersteller-vor-erstem-Testflug-10294074.html"
+    },
+    {
+      "title": "Militärexperten warnen: Massive Ausweitung russischer Drohnenkapazitäten",
+      "teaser": "Russland hat seine Drohnenangriffe auf die Ukraine drastisch verstärkt. Im Februar wurden täglich bis zu 176 Shahed-Drohnen eingesetzt – ein neuer Höchstwert. Was Experten besonders beunruhigt.",
+      "url": "https://www.heise.de/tp/features/Militaerexperten-warnen-Massive-Ausweitung-russischer-Drohnenkapazitaeten-10292192.html"
+    },
+    {
       "title": "Überbietungswettbewerb um Nato-Aufrüstungsziel",
       "teaser": "Nato-Staaten überbieten sich in Rüstungszielen. Nach zwei Prozent fordern manche nun drei, andere gar fünf Prozent des BIP. Doch wer soll das bezahlen?",
       "url": "https://www.heise.de/tp/features/Ueberbietungswettbewerb-um-Nato-Aufruestungsziel-10292486.html",
       "image_title": "Nato-Stern umlammert Geld"
-    },
-    {
-      "title": "Geothermie 2.0: Wie Öl-Technologie die Energiewende beschleunigt",
-      "teaser": "Geothermie galt lange als Energiequelle mit begrenztem Potenzial. Neue Bohrtechniken aus der Ölindustrie könnten das nun ändern.",
-      "url": "https://www.heise.de/tp/features/Geothermie-2-0-Wie-Oel-Technologie-die-Energiewende-beschleunigt-10293130.html",
-      "image_title": "Grafische Darstellung der Geothermie."
-    },
-    {
-      "title": "Zwischen Moralkeule und Elite-Status: Die Grünen im Wahlkampf 2025",
-      "teaser": "Bundestagswahl: Robert Habecks neue Politik-Kultur auf dem Prüfstand. Was von seinem Wahlkampf bleibt – eine Stilkritik und weitergehende Überlegungen.",
-      "url": "https://www.heise.de/tp/features/Zwischen-Moralkeule-und-Elite-Status-Die-Gruenen-im-Wahlkampf-2025-10292319.html"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
