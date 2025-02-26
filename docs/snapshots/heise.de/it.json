@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-26T11:08:30",
+  "timestamp": "2025-02-26T12:17:19",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,25 +26,42 @@
   ],
   "articles": [
     {
+      "title": "Wie sich Nutzer und Firmen vor Phishing schützen können",
+      "teaser": "Phishing hat längst die Grenzen des Postfachs verlassen. Wir haben dazu mit Melanie Volkamer vom KIT über Phishing-Trends und Schutzmaßnahmen gesprochen.",
+      "url": "https://www.heise.de/hintergrund/Wie-sich-Nutzer-und-Firmen-vor-Phishing-schuetzen-koennen-10231875.html"
+    },
+    {
       "title": "DeepSeek R1 auf der Nvidia GeForce RTX 5090: Wie es läuft, was es bringt",
       "teaser": "Das chinesische KI-Modell DeepSeek R1 läuft auch auf PC-Hardware. Wir haben es auf der aktuell schnellsten Consumer-GPU, Nvidias GeForce RTX 5090, ausprobiert.",
       "url": "https://www.heise.de/tests/DeepSeek-R1-auf-der-Nvidia-GeForce-RTX-5090-Wie-es-laeuft-was-es-bringt-10285418.html"
     },
     {
-      "title": "Der USB-Stick wird 25 Jahre alt – Erfolg mit Tücken",
-      "teaser": "Unscheinbar und allgegenwärtig: Rund 10 Millionen USB-Sticks kaufen deutsche Privatleute jedes Jahr. Wir schauen auf eine Erfolgsgeschichte und ihre Tücken.",
-      "url": "https://www.heise.de/hintergrund/Der-USB-Stick-wird-25-Jahre-alt-Erfolg-mit-Tuecken-10295317.html",
-      "image_title": ","
+      "title": "Bundeswettbewerb KI 2025 gestartet, Anmeldung noch bis 1. Juni",
+      "teaser": "Mit KI Gutes tun und Preise gewinnen: Ab sofort können sich Schülerinnen und Schüler mit ihren Machine-Learning-Projekten beim Bundeswettbewerb KI anmelden.",
+      "url": "https://www.heise.de/news/Bundeswettbewerb-KI-2025-gestartet-Anmeldung-noch-bis-1-Juni-10296199.html"
+    },
+    {
+      "title": "Bösartiger Code in 200 GitHub-Repositories stiehlt knapp 500.000 Euro",
+      "teaser": "Eine Malware-Kampagne in GitHub-Repositories hat es auf Bankdaten und Bitcoin-Wallets abgesehen. Der Schadcode wird oft erst zur Build-Zeit ausgeführt.",
+      "url": "https://www.heise.de/news/Boesartiger-Code-in-200-GitHub-Repositories-stiehlt-knapp-500-000-Euro-10296516.html",
+      "image_title": "Datei auf dem Computerbildschirm verteilt Viren und Malware"
+    },
+    {
+      "title": "Grok 3 bietet Sprachmodus extra für Telefonsex und Verschwörungserzählungen",
+      "teaser": "Elon Musks xAI bietet KI nahezu ohne Leitplanken an. Der neue Voice Mode kann daher schreien, stöhnen, fluchen und mehr.",
+      "url": "https://www.heise.de/news/Grok-3-bietet-Sprachmodus-extra-fuer-Telefonsex-und-Verschwoerungserzaehlungen-10296376.html",
+      "image_title": "Futuristisch verfremdete Darstellung des Gesichts einer schönen Frau mit blauen Augen, die sich auf die Unterlippe beißt."
+    },
+    {
+      "title": "GitHub Enterprise Server 3.16 zeigt detaillierte Metriken zur Systemgesundheit",
+      "teaser": "Der Release Candidate präsentiert neue Features, darunter überarbeitete Monitoring Dashboards und benutzerdefinierte Eigenschaften bei der Repo-Erstellung.",
+      "url": "https://www.heise.de/news/GitHub-Enterprise-Server-3-16-zeigt-detaillierte-Metriken-zur-Systemgesundheit-10296178.html",
+      "image_title": "Stethoskop und ein Block mit Papier in grüner Krankenhausfarbe"
     },
     {
       "title": "Ethical Hacking für Fortgeschrittene – sich selbst hacken, bevor es andere tun",
       "teaser": "In fünf Terminen lernen Admins und IT-Security-Verantwortliche ab dem 28. April, ihre eigenen Systeme zu hacken, um sich vor Angreifern effektiv zu schützen.",
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-10292984.html"
-    },
-    {
-      "title": "Wie sich Nutzer und Firmen vor Phishing schützen können",
-      "teaser": "Phishing hat längst die Grenzen des Postfachs verlassen. Wir haben dazu mit Melanie Volkamer vom KIT über Phishing-Trends und Schutzmaßnahmen gesprochen.",
-      "url": "https://www.heise.de/hintergrund/Wie-sich-Nutzer-und-Firmen-vor-Phishing-schuetzen-koennen-10231875.html"
     },
     {
       "title": "Rust-DMA-Streit beim Linux-Kernel: Entwickler zieht sich etwas zurück",
@@ -105,23 +122,6 @@
       "teaser": "Die KI-Suchmaschine Perplexity kündigt Comet an – einen Browser für die \"agentische Suche\". Es gibt bereits eine Warteliste.",
       "url": "https://www.heise.de/news/Comet-Perplexity-kuendigt-eigenen-Browser-an-10295914.html",
       "image_title": "Webseite zeigt Logo von Comet"
-    },
-    {
-      "title": "Datenbanken und KI: MongoDB übernimmt AI Voyage",
-      "teaser": "MongoDB übernimmt Voyage AI, um die KI-Datenverarbeitung zu optimieren. Die Integration zielt darauf ab, die Entwicklung von KI-Anwendungen zu vereinfachen.",
-      "url": "https://www.heise.de/news/Datenbanken-und-KI-MongoDB-uebernimmt-AI-Voyage-10294394.html",
-      "image_title": "Gang im Rechenzentrum"
-    },
-    {
-      "title": "Tipp: Netzwerk-Geschwindigkeit mit iPerf3 messen",
-      "teaser": "Wie schnell ist das eigene Heimnetz? Router geben diese Information oft nicht an. Mit diesem Tool messen Sie die Geschwindigkeit.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Netzwerk-Geschwindigkeit-mit-iPerf3-messen-10295782.html",
-      "image_title": "Netzwerkkabel"
-    },
-    {
-      "title": "c't-Workshop: CI/CD mit GitLab",
-      "teaser": "Der Workshop vermittelt Entwicklern den Umgang mit GitLabs CI-Funktionen: Sie lernen, Softwareprojekte effizient zu bauen, zu testen und zu veröffentlichen.",
-      "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-10287434.html"
     },
     {
       "title": "proLogistik ist Champion im Bereich der Warehouse Management Systeme",
