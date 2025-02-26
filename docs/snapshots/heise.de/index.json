@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-26T03:16:35",
+  "timestamp": "2025-02-26T04:11:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bericht: Chinesische Firmen bestellen mehr H20-Chips von Nvidia für DeepSeek",
+      "url": "https://www.heise.de/news/Bericht-Chinesische-Firmen-bestellen-mehr-H20-Chips-von-Nvidia-fuer-DeepSeek-10295796.html"
+    },
     {
       "title": "Letzter US-Staat erwägt Recht auf Reparatur",
       "url": "https://www.heise.de/news/Letzter-US-Staat-erwaegt-Recht-auf-Reparatur-10295774.html"
@@ -60,10 +64,6 @@
     {
       "title": "Microsoft empfiehlt PC-Herstellern für Windows 11 24H2 junge Prozessoren",
       "url": "https://www.heise.de/news/Microsoft-empfiehlt-PC-Herstellern-fuer-Windows-11-24H2-junge-Prozessoren-10295562.html"
-    },
-    {
-      "title": "Verbrechen aufklären mittels Smart-Home-Sensorik",
-      "url": "https://www.heise.de/hintergrund/Verbrechen-aufklaeren-mittels-Smart-Home-Sensorik-10242153.html"
     },
     {
       "title": "\"Desktop\"Framework stellt seinen ersten Mini-PC mit Riesen-APU vor",
@@ -187,21 +187,27 @@
       "image_title": "Nextcloud Talk in Hub 10"
     },
     {
+      "title": "Bericht: Chinesische Firmen bestellen mehr H20-Chips von Nvidia für DeepSeek",
+      "teaser": "Alibaba, ByteDance, Tencent & Co. bestellen wohl deutlich mehr KI-Chips von Nvidia als zuvor. Grund dürfte die Integration der KI-Modelle von DeepSeek sein.",
+      "url": "https://www.heise.de/news/Bericht-Chinesische-Firmen-bestellen-mehr-H20-Chips-von-Nvidia-fuer-DeepSeek-10295796.html",
+      "image_title": "Nvidias KI-Beschleuniger H100"
+    },
+    {
       "title": "Letzter US-Staat erwägt Recht auf Reparatur",
       "teaser": "US-Verbraucherschützer feiern einen Meilenstein: Mit Wisconsin hat der letzte US-Bundesstaat einen Antrag auf ein Recht auf Reparatur. Die Gegenlobby ist stark.",
       "url": "https://www.heise.de/news/Letzter-US-Staat-erwaegt-Recht-auf-Reparatur-10295774.html",
       "image_title": "Ein Mann hockt vor einem Kardanadapater und schraubt daran"
     },
     {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Microsoft testet werbefinanziertes Office für Windows",
       "teaser": "Microsoft 365 ohne Abo-Gebühren, dafür mit Werbung. Das können manche User ausprobieren. Es gibt viele Einschränkungen.",
       "url": "https://www.heise.de/news/Microsoft-testet-werbefinanziertes-Office-Light-10295698.html",
       "image_title": "Stilisiertes Bild: Person sitzt verzweifelt vor einem Laptop mit einem \"W\" wie \"Word\" auf dem Display"
-    },
-    {
-      "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
-      "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Die besten Elektro-Klappräder ab 600 Euro im Test",
@@ -230,12 +236,6 @@
       "teaser": "Spezifische Batterien für mobile Roboter gibt es nicht. Das soll sich bald ändern.",
       "url": "https://www.heise.de/news/Hyundai-Kia-und-Samsung-arbeiten-an-Hochleistungsbatterien-fuer-Roboter-10295532.html",
       "image_title": "Roboter DAL-e vor einem Auto"
-    },
-    {
-      "title": "Microsoft empfiehlt PC-Herstellern für Windows 11 24H2 junge Prozessoren",
-      "teaser": "Eine Support-Liste für Windows 11 24H2 entfernt weitere Prozessoren. Für Nutzer soll sich jedoch nichts ändern.",
-      "url": "https://www.heise.de/news/Microsoft-empfiehlt-PC-Herstellern-fuer-Windows-11-24H2-junge-Prozessoren-10295562.html",
-      "image_title": "Intel Core i7-8700K Coffee Lake"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -275,8 +275,8 @@
       "url": "https://www.heise.de/tests/Extrabreite-Displays-im-Test-Was-passt-zum-Mac-10268980.html"
     },
     {
-      "title": "Wie Sie analoge Fotoschätze auf Papier, Negativ und Dia digitalisieren",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-analoge-Fotoschaetze-auf-Papier-Negativ-und-Dia-digitalisieren-10271287.html"
+      "title": "Erfahrungsbericht: Ein Jahr dynamischer Stromtarif mit Tibber",
+      "url": "https://www.heise.de/hintergrund/Erfahrungsbericht-Ein-Jahr-dynamischer-Stromtarif-mit-Tibber-10241880.html"
     },
     {
       "title": "Bundestagswahl: CDU/CSU klar vorne, AfD auf dem zweiten Platz, FDP fliegt raus",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Microsoft empfiehlt PC-Herstellern für Windows 11 24H2 junge Prozessoren",
+      "teaser": "Eine Support-Liste für Windows 11 24H2 entfernt weitere Prozessoren. Für Nutzer soll sich jedoch nichts ändern.",
+      "url": "https://www.heise.de/news/Microsoft-empfiehlt-PC-Herstellern-fuer-Windows-11-24H2-junge-Prozessoren-10295562.html",
+      "image_title": "Intel Core i7-8700K Coffee Lake"
     },
     {
       "title": "Verbrechen aufklären mittels Smart-Home-Sensorik",
@@ -371,15 +377,15 @@
       "image_title": "Screenshot aus \"Gothic 1 Remake\""
     },
     {
+      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
+      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
+    },
+    {
       "title": "Zeiss zeigt neue Otus-Objektive für spiegellose Vollformatkameras",
       "teaser": "Lange war es ruhig um Fotoprodukte von Zeiss, jetzt meldet sich der Traditionshersteller mit zwei neuen Objektiven zurück.",
       "url": "https://www.heise.de/news/Zeiss-stellt-neue-Otus-Objektive-fuer-spiegellose-Vollformatkameras-vor-10295021.html",
       "image_title": "Zeiss-Objektiv"
-    },
-    {
-      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
-      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
     },
     {
       "title": "Stummes Album: Künstler veröffentlichen gemeinsamen Protest gegen KI-Pläne",
@@ -433,15 +439,14 @@
       "url": "https://www.heise.de/news/Europaeischer-Gerichtshof-Google-muss-Android-Auto-prinzipiell-fuer-Dritte-oeffnen-10294849.html"
     },
     {
-      "title": "data2day 2025: Vorträge zur zwölften Ausgabe der Data-Science-Konferenz gesucht",
-      "teaser": "Der Call for Proposals zur Konferenz für Data Scientists, Data Engineers und Data Teams ist eröffnet. Die data2day findet im November 2025 in Karlsruhe statt.",
-      "url": "https://www.heise.de/news/data2day-2025-Vortraege-zur-zwoelften-Ausgabe-der-Data-Science-Konferenz-gesucht-10290863.html",
-      "image_title": "data2day 2025: Vorträge zur zwölften Ausgabe der Data-Science-Konferenz gesucht"
+      "title": "Password-Spraying-Angriff auf M365-Konten von Botnet mit über 130.000 Drohnen",
+      "url": "https://www.heise.de/news/Password-Spraying-Angriff-auf-M365-Konten-von-Botnet-mit-ueber-130-000-Drohnen-10294301.html",
+      "image_title": "Ein Krimineller versucht, Verschlüsselung/Login eines Rechners zu knacken"
     },
     {
-      "title": "Paypal-Phishing: \"Neue Adresse\"-Funktion missbraucht",
-      "url": "https://www.heise.de/news/Paypal-Phishing-Neue-Adresse-Funktion-missbraucht-10292604.html",
-      "image_title": "Krimineller angelt Kreditkartendaten, Geld,"
+      "title": "Fraunhofer entwickelt KI für Stimmgesundheit, um Ausfälle zu reduzieren",
+      "url": "https://www.heise.de/news/KI-erkennt-Stimmprobleme-Stimmgesundheit-fuer-Lehrkraefte-und-Speaker-erhalten-10284216.html",
+      "image_title": "Frau fasst sich mit schmerzverzerrtem Gesicht an den Hals"
     },
     {
       "title": "\"Silicon Valley vom Weg abgekommen\" – sagt Palantir-CEO",
@@ -449,28 +454,19 @@
       "image_title": "Palantir-Logo"
     },
     {
-      "title": "Telekom bringt \"SMS-Firewall\"",
-      "url": "https://www.heise.de/news/Telekom-bringt-SMS-Firewall-10292738.html",
-      "image_title": "Ein Smartphone mit geöffneter Messaging-App in einer menschlichen Hand, auf dem Bildschirm ist verschwommen ein Chat zu sehen."
+      "title": "Ein Tausendstel des Strombedarfs: KI-Wettervorhersage von Europas Wetterdienst",
+      "url": "https://www.heise.de/news/Europaeischer-Wetterdienst-Neues-KI-Wettermodell-braucht-1000-Mal-weniger-Strom-10294362.html",
+      "image_title": "Regenbogen und Regenwolken über gelbem Weizenfeld"
     },
     {
-      "title": "X-37B: Space Force veröffentlicht erstmals Foto des US-Raumgleiters im All",
-      "url": "https://www.heise.de/news/X-37B-Space-Force-veroeffentlicht-erstmals-Foto-des-US-Raumgleiters-im-All-10292548.html"
+      "title": "Schwimmende Atomkraftwerke sollen US-Küstenregionen mit Strom versorgen",
+      "url": "https://www.heise.de/news/Core-Power-will-schwimmende-Atomkraftwerke-fuer-die-USA-bauen-10294066.html",
+      "image_title": "Schwimmendes Atomkraftwerk"
     },
     {
-      "title": "Treibstoffleck war verantwortlich für den Absturz der SpaceX-Rakete über Europa",
-      "url": "https://www.heise.de/news/Treibstoffleck-war-verantwortlich-fuer-den-Absturz-der-SpaceX-Rakete-ueber-Europa-10292528.html",
-      "image_title": "Falcon-9-Rakete von SpaceX hebt ab beim Start"
-    },
-    {
-      "title": "\"Quipu\": Größte Superstruktur des nahen Universums besteht aus 68 Galaxienhaufen",
-      "url": "https://www.heise.de/news/Quipu-Groesste-vermessene-Struktur-des-Universums-besteht-aus-68-Galaxienhaufen-10292777.html",
-      "image_title": "Zahlreiche große und kleine Galaxien"
-    },
-    {
-      "title": "US-Regierung lässt Elektroauto-Ladestationen aus Bundesgebäuden entfernen",
-      "url": "https://www.heise.de/news/US-Regierung-laesst-Elektroauto-Ladestationen-aus-Bundesgebaeuden-entfernen-10292343.html",
-      "image_title": "Symbol für ein Elektroauto"
+      "title": "Flottenverbrauch: Wie die Autohersteller die neuen Grenzwerte einhalten",
+      "url": "https://www.heise.de/hintergrund/Flottenverbrauch-Wie-die-Autohersteller-die-neuen-Grenzwerte-einhalten-10293749.html",
+      "image_title": "Smart#1"
     },
     {
       "title": "iOS 18.4: Ein Blick auf die Beta-Features – und das deutsche Apple Intelligence",
@@ -483,30 +479,23 @@
       "image_title": "iPhone 16 liegt vor der Verpackung"
     },
     {
+      "title": "US-Regierung lässt Elektroauto-Ladestationen aus Bundesgebäuden entfernen",
+      "url": "https://www.heise.de/news/US-Regierung-laesst-Elektroauto-Ladestationen-aus-Bundesgebaeuden-entfernen-10292343.html",
+      "image_title": "Symbol für ein Elektroauto"
+    },
+    {
+      "title": "Staffel 2 von \"Andor\": The Revolution Starts Now",
+      "url": "https://www.heise.de/news/Staffel-2-von-Andor-The-Revolution-Starts-Now-10294358.html",
+      "image_title": "Poster zur zweiten Staffel von \"Andor\" zeigt Cassian Andor auf Todesstern projiziert"
+    },
+    {
       "title": "Sigma stellt minimalistische Vollformatkamera BF vor",
       "url": "https://www.heise.de/news/Sigma-BF-Minimalistische-Vollformatkamera-mit-simplem-Design-vorgestellt-10293433.html"
     },
     {
-      "title": "Android Auto erzwingt Smartphone-Neustart: Nutzer klagen über Probleme",
-      "url": "https://www.heise.de/news/Android-Auto-erzwingt-Smartphone-Neustart-Nutzer-klagen-ueber-Probleme-10292042.html"
-    },
-    {
-      "title": "Tesla-Supercharger: Kabeldiebe erleben ihr blaues Wunder",
-      "url": "https://www.heise.de/news/Tesla-Supercharger-Kabeldiebe-erleben-ihr-blaues-Wunder-10284016.html"
-    },
-    {
-      "title": "Größter Krypto-Coup aller Zeiten: Bybit verliert 1,5 Milliarden US-Dollar",
-      "url": "https://www.heise.de/news/Groesster-Krypto-Coup-aller-Zeiten-Bybit-verliert-1-5-Milliarden-US-Dollar-10292118.html",
-      "image_title": "Ethereum,Coin,On,An,Computer,Motherboard"
-    },
-    {
-      "title": "Schwimmende Atomkraftwerke sollen US-Küstenregionen mit Strom versorgen",
-      "url": "https://www.heise.de/news/Core-Power-will-schwimmende-Atomkraftwerke-fuer-die-USA-bauen-10294066.html",
-      "image_title": "Schwimmendes Atomkraftwerk"
-    },
-    {
-      "title": "HP rudert zurück: Keine absichtlichen Wartezeiten für Support-Anrufer mehr",
-      "url": "https://www.heise.de/news/Absichtliche-Wartezeiten-am-Telefon-HP-nimmt-Support-Strategie-wieder-zurueck-10292392.html"
+      "title": "Ubisoft: \"Assassin's Creed Shadows\" leakt – offenbar zu früh im Handel",
+      "url": "https://www.heise.de/news/Ubisoft-Assassin-s-Creed-Shadows-leakt-offenbar-zu-frueh-im-Handel-10294770.html",
+      "image_title": "Screenshot aus \"AC Shadows\""
     },
     {
       "title": "Kosten des Bundes für Microsoft-Lizenzen steigen wieder",
@@ -514,17 +503,28 @@
       "image_title": "Hand auf Maus, die andere auf einer Tastatur"
     },
     {
+      "title": "Halbleiter aus Österreich: EU genehmigt 227 Millionen Euro",
+      "url": "https://www.heise.de/news/Halbleiter-aus-Oesterreich-EU-genehmigt-227-Millionen-Euro-10294178.html",
+      "image_title": "Fahnenstangen mit Flaggen der EU, der Steiermark, Österreichs und dem Firmenlogo ams; rechts davon ein altes Schlossgebäude, links ein modernes Geschäftsgebäude mit Glasfassade"
+    },
+    {
+      "title": "BYD baut 12,5-Gigawattstunden-Speicher in Saudi-Arabien",
+      "url": "https://www.heise.de/news/Erneuerbare-Energien-BYD-baut-12-5-Gigawattstunden-Speicher-in-Saudi-Arabien-10293695.html",
+      "image_title": "Netzspeicher"
+    },
+    {
       "title": "Mit einer Sprache: Landkarte der Glasfaserleitungen an Land geplant",
       "url": "https://www.heise.de/news/Mit-einer-Sprache-Landkarte-der-Glasfaserleitungen-an-Land-geplant-10293944.html"
     },
     {
-      "title": "Missing Link: Stellenausschreibung für das Digitalministerium",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Stellenausschreibung-fuer-das-Digitalministerium-10292216.html"
+      "title": "EU-Kommission will koordinierte Antwort auf großangelegte Cyberangriffe",
+      "url": "https://www.heise.de/news/EU-Kommission-will-koordinierte-Antwort-auf-grossangelegte-Cyberangriffe-10294022.html",
+      "image_title": "Ein weißes Kreuz auf blauem Hintergrund"
     },
     {
-      "title": "Montag: HP beschleunigt Telefon-Support, SpaceX-Absturz wegen Treibstoffleck",
-      "url": "https://www.heise.de/news/Montag-HP-beschleunigt-Telefon-Support-SpaceX-Absturz-wegen-Treibstoffleck-10292540.html",
-      "image_title": "Mitarbeiter mit Kopfhörern sitzen nebeneinander an Schreibtischen; Montag: HP-Kehrtwende, SpaceX-Raketentrümmer, Elektroauto-Kürzung, ANC-Hörschäden & GeForce-Beschneidung"
+      "title": "Digital Services Act: Nutzerzahlen bei Porno-Plattformen in der EU brechen ein",
+      "url": "https://www.heise.de/news/Digital-Services-Act-Nutzerzahlen-bei-Porno-Plattformen-in-der-EU-brechen-ein-10290219.html",
+      "image_title": "Screenshot Pornhub"
     },
     {
       "title": "Weltrauminternet: Konkurrenz für Elon Musks Starlink",
@@ -532,9 +532,14 @@
       "image_title": "Viele Satelliten"
     },
     {
-      "title": "Zahlen, bitte! Letztes Bild der Erde aus 6 Milliarden Kilometern Entfernung",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Letztes-Bild-der-Erde-aus-6-Milliarden-Kilometern-Entfernung-10285602.html",
-      "image_title": "Aufmacherbild Zahlen, bitte"
+      "title": "Dienstag: Konkurrenz für Starlink, EU subventioniert Halbleiter in Österreich",
+      "url": "https://www.heise.de/news/Dienstag-Konkurrenz-fuer-Starlink-EU-subventioniert-Halbleiter-in-Oesterreich-10294200.html",
+      "image_title": "Ein Satellit umkreist die Erde, dazu Text: DIENSTAG Satelliteninternet, Halbleiter, Cyberangriffe, Apple-Investition & Atomkraft"
+    },
+    {
+      "title": "Montag: HP beschleunigt Telefon-Support, SpaceX-Absturz wegen Treibstoffleck",
+      "url": "https://www.heise.de/news/Montag-HP-beschleunigt-Telefon-Support-SpaceX-Absturz-wegen-Treibstoffleck-10292540.html",
+      "image_title": "Mitarbeiter mit Kopfhörern sitzen nebeneinander an Schreibtischen; Montag: HP-Kehrtwende, SpaceX-Raketentrümmer, Elektroauto-Kürzung, ANC-Hörschäden & GeForce-Beschneidung"
     },
     {
       "title": "Live Fragen stellenheise+ Expertentalk: Jobs in der IT-Branche",
@@ -586,21 +591,31 @@
       "image_title": "Symbol for an electric car"
     },
     {
+      "title": "Ex-ownCloud devs seek new start at OpenCloud – Owncloud owner wants to sue",
+      "url": "https://www.heise.de/en/news/Ex-ownCloud-devs-seek-new-start-at-OpenCloud-Owncloud-owner-wants-to-sue-10254438.html"
+    },
+    {
+      "title": "\"We have no time to lose\": VDMA proposes robotics action plan for the EU",
+      "url": "https://www.heise.de/en/news/We-have-no-time-to-lose-VDMA-proposes-robotics-action-plan-for-the-EU-10293965.html"
+    },
+    {
       "title": "Data leak at Thermomix: data from 1 million German users on the darknet",
-      "url": "https://www.heise.de/en/news/Data-leak-at-Thermomix-data-from-1-million-German-users-on-the-darknet-10273939.html",
-      "image_title": "Vorwerk"
+      "url": "https://www.heise.de/en/news/Data-leak-at-Thermomix-data-from-1-million-German-users-on-the-darknet-10273939.html"
     },
     {
-      "title": "Apple aims to replace Qualcomm in Watch with own C2 chip",
-      "url": "https://www.heise.de/en/news/Apple-aims-to-replace-Qualcomm-in-Watch-with-own-C2-chip-10292862.html"
+      "title": "“FHIR-Starter”: research group wants to structure health data meaningfully",
+      "url": "https://www.heise.de/en/news/FHIR-Starter-research-group-wants-to-structure-health-data-meaningfully-10294703.html"
     },
     {
-      "title": "Unitree G1 robot puts on an exceptionally smooth dance performance",
-      "url": "https://www.heise.de/en/news/Unitree-G1-robot-puts-on-an-exceptionally-smooth-dance-performance-10288835.html"
+      "title": "Dateien in Microsoft Teams verwalten",
+      "teaser": "Die Dateispeicher in MS Teams scheinen eine Cloud-Blackbox zu sein. Wir erklären Speicherorte, Suchfunktionen und die Synchronisation mit dem lokalen Rechner.",
+      "url": "https://www.heise.de/ratgeber/Dateien-in-Microsoft-Teams-verwalten-10270261.html"
     },
     {
-      "title": "Swisscom and German start-up test Quantum security solution",
-      "url": "https://www.heise.de/en/news/Swisscom-and-German-start-up-test-Quantum-security-solution-10291738.html"
+      "title": "Freeware-Perlen Gratis und gut: 18 Apps für das iPad",
+      "teaser": "Mit diesen kostenlosen Apps für Apples Tablet sammeln Sie Notizen, bleiben auf dem Laufenden und genießen Medien – ohne In-App-Sperenzien oder Werbung.",
+      "url": "https://www.heise.de/ratgeber/Freeware-Perlen-fuer-das-iPad-10277394.html",
+      "image_title": ", KI-generiert mit freepik; bearbeitet von Madlen Grunert, Mac & i"
     },
     {
       "title": "Bibliothek-Digitalisierer: Mit dieser App behalten Sie den Lese-Überblick",
@@ -609,16 +624,10 @@
       "image_title": "Book Track auf iPhone und iPad"
     },
     {
-      "title": "Router mit Wi-Fi 7 und 6 GHz ausprobiert: Was es für Apple-Anwender bringt",
-      "teaser": "Der Funkstandard Wi-Fi 7 verspricht mehr Geschwindigkeit und Stabilität im Heimnetz. Wir prüfen, wie stark Apple-Geräte von solchen Access Points profitieren.",
-      "url": "https://www.heise.de/ratgeber/Router-mit-Wi-Fi-7-und-6-GHz-ausprobiert-Was-es-fuer-Apple-Anwender-bringt-10268960.html",
-      "image_title": "AVM Fritzbox 5690 Pro mit Wi-Fi 7"
-    },
-    {
-      "title": "So funktioniert der neue WLAN-StandardGrundlagen von Wi-Fi 7",
-      "teaser": "Die ersten Apple-Geräte haben das flottere Wi-Fi 7 an Bord. Wir erklären, was neu ist und wie viel es bringen kann.",
-      "url": "https://www.heise.de/hintergrund/Grundlagen-von-Wi-Fi-7-So-funktioniert-der-neue-WLAN-Standard-10263971.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
+      "title": "RatgeberApple Intelligence in Deutschland aktivieren und nutzen",
+      "teaser": "Apples KI-Paket ist da, vorerst nur auf Englisch. Für iPhone-Nutzer in der EU ist es zudem kompliziert. Schritt-für-Schritt-Tipps zu Aktivierung und Einsatz.",
+      "url": "https://www.heise.de/ratgeber/12-Tipps-Apple-Intelligence-in-Deutschland-aktivieren-und-nutzen-9989656.html",
+      "image_title": "Apple-Intelligence-Icon auf farbigem Hintergrund"
     },
     {
       "title": "Kühlende thermoelektrische Materialien aus dem 3D-Drucker",
@@ -638,6 +647,12 @@
       "image_title": "KiCAD GUI und große Zahl 9"
     },
     {
+      "title": "Software für Fotografen: Pentax Grad-ND-Simulator und Astro Assist im Test",
+      "teaser": "Pentax bietet Upgrades für den Grauverlaufsfilter und den Astrofoto-Assistenten seiner Kameras an. Wir zeigen, mit welchen Ergebnissen Sie rechnen können.",
+      "url": "https://www.heise.de/tests/Software-fuer-Fotografen-Pentax-Grad-ND-Simulator-und-Astro-Assist-im-Test-10284889.html",
+      "image_title": "Bild (3): Komposit, aufgenommen mit dem Grad-ND-Filter. Der Himmel wurde um fünf Blendenstufen abgedunkelt., Alle Bilder: Peter Mein"
+    },
+    {
       "title": "Blumenmuster auf Frauen und idyllische Berglandschaften: Die Bilder der Woche 7",
       "teaser": "Von der Abstraktion ins Detail: Unsere Galeriefotografen inszenieren Zahnräder, einen Raben mit intensivem Blick, aber auch faszinierende Landschaften.",
       "url": "https://www.heise.de/news/Blumenmuster-auf-Frauen-und-idyllische-Berglandschaften-Die-Bilder-der-Woche-7-10290328.html",
@@ -648,12 +663,6 @@
       "teaser": "Adobe blickt auf 35 Jahre Entwicklungsgeschichte von Photoshop zurück: von einfacher Bildbearbeitung hin zum Bestandteil der umfangreichen Creative Cloud.",
       "url": "https://www.heise.de/news/Photoshop-Vor-35-Jahre-veroeffentlichte-Adobe-Version-1-10288267.html",
       "image_title": "Bildschirmfoto von Photoshop"
-    },
-    {
-      "title": "Spiegellose Systemkamera: Canon EOS R1 im Test",
-      "teaser": "Die EOS 1 war bereits zu Analogzeiten das Kamera-Flaggschiff und wurde früh Teil der digitalen Welt. Nun hat sie mit der EOS R1 endlich den Spiegel abgelegt.",
-      "url": "https://www.heise.de/tests/Spiegellose-Systemkamera-Canon-EOS-R1-im-Test-10284833.html",
-      "image_title": ", Peter Nonhoff-Arps"
     },
     {
       "title": "Unter EulenClick Boom Flash # 31 \"Vogelfotografie“",
@@ -688,16 +697,16 @@
       "image_title": "Motorradrennen auf dem Nürburgring"
     },
     {
-      "title": "FlottenverbrauchWie die Autohersteller die neuen Grenzwerte einhalten",
-      "teaser": "Es gibt 2025 neue EU-Vorgaben für den Verbrauch. Autohersteller haben unterschiedliche Strategien, um drohende Strafen zu vermeiden.",
-      "url": "https://www.heise.de/hintergrund/Flottenverbrauch-Wie-die-Autohersteller-die-neuen-Grenzwerte-einhalten-10293749.html",
-      "image_title": "Smart#1"
-    },
-    {
       "title": "Solides 18-Zoll-Angebot für Kompakte, ein VollversagerSommerreifen im Test",
       "teaser": "Im Sommerreifentest des ADAC mit der Dimension 225/40 R 18, beliebt auf Kompakten, zeigt sich ein solides Spitzenfeld, drei sind jedoch nicht empfehlenswert.",
       "url": "https://www.heise.de/ratgeber/ADAC-Sommerreifentest-Solides-18-Zoll-Angebot-fuer-Kompakte-ein-Vollversager-10293794.html",
       "image_title": "ADAC Sommerreifentest 2025"
+    },
+    {
+      "title": "Vorstellung Skoda Kodiaq RSGestärktes Topmodell ohne Hybrid",
+      "teaser": "Skoda legt den in der Vergangenheit sehr beliebten Kodiaq RS wieder auf. Er bekommt einen Benziner mit 195 kW. Die interne Konkurrenz ist allerdings hart.",
+      "url": "https://www.heise.de/news/Vorstellung-Skoda-Kodiaq-RS-Gestaerktes-Topmodell-ohne-Hybrid-10293180.html",
+      "image_title": "Skoda Kodiaq RS"
     },
     {
       "title": "Kann ein Foldable wirklich Smartphone, Tablet und PC ersetzen?",
@@ -735,22 +744,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Mars: Neue Studie löst Rätsel um rote Farbe des Planeten",
+      "teaser": "Das wasserreiche Eisenmineral Ferrihydrit ist wohl für die rote Farbe des Mars verantwortlich. Forscher sehen darin Hinweis auf feuchte Vergangenheit des Planeten.",
+      "url": "https://www.heise.de/tp/features/Mars-Neue-Studie-loest-Raetsel-um-rote-Farbe-des-Planeten-10295346.html",
+      "image_title": "Mars: Der rote Planet"
+    },
+    {
+      "title": "Drei Jahre Ukraine-Krieg: Das bittere Scheitern der Maximalziele",
+      "teaser": "Der Krieg brachte Millionen Opfer und (noch) keine Lösung. Die USA haben maximalistische Ziele verfolgt, den Preis zahlt die Ukraine. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Drei-Jahre-Ukraine-Krieg-Das-bittere-Scheitern-der-Maximalziele-10292973.html",
+      "image_title": "Soldaten auf einem Panzer"
+    },
+    {
       "title": "Von der Weltmacht zum Zaungast: Europas schwindende Bedeutung",
       "teaser": "Europa verliert rapide an globalem Einfluss. Die EU spielt bei wichtigen Weltentscheidungen keine Rolle mehr. Was kaum jemand ahnt: Der dramatische Abstieg hat bereits vor Jahren begonnen.",
       "url": "https://www.heise.de/tp/features/Von-der-Weltmacht-zum-Zaungast-Europas-schwindende-Bedeutung-10294935.html",
       "image_title": "Globushalterung mit EU-Standfläche und daraus gelöstem Globus"
-    },
-    {
-      "title": "Die 20-Prozent-Macher: Die fatale Allianz der Extremen Mitte mit der AfD",
-      "teaser": "Statt das Ungleichheitsregime zu beenden, haben die etablierten Parteien den Frust auf Sündenböcke abgeleitet. Wie ein antiprogressives Klima erzeugt und die extreme Rechte stark gemacht wurde. (Teil 2)",
-      "url": "https://www.heise.de/tp/features/Die-20-Prozent-Macher-Die-fatale-Allianz-der-Extremen-Mitte-mit-der-AfD-10292283.html",
-      "image_title": "Protest vor dem Reichstag gegen die AfD am 2. Februar 2025"
-    },
-    {
-      "title": "USA und Philippinen: Neuer Kurs im Südchinesischen Meer?",
-      "teaser": "Außenminister der Philippinen und USA berieten sich in München. Eine wichtige Zusage wurde dabei nicht mehr erwähnt. Was steckt dahinter? Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/USA-und-Philippinen-Neuer-Kurs-im-Suedchinesischen-Meer-10288029.html",
-      "image_title": "Ein Schiff in einem Hafen, rechts daneben eine Person"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
