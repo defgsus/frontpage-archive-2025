@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-26T19:07:10",
+  "timestamp": "2025-02-26T20:10:11",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Stellarator: Proxima Fusion will bis 2031 ein Fusionskraftwerk bauen",
+      "url": "https://www.heise.de/news/Stellarator-Proxima-Fusion-will-bis-2031-ein-Fusionskraftwerk-bauen-10297356.html"
+    },
     {
       "title": "Top 10: Das beste kleine Smartphone – Mini- und Klapphandys im Test",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mini-smartphone-und-klapphandy-im-test/4d70t82"
@@ -60,10 +64,6 @@
     {
       "title": "Trump: Apple soll Diversitätsprogramme abschaffen",
       "url": "https://www.heise.de/news/Diversitaet-kommt-offenbar-auch-bei-Apple-auf-den-Pruefstand-10297223.html"
-    },
-    {
-      "title": "Schrödingers Katze hilft: Amazon korrigiert Qubit-Fehler Hardware-effizient",
-      "url": "https://www.heise.de/news/Hardware-effiziente-Fehlerkorrektur-Katzenzustaende-machen-Quantenchips-robuster-10297107.html"
     },
     {
       "title": "Alexa+Amazons neue Assistentin kann mehr dank KI",
@@ -185,20 +185,26 @@
       "image_title": "Marsansicht aufgenommen von Zhurong"
     },
     {
+      "title": "Stellarator: Proxima Fusion will bis 2031 ein Fusionskraftwerk bauen",
+      "teaser": "Proxima Fusion zeigt ein Konzept für ein kommerzielles Kernfusionskraftwerk. Bis 2031 will das Münchener Unternehmen eine Demonstrationsanlage bauen.",
+      "url": "https://www.heise.de/news/Stellarator-Proxima-Fusion-will-bis-2031-ein-Fusionskraftwerk-bauen-10297356.html",
+      "image_title": "Stellarator-Reaktorkammer des Wendelstein 7-X"
+    },
+    {
       "title": "Top 10: Das beste kleine Smartphone – Mini- und Klapphandys im Test",
       "teaser": "Handys werden immer größer? Nicht alle! Wir zeigen die besten kompakten Smartphones und Klapphandys von Samsung, Motorola, Xiaomi & Co.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mini-smartphone-und-klapphandy-im-test/4d70t82?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
+      "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "LG: Ultrabreite OLED-Monitore mit 5K2K-Auflösung",
       "teaser": "Die ersten OLED-Displays mit 5120 × 2160 Pixeln kommen von LG. Eine High-End-Variante integriert einen Motor zum Verbiegen.",
       "url": "https://www.heise.de/news/LG-Ultrabreite-OLED-Monitore-mit-5K2K-Aufloesung-10297304.html",
       "image_title": "Ultrabreiter LG-Monitor auf einem Schreibtisch"
-    },
-    {
-      "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
-      "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Meta Quest 3: Niantic macht räumliche Scans greifbar",
@@ -229,12 +235,6 @@
       "teaser": "Von Diversität, Chancengleichheit und Inklusion will die Regierung Trump nichts mehr hören. Apple-Chef Tim Cook stimmte Aktionäre auf mögliche Änderungen ein.",
       "url": "https://www.heise.de/news/Diversitaet-kommt-offenbar-auch-bei-Apple-auf-den-Pruefstand-10297223.html",
       "image_title": "Apple Chef Tim Cook auf dem Firmengelände – Bildschirmaufnahme des September-Events 2024."
-    },
-    {
-      "title": "Schrödingers Katze hilft: Amazon korrigiert Qubit-Fehler Hardware-effizient",
-      "teaser": "Fehlerkorrektur gilt als der Schlüssel zum Erfolg von Quantencomputern. Das könnte nun mit nur einer Handvoll Qubits möglich sein, wie Amazon-Forscher zeigen.",
-      "url": "https://www.heise.de/news/Hardware-effiziente-Fehlerkorrektur-Katzenzustaende-machen-Quantenchips-robuster-10297107.html",
-      "image_title": "Mensch arbeitet an einem Quantencomputer"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -299,6 +299,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Schrödingers Katze hilft: Amazon korrigiert Qubit-Fehler Hardware-effizient",
+      "teaser": "Fehlerkorrektur gilt als der Schlüssel zum Erfolg von Quantencomputern. Das könnte nun mit nur einer Handvoll Qubits möglich sein, wie Amazon-Forscher zeigen.",
+      "url": "https://www.heise.de/news/Hardware-effiziente-Fehlerkorrektur-Katzenzustaende-machen-Quantenchips-robuster-10297107.html",
+      "image_title": "Mensch arbeitet an einem Quantencomputer"
     },
     {
       "title": "Software für Fotografen: Pentax Grad-ND-Simulator und Astro Assist im Test",
@@ -370,15 +376,15 @@
       "image_title": "Strategisches IT-Management entwickeln und umsetzen (iX-Workshop)"
     },
     {
+      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
+      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
+    },
+    {
       "title": "UpdateHeikler Bug in iPhone-Diktierfunktion: Aus \"Racist\" wird kurz \"Trump\"",
       "teaser": "Wird das englische Wort für \"Rassist\" diktiert, transkribiert iOS das unter Umständen zuerst als \"Trump\". Apple stellt eine Korrektur in Aussicht.",
       "url": "https://www.heise.de/news/Heikler-Bug-in-iPhone-Diktierfunktion-Aus-Racist-wird-kurz-Trump-10296734.html",
       "image_title": "iPhone-Diktierfunktion im Einsatz"
-    },
-    {
-      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
-      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
     },
     {
       "title": "Alibaba veröffentlicht Video-KI-Modelle als Open Source",
@@ -430,12 +436,6 @@
       "title": "Ethical Hacking für Fortgeschrittene – sich selbst hacken, bevor es andere tun",
       "teaser": "In fünf Terminen lernen Admins und IT-Security-Verantwortliche ab dem 28. April, ihre eigenen Systeme zu hacken, um sich vor Angreifern effektiv zu schützen.",
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-10292984.html"
-    },
-    {
-      "title": "Rust-DMA-Streit beim Linux-Kernel: Entwickler zieht sich etwas zurück",
-      "teaser": "Nachdem Linus Torvalds das Veto von Christoph Hellwig zu Rust-Code im DMA-Mapping-Bereich überstimmt hat, gibt Letzterer nun zwei von sechs Betreuerposten auf.",
-      "url": "https://www.heise.de/news/Rust-DMA-Streit-beim-Linux-Kernel-Entwickler-zieht-sich-etwas-zurueck-10296226.html",
-      "image_title": "Ein Pinguin sitzt vor dem Computer, der Linux-Quellcode und ein Rust-Logo anzeigt."
     },
     {
       "title": "OpenCloud 1.0 ist da: DSGVO-konformer Filesharing-Dienst steht zum Testen bereit",
@@ -604,10 +604,9 @@
       "url": "https://www.heise.de/en/news/FHIR-Starter-research-group-wants-to-structure-health-data-meaningfully-10294703.html"
     },
     {
-      "title": "Freeware-Perlen Gratis und gut: 18 Apps für das iPad",
-      "teaser": "Mit diesen kostenlosen Apps für Apples Tablet sammeln Sie Notizen, bleiben auf dem Laufenden und genießen Medien – ohne In-App-Sperenzien oder Werbung.",
-      "url": "https://www.heise.de/ratgeber/Freeware-Perlen-fuer-das-iPad-10277394.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Madlen Grunert, Mac & i"
+      "title": "Lautloser Komplett-PC zur Montage unter der Schreibtischplatte",
+      "teaser": "Unscheinbar verrichtet der Arctic senza unter der Tischplatte seinen Dienst. Er ist im Büro und überall, wo es auf Stille ankommt, ein spannender Kandidat.",
+      "url": "https://www.heise.de/tests/Lautloser-Komplett-PC-zur-Montage-unter-der-Schreibtischplatte-10281304.html"
     },
     {
       "title": "Bibliothek-Digitalisierer: Mit dieser App behalten Sie den Lese-Überblick",
@@ -622,6 +621,18 @@
       "image_title": "Apple-Intelligence-Icon auf farbigem Hintergrund"
     },
     {
+      "title": "Router mit Wi-Fi 7 und 6 GHz ausprobiert: Was es für Apple-Anwender bringt",
+      "teaser": "Der Funkstandard Wi-Fi 7 verspricht mehr Geschwindigkeit und Stabilität im Heimnetz. Wir prüfen, wie stark Apple-Geräte von solchen Access Points profitieren.",
+      "url": "https://www.heise.de/ratgeber/Router-mit-Wi-Fi-7-und-6-GHz-ausprobiert-Was-es-fuer-Apple-Anwender-bringt-10268960.html",
+      "image_title": "AVM Fritzbox 5690 Pro mit Wi-Fi 7"
+    },
+    {
+      "title": "Rust-DMA-Streit beim Linux-Kernel: Entwickler zieht sich etwas zurück",
+      "teaser": "Nachdem Linus Torvalds das Veto von Christoph Hellwig zu Rust-Code im DMA-Mapping-Bereich überstimmt hat, gibt Letzterer nun zwei von sechs Betreuerposten auf.",
+      "url": "https://www.heise.de/news/Rust-DMA-Streit-beim-Linux-Kernel-Entwickler-zieht-sich-etwas-zurueck-10296226.html",
+      "image_title": "Ein Pinguin sitzt vor dem Computer, der Linux-Quellcode und ein Rust-Logo anzeigt."
+    },
+    {
       "title": "AlertX.Org und Xwayland: Sicherheitslücken ermöglichen Codeschmuggel",
       "teaser": "Mehrere Sicherheitslücken in X.Org und Xwayland ermöglichen Angreifern das Einschmuggeln von Schadcode. Updates stehen zum Teil bereit.",
       "url": "https://www.heise.de/news/X-Org-und-Xwayland-Sicherheitsluecken-ermoeglichen-Codeschmuggel-10295910.html",
@@ -631,12 +642,6 @@
       "title": "Kühlende thermoelektrische Materialien aus dem 3D-Drucker",
       "teaser": "Das Forschungsteam des ISTA hat ein Verfahren entwickelt, um über 3D-Drucktechnik leistungsstarke thermoelektrische Materialien herzustellen.",
       "url": "https://www.heise.de/news/Kuehlende-thermoelektrische-Materialien-aus-dem-3D-Drucker-10292817.html"
-    },
-    {
-      "title": "Linux-KernelDer Rust-DMA-Streit – ein Analyseversuch",
-      "teaser": "Linus Torvalds hat Stellung zu den Streitigkeiten bezogen – aber erst, nachdem zwei Linux-Entwickler Konsequenzen gezogen haben.",
-      "url": "https://www.heise.de/news/Der-Rust-DMA-Streit-beim-Linux-Kernel-ein-Analyseversuch-10291076.html",
-      "image_title": "Ein Pinguin sitzt vor dem Computer, der Linux-Quellcode und ein Rust-Logo anzeigt."
     },
     {
       "title": "Panasonic stellt Vollformatkamera Lumix S1RII vor",
@@ -736,12 +741,6 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Die Wiedergeburt der Hamas? Krieg und Frieden um Palästina",
-      "teaser": "Eine falsche Leiche und ein andauernder Krieg – der Nahostkonflikt geht trotz Waffenstillstand weiter. Was das für die Region bedeutet. Eine Momentaufnahme.",
-      "url": "https://www.heise.de/tp/features/Die-Wiedergeburt-der-Hamas-Krieg-und-Frieden-um-Palaestina-10294108.html",
-      "image_title": "Demonstrant mit Paläsinsensertuch im Westjordanland"
-    },
-    {
       "title": "Deutschland nach der Wahl: Stillstand und die bröckelnde Mitte",
       "teaser": "Deutschland steht nach der Wahl vor einer politischen Lähmung. Die Mitte bröckelt, die Ränder gewinnen an Boden. Wird die Brandmauer halten? Ein Gastbeitrag.",
       "url": "https://www.heise.de/tp/features/Deutschland-nach-der-Wahl-Stillstand-und-die-broeckelnde-Mitte-10294835.html",
@@ -752,6 +751,12 @@
       "teaser": "Der Rover \"Zhurong\" hat Spuren eines früheren Ozeans entdeckt. Die Strukturen erinnern an irdische Strände. Forscher hoffen auf neue Erkenntnisse über Marsgeschichte.",
       "url": "https://www.heise.de/tp/features/Mars-Ozean-Chinas-Rover-entdeckt-Hinweise-auf-uralte-Straende-10295086.html",
       "image_title": "Ein Rover mit Landeeinheit auf der roten Marsoberfläche"
+    },
+    {
+      "title": "Chile verhängt Ausnahmezustand nach massivem Stromausfall",
+      "teaser": "Regierung schickt Armee und Polizei zur Kontrolle auf die Straßen. Acht Millionen Haushalte ohne Strom. Ursache war Versagen einer Hochspannungsleitung.",
+      "url": "https://www.heise.de/tp/features/Chile-verhaengt-Ausnahmezustand-nach-massivem-Stromausfall-10296510.html",
+      "image_title": "Eine lateinamerikanische Stadt im Dunkeln"
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
