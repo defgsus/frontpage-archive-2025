@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-01T11:06:56",
+  "timestamp": "2025-03-01T12:15:03",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Der schnelle Weg zum zertifizierten Softwarearchitekten (CPSA-F)",
+      "url": "https://www.heise.de/news/iX-Workshop-Der-schnelle-Weg-zum-zertifizierten-Softwarearchitekten-CPSA-F-10287708.html"
+    },
     {
       "title": "Automatisiertes Fahren in der Schweiz erlaubt – theoretisch",
       "url": "https://www.heise.de/news/Automatisiertes-Fahren-in-der-Schweiz-erlaubt-theoretisch-10300797.html"
@@ -60,10 +64,6 @@
     {
       "title": "Developer Snapshots: Kleinere News der letzten Woche",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10298702.html"
-    },
-    {
-      "title": "Die Upgrade-Falle von Windows 11: Wie man alle Sicherheitsupdates bekommt",
-      "url": "https://www.heise.de/news/Die-Upgrade-Falle-von-Windows-11-Wie-man-alle-Sicherheitsupdates-bekommt-10299962.html"
     },
     {
       "title": "Kampfansage an NvidiaAMD nennt Preise und Details zu Radeon RX 9070 und 9070 XT",
@@ -180,21 +180,27 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Technik-Akronyme-10299786.html"
     },
     {
+      "title": "iX-Workshop: Der schnelle Weg zum zertifizierten Softwarearchitekten (CPSA-F)",
+      "teaser": "Werden Sie zum Certified Professional for Software Architecture (CPSA). Online Intensiv-Schulung mit anschließender iSAQB-Zertifizierung.",
+      "url": "https://www.heise.de/news/iX-Workshop-Der-schnelle-Weg-zum-zertifizierten-Softwarearchitekten-CPSA-F-10287708.html",
+      "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
+    },
+    {
       "title": "Automatisiertes Fahren in der Schweiz erlaubt – theoretisch",
       "teaser": "Im Stau die Hände vom Steuer nehmen, damit der Fahrassistent übernimmt: Das geht in der Schweiz nun auch. Deutsche Autofahrer müssen aber trotzdem noch warten.",
       "url": "https://www.heise.de/news/Automatisiertes-Fahren-in-der-Schweiz-erlaubt-theoretisch-10300797.html",
       "image_title": "Blick aus einem Tesla; links das Lenkrad, im Zentrum der Armaturenbildschirm"
     },
     {
+      "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
+      "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Intel verschiebt auch Baustart von großem Werk in den USA",
       "teaser": "Neue Fabriken sollten den einstiegen Prozessor-Pionier Intel aus der Krise führen. Doch nun verzögert sich der Start eines weiteren Standorts.",
       "url": "https://www.heise.de/news/Intel-verschiebt-auch-Baustart-von-grossem-Werk-in-den-USA-10300776.html",
       "image_title": "Schild mit Intel-Logo am Firmensitz"
-    },
-    {
-      "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
-      "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Apple-Sigma und die Rückkehr von Zeiss – die Fotonews der Woche 9/2025",
@@ -223,11 +229,6 @@
       "teaser": "Das Einführen zentraler Tools beginnt weit vor dem Installieren. Danach kann NetBox als Single Source of Truth der RZ-Verwaltung und -Automatisierung dienen.",
       "url": "https://www.heise.de/hintergrund/Mit-NetBox-raus-aus-dem-Chaos-die-Reise-der-BM-Uni-geht-weiter-10299723.html",
       "image_title": "Personen sitzen an einem Tisch"
-    },
-    {
-      "title": "Schlanke Notizen-Apps für den Alltag: Notable, Tot, Simplenote und Joplin",
-      "teaser": "Eine gute Idee, ein langer Link oder drei neue Aufgaben: Alles soll raus aus dem Kopf – und rein in die Notiz-App. Mit diesen Apps geht das besonders einfach.",
-      "url": "https://www.heise.de/ratgeber/Schlanke-Notizen-Apps-fuer-den-Alltag-Notable-Tot-Simplenote-und-Joplin-10298135.html"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -291,6 +292,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Schlanke Notizen-Apps für den Alltag: Notable, Tot, Simplenote und Joplin",
+      "teaser": "Eine gute Idee, ein langer Link oder drei neue Aufgaben: Alles soll raus aus dem Kopf – und rein in die Notiz-App. Mit diesen Apps geht das besonders einfach.",
+      "url": "https://www.heise.de/ratgeber/Schlanke-Notizen-Apps-fuer-den-Alltag-Notable-Tot-Simplenote-und-Joplin-10298135.html"
     },
     {
       "title": "Developer Snapshots: Kleinere News der letzten Woche",
@@ -361,15 +367,15 @@
       "image_title": "KI-Update-Logo"
     },
     {
+      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
+      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
+    },
+    {
       "title": "Nach Upgrade auf Windows 11 teilweise keine Sicherheitsupdates erhältlich",
       "teaser": "Das nahende Update-Ende für Windows 10 ist bekannt, nun erhält aber schon jetzt manches Windows 11 keine Sicherheitsupdates mehr. Wir erklären die Hintergründe.",
       "url": "https://www.heise.de/ratgeber/Nach-Upgrade-auf-Windows-11-teilweise-keine-Sicherheitsupdates-erhaeltlich-10260745.html",
       "image_title": ", KI, Collage c‘t"
-    },
-    {
-      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
-      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
     },
     {
       "title": "Kartellwächter in Frankreich wollen iOS-Trackingschutz abdrehen lassen",
@@ -423,11 +429,6 @@
       "teaser": "Das polnische CERT warnt vor einer Schwachstelle in der Video-Editiersoftware DaVinci Resolve für Macs. Sie ermöglicht die Rechteausweitung.",
       "url": "https://www.heise.de/news/Videoeditor-DaVinci-Resolve-ermoeglicht-Rechteausweitung-in-macOS-10299978.html",
       "image_title": "Malware könnte durch Videoschnitt-Software auf Rechner gelangen"
-    },
-    {
-      "title": "Neuer c't Fotografie Fotowettbewerb: Menschen in Bewegung",
-      "teaser": "Nehmen Sie teil an unserem neuen Fotowettbewerb. Wir suchen Bilder von Menschen in Bewegung, egal ob beim Sport, in der Natur, in der Stadt oder zu Hause.",
-      "url": "https://www.heise.de/news/Neuer-c-t-Fotografie-Fotowettbewerb-Menschen-in-Bewegung-10297873.html"
     },
     {
       "title": "Vorsicht, Kunde! – Einbau eines Smart Meter verweigert",
@@ -603,16 +604,16 @@
       "image_title": ", KI-generiert mit freepik; bearbeitet von Madlen Grunert, Mac & i"
     },
     {
-      "title": "Fensterverwaltung in macOSSo individualisieren Sie den Stage Manager",
-      "teaser": "Wem das WIndow-Management auf dem Mac bislang zu beschränkt erschien, kann es mit einfachen Terminal-Kommandos anpassen. 23 Tipps zu Stage Manager.",
-      "url": "https://www.heise.de/ratgeber/Fensterverwaltung-in-macOS-So-individualisieren-Sie-den-Stage-Manager-10285474.html",
-      "image_title": ", Ruangrit19, stock.adobe.com; bearbeitet von Mac & i"
-    },
-    {
       "title": "Shop mit NervfaktorWarum der App Store besser werden muss",
       "teaser": "Aufdringliche Werbung, schlechte Suche, versteckte Kosten, viele Schrott-Apps – ein Besuch in Apples Software-Kaufhaus macht oft keinen Spaß mehr. Was tun?",
       "url": "https://www.heise.de/hintergrund/Nervfaktor-App-Store-Warum-Apples-Softwareladen-besser-werden-muss-10285478.html",
       "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
+    },
+    {
+      "title": "Bibliothek-Digitalisierer: Mit dieser App behalten Sie den Lese-Überblick",
+      "teaser": "Book Track für iPhone, iPad und Mac hilft dabei, die eigene Büchersammlung digital zu verwalten. Wir haben die App getestet.",
+      "url": "https://www.heise.de/tests/Bibliothek-Digitalisierer-Mit-dieser-App-behalten-Sie-den-Lese-Ueberblick-10277400.html",
+      "image_title": "Book Track auf iPhone und iPad"
     },
     {
       "title": "Mit Scrabble-Steinen Gefühle ausdrücken: Maker baut Therapie-Kasten",
@@ -632,6 +633,11 @@
       "image_title": "Ein Pinguin sitzt vor dem Computer, der Linux-Quellcode und ein Rust-Logo anzeigt."
     },
     {
+      "title": "Neuer c't Fotografie Fotowettbewerb: Menschen in Bewegung",
+      "teaser": "Nehmen Sie teil an unserem neuen Fotowettbewerb. Wir suchen Bilder von Menschen in Bewegung, egal ob beim Sport, in der Natur, in der Stadt oder zu Hause.",
+      "url": "https://www.heise.de/news/Neuer-c-t-Fotografie-Fotowettbewerb-Menschen-in-Bewegung-10297873.html"
+    },
+    {
       "title": "Storytelling-ToolOpenAIs Sora kommt nach Deutschland",
       "teaser": "OpenAI macht Sora in der EU und Großbritannien verfügbar. Zudem gibt es offizielle Discord-Channel für den Austausch.",
       "url": "https://www.heise.de/news/Storytelling-Tool-OpenAIs-Sora-kommt-nach-Deutschland-10299009.html",
@@ -648,12 +654,6 @@
       "teaser": "Datacolor hat mit dem LightColorMeter einen kleinen persönlichen Assistenten für die Messung von Licht- und Farbwerten bei Video- und Fotoshootings vorgestellt.",
       "url": "https://www.heise.de/news/LightColorMeter-Kleines-Dreieck-misst-Licht-und-Farbtemperatur-in-Echtzeit-10296953.html",
       "image_title": "Datacolor LightColor Meter im Studio gehalten"
-    },
-    {
-      "title": "Panasonic stellt Vollformatkamera Lumix S1RII vor",
-      "teaser": "Die S1RII ist leichter, kompakter und leistungsstärker als die hochauflösende Vorgängerin. So soll die Kamera Foto- und Videoenthusiasten begeistern.",
-      "url": "https://www.heise.de/news/Panasonic-stellt-Lumix-S1RII-Vollformatkamera-vor-10295951.html",
-      "image_title": "Lumix DC-S1RM2"
     },
     {
       "title": "DeepSeek-R1: Die Technik hinter dem Hype",
@@ -729,21 +729,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Verschlüsselung in Gefahr: Signal droht mit Rückzug aus Schweden",
-      "teaser": "Signal plant Rückzug aus Schweden, falls neue Gesetze Verschlüsselung gefährden. Bürger und Unternehmen sind alarmiert. Was bedeutet das für die Privatsphäre?",
-      "url": "https://www.heise.de/tp/features/Verschluesselung-in-Gefahr-Signal-droht-mit-Rueckzug-aus-Schweden-10299754.html",
-      "image_title": "Die Signal App auf einem Smartphone"
+      "title": "Neue Studie: Teetrinken ist gesund – auch wegen der Schwermetalle",
+      "teaser": "Teeblätter können Schwermetalle wie Blei aus Wasser filtern. Je länger der Tee zieht, desto mehr Schwermetalle werden absorbiert. Eine Teesorte sticht besonders heraus.",
+      "url": "https://www.heise.de/tp/features/Neue-Studie-Teetrinken-ist-gesund-auch-wegen-der-Schwermetalle-10297290.html",
+      "image_title": "Eine Tasse Tee wird eingeschenkt"
     },
     {
-      "title": "Auf den Spuren des Mondwassers: Wie zwei Sonden die Zukunft der Raumfahrt gestalten",
-      "teaser": "Zwei neue Raumfahrtmissionen suchen nach Eis auf dem Mond. Die Erkenntnisse könnten die Grundlage für künftige Basen auf dem Erdtrabanten schaffen. Ein Überblick.",
-      "url": "https://www.heise.de/tp/features/Auf-den-Spuren-des-Mondwassers-Wie-zwei-Sonden-die-Zukunft-der-Raumfahrt-gestalten-10298582.html"
+      "title": "Belarus: Lukaschenkos geheimer Tanz mit Washington",
+      "teaser": "Ein hochrangiger US-Diplomat traf sich heimlich mit Lukaschenko. Der Diktator zeigt sich gesprächsbereit und offen für Zugeständnisse. Welches Kalkül steckt dahinter?",
+      "url": "https://www.heise.de/tp/features/Belarus-Lukaschenkos-geheimer-Tanz-mit-Washington-10296433.html",
+      "image_title": "Grüne Güterwaggons"
     },
     {
-      "title": "Hitze macht alt: Extreme Temperaturen beschleunigen Alterungsprozess um Jahre",
-      "teaser": "Extreme Hitze beschleunigt das biologische Altern um mehr als zwei Jahre, zeigt eine neue US-Studie. Was bedeutet das für unsere Gesundheit in einer wärmeren Welt?",
-      "url": "https://www.heise.de/tp/features/Hitze-macht-alt-Extreme-Temperaturen-beschleunigen-Alterungsprozess-um-Jahre-10298666.html",
-      "image_title": "Geschäftsmann schwitzt in seinem Büro"
+      "title": "Paracetamol: Vom Heilmittel zur Todesdroge auf TikTok?",
+      "teaser": "Gefährliche Challenge auf TikTok soll Jugendliche zur Überdosis Paracetamol animieren. Medien und Verbände schlagen Alarm und warnen vor tödlichen Folgen. Doch Suche nach Beweisen führt ins Leere.",
+      "url": "https://www.heise.de/tp/features/Paracetamol-Vom-Heilmittel-zur-Todesdroge-auf-TikTok-10294384.html",
+      "image_title": "TikTok-Logo als Säge, die an die Leber ansetzt, Paracetamol-Tabletten"
     },
     {
       "title": "World4you im Test: Moderner Webhoster aus Österreich",
