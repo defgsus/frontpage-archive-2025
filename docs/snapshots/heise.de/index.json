@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-01T22:07:35",
+  "timestamp": "2025-03-01T23:09:15",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Samsung Galaxy A26, A36 und A56: Die neue Mittelklasse",
+      "url": "https://www.heise.de/news/Samsung-Galaxy-A26-A36-und-A56-Die-neue-Mittelklasse-10299580.html"
+    },
     {
       "title": "Top 7: Das beste Smart Lock im Test – Aqara vor Tedee und Nuki",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-7-das-beste-smart-lock-im-test/8nlt4e6"
@@ -60,10 +64,6 @@
     {
       "title": "O2 Telefónica freut sich über Jahreszahlen und will widerstandsfähiger werden",
       "url": "https://www.heise.de/news/O2-Telefonica-freut-sich-ueber-Jahreszahlen-und-will-widerstandsfaehiger-werden-10300821.html"
-    },
-    {
-      "title": "iX-Workshop: Der schnelle Weg zum zertifizierten Softwarearchitekten (CPSA-F)",
-      "url": "https://www.heise.de/news/iX-Workshop-Der-schnelle-Weg-zum-zertifizierten-Softwarearchitekten-CPSA-F-10287708.html"
     },
     {
       "title": "Kampfansage an NvidiaAMD nennt Preise und Details zu Radeon RX 9070 und 9070 XT",
@@ -179,19 +179,25 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Technik-Akronyme-10299786.html"
     },
     {
+      "title": "Samsung Galaxy A26, A36 und A56: Die neue Mittelklasse",
+      "teaser": "Mit drei neuen Modellen legt Samsung die Galaxy-A-Klasse neu auf. Galaxy A26, A36 und A56 kommen im gleichen Design, aber mit neuer Hardware.",
+      "url": "https://www.heise.de/news/Samsung-Galaxy-A26-A36-und-A56-Die-neue-Mittelklasse-10299580.html",
+      "image_title": "Die drei Handys in unterschiedlichen Farben nebeneinander"
+    },
+    {
       "title": "Top 7: Das beste Smart Lock im Test – Aqara vor Tedee und Nuki",
       "teaser": "Die Tür per Fingerabdruck oder einem NFC-Tag zu öffnen, gelingt schneller und bequemer als mit einem herkömmlichen Schlüssel. Das macht smarte Türschlösser so beliebt. Wir zeigen die besten Smart Locks aus unseren Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-7-das-beste-smart-lock-im-test/8nlt4e6?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "Millionenzuschuss vom Bund: KI soll Schutz vor Hochwasser an Flüssen verbessern",
-      "teaser": "Forscher entwickeln im Projekt KI-HopE-De mithilfe von maschinellem Lernen das erste nationale Vorhersagemodell für Hochwasser rund um kleinere Wasserläufe.",
-      "url": "https://www.heise.de/news/Millionenzuschuss-vom-Bund-KI-soll-Schutz-vor-Hochwasser-an-Fluessen-verbessern-10300900.html"
-    },
-    {
       "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
       "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Millionenzuschuss vom Bund: KI soll Schutz vor Hochwasser an Flüssen verbessern",
+      "teaser": "Forscher entwickeln im Projekt KI-HopE-De mithilfe von maschinellem Lernen das erste nationale Vorhersagemodell für Hochwasser rund um kleinere Wasserläufe.",
+      "url": "https://www.heise.de/news/Millionenzuschuss-vom-Bund-KI-soll-Schutz-vor-Hochwasser-an-Fluessen-verbessern-10300900.html"
     },
     {
       "title": "Botnetz \"Vo1d\" weiterhin auf Hunderttausenden Android-TV-Geräten aktiv",
@@ -220,12 +226,6 @@
       "teaser": "Starlink und sein Eigentümer Musk verhandeln mit Grönland über die Übernahme von Telefonie und Internet auf der Insel. Entlegene Orte könnten vernetzt werden.",
       "url": "https://www.heise.de/news/Groenlands-Telekommunikationsanbieter-soll-mit-Starlink-anbandeln-10300877.html",
       "image_title": "Viele Satelliten"
-    },
-    {
-      "title": "High-End-Grafikkarten mit Nvidia GeForce RTX 5080 und 5090 im Test",
-      "teaser": "Nvidias GeForce RTX 5090 und 5080 setzen sich an die Leistungsspitze der Spielergrafikkarten und rücken Ultra-HD-Gaming auch ohne DLSS-Tricks in greifbare Nähe.",
-      "url": "https://www.heise.de/tests/High-End-Grafikkarten-mit-Nvidia-GeForce-RTX-5080-und-5090-im-Test-10290707.html",
-      "image_title": ","
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -289,6 +289,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "High-End-Grafikkarten mit Nvidia GeForce RTX 5080 und 5090 im Test",
+      "teaser": "Nvidias GeForce RTX 5090 und 5080 setzen sich an die Leistungsspitze der Spielergrafikkarten und rücken Ultra-HD-Gaming auch ohne DLSS-Tricks in greifbare Nähe.",
+      "url": "https://www.heise.de/tests/High-End-Grafikkarten-mit-Nvidia-GeForce-RTX-5080-und-5090-im-Test-10290707.html",
+      "image_title": ","
     },
     {
       "title": "O2 Telefónica freut sich über Jahreszahlen und will widerstandsfähiger werden",
@@ -358,15 +364,15 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-starthilfe-powerbank-im-test/3bers0y?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
+      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
+    },
+    {
       "title": "EU und Indien wollen 6G und vertrauenswürdige KI gemeinsam vorantreiben",
       "teaser": "Der EU-indische Handels- und Technologierat hat eine enge Zusammenarbeit beim Entwickeln von Techniken wie 6G, Halbleiter und Hochleistungsrechnen vereinbart.",
       "url": "https://www.heise.de/news/EU-und-Indien-wollen-6G-und-vertrauenswuerdige-KI-gemeinsam-vorantreiben-10300609.html",
       "image_title": "Row,Of,Eu,Flags,In,Front,Of,The,European,Union"
-    },
-    {
-      "title": "Der IT Service Desk der Zukunft",
-      "teaser": "Der IT Service Desk steht vor einem Wandel: KI sowie neue Leistungsmodelle und Vertragskonstrukte werden eine prägende Rolle spielen. In einem Webcast können Sie erfahren, wie Sie den Help Desk auf ein neues Level heben.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/der-it-service-desk-der-zukunft-effizienter-flexibler-100-remote-4887/?source=hbsad-ersatz"
     },
     {
       "title": "Irreführendes Google-Snippet: Verlage können haften",
@@ -419,12 +425,6 @@
       "teaser": "Das nahende Update-Ende für Windows 10 ist bekannt, nun erhält aber schon jetzt manches Windows 11 keine Sicherheitsupdates mehr. Wir erklären die Hintergründe.",
       "url": "https://www.heise.de/ratgeber/Nach-Upgrade-auf-Windows-11-teilweise-keine-Sicherheitsupdates-erhaeltlich-10260745.html",
       "image_title": ", KI, Collage c‘t"
-    },
-    {
-      "title": "Kartellwächter in Frankreich wollen iOS-Trackingschutz abdrehen lassen",
-      "teaser": "Die iOS-Tracking-Transparenz erlaubt, die Verfolgung über Apps hinweg zu stoppen. Nach dem Bundeskartellamt kritisieren das nun auch Pariser Wettbewerbshüter.",
-      "url": "https://www.heise.de/news/Frankreich-Apples-iOS-Trackingschutz-droht-das-aus-wegen-Wettbewerbsrecht-10299347.html",
-      "image_title": "Apple-Logo vor einer Zeitung (Illustration)"
     },
     {
       "title": "Vorsicht, Kunde! – Einbau eines Smart Meter verweigert",
@@ -606,10 +606,10 @@
       "image_title": ", Ruangrit19, stock.adobe.com; bearbeitet von Mac & i"
     },
     {
-      "title": "Shop mit NervfaktorWarum der App Store besser werden muss",
-      "teaser": "Aufdringliche Werbung, schlechte Suche, versteckte Kosten, viele Schrott-Apps – ein Besuch in Apples Software-Kaufhaus macht oft keinen Spaß mehr. Was tun?",
-      "url": "https://www.heise.de/hintergrund/Nervfaktor-App-Store-Warum-Apples-Softwareladen-besser-werden-muss-10285478.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
+      "title": "Bibliothek-Digitalisierer: Mit dieser App behalten Sie den Lese-Überblick",
+      "teaser": "Book Track für iPhone, iPad und Mac hilft dabei, die eigene Büchersammlung digital zu verwalten. Wir haben die App getestet.",
+      "url": "https://www.heise.de/tests/Bibliothek-Digitalisierer-Mit-dieser-App-behalten-Sie-den-Lese-Ueberblick-10277400.html",
+      "image_title": "Book Track auf iPhone und iPad"
     },
     {
       "title": "Mit Scrabble-Steinen Gefühle ausdrücken: Maker baut Therapie-Kasten",
@@ -725,21 +725,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Krypto statt Gold? Der teure Irrtum der Bitcoin-Fans",
-      "teaser": "Ist Bitcoin das neue Gold? Eine DIW-Analyse vergleicht Bitcoin mit Aktien, Gold und Anleihen. Das Ergebnis ist ernüchternd für Krypto-Fans.",
-      "url": "https://www.heise.de/tp/features/Krypto-statt-Gold-Der-teure-Irrtum-der-Bitcoin-Fans-10299065.html",
-      "image_title": "Bitcoin im Aufwärtstrend? Inzwischen nicht mehr. Der Wert der Kryptowährung hat den Weg nach unten eingeschlagen."
+      "title": "EU droht bei Ukraine-Rohstoffen leer auszugehen",
+      "teaser": "Die EU bangt um Zugriff auf ukrainische Rohstoffe. Heute besiegeln die USA und die Ukraine ein umstrittenes Abkommen in Washington. Wird die EU dabei übergangen?",
+      "url": "https://www.heise.de/tp/features/EU-droht-bei-Ukraine-Rohstoffen-leer-auszugehen-10300028.html",
+      "image_title": "Ein Laster wird mit Eisenerz in einer ukrainischen Mine beladen."
     },
     {
-      "title": "Smart Meter Rollout: Deutschland wagt den Neustart",
-      "teaser": "Die Digitalisierung der Stromzähler in Deutschland nimmt einen neuen Anlauf. Nach mehreren Rückschlägen soll der Smart-Meter-Rollout nun endlich gelingen.",
-      "url": "https://www.heise.de/tp/features/Smart-Meter-Rollout-Deutschland-wagt-den-Neustart-10296638.html",
-      "image_title": "Männchen in Deutschland-Farben schiebt Smart-Meter an"
+      "title": "Auf den Spuren des Mondwassers: Wie zwei Sonden die Zukunft der Raumfahrt gestalten",
+      "teaser": "Zwei neue Raumfahrtmissionen suchen nach Eis auf dem Mond. Die Erkenntnisse könnten die Grundlage für künftige Basen auf dem Erdtrabanten schaffen. Ein Überblick.",
+      "url": "https://www.heise.de/tp/features/Auf-den-Spuren-des-Mondwassers-Wie-zwei-Sonden-die-Zukunft-der-Raumfahrt-gestalten-10298582.html"
     },
     {
-      "title": "Trump-Demenz oder Kalkül? US-Präsident \"vergisst\" Selenskyj-Beleidigung",
-      "teaser": "Die USA sollen Russlands neuen Botschafter für Washington akzeptiert haben. Leiter der Nordamerika-Abteilung vor der Abreise. Viele Fragen aber sind offen.",
-      "url": "https://www.heise.de/tp/features/Trump-Demenz-oder-Kalkuel-US-Praesident-vergisst-Selenskyj-Beleidigung-10300599.html"
+      "title": "Verschlüsselung in Gefahr: Signal droht mit Rückzug aus Schweden",
+      "teaser": "Signal plant Rückzug aus Schweden, falls neue Gesetze Verschlüsselung gefährden. Bürger und Unternehmen sind alarmiert. Was bedeutet das für die Privatsphäre?",
+      "url": "https://www.heise.de/tp/features/Verschluesselung-in-Gefahr-Signal-droht-mit-Rueckzug-aus-Schweden-10299754.html",
+      "image_title": "Die Signal App auf einem Smartphone"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
