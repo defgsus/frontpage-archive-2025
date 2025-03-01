@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-01T06:12:11",
+  "timestamp": "2025-03-01T07:08:11",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10298702.html"
+    },
     {
       "title": "Die Upgrade-Falle von Windows 11: Wie man alle Sicherheitsupdates bekommt",
       "url": "https://www.heise.de/news/Die-Upgrade-Falle-von-Windows-11-Wie-man-alle-Sicherheitsupdates-bekommt-10299962.html"
@@ -60,10 +64,6 @@
     {
       "title": "Linux-Distribution elementary OS 8.0 im Test: Wayland und mehr Barrierefreiheit",
       "url": "https://www.heise.de/tests/Linux-Distribution-elementary-OS-8-0-im-Test-Wayland-und-mehr-Barrierefreiheit-10212792.html"
-    },
-    {
-      "title": "Apple Intelligence auf der Vision Pro | TNBT-Podcast",
-      "url": "https://www.heise.de/news/Apple-Intelligence-auf-der-Vision-Pro-TNBT-Podcast-10300534.html"
     },
     {
       "title": "UpdateMicrosoft bestätigtSkype ist ab Mai Geschichte",
@@ -180,19 +180,25 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Technik-Akronyme-10299786.html"
     },
     {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Ignite, Hop, Espressif, Copilot, Mirantis, CMake, Couchbase, OpenAPI und TensorFlow.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10298702.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
       "title": "Die Upgrade-Falle von Windows 11: Wie man alle Sicherheitsupdates bekommt",
       "teaser": "Microsoft hängt einige PCs mit Windows 11 schon jetzt von Updates ab, sogar mit Windows 11 gekaufte. Im Podcast klären wir Hintergründe und zeigen Auswege auf.",
       "url": "https://www.heise.de/news/Die-Upgrade-Falle-von-Windows-11-Wie-man-alle-Sicherheitsupdates-bekommt-10299962.html"
     },
     {
-      "title": "Top 10: Die beste Starthilfe-Powerbank im Test – Auto überbrücken mit Akku",
-      "teaser": "Wenn die Autobatterie schlappmacht, muss man das Auto überbrücken. Schnelle Hilfe bieten Powerbanks mit Starthilfe-Booster. Wir zeigen die besten Modelle aus unseren Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-starthilfe-powerbank-im-test/3bers0y?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Resilienz gegen Cyberangriffe: Lehren aus einem Ernstfall",
       "teaser": "Ein Wochenend-Cyberangriff auf ein Unternehmen zeigt: Wirksame IT-Sicherheit braucht mehr als Einzellösungen. Erfahren Sie, wie eine Kombination aus Zero-Trust-Infrastruktur, Identity Management und Notfallstrategie Resilienz schafft.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6912944298&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Die beste Starthilfe-Powerbank im Test – Auto überbrücken mit Akku",
+      "teaser": "Wenn die Autobatterie schlappmacht, muss man das Auto überbrücken. Schnelle Hilfe bieten Powerbanks mit Starthilfe-Booster. Wir zeigen die besten Modelle aus unseren Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-starthilfe-powerbank-im-test/3bers0y?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "EU und Indien wollen 6G und vertrauenswürdige KI gemeinsam vorantreiben",
@@ -222,12 +228,6 @@
       "teaser": "Das neueste Release des benutzerfreundlichen Linux-Systems elementary OS kommt mit einem neuen Dock und wichtigen Weichenstellungen für die Zukunft.",
       "url": "https://www.heise.de/tests/Linux-Distribution-elementary-OS-8-0-im-Test-Wayland-und-mehr-Barrierefreiheit-10212792.html",
       "image_title": ","
-    },
-    {
-      "title": "Apple Intelligence auf der Vision Pro | TNBT-Podcast",
-      "teaser": "Apples KI-Funktionen sollen auch die Vision Pro bereichern. Wir schildern die ersten Erfahrungen mit visionOS 2.4 Beta – von erfreulich bis haarsträubend.",
-      "url": "https://www.heise.de/news/Apple-Intelligence-auf-der-Vision-Pro-TNBT-Podcast-10300534.html",
-      "image_title": "Apple Intelligence auf der Vision Pro"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -291,6 +291,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Apple Intelligence auf der Vision Pro | TNBT-Podcast",
+      "teaser": "Apples KI-Funktionen sollen auch die Vision Pro bereichern. Wir schildern die ersten Erfahrungen mit visionOS 2.4 Beta – von erfreulich bis haarsträubend.",
+      "url": "https://www.heise.de/news/Apple-Intelligence-auf-der-Vision-Pro-TNBT-Podcast-10300534.html",
+      "image_title": "Apple Intelligence auf der Vision Pro"
     },
     {
       "title": "Wirecard: Gericht weist Ansprüche von Anlegern gegen Wirtschaftsprüfer zurück",
@@ -363,15 +369,15 @@
       "image_title": "Mehere Notebooks"
     },
     {
+      "title": "Ein Hacker packt aus: So funktionieren Ransomware-Angriffe",
+      "teaser": "Ransomware-Angriffe gehören zu den größten Gefahren für Unternehmen. In einem Live-Webcast wird ein Auftragshacker die Mechanismen moderner Cyberangriffe erläutern und zeigen, wie Sie Ihre IT-Infrastruktur vor Ransomware-Angriffen schützen und den Geschäftsbetrieb aufrechterhalten.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ein-auftragshacker-packt-aus-wie-ransomware-angriffe-funktionieren-und-an-resilienten-systemen-scheitern-4872/?source=hbsad-ersatz"
+    },
+    {
       "title": "AlertVideoeditor DaVinci Resolve ermöglicht Rechteausweitung in macOS",
       "teaser": "Das polnische CERT warnt vor einer Schwachstelle in der Video-Editiersoftware DaVinci Resolve für Macs. Sie ermöglicht die Rechteausweitung.",
       "url": "https://www.heise.de/news/Videoeditor-DaVinci-Resolve-ermoeglicht-Rechteausweitung-in-macOS-10299978.html",
       "image_title": "Malware könnte durch Videoschnitt-Software auf Rechner gelangen"
-    },
-    {
-      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
-      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
     },
     {
       "title": "Neuer c't Fotografie Fotowettbewerb: Menschen in Bewegung",
@@ -424,12 +430,6 @@
       "teaser": "Mit der neuen Review-Funktion des Copilots unterstützt GitHub die Arbeit von Entwicklungs-Teams durch automatische Prüfungen von Code.",
       "url": "https://www.heise.de/news/GitHub-Copilot-prueft-automatisiert-den-Code-anderer-Team-Mitglieder-im-Projekt-10299696.html",
       "image_title": "Roboter als Lehrer"
-    },
-    {
-      "title": "GPT-4.5 veröffentlicht: Menschlicher und weniger halluzinierend",
-      "teaser": "GPT-4.5 ist kein Frontier-Modell, heißt es. Nutzer sollen allerdings bei seinen Antworten einen deutlichen Unterschied zu Vorgängermodellen spüren.",
-      "url": "https://www.heise.de/news/GPT-4-5-veroeffentlicht-Menschlicher-und-weniger-halluzinierend-10299772.html",
-      "image_title": "GPT-4.5"
     },
     {
       "title": "Vorsicht, Kunde! – Einbau eines Smart Meter verweigert",
@@ -599,12 +599,6 @@
       "url": "https://www.heise.de/en/news/LibreOffice-Manipulated-documents-can-inject-commands-into-Windows-10296999.html"
     },
     {
-      "title": "Freeware-Perlen Gratis und gut: 18 Apps für das iPad",
-      "teaser": "Mit diesen kostenlosen Apps für Apples Tablet sammeln Sie Notizen, bleiben auf dem Laufenden und genießen Medien – ohne In-App-Sperenzien oder Werbung.",
-      "url": "https://www.heise.de/ratgeber/Freeware-Perlen-fuer-das-iPad-10277394.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Madlen Grunert, Mac & i"
-    },
-    {
       "title": "Fensterverwaltung in macOSSo individualisieren Sie den Stage Manager",
       "teaser": "Wem das WIndow-Management auf dem Mac bislang zu beschränkt erschien, kann es mit einfachen Terminal-Kommandos anpassen. 23 Tipps zu Stage Manager.",
       "url": "https://www.heise.de/ratgeber/Fensterverwaltung-in-macOS-So-individualisieren-Sie-den-Stage-Manager-10285474.html",
@@ -615,6 +609,12 @@
       "teaser": "Aufdringliche Werbung, schlechte Suche, versteckte Kosten, viele Schrott-Apps – ein Besuch in Apples Software-Kaufhaus macht oft keinen Spaß mehr. Was tun?",
       "url": "https://www.heise.de/hintergrund/Nervfaktor-App-Store-Warum-Apples-Softwareladen-besser-werden-muss-10285478.html",
       "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
+    },
+    {
+      "title": "Bibliothek-Digitalisierer: Mit dieser App behalten Sie den Lese-Überblick",
+      "teaser": "Book Track für iPhone, iPad und Mac hilft dabei, die eigene Büchersammlung digital zu verwalten. Wir haben die App getestet.",
+      "url": "https://www.heise.de/tests/Bibliothek-Digitalisierer-Mit-dieser-App-behalten-Sie-den-Lese-Ueberblick-10277400.html",
+      "image_title": "Book Track auf iPhone und iPad"
     },
     {
       "title": "Mit Scrabble-Steinen Gefühle ausdrücken: Maker baut Therapie-Kasten",
@@ -731,21 +731,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Macht uns die Jagd nach Glück krank?",
-      "teaser": "Glücklich sein – das wünschen sich die meisten Menschen. Viele investieren dafür Zeit, Geld und Energie in Selbstoptimierung. Doch ausgerechnet das könnte der größte Glückskiller sein.",
-      "url": "https://www.heise.de/tp/features/Macht-uns-die-Jagd-nach-Glueck-krank-10299796.html",
-      "image_title": "Hand hält Ball mit Smiley-Gesicht"
+      "title": "Die \"Große Solarmauer\": Chinas monumentales Wüstenkraftwerk",
+      "teaser": "In der Kubuqi-Wüste entsteht das größte Solarkraftwerk der Welt. Es soll Strom für mehr als 20 Millionen Menschen liefern und die Wüste begrünen. Ein Mammutprojekt.",
+      "url": "https://www.heise.de/tp/features/Die-Grosse-Solarmauer-Chinas-monumentales-Wuestenkraftwerk-10297189.html"
     },
     {
-      "title": "Blinde Flecken im deutschen Journalismus: Was niemand sieht",
-      "teaser": "Deutschlands Medien berichten täglich über Hunderte Themen. Dennoch bleiben wichtige Ereignisse im Verborgenen. Was die großen Redaktionen übersehen, ist oft brisant.",
-      "url": "https://www.heise.de/tp/features/Blinde-Flecken-im-deutschen-Journalismus-Was-niemand-sieht-10295766.html"
+      "title": "40 Minuten, die die Welt erschütterten: US-Ukraine-Allianz zerbricht vor laufender Kamera",
+      "teaser": "Dramatisches Treffen im Weißen Haus endet im Eklat. Trump und Vance attackieren Ukraine-Präsident Selenskyj. Das Ende der US-Hilfen droht.",
+      "url": "https://www.heise.de/tp/features/40-Minuten-die-die-Welt-erschuetterten-US-Ukraine-Allianz-zerbricht-vor-laufender-Kamera-10300749.html",
+      "image_title": "Donald Trump vor den Fahnen der USA und der Ukrainer."
     },
     {
-      "title": "Corona: Einrichtungsbezogene Impfpflicht – Bundesverfassungsgericht lehnt Frage ab",
-      "teaser": "Das Verwaltungsgericht Osnabrück hatte um eine Überprüfung der Entscheidung zur sektoralen Impfpflicht gebeten. Karlsruhe bleibt auf Linie – mit einer bemerkenswerten Begründung.",
-      "url": "https://www.heise.de/tp/features/Corona-Einrichtungsbezogene-Impfpflicht-Bundesverfassungsgericht-lehnt-Frage-ab-10296554.html",
-      "image_title": "Verfassungsrichter über Paragraphenzeichen, Spritze und Virus"
+      "title": "Belarus: Lukaschenkos geheimer Tanz mit Washington",
+      "teaser": "Ein hochrangiger US-Diplomat traf sich heimlich mit Lukaschenko. Der Diktator zeigt sich gesprächsbereit und offen für Zugeständnisse. Welches Kalkül steckt dahinter?",
+      "url": "https://www.heise.de/tp/features/Belarus-Lukaschenkos-geheimer-Tanz-mit-Washington-10296433.html",
+      "image_title": "Grüne Güterwaggons"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
