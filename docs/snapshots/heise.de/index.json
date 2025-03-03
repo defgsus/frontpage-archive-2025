@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-03T22:08:46",
+  "timestamp": "2025-03-03T23:08:44",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Nvidia und Broadcom testen Chips auf 18A-Prozess von Intel",
+      "url": "https://www.heise.de/news/Nvidia-und-Broadcom-testen-Chips-auf-18A-Prozess-von-Intel-10302755.html"
+    },
     {
       "title": "Die besten monatlich kündbaren Tarife im März: 100 GB bei Telekom für 29 Euro",
       "url": "https://www.heise.de/bestenlisten/ratgeber/monatlich-kuendbar-der-beste-handyvertrag-bis-30-euro/6r7pf35"
@@ -60,10 +64,6 @@
     {
       "title": "Wie man mit einem Python-Programm die Schwierigkeit von Sudokus bewertet",
       "url": "https://www.heise.de/hintergrund/Wie-man-mit-einem-Python-Programm-die-Schwierigkeit-von-Sudokus-bewertet-10291201.html"
-    },
-    {
-      "title": "Mitfahrt im Mercedes CLA EQ: Effizient weiter fahren",
-      "url": "https://www.heise.de/tests/Mitfahrt-im-Mercedes-CLA-EQ-Effizient-weiter-fahren-10302357.html"
     },
     {
       "title": "FlottenverbrauchEU-Kommission will Autoindustrie entgegenkommen",
@@ -204,20 +204,25 @@
       "url": "https://www.heise.de/news/AMDs-Radeon-RX-9070-und-9070-XT-sind-da-zumindest-beinahe-10299614.html"
     },
     {
+      "title": "Nvidia und Broadcom testen Chips auf 18A-Prozess von Intel",
+      "teaser": "Die Tests könnten Intel Aufträge im Wert von Hunderten Millionen US-Dollar bringen. Das Auftragsfertigungsgeschäft des Konzerns aber kämpft mit Verzögerungen.",
+      "url": "https://www.heise.de/news/Nvidia-und-Broadcom-testen-Chips-auf-18A-Prozess-von-Intel-10302755.html"
+    },
+    {
       "title": "Die besten monatlich kündbaren Tarife im März: 100 GB bei Telekom für 29 Euro",
       "teaser": "100 GB im Telekom-Netz für 28 Euro, 25 GB im O2-Netz für 7 Euro oder 50 GB im Vodafone-Netz für 15 Euro – wir zeigen die besten monatlich kündbaren Handytarife im März 2025.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/monatlich-kuendbar-der-beste-handyvertrag-bis-30-euro/6r7pf35?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
+      "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Chatkontrolle: EU-Bürgerbeauftragte rügt fliegenden Wechsel von Europol zu Thorn",
       "teaser": "Die EU-Bürgerbeauftragte O’Reilly bezeichnet es klar als \"Missstand\", dass ein Europol-Beamter ohne Auflagen zum Chatkontrolle-Dienstleister Thorn gehen durfte.",
       "url": "https://www.heise.de/news/Chatkontrolle-EU-Buergerbeauftragte-ruegt-fliegenden-Wechsel-von-Europol-zu-Thorn-10302607.html",
       "image_title": "Europol-Gebäude in Den Haag"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Menschen schreiben Robotern mit Augen eher ein Bewusstsein zu",
@@ -247,12 +252,6 @@
       "teaser": "Wir haben uns gefragt, wie man den Schwierigkeitsgrad von Sudokus ermittelt und sind dafür in die Welt der Strategien für das Logikrätsel abgetaucht.",
       "url": "https://www.heise.de/hintergrund/Wie-man-mit-einem-Python-Programm-die-Schwierigkeit-von-Sudokus-bewertet-10291201.html",
       "image_title": ", Thorsten Hübner"
-    },
-    {
-      "title": "Mitfahrt im Mercedes CLA EQ: Effizient weiter fahren",
-      "teaser": "Der CLA EQ steht kurz vor seiner Premiere. Wir konnten schon eine erste Proberunde drehen. Effizienz soll mehr Reichweite bringen.",
-      "url": "https://www.heise.de/tests/Mitfahrt-im-Mercedes-CLA-EQ-Effizient-weiter-fahren-10302357.html",
-      "image_title": "Mercedes CLA EQ"
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -317,6 +316,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Mitfahrt im Mercedes CLA EQ: Effizient weiter fahren",
+      "teaser": "Der CLA EQ steht kurz vor seiner Premiere. Wir konnten schon eine erste Proberunde drehen. Effizienz soll mehr Reichweite bringen.",
+      "url": "https://www.heise.de/tests/Mitfahrt-im-Mercedes-CLA-EQ-Effizient-weiter-fahren-10302357.html",
+      "image_title": "Mercedes CLA EQ"
     },
     {
       "title": "UpdateVodafone und ASTS wollen Starlink in Europa Wasser abgraben",
@@ -389,15 +394,15 @@
       "image_title": "Kriminelle greifen Server an, Admin versucht, den Stecker zu ziehen"
     },
     {
+      "title": "Künstliche Intelligenz in der Softwareentwicklung – Chancen und Risiken",
+      "teaser": "KI kann die Softwarebereitstellung beschleunigen und effizienter machen - birgt aber auch Risiken. Sicherheitslücken, schlechtere Codequalität und Ineffizienz können unerwünschte Folgen sein.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/kuenstliche-intelligenz-in-der-softwareentwicklung-chancen-und-risiken-4897/?source=hbsadersatz"
+    },
+    {
       "title": "Die Produktwerker: Als Product Owner das Zeitmanagement in den Griff bekommen",
       "teaser": "Zu wenig Zeit? Terminkalender voll? In dieser Podcastfolge spricht Tim Klein mit Jennifer Michelmann über das Zeitmanagement von Product Ownern.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Als-Product-Owner-das-Zeitmanagement-in-den-Griff-bekommen-10301731.html",
       "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
-      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
     },
     {
       "title": "UpdateTelematikinfrastruktur: Anschluss von der Pflege bis Juli ist \"illusorisch\"",
@@ -452,11 +457,6 @@
       "teaser": "Angekündigte KI-Features für Siri kommen wohl erst mit iOS 18.5. Mit einer ChatGPT-artigen Assistentin ist womöglich erst in iOS 20 zu rechnen, so ein Bericht.",
       "url": "https://www.heise.de/news/Verbesserte-Siri-Angeblich-Verschiebungen-sowohl-bei-iOS-18-als-auch-19-10301647.html",
       "image_title": "Apple-Intelligence-Icon mit Farbverlauf"
-    },
-    {
-      "title": "Aktive Netzwerkanalyse mit freier Software im Test",
-      "teaser": "Will man Probleme im Netz aufspüren oder Szenarien simulieren, muss man testweise Traffic erzeugen und Pakete anpassen. Das erledigen Open-Source-Tools.",
-      "url": "https://www.heise.de/tests/Aktive-Netzwerkanalyse-mit-freier-Software-im-Test-10297908.html"
     },
     {
       "title": "Outlook stundenlang ausgefallen: Microsoft nennt Ursache",
@@ -694,12 +694,6 @@
       "url": "https://www.heise.de/hintergrund/IT-Security-Verdeckt-angreifen-mit-Beacon-Object-Files-10277655.html"
     },
     {
-      "title": "Unterhaltsames SteuersparmodellBMW 330e im Test",
-      "teaser": "BMW hat Batterie und Ladeleistung im 330e kräftig nachgebessert. Verbindet der Plug-in-Hybrid damit Fahrfreude und geringe Unterhaltskosten? Ein Test.",
-      "url": "https://www.heise.de/tests/BMW-330e-im-Test-Unterhaltsames-Steuersparmodell-10294794.html",
-      "image_title": "BMW 330e"
-    },
-    {
       "title": "Betreutes GleitenHarley-Davidson Street Glide Ultra",
       "teaser": "Harley-Davidson präsentiert für 2025 einen neuen Tourer im XXL-Format. Bei Komfort und Gepäckunterbringung soll ihr kaum jemand etwas vormachen können.",
       "url": "https://www.heise.de/news/Touren-Motorrad-Harley-Davidson-Street-Glide-Ultra-Betreutes-Gleiten-10296285.html",
@@ -716,6 +710,11 @@
       "teaser": "Kia zeigt den EV4 als Steil- und Schrägheck, das Klein-SUV EV2 als Studie und das Nutzfahrzeug PV5 als Pkw- und Cargo-Chassis.",
       "url": "https://www.heise.de/news/Elektroautos-Kia-komplettiert-sein-elektrisches-Portfolio-auf-dem-Kia-EV-Day-10296984.html",
       "image_title": "Kia EV 2"
+    },
+    {
+      "title": "VerkehrspolitikUmwelthilfe klagt Lärmschutz ein",
+      "teaser": "Wenn aus Sicht der Deutschen Umwelthilfe Vorschriften missachtet werden, klagen die Umweltschützer. Nun sind drei Städte wegen unterlassenen Lärmschutzes dran.",
+      "url": "https://www.heise.de/news/Verkehrspolitik-Umwelthilfe-klagt-Laermschutz-in-drei-Staedten-ein-10296949.html"
     },
     {
       "title": "Reasoning und Deep Research von OpenAI und Co. günstig oder gratis nutzen",
@@ -753,22 +752,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wohnungsmarkt: Junge Generation sieht sich abgehängt",
-      "teaser": "Wohnungskrise in Deutschland: Laut Ipsos sehen Bürger düstere Zeiten für künftige Generationen. Drei von vier jungen Menschen fühlen sich bereits jetzt abgehängt.",
-      "url": "https://www.heise.de/tp/features/Wohnungsmarkt-Junge-Generation-sieht-sich-abgehaengt-10302285.html",
-      "image_title": "Ein Mehrfamilienhaus mit Balkon - ob sich junge Leute noch eine dieser Wohnungen leisten kann, bleibt offen."
+      "title": "Putin sieht Hoffnung für US-Beziehungen – und warnt gleichzeitig vor dem Westen",
+      "teaser": "Trump-Regierung teilt Putin-Narrativ der Einmischung westlicher Kräfte in Politik. Der deutsche Geheimdienst sieht die jüngste Bundestagswahl dagegen von Russland manipuliert.",
+      "url": "https://www.heise.de/tp/features/Putin-sieht-Hoffnung-fuer-US-Beziehungen-und-warnt-gleichzeitig-vor-dem-Westen-10301328.html",
+      "image_title": "Putins Kopf holzschnittartig gezeichnet vor EU-Flagge"
     },
     {
-      "title": "Staatsgeld für NGOs: Union stellt 551 unbequeme Fragen",
-      "teaser": "Parlamentarische Anfrage löst heftige Reaktionen aus. CDU/CSU wird Angriff auf Demokratie vorgeworfen. Aber: Wer kontrolliert die Verwendung der Steuergelder?",
-      "url": "https://www.heise.de/tp/features/Staatsgeld-fuer-NGOs-Union-stellt-551-unbequeme-Fragen-10301899.html",
-      "image_title": "200-Euro-Scheine ordentlich aufgereiht"
+      "title": "50 Jahre nach Kriegsende: US-Militärhilfe in Vietnam und Laos eingestellt",
+      "teaser": "Trotz Hilfen beim Minenräumen leiden südostasiatische Länder weiter unter den Folgen des Vietnamkriegs. Jüngster US-Hilfsstopp fordert neue Opfer. Ein Gastbeitrag",
+      "url": "https://www.heise.de/tp/features/50-Jahre-nach-Kriegsende-US-Militaerhilfe-in-Vietnam-und-Laos-eingestellt-10299822.html",
+      "image_title": "Schild das vor einer Mine warnt"
     },
     {
-      "title": "Cannabis im Gehirn: Lassen Sie Ihren Körper mehr kiffen",
-      "teaser": "Stress macht krank, Bewegung hilft.Das ist bekannt. Doch nun haben Forscher entdeckt, was dabei im Gehirn passiert.",
-      "url": "https://www.heise.de/tp/features/Cannabis-im-Gehirn-Lassen-Sie-Ihren-Koerper-mehr-kiffen-10301115.html",
-      "image_title": "Zeichnung eines Kopfes mit einem auf Drehrad am Hinterkopf, im Kopf Marihuanablätter"
+      "title": "Alte Männer unter sich – Bundestag wird grauer und männlicher",
+      "teaser": "Der neue Bundestag schrumpft auf 630 Sitze. Doch nicht nur die Größe ändert sich. Der Bundestag wird zum Club der alten Herren. Ist das eine Folge der Reform?",
+      "url": "https://www.heise.de/tp/features/Alte-Maenner-unter-sich-Bundestag-wird-grauer-und-maennlicher-10300944.html",
+      "image_title": "Reichstaggebäude: Ansicht mit Inschrift \"Dem deutschen Volke\", zu sehen ist eine deutsche Flagge und im Hintergrund die Kuppel über dem Parlament"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
