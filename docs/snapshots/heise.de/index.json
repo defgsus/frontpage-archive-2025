@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-04T04:11:16",
+  "timestamp": "2025-03-04T05:09:30",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "TSMC verdoppelt Zahl geplanter Chipfabriken in den USA",
+      "url": "https://www.heise.de/news/TSMC-verdoppelt-Zahl-geplanter-Chipfabriken-in-den-USA-10302769.html"
+    },
     {
       "title": "Datenschutz verbietet österreichische Wetter-Webcam",
       "url": "https://www.heise.de/news/Datenschutz-bedroht-viele-Wetter-Webcams-in-Oesterreich-10301464.html"
@@ -60,10 +64,6 @@
     {
       "title": "Cook bestätigt: Neue MacBooks noch diese Woche",
       "url": "https://www.heise.de/news/Neue-Macs-angeblich-schon-diese-Woche-iPads-brauchen-noch-etwas-10301651.html"
-    },
-    {
-      "title": "Elektronische Patientenakte: TI-Dashboard zeigt nicht mehr, wie viele es gibt",
-      "url": "https://www.heise.de/news/TI-Dashboard-Nach-Update-mehr-Details-Anzahl-angelegter-E-Patientenakten-fehlt-10302333.html"
     },
     {
       "title": "FlottenverbrauchEU-Kommission will Autoindustrie entgegenkommen",
@@ -204,20 +204,26 @@
       "url": "https://www.heise.de/news/AMDs-Radeon-RX-9070-und-9070-XT-sind-da-zumindest-beinahe-10299614.html"
     },
     {
+      "title": "TSMC verdoppelt Zahl geplanter Chipfabriken in den USA",
+      "teaser": "TSMC plant drei Chipfabriken in Arizona, und jetzt noch drei mehr. Das Investitionsvolumen soll von 65 Milliarden auf 165 Milliarden Dollar steigen.",
+      "url": "https://www.heise.de/news/TSMC-verdoppelt-Zahl-geplanter-Chipfabriken-in-den-USA-10302769.html",
+      "image_title": "Blick in eine TSMC-Fabrikshalle"
+    },
+    {
       "title": "Datenschutz verbietet österreichische Wetter-Webcam",
       "teaser": "Eine Panorama-Webcam zeigt Straßen und Häuser Zwettls. Auf Beschwerde eines Anrainers untersagt die österreichische Datenschutzbehörde die Webcam in der Form.",
       "url": "https://www.heise.de/news/Datenschutz-bedroht-viele-Wetter-Webcams-in-Oesterreich-10301464.html",
       "image_title": "Nächtliches Webcam-Bild mit Straßen, einem Bahnübergang und diversen Liegenschaften"
     },
     {
-      "title": "Nvidia und Broadcom testen Chips auf 18A-Prozess von Intel",
-      "teaser": "Die Tests könnten Intel Aufträge im Wert von Hunderten Millionen US-Dollar bringen. Das Auftragsfertigungsgeschäft des Konzerns aber kämpft mit Verzögerungen.",
-      "url": "https://www.heise.de/news/Nvidia-und-Broadcom-testen-Chips-auf-18A-Prozess-von-Intel-10302755.html"
-    },
-    {
       "title": "Service Desks als Zielscheibe für Hacker",
       "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Nvidia und Broadcom testen Chips auf 18A-Prozess von Intel",
+      "teaser": "Die Tests könnten Intel Aufträge im Wert von Hunderten Millionen US-Dollar bringen. Das Auftragsfertigungsgeschäft des Konzerns aber kämpft mit Verzögerungen.",
+      "url": "https://www.heise.de/news/Nvidia-und-Broadcom-testen-Chips-auf-18A-Prozess-von-Intel-10302755.html"
     },
     {
       "title": "Die besten monatlich kündbaren Tarife im März: 100 GB bei Telekom für 29 Euro",
@@ -246,12 +252,6 @@
       "title": "SSDs: Speicherhersteller machen Milliarden US-Dollar weniger Umsatz",
       "teaser": "NAND-Flash-Hersteller ließen bereits Ende 2024 Federn. In den nächsten Monaten soll es noch weiter bergab gehen.",
       "url": "https://www.heise.de/news/SSD-Preise-sollen-bis-zum-Sommer-weiter-sinken-10302537.html"
-    },
-    {
-      "title": "Elektronische Patientenakte: TI-Dashboard zeigt nicht mehr, wie viele es gibt",
-      "teaser": "Vor drei Jahren startete das TI-Dashboard für mehr Transparenz. Neuerdings gibt es mehr Details, allerdings keine Gesamtzahl der elektronischen Patientenakten.",
-      "url": "https://www.heise.de/news/TI-Dashboard-Nach-Update-mehr-Details-Anzahl-angelegter-E-Patientenakten-fehlt-10302333.html",
-      "image_title": "Gematik-Dashboard zeigt Zahlen darüber, wie oft in Praxen auf Akten zugegriffen wurde und ähnliches. Zuvor konnte man sehen, wie viele ePAs angelegt wurden."
     },
     {
       "title": "Gegen SchimmelElektrische Luftentfeuchter im Test",
@@ -316,6 +316,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Elektronische Patientenakte: TI-Dashboard zeigt nicht mehr, wie viele es gibt",
+      "teaser": "Vor drei Jahren startete das TI-Dashboard für mehr Transparenz. Neuerdings gibt es mehr Details, allerdings keine Gesamtzahl der elektronischen Patientenakten.",
+      "url": "https://www.heise.de/news/TI-Dashboard-Nach-Update-mehr-Details-Anzahl-angelegter-E-Patientenakten-fehlt-10302333.html",
+      "image_title": "Gematik-Dashboard zeigt Zahlen darüber, wie oft in Praxen auf Akten zugegriffen wurde und ähnliches. Zuvor konnte man sehen, wie viele ePAs angelegt wurden."
     },
     {
       "title": "Wie man mit einem Python-Programm die Schwierigkeit von Sudokus bewertet",
@@ -388,15 +394,15 @@
       "image_title": "Telefónica-CEO Marc Murtra auf der Bühne des MWC Barcelona."
     },
     {
+      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
+      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
+    },
+    {
       "title": "Praxis-Vergleich Chat GPT o3-mini high und DeepSeek R1 mit einem CUDA-Kernel",
       "teaser": "Zwei KI-Modelle sollen eine mathematische Software-Bibliothek modernisieren – zumeist erstaunlich erfolgreich – an einer Aufgabe scheiterten sie jedoch.",
       "url": "https://www.heise.de/hintergrund/Praxis-Vergleich-Chat-GPT-o3-mini-high-und-DeepSeek-R1-mit-einem-CUDA-Kernel-10297581.html",
       "image_title": "Aufmacher Roboter mit Mona Lisa"
-    },
-    {
-      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
-      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
     },
     {
       "title": "AlertZohocorp ADSelfService Plus: Sicherheitsleck ermöglicht Kontenübernahme",
@@ -451,12 +457,6 @@
       "teaser": "Das neue Release erlaubt den Aufruf von CommonJS-Modulen aus ECMAScript heraus und bringt eine detailliertere Prüfung von Return-Ausdrücken.",
       "url": "https://www.heise.de/news/TypeScript-5-8-verbessert-die-Interoperabilitaet-zwischen-CommonJS-und-ECMAScript-10301548.html",
       "image_title": "Schreibmaschine, Tastatur, Keyboard, TypeScript, Typewriter"
-    },
-    {
-      "title": "Eishockeyliga NHL setzt Apple Watch bei Schiedsrichtern ein",
-      "teaser": "Im Rahmen einer offiziellen Kooperation stattet Apple Referees der NHL mit Computeruhren aus. Entwickelt wurde auch eine spezielle App.",
-      "url": "https://www.heise.de/news/Eishockeyliga-NHL-setzt-Apple-Watch-bei-Schiedsrichtern-ein-10301067.html",
-      "image_title": "NHL-Schiedsrichter mit Apple Watch"
     },
     {
       "title": "Outlook stundenlang ausgefallen: Microsoft nennt Ursache",
@@ -642,10 +642,10 @@
       "image_title": ", KI-generiert mit freepik; bearbeitet von Madlen Grunert, Mac & i"
     },
     {
-      "title": "Shop mit NervfaktorWarum der App Store besser werden muss",
-      "teaser": "Aufdringliche Werbung, schlechte Suche, versteckte Kosten, viele Schrott-Apps – ein Besuch in Apples Software-Kaufhaus macht oft keinen Spaß mehr. Was tun?",
-      "url": "https://www.heise.de/hintergrund/Nervfaktor-App-Store-Warum-Apples-Softwareladen-besser-werden-muss-10285478.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
+      "title": "RatgeberApple Intelligence in Deutschland aktivieren und nutzen",
+      "teaser": "Apples KI-Paket ist da, vorerst nur auf Englisch. Für iPhone-Nutzer in der EU ist es zudem kompliziert. Schritt-für-Schritt-Tipps zu Aktivierung und Einsatz.",
+      "url": "https://www.heise.de/ratgeber/12-Tipps-Apple-Intelligence-in-Deutschland-aktivieren-und-nutzen-9989656.html",
+      "image_title": "Apple-Intelligence-Icon auf farbigem Hintergrund"
     },
     {
       "title": "Mit Scrabble-Steinen Gefühle ausdrücken: Maker baut Therapie-Kasten",
@@ -761,22 +761,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Fachkräftemangel war gestern: Jetzt kommt die große Entlassungswelle",
-      "teaser": "Trotz Fachkräftemangel kündigen immer mehr Unternehmen Personalabbau an. Von VW bis DB – die Liste wächst. Doch was bedeutet das für die Betroffenen?",
-      "url": "https://www.heise.de/tp/features/Fachkraeftemangel-war-gestern-Jetzt-kommt-die-grosse-Entlassungswelle-10298181.html",
-      "image_title": "Arbeiter wird ausradiert"
+      "title": "Größter Krypto-Diebstahl aller Zeiten: Nordkorea klaut 1,5 Milliarden Dollar bei Bybit",
+      "teaser": "Nordkoreanische Hacker erbeuten 1,5 Milliarden US-Dollar in Kryptowährungen. Laut Sicherheitsexperten der größte Krypto-Diebstahl aller Zeiten. Bybit-Kunden verunsichert.",
+      "url": "https://www.heise.de/tp/features/Groesster-Krypto-Diebstahl-aller-Zeiten-Nordkorea-klaut-1-5-Milliarden-Dollar-bei-Bybit-10295169.html",
+      "image_title": "Ein Hacker vor der nordkoreanischen Flagge"
     },
     {
-      "title": "Cannabis im Gehirn: Lassen Sie Ihren Körper mehr kiffen",
-      "teaser": "Stress macht krank, Bewegung hilft.Das ist bekannt. Doch nun haben Forscher entdeckt, was dabei im Gehirn passiert.",
-      "url": "https://www.heise.de/tp/features/Cannabis-im-Gehirn-Lassen-Sie-Ihren-Koerper-mehr-kiffen-10301115.html",
-      "image_title": "Zeichnung eines Kopfes mit einem auf Drehrad am Hinterkopf, im Kopf Marihuanablätter"
+      "title": "AfD vs. Bauhaus: Der alte Kampf um deutsche Identität",
+      "teaser": "Die AfD greift das Bauhaus als Symbol für verlorene deutsche Werte an. Eine Debatte, die bis in Weimarer Jahre zurückreicht. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/AfD-vs-Bauhaus-Der-alte-Kampf-um-deutsche-Identitaet-10294122.html",
+      "image_title": "Ein Gebäude im Bauhaus-Stil vor blauem Himmel"
     },
     {
-      "title": "Trumps Krypto-Vision: Amerika first im Bitcoin-Boom",
-      "teaser": "Donald Trump will die USA zur Krypto-Weltmacht machen. Eine strategische Reserve für Bitcoin und Co. soll nach dem Vorbild von Fort Knox entstehen. Doch hinter den Kulissen regt sich Widerstand.",
-      "url": "https://www.heise.de/tp/features/Trumps-Krypto-Vision-Amerika-first-im-Bitcoin-Boom-10301811.html",
-      "image_title": "Donald Trump mit einer roten Mütze auf der steht: „Make Bitcoin Great Again“. Trump hält dabei einen übergroßen Bitcoin in der Hand."
+      "title": "Von \"80 Frauen\" zu 0 Jobs: Der Fall Thilo Mischke, die ARD und der Sexismus-Streit",
+      "teaser": "Thilo Mischke sollte ARD-Kulturmoderator werden. Nach Sexismus-Vorwürfen verlor er den Job. Nun erhebt er schwere Anschuldigungen.",
+      "url": "https://www.heise.de/tp/features/Von-80-Frauen-zu-0-Jobs-Der-Fall-Thilo-Mischke-die-ARD-und-der-Sexismus-Streit-10301837.html",
+      "image_title": "Thilo Mischke ein weißem T-Shirt, lächelt"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
