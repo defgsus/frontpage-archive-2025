@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-05T07:09:35",
+  "timestamp": "2025-03-05T08:12:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
+      "title": "AlertVMware ESXi, Fusion und WorkstationKritische Sicherheitslücke wird missbraucht",
+      "teaser": "Broadcom warnt vor teils kritischen Sicherheitslecks in VMware ESXi, Fusion und Workstation. Angreifer missbrauchen sie bereits.",
+      "url": "https://www.heise.de/news/Kritische-Luecke-in-VMware-ESXi-Fusion-und-Workstation-wird-missbraucht-10303639.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
+    },
+    {
       "title": "AlertPatchdayAttacken auf Android-Smartphones beobachtet",
       "teaser": "Es sind wichtige Sicherheitsupdates für Android 12, 12L, 13, 14 und 15 erschienen. Angreifer nutzen bereits zwei Lücken aus.",
       "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Android-Smartphones-10302797.html",
       "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
-      "title": "Betrugsmasche Opfersuche mit Paypal-\"No Code Checkout\"-Seiten",
-      "teaser": "Paypal bietet \"No Code Checkout\"-Seiten an. Betrüger missbrauchen sie, um die auf Google zu bewerben und Opfer anzulocken.",
-      "url": "https://www.heise.de/news/Betrugsmasche-koedert-Opfer-mit-Paypal-No-Code-Checkout-Seiten-10303245.html",
-      "image_title": "Krimineller angelt Kreditkartendaten."
-    },
-    {
-      "title": "AlertKritische Lücke in VMware ESXi, Fusion und Workstation wird missbraucht",
-      "url": "https://www.heise.de/news/Kritische-Luecke-in-VMware-ESXi-Fusion-und-Workstation-wird-missbraucht-10303639.html",
-      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
+      "title": "AlertCISA warnt vor Angriffen auf Linux-Kernel-Schwachstelle",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Linux-Kernel-Schwachstelle-10304489.html",
+      "image_title": "Anzeige \"Attack successful\""
     },
     {
       "title": "Deutschlandticket: Mehr illegale Ticketshops und Zahldatenbetrug aufgedeckt",
@@ -70,6 +70,18 @@
       "title": "heise security Webinar: Wie sag ich’s meinem Chef? – Gesprachsführung für ITler",
       "teaser": "Ein wichtiges Security-Projekt steht an, aber es gibt weder Budget noch Ressourcen? Dieses Webinar hilft, dem Chef das Thema Sicherheit richtig \"zu verkaufen\".",
       "url": "https://www.heise.de/news/heise-security-Webinar-Wie-sag-ich-s-meinem-Chef-Gesprachsfuehrung-fuer-ITler-10236037.html"
+    },
+    {
+      "title": "AlertCISA warnt vor Angriffen auf Linux-Kernel-Schwachstelle",
+      "teaser": "Im Linux-Kernel wurde im November ein Sicherheitsleck geschlossen, durch das Kernel-Speicher lesbar war. Nun wird es angegriffen.",
+      "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Linux-Kernel-Schwachstelle-10304489.html",
+      "image_title": "Anzeige \"Attack successful\""
+    },
+    {
+      "title": "AlertLibreOffice: Funktion zur Sharepoint-Integration ermöglicht Makro-Ausführung",
+      "teaser": "LibreOffice warnt vor einer Sicherheitslücke in der Bürosoftware. Angreifer können dadurch Makros ausführen lassen.",
+      "url": "https://www.heise.de/news/LibreOffice-Funktion-zur-Sharepoint-Integration-ermoeglicht-Makro-Ausfuehrung-10304436.html",
+      "image_title": "Nutzer vor einem Laptop mit LibreOffice, das von Viren attackiert wird"
     },
     {
       "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
@@ -102,7 +114,7 @@
       "image_title": "Stilisiertes Bild: Smartphone mit Android-Roboter auf dem Bildschirm, steht in Flammen"
     },
     {
-      "title": "Keine Datenlecks mehr: TrapC soll die Speicherprobleme von C und C++ beheben",
+      "title": "UpdateKeine Datenlecks mehr: TrapC soll die Speicherprobleme von C und C++ beheben",
       "teaser": "Mit einer automatischen Speicherverwaltung und speichersicheren Zeigern soll der Open-Source-Compiler TrapC in C und C++ geschriebenen Code sicherer machen.",
       "url": "https://www.heise.de/news/Keine-Datenlecks-mehr-TrapC-soll-die-Speicherprobleme-von-C-und-C-beheben-10302942.html",
       "image_title": "C++ Code"
@@ -154,18 +166,6 @@
       "teaser": "Cyberkriminelle können leicht auf Zugangssysteme von Gebäuden weltweit zugreifen. Eine Studie nennt das Ausmaß und die Ursachen.",
       "url": "https://www.heise.de/news/Massive-Sicherheitsluecken-bei-Gebaeude-Zugangssystemen-entdeckt-10301081.html",
       "image_title": "Digitale Darstellung einer Tür aus leuchtenden Farben"
-    },
-    {
-      "title": "US-Verteidigungsminister stoppt Russland-Planungen der Cyberkräfte",
-      "teaser": "Künftig sollen Militär und Behörden in den USA keine Cyberaktivitäten mit Russland-Bezug mehr planen. Ob das riskant ist, wird noch geprüft.",
-      "url": "https://www.heise.de/news/US-Verteidigungsminister-stoppt-Russland-Planungen-der-Cyberkraefte-10300863.html",
-      "image_title": "Soldaten vor Überwachungsbildschirmen"
-    },
-    {
-      "title": "AlertFünf Sicherheitslücken in Gitlab geschlossen",
-      "teaser": "Angreifer können an mehreren Schwachstellen in Gitlab Community Edition und Enterprise Edition ansetzen.",
-      "url": "https://www.heise.de/news/Ueber-Bug-Bounty-Programm-gemeldete-Sicherheitsluecken-in-Gitlab-geschlossen-10299543.html",
-      "image_title": "Eine Frau drückt auf einen symbolischen Updateknopf."
     },
     {
       "title": "Workshop | 25.03. – 27.03.2025BCM - Notfallplanung und Notfallübungen",
