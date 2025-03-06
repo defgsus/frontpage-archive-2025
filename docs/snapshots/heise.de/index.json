@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-06T22:08:32",
+  "timestamp": "2025-03-06T23:09:24",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,7 +26,11 @@
   ],
   "articles": [
     {
-      "title": "Mondlander Athena setzt auf",
+      "title": "GPS in der Krise: FCC sucht neue Verfahren",
+      "url": "https://www.heise.de/news/USA-suchen-Alternative-zu-GPS-10307469.html"
+    },
+    {
+      "title": "Mondlander Athena setzt schief auf",
       "url": "https://www.heise.de/news/Mondlander-Athena-setzt-auf-10307405.html"
     },
     {
@@ -60,10 +64,6 @@
     {
       "title": "Prime Video testet KI-Synchronisation von Filmen und Serien",
       "url": "https://www.heise.de/news/Prime-Video-testet-KI-Synchronisation-von-Filmen-und-Serien-10307162.html"
-    },
-    {
-      "title": "GeForce RTX 5000: Auch Notebook-GPUs sind vom ROP-Schwund betroffen",
-      "url": "https://www.heise.de/news/GeForce-RTX-5000-Auch-Notebook-GPUs-sind-vom-ROP-Schwund-betroffen-10306989.html"
     },
     {
       "title": "Desktop-GrafikkartenAMD gewinnt kräftig Marktanteile von Nvidia zurück",
@@ -185,20 +185,26 @@
       "image_title": "Bitcoin-Münzen"
     },
     {
-      "title": "Mondlander Athena setzt auf",
-      "teaser": "Gut ein Jahr nach Odysseus hat Intuitive Machines Athena auf den Mond gebracht. Ob der zweite Lander steht oder auch umgekippt ist?",
+      "title": "GPS in der Krise: FCC sucht neue Verfahren",
+      "teaser": "Der US-Telecomregulierer sucht schlaue Ideen für Ergänzungen oder Alternativen zum Ortungssystem GPS. Dieses ist nicht hinreichend zuverlässig.",
+      "url": "https://www.heise.de/news/USA-suchen-Alternative-zu-GPS-10307469.html",
+      "image_title": "Flugzeug-Cockpit mit digitaler Landkarte"
+    },
+    {
+      "title": "UpdateMondlander Athena setzt schief auf",
+      "teaser": "Gut ein Jahr nach Odysseus hat Intuitive Machines Athena auf den Mond gebracht. Ob der 2. Lander steht oder auch umgekippt ist? Update: Senkrecht ist anders.",
       "url": "https://www.heise.de/news/Mondlander-Athena-setzt-auf-10307405.html",
       "image_title": "Der Screenshot zeigt einen Teil Athenas samt ihrer Landebeine, im Hintergrund der Mond"
+    },
+    {
+      "title": "Service Desks als Zielscheibe für Hacker",
+      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Das beste Balkonkraftwerk mit 800 Watt im Test",
       "teaser": "Balkonkraftwerke sind günstig, einfach zu installieren und reduzieren die Stromkosten. Wir zeigen, welche Mini-PV-Anlagen in den Tests am besten abgeschnitten haben.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
-      "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "MWC Barcelona: GSMA zufrieden mit 109.000 Besuchern",
@@ -228,12 +234,6 @@
       "teaser": "Neben dem iPad Air M3 stellte Apple in dieser Woche auch das Standard-iPad in Generation 11 vor. Je nach Zielgruppe ist es enttäuschend – oder Kaufempfehlung.",
       "url": "https://www.heise.de/news/Was-Apples-iPad-11-alles-nicht-kann-und-warum-es-dennoch-interessant-ist-10304963.html",
       "image_title": "Das iPad 11"
-    },
-    {
-      "title": "Prime Video testet KI-Synchronisation von Filmen und Serien",
-      "teaser": "Auf Amazons Streamingplattform gibt es bereits jetzt zwölf lizenzierte Projekte mit KI-Synchronstimmen in Englisch und lateinamerikanischem Spanisch.",
-      "url": "https://www.heise.de/news/Prime-Video-testet-KI-Synchronisation-von-Filmen-und-Serien-10307162.html",
-      "image_title": "Fernseher mit Amazon Prime Audio-Auswahl für KI-Stimme"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Prime Video testet KI-Synchronisation von Filmen und Serien",
+      "teaser": "Auf Amazons Streamingplattform gibt es bereits jetzt zwölf lizenzierte Projekte mit KI-Synchronstimmen in Englisch und lateinamerikanischem Spanisch.",
+      "url": "https://www.heise.de/news/Prime-Video-testet-KI-Synchronisation-von-Filmen-und-Serien-10307162.html",
+      "image_title": "Fernseher mit Amazon Prime Audio-Auswahl für KI-Stimme"
     },
     {
       "title": "Bundeskartellamt untersucht Kraftstoffgroßhandel nach Regelwidrigkeiten",
@@ -369,15 +375,15 @@
       "url": "https://www.heise.de/ratgeber/FAQ-Mehr-Sicherheit-beim-Onlineshopping-10286449.html"
     },
     {
+      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
+      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
+    },
+    {
       "title": "iPhone hilft künftig bei der Mac-Einrichtung",
       "teaser": "Apple macht das Einrichten neuer iPhones bereits leidlich bequem. Nun lässt sich auch schnell auf den Mac wechseln.",
       "url": "https://www.heise.de/news/iPhone-hilft-kuenftig-bei-der-Mac-Einrichtung-10305851.html",
       "image_title": "MacBook Air M4"
-    },
-    {
-      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
-      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
     },
     {
       "title": "RISC-V fürs Auto: Infineon kündigt Mikrocontroller mit neuen Rechenkernen an",
@@ -430,11 +436,6 @@
       "teaser": "Die neuen Qualitätsstufen für Widgets sollen Developer unterstützten, ansprechende und benutzerfreundliche Widgets zu gestalten, die leicht auffindbar sind.",
       "url": "https://www.heise.de/news/Mobilentwicklung-Android-stellt-Qualitaetsrichtlinien-fuer-Widgets-vor-10306058.html",
       "image_title": "New,York,,Usa,-,July,2,,2018,-,Google,Android"
-    },
-    {
-      "title": "Acht kostenlose Dienste für die Terminfindung im Vergleich",
-      "teaser": "Terminfindungsdienste berücksichtigen sämtliche Rückmeldungen und ermitteln für alle transparent und übersichtlich den besten Zeitraum für eine Veranstaltung.",
-      "url": "https://www.heise.de/tests/Acht-kostenlose-Dienste-fuer-die-Terminfindung-im-Vergleich-10294614.html"
     },
     {
       "title": "AlertLinux-Lücke wird attackiert",
@@ -607,10 +608,10 @@
       "url": "https://www.heise.de/en/news/Comet-Perplexity-announces-its-own-browser-10295986.html"
     },
     {
-      "title": "Im Test: NAS-Barebone LincStation N2",
-      "teaser": "Netzwerkspeicher mit SSDs sind kompakt, schnell und leise, aber teuer. Am hohen Preis sägt die LincStation N2. Wir konnten sie vor dem Verkaufsstart testen.",
-      "url": "https://www.heise.de/tests/Im-Test-NAS-Barebone-LincStation-N2-10303167.html",
-      "image_title": ","
+      "title": "Blick ins Heft c’t 6/2025: Videostreaming zwischen Abofrust und Illegalität",
+      "teaser": "Höhere Preise für schlechtere Leistung frustrieren Streaming-Abonnenten, illegale Angebote bekommen Zuspruch. c't zeigt Techniken und rechtliche Konsequenzen",
+      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-6-2025-Videostreaming-zwischen-Abofrust-und-Illegalitaet-10306759.html",
+      "image_title": "c't magazin 4-2024"
     },
     {
       "title": "Fensterverwaltung in macOSSo individualisieren Sie den Stage Manager",
@@ -744,16 +745,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Serbien: Progressive Protestwelle oder Farbrevolution?",
-      "teaser": "Ein Bahnhofsunglück in Serbien kostete 15 Menschen das Leben. Seither erschüttern Demonstrationen gegen Präsident Vucic das Land. Was steckt hinter den Protesten?",
-      "url": "https://www.heise.de/tp/features/Serbien-Progressive-Protestwelle-oder-Farbrevolution-10303085.html",
-      "image_title": "Protestierende mit Schild"
+      "title": "Toxische Männlichkeit: Die unterschätzte Gefahr für den Weltfrieden",
+      "teaser": "Männliche Gewalt prägt Konflikte weltweit. Nicht nur bei den Taliban und im Iran leiden Frauen. Oft verkannt ist: Auch der Westen hat ein Problem. (Teil 1)",
+      "url": "https://www.heise.de/tp/features/Toxische-Maennlichkeit-Die-unterschaetzte-Gefahr-fuer-den-Weltfrieden-10301919.html",
+      "image_title": "Zeichen für Männlich mit SM-6-Rakete"
     },
     {
-      "title": "Bundesbeauftragter für Umsiedelung? Der Fall Felix Klein",
-      "teaser": "Felix Klein sorgt mit Zustimmung zu Trumps Gazaplänen für Empörung. Die Bundesregierung distanziert sich deutlich. Droht ihm nun sogar das politische Aus?",
-      "url": "https://www.heise.de/tp/features/Bundesbeauftragter-fuer-Umsiedelung-Der-Fall-Felix-Klein-10306547.html",
-      "image_title": "Trump und Netanyahu auf einem Plakat in Israel"
+      "title": "ChatGPT als Therapeut: Wenn KI selbst eine Therapie braucht",
+      "teaser": "KI-Systeme wie ChatGPT sollen künftig Therapiegespräche führen. Doch eine neue Studie zeigt: Die KI reagiert selbst emotional auf traumatische Geschichten.",
+      "url": "https://www.heise.de/tp/features/ChatGPT-als-Therapeut-Wenn-KI-selbst-eine-Therapie-braucht-10303011.html",
+      "image_title": "Ein KI-Chatbot gibt in der Medizin Ratschläge."
     },
     {
       "title": "Plattformregulierung: Breites Bündnis fordert stärkere Kontrolle sozialer Medien",
