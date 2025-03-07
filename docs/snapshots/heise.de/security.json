@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-07T08:12:15",
+  "timestamp": "2025-03-07T09:10:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,20 +26,21 @@
   ],
   "articles": [
     {
-      "title": "BAMFSkurrile Testkonten ermöglichten unautorisierten Datenzugriff",
-      "teaser": "Das Anlegen eines Nutzerkontos mit \"max.mustermann@testtraeger.de\" ging fürs Migrationsamt nicht gut aus. Es diente einem Experten rasch als Sesam-öffne-dich.",
-      "url": "https://www.heise.de/news/BAMF-Skurrile-Testkonten-ermoeglichten-unautorisierten-Datenzugriff-10305691.html",
-      "image_title": "Hände am Handy, um ein Passwort zurückzusetzen"
+      "title": "AlertAttacken auf VMware ESXiImmer noch zehntausende Server verwundbar",
+      "teaser": "Sicherheitsforscher warnen, dass trotz laufender Angriffe weltweit noch mehr als 40.000 Instanzen nicht gepatcht sind. Davon ist auch Deutschland betroffen.",
+      "url": "https://www.heise.de/news/Attacken-auf-VMware-ESXi-Immer-noch-zehntausende-Server-verwundbar-10307632.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
     },
     {
-      "title": "lost+foundNeuer Trend? Ransomware-Attacke via Schneckenpost",
-      "teaser": "Analoge Erpressung: Schlagen die Cyberkriminellen der BianLian-Bande neue Wege ein?",
-      "url": "https://www.heise.de/news/l-f-Ransomware-Attacke-via-Schneckenpost-10305347.html",
-      "image_title": "Brief mit QR-Code, im Hintergrund angeln Kriminelle nach Geld"
+      "title": "heise security WebinarSicheres Windows-Netz mit Tiering und PAWs",
+      "teaser": "Wer ein Active Directory betreibt, sollte Ebenen trennen und gesicherte Admin-Workstations nutzen. Dieses Webinar gibt praktische Hilfe bei der Umsetzung.",
+      "url": "https://www.heise.de/news/Am-Dienstag-Das-Active-Directory-Webinar-von-heise-security-10278105.html",
+      "image_title": "Tiering-Illustration"
     },
     {
-      "title": "AlertAngreifer können Hintertür in Backuplösung Commvault verankern",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Hintertuer-in-Backuploesung-Commvault-verankern-10306225.html"
+      "title": "AlertAttacken auf VMware ESXiImmer noch zehntausende Server verwundbar",
+      "url": "https://www.heise.de/news/Attacken-auf-VMware-ESXi-Immer-noch-zehntausende-Server-verwundbar-10307632.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
     },
     {
       "title": "Auslegungssache 129: Teure Falle E-Mail?",
@@ -68,6 +69,24 @@
       "title": "Webinar | 06.05.2025Entra ID: Dangerous Defaults kennen, verstehen und verbessern",
       "teaser": "Microsofts Cloud-Angebote in Betrieb zu nehmen ist einfach – es sicher zu betreiben erfordert jedoch Handarbeit und Wissen. So kommt die zentrale Identitäts- und Zugriffsverwaltung Entra ID gerade im Bereich Security mit einer Reihe von gefährlichen oder zumindest verbesserungswürdigen Voreinstellungen.",
       "url": "https://heise-academy.de/webinare/entra-dd?wt_mc=intern.academy.security.web_entradd.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "Mehr Sicherheit für GitHub und GitLab – neue Pakete und Funktionen",
+      "teaser": "GitHub und GitLab liefern neue Funktionen, um die Sicherheit ihrer Verzeichnisdienste zu erhöhen.",
+      "url": "https://www.heise.de/news/Mehr-Sicherheit-fuer-GitHub-und-GitLab-neue-Pakete-und-Funktionen-10307681.html",
+      "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
+    },
+    {
+      "title": "iX-Workshop: Linux-Server härten",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10297704.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "AlertAttacken auf VMware ESXi: Immer noch zehntausende Server verwundbar",
+      "teaser": "Sicherheitsforscher warnen, dass trotz laufender Angriffe weltweit noch mehr als 40.000 Instanzen nicht gepatcht sind. Davon ist auch Deutschland betroffen.",
+      "url": "https://www.heise.de/news/Attacken-auf-VMware-ESXi-Immer-noch-zehntausende-Server-verwundbar-10307632.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
     },
     {
       "title": "heise security Webinar: Sicheres Windows-Netz mit Tiering und PAWs",
@@ -143,24 +162,6 @@
       "teaser": "Sowohl in Mozillas Firefox und Thunderbird als auch in Chrome stopfen die Hersteller Sicherheitslücken. Chrome deaktiviert zudem uBlock.",
       "url": "https://www.heise.de/news/Browser-Updates-Sicherheitsluecken-gestopft-und-uBlock-abgedreht-10304708.html",
       "image_title": "Laptop mit Firefox und Chrome, das von Viren attackiert wird"
-    },
-    {
-      "title": "AlertVielfältige Attacken auf Nvidias KI-Architektur Hopper vorstellbar",
-      "teaser": "Nvidias Entwickler haben zwei Sicherheitslücken in Hopper HGX 8-GPU HMC geschlossen.",
-      "url": "https://www.heise.de/news/Vielfaeltige-Attacken-auf-Nvidias-KI-Architektur-Hopper-vorstellbar-10304564.html",
-      "image_title": "Finger drückt auf Update-Taste"
-    },
-    {
-      "title": "Salamitaktik: Apple gibt weitere Infos zu Sicherheitslücken in iOS 18 heraus",
-      "teaser": "Noch immer gibt es zu einigen in iOS 18 gestopften Löchern keine näheren Infos von Apple. Teilweise hat sich das mittlerweile geändert.",
-      "url": "https://www.heise.de/news/iOS-18-Apple-reicht-Infos-zu-Sicherheitspatches-nach-aber-nicht-bei-allen-10303756.html",
-      "image_title": "Apple-Logo und ein offenes Schloss"
-    },
-    {
-      "title": "AlertLinux-Lücke wird attackiert",
-      "teaser": "Im Linux-Kernel wurde im November ein Sicherheitsleck geschlossen, durch das Kernel-Speicher lesbar war. Nun wird es angegriffen.",
-      "url": "https://www.heise.de/news/CISA-warnt-vor-Angriffen-auf-Linux-Kernel-Schwachstelle-10304489.html",
-      "image_title": "Anzeige \"Attack successful\""
     },
     {
       "title": "Workshop | 25.03. – 27.03.2025BCM - Notfallplanung und Notfallübungen",
