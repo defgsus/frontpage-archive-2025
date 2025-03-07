@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-07T19:07:35",
+  "timestamp": "2025-03-07T20:10:07",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -104,10 +110,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Weltlage : Es kommen härtere Tage",
+      "teaser": "Wir müssen Abschied nehmen von Gewissheiten und Sicherheiten. Unfassbare Dinge geschehen, weil man sie zulässt. Doch im Wahnsinn der Welt keimt Wunderbares: Reaktanz.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-03/weltlage-demokratie-abschiednehmen-power-of-goodbye",
+      "image_url": "https://img.zeit.de/zeit-verlag/2025-03/weltlage-demokratie-abschiednehmen-power-of-goodbye-bild/wide__1000x562",
+      "image_title": "Weltlage: Es kommen härtere Tage"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wladimir Putin : Luftsprünge im Kreml",
       "teaser": "Russland feiert die amerikanische Zeitenwende – und will jetzt noch mehr. Dank Trump sieht sich Putin dem Sieg ganz nah. Europa könnte bald ins Hintertreffen geraten.",
       "url": "https://www.zeit.de/2025/10/wladimir-putin-russland-usa-beziehungen-donald-trump",
-      "image_url": "https://img.zeit.de/2025/10/trump-ist-unser-bild-1/wide__1000x562",
+      "image_url": "https://img.zeit.de/2025/10/trump-ist-unser-bild-1/super__430x286",
       "image_title": "Wladimir Putin: Läuft doch: Wladimir Putin empfängt am Dienstag dieser Woche sichtbar zufrieden den Staatsbesuch aus Myanmar im Kreml."
     },
     {
@@ -118,32 +131,18 @@
       "image_title": "Lage in der Ukraine: A serviceman of 13th Operative Purpose Brigade 'Khartiia' of the National Guard of Ukraine fires a Giatsint-B howitzer towards Russian troops at a position on a front line, amid Russia's attack on Ukraine, in Kharkiv region, Ukraine January 6, 2025. REUTERS/Sofiia Gatilova"
     },
     {
-      "title": "Liveblog:Ukrainekrieg : USA sperren Zugang der Ukraine zu Satellitenbildern",
-      "teaser": "Der US-Techkonzern Maxar versorgte die Ukraine bisher mit Satellitenbildern – nun ist der Zugang gesperrt. Russland kündigt Reaktion auf EU-Beschlüsse an. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-03/ukraine-krieg-news-liveblog-bild-18/super__430x286",
-      "image_title": "Ukrainekrieg: General view of the aftermath of a large series of explosion on an ammunition depot in Toropets, Russia, Wednesday Sept. 18, 2024. (Satellite image ©2023 Maxar Technologies via AP)"
+      "title": "Ukrainekrieg : USA sperren Zugang der Ukraine zu Satellitenbildern",
+      "teaser": "Die Ukraine kann nicht länger auf Satellitenbilder zugreifen, die für die militärische Aufklärung wichtig sind. Ihr Zugang wurde auf Anweisung der US-Regierung blockiert.",
+      "url": "https://www.zeit.de/politik/ausland/2025-03/ukraine-krieg-usa-satellitenbilder-sperrung",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-03/sperrung-maxar-bild/super__430x286",
+      "image_title": "Ukrainekrieg: An overview of the Oktyabrski ammunition depot, Russia, after explosions, Sunday, Sept. 22, 2024."
     },
     {
-      "title": "Krieg in der Ukraine : Trump droht Russland mit neuen Sanktionen",
-      "teaser": "US-Präsident Donald Trump hat Russland vor neuen Sanktionen gewarnt. Diese sollen gelten, bis eine \"endgültige Friedensvereinbarung\" mit der Ukraine erreicht sei.",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/donald-trump-droht-russland-sanktionen",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-03/donald-trump-drohung-russland-sanktionen-zoelle-bild/super__430x286",
-      "image_title": "Krieg in der Ukraine: WASHINGTON,DC - MARCH 6: President Trump signs multiple executive orders from the Oval Office of the White House in Washington, DC, on March 6, 2025."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); AfD-Fraktion im Bundestag : Kampf um Raum und Macht",
-      "teaser": "Die 152 Abgeordneten der AfD starten schon vor dem Einzug in den Bundestag mit einer Provokation. Erst langsam wird klar, was der Wahlerfolg der Radikalen bedeutet.",
-      "url": "https://www.zeit.de/2025/10/afd-fraktion-bundestag-opposition-macht-ergebnis-bundestagswahl",
-      "image_url": "https://img.zeit.de/2025/10/kampf-um-raum-und-macht-bild-3/super__430x286",
-      "image_title": "AfD-Fraktion im Bundestag: BU wie Blatt ++++++++++<br /> Afd"
-    },
-    {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/politik/2025-03/schuldenbremse-friedrich-merz-wahlversprechen-wahlkampf-cdu",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/union-friedrich-merz-gespraech-spd-fuehrung-lars-klingbeil-bild/wide__892x501",
-      "image_title": "Friedrich Merz: Friedrich Merz, CDU-Bundesvorsitzender, gestikuliert nach seiner Rede während einer Wahlkampfveranstaltung der CDU im Ostra-Dome auf der Bühne. Am 23. Februar 2025 wird ein neuer Bundestag gewählt. +++ dpa-Bildfunk +++"
+      "title": "Z+ (abopflichtiger Inhalt); Justiz : \"Auch deutsche Regierende haben Gerichtsentscheide schon ignoriert\"",
+      "teaser": "USA, Polen, Ungarn: Die Justiz ist oft das erste Ziel autoritärer Politiker. Der Jurist Friedrich Zillessen erforscht, wie gut deutsche Gerichte dagegen gewappnet sind.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-03/justiz-gerichte-autoritaere-regierung-recht",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-03/justiz-gerichte-autoritaere-regierung/wide__892x501",
+      "image_title": "Justiz: \"Auch deutsche Regierende haben Gerichtsentscheide schon ignoriert\""
     },
     {
       "title": "Alpenpodcast : In Wien müssen sie jetzt fasten",
@@ -158,6 +157,13 @@
       "url": "https://www.zeit.de/2025/10/sens-unik-lausanne-schweiz-rap-frankreich",
       "image_url": "https://img.zeit.de/2025/10/sens-unik-lausanne-schweiz-rap-frankreich-bild/super__430x286",
       "image_title": "Sens Unik: Sens Unik: Carlos, Bio, Jiggy Jones, Deborah und Just One"
+    },
+    {
+      "title": "Hamburg-Podcast \"Elbvertiefung\" : Hamburg nach der Wahl: Wer künftig im Rathaus entscheidet",
+      "teaser": "Welche Vorteile hätte eine rot-schwarze Koalition – und warum wird es wohl doch eine rot-grüne? Was das Wahlergebnis für die Stadt bedeutet: die neue Folge Elbvertiefung",
+      "url": "https://www.zeit.de/hamburg/2025-03/buergerschaftswahl-wahlergebnisse-koalitionen-hamburg-podcast-elbvertiefung",
+      "image_url": "https://img.zeit.de/hamburg/2025-03/buergerschaftswahl-hamburg-wer-koaliert-podcast-elbvertiefung-bild/super__430x286",
+      "image_title": "Hamburg-Podcast \"Elbvertiefung\": An image of Social Democratic Party's (SPD) mayor of Hamburg Peter Tschentscher is displayed outside of the Klubhaus St. Pauli building, as he campaigns for the upcoming election, in Hamburg, Germany, February 27, 2025."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Marcell Jansen : Sah nicht gut aus",
@@ -179,13 +185,6 @@
       "url": "https://www.zeit.de/hamburg/2025-01/ballettlehrerin-doris-ruesche-royal-academy-ballettschule-tanzen",
       "image_url": "https://img.zeit.de/hamburg/2025-01/ballettlehrerin-doris-ruesche-royal-academy-ballettschule-tanzen-bild/super__430x286",
       "image_title": "Ballettlehrerin Doris Rüsche: Ballettlehrerin Doris Rüsche"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hamburger Polizei : Im Chat lobten die Beamten die Nazis",
-      "teaser": "Eine Affäre um mutmaßlich rechtsextreme Bedienstete erschüttert die Hamburger Polizei. Gegen 15 Männer wird ermittelt – ob sie bestraft werden, ist offen.",
-      "url": "https://www.zeit.de/hamburg/2025-03/hamburger-polizei-ermittlungen-rassismus-chats",
-      "image_url": "https://img.zeit.de/hamburg/2025-03/polizei-hamburg/super__430x286",
-      "image_title": "Hamburger Polizei: Im Chat lobten die Beamten die Nazis"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sextoys : Zwischen uns passt kein Vibrator",
@@ -272,11 +271,18 @@
       "image_title": "Speedwatching: Was doppelte Geschwindigkeit im Gehirn auslöst"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Mayhem\" von Lady Gaga : Wenigstens Hand in Hand sterben",
-      "teaser": "Lady Gaga ist zurück auf dem Dancefloor, also dort, wo sie hingehört. Ihr neues Album \"Mayhem\" tanzt zwischen Monstern und Zombies, es ist gruselig gut.",
-      "url": "https://www.zeit.de/kultur/musik/2025-03/mayhem-lady-gaga-album-musik-pop",
-      "image_url": "https://img.zeit.de/kultur/musik/2025-03/lady-gaga-mayhem-2025/super__430x286",
-      "image_title": "Lady Gaga MAYHEM\" (2025)"
+      "title": "Z+ (abopflichtiger Inhalt); AfD-Fraktion im Bundestag : Kampf um Raum und Macht",
+      "teaser": "Die 152 Abgeordneten der AfD starten schon vor dem Einzug in den Bundestag mit einer Provokation. Erst langsam wird klar, was der Wahlerfolg der Radikalen bedeutet.",
+      "url": "https://www.zeit.de/2025/10/afd-fraktion-bundestag-opposition-macht-ergebnis-bundestagswahl",
+      "image_url": "https://img.zeit.de/2025/10/kampf-um-raum-und-macht-bild-3/super__430x286",
+      "image_title": "AfD-Fraktion im Bundestag: BU wie Blatt ++++++++++<br /> Afd"
+    },
+    {
+      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
+      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "url": "https://www.zeit.de/politik/2025-03/schuldenbremse-friedrich-merz-wahlversprechen-wahlkampf-cdu",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-02/union-friedrich-merz-gespraech-spd-fuehrung-lars-klingbeil-bild/wide__892x501",
+      "image_title": "Friedrich Merz: Friedrich Merz, CDU-Bundesvorsitzender, gestikuliert nach seiner Rede während einer Wahlkampfveranstaltung der CDU im Ostra-Dome auf der Bühne. Am 23. Februar 2025 wird ein neuer Bundestag gewählt. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Folge 36 : So blicken Sie auf den AfD-Erfolg im Osten",
@@ -426,11 +432,11 @@
       "image_title": "Stress: Wozu der ganze Stress?"
     },
     {
-      "title": "Bundesliga-Vorschau : Vom Bernabéu in die Mehrzweckhalle in Reisholz",
-      "teaser": "Toni Kroos kommt zurück, zumindest auf kleinem Feld und im großen Stream. Das echte Comeback – fast eine Wiederauferstehung – feiert aber ein anderer. Der 25. Spieltag",
-      "url": "https://www.zeit.de/sport/2025-03/bundesliga-vorschau-25-spieltag-toni-kroos-loris-karius",
-      "image_url": "https://img.zeit.de/sport/2025-03/bundesliga-vorschau-25-spieltag-toni-kroos-loris-karius-2/super__430x286",
-      "image_title": "Bundesliga-Vorschau: Toni Kroos kehrt zurück – jedenfalls in die Icon League. Ob das seinem Status als Ikone guttut?"
+      "title": "Wölfe : EU-Kommission will Jagd auf Wölfe erleichtern",
+      "teaser": "Wölfe töten in der EU pro Jahr mehr als 65.000 Nutztiere. Die Kommission will deswegen ihren begrenzten Abschuss ermöglichen, den Bestand aber auch schützen.",
+      "url": "https://www.zeit.de/politik/ausland/2025-03/woelfe-eu-kommission-jagd-abschuss",
+      "image_url": "https://img.zeit.de/2025-03/europaeische-kommission-abschuss-woelfe-bild/super__430x286",
+      "image_title": "Wölfe: EU-Kommission will Jagd auf Wölfe erleichtern"
     },
     {
       "title": "Videopodcast zu mentaler Gesundheit : Warum kann ich mich nicht entscheiden?",
@@ -468,18 +474,11 @@
       "image_title": "Videopodcast zu mentaler Gesundheit: Warum schiebe ich Unangenehmes immer auf?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Nickel Boys\" : Eine neue Art des Sehens",
-      "teaser": "\"Nickel Boys\" zeigt das Leben in einer rassistischen Besserungsanstalt aus radikal subjektiver Perspektive. Radikal subjektive Meinung: Es ist der beste Film seit Jahren.",
-      "url": "https://www.zeit.de/kultur/film/2025-03/nickel-boys-brutalitaet-drama-ramell-ross",
-      "image_url": "https://img.zeit.de/kultur/film/2025-03/nickel-boys/super__430x286",
-      "image_title": "\"Nickel Boys\": Wird gesehen: der Schauspieler Ethan Herisse in \"Nickel Boys\""
-    },
-    {
-      "title": "Hamburg-Podcast \"Elbvertiefung\" : Hamburg nach der Wahl: Wer künftig im Rathaus entscheidet",
-      "teaser": "Welche Vorteile hätte eine rot-schwarze Koalition – und warum wird es wohl doch eine rot-grüne? Was das Wahlergebnis für die Stadt bedeutet: die neue Folge Elbvertiefung",
-      "url": "https://www.zeit.de/hamburg/2025-03/buergerschaftswahl-wahlergebnisse-koalitionen-hamburg-podcast-elbvertiefung",
-      "image_url": "https://img.zeit.de/hamburg/2025-03/buergerschaftswahl-hamburg-wer-koaliert-podcast-elbvertiefung-bild/super__430x286",
-      "image_title": "Hamburg-Podcast \"Elbvertiefung\": An image of Social Democratic Party's (SPD) mayor of Hamburg Peter Tschentscher is displayed outside of the Klubhaus St. Pauli building, as he campaigns for the upcoming election, in Hamburg, Germany, February 27, 2025."
+      "title": "Z+ (abopflichtiger Inhalt); \"Mayhem\" von Lady Gaga : Wenigstens Hand in Hand sterben",
+      "teaser": "Lady Gaga ist zurück auf dem Dancefloor, also dort, wo sie hingehört. Ihr neues Album \"Mayhem\" tanzt zwischen Monstern und Zombies, es ist gruselig gut.",
+      "url": "https://www.zeit.de/kultur/musik/2025-03/mayhem-lady-gaga-album-musik-pop",
+      "image_url": "https://img.zeit.de/kultur/musik/2025-03/lady-gaga-mayhem-2025/super__430x286",
+      "image_title": "Lady Gaga MAYHEM\" (2025)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Germanwings-Absturz : Wahrheit in Trümmern",
@@ -516,21 +515,21 @@
       "url": "https://www.zeit.de/politik/ausland/2025-03/robert-reich-donald-trump-us-regierung-wirtschaftspolitik-maga"
     },
     {
-      "title": "Feiertag abschaffen : Wie, jetzt noch mehr arbeiten?",
-      "teaser": "Ein Feiertag weniger, um für die Schuldenpolitik zu arbeiten? Dänemark hat es vorgemacht, Ökonomen fordern es nun auch für Deutschland. So einfach ist das aber nicht.",
-      "url": "https://www.zeit.de/wirtschaft/2025-03/feiertag-abschaffen-wirtschaft-verteidigung-auswirkungen",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-03/feiertag-abschaffen-wirtschaft-verteidigung-auswirkungen-bild/super__430x286",
-      "image_title": "Einen gesetzlichen Feiertag streichen, um die Wirtschaftsleistung zu erhöhen? Ärger dürfte bei einem solchen Vorhaben vorprogrammiert sein"
-    },
-    {
       "title": "Der US-Überblick am Morgen : Trump äußert Zweifel an Nato-Beistandspflicht, ordnet Kryptoreserve an",
       "teaser": "\"Wenn sie nicht zahlen, werde ich sie nicht verteidigen\", sagt der US-Präsident über Nato-Partner. Die USA sollen eine Bitcoin-Reserve anlegen. Der US-Überblick am Morgen",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/us-ueberblick-morgen-donald-trump-nato-beistandsverpflichtung-kryptoreserve"
+      "url": "https://www.zeit.de/politik/ausland/2025-03/us-ueberblick-morgen-donald-trump-nato-beistandsverpflichtung-kryptoreserve",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-03/donald-trump-usa/super__430x286",
+      "image_title": "Donald Trump USA"
     },
     {
       "title": "Bundesverfassungsgericht : AfD will juristisch gegen Sondersitzungen des Bundestags vorgehen",
       "teaser": "Der Bundestag soll in alter Zusammensetzung über das Finanzpaket von Union und SPD abstimmen. Die AfD will das verhindern und schaltet das Bundesverfassungsgericht ein.",
       "url": "https://www.zeit.de/politik/deutschland/2025-03/bundesverfassungsgericht-afd-abstimmung-bundestag-finanzpaket"
+    },
+    {
+      "title": "Gleichberechtigung : Nach der Heirat verdienen Frauen ein Fünftel weniger",
+      "teaser": "Laut einer Studie verringert sich das Einkommen von Frauen um 20 Prozent, wenn sie heiraten – unabhängig von der Geburt von Kindern. Bei Männern tritt das nicht auf.",
+      "url": "https://www.zeit.de/wirtschaft/2025-03/studie-frauen-gehalt-heirat"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Flugsicherheit : Mehr Flugzeuge, weniger Erfahrung",
@@ -540,11 +539,11 @@
       "image_title": "Flugsicherheit: ARLINGTON, VIRGINIA - FEBRUARY 01: The control tower at Reagan National Airport as the search continues at the crash site of the American Airlines plane on the Potomac River on February 1, 2025 in Arlington, Virginia. The American Airlines flight from Wichita, Kansas collided midair with a military Black Hawk helicopter while on approach to Ronald Reagan Washington National Airport. According to reports, there were no survivors among the 67 people on both aircraft. (Photo by Al Drago/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Humanitäre Hilfe in Gaza : \"Viele Kinder haben Ess- oder Schlafstörungen\"",
-      "teaser": "Weil Israel und die Terrororganisation Hamas sich nicht einigen, müssen die Menschen in Gaza leiden. Besonders die Kinder, sagt Rachael Cummings von Save the Children.",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/humanitaere-hilfe-gaza-kinder-psyche-schlafstoerungen-save-the-children",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-03/gazastreifen/super__430x286",
-      "image_title": "Gazastreifen"
+      "title": "Z+ (abopflichtiger Inhalt); \"Nickel Boys\" : Eine neue Art des Sehens",
+      "teaser": "\"Nickel Boys\" zeigt das Leben in einer rassistischen Besserungsanstalt aus radikal subjektiver Perspektive. Radikal subjektive Meinung: Es ist der beste Film seit Jahren.",
+      "url": "https://www.zeit.de/kultur/film/2025-03/nickel-boys-brutalitaet-drama-ramell-ross",
+      "image_url": "https://img.zeit.de/kultur/film/2025-03/nickel-boys/super__430x286",
+      "image_title": "\"Nickel Boys\": Wird gesehen: der Schauspieler Ethan Herisse in \"Nickel Boys\""
     },
     {
       "title": "Verlagsangebot : 8 Ausflugstipps in Deutschland",
@@ -575,11 +574,11 @@
       "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Spionage : Britisches Gericht verurteilt Spionagering um Jan Marsalek",
-      "teaser": "Sie überwachten Journalisten und spähten einen Militärstützpunkt aus: In London wurden drei Bulgaren der Spionage für Russland für schuldig befunden.",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/spionage-agentenring-bulgaren-jan-marsalek",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-03/london-geschworenengericht-bulgarien-spionage-russland-bild/super__430x286",
-      "image_title": "Spionage: LONDON, ENGLAND - SEPTEMBER 26: The Old Bailey statue of Lady Justice stands on top of the Central Criminal Court as the trial starts for the murder of Chris Kaba on September 26, 2024 in London, England. Chris Kaba, 24, was shot dead by Met Police Officer, Martyn Blake, after a police pursuit of his car ended in Streatham Hill on the night of September 5, 2022. No firearms were found at the scene. An Independent Office for Police Conduct (IOPC) investigation Blake was charged with murder. (Photo by Jack Taylor/Getty Images)"
+      "title": "Liveblog:Ukrainekrieg : USA sperren Zugang der Ukraine zu Satellitenbildern",
+      "teaser": "Der US-Techkonzern Maxar versorgte die Ukraine bisher mit Satellitenbildern – nun ist der Zugang gesperrt. Russland kündigt Reaktion auf EU-Beschlüsse an. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-03/ukraine-krieg-news-liveblog-bild-18/super__430x286",
+      "image_title": "Ukrainekrieg: General view of the aftermath of a large series of explosion on an ammunition depot in Toropets, Russia, Wednesday Sept. 18, 2024. (Satellite image ©2023 Maxar Technologies via AP)"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -1049,11 +1048,11 @@
       "image_title": "Künstliche Intelligenz: Man kann mit KI nur produktiv sein, wenn man Grundwissen hat."
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Munition im Meer : \"Wir müssen Bombe für Bombe rausholen\"",
@@ -1077,49 +1076,50 @@
       "image_title": "Ski-WM: Trondheim 20250307. Pia Fink, Katharina Hennig, Helen Hoffmann og Victoria Carl fra Tyskland jubler for bronse under stafett langrenn for kvinner 4x7.5 km under VM på ski i Trondheim. Foto: Gorm Kallestad / NTB"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Hamburger Polizei : Im Chat lobten die Beamten die Nazis",
+      "teaser": "Eine Affäre um mutmaßlich rechtsextreme Bedienstete erschüttert die Hamburger Polizei. Gegen 15 Männer wird ermittelt – ob sie bestraft werden, ist offen.",
+      "url": "https://www.zeit.de/hamburg/2025-03/hamburger-polizei-ermittlungen-rassismus-chats",
+      "image_url": "https://img.zeit.de/hamburg/2025-03/polizei-hamburg/wide__892x501",
+      "image_title": "Hamburger Polizei: Im Chat lobten die Beamten die Nazis"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bürgerschaftswahl in Hamburg : Meinen die das ernst?",
       "teaser": "Nach der Hamburg-Wahl will Peter Tschentscher (SPD) neben den Grünen auch mit der CDU Gespräche führen. Mit welchen Forderungen die Parteien in die Verhandlung gehen.",
       "url": "https://www.zeit.de/hamburg/2025-03/buergerschaftswahl-hamburg-regierungsbildung-spd-faq",
-      "image_url": "https://img.zeit.de/hamburg/2025-03/tschentscher-thering-fegebank-2/wide__892x501",
+      "image_url": "https://img.zeit.de/hamburg/2025-03/tschentscher-thering-fegebank-2/super__430x286",
       "image_title": "Bürgerschaftswahl in Hamburg: Meinen die das ernst?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Drohnen in Hamburg : Plötzlich tauchte eine Drohne vor dem Schlafzimmerfenster auf",
-      "teaser": "Eine Hamburgerin wird von einem ferngesteuerten Quattrocopter verfolgt, mehrfach erstattet sie Anzeige bei der Polizei. Doch die scheint machtlos.",
-      "url": "https://www.zeit.de/2025/08/drohnen-hamburg-einsatz-polizei-stoerung",
-      "image_url": "https://img.zeit.de/2025/08/bsssssssss-dronen-teaser/super__430x286"
+      "title": "Unfall: Zug prallt mit Auto zusammen - Fahrerin schwer verletzt",
+      "url": "https://www.zeit.de/news/2025-03/07/zug-prallt-mit-auto-zusammen-fahrerin-schwer-verletzt"
     },
     {
-      "title": "Weltkriegsmunition: Bombe entschärft - zuvor Polizeipräsidium evakuiert",
-      "url": "https://www.zeit.de/news/2025-03/07/bombenfund-polizeipraesidium-muss-evakuiert-werden"
+      "title": "3. Fußball-Liga: 1:0 in Osnabrück: Wehen Wiesbaden siegt an der Bremer Brücke",
+      "url": "https://www.zeit.de/news/2025-03/07/1-0-in-osnabrueck-wehen-wiesbaden-siegt-an-der-bremer-bruecke"
     },
     {
-      "title": "Finanzierungsnöte: Welterbestiftung im Harz wendet Pleite ab - Sparhaushalt",
-      "url": "https://www.zeit.de/news/2025-03/07/welterbestiftung-im-harz-wendet-pleite-ab-sparhaushalt"
+      "title": "Landkreis Stade: Kollision mit Auto: Motorradfahrer schwer verletzt",
+      "url": "https://www.zeit.de/news/2025-03/07/kollision-mit-auto-motorradfahrer-schwer-verletzt"
     },
     {
-      "title": "Nordische Kombination: \"Du bist der Chef\": Geiger führt Kombinierer zu Gold",
-      "url": "https://www.zeit.de/news/2025-03/07/gold-trotz-sturz-kombinierer-sind-team-weltmeister"
+      "title": "2. Fußball-Bundesliga: FCK übernimmt nach Remis gegen Elversberg Tabellenführung",
+      "url": "https://www.zeit.de/news/2025-03/07/fck-uebernimmt-nach-remis-gegen-elversberg-tabellenfuehrung"
     },
     {
-      "title": "Erste Zahlen zur Bilanz: Porsche SE nach Wertberichtigungen mit Milliardenverlust",
-      "url": "https://www.zeit.de/news/2025-03/07/porsche-se-nach-wertberichtigungen-mit-milliardenverlust"
+      "title": "Frauen-Bundesliga: Eintracht-Frauen erobern vorübergehend Tabellenführung",
+      "url": "https://www.zeit.de/news/2025-03/07/eintracht-frauen-erobern-voruebergehend-tabellenfuehrung"
     },
     {
-      "title": "Netflix: Meghan kündigt zweite Staffel ihrer Lifestyleserie an",
-      "url": "https://www.zeit.de/news/2025-03/07/meghan-kuendigt-zweite-staffel-ihrer-lifestyleserie-an"
+      "title": "2. Fußball-Bundesliga: 0:3 in Darmstadt: Dämpfer für den Karlsruher SC",
+      "url": "https://www.zeit.de/news/2025-03/07/0-3-in-darmstadt-daempfer-fuer-den-karlsruher-sc"
     },
     {
-      "title": "Weltcup in Nove Mesto: Biathletin Preuß nur 15. - Konkurrentin holt auf",
-      "url": "https://www.zeit.de/news/2025-03/07/biathletin-preuss-nur-15-konkurrentin-holt-auf"
+      "title": "Staatsfinanzen: Waigel für Neuanlauf bei Pkw-Maut",
+      "url": "https://www.zeit.de/news/2025-03/07/waigel-fuer-neuanlauf-bei-pkw-maut"
     },
     {
-      "title": "3. Fußball-Liga: Wollitz bleibt Trainer von Energie Cottbus",
-      "url": "https://www.zeit.de/news/2025-03/07/wollitz-bleibt-trainer-von-energie-cottbus"
-    },
-    {
-      "title": "Ukraine-Krieg: US-Anbieter sperrt Ukraine Zugang zu Satellitenbildern",
-      "url": "https://www.zeit.de/news/2025-03/07/us-anbieter-sperrt-ukraine-zugang-zu-satellitenbildern"
+      "title": "2. Bundesliga: Darmstadt landet Befreiungsschlag im Abstiegskampf",
+      "url": "https://www.zeit.de/news/2025-03/07/darmstadt-landet-befreiungsschlag-im-abstiegskampf"
     }
   ]
 }
