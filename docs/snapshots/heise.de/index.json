@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-07T12:16:38",
+  "timestamp": "2025-03-07T13:17:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,11 +26,23 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop für Entwickler und Architekten: IT-Management mit Terraform",
+      "url": "https://www.heise.de/news/iX-Workshop-fuer-Entwickler-und-Architekten-IT-Management-mit-Terraform-10297821.html"
+    },
+    {
+      "title": "Video-KI Sora: Drei Dinge, die man vor der Nutzung beachten sollte",
+      "url": "https://www.heise.de/tests/Video-KI-Sora-Drei-Dinge-die-man-vor-der-Nutzung-beachten-sollte-10307234.html"
+    },
+    {
+      "title": "Im Test: NAS-Barebone LincStation N2",
+      "url": "https://www.heise.de/tests/Im-Test-NAS-Barebone-LincStation-N2-10303167.html"
+    },
+    {
       "title": "ITler am Limit: Drei Viertel beklagen Stress und Burnout",
       "url": "https://www.heise.de/news/ITler-am-Limit-Drei-Viertel-beklagen-Stress-und-Burnout-10308146.html"
     },
     {
-      "title": "Neues Podcast-Festival mit \"c't uplink\" und \"kurz informiert\"",
+      "title": "\"Leipzig lauscht\": Neues Festival für Podcasts",
       "url": "https://www.heise.de/news/Neues-Podcast-Festival-mit-c-t-uplink-und-kurz-informiert-10307013.html"
     },
     {
@@ -54,32 +66,20 @@
       "url": "https://www.heise.de/tests/Tippen-und-Drehen-Mac-Zubehoer-fuer-Kreative-von-Logitech-im-Test-10294040.html"
     },
     {
-      "title": "Noch raffinierter: Seagate-Festplatten mit manipulierten FARM-Werten verkauft",
-      "url": "https://www.heise.de/news/Festplatten-Betrug-Groessere-Platten-mit-falschen-FARM-Werten-aufgetaucht-10307901.html"
-    },
-    {
-      "title": "Funktechnik: Kein Wi-Fi 7 in neuen Macs, kein C1 in neuen iPads",
-      "url": "https://www.heise.de/news/Funktechnik-Kein-Wi-Fi-7-in-neuen-Macs-kein-C1-in-neuen-iPads-10307316.html"
-    },
-    {
-      "title": "Neu in .NET 9.0 [11]: Neue Möglichkeiten für ref struct in C# 13.0",
-      "url": "https://www.heise.de/blog/Neu-in-NET-9-0-11-Neue-Moeglichkeiten-fuer-ref-struct-in-C-13-0-10307583.html"
-    },
-    {
       "title": "Betrug noch raffinierterSeagate-Festplatten mit manipulierten FARM-Werten verkauft",
       "teaser": "Nach Manipulation der Seriennummer kommt nun der nächste Trick: Die Betrüger manipulieren die FARM-Werte gebrauchter HDDs.",
       "url": "https://www.heise.de/news/Festplatten-Betrug-Groessere-Platten-mit-falschen-FARM-Werten-aufgetaucht-10307901.html",
       "image_title": "Zahlreiche Festplatten auf einem Regal"
     },
     {
-      "title": "Bastelprojekt:Taupunkt-Lüftung mit ZigBee-Funksteckdose installieren",
+      "title": "BastelprojektTaupunkt-Lüftung mit ZigBee-Funksteckdose installieren",
       "teaser": "Der ESP32-C6 hat eine ZigBee-Antenne und lässt sich mit Display und Steckanschlüssen ausrüsten.",
       "url": "https://www.heise.de/ratgeber/Bastelprojekt-Taupunkt-Lueftung-mit-ZigBee-Funksteckdose-installieren-10300381.html",
       "image_title": ","
     },
     {
-      "title": "Vor 20 Jahren: heise online legt sich mit der Musikindustrie an",
-      "teaser": "Am 7. März 2005 verlor der Heise-Verlag vor Gericht gegen die Musikindustrie. Weil es um Grundsätzliches ging, ließ er nicht locker und bekam am Ende Recht.",
+      "title": "Vor 20 Jahrenheise online legt sich mit der Musikindustrie an",
+      "teaser": "Am 7. März 2005 verlor der Heise-Verlag vor Gericht gegen die Musikindustrie. Weil es um Grundsätzliches ging, ließ er nicht locker.",
       "url": "https://www.heise.de/news/Vor-20-Jahren-heise-online-legt-sich-mit-der-Musikindustrie-an-10307397.html",
       "image_title": "BGH"
     },
@@ -186,20 +186,37 @@
       "image_title": "Umschalt-Chip"
     },
     {
+      "title": "iX-Workshop für Entwickler und Architekten: IT-Management mit Terraform",
+      "teaser": "Erstellen und verwalten Sie IT- und Cloud-Infrastrukturen als Code – Grundlagen, Installation und Nutzung von Terraform.",
+      "url": "https://www.heise.de/news/iX-Workshop-fuer-Entwickler-und-Architekten-IT-Management-mit-Terraform-10297821.html",
+      "image_title": "iX-Workshop: Terraform – Infrastructure as Code"
+    },
+    {
+      "title": "Video-KI Sora: Drei Dinge, die man vor der Nutzung beachten sollte",
+      "teaser": "Die Video-KI Sora ist nun auch in Europa verfügbar. Wir haben sie getestet und teilen im Video unseren ersten Eindruck.",
+      "url": "https://www.heise.de/tests/Video-KI-Sora-Drei-Dinge-die-man-vor-der-Nutzung-beachten-sollte-10307234.html"
+    },
+    {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Im Test: NAS-Barebone LincStation N2",
+      "teaser": "Netzwerkspeicher mit SSDs sind kompakt, schnell und leise, aber teuer. Am hohen Preis sägt die LincStation N2. Wir konnten sie vor dem Verkaufsstart testen.",
+      "url": "https://www.heise.de/tests/Im-Test-NAS-Barebone-LincStation-N2-10303167.html",
+      "image_title": ","
+    },
+    {
       "title": "ITler am Limit: Drei Viertel beklagen Stress und Burnout",
       "teaser": "Hohe Arbeitsbelastung, knappe Deadlines und schwierige Chefs sägen laut einer Umfrage an den Nerven der ITler. Aber viele machen ihren Job dennoch gerne.",
       "url": "https://www.heise.de/news/ITler-am-Limit-Drei-Viertel-beklagen-Stress-und-Burnout-10308146.html",
       "image_title": "Mann und Frau schreien Laptops an"
     },
     {
-      "title": "Neues Podcast-Festival mit \"c't uplink\" und \"kurz informiert\"",
+      "title": "\"Leipzig lauscht\": Neues Festival für Podcasts",
       "teaser": "Die deutsche Audio-Branche bekommt ein neues Festivalformat: Bei \"Leipzig lauscht\" am 15. und 16. März 2025 sind auch zwei heise-Formate vertreten.",
       "url": "https://www.heise.de/news/Neues-Podcast-Festival-mit-c-t-uplink-und-kurz-informiert-10307013.html"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Wieder Outlook-Probleme: Diesmal trifft es iOS-Nutzer",
@@ -216,23 +233,6 @@
       "title": "heise+ Update vom 7. März 2025: Lesetipps fürs Wochenende",
       "teaser": "Der wöchentliche Newsletter von heise+ mit den Themen: Home Assistant, Wertpapier-Depots für Kids, Kernfusion im Tokamak, BMW 330e und Kanata für die Tastatur.",
       "url": "https://www.heise.de/news/heise-Update-vom-7-Maerz-2025-Lesetipps-fuers-Wochenende-10308051.html"
-    },
-    {
-      "title": "JavaLand 2025: Jetzt noch Tickets für die Community-Konferenz sichern",
-      "teaser": "Die große Community-Konferenz bietet erneut rund 150 Vorträge zu aktuellen Java-Trends und zu Themen wie Architektur, KI und Security.",
-      "url": "https://www.heise.de/news/JavaLand-2025-Jetzt-noch-Tickets-fuer-die-Community-Konferenz-sichern-10306040.html"
-    },
-    {
-      "title": "Tippen und Drehen: Mac-Zubehör für Kreative von Logitech im Test",
-      "teaser": "Logitechs MX Creative Console ersetzt Tastenkombinationen in ausgesuchten Kreativprogrammen.",
-      "url": "https://www.heise.de/tests/Tippen-und-Drehen-Mac-Zubehoer-fuer-Kreative-von-Logitech-im-Test-10294040.html",
-      "image_title": "MX Creative Console von Logitech"
-    },
-    {
-      "title": "Funktechnik: Kein Wi-Fi 7 in neuen Macs, kein C1 in neuen iPads",
-      "teaser": "Apple hat neue Funktechnik verfügbar, verteilt sie bislang allerdings ungerecht. Ein Blick auf die neuen Modelle zeigt das.",
-      "url": "https://www.heise.de/news/Funktechnik-Kein-Wi-Fi-7-in-neuen-Macs-kein-C1-in-neuen-iPads-10307316.html",
-      "image_title": "Router, der aussieht, als ob er einem Außerirdischen gehört. Hintergrund ist Lila."
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -300,6 +300,23 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "JavaLand 2025: Jetzt noch Tickets für die Community-Konferenz sichern",
+      "teaser": "Die große Community-Konferenz bietet erneut rund 150 Vorträge zu aktuellen Java-Trends und zu Themen wie Architektur, KI und Security.",
+      "url": "https://www.heise.de/news/JavaLand-2025-Jetzt-noch-Tickets-fuer-die-Community-Konferenz-sichern-10306040.html"
+    },
+    {
+      "title": "Tippen und Drehen: Mac-Zubehör für Kreative von Logitech im Test",
+      "teaser": "Logitechs MX Creative Console ersetzt Tastenkombinationen in ausgesuchten Kreativprogrammen.",
+      "url": "https://www.heise.de/tests/Tippen-und-Drehen-Mac-Zubehoer-fuer-Kreative-von-Logitech-im-Test-10294040.html",
+      "image_title": "MX Creative Console von Logitech"
+    },
+    {
+      "title": "Funktechnik: Kein Wi-Fi 7 in neuen Macs, kein C1 in neuen iPads",
+      "teaser": "Apple hat neue Funktechnik verfügbar, verteilt sie bislang allerdings ungerecht. Ein Blick auf die neuen Modelle zeigt das.",
+      "url": "https://www.heise.de/news/Funktechnik-Kein-Wi-Fi-7-in-neuen-Macs-kein-C1-in-neuen-iPads-10307316.html",
+      "image_title": "Router, der aussieht, als ob er einem Außerirdischen gehört. Hintergrund ist Lila."
+    },
+    {
       "title": "Neu in .NET 9.0 [11]: Neue Möglichkeiten für ref struct in C# 13.0",
       "teaser": "In C# 13.0 hat Microsoft den Einsatzbereich von ref struct unter anderem zum Implementieren von Schnittstellen erweitert.",
       "url": "https://www.heise.de/blog/Neu-in-NET-9-0-11-Neue-Moeglichkeiten-fuer-ref-struct-in-C-13-0-10307583.html"
@@ -357,6 +374,11 @@
       "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
     },
     {
+      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
+      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Linux-Server härten",
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10297704.html",
@@ -373,11 +395,6 @@
       "teaser": "In Zukunft könnten Instagram-Nutzer in Gruppen von bis zu 250 Personen chatten. Bisher wurde die Funktion jedoch nicht offiziell angekündigt.",
       "url": "https://www.heise.de/news/Instagram-arbeitet-wohl-an-Community-Chat-Funktion-10307691.html",
       "image_title": "Instagram-Logo"
-    },
-    {
-      "title": "Analyse und Lehren: So läuft ein Ransomware-Angriff ab",
-      "teaser": "Das Einschleusen von Ransomware in Firmennetzwerke hat sich zu einem lukrativen Geschäftsmodell entwickelt. Im Webcast am 8. Mai können Sie erfahren, welche Fehler die Opfer machen und was Sie daraus für Ihre Sicherheitsstrategie lernen sollten.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-realitaet-eines-ransomware-angriffs-4898/?source=hbsad-ersatz"
     },
     {
       "title": "React-Deep-Dive: TanStack Router und TanStack Query – Teil 2",
@@ -419,24 +436,6 @@
       "title": "Video-KI von OpenAI: Wie Sora funktioniert und was es leistet",
       "teaser": "Sora generiert fotorealistische Videos, auch von Menschen. Hier erfahren Sie, worauf zu achten ist, bevor Sie ihre Credits einsetzen",
       "url": "https://www.heise.de/tests/Video-KI-von-OpenAI-Das-solltet-ihr-wissen-bevor-ihr-Sora-nutzt-10301745.html"
-    },
-    {
-      "title": "Anzahl der Unicorns in Deutschland seit 2020 mehr als verdoppelt",
-      "teaser": "Die Zahl der Unicorns in Deutschland hat in den vergangenen Jahren zugenommen. Bei der Finanzierung sind sie jedoch oft auf Geld aus den USA angewiesen.",
-      "url": "https://www.heise.de/news/Anzahl-der-Milliarden-Start-ups-in-Deutschland-legt-zu-10307527.html",
-      "image_title": "Gruppe von Menschen, die gemeinsam in einem Coworking-Space arbeiten."
-    },
-    {
-      "title": "Freitag: SpaceX-Riesenrakete erneut verloren, Athena mit schiefer Mondlandung",
-      "teaser": "Starship mit Kontrollverlust + Teilerfolg für Mondlander Athena + Papierverzicht bei Ryanair erst später + Suche nach GPS-Alternativen + Datenschutz-Podcast",
-      "url": "https://www.heise.de/news/Freitag-SpaceX-Riesenrakete-erneut-verloren-Athena-mit-schiefer-Mondlandung-10307519.html",
-      "image_title": "Starship-Rakete auf der Startplattform; Freitag: Starship-Kontrollverlust, Athena-Mondlandung, Ryanair-Papierverzicht, GPS-Alternativen & Datenschutz-Podcast"
-    },
-    {
-      "title": "Auslegungssache 129: Teure Falle E-Mail?",
-      "teaser": "Ein Gerichtsurteil sorgt derzeit für Unverständnis: Müssen Unternehmen jetzt alle Rechnungen per E-Mail verschlüsseln? Der c't-Datenschutz-Podcast klärt auf.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-129-Teure-Falle-E-Mail-10306286.html",
-      "image_title": "Joerg Heidrich (links oben), Sylvester Tremmel (rechts oben) und Holger Bleich (unten)"
     },
     {
       "title": "MacBook Air 2025: Apple-Laptop jetzt mit M4-Chip und günstiger",
@@ -524,8 +523,8 @@
       "image_title": "Justitia-Figur vor einem Bücherregal"
     },
     {
-      "title": "WLAN mit einem Kilometer Reichweite: Wi-Fi-Hardware von AliExpress im Test",
-      "url": "https://www.heise.de/tests/WLAN-mit-einem-Kilometer-Reichweite-Wi-Fi-Hardware-von-AliExpress-im-Test-10296909.html"
+      "title": "Sondervermögen Infrastruktur: IT- und Digitalwirtschaft fordert Investitionen",
+      "url": "https://www.heise.de/news/Sondervermoegen-Infrastruktur-IT-und-Digitalwirtschaft-fordert-Investitionen-10305200.html"
     },
     {
       "title": "Donnerstag: Microsoft ohne Kontrolle über OpenAI, Nintendo siegt über Filesharer",
@@ -608,10 +607,16 @@
       "url": "https://www.heise.de/en/news/Monster-Hunter-Wilds-is-Capcom-s-most-successful-game-10304011.html"
     },
     {
-      "title": "Acht High-End-Smartphones im Vergleich: Von Apple iPhone bis Samsung Galaxy",
-      "teaser": "Rasend schnelle Prozessoren, tolle Displays und viele Kameras – für tausend Euro und mehr bekommt man das Beste, was die Smartphone-Welt zu bieten hat.",
-      "url": "https://www.heise.de/ratgeber/Acht-High-End-Smartphones-im-Vergleich-Von-Apple-IPhone-bis-Samsung-Galaxy-10288978.html",
+      "title": "Im Test: NAS-Barebone LincStation N2",
+      "teaser": "Netzwerkspeicher mit SSDs sind kompakt, schnell und leise, aber teuer. Am hohen Preis sägt die LincStation N2. Wir konnten sie vor dem Verkaufsstart testen.",
+      "url": "https://www.heise.de/tests/Im-Test-NAS-Barebone-LincStation-N2-10303167.html",
       "image_title": ","
+    },
+    {
+      "title": "Auslegungssache 129: Teure Falle E-Mail?",
+      "teaser": "Ein Gerichtsurteil sorgt derzeit für Unverständnis: Müssen Unternehmen jetzt alle Rechnungen per E-Mail verschlüsseln? Der c't-Datenschutz-Podcast klärt auf.",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-129-Teure-Falle-E-Mail-10306286.html",
+      "image_title": "Joerg Heidrich (links oben), Sylvester Tremmel (rechts oben) und Holger Bleich (unten)"
     },
     {
       "title": "Fensterverwaltung in macOSSo individualisieren Sie den Stage Manager",
@@ -745,22 +750,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Zwei Drittel der Ukraine-Flüchtlinge bleiben in Deutschland",
-      "teaser": "Ukraine-Flüchtlinge haben sich in Deutschland ein neues Leben aufgebaut. Die meisten sind gut ausgebildet und finden Jobs. Das Nachsehen hat ihr Heimatland?",
-      "url": "https://www.heise.de/tp/features/Zwei-Drittel-der-Ukraine-Fluechtlinge-bleiben-in-Deutschland-10303871.html",
-      "image_title": "Ukrainische Frau mit ihrem Kind auf dem Arm."
+      "title": "Bauträume platzen durch neue CDU-Schuldenpläne",
+      "teaser": "CDU-Pläne für neue Staatsschulden erschüttern die Finanzmärkte. Die Renditen für Bundesanleihen steigen stark, was den Traum vom Eigenheim für viele gefährden könnte.",
+      "url": "https://www.heise.de/tp/features/Bautraeume-platzen-durch-neue-CDU-Schuldenplaene-10306473.html",
+      "image_title": "Der Anstieg der zehnjährigen Staatsanleihen lässt auch Bauzinsen in die Höhe schnellen."
     },
     {
-      "title": "EU verschiebt CO2-Grenzwerte für Autohersteller",
-      "teaser": "EU-Kommission gibt dem Druck der Autobranche nach und verschiebt die CO2-Grenzwerte. Europas große Hersteller atmen auf, denn ihnen drohten Milliardenstrafen.",
-      "url": "https://www.heise.de/tp/features/EU-verschiebt-CO2-Grenzwerte-fuer-Autohersteller-10304943.html",
-      "image_title": "Auspuff eines Autos"
+      "title": "Allianz der \"ethnischen Säuberung\"?",
+      "teaser": "Israelische Tageszeitung blickt mit Bedenken auf Wahlerfolge von CDU/CSU und AfD. Warnung vor einer \"fehlgeleiteten\" Staatsräson, die völkerrechtswidrigen Expansionismus befördert.",
+      "url": "https://www.heise.de/tp/features/Allianz-der-ethnischen-Saeuberung-10306500.html",
+      "image_title": "Der alte und der designierte neue Bundeskanzler: Olaf Scholz und Friedrich Merz im deutschen Bundestag"
     },
     {
-      "title": "Erneuter Fehlschlag für SpaceX: Starship explodiert im All",
-      "teaser": "Zweite gescheiterte Testmission in Folge für Elon Musks Mars-Rakete. Booster-Landung gelungen, aber Oberstufe zerstört. Untersuchung der US-Luftfahrtbehörde.",
-      "url": "https://www.heise.de/tp/features/Erneuter-Fehlschlag-fuer-SpaceX-Starship-explodiert-im-All-10308045.html",
-      "image_title": "Eine Rakete beim Start"
+      "title": "CO2-Preis macht Heizen 41 Prozent teurer",
+      "teaser": "Der CO2-Preis soll drastisch steigen. Experten rechnen bis 2029 mit einer Verdopplung auf 149 Euro pro Tonne. Was das für eine vierköpfige Familie bedeutet, lässt aufhorchen.",
+      "url": "https://www.heise.de/tp/features/CO2-Preis-macht-Heizen-41-Prozent-teurer-10306997.html",
+      "image_title": "Kosten für die Verringerung der Treibhausgasemissionen und CO2-Emissionen in der Atmosphäre - Konzept mit Euro-Münzen"
     },
     {
       "title": "[Werbung] Internxt: Einmal zahlen und lebenslangen Cloud-Speicher erhalten",
