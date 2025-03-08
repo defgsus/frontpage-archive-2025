@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-08T12:12:09",
+  "timestamp": "2025-03-08T13:07:29",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Biometrische Kontrolle: Ein- und Ausreisesystem der EU soll schrittweise starten",
+      "url": "https://www.heise.de/news/Biometrische-Kontrolle-Ein-und-Ausreisesystem-der-EU-soll-schrittweise-starten-10309153.html"
+    },
     {
       "title": "Zukunft der IT: KI-Kompetenzen bis 2027 entscheidend",
       "url": "https://www.heise.de/news/Zukunft-der-IT-KI-Kompetenzen-bis-2027-entscheidend-10306639.html"
@@ -60,10 +64,6 @@
     {
       "title": "Gender Health Gap: \"Es fehlt an Grundlagenforschung\"",
       "url": "https://www.heise.de/hintergrund/Gender-Health-Gap-Es-fehlt-an-Grundlagenforschung-10307808.html"
-    },
-    {
-      "title": "Superschnelle MicroSD-Speicherkarten im Test",
-      "url": "https://www.heise.de/tests/Superschnelle-MicroSD-Speicherkarten-im-Test-10296346.html"
     },
     {
       "title": "Digitaler WandelBriefzustellung in Dänemark wird Ende 2025 eingestellt",
@@ -182,20 +182,26 @@
       "url": "https://www.heise.de/news/TGIQF-Das-elementare-Quiz-10308204.html"
     },
     {
+      "title": "Biometrische Kontrolle: Ein- und Ausreisesystem der EU soll schrittweise starten",
+      "teaser": "Die EU-Staaten sollen das um Jahre verzögerte Ein-/Ausreisesystem fürs Grenzmanagement nun über einen Zeitraum von sechs Monaten stufenweise einführen können.",
+      "url": "https://www.heise.de/news/Biometrische-Kontrolle-Ein-und-Ausreisesystem-der-EU-soll-schrittweise-starten-10309153.html",
+      "image_title": "Halbes Gesicht einer weißen Frau, darüber gelegt symbolische Rasterung"
+    },
+    {
       "title": "Zukunft der IT: KI-Kompetenzen bis 2027 entscheidend",
       "teaser": "KI schafft neue Möglichkeiten, doch der Erfolg hängt von den richtigen Kompetenzen ab. IT-Teams müssen sich weiterentwickeln, um den Wandel aktiv zu gestalten.",
       "url": "https://www.heise.de/news/Zukunft-der-IT-KI-Kompetenzen-bis-2027-entscheidend-10306639.html"
+    },
+    {
+      "title": "Service Desks als Zielscheibe für Hacker",
+      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Google und BSI arbeiten an sicheren Cloud-Lösungen für die öffentliche Hand",
       "teaser": "Mit einer Kooperationsvereinbarung wollen Google und das BSI die Entwicklung und Bereitstellung sicherer und souveräner Cloud-Lösungen für Behörden fördern.",
       "url": "https://www.heise.de/news/Google-und-BSI-arbeiten-an-sicheren-Cloud-Loesungen-fuer-die-oeffentliche-Hand-10309149.html",
       "image_title": "Schild am Eingang zum BSI"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "UpdateLadetarife für Elektroautos im Vergleich",
@@ -225,12 +231,6 @@
       "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Spring Cloud, JetBrains, Rust, Google Summer of Code, Aider, Databricks und Trailbase.",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10307070.html",
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
-    },
-    {
-      "title": "Gender Health Gap: \"Es fehlt an Grundlagenforschung\"",
-      "teaser": "Während es von Männern viele Daten gibt, durften Frauen an klinischen Studien lange Zeit nicht teilnehmen. Wie und warum sich das jetzt ändert.",
-      "url": "https://www.heise.de/hintergrund/Gender-Health-Gap-Es-fehlt-an-Grundlagenforschung-10307808.html",
-      "image_title": "Frau sitzt auf dem Sofa und kippt mehrere Paracetamol-Tabletten in ihre Hand, ihr Kopf ist nicht zu sehen, nur ihre Haare. Die Nägel der rechten Hand sind dunkelrot lackiert."
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -296,6 +296,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Gender Health Gap: \"Es fehlt an Grundlagenforschung\"",
+      "teaser": "Während es von Männern viele Daten gibt, durften Frauen an klinischen Studien lange Zeit nicht teilnehmen. Wie und warum sich das jetzt ändert.",
+      "url": "https://www.heise.de/hintergrund/Gender-Health-Gap-Es-fehlt-an-Grundlagenforschung-10307808.html",
+      "image_title": "Frau sitzt auf dem Sofa und kippt mehrere Paracetamol-Tabletten in ihre Hand, ihr Kopf ist nicht zu sehen, nur ihre Haare. Die Nägel der rechten Hand sind dunkelrot lackiert."
     },
     {
       "title": "Superschnelle MicroSD-Speicherkarten im Test",
@@ -365,15 +371,15 @@
       "image_title": "Die neue Sofortbildkamera TTArtisan 203T steht auf einem Holztisch."
     },
     {
+      "title": "Wie KI den IT-Betrieb neu erfindet und zukunftssicher macht",
+      "teaser": "Wie bleibt Ihr Unternehmen angesichts sich ständig weiterentwickelnder Bedrohungen sicher und widerstandsfähig? Wie lässt sich der Betrieb gleichzeitig effizienter gestalten? Erfahren Sie im Live-Webcast am 27.03. um 11 Uhr, wie KI dies ermöglicht.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/wie-ki-den-it-betrieb-neu-erfindet-und-zukunftssicher-macht-4888/?source=hbsad-ersatz"
+    },
+    {
       "title": "Arztpraxen können Infektionskrankheiten nun über DEMIS-Portal melden",
       "teaser": "Das Robert Koch-Institut gibt sein Deutsches Elektronisches Melde- und Informationssystem für den Infektionsschutz auch für die Nutzung durch Arztpraxen frei.",
       "url": "https://www.heise.de/news/Arztpraxen-koennen-Infektionskrankheiten-nun-ueber-DEMIS-Portal-melden-10308622.html",
       "image_title": "Person an einem Smartphone. Im Hintergrund medizinische Symbole. Dominiernde Farben sind Blau und Grün."
-    },
-    {
-      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
-      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
     },
     {
       "title": "RISC-V statt x86 und ARM: EU fördert Prozessorentwicklung",
@@ -425,12 +431,6 @@
       "title": "\"Leipzig lauscht\": Neues Festival für Podcasts",
       "teaser": "Die deutsche Audio-Branche bekommt ein neues Festivalformat: Bei \"Leipzig lauscht\" am 15. und 16. März 2025 sind auch zwei heise-Formate vertreten.",
       "url": "https://www.heise.de/news/Neues-Podcast-Festival-mit-c-t-uplink-und-kurz-informiert-10307013.html"
-    },
-    {
-      "title": "UpdateOutlook-Problemem für iOS-Nutzer dauern an",
-      "teaser": "Wer über iOS auf seine Outlook-Mails zugreifen will, kann das unter Umständen nicht. Microsoft kämpft weiterhin mit technischen Problemen.",
-      "url": "https://www.heise.de/news/Wieder-Outlook-Probleme-Diesmal-trifft-es-iOS-Nutzer-10308348.html",
-      "image_title": "Apple Mail auf einem iPhone"
     },
     {
       "title": "Akira-Ransomware schlüpft über Webcam an IT-Schutzlösung vorbei",
@@ -626,12 +626,6 @@
       "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
     },
     {
-      "title": "ESP32-Projekt: Herzschlaganzeige über Bluetooth im Selbstbau",
-      "teaser": "Ein ESP32 empfängt den Puls per BLE von einem beliebigen Brustgurt und lässt LEDs im Takt aufleuchten. Ein Vibrationsmotor sorgt für spürbare Herzschläge.",
-      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Herzschlaganzeige-ueber-Bluetooth-im-Selbstbau-10294788.html",
-      "image_title": ","
-    },
-    {
       "title": "Neues Compute Module 4Raspi 4 für den Winter",
       "teaser": "Raspberry Pi bringt eine spezielle Variante des Raspberry Pi 4 Compute Modules für extreme Temperaturen auf den Markt.",
       "url": "https://www.heise.de/news/Compute-Module-4-fuer-Extremwetter-10305102.html"
@@ -643,15 +637,15 @@
       "image_title": "Anzeige \"Attack successful\""
     },
     {
+      "title": "WOPR-Display: SHALL WE PLAY A GAME?",
+      "teaser": "Viele Filmfans und Computer-Nerds lieben den Film \"WarGames\". Nun kann man ein Display wie in der Code-Knack-Szene selbst besitzen. Natürlich IoT-fähig.",
+      "url": "https://www.heise.de/news/WOPR-Display-SHALL-WE-PLAY-A-GAME-10303918.html",
+      "image_title": "WOPR Film Prop Display"
+    },
+    {
       "title": "Frost, Eisblumen und menschenleere Natur: Die Bilder der Woche 8",
       "teaser": "Diese Woche stehen noch einmal Eis und klirrende Kälte im Fokus, bevor der Frühling Einzug hält – von beeindruckenden Eislagunen bis hin zu Eiskristallen.",
       "url": "https://www.heise.de/news/Frost-Eisblumen-und-menschenleere-Natur-Die-Bilder-der-Woche-8-10298902.html"
-    },
-    {
-      "title": "\"Made in Germany\" und seine Bedeutung im Fotosektor",
-      "teaser": "\"Made in Germany\" hat bis heute einen besonderen Klang. Welche Firmen aus dem Fotobereich produzieren eigentlich noch in Deutschland?",
-      "url": "https://www.heise.de/hintergrund/Made-in-Germany-und-seine-Bedeutung-im-Fotosektor-10304920.html",
-      "image_title": ", KI-generiert; bearbeitet von Heise Medienwerk"
     },
     {
       "title": "Neue Sofortbildkameras von Polaroid: Now und Now+",
@@ -663,6 +657,12 @@
       "teaser": "\"Man kann kein Lächeln über zehn Sekunden halten, dann wird das zur Grimasse\", sagt der Nassplattenfotograf Thilo Nass.",
       "url": "https://www.heise.de/news/Von-Nassplatten-und-Silbersalzen-Neue-Podcast-Folge-Anfaenge-der-Fotografie-10296703.html",
       "image_title": "Porträt auf Kollodium-Nassplatte"
+    },
+    {
+      "title": "Bildgestaltung: Wie man fotografische Akzente setzt",
+      "teaser": "Akzente sind ein wesentlicher Bildbestandteil. Bei der Bildkomposition ist es wichtig bildrelevante zu finden und ablenkende auszuklammern.",
+      "url": "https://www.heise.de/ratgeber/Bildgestaltung-Wie-man-fotografische-Akzente-setzt-10285888.html",
+      "image_title": "Ein gutes Foto sollte klar und aufgeräumt sein, sich also auf die wesentlichen Bildelemente konzentrieren., Kevin Wolf"
     },
     {
       "title": "DeepSeek-R1: Die Technik hinter dem Hype",
@@ -739,22 +739,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Warum dieser Krieg der Ukraine verloren ist",
-      "teaser": "Drei Jahre nach Kriegsbeginn steht die Ukraine vor dem Aus. Trump stoppt US-Militärhilfen und Geheimdienstinfos. Was für das Land und die EU bedeutet. Ein Telepolis-Leitartikel.",
-      "url": "https://www.heise.de/tp/features/Warum-dieser-Krieg-der-Ukraine-verloren-ist-10306555.html",
-      "image_title": "Ein junger steht in einer Ruine, die ukrainische Fahne über den Schultern"
+      "title": "Verkehrte Welt: Die USA wollen Entspannung, die Europäer Krieg",
+      "teaser": "Trump spricht mit Putin über Waffenstillstand. Die EU ist entsetzt und reagiert mit Aufrüstung. Ist die Welt verrückt geworden? Eine Einordnung. (Teil 1)",
+      "url": "https://www.heise.de/tp/features/Verkehrte-Welt-Die-USA-wollen-Entspannung-die-Europaeer-Krieg-10308672.html",
+      "image_title": "Der ukrainische Präsident Wolodymyr Selenskyj beim EU-Gipfel in Brüssel mit EU-Kommissionspräsidentin Ursula von der Leyen, 6.3.2025."
     },
     {
-      "title": "Mammut 2.0? Forscher züchten Mäuse mit wolligem Fell",
-      "teaser": "US-Genforschern gelingt ein Durchbruch bei der Mammut-Wiederbelebung. Sie erzeugten Mäuse mit lockigem Fell. Doch der Weg zum echten Mammut birgt Hürden.",
-      "url": "https://www.heise.de/tp/features/Mammut-2-0-Forscher-zuechten-Maeuse-mit-wolligem-Fell-10304814.html",
-      "image_title": "Zwei Mäuse auf einer Hand"
+      "title": "USA verschärfen Handelskrieg gegen Chinas Werften",
+      "teaser": "Bis zu 1,5 Millionen Dollar soll das Anlegen in US-Häfen für Schiffe aus chinesischer Produktion kosten. Besonders die griechischen Reeder, die stark auf China setzen, müssen nun zittern.",
+      "url": "https://www.heise.de/tp/features/USA-verschaerfen-Handelskrieg-gegen-Chinas-Werften-10305259.html",
+      "image_title": "Freiheitsstatue verlangt Geld von Handelsschiff"
     },
     {
-      "title": "Bauträume platzen durch neue CDU-Schuldenpläne",
-      "teaser": "CDU-Pläne für neue Staatsschulden erschüttern die Finanzmärkte. Die Renditen für Bundesanleihen steigen stark, was den Traum vom Eigenheim für viele gefährden könnte.",
-      "url": "https://www.heise.de/tp/features/Bautraeume-platzen-durch-neue-CDU-Schuldenplaene-10306473.html",
-      "image_title": "Der Anstieg der zehnjährigen Staatsanleihen lässt auch Bauzinsen in die Höhe schnellen."
+      "title": "Allianz der \"ethnischen Säuberung\"?",
+      "teaser": "Israelische Tageszeitung blickt mit Bedenken auf Wahlerfolge von CDU/CSU und AfD. Warnung vor einer \"fehlgeleiteten\" Staatsräson, die völkerrechtswidrigen Expansionismus befördert.",
+      "url": "https://www.heise.de/tp/features/Allianz-der-ethnischen-Saeuberung-10306500.html",
+      "image_title": "Der alte und der designierte neue Bundeskanzler: Olaf Scholz und Friedrich Merz im deutschen Bundestag"
     },
     {
       "title": "[Werbung] Internxt: Einmal zahlen und lebenslangen Cloud-Speicher erhalten",
