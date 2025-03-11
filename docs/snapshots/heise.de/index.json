@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-11T03:20:48",
+  "timestamp": "2025-03-11T04:11:47",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "US Supreme Court: IBM bleibt Vertragsstrafe in Milliardenhöhe erspart",
+      "url": "https://www.heise.de/news/US-Supreme-Court-IBM-bleibt-Vertragsstrafe-in-Milliardenhoehe-erspart-10311196.html"
+    },
     {
       "title": "Social-Media-Beschwerdezentrum entscheidet in Mehrheit der Fälle gegen Facebook",
       "url": "https://www.heise.de/news/Social-Media-Beschwerdezentrum-entscheidet-in-Mehrheit-der-Faelle-gegen-Facebook-10311038.html"
@@ -60,10 +64,6 @@
     {
       "title": "Magische Bilder: ChromaDepth in der Fotografie einsetzen",
       "url": "https://www.heise.de/ratgeber/Magische-Bilder-ChromaDepth-in-der-Fotografie-einsetzen-10284849.html"
-    },
-    {
-      "title": "Bessere KI-Siri: Bremsten Prompt Injections Apples Zeitplan?",
-      "url": "https://www.heise.de/news/Bessere-KI-Siri-Bremsten-Prompt-Injections-Apples-Zeitplan-10310934.html"
     },
     {
       "title": "UpdateTwitter downWiederholte Störungen beim Kurznachrichtendienst X",
@@ -185,21 +185,27 @@
       "image_title": "Auf einer Tastatur liegt ein Stapel Plastikkarten; die oberste, eine Kreditkarte, hängt an einem Angelhaken"
     },
     {
+      "title": "US Supreme Court: IBM bleibt Vertragsstrafe in Milliardenhöhe erspart",
+      "teaser": "Der US-Softwareriese IBM kommt um eine Strafzahlung in Höhe von 1,6 Milliarden US-Dollar herum, nachdem der US Supreme Court eine Anhörung ablehnt.",
+      "url": "https://www.heise.de/news/US-Supreme-Court-IBM-bleibt-Vertragsstrafe-in-Milliardenhoehe-erspart-10311196.html",
+      "image_title": "Klassizistisches Gebäude, davor Springbrunnen"
+    },
+    {
       "title": "Social-Media-Beschwerdezentrum entscheidet in Mehrheit der Fälle gegen Facebook",
       "teaser": "Seit Januar hat die Schlichtungsstelle Appeals Centre Europe über 150 Entscheidungen zu Inhalten auf sozialen Netzwerken gefällt – oft zugunsten der Nutzer.",
       "url": "https://www.heise.de/news/Social-Media-Beschwerdezentrum-entscheidet-in-Mehrheit-der-Faelle-gegen-Facebook-10311038.html",
       "image_title": "Facebook auf den Smartphone"
     },
     {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Bericht: Apple baut User Interfaces radikal um",
       "teaser": "iOS, macOS und iPadOS sollen bald so ähnlich ausschauen, wie visionOS. Das haben Insider verraten. Für iPhones wäre es der größte Umbau seit 2013.",
       "url": "https://www.heise.de/news/Apple-soll-User-Interfaces-umbauen-10311180.html",
       "image_title": "Künstlerisch verfremdetes Apple-Logo"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "\"Zeitbombe\" in Code versteckt: Entwickler verurteilt",
@@ -231,12 +237,6 @@
       "image_title": "Chipstrukturen auf Silizium-Wafer"
     },
     {
-      "title": "Saudi Arabien: Neom-Führung soll hohe Kosten vertuscht haben",
-      "teaser": "Das Siedlungsprojekt Neom mit der Bandstadt The Line in Saudi-Arabien ist umstritten. Es droht zum finanziellen Desaster zu werden.",
-      "url": "https://www.heise.de/news/Saudi-Arabien-Neom-Fuehrung-soll-hohe-Kosten-vertuscht-haben-10310981.html",
-      "image_title": "Künstlerische Darstellung von The Line"
-    },
-    {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
       "teaser": "Eine PV-Anlage ist eine kostspielige Investition. Es gibt mehrere Möglichkeiten, die abzumildern. Spannend ist das vor allem bei einer bestehenden PV-Pflicht.",
       "url": "https://www.heise.de/ratgeber/Einspeiseverguetung-und-Foerderung-Was-kuenftige-PV-Anlagenbesitzer-wissen-muessen-10241387.html",
@@ -262,12 +262,8 @@
       "url": "https://www.heise.de/news/Europa-entwickelt-Laserwaffen-10304071.html"
     },
     {
-      "title": "Briefzustellung der dänischen Post wird Ende 2025 eingestellt",
-      "url": "https://www.heise.de/news/Briefzustellung-in-Daenemark-wird-Ende-2025-eingestellt-10307090.html"
-    },
-    {
-      "title": "Schlanke Notizen-Apps für den Alltag: Notable, Tot, Simplenote und Joplin",
-      "url": "https://www.heise.de/ratgeber/Schlanke-Notizen-Apps-fuer-den-Alltag-Notable-Tot-Simplenote-und-Joplin-10298135.html"
+      "title": "Eutelsat bietet sich als Ersatz für Starlink in der Ukraine an",
+      "url": "https://www.heise.de/news/Eutelsat-bietet-sich-als-Ersatz-fuer-Starlink-in-der-Ukraine-an-10309279.html"
     },
     {
       "title": "Home Assistant: Dashboard für Smart Home auf altem Amazon Kindle anzeigen",
@@ -276,6 +272,10 @@
     {
       "title": "iPhone 16e im Test",
       "url": "https://www.heise.de/tests/iPhone-16e-im-Test-Mehr-iPhone-fuer-Einsteiger-10303222.html"
+    },
+    {
+      "title": "Schlanke Notizen-Apps für den Alltag: Notable, Tot, Simplenote und Joplin",
+      "url": "https://www.heise.de/ratgeber/Schlanke-Notizen-Apps-fuer-den-Alltag-Notable-Tot-Simplenote-und-Joplin-10298135.html"
     },
     {
       "title": "Tempolimit: Raser können sich nicht auf unklare Beschilderung berufen",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Saudi Arabien: Neom-Führung soll hohe Kosten vertuscht haben",
+      "teaser": "Das Siedlungsprojekt Neom mit der Bandstadt The Line in Saudi-Arabien ist umstritten. Es droht zum finanziellen Desaster zu werden.",
+      "url": "https://www.heise.de/news/Saudi-Arabien-Neom-Fuehrung-soll-hohe-Kosten-vertuscht-haben-10310981.html",
+      "image_title": "Künstlerische Darstellung von The Line"
     },
     {
       "title": "Magische Bilder: ChromaDepth in der Fotografie einsetzen",
@@ -371,15 +377,15 @@
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
+      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
+      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
+    },
+    {
       "title": "Leica Lux Grip im Test: Wetzlar-Vibes für die iPhone-Kamera",
       "teaser": "Der Kameragriff Lux Grip des deutschen Herstellers Leica verleiht iPhones mit installierter Lux-App den Charakter einer Digitalkamera. Lohnt sich das?",
       "url": "https://www.heise.de/tests/Leica-Lux-Grip-im-Test-Wetzlar-Vibes-fuer-die-iPhone-Kamera-10306317.html",
       "image_title": "Leica Lux Grip mit iPhone 16 Plus"
-    },
-    {
-      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
-      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
     },
     {
       "title": "Wissensvermittlung im Bereich 3D-Drucker: FabLab bekommt Hochschulperle",
@@ -433,33 +439,18 @@
       "image_title": "Screenshot aus \"Death Stranding 2\""
     },
     {
-      "title": "\"Von Feinden genutzt\": Telegram in Dagestan und Tschetschenien gesperrt",
-      "teaser": "Telegram ist seit dem Wochenende in zwei russischen Teilrepubliken nicht mehr benutzbar. Zur Begründung wird auf einen Vorfall aus dem Jahr 2023 verwiesen.",
-      "url": "https://www.heise.de/news/Von-Feinden-genutzt-Telegram-in-Dagestan-und-Tschetschenien-gesperrt-10310000.html",
-      "image_title": "Logo von Telegram auf einem Smartphone, das auf einer rot leuchtenden Tastatur liegt"
-    },
-    {
-      "title": "Eutelsat bietet sich als Ersatz für Starlink in der Ukraine an",
-      "url": "https://www.heise.de/news/Eutelsat-bietet-sich-als-Ersatz-fuer-Starlink-in-der-Ukraine-an-10309279.html",
-      "image_title": "Darstellung eines OneWeb-Satelliten mit ausgefalteten Solarpanelen im Erdorbit"
-    },
-    {
       "title": "Finanzhof: DSGVO-Auskunftsrecht greift auch bei \"unverhältnismäßigem Aufwand\"",
       "url": "https://www.heise.de/news/Finanzhof-DSGVO-Auskunftsrecht-greift-auch-bei-unverhaeltnismaessigem-Aufwand-10309249.html",
       "image_title": "Europa,Dsgvo,-,3d,Illustration,With,Blue,Backdrop"
     },
     {
+      "title": "Whistleblower: Facebook wollte China Zensur ermöglichen",
+      "url": "https://www.heise.de/news/Whistleblower-Facebook-wollte-China-Zensur-ermoeglichen-10309763.html",
+      "image_title": "Screenshot aus Facebook"
+    },
+    {
       "title": "Missing Link: Die PC-Graswurzelbewegung trifft sich in einer Garage",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Homebrew-Computer-Club-Keimzelle-der-digitalen-Revolution-10308909.html"
-    },
-    {
-      "title": "Raumsonde: Hersteller erklärt Athena nach Umkippen auf dem Mond für \"tot\"",
-      "url": "https://www.heise.de/news/Raumsonde-Hersteller-erklaert-Athena-nach-Umkippen-auf-dem-Mond-fuer-tot-10309471.html"
-    },
-    {
-      "title": "Vor 20 Jahren: heise online legt sich mit der Musikindustrie an",
-      "url": "https://www.heise.de/news/Vor-20-Jahren-heise-online-legt-sich-mit-der-Musikindustrie-an-10307397.html",
-      "image_title": "BGH"
     },
     {
       "title": "Ålesund: Wie die \"schönste Stadt Norwegens\" versucht, dem Verkehr Herr zu werden",
@@ -467,18 +458,32 @@
       "image_title": "Aussichtspunkt in Ålesund mit Besucherin"
     },
     {
+      "title": "Raumsonde: Hersteller erklärt Athena nach Umkippen auf dem Mond für \"tot\"",
+      "url": "https://www.heise.de/news/Raumsonde-Hersteller-erklaert-Athena-nach-Umkippen-auf-dem-Mond-fuer-tot-10309471.html"
+    },
+    {
+      "title": "Digital-Index: Große Kluft zwischen KI-Nutzern und Abstinenzlern in der Republik",
+      "url": "https://www.heise.de/news/Digital-Index-Grosse-Kluft-zwischen-KI-Nutzern-und-Abstinenzlern-in-der-Republik-10309545.html",
+      "image_title": "Ältere Person am Smartphone"
+    },
+    {
       "title": "Die Rückkehr der Film- und Serien-Piraten | c’t uplink",
       "url": "https://www.heise.de/news/Die-Rueckkehr-der-Film-und-Serien-Piraten-c-t-uplink-10306323.html"
     },
     {
-      "title": "GPS in der Krise: FCC sucht neue Verfahren",
-      "url": "https://www.heise.de/news/USA-suchen-Alternative-zu-GPS-10307469.html",
-      "image_title": "Flugzeug-Cockpit mit digitaler Landkarte"
+      "title": "Apple Intelligence: Apple muss schlauere Siri verschieben, löscht Werbevideo",
+      "url": "https://www.heise.de/news/Apple-Intelligence-Apple-muss-schlauere-Siri-verschieben-loescht-Werbevideo-10309845.html",
+      "image_title": "Apples Siri"
     },
     {
-      "title": "Apple Intelligence demnächst im App Store",
-      "url": "https://www.heise.de/news/Apple-Intelligence-demnaechst-im-App-Store-10307312.html",
-      "image_title": "App-Store-Icon vor wolkigem Hintergrund"
+      "title": "\"Von Feinden genutzt\": Telegram in Dagestan und Tschetschenien gesperrt",
+      "url": "https://www.heise.de/news/Von-Feinden-genutzt-Telegram-in-Dagestan-und-Tschetschenien-gesperrt-10310000.html",
+      "image_title": "Logo von Telegram auf einem Smartphone, das auf einer rot leuchtenden Tastatur liegt"
+    },
+    {
+      "title": "Motorrad Ducati XDiavel V4: Rasant aus dem Stand",
+      "url": "https://www.heise.de/news/Motorrad-Ducati-XDiavel-V4-Rasant-aus-dem-Stand-10304083.html",
+      "image_title": "Ducati XDiavel V4"
     },
     {
       "title": "Neue VR-Brillen 2025: Welche Geräte sind zu erwarten?",
@@ -486,13 +491,9 @@
       "image_title": "Kind arbeitet mit VR-Brille im Unterricht"
     },
     {
-      "title": "Frost, Eisblumen und menschenleere Natur: Die Bilder der Woche 8",
-      "url": "https://www.heise.de/news/Frost-Eisblumen-und-menschenleere-Natur-Die-Bilder-der-Woche-8-10298902.html"
-    },
-    {
-      "title": "\"Raubrittertum\" beendet: ProSiebenSat.1 entfernt ARD und ZDF aus Joyn",
-      "url": "https://www.heise.de/news/Mediatheken-von-ARD-und-ZDF-nicht-mehr-bei-Joyn-10307559.html",
-      "image_title": "Screenshot von ARD-Mediathek auf Joyn"
+      "title": "Eigene Streamingplattform: Automatisierte Piraterie auf Heimservern",
+      "url": "https://www.heise.de/ratgeber/Eigene-Streamingplattform-Automatisierte-Piraterie-auf-Heimservern-installieren-10294388.html",
+      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "Größter Diebstahl der Geschichte: Bybit nutzte Freeware und wurde dadurch Opfer",
@@ -505,9 +506,9 @@
       "image_title": "Porsche"
     },
     {
-      "title": "Payback wächst – Edeka bringt zwei Millionen neue Kunden",
-      "url": "https://www.heise.de/news/Payback-waechst-Edeka-bringt-zwei-Millionen-neue-Kunden-10309448.html",
-      "image_title": "Payback"
+      "title": "Trotz beschlossenem Sparkurs: VW-Angestellte bekommen volle Prämie",
+      "url": "https://www.heise.de/news/Trotz-Sparkurs-VW-Mitarbeiter-bekommen-volle-Praemie-10309841.html",
+      "image_title": "VW Produktion"
     },
     {
       "title": "Google und BSI arbeiten an sicheren Cloud-Lösungen für die öffentliche Hand",
@@ -520,22 +521,23 @@
       "image_title": "Ethereum,Coin,On,An,Computer,Motherboard"
     },
     {
-      "title": "Apple soll weitere App Stores für iOS erlauben: Brasilien setzt 90 Tage Frist",
-      "url": "https://www.heise.de/news/Apple-soll-Sideloading-in-Brasilien-erlauben-Gericht-setzt-90-Tage-Frist-10309489.html",
-      "image_title": "App-Store-Icon vor wolkigem Hintergrund"
+      "title": "Nachdem KI-generiertes Video viral geht: Scarlett Johansson fordert Regulierung",
+      "url": "https://www.heise.de/news/Nachdem-KI-generiertes-Video-viral-geht-Scarlett-Johansson-fordert-Regulierung-10280603.html",
+      "image_title": "Scarlett Johansson"
+    },
+    {
+      "title": "Montag: Raumsonde des Space Force zurück, Negativrekord bei Bahn-Entschädigungen",
+      "url": "https://www.heise.de/news/Montag-Raumsonde-des-Space-Force-zurueck-Negativrekord-bei-Bahn-Entschaedigungen-10309759.html",
+      "image_title": "US-Raumgleiter über wolkenbedeckter Erde; Montag: Raumgleiter-Mission, Bahn-Rückzahlungen, KI-Nutzung, Bluetooth-Sicherheitsleck & Tourismus-Verkehrsprojekt"
     },
     {
       "title": "Wieder Smartphone-Wechseloptik und viel Sofortbild – Fotonews der Woche 10/2025",
       "url": "https://www.heise.de/news/Wieder-Smartphone-Wechseloptik-und-viel-Sofortbild-die-Fotonews-der-Woche-10309609.html"
     },
     {
-      "title": "#TGIQF: Das elementare Quiz",
-      "url": "https://www.heise.de/news/TGIQF-Das-elementare-Quiz-10308204.html"
-    },
-    {
-      "title": "Auslegungssache 129: Teure Falle E-Mail?",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-129-Teure-Falle-E-Mail-10306286.html",
-      "image_title": "Joerg Heidrich (links oben), Sylvester Tremmel (rechts oben) und Holger Bleich (unten)"
+      "title": "Briefzustellung der dänischen Post wird Ende 2025 eingestellt",
+      "url": "https://www.heise.de/news/Briefzustellung-in-Daenemark-wird-Ende-2025-eingestellt-10307090.html",
+      "image_title": "Briefkasten"
     },
     {
       "title": "Live Fragen stellenheise+ Expertentalk: Jobs in der IT-Branche",
@@ -587,20 +589,21 @@
       "image_title": "Illustration of a OneWeb satellite with unfolded solar panels in Earth orbit"
     },
     {
-      "title": "DeepSeek challenger: Alibaba Qwen can now also \"think\"",
-      "url": "https://www.heise.de/en/news/DeepSeek-challenger-Alibaba-Qwen-can-now-also-think-10308737.html"
-    },
-    {
       "title": "Undocumented commands tear security hole in ESP32 Bluetooth",
-      "url": "https://www.heise.de/en/news/Undocumented-commands-tear-security-hole-in-ESP32-Bluetooth-10309566.html"
-    },
-    {
-      "title": "How a town in Texas is fighting back against Amazon's delivery drones",
-      "url": "https://www.heise.de/en/news/How-a-town-in-Texas-is-fighting-back-against-Amazon-s-delivery-drones-10304470.html"
+      "url": "https://www.heise.de/en/news/Undocumented-commands-tear-security-hole-in-ESP32-Bluetooth-10309566.html",
+      "image_title": "Diverse µC-Boards, ESP32, STM32, Arduino Nano und mehr"
     },
     {
       "title": "Apple to allow sideloading in Brazil: Court sets 90-day deadline",
       "url": "https://www.heise.de/en/news/Apple-to-allow-sideloading-in-Brazil-Court-sets-90-day-deadline-10309506.html"
+    },
+    {
+      "title": "Biggest theft in history: Bybit used freeware and became a victim as a result",
+      "url": "https://www.heise.de/en/news/Biggest-theft-in-history-Bybit-used-freeware-and-became-a-victim-as-a-result-10309268.html"
+    },
+    {
+      "title": "Saudi Arabia: Neom management allegedly covered up high costs",
+      "url": "https://www.heise.de/en/news/Saudi-Arabia-Neom-management-allegedly-covered-up-high-costs-10311051.html"
     },
     {
       "title": "Neun Raw-Entwickler für Windows, macOS und Linux im Test",
@@ -609,15 +612,15 @@
       "image_title": ", !!!"
     },
     {
-      "title": "Mediatheken-Perlen finden, schauen und archivieren – auch aus dem Ausland",
-      "teaser": "Über den Rundfunkbeitrag hat man Zugriff auf die Mediatheken der öffentlich-rechtlichen Sender. Mit den richtigen Tools lässt sich ein Medienportal anlegen.",
-      "url": "https://www.heise.de/ratgeber/Mediatheken-Perlen-finden-schauen-und-archivieren-auch-aus-dem-Ausland-10293407.html",
+      "title": "Status quo beim Streaming illegaler Medien",
+      "teaser": "Sogenannte Piracy-Add-ons machen aus handelsüblichen Android-Streamingboxen und Fire-TV-Sticks Filmabspieler für illegal beschaffte Medien. Ein Überblick.",
+      "url": "https://www.heise.de/ratgeber/Status-quo-beim-Streaming-illegaler-Medien-10286183.html",
       "image_title": ", KI, Collage c’t"
     },
     {
-      "title": "Eigene Streamingplattform: Automatisierte Piraterie auf Heimservern",
-      "teaser": "Film- und Serienpiraten haben die Trends der Softwareentwicklung verinnerlicht und zimmern auf ihren Heimservern ein privates Netflix unter schwarzer Flagge.",
-      "url": "https://www.heise.de/ratgeber/Eigene-Streamingplattform-Automatisierte-Piraterie-auf-Heimservern-installieren-10294388.html",
+      "title": "Mediatheken-Perlen finden, schauen und archivieren – auch aus dem Ausland",
+      "teaser": "Über den Rundfunkbeitrag hat man Zugriff auf die Mediatheken der öffentlich-rechtlichen Sender. Mit den richtigen Tools lässt sich ein Medienportal anlegen.",
+      "url": "https://www.heise.de/ratgeber/Mediatheken-Perlen-finden-schauen-und-archivieren-auch-aus-dem-Ausland-10293407.html",
       "image_title": ", KI, Collage c’t"
     },
     {
@@ -627,16 +630,16 @@
       "image_title": "Hazel auf dem Mac"
     },
     {
+      "title": "Leica Lux Grip im Test: Wetzlar-Vibes für die iPhone-Kamera",
+      "teaser": "Der Kameragriff Lux Grip des deutschen Herstellers Leica verleiht iPhones mit installierter Lux-App den Charakter einer Digitalkamera. Lohnt sich das?",
+      "url": "https://www.heise.de/tests/Leica-Lux-Grip-im-Test-Wetzlar-Vibes-fuer-die-iPhone-Kamera-10306317.html",
+      "image_title": "Leica Lux Grip mit iPhone 16 Plus"
+    },
+    {
       "title": "Was passt zum Mac?Extrabreite Displays im Test",
       "teaser": "Monitore mit überbreiten Seitenverhältnissen bieten mehr Arbeitsfläche als Apple-Bildschirme. So behält man viele Fenster im Blick.",
       "url": "https://www.heise.de/tests/Extrabreite-Displays-im-Test-Was-passt-zum-Mac-10268980.html",
       "image_title": "Ultrawide-Display von LG"
-    },
-    {
-      "title": "Statistik mit Numbers: So geht das mit Apples Tabellenkalkulation",
-      "teaser": "Es muss nicht immer Excel sein: Apples Tabellenkalkulation eignet sich gut für Einsteiger, um Umsatzergebnisse oder Personaldaten auszuwerten – und vieles mehr.",
-      "url": "https://www.heise.de/ratgeber/Statistik-mit-Numbers-So-geht-das-mit-Apples-Tabellenkalkulation-10293893.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
     },
     {
       "title": "ESP32-Projekt: Herzschlaganzeige über Bluetooth im Selbstbau",
@@ -694,18 +697,6 @@
       "url": "https://www.heise.de/hintergrund/IT-Security-Verdeckt-angreifen-mit-Beacon-Object-Files-10277655.html"
     },
     {
-      "title": "Trotz beschlossenem Sparkurs: VW-Angestellte bekommen volle Prämie",
-      "teaser": "VW hat sich einen harten Sanierungskurs verordnet. Mitarbeiter sollen trotzdem keine Einbußen bei der jährlichen Prämie haben – zumindest vorerst.",
-      "url": "https://www.heise.de/news/Trotz-Sparkurs-VW-Mitarbeiter-bekommen-volle-Praemie-10309841.html",
-      "image_title": "VW Produktion"
-    },
-    {
-      "title": "Was es zum Autofahren wirklich brauchtTest Dacia Sandero Stepway",
-      "teaser": "Kein Neuwagen wird in Europa derzeit häufiger gekauft als der Dacia Sandero. Hat der Kleinwagen mehr zu bieten als einen konkurrenzlosen Preis?",
-      "url": "https://www.heise.de/tests/Test-Dacia-Sandero-Stepway-Was-es-zum-Autofahren-wirklich-braucht-10300456.html",
-      "image_title": "Dacia Sandero Stepway"
-    },
-    {
       "title": "UpdateStrom aus der SäuleLadetarife für Elektroautos im Vergleich",
       "teaser": "Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr.",
       "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html",
@@ -716,6 +707,18 @@
       "teaser": "Hyundai und Avride haben eine Partnerschaft geschlossen, um gemeinsam Robotaxis zu bauen. Noch in diesem Jahr sollen erste Fahrzeuge eingesetzt werden.",
       "url": "https://www.heise.de/news/Kooperation-Hyundai-baut-zusammen-mit-Avride-Robotaxis-10307541.html",
       "image_title": "Selbstfahrendes Fahrzeug von Avride"
+    },
+    {
+      "title": "Regelwidrigkeiten vermutetKartellamt untersucht Kraftstoffhandel",
+      "teaser": "Das Bundeskartellamt verdächtigt nach strukturellen Regelwidrigkeiten den Kraftstoffgroßhandel und leitet ein Verfahren ein. Ein neues Instrument könnte helfen.",
+      "url": "https://www.heise.de/news/Bundeskartellamt-untersucht-Kraftstoffgrosshandel-nach-Regelwidrigkeiten-10306919.html",
+      "image_title": "Tankstelle"
+    },
+    {
+      "title": "Autonome AutosMaserati knackt Geschwindigkeitsrekord",
+      "teaser": "Ein KI-gestützt fahrender Maserati MC20 hat den Geschwindigkeitsrekord für autonome Serienfahrzeuge aufgestellt.",
+      "url": "https://www.heise.de/news/Autonomer-Maserati-knackt-Geschwindigkeitsrekord-10305955.html",
+      "image_title": "Maserati MC20"
     },
     {
       "title": "Ein Experiment zeigt: Homeoffice kann die Karriere gefährden",
@@ -753,10 +756,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Zahlen statt Hysterie: Was Russland wirklich kann – und was nicht",
-      "teaser": "Russland bedroht Europa – diese Angst sitzt tief. Doch die Zahlen sprechen eine andere Sprache. Was also steht hinter den Warnungen vor einer Expansion? (Teil 2 und Schluss)",
-      "url": "https://www.heise.de/tp/features/Zahlen-statt-Hysterie-Was-Russland-wirklich-kann-und-was-nicht-10309092.html",
-      "image_title": "Manöver lettischer Soldaten an der Nähe der russischen Grenze, Juni 2024."
+      "title": "Totaler Bitcoin-Crash? Experten warnen vor Kurssturz auf 70.000",
+      "teaser": "Bitcoin-Kurs ist am Montag um 3,7 Prozent eingebrochen. Schuld sind der US-chinesische Zollstreit und die Politik der Fed. Experten sehen bereits die nächste Kursmarke wackeln.",
+      "url": "https://www.heise.de/tp/features/Totaler-Bitcoin-Crash-Experten-warnen-vor-Kurssturz-auf-70-000-10310538.html",
+      "image_title": "Foto von golden Bitcoin, Haufen von Münzen auf schwarzer reflektierender Fläche. Ein Chart im Hintergrund zeigt fallende Peise."
     },
     {
       "title": "Regierungsbildung: Durchbruch bei Sondierungsgesprächen zwischen Union und SPD",
@@ -765,10 +768,10 @@
       "image_title": "Von Gegnern zu Partnern: noch Bundeskanzler, Olaf Scholz und der künftige Kanzler Friedrich Merz."
     },
     {
-      "title": "Der Mythos vom kriminellen Ausländer",
-      "teaser": "Eine Studie des Ifo-Instituts stellt fest, dass für das Risiko, kriminell zu werden, die Herkunft des Täters keine Rolle spielt. Doch welcher Faktor ist es dann?",
-      "url": "https://www.heise.de/tp/features/Der-Mythos-vom-kriminellen-Auslaender-10309557.html",
-      "image_title": "formatfüllende Hochhaussiedlung ohne Himmel"
+      "title": "Schlafmangel verändert Immunzellen binnen 24 Stunden",
+      "teaser": "Neue Studie zeigt: Schon 24 Stunden Schlafmangel verändern Immunzellen wie bei Übergewichtigen. Das kann Diabetes und Herzleiden begünstigen.",
+      "url": "https://www.heise.de/tp/features/Schlafmangel-veraendert-Immunzellen-binnen-24-Stunden-10309677.html",
+      "image_title": "Junge Frau mit Schlaflosigkeit, die Videos auf dem Handy anschaut, während sie nachts im Schlafzimmer im Bett liegt"
     },
     {
       "title": "Beste eSIM-Tarife für Südafrika (Urlaub & Reise)",
