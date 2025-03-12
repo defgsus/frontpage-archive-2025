@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-11T23:08:48",
+  "timestamp": "2025-03-12T00:44:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Microsoft stellt Remote Desktop App hastig ein",
+      "url": "https://www.heise.de/news/Microsoft-stellt-Remote-Desktop-App-hastig-ein-10312631.html"
+    },
     {
       "title": "Erster Serien-Computer mit menschlichen Hirnzellen ist erstaunlich günstig",
       "url": "https://www.heise.de/news/CL1-ist-erster-kommerzieller-Computer-mit-menschlichen-Hirnzellen-10312601.html"
@@ -60,10 +64,6 @@
     {
       "title": "Carsharing wächst auch in kleineren Kommunen",
       "url": "https://www.heise.de/news/Carsharing-waechst-auch-in-kleineren-Kommunen-10312429.html"
-    },
-    {
-      "title": "Blizzard bringt die Blizzcon erst 2026 zurück",
-      "url": "https://www.heise.de/news/Blizzard-bringt-die-Blizzcon-erst-2026-zurueck-10311419.html"
     },
     {
       "title": "Texas Instruments Mini-Mikrocontroller mit 8 Anschlüssen auf 1,38 Quadratmillimetern",
@@ -188,21 +188,27 @@
       "image_title": "Einplatinencomputer Orange Pi RV2"
     },
     {
+      "title": "Microsoft stellt Remote Desktop App hastig ein",
+      "teaser": "Ungewöhnlich rasch zieht Microsoft seine Remote Desktop App aus dem Verkehr. Der Konzern drängt zur Windows App, die aber speziell in Deutschland weniger kann.",
+      "url": "https://www.heise.de/news/Microsoft-stellt-Remote-Desktop-App-hastig-ein-10312631.html",
+      "image_title": "Microsoft-Schild an Grundstückseinfahrt"
+    },
+    {
       "title": "Erster Serien-Computer mit menschlichen Hirnzellen ist erstaunlich günstig",
       "teaser": "CL1 heißt der erste, kommerziell vertriebene Computer, in dem menschliche Gehirnzellen rechnen. Der Preis ist niedrig, die Lebenserwartung auch.",
       "url": "https://www.heise.de/news/CL1-ist-erster-kommerzieller-Computer-mit-menschlichen-Hirnzellen-10312601.html",
       "image_title": "Langgezogener weißer Kasten; oben ist er transparent, so dass Kabel, Schläuche und Bauteile zu sehen sind; rechts zeigt ein schwarzes Touchdisplay Temperatur sowie die Konzentration von CO2 und O2 an"
     },
     {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Glasfaser: Gutachter bringt fixes Abschaltdatum für Kupfernetze ins Spiel",
       "teaser": "Ein festes, für den deutschen Markt realistisches Kupfer-Aus würde diskriminierungsfreie Migration sicherstellen, heißt es in einem Wettbewerbsgutachten.",
       "url": "https://www.heise.de/news/Glasfaser-Gutachter-bringt-fixes-Abschaltdatum-fuer-Kupfernetze-ins-Spiel-10312549.html",
       "image_title": "Spitze eines Leitungsmastes aus Holz mit gespannter Telefonleitung in Sehnde, Deutschland"
-    },
-    {
-      "title": "KI: Unternehmen brauchen solides IT-Management",
-      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Beschriftungsgeräte und Etikettendrucker ab 10 Euro: Einfach, günstig, mit App",
@@ -230,12 +236,6 @@
       "title": "Carsharing wächst auch in kleineren Kommunen",
       "teaser": "In immer mehr Städten gibt es Carsharing-Angebote, in kleineren Kommunen oft von Genossenschaften. Sie wollen eine Alternative zum eigenen Auto bieten.",
       "url": "https://www.heise.de/news/Carsharing-waechst-auch-in-kleineren-Kommunen-10312429.html"
-    },
-    {
-      "title": "Blizzard bringt die Blizzcon erst 2026 zurück",
-      "teaser": "Die Blizzcon kommt zurück: Spieleentwickler Blizzard will seine Hausmesse wieder in Anaheim ausrichten – bis es so weit ist, dauert es aber noch.",
-      "url": "https://www.heise.de/news/Blizzard-bringt-die-Blizzcon-erst-2026-zurueck-10311419.html",
-      "image_title": "Menschenmenge auf Blizzcon"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -301,6 +301,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Blizzard bringt die Blizzcon erst 2026 zurück",
+      "teaser": "Die Blizzcon kommt zurück: Spieleentwickler Blizzard will seine Hausmesse wieder in Anaheim ausrichten – bis es so weit ist, dauert es aber noch.",
+      "url": "https://www.heise.de/news/Blizzard-bringt-die-Blizzcon-erst-2026-zurueck-10311419.html",
+      "image_title": "Menschenmenge auf Blizzcon"
     },
     {
       "title": "Verbraucher- und Datenschutz: EU und Südkorea schließen Digitalabkommen",
@@ -372,15 +378,15 @@
       "image_title": ", KI, Collage c’t"
     },
     {
+      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
+      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
+    },
+    {
       "title": "Dynatrace verspricht Entwicklern bessere Kontrolle über Datenbanken",
       "teaser": "Durch die Übernahme des israelischen Start-ups Metis verschafft sich Dynatrace KI-gestützte Observability-Tools zur Kontrolle und Optimierung von Datenbanken.",
       "url": "https://www.heise.de/news/Dynatrace-verspricht-Entwicklern-bessere-Kontrolle-ueber-Datenbanken-10311718.html",
       "image_title": "Datenstrukturen"
-    },
-    {
-      "title": "Cybersecurity 2025: Warum IT-Sicherheit ein solides Fundament benötigt",
-      "teaser": "Die Bedrohungslage wird sich auch 2025 weiter verschärfen. Unternehmen müssen daher ihre IT-Sicherheit kontinuierlich ausbauen. Das ist jedoch nur auf Basis einer soliden IT-Infrastruktur möglich.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/cybersecurity-2025-warum-it-sicherheit-ein-solides-fundament-benoetigt-4890/?source=hbsadersatz"
     },
     {
       "title": "London: Hundeleckerlis mit Fleisch aus dem Labor auf dem Markt",
@@ -433,12 +439,6 @@
       "teaser": "Mit neun Millionen Autos stagnierte 2024 der Absatz bei Volkswagen. Trotz des glimpflichen Einbruchs bei den Verkäufen sackte der Gewinn um fast ein Drittel ab.",
       "url": "https://www.heise.de/news/Autoindustrie-Gewinn-von-Volkswagen-bricht-um-fast-ein-Drittel-ein-10311624.html",
       "image_title": "VW ID.7"
-    },
-    {
-      "title": "Bericht: Apple arbeitet weiter an smarten Brillen ohne Display",
-      "teaser": "Apple würde die Vision Pro gerne miniaturisieren. Doch das ist nicht alles: Auch Smart Glasses ohne Display im Meta-Stil werden weiterhin untersucht.",
-      "url": "https://www.heise.de/news/Bericht-Apple-arbeitet-weiter-an-smarten-Brillen-ohne-Display-10311224.html",
-      "image_title": "Meta-Brille von Ray Ban"
     },
     {
       "title": "Unregulierte Tech-Tests: Thiel, Altman und Co wollen Freedom Cities",
@@ -614,6 +614,12 @@
       "image_title": ", KI, Collage c’t"
     },
     {
+      "title": "Eigene Streamingplattform: Automatisierte Piraterie auf Heimservern",
+      "teaser": "Film- und Serienpiraten haben die Trends der Softwareentwicklung verinnerlicht und zimmern auf ihren Heimservern ein privates Netflix unter schwarzer Flagge.",
+      "url": "https://www.heise.de/ratgeber/Eigene-Streamingplattform-Automatisierte-Piraterie-auf-Heimservern-installieren-10294388.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
       "title": "Vielseitiger OrdnungshelfermacOS-Ordner aufräumen mit Hazel",
       "teaser": "Hazel verarbeitet und manipuliert Dateien regelbasiert und räumt so Desktop und Ordner auf dem Mac auf.",
       "url": "https://www.heise.de/tests/Vielseitiger-Ordnungshelfer-macOS-Ordner-aufraeumen-mit-Hazel-10293976.html",
@@ -632,6 +638,11 @@
       "image_title": "Ultrawide-Display von LG"
     },
     {
+      "title": "KI-Katzenklo: Erkennt Katzen und erleichtert die Gesunderhaltung der Vierbeiner",
+      "teaser": "Das Projekt benötigt ESP32-CAMs mit KI für Objekterkennung, um die Klonutzung kranker Katzen zu überwachen und sendet Benachrichtigungen über Home-Assistant.",
+      "url": "https://www.heise.de/ratgeber/Projekt-Katzenklo-Wie-man-den-Gesundheitszustand-einer-Katze-mit-KI-erkennt-10303520.html"
+    },
+    {
       "title": "Wissensvermittlung im Bereich 3D-Drucker: FabLab bekommt Hochschulperle",
       "teaser": "Das FabLab Kamp-Lintfort erhält die Hochschulperle für sein Weiterbildungsangebot zu 3D-Druck und digitaler Fertigung.",
       "url": "https://www.heise.de/news/Wissensvermittlung-im-Bereich-3D-Drucker-FabLab-bekommt-Hochschulperle-10309984.html"
@@ -641,11 +652,6 @@
       "teaser": "Ein ESP32 empfängt den Puls per BLE von einem beliebigen Brustgurt und lässt LEDs im Takt aufleuchten. Ein Vibrationsmotor sorgt für spürbare Herzschläge.",
       "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Herzschlaganzeige-ueber-Bluetooth-im-Selbstbau-10294788.html",
       "image_title": ","
-    },
-    {
-      "title": "Neues Compute Module 4Raspi 4 für den Winter",
-      "teaser": "Raspberry Pi bringt eine spezielle Variante des Raspberry Pi 4 Compute Modules für extreme Temperaturen auf den Markt.",
-      "url": "https://www.heise.de/news/Compute-Module-4-fuer-Extremwetter-10305102.html"
     },
     {
       "title": "Gebrauchte Objektive im Test: Festbrennweiten für Canon R und Nikon Z",
@@ -745,22 +751,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Lungenkrebs: Wenn Nichtraucher die neue Risikogruppe sind",
-      "teaser": "Trotz sinkender Raucherzahlen steigt die Zahl der Lungenkrebsfälle weltweit an. Immer mehr Nichtraucher erkranken. Ist die Luftverschmutzung schuld?",
-      "url": "https://www.heise.de/tp/features/Lungenkrebs-Wenn-Nichtraucher-die-neue-Risikogruppe-sind-10308340.html",
-      "image_title": "Lunge mit Krebs-Symbol vor Stau in Beijing"
+      "title": "China-Politik unter Trump: Zwischen Deal und Drohung",
+      "teaser": "Donald Trumps erste Amtszeit war von harter Konfrontation mit China geprägt. Doch welchen Kurs wird er diesmal einschlagen? Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/China-Politik-unter-Trump-Zwischen-Deal-und-Drohung-10304104.html",
+      "image_title": "Mehrere Männer in Schwarzen Anzügen vor einem Gebäude"
     },
     {
-      "title": "Smart Home 2.0: Haushaltsroboter folgen unseren Gesten",
-      "teaser": "Roboter im Haushalt waren bisher kompliziert zu bedienen. Ein neues System macht sie nun kinderleicht steuerbar. Doch was passiert, wenn die Maschine unsere Gesten falsch deutet?",
-      "url": "https://www.heise.de/tp/features/Smart-Home-2-0-Haushaltsroboter-folgen-unseren-Gesten-10310179.html",
-      "image_title": "Roboter für die Zubereitung von Kaffee für den Besitzer"
+      "title": "Influenza statt Corona: Die neue alte Geißel der Nation",
+      "teaser": "Die Grippewelle 2025 trifft Deutschland heftig, Millionen leiden unter Influenza. Schulen schließen, Kliniken sind voll, die Lage bleibt angespannt. Wann endet der Spuk?",
+      "url": "https://www.heise.de/tp/features/Influenza-statt-Corona-Die-neue-alte-Geissel-der-Nation-10310258.html",
+      "image_title": "Eine junge Frau krank im Bett"
     },
     {
-      "title": "Revolution ohne Blut: Warum Gewaltlosigkeit der wahre Gamechanger ist",
-      "teaser": "Gewaltloser Widerstand ist erfolgreicher. Soziale Medien galten lange als Gamechanger für friedlichen Protest. Doch gerade sie werden für Aktivisten zunehmend zur Gefahr. (Teil 2 und Schluss).",
-      "url": "https://www.heise.de/tp/features/Revolution-ohne-Blut-Warum-Gewaltlosigkeit-der-wahre-Gamechanger-ist-10309425.html",
-      "image_title": "Das Wort \"Social\" auf einer Backstein-Gebäudewand neben zwei Fenstern. Foto aus den USA."
+      "title": "China: Volkskongress gibt grünes Licht für mehr Konsum",
+      "teaser": "China setzt auf mehr Konsum und höhere Staatsausgaben. Erstmals seit Jahrzehnten steigt das Haushaltsdefizit auf vier Prozent. Ein wirtschaftspolitischer Überblick.",
+      "url": "https://www.heise.de/tp/features/China-Volkskongress-gibt-gruenes-Licht-fuer-mehr-Konsum-10312443.html",
+      "image_title": "Ein Gebäude mit roten Fahnen darauf"
     },
     {
       "title": "pCloud im Test: Was kann der Schweizer Datentresor?",
