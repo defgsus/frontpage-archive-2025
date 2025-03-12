@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-12T22:08:45",
+  "timestamp": "2025-03-12T23:09:28",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Facebook löscht Live-Videos: Journalisten besorgt",
+      "url": "https://www.heise.de/news/Facebook-loescht-Live-Videos-Journalisten-besorgt-10314131.html"
+    },
     {
       "title": "Intel ernennt neuen Chef: Lip-Bu Tan",
       "url": "https://www.heise.de/news/Intel-ernennt-neuen-Chef-Lip-Bu-Tan-10314083.html"
@@ -60,10 +64,6 @@
     {
       "title": "Supermärkte und Discounter: Verbraucherschützer warnen vor Rabatt-Apps",
       "url": "https://www.heise.de/news/Supermaerkte-und-Discounter-Verbraucherschuetzer-warnen-vor-Rabatt-Apps-10313951.html"
-    },
-    {
-      "title": "Kontrollierte RZ-Datenflüsse mit HPE-Switch CX 10000 im Test",
-      "url": "https://www.heise.de/tests/Kontrollierte-RZ-Datenfluesse-mit-HPE-Switch-CX-10000-im-Test-10298427.html"
     },
     {
       "title": "Error 11Firmware-Update legt HP-Drucker lahm",
@@ -188,21 +188,27 @@
       "image_title": "Mikrocontroller TI MSPM0C1104 im Gehäuse mit 1,6 × 0,861 Millimetern."
     },
     {
+      "title": "Facebook löscht Live-Videos: Journalisten besorgt",
+      "teaser": "Auf Facebook erstellte Live-Videos verschwinden seit 19. Februar nach 30 Tagen. Nur der jeweilige Uploader kann die Zeitdokumente sichern.",
+      "url": "https://www.heise.de/news/Facebook-loescht-Live-Videos-Journalisten-besorgt-10314131.html",
+      "image_title": "Handgeschriebenes Plakat \"Time is Running Out\" mit Zeichnung der Erdkugel, die durch eine Sanduhr rinnt"
+    },
+    {
       "title": "Intel ernennt neuen Chef: Lip-Bu Tan",
       "teaser": "Lip-Bu Tan leitet fortan Intels Geschicke. Vor weniger als einem Jahr hat er Intel im Zwist verlassen, jetzt kehrt er ganz oben zurück.",
       "url": "https://www.heise.de/news/Intel-ernennt-neuen-Chef-Lip-Bu-Tan-10314083.html",
       "image_title": "Porträt eines bebrillten, asiatisch aussehenden Mannes in einem Amzug"
     },
     {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Bundestrojaner beim BND: Bürgerrechtler ziehen vor den Menschenrechtsgerichtshof",
       "teaser": "Reporter ohne Grenzen und die Gesellschaft für Freiheitsrechte beschweren sich beim Europäischen Gerichtshof für Menschenrechte über BND-Überwachungsbefugnisse.",
       "url": "https://www.heise.de/news/Bundestrojaner-beim-BND-Buergerrechtler-ziehen-vor-den-Menschenrechtsgerichtshof-10314017.html",
       "image_title": "Aus einem flach liegenden Handy taucht ein hölzerner, schwarz-rot-gold bemalter Pferdekopf"
-    },
-    {
-      "title": "KI: Unternehmen brauchen solides IT-Management",
-      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 5: Der beste Smart Ring im Test – Ringconn vor Nextring und Samsung",
@@ -231,12 +237,6 @@
       "teaser": "Wir sprechen über erste Erfahrungen mit Android XR – betrachtet durch das Apple-Headset. Zudem sorgt Apples \"Spatial Gallery\" für erhitzte Gemüter.",
       "url": "https://www.heise.de/news/Android-XR-auf-der-Vision-Pro-TNBT-Podcast-10313981.html",
       "image_title": "Android XR auf der Vision Pro TNBT-Podcast"
-    },
-    {
-      "title": "Intel: Börsen-Achterbahnfahrt nach TSMC-Nvidia-AMD-Broadcom-Gerüchten",
-      "teaser": "TSMC soll Intel ein Joint-Venture mit Nvidia, AMD und Broadcom vorgeschlagen haben. Intels Aktie schoss prompt hoch.",
-      "url": "https://www.heise.de/news/Intel-Boersen-Achterbahnfahrt-nach-TSMC-Nvidia-AMD-Broadcom-Geruechten-10313931.html",
-      "image_title": "Wafer mit Meteor-Lake-Dies"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -302,6 +302,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Intel: Börsen-Achterbahnfahrt nach TSMC-Nvidia-AMD-Broadcom-Gerüchten",
+      "teaser": "TSMC soll Intel ein Joint-Venture mit Nvidia, AMD und Broadcom vorgeschlagen haben. Intels Aktie schoss prompt hoch.",
+      "url": "https://www.heise.de/news/Intel-Boersen-Achterbahnfahrt-nach-TSMC-Nvidia-AMD-Broadcom-Geruechten-10313931.html",
+      "image_title": "Wafer mit Meteor-Lake-Dies"
     },
     {
       "title": "Supermärkte und Discounter: Verbraucherschützer warnen vor Rabatt-Apps",
@@ -374,15 +380,15 @@
       "image_title": "Screenshot von Google Meet"
     },
     {
+      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
+      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
       "teaser": "Lernen Sie, wie Sie Angriffe auf das Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-10305122.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
-      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
     },
     {
       "title": "\"Rätselhaft\": Galaxien im frühen Universum rotieren zu häufig im Uhrzeigersinn",
@@ -437,11 +443,6 @@
       "teaser": "KI-Agenten selbst erstellen und einbinden: OpenAI macht Responses API, Tools und SDK für Entwickler verfügbar.",
       "url": "https://www.heise.de/news/OpenAI-Operator-API-fuer-eigene-KI-Agenten-veroeffentlicht-10313011.html",
       "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
-    },
-    {
-      "title": "Online-Meetup im März zur Zukunft der Arbeit",
-      "teaser": "Die kostenlose Anmeldung für Online-Events im Vorfeld der Horizons by heise #25 ist jetzt möglich! Im März thematisieren wir die Zukunft der Arbeit.",
-      "url": "https://www.heise.de/news/Online-Meetup-im-Maerz-zur-Zukunft-der-Arbeit-10311771.html"
     },
     {
       "title": "Bericht: Apple baut User Interfaces radikal um",
@@ -752,22 +753,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Öko-Imperialismus: Der neue Kampf um die Bodenschätze der Ukraine",
-      "teaser": "Die Ukraine ist reich an strategischen Rohstoffen. Um diese Schätze ringen Russland, die USA und die EU. Doch die wahren Drahtzieher sitzen woanders. (Teil 1)",
-      "url": "https://www.heise.de/tp/features/Oeko-Imperialismus-Der-neue-Kampf-um-die-Bodenschaetze-der-Ukraine-10311845.html",
-      "image_title": "Ukraine-Karte aus der Pfeile mit den Elementen Mangan, Lithium und Titan führen"
+      "title": "Spartenkanäle beim öffentlich-rechtlichen Rundfunk: Alles dichtmachen?",
+      "teaser": "Medien-Kahlschlag: ARD und ZDF auf Sparkurs – doch ausgerechnet bei Phoenix? Widerstand gegen das geplante Aus. Kritischer Hintergrund.",
+      "url": "https://www.heise.de/tp/features/Spartenkanaele-beim-oeffentlich-rechtlichen-Rundfunk-Alles-dichtmachen-10313294.html",
+      "image_title": "Phoenix-Zettel in ARD-ZDF-Sparbüchse eingeworfen"
     },
     {
-      "title": "Lebensmittel: Obstpreise steigen, Gemüse wird günstiger",
-      "teaser": "Im vergangenen Jahr mussten Verbraucher für Obst tiefer in die Tasche greifen. Die Preise stiegen im Schnitt um fünf Prozent. Doch wie entwickeln sich die Preise in diesem Jahr?",
-      "url": "https://www.heise.de/tp/features/Lebensmittel-Obstpreise-steigen-Gemuese-wird-guenstiger-10311359.html",
-      "image_title": "Einkaufswagenfährt auf ansteigender Diagramm-Kurve"
+      "title": "IT-Sicherheit: Jedes zehnte Unternehmen in Deutschland wird ausspioniert",
+      "teaser": "Deutsche Unternehmen werden immer häufiger Opfer von Spionage. Eine neue IAB-Studie zeigt das ganze Ausmaß. Forscher appellieren, mehr in IT-Sicherheit zu investieren.",
+      "url": "https://www.heise.de/tp/features/IT-Sicherheit-Jedes-zehnte-Unternehmen-in-Deutschland-wird-ausspioniert-10312709.html",
+      "image_title": "Cyber-Sicherheitssystem mit globalem Internet-Netzwerk"
     },
     {
-      "title": "Von der Ukraine zum Atomkrieg? 91 Milliarden US-Dollar für das Ende der Menschheit",
-      "teaser": "Atommächte geben jährlich eine unfassbare Summe für ihre Arsenale aus. Weltweit lagern rund 12.000 Nuklearwaffen ja. Bei einem Versagen der Abschreckung droht eine Katastrophe. (Teil 2 und Schluss)",
-      "url": "https://www.heise.de/tp/features/Von-der-Ukraine-zum-Atomkrieg-91-Milliarden-US-Dollar-fuer-das-Ende-der-Menschheit-10313340.html",
-      "image_title": "Europakarte mit Nato- und EU-Staaten. Atomzeichen vun EU-Sternen umrandet"
+      "title": "China und Deutschland: Forscher entwickeln neuartige Prozessoren",
+      "teaser": "Chinesische Wissenschaftler haben den weltweit ersten KI-Chip aus Kohlenstoff gebaut. Auch deutsche Forscher arbeiten an einem neuen Chip, der mit Licht arbeitet.",
+      "url": "https://www.heise.de/tp/features/China-und-Deutschland-Forscher-entwickeln-neuartige-Prozessoren-10310393.html",
+      "image_title": "Symbolbid eines Prozessors, der mit Licht arbeitet"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
