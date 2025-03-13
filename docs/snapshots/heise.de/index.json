@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-13T19:07:18",
+  "timestamp": "2025-03-13T20:10:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Partielle Mondfinsternis über Deutschland am Morgenhimmel",
+      "url": "https://www.heise.de/news/Partielle-Mondfinsternis-ueber-Deutschland-am-Morgenhimmel-10315367.html"
+    },
     {
       "title": "Digital-TV per Satellit: Was man über Sat-Schüsseln, LNBs & Receiver wissen muss",
       "url": "https://www.heise.de/bestenlisten/ratgeber/digital-tv-per-satellit-was-man-ueber-sat-schuesseln-lnbs-und-receiver-wissen-muss/ypz2h4g"
@@ -60,10 +64,6 @@
     {
       "title": "3,2 Gigapixel: Weltgrößte Digitalkamera an ihrem Teleskop angebracht",
       "url": "https://www.heise.de/news/3-2-Gigapixel-Weltgroesste-Digitalkamera-an-ihrem-Teleskop-angebracht-10315064.html"
-    },
-    {
-      "title": "Ryzen 9 9950X3D: AMDs AM5-Topmodell fast zur UVP verfügbar",
-      "url": "https://www.heise.de/news/Ryzen-9-9950X3D-AMDs-AM5-Topmodell-fast-zur-UVP-verfuegbar-10315130.html"
     },
     {
       "title": "KernfusionsprojektKanadisches Startup General Fusion erzeugt erstes Plasma",
@@ -188,20 +188,26 @@
       "image_title": "Hand mit Fernbedienung"
     },
     {
+      "title": "Partielle Mondfinsternis über Deutschland am Morgenhimmel",
+      "teaser": "Über Deutschland ist am Freitag am Morgenhimmel eine partielle Mondfinsternis zu bestaunen - wenn keine Wolken im Weg sind.",
+      "url": "https://www.heise.de/news/Partielle-Mondfinsternis-ueber-Deutschland-am-Morgenhimmel-10315367.html",
+      "image_title": "Frau mit Fernglas vor dem Nachthimmel"
+    },
+    {
       "title": "Digital-TV per Satellit: Was man über Sat-Schüsseln, LNBs & Receiver wissen muss",
       "teaser": "Der TV-Empfang per Satellit bietet seit vielen Jahren das beste Preis-Leistungs-Verhältnis. Was für einen optimalen Empfang nötig ist, klärt dieser Beitrag.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/digital-tv-per-satellit-was-man-ueber-sat-schuesseln-lnbs-und-receiver-wissen-muss/ypz2h4g?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Urteil: Automatische Antwort-E-Mail kann rechtswidrig sein",
       "teaser": "Wer in einem Impressum eine E-Mail-Adresse angibt und auf Zuschriften dorthin nur per Auto-Reply antwortet, verstößt laut einem Gericht gegen Wettbewerbsregeln.",
       "url": "https://www.heise.de/news/Landgerichtsurteil-Automatische-Antwort-E-Mail-kann-rechtswidrig-sein-10315377.html",
       "image_title": "Richterhammer vor @-Zeichen"
-    },
-    {
-      "title": "Hybrides UEM: Die Zukunft der Geräteverwaltung",
-      "teaser": "Endgeräteverwaltung aus der Cloud oder lokal? Die Antwort: Sowohl als auch! Am besten ist eine hybride Lösung, die die Flexibilität cloudbasierter Systeme mit der Sicherheit lokaler Infrastrukturen kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6929484434&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Erzwungene Browser-Auswahl: Firefox zählt verdoppelte iPhone-Nutzerschaft",
@@ -231,11 +237,6 @@
       "title": "Letztes Update: FreeBSD 13.5 mit vielen Fixes und ohne KDE Plasma 5",
       "teaser": "FreeBSD 13.5 optimiert den Treiber für Intel Ethernet-Karten und verabschiedet sich von alten AGP-Grafikkarten. Anwender sollten bald auf Version 14 umsteigen.",
       "url": "https://www.heise.de/news/Letztes-Update-FreeBSD-13-5-mit-vielen-Fixes-und-ohne-KDE-Plasma-5-10315282.html"
-    },
-    {
-      "title": "Warum die Durchsetzung des DSA nur langsam vorankommt",
-      "teaser": "Keines der von der EU angestoßenen DSA-Verfahren ist bislang abgeschlossen. Nun droht zusätzlich Gegenwind von der US-amerikanischen Trump-Administration.",
-      "url": "https://www.heise.de/hintergrund/Warum-die-Durchsetzung-des-DSA-nur-langsam-vorankommt-10283004.html"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -289,8 +290,8 @@
       "url": "https://www.heise.de/news/US-Aktienmarkt-Tesla-Anteile-stuerzen-ab-Big-Tech-mit-starken-Verlusten-10311230.html"
     },
     {
-      "title": "Entgegen Kritik der Telekom: Vodafone dreht Schwarzsehern das Fernsehsignal ab",
-      "url": "https://www.heise.de/news/Entgegen-der-Kritik-der-Telekom-Vodafone-geht-gegen-Schwarzseher-vor-10312851.html"
+      "title": "Studie: Deutsche Arbeitsmoral im Keller",
+      "url": "https://www.heise.de/news/Stimmungstief-bei-Angestellten-Fast-80-Prozent-machen-Dienst-nach-Vorschrift-10314588.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -302,6 +303,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Warum die Durchsetzung des DSA nur langsam vorankommt",
+      "teaser": "Keines der von der EU angestoßenen DSA-Verfahren ist bislang abgeschlossen. Nun droht zusätzlich Gegenwind von der US-amerikanischen Trump-Administration.",
+      "url": "https://www.heise.de/hintergrund/Warum-die-Durchsetzung-des-DSA-nur-langsam-vorankommt-10283004.html"
     },
     {
       "title": "Ryzen 9 9950X3D: AMDs AM5-Topmodell fast zur UVP verfügbar",
@@ -371,15 +377,15 @@
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-10313363.html"
     },
     {
+      "title": "Der IT Service Desk der Zukunft",
+      "teaser": "Der IT Service Desk steht vor einem Wandel: KI sowie neue Leistungsmodelle und Vertragskonstrukte werden eine prägende Rolle spielen. In einem Webcast können Sie erfahren, wie Sie den Help Desk auf ein neues Level heben.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/der-it-service-desk-der-zukunft-effizienter-flexibler-100-remote-4887/?source=hbsad-ersatz"
+    },
+    {
       "title": "Die rechtlichen Konsequenzen illegalen Streamings",
       "teaser": "Zig Filme exklusiv bei zig Anbietern – die Fragmentierung des Streamingmarktes führt Nutzer zu illegalen Plattformen. Das kann strafrechtliche Folgen haben.",
       "url": "https://www.heise.de/ratgeber/Die-rechtlichen-Konsequenzen-illegalen-Streamings-10293930.html",
       "image_title": ", KI, Collage c’t"
-    },
-    {
-      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
-      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
     },
     {
       "title": "software-architektur.tv: Communication Patterns",
@@ -432,12 +438,6 @@
       "teaser": "Der Apothekerkammer Nordrhein ist das Online-Portal für Medizinalcannabis \"Dr. Ansay\" ein Dorn im Auge. Zu Recht zeigt jetzt ein Urteil vom Landgericht Hamburg.",
       "url": "https://www.heise.de/news/Apothekerkammer-Nordrhein-erfolgreich-gegen-Cannabis-Plattform-Dr-Ansay-10314294.html",
       "image_title": "Website von Dr. Ansay, auf der mit"
-    },
-    {
-      "title": "AlertSicherheitslücken: Gitlab-Entwickler raten zu zügigem Update",
-      "teaser": "Es sind wichtige Sicherheitsupdates für die Softwareentwicklungsplattform Gitlab erschienen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Gitlab-Entwickler-raten-zu-zuegigem-Update-10314280.html",
-      "image_title": "Tastatur mit gelber Update-Taste"
     },
     {
       "title": "Erster Serien-Computer mit menschlichen Hirnzellen ist erstaunlich günstig",
@@ -610,6 +610,11 @@
       "url": "https://www.heise.de/en/news/Dynatrace-promises-developers-better-control-over-databases-10311961.html"
     },
     {
+      "title": "Mac mini mit SSD-Modul auf 2 TByte aufrüsten",
+      "teaser": "Der Mac mini M4 ist sauschnell, hat aber eine winzige SSD. Anstatt Apples Mondpreise für mehr Speicherplatz zu zahlen, erweitert man den einfach selbst.",
+      "url": "https://www.heise.de/ratgeber/Mac-mini-mit-SSD-Modul-auf-2-TByte-aufruesten-10296820.html"
+    },
+    {
       "title": "In der Kobalthölle: Die Schattenseite wiederaufladbarer Elektronik",
       "teaser": "US-Wissenschaftler Siddarth Kara hat im Kongo über den Kobaltabbau geforscht. Im Interview berichtet er von schockierender Gewalt.",
       "url": "https://www.heise.de/hintergrund/In-der-Kobalthoelle-Die-Schattenseite-wiederaufladbarer-Elektronik-10303925.html",
@@ -619,11 +624,6 @@
       "title": "Schneller Flachbettscanner mit Buchkante im Test",
       "teaser": "Der Avision FB2380E scannt flott und die abgetastete Fläche erstreckt sich bis zur vorderen Gehäusekante, das ist besonders gut zum Digitalisieren von Büchern.",
       "url": "https://www.heise.de/tests/Schneller-Flachbettscanner-mit-Buchkante-im-Test-10303051.html"
-    },
-    {
-      "title": "Mac mini mit SSD-Modul auf 2 TByte aufrüsten",
-      "teaser": "Der Mac mini M4 ist sauschnell, hat aber eine winzige SSD. Anstatt Apples Mondpreise für mehr Speicherplatz zu zahlen, erweitert man den einfach selbst.",
-      "url": "https://www.heise.de/ratgeber/Mac-mini-mit-SSD-Modul-auf-2-TByte-aufruesten-10296820.html"
     },
     {
       "title": "Apples iPhone für EinsteigeriPhone 16e im Test",
@@ -758,22 +758,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Andrew Tate: Wie ein \"Manfluencer\" junge Männer radikalisiert",
-      "teaser": "Andrew Tate ist der einflussreichste \"Manfluencer\" der Welt. Seine frauenfeindlichen Ansichten erreichen Millionen Jugendliche. Warum ist er so gefährlich?",
-      "url": "https://www.heise.de/tp/features/Andrew-Tate-Wie-ein-Manfluencer-junge-Maenner-radikalisiert-10313682.html",
-      "image_title": "Bukarest, Rumänien. 30. Mai 2024: Andrew Tate (L) und sein Bruder Tristan Tate (nicht im Bild) verlassen das Bukarester Berufungsgericht. Sie wurden der Vergewaltigung und des Menschenhandels bezichtigt."
+      "title": "Griechenlands Sorge vor dem Krieg: Militär erlebt \"größte Reform in der Geschichte\"",
+      "teaser": "Griechenland rüstet auf. Das Militär soll zum fortschrittlichsten in der EU werden. Die Regierung in Athen reagiert damit auf eine zunehmende Bedrohung.",
+      "url": "https://www.heise.de/tp/features/Griechenlands-Sorge-vor-dem-Krieg-Militaer-erlebt-groesste-Reform-in-der-Geschichte-10314624.html",
+      "image_title": "Streifen in griechischer Flagge wird zum Schwert"
     },
     {
-      "title": "Ukraine-Krieg: Risse in der europäischen Einheitsfront",
-      "teaser": "Die EU zeigt sich uneins über den Ukraine-Krieg. Vor allem Ungarn und die Slowakei fordern einen sofortigen Waffenstillstand. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Risse-in-der-europaeischen-Einheitsfront-10312539.html",
-      "image_title": "Ukraines Präsident Wolodymyr Selenskyj und EU-Kommissionspräsidentin Ursula von der Leyen"
+      "title": "\"Für immer hier\": Entführung, Folter, Tod und der alltägliche Umgang damit",
+      "teaser": "Sommer, Sonne, Staatsfolter: Bolsonaro leugnet sie – der Film von Walter Salles erinnert an die verdrängte Diktatur Brasiliens und zeigt eine Familie, die nicht aufgibt.",
+      "url": "https://www.heise.de/tp/features/Fuer-immer-hier-Entfuehrung-Folter-Tod-und-der-alltaegliche-Umgang-damit-10314850.html"
     },
     {
-      "title": "China und Deutschland: Forscher entwickeln neuartige Prozessoren",
-      "teaser": "Chinesische Wissenschaftler haben den weltweit ersten KI-Chip aus Kohlenstoff gebaut. Auch deutsche Forscher arbeiten an einem neuen Chip, der mit Licht arbeitet.",
-      "url": "https://www.heise.de/tp/features/China-und-Deutschland-Forscher-entwickeln-neuartige-Prozessoren-10310393.html",
-      "image_title": "Symbolbid eines Prozessors, der mit Licht arbeitet"
+      "title": "Multikulti gescheitert? Singapur beweist das Gegenteil",
+      "teaser": "Ethnische Konflikte und Rassismus gelten als unvermeidbar. Doch Singapur macht vor, wie es funktionieren kann. Die Lösung ist überraschend einfach.",
+      "url": "https://www.heise.de/tp/features/Multikulti-gescheitert-Singapur-beweist-das-Gegenteil-10314778.html",
+      "image_title": "Multikulturelle Jugendliche mit Singapur-Flaggen"
     },
     {
       "title": "VPS-Hosting: Anbieter für virtuelle private Server im Vergleich",
