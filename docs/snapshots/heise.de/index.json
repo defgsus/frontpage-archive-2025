@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-13T21:08:36",
+  "timestamp": "2025-03-13T22:08:16",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Meta Platforms beginnt Feldtests von \"Community Notes\"",
+      "url": "https://www.heise.de/news/Meta-Platforms-beginnt-Feldtests-von-Community-Notes-10315462.html"
+    },
     {
       "title": "Keine freie Sicht: Partielle Mondfinsternis über Deutschland am Freitagmorgen",
       "url": "https://www.heise.de/news/Partielle-Mondfinsternis-ueber-Deutschland-am-Morgenhimmel-10315367.html"
@@ -60,10 +64,6 @@
     {
       "title": "Warum die Durchsetzung des DSA nur langsam vorankommt",
       "url": "https://www.heise.de/hintergrund/Warum-die-Durchsetzung-des-DSA-nur-langsam-vorankommt-10283004.html"
-    },
-    {
-      "title": "3,2 Gigapixel: Weltgrößte Digitalkamera an ihrem Teleskop angebracht",
-      "url": "https://www.heise.de/news/3-2-Gigapixel-Weltgroesste-Digitalkamera-an-ihrem-Teleskop-angebracht-10315064.html"
     },
     {
       "title": "KernfusionsprojektKanadisches Startup General Fusion erzeugt erstes Plasma",
@@ -188,20 +188,26 @@
       "image_title": "Hand mit Fernbedienung"
     },
     {
+      "title": "Meta Platforms beginnt Feldtests von \"Community Notes\"",
+      "teaser": "Fakten prüfende Profis sind out bei Meta. Die User sollen \"Kontext\" liefern, gratis. Auf das Geschäft soll sich das bitte nicht auswirken.",
+      "url": "https://www.heise.de/news/Meta-Platforms-beginnt-Feldtests-von-Community-Notes-10315462.html",
+      "image_title": "Eine Person dreht Buchstabenwürfen so, dass aus \"Fact\" \"Fake\" wird"
+    },
+    {
       "title": "Keine freie Sicht: Partielle Mondfinsternis über Deutschland am Freitagmorgen",
       "teaser": "Über Deutschland ist am Freitag am Morgenhimmel eine partielle Mondfinsternis zu bestaunen - wenn keine Wolken im Weg sind.",
       "url": "https://www.heise.de/news/Partielle-Mondfinsternis-ueber-Deutschland-am-Morgenhimmel-10315367.html",
       "image_title": "Frau mit Fernglas vor dem Nachthimmel"
     },
     {
+      "title": "Service Desks als Zielscheibe für Hacker",
+      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Digital-TV per Satellit: Was man über Sat-Schüsseln, LNBs & Receiver wissen muss",
       "teaser": "Der TV-Empfang per Satellit bietet seit vielen Jahren das beste Preis-Leistungs-Verhältnis. Was für einen optimalen Empfang nötig ist, klärt dieser Beitrag.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/digital-tv-per-satellit-was-man-ueber-sat-schuesseln-lnbs-und-receiver-wissen-muss/ypz2h4g?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "KI: Unternehmen brauchen solides IT-Management",
-      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Urteil: Automatische Antwort-E-Mail kann rechtswidrig sein",
@@ -232,11 +238,6 @@
       "teaser": "Die Abhängigkeit von außereuropäischen Technologieanbietern in zentralen Bereichen wie KI gefährdet laut den Ministerpräsidenten Staat und Wirtschaft massiv.",
       "url": "https://www.heise.de/news/KI-Cloud-Chips-Laenderchefs-machen-Druck-bei-digitaler-Souveraenitaet-10315298.html",
       "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
-    },
-    {
-      "title": "Letztes Update: FreeBSD 13.5 mit vielen Fixes und ohne KDE Plasma 5",
-      "teaser": "FreeBSD 13.5 optimiert den Treiber für Intel Ethernet-Karten und verabschiedet sich von alten AGP-Grafikkarten. Anwender sollten bald auf Version 14 umsteigen.",
-      "url": "https://www.heise.de/news/Letztes-Update-FreeBSD-13-5-mit-vielen-Fixes-und-ohne-KDE-Plasma-5-10315282.html"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -303,6 +304,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Letztes Update: FreeBSD 13.5 mit vielen Fixes und ohne KDE Plasma 5",
+      "teaser": "FreeBSD 13.5 optimiert den Treiber für Intel Ethernet-Karten und verabschiedet sich von alten AGP-Grafikkarten. Anwender sollten bald auf Version 14 umsteigen.",
+      "url": "https://www.heise.de/news/Letztes-Update-FreeBSD-13-5-mit-vielen-Fixes-und-ohne-KDE-Plasma-5-10315282.html"
     },
     {
       "title": "Warum die Durchsetzung des DSA nur langsam vorankommt",
@@ -372,14 +378,14 @@
       "image_title": "Apple-Intelligence-Icon mit Farbverlauf"
     },
     {
+      "title": "Wie KI den IT-Betrieb neu erfindet und zukunftssicher macht",
+      "teaser": "Wie bleibt Ihr Unternehmen angesichts sich ständig weiterentwickelnder Bedrohungen sicher und widerstandsfähig? Wie lässt sich der Betrieb gleichzeitig effizienter gestalten? Erfahren Sie im Live-Webcast am 27.03. um 11 Uhr, wie KI dies ermöglicht.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/wie-ki-den-it-betrieb-neu-erfindet-und-zukunftssicher-macht-4888/?source=hbsad-ersatz"
+    },
+    {
       "title": "Ethical Hacking für Fortgeschrittene – sich selbst hacken, bevor es andere tun",
       "teaser": "In fünf Terminen lernen Admins und IT-Security-Verantwortliche ab dem 28. April, ihre eigenen Systeme zu hacken, um sich vor Angreifern effektiv zu schützen.",
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-10313363.html"
-    },
-    {
-      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
-      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
     },
     {
       "title": "Die rechtlichen Konsequenzen illegalen Streamings",
@@ -432,12 +438,6 @@
       "title": "Mac mini mit SSD-Modul auf 2 TByte aufrüsten",
       "teaser": "Der Mac mini M4 ist sauschnell, hat aber eine winzige SSD. Anstatt Apples Mondpreise für mehr Speicherplatz zu zahlen, erweitert man den einfach selbst.",
       "url": "https://www.heise.de/ratgeber/Mac-mini-mit-SSD-Modul-auf-2-TByte-aufruesten-10296820.html"
-    },
-    {
-      "title": "Apothekerkammer Nordrhein erfolgreich gegen Cannabis-Plattform \"Dr. Ansay\"",
-      "teaser": "Der Apothekerkammer Nordrhein ist das Online-Portal für Medizinalcannabis \"Dr. Ansay\" ein Dorn im Auge. Zu Recht zeigt jetzt ein Urteil vom Landgericht Hamburg.",
-      "url": "https://www.heise.de/news/Apothekerkammer-Nordrhein-erfolgreich-gegen-Cannabis-Plattform-Dr-Ansay-10314294.html",
-      "image_title": "Website von Dr. Ansay, auf der mit"
     },
     {
       "title": "Erster Serien-Computer mit menschlichen Hirnzellen ist erstaunlich günstig",
@@ -616,14 +616,14 @@
       "image_title": "Siddarth Kara"
     },
     {
-      "title": "Mac mini mit SSD-Modul auf 2 TByte aufrüsten",
-      "teaser": "Der Mac mini M4 ist sauschnell, hat aber eine winzige SSD. Anstatt Apples Mondpreise für mehr Speicherplatz zu zahlen, erweitert man den einfach selbst.",
-      "url": "https://www.heise.de/ratgeber/Mac-mini-mit-SSD-Modul-auf-2-TByte-aufruesten-10296820.html"
-    },
-    {
       "title": "Vorsicht Kunde: Wie TomTom sich vor Gewährleistungen drückt",
       "teaser": "Wenn man im Webshop ein Gerät kauft, muss der Verkäufer im Falle eines Mangels nachbessern oder nachliefern. Die Firma TomTom geht stattdessen auf Tauchstation.",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Wie-TomTom-sich-vor-Gewaehrleistungen-drueckt-10270630.html"
+    },
+    {
+      "title": "Schneller Flachbettscanner mit Buchkante im Test",
+      "teaser": "Der Avision FB2380E scannt flott und die abgetastete Fläche erstreckt sich bis zur vorderen Gehäusekante, das ist besonders gut zum Digitalisieren von Büchern.",
+      "url": "https://www.heise.de/tests/Schneller-Flachbettscanner-mit-Buchkante-im-Test-10303051.html"
     },
     {
       "title": "Apples iPhone für EinsteigeriPhone 16e im Test",
@@ -668,12 +668,6 @@
       "image_title": ", Leica Camera AG"
     },
     {
-      "title": "Gebrauchte Objektive im Test: Festbrennweiten für Canon R und Nikon Z",
-      "teaser": "Für herausragende Fotos brauchen Fotografen gute Objektive. Es müssen aber keine modernen Modelle sein. Unsere Autoren erklären, was sich lohnt und was nicht.",
-      "url": "https://www.heise.de/tests/Gebrauchte-Objektive-im-Test-Festbrennweiten-fuer-Canon-R-und-Nikon-Z-10286420.html",
-      "image_title": "Viele ältere Objektive lassen sich an moderne Kameras adaptieren. Fotografen sparen Kosten und die Bildergebnisse können vielfach überzeugen., Alle Bilder: Radomir Jakubowski (Canon) und Stephan Amm (Nikon)"
-    },
-    {
       "title": "Wieder Smartphone-Wechseloptik und viel Sofortbild – Fotonews der Woche 10/2025",
       "teaser": "Der MWC brachte einige Fotoneuheiten, Polaroid und TTArtisan beleben Sofortbilder und unser Podcast geht ganz zurück zum Anfang.",
       "url": "https://www.heise.de/news/Wieder-Smartphone-Wechseloptik-und-viel-Sofortbild-die-Fotonews-der-Woche-10309609.html"
@@ -682,6 +676,12 @@
       "title": "Supermond, Schluchten und ein Neuanfang: Die Bilder der Woche KW 9",
       "teaser": "Während bei uns die Frühjahrsblüher sprießen, herrscht in anderen Teilen der Welt ein ganz eigenes Klima. Die Bilder dieser Woche nehmen Sie mit nach Süden.",
       "url": "https://www.heise.de/news/Supermond-Schluchten-und-ein-Neuanfang-Die-Bilder-der-Woche-KW-9-10306883.html"
+    },
+    {
+      "title": "TTArtisan stellt faltbare Sofortbildkamera im Retro-Look vor",
+      "teaser": "Der Objektivhersteller TTArtisan hat eine faltbare Sofortbildkamera präsentiert, die ein auffälliges Retro-Design mit moderner Sofortbild-Technologie verbindet.",
+      "url": "https://www.heise.de/news/TTArtisan-stellt-faltbare-Sofortbildkamera-im-Retro-Look-vor-10308783.html",
+      "image_title": "Die neue Sofortbildkamera TTArtisan 203T steht auf einem Holztisch."
     },
     {
       "title": "DeepSeek-R1: Die Technik hinter dem Hype",
@@ -758,10 +758,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Andrew Tate: Wie ein \"Manfluencer\" junge Männer radikalisiert",
-      "teaser": "Andrew Tate ist der einflussreichste \"Manfluencer\" der Welt. Seine frauenfeindlichen Ansichten erreichen Millionen Jugendliche. Warum ist er so gefährlich?",
-      "url": "https://www.heise.de/tp/features/Andrew-Tate-Wie-ein-Manfluencer-junge-Maenner-radikalisiert-10313682.html",
-      "image_title": "Bukarest, Rumänien. 30. Mai 2024: Andrew Tate (L) und sein Bruder Tristan Tate (nicht im Bild) verlassen das Bukarester Berufungsgericht. Sie wurden der Vergewaltigung und des Menschenhandels bezichtigt."
+      "title": "China und Deutschland: Forscher entwickeln neuartige Prozessoren",
+      "teaser": "Chinesische Wissenschaftler haben den weltweit ersten KI-Chip aus Kohlenstoff gebaut. Auch deutsche Forscher arbeiten an einem neuen Chip, der mit Licht arbeitet.",
+      "url": "https://www.heise.de/tp/features/China-und-Deutschland-Forscher-entwickeln-neuartige-Prozessoren-10310393.html",
+      "image_title": "Symbolbid eines Prozessors, der mit Licht arbeitet"
     },
     {
       "title": "Wirtschaftskrise: Warum die Konsum-Bremse gelöst werden muss",
@@ -770,10 +770,9 @@
       "image_title": "Aus einem Topf wird Geld ins Volk gegossen und das Wirtschaftswachstum angeregt."
     },
     {
-      "title": "Ukraine-Krieg: Risse in der europäischen Einheitsfront",
-      "teaser": "Die EU zeigt sich uneins über den Ukraine-Krieg. Vor allem Ungarn und die Slowakei fordern einen sofortigen Waffenstillstand. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Risse-in-der-europaeischen-Einheitsfront-10312539.html",
-      "image_title": "Ukraines Präsident Wolodymyr Selenskyj und EU-Kommissionspräsidentin Ursula von der Leyen"
+      "title": "Sondervermögen: Milliarden für Waffen, Peanuts für Menschen?",
+      "teaser": "Wo die 900 Milliarden Euro fehlen: Die Höhe der Sondervermögen übersteigen die Grenzen der Vorstellungskraft – ein paar Vergleiche zur Orientierung.",
+      "url": "https://www.heise.de/tp/features/Sondervermoegen-Milliarden-fuer-Waffen-Peanuts-fuer-Menschen-10314101.html"
     },
     {
       "title": "VPS-Hosting: Anbieter für virtuelle private Server im Vergleich",
