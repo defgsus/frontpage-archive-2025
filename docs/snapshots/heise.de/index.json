@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-13T07:09:20",
+  "timestamp": "2025-03-13T08:13:48",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Entwicklungsumgebung Eclipse 2025-03 aktualisiert für C++23 und Java 24",
+      "url": "https://www.heise.de/news/Entwicklungsumgebung-Eclipse-2025-03-aktualisiert-fuer-C-23-und-Java-24-10313713.html"
+    },
+    {
+      "title": "Python: Mit Minecraft spielerisch programmieren lernen",
+      "url": "https://www.heise.de/ratgeber/Python-Mit-Minecraft-spielerisch-programmieren-lernen-10296218.html"
+    },
     {
       "title": "Mastering Observability: Softwaresysteme verstehen, steuern und verbessern",
       "url": "https://www.heise.de/news/Mastering-Observability-Softwaresysteme-verstehen-steuern-und-verbessern-10313041.html"
@@ -56,14 +64,6 @@
     {
       "title": "Donnerstag: Facebooks Live-Videos als Zeitgeschichte, iRobot mit Selbstzweifeln",
       "url": "https://www.heise.de/news/Donnerstag-Facebooks-Live-Videos-als-Zeitgeschichte-iRobot-mit-Selbstzweifeln-10314167.html"
-    },
-    {
-      "title": "#heiseshow: Freedom Cities, Siri-LLM, KI und die Gesellschaft",
-      "url": "https://www.heise.de/news/heiseshow-Freedom-Cities-Siri-LLM-KI-und-die-Gesellschaft-10313911.html"
-    },
-    {
-      "title": "Roomba-Roboterhersteller iRobot hat erhebliche Zweifel an der eigenen Zukunft",
-      "url": "https://www.heise.de/news/Roomba-Roboterhersteller-iRobot-hat-erhebliche-Zweifel-an-der-eigenen-Zukunft-10314153.html"
     },
     {
       "title": "Error 11Firmware-Update legt HP-Drucker lahm",
@@ -147,7 +147,7 @@
       "image_title": "iPad Air mit 11 Zoll und neuem M3-SoC"
     },
     {
-      "title": "Elektroauto Renault Megane E-TechDer Basismotor fliegt aus dem Programm",
+      "title": "Basismotor fliegt aus dem ProgrammRenault Megane E-Tech: Nur ein Antrieb bleibt",
       "teaser": "Renault schrumpft das Angebot des Megane zusammen: Künftig gibt es nur noch einen Antrieb mit 160 kW und 60-kWh-Batterie.",
       "url": "https://www.heise.de/news/Elektroauto-Renault-Megane-E-Tech-Nur-noch-ein-Antrieb-10313260.html",
       "image_title": "Renault Megane E-Tech"
@@ -188,6 +188,23 @@
       "image_title": "Mikrocontroller TI MSPM0C1104 im Gehäuse mit 1,6 × 0,861 Millimetern."
     },
     {
+      "title": "Entwicklungsumgebung Eclipse 2025-03 aktualisiert für C++23 und Java 24",
+      "teaser": "Die neueste Version der Eclipse IDE, 2025-03, bietet Support für die Standards bis C++23 – und per Erweiterung auch für Java 24.",
+      "url": "https://www.heise.de/news/Entwicklungsumgebung-Eclipse-2025-03-aktualisiert-fuer-C-23-und-Java-24-10313713.html",
+      "image_title": "Eclipse IDE Logo"
+    },
+    {
+      "title": "Python: Mit Minecraft spielerisch programmieren lernen",
+      "teaser": "In Minecraft Education können Sie ganz einfach mit Python ein Villager-Dorf generieren. Wir zeigen, wie der Einstieg in Python gelingt.",
+      "url": "https://www.heise.de/ratgeber/Python-Mit-Minecraft-spielerisch-programmieren-lernen-10296218.html",
+      "image_title": "Ein Minecraft Dirt-Block und das Symbol der Programmiersprache Python"
+    },
+    {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Mastering Observability: Softwaresysteme verstehen, steuern und verbessern",
       "teaser": "Wie sich mit Observability Anwendungsverfügbarkeit sichern, Leistung steigern, Probleme erkennen und lösen lassen, zeigt die Online-Konferenz am 5. Juni 2025.",
       "url": "https://www.heise.de/news/Mastering-Observability-Softwaresysteme-verstehen-steuern-und-verbessern-10313041.html",
@@ -198,11 +215,6 @@
       "teaser": "Nach dem Streit um ein Shopping-Add-on von PayPal legt Google neue Richtlinien fest. Nutzer müssen künftig von Affiliate-Links in Add-ons profitieren können.",
       "url": "https://www.heise.de/news/Neue-Regeln-Google-verbietet-heimliche-Affiliate-Links-in-Chrome-Erweiterungen-10313827.html",
       "image_title": "Google-Bürogebäude mit Glasfront"
-    },
-    {
-      "title": "KI: Unternehmen brauchen solides IT-Management",
-      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "PowerPoint-Alternativen: Lässig präsentieren mit iA Presenter, Figma und Canva",
@@ -226,17 +238,6 @@
       "teaser": "OpenAI hat mit dem Rollout des KI-Agenten Operator in der EU begonnen. Dieser basiert auf einem Computer-Using-Agent.",
       "url": "https://www.heise.de/news/OpenAI-bringt-den-Operator-nach-Deutschland-10314171.html",
       "image_title": "Das Logo von OpenAI an einer Glasfassade"
-    },
-    {
-      "title": "Luxus-Laufband fürs Büro: Walkolution im Test",
-      "teaser": "Das Walkolution 2 ist ein mechanisches Laufband aus Metall und Holz. Wir zeigen, für wen sich das teure Walkingpad aus Deutschland lohnt – und für wen nicht.",
-      "url": "https://www.heise.de/tests/Luxus-Laufband-fuers-Buero-Walkolution-im-Test-10184785.html"
-    },
-    {
-      "title": "Donnerstag: Facebooks Live-Videos als Zeitgeschichte, iRobot mit Selbstzweifeln",
-      "teaser": "Journalisten gegen Facebooks Video-Löschungen + Sorgen beim Roomba-Hersteller + Intel mit neuem Chef + Bürgerrechtler gegen BND-Bundestrojaner + #heiseshow",
-      "url": "https://www.heise.de/news/Donnerstag-Facebooks-Live-Videos-als-Zeitgeschichte-iRobot-mit-Selbstzweifeln-10314167.html",
-      "image_title": "Person in einer Menschenmenge hält Schild hoch, das Veränderung verlangt; Donnerstag: Facebook-Löschungen, iRobot-Bedenken, Intel-Chefwechsel, Bundestrojaner-Klage & #heiseshow"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -305,6 +306,17 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "Luxus-Laufband fürs Büro: Walkolution im Test",
+      "teaser": "Das Walkolution 2 ist ein mechanisches Laufband aus Metall und Holz. Wir zeigen, für wen sich das teure Walkingpad aus Deutschland lohnt – und für wen nicht.",
+      "url": "https://www.heise.de/tests/Luxus-Laufband-fuers-Buero-Walkolution-im-Test-10184785.html"
+    },
+    {
+      "title": "Donnerstag: Facebooks Live-Videos als Zeitgeschichte, iRobot mit Selbstzweifeln",
+      "teaser": "Journalisten gegen Facebooks Video-Löschungen + Sorgen beim Roomba-Hersteller + Intel mit neuem Chef + Bürgerrechtler gegen BND-Bundestrojaner + #heiseshow",
+      "url": "https://www.heise.de/news/Donnerstag-Facebooks-Live-Videos-als-Zeitgeschichte-iRobot-mit-Selbstzweifeln-10314167.html",
+      "image_title": "Person in einer Menschenmenge hält Schild hoch, das Veränderung verlangt; Donnerstag: Facebook-Löschungen, iRobot-Bedenken, Intel-Chefwechsel, Bundestrojaner-Klage & #heiseshow"
+    },
+    {
       "title": "#heiseshow: Freedom Cities, Siri-LLM, KI und die Gesellschaft",
       "teaser": "Tech-Milliardäre träumen von Städten ohne Regeln, Apple verschiebt KI-Pläne für Siri und eine Studie zeigt die wachsende Kluft bei KI-Nutzung.",
       "url": "https://www.heise.de/news/heiseshow-Freedom-Cities-Siri-LLM-KI-und-die-Gesellschaft-10313911.html"
@@ -368,6 +380,11 @@
       "image_title": "Wafer mit Meteor-Lake-Dies"
     },
     {
+      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
+      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
+    },
+    {
       "title": "Supermärkte und Discounter: Verbraucherschützer warnen vor Rabatt-Apps",
       "teaser": "Die Verbraucherzentrale NRW klärt über Irrtümer rund um Supermarkt-Apps auf. Und warnt: Für mögliche kleine Vergünstigungen werde der Nutzer gläsern.",
       "url": "https://www.heise.de/news/Supermaerkte-und-Discounter-Verbraucherschuetzer-warnen-vor-Rabatt-Apps-10313951.html",
@@ -377,11 +394,6 @@
       "title": "Kontrollierte RZ-Datenflüsse mit HPE-Switch CX 10000 im Test",
       "teaser": "Dank einer AMD-DPU bewältigt der Switch von HPE Aruba Networking Stateful Packet Inspection. Er verarbeitet Traffic im Rechenzentrum bei voller Durchsatzrate.",
       "url": "https://www.heise.de/tests/Kontrollierte-RZ-Datenfluesse-mit-HPE-Switch-CX-10000-im-Test-10298427.html"
-    },
-    {
-      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
-      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
     },
     {
       "title": "Acemagic M2A Starship im Test: Mini-Gaming-PC mit Nvidia-Grafikkarte ab 899 €",
@@ -429,18 +441,6 @@
       "teaser": "Der lahme Netzausbau in Deutschland bleibt ein Hemmschuh für viele Firmen – und die Verfügbarkeit von schnellem Internet vor Ort oft unter Bedarf.",
       "url": "https://www.heise.de/news/Viele-Unternehmen-klagen-weiterhin-ueber-langsamen-Netzausbau-10313651.html",
       "image_title": "Glasfaser und Hand"
-    },
-    {
-      "title": "Studie: Solar- und Windenergie übertreffen in den USA Kohle",
-      "teaser": "In den USA steigt die Nachfrage nach Strom. Eine alte Energiequelle spielt dabei nur noch eine kleinere Rolle.",
-      "url": "https://www.heise.de/news/Studie-Solar-und-Windenergie-uebertreffen-in-den-USA-Kohle-10313595.html",
-      "image_title": "Windkraftanlagen hinter Solarpaneelen in der Landschaft"
-    },
-    {
-      "title": "Künstlicher Studio-Look: Googles kostenloser KI-Filter für Videokonferenzen",
-      "teaser": "Nutzer von Google Workspace können ihre Videoübertragung in Meetings mit KI-Unterstützung anpassen. Eingehende Nachrichten übersetzt Google Chat automatisch.",
-      "url": "https://www.heise.de/news/Kuenstlicher-Studio-Look-Googles-kostenloser-KI-Filter-fuer-Videokonferenzen-10313187.html",
-      "image_title": "Screenshot von Google Meet"
     },
     {
       "title": "Mit wichtigem Sicherheitsupdate: macOS 15.3.2 und iOS 18.3.2 verfügbar",
@@ -630,10 +630,10 @@
       "image_title": "Hazel auf dem Mac"
     },
     {
-      "title": "Apples schnellster MehrkernerMac Studio M3 Ultra (2025) im Test",
-      "teaser": "Apples kompakter Profi-Rechner bekommt endlich wieder ein Upgrade. Der Hersteller fährt dabei eine ungewöhnliche Strategie mit M3 Ultra und M4 Max. Unser Test.",
-      "url": "https://www.heise.de/tests/Mac-Studio-M3-Ultra-Apples-schnellster-Mehrkerner-im-Test-10311863.html",
-      "image_title": "Mac Studio M3 Ultra"
+      "title": "Tippen und Drehen: Mac-Zubehör für Kreative von Logitech im Test",
+      "teaser": "Logitechs MX Creative Console ersetzt Tastenkombinationen in ausgesuchten Kreativprogrammen.",
+      "url": "https://www.heise.de/tests/Tippen-und-Drehen-Mac-Zubehoer-fuer-Kreative-von-Logitech-im-Test-10294040.html",
+      "image_title": "MX Creative Console von Logitech"
     },
     {
       "title": "Pi Pico im UNO-Formfaktor",
@@ -648,15 +648,15 @@
       "image_title": "Einplatinencomputer Orange Pi RV2"
     },
     {
-      "title": "Wissensvermittlung im Bereich 3D-Drucker: FabLab bekommt Hochschulperle",
-      "teaser": "Das FabLab Kamp-Lintfort erhält die Hochschulperle für sein Weiterbildungsangebot zu 3D-Druck und digitaler Fertigung.",
-      "url": "https://www.heise.de/news/Wissensvermittlung-im-Bereich-3D-Drucker-FabLab-bekommt-Hochschulperle-10309984.html"
+      "title": "KI-Katzenklo: Erkennt Katzen und erleichtert die Gesunderhaltung der Vierbeiner",
+      "teaser": "Das Projekt benötigt ESP32-CAMs mit KI für Objekterkennung, um die Klonutzung kranker Katzen zu überwachen und sendet Benachrichtigungen über Home-Assistant.",
+      "url": "https://www.heise.de/ratgeber/Projekt-Katzenklo-Wie-man-den-Gesundheitszustand-einer-Katze-mit-KI-erkennt-10303520.html"
     },
     {
-      "title": "100 Jahre Leica I: Ein historischer Blick auf die Barnack-Erfindung",
-      "teaser": "Mit der Leica I definierte Oskar Barnack das Kleinbildformat und die Normalbrennweite. Viele Theorien versuchten, seine Entscheidungen nachträglich zu erklären.",
-      "url": "https://www.heise.de/hintergrund/100-Jahre-Leica-I-Ein-historischer-Blick-auf-die-Barnack-Erfindung-10287576.html",
-      "image_title": ", Leica Camera AG"
+      "title": "Gebrauchte Objektive im Test: Festbrennweiten für Canon R und Nikon Z",
+      "teaser": "Für herausragende Fotos brauchen Fotografen gute Objektive. Es müssen aber keine modernen Modelle sein. Unsere Autoren erklären, was sich lohnt und was nicht.",
+      "url": "https://www.heise.de/tests/Gebrauchte-Objektive-im-Test-Festbrennweiten-fuer-Canon-R-und-Nikon-Z-10286420.html",
+      "image_title": "Viele ältere Objektive lassen sich an moderne Kameras adaptieren. Fotografen sparen Kosten und die Bildergebnisse können vielfach überzeugen., Alle Bilder: Radomir Jakubowski (Canon) und Stephan Amm (Nikon)"
     },
     {
       "title": "Wieder Smartphone-Wechseloptik und viel Sofortbild – Fotonews der Woche 10/2025",
@@ -748,21 +748,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "China: Volkskongress gibt grünes Licht für mehr Konsum",
-      "teaser": "China setzt auf mehr Konsum und höhere Staatsausgaben. Erstmals seit Jahrzehnten steigt das Haushaltsdefizit auf vier Prozent. Ein wirtschaftspolitischer Überblick.",
-      "url": "https://www.heise.de/tp/features/China-Volkskongress-gibt-gruenes-Licht-fuer-mehr-Konsum-10312443.html",
-      "image_title": "Ein Gebäude mit roten Fahnen darauf"
-    },
-    {
-      "title": "Brutaler Missbrauch auf Pornhub: Versagen die Kontrollen völlig?",
-      "teaser": "Ein 21-jähriger Brite erhielt 23 Jahre Haft für Übergriffe auf Jungen. Die Aufnahmen verbreitete er online. Maßnahmen der öffentlichen Hand könnten den Online-Sex-Markt verändern.",
-      "url": "https://www.heise.de/tp/features/Brutaler-Missbrauch-auf-Pornhub-Versagen-die-Kontrollen-voellig-10314187.html",
-      "image_title": "Unscharfer Monitor mit dem Logo der Plattform Pornhub"
+      "title": "China und Deutschland: Forscher entwickeln neuartige Prozessoren",
+      "teaser": "Chinesische Wissenschaftler haben den weltweit ersten KI-Chip aus Kohlenstoff gebaut. Auch deutsche Forscher arbeiten an einem neuen Chip, der mit Licht arbeitet.",
+      "url": "https://www.heise.de/tp/features/China-und-Deutschland-Forscher-entwickeln-neuartige-Prozessoren-10310393.html",
+      "image_title": "Symbolbid eines Prozessors, der mit Licht arbeitet"
     },
     {
       "title": "Roboterpanzer Havoc: Wenn KI in den Krieg zieht",
       "teaser": "Unbemannte Kampffahrzeuge erobern das moderne Schlachtfeld. Havoc 8x8 setzt mit KI-Steuerung und 30-mm-Bewaffnung Maßstäbe. Doch was passiert, wenn die Maschinen die Kontrolle übernehmen?",
       "url": "https://www.heise.de/tp/features/Roboterpanzer-Havoc-Wenn-KI-in-den-Krieg-zieht-10312605.html"
+    },
+    {
+      "title": "IT-Sicherheit: Jedes zehnte Unternehmen in Deutschland wird ausspioniert",
+      "teaser": "Deutsche Unternehmen werden immer häufiger Opfer von Spionage. Eine neue IAB-Studie zeigt das ganze Ausmaß. Forscher appellieren, mehr in IT-Sicherheit zu investieren.",
+      "url": "https://www.heise.de/tp/features/IT-Sicherheit-Jedes-zehnte-Unternehmen-in-Deutschland-wird-ausspioniert-10312709.html",
+      "image_title": "Cyber-Sicherheitssystem mit globalem Internet-Netzwerk"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
