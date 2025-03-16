@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-16T12:14:50",
+  "timestamp": "2025-03-16T13:14:20",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "100 Jahre Leica I: Ein historischer Blick auf die Barnack-Erfindung",
+      "url": "https://www.heise.de/hintergrund/100-Jahre-Leica-I-Ein-historischer-Blick-auf-die-Barnack-Erfindung-10287576.html"
+    },
     {
       "title": "iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
       "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-10305106.html"
@@ -60,10 +64,6 @@
     {
       "title": "Online-Casinos wie \"Slotmagie\" nach Datenverlust offline",
       "url": "https://www.heise.de/news/Online-Casinos-wie-Slotmagie-nach-Datenverlust-offline-10317075.html"
-    },
-    {
-      "title": "Klarna geht an die Börse in den USA",
-      "url": "https://www.heise.de/news/Klarna-geht-an-die-Boerse-in-den-USA-10317071.html"
     },
     {
       "title": "Missing LinkSetzt Tokyo Metro bald den europäischen Nahverkehr unter Strom?",
@@ -192,21 +192,27 @@
       "url": "https://www.heise.de/news/Fuenf-wirklich-gute-Alternativen-zu-Outlook-und-Thunderbird-10316424.html"
     },
     {
+      "title": "100 Jahre Leica I: Ein historischer Blick auf die Barnack-Erfindung",
+      "teaser": "Mit der Leica I definierte Oskar Barnack das Kleinbildformat und die Normalbrennweite. Viele Theorien versuchten, seine Entscheidungen nachträglich zu erklären.",
+      "url": "https://www.heise.de/hintergrund/100-Jahre-Leica-I-Ein-historischer-Blick-auf-die-Barnack-Erfindung-10287576.html",
+      "image_title": ", Leica Camera AG"
+    },
+    {
       "title": "iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
       "teaser": "Lernen Sie hands-on, wie Sie Schwachstellen in der API-Implementierung vermeiden und Angriffe abwehren.",
       "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-10305106.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Foxconn: Trumps Zölle bereiten Tech-Giganten \"große Kopfschmerzen\"",
       "teaser": "Die Zollankündigungen der US-Regierung führten zu großen Problemen für Big-Tech-Konzerne wie Apple und Amazon, erklärt ihr taiwanesischer Zulieferer Foxconn.",
       "url": "https://www.heise.de/news/Foxconn-Trumps-Zoelle-bereiten-Tech-Giganten-grosse-Kopfschmerzen-10317185.html",
       "image_title": "Firmenschild von Foxconn"
-    },
-    {
-      "title": "KI: Unternehmen brauchen solides IT-Management",
-      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "UpdateAmazon Alexa: Alle Sprachaufnahmen sollen in die Cloud und ausgewertet werden",
@@ -233,12 +239,6 @@
       "title": "KI-Katzenklo: Erkennt Katzen und erleichtert die Gesunderhaltung der Vierbeiner",
       "teaser": "Das Projekt benötigt ESP32-CAMs mit KI für Objekterkennung, um die Klonutzung kranker Katzen zu überwachen und sendet Benachrichtigungen über Home-Assistant.",
       "url": "https://www.heise.de/ratgeber/Projekt-Katzenklo-Wie-man-den-Gesundheitszustand-einer-Katze-mit-KI-erkennt-10303520.html"
-    },
-    {
-      "title": "Klarna geht an die Börse in den USA",
-      "teaser": "Klarna wurde erfolgreich mit dem Angebot, Käufe später zu bezahlen oder in Raten abzustottern. Jetzt wagt die schwedische Firma den Schritt an die Börse.",
-      "url": "https://www.heise.de/news/Klarna-geht-an-die-Boerse-in-den-USA-10317071.html",
-      "image_title": "Klarna-Schriftzug an Glastür"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -305,6 +305,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Klarna geht an die Börse in den USA",
+      "teaser": "Klarna wurde erfolgreich mit dem Angebot, Käufe später zu bezahlen oder in Raten abzustottern. Jetzt wagt die schwedische Firma den Schritt an die Börse.",
+      "url": "https://www.heise.de/news/Klarna-geht-an-die-Boerse-in-den-USA-10317071.html",
+      "image_title": "Klarna-Schriftzug an Glastür"
     },
     {
       "title": "Top 10: Der beste Mini-PC von Office bis Gaming im Test",
@@ -374,15 +380,15 @@
       "image_title": "Liven Ambient Zero zeigt Firmware-Stand an"
     },
     {
+      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
+      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop SAP BTP: Von Datensilos zu integrierten Geschäftsprozessen",
       "teaser": "Erfahren Sie, wie Sie SAP BTP nutzen, um Ihre Geschäftsanwendungen zu vernetzen und eine einheitliche Datenbasis zu schaffen.",
       "url": "https://www.heise.de/news/iX-Workshop-SAP-BTP-Von-Datensilos-zu-integrierten-Geschaeftsprozessen-10304594.html",
       "image_title": "SAP BTP"
-    },
-    {
-      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
-      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
     },
     {
       "title": "c’t-Story: Seelenfrieden",
@@ -434,11 +440,6 @@
       "teaser": "Vodafone klagt in einem Musterprozess gegen Sperrverfügungen der Medienaufsicht NRW für Pornhub und YouPorn. Pÿur und 1&1 sind ebenfalls vor Gericht gezogen.",
       "url": "https://www.heise.de/news/Pornhub-Co-Provider-wehren-sich-gerichtlich-gegen-Sperranordnungen-10316778.html",
       "image_title": "Blick auf Pornhub"
-    },
-    {
-      "title": "Data Act: Landesdatenschützer befürchten Entmachtung",
-      "teaser": "Der Entwurf zur Implementierung des Data Act verstößt laut den Datenschutzbeauftragten der Länder gegen Europarecht. Sie würden ihrer Zuständigkeit beraubt.",
-      "url": "https://www.heise.de/news/Data-Act-Landesdatenschuetzer-befuerchten-Entmachtung-10316726.html"
     },
     {
       "title": "IT-Sicherheit soll von Schuldenbremse weitgehend ausgenommen werden",
@@ -609,20 +610,19 @@
       "url": "https://www.heise.de/en/news/iPhone-in-the-car-improvements-to-CarPlay-and-navigation-in-iOS-18-4-10316206.html"
     },
     {
-      "title": "Click of DeathDie Festplatte, die IBMs Festplattensparte den Garaus machte",
-      "teaser": "Im März 2000 stellte IBM neue Festplatten vor. Berühmt-berüchtigt wurden 40GV und 75GXP vor allem aufgrund hoher Ausfallraten.",
-      "url": "https://www.heise.de/news/History-IBM-75GXP-die-Festplatte-zum-Ausstieg-aus-dem-Festplattengeschaeft-10312256.html",
-      "image_title": "IBM-Festplatte auf blauem Untergrund"
+      "title": "c't 3003Fünf wirklich gute Alternativen zu Outlook und Thunderbird",
+      "teaser": "Mail-Programme sind quicklebendig: c't 3003 hat fünf ungewöhnliche Mail-Clients getestet und mit den Standard-Programmen verglichen.",
+      "url": "https://www.heise.de/news/Fuenf-wirklich-gute-Alternativen-zu-Outlook-und-Thunderbird-10316424.html"
+    },
+    {
+      "title": "PDF-Passwort vergessen",
+      "teaser": "Ich habe das Passwort zum Öffnen eines PDF-Dokuments vergessen. Gibt es eine Möglichkeit, ohne aufwendiges Knacken dennoch auf den Inhalt zuzugreifen?",
+      "url": "https://www.heise.de/ratgeber/PDF-Passwort-vergessen-10309729.html"
     },
     {
       "title": "c’t uplinkLinux auf ARM-Laptops und Chromebooks",
       "teaser": "In dieser Folge des c’t uplink geht es um die Frage, wie gut oder schlecht Linux auf Geräten läuft, die eigentlich nicht dafür gedacht sind.",
       "url": "https://www.heise.de/news/Linux-auf-ARM-Laptops-und-Chromebooks-c-t-uplink-10315408.html"
-    },
-    {
-      "title": "c't 3003Fünf wirklich gute Alternativen zu Outlook und Thunderbird",
-      "teaser": "Mail-Programme sind quicklebendig: c't 3003 hat fünf ungewöhnliche Mail-Clients getestet und mit den Standard-Programmen verglichen.",
-      "url": "https://www.heise.de/news/Fuenf-wirklich-gute-Alternativen-zu-Outlook-und-Thunderbird-10316424.html"
     },
     {
       "title": "Apples schnellster MehrkernerMac Studio M3 Ultra (2025) im Test",
@@ -661,12 +661,6 @@
       "image_title": "Mikrocontroller TI MSPM0C1104 im Gehäuse mit 1,6 × 0,861 Millimetern."
     },
     {
-      "title": "100 Jahre Leica I: Ein historischer Blick auf die Barnack-Erfindung",
-      "teaser": "Mit der Leica I definierte Oskar Barnack das Kleinbildformat und die Normalbrennweite. Viele Theorien versuchten, seine Entscheidungen nachträglich zu erklären.",
-      "url": "https://www.heise.de/hintergrund/100-Jahre-Leica-I-Ein-historischer-Blick-auf-die-Barnack-Erfindung-10287576.html",
-      "image_title": ", Leica Camera AG"
-    },
-    {
       "title": "Gebrauchte Objektive im Test: Festbrennweiten für Canon R und Nikon Z",
       "teaser": "Für herausragende Fotos brauchen Fotografen gute Objektive. Es müssen aber keine modernen Modelle sein. Unsere Autoren erklären, was sich lohnt und was nicht.",
       "url": "https://www.heise.de/tests/Gebrauchte-Objektive-im-Test-Festbrennweiten-fuer-Canon-R-und-Nikon-Z-10286420.html",
@@ -681,6 +675,12 @@
       "title": "Supermond, Schluchten und ein Neuanfang: Die Bilder der Woche KW 9",
       "teaser": "Während bei uns die Frühjahrsblüher sprießen, herrscht in anderen Teilen der Welt ein ganz eigenes Klima. Die Bilder dieser Woche nehmen Sie mit nach Süden.",
       "url": "https://www.heise.de/news/Supermond-Schluchten-und-ein-Neuanfang-Die-Bilder-der-Woche-KW-9-10306883.html"
+    },
+    {
+      "title": "TTArtisan stellt faltbare Sofortbildkamera im Retro-Look vor",
+      "teaser": "Der Objektivhersteller TTArtisan hat eine faltbare Sofortbildkamera präsentiert, die ein auffälliges Retro-Design mit moderner Sofortbild-Technologie verbindet.",
+      "url": "https://www.heise.de/news/TTArtisan-stellt-faltbare-Sofortbildkamera-im-Retro-Look-vor-10308783.html",
+      "image_title": "Die neue Sofortbildkamera TTArtisan 203T steht auf einem Holztisch."
     },
     {
       "title": "DeepSeek-R1: Die Technik hinter dem Hype",
@@ -757,22 +757,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Nordkoreas Marine rüstet auf: Erstes Atom-U-Boot in Entwicklung",
-      "teaser": "Kim Jong Un besichtigte ein im Bau befindliches Atom-U-Boot. Das 7000-Tonnen-Schiff soll zehn Nuklearraketen tragen können. Hatte Kim Hilfe?",
-      "url": "https://www.heise.de/tp/features/Nordkoreas-Marine-ruestet-auf-Erstes-Atom-U-Boot-in-Entwicklung-10312517.html",
-      "image_title": "Ein U-Boot im Bau, eine Gruppe Männer daneben"
+      "title": "Was Doge für die Welt – und auch Deutschland bedeutet",
+      "teaser": "Elon Musks Behörde Doge krempelt die US-Regierung radikal um. Die Auswirkungen reichen bis nach Deutschland. Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Was-Doge-fuer-die-Welt-und-auch-Deutschland-bedeutet-10315101.html",
+      "image_title": "Zwei Personen halten je ein Protestschild"
     },
     {
-      "title": "Ukraine-Krieg: Warum Putin kein zweiter Hitler ist",
-      "teaser": "USA drängen auf Gespräche zwischen Kiew und Moskau. Europa bleibt kritisch. Rennen wir wie 1938 in die Appeasement-Falle? Ein Kommentar.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Warum-Putin-kein-zweiter-Hitler-ist-10315786.html",
-      "image_title": "Der russische Präsident Wladimir Putin während einer gemeinsamen Pressekonferenz mit dem weißrussischen Präsidenten Alexander Lukaschenko, 13. März 2025."
+      "title": "Indien startet Testmissionen für ersten bemannten Raumflug",
+      "teaser": "Die indische Weltraumorganisation ISRO bereitet sich mit einem unbemannten Testlauf auf ihre erste bemannte Raumfahrtmission Gaganyaan vor. Die ESA unterstützt das Vorhaben.",
+      "url": "https://www.heise.de/tp/features/Indien-startet-Testmissionen-fuer-ersten-bemannten-Raumflug-10310576.html",
+      "image_title": "Foto eines weiblich designten Roboters"
     },
     {
-      "title": "Multikulti gescheitert? Singapur beweist das Gegenteil",
-      "teaser": "Ethnische Konflikte und Rassismus gelten als unvermeidbar. Doch Singapur macht vor, wie es funktionieren kann. Die Lösung ist überraschend einfach.",
-      "url": "https://www.heise.de/tp/features/Multikulti-gescheitert-Singapur-beweist-das-Gegenteil-10314778.html",
-      "image_title": "Multikulturelle Jugendliche mit Singapur-Flaggen"
+      "title": "BND hielt Laborunfall in Wuhan für wahrscheinlichen Ursprung der Pandemie",
+      "teaser": "Der BND vermutet, die Covid-19-Pandemie begann durch einen Laborunfall in Wuhan. Das Kanzleramt hielt die Einschätzung geheim. Jetzt erhalten Virologen Datenzugriff.",
+      "url": "https://www.heise.de/tp/features/BND-hielt-Laborunfall-in-Wuhan-fuer-wahrscheinlichen-Ursprung-der-Pandemie-10314705.html",
+      "image_title": "Werbeplakat am Zaun des BND-Geländes in Berlin Mitte"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
