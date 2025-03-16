@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-16T08:10:56",
+  "timestamp": "2025-03-16T09:08:23",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Product Owner Days 2025: Tickets für die Konferenz am 2. und 3. April sichern",
+      "url": "https://www.heise.de/news/Product-Owner-Days-2025-Tickets-fuer-die-Konferenz-am-2-und-3-April-sichern-10313524.html"
+    },
     {
       "title": "KI-Katzenklo: Erkennt Katzen und erleichtert die Gesunderhaltung der Vierbeiner",
       "url": "https://www.heise.de/ratgeber/Projekt-Katzenklo-Wie-man-den-Gesundheitszustand-einer-Katze-mit-KI-erkennt-10303520.html"
@@ -60,10 +64,6 @@
     {
       "title": "Korruptionsermittlungen: EU-Parlament verbannt Huawei-Lobbyisten vorläufig",
       "url": "https://www.heise.de/news/Korruptionsermittlungen-EU-Parlament-verbannt-Huawei-Lobbyisten-vorlaeufig-10317035.html"
-    },
-    {
-      "title": "Dramaturgie eines Milliardencoups: Erste Untersuchungsdetails zum Fall Bybit",
-      "url": "https://www.heise.de/news/Dramaturgie-eines-Milliardencoups-Erste-Untersuchungsdetails-zum-Fall-Bybit-10316989.html"
     },
     {
       "title": "UpdateSlotmagie und Co.Online-Casinos nach Datenverlust offline",
@@ -186,20 +186,26 @@
       "url": "https://www.heise.de/news/Fuenf-wirklich-gute-Alternativen-zu-Outlook-und-Thunderbird-10316424.html"
     },
     {
+      "title": "Product Owner Days 2025: Tickets für die Konferenz am 2. und 3. April sichern",
+      "teaser": "Nur noch wenige Wochen bis zur Konferenz in Köln: Dort erfahren Product Owner, wie sie begeisternde Produkte entwickeln.",
+      "url": "https://www.heise.de/news/Product-Owner-Days-2025-Tickets-fuer-die-Konferenz-am-2-und-3-April-sichern-10313524.html",
+      "image_title": "Product Owner Days 2025, 1.-3. April in Köln, Komed MediaPark"
+    },
+    {
       "title": "KI-Katzenklo: Erkennt Katzen und erleichtert die Gesunderhaltung der Vierbeiner",
       "teaser": "Das Projekt benötigt ESP32-CAMs mit KI für Objekterkennung, um die Klonutzung kranker Katzen zu überwachen und sendet Benachrichtigungen über Home-Assistant.",
       "url": "https://www.heise.de/ratgeber/Projekt-Katzenklo-Wie-man-den-Gesundheitszustand-einer-Katze-mit-KI-erkennt-10303520.html"
+    },
+    {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Missing Link: Setzt Tokyo Metro bald den europäischen Nahverkehr unter Strom?",
       "teaser": "Aus einer Firma, die Staat und Stadt gehörte, ist ein Börsenunternehmen geworden: Die Tokyo Metro Co., Ltd. zeigt, dass ÖPNV profitabel sein kann – und gut.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Setzt-Tokyo-Metro-bald-den-europaeischen-Nahverkehr-unter-Strom-10190784.html",
       "image_title": "Zug der Tokyo Metro"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Klarna geht an die Börse in den USA",
@@ -229,12 +235,6 @@
       "teaser": "Mit den richtigen Tools lässt sich ein eigenes Medienportal anlegen und mit Tricks greift man auch auf Inhalte aus dem Ausland zu.",
       "url": "https://www.heise.de/ratgeber/Mediatheken-Perlen-finden-schauen-und-archivieren-auch-aus-dem-Ausland-10293407.html",
       "image_title": ", KI, Collage c’t"
-    },
-    {
-      "title": "Korruptionsermittlungen: EU-Parlament verbannt Huawei-Lobbyisten vorläufig",
-      "teaser": "Das EU-Parlament und die Kommission haben Huawei-Interessensvertreter angesichts von Bestechungsvorwürfen gegen den chinesischen Konzern vor die Tür gesetzt.",
-      "url": "https://www.heise.de/news/Korruptionsermittlungen-EU-Parlament-verbannt-Huawei-Lobbyisten-vorlaeufig-10317035.html",
-      "image_title": "Das Huawei-Logo an eine Wand projiziert; im Vordergrund Schattenrisse zweier Menschen"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -301,6 +301,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Korruptionsermittlungen: EU-Parlament verbannt Huawei-Lobbyisten vorläufig",
+      "teaser": "Das EU-Parlament und die Kommission haben Huawei-Interessensvertreter angesichts von Bestechungsvorwürfen gegen den chinesischen Konzern vor die Tür gesetzt.",
+      "url": "https://www.heise.de/news/Korruptionsermittlungen-EU-Parlament-verbannt-Huawei-Lobbyisten-vorlaeufig-10317035.html",
+      "image_title": "Das Huawei-Logo an eine Wand projiziert; im Vordergrund Schattenrisse zweier Menschen"
     },
     {
       "title": "Samsung Galaxy Buds 3 Pro im Test: Kauft lieber die Pixel Buds Pro 2",
@@ -371,15 +377,15 @@
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
+      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
+      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
+    },
+    {
       "title": "Innere Unruhe, leuchtende Pyramiden und Nordlichter: Die Bilder der Woche KW 10",
       "teaser": "Diese Woche zeigen unsere Galeriefotografen beeindruckende Landschaften vom ägyptischen Giseh bis zur atemberaubenden Aurora Borealis über einem Fjord.",
       "url": "https://www.heise.de/news/Innere-Unruhe-leuchtende-Pyramiden-und-Nordlichter-Die-Bilder-der-Woche-KW-10-10315035.html",
       "image_title": "Polarlichter über Gebirge"
-    },
-    {
-      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
-      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
     },
     {
       "title": "OpenAI macht KI zur \"Frage nationaler Sicherheit\" und fordert US-Dominanz",
@@ -429,12 +435,6 @@
       "title": "US-Whistleblower Mark Klein ist tot: Die Spur in die Abhörräume der NSA",
       "teaser": "Der US-amerikanische Whistleblower Mark Klein ist tot. Durch ihn wurde erstmals öffentlich bekannt, dass die NSA auch US-Amerikaner belauschte.",
       "url": "https://www.heise.de/news/Big-Brother-verdrahten-und-bekaempfen-Zum-Tode-von-Whisteblower-Mark-Klein-10316590.html"
-    },
-    {
-      "title": "Strafzölle rauf, E-Motorräder runter: Krisenmodus für Harley-Davidson",
-      "teaser": "Zölle der EU auf US-Kräder werden Harley-Davidsons Lage verschärfen. Die Elektro-Bikes helfen nicht, weltweit verkaufte LiveWire 2024 nur 612 Stück.",
-      "url": "https://www.heise.de/news/Strafzoelle-und-stagnierende-E-Motorraeder-Harley-Davidson-bleibt-im-Krisenmodus-10315144.html",
-      "image_title": "Harley-Davidson"
     },
     {
       "title": "IT-Sicherheit soll von Schuldenbremse weitgehend ausgenommen werden",
@@ -502,14 +502,14 @@
       "image_title": "Richterhammer vor @-Zeichen"
     },
     {
+      "title": "Strafzölle rauf, E-Motorräder runter: Krisenmodus für Harley-Davidson",
+      "url": "https://www.heise.de/news/Strafzoelle-und-stagnierende-E-Motorraeder-Harley-Davidson-bleibt-im-Krisenmodus-10315144.html",
+      "image_title": "Harley-Davidson"
+    },
+    {
       "title": "Vorbild Dänemark? Das sagt die Deutsche Post zur Zukunft des Briefs",
       "url": "https://www.heise.de/news/Vorbild-Daenemark-Das-sagt-die-Deutsche-Post-zur-Zukunft-des-Briefs-10315820.html",
       "image_title": "Ein gelber Briefkasten der Deutschen Post steht an einer Gebäudewand"
-    },
-    {
-      "title": "Waymo: Selbstfahrende Autos sammeln mehr als 600 Strafzettel wegen Falschparkens",
-      "url": "https://www.heise.de/news/Waymo-Selbstfahrende-Autos-sammeln-mehr-als-600-Strafzettel-wegen-Falschparkens-10315520.html",
-      "image_title": "Fahrgäste steigen in Waymo-Fahrzeug ein."
     },
     {
       "title": "Firefox-Finanzierung unter Druck: Mozilla bangt um Zahlungen für Google-Suche",
@@ -701,6 +701,12 @@
       "image_title": "BMW-Logo auf weißer Motorhaube"
     },
     {
+      "title": "Autonomes Fahren600 Knöllchen für Robotaxidienst Waymo",
+      "teaser": "Auch autonome Fahrzeuge nehmen es mit dem Parken nicht immer ganz genau. Waymos Robotaxis verstoßen ab und an gegen die Parkregeln. Das soll aber aufhören.",
+      "url": "https://www.heise.de/news/Waymo-Selbstfahrende-Autos-sammeln-mehr-als-600-Strafzettel-wegen-Falschparkens-10315520.html",
+      "image_title": "Fahrgäste steigen in Waymo-Fahrzeug ein."
+    },
+    {
       "title": "Warnung an Regierung TrumpTesla beurteilt neue US-Zölle als negativ",
       "teaser": "In einem nicht unterzeichneten Brief hat Tesla die US-Regierung vor den Folgen der Verhängung immer neuer Zölle gewarnt.",
       "url": "https://www.heise.de/news/Anonymer-Brief-von-Tesla-Warnung-vor-negativen-Folgen-von-Donald-Trumps-Zoellen-10315510.html",
@@ -711,12 +717,6 @@
       "teaser": "Royal Enfield dürfte mit der Guerrilla 450 vor allem Einsteiger ansprechen. Das farbenfrohe Naked Bike wirkt frisch ohne die von der Marke gewohnte Retro-Optik.",
       "url": "https://www.heise.de/news/Einsteigermotorrad-Royal-Enfield-Guerrilla-450-Farbenspielerisch-10308718.html",
       "image_title": "Royal Enfield Guerrilla 450"
-    },
-    {
-      "title": "Waymo bietet autonomen Taxi-Dienst im Silicon Valley an",
-      "teaser": "Im Silicon Valley hat Google mit der Entwicklung autonomer Fahrzeuge begonnen. Jetzt bietet Waymo seinen Dienst mit autonomen Taxis dort an.",
-      "url": "https://www.heise.de/news/Waymos-autonome-Taxis-kommen-ins-Silicon-Valley-10313700.html",
-      "image_title": "Autonomes Waymo-Taxi in San Francisco"
     },
     {
       "title": "Trumps neue Handelsagenda: Was ist der Mar-a-Lago-Accord?",
@@ -754,22 +754,20 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Lebensmittelpreise: 90 Prozent der Deutschen schlagen Alarm",
-      "teaser": "Die Deutschen sorgen sich massiv um steigende Lebensmittelpreise. Eine neue Umfrage zeigt: 90 Prozent fordern Handeln von der Politik. Doch CDU und SPD haben einen blinden Fleck.",
-      "url": "https://www.heise.de/tp/features/Lebensmittelpreise-90-Prozent-der-Deutschen-schlagen-Alarm-10316939.html",
-      "image_title": "Eine Frau schaut im Supermarkt ungläubig auf den Kassenbon und wundert sich über die gestiegenen Preise für Lebensmittel."
+      "title": "Sondervermögen: Experten sehen Spielraum für zwei Billionen Euro",
+      "teaser": "Die Schuldenbremse steht vor historischer Reform. CDU und SPD wollen Militärausgaben von der Regelung ausnehmen. Ökonomen sehen Spielraum für deutlich mehr neue Kredite.",
+      "url": "https://www.heise.de/tp/features/Sondervermoegen-Experten-sehen-Spielraum-fuer-zwei-Billionen-Euro-10316153.html",
+      "image_title": "Porträtfoto von Friedrich Merz"
     },
     {
-      "title": "Die nächste FDP? Den Grünen droht ein Versagen in staatspolitischer Verantwortung",
-      "teaser": "Schicksalsentscheidung zu Schuldenbremse und Sondervermögen: Jürgen Trittin gibt seiner Partei bei \"Markus Lanz\" Ratschläge. Wird Fundamentalismus die Grünen in die Bedeutungslosigkeit führen? Kommentar.",
-      "url": "https://www.heise.de/tp/features/Die-naechste-FDP-Den-Gruenen-droht-ein-Versagen-in-staatspolitischer-Verantwortung-10315574.html",
-      "image_title": "Jürgen Trittin, Anton Hofreiter und Claudia Roth bei einem Treffen unter Regenschirmen im Jahr 2017"
+      "title": "Verschwendung de luxe: Bundeswehr-Karriere in Pistorius’ teuren Geisterschulen?",
+      "teaser": "Der Bund unterhält Schulen für Soldaten. Doch die werden kaum genutzt, kosten aber Millionen Steuergelder. Wieso hält das BMVg an den Geisterschulen fest?",
+      "url": "https://www.heise.de/tp/features/Verschwendung-de-luxe-Bundeswehr-Karriere-in-Pistorius-teuren-Geisterschulen-10316604.html"
     },
     {
-      "title": "Ukraine-Krieg: Putin knüpft Waffenstillstand an Bedingungen",
-      "teaser": "Im Zuge der von den USA geführten Friedensgespräche um die Ukraine steht derzeit ein Waffenstillstand im Raum. Doch Russland stellt Bedingungen. Wie geht es jetzt weiter?",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Putin-knuepft-Waffenstillstand-an-Bedingungen-10315854.html",
-      "image_title": "Russlands Präsident Wladimir Putin"
+      "title": "Wird Syrien der nächste gescheiterte Staat?",
+      "teaser": "Nach Massakern steht Syrien am Abgrund. Die Übergangsregierung kämpft um Kontrolle im zerrissenen Land. Wird das einst stolze Syrien nun endgültig zerfallen? Interview mit Stephanie Doetzer.",
+      "url": "https://www.heise.de/tp/features/Wird-Syrien-der-naechste-gescheiterte-Staat-10316821.html"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
