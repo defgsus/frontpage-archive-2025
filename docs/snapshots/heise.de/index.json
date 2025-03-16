@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-16T11:07:25",
+  "timestamp": "2025-03-16T12:14:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-10305106.html"
+    },
     {
       "title": "Foxconn: Trumps Zölle bereiten Tech-Giganten \"große Kopfschmerzen\"",
       "url": "https://www.heise.de/news/Foxconn-Trumps-Zoelle-bereiten-Tech-Giganten-grosse-Kopfschmerzen-10317185.html"
@@ -60,10 +64,6 @@
     {
       "title": "Klarna geht an die Börse in den USA",
       "url": "https://www.heise.de/news/Klarna-geht-an-die-Boerse-in-den-USA-10317071.html"
-    },
-    {
-      "title": "Siemens, Meta und weitere wollen Atomkraft auf der Welt bis 2050 verdreifachen",
-      "url": "https://www.heise.de/news/Siemens-Meta-und-weitere-wollen-Atomkraft-auf-der-Welt-bis-2050-verdreifachen-10317031.html"
     },
     {
       "title": "Missing LinkSetzt Tokyo Metro bald den europäischen Nahverkehr unter Strom?",
@@ -192,20 +192,26 @@
       "url": "https://www.heise.de/news/Fuenf-wirklich-gute-Alternativen-zu-Outlook-und-Thunderbird-10316424.html"
     },
     {
+      "title": "iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
+      "teaser": "Lernen Sie hands-on, wie Sie Schwachstellen in der API-Implementierung vermeiden und Angriffe abwehren.",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-10305106.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
       "title": "Foxconn: Trumps Zölle bereiten Tech-Giganten \"große Kopfschmerzen\"",
       "teaser": "Die Zollankündigungen der US-Regierung führten zu großen Problemen für Big-Tech-Konzerne wie Apple und Amazon, erklärt ihr taiwanesischer Zulieferer Foxconn.",
       "url": "https://www.heise.de/news/Foxconn-Trumps-Zoelle-bereiten-Tech-Giganten-grosse-Kopfschmerzen-10317185.html",
       "image_title": "Firmenschild von Foxconn"
     },
     {
-      "title": "Amazon Alexa: Alle Sprachaufnahmen sollen in die Cloud und ausgewertet werden",
-      "teaser": "Amazon hat Echo-Nutzer darauf hingewiesen, dass sie Alexa-Anfragen nicht mehr lokal verarbeiten können. Sprachaufzeichnungen landen standardmäßig in der Cloud.",
-      "url": "https://www.heise.de/news/Amazon-Alexa-Alle-Sprachaufnahmen-sollen-in-die-Cloud-und-ausgewertet-werden-10317167.html"
-    },
-    {
       "title": "KI: Unternehmen brauchen solides IT-Management",
       "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "UpdateAmazon Alexa: Alle Sprachaufnahmen sollen in die Cloud und ausgewertet werden",
+      "teaser": "Amazon hat Echo-Nutzer darauf hingewiesen, dass sie Alexa-Anfragen nicht mehr lokal verarbeiten können. Sprachaufzeichnungen landen standardmäßig in der Cloud.",
+      "url": "https://www.heise.de/news/Amazon-Alexa-Alle-Sprachaufnahmen-sollen-in-die-Cloud-und-ausgewertet-werden-10317167.html"
     },
     {
       "title": "Rückhol-Mission für gestrandete Astronauten bei ISS angekommen",
@@ -233,11 +239,6 @@
       "teaser": "Klarna wurde erfolgreich mit dem Angebot, Käufe später zu bezahlen oder in Raten abzustottern. Jetzt wagt die schwedische Firma den Schritt an die Börse.",
       "url": "https://www.heise.de/news/Klarna-geht-an-die-Boerse-in-den-USA-10317071.html",
       "image_title": "Klarna-Schriftzug an Glastür"
-    },
-    {
-      "title": "Top 10: Der beste Mini-PC von Office bis Gaming im Test",
-      "teaser": "Mini-PCs sind wahre Tausendsassa: kompakt, sparsam im Betrieb und genug Power für Office-Arbeit bis zu Gaming. Wir zeigen die zehn besten Modelle über alle Preisbereiche hinweg aus über 70 Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -304,6 +305,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Top 10: Der beste Mini-PC von Office bis Gaming im Test",
+      "teaser": "Mini-PCs sind wahre Tausendsassa: kompakt, sparsam im Betrieb und genug Power für Office-Arbeit bis zu Gaming. Wir zeigen die zehn besten Modelle über alle Preisbereiche hinweg aus über 70 Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Kuba nach inselweitem Stromausfall im Dunkeln",
@@ -374,15 +380,15 @@
       "image_title": "SAP BTP"
     },
     {
+      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
+      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
+    },
+    {
       "title": "c’t-Story: Seelenfrieden",
       "teaser": "Zeiten ändern sich, doch manches bleibt – \"so wie die Seele\", mag da manch Oberschlauer einwerfen. Aber was genau das eigentlich ist, weiß er vermutlich nicht.",
       "url": "https://www.heise.de/hintergrund/c-t-Story-Seelenfrieden-10270699.html",
       "image_title": "c't-Story: Seelenfrieden"
-    },
-    {
-      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
-      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
     },
     {
       "title": "Rodin Gen-1.5 im Test: 3D-Modelle aus Textprompts generieren",
@@ -433,12 +439,6 @@
       "title": "Data Act: Landesdatenschützer befürchten Entmachtung",
       "teaser": "Der Entwurf zur Implementierung des Data Act verstößt laut den Datenschutzbeauftragten der Länder gegen Europarecht. Sie würden ihrer Zuständigkeit beraubt.",
       "url": "https://www.heise.de/news/Data-Act-Landesdatenschuetzer-befuerchten-Entmachtung-10316726.html"
-    },
-    {
-      "title": "Neue PC-Spiele im April 2025: \"Mandragora: Whispers of the Witch Tree\"",
-      "teaser": "Im April kommt \"The Last of Us Part II Remastered\" für den PC. Außerdem erscheinen \"Commandos: Origins\" und \"Mandragora: Whispers of the Witch Tree\".",
-      "url": "https://www.heise.de/news/Neue-PC-Spiele-im-April-2025-Commandos-Origins-TLOU-Part-II-Remastered-10316511.html",
-      "image_title": "Spielevorschau April 2025 Commandos: Origins"
     },
     {
       "title": "IT-Sicherheit soll von Schuldenbremse weitgehend ausgenommen werden",
@@ -609,9 +609,10 @@
       "url": "https://www.heise.de/en/news/iPhone-in-the-car-improvements-to-CarPlay-and-navigation-in-iOS-18-4-10316206.html"
     },
     {
-      "title": "c't-Webinar: Produktiver Einsatz von Sprach-KI",
-      "teaser": "Das Webinar erklärt, wie Sie Sprachmodelle effizient einsetzen, typische Fehler vermeiden und rechtliche Aspekte wie Datenschutz sowie Urheberrecht umsetzen.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Produktiver-Einsatz-von-Sprach-KI-10314479.html"
+      "title": "Click of DeathDie Festplatte, die IBMs Festplattensparte den Garaus machte",
+      "teaser": "Im März 2000 stellte IBM neue Festplatten vor. Berühmt-berüchtigt wurden 40GV und 75GXP vor allem aufgrund hoher Ausfallraten.",
+      "url": "https://www.heise.de/news/History-IBM-75GXP-die-Festplatte-zum-Ausstieg-aus-dem-Festplattengeschaeft-10312256.html",
+      "image_title": "IBM-Festplatte auf blauem Untergrund"
     },
     {
       "title": "c’t uplinkLinux auf ARM-Laptops und Chromebooks",
@@ -624,6 +625,12 @@
       "url": "https://www.heise.de/news/Fuenf-wirklich-gute-Alternativen-zu-Outlook-und-Thunderbird-10316424.html"
     },
     {
+      "title": "Apples schnellster MehrkernerMac Studio M3 Ultra (2025) im Test",
+      "teaser": "Apples kompakter Profi-Rechner bekommt endlich wieder ein Upgrade. Der Hersteller fährt dabei eine ungewöhnliche Strategie mit M3 Ultra und M4 Max. Unser Test.",
+      "url": "https://www.heise.de/tests/Mac-Studio-M3-Ultra-Apples-schnellster-Mehrkerner-im-Test-10311863.html",
+      "image_title": "Mac Studio M3 Ultra"
+    },
+    {
       "title": "Apples iPhone für EinsteigeriPhone 16e im Test",
       "teaser": "Das 16e bringt die wesentlichen Merkmale aktueller iPhones. Für wen sich das iPhone 16e lohnt, klärt unser Test.",
       "url": "https://www.heise.de/tests/iPhone-16e-im-Test-Mehr-iPhone-fuer-Einsteiger-10303222.html",
@@ -634,12 +641,6 @@
       "teaser": "Der Kameragriff Lux Grip des deutschen Herstellers Leica verleiht iPhones mit installierter Lux-App den Charakter einer Digitalkamera. Lohnt sich das?",
       "url": "https://www.heise.de/tests/Leica-Lux-Grip-im-Test-Wetzlar-Vibes-fuer-die-iPhone-Kamera-10306317.html",
       "image_title": "Leica Lux Grip mit iPhone 16 Plus"
-    },
-    {
-      "title": "Exklusiver Veranstalter: Apples neue Einladungen-App im Test",
-      "teaser": "Mit der neuen Invites- alias Einladungen-App will Apple Nutzern helfen, Freunde unkompliziert zu Feiern einzuladen. Und es geht noch mehr, wie unser Test zeigt.",
-      "url": "https://www.heise.de/tests/Exklusiver-Veranstalter-Apples-neue-Einladungen-App-im-Test-10302391.html",
-      "image_title": "Apples Einladungen-App"
     },
     {
       "title": "SparkFun übernimmt Teensy Produktion und Vertrieb",
@@ -756,21 +757,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Nasa-Analyse: Klimawandel lässt Meeresspiegel unerwartet stark ansteigen",
-      "teaser": "Folgen des Klimawandels: Der globale Meeresspiegel ist 2024 stärker gestiegen als erwartet, zeigt eine neue Nasa-Analyse. Hauptgrund ist die Erwärmung der Ozeane.",
-      "url": "https://www.heise.de/tp/features/Nasa-Analyse-Klimawandel-laesst-Meeresspiegel-unerwartet-stark-ansteigen-10316977.html",
-      "image_title": "Wasserstandsmarker an der Küste zeigt einen steigenden Meeresspiegel an."
+      "title": "Nordkoreas Marine rüstet auf: Erstes Atom-U-Boot in Entwicklung",
+      "teaser": "Kim Jong Un besichtigte ein im Bau befindliches Atom-U-Boot. Das 7000-Tonnen-Schiff soll zehn Nuklearraketen tragen können. Hatte Kim Hilfe?",
+      "url": "https://www.heise.de/tp/features/Nordkoreas-Marine-ruestet-auf-Erstes-Atom-U-Boot-in-Entwicklung-10312517.html",
+      "image_title": "Ein U-Boot im Bau, eine Gruppe Männer daneben"
     },
     {
-      "title": "Bitcoin-Schlupfloch: So trickst Russland den Westen aus",
-      "teaser": "Russland setzt im Ölhandel mit China und Indien auf Bitcoin, Ether und Stablecoins. Wie funktioniert diese Umgehung der westlichen Sanktionen?",
-      "url": "https://www.heise.de/tp/features/Bitcoin-Schlupfloch-So-trickst-Russland-den-Westen-aus-10317139.html",
-      "image_title": "Bitcoin und russische Rubel mit Matryoshka-Puppe - Kryptowährungen im russischen Handel"
+      "title": "Ukraine-Krieg: Warum Putin kein zweiter Hitler ist",
+      "teaser": "USA drängen auf Gespräche zwischen Kiew und Moskau. Europa bleibt kritisch. Rennen wir wie 1938 in die Appeasement-Falle? Ein Kommentar.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Warum-Putin-kein-zweiter-Hitler-ist-10315786.html",
+      "image_title": "Der russische Präsident Wladimir Putin während einer gemeinsamen Pressekonferenz mit dem weißrussischen Präsidenten Alexander Lukaschenko, 13. März 2025."
     },
     {
-      "title": "Ukraine-Krieg: Die neue Realität nach der US-Kehrtwende",
-      "teaser": "Strategische Interessen, geopolitische Verschiebungen und neue Verhandlungsansätze. Interview mit dem renommierten Sicherheitsexperten Oberst a. D. Wolfgang Richter (Teil 1).",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Die-neue-Realitaet-nach-der-US-Kehrtwende-10317105.html"
+      "title": "Multikulti gescheitert? Singapur beweist das Gegenteil",
+      "teaser": "Ethnische Konflikte und Rassismus gelten als unvermeidbar. Doch Singapur macht vor, wie es funktionieren kann. Die Lösung ist überraschend einfach.",
+      "url": "https://www.heise.de/tp/features/Multikulti-gescheitert-Singapur-beweist-das-Gegenteil-10314778.html",
+      "image_title": "Multikulturelle Jugendliche mit Singapur-Flaggen"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
