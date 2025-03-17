@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-17T20:10:40",
+  "timestamp": "2025-03-17T21:08:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fünf Minuten Ladezeit: BYD stellt neues Batteriesystem für E-Autos vor",
+      "url": "https://www.heise.de/news/Fuenf-Minuten-Ladezeit-BYD-stellt-neues-Batteriesystem-fuer-E-Autos-vor-10318760.html"
+    },
     {
       "title": "Top 10: Der beste In-Ear-Kopfhörer im Test – Apple vor Google, Nothing & Sony",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-in-ear-kopfhoerer-im-test/ef5cmyq"
@@ -60,10 +64,6 @@
     {
       "title": "KI ermöglicht humanoiden Robotern das Aufstehen aus jeder Lage",
       "url": "https://www.heise.de/news/HoST-bringt-jeden-humanoiden-Roboter-zum-Aufstehen-10318347.html"
-    },
-    {
-      "title": "Ergonomie am Arbeitsplatz: Tische, Tastaturen, Walkingpads, Bürobikes im Video",
-      "url": "https://www.heise.de/tests/Ergonomie-am-Arbeitsplatz-Tische-Tastaturen-Walkingpads-Buerobikes-im-Video-10317721.html"
     },
     {
       "title": "Light Phone 3Minimalisten-Smartphone kommt im März",
@@ -188,20 +188,26 @@
       "image_title": "Zug der Tokyo Metro"
     },
     {
+      "title": "Fünf Minuten Ladezeit: BYD stellt neues Batteriesystem für E-Autos vor",
+      "teaser": "BYD präsentiert eine neue Super-Charging-EV-Technologie. Damit sollen E-Autos fast so schnell aufgeladen werden können, wie ein Verbrenner zum Tanken benötigt.",
+      "url": "https://www.heise.de/news/Fuenf-Minuten-Ladezeit-BYD-stellt-neues-Batteriesystem-fuer-E-Autos-vor-10318760.html",
+      "image_title": "Zwei Elektroautos sind mit Ladekabel verbunden."
+    },
+    {
       "title": "Top 10: Der beste In-Ear-Kopfhörer im Test – Apple vor Google, Nothing & Sony",
       "teaser": "Die besten In-Ear-Kopfhörer klingen gut, haben Noise Cancelling (ANC), sind bequem und bieten viele sinnvolle Extras. Wir zeigen die zehn besten True-Wireless-Kopfhörer.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-in-ear-kopfhoerer-im-test/ef5cmyq?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Mobilfunkfrequenzverlängerung: \"Es geht um eine bessere Mobilfunkversorgung\"",
       "teaser": "Die Bundesnetzagentur hat sich festgelegt: Die auslaufenden Frequenznutzungsrechte der drei großen Mobilfunknetzbetreiber sollen bis 2030 verlängert werden.",
       "url": "https://www.heise.de/news/Mobilfunkfrequenzverlaengerung-Es-geht-um-eine-bessere-Mobilfunkversorgung-10318718.html",
       "image_title": "Techniker klettert an einem Antennenmast mit Mobilfunkantennen hoch."
-    },
-    {
-      "title": "KI: Unternehmen brauchen solides IT-Management",
-      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Industrie fordert EU-Kommission zu \"Buy European\"-Initiative auf",
@@ -230,12 +236,6 @@
       "title": "KI-Kompetenz: Warum Zertifikate erforderlich sind",
       "teaser": "Mit Blick auf die Pflicht zur KI-Kompetenz im AI Act boomt der Compliance-Markt. Wir klären, ob man wirklich ein Zertifikat braucht. Ein Überblick.",
       "url": "https://www.heise.de/hintergrund/KI-Kompetenz-Warum-Zertifikate-erforderlich-sind-10306088.html"
-    },
-    {
-      "title": "Unterwasserturbinen in der Normandie sollen Strom aus den Gezeiten erzeugen",
-      "teaser": "Frankreich hat bereits in den 1960er Jahren angefangen, Strom mit der Kraft des Meeres zu erzeugen. Vor der Normandie entsteht ein neues Gezeitenkraftwerk.",
-      "url": "https://www.heise.de/news/Unterwasserturbinen-in-der-Normandie-sollen-Strom-aus-den-Gezeiten-erzeugen-10318626.html",
-      "image_title": "Künstlerische Darstellung des Gezeitenkraftwerks NH1"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -302,6 +302,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Unterwasserturbinen in der Normandie sollen Strom aus den Gezeiten erzeugen",
+      "teaser": "Frankreich hat bereits in den 1960er Jahren angefangen, Strom mit der Kraft des Meeres zu erzeugen. Vor der Normandie entsteht ein neues Gezeitenkraftwerk.",
+      "url": "https://www.heise.de/news/Unterwasserturbinen-in-der-Normandie-sollen-Strom-aus-den-Gezeiten-erzeugen-10318626.html",
+      "image_title": "Künstlerische Darstellung des Gezeitenkraftwerks NH1"
     },
     {
       "title": "KI ermöglicht humanoiden Robotern das Aufstehen aus jeder Lage",
@@ -372,15 +378,15 @@
       "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
+      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
+      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
+    },
+    {
       "title": "USA: Ex-Direktor von Programm für Internetausbau warnt vor Starlink",
       "teaser": "Der Ex-Direktor eines Internetausbauprogramms warnt vor Starlink. Die Rede ist von Betrug seitens Washingtons zugunsten von Elon Musks Geldbeutel.",
       "url": "https://www.heise.de/news/USA-Ex-Direktor-von-Programm-fuer-Internetausbau-warnt-vor-Starlink-10317967.html",
       "image_title": "Stilisierte Satelliten über Erde"
-    },
-    {
-      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
-      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
     },
     {
       "title": "Neues Tool soll helfen, Apple Maps besser zu machen",
@@ -432,12 +438,6 @@
       "teaser": "Die Europäische Arzneimittel-Agentur stellt eine interaktive Karte mit Daten des Informationssystems für klinische Prüfungen bereit. Das dient der Forschung.",
       "url": "https://www.heise.de/news/Europaeische-Arzneimittel-Agentur-Interaktive-Karte-informiert-ueber-Studien-10305047.html",
       "image_title": "Karte der EMA zeigt, in welchen EU-Ländern Studien zu bestimmten Erkrankungen durchgeführt werden. Außerdem sind die Versuche darin unterteilt, ob sie noch offen für neue Probanden sind."
-    },
-    {
-      "title": "Fake-Sicherheitswarnung: Betrüger versuchen Github-Konten zu kapern",
-      "teaser": "Sicherheitsforscher berichten über Angriffsversuche auf rund 12.000 Github-Repositories. Dabei wollen Angreifer die volle Kontrolle über Konten erlangen.",
-      "url": "https://www.heise.de/news/Fake-Sicherheitswarnung-Betrueger-versuchen-Github-Konten-zu-kapern-10317643.html",
-      "image_title": "Laptop mit Code darüber"
     },
     {
       "title": "UpdateAmazon Alexa: Alle Sprachaufnahmen sollen in die Cloud und ausgewertet werden",
@@ -604,20 +604,19 @@
       "url": "https://www.heise.de/en/news/Unregulated-tech-tests-Thiel-Altman-and-co-want-Freedom-Cities-10309862.html"
     },
     {
-      "title": "Ricoh SP C250DN druckt unter Windows 10 plötzlich mit einem extra Rand",
-      "teaser": "Mein Ricoh SP C250DN druckt unter Windows 10 im Querformat nur 20,5 cm der A4-Seite, rechts bleibt ein 9 cm weißer Rand. Warum?",
-      "url": "https://www.heise.de/ratgeber/Ricoh-SP-C250DN-druckt-unter-Windows-10-ploetzlich-mit-einem-extra-Rand-10309735.html"
-    },
-    {
-      "title": "Recht: Festplatten-Betrugsaffäre – was getäuschte Käufer tun können",
-      "teaser": "Die Affäre um auf neu getrimmte Serverplatten läuft weiter. Wir klären, welche Aussichten deutsche Laufwerkskäufer beim Reklamieren von Pseudo-Neuware haben.",
-      "url": "https://www.heise.de/hintergrund/Recht-Festplatten-Betrugsaffaere-was-getaeuschte-Kaeufer-tun-koennen-10287926.html",
-      "image_title": "Gebrauchte Festplatten sind weniger wert als neue."
+      "title": "Mini-PC Shuttle DN11H9 mit je vier LAN- und Display-Ports im Test",
+      "teaser": "Der kompakte Rechner Shuttle DN11H9 mit vier Ethernet-Anschlüssen taugt nicht nur für Industrieanwendungen, sondern auch für Multimonitorarbeitsplätze.",
+      "url": "https://www.heise.de/tests/Mini-PC-Shuttle-DN11H9-mit-je-vier-LAN-und-Display-Ports-im-Test-10273368.html"
     },
     {
       "title": "Kurztests: Verschiedene Speichermedien und SSD-Gehäuse",
       "teaser": "Wir haben eine schnelle Festplatte sowie eine kompakte USB4-SSD und zwei Gehäuse für PCIe-SSDs für unterschiedliche Einsatzklassen auf ihre Leistung geprüft.",
       "url": "https://www.heise.de/tests/Kurztests-Verschiedene-Speichermedien-und-SSD-Gehaeuse-10313662.html"
+    },
+    {
+      "title": "Ricoh SP C250DN druckt unter Windows 10 plötzlich mit einem extra Rand",
+      "teaser": "Mein Ricoh SP C250DN druckt unter Windows 10 im Querformat nur 20,5 cm der A4-Seite, rechts bleibt ein 9 cm weißer Rand. Warum?",
+      "url": "https://www.heise.de/ratgeber/Ricoh-SP-C250DN-druckt-unter-Windows-10-ploetzlich-mit-einem-extra-Rand-10309735.html"
     },
     {
       "title": "Apples schnellster MehrkernerMac Studio M3 Ultra (2025) im Test",
@@ -753,22 +752,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Ukraine-Krieg: Die neue Realität nach der US-Kehrtwende",
+      "teaser": "Strategische Interessen, geopolitische Verschiebungen und neue Verhandlungsansätze. Interview mit dem renommierten Sicherheitsexperten Oberst a. D. Wolfgang Richter (Teil 1).",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Die-neue-Realitaet-nach-der-US-Kehrtwende-10317105.html",
+      "image_title": "Grafik mit einem raketenbestücktem Flugzeug als Symbol für Waffen und Aufrüstung auf der linken Seite und der Friedenstaube auf der rechten Seite"
+    },
+    {
+      "title": "Massaker von Odessa 2014: Gericht, wirft Ukraine Fehler und Vertuschung vor",
+      "teaser": "Ukraine wegen schwerer Versäumnisse beim Brand 2014 verurteilt. 48 Menschen starben in Gewerkschaftshaus. Begründung liefert brisante Details.",
+      "url": "https://www.heise.de/tp/features/Massaker-von-Odessa-2014-Gericht-wirft-Ukraine-Fehler-und-Vertuschung-vor-10317284.html",
+      "image_title": "Brandspuren im Gewerkschaftsgebäude von Odessa, 2014"
+    },
+    {
       "title": "Panzer statt Volkswagen: Rheinmetall erwägt Übernahme von VW-Werk",
       "teaser": "Rheinmetall plant, ein VW-Werk für Panzerproduktion zu übernehmen. Firmenchef sieht \"Ära der Wiederaufrüstung in Europa\" und bislang unerreichte Wachstumsperspektiven.",
       "url": "https://www.heise.de/tp/features/Panzer-statt-Volkswagen-Rheinmetall-erwaegt-Uebernahme-von-VW-Werk-10315115.html",
       "image_title": "ein Panzer vor einem Rheinmetall-Gebäude"
-    },
-    {
-      "title": "Kartellamt: Manipulieren Ölkonzerne die Kraftstoffpreise?",
-      "teaser": "Das Bundeskartellamt nimmt die Ölbranche ins Visier. Erstmals nutzt die Behörde dafür ein neues Kontrollinstrument. Steckt hinter den hohen Spritpreisen ein System?",
-      "url": "https://www.heise.de/tp/features/Kartellamt-Manipulieren-Oelkonzerne-die-Kraftstoffpreise-10314830.html",
-      "image_title": "Drei Benzinkanister zusammengeschlossen vor Raffinerie"
-    },
-    {
-      "title": "EU-Migrationsdeal mit Tunesien: Wegschauen für die Festung Europa",
-      "teaser": "Tunesiens Präsident Saied regiert mit harter Hand. Die Opposition landet im Gefängnis, Kritiker verstummen. Doch warum schweigt der Westen zu den Missständen?",
-      "url": "https://www.heise.de/tp/features/EU-Migrationsdeal-mit-Tunesien-Wegschauen-fuer-die-Festung-Europa-10317705.html",
-      "image_title": "Tunesiens Präsident Kais Saied"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
