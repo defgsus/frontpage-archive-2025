@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-18T06:13:36",
+  "timestamp": "2025-03-18T07:10:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,38 @@
   ],
   "articles": [
     {
+      "title": "Wie man mit Java 24 Stream Gatherers und Class-File API finalisiert",
+      "teaser": "OpenJDK 24 markiert einen neuen Rekord: Passend zur Versionsnummer sind 24 JEPs enthalten. Die Neuerungen verbessern Sprache, Performance und Sicherheit.",
+      "url": "https://www.heise.de/tests/Wie-man-mit-Java-24-Stream-Gatherers-und-Class-File-API-finalisiert-10305265.html"
+    },
+    {
       "title": "Auswandern: Als ITler in der Schweiz arbeiten",
       "teaser": "Die Schweiz lockt mit hohen Gehältern. Auch die Lebensqualität ist gut. Wir zeigen, wie ITler auswandern können – und wie viel sie verdienen.",
       "url": "https://www.heise.de/ratgeber/Auswandern-Als-ITler-in-der-Schweiz-arbeiten-10296203.html"
     },
     {
-      "title": "Kurztests: Verschiedene Speichermedien und SSD-Gehäuse",
-      "teaser": "Wir haben eine schnelle Festplatte sowie eine kompakte USB4-SSD und zwei Gehäuse für PCIe-SSDs für unterschiedliche Einsatzklassen auf ihre Leistung geprüft.",
-      "url": "https://www.heise.de/tests/Kurztests-Verschiedene-Speichermedien-und-SSD-Gehaeuse-10313662.html"
+      "title": "Software Testing: KI-Prüfung und -Zertifizierung",
+      "teaser": "In dieser Episode spricht Richard Seidl mit Christoph Poetsch vom TÜV AI.Lab über die Klassifizierung, Prüfung und Zertifizierung von KI-Systemen.",
+      "url": "https://www.heise.de/blog/Software-Testing-KI-Pruefung-und-Zertifizierung-10301481.html",
+      "image_title": "Software Testing: KI-Prüfung und -Zertifizierung"
+    },
+    {
+      "title": "iX-Workshop: Aufgaben eines Informationssicherheitsbeauftragten",
+      "teaser": "Sich mit der Rolle des Informationssicherheitsbeauftragten vertraut machen: die Anforderungen verstehen und die notwendigen Kompetenzen erwerben.",
+      "url": "https://www.heise.de/news/iX-Workshop-Aufgaben-eines-Informationssicherheitsbeauftragten-10312591.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
+    },
+    {
+      "title": "Der Kleber macht’s – Microservices in einem Web-Projekt",
+      "teaser": "Auch bei Webprojekten ist es sinnvoll, mit modularisierten Teilsystemen zu arbeiten. Fehler bei der Implementierung können aber zu trägen Modulithen führen.",
+      "url": "https://www.heise.de/hintergrund/Der-Kleber-macht-s-Microservices-in-einem-Web-Projekt-10317449.html",
+      "image_title": "Aufmacher Softwarearchitektur"
+    },
+    {
+      "title": "Terminals stapeln und anpinnen: Zellij 0.42.0 bringt überarbeitete Oberfläche",
+      "teaser": "Im Terminal-Multiplexer Zellij lassen sich mehrere Kommandozeilen parallel nutzen. Im Update auf 0.42.0 lassen sich Anwendungen in den Hintergrund verschieben.",
+      "url": "https://www.heise.de/news/Terminals-stapeln-und-anpinnen-Zellij-0-42-0-bringt-ueberarbeitete-Oberflaeche-10318150.html",
+      "image_title": "Schwebendes Terminal vor einem anderen Terminal"
     },
     {
       "title": "Britische Hintertüren: Verdacht nach Apple auch bei Google",
@@ -96,34 +120,9 @@
       "image_title": "Aufmacher Clean Architekture"
     },
     {
-      "title": "Europäische Arzneimittel-Agentur: Interaktive Karte informiert über Studien",
-      "teaser": "Die Europäische Arzneimittel-Agentur stellt eine interaktive Karte mit Daten des Informationssystems für klinische Prüfungen bereit. Das dient der Forschung.",
-      "url": "https://www.heise.de/news/Europaeische-Arzneimittel-Agentur-Interaktive-Karte-informiert-ueber-Studien-10305047.html",
-      "image_title": "Karte der EMA zeigt, in welchen EU-Ländern Studien zu bestimmten Erkrankungen durchgeführt werden. Außerdem sind die Versuche darin unterteilt, ob sie noch offen für neue Probanden sind."
-    },
-    {
-      "title": "Fake-Sicherheitswarnung: Betrüger versuchen Github-Konten zu kapern",
-      "teaser": "Sicherheitsforscher berichten über Angriffsversuche auf rund 12.000 Github-Repositories. Dabei wollen Angreifer die volle Kontrolle über Konten erlangen.",
-      "url": "https://www.heise.de/news/Fake-Sicherheitswarnung-Betrueger-versuchen-Github-Konten-zu-kapern-10317643.html",
-      "image_title": "Laptop mit Code darüber"
-    },
-    {
-      "title": "macOS: Apple hat iPhone-Mirroring immer noch nicht in der EU freigegeben",
-      "teaser": "Aufgrund des Digital Markets Act der EU war die iPhone-Fernsteuerung für den Mac bislang nicht verfügbar. Ändert sich das im April?",
-      "url": "https://www.heise.de/news/iPhone-Mirroring-in-der-EU-Weiter-warten-auf-nuetzliche-macOS-Funktion-10317232.html",
-      "image_title": "iPhone-Mirroring auf Mac und iPhone"
-    },
-    {
-      "title": "GIMP 3.0: Großes Update nach sieben Jahren fertig",
-      "teaser": "GIMP 3.0 bringt nicht-destruktive Filter, bessere HiDPI-Unterstützung und erweiterte Farbräume. Künftig soll es schneller neue Funktionen geben.",
-      "url": "https://www.heise.de/news/GIMP-3-0-Grosses-Update-nach-sieben-Jahren-fertig-10317701.html",
-      "image_title": "Bildschirmfoto von GIMP 3.0 mit dem Einsatz nicht-destruktiver Filter"
-    },
-    {
-      "title": "RCS auf dem iPhone: Erst mit iOS 19 nützliche neue Features",
-      "teaser": "Mit Apples nächstem iPhone-Update im Herbst soll auch die Kommunikation in Richtung Android besser klappen. Diese Features könnten kommen.",
-      "url": "https://www.heise.de/news/RCS-auf-dem-iPhone-Erst-mit-iOS-19-nuetzliche-neue-Features-10317236.html",
-      "image_title": "Google Messages und Apple iMessage"
+      "title": "Kurztests: Verschiedene Speichermedien und SSD-Gehäuse",
+      "teaser": "Wir haben eine schnelle Festplatte sowie eine kompakte USB4-SSD und zwei Gehäuse für PCIe-SSDs für unterschiedliche Einsatzklassen auf ihre Leistung geprüft.",
+      "url": "https://www.heise.de/tests/Kurztests-Verschiedene-Speichermedien-und-SSD-Gehaeuse-10313662.html"
     },
     {
       "title": "Endpoint Central von ManageEngine als beste Patch-Management-Lösung ausgezeichnet",
