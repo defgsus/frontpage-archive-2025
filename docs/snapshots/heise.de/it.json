@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-19T07:09:35",
+  "timestamp": "2025-03-19T08:12:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,38 @@
   ],
   "articles": [
     {
+      "title": "Eleganter Präsentator: Bezel-App für Mac im Test",
+      "teaser": "Bezel bringt Bildschirminhalte von iPhone, iPad und Apple TV auf den Mac.",
+      "url": "https://www.heise.de/tests/Eleganter-Praesentator-Bezel-App-fuer-Mac-im-Test-10312413.html",
+      "image_title": "Bezel-App auf dem iPhone"
+    },
+    {
       "title": "Hackintosh mit AMD Ryzen 9000 bauen: macOS 15 auf aktueller PC-Hardware",
       "teaser": "Lust auf macOS, aber keine auf Apples Hardware? Dann bauen sie sich doch einen Hackintosh. Das geht sogar mit dem neusten macOS 15 und aktuellen CPUs.",
       "url": "https://www.heise.de/ratgeber/Hackintosh-mit-AMD-Ryzen-9000-bauen-macOS-15-auf-aktueller-PC-Hardware-10298307.html"
     },
     {
-      "title": "FAQ: iCloud und Ende-zu-Ende-Verschlüsselung geraten unter Druck",
-      "teaser": "Apple schaltet die erweiterte Verschlüsselung von iCloud in Großbritannien ab. Was bedeutet das für Nutzer in Deutschland? Sind Daten ausreichend geschützt?",
-      "url": "https://www.heise.de/hintergrund/FAQ-iCloud-und-Ende-zu-Ende-Verschluesselung-geraten-unter-Druck-10319899.html",
-      "image_title": ","
+      "title": "Stability AI macht aus Fotos 3D-Modelle samt Kamerafahrt",
+      "teaser": "Stable Virtual Camera soll aus 2D-Bildern 3D-Ansichten machen, die dann immersive Videos ermöglichen.",
+      "url": "https://www.heise.de/news/Stability-AI-macht-aus-Fotos-3D-Modelle-samt-Kamerafahrt-10320517.html",
+      "image_title": "Stable Virtual Camera nutzt verschiedene Kamerafahrten"
     },
     {
-      "title": "Optimale Vorbereitung auf die NIS-2-Richtlinie: Risikoanalyse, Security und mehr",
+      "title": "Googles Schwachstellen-Scanner prüft Container-Layer und Maven-Projekte",
+      "teaser": "Die neue Version von Googles Open-Source-Vulnerabilty-Scanner untersucht Abhängigkeiten in Container-Image-Layern und Maven-Projekten.",
+      "url": "https://www.heise.de/news/Googles-Schwachstellen-Scanner-prueft-Container-Layer-und-Maven-Projekte-10319928.html",
+      "image_title": "Viele schwarze Würfel. In der Mitte ist ein roter Würfel mit einem Käfer darauf."
+    },
+    {
+      "title": "Rancher für SAP: Kubernetes-Plattform von SUSE mit SAP-Zertifizierung gestartet",
+      "teaser": "SUSE hat seine Kubernetes-Plattform Rancher Prime für SAP-Anwendungen zertifiziert. Zudem kommt sie als SaaS. Ebenfalls erhält SUSE AI eine agentenbasierte KI.",
+      "url": "https://www.heise.de/news/SUSECon-2025-SUSE-bringt-Kubernetes-fuer-SAP-Anwendungen-und-agentenbasierte-KI-10319212.html",
+      "image_title": "Abhinav Puri auf der SUSECon"
+    },
+    {
+      "title": "Optimale Vorbereitung auf die NIS-2-Richtlinie",
       "teaser": "NIS-2 ist auf europäischer Ebene längst in Kraft. Lernen Sie noch vor Umsetzung in deutsches Recht, was Sie beachten müssen, um die Anforderungen zu erfüllen.",
       "url": "https://www.heise.de/news/Optimale-Vorbereitung-auf-die-NIS-2-Richtlinie-Risikoanalyse-Security-und-mehr-10318590.html"
-    },
-    {
-      "title": "Eleganter Präsentator: Bezel-App für Mac im Test",
-      "teaser": "Bezel bringt Bildschirminhalte von iPhone, iPad und Apple TV auf den Mac.",
-      "url": "https://www.heise.de/tests/Eleganter-Praesentator-Bezel-App-fuer-Mac-im-Test-10312413.html",
-      "image_title": "Bezel-App auf dem iPhone"
     },
     {
       "title": "Hohe Auszeichnung für Apples Chip-Chef",
@@ -81,6 +93,12 @@
       "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
+      "title": "FAQ: iCloud und Ende-zu-Ende-Verschlüsselung geraten unter Druck",
+      "teaser": "Apple schaltet die erweiterte Verschlüsselung von iCloud in Großbritannien ab. Was bedeutet das für Nutzer in Deutschland? Sind Daten ausreichend geschützt?",
+      "url": "https://www.heise.de/hintergrund/FAQ-iCloud-und-Ende-zu-Ende-Verschluesselung-geraten-unter-Druck-10319899.html",
+      "image_title": ","
+    },
+    {
       "title": "Java 24: Stream Gatherers, Class-File API und quantenresistente Algorithmen",
       "teaser": "Insgesamt 24 JEPs im JDK 24 erweitern die Stream-Verarbeitung, führen quantenresistente Algorithmen ein und bringen eine API zum Zugriff auf Klassendateien.",
       "url": "https://www.heise.de/news/Java-24-Stream-Gatherers-Class-File-API-und-quantenresistente-Algorithmen-10319392.html"
@@ -102,24 +120,6 @@
       "teaser": "An einem Stromzähler montiert, erhebt und verschickt AVMs neuer Sensor Verbrauchsdaten, die Haushalten mit PV-Anlage die Laststeuerung erleichtert.",
       "url": "https://www.heise.de/news/Fritz-Smart-Energy-250-AVMs-Smart-Home-Sensor-Sensor-misst-den-Stromverbrauch-10319781.html",
       "image_title": "AVM-Sensor in Hand"
-    },
-    {
-      "title": "Letztes Update: SLES 15 bekommt Servicepack 7 ‒ und Support bis 2037",
-      "teaser": "Auf seiner Hausmesse gab SUSE bekannt, dass SLES 15 mit SP 7 ein letztes Upgrade bekommt. Dessen Support endet 2037. Sein Nachfolger ist für November geplant.",
-      "url": "https://www.heise.de/news/Letztes-Update-SLES-15-bekommt-Servicepack-7-und-Support-bis-2037-10319208.html",
-      "image_title": "KI-generiertes Chamäleon"
-    },
-    {
-      "title": "iX-Workshop: Große Sprachmodelle (LLM) entwickeln und im Unternehmen einsetzen",
-      "teaser": "Wie funktionieren große Sprachmodelle und Bilderkennungssysteme? Lernen Sie aktuelle Deep-Learning-Technologien kennen und einsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Grosse-Sprachmodelle-LLM-entwickeln-und-im-Unternehmen-einsetzen-10298059.html",
-      "image_title": "iX-Workshop IT-Governance planen und implementieren"
-    },
-    {
-      "title": "Kluger-Hans-Effekt: Gefahr durch fehlerhaftes Lernen",
-      "teaser": "Trotz des richtigen Ergebnisses kann KI auf fehlerhaftem Weg etwas gelernt haben – der Kluge-Hans-Effekt. Hans war ein Pferd.",
-      "url": "https://www.heise.de/news/Kluger-Hans-Effekt-Gefahr-durch-fehlerhaftes-Lernen-10319498.html",
-      "image_title": "Grasendes Pferd"
     },
     {
       "title": "Endpoint Central von ManageEngine als beste Patch-Management-Lösung ausgezeichnet",
