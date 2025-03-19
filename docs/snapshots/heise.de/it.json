@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-19T14:09:25",
+  "timestamp": "2025-03-19T15:10:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,19 +26,32 @@
   ],
   "articles": [
     {
+      "title": "Mehr Flash-Speicher für den Arduino Nano",
+      "teaser": "Der Arduino Nano nutzt denselben Mikrocontroller wie der Arduino UNO, jedoch mit unterschiedlich viel Speicher. Wie man das behebt, erklären wir hier.",
+      "url": "https://www.heise.de/ratgeber/Mehr-Flash-Speicher-fuer-den-Arduino-Nano-10315684.html"
+    },
+    {
       "title": "Smarter Wechselrichter SolarFlow 800 mit Akkuanschluss von Zendure im Test",
       "teaser": "Zendures SolarFlow 800 Wechselrichter für Solarpanels kann Gleichstrom in einen Speicher schieben und so dunkle Stunden überbrücken.",
       "url": "https://www.heise.de/tests/Smarter-Wechselrichter-SolarFlow-800-mit-Akkuanschluss-von-Zendure-im-Test-10319731.html"
     },
     {
-      "title": "Tutorial GitOps mit Crossplane, Teil 1: Beyond CI/CD",
-      "teaser": "Crossplane orchestriert Ressourcen cloudübergreifend und bietet zugleich eine Implementierung der GitOps-Prinzipien. Damit kann es Tools wie Terraform ablösen.",
-      "url": "https://www.heise.de/hintergrund/Tutorial-GitOps-mit-Crossplane-Teil-1-Beyond-CI-CD-10319109.html"
+      "title": "Guter und günstiger Mini-PC für Office: Nipogi AK2 Plus für 179 Euro im Test",
+      "teaser": "Der Nipogi AK2 Plus ist ein guter, leiser und günstiger Mini-PC für Office-Aufgaben. Mit seinem Intel N100 und 16 GByte RAM genügt er auch etwa als Server für Home Assistant. Wir haben ihn getestet.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/nipogi-ak2-plus-im-test/ksjvwtt?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
-      "title": "Mehr Flash-Speicher für den Arduino Nano",
-      "teaser": "Der Arduino Nano nutzt denselben Mikrocontroller wie der Arduino UNO, jedoch mit unterschiedlich viel Speicher. Wie man das behebt, erklären wir hier.",
-      "url": "https://www.heise.de/ratgeber/Mehr-Flash-Speicher-fuer-den-Arduino-Nano-10315684.html"
+      "title": "Nie wieder Rechenfehler? KI prüft Paper auf Irrtümer – warum das nicht reicht",
+      "teaser": "Forschende entwickeln KI-Tools zur Erkennung von Fehlern in wissenschaftlichen Veröffentlichungen. Diese Innovation birgt jedoch auch Risiken und Grenzen.",
+      "url": "https://www.heise.de/news/Nie-wieder-Rechenfehler-KI-prueft-Paper-auf-Irrtuemer-warum-das-nicht-reicht-10320963.html",
+      "image_title": "Fehlerhalfte mathematische Formeln, die von einer Hand mit Rotstift korrigiert werden."
+    },
+    {
+      "title": "Attacke über GitHub-Action-Tool spähte Secrets aus und legte sie in Logdatei ab",
+      "teaser": "Das Open-Source-Tool tjactions/changed-files hat im CI-Prozess mit GitHub Actions nach sensiblen Informationen gesucht und sie im Build-Log gespeichert.",
+      "url": "https://www.heise.de/news/Attacke-ueber-GitHub-Action-Tool-spaehte-Secrets-aus-und-legte-sie-in-Logdatei-ab-10320979.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
       "title": "Alternative für MS Project? OpenProject 15.4 plant Arbeitspakete automatisch",
@@ -63,6 +76,11 @@
       "teaser": "Angreifer in \"privilegierter Netzwerkposition\", also etwa im gleichen WLAN, konnten Details aus Apples Passwörter-App mitlesen. Darüber waren Angriffe möglich.",
       "url": "https://www.heise.de/news/Apple-Passwoerter-App-Problematischer-Bug-soll-Monate-bestanden-haben-10321028.html",
       "image_title": "Apple-Logo am Haken (Symbolbild)"
+    },
+    {
+      "title": "Tutorial GitOps mit Crossplane, Teil 1: Beyond CI/CD",
+      "teaser": "Crossplane orchestriert Ressourcen cloudübergreifend und bietet zugleich eine Implementierung der GitOps-Prinzipien. Damit kann es Tools wie Terraform ablösen.",
+      "url": "https://www.heise.de/hintergrund/Tutorial-GitOps-mit-Crossplane-Teil-1-Beyond-CI-CD-10319109.html"
     },
     {
       "title": "ESP32-Board für KI-Einsteiger",
@@ -105,22 +123,6 @@
       "teaser": "Auf dem Desktop müssen Firefox-Nutzer auf Progressive Web Apps verzichten. Doch die Entwickler arbeiten daran – legen sich aber nicht auf einen Zeitplan fest.",
       "url": "https://www.heise.de/news/Bestaetigt-Web-Apps-fuer-Firefox-kommen-10320817.html",
       "image_title": "Firefox-Symbol"
-    },
-    {
-      "title": "Il Foglio AI: In Italien gibt es nun eine KI-generierte Zeitung",
-      "teaser": "Es ist ein Test: Neben der römischen Tageszeitung Il Foglio soll einen Monat lang täglich auch eine KI-Ausgabe liegen.",
-      "url": "https://www.heise.de/news/Il-Foglio-AI-In-Italien-gibt-es-nun-eine-KI-generierte-Zeitung-10320758.html"
-    },
-    {
-      "title": "Linux-Distribution: EndeavourOS Mercury im Test",
-      "teaser": "Mit aktueller Software und frischen Desktops bietet EndeavourOS Mercury eine einfache Möglichkeit, ein Arch-Linux-System zu installieren.",
-      "url": "https://www.heise.de/tests/Linux-Distribution-EndeavourOS-Mercury-im-Test-10314668.html"
-    },
-    {
-      "title": "Wie ein Weighted-Random-Walk-Algorithmus funktioniert",
-      "teaser": "Sich vom Zufall leiten zu lassen kann zu überraschenden Ergebnissen führen und auch nützlich sein. Eine Einführung in gewichtet zufällige Spaziergänge.",
-      "url": "https://www.heise.de/hintergrund/Wie-ein-Weighted-Random-Walk-Algorithmus-funktioniert-10316568.html",
-      "image_title": ","
     },
     {
       "title": "Endpoint Central von ManageEngine als beste Patch-Management-Lösung ausgezeichnet",
