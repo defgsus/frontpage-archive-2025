@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-19T20:10:28",
+  "timestamp": "2025-03-19T21:08:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Webbrowser: Google stopft kritisches Sicherheitsleck in Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-stopft-kritisches-Sicherheitsleck-in-Chrome-10321842.html"
+    },
     {
       "title": "\"Man hat sich einen Dreck um die Sicherheit der Daten der Spieler geschert\"",
       "url": "https://www.heise.de/hintergrund/Man-hat-sich-einen-Dreck-um-die-Sicherheit-der-Daten-der-Spieler-geschert-10321798.html"
@@ -60,10 +64,6 @@
     {
       "title": "Über 200 Sensoren: KI-Brücke soll Zustand in Echtzeit übermitteln",
       "url": "https://www.heise.de/news/Bautzen-KI-Forschungsbruecke-soll-Zustandsueberwachung-in-Echtzeit-erlauben-10321626.html"
-    },
-    {
-      "title": "Hey, Apple Intelligence: Ist Siri noch zu retten? | Mac & i-Podcast",
-      "url": "https://www.heise.de/news/Hey-Apple-Intelligence-Ist-Siri-noch-zu-retten-Mac-i-Podcast-10321616.html"
     },
     {
       "title": "In der EUApple muss weitere Funktionen mit iOS 19 und iOS 20 öffnen",
@@ -188,21 +188,27 @@
       "image_title": "AVM-Sensor in Hand"
     },
     {
+      "title": "AlertWebbrowser: Google stopft kritisches Sicherheitsleck in Chrome",
+      "teaser": "Google aktualisiert den Webbrowser Chrome und schließt dabei eine als kritisches Risiko eingestufte Sicherheitslücke.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-stopft-kritisches-Sicherheitsleck-in-Chrome-10321842.html",
+      "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
+    },
+    {
       "title": "\"Man hat sich einen Dreck um die Sicherheit der Daten der Spieler geschert\"",
       "teaser": "Lilith Wittmann hat bei Online-Casinos schwere Sicherheitslücken gefunden. Das Gespräch mit ihr dreht sich nicht nur um Technik, sondern auch eine Behörde.",
       "url": "https://www.heise.de/hintergrund/Man-hat-sich-einen-Dreck-um-die-Sicherheit-der-Daten-der-Spieler-geschert-10321798.html",
       "image_title": "Lilith Wittmann"
     },
     {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "AlertSicherheitslücke mit maximaler Risikostufe in Server-Fernwartung",
       "teaser": "Ethernet-Ports für Fernwartung gehören nicht ans öffentliche Netz, wie eine aktuelle Sicherheitslücke eindrucksvoll demonstriert.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-mit-maximaler-Risikostufe-in-Server-Fernwartung-10321764.html",
       "image_title": "Server mit Netzwerkkabeln"
-    },
-    {
-      "title": "KI: Unternehmen brauchen solides IT-Management",
-      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Das beste Outdoor-Handy im Test – wasserdicht, robust, Wärmebild & Co.",
@@ -232,12 +238,6 @@
       "teaser": "Mit Wayland kann Gnome nun Farbmanagement sowie HDR bieten. Die Energieverwaltung kann Akku-Ladegrenzen berücksichtigen.",
       "url": "https://www.heise.de/news/Gnome-48-liefert-HDR-Unterstuetzung-und-schont-Akkus-10321044.html",
       "image_title": "Gnome 48 Desktop auf Laptop"
-    },
-    {
-      "title": "Über 200 Sensoren: KI-Brücke soll Zustand in Echtzeit übermitteln",
-      "teaser": "Die smarte Brücke OpenLAB ist mit über 200 Sensoren ausgerüstet, die etwa Temperatur, Bewegung und weitere Faktoren für die strukturelle Integrität erfassen.",
-      "url": "https://www.heise.de/news/Bautzen-KI-Forschungsbruecke-soll-Zustandsueberwachung-in-Echtzeit-erlauben-10321626.html",
-      "image_title": "Fertiggestellte Forschungsbrücke im Mai 2024"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -304,6 +304,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Über 200 Sensoren: KI-Brücke soll Zustand in Echtzeit übermitteln",
+      "teaser": "Die smarte Brücke OpenLAB ist mit über 200 Sensoren ausgerüstet, die etwa Temperatur, Bewegung und weitere Faktoren für die strukturelle Integrität erfassen.",
+      "url": "https://www.heise.de/news/Bautzen-KI-Forschungsbruecke-soll-Zustandsueberwachung-in-Echtzeit-erlauben-10321626.html",
+      "image_title": "Fertiggestellte Forschungsbrücke im Mai 2024"
     },
     {
       "title": "Hey, Apple Intelligence: Ist Siri noch zu retten? | Mac & i-Podcast",
@@ -376,15 +382,15 @@
       "image_title": "Siemens-Schriftzug auf Gebäude"
     },
     {
+      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
+      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
+    },
+    {
       "title": "ESP32-Board für KI-Einsteiger",
       "teaser": "Das UNIHIKER K10 ist ein ESP32-basiertes Lernboard für KI- und IoT-Projekte. Es hat Sensoren, Kamera, TinyML-Unterstützung und blockbasierte Programmierung.",
       "url": "https://www.heise.de/news/ESP32-Board-fuer-KI-Einsteiger-10321092.html",
       "image_title": "Das UNIHIKER-K10-Board ist zweimal zu sehen. Einmal von vorn, wo man das Display sieht, und einmal von hinten, wo man die Kamera sieht."
-    },
-    {
-      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
-      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
     },
     {
       "title": "Münchner Stadtrat beschließt dauerhaft Tempo 30 für Teil des Mittleren Rings",
@@ -438,11 +444,6 @@
       "title": "Il Foglio AI: In Italien gibt es nun eine KI-generierte Zeitung",
       "teaser": "Es ist ein Test: Neben der römischen Tageszeitung Il Foglio soll einen Monat lang täglich auch eine KI-Ausgabe liegen.",
       "url": "https://www.heise.de/news/Il-Foglio-AI-In-Italien-gibt-es-nun-eine-KI-generierte-Zeitung-10320758.html"
-    },
-    {
-      "title": "Acht smarte Türschlösser auf dem Prüfstand",
-      "teaser": "Vernetzte Schlossantriebe nutzen den Smart-Home-Standard Matter für eine einfache Integration ins Smart Home ohne Bridges und bieten Öffnungsmethoden via NFC.",
-      "url": "https://www.heise.de/tests/Acht-smarte-Tuerschloesser-auf-dem-Pruefstand-10316286.html"
     },
     {
       "title": "UpdateGrößter Kauf der Konzerngeschichte: Google zahlt 32 Milliarden US-Dollar für Wiz",
@@ -615,12 +616,6 @@
       "url": "https://www.heise.de/en/news/Microsoft-Native-porting-to-Go-should-make-TypeScript-ten-times-faster-10313327.html"
     },
     {
-      "title": "Rohstoffvorkommen in der Ukraine: Spiegelfechten um seltene Erden",
-      "teaser": "Wenn es um Rohstoffe der Ukraine geht, ist schnell von seltenen Erden und Lithium die Rede. Dabei ist gar nicht klar, ob sie sich wirtschaftlich abbauen ließen.",
-      "url": "https://www.heise.de/hintergrund/Rohstoffvorkommen-in-der-Ukraine-Spiegelfechten-um-seltene-Erden-10318309.html",
-      "image_title": ", KI, Bearbeitung c't"
-    },
-    {
       "title": "AlertSicherheitslücke mit maximaler Risikostufe in Server-Fernwartung",
       "teaser": "Ethernet-Ports für Fernwartung gehören nicht ans öffentliche Netz, wie eine aktuelle Sicherheitslücke eindrucksvoll demonstriert.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-mit-maximaler-Risikostufe-in-Server-Fernwartung-10321764.html",
@@ -630,6 +625,11 @@
       "title": "Linux-Distribution: EndeavourOS Mercury im Test",
       "teaser": "Mit aktueller Software und frischen Desktops bietet EndeavourOS Mercury eine einfache Möglichkeit, ein Arch-Linux-System zu installieren.",
       "url": "https://www.heise.de/tests/Linux-Distribution-EndeavourOS-Mercury-im-Test-10314668.html"
+    },
+    {
+      "title": "NAS, Nextcloud und Backups",
+      "teaser": "Ich möchte ein Backup zu oder von einer Nextcloud einrichten, doch in den Backup-Tools finde ich zwar Dutzende Clouddienste, nur kein Nextcloud.",
+      "url": "https://www.heise.de/ratgeber/NAS-Nextcloud-und-Backups-10309741.html"
     },
     {
       "title": "Do it yourselfMac mini mit SSD-Modul auf 2 TByte aufrüsten",
@@ -649,12 +649,6 @@
       "image_title": "Apples Einladungen-App"
     },
     {
-      "title": "Lisp-Box mit Minidisplay als Programmierhilfe erweitern",
-      "teaser": "Das Display für die Lisp-Box liefert hilfreiche Informationen zu allen verfügbaren Programmierbefehlen und lässt es sich mit dem Encoder komfortabel bedienen.",
-      "url": "https://www.heise.de/ratgeber/Lisp-Box-mit-Minidisplay-als-Programmierhilfe-erweitern-10317453.html",
-      "image_title": ","
-    },
-    {
       "title": "GitHub für Maker erklärt: Wie man Projekte verwaltet",
       "teaser": "Wir zeigen weitere Funktionen von Git: Projekte nicht nur lokal zu verwalten, sondern sie online auf der Plattform GitHub zu teilen und dort zu verwalten.",
       "url": "https://www.heise.de/ratgeber/GitHub-fuer-Maker-erklaert-Wie-man-Projekte-verwaltet-10307707.html",
@@ -664,6 +658,12 @@
       "title": "Moodles für den digitalen MINT-(Fern-)Unterricht",
       "teaser": "Make stellt kostenlose Moodles zur Verfügung, mit denen Lehrerinnen und Lehrer praktische Projekt mit Arduino und Raspi im (Fern)-Unterricht umsetzen können.",
       "url": "https://www.heise.de/news/Moodles-fuer-den-digitalen-MINT-Fern-Unterricht-10318268.html"
+    },
+    {
+      "title": "SparkFun übernimmt Teensy Produktion und Vertrieb",
+      "teaser": "Das beliebte Teensy-Prozessorboard wird zukünftig von SparkFun hergestellt und vertrieben. Damit soll die Zukunft des Teensy-Ökosystems gesichert werden.",
+      "url": "https://www.heise.de/news/SparkFun-uebernimmt-Teensy-Produktion-und-Vertrieb-10315834.html",
+      "image_title": "Teensy 4.1 Board"
     },
     {
       "title": "Wie man fotografische Bildpaare in Szene setzt",
@@ -762,22 +762,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Selenskyjs Kursk-Poker: Wie die Ukraine ihre letzten Trümpfe verspielt hat",
-      "teaser": "Selenskyj verlor in Kursk seine Verhandlungsstärke. Nun steht er ohne Trümpfe da. Doch was wird Trump in den Gesprächen mit Putin fordern? Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Selenskyjs-Kursk-Poker-Wie-die-Ukraine-ihre-letzten-Truempfe-verspielt-hat-10318040.html",
-      "image_title": "Ein ukranischer Soldat in einem Schützengraben"
+      "title": "Elon Musk erklärt die Menschlichkeit zum Gegner der USA",
+      "teaser": "Der reichste Mann der Welt sieht Empathie als Gefahr. Tesla-Chef fordert mehr Härte in der US-Politik. Was das über die Trump-Regierung sagt.",
+      "url": "https://www.heise.de/tp/features/Elon-Musk-erklaert-die-Menschlichkeit-zum-Gegner-der-USA-10317779.html",
+      "image_title": "Elon Musk blickt auf ein ursprünglich von zwei Händen gehaltenes Herz, von dem sich eine Hand zurückzieht"
     },
     {
-      "title": "Abhörsichere Quantenkommunikation zwischen China und Südafrika",
-      "teaser": "China hat mit Südafrika eine Quantenkommunikationsverbindung zwischen den beiden Ländern aufgebaut. Das ist ein wichtiger Schritt auf dem Weg zu einem globalen Netzwerk.",
-      "url": "https://www.heise.de/tp/features/Abhoersichere-Quantenkommunikation-zwischen-China-und-Suedafrika-10318438.html",
-      "image_title": "Symbolbil von Satelliten, die Lichtsignale aussenden"
+      "title": "Wirtschaftskrise 2025: Deutschland verliert den Anschluss an die Weltspitze",
+      "teaser": "Die Prognosen für Deutschlands Wirtschaft sind alarmierend. Das Ifo-Institut erwartet 2025 nur 0,2 Prozent Wachstum. Und die US-Regierung erhöht den Druck.",
+      "url": "https://www.heise.de/tp/features/Wirtschaftskrise-2025-Deutschland-verliert-den-Anschluss-an-die-Weltspitze-10318808.html",
+      "image_title": "Habe Blätter von einem Deutschland Schild an der Grenze ab"
     },
     {
-      "title": "Klimawandel: Wenn Atmen zum Gesundheitsrisiko wird",
-      "teaser": "Der Klimawandel lässt die Luft trockener werden. Das hat Folgen für unsere Gesundheit, zeigt eine neue Studie. Trockene Atemwege neigen eher zu Entzündungen.",
-      "url": "https://www.heise.de/tp/features/Klimawandel-Wenn-Atmen-zum-Gesundheitsrisiko-wird-10320345.html",
-      "image_title": "Erschöpfter Bauer in verdorrtem Maisfeld"
+      "title": "Baidu schafft mit neuen KI-Modellen Konkurrenz zu DeepSeek und OpenAI",
+      "teaser": "Baidu greift mit zwei neuen KI-Modellen die heimische wie US-Konkurrenz an. Sie sollen leistungsstärker und ebenso günstig sein. Setzt Baidu damit neue Maßstäbe?",
+      "url": "https://www.heise.de/tp/features/Baidu-schafft-mit-neuen-KI-Modellen-Konkurrenz-zu-DeepSeek-und-OpenAI-10319530.html",
+      "image_title": "Screenshot von Ernie auf einem Smartphone"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
