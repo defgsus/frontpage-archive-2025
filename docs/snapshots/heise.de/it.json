@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-19T12:17:26",
+  "timestamp": "2025-03-19T13:19:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,37 @@
   ],
   "articles": [
     {
+      "title": "Tutorial GitOps mit Crossplane, Teil 1: Beyond CI/CD",
+      "teaser": "Crossplane orchestriert Ressourcen cloudübergreifend und bietet zugleich eine Implementierung der GitOps-Prinzipien. Damit kann es Tools wie Terraform ablösen.",
+      "url": "https://www.heise.de/hintergrund/Tutorial-GitOps-mit-Crossplane-Teil-1-Beyond-CI-CD-10319109.html"
+    },
+    {
       "title": "Linux-Distribution: EndeavourOS Mercury im Test",
       "teaser": "Mit aktueller Software und frischen Desktops bietet EndeavourOS Mercury eine einfache Möglichkeit, ein Arch-Linux-System zu installieren.",
       "url": "https://www.heise.de/tests/Linux-Distribution-EndeavourOS-Mercury-im-Test-10314668.html"
     },
     {
-      "title": "Wie ein Weighted-Random-Walk-Algorithmus funktioniert",
-      "teaser": "Sich vom Zufall leiten zu lassen kann zu überraschenden Ergebnissen führen und auch nützlich sein. Eine Einführung in gewichtet zufällige Spaziergänge.",
-      "url": "https://www.heise.de/hintergrund/Wie-ein-Weighted-Random-Walk-Algorithmus-funktioniert-10316568.html",
-      "image_title": ","
+      "title": ".NET 10.0 Preview 2 ist mit heißer Nadel gestrickt",
+      "teaser": "Die zweite Preview für .NET 10.0 ist nur drei Wochen nach der ersten mit überschaubaren Neuerungen erschienen. Einiges funktioniert noch nicht wie angekündigt.",
+      "url": "https://www.heise.de/news/NET-10-0-Preview-2-ist-mit-heisser-Nadel-gestrickt-10321126.html",
+      "image_title": ".net-Schriftzug auf Schild"
+    },
+    {
+      "title": "Smarter Wechselrichter SolarFlow 800 mit Akkuanschluss von Zendure im Test",
+      "teaser": "Zendures SolarFlow 800 Wechselrichter für Solarpanels kann Gleichstrom in einen Speicher schieben und so dunkle Stunden überbrücken.",
+      "url": "https://www.heise.de/tests/Smarter-Wechselrichter-SolarFlow-800-mit-Akkuanschluss-von-Zendure-im-Test-10319731.html"
+    },
+    {
+      "title": "iX-Workshop: Effektive zentrale Authentifizierung mit Entra ID",
+      "teaser": "Erfahren Sie, wie Sie Entra ID als Cloud-basierten Authentifizierungsdienst einsetzen und hybride Identitäten sicher verwalten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Effektive-zentrale-Authentifizierung-mit-Entra-ID-10312597.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
+    },
+    {
+      "title": "Apple Passwörter-App: Problematischer Bug soll Monate bestanden haben",
+      "teaser": "Angreifer in \"privilegierter Netzwerkposition\", also etwa im gleichen WLAN, konnten Details aus Apples Passwörter-App mitlesen. Darüber waren Angriffe möglich.",
+      "url": "https://www.heise.de/news/Apple-Passwoerter-App-Problematischer-Bug-soll-Monate-bestanden-haben-10321028.html",
+      "image_title": "Apple-Logo am Haken (Symbolbild)"
     },
     {
       "title": "ESP32-Board für KI-Einsteiger",
@@ -43,7 +65,7 @@
       "image_title": "Das UNIHIKER-K10-Board ist zweimal zu sehen. Einmal von vorn, wo man das Display sieht, und einmal von hinten, wo man die Kamera sieht."
     },
     {
-      "title": "Nvidia: Blackwell Ultra, Rubin und Vera angekündigt",
+      "title": "Blackwell Ultra: Nvidia packt 288 GByte HBM3e auf eine GPU",
       "teaser": "Blackwell bekommt als Ultra-Version seine schnellste Ausbauform. Zudem entwickelt Nvidia seine erste große Server-CPU mit eigenen Rechenkernen.",
       "url": "https://www.heise.de/news/Nvidia-Blackwell-Ultra-Rubin-und-Vera-angekuendigt-10320995.html",
       "image_title": "Nahaufnahme einer Blackwell-GPU von Nvidia"
@@ -84,6 +106,12 @@
       "url": "https://www.heise.de/news/Il-Foglio-AI-In-Italien-gibt-es-nun-eine-KI-generierte-Zeitung-10320758.html"
     },
     {
+      "title": "Wie ein Weighted-Random-Walk-Algorithmus funktioniert",
+      "teaser": "Sich vom Zufall leiten zu lassen kann zu überraschenden Ergebnissen führen und auch nützlich sein. Eine Einführung in gewichtet zufällige Spaziergänge.",
+      "url": "https://www.heise.de/hintergrund/Wie-ein-Weighted-Random-Walk-Algorithmus-funktioniert-10316568.html",
+      "image_title": ","
+    },
+    {
       "title": "iX-Workshop: Hands-on Migration von VMware zu Proxmox",
       "teaser": "Lernen Sie, wie man virtuelle Maschinen von VMware-Umgebungen auf Proxmox VE überträgt.",
       "url": "https://www.heise.de/news/iX-Workshop-Hands-on-Migration-von-VMware-zu-Proxmox-10286719.html",
@@ -94,35 +122,6 @@
       "teaser": "Apple will Nutzern gegenüber transparent machen, wann für Apple Intelligence in die Cloud gewechselt wird. Doch die Berichte sind oft leer.",
       "url": "https://www.heise.de/news/Datenschutzreport-fuer-Apple-Intelligence-kommt-bislang-noch-selten-10318674.html",
       "image_title": "Apple-Logo als Vorhängeschloss"
-    },
-    {
-      "title": "Microsoft beerdigt TypeScript – und erfindet es in Go neu: Warum?",
-      "teaser": "Der TypeScript-Compiler wird ab Version 7 nicht mehr in TypeScript, sondern in Go geschrieben sein. Was verspricht sich Microsoft davon, und warum gerade Go?",
-      "url": "https://www.heise.de/blog/Microsoft-beerdigt-TypeScript-und-erfindet-es-in-Go-neu-Warum-10317343.html",
-      "image_title": "Schreibmaschine mit Go und TypeScript"
-    },
-    {
-      "title": "Stability AI macht aus Fotos 3D-Modelle samt Kamerafahrt",
-      "teaser": "Stable Virtual Camera soll aus 2D-Bildern 3D-Ansichten machen, die dann immersive Videos ermöglichen.",
-      "url": "https://www.heise.de/news/Stability-AI-macht-aus-Fotos-3D-Modelle-samt-Kamerafahrt-10320517.html",
-      "image_title": "Stable Virtual Camera nutzt verschiedene Kamerafahrten"
-    },
-    {
-      "title": "Googles Schwachstellen-Scanner prüft Container-Layer und Maven-Projekte",
-      "teaser": "Die neue Version von Googles Open-Source-Vulnerabilty-Scanner untersucht Abhängigkeiten in Container-Image-Layern und Maven-Projekten.",
-      "url": "https://www.heise.de/news/Googles-Schwachstellen-Scanner-prueft-Container-Layer-und-Maven-Projekte-10319928.html",
-      "image_title": "Viele schwarze Würfel. In der Mitte ist ein roter Würfel mit einem Käfer darauf."
-    },
-    {
-      "title": "Rancher für SAP: Kubernetes-Plattform von SUSE mit SAP-Zertifizierung gestartet",
-      "teaser": "SUSE hat seine Kubernetes-Plattform Rancher Prime für SAP-Anwendungen zertifiziert. Zudem kommt sie als SaaS. Ebenfalls erhält SUSE AI eine agentenbasierte KI.",
-      "url": "https://www.heise.de/news/SUSECon-2025-SUSE-bringt-Kubernetes-fuer-SAP-Anwendungen-und-agentenbasierte-KI-10319212.html",
-      "image_title": "Abhinav Puri auf der SUSECon"
-    },
-    {
-      "title": "Optimale Vorbereitung auf die NIS-2-Richtlinie",
-      "teaser": "NIS-2 ist auf europäischer Ebene längst in Kraft. Lernen Sie noch vor Umsetzung in deutsches Recht, was Sie beachten müssen, um die Anforderungen zu erfüllen.",
-      "url": "https://www.heise.de/news/Optimale-Vorbereitung-auf-die-NIS-2-Richtlinie-Risikoanalyse-Security-und-mehr-10318590.html"
     },
     {
       "title": "Endpoint Central von ManageEngine als beste Patch-Management-Lösung ausgezeichnet",
