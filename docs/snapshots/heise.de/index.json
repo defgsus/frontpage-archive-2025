@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-19T21:08:33",
+  "timestamp": "2025-03-19T22:08:46",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "DMA: Alphabet stellt EU-Kommission nicht zufrieden",
+      "url": "https://www.heise.de/news/DMA-Alphabet-stellt-EU-Kommission-nicht-zufrieden-10321920.html"
+    },
     {
       "title": "Webbrowser: Google stopft kritisches Sicherheitsleck in Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Google-stopft-kritisches-Sicherheitsleck-in-Chrome-10321842.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/news/Nach-Anfrage-Bundesregierung-legt-Starlink-Nutzung-teilweise-offen-10321646.html"
     },
     {
-      "title": "Über 200 Sensoren: KI-Brücke soll Zustand in Echtzeit übermitteln",
-      "url": "https://www.heise.de/news/Bautzen-KI-Forschungsbruecke-soll-Zustandsueberwachung-in-Echtzeit-erlauben-10321626.html"
-    },
-    {
       "title": "In der EUApple muss weitere Funktionen mit iOS 19 und iOS 20 öffnen",
       "teaser": "Die EU-Kommission diktiert jetzt haarklein, wie iOS 19 und iOS 20 mit der Hardware anderer Hersteller zusammenspielen müssen.",
       "url": "https://www.heise.de/news/In-der-EU-Apple-muss-weitere-Funktionen-mit-iOS-19-und-iOS-20-oeffnen-10321512.html",
@@ -88,10 +88,10 @@
       "url": "https://www.heise.de/ratgeber/Hackintosh-mit-AMD-Ryzen-9000-bauen-macOS-15-auf-aktueller-PC-Hardware-10298307.html"
     },
     {
-      "title": "Pixel 9aGoogles Antwort auf das Apple iPhone 16e",
-      "teaser": "Mit dem Pixel 9a legt Google seine Mittelklasse neu auf und verzichtet dabei auf den charakteristischen Kamerabalken.",
-      "url": "https://www.heise.de/news/Pixel-9a-Googles-Antwort-auf-das-Apple-iPhone-16e-10321170.html",
-      "image_title": "Mehrere Smartphones der Reihe Pixel 9a an Messestand"
+      "title": "Online-Casinos\"Einen Dreck um die Sicherheit der Daten der Spieler geschert\"",
+      "teaser": "Lilith Wittmann erzählt, wo Online-Casinos Sicherheitslücken hatten, und warum Spielerschutz oft ins Leere läuft.",
+      "url": "https://www.heise.de/hintergrund/Man-hat-sich-einen-Dreck-um-die-Sicherheit-der-Daten-der-Spieler-geschert-10321798.html",
+      "image_title": "Lilith Wittmann"
     },
     {
       "title": "UpdateChaos bei der CISAUS-Cybersicherheitsbehörde holt Gefeuerte per Website zurück",
@@ -188,16 +188,16 @@
       "image_title": "AVM-Sensor in Hand"
     },
     {
+      "title": "DMA: Alphabet stellt EU-Kommission nicht zufrieden",
+      "teaser": "Die Aufsichtsbehörde für den Digital Markets Act sieht wettbewerbsbehinderndes Verhalten bei Google Play und Google Search.",
+      "url": "https://www.heise.de/news/DMA-Alphabet-stellt-EU-Kommission-nicht-zufrieden-10321920.html",
+      "image_title": "Die Eingabemaske der Google-Suchmaschine"
+    },
+    {
       "title": "AlertWebbrowser: Google stopft kritisches Sicherheitsleck in Chrome",
       "teaser": "Google aktualisiert den Webbrowser Chrome und schließt dabei eine als kritisches Risiko eingestufte Sicherheitslücke.",
       "url": "https://www.heise.de/news/Webbrowser-Google-stopft-kritisches-Sicherheitsleck-in-Chrome-10321842.html",
       "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
-    },
-    {
-      "title": "\"Man hat sich einen Dreck um die Sicherheit der Daten der Spieler geschert\"",
-      "teaser": "Lilith Wittmann hat bei Online-Casinos schwere Sicherheitslücken gefunden. Das Gespräch mit ihr dreht sich nicht nur um Technik, sondern auch eine Behörde.",
-      "url": "https://www.heise.de/hintergrund/Man-hat-sich-einen-Dreck-um-die-Sicherheit-der-Daten-der-Spieler-geschert-10321798.html",
-      "image_title": "Lilith Wittmann"
     },
     {
       "title": "KI: Unternehmen brauchen solides IT-Management",
@@ -341,6 +341,12 @@
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
+      "title": "Pixel 9a: Googles Antwort auf das Apple iPhone 16e",
+      "teaser": "Mit dem Pixel 9a legt Google seine Mittelklasse neu auf. Das Handy verzichtet auf den charakteristischen Kamerabalken – und wird kurzfristig verschoben",
+      "url": "https://www.heise.de/news/Pixel-9a-Googles-Antwort-auf-das-Apple-iPhone-16e-10321170.html",
+      "image_title": "Mehrere Smartphones der Reihe Pixel 9a an Messestand"
+    },
+    {
       "title": "KI-Update kompakt: Google Gemini, KI-Suche, Nvidia GTC 2025, SpellRing",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-Google-Gemini-KI-Suche-Nvidia-GTC-2025-SpellRing-10321016.html",
@@ -376,15 +382,15 @@
       "image_title": ","
     },
     {
+      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
+      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
+    },
+    {
       "title": "Siemens: Automatisierungsgeschäft schwächelt, 6.000 Jobs fallen weg",
       "teaser": "Unter anderem als Reaktion auf schwache Nachfrage im Automatisierungsgeschäft setzt Siemens bei rund 6000 Jobs den Rotstift an.",
       "url": "https://www.heise.de/news/Siemens-Automatisierungsgeschaeft-schwaechelt-6-000-Jobs-fallen-weg-10321102.html",
       "image_title": "Siemens-Schriftzug auf Gebäude"
-    },
-    {
-      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
-      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
     },
     {
       "title": "ESP32-Board für KI-Einsteiger",
@@ -439,11 +445,6 @@
       "teaser": "Das schwimmende LNG-Terminal in Le Havre soll die Energieversorgung in Frankreich sichern. Doch wegen hoher Betriebskosten wird es nur wenig genutzt.",
       "url": "https://www.heise.de/news/Hohe-Betriebskosten-Schwimmende-LNG-Terminals-werden-wenig-genutzt-10320845.html",
       "image_title": "Schwimmendes LNG-Terminal"
-    },
-    {
-      "title": "Il Foglio AI: In Italien gibt es nun eine KI-generierte Zeitung",
-      "teaser": "Es ist ein Test: Neben der römischen Tageszeitung Il Foglio soll einen Monat lang täglich auch eine KI-Ausgabe liegen.",
-      "url": "https://www.heise.de/news/Il-Foglio-AI-In-Italien-gibt-es-nun-eine-KI-generierte-Zeitung-10320758.html"
     },
     {
       "title": "UpdateGrößter Kauf der Konzerngeschichte: Google zahlt 32 Milliarden US-Dollar für Wiz",
@@ -616,10 +617,10 @@
       "url": "https://www.heise.de/en/news/Microsoft-Native-porting-to-Go-should-make-TypeScript-ten-times-faster-10313327.html"
     },
     {
-      "title": "AlertSicherheitslücke mit maximaler Risikostufe in Server-Fernwartung",
-      "teaser": "Ethernet-Ports für Fernwartung gehören nicht ans öffentliche Netz, wie eine aktuelle Sicherheitslücke eindrucksvoll demonstriert.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-mit-maximaler-Risikostufe-in-Server-Fernwartung-10321764.html",
-      "image_title": "Server mit Netzwerkkabeln"
+      "title": "Pixel 9aGoogles Antwort auf das Apple iPhone 16e",
+      "teaser": "Mit dem Pixel 9a legt Google seine Mittelklasse neu auf und verzichtet dabei auf den charakteristischen Kamerabalken.",
+      "url": "https://www.heise.de/news/Pixel-9a-Googles-Antwort-auf-das-Apple-iPhone-16e-10321170.html",
+      "image_title": "Mehrere Smartphones der Reihe Pixel 9a an Messestand"
     },
     {
       "title": "Linux-Distribution: EndeavourOS Mercury im Test",
@@ -649,6 +650,12 @@
       "image_title": "Apples Einladungen-App"
     },
     {
+      "title": "Lisp-Box mit Minidisplay als Programmierhilfe erweitern",
+      "teaser": "Das Display für die Lisp-Box liefert hilfreiche Informationen zu allen verfügbaren Programmierbefehlen und lässt es sich mit dem Encoder komfortabel bedienen.",
+      "url": "https://www.heise.de/ratgeber/Lisp-Box-mit-Minidisplay-als-Programmierhilfe-erweitern-10317453.html",
+      "image_title": ","
+    },
+    {
       "title": "GitHub für Maker erklärt: Wie man Projekte verwaltet",
       "teaser": "Wir zeigen weitere Funktionen von Git: Projekte nicht nur lokal zu verwalten, sondern sie online auf der Plattform GitHub zu teilen und dort zu verwalten.",
       "url": "https://www.heise.de/ratgeber/GitHub-fuer-Maker-erklaert-Wie-man-Projekte-verwaltet-10307707.html",
@@ -658,12 +665,6 @@
       "title": "Moodles für den digitalen MINT-(Fern-)Unterricht",
       "teaser": "Make stellt kostenlose Moodles zur Verfügung, mit denen Lehrerinnen und Lehrer praktische Projekt mit Arduino und Raspi im (Fern)-Unterricht umsetzen können.",
       "url": "https://www.heise.de/news/Moodles-fuer-den-digitalen-MINT-Fern-Unterricht-10318268.html"
-    },
-    {
-      "title": "SparkFun übernimmt Teensy Produktion und Vertrieb",
-      "teaser": "Das beliebte Teensy-Prozessorboard wird zukünftig von SparkFun hergestellt und vertrieben. Damit soll die Zukunft des Teensy-Ökosystems gesichert werden.",
-      "url": "https://www.heise.de/news/SparkFun-uebernimmt-Teensy-Produktion-und-Vertrieb-10315834.html",
-      "image_title": "Teensy 4.1 Board"
     },
     {
       "title": "Wie man fotografische Bildpaare in Szene setzt",
@@ -762,22 +763,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "BYD erwägt drittes Europawerk in Deutschland",
+      "teaser": "Der chinesische Hersteller zieht Deutschland als Produktionsstandort in Betracht. Während Europa zögert, expandiert die Firma weltweit rasant. Und rast auch technologisch an die Spitze.",
+      "url": "https://www.heise.de/tp/features/BYD-erwaegt-drittes-Europawerk-in-Deutschland-10319686.html",
+      "image_title": "Ein E-Auto von BYD an einer Ladesäule"
+    },
+    {
       "title": "Elon Musk erklärt die Menschlichkeit zum Gegner der USA",
       "teaser": "Der reichste Mann der Welt sieht Empathie als Gefahr. Tesla-Chef fordert mehr Härte in der US-Politik. Was das über die Trump-Regierung sagt.",
       "url": "https://www.heise.de/tp/features/Elon-Musk-erklaert-die-Menschlichkeit-zum-Gegner-der-USA-10317779.html",
       "image_title": "Elon Musk blickt auf ein ursprünglich von zwei Händen gehaltenes Herz, von dem sich eine Hand zurückzieht"
     },
     {
-      "title": "Wirtschaftskrise 2025: Deutschland verliert den Anschluss an die Weltspitze",
-      "teaser": "Die Prognosen für Deutschlands Wirtschaft sind alarmierend. Das Ifo-Institut erwartet 2025 nur 0,2 Prozent Wachstum. Und die US-Regierung erhöht den Druck.",
-      "url": "https://www.heise.de/tp/features/Wirtschaftskrise-2025-Deutschland-verliert-den-Anschluss-an-die-Weltspitze-10318808.html",
-      "image_title": "Habe Blätter von einem Deutschland Schild an der Grenze ab"
-    },
-    {
-      "title": "Baidu schafft mit neuen KI-Modellen Konkurrenz zu DeepSeek und OpenAI",
-      "teaser": "Baidu greift mit zwei neuen KI-Modellen die heimische wie US-Konkurrenz an. Sie sollen leistungsstärker und ebenso günstig sein. Setzt Baidu damit neue Maßstäbe?",
-      "url": "https://www.heise.de/tp/features/Baidu-schafft-mit-neuen-KI-Modellen-Konkurrenz-zu-DeepSeek-und-OpenAI-10319530.html",
-      "image_title": "Screenshot von Ernie auf einem Smartphone"
+      "title": "Verhandlungen zum Ukraine-Krieg: Europas ungelöste Bewährungsprobe",
+      "teaser": "Es geht um die europäische Sicherheit in nächster Zukunft. Wie könnte eine glaubwürdige Abschreckung aussehen? Gespräch mit Brigadegeneral a.D. Reiner Schwalb. (Teil1).",
+      "url": "https://www.heise.de/tp/features/Verhandlungen-zum-Ukraine-Krieg-Europas-ungeloeste-Bewaehrungsprobe-10320419.html",
+      "image_title": "Putin und Trump auf zwei verschiedenen Fotos, die nebeneinander präsentiert werden. Beide haben ihre jweilige Nationalflagge im Hintergrund"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
