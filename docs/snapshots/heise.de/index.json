@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-20T09:10:23",
+  "timestamp": "2025-03-20T10:10:31",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Coole 3D-Druckmodelle aus Text oder Bild erzeugen: KI-Tool Rodin im Test",
+      "url": "https://www.heise.de/tests/Rodin-Gen-1-5-im-Test-3D-Modelle-aus-Textprompts-generieren-10306734.html"
+    },
+    {
+      "title": "Ende der Windows-10-Unterstützung: Profitiert Apple bei Firmenkunden?",
+      "url": "https://www.heise.de/news/Ende-der-Windows-10-Unterstuetzung-Profitiert-Apple-bei-Firmenkunden-10321690.html"
+    },
+    {
+      "title": "ARM-Server-CPUs: Ampere Computing gehört jetzt wie ARM und Graphcore zu Softbank",
+      "url": "https://www.heise.de/news/ARM-Server-CPUs-Ampere-Computing-gehoert-jetzt-wie-ARM-und-Graphcore-zu-Softbank-10322297.html"
+    },
+    {
+      "title": "MacWhisper: Lokale Audiotranskription unterscheidet Sprecher",
+      "url": "https://www.heise.de/news/MacWhisper-Lokale-Audiotranskription-unterscheidet-Sprecher-10321910.html"
+    },
+    {
       "title": "KI-Modellkunde: Entscheidungshilfe für Bild- und Videomodelle im Unternehmen",
       "url": "https://www.heise.de/news/KI-Modellkunde-Entscheidungshilfe-fuer-Bild-und-Videomodelle-im-Unternehmen-10317927.html"
     },
@@ -42,39 +58,12 @@
       "url": "https://www.heise.de/news/Ark-Aquatica-Studio-empoert-Fans-mit-KI-generiertem-Trailer-10322179.html"
     },
     {
-      "title": "Gehaltsangaben in Stellenanzeigen: Arbeitgeber lassen ITler meist in Dunkeln",
+      "title": "Gehaltsangaben in Stellenanzeigen: Arbeitgeber lassen ITler meist im Dunkeln",
       "url": "https://www.heise.de/news/Gehaltsangaben-in-Stellenanzeigen-Arbeitgeber-lassen-ITler-meist-in-Dunkeln-10321596.html"
     },
     {
       "title": "Hessen plant Handyverbot an Schulen",
       "url": "https://www.heise.de/news/Hessen-plant-Handyverbot-an-Schulen-10322149.html"
-    },
-    {
-      "title": "ChatGPT macht Mann zu Mörder: Noyb reicht Datenschutzbeschwerde ein",
-      "url": "https://www.heise.de/news/ChatGPT-macht-Mann-zu-Moerder-Noyb-reicht-Datenschutzbeschwerde-ein-10322122.html"
-    },
-    {
-      "title": "FOSS Backstage: So abhängig ist kommerzielle Softwareentwicklung von Open Source",
-      "url": "https://www.heise.de/news/FOSS-Backstage-So-abhaengig-ist-kommerzielle-Softwareentwicklung-von-Open-Source-10320841.html"
-    },
-    {
-      "title": "Boston Dynamics: Humanoider Roboter Atlas bewegt sich immer menschenähnlicher",
-      "url": "https://www.heise.de/news/Boston-Dynamics-Humanoider-Roboter-Atlas-bewegt-sich-immer-menschenaehnlicher-10322128.html"
-    },
-    {
-      "title": "Schwerwiegende Sicherheitslücken bedrohen Serverbetriebssystem IBM AIX",
-      "url": "https://www.heise.de/news/Schwerwiegende-Sicherheitsluecken-bedrohen-Serverbetriebssystem-IBM-AIX-10322112.html"
-    },
-    {
-      "title": "Online-Casinos\"Einen Dreck um die Sicherheit der Daten der Spieler geschert\"",
-      "teaser": "Lilith Wittmann erzählt, wo Online-Casinos Sicherheitslücken hatten, und warum Spielerschutz oft ins Leere läuft.",
-      "url": "https://www.heise.de/hintergrund/Man-hat-sich-einen-Dreck-um-die-Sicherheit-der-Daten-der-Spieler-geschert-10321798.html",
-      "image_title": "Lilith Wittmann"
-    },
-    {
-      "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
-      "teaser": "Die Schweiz lockt mit hohen Gehältern. Auch die Lebensqualität ist gut. Wir zeigen, wie ITler auswandern können – und wie viel sie verdienen.",
-      "url": "https://www.heise.de/ratgeber/Auswandern-Als-ITler-in-der-Schweiz-arbeiten-10296203.html"
     },
     {
       "title": "AlertServer-FernwartungSicherheitslücke mit maximaler Risikostufe",
@@ -83,27 +72,38 @@
       "image_title": "Server mit Netzwerkkabeln"
     },
     {
+      "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
+      "teaser": "Die Schweiz lockt mit hohen Gehältern. Auch die Lebensqualität ist gut. Wir zeigen, wie ITler auswandern können – und wie viel sie verdienen.",
+      "url": "https://www.heise.de/ratgeber/Auswandern-Als-ITler-in-der-Schweiz-arbeiten-10296203.html"
+    },
+    {
+      "title": "Boston DynamicsHumanoider Roboter Atlas bewegt sich immer menschenähnlicher",
+      "teaser": "Boston Dynamics bringt seinem humanoiden Atlas-Roboter immer dynamischere Bewegungen bei. Dabei hilft auch eine KI-Kooperation.",
+      "url": "https://www.heise.de/news/Boston-Dynamics-Humanoider-Roboter-Atlas-bewegt-sich-immer-menschenaehnlicher-10322128.html",
+      "image_title": "Roboter Atlas schlägt ein Rad."
+    },
+    {
       "title": "Ohne teure Apple-HardwareHackintosh bauen: macOS 15 auf normalen PCs laufen lassen",
       "teaser": "Lust auf macOS, aber keine Apple-Hardware? Dann bauen sie sich doch einen Hackintosh. Das geht sogar mit macOS 15.",
       "url": "https://www.heise.de/ratgeber/Hackintosh-mit-AMD-Ryzen-9000-bauen-macOS-15-auf-aktueller-PC-Hardware-10298307.html"
     },
     {
-      "title": "In der EUApple muss weitere Funktionen mit iOS 19 und iOS 20 öffnen",
-      "teaser": "Die EU-Kommission diktiert jetzt haarklein, wie iOS 19 und iOS 20 mit der Hardware anderer Hersteller zusammenspielen müssen.",
-      "url": "https://www.heise.de/news/In-der-EU-Apple-muss-weitere-Funktionen-mit-iOS-19-und-iOS-20-oeffnen-10321512.html",
-      "image_title": "iPhone mit Apps auf dem Homescreen"
+      "title": "Online-Casinos\"Einen Dreck um die Sicherheit der Daten der Spieler geschert\"",
+      "teaser": "Lilith Wittmann erzählt, wo Online-Casinos Sicherheitslücken hatten, und warum Spielerschutz oft ins Leere läuft.",
+      "url": "https://www.heise.de/hintergrund/Man-hat-sich-einen-Dreck-um-die-Sicherheit-der-Daten-der-Spieler-geschert-10321798.html",
+      "image_title": "Lilith Wittmann"
     },
     {
-      "title": "EntwicklungMicrosoft beerdigt TypeScript – und erfindet es in Go neu: Warum?",
-      "teaser": "Der TypeScript-Compiler wird ab Version 7 nicht mehr in TypeScript, sondern in Go geschrieben sein. Was verspricht sich Microsoft davon?",
-      "url": "https://www.heise.de/blog/Microsoft-beerdigt-TypeScript-und-erfindet-es-in-Go-neu-Warum-10317343.html",
-      "image_title": "Schreibmaschine mit Go und TypeScript"
+      "title": "Noyb reicht Datenschutzbeschwerde einChatGPT macht unschuldigen Mann zu Mörder",
+      "teaser": "Ein Mann soll laut ChatGPT zwei Kinder ermordet haben. Das stimmt nicht. Noyb legt eine Datenschutzbeschwerde vor.",
+      "url": "https://www.heise.de/news/ChatGPT-macht-Mann-zu-Moerder-Noyb-reicht-Datenschutzbeschwerde-ein-10322122.html",
+      "image_title": "Tippende Hände, darüber schweben Symbole und die Buchstaben AI."
     },
     {
-      "title": "Pixel 9aGoogles Antwort auf das Apple iPhone 16e",
-      "teaser": "Mit dem Pixel 9a legt Google seine Mittelklasse neu auf und verzichtet dabei auf den charakteristischen Kamerabalken.",
-      "url": "https://www.heise.de/news/Pixel-9a-Googles-Antwort-auf-das-Apple-iPhone-16e-10321170.html",
-      "image_title": "Mehrere Smartphones der Reihe Pixel 9a an Messestand"
+      "title": "\"Ark: Aquatica\"Studio empört Fans mit KI-generiertem Trailer",
+      "teaser": "Weniger Mühe war nicht möglich: Ein Trailer für die Spiele-Erweiterung \"Ark: Aquatica\" besteht fast ausschließlich aus KI-Szenen.",
+      "url": "https://www.heise.de/news/Ark-Aquatica-Studio-empoert-Fans-mit-KI-generiertem-Trailer-10322179.html",
+      "image_title": "Screenshot aus dem Ki-Trailer zu \"Ark Aquatica\""
     },
     {
       "title": "Smart HomeAcht smarte Türschlösser im Test",
@@ -128,10 +128,10 @@
       "image_title": ", KI, Collage c’t"
     },
     {
-      "title": "Mount EverestDJI-Drohnen weisen Sherpas gefährlichen Weg durch Khumbu-Eisfall",
-      "teaser": "Sherpa am Mount Everest ist ein gefährlicher Job. Sie transportieren Ausrüstung. Drohnen sollen die Gefahr mindern.",
-      "url": "https://www.heise.de/news/Mount-Everest-DJI-Drohnen-weisen-Sherpas-gefaehrlichen-Weg-durch-Khumbu-Eisfall-10320901.html",
-      "image_title": "Drohne fliegt über Basislager am Mount Everest."
+      "title": "KarriereGehaltsangaben in Stellenanzeigen: Arbeitgeber lassen ITler meist im Dunkeln",
+      "teaser": "Über Geld spricht man nicht – das gilt in Deutschland laut einer Analyse auch für Lohnangaben in Stellenanzeigen. Die sind besonders bei IT-Jobs selten.",
+      "url": "https://www.heise.de/news/Gehaltsangaben-in-Stellenanzeigen-Arbeitgeber-lassen-ITler-meist-in-Dunkeln-10321596.html",
+      "image_title": "Stapel Münzen vor Geldscheinen"
     },
     {
       "title": "Facelift macht das E-SUV leiserTesla Model Y Juniper im Test",
@@ -146,10 +146,28 @@
       "image_title": "Ein Minecraft Dirt-Block und das Symbol der Programmiersprache Python"
     },
     {
-      "title": "KI-AssistentMeta AI startet in der EU",
-      "teaser": "Meta AI zieht in WhatsApp, Facebook, den Messenger und Instagram. Der KI-Assistent ist zunächst im Chat verfügbar.",
-      "url": "https://www.heise.de/news/Meta-AI-startet-in-der-EU-KI-Assistent-per-Chat-erreichbar-10322030.html",
-      "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
+      "title": "In der EUApple muss weitere Funktionen mit iOS 19 und iOS 20 öffnen",
+      "teaser": "Die EU-Kommission diktiert jetzt haarklein, wie iOS 19 und iOS 20 mit der Hardware anderer Hersteller zusammenspielen müssen.",
+      "url": "https://www.heise.de/news/In-der-EU-Apple-muss-weitere-Funktionen-mit-iOS-19-und-iOS-20-oeffnen-10321512.html",
+      "image_title": "iPhone mit Apps auf dem Homescreen"
+    },
+    {
+      "title": "EntwicklungMicrosoft beerdigt TypeScript – und erfindet es in Go neu: Warum?",
+      "teaser": "Der TypeScript-Compiler wird ab Version 7 nicht mehr in TypeScript, sondern in Go geschrieben sein. Was verspricht sich Microsoft davon?",
+      "url": "https://www.heise.de/blog/Microsoft-beerdigt-TypeScript-und-erfindet-es-in-Go-neu-Warum-10317343.html",
+      "image_title": "Schreibmaschine mit Go und TypeScript"
+    },
+    {
+      "title": "Pixel 9aGoogles Antwort auf das Apple iPhone 16e",
+      "teaser": "Mit dem Pixel 9a legt Google seine Mittelklasse neu auf und verzichtet dabei auf den charakteristischen Kamerabalken.",
+      "url": "https://www.heise.de/news/Pixel-9a-Googles-Antwort-auf-das-Apple-iPhone-16e-10321170.html",
+      "image_title": "Mehrere Smartphones der Reihe Pixel 9a an Messestand"
+    },
+    {
+      "title": "Apple-TabletiPad Air M3 im Test",
+      "teaser": "Erst im Frühjahr 2024 hatte das iPad Air ein großes Update erhalten, nun folgte ein weiteres. Lohnt sich das iPad Air M3?",
+      "url": "https://www.heise.de/tests/iPad-Air-M3-im-Test-Das-kann-Apples-neues-Mittelklasse-Tablet-10310432.html",
+      "image_title": "iPad Air mit 11 Zoll und neuem M3-SoC"
     },
     {
       "title": "GB10Mini-PCs mit Nvidia-Prozessor auch von Asus, Dell und HP",
@@ -164,28 +182,39 @@
       "image_title": "X-Logo und Musks Gesicht"
     },
     {
-      "title": "Apple-TabletiPad Air M3 im Test",
-      "teaser": "Erst im Frühjahr 2024 hatte das iPad Air ein großes Update erhalten, nun folgte ein weiteres. Lohnt sich das iPad Air M3?",
-      "url": "https://www.heise.de/tests/iPad-Air-M3-im-Test-Das-kann-Apples-neues-Mittelklasse-Tablet-10310432.html",
-      "image_title": "iPad Air mit 11 Zoll und neuem M3-SoC"
-    },
-    {
       "title": "BrowserBestätigt: PWAs für Firefox kommen",
       "teaser": "Auf dem Desktop müssen Firefox-Nutzer auf Progressive Web Apps verzichten. Doch die Entwickler arbeiten daran – legen sich aber nicht auf einen Zeitplan fest.",
       "url": "https://www.heise.de/news/Bestaetigt-Web-Apps-fuer-Firefox-kommen-10320817.html",
       "image_title": "Firefox-Symbol"
     },
     {
-      "title": "DMAAlphabet stellt EU-Kommission nicht zufrieden",
-      "teaser": "Die Aufsichtsbehörde für den Digital Markets Act sieht wettbewerbsbehinderndes Verhalten bei Google Play und Search.",
-      "url": "https://www.heise.de/news/DMA-Alphabet-stellt-EU-Kommission-nicht-zufrieden-10321920.html",
-      "image_title": "Die Eingabemaske der Google-Suchmaschine"
+      "title": "Coole 3D-Druckmodelle aus Text oder Bild erzeugen: KI-Tool Rodin im Test",
+      "teaser": "3D-Modellierung ist zeitraubend. Mit dem KI-gestützten Onlinetool Rodin reichen hingegen eine kurze Beschreibung oder ein Bild aus, um ein Modell zu generieren.",
+      "url": "https://www.heise.de/tests/Rodin-Gen-1-5-im-Test-3D-Modelle-aus-Textprompts-generieren-10306734.html",
+      "image_title": ", KI, Fotos, Collage c't"
     },
     {
-      "title": "Alternative für MS Project?OpenProject 15.4 plant Arbeitspakete automatisch",
-      "teaser": "OpenProject 15.4 kann jetzt Arbeitspakete automatisch planen. Zudem lassen sich deren Beschreibungen im Vertragsformat exportieren.",
-      "url": "https://www.heise.de/news/Alternative-fuer-MS-Project-OpenProject-15-4-plant-Arbeitspakete-automatisch-10320795.html",
-      "image_title": "Screenshot von OpenProject"
+      "title": "Ende der Windows-10-Unterstützung: Profitiert Apple bei Firmenkunden?",
+      "teaser": "Apple legt bei seinen Rechnermarktanteilen in Nordamerika ordentlich zu. Grund ist möglicherweise, dass Firmen PCs gegen Macs austauschen – wegen Microsoft.",
+      "url": "https://www.heise.de/news/Ende-der-Windows-10-Unterstuetzung-Profitiert-Apple-bei-Firmenkunden-10321690.html",
+      "image_title": "Illustration einer Vermischung von Apple- und Windows-Logo"
+    },
+    {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "ARM-Server-CPUs: Ampere Computing gehört jetzt wie ARM und Graphcore zu Softbank",
+      "teaser": "Softbank, dessen Chef auch das gigantische KI-Projekt Stargate leitet, schluckt nach ARM und Graphcore nun auch den CPU-Hersteller Ampere Computing.",
+      "url": "https://www.heise.de/news/ARM-Server-CPUs-Ampere-Computing-gehoert-jetzt-wie-ARM-und-Graphcore-zu-Softbank-10322297.html",
+      "image_title": "Server-CPU mit ARM-Kernen von Ampere Computing"
+    },
+    {
+      "title": "MacWhisper: Lokale Audiotranskription unterscheidet Sprecher",
+      "teaser": "Zu den auf dem Mac beliebtesten Apps zur Erfassung von Konversationen zählt MacWhisper. Mittels lokaler KI kann es nun auch Personen auseinanderhalten.",
+      "url": "https://www.heise.de/news/MacWhisper-Lokale-Audiotranskription-unterscheidet-Sprecher-10321910.html",
+      "image_title": "MacWhisper mit Speaker Detection"
     },
     {
       "title": "KI-Modellkunde: Entscheidungshilfe für Bild- und Videomodelle im Unternehmen",
@@ -199,44 +228,15 @@
       "image_title": "Frau bei der Nutzung von Apple Fitness+"
     },
     {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "AlertAngreifer können Kemp LoadMaster mit präparierten HTTP-Anfragen attackieren",
       "teaser": "Eine kritische Schwachstelle gefährdet die Sicherheit von Servern mit Kemp LoadMaster.",
       "url": "https://www.heise.de/news/Angreifer-koennen-Kemp-LoadMaster-mit-praeparierten-HTTP-Anfragen-attackieren-10322161.html"
-    },
-    {
-      "title": "\"Ark: Aquatica\": Studio empört Fans mit KI-generiertem Trailer",
-      "teaser": "Weniger Mühe hätte man sich nicht geben können: Ein Trailer für die Spiele-Erweiterung \"Ark: Aquatica\" besteht fast ausschließlich aus KI-Szenen.",
-      "url": "https://www.heise.de/news/Ark-Aquatica-Studio-empoert-Fans-mit-KI-generiertem-Trailer-10322179.html",
-      "image_title": "Screenshot aus dem Ki-Trailer zu \"Ark Aquatica\""
-    },
-    {
-      "title": "Gehaltsangaben in Stellenanzeigen: Arbeitgeber lassen ITler meist in Dunkeln",
-      "teaser": "Über Geld spricht man nicht – das gilt in Deutschland laut einer Analyse auch für Lohnangaben in Stellenanzeigen. Die sind besonders bei IT-Jobs selten.",
-      "url": "https://www.heise.de/news/Gehaltsangaben-in-Stellenanzeigen-Arbeitgeber-lassen-ITler-meist-in-Dunkeln-10321596.html",
-      "image_title": "Stapel Münzen vor Geldscheinen"
     },
     {
       "title": "Hessen plant Handyverbot an Schulen",
       "teaser": "Kinder, die auf Schulhöfen alleine mit Handys herumsitzen und nicht spielen: Hessens Bildungsminister ist das ein Graus. Von August an soll sich das ändern.",
       "url": "https://www.heise.de/news/Hessen-plant-Handyverbot-an-Schulen-10322149.html",
       "image_title": "Kinder auf einer Bank, alle gucken auf ihr Smartphone"
-    },
-    {
-      "title": "ChatGPT macht Mann zu Mörder: Noyb reicht Datenschutzbeschwerde ein",
-      "teaser": "Ein Mann soll laut ChatGPT zwei Kinder ermordet haben, behauptet ChatGPT. Das stimmt nicht. Noyb legt eine Datenschutzbeschwerde vor.",
-      "url": "https://www.heise.de/news/ChatGPT-macht-Mann-zu-Moerder-Noyb-reicht-Datenschutzbeschwerde-ein-10322122.html",
-      "image_title": "Tippende Hände, darüber schweben Symbole und die Buchstaben AI."
-    },
-    {
-      "title": "FOSS Backstage: So abhängig ist kommerzielle Softwareentwicklung von Open Source",
-      "teaser": "Das Ausbalancieren der Chancen und Risiken von freier und Open-Source-Software war das Thema der FOSS Backstage in Berlin.",
-      "url": "https://www.heise.de/news/FOSS-Backstage-So-abhaengig-ist-kommerzielle-Softwareentwicklung-von-Open-Source-10320841.html",
-      "image_title": "FOSS-Backstage-Konferenz"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -305,10 +305,10 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
-      "title": "Boston Dynamics: Humanoider Roboter Atlas bewegt sich immer menschenähnlicher",
-      "teaser": "Boston Dynamics bringt seinem humanoiden Atlas-Roboter immer dynamischere Bewegungen bei. Dabei hilft auch die Zusammenarbeit mit dem KI-Unternehmen RAI.",
-      "url": "https://www.heise.de/news/Boston-Dynamics-Humanoider-Roboter-Atlas-bewegt-sich-immer-menschenaehnlicher-10322128.html",
-      "image_title": "Roboter Atlas schlägt ein Rad."
+      "title": "FOSS Backstage: So abhängig ist kommerzielle Softwareentwicklung von Open Source",
+      "teaser": "Das Ausbalancieren der Chancen und Risiken von freier und Open-Source-Software war das Thema der FOSS Backstage in Berlin.",
+      "url": "https://www.heise.de/news/FOSS-Backstage-So-abhaengig-ist-kommerzielle-Softwareentwicklung-von-Open-Source-10320841.html",
+      "image_title": "FOSS-Backstage-Konferenz"
     },
     {
       "title": "AlertSchwerwiegende Sicherheitslücken bedrohen Serverbetriebssystem IBM AIX",
@@ -340,6 +340,12 @@
       "image_title": "Junge mit Kopfhörer und Smartphone"
     },
     {
+      "title": "Meta AI startet in der EU: KI-Assistent per Chat erreichbar",
+      "teaser": "Meta AI zieht in WhatsApp, Facebook, den Messenger und Instagram. Der KI-Assistent ist zunächst als Chat verfügbar.",
+      "url": "https://www.heise.de/news/Meta-AI-startet-in-der-EU-KI-Assistent-per-Chat-erreichbar-10322030.html",
+      "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
+    },
+    {
       "title": "Mazda CX-80 PHEV im Test: Der straffe Riese",
       "teaser": "Mit dem CX-80 bringt Mazda ein großes SUV im Stil des schon bekannten CX-60 heraus. Es bietet noch mehr Platz und soll komfortabler als der CX-60 sein.",
       "url": "https://www.heise.de/tests/Mazda-CX-80-PHEV-im-Test-Der-straffe-Riese-10320880.html",
@@ -369,6 +375,17 @@
       "image_title": "Wandbemalung mit einem Menschen mit zugeklebtem Mund"
     },
     {
+      "title": "DMA: Alphabet stellt EU-Kommission nicht zufrieden",
+      "teaser": "Die Aufsichtsbehörde für den Digital Markets Act sieht wettbewerbsbehinderndes Verhalten bei Google Play und Google Search.",
+      "url": "https://www.heise.de/news/DMA-Alphabet-stellt-EU-Kommission-nicht-zufrieden-10321920.html",
+      "image_title": "Die Eingabemaske der Google-Suchmaschine"
+    },
+    {
+      "title": "Analyse und Lehren: So läuft ein Ransomware-Angriff ab",
+      "teaser": "Das Einschleusen von Ransomware in Firmennetzwerke hat sich zu einem lukrativen Geschäftsmodell entwickelt. Im Webcast am 8. Mai können Sie erfahren, welche Fehler die Opfer machen und was Sie daraus für Ihre Sicherheitsstrategie lernen sollten.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-realitaet-eines-ransomware-angriffs-4898/?source=hbsad-ersatz"
+    },
+    {
       "title": "AlertWebbrowser: Google stopft kritisches Sicherheitsleck in Chrome",
       "teaser": "Google aktualisiert den Webbrowser Chrome und schließt dabei eine als kritisches Risiko eingestufte Sicherheitslücke.",
       "url": "https://www.heise.de/news/Webbrowser-Google-stopft-kritisches-Sicherheitsleck-in-Chrome-10321842.html",
@@ -378,11 +395,6 @@
       "title": "Top 10: Das beste Outdoor-Handy im Test – wasserdicht, robust, Wärmebild & Co.",
       "teaser": "Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Smartphones sind nicht nur stabil und wasserdicht. Wir zeigen die besten Modelle aus unseren Outdoor-Handy-Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test/l7bnxjv?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
-      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
     },
     {
       "title": "\"Half-Life 2 RTX\": So schön und ruckelig war \"Half-Life\" noch nie",
@@ -433,17 +445,6 @@
       "image_title": "Apples angekündigtes KI-Tool Swift Assist"
     },
     {
-      "title": "Guter und günstiger Mini-PC für Office: Nipogi AK2 Plus für 179 Euro im Test",
-      "teaser": "Der Nipogi AK2 Plus ist ein guter, leiser und günstiger Mini-PC für Office-Aufgaben. Mit seinem Intel N100 und 16 GByte RAM genügt er auch etwa als Server für Home Assistant. Wir haben ihn getestet.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/nipogi-ak2-plus-im-test/ksjvwtt?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Nie wieder Rechenfehler? KI prüft Paper auf Irrtümer – warum das nicht reicht",
-      "teaser": "Forschende entwickeln KI-Tools zur Erkennung von Fehlern in wissenschaftlichen Veröffentlichungen. Diese Innovation birgt jedoch auch Risiken und Grenzen.",
-      "url": "https://www.heise.de/news/Nie-wieder-Rechenfehler-KI-prueft-Paper-auf-Irrtuemer-warum-das-nicht-reicht-10320963.html",
-      "image_title": "Fehlerhalfte mathematische Formeln, die von einer Hand mit Rotstift korrigiert werden."
-    },
-    {
       "title": "Fritz!Smart Energy 250: AVMs Smart-Home-Sensor misst den Stromverbrauch",
       "url": "https://www.heise.de/news/Fritz-Smart-Energy-250-AVMs-Smart-Home-Sensor-Sensor-misst-den-Stromverbrauch-10319781.html",
       "image_title": "AVM-Sensor in Hand"
@@ -458,6 +459,11 @@
       "image_title": "Grasendes Pferd"
     },
     {
+      "title": "Mount Everest: DJI-Drohnen weisen Sherpas gefährlichen Weg durch Khumbu-Eisfall",
+      "url": "https://www.heise.de/news/Mount-Everest-DJI-Drohnen-weisen-Sherpas-gefaehrlichen-Weg-durch-Khumbu-Eisfall-10320901.html",
+      "image_title": "Drohne fliegt über Basislager am Mount Everest."
+    },
+    {
       "title": "\"Baby-Universum\": Bislang präziseste Karte des Mikrowellenhintergrunds erstellt",
       "url": "https://www.heise.de/news/Baby-Universum-Bislang-praeziseste-Karte-des-Mikrowellenhintergrunds-erstellt-10320774.html",
       "image_title": "Zwei Bilder von blau-gelben Flecken"
@@ -466,11 +472,6 @@
       "title": "Dobot Robotics zeigt humanoiden Roboter Atom für 27.500 US-Dollar",
       "url": "https://www.heise.de/news/Dobot-Robotics-zeigt-humanoiden-Roboter-Atom-fuer-27-500-US-Dollar-10320190.html",
       "image_title": "Der humanoide Roboter Atom trägt eine Box."
-    },
-    {
-      "title": "Nach ungeplantem ISS-Aufenthalt: Suni Williams und Barry Wilmore sind zurück",
-      "url": "https://www.heise.de/news/Um-Monate-verspaetet-Suni-Williams-und-Barry-Wilmore-zurueck-auf-der-Erde-10320499.html",
-      "image_title": "Eine Raumkapsel im Ozean"
     },
     {
       "title": "\"Viele Gäste feiern das\": Warum Cafés Laptops verbannen",
@@ -614,10 +615,9 @@
       "url": "https://www.heise.de/en/news/Lithography-systems-China-allegedly-builds-EUV-machine-10312978.html"
     },
     {
-      "title": "AlertServer-FernwartungSicherheitslücke mit maximaler Risikostufe",
-      "teaser": "Ethernet-Ports für Fernwartung gehören nicht ans öffentliche Netz, wie eine aktuelle Sicherheitslücke eindrucksvoll demonstriert.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-mit-maximaler-Risikostufe-in-Server-Fernwartung-10321764.html",
-      "image_title": "Server mit Netzwerkkabeln"
+      "title": "Linux-Distribution: EndeavourOS Mercury im Test",
+      "teaser": "Mit aktueller Software und frischen Desktops bietet EndeavourOS Mercury eine einfache Möglichkeit, ein Arch-Linux-System zu installieren.",
+      "url": "https://www.heise.de/tests/Linux-Distribution-EndeavourOS-Mercury-im-Test-10314668.html"
     },
     {
       "title": "Pixel 9aGoogles Antwort auf das Apple iPhone 16e",
@@ -626,9 +626,10 @@
       "image_title": "Mehrere Smartphones der Reihe Pixel 9a an Messestand"
     },
     {
-      "title": "Smart HomeAcht smarte Türschlösser im Test",
-      "teaser": "Smarte Schlösser nutzen den Smart-Home-Standard Matter und öffnen via NFC.",
-      "url": "https://www.heise.de/tests/Acht-smarte-Tuerschloesser-auf-dem-Pruefstand-10316286.html"
+      "title": "AlertServer-FernwartungSicherheitslücke mit maximaler Risikostufe",
+      "teaser": "Ethernet-Ports für Fernwartung gehören nicht ans öffentliche Netz, wie eine aktuelle Sicherheitslücke eindrucksvoll demonstriert.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-mit-maximaler-Risikostufe-in-Server-Fernwartung-10321764.html",
+      "image_title": "Server mit Netzwerkkabeln"
     },
     {
       "title": "Apples schnellster MehrkernerMac Studio M3 Ultra (2025) im Test",
@@ -649,16 +650,15 @@
       "image_title": "Apples Einladungen-App"
     },
     {
+      "title": "Mehr Flash-Speicher für den Arduino Nano",
+      "teaser": "Der Arduino Nano nutzt denselben Mikrocontroller wie der Arduino UNO, jedoch mit unterschiedlich viel Speicher. Wie man das behebt, erklären wir hier.",
+      "url": "https://www.heise.de/ratgeber/Mehr-Flash-Speicher-fuer-den-Arduino-Nano-10315684.html"
+    },
+    {
       "title": "ESP32-Board für KI-Einsteiger",
       "teaser": "Das UNIHIKER K10 ist ein ESP32-basiertes Lernboard für KI- und IoT-Projekte. Es hat Sensoren, Kamera, TinyML-Unterstützung und blockbasierte Programmierung.",
       "url": "https://www.heise.de/news/ESP32-Board-fuer-KI-Einsteiger-10321092.html",
       "image_title": "Das UNIHIKER-K10-Board ist zweimal zu sehen. Einmal von vorn, wo man das Display sieht, und einmal von hinten, wo man die Kamera sieht."
-    },
-    {
-      "title": "Lisp-Box mit Minidisplay als Programmierhilfe erweitern",
-      "teaser": "Das Display für die Lisp-Box liefert hilfreiche Informationen zu allen verfügbaren Programmierbefehlen und lässt es sich mit dem Encoder komfortabel bedienen.",
-      "url": "https://www.heise.de/ratgeber/Lisp-Box-mit-Minidisplay-als-Programmierhilfe-erweitern-10317453.html",
-      "image_title": ","
     },
     {
       "title": "GitHub für Maker erklärt: Wie man Projekte verwaltet",
@@ -764,22 +764,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Cathie Wood: Bitcoin hat Zukunft, Memecoins sind wertlos",
-      "teaser": "Star-Investorin Cathie Wood sieht in Bitcoin enormes Kurspotenzial. Memecoins hält sie dagegen für wertlos. Wie finanziert Strategy weitere Bitcoin-Käufe?",
-      "url": "https://www.heise.de/tp/features/Cathie-Wood-Bitcoin-hat-Zukunft-Memecoins-sind-wertlos-10320892.html",
-      "image_title": "Golden Bitcoin Cryptocurrency Concept mit schwimmenden Münzen und digitalem Technologiehintergrund"
-    },
-    {
       "title": "Selenskyjs Kursk-Poker: Wie die Ukraine ihre letzten Trümpfe verspielt hat",
       "teaser": "Selenskyj verlor in Kursk seine Verhandlungsstärke. Nun steht er ohne Trümpfe da. Doch was wird Trump in den Gesprächen mit Putin fordern? Ein Gastbeitrag.",
       "url": "https://www.heise.de/tp/features/Selenskyjs-Kursk-Poker-Wie-die-Ukraine-ihre-letzten-Truempfe-verspielt-hat-10318040.html",
       "image_title": "Ein ukranischer Soldat in einem Schützengraben"
     },
     {
-      "title": "Ukraine-Konflikt: Moskau sagt nach US-Vermittlung Teilwaffenstillstand zu – Kiew skeptisch",
-      "teaser": "Neue Dynamik: Nach einem Telefonat zwischen Trump und Putin zeichnet sich eine Pause ab. Aber es bleiben Zweifel an Moskaus Absichten.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Konflikt-Moskau-sagt-nach-US-Vermittlung-Teilwaffenstillstand-zu-Kiew-skeptisch-10320672.html",
-      "image_title": "Konferenztisch, darauf die Fahnen, der Ukraine und Russlands"
+      "title": "Ukraine-Krieg, Abschreckung und Sicherheit: Welche Gefahr ist Russland für Europa?",
+      "teaser": "Eine Einschätzung der militärischen Fähigkeiten und was für Sicherheit und Stabilität nötig ist. Interview mit Oberst a. D. Wolfgang Richter (Teil 2 und Schluss).",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Abschreckung-und-Sicherheit-Welche-Gefahr-ist-Russland-fuer-Europa-10317383.html",
+      "image_title": "Kanonenrohr eines Panzers, das in die Kamera zeigt"
+    },
+    {
+      "title": "Deutsche Firmen verschweigen CO2-Daten aus Angst vor Kritik",
+      "teaser": "Jedes zweite deutsche Unternehmen ignoriert hohe Emissionen in der Lieferkette aus Sorge. Doch das Vermeiden der Auseinandersetzung ist keine Lösung.",
+      "url": "https://www.heise.de/tp/features/Deutsche-Firmen-verschweigen-CO2-Daten-aus-Angst-vor-Kritik-10321409.html",
+      "image_title": "Das Konzept der CO2-Emissionsfreiheit durch die Einführung moderner Technologien und die Sensibilisierung der Gesellschaft."
     },
     {
       "title": "Zeiterfassungssoftware im Vergleich",
