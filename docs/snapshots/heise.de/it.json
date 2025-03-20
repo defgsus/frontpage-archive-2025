@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-20T07:09:32",
+  "timestamp": "2025-03-20T08:13:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,26 @@
   ],
   "articles": [
     {
-      "title": "Externe SSD mit Thunderbolt 5 im Test: LaCie Rugged SSD Pro5",
-      "teaser": "Die Thunderbolt-5-SSD der Seagate-Tochter LaCie ist sauschnell und hält auch Stürze aus. Das knallblaue Gehäuse der Rugged SSD Pro5 ist im Dreck gut zu sehen.",
-      "url": "https://www.heise.de/tests/Externe-SSD-mit-Thunderbolt-5-im-Test-LaCie-Rugged-SSD-Pro5-10313493.html"
+      "title": "Private Space: Apps und Daten im Datentresor von Android wegschließen",
+      "teaser": "Mit einem geschützten Bereich lassen sich auf dem Smartphone Daten vor unbefugtem Zugriff schützen. Wir haben uns den Private Space von Android 15 angeschaut.",
+      "url": "https://www.heise.de/ratgeber/Private-Space-Apps-und-Daten-im-Datentresor-von-Android-wegschliessen-10320754.html"
     },
     {
-      "title": "Mehr Flash-Speicher für den Arduino Nano",
-      "teaser": "Der Arduino Nano nutzt denselben Mikrocontroller wie der Arduino UNO, jedoch mit unterschiedlich viel Speicher. Wie man das behebt, erklären wir hier.",
-      "url": "https://www.heise.de/ratgeber/Mehr-Flash-Speicher-fuer-den-Arduino-Nano-10315684.html"
+      "title": "Leuchtkraft von OLED-Panels mit Tandemstruktur im Test",
+      "teaser": "Wir haben die von LG versprochene Leuchtkraft geprüft. Einige Gaming-Monitore will der Hersteller per webOS smart machen, für Gamer gibt es biegsame 45-Zöller.",
+      "url": "https://www.heise.de/tests/Leuchtkraft-von-OLED-Panels-mit-Tandemstruktur-im-Test-10312023.html"
+    },
+    {
+      "title": "Tipp: Menüleiste vom Mac konfigurieren",
+      "teaser": "Oft ist nicht genügend Platz in der macOS-Menüleiste. So werden Sie unnötige Icons los und schaffen Ordnung.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Menueleiste-vom-Mac-konfigurieren-10318712.html",
+      "image_title": "macOS-Menüleiste"
+    },
+    {
+      "title": "Schwerwiegende Sicherheitslücken bedrohen Serverbetriebssystem IBM AIX",
+      "teaser": "Angreifer können an zwei Sicherheitslücken in IBM AIX ansetzen, um Server zu kompromittieren. Außerdem gibt es Updates für IBM License Metric Tool v9.",
+      "url": "https://www.heise.de/news/Schwerwiegende-Sicherheitsluecken-bedrohen-Serverbetriebssystem-IBM-AIX-10322112.html",
+      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
     },
     {
       "title": "SoftwareArchitekTOUR – Episode 103: Impactful Mindskills",
@@ -47,20 +59,10 @@
       "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-07-2025-Stromkosten-sparen-mit-Smart-Meter-10321770.html"
     },
     {
-      "title": "Private Space: Apps und Daten im Datentresor von Android wegschließen",
-      "teaser": "Mit einem geschützten Bereich lassen sich auf dem Smartphone Daten vor unbefugtem Zugriff schützen. Wir haben uns den Private Space von Android 15 angeschaut.",
-      "url": "https://www.heise.de/ratgeber/Private-Space-Apps-und-Daten-im-Datentresor-von-Android-wegschliessen-10320754.html"
-    },
-    {
       "title": "iX-Workshop: Fortgeschrittene Administration von Kubernetes",
       "teaser": "Lernen Sie fortgeschrittene Techniken für das Applikationsmanagement und die Implementierung von Service-Mesh-Technologien.",
       "url": "https://www.heise.de/news/iX-Workshop-Fortgeschrittene-Administration-von-Kubernetes-10312673.html",
       "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Leuchtkraft von OLED-Panels mit Tandemstruktur im Test",
-      "teaser": "Wir haben die von LG versprochene Leuchtkraft geprüft. Einige Gaming-Monitore will der Hersteller per webOS smart machen, für Gamer gibt es biegsame 45-Zöller.",
-      "url": "https://www.heise.de/tests/Leuchtkraft-von-OLED-Panels-mit-Tandemstruktur-im-Test-10312023.html"
     },
     {
       "title": "Meta AI startet in der EU: KI-Assistent per Chat erreichbar",
@@ -105,6 +107,11 @@
       "image_title": "Europol-Gebäude"
     },
     {
+      "title": "Externe SSD mit Thunderbolt 5 im Test: LaCie Rugged SSD Pro5",
+      "teaser": "Die Thunderbolt-5-SSD der Seagate-Tochter LaCie ist sauschnell und hält auch Stürze aus. Das knallblaue Gehäuse der Rugged SSD Pro5 ist im Dreck gut zu sehen.",
+      "url": "https://www.heise.de/tests/Externe-SSD-mit-Thunderbolt-5-im-Test-LaCie-Rugged-SSD-Pro5-10313493.html"
+    },
+    {
       "title": "Gnome 48 liefert HDR-Unterstützung und schont Akkus",
       "teaser": "Mit Wayland kann Gnome nun Farbmanagement sowie HDR bieten. Die Energieverwaltung kann Akku-Ladegrenzen berücksichtigen.",
       "url": "https://www.heise.de/news/Gnome-48-liefert-HDR-Unterstuetzung-und-schont-Akkus-10321044.html",
@@ -115,12 +122,6 @@
       "teaser": "Die smarte Brücke OpenLAB ist mit über 200 Sensoren ausgerüstet, die etwa Temperatur, Bewegung und weitere Faktoren für die strukturelle Integrität erfassen.",
       "url": "https://www.heise.de/news/Bautzen-KI-Forschungsbruecke-soll-Zustandsueberwachung-in-Echtzeit-erlauben-10321626.html",
       "image_title": "Fertiggestellte Forschungsbrücke im Mai 2024"
-    },
-    {
-      "title": "Hey, Apple Intelligence: Ist Siri noch zu retten? | Mac & i-Podcast",
-      "teaser": "Wie gut spricht Apple Intelligence Deutsch und warum bekommt Apple Siri nicht in den Griff? Das beschäftigt uns in Episode 94.",
-      "url": "https://www.heise.de/news/Hey-Apple-Intelligence-Ist-Siri-noch-zu-retten-Mac-i-Podcast-10321616.html",
-      "image_title": "Ist Siri noch zu retten? Mac & i-Podcast"
     },
     {
       "title": "Endpoint Central von ManageEngine als beste Patch-Management-Lösung ausgezeichnet",
