@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-21T11:07:52",
+  "timestamp": "2025-03-21T12:16:59",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,43 @@
   ],
   "articles": [
     {
+      "title": "NIS2: Schulungspflicht für Geschäftsleitungen",
+      "teaser": "Die NIS2-Regulierung für Cybersicherheit verlangt Schulungen für Geschäftsleitungen. Das bietet die Chance, die Chefetage für Cyberrisiken zu sensibilisieren.",
+      "url": "https://www.heise.de/hintergrund/NIS2-Schulungspflicht-fuer-Geschaeftsleitungen-10302035.html"
+    },
+    {
       "title": "Unter 5 Euro: Pflanzensensor selbst bauen und in Home Assistant einbinden",
       "teaser": "Mit einem Sensor und einem Wemos D1 Mini lässt sich die Bodenfeuchtigkeit in einem Pflanztopf messen und per WLAN an Home Assistant funken. So gehts.",
       "url": "https://www.heise.de/ratgeber/Unter-5-Euro-Pflanzensensor-selbst-bauen-und-in-Home-Assistant-einbinden-10298338.html"
     },
     {
-      "title": "Linux auf exotischer Hardware: Fedora Asahi Remix statt macOS",
-      "teaser": "Das Asahi-Linux-Projekt entwickelt einen Fedora-Abkömmling als alltagstaugliche Linux-Distribution für Macs mit M-Chips. So installieren Sie Linux neben macOS.",
-      "url": "https://www.heise.de/ratgeber/Linux-auf-exotischer-Hardware-Fedora-Asahi-Remix-statt-macOS-10313162.html",
-      "image_title": ", KI, Collage c’t"
+      "title": "Java: Die nicht so bekannten Features des OpenJDK 24",
+      "teaser": "Gerade ist das OpenJDK 24 mit 24 Java Enhancement Proposals erschienen. Dabei ist einiges unter der Haube passiert, und es gibt neue Sicherheitsfunktionen.",
+      "url": "https://www.heise.de/blog/Java-Die-nicht-so-bekannten-Features-des-OpenJDK-24-10322221.html"
+    },
+    {
+      "title": "SAP-Anwender: Cloud findet mehr Zuspruch, Fairness für on Premises gefordert",
+      "teaser": "Der aktuelle DSAG-Investitionsreport zeigt einen klaren Trend zur Cloud. Allerdings bevorzugt nach wie vor ein großer Teil der SAP-Anwender on Premises.",
+      "url": "https://www.heise.de/news/SAP-Anwender-Cloud-findet-mehr-Zuspruch-Fairness-fuer-on-Premises-gefordert-10324160.html",
+      "image_title": "SAP-Buchstaben an einem Glasgebäude"
+    },
+    {
+      "title": "WebEx und Teams Rooms: Cisco verbessert Anbindung an Apple-Geräte",
+      "teaser": "Cisco unterstützt Apple-Hardware mit seinen WebEx- und Teams-Lösung künftig besser. Es geht um lokales Streaming und Spatial Computing.",
+      "url": "https://www.heise.de/news/Cisco-AirPlay-fuer-Teams-Rooms-und-besserer-Vision-Pro-Support-fuer-WebEx-10320186.html",
+      "image_title": "Mann mit Vision Pro"
+    },
+    {
+      "title": "Jetzt patchen! Angreifer attackieren Nakivo Backup & Replication Director",
+      "teaser": "Angreifer nutzen eine Sicherheitslücke in der Backuplösung Nakivo Backup & Replication Director aus. Es gibt einen Sicherheitspatch.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Nakivo-Backup-Replication-Director-10324114.html",
+      "image_title": "Text auf einem Bildschirm, auf dem etwas von einem erfolgreichen Angriff steht"
     },
     {
       "title": "iX-Workshop: E-Rechnungspflicht - Anpassung von Faktura- und ERP-Software",
       "teaser": "Softwareentwickler lernen Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie sie dabei vorgehen.",
       "url": "https://www.heise.de/news/iX-Workshop-E-Rechnungspflicht-Anpassung-von-Faktura-und-ERP-Software-10317793.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "NIS2: Schulungspflicht für Geschäftsleitungen",
-      "teaser": "Die NIS2-Regulierung für Cybersicherheit verlangt Schulungen für Geschäftsleitungen. Das bietet die Chance, die Chefetage für Cyberrisiken zu sensibilisieren.",
-      "url": "https://www.heise.de/hintergrund/NIS2-Schulungspflicht-fuer-Geschaeftsleitungen-10302035.html"
     },
     {
       "title": "Threads erlaubt Feed-Auswahl jetzt als Standard-Einstellung",
@@ -104,23 +121,6 @@
       "teaser": "Der KI-Chatbot von Anthropic bekommt Zugang zum Web. Quellen werden prominent zitiert und verlinkt.",
       "url": "https://www.heise.de/news/Anthropic-Claude-kann-jetzt-auch-ins-Internet-10323647.html",
       "image_title": "Eine skizzierte Hand hält die Welt"
-    },
-    {
-      "title": "Software Testing: Die Power von informellen Netzwerken",
-      "teaser": "In dieser Episode spricht Richard Seidl mit Yuliia Pieskova über die Bedeutung von Kaffeegesprächen und informellen Netzwerken.",
-      "url": "https://www.heise.de/blog/Software-Testing-Die-Power-von-informellen-Netzwerken-10322480.html",
-      "image_title": "Software Testing: Die Power von informellen Netzwerken"
-    },
-    {
-      "title": "CodeCharta: Software-Qualität sichtbar machen durch Stadtvisualisierung",
-      "teaser": "Das Open-Source-Tool CodeCharta macht die komplexen Strukturen in Softwareprojekten greifbar und hilft bei der Sanierung.",
-      "url": "https://www.heise.de/hintergrund/CodeCharta-Software-Qualitaet-anschaulich-visualisieren-als-Stadtlandschaft-10320888.html",
-      "image_title": "Skyline von New York mit untergehender Sonne"
-    },
-    {
-      "title": "c't-Workshop: Von Excel zu Power BI",
-      "teaser": "Komplexe Daten übersichtlich darzustellen, ist unerlässlich, um fundierte Entscheidungen treffen zu können. Microsoft Power BI bietet dafür elegante Lösungen.",
-      "url": "https://www.heise.de/news/c-t-Workshop-Von-Excel-zu-Power-BI-10318898.html"
     },
     {
       "title": "Endpoint Central wird Champion in der Kategorie Vulnerability Management",
