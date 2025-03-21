@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-21T07:09:32",
+  "timestamp": "2025-03-21T08:12:31",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,17 +26,30 @@
   ],
   "articles": [
     {
-      "title": "Verschiedene Formate von Sprachmodellen im Überblick",
-      "teaser": "Sprachmodelle können in zahlreichen Formaten vorliegen. Wer sie lokal einsetzen will, muss aber nur über Safetensors und das GGUF-Format Bescheid wissen.",
-      "url": "https://www.heise.de/hintergrund/Verschiedene-Formate-von-Sprachmodellen-im-Ueberblick-10312839.html"
+      "title": "Unter 5 Euro: Pflanzensensor selbst bauen und in Home Assistant einbinden",
+      "teaser": "Mit einem Sensor und einem Wemos D1 Mini lässt sich die Bodenfeuchtigkeit in einem Pflanztopf messen und per WLAN an Home Assistant funken. So gehts.",
+      "url": "https://www.heise.de/ratgeber/Unter-5-Euro-Pflanzensensor-selbst-bauen-und-in-Home-Assistant-einbinden-10298338.html"
     },
     {
-      "title": "Lokale KI: Machine Learning und KI auf Apple Silicon mit MLX betreiben",
-      "teaser": "APIs und eine einheitliche Sicht auf die Hardware machen es Entwicklern leicht, mit Apples MLX-Framework Sprachmodelle zu betreiben und ML-Anwendungen zu bauen.",
-      "url": "https://www.heise.de/hintergrund/Lokale-KI-Machine-Learning-und-KI-auf-Apple-Silicon-mit-MLX-betreiben-10311425.html"
+      "title": "Linux auf exotischer Hardware: Fedora Asahi Remix statt macOS",
+      "teaser": "Das Asahi-Linux-Projekt entwickelt einen Fedora-Abkömmling als alltagstaugliche Linux-Distribution für Macs mit M-Chips. So installieren Sie Linux neben macOS.",
+      "url": "https://www.heise.de/ratgeber/Linux-auf-exotischer-Hardware-Fedora-Asahi-Remix-statt-macOS-10313162.html",
+      "image_title": ", KI, Collage c’t"
     },
     {
-      "title": "CodeCharta: Software-Qualität anschaulich visualisieren als Stadtlandschaft",
+      "title": "Anthropic: Claude kann jetzt auch ins Internet",
+      "teaser": "Der KI-Chatbot von Anthropic bekommt Zugang zum Web. Quellen werden prominent zitiert und verlinkt.",
+      "url": "https://www.heise.de/news/Anthropic-Claude-kann-jetzt-auch-ins-Internet-10323647.html",
+      "image_title": "Eine skizzierte Hand hält die Welt"
+    },
+    {
+      "title": "Software Testing: Die Power von informellen Netzwerken",
+      "teaser": "In dieser Episode spricht Richard Seidl mit Yuliia Pieskova über die Bedeutung von Kaffeegesprächen und informellen Netzwerken.",
+      "url": "https://www.heise.de/blog/Software-Testing-Die-Power-von-informellen-Netzwerken-10322480.html",
+      "image_title": "Software Testing: Die Power von informellen Netzwerken"
+    },
+    {
+      "title": "CodeCharta: Software-Qualität sichtbar machen durch Stadtvisualisierung",
       "teaser": "Das Open-Source-Tool CodeCharta macht die komplexen Strukturen in Softwareprojekten greifbar und hilft bei der Sanierung.",
       "url": "https://www.heise.de/hintergrund/CodeCharta-Software-Qualitaet-anschaulich-visualisieren-als-Stadtlandschaft-10320888.html",
       "image_title": "Skyline von New York mit untergehender Sonne"
@@ -45,12 +58,6 @@
       "title": "c't-Workshop: Von Excel zu Power BI",
       "teaser": "Komplexe Daten übersichtlich darzustellen, ist unerlässlich, um fundierte Entscheidungen treffen zu können. Microsoft Power BI bietet dafür elegante Lösungen.",
       "url": "https://www.heise.de/news/c-t-Workshop-Von-Excel-zu-Power-BI-10318898.html"
-    },
-    {
-      "title": "Linux auf exotischer Hardware: Fedora Asahi Remix statt macOS",
-      "teaser": "Das Asahi-Linux-Projekt entwickelt einen Fedora-Abkömmling als alltagstaugliche Linux-Distribution für Macs mit M-Chips. So installieren Sie Linux neben macOS.",
-      "url": "https://www.heise.de/ratgeber/Linux-auf-exotischer-Hardware-Fedora-Asahi-Remix-statt-macOS-10313162.html",
-      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "Linux auf Notebook-Exoten installieren",
@@ -82,6 +89,16 @@
       "url": "https://www.heise.de/hintergrund/Sprachmodelle-lokal-betreiben-Fuenf-Tools-vorgestellt-10312843.html"
     },
     {
+      "title": "Verschiedene Formate von Sprachmodellen im Überblick",
+      "teaser": "Sprachmodelle können in zahlreichen Formaten vorliegen. Wer sie lokal einsetzen will, muss aber nur über Safetensors und das GGUF-Format Bescheid wissen.",
+      "url": "https://www.heise.de/hintergrund/Verschiedene-Formate-von-Sprachmodellen-im-Ueberblick-10312839.html"
+    },
+    {
+      "title": "Lokale KI: Machine Learning und KI auf Apple Silicon mit MLX betreiben",
+      "teaser": "APIs und eine einheitliche Sicht auf die Hardware machen es Entwicklern leicht, mit Apples MLX-Framework Sprachmodelle zu betreiben und ML-Anwendungen zu bauen.",
+      "url": "https://www.heise.de/hintergrund/Lokale-KI-Machine-Learning-und-KI-auf-Apple-Silicon-mit-MLX-betreiben-10311425.html"
+    },
+    {
       "title": "Übersicht über kleine KI-Modelle, die sich für den lokalen Betrieb eignen",
       "teaser": "Ob für das Feintunen, in einem RAG-System oder für den Offlinebetrieb: Small Language Models eignen sich auch für den lokalen Einsatz und sind einen Blick wert.",
       "url": "https://www.heise.de/hintergrund/Uebersicht-ueber-kleine-KI-Modelle-die-sich-fuer-den-lokalen-Betrieb-eignen-10306979.html"
@@ -102,24 +119,6 @@
       "teaser": "Das veraltete Siri wird für Apple zu einem immer größeren Problem. Eine radikale Management-Rochade soll das jetzt ändern.",
       "url": "https://www.heise.de/news/Dauerbaustelle-Siri-Vision-Pro-Chef-soll-es-jetzt-richten-10323435.html",
       "image_title": "Der Schriftug \"Siri\" auf einem Bildschirm"
-    },
-    {
-      "title": "Top 10: Der beste günstige Mini-PC unter 300 Euro – Testsieger mit Ryzen 7",
-      "teaser": "Selbst günstige Mini-PCs bieten richtig gute Ausstattung. Wir haben über 70 Modelle getestet und zeigen die zehn besten vollwertigen Mini-Computer bis 300 Euro.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-guenstige-mini-pc-im-test/flxjgm9?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Substack-Alternative Ghost jetzt auch ans Fediverse angebunden",
-      "teaser": "Vor fast einem Jahr hat der Chef der Blogging-Software Ghost angekündigt, dass sie ins Fediverse kommen soll. Jetzt kann man das in einem Betatest ausprobieren.",
-      "url": "https://www.heise.de/news/Substack-Alternative-Ghost-jetzt-auch-ans-Fediverse-angebunden-10323271.html",
-      "image_title": "Screenshot mit Vorschau auf Ghost-Blogs"
-    },
-    {
-      "title": "TV+: Apples Videodienst schreibt angeblich tiefrote Zahlen",
-      "teaser": "Die Verluste bei TV+ belaufen sich einem Bericht zufolge auf mehr als eine Milliarde US-Dollar pro Jahr. Auch die anderen Apple-Abodienste schwächeln angeblich.",
-      "url": "https://www.heise.de/news/TV-Apples-Streaming-Dienst-angeblich-ein-massives-Verlustgeschaeft-10323359.html",
-      "image_title": "Apple-Logo auf einem iPhone"
     },
     {
       "title": "Endpoint Central wird Champion in der Kategorie Vulnerability Management",
