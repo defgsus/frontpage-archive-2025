@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-22T16:09:57",
+  "timestamp": "2025-03-22T17:07:12",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Open Source-Pläne für US-TikTok: Perplexity bringt sich als Käufer ins Spiel",
+      "url": "https://www.heise.de/news/Open-Source-Plaene-fuer-US-TikTok-Perplexity-bringt-sich-als-Kaeufer-ins-Spiel-10325154.html"
+    },
     {
       "title": "Xiaomi 15 Ultra mit 200-MP-Teleobjektiv: Das beste Smartphone im Test",
       "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-15-ultra-im-test/1kf7gnr"
@@ -60,10 +64,6 @@
     {
       "title": "Was Smart Meter und dynamische Stromtarife bringen | c’t uplink",
       "url": "https://www.heise.de/news/Was-Smart-Meter-und-dynamische-Stromtarife-bringen-c-t-uplink-10323469.html"
-    },
-    {
-      "title": "Developer Snapshots: Kleinere News der letzten Woche",
-      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10322217.html"
     },
     {
       "title": "KI auf dem FeldLandwirtschaft: Grundlagen fürs Hacken schaffen",
@@ -185,19 +185,25 @@
       "url": "https://www.heise.de/news/Europaeische-Alternativen-zu-Google-Microsoft-und-Co-10324784.html"
     },
     {
+      "title": "Open Source-Pläne für US-TikTok: Perplexity bringt sich als Käufer ins Spiel",
+      "teaser": "Das KI-Startup Perplexity hat diverse Ideen für die US-Zukunft von TikTok. Fraglich ist, ob es auch das Geld für einen Kauf hätte.",
+      "url": "https://www.heise.de/news/Open-Source-Plaene-fuer-US-TikTok-Perplexity-bringt-sich-als-Kaeufer-ins-Spiel-10325154.html",
+      "image_title": "TikTok-Logo auf einem Smartphone, das auf einer US-Flagge liegt."
+    },
+    {
       "title": "Xiaomi 15 Ultra mit 200-MP-Teleobjektiv: Das beste Smartphone im Test",
       "teaser": "Das Xiaomi 15 Ultra bietet eine erstklassige Leica-Kamera, ein starkes Display und Top-Performance. Warum es unser neuer Testsieger ist, klärt dieser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-15-ultra-im-test/1kf7gnr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "Fujis neue Kategorie, Canons Teaser und ein Lüfter – Fotonews der Woche 12/2025",
-      "teaser": "Mittelformat für die Jackentasche ist ein Novum, Canon setzt verstärkt auf Video und von Smallrig gibt es ein pfiffiges Zubehör mit Peltier-Element.",
-      "url": "https://www.heise.de/news/Fujis-neue-Kategorie-Canons-Teaser-und-ein-Luefter-Fotonews-der-Woche-12-2025-10324752.html"
-    },
-    {
       "title": "KI: Unternehmen brauchen solides IT-Management",
       "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Fujis neue Kategorie, Canons Teaser und ein Lüfter – Fotonews der Woche 12/2025",
+      "teaser": "Mittelformat für die Jackentasche ist ein Novum, Canon setzt verstärkt auf Video und von Smallrig gibt es ein pfiffiges Zubehör mit Peltier-Element.",
+      "url": "https://www.heise.de/news/Fujis-neue-Kategorie-Canons-Teaser-und-ein-Luefter-Fotonews-der-Woche-12-2025-10324752.html"
     },
     {
       "title": "Topologische Qubits: Was bei Microsofts \"Durchbruch\" alles falsch lief",
@@ -225,12 +231,6 @@
       "title": "Acht smarte Türschlösser auf dem Prüfstand",
       "teaser": "Vernetzte Schlossantriebe nutzen den Smart-Home-Standard Matter für eine einfache Integration ins Smart Home ohne Bridges und bieten Öffnungsmethoden via NFC.",
       "url": "https://www.heise.de/tests/Acht-smarte-Tuerschloesser-auf-dem-Pruefstand-10316286.html"
-    },
-    {
-      "title": "Developer Snapshots: Kleinere News der letzten Woche",
-      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu GitBook, Android 16, Rust, Git, Embarcadero, RubyLLM, JetBrains, Spring Boot und DevBox.",
-      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10322217.html",
-      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -296,6 +296,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu GitBook, Android 16, Rust, Git, Embarcadero, RubyLLM, JetBrains, Spring Boot und DevBox.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10322217.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "Developer-Skills: Mit technischer Exzellenz erfolgreich agil Software entwickeln",
@@ -367,15 +373,15 @@
       "image_title": "Symbolbild für ein KI-Labyrinth"
     },
     {
+      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
+      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
+    },
+    {
       "title": "Gmail: Neues KI-Tool verändert Mail-Suche im Postfach",
       "teaser": "Die Suche im Gmail-Postfach wird bald von KI unterstützt. Das Feature zeigt Suchergebnisse nicht mehr in chronologischer Reihenfolge.",
       "url": "https://www.heise.de/news/Gmail-Neues-KI-Tool-veraendert-Mail-Suche-im-Postfach-10324451.html",
       "image_title": "Die Gmail-App auf einem Smartphone-Bildschirm auf hölzernem Hintergrund."
-    },
-    {
-      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
-      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
     },
     {
       "title": "KI-Inhalte müssen in China ab September gekennzeichnet werden",
@@ -427,12 +433,6 @@
       "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-10312689.html",
       "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
-    },
-    {
-      "title": "Wegen \"Zensurportal\": X klagt in Indien gegen die Regierung",
-      "teaser": "Seit 2024 gibt es in Indien eine Plattform, über die Staatsbedienstete und Behörden die Löschung von Inhalten im Internet anfordern können. Dagegen klagt X nun.",
-      "url": "https://www.heise.de/news/Wegen-Zensurportal-X-klagt-in-Indien-gegen-die-Regierung-10324370.html",
-      "image_title": "Indische Flagge"
     },
     {
       "title": "\"Höllenhamsterrad\": Neues digitales Krankenaktensystem in Schweden vor dem Aus",
@@ -604,6 +604,12 @@
       "url": "https://www.heise.de/en/news/Hiking-app-Komoot-is-sold-10324361.html"
     },
     {
+      "title": "Vollwertige Linux-Distribution auf Chromebooks installieren",
+      "teaser": "Das Betriebssystem der Chromebooks ist ohne Google-Konto unnutzbar. Wir zeigen, wie man Linux darauf einrichtet und unabhängig von der Google-Cloud wird.",
+      "url": "https://www.heise.de/ratgeber/Vollwertige-Linux-Distribution-auf-Chromebooks-installieren-10304702.html",
+      "image_title": ", KI, Collage c't"
+    },
+    {
       "title": "c't 3003US-Cloud-Dienste verlassen: Die besten europäischen Alternativen",
       "teaser": "Raus aus aus der US-Cloud – aber wie? c't 3003 zeigt europäische Alternativen, die Google Mail, Maps, Microsoft Teams, WhatsApp und Co. ersetzen können.",
       "url": "https://www.heise.de/news/Europaeische-Alternativen-zu-Google-Microsoft-und-Co-10324784.html"
@@ -613,12 +619,6 @@
       "teaser": "Im c't-Datenschutz-Podcast geht es um Chancen und Risiken einer möglichen Reform der DSGVO. Erste Vorschläge dazu kamen jüngst von EU-Parlamentarier Axel Voss.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-130-Kommt-die-grosse-DSGVO-Reform-10321395.html",
       "image_title": "Prof. Rolf Schwartmann (oben links), Joerg Heidrich (oben rechts) und Holger Bleich (unten)"
-    },
-    {
-      "title": "Vollwertige Linux-Distribution auf Chromebooks installieren",
-      "teaser": "Das Betriebssystem der Chromebooks ist ohne Google-Konto unnutzbar. Wir zeigen, wie man Linux darauf einrichtet und unabhängig von der Google-Cloud wird.",
-      "url": "https://www.heise.de/ratgeber/Vollwertige-Linux-Distribution-auf-Chromebooks-installieren-10304702.html",
-      "image_title": ", KI, Collage c't"
     },
     {
       "title": "Do it yourselfMac mini mit SSD-Modul auf 2 TByte aufrüsten",
@@ -655,12 +655,6 @@
       "image_title": ","
     },
     {
-      "title": "Fotorucksäcke für jede Gelegenheit im Test",
-      "teaser": "Der richtige Rucksack passt zur Ausrüstung und zu den Bedürfnissen des Fotografen. Wir haben Rucksäcke für Städtetrips, Wanderungen und Urlaub getestet.",
-      "url": "https://www.heise.de/tests/Fotorucksaecke-fuer-jede-Gelegenheit-im-Test-10287604.html",
-      "image_title": ", Judith Hohmann"
-    },
-    {
       "title": "Wie man fotografische Bildpaare in Szene setzt",
       "teaser": "Bildpaare fotografisch in Szene setzen: Fotograf Torsten Andreas Hoffmann zeigt spannende Konzepte für Ausstellungen, Hängungen oder Doppelseiten in Büchern.",
       "url": "https://www.heise.de/ratgeber/Wie-man-fotografische-Bildpaare-ins-Szene-setzt-10287952.html",
@@ -676,6 +670,12 @@
       "title": "Echtheitssiegel für mehr Sonys und PEN-Pläne – die Fotonews der Woche 11/2025",
       "teaser": "Die A7 IV bekommt CAI-Support, aber nur gegen Lizenz, OM System denkt über eine neue PEN nach und Canon lässt die R1 dauerhaft, wie sie ist.",
       "url": "https://www.heise.de/news/Echtheitssiegel-fuer-mehr-Sonys-und-PEN-Plaene-die-Fotonews-der-Woche-11-2025-10316402.html"
+    },
+    {
+      "title": "Innere Unruhe, leuchtende Pyramiden und Nordlichter: Die Bilder der Woche KW 10",
+      "teaser": "Diese Woche zeigen unsere Galeriefotografen beeindruckende Landschaften vom ägyptischen Giseh bis zur atemberaubenden Aurora Borealis über einem Fjord.",
+      "url": "https://www.heise.de/news/Innere-Unruhe-leuchtende-Pyramiden-und-Nordlichter-Die-Bilder-der-Woche-KW-10-10315035.html",
+      "image_title": "Polarlichter über Gebirge"
     },
     {
       "title": "Studie der AllianzGebrauchte Ersatzteile verbessern Klimabilanz",
@@ -737,27 +737,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Stahl-Krise in Duisburg bedroht 55.000 Jobs in ganz Deutschland",
-      "teaser": "Stahlindustrie in Duisburg steht vor dem Abgrund. Branche kämpft mit Energiepreisen und Fachkräftemangel. Der drohende Jobabbau könnte eine Kettenreaktion auslösen.",
-      "url": "https://www.heise.de/tp/features/Stahl-Krise-in-Duisburg-bedroht-55-000-Jobs-in-ganz-Deutschland-10322538.html",
-      "image_title": "Flüssigmetall aus Tanks im Stahlwerk"
+      "title": "Abkommen: Fordert Trump jetzt auch noch die Atommeiler der Ukraine?",
+      "teaser": "USA wollen beim Wiederaufbau der Ukraine mitverdienen. Washington strebt Zugriff auf ukrainische Bodenschätze und Atomkraftwerke an. Wird Kiew dem Druck nachgeben müssen?",
+      "url": "https://www.heise.de/tp/features/Abkommen-Fordert-Trump-jetzt-auch-noch-die-Atommeiler-der-Ukraine-10324186.html",
+      "image_title": "Kernkraftwerk Rivne, Varash, Rivne oblast, Ukraine. Erzeugung von elektrischer und thermischer Energie. Stromerzeugung. Weniger ansehen"
     },
     {
-      "title": "Analyse: Europäische Ukraine-Politik erreicht strategische Sackgasse\"",
-      "teaser": "Europas Ukraine-Strategie steckt in der Sackgasse. Die Ziele – Russland zu isolieren und zu schwächen – wurden verfehlt. Doch die bittere Wahrheit traut sich niemand den Herrschern in Brüssel zu sagen.",
-      "url": "https://www.heise.de/tp/features/Analyse-Europaeische-Ukraine-Politik-erreicht-strategische-Sackgasse-10323861.html",
-      "image_title": "Friedenstaube auf zerbrochenem Füller vor ukrainischer und russischer Flagge"
+      "title": "Chinas Autoexporte: Innovativ, günstig und bald überall präsent",
+      "teaser": "Chinas Autobauer erobern mit Elektroautos und Verbrennern die globalen Märkte. Die Erfolgsformel: innovative Technik zu günstigen Preisen. Beim BYD-Werk in Mexiko ziehen dunkle Wolken auf.",
+      "url": "https://www.heise.de/tp/features/Chinas-Autoexporte-Innovativ-guenstig-und-bald-ueberall-praesent-10324724.html",
+      "image_title": "BYD-Logo in Thailand, wo chinesische Marken dominant sind."
     },
     {
-      "title": "Krieg der 13 Milliardäre: Wie die Trump-Regierung den modernen Staat zerschlagen will",
-      "teaser": "Kürzungsorgien, Attacken auf Andersdenkende, Gestapo-artige Abschiebungen: Das alles folgt einem Plan. Über den Versuch eines radikal-konservativen Coups.",
-      "url": "https://www.heise.de/tp/features/Krieg-der-13-Milliardaere-Wie-die-Trump-Regierung-den-modernen-Staat-zerschlagen-will-10321132.html",
-      "image_title": "US-Präsident Donald Trump hält am 26. Februar 2025 eine Kabinettssitzung ab."
+      "title": "Haiti: Ein Land in der Hand von 200 Banden",
+      "teaser": "Haiti wird von Banden kontrolliert. Million Menschen sind auf der Flucht vor der eskalierenden Gewalt, während die Welt wegschaut. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Haiti-Ein-Land-in-der-Hand-von-200-Banden-10323035.html",
+      "image_title": "Einschussloch in einem Fenster von Port-au-Prince nach einer Schießere"
     },
     {
-      "title": "Test: luckychat & luckymeet verbinden Teams und Kunden",
-      "teaser": "Der deutsche Cloud-Anbieter luckycloud offeriert mittlerweile auch ein Chat- und ein Videokonferenzsystem. Wir haben die zwei Dienste luckychat und luckymeet getestet.",
-      "url": "https://www.heise.de/download/specials/Test-luckychat-luckymeet-verbinden-Teams-und-Kunden-10317669"
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "LibreWolf",
