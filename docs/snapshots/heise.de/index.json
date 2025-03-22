@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-22T04:10:51",
+  "timestamp": "2025-03-22T05:09:16",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Elektroauto Smart #5 vorgestellt: Spitzenlader",
+      "url": "https://www.heise.de/news/Elektroauto-Smart-5-vorgestellt-Spitzenlader-10324615.html"
+    },
     {
       "title": "Zendure Solarflow 800: Balkonkraftwerk mit Nulleinspeisung im Test",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/zr8q3hr#id-3-zendure-solarflow-800"
@@ -60,10 +64,6 @@
     {
       "title": "Mercedes setzt auf üppige Abfindungen: Offenbar teils 500.000 Euro möglich",
       "url": "https://www.heise.de/news/Mercedes-Benz-zahlt-offenbar-teils-500-000-Euro-Abfindung-10324823.html"
-    },
-    {
-      "title": "KI-Labyrinth soll unerwünschte Bots abwehren",
-      "url": "https://www.heise.de/news/KI-Labyrinth-soll-unerwuenschte-Bots-abwehren-10324871.html"
     },
     {
       "title": "App für Wander-RoutenKomoot wird verkauft",
@@ -187,20 +187,26 @@
       "image_title": "Der Schriftug \"Siri\" auf einem Bildschirm"
     },
     {
+      "title": "Elektroauto Smart #5 vorgestellt: Spitzenlader",
+      "teaser": "Smart begibt sich mit dem #5 in ein neues Segment. Geboten wird reichlich Leistung und viel Ausstattung zu einem vergleichsweise kleinen Preis.",
+      "url": "https://www.heise.de/news/Elektroauto-Smart-5-vorgestellt-Spitzenlader-10324615.html",
+      "image_title": "Smart #5"
+    },
+    {
       "title": "Zendure Solarflow 800: Balkonkraftwerk mit Nulleinspeisung im Test",
       "teaser": "Zendure bietet mit Solarflow 800 einen effizienten Wechselrichter mit Akku-Anschluss, der über einen Smart Meter auch eine Nulleinspeisung bietet. Wie gut das Balkonkraftwerk in der Praxis funktioniert, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/zr8q3hr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-3-zendure-solarflow-800"
+    },
+    {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "EU-Arzneimittelagentur bewertet erste KI-Diagnose als \"wissenschaftlich valide\"",
       "teaser": "Die Europäische Arzneimittelagentur hat erstmals eine KI-Software zur Diagnose von Fettleber-Hepatitis als wissenschaftlich valide anerkannt.",
       "url": "https://www.heise.de/news/EU-Arzneimittelagentur-bewertet-erste-KI-Diagnose-als-wissenschaftlich-valide-10324895.html",
       "image_title": "Fotomikrograph der Hepatosteatose, der eine Fettansammlung in Leberzellen, bekannt als Fettlebererkrankung, aufzeigt."
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Bund muss 8 Milliarden Euro für Digitalisierung der Schiene bis 2029 aufbringen",
@@ -229,12 +235,6 @@
       "title": "Private Space: Apps und Daten im Datentresor von Android wegschließen",
       "teaser": "Mit einem geschützten Bereich lassen sich auf dem Smartphone Daten vor unbefugtem Zugriff schützen. Wir haben uns den Private Space von Android 15 angeschaut.",
       "url": "https://www.heise.de/ratgeber/Private-Space-Apps-und-Daten-im-Datentresor-von-Android-wegschliessen-10320754.html"
-    },
-    {
-      "title": "Mercedes setzt auf üppige Abfindungen: Offenbar teils 500.000 Euro möglich",
-      "teaser": "Mercedes will kräftig sparen und profitabler werden und lässt sich das einiges kosten. Langjährigen Beschäftigen winken offenbar hohe Summen für ihren Abgang.",
-      "url": "https://www.heise.de/news/Mercedes-Benz-zahlt-offenbar-teils-500-000-Euro-Abfindung-10324823.html",
-      "image_title": "Der Mercedes-Stern auf dem silbernen Kühlergrill eines Mercedes-Wagens."
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Mercedes setzt auf üppige Abfindungen: Offenbar teils 500.000 Euro möglich",
+      "teaser": "Mercedes will kräftig sparen und profitabler werden und lässt sich das einiges kosten. Langjährigen Beschäftigen winken offenbar hohe Summen für ihren Abgang.",
+      "url": "https://www.heise.de/news/Mercedes-Benz-zahlt-offenbar-teils-500-000-Euro-Abfindung-10324823.html",
+      "image_title": "Der Mercedes-Stern auf dem silbernen Kühlergrill eines Mercedes-Wagens."
     },
     {
       "title": "KI-Labyrinth soll unerwünschte Bots abwehren",
@@ -371,15 +377,15 @@
       "url": "https://www.heise.de/tests/Leuchtkraft-von-OLED-Panels-mit-Tandemstruktur-im-Test-10312023.html"
     },
     {
+      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
+      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
+    },
+    {
       "title": "Noch eine US-Stadt will mit AirTags Autodiebe bekämpfen",
       "teaser": "Auch wenn Apple das gar nicht vorsieht: Eine weitere amerikanische Metropolenpolizei hofft darauf, mit AirTags Autoklau zu verhindern.",
       "url": "https://www.heise.de/news/Noch-eine-US-Stadt-will-mit-AirTags-Autodiebe-bekaempfen-10321900.html",
       "image_title": "\"Auto\" mit AirTag"
-    },
-    {
-      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
-      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
     },
     {
       "title": "#TGIQF: Das Mond-Nerd-Quiz",
@@ -411,6 +417,12 @@
       "image_title": "Text auf einem Bildschirm, auf dem etwas von einem erfolgreichen Angriff steht"
     },
     {
+      "title": "heise+ Update vom 21. März 2025: Lesetipps zum Wochenende",
+      "teaser": "Der wöchentliche Newsletter von heise+: Selbstscan-Systeme im Supermarkt, Hackintosh, neues Tesla Model Y, Auswandern in die Schweiz und smarte Türschlösser.",
+      "url": "https://www.heise.de/meinung/heise-Update-vom-21-Maerz-2025-Lesetipps-zum-Wochenende-10323095.html",
+      "image_title": "heise+ Update"
+    },
+    {
       "title": "iX-Workshop: E-Rechnungspflicht - Anpassung von Faktura- und ERP-Software",
       "teaser": "Softwareentwickler lernen Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie sie dabei vorgehen.",
       "url": "https://www.heise.de/news/iX-Workshop-E-Rechnungspflicht-Anpassung-von-Faktura-und-ERP-Software-10317793.html",
@@ -427,18 +439,6 @@
       "teaser": "Das soziale Netzwerk Threads hat einige Erweiterungen erhalten. Dazu zählt unter anderem die von Nutzern herbeigesehnte Standard-Auswahl für den Feed.",
       "url": "https://www.heise.de/news/Threads-erlaubt-Feed-Auswahl-jetzt-als-Standard-Einstellung-10324206.html",
       "image_title": "App-Icon von Threads auf einem Smartphone, von dem nur ein Ausschnitt zu sehen ist."
-    },
-    {
-      "title": "Die komplette Wettervorhersage auf einem PC: KI soll Prognosen demokratisieren",
-      "teaser": "Bei Wettervorhersagen kann KI-Technik immer mehr Arbeit erledigen. Nun wurde ein System vorgestellt, das konkurrenzfähige Prognosen auf einem PC erstellen kann.",
-      "url": "https://www.heise.de/news/Die-komplette-Wettervorhersage-auf-einem-PC-KI-soll-Prognosen-demokratisieren-10323835.html",
-      "image_title": "Gewitterwolken und ein Blitz"
-    },
-    {
-      "title": "AlertAngreifer machen sich an Hintertür in Cisco Smart Licensing Utility zu schaffen",
-      "teaser": "Jetzt patchen! Angreifer verschaffen sich Adminzugriff auf Cisco Smart Licensing Utility.",
-      "url": "https://www.heise.de/news/Angreifer-machen-sich-an-Hintertuer-in-Cisco-Smart-Licensing-Utility-zu-schaffen-10323893.html",
-      "image_title": "Würfel mit Buchstaben buchstabieren \"CYBERCRIME\"; ein Finge dreht gerade einige Buchstaben um, um daraus \"CYBERSECURITY\" zu machen."
     },
     {
       "title": "\"Höllenhamsterrad\": Neues digitales Krankenaktensystem in Schweden vor dem Aus",
@@ -610,9 +610,15 @@
       "url": "https://www.heise.de/en/news/Hiking-app-Komoot-is-sold-10324361.html"
     },
     {
-      "title": "Was Smart Meter leisten, was sie kosten und wie man sie bekommt",
-      "teaser": "Verbraucher haben erstmals ein Anrecht auf einen Smart Meter – also einen vernetzten Stromzähler. Wir erklären, wie man an ihn herankommt und was er bringt.",
-      "url": "https://www.heise.de/ratgeber/Was-Smart-Meter-leisten-was-sie-kosten-und-wie-man-sie-bekommt-10304507.html",
+      "title": "Auslegungssache 130: Kommt die große DSGVO-Reform?",
+      "teaser": "Im c't-Datenschutz-Podcast geht es um Chancen und Risiken einer möglichen Reform der DSGVO. Erste Vorschläge dazu kamen jüngst von EU-Parlamentarier Axel Voss.",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-130-Kommt-die-grosse-DSGVO-Reform-10321395.html",
+      "image_title": "Prof. Rolf Schwartmann (oben links), Joerg Heidrich (oben rechts) und Holger Bleich (unten)"
+    },
+    {
+      "title": "Smart-Meter-Alternativen: Zähler-Leseköpfe & Co. im Überblick",
+      "teaser": "Den Stromverbrauch eines Haushalts erfasst man mit einem Lesekopf für gerade mal 30 Euro anschaulicher als mit einem teuren Smart-Meter-Gateway. Ein Überblick.",
+      "url": "https://www.heise.de/ratgeber/Smart-Meter-Alternativen-Zaehler-Lesekoepfe-Co-im-Ueberblick-10306611.html",
       "image_title": ", KI, Collage c’t"
     },
     {
@@ -620,11 +626,6 @@
       "teaser": "Das Betriebssystem der Chromebooks ist ohne Google-Konto unnutzbar. Wir zeigen, wie man Linux darauf einrichtet und unabhängig von der Google-Cloud wird.",
       "url": "https://www.heise.de/ratgeber/Vollwertige-Linux-Distribution-auf-Chromebooks-installieren-10304702.html",
       "image_title": ", KI, Collage c't"
-    },
-    {
-      "title": "Wie USB-C-Netzteile und Adapter mit PD-Triggerchips beliebige Geräte versorgen",
-      "teaser": "Adapter mit PD-Triggerlogik fordern von USB-C-Netzteilen und Powerbanks gewünschte Spannungen an und reichen sie an Geräte ohne USB-Ladeport weiter.",
-      "url": "https://www.heise.de/ratgeber/Wie-USB-C-Netzteile-und-Adapter-mit-PD-Triggerchips-beliebige-Geraete-versorgen-10319753.html"
     },
     {
       "title": "Do it yourselfMac mini mit SSD-Modul auf 2 TByte aufrüsten",
@@ -743,22 +744,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Parkinson als Berufskrankheit bei Landwirten anerkannt",
-      "teaser": "Nach jahrelanger Diskussion ist es offiziell: Parkinson gilt als Berufskrankheit bei Landwirten. Der Auslöser sind Pestizide. Doch die Hersteller der gefährlichen Mittel bleiben bisher unbehelligt.",
-      "url": "https://www.heise.de/tp/features/Parkinson-als-Berufskrankheit-bei-Landwirten-anerkannt-10316139.html",
-      "image_title": "Pestizid-Drucksprüher und zitternde Hand"
+      "title": "Von der WTO zum Handelsclub: Die Zukunft des Welthandels",
+      "teaser": "Die WTO verliert an Einfluss, während Handelsclubs aufsteigen. Sicherheitsbedenken dominieren nun den globalen Handel. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Von-der-WTO-zum-Handelsclub-Die-Zukunft-des-Welthandels-10321620.html",
+      "image_title": "Schatten eines Flugzeugs und ein Containerschiff"
+    },
+    {
+      "title": "Israel startet Bodenoffensive in Gaza und droht mit \"totaler Verwüstung\"",
+      "teaser": "Israels Armee ist erneut in den Gazastreifen einmarschiert. Verteidigungsminister Katz droht der Zivilbevölkerung. Ein Überblick.",
+      "url": "https://www.heise.de/tp/features/Israel-startet-Bodenoffensive-in-Gaza-und-droht-mit-totaler-Verwuestung-10322775.html",
+      "image_title": "Rauch steigt über zerstörten Häusern auf"
     },
     {
       "title": "Tausende JFK-Akten veröffentlicht: Neue Erkenntnisse oder alte Theorien?",
       "teaser": "Die Ermordung von John F. Kennedy beschäftigt die USA seit Jahrzehnten. Nun hat die Trump-Regierung bisher geheime Dokumente freigegeben. Was verraten sie über den Fall?",
       "url": "https://www.heise.de/tp/features/Tausende-JFK-Akten-veroeffentlicht-Neue-Erkenntnisse-oder-alte-Theorien-10322997.html",
       "image_title": "Zeitungen in einem Kiosk"
-    },
-    {
-      "title": "Chinas schwimmende Mega-Brücken: Die neue maritime Superwaffe?",
-      "teaser": "China entwickelt neuartige Hubschuten, die Anlandungen auch an schwierigen Küsten ermöglichen. Experten sehen Potenzial für Angriff auf Taiwan. Droht eine Eskalation in der Region?",
-      "url": "https://www.heise.de/tp/features/Chinas-schwimmende-Mega-Bruecken-Die-neue-maritime-Superwaffe-10322944.html",
-      "image_title": "Neue chinesische Hubschute"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
