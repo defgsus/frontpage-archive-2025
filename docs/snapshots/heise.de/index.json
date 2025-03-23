@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-23T05:08:58",
+  "timestamp": "2025-03-23T06:12:13",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kommentar zu Smart Meter: zu teuer, zu komplex, zu spät",
+      "url": "https://www.heise.de/meinung/Kommentar-zu-Smart-Meter-zu-teuer-zu-komplex-zu-spaet-10324504.html"
+    },
     {
       "title": "Top 10: Die beste Soundbar ohne Subwoofer im Test – Sonos, Bose & Co.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-soundbar-ohne-subwoofer-im-test/rn24nxb"
@@ -60,10 +64,6 @@
     {
       "title": "iX-Workshop: Vom Plan zur Umsetzung - Eigenes Cloud Competence Center aufbauen",
       "url": "https://www.heise.de/news/iX-Workshop-Vom-Plan-zur-Umsetzung-Eigenes-Cloud-Competence-Center-aufbauen-10312693.html"
-    },
-    {
-      "title": "ProSiebenSat.1 verkauft Vergleichsportal Verivox",
-      "url": "https://www.heise.de/news/ProSiebenSat-1-verkauft-Vergleichsportal-Verivox-10325136.html"
     },
     {
       "title": "Arzt siegt vor GerichtMeta muss deutlich stärker gegen Deepfakes vorgehen",
@@ -185,19 +185,25 @@
       "url": "https://www.heise.de/news/Europaeische-Alternativen-zu-Google-Microsoft-und-Co-10324784.html"
     },
     {
+      "title": "Kommentar zu Smart Meter: zu teuer, zu komplex, zu spät",
+      "teaser": "Smart Meter helfen beim Stromsparen, doch es scheitert der Ausbau an Bürokratie, hohen Kosten und blockierenden Netzbetreibern, meint Christian Wölbert.",
+      "url": "https://www.heise.de/meinung/Kommentar-zu-Smart-Meter-zu-teuer-zu-komplex-zu-spaet-10324504.html",
+      "image_title": "Ein Kilowattstunden-Zähler zeigt den Stromverbrauch an."
+    },
+    {
       "title": "Top 10: Die beste Soundbar ohne Subwoofer im Test – Sonos, Bose & Co.",
       "teaser": "Soundbars versprechen guten Klang bei wenig Platz. Das macht sie interessant für das Heimkino. Wir zeigen die zehn besten Soundbars ohne Subwoofer.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-soundbar-ohne-subwoofer-im-test/rn24nxb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "Verfassungsschutz: Deutsche NGOs Ziel von russischen Cyberangriffen",
-      "teaser": "Das Bundesamt für Verfassungsschutz hat einige zivilgesellschaftliche Organisationen alarmiert, dass sie verstärkt im Fokus russischer Cyberattacken stünden.",
-      "url": "https://www.heise.de/news/Verfassungsschutz-warnt-NGOs-vor-zunehmenden-russischen-Cyberangriffen-10325252.html"
-    },
-    {
       "title": "KI: Unternehmen brauchen solides IT-Management",
       "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Verfassungsschutz: Deutsche NGOs Ziel von russischen Cyberangriffen",
+      "teaser": "Das Bundesamt für Verfassungsschutz hat einige zivilgesellschaftliche Organisationen alarmiert, dass sie verstärkt im Fokus russischer Cyberattacken stünden.",
+      "url": "https://www.heise.de/news/Verfassungsschutz-warnt-NGOs-vor-zunehmenden-russischen-Cyberangriffen-10325252.html"
     },
     {
       "title": "Open Source-Pläne für US-TikTok: Perplexity bringt sich als Käufer ins Spiel",
@@ -225,12 +231,6 @@
       "title": "Vorsicht, Kunde: Schwierige Reaktivierung von Office-Lizenzen bei Microsoft",
       "teaser": "Wer rechtmäßiger Inhaber von Softwarelizenzen ist, darf erwarten, dass die Nutzung dauerhaft möglich ist. Bei Microsoft kann das problematisch werden.",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Schwierige-Reaktivierung-von-Office-Lizenzen-bei-Microsoft-10286741.html"
-    },
-    {
-      "title": "iX-Workshop: Vom Plan zur Umsetzung - Eigenes Cloud Competence Center aufbauen",
-      "teaser": "Lernen Sie, wie Sie interne Kompetenzen für eine erfolgreiche Cloud-Transformation in einem eigenen Cloud Competence Center aufbauen und bündeln.",
-      "url": "https://www.heise.de/news/iX-Workshop-Vom-Plan-zur-Umsetzung-Eigenes-Cloud-Competence-Center-aufbauen-10312693.html",
-      "image_title": "Cloud-Migrationen erfolgreich mit unternehmensinterner Kompetenz meistern"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -296,6 +296,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "iX-Workshop: Vom Plan zur Umsetzung - Eigenes Cloud Competence Center aufbauen",
+      "teaser": "Lernen Sie, wie Sie interne Kompetenzen für eine erfolgreiche Cloud-Transformation in einem eigenen Cloud Competence Center aufbauen und bündeln.",
+      "url": "https://www.heise.de/news/iX-Workshop-Vom-Plan-zur-Umsetzung-Eigenes-Cloud-Competence-Center-aufbauen-10312693.html",
+      "image_title": "Cloud-Migrationen erfolgreich mit unternehmensinterner Kompetenz meistern"
     },
     {
       "title": "ProSiebenSat.1 verkauft Vergleichsportal Verivox",
@@ -366,14 +372,14 @@
       "image_title": "Schiff zur Inspektion von Unterwasserkabeln"
     },
     {
+      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
+      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
+    },
+    {
       "title": "Private Space: Apps und Daten im Datentresor von Android wegschließen",
       "teaser": "Mit einem geschützten Bereich lassen sich auf dem Smartphone Daten vor unbefugtem Zugriff schützen. Wir haben uns den Private Space von Android 15 angeschaut.",
       "url": "https://www.heise.de/ratgeber/Private-Space-Apps-und-Daten-im-Datentresor-von-Android-wegschliessen-10320754.html"
-    },
-    {
-      "title": "Analyse und Lehren: So läuft ein Ransomware-Angriff ab",
-      "teaser": "Das Einschleusen von Ransomware in Firmennetzwerke hat sich zu einem lukrativen Geschäftsmodell entwickelt. Im Webcast am 8. Mai können Sie erfahren, welche Fehler die Opfer machen und was Sie daraus für Ihre Sicherheitsstrategie lernen sollten.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-realitaet-eines-ransomware-angriffs-4898/?source=hbsad-ersatz"
     },
     {
       "title": "Mercedes setzt auf üppige Abfindungen: Offenbar teils 500.000 Euro möglich",
@@ -425,12 +431,6 @@
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-Claude-OpenAIs-Stimmen-Nvidias-Investitionen-Atlas-10324219.html",
       "image_title": "Aufmacherbild KI-Update"
-    },
-    {
-      "title": "Fotorucksäcke für jede Gelegenheit im Test",
-      "teaser": "Der richtige Rucksack passt zur Ausrüstung und zu den Bedürfnissen des Fotografen. Wir haben Rucksäcke für Städtetrips, Wanderungen und Urlaub getestet.",
-      "url": "https://www.heise.de/tests/Fotorucksaecke-fuer-jede-Gelegenheit-im-Test-10287604.html",
-      "image_title": ", Judith Hohmann"
     },
     {
       "title": "Vollwertige Linux-Distribution auf Chromebooks installieren",
@@ -603,20 +603,20 @@
       "url": "https://www.heise.de/en/news/Hiking-app-Komoot-is-sold-10324361.html"
     },
     {
-      "title": "Wie USB-C-Netzteile und Adapter mit PD-Triggerchips beliebige Geräte versorgen",
-      "teaser": "Adapter mit PD-Triggerlogik fordern von USB-C-Netzteilen und Powerbanks gewünschte Spannungen an und reichen sie an Geräte ohne USB-Ladeport weiter.",
-      "url": "https://www.heise.de/ratgeber/Wie-USB-C-Netzteile-und-Adapter-mit-PD-Triggerchips-beliebige-Geraete-versorgen-10319753.html"
-    },
-    {
       "title": "c't 3003US-Cloud-Dienste verlassen: Die besten europäischen Alternativen",
       "teaser": "Raus aus aus der US-Cloud – aber wie? c't 3003 zeigt europäische Alternativen, die Google Mail, Maps, Microsoft Teams, WhatsApp und Co. ersetzen können.",
       "url": "https://www.heise.de/news/Europaeische-Alternativen-zu-Google-Microsoft-und-Co-10324784.html"
     },
     {
-      "title": "Vollwertige Linux-Distribution auf Chromebooks installieren",
-      "teaser": "Das Betriebssystem der Chromebooks ist ohne Google-Konto unnutzbar. Wir zeigen, wie man Linux darauf einrichtet und unabhängig von der Google-Cloud wird.",
-      "url": "https://www.heise.de/ratgeber/Vollwertige-Linux-Distribution-auf-Chromebooks-installieren-10304702.html",
-      "image_title": ", KI, Collage c't"
+      "title": "Kommentar zu Smart Meter: zu teuer, zu komplex, zu spät",
+      "teaser": "Smart Meter helfen beim Stromsparen, doch es scheitert der Ausbau an Bürokratie, hohen Kosten und blockierenden Netzbetreibern, meint Christian Wölbert.",
+      "url": "https://www.heise.de/meinung/Kommentar-zu-Smart-Meter-zu-teuer-zu-komplex-zu-spaet-10324504.html",
+      "image_title": "Ein Kilowattstunden-Zähler zeigt den Stromverbrauch an."
+    },
+    {
+      "title": "c’t uplinkWas Smart Meter und dynamische Stromtarife bringen",
+      "teaser": "In dieser Folge des c’t uplink geht es um die Frage, was Smart Meter können und für wen sie sich besonders eignen.",
+      "url": "https://www.heise.de/news/Was-Smart-Meter-und-dynamische-Stromtarife-bringen-c-t-uplink-10323469.html"
     },
     {
       "title": "Do it yourselfMac mini mit SSD-Modul auf 2 TByte aufrüsten",
@@ -624,16 +624,16 @@
       "url": "https://www.heise.de/ratgeber/Mac-mini-mit-SSD-Modul-auf-2-TByte-aufruesten-10296820.html"
     },
     {
-      "title": "Reboot tut gut: Warum das iPhone aus Sicherheitsgründen automatisch neustartet",
-      "teaser": "Seit iOS 18 starten iPhones und iPads nach längerer Inaktivität automatisch neu. Was das für Nutzer bedeutet und welche Sicherheitsfunktionen dahinterstecken.",
-      "url": "https://www.heise.de/hintergrund/Reboot-tut-gut-Warum-das-iPhone-aus-Sicherheitsgruenden-automatisch-neustartet-10312423.html",
-      "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
-    },
-    {
       "title": "Apple-TabletiPad Air M3 im Test",
       "teaser": "Erst im Frühjahr 2024 hatte das iPad Air ein großes Update erhalten, nun folgte ein weiteres. Lohnt sich das iPad Air M3?",
       "url": "https://www.heise.de/tests/iPad-Air-M3-im-Test-Das-kann-Apples-neues-Mittelklasse-Tablet-10310432.html",
       "image_title": "iPad Air mit 11 Zoll und neuem M3-SoC"
+    },
+    {
+      "title": "Die wichtigsten Fragen und Antworten iCloud und Ende-zu-Ende-Verschlüsselung geraten unter Druck",
+      "teaser": "Apple schaltet die erweiterte Verschlüsselung von iCloud in Großbritannien ab. Was bedeutet das für Nutzer in Deutschland? Sind Daten ausreichend geschützt?",
+      "url": "https://www.heise.de/hintergrund/FAQ-iCloud-und-Ende-zu-Ende-Verschluesselung-geraten-unter-Druck-10319899.html",
+      "image_title": ","
     },
     {
       "title": "Mehr Flash-Speicher für den Arduino Nano",
@@ -734,22 +734,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Abkommen: Fordert Trump jetzt auch noch die Atommeiler der Ukraine?",
-      "teaser": "USA wollen beim Wiederaufbau der Ukraine mitverdienen. Washington strebt Zugriff auf ukrainische Bodenschätze und Atomkraftwerke an. Wird Kiew dem Druck nachgeben müssen?",
-      "url": "https://www.heise.de/tp/features/Abkommen-Fordert-Trump-jetzt-auch-noch-die-Atommeiler-der-Ukraine-10324186.html",
-      "image_title": "Kernkraftwerk Rivne, Varash, Rivne oblast, Ukraine. Erzeugung von elektrischer und thermischer Energie. Stromerzeugung. Weniger ansehen"
+      "title": "Sensationsfund in Atapuerca: Das neue alte Gesicht der Menschheit",
+      "teaser": "In einer spanischen Höhle haben Forscher das älteste menschliche Gesicht Westeuropas entdeckt. Das 1,4 Millionen Jahre alte Fossil erhielt den Spitznamen \"Rosa\". Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Sensationsfund-in-Atapuerca-Das-neue-alte-Gesicht-der-Menschheit-10318114.html",
+      "image_title": "Archäologen bei Ausgrabungen"
     },
     {
-      "title": "Ultraschall statt Kopfhörer: Die Revolution des privaten Musikgenusses",
-      "teaser": "Forscher entwickeln eine bahnbrechende Technologie für privaten Musikgenuss ohne Kopfhörer. Ultraschallwellen und 3D-gedruckte Oberflächen erzeugen dabei eine persönliche Hörzone.",
-      "url": "https://www.heise.de/tp/features/Ultraschall-statt-Kopfhoerer-Die-Revolution-des-privaten-Musikgenusses-10322450.html",
-      "image_title": "Ein Mann hört den Telepolis-Podcast über Kopfhörer."
+      "title": "Chinas Autoexporte: Innovativ, günstig und bald überall präsent",
+      "teaser": "Chinas Autobauer erobern mit Elektroautos und Verbrennern die globalen Märkte. Die Erfolgsformel: innovative Technik zu günstigen Preisen. Beim BYD-Werk in Mexiko ziehen dunkle Wolken auf.",
+      "url": "https://www.heise.de/tp/features/Chinas-Autoexporte-Innovativ-guenstig-und-bald-ueberall-praesent-10324724.html",
+      "image_title": "BYD-Logo in Thailand, wo chinesische Marken dominant sind."
     },
     {
-      "title": "Israel startet Bodenoffensive in Gaza und droht mit \"totaler Verwüstung\"",
-      "teaser": "Israels Armee ist erneut in den Gazastreifen einmarschiert. Verteidigungsminister Katz droht der Zivilbevölkerung. Ein Überblick.",
-      "url": "https://www.heise.de/tp/features/Israel-startet-Bodenoffensive-in-Gaza-und-droht-mit-totaler-Verwuestung-10322775.html",
-      "image_title": "Rauch steigt über zerstörten Häusern auf"
+      "title": "Von Rang 8 auf 6: Was Nauras Aufstieg für die Chipindustrie bedeutet",
+      "teaser": "Chipausrüster aus China Naura klettert in der Weltrangliste auf Platz sechs. Der Umsatz soll 2024 um 36 Prozent auf vier Milliarden Euro steigen. Doch der Erfolg des Staatskonzerns hat einen heiklen Hintergrund.",
+      "url": "https://www.heise.de/tp/features/Von-Rang-8-auf-6-Was-Nauras-Aufstieg-fuer-die-Chipindustrie-bedeutet-10318500.html",
+      "image_title": "Ingenier im Schutzanzug und im Reinraum überprüft einen Siliziumwafer."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
