@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-23T12:15:17",
+  "timestamp": "2025-03-23T13:14:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Webservices programmieren in Go: Daten prüfen und speichern, Passwörter hashen",
+      "url": "https://www.heise.de/hintergrund/Webservices-programmieren-in-Go-Daten-pruefen-und-speichern-Passwoerter-hashen-10278443.html"
+    },
     {
       "title": "IT-Weiterbildung im Fokus – Trends, Tipps, Tools",
       "url": "https://www.heise.de/news/IT-Weiterbildung-im-Fokus-Trends-Tipps-Tools-10324144.html"
@@ -60,10 +64,6 @@
     {
       "title": "Gesichtserkennung in Ungarn: EU-Kommission will Pride-Events schützen",
       "url": "https://www.heise.de/news/Pride-Umzuege-EU-Kommission-ruegt-Ungarns-Einsatz-von-Gesichtserkennung-10325268.html"
-    },
-    {
-      "title": "Missing Link: Wie kleine japanische Läden digitales Payment nutzen",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Wie-kleine-japanische-Laeden-digitales-Payment-nutzen-10321924.html"
     },
     {
       "title": "Missing LinkWie kleine japanische Läden digitales Payment nutzen",
@@ -191,20 +191,26 @@
       "url": "https://www.heise.de/news/Europaeische-Alternativen-zu-Google-Microsoft-und-Co-10324784.html"
     },
     {
+      "title": "Webservices programmieren in Go: Daten prüfen und speichern, Passwörter hashen",
+      "teaser": "Nie sollte ein Backend ungeprüft Daten von einem Client verarbeiten und speichern. Die Techniken dafür sind nicht schwierig zu erlernen.",
+      "url": "https://www.heise.de/hintergrund/Webservices-programmieren-in-Go-Daten-pruefen-und-speichern-Passwoerter-hashen-10278443.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
       "title": "IT-Weiterbildung im Fokus – Trends, Tipps, Tools",
       "teaser": "Die richtige Strategie ist entscheidend für den Lernerfolg. Der Blog der heise academy liefert wertvolle Infos und praxisnahe Impulse zur IT-Weiterbildung.",
       "url": "https://www.heise.de/news/IT-Weiterbildung-im-Fokus-Trends-Tipps-Tools-10324144.html"
+    },
+    {
+      "title": "KI: Unternehmen brauchen solides IT-Management",
+      "teaser": "Unternehmen sollten nicht vorschnell in Cloud-KI investieren. Stattdessen gilt es, die eigene IT-Infrastruktur zu optimieren. Ein zentrales Unified Endpoint Management schafft die nötige Basis für den sicheren lokalen KI-Einsatz.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6934722632&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Studie: Jeder sechste Jugendliche von Cybermobbing betroffen",
       "teaser": "Eine gehässige Nachricht, ein peinliches Foto: Cybermobbing kann viele Formen haben. Viele Jugendliche kennen Betroffene oder wurden selbst schon Zielscheibe.",
       "url": "https://www.heise.de/news/Studie-Jeder-sechste-Jugendliche-von-Cybermobbing-betroffen-10325409.html",
       "image_title": "Grafik einer depressiven, zusammengekauerten Frau, die vor einem Laptop mit Hassnachrichten auf dem Boden sitzt."
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Änderung beim US-Patentamt schürt Angst vor Trollen",
@@ -235,12 +241,6 @@
       "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-10317731.html",
       "image_title": "iX-Workshop: Advanced Kubernetes Security"
-    },
-    {
-      "title": "Eigene Streamingplattform: Automatisierte Piraterie auf Heimservern",
-      "teaser": "Film- und Serienpiraten haben die Trends der Softwareentwicklung verinnerlicht und zimmern auf ihren Heimservern ein privates Netflix unter schwarzer Flagge.",
-      "url": "https://www.heise.de/ratgeber/Eigene-Streamingplattform-Automatisierte-Piraterie-auf-Heimservern-installieren-10294388.html",
-      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -308,6 +308,12 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "Eigene Streamingplattform: Automatisierte Piraterie auf Heimservern",
+      "teaser": "Film- und Serienpiraten haben die Trends der Softwareentwicklung verinnerlicht und zimmern auf ihren Heimservern ein privates Netflix unter schwarzer Flagge.",
+      "url": "https://www.heise.de/ratgeber/Eigene-Streamingplattform-Automatisierte-Piraterie-auf-Heimservern-installieren-10294388.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
       "title": "Gesichtserkennung in Ungarn: EU-Kommission will Pride-Events schützen",
       "teaser": "Brüssel missbilligt Viktor Orbáns neues Gesetz, das Pride-Demos untersagt und die Polizei Teilnehmer mit automatisierter Gesichtserkennung identifizieren lässt.",
       "url": "https://www.heise.de/news/Pride-Umzuege-EU-Kommission-ruegt-Ungarns-Einsatz-von-Gesichtserkennung-10325268.html",
@@ -373,15 +379,15 @@
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
+      "title": "Künstliche Intelligenz in der Softwareentwicklung – Chancen und Risiken",
+      "teaser": "KI kann die Softwarebereitstellung beschleunigen und effizienter machen - birgt aber auch Risiken. Sicherheitslücken, schlechtere Codequalität und Ineffizienz können unerwünschte Folgen sein.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/kuenstliche-intelligenz-in-der-softwareentwicklung-chancen-und-risiken-4897/?source=hbsadersatz"
+    },
+    {
       "title": "Developer-Skills: Mit technischer Exzellenz erfolgreich agil Software entwickeln",
       "teaser": "Scrum & Co sind gut, aber agile Softwareentwicklung gelingt nur mit den richtigen Programmierpraktiken und technischen Fähigkeiten. Am 27. März 2025 dabei sein.",
       "url": "https://www.heise.de/news/Developer-Skills-Mit-technischer-Exzellenz-erfolgreich-agil-Software-entwickeln-10321474.html",
       "image_title": "Aufmacher ASU-Konferenz"
-    },
-    {
-      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
-      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
     },
     {
       "title": "Python: Mit Minecraft spielerisch programmieren lernen",
@@ -433,12 +439,6 @@
       "title": "Private Space: Apps und Daten im Datentresor von Android wegschließen",
       "teaser": "Mit einem geschützten Bereich lassen sich auf dem Smartphone Daten vor unbefugtem Zugriff schützen. Wir haben uns den Private Space von Android 15 angeschaut.",
       "url": "https://www.heise.de/ratgeber/Private-Space-Apps-und-Daten-im-Datentresor-von-Android-wegschliessen-10320754.html"
-    },
-    {
-      "title": "Mercedes setzt auf üppige Abfindungen: Offenbar teils 500.000 Euro möglich",
-      "teaser": "Mercedes will kräftig sparen und profitabler werden und lässt sich das einiges kosten. Langjährigen Beschäftigen winken offenbar hohe Summen für ihren Abgang.",
-      "url": "https://www.heise.de/news/Mercedes-Benz-zahlt-offenbar-teils-500-000-Euro-Abfindung-10324823.html",
-      "image_title": "Der Mercedes-Stern auf dem silbernen Kühlergrill eines Mercedes-Wagens."
     },
     {
       "title": "Vollwertige Linux-Distribution auf Chromebooks installieren",
@@ -505,14 +505,14 @@
       "image_title": "Mercedes S-Klasse"
     },
     {
+      "title": "Mercedes setzt auf üppige Abfindungen: Offenbar teils 500.000 Euro möglich",
+      "url": "https://www.heise.de/news/Mercedes-Benz-zahlt-offenbar-teils-500-000-Euro-Abfindung-10324823.html",
+      "image_title": "Der Mercedes-Stern auf dem silbernen Kühlergrill eines Mercedes-Wagens."
+    },
+    {
       "title": "Boston Dynamics: Humanoider Roboter Atlas bewegt sich immer menschenähnlicher",
       "url": "https://www.heise.de/news/Boston-Dynamics-Humanoider-Roboter-Atlas-bewegt-sich-immer-menschenaehnlicher-10322128.html",
       "image_title": "Roboter Atlas schlägt ein Rad."
-    },
-    {
-      "title": "Gehaltsangaben in Stellenanzeigen: Arbeitgeber lassen ITler meist im Dunkeln",
-      "url": "https://www.heise.de/news/Gehaltsangaben-in-Stellenanzeigen-Arbeitgeber-lassen-ITler-meist-in-Dunkeln-10321596.html",
-      "image_title": "Stapel Münzen vor Geldscheinen"
     },
     {
       "title": "UpdateSignal-Rückzug hinfällig - Frankreichs Parlament stimmt gegen E2EE-Schwächung",
@@ -611,19 +611,20 @@
       "url": "https://www.heise.de/en/news/Hiking-app-Komoot-is-sold-10324361.html"
     },
     {
-      "title": "Web-Tipps: Angespielte Physik",
-      "teaser": "Physik spielerisch entdecken! Auf Science at Home warten Browsergames die Energiegesetze erklären – oder sogar Quantenforschung vorantreiben!",
-      "url": "https://www.heise.de/news/Web-Tipps-Angespielte-Physik-10321437.html"
+      "title": "Kaum Nutzer in DeutschlandKommentar zu Smart Meter: zu teuer, zu komplex, zu spät",
+      "teaser": "Smart Meter helfen beim Stromsparen, doch es scheitert der Ausbau an Bürokratie, hohen Kosten und blockierenden Netzbetreibern, meint Christian Wölbert.",
+      "url": "https://www.heise.de/meinung/Kommentar-zu-Smart-Meter-zu-teuer-zu-komplex-zu-spaet-10324504.html",
+      "image_title": "Ein Kilowattstunden-Zähler zeigt den Stromverbrauch an."
     },
     {
-      "title": "c't 3003US-Cloud-Dienste verlassen: Die besten europäischen Alternativen",
-      "teaser": "Raus aus aus der US-Cloud – aber wie? c't 3003 zeigt europäische Alternativen, die Google Mail, Maps, Microsoft Teams, WhatsApp und Co. ersetzen können.",
-      "url": "https://www.heise.de/news/Europaeische-Alternativen-zu-Google-Microsoft-und-Co-10324784.html"
+      "title": "c’t uplinkWas Smart Meter und dynamische Stromtarife bringen",
+      "teaser": "In dieser Folge des c’t uplink geht es um die Frage, was Smart Meter können und für wen sie sich besonders eignen.",
+      "url": "https://www.heise.de/news/Was-Smart-Meter-und-dynamische-Stromtarife-bringen-c-t-uplink-10323469.html"
     },
     {
-      "title": "Wie USB-C-Netzteile und Adapter mit PD-Triggerchips beliebige Geräte versorgen",
-      "teaser": "Adapter mit PD-Triggerlogik fordern von USB-C-Netzteilen und Powerbanks gewünschte Spannungen an und reichen sie an Geräte ohne USB-Ladeport weiter.",
-      "url": "https://www.heise.de/ratgeber/Wie-USB-C-Netzteile-und-Adapter-mit-PD-Triggerchips-beliebige-Geraete-versorgen-10319753.html"
+      "title": "Buchkritik: Dark Wire von Joseph Cox",
+      "teaser": "Das FBI hat ein Start-up geführt, um die Unterwelt zu verwanzen. Dark Wire ist die Geschichte einer der größten verdeckten Ermittlungen der vergangenen Jahre.",
+      "url": "https://www.heise.de/tests/Buchkritik-Dark-Wire-von-Joseph-Cox-10304658.html"
     },
     {
       "title": "Do it yourselfMac mini mit SSD-Modul auf 2 TByte aufrüsten",
@@ -741,22 +742,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ukraine-Krieg: Die F-16-Ernüchterung",
-      "teaser": "Die USA haben der Ukraine F-16-Kampfjets geliefert. Doch statt als Wunderwaffe erweisen sich die Flugzeuge als Enttäuschung. Entscheidend ist ein Detail, das kaum jemand auf dem Schirm hatte.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Die-F-16-Ernuechterung-10323685.html",
-      "image_title": "Kampfjet General Dynamics F-16 in den Wolken"
+      "title": "Ihre Passwörter sind bald wertlos: Quantencomputer knacken alles!",
+      "teaser": "Quantencomputer revolutionieren die Rechenleistung. Sie lösen hochkomplexe Aufgaben in Sekundenschnelle. Doch die Technologie birgt auch Gefahren.",
+      "url": "https://www.heise.de/tp/features/Ihre-Passwoerter-sind-bald-wertlos-Quantencomputer-knacken-alles-10318098.html",
+      "image_title": "Chip mit Elektronenorbitalen vor Brecheisen"
     },
     {
-      "title": "Von Rang 8 auf 6: Was Nauras Aufstieg für die Chipindustrie bedeutet",
-      "teaser": "Chipausrüster aus China Naura klettert in der Weltrangliste auf Platz sechs. Der Umsatz soll 2024 um 36 Prozent auf vier Milliarden Euro steigen. Doch der Erfolg des Staatskonzerns hat einen heiklen Hintergrund.",
-      "url": "https://www.heise.de/tp/features/Von-Rang-8-auf-6-Was-Nauras-Aufstieg-fuer-die-Chipindustrie-bedeutet-10318500.html",
-      "image_title": "Ingenier im Schutzanzug und im Reinraum überprüft einen Siliziumwafer."
+      "title": "Deutsche: Willkommen in den USA – bitte direkt zur Abschiebehaft",
+      "teaser": "Die Fälle von Deutschen, die mit einem gültigen Visum an der Grenze in Abschiebehaft genommen werden, wiederholen sich. Auswärtiges Amt verschärft Reisehinweis.",
+      "url": "https://www.heise.de/tp/features/Deutsche-Willkommen-in-den-USA-bitte-direkt-zur-Abschiebehaft-10325074.html"
     },
     {
-      "title": "Design Thinking: Die neue Ausbeutung im modernen Gewand?",
-      "teaser": "Design Thinking gilt als innovative Arbeitsmethode der Zukunft. Unternehmen preisen die kreativen Teams und flexiblen Räume. Doch was bedeutet das für die Beschäftigten?",
-      "url": "https://www.heise.de/tp/features/Design-Thinking-Die-neue-Ausbeutung-im-modernen-Gewand-10319424.html",
-      "image_title": "Verkabelete Figuren mit Glühbirnen als Kopf"
+      "title": "EU will Medikamente wieder in Europa produzieren – doch das Geld fehlt",
+      "teaser": "EU möchte die Produktion von Medikamenten zurück nach Europa holen. 80 Millionen Euro sind dafür bis 2027 eingeplant. Doch diese Summe reicht nicht einmal für einen einzigen Wirkstoff.",
+      "url": "https://www.heise.de/tp/features/EU-will-Medikamente-wieder-in-Europa-produzieren-doch-das-Geld-fehlt-10321080.html",
+      "image_title": "Pillenstreifen mit chinesischen, indischen, und EU-Tabletten gefüllten sowie leeren Depots"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
