@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-25T14:10:16",
+  "timestamp": "2025-03-25T15:10:17",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.d47e8698fe42c129fc6e",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.74c5fa08814dbd99ed09",
       "id": null,
       "text": null
     },
@@ -26,20 +26,38 @@
   ],
   "articles": [
     {
+      "title": "Alternative Stromversorgung für Raspberry Pi 5 & 500",
+      "teaser": "Der Raspberry Pi 5 ist sensibel, wenn es um seine Stromversorgung geht. An bestimmten USB-C-Netzteilen und Powerbanks läuft er dennoch – wenn man weiß, wie.",
+      "url": "https://www.heise.de/hintergrund/Alternative-Stromversorgung-fuer-Raspberry-Pi-5-500-10303849.html"
+    },
+    {
       "title": "Wie man mit einem Python-Programm die Schwierigkeit von Sudokus bewertet, Teil 2",
       "teaser": "Um festzustellen, wie schwierig ein gegebenes Sudoku ist, haben wir einem Python-Programm menschliche Strategien beigebracht und auf Sudokus losgelassen.",
       "url": "https://www.heise.de/hintergrund/Wie-man-mit-einem-Python-Programm-die-Schwierigkeit-von-Sudokus-bewertet-Teil-2-10317542.html",
       "image_title": ", Thorsten Hübner"
     },
     {
-      "title": "C++20-Coroutinen-Tutorial Teil 4: Der Stream-Parser",
-      "teaser": "Ein Parser kann die Vorteile von Coroutinen nutzen und die Datenverarbeitung bei Bedarf pausieren. Das verbessert die Effizienz und erhöht die Code-Lesbarkeit.",
-      "url": "https://www.heise.de/ratgeber/C-20-Coroutinen-Tutorial-Teil-4-Der-Stream-Parser-10292762.html"
+      "title": "Leiser Mini-PC mit Ryzen 5 zum Hammer-Preis im Test: Acemagic K1 für 253 Euro",
+      "teaser": "Frischer Wind in der Einstiegsklasse: Wie gut schlägt sich der Acemagic K1 mit dem uns erstmals vorliegenden Ryzen 5 7430U? Das zeigt unser Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-acemagic-k1-im-test/lts812t?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
-      "title": "Alternative Stromversorgung für Raspberry Pi 5 & 500",
-      "teaser": "Der Raspberry Pi 5 ist sensibel, wenn es um seine Stromversorgung geht. An bestimmten USB-C-Netzteilen und Powerbanks läuft er dennoch – wenn man weiß, wie.",
-      "url": "https://www.heise.de/hintergrund/Alternative-Stromversorgung-fuer-Raspberry-Pi-5-500-10303849.html"
+      "title": "JobSet: Neue API für verteilte ML- und HPC-Anwendungen auf Kubernetes",
+      "teaser": "Die neue Open-Source-API JobSet soll flexiblere und vielfältigere Konfigurationsoptionen für groß angelegte verteilte HPC- und ML-Anwendungsfälle liefern.",
+      "url": "https://www.heise.de/news/JobSet-Neue-API-fuer-verteilte-ML-und-HPC-Anwendungen-auf-Kubernetes-10328173.html"
+    },
+    {
+      "title": "Cloudflare erlaubt nur noch verschlüsselte Verbindungen mit HTTPS",
+      "teaser": "Klartextkommunikation erlaubt auch Unbefugten Einsicht in Daten. Cloudflare unterstützt daher auch für API-Aufrufe kein HTTP mehr.",
+      "url": "https://www.heise.de/news/Cloudflare-macht-unsicherem-HTTP-den-Garaus-10328030.html",
+      "image_title": "Zwei Computer, einer mit HTTP-Verbindung und Stop-Schild, einer mit HTTPS-Verbindung und Daumen hoch"
+    },
+    {
+      "title": "Nicht mehr so leicht verschlafen: Besserer Wecker in watchOS 11.4",
+      "teaser": "Wenn die Apple Watch stummgeschaltet ist, nutzt die Wecker-App bislang nur Vibrationsalarm. Mit watchOS 11.4 soll das verbessert werden.",
+      "url": "https://www.heise.de/news/Nicht-mehr-so-leicht-verschlafen-Besserer-Wecker-in-watchOS-11-4-10328202.html",
+      "image_title": "Eine Apple Watch liegt auf dem Tisch und zeigt das Ziffernblatt"
     },
     {
       "title": "Oracle angeblich gehackt: Nutzerdaten im Darknet zum Verkauf",
@@ -104,23 +122,6 @@
       "teaser": "Entwickler sollen durch die neue Webseite einfacher über Neuerungen auf dem Laufenden bleiben. Sie bietet weiterführende Links rund um die IDE.",
       "url": "https://www.heise.de/news/Microsoft-Neuer-Visual-Studio-Hub-buendelt-Informationen-zur-IDE-10327429.html",
       "image_title": "Visual Studio Hub"
-    },
-    {
-      "title": "OpenAI-Studie: Emotionale Auswirkungen von ChatGPT-Nutzung",
-      "teaser": "Manipulation und psychische Störungen. OpenAI und das MIT haben die potenziellen Auswirkungen von ChatGPT untersucht.",
-      "url": "https://www.heise.de/news/OpenAI-Studie-Emotionale-Auswirkungen-von-ChatGPT-Nutzung-10327324.html",
-      "image_title": "Emotionserkennung für Therapie und Marketing"
-    },
-    {
-      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
-      "teaser": "Ab dem 09.04. lernen Sie in fünf Sessions künstliche Intelligenz zu entwickeln: Machine Learning, neuronale Netze und Deep Learning – alles effizient in Python.",
-      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-10322086.html"
-    },
-    {
-      "title": "Badbox 2.0: Eine Million infizierte Geräte im Botnet",
-      "teaser": "Im Dezember legte das BSI das Botnet Badbox lahm. Der Nachfolger Badbox 2.0 infiziert eine Million IoT-Geräte.",
-      "url": "https://www.heise.de/news/Badbox-2-0-Eine-Million-infizierte-Geraete-im-Botnet-10327338.html",
-      "image_title": "Android-TV-Stick mit Malware"
     },
     {
       "title": "Endpoint Central wird Champion in der Kategorie Vulnerability Management",
