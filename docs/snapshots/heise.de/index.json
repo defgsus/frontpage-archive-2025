@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-25T19:07:12",
+  "timestamp": "2025-03-25T20:10:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Schwarz-Rot will Überwachungsbefugnisse massiv ausweiten",
+      "url": "https://www.heise.de/news/Schwarz-Rot-will-Ueberwachungsbefugnisse-massiv-ausweiten-10328606.html"
+    },
     {
       "title": "Top 10: Das beste Smartphone im Test – Xiaomi ist neuer Testsieger",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test/5qx1bd1"
@@ -60,10 +64,6 @@
     {
       "title": "Lokale KI: Machine Learning und KI auf Apple Silicon mit MLX betreiben",
       "url": "https://www.heise.de/hintergrund/Lokale-KI-Machine-Learning-und-KI-auf-Apple-Silicon-mit-MLX-betreiben-10311425.html"
-    },
-    {
-      "title": "Rabea Rogge: Deutschlands erste Astronautin soll bald ins All fliegen",
-      "url": "https://www.heise.de/news/Rabea-Rogge-Deutschlands-erste-Astronautin-soll-bald-ins-All-fliegen-10328298.html"
     },
     {
       "title": "UpdateKoalitionsverhandlungenDigitalministerium gestrichen?",
@@ -184,20 +184,26 @@
       "image_title": "Chemische Darstellung der Moleküle, dahinter der Curiosity-Rover"
     },
     {
+      "title": "Schwarz-Rot will Überwachungsbefugnisse massiv ausweiten",
+      "teaser": "Union und SPD haben zur Innen- und Rechtspolitik eine lange Wunschliste – mit einem klaren Trend: Mehr Überwachung und mehr digitale Befugnisse für Behörden.",
+      "url": "https://www.heise.de/news/Schwarz-Rot-will-Ueberwachungsbefugnisse-massiv-ausweiten-10328606.html",
+      "image_title": "Unscharfes Bild von Menschen in öffentlichem Raum; darübe sind bunte vierecke gelegt, die Gesichtserkennung symbolisieren; oben einige statistische Auswertungen"
+    },
+    {
       "title": "Top 10: Das beste Smartphone im Test – Xiaomi ist neuer Testsieger",
       "teaser": "Auch im noch jungen Jahr sind schon einige Top-Smartphones auf den Markt gekommen. Wir zeigen, welche Modelle derzeit zu den besten Smartphones gehören.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test/5qx1bd1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Service Desks als Zielscheibe für Hacker",
+      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iOS 19 und Co.: Apple kündigt WWDC für 9. Juni an",
       "teaser": "Vom 9. bis zum 13. Juni 2025 findet die Entwicklerkonferenz WWDC von Apple statt. Laut Gerüchten steht ein Redesign von iOS ins Haus.",
       "url": "https://www.heise.de/news/iOS-19-und-Co-Apple-kuendigt-WWDC-fuer-9-Juni-an-10328618.html",
       "image_title": "Anschauen der Keynote der WWDC24 im Apple Park"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Wie Ubuntu 24.10 auf Notebooks mit Snapdragon-X-Elite funktioniert",
@@ -227,12 +233,6 @@
       "teaser": "Asrock prüfte ein Mainboard, in dem ein Ryzen 7 9800X3D einen Hitzeschaden erlitt. Vor zwei Wochen tauchte derweil ein neuer MSI-Fall auf.",
       "url": "https://www.heise.de/news/Verschmorte-Ryzen-7-9800X3D-Hersteller-untersuchen-Faelle-weiter-10328364.html",
       "image_title": "Nahaufnahme eines Ryzen 7 9800X3D auf weißem Untergrund"
-    },
-    {
-      "title": "Hohe Provision auf Web-Käufe: EU klopft Apple angeblich auf die Finger",
-      "teaser": "Apple hält bei Einkäufen im Web die Hand auf und verstößt so wohl gegen den Digital Markets Act. Mit anderen iOS-Änderungen scheinen die Regulierer zufrieden.",
-      "url": "https://www.heise.de/news/Hohe-Provision-auf-Web-Kaeufe-EU-klopft-Apple-angeblich-auf-die-Finger-10328324.html",
-      "image_title": "Ein iPhone 15 liegt auf der Packung"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -298,6 +298,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Hohe Provision auf Web-Käufe: EU klopft Apple angeblich auf die Finger",
+      "teaser": "Apple hält bei Einkäufen im Web die Hand auf und verstößt so wohl gegen den Digital Markets Act. Mit anderen iOS-Änderungen scheinen die Regulierer zufrieden.",
+      "url": "https://www.heise.de/news/Hohe-Provision-auf-Web-Kaeufe-EU-klopft-Apple-angeblich-auf-die-Finger-10328324.html",
+      "image_title": "Ein iPhone 15 liegt auf der Packung"
     },
     {
       "title": "Lokale KI: Machine Learning und KI auf Apple Silicon mit MLX betreiben",
@@ -368,15 +374,15 @@
       "image_title": "eBay Schild vor Konzerngebäude"
     },
     {
+      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
+      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
+    },
+    {
       "title": "UpdateOracle angeblich gehackt: Nutzerdaten im Darknet zum Verkauf",
       "teaser": "Hat es einen IT-Sicherheitsvorfall bei Oracle gegeben? Sicherheitsforscher sagen ja, Medienberichten zufolge dementiert Oracle eine Attacke.",
       "url": "https://www.heise.de/news/Oracle-angeblich-gehackt-Nutzerdaten-im-Darknet-zum-Verkauf-10327980.html",
       "image_title": "Washington Post: Trump bestätigt Cyberangriff gegen Russland 2018"
-    },
-    {
-      "title": "NIS2 und ISMS-Optimierung – Ihr Weg zu zertifizierter Informationssicherheit",
-      "teaser": "Die NIS2-Richtlinie bringt neue Herausforderungen für die IT-Sicherheit. Erfahren Sie im Webcast am 3.4., wie Sie Ihr ISMS optimieren, NIS2-Konformität erreichen und nach ISO 27001 oder TISAX zertifizieren können.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/nis2-und-isms-optimierung-ihr-weg-zu-zertifizierter-informationssicherheit-4896/?source=hbsadersatz"
     },
     {
       "title": "Machine Learning und KI: Frühbucher-Endspurt für Minds Mastering Machines 2025",
@@ -429,12 +435,6 @@
       "teaser": "Nvidias GeForce RTX 5060 Ti erscheint angeblich mit 16 und 8 GByte Speicher Mitte April. Die normale 5060 soll später folgen.",
       "url": "https://www.heise.de/news/GeForce-RTX-5060-Ti-und-RTX-5060-sollen-mit-einem-Monat-Abstand-erscheinen-10327636.html",
       "image_title": "GeForce RTX 4070 Ti Herstellerkarten"
-    },
-    {
-      "title": "Neuer AGI-Test überfordert KI-Modelle",
-      "teaser": "Die ARC Prize Foundation hat einen neuen Test für KI-Modelle veröffentlicht. Während viele Menschen den lösen können, scheitern die KI-Modelle.",
-      "url": "https://www.heise.de/news/Neuer-AGI-Test-ueberfordert-KI-Modelle-10327614.html",
-      "image_title": "Digital Brain"
     },
     {
       "title": "Mindfactory bestätigt Insolvenz – Betrieb kehrt zur Normalität zurück",
@@ -605,9 +605,9 @@
       "url": "https://www.heise.de/en/news/Business-figures-discrepancy-Tesla-is-probably-missing-1-4-billion-US-dollars-10322721.html"
     },
     {
-      "title": "Science FictionKünstliche Gravitation – wie realistisch ist das?",
-      "teaser": "Künstliche Gravitation ist in der Science Fiction alltäglich. Doch wie realistisch sind diese Ansätze?",
-      "url": "https://www.heise.de/news/Video-Kuenstliche-Gravitation-in-Science-Fiction-wie-realistisch-ist-das-10327747.html"
+      "title": "Alternative Stromversorgung für Raspberry Pi 5 & 500",
+      "teaser": "Der Raspberry Pi 5 ist sensibel, wenn es um seine Stromversorgung geht. An bestimmten USB-C-Netzteilen und Powerbanks läuft er dennoch – wenn man weiß, wie.",
+      "url": "https://www.heise.de/hintergrund/Alternative-Stromversorgung-fuer-Raspberry-Pi-5-500-10303849.html"
     },
     {
       "title": "Kurztests: Adapter, Netzteil und Kühler",
@@ -615,9 +615,10 @@
       "url": "https://www.heise.de/tests/Kurztests-Adapter-Netzteil-und-Kuehler-10322728.html"
     },
     {
-      "title": "Alternative Stromversorgung für Raspberry Pi 5 & 500",
-      "teaser": "Der Raspberry Pi 5 ist sensibel, wenn es um seine Stromversorgung geht. An bestimmten USB-C-Netzteilen und Powerbanks läuft er dennoch – wenn man weiß, wie.",
-      "url": "https://www.heise.de/hintergrund/Alternative-Stromversorgung-fuer-Raspberry-Pi-5-500-10303849.html"
+      "title": "Quanten-Tornados: Physiker entdecken Elektronenwirbel in Halbmetall",
+      "teaser": "Ein Forschungsteam aus Würzburg und Dresden weist das vor acht Jahren vorhergesagte Phänomen nach. Dieses könnte Datenübertragung effizienter gestalten.",
+      "url": "https://www.heise.de/news/Quanten-Tornados-Physiker-entdecken-Elektronenwirbel-in-Halbmetall-10328194.html",
+      "image_title": "Quanten-Tornado"
     },
     {
       "title": "Reboot tut gutWarum das iPhone aus Sicherheitsgründen neustartet",
@@ -736,9 +737,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Kulturkampf: Schneewittchen macht märchenhafte Probleme",
-      "teaser": "Disney-Verfilmung sorgt für Aufregung. Die Heldin ist nicht schneeweiß genug und der Film zu woke. Die Debatte hinkt der Zeit hinterher.",
-      "url": "https://www.heise.de/tp/features/Kulturkampf-Schneewittchen-macht-maerchenhafte-Probleme-10328135.html"
+      "title": "Grönland zwischen den Stühlen: Unabhängigkeit ja, USA nein",
+      "teaser": "Stippvisite aus Washington: Usha Vance, Ehefrau des US-Vizepräsidenten, will nach Grönland. Die Regierung kritisiert den geplanten Besuch und wirft den USA mangelnden Respekt vor.",
+      "url": "https://www.heise.de/tp/features/Groenland-zwischen-den-Stuehlen-Unabhaengigkeit-ja-USA-nein-10326411.html",
+      "image_title": "Flagge der USA auf einer Karte von Grönland"
     },
     {
       "title": "Die erstaunliche Personalpolitik des öffentlich-rechtlichen Senders rbb",
@@ -747,15 +749,15 @@
       "image_title": "Schild des Senders RBB Rundfunk Berlin Brandenburg in Berlin."
     },
     {
-      "title": "Recht des Stärkeren? EU kritisiert Trumps Grönland-Show und übersieht eigenen Kolonialismus",
-      "teaser": "EU stellt sich vor Grönland. Paris mahnt zum Respekt von Souveränität. Doch wie steht es um Europas eigenes koloniales Erbe?",
-      "url": "https://www.heise.de/tp/features/Recht-des-Staerkeren-EU-kritisiert-Trumps-Groenland-Show-und-uebersieht-eigenen-Kolonialismus-10328069.html",
-      "image_title": "Protest für Unabhängigkeit von Neukaledonien, Paris"
+      "title": "Tesla-Verkäufe brechen um 40 Prozent ein",
+      "teaser": "Teslas Absatzkrise in Europa verschärft sich dramatisch. Experten sehen die Gründe in der umstrittenen Politik von Elon Musk und einem Modellwechsel.",
+      "url": "https://www.heise.de/tp/features/Tesla-Verkaeufe-brechen-um-40-Prozent-ein-10328538.html",
+      "image_title": "Rückansicht des innovativen Tesla X-Autoinnenraums mit Touchscreen-Monitor-Display, beleuchtetem Auto-Armaturenbrett mit verschiedenen navigierenden und informativen App."
     },
     {
-      "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
-      "teaser": "Wo gibt es den meisten Gratis-Speicher, wo den besten Datenschutz? Wir Cloud-Anbieter getestet und erklären, worauf bei der Auswahl zu achten ist.",
-      "url": "https://www.heise.de/download/specials/Die-10-besten-Cloud-Speicher-3149052"
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "LibreWolf",
