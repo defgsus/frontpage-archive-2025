@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-25T20:10:37",
+  "timestamp": "2025-03-25T21:08:26",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Koalitionsverhandlungen: Deutschlandticket soll weiterlaufen, aber teurer werden",
+      "url": "https://www.heise.de/news/Schwarz-Rot-will-Deutschlandticket-aber-2027-teurer-10328657.html"
+    },
     {
       "title": "Schwarz-Rot will Überwachungsbefugnisse massiv ausweiten",
       "url": "https://www.heise.de/news/Schwarz-Rot-will-Ueberwachungsbefugnisse-massiv-ausweiten-10328606.html"
@@ -60,10 +64,6 @@
     {
       "title": "Hohe Provision auf Web-Käufe: EU klopft Apple angeblich auf die Finger",
       "url": "https://www.heise.de/news/Hohe-Provision-auf-Web-Kaeufe-EU-klopft-Apple-angeblich-auf-die-Finger-10328324.html"
-    },
-    {
-      "title": "Lokale KI: Machine Learning und KI auf Apple Silicon mit MLX betreiben",
-      "url": "https://www.heise.de/hintergrund/Lokale-KI-Machine-Learning-und-KI-auf-Apple-Silicon-mit-MLX-betreiben-10311425.html"
     },
     {
       "title": "UpdateKoalitionsverhandlungenDigitalministerium gestrichen?",
@@ -184,20 +184,26 @@
       "image_title": "Chemische Darstellung der Moleküle, dahinter der Curiosity-Rover"
     },
     {
+      "title": "Koalitionsverhandlungen: Deutschlandticket soll weiterlaufen, aber teurer werden",
+      "teaser": "Eine Arbeitsgruppe von Union und SPD will am Deutschlandticket festhalten. Sie möchte allerdings den staatlichen Zuschuss reduzieren.",
+      "url": "https://www.heise.de/news/Schwarz-Rot-will-Deutschlandticket-aber-2027-teurer-10328657.html",
+      "image_title": "Doppelstockwaggons eines metronom-Zuges steht an einem Bahnsteig; der Fahrtzielanzeiger sagt \"Göttingen\""
+    },
+    {
       "title": "Schwarz-Rot will Überwachungsbefugnisse massiv ausweiten",
       "teaser": "Union und SPD haben zur Innen- und Rechtspolitik eine lange Wunschliste – mit einem klaren Trend: Mehr Überwachung und mehr digitale Befugnisse für Behörden.",
       "url": "https://www.heise.de/news/Schwarz-Rot-will-Ueberwachungsbefugnisse-massiv-ausweiten-10328606.html",
       "image_title": "Unscharfes Bild von Menschen in öffentlichem Raum; darübe sind bunte vierecke gelegt, die Gesichtserkennung symbolisieren; oben einige statistische Auswertungen"
     },
     {
-      "title": "Top 10: Das beste Smartphone im Test – Xiaomi ist neuer Testsieger",
-      "teaser": "Auch im noch jungen Jahr sind schon einige Top-Smartphones auf den Markt gekommen. Wir zeigen, welche Modelle derzeit zu den besten Smartphones gehören.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test/5qx1bd1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Service Desks als Zielscheibe für Hacker",
       "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Das beste Smartphone im Test – Xiaomi ist neuer Testsieger",
+      "teaser": "Auch im noch jungen Jahr sind schon einige Top-Smartphones auf den Markt gekommen. Wir zeigen, welche Modelle derzeit zu den besten Smartphones gehören.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-im-test/5qx1bd1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "iOS 19 und Co.: Apple kündigt WWDC für 9. Juni an",
@@ -227,12 +233,6 @@
       "title": "Kurztests: Adapter, Netzteil und Kühler",
       "teaser": "Wir haben getestet: Ein kompaktes, aber kraftvolles Netzteil, eine Dockingstation für Laufwerke mit Kopierfunktion und einen starken Doppelturmkühler.",
       "url": "https://www.heise.de/tests/Kurztests-Adapter-Netzteil-und-Kuehler-10322728.html"
-    },
-    {
-      "title": "Verschmorte Ryzen 7 9800X3D: Hersteller untersuchen Fälle weiter",
-      "teaser": "Asrock prüfte ein Mainboard, in dem ein Ryzen 7 9800X3D einen Hitzeschaden erlitt. Vor zwei Wochen tauchte derweil ein neuer MSI-Fall auf.",
-      "url": "https://www.heise.de/news/Verschmorte-Ryzen-7-9800X3D-Hersteller-untersuchen-Faelle-weiter-10328364.html",
-      "image_title": "Nahaufnahme eines Ryzen 7 9800X3D auf weißem Untergrund"
     },
     {
       "title": "Förderung, VergütungInvestitionskosten verringern: Was künftige PV-Anlagenbesitzer wissen müssen",
@@ -298,6 +298,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Verschmorte Ryzen 7 9800X3D: Hersteller untersuchen Fälle weiter",
+      "teaser": "Asrock prüfte ein Mainboard, in dem ein Ryzen 7 9800X3D einen Hitzeschaden erlitt. Vor zwei Wochen tauchte derweil ein neuer MSI-Fall auf.",
+      "url": "https://www.heise.de/news/Verschmorte-Ryzen-7-9800X3D-Hersteller-untersuchen-Faelle-weiter-10328364.html",
+      "image_title": "Nahaufnahme eines Ryzen 7 9800X3D auf weißem Untergrund"
     },
     {
       "title": "Hohe Provision auf Web-Käufe: EU klopft Apple angeblich auf die Finger",
@@ -368,15 +374,15 @@
       "url": "https://www.heise.de/news/KI-Update-kompakt-Well-Being-Studie-Tencent-T1-Malaysia-Apple-Intelligence-10327885.html"
     },
     {
+      "title": "Künstliche Intelligenz in der Softwareentwicklung – Chancen und Risiken",
+      "teaser": "KI kann die Softwarebereitstellung beschleunigen und effizienter machen - birgt aber auch Risiken. Sicherheitslücken, schlechtere Codequalität und Ineffizienz können unerwünschte Folgen sein.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/kuenstliche-intelligenz-in-der-softwareentwicklung-chancen-und-risiken-4897/?source=hbsadersatz"
+    },
+    {
       "title": "eBay: Neue Datenschutzerklärung erlaubt KI-Training mit personenbezogenen Daten",
       "teaser": "Die neue Datenschutzerklärung erlaubt der Plattform, personenbezogene Nutzerdaten wie den Familienstand zur Verbesserung ihres Dienstes zu verwenden.",
       "url": "https://www.heise.de/news/eBay-Neue-Datenschutzerklaerung-erlaubt-KI-Training-mit-personenbezogenen-Daten-10328056.html",
       "image_title": "eBay Schild vor Konzerngebäude"
-    },
-    {
-      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
-      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
     },
     {
       "title": "UpdateOracle angeblich gehackt: Nutzerdaten im Darknet zum Verkauf",
@@ -429,12 +435,6 @@
       "teaser": "Microsoft verteilt eine aktualisierte Fotos-App an Windows Insider. Sie kann Texte mittels OCR extrahieren und integriert mehr KI.",
       "url": "https://www.heise.de/news/Microsoft-Fotos-OCR-Funktion-und-mehr-KI-Integration-10327508.html",
       "image_title": "KI-Editierfunktion zum Ergänzen von Text"
-    },
-    {
-      "title": "Nvidias GeForce RTX 5060 Ti soll im April mit 8 und 16 GByte erscheinen",
-      "teaser": "Nvidias GeForce RTX 5060 Ti erscheint angeblich mit 16 und 8 GByte Speicher Mitte April. Die normale 5060 soll später folgen.",
-      "url": "https://www.heise.de/news/GeForce-RTX-5060-Ti-und-RTX-5060-sollen-mit-einem-Monat-Abstand-erscheinen-10327636.html",
-      "image_title": "GeForce RTX 4070 Ti Herstellerkarten"
     },
     {
       "title": "Mindfactory bestätigt Insolvenz – Betrieb kehrt zur Normalität zurück",
@@ -605,20 +605,19 @@
       "url": "https://www.heise.de/en/news/Business-figures-discrepancy-Tesla-is-probably-missing-1-4-billion-US-dollars-10322721.html"
     },
     {
+      "title": "Science FictionKünstliche Gravitation – wie realistisch ist das?",
+      "teaser": "Künstliche Gravitation ist in der Science Fiction alltäglich. Doch wie realistisch sind diese Ansätze?",
+      "url": "https://www.heise.de/news/Video-Kuenstliche-Gravitation-in-Science-Fiction-wie-realistisch-ist-das-10327747.html"
+    },
+    {
       "title": "Alternative Stromversorgung für Raspberry Pi 5 & 500",
       "teaser": "Der Raspberry Pi 5 ist sensibel, wenn es um seine Stromversorgung geht. An bestimmten USB-C-Netzteilen und Powerbanks läuft er dennoch – wenn man weiß, wie.",
       "url": "https://www.heise.de/hintergrund/Alternative-Stromversorgung-fuer-Raspberry-Pi-5-500-10303849.html"
     },
     {
-      "title": "Kurztests: Adapter, Netzteil und Kühler",
-      "teaser": "Wir haben getestet: Ein kompaktes, aber kraftvolles Netzteil, eine Dockingstation für Laufwerke mit Kopierfunktion und einen starken Doppelturmkühler.",
-      "url": "https://www.heise.de/tests/Kurztests-Adapter-Netzteil-und-Kuehler-10322728.html"
-    },
-    {
-      "title": "Quanten-Tornados: Physiker entdecken Elektronenwirbel in Halbmetall",
-      "teaser": "Ein Forschungsteam aus Würzburg und Dresden weist das vor acht Jahren vorhergesagte Phänomen nach. Dieses könnte Datenübertragung effizienter gestalten.",
-      "url": "https://www.heise.de/news/Quanten-Tornados-Physiker-entdecken-Elektronenwirbel-in-Halbmetall-10328194.html",
-      "image_title": "Quanten-Tornado"
+      "title": "Knochenschall-Headset mit Bluetooth-Dongle: Shokz OpenMeet UC im Test",
+      "teaser": "An Online-Meetings teilnehmen und trotzdem etwas von der Umwelt mitkriegen: Das Shokz OpenMeet ist ein Knochenschall-Headset mit gutem Mikro und UC-Integration.",
+      "url": "https://www.heise.de/tests/Knochenschall-Headset-mit-Bluetooth-Dongle-Shokz-OpenMeet-UC-im-Test-10306657.html"
     },
     {
       "title": "Reboot tut gutWarum das iPhone aus Sicherheitsgründen neustartet",
@@ -737,22 +736,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-6-die-beste-kabellose-rueckfahrkamera-zum-nachruesten-im-test/3x7f3ce?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Schule kaputtgespart: Milliarden für Waffen statt für Bildung",
+      "teaser": "Deutsche Schulen sind in der Krise: Es fehlen Lehrkräfte, Ausstattung und Geld. Berlin setzt andere Prioritäten. Mit welchen Folgen? (Teil 1)",
+      "url": "https://www.heise.de/tp/features/Schule-kaputtgespart-Milliarden-fuer-Waffen-statt-fuer-Bildung-10325471.html",
+      "image_title": "Schüler legt Kopf erschöpft auf Schulpult"
+    },
+    {
+      "title": "Diplomat warnt: Europa droht in Ukraine-Verhandlungen zum großen Verlierer zu werden",
+      "teaser": "Trump-Putin-Telefonate sorgen für Aufregung. Diplomatie nimmt Fahrt auf. Ex-Botschafter Lüdeking meint: Die EU könnte zum Verlierer werden. Ein Telepolis-Podcast.",
+      "url": "https://www.heise.de/tp/features/Diplomat-warnt-Europa-droht-in-Ukraine-Verhandlungen-zum-grossen-Verlierer-zu-werden-10325642.html",
+      "image_title": "EU mit Rissen und fehlenden Teilen im Wind"
+    },
+    {
       "title": "Grönland zwischen den Stühlen: Unabhängigkeit ja, USA nein",
       "teaser": "Stippvisite aus Washington: Usha Vance, Ehefrau des US-Vizepräsidenten, will nach Grönland. Die Regierung kritisiert den geplanten Besuch und wirft den USA mangelnden Respekt vor.",
       "url": "https://www.heise.de/tp/features/Groenland-zwischen-den-Stuehlen-Unabhaengigkeit-ja-USA-nein-10326411.html",
       "image_title": "Flagge der USA auf einer Karte von Grönland"
-    },
-    {
-      "title": "Die erstaunliche Personalpolitik des öffentlich-rechtlichen Senders rbb",
-      "teaser": "Sanfte Landung nach dem Gelbhaar-Skandal: Zurückgetretener Chefredakteur erhält Top-Position. Skandalsender wirft Fragen auf.",
-      "url": "https://www.heise.de/tp/features/Die-erstaunliche-Personalpolitik-des-oeffentlich-rechtlichen-Senders-rbb-10326483.html",
-      "image_title": "Schild des Senders RBB Rundfunk Berlin Brandenburg in Berlin."
-    },
-    {
-      "title": "Tesla-Verkäufe brechen um 40 Prozent ein",
-      "teaser": "Teslas Absatzkrise in Europa verschärft sich dramatisch. Experten sehen die Gründe in der umstrittenen Politik von Elon Musk und einem Modellwechsel.",
-      "url": "https://www.heise.de/tp/features/Tesla-Verkaeufe-brechen-um-40-Prozent-ein-10328538.html",
-      "image_title": "Rückansicht des innovativen Tesla X-Autoinnenraums mit Touchscreen-Monitor-Display, beleuchtetem Auto-Armaturenbrett mit verschiedenen navigierenden und informativen App."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
