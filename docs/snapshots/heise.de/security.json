@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-26T07:09:51",
+  "timestamp": "2025-03-26T08:13:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,20 +26,21 @@
   ],
   "articles": [
     {
-      "title": "Badbox 2.0Eine Million infizierte Geräte im Botnet",
-      "teaser": "Im Dezember legte das BSI das Botnet Badbox lahm. Der Nachfolger Badbox 2.0 infiziert eine Million IoT-Geräte.",
-      "url": "https://www.heise.de/news/Badbox-2-0-Eine-Million-infizierte-Geraete-im-Botnet-10327338.html",
-      "image_title": "Android-TV-Stick mit Malware"
-    },
-    {
-      "title": "Rückblick secIT 2025: Patentrezepte gegen Cybercrime und 21 kg Espressobohnen",
-      "teaser": "Die IT-Security-Konferenzmesse secIT lockte abermals tausende Admins und CISOs nach Hannover und war ein voller Erfolg. Im Herbst geht es weiter.",
-      "url": "https://www.heise.de/news/Rueckblick-secIT-2025-Patentrezepte-gegen-Cybercrime-und-21-kg-Espressobohnen-10326431.html"
-    },
-    {
-      "title": "AlertJetzt updaten! Zero-Day-Sicherheitslücke in Chrome wird angegriffen",
+      "title": "AlertJetzt updaten!Zero-Day-Sicherheitslücke in Chrome wird angegriffen",
+      "teaser": "Google hat dem Webbrowser Chrome ein Update spendiert. Es schließt eine Zero-Day-Lücke, die bereits angegriffen wird.",
       "url": "https://www.heise.de/news/Jetzt-updaten-Zero-Day-Sicherheitsluecke-in-Chrome-wird-angegriffen-10328773.html",
       "image_title": "Stilisierte Grafik: Brennendes Google-Chrome-Logo auf einem Laptop"
+    },
+    {
+      "title": "AlertSicherheitslückeVMware Tools ermöglichen Rechteausweitung in VMs",
+      "teaser": "Aufgrund einer Schwachstelle in den VMware Tools können Angreifer ihre Rechte in einer VM erhöhen. Ein Update korrigiert das.",
+      "url": "https://www.heise.de/news/VMware-Tools-ermoeglichen-Rechteausweitung-in-VMs-10328819.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
+    },
+    {
+      "title": "AlertSicherheitslückeVMware Tools ermöglichen Rechteausweitung in VMs",
+      "url": "https://www.heise.de/news/VMware-Tools-ermoeglichen-Rechteausweitung-in-VMs-10328819.html",
+      "image_title": "Stilisierte Grafik: Brennendes VMware-Logo auf einem Laptop"
     },
     {
       "title": "UpdateInterview: Warum das BSI vor Fake-Captchas warnt und worauf man achten sollte",
@@ -92,6 +93,17 @@
       "image_title": "Washington Post: Trump bestätigt Cyberangriff gegen Russland 2018"
     },
     {
+      "title": "Rückblick secIT 2025: Patentrezepte gegen Cybercrime und 21 kg Espressobohnen",
+      "teaser": "Die IT-Security-Konferenzmesse secIT lockte abermals tausende Admins und CISOs nach Hannover und war ein voller Erfolg. Im Herbst geht es weiter.",
+      "url": "https://www.heise.de/news/Rueckblick-secIT-2025-Patentrezepte-gegen-Cybercrime-und-21-kg-Espressobohnen-10326431.html"
+    },
+    {
+      "title": "Badbox 2.0: Eine Million infizierte Geräte im Botnet",
+      "teaser": "Im Dezember legte das BSI das Botnet Badbox lahm. Der Nachfolger Badbox 2.0 infiziert eine Million IoT-Geräte.",
+      "url": "https://www.heise.de/news/Badbox-2-0-Eine-Million-infizierte-Geraete-im-Botnet-10327338.html",
+      "image_title": "Android-TV-Stick mit Malware"
+    },
+    {
       "title": "Fakeshops setzen auf Frühlingsanfang-Angebote zum Ködern von Opfern",
       "teaser": "Fakeshops nutzen den Frühlingsanfang, um Opfer mit passenden Produkten zu ködern. Davor warnt die Verbraucherzentrale NRW.",
       "url": "https://www.heise.de/news/Fakeshop-Warnung-Fruehlingsanfang-lockt-Kriminelle-an-10325813.html",
@@ -112,6 +124,11 @@
       "title": "Ransomware-Testballon im offiziellen Marktplatz von Visual Studio Code entdeckt",
       "teaser": "Zwei Extensions, die Dateien verschlüsseln und eine Ransomware-Nachricht ausgeben, befanden sich unentdeckt im offiziellen Marktplatz von Visual Studio Code.",
       "url": "https://www.heise.de/news/Ransomware-Testballon-im-offiziellen-Marktplatz-von-Visual-Studio-Code-entdeckt-10323764.html"
+    },
+    {
+      "title": "AlertAngreifer können Kemp LoadMaster mit präparierten HTTP-Anfragen attackieren",
+      "teaser": "Eine kritische Schwachstelle gefährdet die Sicherheit von Servern mit Kemp LoadMaster.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Kemp-LoadMaster-mit-praeparierten-HTTP-Anfragen-attackieren-10322161.html"
     },
     {
       "title": "AlertSchwerwiegende Sicherheitslücken bedrohen Serverbetriebssystem IBM AIX",
@@ -142,24 +159,6 @@
       "teaser": "Das Open-Source-Tool tjactions/changed-files hat im CI-Prozess mit GitHub Actions nach sensiblen Informationen gesucht und sie im Build-Log gespeichert.",
       "url": "https://www.heise.de/news/Attacke-ueber-GitHub-Action-Tool-spaehte-Secrets-aus-und-legte-sie-in-Logdatei-ab-10320979.html",
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "Googles Schwachstellen-Scanner prüft Container-Layer und Maven-Projekte",
-      "teaser": "Die neue Version von Googles Open-Source-Vulnerabilty-Scanner untersucht Abhängigkeiten in Container-Image-Layern und Maven-Projekten.",
-      "url": "https://www.heise.de/news/Googles-Schwachstellen-Scanner-prueft-Container-Layer-und-Maven-Projekte-10319928.html",
-      "image_title": "Viele schwarze Würfel. In der Mitte ist ein roter Würfel mit einem Käfer darauf."
-    },
-    {
-      "title": "UpdateChaos bei der CISA: US-Cybersicherheitsbehörde holt Gefeuerte per Website zurück",
-      "teaser": "Geschasste Mitarbeiter sollen sich per E-Mail melden - und werden nach Rückkehr sofort freigestellt. Gerüchte über ihr Red Team dementiert die CISA.",
-      "url": "https://www.heise.de/news/Chaos-bei-der-CISA-US-Cybersicherheitsbehoerde-holt-Gefeuerte-per-Website-zurueck-10320140.html",
-      "image_title": "Ein stark defekter Laptop mit Aufklebern, die es zusammenhalten und FBI- und CISA-Logos zeigen"
-    },
-    {
-      "title": "AlertKI und LLM: Kritische Sicherheitslücken gefährden Low-Coding-Plattform Flowise",
-      "teaser": "Angreifer können Flowise-Server kompromittieren, Sicherheitsforscher berichten bereits von Attacken. Ein Update ist verfügbar.",
-      "url": "https://www.heise.de/news/KI-und-LLM-Kritische-Sicherheitsluecken-gefaehrden-Low-Coding-Plattform-Flowise-10319510.html",
-      "image_title": "Stilisiertes Hologramm mit Schloss"
     },
     {
       "title": "Online-Konferenz | 08.04.2025heise devSec() KI und Security",
