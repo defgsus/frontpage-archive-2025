@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-26T04:11:56",
+  "timestamp": "2025-03-26T05:10:15",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -107,8 +113,8 @@
       "title": "Der US-Überblick am Morgen : Waltz hat Chatgruppe erstellt, Trump will strengere Regeln bei Wahlen",
       "teaser": "Der US-Sicherheitsberater übernimmt die Verantwortung für geleakte Angriffspläne. Vizepräsident Vance begleitet seine Frau nach Grönland. Der US-Überblick am Morgen",
       "url": "https://www.zeit.de/politik/ausland/2025-03/usa-ueberblick-donald-trump-mike-waltz-leak-groenland",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-03/usa-ueberblick-mike-waltz/wide__1000x562",
-      "image_title": "Der US-Überblick am Morgen: U.S. National Security Advisor Mike Waltz speaks in front of a scale model of the Iwo Jima Memorial as U.S. President Donald Trump meets with U.S. ambassador nominees at the White House in Washington, D.C., U.S., March 25, 2025. REUTERS/Evelyn Hockstein"
+      "image_url": "https://img.zeit.de/politik/ausland/2025-03/mike-watz-usa-leak/wide__1000x562",
+      "image_title": "Mike Watz USA Leak"
     },
     {
       "title": "Koalitionsverhandlungen : Union und SPD offenbar einig bei Zurückweisungen an der Grenze",
@@ -125,6 +131,20 @@
       "image_title": "Konstituierung des Bundestags: The MPs of Germany's far-right Alternative for Germany (AfD) party are pictured during the constituent session of Germany's new Bundestag (lower house of parliament) on March 25, 2025 in Berlin. Germany's new parliament sits for the first time with a reduced headcount, fewer women and a record number of lawmakers from the far-right Alternative for Germany (AfD). (Photo by John MACDOUGALL / AFP) (Photo by JOHN MACDOUGALL/AFP via Getty Images)"
     },
     {
+      "title": "Nachrichtenpodcast : 25 Jahre Putin, 20 Jahre Krieg",
+      "teaser": "Vor 25 Jahren wurde Wladimir Putin Präsident Russlands. Der Moskau-Korrespondent der ZEIT erinnert sich an ein Interview mit ihm. Und: Was Putins Herrschaft kennzeichnet.",
+      "url": "https://www.zeit.de/politik/2025-03/wladimir-putin-praesidentschaft-russland-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
+      "image_title": "Nachrichtenpodcast: 25 Jahre Putin, 20 Jahre Krieg"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Einkommensvergleich : So viele Menschen verdienen mehr – und weniger als Sie",
+      "teaser": "Unser interaktiver Rechner zeigt, wo Sie mit Ihrem Einkommen im Vergleich zum Rest der Bevölkerung stehen. Und zu welcher Schicht Sie damit wirklich gehören.",
+      "url": "https://www.zeit.de/wirtschaft/2025-03/einkommensvergleich-rechner-deutschland-alter-wohnort-geschlecht",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-03/einkommensvergleich-rechner-deutschland-alter-wohnort/super__430x286",
+      "image_title": "Einkommensvergleich: So viele Menschen verdienen mehr – und weniger als Sie"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Haftstrafe für Karl-Heinz Grasser : Vom Politstar zum Gefängnisinsassen",
       "teaser": "Die Haftstrafe für den österreichischen Ex-Finanzminister Karl-Heinz Grasser ist für ihn persönlich bitter, aber ein gutes Zeichen für das Land.",
       "url": "https://www.zeit.de/politik/ausland/2025-03/oberster-gerichtshof-oesterreich-karl-heinz-grasser-bestechung-haftstrafe",
@@ -139,6 +159,13 @@
       "image_title": "Kindermord bei Bern: Eine Hütte. Ein blutiger Stein. Ein totes Kind. War es die Mutter?"
     },
     {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg : Vorbild Paris: Was Hamburgerinnen über die Parkplatzkürzungen denken",
+      "teaser": "Die Elbvertiefung am Mittwoch – Buchhandlung sucht Händler, Rettungsübung am Hafen, streiken für die Altersteilzeit und eine Liebeserklärung an den Fahrradanhänger",
+      "url": "https://www.zeit.de/hamburg/2025-03/elbvertiefung-26-03-2025",
+      "image_url": "https://img.zeit.de/hamburg/2025-03/autos-in-hamburg/super__430x286",
+      "image_title": "Autos nehmen in der Hamburger City einen großen Raum ein."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Restbestände aus der Pandemie : Spenden wäre zu kompliziert",
       "teaser": "Die Stadt Hamburg lagert aus Coronazeiten noch Millionen Masken ein. Man könnte sie Krankenhäusern geben – doch stattdessen werden sie verbrannt.",
       "url": "https://www.zeit.de/hamburg/2025-03/restbestaende-pandemie-masken-corona-spenden-hamburg",
@@ -146,32 +173,46 @@
       "image_title": "Restbestände aus der Pandemie: Spenden wäre zu kompliziert"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Stephan Samtleben : Hätten Sie Interesse an einer Buchhandlung mit Alsterblick?",
-      "teaser": "Nach 36 Jahren geht Stephan Samtleben in Rente. Jetzt sucht das Literaturhaus Hamburg einen Nachfolger für seinen Buchhändler, der hier von Anbeginn mit dabei war.",
-      "url": "https://www.zeit.de/hamburg/2025-03/stephan-samtleben-literaturhaus-buchhandlung-rente-nachfolge-hamburg",
-      "image_url": "https://img.zeit.de/hamburg/2025-03/samtleben/super__430x286",
-      "image_title": "Stephan Samtleben: Der Buchhändler Stephan Samtleben, fotografiert in seinem Laden im Literaturhaus Hamburg."
+      "title": "Z+ (abopflichtiger Inhalt); Prokrastination • Z+ Empfehlung : Was ADHS und Prokrastination aus mir gemacht haben? Eine Patientin",
+      "teaser": "Prokrastinieren gilt als faul, dabei hat die Wissenschaft längst andere Erkenntnisse. Unsere Autorin erzählt, wie ihr Hang zur Verdrängung sie in die Psychiatrie brachte.",
+      "url": "https://www.zeit.de/2025/11/prokrastination-aufschieben-verdraengung-adhs-depression-psychiatrie",
+      "image_url": "https://img.zeit.de/2025/11/adhs-prokrastination-patientin-bild/super__430x286",
+      "image_title": "Prokrastination • Z+ Empfehlung: Ich schiebe auf, also bin ich - die Autorin Ronja von Rönne"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Elterngeld : So finden Sie heraus, ob Sie bald noch Elterngeld bekommen",
+      "teaser": "Wer als Paar mehr als 175.000 Euro verdient, hat ab April keinen Anspruch mehr auf Elterngeld. Doch es kann sich lohnen, noch mal nachzurechnen – und klug zu planen.",
+      "url": "https://www.zeit.de/geld/2025-03/elterngeld-anspruch-einkommen-paare-familie-faq",
+      "image_url": "https://img.zeit.de/geld/2025-03/elterngeld-anspruch-einkommen-paare/square__500x500",
+      "image_title": "Elterngeld: So finden Sie heraus, ob Sie bald noch Elterngeld bekommen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Meta : Der große Bücherraub",
       "teaser": "Neue Gerichtsdokumente zeigen, wie Meta mutmaßlich in großem Stil illegale Quellen benutzt, um seine Sprachmodelle zu trainieren – mit Erlaubnis von Mark Zuckerberg.",
       "url": "https://www.zeit.de/digital/internet/2025-03/meta-illegale-quellen-sprachmodelle-mark-zuckerberg",
-      "image_url": "https://img.zeit.de/digital/internet/2025-03/mark-zuckerberg-meta/wide__892x501",
+      "image_url": "https://img.zeit.de/digital/internet/2025-03/mark-zuckerberg-meta/super__430x286",
       "image_title": "Meta-CEO Mark Zuckerberg gab sich zuletzt als tougher Geschäftsführer."
     },
     {
-      "title": "Ladenschlussgesetz : Einzelhandel fordert Aufweichung des Sonntagsschutzes",
-      "teaser": "Bisher dürfen Läden nur zu bestimmten Anlässen sonntags öffnen. Der Handelsverband dringt auf mehr Freiheiten für Unternehmen und sagt: Warum nicht mal montags schließen?",
-      "url": "https://www.zeit.de/wirtschaft/2025-03/einzelhandel-oeffnung-sonntage-handelsverband",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-03/einzelhandel-oeffnung-sonntage-handelsverband-bild/super__430x286",
-      "image_title": "Ladenschlussgesetz: Passanten gehen mit Einkaufstaschen durch die Hamburger Innenstadt."
+      "title": "Z+ (abopflichtiger Inhalt); Krisensichere Geldanlage : So tief wäre Ihr MSCI-World-Depot bei früheren Crashs gefallen",
+      "teaser": "Unser interaktiver Rechner zeigt, was vergangene Abstürze für Ihre ETFs bedeutet hätten: Wie hoch wären die Verluste? Und wie lang hätten Sie aushalten müssen?",
+      "url": "https://www.zeit.de/geld/2025-03/krisensichere-geldanlage-crash-depot-finanzmarkt",
+      "image_url": "https://img.zeit.de/geld/2025-03/krisensichere-geldanlage-crash-depot-finanzmarkt-bild/super__430x286",
+      "image_title": "Krisensichere Geldanlage: So tief wäre Ihr MSCI-World-Depot bei früheren Crashs gefallen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Partnerschaft : \"Verängstigt hockten wir im Hotel, während Hubschrauber kreisten\"",
-      "teaser": "Sie kommen bei Olympia in München zusammen, beim Terroranschlag des 5. September 1972. Was für das Paar schrecklich begann, hat glücklich zur Goldenen Hochzeit geführt.",
-      "url": "https://www.zeit.de/zeit-magazin/2025/12/partnerschaft-beziehung-gefuehle-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/12/veraengstigt-hockten-wir-im-hotel-waehrend-hubschrauber-ueber-uns-kreisten-bild-1/wide__892x501",
-      "image_title": "Partnerschaft: \"Verängstigt hockten wir im Hotel, während Hubschrauber kreisten\""
+      "title": "Z+ (abopflichtiger Inhalt); Leapmotor T03 : Ist dieser Kleinwagen das bezahlbare E-Auto für die Masse?",
+      "teaser": "Wirklich günstige Elektroautos sind immer noch Mangelware. Der Leapmotor T03 aus China soll nun die Lücke schließen. Wir haben das Auto getestet.",
+      "url": "https://www.zeit.de/mobilitaet/2025-03/leapmotor-t03-elektroauto-einstiegsmodell-china-reichweite",
+      "image_url": "https://img.zeit.de/mobilitaet/2025-03/leapmotor-t03-elektroauto/super__430x286",
+      "image_title": "Leapmotor T03: Ist dieser Kleinwagen das bezahlbare E-Auto für die Masse?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); George Moose : \"DOGE wollte sich unbemerkt Zutritt zu unserer Zentrale verschaffen\"",
+      "teaser": "Erst ein Kündigungsschreiben, plötzlich stehen DOGE-Mitarbeiter und das FBI vor der Tür: Wie es abläuft, wenn Donald Trump und Elon Musk eine Organisation einstampfen.",
+      "url": "https://www.zeit.de/politik/ausland/2025-03/george-moose-usa-institute-of-peace-doge-polizei-schliessung",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-03/george-moose-usa-institute-of-peace-doge-polizei-schliessung-bild-2/super__430x286",
+      "image_title": "George Moose: Employees of the Department of Government Efficiency (DOGE) arrive at the United States Institute of Peace in Washington on Monday, March 17, 2025."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Daniela Klette vor Gericht : \"Dieser Prozess wird mit politischem Kalkül geführt\"",
@@ -179,20 +220,6 @@
       "url": "https://www.zeit.de/gesellschaft/2025-03/daniela-klette-gericht-prozess-raf-terroristin",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-03/daniela-klette-gericht-prozess-raf-terroristin-bild/super__430x286",
       "image_title": "Daniela Klette vor Gericht: Daniela Klette, accused of being one of the last surviving members of the Red Army Faction group, who was arrested after decades on the run for armed robbery and attempted murder, reacts on the day of her trial at a regional court in Celle, Germany March 25, 2025. REUTERS/Wolfgang Rattay"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Einkommensvergleich : So viele Menschen verdienen mehr – und weniger als Sie",
-      "teaser": "Unser interaktiver Rechner zeigt, wo Sie mit Ihrem Einkommen im Vergleich zum Rest der Bevölkerung stehen. Und zu welcher Schicht Sie damit wirklich gehören.",
-      "url": "https://www.zeit.de/wirtschaft/2025-03/einkommensvergleich-rechner-deutschland-alter-wohnort-geschlecht",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-03/einkommensvergleich-rechner-deutschland-alter-wohnort/super__430x286",
-      "image_title": "Einkommensvergleich: So viele Menschen verdienen mehr – und weniger als Sie"
-    },
-    {
-      "title": "Plan D: Bustalk : \"Wären Sie bereit zu kämpfen?\"",
-      "teaser": "Krieg in der Ukraine, Trump im Weißen Haus: Im Bustalk sprechen wir mit Menschen in Rostock über Aufrüstung, die Wehrpflicht und die neue Angst vor einem Krieg.",
-      "url": "https://www.zeit.de/video/2025-03/aufruestung-wehrpflicht-krieg-pland",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-03/plan-d-bustalk-rostock-wehrpflicht/super__430x286",
-      "image_title": "Plan D: Bustalk: \"Wären Sie bereit zu kämpfen?\""
     },
     {
       "title": "Rückblick auf die Pandemie : Erinnern Sie sich noch an 3G?",
@@ -433,11 +460,11 @@
       "image_title": "Alena Buyx: \"Wie viel darf eine Gesellschaft vom Individuum abverlangen?\""
     },
     {
-      "title": "Europäische Union : Verkehrssündern droht künftig EU-weiter Führerscheinentzug",
-      "teaser": "Besonders schwere Verkehrsverstöße sollen künftig in der gesamten EU geahndet werden. Darauf haben sich das Parlament und die 27 Mitgliedsstaaten verständigt.",
-      "url": "https://www.zeit.de/mobilitaet/2025-03/europaeische-union-verkehr-fuehrerscheinentzug-eu-weit-einigung",
-      "image_url": "https://img.zeit.de/mobilitaet/2025-03/eu-fuehrerscheinentzug/super__430x286",
-      "image_title": "EU Führerscheinentzug"
+      "title": "Plan D: Bustalk : \"Wären Sie bereit zu kämpfen?\"",
+      "teaser": "Krieg in der Ukraine, Trump im Weißen Haus: Im Bustalk sprechen wir mit Menschen in Rostock über Aufrüstung, die Wehrpflicht und die neue Angst vor einem Krieg.",
+      "url": "https://www.zeit.de/video/2025-03/aufruestung-wehrpflicht-krieg-pland",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-03/plan-d-bustalk-rostock-wehrpflicht/super__430x286",
+      "image_title": "Plan D: Bustalk: \"Wären Sie bereit zu kämpfen?\""
     },
     {
       "title": "Ungarn : Tausende Menschen demonstrieren in Budapest gegen Pride-Verbot",
@@ -447,74 +474,18 @@
       "image_title": "Ungarn: People hold hands on the Elizabeth Bridge, as they take part in a demonstration after the Hungarian parliament passed a law that bans LGBTQ+ communities from holding the annual Pride march and allows a broader constraint on freedom of assembly, in Budapest, Hungary, March 25, 2025. REUTERS/Marton Monus TEMPLATE OUT"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tauben in Wien : Hier zählt jede Taube!",
-      "teaser": "Andere Städte wollen ihnen das Genick brechen. In Wien werden die Vögel anders behandelt. Hier werden sie gezählt und gefüttert – und das sogar legal.",
-      "url": "https://www.zeit.de/2025/12/tauben-wien-taubenmanagement-zaehlung-pilotprojekt",
-      "image_url": "https://img.zeit.de/2025/12/hier-zaehlt-jede-taube-bild-2/wide__892x501",
-      "image_title": "Tauben in Wien: In Wien zählt jede Taube. Seit 2021 betreibt die Stadt ein sogenanntes Taubenmanagement. ++++++++++<br /> Tom Huber / Connected Archives"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); John Green : \"Wir wären eigentlich in der Lage, unglaubliches Leid zu beenden\"",
-      "teaser": "John Green wurde mit dem Jugendroman \"Das Schicksal ist ein mieser Verräter\" berühmt. Nun hat er ein Sachbuch über Tuberkulose geschrieben. Leider ein hochaktuelles Thema",
-      "url": "https://www.zeit.de/kultur/literatur/2025-03/john-green-das-schicksal-ist-ein-mieser-verraeter-tuberkulose-autor",
-      "image_url": "https://img.zeit.de/kultur/literatur/2025-03/john-green-2024/super__430x286",
-      "image_title": "John Green 2024"
-    },
-    {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
-      "url": "https://www.zeit.de/gesellschaft/2025-03/missbrauch-psychotherapie-hermann-fahrig-verbrechen-videopodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-03/missbrauch-psychotherapie-hermann-fahrig-verbrechen-videopodcast-foto/wide__892x501",
-      "image_title": "Missbrauch in der Psychotherapie: \"Hermann Fahrig nutzt das eiskalt aus\""
-    },
-    {
-      "title": "Psychotherapeut als Sexualverbrecher : Das kranke System des Doktor F.",
-      "teaser": "Er gilt als exzellenter Psychotherapeut. Doch hinter der Maske des Wohltäters steckt ein Sexualverbrecher.",
-      "url": "https://www.zeit.de/gesellschaft/2025-03/psychotherapeut-sexuelverbrecher-heidelberg-verbrechen-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-03/psychotherapeut-sexuelverbrecher-heidelberg-verbrechen-podcast-bild-3/super__430x286",
-      "image_title": "Psychotherapeut als Sexualverbrecher: Das kranke System des Doktor F."
-    },
-    {
-      "title": "ZEIT Podcast-Tour 2025 : \"ZEIT Verbrechen\" live in Berlin, Düsseldorf, München und Hamburg",
-      "teaser": "Erleben Sie die Kriminalrecherchen der Podcast-Hosts Anne Kunze, Daniel Müller, Sabine Rückert und Andreas Sentker live. Sichern Sie sich jetzt Tickets!",
-      "url": "https://www.zeit.de/gesellschaft/2025-03/livepodcasts-zeit-tour-2025-programm",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-03/livepodcasts-zeit-tour-2025-programm-verbrechen-team/super__430x286",
-      "image_title": "ZEIT Podcast-Tour 2025: \"ZEIT Verbrechen\" live in Berlin, Düsseldorf, München und Hamburg"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krisensichere Geldanlage : So tief wäre Ihr MSCI-World-Depot bei früheren Crashs gefallen",
-      "teaser": "Unser interaktiver Rechner zeigt, was vergangene Abstürze für Ihre ETFs bedeutet hätten: Wie hoch wären die Verluste? Und wie lang hätten Sie aushalten müssen?",
-      "url": "https://www.zeit.de/geld/2025-03/krisensichere-geldanlage-crash-depot-finanzmarkt",
-      "image_url": "https://img.zeit.de/geld/2025-03/krisensichere-geldanlage-crash-depot-finanzmarkt-bild/super__430x286",
-      "image_title": "Krisensichere Geldanlage: So tief wäre Ihr MSCI-World-Depot bei früheren Crashs gefallen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Leapmotor T03 : Ist dieser Kleinwagen das bezahlbare E-Auto für die Masse?",
-      "teaser": "Wirklich günstige Elektroautos sind immer noch Mangelware. Der Leapmotor T03 aus China soll nun die Lücke schließen. Wir haben das Auto getestet.",
-      "url": "https://www.zeit.de/mobilitaet/2025-03/leapmotor-t03-elektroauto-einstiegsmodell-china-reichweite",
-      "image_url": "https://img.zeit.de/mobilitaet/2025-03/leapmotor-t03-elektroauto/super__430x286",
-      "image_title": "Leapmotor T03: Ist dieser Kleinwagen das bezahlbare E-Auto für die Masse?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); George Moose : \"DOGE wollte sich unbemerkt Zutritt zu unserer Zentrale verschaffen\"",
-      "teaser": "Erst ein Kündigungsschreiben, plötzlich stehen DOGE-Mitarbeiter und das FBI vor der Tür: Wie es abläuft, wenn Donald Trump und Elon Musk eine Organisation einstampfen.",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/george-moose-usa-institute-of-peace-doge-polizei-schliessung",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-03/george-moose-usa-institute-of-peace-doge-polizei-schliessung-bild-2/super__430x286",
-      "image_title": "George Moose: Employees of the Department of Government Efficiency (DOGE) arrive at the United States Institute of Peace in Washington on Monday, March 17, 2025."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rohstoffe in Sambia : Das Wettrennen der Weltmächte um Kupfer und Kobalt",
-      "teaser": "Auf Güterzügen sollen bald Millionen Tonnen Rohstoffe aus Sambia gen Küste rollen. Doch wer baut schneller, der Westen oder Osten? China hat einen entscheidenden Vorteil.",
-      "url": "https://www.zeit.de/2025/12/rohstoffe-sambia-eu-usa-china",
-      "image_url": "https://img.zeit.de/2025/12/wessen-bahn-ist-zuerst-beim-kupferschatz-bild-1/wide__892x501",
-      "image_title": "Rohstoffe in Sambia: Auf einer Halde nahe der sambischen Minenstadt Kitwe suchen Schürfer nach Kupferresten"
-    },
-    {
       "title": "Südkorea : Tote und Verletzte bei Waldbränden in Südkorea",
       "teaser": "Bei Feuern im Süden von Südkorea sind mindestens 20 Menschen gestorben. Tausende mussten ihre Häuser verlassen. Auch ein Dorf, das als Weltkulturerbe gilt, ist in Gefahr.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-03/suedkorea-waldbrand-tote-hahoe-andong",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-03/suedkorea-braende-waldbraende-tote/super__430x286",
       "image_title": "Südkorea: Häuser brennen in einem Dorf in Uiseong, Südkorea, nachdem sie von einem durch starke Winde ausgelösten Waldbrand erfasst wurden. Service +++ dpa-Bildfunk +++ Aufnahmedatum 25.03.2025 Bildnachweis picture alliance/dpa/Yonhap via AP | Yoon Gwan-shick"
+    },
+    {
+      "title": "Europäische Union : Verkehrssündern droht künftig EU-weiter Führerscheinentzug",
+      "teaser": "Besonders schwere Verkehrsverstöße sollen künftig in der gesamten EU geahndet werden. Darauf haben sich das Parlament und die 27 Mitgliedsstaaten verständigt.",
+      "url": "https://www.zeit.de/mobilitaet/2025-03/europaeische-union-verkehr-fuehrerscheinentzug-eu-weit-einigung",
+      "image_url": "https://img.zeit.de/mobilitaet/2025-03/eu-fuehrerscheinentzug/super__430x286",
+      "image_title": "EU Führerscheinentzug"
     },
     {
       "title": "Folge 40 : Wie Sie zur Wehrpflicht stehen",
@@ -587,11 +558,18 @@
       "image_title": "Folge 37: Ihre Sicht auf das umstrittene Finanzpaket"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geburtsbericht : \"Meine Kinder waren im Kreißsaal dabei\"",
-      "teaser": "Eine Geburt läuft oft anders als geplant. Aber das muss nicht bedeuten, dass das Erlebnis traumatisch wird. Hier erzählen Mütter von ihren Geburtsüberraschungen.",
-      "url": "https://www.zeit.de/familie/2025-02/geburtsbericht-muetter-kinder-schwangerschaft",
-      "image_url": "https://img.zeit.de/familie/2025-03/geburtsbericht-muetter-kinder/super__430x286",
-      "image_title": "Geburtsbericht: \"Meine Kinder waren im Kreißsaal dabei\""
+      "title": "Ladenschlussgesetz : Einzelhandel fordert Aufweichung des Sonntagsschutzes",
+      "teaser": "Bisher dürfen Läden nur zu bestimmten Anlässen sonntags öffnen. Der Handelsverband dringt auf mehr Freiheiten für Unternehmen und sagt: Warum nicht mal montags schließen?",
+      "url": "https://www.zeit.de/wirtschaft/2025-03/einzelhandel-oeffnung-sonntage-handelsverband",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-03/einzelhandel-oeffnung-sonntage-handelsverband-bild/super__430x286",
+      "image_title": "Ladenschlussgesetz: Passanten gehen mit Einkaufstaschen durch die Hamburger Innenstadt."
+    },
+    {
+      "title": "ZEIT Podcast-Tour 2025 : \"ZEIT Verbrechen\" live in Berlin, Düsseldorf, München und Hamburg",
+      "teaser": "Erleben Sie die Kriminalrecherchen der Podcast-Hosts Anne Kunze, Daniel Müller, Sabine Rückert und Andreas Sentker live. Sichern Sie sich jetzt Tickets!",
+      "url": "https://www.zeit.de/gesellschaft/2025-03/livepodcasts-zeit-tour-2025-programm",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-03/livepodcasts-zeit-tour-2025-programm-verbrechen-team/super__430x286",
+      "image_title": "ZEIT Podcast-Tour 2025: \"ZEIT Verbrechen\" live in Berlin, Düsseldorf, München und Hamburg"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einkommensvergleich : So viele Menschen verdienen mehr – und weniger als Sie",
@@ -618,14 +596,14 @@
       "image_title": "Konstituierende Bundestagssitzung: Newly elected Bundestag President Julia Kloeckner holds a speech during the inaugural session opening the 21st legislation of the German Parliament (Bundestag) in Berlin, Germany, on March 25, 2025. (Photo by Emmanuele Contini/NurPhoto via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Regierung : Eines der weitreichendsten Leaks der jüngeren US-Geschichte",
-      "teaser": "Minister diskutieren in einer Chatgruppe über Kriegspläne – und merken nicht, dass ein Journalist mitliest. Wie konnte das passieren? Die Folgen sind gravierend.",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/usa-geheimchat-angriffsplaene-journalist-donald-trump"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Einkommensvergleich : So viele Menschen verdienen mehr – und weniger als Sie",
       "teaser": "Unser interaktiver Rechner zeigt, wo Sie mit Ihrem Einkommen im Vergleich zum Rest der Bevölkerung stehen. Und zu welcher Schicht Sie damit wirklich gehören.",
       "url": "https://www.zeit.de/wirtschaft/2025-03/einkommensvergleich-rechner-deutschland-alter-wohnort-geschlecht"
+    },
+    {
+      "title": "Bundestag : Alterspräsident Gysi eröffnet Bundestagssitzung mit politischer Rede",
+      "teaser": "Gregor Gysi hat zur Eröffnung des 21. Bundestags über viele Themen gesprochen. Der Alterspräsident forderte vor allem eine bessere Debattenkultur.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-03/bundestag-gregor-gysi-alterspraesident-rede"
     },
     {
       "title": "Liveblog: Konstituierende Bundestagssitzung : So lief die erste Sitzung des 21. Bundestags",
@@ -640,16 +618,16 @@
       "url": "https://www.zeit.de/wirtschaft/2025-03/klimaschutz-aufruestung-russland-gas-nord-stream-2-demokratie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); US-Regierung : Eines der weitreichendsten Leaks der jüngeren US-Geschichte",
-      "teaser": "Minister diskutieren in einer Chatgruppe über Kriegspläne – und merken nicht, dass ein Journalist mitliest. Wie konnte das passieren? Die Folgen sind gravierend.",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/usa-geheimchat-angriffsplaene-journalist-donald-trump"
+      "title": "\"No other land\" : Israelische Siedler attackieren palästinensischen Oscar-Gewinner",
+      "teaser": "Im besetzten Westjordanland haben israelische Siedler den palästinensischen Filmemacher Hamdan Ballal verletzt. Das israelische Militär nahm ihn anschließend fest.",
+      "url": "https://www.zeit.de/politik/ausland/2025-03/hamdan-ballal-verletzt-verhaftet-westjordanland"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Masterplan – Das Potsdamer Treffen und seine Folgen\" : Was ist der wahre Skandal?",
-      "teaser": "Bürgerliche, Rechtsradikale, Journalisten: Ein sehenswerter ARD-Film arbeitet heraus, was am berüchtigten Treffen von Potsdam wirklich empörend ist. Und was nicht.",
-      "url": "https://www.zeit.de/kultur/film/2025-03/masterplan-ard-dokumentation-potsdamer-treffen-correctiv",
-      "image_url": "https://img.zeit.de/kultur/2025-03/masterplan-doku-ard-volker-heise-potsdamer-treffen-correctiv/wide__892x501",
-      "image_title": "masterplan-doku-ard-volker-heise-potsdamer-treffen-correctiv"
+      "title": "Z+ (abopflichtiger Inhalt); Partnerschaft : \"Verängstigt hockten wir im Hotel, während Hubschrauber kreisten\"",
+      "teaser": "Sie kommen bei Olympia in München zusammen, beim Terroranschlag des 5. September 1972. Was für das Paar schrecklich begann, hat glücklich zur Goldenen Hochzeit geführt.",
+      "url": "https://www.zeit.de/zeit-magazin/2025/12/partnerschaft-beziehung-gefuehle-liebeskolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/12/veraengstigt-hockten-wir-im-hotel-waehrend-hubschrauber-ueber-uns-kreisten-bild-1/wide__892x501",
+      "image_title": "Partnerschaft: \"Verängstigt hockten wir im Hotel, während Hubschrauber kreisten\""
     },
     {
       "title": "Verlagsangebot : 7 unentdeckte Orte in Italien",
@@ -659,11 +637,11 @@
       "image_title": "Freunde der ZEIT: 7 unentdeckte Orte in Italien"
     },
     {
-      "title": "US-Regierung : Mike Waltz übernimmt Verantwortung für Leak von Angriffsplänen",
-      "teaser": "Der Nationale Sicherheitsberater gibt zu, die Chatgruppe zum US-Angriff im Jemen erstellt zu haben. Wie ein Journalist in den Chat geraten konnte, kann er nicht erklären.",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/mike-waltz-donald-trump-leak-militaer-signal-verantwortung",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-03/mike-waltz-usa-huthi-signal/wide__892x501",
-      "image_title": "US-Regierung: Beschreibung Der nationale Sicherheitsberater des Weißen Hauses, Mike Waltz, spricht auf der Conservative Political Action Conference, CPAC, im Gaylord National Resort & Convention Center. (zu dpa: «USA: Ukraine muss territoriale Zugeständnisse machen») Service +++ dpa-Bildfunk +++ Aufnahmedatum 21.02.2025 Bildnachweis picture alliance/dpa/AP | Jose Luis Magana"
+      "title": "Dänisches Territorium : J. D. Vance will seine Frau auf Grönlandreise begleiten",
+      "teaser": "Wie auch seine Frau plant der US-Vizepräsident für Ende der Woche eine Reise nach Grönland. Donald Trump will das autonome dänische Territorium übernehmen.",
+      "url": "https://www.zeit.de/politik/2025-03/us-vizepraesident-vance-groenland",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-03/jd-vance/wide__892x501",
+      "image_title": "Dänisches Territorium: US-Vizepräsident JD Vance"
     },
     {
       "title": "Verlagsangebot : Motivation – So holen Sie das Beste aus sich heraus",
@@ -673,11 +651,11 @@
       "image_title": "Motivation – So holen Sie das Beste aus sich heraus"
     },
     {
-      "title": "Entscheidungen der US-Regierung : Die wichtigsten Entscheidungen Donald Trumps im Überblick",
-      "teaser": "Der US-Präsident kündigt Zölle gegen Handelspartner Venezuelas an. Seine Vorgänger verlieren Zugang zu Geheimdienstinformationen. Unsere Chronik der Entscheidungen Trumps",
-      "url": "https://www.zeit.de/politik/ausland/2025-02/regierung-donald-trump-entscheidungen-dekrete-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-02/regierung-donald-trump-entscheidungen-dekrete/super__430x286",
-      "image_title": "Entscheidungen der US-Regierung: Die wichtigsten Entscheidungen Donald Trumps im Überblick"
+      "title": "US-Regierung : Mike Waltz übernimmt Verantwortung für Leak von Angriffsplänen",
+      "teaser": "Der Nationale Sicherheitsberater gibt zu, die Chatgruppe zum US-Angriff im Jemen erstellt zu haben. Wie ein Journalist in den Chat geraten konnte, kann er nicht erklären.",
+      "url": "https://www.zeit.de/politik/ausland/2025-03/mike-waltz-donald-trump-leak-militaer-signal-verantwortung",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-03/mike-waltz-usa-huthi-signal/super__430x286",
+      "image_title": "US-Regierung: Beschreibung Der nationale Sicherheitsberater des Weißen Hauses, Mike Waltz, spricht auf der Conservative Political Action Conference, CPAC, im Gaylord National Resort & Convention Center. (zu dpa: «USA: Ukraine muss territoriale Zugeständnisse machen») Service +++ dpa-Bildfunk +++ Aufnahmedatum 21.02.2025 Bildnachweis picture alliance/dpa/AP | Jose Luis Magana"
     },
     {
       "title": "Klimaschutz und Aufrüstung : Noch mehr Gas aus Russland braucht hier niemand",
@@ -729,10 +707,17 @@
       "image_title": "ADHS im Beruf: \"Meine Selbstzweifel sind eine Konstante in meinem Leben\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Geburtsbericht : \"Meine Kinder waren im Kreißsaal dabei\"",
+      "teaser": "Eine Geburt läuft oft anders als geplant. Aber das muss nicht bedeuten, dass das Erlebnis traumatisch wird. Hier erzählen Mütter von ihren Geburtsüberraschungen.",
+      "url": "https://www.zeit.de/familie/2025-02/geburtsbericht-muetter-kinder-schwangerschaft",
+      "image_url": "https://img.zeit.de/familie/2025-03/geburtsbericht-muetter-kinder/wide__892x501",
+      "image_title": "Geburtsbericht: \"Meine Kinder waren im Kreißsaal dabei\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Friedrich-Bergius-Schule • Z+ Empfehlung : \"Niemand will auf der schlimmsten Schule Deutschlands sein\"",
       "teaser": "Gewalt, Chaos, Angst: Die Bergius-Schule in Berlin wurde zum Synonym für alles, was schiefläuft. Nun soll ein junger Rektor sie retten. Eskalation ist für ihn Alltag.",
       "url": "https://www.zeit.de/familie/2025-03/friedrich-bergius-schule-engin-catik-schueler-bildung",
-      "image_url": "https://img.zeit.de/familie/2025-03/friedrich-bergius-schule-engin-catik-schueler-bildung-bild-2/wide__892x501",
+      "image_url": "https://img.zeit.de/familie/2025-03/friedrich-bergius-schule-engin-catik-schueler-bildung-bild-2/super__430x286",
       "image_title": "Friedrich-Bergius-Schule • Z+ Empfehlung: Engin Çatik hat im Januar 2025 die Friedrich Bergius Schule, eine intergrierte Gesamtschule in Berlin-Friedenau, als neuer Schulleiter übernommen, nachdem das Lehrerkollegium der Schule im November einen Brandbrief an die Schulaufsicht geschrieben hatte. Berlin, am 21.03.2025."
     },
     {
@@ -743,11 +728,11 @@
       "image_title": "Eltern-Kind-Verhältnis • Z+ Empfehlung: Und plötzlich sehen die Eltern alt aus"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Neutralitätsgebot von Lehrern : Was darf ein Lehrer sagen?",
-      "teaser": "Georg Grimm will nicht, dass seine Schüler Nazis werden – und warb für eine Demonstration gegen rechts. Seitdem attackiert ihn die AfD.",
-      "url": "https://www.zeit.de/2025/12/neutralitaetsgebot-lehrer-schule-afd-rechtsextremismus",
-      "image_url": "https://img.zeit.de/2025/12/was-darf-ein-lehrer-sagen-bild-1/super__430x286",
-      "image_title": "Neutralitätsgebot von Lehrern: Georg Grimm, das Schloss Neuschwanstein und das Gymnasium Hohenschwangau passten bisher sehr gut zusammen. Jetzt ist die Idylle gestört."
+      "title": "Tod durch Corona : \"Ich habe nach meinem Mann geschrien, bis ich keine Stimme mehr hatte\"",
+      "teaser": "Im April 2020 kämpfte Anita Schedels Mann ganz allein in der Klinik um sein Leben. Wegen der Pandemie durfte sie nicht zu ihm. Wie sie als Witwe trotz allem Frieden fand.",
+      "url": "https://www.zeit.de/wissen/2025-03/tod-corona-trauer-oper-pandemie-war-da-was",
+      "image_url": "https://img.zeit.de/wissen/2025-03/tod-corona-trauer-oper-pandemie-war-da/super__320x213",
+      "image_title": "Tod durch Corona: \"Ich habe nach meinem Mann geschrien, bis ich keine Stimme mehr hatte\""
     },
     {
       "title": "Jan van Aken : \"Die schustern den Milliardären das Geld zu\"",
@@ -785,13 +770,6 @@
       "image_title": "survival-of-the-richest-usa-milliardaere"
     },
     {
-      "title": "Botswana : Wie die USA in Botswana Träume platzen lassen",
-      "teaser": "Botswana war auf dem Weg, die Aids-Epidemie in den Griff zu bekommen – bis Trump die Gelder stoppte. Die Folgen sind schon jetzt spürbar, vor allem für junge Frauen.",
-      "url": "https://www.zeit.de/politik/ausland/2025-03/botswana-hiv-aids-usaid-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2025-03/was-jetzt-podcast-special-botswana/super__320x213",
-      "image_title": "Botswana: Wie die USA in Botswana Träume platzen lassen"
-    },
-    {
       "title": "Tesla-Aktienkurs : Das Prinzip Hoffnung treibt Tesla-Erholung",
       "teaser": "Absatzeinbruch, Verlust an Marktanteilen, schlechte Presse: Trotzdem legt der Kurs des US-Elektropioniers Tesla wieder zu. Was ist passiert?",
       "url": "https://www.wiwo.de/finanzen/boerse/tesla-aktienkurs-das-prinzip-hoffnung-treibt-tesla-erholung/100116270.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
@@ -820,18 +798,18 @@
       "image_title": "Straßenverkehr in Paris: 500 autofreie Zonen"
     },
     {
+      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
+      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "url": "https://www.zeit.de/gesellschaft/2025-03/missbrauch-psychotherapie-hermann-fahrig-verbrechen-videopodcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-03/missbrauch-psychotherapie-hermann-fahrig-verbrechen-videopodcast-foto/wide__892x501",
+      "image_title": "Missbrauch in der Psychotherapie: \"Hermann Fahrig nutzt das eiskalt aus\""
+    },
+    {
       "title": "Ehemaliges RAF-Mitglied : Prozess gegen Klette beginnt unter hohen Sicherheitsauflagen",
       "teaser": "Die ehemalige RAF-Terroristin Daniela Klette muss sich wegen 13 Raubüberfällen und versuchten Mordes verantworten. Für den Prozess gelten hohe Sicherheitsauflagen.",
       "url": "https://www.zeit.de/gesellschaft/2025-03/daniela-klette-raf-prozess-celle-beginn-raubueberfaelle",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-03/daniela-klette-raf-prozess-celle-beginn-gericht/wide__892x501",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-03/daniela-klette-raf-prozess-celle-beginn-gericht/super__430x286",
       "image_title": "Ehemaliges RAF-Mitglied: Daniela Klette sitzt im Oberlandesgericht Celle im Gerichtssaal. Die Ermittler werfen Klette versuchten Mord, unerlaubten Waffenbesitz sowie versuchten und vollendeten schweren Raub vor. Es geht um Raubüberfälle auf Geldtransporter und Supermärkte in Niedersachsen, Nordrhein-Westfalen und Schleswig-Holstein."
-    },
-    {
-      "title": "Reichsbürger : Vier weitere Mitglieder aus Reichsbürgernetzwerk angeklagt",
-      "teaser": "Eine Gruppe von Reichsbürgern um Prinz Reuß soll den gewaltsamen Umsturz der Bundesrepublik geplant haben. Jetzt müssen vier weitere mutmaßliche Mitglieder vor Gericht.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-03/reichsbuerger-prinz-reuss-weitere-anklagen-stuttgart",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-03/vier-mitglieder-prinz-reuss-gruppe-angeklagt-bild/super__430x286",
-      "image_title": "Reichsbürger: Ein Polizist ist in Althengstett im Einsatz. Mit einer Razzia geht die Bundesanwaltschaft gegen mögliche Unterstützer der mutmaßlichen Terrorgruppe um den «Reichsbürger»-Ideologen Heinrich XIII. Prinz Reuß vor. Ein Großaufgebot der Polizei durchsucht seit dem frühen Dienstagmorgen sieben Objekte und drei Grundstücke in Baden-Württemberg, Sachsen und Schleswig-Holstein, wie eine Sprecherin der Bundesanwaltschaft mitteilte. 04/06/2024"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -855,25 +833,25 @@
       "image_title": "waehler-deutschland-bundestagswahl-2025-plan-d-live-Mine Nang Wohnzimmerblog"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); John Green : \"Wir wären eigentlich in der Lage, unglaubliches Leid zu beenden\"",
+      "teaser": "John Green wurde mit dem Jugendroman \"Das Schicksal ist ein mieser Verräter\" berühmt. Nun hat er ein Sachbuch über Tuberkulose geschrieben. Leider ein hochaktuelles Thema",
+      "url": "https://www.zeit.de/kultur/literatur/2025-03/john-green-das-schicksal-ist-ein-mieser-verraeter-tuberkulose-autor",
+      "image_url": "https://img.zeit.de/kultur/literatur/2025-03/john-green-2024/wide__892x501",
+      "image_title": "John Green 2024"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Masterplan – Das Potsdamer Treffen und seine Folgen\" : Was ist der wahre Skandal?",
+      "teaser": "Bürgerliche, Rechtsradikale, Journalisten: Ein sehenswerter ARD-Film arbeitet heraus, was am berüchtigten Treffen von Potsdam wirklich empörend ist. Und was nicht.",
+      "url": "https://www.zeit.de/kultur/film/2025-03/masterplan-ard-dokumentation-potsdamer-treffen-correctiv",
+      "image_url": "https://img.zeit.de/kultur/2025-03/masterplan-doku-ard-volker-heise-potsdamer-treffen-correctiv/super__430x286",
+      "image_title": "masterplan-doku-ard-volker-heise-potsdamer-treffen-correctiv"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Block Party – Peter Fox feiert mit Berlin\" : Berlin, Stadt der Liebe",
       "teaser": "Beats im Columbiabad und Görli: Eine ARD-Doku zeigt, wie der Sänger Peter Fox versucht, Gratiskonzerte an Berliner Orten mit schlechtem Ruf zu organisieren.",
       "url": "https://www.zeit.de/kultur/film/2025-03/block-party-peter-fox-feiert-mit-berlin-dokumentation-ard-konzert",
-      "image_url": "https://img.zeit.de/kultur/film/2025-03/berlin-stadt-der-liebe-bild-1-2/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/film/2025-03/berlin-stadt-der-liebe-bild-1-2/super__430x286",
       "image_title": "\"Block Party – Peter Fox feiert mit Berlin\": Peter Fox auf der Bühne seiner Block Party im Görlitzer Park in Kreuzberg."
-    },
-    {
-      "title": "Zeitschriften : Bangen in den Wartezimmern",
-      "teaser": "RTL verkauft \"Brigitte\", \"Gala\" und \"Eltern\". Die neue Eigentümerin sollte die Magazine fortführen. Wer informiert sonst über Königin Silvia? Und: Wo ist die Maus?",
-      "url": "https://www.zeit.de/kultur/2025-03/zeitschriften-verkauf-rtl-funke-brigitte-gala",
-      "image_url": "https://img.zeit.de/kultur/2025-03/gala-brigitte-kommentar/super__430x286",
-      "image_title": "Gala Brigitte Kommentar"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Emmanuel Carrère : Ein gefährlicher Trip",
-      "teaser": "Emmanuel Carrère vertieft sich in das Leben von \"Blade Runner\"-Erfinder Philip K. Dick. Dort findet er Drogengeschichten, den heiligen Paulus und viele Epiphanien.",
-      "url": "https://www.zeit.de/2025/12/emmanuel-carrere-philip-k-dick-buch",
-      "image_url": "https://img.zeit.de/2025/12/ein-gefaehrlicher-trip-bild-1/super__430x286",
-      "image_title": "Emmanuel Carrère: Der Schriftsteller Emmanuel Carrère wurde 1957 geboren – ebenfalls in Paris"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gletscher : Wie der Süßwasservorrat der Welt langsam verloren geht",
@@ -1141,11 +1119,11 @@
       "image_title": "therapie-leon-windscheid"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Columbia University : \"Ich zensiere mich mittlerweile selbst\"",
@@ -1169,50 +1147,50 @@
       "image_title": "Australien: 25/03/2025 Demonstranten, die gegen ein Stadion im Victoria Park protestieren, sind während der Bekanntgabe des Plans für die Olympischen Spiele und Paralympics 2032 in Brisbane zu sehen. Trotz anders lautender Aussagen soll im Victoria Park in Brisbane ein neues Stadion mit 63.000 Sitzplätzen gebaut werden. +++ dpa-Bildfunk +++"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Stephan Samtleben : Hätten Sie Interesse an einer Buchhandlung mit Alsterblick?",
+      "teaser": "Nach 36 Jahren geht Stephan Samtleben in Rente. Jetzt sucht das Literaturhaus Hamburg einen Nachfolger für seinen Buchhändler, der hier von Anbeginn mit dabei war.",
+      "url": "https://www.zeit.de/hamburg/2025-03/stephan-samtleben-literaturhaus-buchhandlung-rente-nachfolge-hamburg",
+      "image_url": "https://img.zeit.de/hamburg/2025-03/samtleben/wide__892x501",
+      "image_title": "Stephan Samtleben: Der Buchhändler Stephan Samtleben, fotografiert in seinem Laden im Literaturhaus Hamburg."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Forschungsstelle für koloniales Erbe : Ein undankbarer Job",
       "teaser": "Hamburg wollte sein koloniales Erbe vorbildlich aufarbeiten. Jetzt aber wird die zuständige Forschungsstelle geschlossen. Die AfD verbucht das als ihren Sieg.",
       "url": "https://www.zeit.de/2025/08/forschungsstelle-koloniales-erbe-postkolonialismus-wissenschaft-afd",
-      "image_url": "https://img.zeit.de/2025/08/ein-undankbarer-job-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2025/08/ein-undankbarer-job-bild-1/super__430x286",
       "image_title": "Forschungsstelle für koloniales Erbe: Die Früchte der Kolonialzeit: Bananenstauden im Hafen"
     },
     {
-      "title": "Hamburg-Podcast \"Elbvertiefung\" : Auf den Spuren von Hamburgs Meisterdieb",
-      "teaser": "Er brach lautlos ein, knackte unzählige Tresore und flüchtete mit der Beute über die Dächer der Stadt. Das spektakuläre Leben von Julius Adolf Petersen",
-      "url": "https://www.zeit.de/hamburg/2025-03/julius-adolf-petersen-dieb-hamburg-podcast-elbvertiefung",
-      "image_url": "https://img.zeit.de/hamburg/2025-03/spuren-hamburg-meisterdieb-bild/super__430x286",
-      "image_title": "Julius Adolf Petersen, alias Lord von Barmbeck, Kneipenwirt und Berufsverbrecher in Hamburg"
+      "title": "Nahost-Reise: Faeser reist mit österreichischem Innenminister nach Amman",
+      "url": "https://www.zeit.de/news/2025-03/26/faeser-reist-mit-oesterreichischem-innenminister-nach-amman"
     },
     {
-      "title": "Online-Händler: Amazon: 15 Millionen gefälschte Produkte ausgehoben",
-      "url": "https://www.zeit.de/news/2025-03/26/amazon-15-millionen-gefaelschte-produkte-ausgehoben"
+      "title": "Geld: Initiative will digitales Bezahlen voranbringen",
+      "url": "https://www.zeit.de/news/2025-03/26/initiative-will-digitales-bezahlen-voranbringen"
     },
     {
-      "title": "Bundesverfassungsgericht: Könnte Karlsruhe den Soli kippen?",
-      "url": "https://www.zeit.de/news/2025-03/26/koennte-karlsruhe-den-soli-kippen"
+      "title": "Veränderungen nach der Wahl: Umfrage: AfD rückt näher an Union heran",
+      "url": "https://www.zeit.de/news/2025-03/26/umfrage-afd-rueckt-naeher-an-union-heran"
     },
     {
-      "title": "Störche in Brandenburg: Nach Dürrejahren: Wieder mehr Jungstörche in Brandenburg",
-      "url": "https://www.zeit.de/news/2025-03/26/nach-duerrejahren-wieder-mehr-jungstoerche-in-brandenburg"
+      "title": "Grüne Megaprojekte: Grüne Zukunft oder nicht? Was von Visionen wirklich bleibt",
+      "url": "https://www.zeit.de/news/2025-03/26/gruene-zukunft-oder-nicht-was-von-visionen-wirklich-bleibt"
     },
     {
-      "title": "Psychologie: Studie: Was passiert, wenn Beziehungen zerbrechen?",
-      "url": "https://www.zeit.de/news/2025-03/26/studie-was-passiert-wenn-beziehungen-zerbrechen"
+      "title": "Türkei: Machtprobe zwischen türkischer Regierung und Demonstranten",
+      "url": "https://www.zeit.de/news/2025-03/26/evp-chef-sieht-basis-fuer-partnerschaft-mit-tuerkei-in-gefahr"
     },
     {
-      "title": "Jahr der Quantenwissenschaft: Ausstellung zeigt Geschichte der Quantenmechanik",
-      "url": "https://www.zeit.de/news/2025-03/26/ausstellung-zeigt-geschichte-der-quantenmechanik"
+      "title": "Schutzzentrum für Primaten: Orang-Utans im Bus: Waldschule auf Borneo zieht um",
+      "url": "https://www.zeit.de/news/2025-03/26/orang-utans-im-bus-waldschule-auf-borneo-zieht-um"
     },
     {
-      "title": "Klinik für Pferde: Auch Pferde müssen zum CT - neues Gerät in Leipzig",
-      "url": "https://www.zeit.de/news/2025-03/26/auch-pferde-muessen-zum-ct-neues-geraet-in-leipzig"
+      "title": "Öffentlichkeitsfahndung: TV-Beitrag: Ist der Tochter-Mörder zurück in Deutschland?",
+      "url": "https://www.zeit.de/news/2025-03/26/tv-beitrag-ist-der-tochter-moerder-zurueck-in-deutschland"
     },
     {
-      "title": "Nur noch wenige Tage: Bonn wird wieder zum Kirschblüten-Meer",
-      "url": "https://www.zeit.de/news/2025-03/26/bonn-wird-wieder-zum-kirschblueten-meer"
-    },
-    {
-      "title": "Kriminalität: Maddie-Verdächtiger Christian B. will früher aus der Haft",
-      "url": "https://www.zeit.de/news/2025-03/26/maddie-verdaechtiger-christian-b-will-frueher-aus-der-haft"
+      "title": "Etat: Fraktionen wollen Hunderte Korrekturen im Haushalt 2025",
+      "url": "https://www.zeit.de/news/2025-03/26/fraktionen-wollen-hunderte-korrekturen-im-haushalt-2025"
     }
   ]
 }
