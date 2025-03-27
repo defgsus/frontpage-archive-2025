@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-27T21:08:51",
+  "timestamp": "2025-03-27T22:08:46",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "BGH: Meta Platforms verstößt mit App-Center für Gratisspiele gegen die DSGVO",
+      "url": "https://www.heise.de/news/BGH-Meta-Platforms-verstoesst-mit-App-Center-fuer-Gratisspiele-gegen-die-DSGVO-10331760.html"
+    },
     {
       "title": "Windows Update: Vorschauversion korrigiert nervige Fehler",
       "url": "https://www.heise.de/news/Windows-Update-Vorschauversion-korrigiert-nervige-Fehler-10329374.html"
@@ -60,10 +64,6 @@
     {
       "title": "Linux auf exotischer Hardware: Fedora Asahi Remix statt macOS",
       "url": "https://www.heise.de/ratgeber/Linux-auf-exotischer-Hardware-Fedora-Asahi-Remix-statt-macOS-10313162.html"
-    },
-    {
-      "title": "1400 Instanzen ohne Lizenz? VMware reicht Klage gegen Siemens ein",
-      "url": "https://www.heise.de/news/1400-Instanzen-ohne-Lizenz-VMware-reicht-Klage-gegen-Siemens-ein-10329478.html"
     },
     {
       "title": "Alte GPUs im RTX-4090-GewandGefälschte Nvidia-Grafikkarten in China aufgetaucht",
@@ -185,21 +185,27 @@
       "url": "https://www.heise.de/news/Was-KI-wirklich-kann-10329829.html"
     },
     {
+      "title": "BGH: Meta Platforms verstößt mit App-Center für Gratisspiele gegen die DSGVO",
+      "teaser": "Verbraucherverbände können bei Datenschutzverletzungen stellvertretend für Konsumenten klagen. Das bekommt die Meta-Tochter Facebook zu spüren.",
+      "url": "https://www.heise.de/news/BGH-Meta-Platforms-verstoesst-mit-App-Center-fuer-Gratisspiele-gegen-die-DSGVO-10331760.html",
+      "image_title": "Schilder \"Bundesgerichtshof\" an Gebäudewand"
+    },
+    {
       "title": "UpdateWindows Update: Vorschauversion korrigiert nervige Fehler",
       "teaser": "Die Update-Vorschau für Windows 11 steht bereit – für 22H2, 23H2 und 24H2. Sie korrigiert im Wesentlichen einige nervende Fehler.",
       "url": "https://www.heise.de/news/Windows-Update-Vorschauversion-korrigiert-nervige-Fehler-10329374.html",
       "image_title": "Stilisiertes Bild: Windows/Software-Update auf Laptop"
     },
     {
+      "title": "So arbeiten moderne Hacker-Fabriken",
+      "teaser": "Hacker-Gruppen im digitalen Untergrund arbeiten oft schon in industriellem Maßstab. Sie adaptieren neue Technologien, sodass es ständig zu neuen Angriffswellen kommt. Doch die Security-Firmen ergreifen Gegenmaßnahmen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6946150026&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Lothar Wieler: \"20 Jahre für elektronische Patientenakte ein trauriger Witz\"",
       "teaser": "Wie Digitalisierung die Gesundheitsversorgung verbessern könnte und welche Rolle das Hasso-Plattner-Institut dabei haben soll, erklärt Lothar Wieler im Gespräch",
       "url": "https://www.heise.de/hintergrund/Public-Health-Wie-Wieler-die-Moeglichkeiten-der-Digitalisierung-nutzen-will-10330577.html",
       "image_title": "Tablet in den Händen einer Person, im Hintergrund Projektionen von DNA-Strängen"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "EuGH: Neue Hoffnung für Whatsapp im Streit um DSGVO-Rekordstrafe",
@@ -229,12 +235,6 @@
       "teaser": "Ab dem 29. April können Medienschaffende aus Deutschland und acht weiteren Ländern über Spotify mit eingespielter Werbung Geld verdienen.",
       "url": "https://www.heise.de/news/Spotify-bringt-neues-Partnerprogramm-nach-Deutschland-10331523.html",
       "image_title": "Spotifylogo auf schwarzem Handydisplay"
-    },
-    {
-      "title": "Vision-Pro-Führungswechsel, visionOS 2.4, Mixed-Reality-Projekte | TNBT-Podcast",
-      "teaser": "Themen: Die Vision Pro verliert den Chef an Siri, die Neuerungen von visionOS 2.4 und was Werkstudenten mit dem Headset anstellen.",
-      "url": "https://www.heise.de/news/Vision-Pro-Fuehrungswechsel-visionOS-2-4-Mixed-Reality-Projekte-TNBT-Podcast-10331535.html",
-      "image_title": "Vision-Pro-Führungswechsel, visionOS 2.4, Mixed-Reality-Projekte TNBT-Podcast"
     },
     {
       "title": "Einsteiger-MacBookDas neue MacBook Air M4 im Test",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Vision-Pro-Führungswechsel, visionOS 2.4, Mixed-Reality-Projekte | TNBT-Podcast",
+      "teaser": "Themen: Die Vision Pro verliert den Chef an Siri, die Neuerungen von visionOS 2.4 und was Werkstudenten mit dem Headset anstellen.",
+      "url": "https://www.heise.de/news/Vision-Pro-Fuehrungswechsel-visionOS-2-4-Mixed-Reality-Projekte-TNBT-Podcast-10331535.html",
+      "image_title": "Vision-Pro-Führungswechsel, visionOS 2.4, Mixed-Reality-Projekte TNBT-Podcast"
     },
     {
       "title": "Linux auf exotischer Hardware: Fedora Asahi Remix statt macOS",
@@ -371,14 +377,14 @@
       "image_title": "Wafer bei TSMC"
     },
     {
+      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
+      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
+    },
+    {
       "title": "Knochenschall-Headset mit Bluetooth-Dongle: Shokz OpenMeet UC im Test",
       "teaser": "An Online-Meetings teilnehmen und trotzdem etwas von der Umwelt mitkriegen: Das Shokz OpenMeet ist ein Knochenschall-Headset mit gutem Mikro und UC-Integration.",
       "url": "https://www.heise.de/tests/Knochenschall-Headset-mit-Bluetooth-Dongle-Shokz-OpenMeet-UC-im-Test-10306657.html"
-    },
-    {
-      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
-      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
     },
     {
       "title": "Nach iPhone-Hüllen: Demnächst eigene Kabel von Apple-Tochter Beats",
@@ -428,12 +434,6 @@
       "teaser": "Mit dem 16e hat Apple den iPhone-Einstieg von unter 500 auf knapp 700 Euro verteuert. War das ein grober Fehler?",
       "url": "https://www.heise.de/meinung/Pro-Contra-Brauchen-wir-wieder-ein-guenstiges-iPhone-10324108.html",
       "image_title": "Pro & Contra: Brauchen wir wieder ein günstiges iPhone?"
-    },
-    {
-      "title": "Nach Bann gegen Apple: iPhone 16 kommt endlich nach Indonesien",
-      "teaser": "Nach Monaten der Verhandlungen ist es Apple gelungen, die Blockadehaltung Jakartas gegen das neue iPhone zu durchdringen. Das wird für den Konzern nicht billig.",
-      "url": "https://www.heise.de/news/Nach-Bann-gegen-Apple-iPhone-16-kommt-endlich-nach-Indonesien-10329558.html",
-      "image_title": "Indonesische Hauptstadt Jakarta"
     },
     {
       "title": "Have I Been Pwned: Projektbetreiber Troy Hunt gepwned",
@@ -605,15 +605,9 @@
       "url": "https://www.heise.de/en/news/Business-figures-discrepancy-Tesla-is-probably-missing-1-4-billion-US-dollars-10322721.html"
     },
     {
-      "title": "Qudits statt QubitsNeuartiger Quantencomputer simuliert Elementarteilchen",
-      "teaser": "Mit fünf statt zwei Zuständen könnten Qudits die Leistungsfähigkeit von Quantencomputern verbessern.",
-      "url": "https://www.heise.de/news/Qudits-statt-Qubits-Neuartiger-Quantencomputer-simuliert-Elementarteilchen-10331202.html",
-      "image_title": "Simulation der Entstehung von Teilchen-Antiteilchen-Paaren in zwei Raumdimensionen"
-    },
-    {
-      "title": "PraxischeckWie KI meine nervigsten Aufgaben löst",
-      "teaser": "Was kann KI wirklich? c't-3003-Host Jan-Keno Janssen zeigt anhand konkreter Beispiele, wie er künstliche Intelligenz im Alltag nutzt.",
-      "url": "https://www.heise.de/news/Was-KI-wirklich-kann-10329829.html"
+      "title": "Digitaler Kassenbon: PDF statt Zettelwirtschaft",
+      "teaser": "Mit digitalen Kassenbons lassen sich Belege einfach archivieren und Waren komfortabel umtauschen. Datenschutzbewusste sollten vorher aber genau hinschauen.",
+      "url": "https://www.heise.de/hintergrund/Digitaler-Kassenbon-PDF-statt-Zettelwirtschaft-10291787.html"
     },
     {
       "title": "UpdateParamount+: Premiumabo fehlt noch der Dolby-Atmos-Ton",
@@ -622,10 +616,10 @@
       "image_title": "Paramount-Logo auf Handy"
     },
     {
-      "title": "Reboot tut gutWarum das iPhone aus Sicherheitsgründen neustartet",
-      "teaser": "Seit iOS 18 starten iPhones und iPads nach längerer Inaktivität automatisch neu. Was das für Nutzer bedeutet und welche Sicherheitsfunktionen dahinterstecken.",
-      "url": "https://www.heise.de/hintergrund/Reboot-tut-gut-Warum-das-iPhone-aus-Sicherheitsgruenden-automatisch-neustartet-10312423.html",
-      "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
+      "title": "USB4-Adapter für 10-Gigabit-Ethernet im Test",
+      "teaser": "Für PCs mit USB4 oder Thunderbolt 3 gibt es jetzt LAN-Adapter, die Daten mit 10 Gbit/s transportieren. Wir haben die neuen Modelle gründlich ausprobiert.",
+      "url": "https://www.heise.de/tests/USB4-Adapter-fuer-10-Gigabit-Ethernet-im-Test-10316221.html",
+      "image_title": ","
     },
     {
       "title": "Eleganter Präsentator: Bezel-App für Mac im Test",
@@ -638,6 +632,12 @@
       "teaser": "MacBook-Speicher ist teuer und nachträglich aufrüsten unmöglich. Besitzt Ihr Rechner jedoch einen SD-Kartenslot, können Sie hierüber vergleichsweise aufrüsten.",
       "url": "https://www.heise.de/tests/MicroSD-Karten-ab-1-TByte-im-Test-Zusatzplatz-im-MacBook-Pro-10319739.html",
       "image_title": ","
+    },
+    {
+      "title": "Ein Plus an FitnessApple Fitness+ im Test",
+      "teaser": "Apple Fitness+ glänzt durch ein großes Trainingsangebot. Einige nervige Einschränkungen hat der Abodienst abgeschüttelt, andere blieben. Ein Langzeittest.",
+      "url": "https://www.heise.de/tests/Ein-Plus-an-Fitness-Apple-Fitness-im-Test-10302385.html",
+      "image_title": "Frau bei der Nutzung von Apple Fitness+"
     },
     {
       "title": "Make auf der Bitkom-Bildungskonferenz 2025",
@@ -657,6 +657,12 @@
       "image_title": "Bambu Lab H2D"
     },
     {
+      "title": "Bildbearbeitung: Relevante Photoshop-Filter für Fotografen",
+      "teaser": "Wer einen Blick in das Filtermenü von Photoshop wirft, sieht einen Querschnitt durch die 35-jährige Entwicklungsgeschichte. Maike Jarsetz gibt einen Überblick.",
+      "url": "https://www.heise.de/ratgeber/Relevante-Photoshop-Filter-fuer-Fotografen-vorgestellt-10289587.html",
+      "image_title": ", Alle Bilder: Maike Jarsetz"
+    },
+    {
       "title": "Gewinner des Fotowettbewerbs: Urbane Architektur",
       "teaser": "Mal monumental, dann wieder bescheiden: Diese Formen und Strukturen der Stadt entdeckten die Mitglieder unserer Fotogalerie. Wir stellen Ihnen die Top 10 vor.",
       "url": "https://www.heise.de/hintergrund/Gewinner-des-Fotowettbewerbs-Urbane-Architektur-10289044.html",
@@ -672,11 +678,6 @@
       "teaser": "Forschungsprojekte zeigen, wie Pestizideinsatz mit Drohnenbildern, Künstlicher Intelligenz und Hackrobotern verringert werden könnte.",
       "url": "https://www.heise.de/hintergrund/Landwirtschaft-Grundlagen-fuers-Hacken-schaffen-10323592.html",
       "image_title": "Schwarzer Quadkopter, daneben eine Fernsteuernung, dahinter grüne Plfanzen"
-    },
-    {
-      "title": "Von Flamenco, gigantischen Monden und Sommergewittern: Die Bilder der Woche 11",
-      "teaser": "Ein traditioneller Tanz und ein Hase, der auf den Nachtbus wartet – unsere Galeriefotografen präsentieren Motive von ästhetisch bis humorvoll.",
-      "url": "https://www.heise.de/news/Von-Flamenco-gigantischen-Monden-und-Sommergewittern-Die-Bilder-der-Woche-11-10323005.html"
     },
     {
       "title": "Inspiriert von MV AgustaSportmotorrad QJMotor SRK 921 RR",
@@ -738,22 +739,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Krieg und Notlagen: EU rät Bürgern zu Lebensmittelvorrat für 72 Stunden",
-      "teaser": "EU-Kommission warnt: Bei Krisen wie Krieg, Cyberangriffen oder Überschwemmungen drohen Versorgungsengpässe. Jeder Bürger solle einen Vorrat für 72 Stunden anlegen.",
-      "url": "https://www.heise.de/tp/features/Krieg-und-Notlagen-EU-raet-Buergern-zu-Lebensmittelvorrat-fuer-72-Stunden-10331311.html",
-      "image_title": "Draufsicht auf notwendige Produkte für die Zeit der Pandemie oder Hungersnot oder Quarantäne und Isolierung."
-    },
-    {
       "title": "\"Germanische Medizin\" lockt Krebspatienten in tödliche Falle",
       "teaser": "Die \"Germanische Medizin\" verspricht Krebsheilung durch Konfliktlösung. Ihre Anhänger lehnen schulmedizinische Therapien strikt ab. Was kaum jemand weiß: Die Folgen sind oft tödlich.",
       "url": "https://www.heise.de/tp/features/Germanische-Medizin-lockt-Krebspatienten-in-toedliche-Falle-10327606.html",
       "image_title": "Kugeln mit Zähnen als Krebszellen und freundlich Kugel vor Blumen"
     },
     {
-      "title": "Clean Meat: Wenn Burger aus dem Bioreaktor kommen",
-      "teaser": "Fleisch ohne Tierleid – das versprechen Labore weltweit. Die Technik macht Fortschritte, erste Produkte sind bereits zugelassen. Wann kommen sie auf den Markt?",
-      "url": "https://www.heise.de/tp/features/Clean-Meat-Wenn-Burger-aus-dem-Bioreaktor-kommen-10327538.html",
-      "image_title": "Fleischtube, Petrischale mit Fleisch und Pipette"
+      "title": "Chinas Unterwasserkabel-Cutter: Wie man eine Welt abschaltet – und keiner weiß, wer's war",
+      "teaser": "Neues Tiefsee-Schneidwerkzeug offenbart Verwundbarkeit der globalen Infrastruktur. Grenzen des hybriden Kriegs werden verschoben. Experten sind beunruhigt.",
+      "url": "https://www.heise.de/tp/features/Chinas-Unterwasserkabel-Cutter-Wie-man-eine-Welt-abschaltet-und-keiner-weiss-wer-s-war-10330378.html",
+      "image_title": "3D-Darstellung eines Unterwasser-Kommunikationskabels"
+    },
+    {
+      "title": "Kulturkampf: Schneewittchen macht märchenhafte Probleme",
+      "teaser": "Disney-Verfilmung sorgt für Aufregung. Die Heldin ist nicht schneeweiß genug und der Film zu woke. Die Debatte hinkt der Zeit hinterher.",
+      "url": "https://www.heise.de/tp/features/Kulturkampf-Schneewittchen-macht-maerchenhafte-Probleme-10328135.html"
     },
     {
       "title": "Beste eSIM-Tarife für Australien (Urlaub & Reise)",
