@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-28T04:11:50",
+  "timestamp": "2025-03-28T05:10:06",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Vorsicht, Kunde! – Brandgefährlicher Solarstromspeicher",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Brandgefaehrlicher-Solarstromspeicher-10330214.html"
+    },
     {
       "title": "Nintendo mit virtuellen Spielkarten zur Übertragung von Games zwischen Konsolen",
       "url": "https://www.heise.de/news/Nintendo-mit-virtuellen-Spielkarten-zur-Uebertragung-von-Games-zwischen-Konsolen-10331802.html"
@@ -60,10 +64,6 @@
     {
       "title": "Partnerprogramm von Spotify kommt nach Deutschland",
       "url": "https://www.heise.de/news/Spotify-bringt-neues-Partnerprogramm-nach-Deutschland-10331523.html"
-    },
-    {
-      "title": "Vision-Pro-Führungswechsel, visionOS 2.4, Mixed-Reality-Projekte | TNBT-Podcast",
-      "url": "https://www.heise.de/news/Vision-Pro-Fuehrungswechsel-visionOS-2-4-Mixed-Reality-Projekte-TNBT-Podcast-10331535.html"
     },
     {
       "title": "Alte GPUs im RTX-4090-GewandGefälschte Nvidia-Grafikkarten in China aufgetaucht",
@@ -185,21 +185,27 @@
       "url": "https://www.heise.de/news/Was-KI-wirklich-kann-10329829.html"
     },
     {
+      "title": "Vorsicht, Kunde! – Brandgefährlicher Solarstromspeicher",
+      "teaser": "Solarspeicher verteilen die Stromlast über den Tag. Beschädigte Geräte können jedoch brandgefährlich werden, auf eine Reparatur muss man sich nicht einlassen.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Brandgefaehrlicher-Solarstromspeicher-10330214.html",
+      "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
+    },
+    {
       "title": "Nintendo mit virtuellen Spielkarten zur Übertragung von Games zwischen Konsolen",
       "teaser": "Bevor die Switch 2 kommt, kündigt Nintendo eine einfache Möglichkeit zur Übertragung digitaler Spiele auf andere Spielkonsolen an. Auch Ausleihen ist möglich.",
       "url": "https://www.heise.de/news/Nintendo-mit-virtuellen-Spielkarten-zur-Uebertragung-von-Games-zwischen-Konsolen-10331802.html",
       "image_title": "Nintendos Spielkonsolen mit Miis und virtuelle Spielkarten"
     },
     {
+      "title": "Service Desks als Zielscheibe für Hacker",
+      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "BGH: Meta Platforms verstößt mit App-Center für Gratisspiele gegen die DSGVO",
       "teaser": "Verbraucherverbände können bei Datenschutzverletzungen stellvertretend für Konsumenten klagen. Das bekommt die Meta-Tochter Facebook zu spüren.",
       "url": "https://www.heise.de/news/BGH-Meta-Platforms-verstoesst-mit-App-Center-fuer-Gratisspiele-gegen-die-DSGVO-10331760.html",
       "image_title": "Schilder \"Bundesgerichtshof\" an Gebäudewand"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "UpdateWindows Update: Vorschauversion korrigiert nervige Fehler",
@@ -229,12 +235,6 @@
       "teaser": "Bald sollen verschiedene Daten gesetzlich Versicherter zu Forschungszwecken zur Verfügung stehen. Das BfArM freut sich und baut dafür die Infrastruktur auf.",
       "url": "https://www.heise.de/news/BfArM-Chef-ueber-Plaene-fuer-Forschungsdateninfrastruktur-Real-World-Data-und-mehr-10330626.html",
       "image_title": "Abstrake Darstellung von verschiedenen Typen von Gesundheitsdaten"
-    },
-    {
-      "title": "Messaging und Telefonie in iOS 18: WhatsApp wird wahlweise Standard",
-      "teaser": "iPhone-Nutzer erhalten zum ersten Mal die Option, eine Nicht-Apple-App als Standard für Nachrichten und Anrufe zu wählen. Siri will davon nichts wissen.",
-      "url": "https://www.heise.de/news/WhatsApp-laesst-sich-auf-iPhones-erstmals-als-Standard-festlegen-10331571.html",
-      "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
     },
     {
       "title": "Einsteiger-MacBookDas neue MacBook Air M4 im Test",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Messaging und Telefonie in iOS 18: WhatsApp wird wahlweise Standard",
+      "teaser": "iPhone-Nutzer erhalten zum ersten Mal die Option, eine Nicht-Apple-App als Standard für Nachrichten und Anrufe zu wählen. Siri will davon nichts wissen.",
+      "url": "https://www.heise.de/news/WhatsApp-laesst-sich-auf-iPhones-erstmals-als-Standard-festlegen-10331571.html",
+      "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
     },
     {
       "title": "Partnerprogramm von Spotify kommt nach Deutschland",
@@ -371,15 +377,15 @@
       "image_title": "Paramount-Logo auf Handy"
     },
     {
+      "title": "NIS-2: Warum Sie trotz Verschiebung handeln sollten",
+      "teaser": "Die EU-Cyber-Sicherheitsrichtlinie NIS-2 ist als Gesetz in Deutschland noch nicht erlassen worden und wird vermutlich erst im Herbst 2025 in Kraft treten. In einem Webcast erklären wir, weshalb Unternehmen bis dahin nicht untätig sein und trotz Verschiebung handeln sollten.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-warum-unternehmen-trotz-verschiebung-handeln-sollten-4899/?source=hbsad-ersatz"
+    },
+    {
       "title": "Cybercrime-Tool Atlantis AIO soll automatisierte Passwort-Attacken optimieren",
       "teaser": "Leider schläft die organisierte Onlinekriminalität nicht: Sicherheitsforscher sind mit Atlantis AIO auf ein mächtiges Werkzeug zum Kapern von Accounts gestoßen.",
       "url": "https://www.heise.de/news/Cybercrime-Tool-Atlantis-AIO-soll-automatisierte-Passwort-Attacken-ermoeglichen-10330758.html",
       "image_title": "Ein symbolisches Schloss neben Eingagefeldern für Log-in-Daten"
-    },
-    {
-      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
-      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
     },
     {
       "title": "Spekulationen über Apple A20: Wie viel Nanometer werden es sein?",
@@ -430,12 +436,6 @@
       "image_title": ", Thorsten Hübner"
     },
     {
-      "title": "OpenCloud: Jetzt kommt die Business-Version",
-      "teaser": "Nach einer ersten Testversion im Februar geht der ownCloud-Fork OpenCloud in die Vollen und präsentiert mit Version 2.0 sein kommerzielles Angebot.",
-      "url": "https://www.heise.de/news/OpenCloud-2-0-soll-Sicherung-grosser-Datenmengen-vereinfachen-10330679.html",
-      "image_title": "Nutzerin vor einem Laptop mit OpenCloud-Ansicht"
-    },
-    {
       "title": "4o-Modell: Neuer Bildgenerator in ChatGPT",
       "url": "https://www.heise.de/news/4o-Modell-Neuer-Bildgenerator-in-ChatGPT-10328807.html",
       "image_title": "Ein Mann mit einem Prisma"
@@ -446,9 +446,9 @@
       "image_title": "Have I Been Pwned? Yes!"
     },
     {
-      "title": "Microsoft will Office \"Startup-Booster\" verpassen",
-      "url": "https://www.heise.de/news/Microsoft-will-Office-Startup-Booster-verpassen-10330465.html",
-      "image_title": "MS Office-Apps im Startmenü"
+      "title": "OpenCloud: Jetzt kommt die Business-Version",
+      "url": "https://www.heise.de/news/OpenCloud-2-0-soll-Sicherung-grosser-Datenmengen-vereinfachen-10330679.html",
+      "image_title": "Nutzerin vor einem Laptop mit OpenCloud-Ansicht"
     },
     {
       "title": "Airbus zeigt preisgünstige LOAD-Abwehrdrohne gegen Kamikazedrohnen",
@@ -616,9 +616,10 @@
       "url": "https://www.heise.de/hintergrund/Digitaler-Kassenbon-PDF-statt-Zettelwirtschaft-10291787.html"
     },
     {
-      "title": "PraxischeckWie KI meine nervigsten Aufgaben löst",
-      "teaser": "Was kann KI wirklich? c't-3003-Host Jan-Keno Janssen zeigt anhand konkreter Beispiele, wie er künstliche Intelligenz im Alltag nutzt.",
-      "url": "https://www.heise.de/news/Was-KI-wirklich-kann-10329829.html"
+      "title": "Qudits statt QubitsNeuartiger Quantencomputer simuliert Elementarteilchen",
+      "teaser": "Mit fünf statt zwei Zuständen könnten Qudits die Leistungsfähigkeit von Quantencomputern verbessern.",
+      "url": "https://www.heise.de/news/Qudits-statt-Qubits-Neuartiger-Quantencomputer-simuliert-Elementarteilchen-10331202.html",
+      "image_title": "Simulation der Entstehung von Teilchen-Antiteilchen-Paaren in zwei Raumdimensionen"
     },
     {
       "title": "Reboot tut gutWarum das iPhone aus Sicherheitsgründen neustartet",
@@ -738,21 +739,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ukraine-Konflikt: Warum Europa sich selbst im Weg steht",
-      "teaser": "Im Ukraine-Krieg blockiert Europa einen Friedensprozess durch irrationale Ängste und Panikmache. Ist Europa bereit, seine Strategie zu überdenken? Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Konflikt-Warum-Europa-sich-selbst-im-Weg-steht-10328002.html",
-      "image_title": "Eine Zeitung die zum Ukraine-Krieg titelt"
+      "title": "UN-Experten warnen: Baerbock gefährdet Deutschlands Ansehen",
+      "teaser": "Die UN steht vor gewaltigen Aufgaben. Deutschland soll Schlüsselrolle spielen. Nun droht vieles an einer umstrittenen Personalie zu scheitern. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/UN-Experten-warnen-Baerbock-gefaehrdet-Deutschlands-Ansehen-10329470.html",
+      "image_title": "Annalena Baerbock mit Olivenzweigkranz der Vereinten Nationen gekrönt"
     },
     {
-      "title": "Kulturkampf: Schneewittchen macht märchenhafte Probleme",
-      "teaser": "Disney-Verfilmung sorgt für Aufregung. Die Heldin ist nicht schneeweiß genug und der Film zu woke. Die Debatte hinkt der Zeit hinterher.",
-      "url": "https://www.heise.de/tp/features/Kulturkampf-Schneewittchen-macht-maerchenhafte-Probleme-10328135.html"
+      "title": "Gespräche in Riad: Neue Hoffnung für Ukraine-Frieden?",
+      "teaser": "Neue Gespräche zwischen USA und Russland. Eine baldige Waffenruhe scheint in weiter Ferne. Hinsichtlich des Schwarzen Meeres wurden Einigungen getroffen.",
+      "url": "https://www.heise.de/tp/features/Gespraeche-in-Riad-Neue-Hoffnung-fuer-Ukraine-Frieden-10329514.html",
+      "image_title": "Flagge der USA und Russlands"
     },
     {
-      "title": "Kritik an \"Caren Miosga\" und ARD: Keine Belege für \"Kanal auf Russisch\" von Sahra Wagenknecht",
-      "teaser": "ÖRR-Journalistin Adler unterstellt Politikerin Draht nach Moskau. Belege hat sie nicht. Lassen Sender und Gastgeberin die Anwürfe unkommentiert stehen?",
-      "url": "https://www.heise.de/tp/features/Kritik-an-Caren-Miosga-und-ARD-Keine-Belege-fuer-Kanal-auf-Russisch-von-Sahra-Wagenknecht-10329482.html",
-      "image_title": "Bild von Carmen Mioska vor dem Logo der ARD"
+      "title": "77 Experten gegen deutsche Doppelmoral im Völkerrecht",
+      "teaser": "Namhafte Völkerrechtler fordern die Bundesregierung auf, den IStGh zu respektieren – auch im Falle von Israel. Ausnahmen verstießen gegen Völker- und deutsches Recht.",
+      "url": "https://www.heise.de/tp/features/77-Experten-gegen-deutsche-Doppelmoral-im-Voelkerrecht-10327867.html",
+      "image_title": "Benjamin Netanjahu vor einem Rednerpult"
     },
     {
       "title": "Beste eSIM-Tarife für Australien (Urlaub & Reise)",
