@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-29T07:08:33",
+  "timestamp": "2025-03-29T08:11:17",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10330685.html"
+    },
     {
       "title": "Smart Garden: Drei Pflanzensensoren für Home Assistant im Vergleich",
       "url": "https://www.heise.de/tests/Smart-Garden-Drei-Pflanzensensoren-fuer-Home-Assistant-im-Vergleich-10298354.html"
@@ -60,10 +64,6 @@
     {
       "title": "c't 3003: Das Problem mit Passkeys",
       "url": "https://www.heise.de/news/c-t-3003-Das-Problem-mit-Passkeys-10332792.html"
-    },
-    {
-      "title": "Virtual Machine: Microsoft veröffentlicht Hyperlight Wasm",
-      "url": "https://www.heise.de/news/Hyperlight-trifft-WebAssembly-Microsoft-veroeffentlicht-Hyperlight-Wasm-10332509.html"
     },
     {
       "title": "Ausprobiert256 GByte RAM im Desktop-PC",
@@ -184,19 +184,25 @@
       "url": "https://www.heise.de/news/heiseshow-Selbstscannen-im-Supermarkt-Palantir-digitaler-Fuehrerschein-10330079.html"
     },
     {
+      "title": "Developer Snapshots: Kleinere News der letzten Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu GitHub, Corretto, Postgres, Jakarta, Datadobi, Databricks, Quarkus, Kafka und BED-Con.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10330685.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
       "title": "Smart Garden: Drei Pflanzensensoren für Home Assistant im Vergleich",
       "teaser": "Smarte Pflanzensensoren lassen sich in Home Assistant einbinden. Wir haben die drei beliebtesten verglichen und zeigen ihre Vor- und Nachteile.",
       "url": "https://www.heise.de/tests/Smart-Garden-Drei-Pflanzensensoren-fuer-Home-Assistant-im-Vergleich-10298354.html"
     },
     {
+      "title": "Service Desks als Zielscheibe für Hacker",
+      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Von Saharastaub, Kristallen und Sonnenuntergängen: Die Bilder der Woche 12",
       "teaser": "Saharastaub färbt den Abendhimmel, glitzernde Kristalle schimmern im Detail – auch diese Woche zeigen unsere Galeriefotografen wieder Vielfalt.",
       "url": "https://www.heise.de/news/Von-Saharastaub-Kristallen-und-Sonnenuntergaengen-Die-Bilder-der-Woche-12-10330327.html"
-    },
-    {
-      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
-      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Stand der Technik bei High-End-Smartphones | c’t uplink",
@@ -224,11 +230,6 @@
       "teaser": "Die US-Konzerne müssen angeblich bestimmte Praktiken in der EU ändern, entgehen aber wohl einer hohen Strafe. Das solle auch Trump besänftigen.",
       "url": "https://www.heise.de/news/Verstoesse-gegen-EU-Regeln-Angeblich-nur-geringe-Strafen-fuer-Apple-und-Meta-10332927.html",
       "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
-    },
-    {
-      "title": "Virtual Machine: Microsoft veröffentlicht Hyperlight Wasm",
-      "teaser": "Das experimentelle Projekt erlaubt das Ausführen von WebAssembly-Modulen innerhalb einer VM-basierten Sandbox. Es legt den Fokus auf Performance und Sicherheit.",
-      "url": "https://www.heise.de/news/Hyperlight-trifft-WebAssembly-Microsoft-veroeffentlicht-Hyperlight-Wasm-10332509.html"
     },
     {
       "title": "Einsteiger-MacBookDas neue MacBook Air M4 im Test",
@@ -294,6 +295,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Virtual Machine: Microsoft veröffentlicht Hyperlight Wasm",
+      "teaser": "Das experimentelle Projekt erlaubt das Ausführen von WebAssembly-Modulen innerhalb einer VM-basierten Sandbox. Es legt den Fokus auf Performance und Sicherheit.",
+      "url": "https://www.heise.de/news/Hyperlight-trifft-WebAssembly-Microsoft-veroeffentlicht-Hyperlight-Wasm-10332509.html"
     },
     {
       "title": "UpdateNachwuchsentwickler: Apple gibt Gewinner der Swift Student Challenge bekannt",
@@ -363,15 +369,15 @@
       "image_title": "Final Cut Pro auf Mac und iPad"
     },
     {
+      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
+      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
+    },
+    {
       "title": "SoftwareArchitekTOUR – Episode 104: arc42 feiert sein 20-jähriges Jubiläum",
       "teaser": "Alle Softwarearchitektinnen und -architekten kennen es: arc42 - Dieses Jahr feiert es seinen 20. Geburtstag. Michael Stal hat die Gründer zum Gespräch geladen.",
       "url": "https://www.heise.de/blog/SoftwareArchitekTOUR-Episode-104-arc42-feiert-sein-20-jaehriges-Jubilaeum-10331987.html",
       "image_title": "SoftwareArchitekTOUR"
-    },
-    {
-      "title": "IDC Analyst Briefing: Warum Sie jetzt auf KI-PCs setzen sollten",
-      "teaser": "IDC-Analysten erläutern in diesem Briefing, warum Unternehmen bei der Anschaffung neuer Client-Systeme auf KI-PCs setzen sollten und was für eine Investition in diese neue Geräteklasse spricht.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/idc-analystenbriefing-warum-sie-jetzt-auf-ki-pcs-setzen-sollten-4879/?source=hbsadersatz"
     },
     {
       "title": "heise+ Update vom 28. März 2025: Lesetipps fürs Wochenende",
@@ -420,12 +426,6 @@
       "teaser": "In vielen Flugzeugen und Zügen gibt es für die Unterhaltungssysteme nur eine Kabelanbindung. Der AirFly Pro 2 hilft – und kann nun noch mehr.",
       "url": "https://www.heise.de/news/AirFly-Pro-2-Bluetooth-Anbindung-fuer-Flugzeug-und-Auto-mit-mehr-Features-10331132.html",
       "image_title": "AirFly Pro 2 von TwelveSouth"
-    },
-    {
-      "title": "Der drohende transatlantische Tech-Handelskrieg durch Strafzölle",
-      "teaser": "Donald Trump möchte nun auch EU-Digitalgesetze loswerden, die die Profite von US-Konzernen schmälern. Experten fordern, dass Europa sich entschlossen wehrt.",
-      "url": "https://www.heise.de/hintergrund/Der-drohende-transatlantische-Tech-Handelskrieg-durch-Strafzoelle-10330916.html",
-      "image_title": ", Albert Hulm"
     },
     {
       "title": "Senec lässt Kunden mit defektem Solarstromspeicher im Stich",
@@ -597,12 +597,6 @@
       "url": "https://www.heise.de/en/news/Apple-Watch-Ultra-3-Better-wireless-hopefully-better-blood-pressure-monitoring-10327543.html"
     },
     {
-      "title": "Ausprobiert256 GByte RAM im Desktop-PC",
-      "teaser": "Mit neuen 64-GByte-Modulen sind bis zu 256 GByte RAM im PC möglich. Wir haben ausprobiert, auf welchen Plattformen sie funktionieren.",
-      "url": "https://www.heise.de/news/Ausprobiert-256-GByte-RAM-mit-AMD-Ryzen-und-Intel-Core-Ultra-10332315.html",
-      "image_title": "Crucial-Speicherriegel in einem Mainboard"
-    },
-    {
       "title": "Senec lässt Kunden mit defektem Solarstromspeicher im Stich",
       "teaser": "Ist ein Produkt defekt, muss sich der Hersteller innerhalb der Gewährleistung um Reparatur oder Austausch kümmern. Erst recht bei einem defekten Stromspeicher.",
       "url": "https://www.heise.de/ratgeber/Senec-laesst-Kunden-mit-defektem-Solarstromspeicher-im-Stich-10328634.html",
@@ -613,6 +607,11 @@
       "teaser": "Solarspeicher verteilen die Stromlast über den Tag. Beschädigte Geräte können jedoch brandgefährlich werden, auf eine Reparatur muss man sich nicht einlassen.",
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Brandgefaehrlicher-Solarstromspeicher-10330214.html",
       "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
+    },
+    {
+      "title": "c't 3003Das Problem mit Passkeys",
+      "teaser": "Passkeys sind sicherer als Passwörter, aber Apple, Google & Co. schränken die Nutzung ein. So gehen sie plattformübergreifend.",
+      "url": "https://www.heise.de/news/c-t-3003-Das-Problem-mit-Passkeys-10332792.html"
     },
     {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
@@ -730,22 +729,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Transparenz-Killer: Union will Bürger-Auskunftsrecht abschaffen",
-      "teaser": "Union für Abschaffung des Informationsfreiheitsgesetzes in der bisherigen Form. Verhandlungsführer Philipp Amthor hatte schon einmal Ärger wegen dieses Gesetzes.",
-      "url": "https://www.heise.de/tp/features/Transparenz-Killer-Union-will-Buerger-Auskunftsrecht-abschaffen-10331281.html",
-      "image_title": "Hammer mit CDU-Aufdruck zerschlägt Imformations-\"I\""
+      "title": "Das Ende der Ein-China-Politik? Taiwans präsidentieller Tabubruch",
+      "teaser": "Taiwans Präsident hat China erstmals als \"feindliche ausländische Macht\" bezeichnet. Was der Schritt bedeutet und wie Washington (nicht) reagieren sollte. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Das-Ende-der-Ein-China-Politik-Taiwans-praesidentieller-Tabubruch-10331491.html",
+      "image_title": "Taiwans Präsident Lai Ching-te hinter einer Flagge"
     },
     {
-      "title": "Gegen den Mainstream: BR-Kameramann bricht sein Schweigen",
-      "teaser": "BR-Kameramann Ralf Eger drehte nebenbei einen Film über die einstige ARD-Korrespondentin Gabriele Krone-Schmalz. Die Reaktion seiner Chefs überraschte sogar ihn. Ein Telepolis-Podcast.",
-      "url": "https://www.heise.de/tp/features/Gegen-den-Mainstream-BR-Kameramann-bricht-sein-Schweigen-10332259.html",
-      "image_title": "Gabriele Krone-Schmalz am kleinen Arbersee"
+      "title": "Schlaf: Nachteulen haben ein höheres Risiko für Depressionen",
+      "teaser": "Schlaf ist wichtig für die seelische Gesundheit. Zu wenig davon kann das Risiko für Depressionen erhöhen. Warum junge Menschen besonders betroffen sind.",
+      "url": "https://www.heise.de/tp/features/Schlaf-Nachteulen-haben-ein-hoeheres-Risiko-fuer-Depressionen-10332595.html",
+      "image_title": "Junge Männer und Frauen tanzen bei einer Studentenparty"
     },
     {
-      "title": "Gespräche in Riad: Neue Hoffnung für Ukraine-Frieden?",
-      "teaser": "Neue Gespräche zwischen USA und Russland. Eine baldige Waffenruhe scheint in weiter Ferne. Hinsichtlich des Schwarzen Meeres wurden Einigungen getroffen.",
-      "url": "https://www.heise.de/tp/features/Gespraeche-in-Riad-Neue-Hoffnung-fuer-Ukraine-Frieden-10329514.html",
-      "image_title": "Flagge der USA und Russlands"
+      "title": "Ukraine nach dem Krieg: Die Rechnung kommt erst noch",
+      "teaser": "Die Ukraine wird auch nach Kriegsende enorme Summen benötigen. Dieses Jahr könnte das Haushaltsdefizit auf 41,5 Milliarden Dollar steigen. Doch wer zahlt nach 2026? Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Ukraine-nach-dem-Krieg-Die-Rechnung-kommt-erst-noch-10329351.html",
+      "image_title": "Ukraines Präsident Wolodymyr Selenskyj"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
