@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-29T15:09:24",
+  "timestamp": "2025-03-29T16:10:01",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "BSI-Studie: Zahlreiche Schwachstellen in Krankenhausinformationssystemen",
+      "url": "https://www.heise.de/news/BSI-Studie-Zahlreiche-Schwachstellen-in-Krankenhausinformationssystemen-10333354.html"
+    },
     {
       "title": "Guter & unhörbarer Office-Mini-PC mit sehr flachem Gehäuse: Acemagic V1 im Test",
       "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-acemagic-v1-im-test/7qk3jft"
@@ -60,10 +64,6 @@
     {
       "title": "Musks KI-Firma schluckt Online-Plattform X",
       "url": "https://www.heise.de/news/Musks-KI-Firma-schluckt-Online-Plattform-X-10333191.html"
-    },
-    {
-      "title": "Ende von Skype: Abos weiternutzen und Rufnummern retten",
-      "url": "https://www.heise.de/ratgeber/Ende-von-Skype-Abos-weiternutzen-und-Rufnummern-retten-10323548.html"
     },
     {
       "title": "Nicht profitabelAldi stellt Onlineshop ein",
@@ -183,19 +183,25 @@
       "url": "https://www.heise.de/news/Stand-der-Technik-bei-High-End-Smartphones-c-t-uplink-10332207.html"
     },
     {
+      "title": "BSI-Studie: Zahlreiche Schwachstellen in Krankenhausinformationssystemen",
+      "teaser": "IT-Sicherheitsforscher haben im BSI-Auftrag IT-Systemen für Kliniken auf den Zahn gefühlt und Lücken gefunden, etwa bei Verschlüsselung und Zertifikaten.",
+      "url": "https://www.heise.de/news/BSI-Studie-Zahlreiche-Schwachstellen-in-Krankenhausinformationssystemen-10333354.html",
+      "image_title": "Abstrakte Darstellung von medizinischen Daten. Auf der linken Seite in rötlichen Farben ein Gehirn. Zentral im Bild befindet sich ein generischer Mensch. Die Person und das Gehirn sind beschriftet, zudem sind Graphen zu erkennen. Im Hintergrund medizinisches Personal an einem Computer"
+    },
+    {
       "title": "Guter & unhörbarer Office-Mini-PC mit sehr flachem Gehäuse: Acemagic V1 im Test",
       "teaser": "Kompakt, günstig, gut: Der Acemagic V1 ist zum Preis ab 160 Euro vergleichbaren Mini-PCs bei der Leistung voraus und noch dazu leise. Wir haben ihn getestet.",
       "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-acemagic-v1-im-test/7qk3jft?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "DHCP-Server für große Netze: Fast alle Erweiterungen nun quelloffen",
-      "teaser": "Die nächste Version des populären DHCP-Servers Kea reift allmählich, zuvor gibt der Hersteller aber viele Erweiterungen als Open-Source und zum Testen frei.",
-      "url": "https://www.heise.de/news/DHCP-Server-fuer-grosse-Netze-Fast-alle-Erweiterungen-nun-quelloffen-10333252.html"
-    },
-    {
       "title": "Service Desks als Zielscheibe für Hacker",
       "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "DHCP-Server für große Netze: Fast alle Erweiterungen nun quelloffen",
+      "teaser": "Die nächste Version des populären DHCP-Servers Kea reift allmählich, zuvor gibt der Hersteller aber viele Erweiterungen als Open-Source und zum Testen frei.",
+      "url": "https://www.heise.de/news/DHCP-Server-fuer-grosse-Netze-Fast-alle-Erweiterungen-nun-quelloffen-10333252.html"
     },
     {
       "title": "MicroSD-Karten ab 1 TByte im Test: Zusatzplatz im MacBook Pro",
@@ -224,12 +230,6 @@
       "title": "Canons Doppel-V und Sonys halbe Kamera – die Fotonews der Woche 13/2025",
       "teaser": "Zwei Kameras unter 1000 Euro sollen mehr als Vlogging können, ein neues Profi-Objektiv gibt es auch von Canon, und Sony halbiert eine Cine-Kamera.",
       "url": "https://www.heise.de/news/Canons-Doppel-V-und-Sonys-halbe-Kamera-die-Fotonews-der-Woche-13-2025-10332421.html"
-    },
-    {
-      "title": "Musks KI-Firma schluckt Online-Plattform X",
-      "teaser": "Der Twitter-Nachfolger X verliert auch die formelle Eigenständigkeit im Reich von Elon Musk. Der will X zur \"Plattform für alles\" machen.",
-      "url": "https://www.heise.de/news/Musks-KI-Firma-schluckt-Online-Plattform-X-10333191.html",
-      "image_title": "X-Logo und Musks Gesicht"
     },
     {
       "title": "Einsteiger-MacBookDas neue MacBook Air M4 im Test",
@@ -295,6 +295,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Musks KI-Firma schluckt Online-Plattform X",
+      "teaser": "Der Twitter-Nachfolger X verliert auch die formelle Eigenständigkeit im Reich von Elon Musk. Der will X zur \"Plattform für alles\" machen.",
+      "url": "https://www.heise.de/news/Musks-KI-Firma-schluckt-Online-Plattform-X-10333191.html",
+      "image_title": "X-Logo und Musks Gesicht"
     },
     {
       "title": "Ende von Skype: Abos weiternutzen und Rufnummern retten",
@@ -364,14 +370,14 @@
       "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
     },
     {
+      "title": "NIS-2: Warum Sie trotz Verschiebung handeln sollten",
+      "teaser": "Die EU-Cyber-Sicherheitsrichtlinie NIS-2 ist als Gesetz in Deutschland noch nicht erlassen worden und wird vermutlich erst im Herbst 2025 in Kraft treten. In einem Webcast erklären wir, weshalb Unternehmen bis dahin nicht untätig sein und trotz Verschiebung handeln sollten.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-warum-unternehmen-trotz-verschiebung-handeln-sollten-4899/?source=hbsad-ersatz"
+    },
+    {
       "title": "Virtual Machine: Microsoft veröffentlicht Hyperlight Wasm",
       "teaser": "Das experimentelle Projekt erlaubt das Ausführen von WebAssembly-Modulen innerhalb einer VM-basierten Sandbox. Es legt den Fokus auf Performance und Sicherheit.",
       "url": "https://www.heise.de/news/Hyperlight-trifft-WebAssembly-Microsoft-veroeffentlicht-Hyperlight-Wasm-10332509.html"
-    },
-    {
-      "title": "Analyse und Lehren: So läuft ein Ransomware-Angriff ab",
-      "teaser": "Das Einschleusen von Ransomware in Firmennetzwerke hat sich zu einem lukrativen Geschäftsmodell entwickelt. Im Webcast am 8. Mai können Sie erfahren, welche Fehler die Opfer machen und was Sie daraus für Ihre Sicherheitsstrategie lernen sollten.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-realitaet-eines-ransomware-angriffs-4898/?source=hbsad-ersatz"
     },
     {
       "title": "UpdateNachwuchsentwickler: Apple gibt Gewinner der Swift Student Challenge bekannt",
@@ -422,11 +428,6 @@
       "teaser": "Log-ins und Anmeldungen zu Diensten von Microsoft sollen einfacher werden. Zudem peilt das Unternehmen vereinheitlichte Log-ins an.",
       "url": "https://www.heise.de/news/Microsoft-ueberarbeitet-Log-ins-und-Anmeldungen-10332515.html",
       "image_title": "Optik der neuen Log-in-Dialoge"
-    },
-    {
-      "title": "Künstliche Intelligenz: Wie Nutzer das kritische Denken verlernen",
-      "teaser": "Studien zufolge büßen Anwender von KI-Tools geistige Leistungsfähigkeit ein. Aber die Persönlichkeit des Anwenders entscheidet; es kann auch anders laufen.",
-      "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Wie-Nutzer-das-kritische-Denken-verlernen-10296544.html"
     },
     {
       "title": "Neue Sicherheitslücken in Photovoltaik-Systemen aufgespürt",
@@ -598,6 +599,12 @@
       "url": "https://www.heise.de/en/news/Apple-Watch-Ultra-3-Better-wireless-hopefully-better-blood-pressure-monitoring-10327543.html"
     },
     {
+      "title": "Vorsicht, Kunde! – Brandgefährlicher Solarstromspeicher",
+      "teaser": "Solarspeicher verteilen die Stromlast über den Tag. Beschädigte Geräte können jedoch brandgefährlich werden, auf eine Reparatur muss man sich nicht einlassen.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Brandgefaehrlicher-Solarstromspeicher-10330214.html",
+      "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
+    },
+    {
       "title": "Ausprobiert256 GByte RAM im Desktop-PC",
       "teaser": "Mit neuen 64-GByte-Modulen sind bis zu 256 GByte RAM im PC möglich. Wir haben ausprobiert, auf welchen Plattformen sie funktionieren.",
       "url": "https://www.heise.de/news/Ausprobiert-256-GByte-RAM-mit-AMD-Ryzen-und-Intel-Core-Ultra-10332315.html",
@@ -608,12 +615,6 @@
       "teaser": "Ist ein Produkt defekt, muss sich der Hersteller innerhalb der Gewährleistung um Reparatur oder Austausch kümmern. Erst recht bei einem defekten Stromspeicher.",
       "url": "https://www.heise.de/ratgeber/Senec-laesst-Kunden-mit-defektem-Solarstromspeicher-im-Stich-10328634.html",
       "image_title": ","
-    },
-    {
-      "title": "Der drohende transatlantische Tech-Handelskrieg durch Strafzölle",
-      "teaser": "Donald Trump möchte nun auch EU-Digitalgesetze loswerden, die die Profite von US-Konzernen schmälern. Experten fordern, dass Europa sich entschlossen wehrt.",
-      "url": "https://www.heise.de/hintergrund/Der-drohende-transatlantische-Tech-Handelskrieg-durch-Strafzoelle-10330916.html",
-      "image_title": ", Albert Hulm"
     },
     {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
@@ -731,27 +732,26 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "\"Germanische Medizin\" lockt Krebspatienten in tödliche Falle",
-      "teaser": "Die \"Germanische Medizin\" verspricht Krebsheilung durch Konfliktlösung. Ihre Anhänger lehnen schulmedizinische Therapien strikt ab. Was kaum jemand weiß: Die Folgen sind oft tödlich.",
-      "url": "https://www.heise.de/tp/features/Germanische-Medizin-lockt-Krebspatienten-in-toedliche-Falle-10327606.html",
-      "image_title": "Kugeln mit Zähnen als Krebszellen und freundlich Kugel vor Blumen"
+      "title": "Nachrichtenmagazine von ARD und ZDF: Der Drei-Tages-Vergleich – Mehr vom Gleichen?",
+      "teaser": "Liefern sich die öffentlich-rechtlichen Sender publizistische Konkurrenz? Eine Stichprobe mit heute-journal, Tagesthemen und Julia Klöckner auf allen Kanälen. Und das Beste am Ende.",
+      "url": "https://www.heise.de/tp/features/Nachrichtenmagazine-von-ARD-und-ZDF-Der-Drei-Tages-Vergleich-Mehr-vom-Gleichen-10333094.html"
     },
     {
-      "title": "Generation Single: Chinas dramatische Heiratskrise",
-      "teaser": "Chinas Eheschließungen sinken rapide, Millionen Männer finden keine Partnerin. Droht China nun eine Ära gekaufter Bräute? Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Generation-Single-Chinas-dramatische-Heiratskrise-10326556.html",
-      "image_title": "Ein Brautpaar von oben"
+      "title": "Oscar-Gewinner Ballal: Vom roten Teppich ins Krankenhaus",
+      "teaser": "Nach einem Angriff durch Siedler wurde der palästinensische Regisseur Hamdan Ballal von der Armee festgenommen. Sein Film zeigt genau jene Gewalt, die ihm selbst widerfuhr.",
+      "url": "https://www.heise.de/tp/features/Oscar-Gewinner-Ballal-Vom-roten-Teppich-ins-Krankenhaus-10329892.html",
+      "image_title": "Kind in roter Kleidung vor Geröllfeld"
     },
     {
-      "title": "Das Ende der Ein-China-Politik? Taiwans präsidentieller Tabubruch",
-      "teaser": "Taiwans Präsident hat China erstmals als \"feindliche ausländische Macht\" bezeichnet. Was der Schritt bedeutet und wie Washington (nicht) reagieren sollte. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Das-Ende-der-Ein-China-Politik-Taiwans-praesidentieller-Tabubruch-10331491.html",
-      "image_title": "Taiwans Präsident Lai Ching-te hinter einer Flagge"
+      "title": "Make Military Great Again und die Frage: Schmarotzer-Europäer oder US-Parasiten-Plutokraten?",
+      "teaser": "Was von den Schmähungen von Donald J. Trump gegen Europa zu halten ist und wie Tech-Milliardäre die Demokratie zersetzen. Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Make-Military-Great-Again-und-die-Frage-Schmarotzer-Europaeer-oder-US-Parasiten-Plutokraten-10332679.html",
+      "image_title": "Porträt von Donald Trump"
     },
     {
-      "title": "Europäische Alternativen zu US-Software",
-      "teaser": "Ob Familienfotos oder Geschäftszahlen: Sensible Daten sind bei US-Anbietern nicht ideal aufgehoben. Wir nennen Software-Alternativen zu den Diensten von Microsoft, Google & Co.",
-      "url": "https://www.heise.de/download/specials/Unabhaengig-von-Big-Tech-Alternativen-zu-Google-Microsoft-Co-10015382"
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Signal - Messenger-App",
