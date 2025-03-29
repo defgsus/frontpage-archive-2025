@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-29T10:08:38",
+  "timestamp": "2025-03-29T11:06:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Partielle Sonnenfinsternis: Je nach Bewölkung überall in Deutschland sichtbar",
+      "url": "https://www.heise.de/news/Partielle-Sonnenfinsternis-Je-nach-Bewoelkung-ueberall-in-Deutschland-sichtbar-10327632.html"
+    },
     {
       "title": "Canons Doppel-V und Sonys halbe Kamera – die Fotonews der Woche 13/2025",
       "url": "https://www.heise.de/news/Canons-Doppel-V-und-Sonys-halbe-Kamera-die-Fotonews-der-Woche-13-2025-10332421.html"
@@ -60,10 +64,6 @@
     {
       "title": "Developer Snapshots: Kleinere News der letzten Woche",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10330685.html"
-    },
-    {
-      "title": "Smart Garden: Drei Pflanzensensoren für Home Assistant im Vergleich",
-      "url": "https://www.heise.de/tests/Smart-Garden-Drei-Pflanzensensoren-fuer-Home-Assistant-im-Vergleich-10298354.html"
     },
     {
       "title": "Defekter StromspeicherSenec lässt Kunden mit defektem Solarstromspeicher im Stich",
@@ -184,20 +184,26 @@
       "url": "https://www.heise.de/news/Stand-der-Technik-bei-High-End-Smartphones-c-t-uplink-10332207.html"
     },
     {
+      "title": "Partielle Sonnenfinsternis: Je nach Bewölkung überall in Deutschland sichtbar",
+      "teaser": "Samstagmittag wird sich der Mond vor die Sonne schieben und sie auch hierzulande teilweise verdecken. Bei der Beobachtung brauchen die Augen einen Schutz.",
+      "url": "https://www.heise.de/news/Partielle-Sonnenfinsternis-Je-nach-Bewoelkung-ueberall-in-Deutschland-sichtbar-10327632.html",
+      "image_title": "Hell erleuchtete Wolken, dahinter eine Sonnenscheibe, bei der ein Teil fehlt."
+    },
+    {
       "title": "Canons Doppel-V und Sonys halbe Kamera – die Fotonews der Woche 13/2025",
       "teaser": "Zwei Kameras unter 1000 Euro sollen mehr als Vlogging können, ein neues Profi-Objektiv gibt es auch von Canon, und Sony halbiert eine Cine-Kamera.",
       "url": "https://www.heise.de/news/Canons-Doppel-V-und-Sonys-halbe-Kamera-die-Fotonews-der-Woche-13-2025-10332421.html"
+    },
+    {
+      "title": "Service Desks als Zielscheibe für Hacker",
+      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Musks KI-Firma schluckt Online-Plattform X",
       "teaser": "Der Twitter-Nachfolger X verliert auch die formelle Eigenständigkeit im Reich von Elon Musk. Der will X zur \"Plattform für alles\" machen.",
       "url": "https://www.heise.de/news/Musks-KI-Firma-schluckt-Online-Plattform-X-10333191.html",
       "image_title": "X-Logo und Musks Gesicht"
-    },
-    {
-      "title": "Service Desks als Zielscheibe für Hacker",
-      "teaser": "Service Desks sind ein beliebtes Ziel für Hackerangriffe. Schwache Sicherheitsmaßnahmen können dabei den Zugriff auf kritische Daten ermöglichen. Lesen Sie hier, welche Gegenmaßnahmen Unternehmen ergreifen sollten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6901067673&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Ende von Skype: Abos weiternutzen und Rufnummern retten",
@@ -227,12 +233,6 @@
       "teaser": "Anwendungen für viele Kunden benötigen eine Multi-Tenant-Architektur, bei der je nach Anforderung verschiedene Modelle infrage kommen.",
       "url": "https://www.heise.de/hintergrund/Viele-Mandanten-ein-System-Multi-Tenant-Architektur-in-Software-Projekten-10330643.html",
       "image_title": "Aufmacher Softwarearchitektur Häuser im Anime-Stil"
-    },
-    {
-      "title": "Immer mehr Entwickler nutzten PHP in der eigenen Infrastruktur",
-      "teaser": "Die PHP-Entwicklung findet immer häufiger On-Premises statt. Dabei führt PHP 8.3 die Hitliste an. Bei den Betriebssystemen wird Alpine Linux immer beliebter.",
-      "url": "https://www.heise.de/news/PHP-Trend-geht-zu-eigenen-Clouds-PHP-8-und-Alpine-Linux-10332545.html",
-      "image_title": "Magnifying,Glass,On,Charts,Graphs,Paper.,Financial,Development,,Banking,Account,"
     },
     {
       "title": "Einsteiger-MacBookDas neue MacBook Air M4 im Test",
@@ -300,6 +300,12 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "Immer mehr Entwickler nutzten PHP in der eigenen Infrastruktur",
+      "teaser": "Die PHP-Entwicklung findet immer häufiger On-Premises statt. Dabei führt PHP 8.3 die Hitliste an. Bei den Betriebssystemen wird Alpine Linux immer beliebter.",
+      "url": "https://www.heise.de/news/PHP-Trend-geht-zu-eigenen-Clouds-PHP-8-und-Alpine-Linux-10332545.html",
+      "image_title": "Magnifying,Glass,On,Charts,Graphs,Paper.,Financial,Development,,Banking,Account,"
+    },
+    {
       "title": "Developer Snapshots: Kleinere News der letzten Woche",
       "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu GitHub, Corretto, Postgres, Jakarta, Datadobi, Databricks, Quarkus, Kafka und BED-Con.",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10330685.html",
@@ -365,14 +371,14 @@
       "url": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-Brillen-helfen-in-der-Industrie-10326072.html"
     },
     {
+      "title": "NIS2 und ISMS-Optimierung – Ihr Weg zu zertifizierter Informationssicherheit",
+      "teaser": "Die NIS2-Richtlinie bringt neue Herausforderungen für die IT-Sicherheit. Erfahren Sie im Webcast am 3.4., wie Sie Ihr ISMS optimieren, NIS2-Konformität erreichen und nach ISO 27001 oder TISAX zertifizieren können.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/nis2-und-isms-optimierung-ihr-weg-zu-zertifizierter-informationssicherheit-4896/?source=hbsadersatz"
+    },
+    {
       "title": "FAQ: Windows -Insider-Programm",
       "teaser": "Ab und an erreichen uns Fragen zu Microsofts Betatestprogramm für Windows. Hier lesen Sie die wichtigsten und wissenswertesten Antworten.",
       "url": "https://www.heise.de/ratgeber/FAQ-Windows-Insider-Programm-10314556.html"
-    },
-    {
-      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
-      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
     },
     {
       "title": "Jagd nach Ersatzteilen und verschollenen Akten: Das Videospielmuseum Hi-Score",
@@ -421,14 +427,9 @@
       "image_title": "SoftwareArchitekTOUR"
     },
     {
-      "title": "Mac & i Heft 2/2025 neu am Kiosk und versandkostenfrei im heise-Shop",
-      "teaser": "Mit den Themen: iPhone 16e, iPad Air, MacBook Air und Mac Studio im Test, AirTag-Lautsprecher deaktivieren, Apple Intelligence auf Deutsch, MicroSDs für Macs.",
-      "url": "https://www.heise.de/news/Mac-i-Heft-2-2025-neu-am-Kiosk-und-versandkostenfrei-im-heise-Shop-10325843.html"
-    },
-    {
-      "title": "Marktübersicht: Chaos Engineering für die Cloud",
-      "teaser": "Chaos Engineering simuliert Fehler in verteilten Systemen mit dem Ziel, ihre Resilienz zu erhöhen und Administratoren besser auf Ausfälle vorzubereiten.",
-      "url": "https://www.heise.de/hintergrund/Marktuebersicht-Chaos-Engineering-fuer-die-Cloud-10320768.html"
+      "title": "heise+ Update vom 28. März 2025: Lesetipps fürs Wochenende",
+      "teaser": "Der wöchentliche Newsletter von heise+ mit den Themen: Pflanzensensoren, dynamische Stromtarife, Smart #3, Ende von Skype und Meta Quest 3.",
+      "url": "https://www.heise.de/news/heise-Update-vom-28-Maerz-2025-Lesetipps-fuers-Wochenende-10332163.html"
     },
     {
       "title": "Neue Sicherheitslücken in Photovoltaik-Systemen aufgespürt",
@@ -605,15 +606,16 @@
       "url": "https://www.heise.de/news/c-t-3003-Das-Problem-mit-Passkeys-10332792.html"
     },
     {
+      "title": "Vorsicht, Kunde! – Brandgefährlicher Solarstromspeicher",
+      "teaser": "Solarspeicher verteilen die Stromlast über den Tag. Beschädigte Geräte können jedoch brandgefährlich werden, auf eine Reparatur muss man sich nicht einlassen.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Brandgefaehrlicher-Solarstromspeicher-10330214.html",
+      "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
+    },
+    {
       "title": "Defekter StromspeicherSenec lässt Kunden mit defektem Solarstromspeicher im Stich",
       "teaser": "Ist ein Produkt defekt, muss sich der Hersteller innerhalb der Gewährleistung um Reparatur oder Austausch kümmern. Erst recht bei einem defekten Stromspeicher.",
       "url": "https://www.heise.de/ratgeber/Senec-laesst-Kunden-mit-defektem-Solarstromspeicher-im-Stich-10328634.html",
       "image_title": ","
-    },
-    {
-      "title": "c’t uplinkStand der Technik bei High-End-Smartphones",
-      "teaser": "In dieser Folge des c’t uplink geht es um Top-Smartphones, und welche Verbesserungen neue Modelle bringen.",
-      "url": "https://www.heise.de/news/Stand-der-Technik-bei-High-End-Smartphones-c-t-uplink-10332207.html"
     },
     {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
@@ -656,12 +658,6 @@
       "url": "https://www.heise.de/news/Canon-erweitert-Vlogging-Produktpalette-PowerShot-V1-und-EOS-R50-V-vorgestellt-10330738.html"
     },
     {
-      "title": "Bildbearbeitung: Relevante Photoshop-Filter für Fotografen",
-      "teaser": "Wer einen Blick in das Filtermenü von Photoshop wirft, sieht einen Querschnitt durch die 35-jährige Entwicklungsgeschichte. Maike Jarsetz gibt einen Überblick.",
-      "url": "https://www.heise.de/ratgeber/Relevante-Photoshop-Filter-fuer-Fotografen-vorgestellt-10289587.html",
-      "image_title": ", Alle Bilder: Maike Jarsetz"
-    },
-    {
       "title": "Gewinner des Fotowettbewerbs: Urbane Architektur",
       "teaser": "Mal monumental, dann wieder bescheiden: Diese Formen und Strukturen der Stadt entdeckten die Mitglieder unserer Fotogalerie. Wir stellen Ihnen die Top 10 vor.",
       "url": "https://www.heise.de/hintergrund/Gewinner-des-Fotowettbewerbs-Urbane-Architektur-10289044.html",
@@ -671,6 +667,12 @@
       "title": "Fujis neue Kategorie, Canons Teaser und ein Lüfter – Fotonews der Woche 12/2025",
       "teaser": "Mittelformat für die Jackentasche ist ein Novum, Canon setzt verstärkt auf Video und von Smallrig gibt es ein pfiffiges Zubehör mit Peltier-Element.",
       "url": "https://www.heise.de/news/Fujis-neue-Kategorie-Canons-Teaser-und-ein-Luefter-Fotonews-der-Woche-12-2025-10324752.html"
+    },
+    {
+      "title": "KI auf dem FeldLandwirtschaft: Grundlagen fürs Hacken schaffen",
+      "teaser": "Forschungsprojekte zeigen, wie Pestizideinsatz mit Drohnenbildern, Künstlicher Intelligenz und Hackrobotern verringert werden könnte.",
+      "url": "https://www.heise.de/hintergrund/Landwirtschaft-Grundlagen-fuers-Hacken-schaffen-10323592.html",
+      "image_title": "Schwarzer Quadkopter, daneben eine Fernsteuernung, dahinter grüne Plfanzen"
     },
     {
       "title": "Autoindustrie25 Prozent Zoll auf US-Auto-Importe per Präsidialerlass",
@@ -731,10 +733,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Generation Single: Chinas dramatische Heiratskrise",
-      "teaser": "Chinas Eheschließungen sinken rapide, Millionen Männer finden keine Partnerin. Droht China nun eine Ära gekaufter Bräute? Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Generation-Single-Chinas-dramatische-Heiratskrise-10326556.html",
-      "image_title": "Ein Brautpaar von oben"
+      "title": "Schulen ziehen die Notbremse",
+      "teaser": "Smartphones sind im Schulalltag allgegenwärtig. Viele Schulen haben damit zu kämpfen. Kann man das Problem nur noch radikal lösen?",
+      "url": "https://www.heise.de/tp/features/Schulen-ziehen-die-Notbremse-10332387.html",
+      "image_title": "Handyverbotszeichen auf Schultafel gezeichnet und Smartphone, das diese fotogrfiert"
     },
     {
       "title": "Gewerkschafter kritisieren Lockerung der Schuldenbremse für Militär",
@@ -743,10 +745,10 @@
       "image_title": "Figur die Panzer einen Geldberg hinaufschiebt wendet sich ab"
     },
     {
-      "title": "Kritik an \"Caren Miosga\" und ARD: Keine Belege für \"Kanal auf Russisch\" von Sahra Wagenknecht",
-      "teaser": "ÖRR-Journalistin Adler unterstellt Politikerin Draht nach Moskau. Belege hat sie nicht. Lassen Sender und Gastgeberin die Anwürfe unkommentiert stehen?",
-      "url": "https://www.heise.de/tp/features/Kritik-an-Caren-Miosga-und-ARD-Keine-Belege-fuer-Kanal-auf-Russisch-von-Sahra-Wagenknecht-10329482.html",
-      "image_title": "Bild von Carmen Mioska vor dem Logo der ARD"
+      "title": "Ukraine nach dem Krieg: Die Rechnung kommt erst noch",
+      "teaser": "Die Ukraine wird auch nach Kriegsende enorme Summen benötigen. Dieses Jahr könnte das Haushaltsdefizit auf 41,5 Milliarden Dollar steigen. Doch wer zahlt nach 2026? Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Ukraine-nach-dem-Krieg-Die-Rechnung-kommt-erst-noch-10329351.html",
+      "image_title": "Ukraines Präsident Wolodymyr Selenskyj"
     },
     {
       "title": "Europäische Alternativen zu US-Software",
