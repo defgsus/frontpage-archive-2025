@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-31T02:24:50",
+  "timestamp": "2025-03-31T03:30:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Microsoft schließt bekannte Lücke bei Windows-Installation ohne Microsoft-Konto",
+      "url": "https://www.heise.de/news/Microsoft-schliesst-bekannte-Luecke-bei-Windows-Installation-ohne-Microsoft-Konto-10333699.html"
+    },
     {
       "title": "Scholz eröffnet Industriemesse: \"Hannover-Effekt\" statt \"America first\"",
       "url": "https://www.heise.de/news/Scholz-eroeffnet-Industriemesse-Hannover-Effekt-statt-America-first-10333679.html"
@@ -60,10 +64,6 @@
     {
       "title": "Mac & i 2/25: iPhone 16s, iPad Air M3, MacBook Air M4 und Mac Studio im Test",
       "url": "https://www.heise.de/news/Mac-i-2-25-iPhone-16s-iPad-Air-M3-MacBook-Air-M4-und-Mac-Studio-im-Test-10323694.html"
-    },
-    {
-      "title": "Forsa-Umfrage: Mehrheit der Autofahrer für Tempolimit auf Autobahnen",
-      "url": "https://www.heise.de/news/Forsa-Umfrage-Mehrheit-der-Autofahrer-fuer-Tempolimit-auf-Autobahnen-10333531.html"
     },
     {
       "title": "Missing LinkEine Black Box für mehr Flugsicherheit",
@@ -189,20 +189,26 @@
       "url": "https://www.heise.de/news/Stand-der-Technik-bei-High-End-Smartphones-c-t-uplink-10332207.html"
     },
     {
+      "title": "Microsoft schließt bekannte Lücke bei Windows-Installation ohne Microsoft-Konto",
+      "teaser": "Microsoft verstärkt den Zwang zum Microsoft-Konto bei der Installation von Windows 11. Eine beliebte Variante zur Umgehung des Kontozwangs wird bald blockiert.",
+      "url": "https://www.heise.de/news/Microsoft-schliesst-bekannte-Luecke-bei-Windows-Installation-ohne-Microsoft-Konto-10333699.html",
+      "image_title": "Finger zeigt auf Bildschirm mit Windows 11 Logo und Schriftzug"
+    },
+    {
       "title": "Scholz eröffnet Industriemesse: \"Hannover-Effekt\" statt \"America first\"",
       "teaser": "Amerika schottet sich ab, Kanada öffnet sich: Auf der Hannover Messe wirbt das Land um neue Partner. Scholz nutzt die Bühne für eine klare Botschaft.",
       "url": "https://www.heise.de/news/Scholz-eroeffnet-Industriemesse-Hannover-Effekt-statt-America-first-10333679.html",
       "image_title": "Bundeskanzler Olaf Scholz am Podium bei der Eröffnungsfeier der Hannover Messe"
     },
     {
+      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
+      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Die beste Magsafe-Powerbank für Apple – iPhone ohne Kabel laden",
       "teaser": "Unterwegs mit dem iPhone und keine Lust auf nervige Kabel? Hier kommen Powerbanks ins Spiel, die dank Magsafe das Apple-Smartphone kabellos laden. Wir haben zehn Modelle getestet und zeigen, welches das Beste ist.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-magsafe-powerbank-fuer-das-iphone-im-test/nd4s65c?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "So arbeiten moderne Hacker-Fabriken",
-      "teaser": "Hacker-Gruppen im digitalen Untergrund arbeiten oft schon in industriellem Maßstab. Sie adaptieren neue Technologien, sodass es ständig zu neuen Angriffswellen kommt. Doch die Security-Firmen ergreifen Gegenmaßnahmen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6946150026&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Mini-PC Geekom A6 mit Ryzen 7 6800H im Test: edel & schnell für 500 Euro",
@@ -228,13 +234,8 @@
     },
     {
       "title": "Forsa-Umfrage: Mehrheit der Autofahrer für Tempolimit auf Autobahnen",
-      "teaser": "Auf vielen Abschnitten der deutschen Autobahnen gibt es kein Temoplimit. Aber soll das so bleiben? Eine Umfrage erkennt eine interessante Entwicklung.",
+      "teaser": "Auf vielen Abschnitten der deutschen Autobahnen gibt es kein Tempolimit. Aber soll das so bleiben? Eine Umfrage erkennt eine interessante Entwicklung.",
       "url": "https://www.heise.de/news/Forsa-Umfrage-Mehrheit-der-Autofahrer-fuer-Tempolimit-auf-Autobahnen-10333531.html"
-    },
-    {
-      "title": "Technik für SB-Kassen erklärt: Wie Kunden zu Selbst-Kassierern werden",
-      "teaser": "SB-Kassen sind auf dem Vormarsch. Mit neuer Technik sollen künftig selbst Alters- und Diebstahlkontrollen automatisiert und trotzdem datensparsam erfolgen.",
-      "url": "https://www.heise.de/ratgeber/Technik-fuer-SB-Kassen-erklaert-Wie-Kunden-zu-Selbst-Kassierern-werden-10291773.html"
     },
     {
       "title": "Einsteiger-MacBookDas neue MacBook Air M4 im Test",
@@ -253,17 +254,16 @@
       "url": "https://www.heise.de/hintergrund/Alternative-Stromversorgung-fuer-Raspberry-Pi-5-500-10303849.html"
     },
     {
+      "title": "Aldi stellt Onlineshop ein",
+      "url": "https://www.heise.de/news/Aldi-Nord-und-Sued-schliessen-ihren-Onlineshop-10333222.html"
+    },
+    {
       "title": "Google Maps: Deutsche Gewässer werden mit \"Golf von …\" benannt",
-      "url": "https://www.heise.de/news/Deutsche-Gewaesser-werden-mit-Golf-von-benannt-10326336.html",
-      "image_title": "Screenshot Google Maps (Golf von Sürth)"
+      "url": "https://www.heise.de/news/Deutsche-Gewaesser-werden-mit-Golf-von-benannt-10326336.html"
     },
     {
       "title": "Ohne GPS: EU-Forscher entwickeln satellitenunabhängiges Navigationssystem",
       "url": "https://www.heise.de/news/Ohne-GPS-EU-Forscher-entwickeln-satellitenunabhaengiges-Navigationssystem-10328220.html"
-    },
-    {
-      "title": "Neue Sicherheitslücken in Photovoltaik-Systemen aufgespürt",
-      "url": "https://www.heise.de/news/Neue-Sicherheitsluecken-in-Photovoltaik-Systemen-aufgespuert-10331154.html"
     },
     {
       "title": "PV-Heimspeicher mit Netzstrom laden: Was möglich ist und ob es sich lohnt",
@@ -300,6 +300,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Technik für SB-Kassen erklärt: Wie Kunden zu Selbst-Kassierern werden",
+      "teaser": "SB-Kassen sind auf dem Vormarsch. Mit neuer Technik sollen künftig selbst Alters- und Diebstahlkontrollen automatisiert und trotzdem datensparsam erfolgen.",
+      "url": "https://www.heise.de/ratgeber/Technik-fuer-SB-Kassen-erklaert-Wie-Kunden-zu-Selbst-Kassierern-werden-10291773.html"
     },
     {
       "title": "Überwachung: Smart-TV-Anbieter machen gute Geschäfte mit dem gläsernen Nutzer",
@@ -368,15 +373,15 @@
       "image_title": "Das Smartphone Pixel 9a in drei Farben."
     },
     {
+      "title": "Video: Wie moderne Server das Rechenzentrum revolutionieren",
+      "teaser": "KI hat die Nachfrage nach IT-Ressourcen stark ansteigen lassen. Viele Rechenzentren stoßen dadurch an ihre Grenzen. Wie Sie durch eine intelligente Modernisierung Ihrer CPU-Plattform die neuen Anforderungen erfüllen – und dabei sogar noch Energie und Platz sparen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-wie-moderne-server-das-rechenzentrum-revolutionieren-4874/?source=hbsadersatz"
+    },
+    {
       "title": "Partielle Sonnenfinsternis: Je nach Bewölkung überall in Deutschland sichtbar",
       "teaser": "Samstagmittag wird sich der Mond vor die Sonne schieben und sie auch hierzulande teilweise verdecken. Bei der Beobachtung brauchen die Augen einen Schutz.",
       "url": "https://www.heise.de/news/Partielle-Sonnenfinsternis-Je-nach-Bewoelkung-ueberall-in-Deutschland-sichtbar-10327632.html",
       "image_title": "Hell erleuchtete Wolken, dahinter eine Sonnenscheibe, bei der ein Teil fehlt."
-    },
-    {
-      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
-      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
     },
     {
       "title": "Canons Doppel-V und Sonys halbe Kamera – die Fotonews der Woche 13/2025",
@@ -429,24 +434,14 @@
       "url": "https://www.heise.de/news/Von-Saharastaub-Kristallen-und-Sonnenuntergaengen-Die-Bilder-der-Woche-12-10330327.html"
     },
     {
-      "title": "Top 10: Der beste Mähroboter ohne Begrenzungskabel mit Kamera, GPS oder Lidar",
-      "teaser": "Kabellose Mähroboter erleichtern den Umgang enorm, da kein aufwendiges Verlegen von Draht im Garten nötig ist. Wir haben den Großteil der erhältlichen Modelle getestet und zeigen, welcher der Beste ist.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+      "title": "Neue Sicherheitslücken in Photovoltaik-Systemen aufgespürt",
+      "url": "https://www.heise.de/news/Neue-Sicherheitsluecken-in-Photovoltaik-Systemen-aufgespuert-10331154.html",
+      "image_title": "Mensch tanzt vor Solarpanel mit Wechselrichter, die von Malware angegriffen werden"
     },
     {
       "title": "Senec lässt Kunden mit defektem Solarstromspeicher im Stich",
       "url": "https://www.heise.de/ratgeber/Senec-laesst-Kunden-mit-defektem-Solarstromspeicher-im-Stich-10328634.html",
       "image_title": ","
-    },
-    {
-      "title": "Diverse Hersteller-Shops nach Digital-River-Insolvenz offline",
-      "url": "https://www.heise.de/news/Asus-Bandai-und-mehr-Diverse-Herstellershops-offline-10332649.html",
-      "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
-    },
-    {
-      "title": "1400 Instanzen ohne Lizenz? VMware reicht Klage gegen Siemens ein",
-      "url": "https://www.heise.de/news/1400-Instanzen-ohne-Lizenz-VMware-reicht-Klage-gegen-Siemens-ein-10329478.html",
-      "image_title": "VMware-Logo vor Codezeilen"
     },
     {
       "title": "Vorsicht, Kunde! – Brandgefährlicher Solarstromspeicher",
@@ -457,6 +452,11 @@
       "title": "#TGIQF: Das Quiz rund um Mister Spock",
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Mister-Spock-10332468.html",
       "image_title": "Aufmacherbild TGIQF zeigt Spock"
+    },
+    {
+      "title": "Roboterhund läuft mit passiver Mechanik deutlich energieeffizienter",
+      "url": "https://www.heise.de/news/Roboterhund-laeuft-mit-passiver-Mechanik-deutlich-energieeffizienter-10332031.html",
+      "image_title": "Roboterhund auf einem Laufband"
     },
     {
       "title": "Elektrorollerfahrer verursachen teils absichtlich gefährliche Situationen",
@@ -474,9 +474,18 @@
       "image_title": "Android-Maskottchen neben Handy auf Tisch"
     },
     {
-      "title": "DMA-Verstöße: Apple und Meta bekommen angeblich nur kleine Strafen aufgebrummt",
-      "url": "https://www.heise.de/news/Verstoesse-gegen-EU-Regeln-Angeblich-nur-geringe-Strafen-fuer-Apple-und-Meta-10332927.html",
-      "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
+      "title": "Apple Watch Ultra 3: Bessere Funkausstattung – und hoffentlich Blutdruckmessung",
+      "url": "https://www.heise.de/news/Apple-Watch-Ultra-3-Bessere-Funkausstattung-und-hoffentlich-Blutdruckmessung-10326996.html",
+      "image_title": "Apple Watch Ultra"
+    },
+    {
+      "title": "Praxischeck: Wie KI meine nervigsten Aufgaben löst",
+      "url": "https://www.heise.de/news/Was-KI-wirklich-kann-10329829.html"
+    },
+    {
+      "title": "\"Geschockte\" Mitarbeiter: Komoot wird verkauft",
+      "url": "https://www.heise.de/news/Wander-App-Komoot-wird-verkauft-10324277.html",
+      "image_title": "Komoot-App auf Handy vor Fahrradlenker"
     },
     {
       "title": "Partnerprogramm von Spotify kommt nach Deutschland",
@@ -484,20 +493,23 @@
       "image_title": "Spotifylogo auf schwarzem Handydisplay"
     },
     {
-      "title": "Praxischeck: Wie KI meine nervigsten Aufgaben löst",
-      "url": "https://www.heise.de/news/Was-KI-wirklich-kann-10329829.html"
-    },
-    {
-      "title": "Jagd nach Ersatzteilen und verschollenen Akten: Das Videospielmuseum Hi-Score",
-      "url": "https://www.heise.de/hintergrund/Jagd-nach-Ersatzteilen-und-verschollenen-Akten-Das-Videospielmuseum-Hi-Score-10310908.html"
-    },
-    {
       "title": "Oberlandesgericht: Lidl muss Elektroschrott kostenlos zurücknehmen",
       "url": "https://www.heise.de/news/Oberlandesgericht-Lidl-muss-Elektroschrott-kostenlos-zuruecknehmen-10332897.html"
     },
     {
-      "title": "KI am Arbeitsplatz: Mehrheit der Bundesbürger hält sich für unersetzlich",
-      "url": "https://www.heise.de/news/KI-am-Arbeitsplatz-Mehrheit-der-Bundesbuerger-haelt-sich-fuer-unersetzlich-10333052.html"
+      "title": "Diverse Hersteller-Shops nach Digital-River-Insolvenz offline",
+      "url": "https://www.heise.de/news/Asus-Bandai-und-mehr-Diverse-Herstellershops-offline-10332649.html",
+      "image_title": "Ein ungeordneter Stapel mit Kreditkarten und Girokarten von verschiedenen Zahlungsdienstleistern wie Mastercard oder Visa."
+    },
+    {
+      "title": "1400 Instanzen ohne Lizenz? VMware reicht Klage gegen Siemens ein",
+      "url": "https://www.heise.de/news/1400-Instanzen-ohne-Lizenz-VMware-reicht-Klage-gegen-Siemens-ein-10329478.html",
+      "image_title": "VMware-Logo vor Codezeilen"
+    },
+    {
+      "title": "UpdatePornhub & Co.: Provider wehren sich gerichtlich gegen Sperranordnungen",
+      "url": "https://www.heise.de/news/Pornhub-Co-Provider-wehren-sich-gerichtlich-gegen-Sperranordnungen-10316778.html",
+      "image_title": "Blick auf Pornhub"
     },
     {
       "title": "Bundeswehr testet Vision 60 von Ghost Robotics",
@@ -510,16 +522,6 @@
       "image_title": "Eine defekte Ampel hängt am Kabel von ihrem Mast herab."
     },
     {
-      "title": "UpdatePornhub & Co.: Provider wehren sich gerichtlich gegen Sperranordnungen",
-      "url": "https://www.heise.de/news/Pornhub-Co-Provider-wehren-sich-gerichtlich-gegen-Sperranordnungen-10316778.html",
-      "image_title": "Blick auf Pornhub"
-    },
-    {
-      "title": "Smartphone-Wallet: EU-Gremien einigen sich auf digitalen Führerschein",
-      "url": "https://www.heise.de/news/Smartphone-Wallet-EU-Gremien-einigen-sich-auf-digitalen-Fuehrerschein-10327739.html",
-      "image_title": "Junge Frau hat ein Smartphone in der Hand und sitzt auf dem Fahrersitz. Eine Hand ist am Lenkrad, die andere hält das Smartphone. Sie schaut auf das Smartphone, ihr Kopf und teilweise auch der Oberkörper sind Richtung Kamera gewandt. Die Fahrertür ist offen. Im Hintergrund ist ein Glasgebäude zu sehen. Die Sonne könnte scheinen, weil das Licht warm ist."
-    },
-    {
       "title": "Linux 6.14: Bessere Performance, aber verschlafener Release-Termin",
       "url": "https://www.heise.de/news/Linux-6-14-Bessere-Performance-aber-verschlafener-Release-Termin-10329641.html",
       "image_title": "Pinguin sitzt vor Computer und programmiert"
@@ -529,9 +531,8 @@
       "url": "https://www.heise.de/news/Jetzt-verfuegbar-Das-neue-c-t-Sonderheft-Besser-Wissen-10326056.html"
     },
     {
-      "title": "Freitag: Windows-Updates gegen nervige Fehler, Nintendos einfache Spielmigration",
-      "url": "https://www.heise.de/news/Freitag-Windows-Updates-gegen-nervige-Fehler-Nintendos-einfache-Spielmigration-10331818.html",
-      "image_title": "Dunkler Raum mit Laptop mit Windows-Logo auf Tisch; Freitag: Update-Vorschau, Switch-Migration, Wieler-Interview, WhatsApp-Strafe, Facebook-Datenschutz & Verbraucherschutz-Podcast"
+      "title": "Die Upgrade-Falle von Windows 11: Wie man alle Sicherheitsupdates bekommt",
+      "url": "https://www.heise.de/news/Die-Upgrade-Falle-von-Windows-11-Wie-man-alle-Sicherheitsupdates-bekommt-10299962.html"
     },
     {
       "title": "Live Fragen stellenheise+ Expertentalk: Jobs in der IT-Branche",
@@ -588,16 +589,16 @@
       "image_title": "Hand holding Samsung Galaxy smartphone with One UI 7"
     },
     {
+      "title": "Data leak: 1.5 million private photos from dating apps for LGBTQ+ revealed",
+      "url": "https://www.heise.de/en/news/Data-leak-1-5-million-private-photos-from-dating-apps-for-LGBTQ-revealed-10333396.html"
+    },
+    {
       "title": "After Trump's decree: fight for US funding for Tor, F-Droid and Let's Encrypt",
       "url": "https://www.heise.de/en/news/After-Trump-s-decree-fight-for-US-funding-for-Tor-F-Droid-and-Let-s-Encrypt-10328335.html"
     },
     {
-      "title": "First images with Fujifilm's medium format compact GFX100RF",
-      "url": "https://www.heise.de/en/tests/First-images-with-Fujifilm-s-medium-format-compact-GFX100RF-10331025.html"
-    },
-    {
-      "title": "Partial solar eclipse: visible everywhere in Germany depending on cloud cover",
-      "url": "https://www.heise.de/en/news/Partial-solar-eclipse-visible-everywhere-in-Germany-depending-on-cloud-cover-10328039.html"
+      "title": "New LLM jailbreak: Psychologist uses gaslighting against AI filters",
+      "url": "https://www.heise.de/en/news/New-LLM-jailbreak-Psychologist-uses-gaslighting-against-AI-filters-10333462.html"
     },
     {
       "title": "Web-Tipps: Schnell was basteln",
@@ -605,15 +606,15 @@
       "url": "https://www.heise.de/news/Web-Tipps-Schnell-was-basteln-10321574.html"
     },
     {
-      "title": "Defekter StromspeicherSenec lässt Kunden mit defektem Solarstromspeicher im Stich",
-      "teaser": "Ist ein Produkt defekt, muss sich der Hersteller innerhalb der Gewährleistung um Reparatur oder Austausch kümmern. Erst recht bei einem defekten Stromspeicher.",
-      "url": "https://www.heise.de/ratgeber/Senec-laesst-Kunden-mit-defektem-Solarstromspeicher-im-Stich-10328634.html",
-      "image_title": ","
-    },
-    {
       "title": "c't 3003Das Problem mit Passkeys",
       "teaser": "Passkeys sind sicherer als Passwörter, aber Apple, Google & Co. schränken die Nutzung ein. So gehen sie plattformübergreifend.",
       "url": "https://www.heise.de/news/c-t-3003-Das-Problem-mit-Passkeys-10332792.html"
+    },
+    {
+      "title": "Ausprobiert256 GByte RAM im Desktop-PC",
+      "teaser": "Mit neuen 64-GByte-Modulen sind bis zu 256 GByte RAM im PC möglich. Wir haben ausprobiert, auf welchen Plattformen sie funktionieren.",
+      "url": "https://www.heise.de/news/Ausprobiert-256-GByte-RAM-mit-AMD-Ryzen-und-Intel-Core-Ultra-10332315.html",
+      "image_title": "Crucial-Speicherriegel in einem Mainboard"
     },
     {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
@@ -731,22 +732,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Deutschland: Wirklich immun gegen die Opioid-Epidemie?",
-      "teaser": "Deutschland bleibt von der Opioid-Krise verschont: Rückläufige Verordnungen und stabile Kontrollmechanismen verhindern US-amerikanische Zustände.",
-      "url": "https://www.heise.de/tp/features/Deutschland-Wirklich-immun-gegen-die-Opioid-Epidemie-10331032.html",
-      "image_title": "Oxycontin-Tabletten und Grablicht"
+      "title": "Amerikanisch-russische Energiefreundschaft bahnt sich an",
+      "teaser": "Über Nord Stream 2 könnte wieder Erdgas nach Deutschland strömen. Russland und die USA nähern sich in dieser Frage an. Werden die Europäer zur Abnahme verpflichtet?",
+      "url": "https://www.heise.de/tp/features/Amerikanisch-russische-Energiefreundschaft-bahnt-sich-an-10333161.html",
+      "image_title": "Das Nord Stream 2 Logo auf dem iPhone auf der ukrainischen Flagge."
+    },
+    {
+      "title": "Generation Single: Chinas dramatische Heiratskrise",
+      "teaser": "Chinas Eheschließungen sinken rapide, Millionen Männer finden keine Partnerin. Droht China nun eine Ära gekaufter Bräute? Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Generation-Single-Chinas-dramatische-Heiratskrise-10326556.html",
+      "image_title": "Ein Brautpaar von oben"
     },
     {
       "title": "Gewerkschafter kritisieren Lockerung der Schuldenbremse für Militär",
       "teaser": "Sonderschulden fürs Militär stoßen auf Widerstand. Gewerkschafter demonstrieren gegen \"Kriegskredite\". Auch VW-Arbeiter fürchten Umwandlung ihrer Werke in Rüstungsschmieden.",
       "url": "https://www.heise.de/tp/features/Gewerkschafter-kritisieren-Lockerung-der-Schuldenbremse-fuer-Militaer-10329685.html",
       "image_title": "Figur die Panzer einen Geldberg hinaufschiebt wendet sich ab"
-    },
-    {
-      "title": "Schulen ziehen die Notbremse",
-      "teaser": "Smartphones sind im Schulalltag allgegenwärtig. Viele Schulen haben damit zu kämpfen. Kann man das Problem nur noch radikal lösen?",
-      "url": "https://www.heise.de/tp/features/Schulen-ziehen-die-Notbremse-10332387.html",
-      "image_title": "Handyverbotszeichen auf Schultafel gezeichnet und Smartphone, das diese fotogrfiert"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
