@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-01T20:11:05",
+  "timestamp": "2025-04-01T21:08:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ohne Gesetz: Frankreichs Regierung darf Soziale Netze sperren",
+      "url": "https://www.heise.de/news/Ohne-Gesetz-Frankreichs-Regierung-darf-Soziale-Netze-sperren-10336587.html"
+    },
     {
       "title": "Top 10: Der beste Offroad-E-Scooter im Test – fette Reifen und bequeme Federung",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-offroad-e-scooter-mit-federung-im-test/mtwzmjq"
@@ -60,10 +64,6 @@
     {
       "title": "Fotografie: Portfolio von Paloma Rincón vorgestellt",
       "url": "https://www.heise.de/hintergrund/Fotografie-Portfolio-von-Paloma-Rincon-vorgestellt-10287974.html"
-    },
-    {
-      "title": "Treiber der Energiewende: Das EEG feiert 25. Geburtstag",
-      "url": "https://www.heise.de/news/Treiber-der-Energiewende-Das-EEG-feiert-25-Geburtstag-10336381.html"
     },
     {
       "title": "Teureres LizenzmodellVMware: Unternehmen müssen künftig 72 statt 16 Kerne lizenzieren",
@@ -186,20 +186,26 @@
       "image_title": "Weltkarte"
     },
     {
+      "title": "Ohne Gesetz: Frankreichs Regierung darf Soziale Netze sperren",
+      "teaser": "Frankreichs Regierung unter \"außergewöhnlichen Umständen\" Soziale Netze komplett sperren. Gesetz braucht es dafür keines.",
+      "url": "https://www.heise.de/news/Ohne-Gesetz-Frankreichs-Regierung-darf-Soziale-Netze-sperren-10336587.html",
+      "image_title": "Zensur"
+    },
+    {
       "title": "Top 10: Der beste Offroad-E-Scooter im Test – fette Reifen und bequeme Federung",
       "teaser": "Wer mit dem E-Scooter über Bordstein, Pflasterweg, Wald und Wiese pflügen will, benötigt eine gute Federung, robuste Verarbeitung und einen starken Motor. Das muss nicht teuer sein: Der günstige Joyor Y8-S ist überraschend Testsieger – vor Ninebot, Xiaomi und Streetbooster.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-offroad-e-scooter-mit-federung-im-test/mtwzmjq?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
+      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Redesign von Apple Mail: Automatische Kategorien stiften Verwirrung",
       "teaser": "Ab iOS 18.4 und macOS 15.4 sortiert Apples Mail-App alle Nachrichten eigenständig in Kategorien. E-Mails können so aus dem Blick geraten.",
       "url": "https://www.heise.de/news/Redesign-von-Apple-Mail-Automatische-Kategorien-stiften-Verwirrung-10336489.html",
       "image_title": "Die Kategorien im neuen Apple Mail auf dem iPhone"
-    },
-    {
-      "title": "So arbeiten moderne Hacker-Fabriken",
-      "teaser": "Hacker-Gruppen im digitalen Untergrund arbeiten oft schon in industriellem Maßstab. Sie adaptieren neue Technologien, sodass es ständig zu neuen Angriffswellen kommt. Doch die Security-Firmen ergreifen Gegenmaßnahmen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6946150026&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Gericht: Eventim darf Ticketkäufern keine Angst vor Totalverlust machen",
@@ -230,12 +236,6 @@
       "teaser": "Wie sich mit Daten neue Geschäftsmodelle erschließen lassen sollen, erklärte kürzlich der Vizepräsident von SAP.",
       "url": "https://www.heise.de/news/SAP-Vizepraesident-Daten-sind-wie-Oel-in-reinem-Zustand-nicht-nutzbar-10336013.html",
       "image_title": "Science,Research,As,A,Concept,For,Presentation, EHDS, eHealth, Gesundheitsdaten"
-    },
-    {
-      "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im April 2025",
-      "teaser": "Bei Disney+ läuft im April die finale Staffel von \"Star Wars: Andor\". Netflix zeigt den Action-Thriller \"Havoc\" und bei Amazon startet die Serie \"The Bondsman\".",
-      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-April-2025-10336237.html",
-      "image_title": "Film- und Serien-Vorschau April 2025 - Star Wars: Andor"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im April 2025",
+      "teaser": "Bei Disney+ läuft im April die finale Staffel von \"Star Wars: Andor\". Netflix zeigt den Action-Thriller \"Havoc\" und bei Amazon startet die Serie \"The Bondsman\".",
+      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-April-2025-10336237.html",
+      "image_title": "Film- und Serien-Vorschau April 2025 - Star Wars: Andor"
     },
     {
       "title": "Fotografie: Portfolio von Paloma Rincón vorgestellt",
@@ -371,15 +377,15 @@
       "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
+      "title": "NIS2 und ISMS-Optimierung – Ihr Weg zu zertifizierter Informationssicherheit",
+      "teaser": "Die NIS2-Richtlinie bringt neue Herausforderungen für die IT-Sicherheit. Erfahren Sie im Webcast am 3.4., wie Sie Ihr ISMS optimieren, NIS2-Konformität erreichen und nach ISO 27001 oder TISAX zertifizieren können.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/nis2-und-isms-optimierung-ihr-weg-zu-zertifizierter-informationssicherheit-4896/?source=hbsadersatz"
+    },
+    {
       "title": "Malware: Qakbot mit falschen Captchas verteilt",
       "teaser": "Längere Zeit war es still um die Qakbot-Trojaner. Nun verteilen Kriminelle neue Varianten mit Fake-Captchas.",
       "url": "https://www.heise.de/news/Malware-Qakbot-mit-falschen-Captchas-verteilt-10335589.html",
       "image_title": "Nutzer gibt etwas am Rechner ein, Viren fliegen umher"
-    },
-    {
-      "title": "Mobile Workstations: Performance ohne Kompromisse",
-      "teaser": "Mobile Workstations sind oft ein Kompromiss. Leichte Geräte mit langer Akkulaufzeit sind in der Regel weniger leistungsfähig als Alternativen im Tower-Design, hohe Performance geht meist mit mehr Gewicht, größeren Abmessungen und kürzeren Laufzeiten einher. Warum das nicht so sein muss.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/mobile-workstations-performance-ohne-kompromisse-4886/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop: Spezialwissen für KRITIS – Prüfverfahrenskompetenz gemäß § 8a BSIG",
@@ -433,12 +439,6 @@
       "teaser": "Digitale Gesundheitsanwendungen werden immer häufiger verschrieben, dennoch sorgen den Spitzenverband Digitale Gesundheitsversorgung regulatorische Hürden.",
       "url": "https://www.heise.de/news/Apps-auf-Rezept-werden-immer-haeufiger-genutzt-10335198.html",
       "image_title": "Smartphone, auf dem verschiedene Gesundheitssymbole zu sehen sind"
-    },
-    {
-      "title": "Mastering GitOps: So gelingt der Weg von Continuous zu Progressive Delivery",
-      "teaser": "Die Online-Konferenz am 30. April zeigt, wie Progressive Delivery gelingt und sich komplexe Infrastrukturkonfigurationen nach GitOps-Manier umsetzen lassen.",
-      "url": "https://www.heise.de/news/Mastering-GitOps-So-gelingt-der-Weg-von-Continuous-zu-Progressive-Delivery-10334120.html",
-      "image_title": "Mastering GitOps 2025"
     },
     {
       "title": "350 Nanometer: Russland baut erste eigene Lithografie-Systeme",
@@ -611,12 +611,6 @@
       "url": "https://www.heise.de/en/news/New-functions-Package-insert-of-iOS-18-4-at-a-glance-10333923.html"
     },
     {
-      "title": "ElektrofahrradAmpler stellt erstes E-Bike mit USB-C-Ladeanschluss vor",
-      "teaser": "Das Unternehmen Ampler aus Estland bringt die ersten E-Bike-Modelle auf den Markt, die über USB-C geladen werden.",
-      "url": "https://www.heise.de/news/Ampler-stellt-erstes-E-Bike-mit-USB-C-Ladeanschluss-vor-10333918.html",
-      "image_title": "Zwei Fahrräder, die gefahren werden"
-    },
-    {
       "title": "VR-Geschmacks-Interface überträgt das Dinner",
       "teaser": "Ein VR-Interface aus Ohio kann einen digital übertragenen Geschmack im Mund erzeugen. Ebenso analysiert und digitalisiert e-Taste den Geschmack beim Essen.",
       "url": "https://www.heise.de/news/VR-Geschmacks-Interface-uebertraegt-das-Dinner-10332851.html"
@@ -627,22 +621,28 @@
       "url": "https://www.heise.de/tests/Fuenf-Office-Programme-ohne-Microsoft-im-Test-10296744.html"
     },
     {
+      "title": "ElektrofahrradAmpler stellt erstes E-Bike mit USB-C-Ladeanschluss vor",
+      "teaser": "Das Unternehmen Ampler aus Estland bringt die ersten E-Bike-Modelle auf den Markt, die über USB-C geladen werden.",
+      "url": "https://www.heise.de/news/Ampler-stellt-erstes-E-Bike-mit-USB-C-Ladeanschluss-vor-10333918.html",
+      "image_title": "Zwei Fahrräder, die gefahren werden"
+    },
+    {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
       "teaser": "MacBook-Speicher ist teuer und nachträglich aufrüsten unmöglich. Besitzt Ihr Rechner jedoch einen SD-Kartenslot, können Sie hierüber vergleichsweise aufrüsten.",
       "url": "https://www.heise.de/tests/MicroSD-Karten-ab-1-TByte-im-Test-Zusatzplatz-im-MacBook-Pro-10319739.html",
       "image_title": ","
     },
     {
+      "title": "Scharfer SchirmAsus ProArt PA27JCV gegen Apples Studio Display im Test",
+      "teaser": "Der 27-Zoll-Monitor ProArt PA27JCV von Asus konkurriert mit Apples Studio Display.",
+      "url": "https://www.heise.de/tests/Scharfer-Schirm-Asus-ProArt-PA27JCV-gegen-Apples-Studio-Display-10318750.html",
+      "image_title": "ProArt PA27JCV von Asus"
+    },
+    {
       "title": "iPhone- und iPad-Remake\"Lara Croft and the Guardian of Light\" im Test",
       "teaser": "In \"Lara Croft and the Guardian of Light\" ballert sich die berühmte Archäologin allein oder zu zweit durch die Levels – nun auch auf mobiler Apple-Hardware.",
       "url": "https://www.heise.de/tests/Lara-Croft-and-the-Guardian-of-Light-iPhone-und-iPad-Remake-im-Test-10302739.html",
       "image_title": "\"Lara Croft and the Guardian of Light\""
-    },
-    {
-      "title": "Reboot tut gutWarum das iPhone aus Sicherheitsgründen neustartet",
-      "teaser": "Seit iOS 18 starten iPhones und iPads nach längerer Inaktivität automatisch neu. Was das für Nutzer bedeutet und welche Sicherheitsfunktionen dahinterstecken.",
-      "url": "https://www.heise.de/hintergrund/Reboot-tut-gut-Warum-das-iPhone-aus-Sicherheitsgruenden-automatisch-neustartet-10312423.html",
-      "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
     },
     {
       "title": "Maker Bits: Software, Hardware und Infos für Maker",
@@ -743,22 +743,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smart-home-systeme-im-test/mr3xkgr?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Trump-Familie steigt ins Bitcoin-Mining ein",
-      "teaser": "Die Trump-Familie steigt ins Bitcoin-Mining ein. In Kooperation mit Hut 8 gründet sie das Unternehmen American Bitcoin.",
-      "url": "https://www.heise.de/tp/features/Trump-Familie-steigt-ins-Bitcoin-Mining-ein-10335402.html",
-      "image_title": "Bild von Donald Trump mit Bitcoins im Vordergrund"
+      "title": "Urteil gegen Marine Le Pen: EU-Millionenbetrug fällt ihr auf die Füße",
+      "teaser": "Frankreich: Umfrage-Favoritin für Präsidentschaftswahlen verliert passives Wahlrecht. Wie das Urteil begründet ist und warum die Rede von der \"Hinrichtung der Demokratie\" falsch ist.",
+      "url": "https://www.heise.de/tp/features/Urteil-gegen-Marine-Le-Pen-EU-Millionenbetrug-faellt-ihr-auf-die-Fuesse-10335190.html",
+      "image_title": "Screenshot: Marine Le Pen bei den Abendnachrichten des Senders TF1"
     },
     {
-      "title": "Was steckt hinter dem Vorwurf der hybriden Kriegführung Russlands in Europa?",
-      "teaser": "Russland führt bereits Krieg gegen Europa, wird gewarnt. Man verweist auf Sabotage, Spionage und Propaganda. Was von den Anschuldigungen zu halten ist. (Teil 1)",
-      "url": "https://www.heise.de/tp/features/Was-steckt-hinter-dem-Vorwurf-der-hybriden-Kriegfuehrung-Russlands-in-Europa-10329036.html",
-      "image_title": "Ein Kommunikationskabel auf dem Meeresgrund."
+      "title": "Quantencomputer erzeugt erstmals echte Zufallszahl",
+      "teaser": "Quantencomputer mit Meilenstein: Erstmals wurde eine echte Zufallszahl erzeugt. Klassische Computer können das nicht leisten. Doch was macht die Technologie so revolutionär?",
+      "url": "https://www.heise.de/tp/features/Quantencomputer-erzeugt-erstmals-echte-Zufallszahl-10334991.html",
+      "image_title": "Abstrakte Makroaufnahme einer Quantencomputer-Qubit-Zelle."
     },
     {
-      "title": "Blockchain statt Konflikt: Brics smarte Antwort auf Trump und den US-Dollar",
-      "teaser": "Die Brics-Staaten werden sich auch ohne eigene Währung zunehmend vom Dollar und dessen Wechselkurs lösen. Doch entscheidend ist nicht allein der Warenaustausch.",
-      "url": "https://www.heise.de/tp/features/Blockchain-statt-Konflikt-Brics-smarte-Antwort-auf-Trump-und-den-US-Dollar-10333537.html",
-      "image_title": "Ein US-Dollarschein löst sich in digitale Zahlenwerte auf"
+      "title": "Feinstaub: Bisherige Messungen erfassen das wahre Risiko bei schlechter Luftqualität nicht",
+      "teaser": "Staub in Städten ist schädlicher als gedacht. Unsichtbare Giftwolke aus Feinstaub belastet Atemwege. Neue Erkenntnisse stellen bisherige Messwerte infrage.",
+      "url": "https://www.heise.de/tp/features/Feinstaub-Bisherige-Messungen-erfassen-das-wahre-Risiko-bei-schlechter-Luftqualitaet-nicht-10335328.html",
+      "image_title": "Braunkohlekraftwerk"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
