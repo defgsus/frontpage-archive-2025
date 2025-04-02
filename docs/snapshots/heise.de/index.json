@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-02T20:10:37",
+  "timestamp": "2025-04-02T21:08:34",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Blackberry schrumpft, Betriebsgewinn verschwindet",
+      "url": "https://www.heise.de/news/Blackberry-schrumpft-Betriebsgewinn-verschwindet-10338157.html"
+    },
     {
       "title": "Fiberdays 25: Digitalminister der Länder wollen Bundesdigitalministerium",
       "url": "https://www.heise.de/news/Fiberdays-25-Digitalminister-der-Laender-wollen-Bundesdigitalministerium-10338082.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/news/iX-Praxis-Workshop-Cloud-native-Softwareentwicklung-mit-Kubernetes-und-Docker-10298226.html"
     },
     {
-      "title": "Elektroautos: Tesla verkauft im ersten Quartal 13 Prozent weniger Fahrzeuge",
-      "url": "https://www.heise.de/news/Elektroautos-Tesla-verkauft-im-ersten-Quartal-13-Prozent-weniger-Fahrzeuge-10337720.html"
-    },
-    {
       "title": "Nintendo-KonsoleSwitch 2 erscheint am 5. Juni für 470 Euro",
       "teaser": "Mehr Pixel und mehr Speicher: Nintendo hat erste Hardware-Details zur Switch 2 angekündigt. Der Preis wurde hochgeschraubt.",
       "url": "https://www.heise.de/news/Nintendo-Switch-2-erscheint-am-5-Juni-10337342.html",
@@ -89,22 +89,22 @@
       "image_title": ","
     },
     {
-      "title": "\"But her emails!\"Trumps Sicherheitsberater benutzte Gmail für Amtsgeschäfte",
-      "teaser": "Mitglieder der US-Regierung sollen Amtsgeschäfte über Gmail erledigt haben. Auch Trumps Sicherheitsberater ist wieder dabei.",
-      "url": "https://www.heise.de/news/Donald-Trumps-Sicherheitsberater-soll-Gmail-fuer-Amtsgeschaefte-genutzt-haben-10336673.html",
-      "image_title": "Nahaufnahme eines Smartphones, auf dem Gmail geöffnet ist"
-    },
-    {
-      "title": "Im AprilNeue Filme und Serien bei Netflix, Disney+ und Amazon Prime",
-      "teaser": "Bei Disney+ läuft im April die finale Staffel von \"Star Wars: Andor\". Netflix zeigt \"Havoc\" und Amazon \"The Bondsman\".",
-      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-April-2025-10336237.html",
-      "image_title": "Film- und Serien-Vorschau April 2025 - Star Wars: Andor"
-    },
-    {
       "title": "Nach dem Update alles automatischiOS 18.4 aktiviert Auto-Aktualisierung",
       "teaser": "Apple will, dass Nutzer ihr iPhone schneller aktualisieren. Das lässt sich zwar abstellen, ist aber nun voraktiviert.",
       "url": "https://www.heise.de/news/iOS-Apple-aktiviert-Auto-Update-seines-Betriebssystems-10335092.html",
       "image_title": "Screenshot Software-Update nach iOS 18.4"
+    },
+    {
+      "title": "Rezension: \"Ein Minecraft Film\"Klotzübel und trotzdem unterhaltsam",
+      "teaser": "Aus Computerspielen gute Filme zu machen, ist bekanntlich schwierig. Ist es bei \"Ein Minecraft Film\" gelungen?",
+      "url": "https://www.heise.de/news/Ein-Minecraft-Film-Klotzuebel-und-trotzdem-unterhaltsam-10338076.html",
+      "image_title": "Screenshot aus Film-Trailer"
+    },
+    {
+      "title": "Neue HinweiseGoogle baut ChromeOS angeblich radikal um",
+      "teaser": "ChromeOS soll künftig auf Android basieren, um ein Desktop-Betriebssystem zu entwickeln. Dafür gibt es neue Hinweise.",
+      "url": "https://www.heise.de/news/Android-fuer-den-Desktop-Google-testet-mobilen-Chrome-Browser-mit-Erweiterungen-10337671.html",
+      "image_title": "Android-Maskottchen vor Googles Firmenzentrale"
     },
     {
       "title": "Unter 5 EuroPflanzensensor selbst bauen",
@@ -128,10 +128,9 @@
       "url": "https://www.heise.de/hintergrund/Energiewende-So-profitieren-Gemeinden-staerker-von-der-Windenergie-10297604.html"
     },
     {
-      "title": "\"Wachsende Risiken und Kosten\"KI-Scraper setzen Wikipedia immer mehr unter Druck",
-      "teaser": "Wikipedia gehört zu den beliebtesten Internetseiten, auch auf Zugriffsrekorde ist man vorbereitet. KI-Scraper erschweren das aber.",
-      "url": "https://www.heise.de/news/KI-Scraper-belasten-Wikipedia-50-Prozent-mehr-Bandbreite-fuer-Multimedia-Abrufe-10336776.html",
-      "image_title": "Wikipedia auf einem Tablet"
+      "title": "Meta AIDas kann die WhatsApp-KI",
+      "teaser": "WhatsApp hat jetzt eine eigene KI. Was genau die kann, erklären wir Ihnen hier.",
+      "url": "https://www.heise.de/tipps-tricks/Meta-AI-Das-kann-die-WhatsApp-KI-10334140.html"
     },
     {
       "title": "Praxistipps zu iOS 18.4Apple Intelligence jetzt in Deutschland nutzen",
@@ -143,6 +142,35 @@
       "title": "Vorteil durch dynamische StromtarifePV-Heimspeicher mit Netzstrom laden",
       "teaser": "Mit Heimspeicher und dynamischem Tarif könnte man sich günstigen Strom für teure Zeiten sichern. Dazu lastet man den Speicher besser aus.",
       "url": "https://www.heise.de/hintergrund/PV-Heimspeicher-mit-Netzstrom-laden-Was-moeglich-ist-und-ob-es-sich-lohnt-10278256.html"
+    },
+    {
+      "title": "ElektromobilitätVerzögerung beim bidirektionalen Laden",
+      "teaser": "Der Start des bidirektionalen Ladens verzögert sich in Deutschland. Ein Grund dafür ist die Kleinstaaterei bei den Grid Codes.",
+      "url": "https://www.heise.de/hintergrund/Elektromobilitaet-Verzoegerung-beim-bidirektionalen-Laden-10337547.html",
+      "image_title": "Renault R5"
+    },
+    {
+      "title": "Im AprilNeue Filme und Serien bei Netflix, Disney+ und Amazon Prime",
+      "teaser": "Bei Disney+ läuft im April die finale Staffel von \"Star Wars: Andor\". Netflix zeigt \"Havoc\" und Amazon \"The Bondsman\".",
+      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-April-2025-10336237.html",
+      "image_title": "Film- und Serien-Vorschau April 2025 - Star Wars: Andor"
+    },
+    {
+      "title": "Elektronische PatientenakteTestphase läuft schlechter als erwartet",
+      "teaser": "Der Start der elektronischen Patientenakte 3.0 läuft laut Ärzten aus Testregionen schlechter als erwartet.",
+      "url": "https://www.heise.de/news/Elektronische-Patientenakte-Aerzte-halten-bundesweiten-Rollout-fuer-zu-frueh-10335654.html",
+      "image_title": "Smartphone mit Telemedizin-App"
+    },
+    {
+      "title": "Streaming in 4KParamount+ mit Premiumabo ausprobiert",
+      "teaser": "Paramount+ hat sein Angebot aufgefächert und bietet nun ein Premiumabo mit besserem Bild und Ton an.",
+      "url": "https://www.heise.de/tests/Paramount-mit-Premiumabo-und-verbilligter-Werbevariante-10336205.html"
+    },
+    {
+      "title": "Teureres LizenzmodellVMware: Unternehmen müssen künftig 72 statt 16 Kerne lizenzieren",
+      "teaser": "Strafzahlungen kehren zurück und die Zahl der mindestens zu lizenzierenden Kerne steigt an: Broadcom strukturiert weiter um.",
+      "url": "https://www.heise.de/news/VMware-Unternehmen-muessen-kuenftig-72-statt-16-Kerne-lizenzieren-10335539.html",
+      "image_title": "VMware-Logo"
     },
     {
       "title": "Spekulationen über die HintergründeSamsung muss Start des Galaxy S25 Edge wohl verschieben",
@@ -157,33 +185,10 @@
       "image_title": "Künstlerische Darstellung eines Asteroiden, im Hintergrund die Erde"
     },
     {
-      "title": "Teureres LizenzmodellVMware: Unternehmen müssen künftig 72 statt 16 Kerne lizenzieren",
-      "teaser": "Strafzahlungen kehren zurück und die Zahl der mindestens zu lizenzierenden Kerne steigt an: Broadcom strukturiert weiter um.",
-      "url": "https://www.heise.de/news/VMware-Unternehmen-muessen-kuenftig-72-statt-16-Kerne-lizenzieren-10335539.html",
-      "image_title": "VMware-Logo"
-    },
-    {
-      "title": "Streaming in 4KParamount+ mit Premiumabo ausprobiert",
-      "teaser": "Paramount+ hat sein Angebot aufgefächert und bietet nun ein Premiumabo mit besserem Bild und Ton an.",
-      "url": "https://www.heise.de/tests/Paramount-mit-Premiumabo-und-verbilligter-Werbevariante-10336205.html"
-    },
-    {
-      "title": "Elektronische PatientenakteTestphase läuft schlechter als erwartet",
-      "teaser": "Der Start der elektronischen Patientenakte 3.0 läuft laut Ärzten aus Testregionen schlechter als erwartet.",
-      "url": "https://www.heise.de/news/Elektronische-Patientenakte-Aerzte-halten-bundesweiten-Rollout-fuer-zu-frueh-10335654.html",
-      "image_title": "Smartphone mit Telemedizin-App"
-    },
-    {
-      "title": "Orange Pi RVRaspberry-Pi-Alternative mit RISC-V",
-      "teaser": "Nach langer Wartezeit erscheint das RISC-V-Board mit bis 8 GByte RAM, HDMI, USB 3.0, M.2-SSD-Slot und WLAN.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-Alternative-mit-RISC-V-Orange-Pi-RV-10337391.html",
-      "image_title": "Man sieht das Board von schräg oben. Es sieht aus wie ein Raspi."
-    },
-    {
-      "title": "Zahlen, bitte!Verrückt: Für ×3 brauchte der Pentium einen eigenen Schaltkreis",
-      "teaser": "Der Intel Pentium hat eigenständige Transistoren nur für die Multiplikation mit 3. Dieser Teil war größer als ein ganzer Z80. (Teil 1)",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Verrueckt-Fuer-X3-brauchte-der-Pentium-einen-eigenen-Schaltkreis-10323633.html",
-      "image_title": "Intel Pentium 90"
+      "title": "Blackberry schrumpft, Betriebsgewinn verschwindet",
+      "teaser": "Blackberry kämpft mit sinkenden Umsätzen. Die Aktie kehrt zur Erde zurück.",
+      "url": "https://www.heise.de/news/Blackberry-schrumpft-Betriebsgewinn-verschwindet-10338157.html",
+      "image_title": "Blackberry Logo"
     },
     {
       "title": "Fiberdays 25: Digitalminister der Länder wollen Bundesdigitalministerium",
@@ -192,15 +197,9 @@
       "image_title": "Hinter einem Pult stehen fünf Herren und zwei Damen, die jeweils eine Hand nach einem großen roten Kopf strecken; auf dem Pult ist vorne \"fiberdays\" aufgedruckt"
     },
     {
-      "title": "\"Ein Minecraft Film\": Klotzübel und trotzdem unterhaltsam",
-      "teaser": "Aus Computerspielen gute Filme zu machen, ist bekanntlich schwierig. Ist es bei \"Ein Minecraft Film\" gelungen? Wir haben uns in die Klötzchenwelt begeben.",
-      "url": "https://www.heise.de/news/Ein-Minecraft-Film-Klotzuebel-und-trotzdem-unterhaltsam-10338076.html",
-      "image_title": "Screenshot aus Film-Trailer"
-    },
-    {
-      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
-      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
+      "title": "So arbeiten moderne Hacker-Fabriken",
+      "teaser": "Hacker-Gruppen im digitalen Untergrund arbeiten oft schon in industriellem Maßstab. Sie adaptieren neue Technologien, sodass es ständig zu neuen Angriffswellen kommt. Doch die Security-Firmen ergreifen Gegenmaßnahmen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6946150026&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Das beste Tablet im Test – Apple, Samsung, Xiaomi, Lenovo & Co.",
@@ -319,12 +318,6 @@
       "image_title": "Fußabdrücke und Spuren des Mondfahrzeugs der Apollo-14-Mission im Mondstaub"
     },
     {
-      "title": "Neue Hinweise: Google baut ChromeOS angeblich radikal um",
-      "teaser": "Googles ChromeOS soll künftig auf Android basieren, um ein Desktop-Betriebssystem zu entwickeln. Nun wurden neue Hinweise auf diesen Plan entdeckt.",
-      "url": "https://www.heise.de/news/Android-fuer-den-Desktop-Google-testet-mobilen-Chrome-Browser-mit-Erweiterungen-10337671.html",
-      "image_title": "Android-Maskottchen vor Googles Firmenzentrale"
-    },
-    {
       "title": "Open-Ear-Kopfhörer Huawei FreeArc im Test: Optimal für Sportler",
       "teaser": "Die Open-Ear-Kopfhörer Huawei FreeArc versprechen eine Kombination aus optimalem Tragekomfort und hochwertigem Klang. Wir klären im Test, was die FreeArc taugen.",
       "url": "https://www.heise.de/bestenlisten/testbericht/open-ear-kopfhoerer-huawei-freearc-im-test/1pgs2z5?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -364,21 +357,10 @@
       "url": "https://www.heise.de/tests/Gimbal-fuers-Smartphone-Insta360-Flow-2-Pro-mit-KI-Tracker-im-Test-10326489.html"
     },
     {
-      "title": "Elektromobilität: Verzögerung beim bidirektionalen Laden",
-      "teaser": "Der Start des bidirektionalen Ladens verzögert sich in Deutschland. Ein Grund dafür ist die Kleinstaaterei bei den Grid Codes. Ist Besserung in Sicht?",
-      "url": "https://www.heise.de/hintergrund/Elektromobilitaet-Verzoegerung-beim-bidirektionalen-Laden-10337547.html",
-      "image_title": "Renault R5"
-    },
-    {
       "title": "Kidflix: Ermittler heben Kinderporno-Netzwerk aus und nehmen 79 Verdächtige fest",
       "teaser": "Bereits seit Anfang 2022 beschäftigten sich Ermittler mit der Darknet-Plattform. Diese bot wie ihr Namensvorbild Streaming-Videos an - jetzt ist sie gesperrt.",
       "url": "https://www.heise.de/news/Kidflix-Ermittler-heben-Paedophilen-Netzwerk-aus-und-nehmen-79-Verdaechtige-fest-10337566.html",
       "image_title": "Sperrbanner Kidflix"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Bitkom-Bildungskonferenz: Digitale Bildung, Souveränität und eine Bundeszentrale",
@@ -391,6 +373,11 @@
       "teaser": "Fünf Sicherheitslücken gefährden Computer, auf denen Zabbix installiert ist.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Netzwerkmonitoringtool-Zabbix-bietet-Angriffsflaeche-10337461.html",
       "image_title": "Update-Schild vor buntem Hintergrund"
+    },
+    {
+      "title": "Mobile Workstations: Performance ohne Kompromisse",
+      "teaser": "Mobile Workstations sind oft ein Kompromiss. Leichte Geräte mit langer Akkulaufzeit sind in der Regel weniger leistungsfähig als Alternativen im Tower-Design, hohe Performance geht meist mit mehr Gewicht, größeren Abmessungen und kürzeren Laufzeiten einher. Warum das nicht so sein muss.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/mobile-workstations-performance-ohne-kompromisse-4886/?source=hbsadersatz"
     },
     {
       "title": "Samsung Galaxy Tab S10 FE: Zwei neue Android-Tablets im Anmarsch",
@@ -429,6 +416,12 @@
       "image_title": "Gadget-Inspector-Logo."
     },
     {
+      "title": "Raspberry-Pi-Alternative mit RISC-V: Orange Pi RV",
+      "teaser": "Nach langer Wartezeit erscheint das RISC-V-Board mit bis 8 GByte RAM, HDMI, USB 3.0, M.2-SSD-Slot und WLAN.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-Alternative-mit-RISC-V-Orange-Pi-RV-10337391.html",
+      "image_title": "Man sieht das Board von schräg oben. Es sieht aus wie ein Raspi."
+    },
+    {
       "title": "Mammografie-Screening: Start-up \"Vara.ai\" setzt auf die Open Telekom Cloud",
       "teaser": "Das Start-up Vara nutzt für sein KI-basiertes Mammografie-Screening künftig die Open Telekom Cloud.",
       "url": "https://www.heise.de/news/Mammografie-Screening-Start-up-Vara-ai-setzt-auf-die-Open-Telekom-Cloud-10336601.html",
@@ -439,6 +432,12 @@
       "teaser": "Die NASA hat ihr kürzlich gestartetes Weltraumteleskop SPHEREx in Betrieb genommen. Die wissenschaftliche Mission soll Ende des Monats beginnen.",
       "url": "https://www.heise.de/news/Weltraumteleskop-SPHEREx-schickt-erste-Bilder-zur-Erde-10337045.html",
       "image_title": "Himmelsbild, aufgenommen von SPHEREx"
+    },
+    {
+      "title": "AlertCanon-Warnung: Druckertreiber ermöglichen Codeschmuggel",
+      "teaser": "Canon hat eine Warnung vor Sicherheitslücken in Druckertreibern veröffentlicht. Angreifer könnten Code einschleusen. Auch in einige Drucker.",
+      "url": "https://www.heise.de/news/Canon-Warnung-Druckertreiber-ermoeglichen-Codeschmuggel-10337001.html",
+      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
     },
     {
       "title": "350 Nanometer: Russland baut erste eigene Lithografie-Systeme",
@@ -466,9 +465,9 @@
       "image_title": "Rendering des Überschallflugzeuges Comac C949"
     },
     {
-      "title": "Forscher machen Holz durchsichtig – mit Reis und Eiweiß",
-      "url": "https://www.heise.de/news/Durchsichtiges-Holz-Forschende-testen-neue-Rezeptur-mit-Lebensmitteln-10335033.html",
-      "image_title": "Schild auf dem steht: Transparent wood"
+      "title": "Zahlen, bitte! Verrückt: Für ×3 brauchte der Pentium einen eigenen Schaltkreis",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Verrueckt-Fuer-X3-brauchte-der-Pentium-einen-eigenen-Schaltkreis-10323633.html",
+      "image_title": "Intel Pentium 90"
     },
     {
       "title": "Ampler stellt erstes E-Bike mit USB-C-Ladeanschluss vor",
@@ -612,10 +611,10 @@
       "url": "https://www.heise.de/en/news/4o-model-New-image-generator-in-ChatGPT-10328961.html"
     },
     {
-      "title": "Hacking-Gadget im Test: Lilygo T-Embed CC1101",
-      "teaser": "Der Erfolg des Hacking-Gadgets Flipper Zero lockt Nachahmer. Einer davon ist der Lilygo T-Embed CC1101, der nur ein Viertel kostet und schon WLAN enthält.",
-      "url": "https://www.heise.de/tests/Hacking-Gadget-im-Test-Lilygo-T-Embed-CC1101-10316111.html",
-      "image_title": ","
+      "title": "Samsung Galaxy Tab S10 FE: Zwei neue Android-Tablets im Anmarsch",
+      "teaser": "Das FE-Modell ist bei Samsung die günstigere Alternative zum Galaxy Tab S10+ und Ultra. Das Tablet kommt in zwei Größen.",
+      "url": "https://www.heise.de/news/Samsung-Galaxy-Tab-S10-FE-Zwei-neue-Android-Tablets-im-Anmarsch-10336948.html",
+      "image_title": "Samsung Galaxy Tab S10 FE von vorn und hinten"
     },
     {
       "title": "Im Test: Adobes Bildbearbeitung komplett auf Mobilgeräten",
@@ -623,9 +622,10 @@
       "url": "https://www.heise.de/tests/Im-Test-Adobes-Bildbearbeitung-komplett-auf-Mobilgeraeten-10334453.html"
     },
     {
-      "title": "Streaming in 4KParamount+ mit Premiumabo ausprobiert",
-      "teaser": "Paramount+ hat sein Angebot aufgefächert und bietet nun ein Premiumabo mit besserem Bild und Ton an.",
-      "url": "https://www.heise.de/tests/Paramount-mit-Premiumabo-und-verbilligter-Werbevariante-10336205.html"
+      "title": "Spekulationen über die HintergründeSamsung muss Start des Galaxy S25 Edge wohl verschieben",
+      "teaser": "Die Zeichen mehren sich, dass Samsung den Start des Galaxy S25 Edge verschieben muss. Über die Gründe wird spekuliert.",
+      "url": "https://www.heise.de/news/Samsung-muss-Start-des-Galaxy-S25-Edge-wohl-verschieben-10336746.html",
+      "image_title": "Samsung Galaxy S25 Edge auf der Messe"
     },
     {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
@@ -664,12 +664,6 @@
       "image_title": ","
     },
     {
-      "title": "Fotografie: Portfolio von Paloma Rincón vorgestellt",
-      "teaser": "Die außergewöhnlichen Stillleben der mexikanischen Fotografin lassen die Grenzen zwischen Realität und Fantasie verschwimmen.",
-      "url": "https://www.heise.de/hintergrund/Fotografie-Portfolio-von-Paloma-Rincon-vorgestellt-10287974.html",
-      "image_title": "Mit ihrer Serie \"Mental Health\" hat die Fotografin ein sensibles Thema auf poppige und zugleich abstrakte Weise in Szene gesetzt hat., Paloma Rincon"
-    },
-    {
       "title": "Stürzende Linien und Opas Möbel: Click Boom Flash # 34 \"Immobilienfotos\"",
       "teaser": "Der Hotelier möchte einen schöneren Himmel im Bild, der Makler Möbel, wo keine sind. In der Immobilienfotografie ist das Alltag, aber es gibt auch Grenzen.",
       "url": "https://www.heise.de/news/Von-Grossbaustelle-bis-Luxushotel-Click-Boom-Flash-34-Immobilienfotos-10332633.html",
@@ -684,6 +678,11 @@
       "title": "Canons Doppel-V und Sonys halbe Kamera – die Fotonews der Woche 13/2025",
       "teaser": "Zwei Kameras unter 1000 Euro sollen mehr als Vlogging können, ein neues Profi-Objektiv gibt es auch von Canon, und Sony halbiert eine Cine-Kamera.",
       "url": "https://www.heise.de/news/Canons-Doppel-V-und-Sonys-halbe-Kamera-die-Fotonews-der-Woche-13-2025-10332421.html"
+    },
+    {
+      "title": "Von Saharastaub, Kristallen und Sonnenuntergängen: Die Bilder der Woche 12",
+      "teaser": "Saharastaub färbt den Abendhimmel, glitzernde Kristalle schimmern im Detail – auch diese Woche zeigen unsere Galeriefotografen wieder Vielfalt.",
+      "url": "https://www.heise.de/news/Von-Saharastaub-Kristallen-und-Sonnenuntergaengen-Die-Bilder-der-Woche-12-10330327.html"
     },
     {
       "title": "Verschiedene Formate von Sprachmodellen im Überblick",
@@ -760,10 +759,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smart-home-systeme-im-test/mr3xkgr?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Medialer Corona-Check: Was von den Gewissheiten übrig blieb",
-      "teaser": "Fünf Jahre nach Corona ziehen Medien Bilanz. Rückblickend gibt es mehr Kritik, als seinerzeit für zulässig gehalten wurde. Schlagwort \"Verschwörungstheorie\" bleibt.",
-      "url": "https://www.heise.de/tp/features/Medialer-Corona-Check-Was-von-den-Gewissheiten-uebrig-blieb-10335750.html",
-      "image_title": "Grafische Darstellung eines Sendeturms mit dem Corona-Virus an der Spitze des Turms."
+      "title": "Sulfurylfluorid: 7.500 Mal klimaschädlicher als CO2 und weiter zugelassen",
+      "teaser": "Ein hochgiftiges Gas bedroht unser Klima. Sulfurylfluorid wird massenhaft im Hamburger Hafen eingesetzt. Umweltverbände klagen jetzt dagegen.",
+      "url": "https://www.heise.de/tp/features/Sulfurylfluorid-7-500-Mal-klimaschaedlicher-als-CO2-und-weiter-zugelassen-10332129.html",
+      "image_title": "Profume-Gasflasche vor Holz mit Borkenkäfer-Verbotsschild und Erdkugel mit Teperaturwarnschild"
     },
     {
       "title": "Feinstaub: Bisherige Messungen erfassen das wahre Risiko bei schlechter Luftqualität nicht",
@@ -772,10 +771,10 @@
       "image_title": "Braunkohlekraftwerk"
     },
     {
-      "title": "Klimafolgen in Europa: Auswirkungen auf Lebensmittel",
-      "teaser": "Schimmelpilze breiten sich aus. Die Folgen des Klimawandels durch Zuwanderung nicht heimischer Arten werden oft ignoriert: Risiken durch neue Pilz- und Insektenarten.",
-      "url": "https://www.heise.de/tp/features/Klimafolgen-in-Europa-Auswirkungen-auf-Lebensmittel-10337240.html",
-      "image_title": "Junge Frau, die Essen im Teller mit der Lupe inspiziert"
+      "title": "Eisbaden: Der coole Trend für heiße Fitness-Erfolge",
+      "teaser": "Eisbäder sind beliebt, aber halten sie, was sie versprechen? Studien zeigen: Für Sportler können sie die Regeneration verbessern. Doch Vorsicht - es gibt auch Risiken!",
+      "url": "https://www.heise.de/tp/features/Eisbaden-Der-coole-Trend-fuer-heisse-Fitness-Erfolge-10337075.html",
+      "image_title": "Ein Mann sitzt in einem Fass mit großen Eiswürfeln."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
