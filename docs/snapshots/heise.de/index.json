@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-03T02:20:04",
+  "timestamp": "2025-04-03T03:25:51",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Amazon startet die ersten Internetsatelliten für Project Kuiper nächste Woche",
+      "url": "https://www.heise.de/news/Amazon-startet-die-ersten-Internetsatelliten-fuer-Project-Kuiper-naechste-Woche-10338209.html"
+    },
     {
       "title": "Blackberry schrumpft, Betriebsgewinn verschwindet",
       "url": "https://www.heise.de/news/Blackberry-schrumpft-Betriebsgewinn-verschwindet-10338157.html"
@@ -60,10 +64,6 @@
     {
       "title": "This Code is our Code: Dave Täht ist gestorben",
       "url": "https://www.heise.de/news/This-Code-is-our-Code-Abschied-von-Bufferbloat-Bezwinger-Dave-Taeht-10337905.html"
-    },
-    {
-      "title": "iX-Praxis-Workshop: Cloud-native Softwareentwicklung mit Kubernetes und Docker",
-      "url": "https://www.heise.de/news/iX-Praxis-Workshop-Cloud-native-Softwareentwicklung-mit-Kubernetes-und-Docker-10298226.html"
     },
     {
       "title": "Nintendo-KonsoleSwitch 2 erscheint am 5. Juni für 470 Euro",
@@ -185,21 +185,27 @@
       "image_title": "Künstlerische Darstellung eines Asteroiden, im Hintergrund die Erde"
     },
     {
+      "title": "Amazon startet die ersten Internetsatelliten für Project Kuiper nächste Woche",
+      "teaser": "Am 9. April sollen die ersten Satelliten für Amazons Weltrauminternet in den Orbit gebracht werden. Doch Amazon hat Zeitdruck für das Netz aus 3200 Satelliten.",
+      "url": "https://www.heise.de/news/Amazon-startet-die-ersten-Internetsatelliten-fuer-Project-Kuiper-naechste-Woche-10338209.html",
+      "image_title": "Raketenstufe auf einem Fahrzeug vor einem Amazon-Gebäude"
+    },
+    {
       "title": "Blackberry schrumpft, Betriebsgewinn verschwindet",
       "teaser": "Blackberry kämpft mit sinkenden Umsätzen. Die Aktie kehrt zur Erde zurück.",
       "url": "https://www.heise.de/news/Blackberry-schrumpft-Betriebsgewinn-verschwindet-10338157.html",
       "image_title": "Blackberry Logo"
     },
     {
+      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
+      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Fiberdays 25: Digitalminister der Länder wollen Bundesdigitalministerium",
       "teaser": "Zum Auftakt der Fiberdays 25 in Frankfurt am Main hatte die hessische Digitalministerin Kristina Sinemus gute Neuigkeiten für die Glasfaserbranche im Gepäck.",
       "url": "https://www.heise.de/news/Fiberdays-25-Digitalminister-der-Laender-wollen-Bundesdigitalministerium-10338082.html",
       "image_title": "Hinter einem Pult stehen fünf Herren und zwei Damen, die jeweils eine Hand nach einem großen roten Kopf strecken; auf dem Pult ist vorne \"fiberdays\" aufgedruckt"
-    },
-    {
-      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
-      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Das beste Tablet im Test – Apple, Samsung, Xiaomi, Lenovo & Co.",
@@ -230,12 +236,6 @@
       "url": "https://www.heise.de/hintergrund/c-t-Story-Die-letzte-Vernehmung-10304880.html"
     },
     {
-      "title": "This Code is our Code: Dave Täht ist gestorben",
-      "teaser": "Dave Täht engagierte sich für Open-Source-Software und das Recht auf Reparatur. Er ist im Alter von 59 Jahren gestorben.",
-      "url": "https://www.heise.de/news/This-Code-is-our-Code-Abschied-von-Bufferbloat-Bezwinger-Dave-Taeht-10337905.html",
-      "image_title": "Dave Täht mit Kastenhalslaute"
-    },
-    {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
       "teaser": "Die Schweiz lockt mit hohen Gehältern. Auch die Lebensqualität ist gut. Wir zeigen, wie ITler auswandern können – und wie viel sie verdienen.",
       "url": "https://www.heise.de/ratgeber/Auswandern-Als-ITler-in-der-Schweiz-arbeiten-10296203.html"
@@ -263,17 +263,16 @@
       "url": "https://www.heise.de/news/DOGE-will-offenbar-COBOL-bei-US-Sozialkasse-ersetzen-innerhalb-von-Monaten-10333616.html"
     },
     {
-      "title": "VW ID.7 Pro S Tourer im Test: Der bessere Passat",
-      "url": "https://www.heise.de/tests/VW-ID-7-Pro-S-Tourer-im-Test-Der-bessere-Passat-10331892.html",
-      "image_title": "VW ID.7"
-    },
-    {
       "title": "Fünf Office-Programme ohne Microsoft im Test",
       "url": "https://www.heise.de/tests/Fuenf-Office-Programme-ohne-Microsoft-im-Test-10296744.html"
     },
     {
-      "title": "E-Auto Alpine A290 im Fahrbericht: Klein, aber mächtig",
-      "url": "https://www.heise.de/tests/E-Auto-Alpine-A290-im-Fahrbericht-Der-flottgemachte-Renault-5-10331168.html"
+      "title": "VW ID.7 Pro S Tourer im Test: Der bessere Passat",
+      "url": "https://www.heise.de/tests/VW-ID-7-Pro-S-Tourer-im-Test-Der-bessere-Passat-10331892.html"
+    },
+    {
+      "title": "22 Tipps zu iOS 18.4: Apple Intelligence auf iPhones in Deutschland",
+      "url": "https://www.heise.de/ratgeber/22-Tipps-zu-iOS-18-4-Apple-Intelligence-auf-iPhones-in-Deutschland-10329236.html"
     },
     {
       "title": "Zeitumstellung: Warum die MEZ die Abschaffung verhindert",
@@ -298,6 +297,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "This Code is our Code: Dave Täht ist gestorben",
+      "teaser": "Dave Täht engagierte sich für Open-Source-Software und das Recht auf Reparatur. Er ist im Alter von 59 Jahren gestorben.",
+      "url": "https://www.heise.de/news/This-Code-is-our-Code-Abschied-von-Bufferbloat-Bezwinger-Dave-Taeht-10337905.html",
+      "image_title": "Dave Täht mit Kastenhalslaute"
     },
     {
       "title": "iX-Praxis-Workshop: Cloud-native Softwareentwicklung mit Kubernetes und Docker",
@@ -369,15 +374,15 @@
       "image_title": "Ein Hüpfspiel wurde mit bunter Kreide auf den Boden gemalt. In den Hüpfkästchen befinden sich keine Zahlen, sondern Dollarzeichen."
     },
     {
+      "title": "Cybersecurity 2025: Warum IT-Sicherheit ein solides Fundament benötigt",
+      "teaser": "Die Bedrohungslage wird sich auch 2025 weiter verschärfen. Unternehmen müssen daher ihre IT-Sicherheit kontinuierlich ausbauen. Das ist jedoch nur auf Basis einer soliden IT-Infrastruktur möglich.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/cybersecurity-2025-warum-it-sicherheit-ein-solides-fundament-benoetigt-4890/?source=hbsadersatz"
+    },
+    {
       "title": "AlertSicherheitsupdates: Netzwerkmonitoringtool Zabbix bietet Angriffsfläche",
       "teaser": "Fünf Sicherheitslücken gefährden Computer, auf denen Zabbix installiert ist.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Netzwerkmonitoringtool-Zabbix-bietet-Angriffsflaeche-10337461.html",
       "image_title": "Update-Schild vor buntem Hintergrund"
-    },
-    {
-      "title": "Cybersecurity 2025: Warum IT-Sicherheit ein solides Fundament benötigt",
-      "teaser": "Die Bedrohungslage wird sich auch 2025 weiter verschärfen. Unternehmen müssen daher ihre IT-Sicherheit kontinuierlich ausbauen. Das ist jedoch nur auf Basis einer soliden IT-Infrastruktur möglich.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/cybersecurity-2025-warum-it-sicherheit-ein-solides-fundament-benoetigt-4890/?source=hbsadersatz"
     },
     {
       "title": "Samsung Galaxy Tab S10 FE: Zwei neue Android-Tablets im Anmarsch",
@@ -434,35 +439,19 @@
       "image_title": "Himmelsbild, aufgenommen von SPHEREx"
     },
     {
-      "title": "AlertCanon-Warnung: Druckertreiber ermöglichen Codeschmuggel",
-      "teaser": "Canon hat eine Warnung vor Sicherheitslücken in Druckertreibern veröffentlicht. Angreifer könnten Code einschleusen. Auch in einige Drucker.",
-      "url": "https://www.heise.de/news/Canon-Warnung-Druckertreiber-ermoeglichen-Codeschmuggel-10337001.html",
-      "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
+      "title": "\"But her emails!\": Trumps Sicherheitsberater benutzte Gmail für Amtsgeschäfte",
+      "url": "https://www.heise.de/news/Donald-Trumps-Sicherheitsberater-soll-Gmail-fuer-Amtsgeschaefte-genutzt-haben-10336673.html",
+      "image_title": "Nahaufnahme eines Smartphones, auf dem Gmail geöffnet ist"
     },
     {
-      "title": "350 Nanometer: Russland baut erste eigene Lithografie-Systeme",
-      "url": "https://www.heise.de/news/Chipherstellung-Russland-baut-erste-eigene-Lithografie-Systeme-10334504.html",
-      "image_title": "Chip auf Mainboard"
+      "title": "UpdateRedesign von Apple Mail: Automatische Kategorien stiften Verwirrung",
+      "url": "https://www.heise.de/news/Redesign-von-Apple-Mail-Automatische-Kategorien-stiften-Verwirrung-10336489.html",
+      "image_title": "Die Kategorien im neuen Apple Mail auf dem iPhone"
     },
     {
-      "title": "UpdateiOS 18.4 Release: Apple Intelligence landet in Deutschland",
-      "url": "https://www.heise.de/news/iOS-18-4-Release-Apple-Intelligence-landet-in-Deutschland-10334937.html",
-      "image_title": "Apple-Zeichen auf einem Smartphone"
-    },
-    {
-      "title": "UpdateDatenklau: 270.000 Datensätze von Samsung Deutschland im Darknet",
-      "url": "https://www.heise.de/news/Datenleck-270-000-Kundentickets-von-Samsung-im-Darknet-10335172.html",
-      "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
-    },
-    {
-      "title": "Neuer Grundstoff soll Baustoffe mit negativer Kohlendioxid-Bilanz ermöglichen",
-      "url": "https://www.heise.de/news/US-Forscher-entwickeln-Grundstoff-fuer-Baustoffe-mit-negativer-Kohlendioxidbilanz-10334919.html",
-      "image_title": "Mineralstoffe als Grundmaterial für verschiedene Baustoffe"
-    },
-    {
-      "title": "Überschallflugzeug Comac C949: Deutlich mehr Reichweite und leiser als Concorde",
-      "url": "https://www.heise.de/news/Ueberschallflugzeug-Comac-C949-Deutlich-mehr-Reichweite-und-leiser-als-Concorde-10334216.html",
-      "image_title": "Rendering des Überschallflugzeuges Comac C949"
+      "title": "KI-Scraper belasten Wikipedia: 50 Prozent mehr Bandbreite für Multimedia-Abrufe",
+      "url": "https://www.heise.de/news/KI-Scraper-belasten-Wikipedia-50-Prozent-mehr-Bandbreite-fuer-Multimedia-Abrufe-10336776.html",
+      "image_title": "Wikipedia auf einem Tablet"
     },
     {
       "title": "Zahlen, bitte! Verrückt: Für ×3 brauchte der Pentium einen eigenen Schaltkreis",
@@ -470,9 +459,14 @@
       "image_title": "Intel Pentium 90"
     },
     {
-      "title": "Ampler stellt erstes E-Bike mit USB-C-Ladeanschluss vor",
-      "url": "https://www.heise.de/news/Ampler-stellt-erstes-E-Bike-mit-USB-C-Ladeanschluss-vor-10333918.html",
-      "image_title": "Zwei Fahrräder, die gefahren werden"
+      "title": "Halb-humanoider Zentaur-Roboter soll in Hotels arbeiten",
+      "url": "https://www.heise.de/news/Halb-humanoider-Zentaur-Roboter-soll-in-Hotels-arbeiten-10336713.html",
+      "image_title": "FlashBot Arm Roboter fordert einen Aufzug an."
+    },
+    {
+      "title": "Kleinster ungefesselter Flugroboter der Welt ist nur knapp ein Zentimeter groß",
+      "url": "https://www.heise.de/news/Kleinster-ungefesselter-Flugroboter-der-Welt-ist-nur-knapp-ein-Zentimeter-gross-10335987.html",
+      "image_title": "Kleiner Flugroboter auf einem Finger."
     },
     {
       "title": "UpdateUpdate zurückgezogen: Apple lässt watchOS 11.4 verschwinden",
@@ -480,9 +474,14 @@
       "image_title": "Apple Watch Ultra"
     },
     {
-      "title": "iOS 18.4, macOS 15.4 und Co.: Apple stopft viele Lücken",
-      "url": "https://www.heise.de/news/iOS-18-4-macOS-15-4-und-Co-Apple-stopft-viele-Luecken-10335088.html",
-      "image_title": "Apple-Logo und geöffnetes Schloss"
+      "title": "Apple-Kreditkarte: Visa und Amex angeblich im direkten Wettstreit",
+      "url": "https://www.heise.de/news/Apple-Kreditkarte-Visa-und-Amex-angeblich-im-direkten-Wettstreit-10336607.html",
+      "image_title": "Einsatz einer Apple Card im Handel"
+    },
+    {
+      "title": "UpdateiOS 18.4 Release: Apple Intelligence landet in Deutschland",
+      "url": "https://www.heise.de/news/iOS-18-4-Release-Apple-Intelligence-landet-in-Deutschland-10334937.html",
+      "image_title": "Apple-Zeichen auf einem Smartphone"
     },
     {
       "title": "USA stärken Datenschutz für Privatjets",
@@ -490,19 +489,19 @@
       "image_title": "Foto aus einem Flugzeug; im Vordergrund eine Tragfläche, unten verschneite Gebirge"
     },
     {
-      "title": "\"Doom: The Dark Ages\": Das Ende ist nah!",
-      "url": "https://www.heise.de/hintergrund/Doom-The-Dark-Ages-Das-Ende-ist-nah-10332363.html",
-      "image_title": "Screenshot aus Doom the Dark Ages"
+      "title": "AirPods Max mit USB-C: Neue Firmware kommt und kommt nicht",
+      "url": "https://www.heise.de/news/AirPods-Max-mit-USB-C-Neue-Firmware-kommt-und-kommt-nicht-10336597.html",
+      "image_title": "AirPods Max in Benutzung"
     },
     {
-      "title": "\"Helldivers 2\": Entwickler sperren Spieler mit älterer CPU plötzlich aus",
-      "url": "https://www.heise.de/news/Helldivers-2-Entwickler-sperren-Spieler-mit-aelterer-CPU-ploetzlich-aus-10334196.html",
-      "image_title": "Screenshot aus \"Helldivers 2\""
+      "title": "visionOS 2.4: Ein Blick auf die Details",
+      "url": "https://www.heise.de/news/visionOS-2-4-Ein-Blick-auf-die-Details-10335702.html",
+      "image_title": "Vision-Pro-Verkaufsgespräch im Apple Store"
     },
     {
-      "title": "Einwilligungsmanagement: Verordnung gegen die Cookie-Banner-Flut tritt in Kraft",
-      "url": "https://www.heise.de/news/Einwilligungsmanagement-Verordnung-gegen-die-Cookie-Banner-Flut-tritt-in-Kraft-10334551.html",
-      "image_title": "Tastatur mit einem Finger auf der Enter-Taste. Daneben eine schematische Darstellen eines Formularfelds."
+      "title": "Gericht: Eventim darf Ticketkäufern keine Angst vor Totalverlust machen",
+      "url": "https://www.heise.de/news/Oberlandesgericht-Eventim-darf-Kunden-keine-Ticketversicherung-aufdraengen-10336471.html",
+      "image_title": "Person hält ihre Bankkarte bereit, vermutlich für eine Finanztransaktion"
     },
     {
       "title": "Lebenslauf mit KI-Hilfe: Firmen erhalten immer mehr irrelevante Bewerbungen",
@@ -510,9 +509,9 @@
       "image_title": "Zwei Personen geben sich die Hand"
     },
     {
-      "title": "Dacia Bigster Hybrid 155 im Fahrbericht: SUV zum Kleinwagen-Preis",
-      "url": "https://www.heise.de/tests/Dacia-Bigster-Hybrid-155-im-Fahrbericht-SUV-zum-Kleinwagen-Preis-10335247.html",
-      "image_title": "Dacia Bigster"
+      "title": "Einwilligungsmanagement: Verordnung gegen die Cookie-Banner-Flut tritt in Kraft",
+      "url": "https://www.heise.de/news/Einwilligungsmanagement-Verordnung-gegen-die-Cookie-Banner-Flut-tritt-in-Kraft-10334551.html",
+      "image_title": "Tastatur mit einem Finger auf der Enter-Taste. Daneben eine schematische Darstellen eines Formularfelds."
     },
     {
       "title": "UpdatePornhub & Co.: Provider wehren sich gerichtlich gegen Sperranordnungen",
@@ -520,24 +519,24 @@
       "image_title": "Blick auf Pornhub"
     },
     {
+      "title": "Ohne Gesetz: Frankreichs Regierung darf Soziale Netze sperren",
+      "url": "https://www.heise.de/news/Ohne-Gesetz-Frankreichs-Regierung-darf-Soziale-Netze-sperren-10336587.html",
+      "image_title": "Zensur"
+    },
+    {
       "title": "\"Verheerende Folgen\": Industrie warnt vor Aus für Daten-Abkommen mit den USA",
       "url": "https://www.heise.de/news/Rechtssichere-Nutzung-von-US-Clouddiensten-BDI-warnt-vor-Aus-fuer-Abkommen-10333816.html",
       "image_title": "US-Flagge aus einer Art Halbleiter"
     },
     {
-      "title": "Lobbyregister: Diese Firmen geben am meisten für Lobbyarbeit aus",
-      "url": "https://www.heise.de/hintergrund/Lobbyismus-Etwa-eine-Milliarde-Euro-fuer-Interessenvertretung-10334899.html",
-      "image_title": "Geldsack und Haken-Symbol halten sich die Waage"
+      "title": "Mittwoch: Autokonzerne büßen für Recycling-Kartell, TikTok verzichtet auf Notes",
+      "url": "https://www.heise.de/news/Mittwoch-Autokonzerne-buessen-fuer-Recycling-Kartell-TikTok-verzichtet-auf-Notes-10336669.html",
+      "image_title": "Ein alter, rostiger VW Käfer dessen Motorhaube (hinten) fehlt, weil ein zu großer Motor eingebaut wurde; Mittwoch: Recycling-Millionen, TikTok-Notes-Aus, Netz-Sperren, Mond-Einschlag & Privatjet-Datenschutz"
     },
     {
-      "title": "Künstliche Intelligenz perfektioniert CAD-Entwürfe",
-      "url": "https://www.heise.de/news/CADistency-KI-optimiert-CAD-Zeichnungen-10333910.html",
-      "image_title": "Industriearbeiter in Warnweste zeigen auf Bildschirm"
-    },
-    {
-      "title": "Dienstag: Flugzeuge mit Starlink-Wi-Fi, Russland baut eigene Lithografie-Systeme",
-      "url": "https://www.heise.de/news/Dienstag-Flugzeuge-mit-Starlink-Wi-Fi-Russland-baut-eigene-Lithografie-Systeme-10335096.html",
-      "image_title": "Viele Satelliten, dazu Text: DIENSTAG Starlink, Lithografie-Systeme, iOS 18.4 Release, Lobbyregister & Handyverbot"
+      "title": "Vorsicht, Kunde! – Brandgefährlicher Solarstromspeicher",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Brandgefaehrlicher-Solarstromspeicher-10330214.html",
+      "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
     },
     {
       "title": "Störung der Satellitennavigation: Appell von UN-Organisationen",
@@ -589,18 +588,18 @@
       "url": "https://www.heise.de/multimediadatei/Selbstscannen-im-Supermarkt-Palantir-digitaler-Fuehrerschein-heiseshow-10330965.html"
     },
     {
-      "title": "Update withdrawn: Apple makes watchOS 11.4 disappear",
-      "url": "https://www.heise.de/en/news/Update-withdrawn-Apple-makes-watchOS-11-4-disappear-10335795.html",
-      "image_title": "Apple Watch Ultra"
+      "title": "DOGE apparently wants to replace COBOL at the US Social Security Fund",
+      "url": "https://www.heise.de/en/news/DOGE-apparently-wants-to-replace-COBOL-at-the-US-Social-Security-Fund-10333635.html",
+      "image_title": "Digitally distorted US flag"
+    },
+    {
+      "title": "Data leak at Oracle: Up to 2000 German victims? What is known and what is not",
+      "url": "https://www.heise.de/en/news/Data-leak-at-Oracle-Up-to-2000-German-victims-What-is-known-and-what-is-not-10336366.html",
+      "image_title": "Oracle sign in front of the Waterfront Campus in Austin"
     },
     {
       "title": "Studio Ghibli style goes viral with OpenAI's new image generator",
-      "url": "https://www.heise.de/en/news/Studio-Ghibli-style-goes-viral-with-OpenAI-s-new-image-generator-10330582.html",
-      "image_title": "A meme in Studio Ghibli style."
-    },
-    {
-      "title": "iOS 18.4 release: Apple Intelligence starts in Germany",
-      "url": "https://www.heise.de/en/news/iOS-18-4-release-Apple-Intelligence-starts-in-Germany-10334964.html"
+      "url": "https://www.heise.de/en/news/Studio-Ghibli-style-goes-viral-with-OpenAI-s-new-image-generator-10330582.html"
     },
     {
       "title": "iPhone mirroring in the EU: still waiting for useful macOS function",
@@ -611,9 +610,10 @@
       "url": "https://www.heise.de/en/news/4o-model-New-image-generator-in-ChatGPT-10328961.html"
     },
     {
-      "title": "Im Test: Adobes Bildbearbeitung komplett auf Mobilgeräten",
-      "teaser": "Adobe bietet die Bildbearbeitung Photoshop fürs iPad und iPhone an; eine Android-Version soll folgen. Die Apps sollen das komplette Funktionsspektrum abbilden.",
-      "url": "https://www.heise.de/tests/Im-Test-Adobes-Bildbearbeitung-komplett-auf-Mobilgeraeten-10334453.html"
+      "title": "Hacking-Gadget im Test: Lilygo T-Embed CC1101",
+      "teaser": "Der Erfolg des Hacking-Gadgets Flipper Zero lockt Nachahmer. Einer davon ist der Lilygo T-Embed CC1101, der nur ein Viertel kostet und schon WLAN enthält.",
+      "url": "https://www.heise.de/tests/Hacking-Gadget-im-Test-Lilygo-T-Embed-CC1101-10316111.html",
+      "image_title": ","
     },
     {
       "title": "Spekulationen über die HintergründeSamsung muss Start des Galaxy S25 Edge wohl verschieben",
@@ -622,10 +622,10 @@
       "image_title": "Samsung Galaxy S25 Edge auf der Messe"
     },
     {
-      "title": "Hacking-Gadget im Test: Lilygo T-Embed CC1101",
-      "teaser": "Der Erfolg des Hacking-Gadgets Flipper Zero lockt Nachahmer. Einer davon ist der Lilygo T-Embed CC1101, der nur ein Viertel kostet und schon WLAN enthält.",
-      "url": "https://www.heise.de/tests/Hacking-Gadget-im-Test-Lilygo-T-Embed-CC1101-10316111.html",
-      "image_title": ","
+      "title": "Dateien mit Cryptomator verschlüsselt in der Cloud speichern",
+      "teaser": "Die Open-Source-Software Cryptomator verschlüsselt Dateien auf dem PC, Smartphone oder Tablet und lädt sie dann erst in eine beliebige Cloud.",
+      "url": "https://www.heise.de/ratgeber/Dateien-mit-Cryptomator-verschluesselt-in-der-Cloud-speichern-10335168.html",
+      "image_title": ", KI, Bearbeitung c't"
     },
     {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
@@ -658,10 +658,10 @@
       "image_title": ","
     },
     {
-      "title": "Bastlerwissen: Wie ein Drehzahlregler funktioniert",
-      "teaser": "Ein Rädchen stellt die Drehzahl von Bohrmaschinen ein. Dahinter verbirgt sich ein mechanisch und elektronisch ausgeklügeltes Teil.",
-      "url": "https://www.heise.de/ratgeber/Drehzahlregler-aufgeschaut-So-funktioniert-er-10299501.html",
-      "image_title": ","
+      "title": "Künstliche Intelligenz perfektioniert CAD-Entwürfe",
+      "teaser": "Die Hochschule Kempten startet mit CADistency ein Projekt zur automatisierten Verarbeitung von 3D-Modellen und technischen Zeichnungen.",
+      "url": "https://www.heise.de/news/CADistency-KI-optimiert-CAD-Zeichnungen-10333910.html",
+      "image_title": "Industriearbeiter in Warnweste zeigen auf Bildschirm"
     },
     {
       "title": "Fotografie: Portfolio von Paloma Rincón vorgestellt",
@@ -760,22 +760,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smart-home-systeme-im-test/mr3xkgr?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Urteil gegen Marine Le Pen: EU-Millionenbetrug fällt ihr auf die Füße",
-      "teaser": "Frankreich: Umfrage-Favoritin für Präsidentschaftswahlen verliert passives Wahlrecht. Wie das Urteil begründet ist und warum die Rede von der \"Hinrichtung der Demokratie\" falsch ist.",
-      "url": "https://www.heise.de/tp/features/Urteil-gegen-Marine-Le-Pen-EU-Millionenbetrug-faellt-ihr-auf-die-Fuesse-10335190.html",
-      "image_title": "Screenshot: Marine Le Pen bei den Abendnachrichten des Senders TF1"
+      "title": "Milliardengeschäft Krieg: Söldner und Sicherheitsdienste im Aufschwung",
+      "teaser": "Der Milliardenmarkt für private Militärfirmen wächst. Söldner für professionellen Schutz verdienen viel mehr als etwa in der Bundeswehr. Doch die Karriere ist gefährlich.",
+      "url": "https://www.heise.de/tp/features/Milliardengeschaeft-Krieg-Soeldner-und-Sicherheitsdienste-im-Aufschwung-10337194.html",
+      "image_title": "Bundeswehrsoldaten"
     },
     {
-      "title": "Displays der Zukunft mit Pixeln in Virengröße",
-      "teaser": "Wissenschaftler haben winzige Perowskit-LEDs hergestellt – so klein wie Viren. Das ermöglicht Bildschirme mit einer Rekord-Auflösung von 127.000 Pixeln pro Zoll.",
-      "url": "https://www.heise.de/tp/features/Displays-der-Zukunft-mit-Pixeln-in-Virengroesse-10336332.html",
-      "image_title": "Bildschirm oder Realität – mit den neuen Perowskit-Displays dürfte der Unterschied kaum noch spürbar sein."
+      "title": "Sicherheitspolitik: Experten warnen vor der Panikfalle",
+      "teaser": "Experten warnen vor übertriebenen Bedrohungsszenarien in der Sicherheitspolitik. Deutschland brauche Verteidigungsfähigkeit, aber keine Hysterie. Doch was steckt hinter der Panikmache?",
+      "url": "https://www.heise.de/tp/features/Sicherheitspolitik-Experten-warnen-vor-der-Panikfalle-10335824.html",
+      "image_title": "Stacheldraht"
     },
     {
-      "title": "Wer protestiert, fliegt raus: Berlins fragwürdige Abschiebepläne nach Palästina-Demonstrationen",
-      "teaser": "Berlin möchte vier Ausländer abschieben. Der Grund: Teilnahme an Demonstrationen. Keiner von ihnen wurde verurteilt. Und: Interne E-Mails stellen Israel-Politik infrage.",
-      "url": "https://www.heise.de/tp/features/Wer-protestiert-fliegt-raus-Berlins-fragwuerdige-Abschiebeplaene-nach-Palaestina-Demonstrationen-10337517.html",
-      "image_title": "Eine Frau mit zwei Kindern geht in Berlin über die Straße, eine Palästinenserfahne über der Schulter, dahinter eine Gruppe einsatzbereitter Polizisten in Schutzkleidung"
+      "title": "Trump vs. Iran: Deal oder Bomben?",
+      "teaser": "Donald Trump erhöht den Druck auf Teheran. Er zeigt Interesse an Atomgesprächen und droht militärisch. Und dann ist da noch ein brisantes Ultimatum.",
+      "url": "https://www.heise.de/tp/features/Trump-vs-Iran-Deal-oder-Bomben-10337360.html",
+      "image_title": "Fahlen der USA und des Iran, dazwischen eine Explosion"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
