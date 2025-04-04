@@ -1,9 +1,40 @@
 {
-  "timestamp": "2025-04-04T06:13:48",
+  "timestamp": "2025-04-04T07:09:34",
   "url": "https://www.volksstimme.de/",
   "response": {
-    "status": 503
+    "status": 404
   },
-  "scripts": [],
+  "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-11c63b1cbc.volksstimme.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://applets.ebxcdn.com/ebx.js",
+      "id": "ebx",
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.volksstimme.de/static/scripts/scripts.e3cb9d79.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.dumontnext.de/revenue/lightworks-vs.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cdn.dl.volksstimme.de/bineosmgm/content/Bineos_2_0/bineos.min.js",
+      "id": null,
+      "text": null
+    }
+  ],
   "articles": []
 }
