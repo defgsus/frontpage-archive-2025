@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-05T11:07:17",
+  "timestamp": "2025-04-05T12:15:23",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Meta beendet Faktenprüfung in den USA am Montag",
+      "url": "https://www.heise.de/news/Meta-beendet-Faktenpruefung-in-den-USA-am-Montag-10341676.html"
+    },
     {
       "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
       "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10335051.html"
@@ -60,10 +64,6 @@
     {
       "title": "Nikons Plattformierung und noch ein Leica-Klon – Fotonews der Woche 14/2025",
       "url": "https://www.heise.de/news/Nikons-Plattformierung-und-noch-ein-Leica-Klon-Fotonews-der-Woche-14-2025-10341032.html"
-    },
-    {
-      "title": "Raspberry Pi und Green: Einsteigerhardware für Home Assistant im Vergleich",
-      "url": "https://www.heise.de/ratgeber/Raspberry-Pi-und-Green-Einsteigerhardware-fuer-Home-Assistant-im-Vergleich-10298326.html"
     },
     {
       "title": "\"De-minimis\"-RegelungTemu und Shein im Visier: USA stoppen Zoll-Ausnahmeregelung",
@@ -184,21 +184,27 @@
       "url": "https://www.heise.de/news/Raus-aus-der-US-Cloud-Wege-zur-digitalen-Souveraenitaet-c-t-uplink-10339838.html"
     },
     {
+      "title": "Meta beendet Faktenprüfung in den USA am Montag",
+      "teaser": "Mit dem Faktenpüfungs-Programm ging Meta gegen Falschinformationen auf seinen Plattformen vor. US-Nutzer sollen nun selbst ran.",
+      "url": "https://www.heise.de/news/Meta-beendet-Faktenpruefung-in-den-USA-am-Montag-10341676.html",
+      "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
+    },
+    {
       "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
       "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
       "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10335051.html",
       "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
+      "title": "So arbeiten moderne Hacker-Fabriken",
+      "teaser": "Hacker-Gruppen im digitalen Untergrund arbeiten oft schon in industriellem Maßstab. Sie adaptieren neue Technologien, sodass es ständig zu neuen Angriffswellen kommt. Doch die Security-Firmen ergreifen Gegenmaßnahmen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6946150026&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Trump gibt TikTok mehr Zeit in den USA",
       "teaser": "Donald Trump hat es doch nicht geschafft, einen Deal um TikTok in 75 Tagen festzuzurren. Jetzt soll die Video-App eine zweite Gnadenfrist bekommen.",
       "url": "https://www.heise.de/news/Trump-gibt-TikTok-mehr-Zeit-in-den-USA-10341660.html",
       "image_title": "Ein Smartphone auf einer Tastatur, im Display mit dem TikTok-Schriftzug spiegelt sich die US-Flagge"
-    },
-    {
-      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
-      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Freelancer-Studie 2025: Das verdienen IT-Freiberufler in Deutschland",
@@ -226,12 +232,6 @@
       "title": "Frauen in Tech-Teams: Divers läuft es besser",
       "teaser": "Studien belegen, dass Diversität zu mehr Innovation und besseren Unternehmensergebnissen führt – doch der Weg dahin ist mühsam.",
       "url": "https://www.heise.de/hintergrund/Frauen-in-Tech-Teams-Divers-laeuft-es-besser-10335596.html"
-    },
-    {
-      "title": "Kommentar: Siri – die ewige Beta",
-      "teaser": "Apple versprach für diesen Frühling ein intelligentes Siri – nun wird es wohl 2026. Ob die peinliche Geschichte von Siri wirklich enden wird, bleibt fraglich.",
-      "url": "https://www.heise.de/meinung/Kommentar-Siri-die-ewige-Beta-10335274.html",
-      "image_title": "Siri-Icon umgeben von Beta-Kennungen"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -294,6 +294,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Kommentar: Siri – die ewige Beta",
+      "teaser": "Apple versprach für diesen Frühling ein intelligentes Siri – nun wird es wohl 2026. Ob die peinliche Geschichte von Siri wirklich enden wird, bleibt fraglich.",
+      "url": "https://www.heise.de/meinung/Kommentar-Siri-die-ewige-Beta-10335274.html",
+      "image_title": "Siri-Icon umgeben von Beta-Kennungen"
     },
     {
       "title": "Nikons Plattformierung und noch ein Leica-Klon – Fotonews der Woche 14/2025",
@@ -363,15 +369,15 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/fensterputzroboter-ecovacs-winbot-w2-pro-omni-im-test/48ljdh8?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
+      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
+    },
+    {
       "title": "Neue Sicherheitsfunktionen für GitHub zum Schutz von Secrets",
       "teaser": "Trotz aller Sicherheitsvorkehrungen fließen von GitHub jedes Jahr immer noch millionenfach Secrets ab. Neue Maßnahmen sollen für Abhilfe sorgen.",
       "url": "https://www.heise.de/news/Neue-Sicherheitsfunktionen-fuer-GitHub-zum-Schutz-von-Secrets-10340873.html",
       "image_title": "Ein Laptop mit einem Schutzschild auf dem Bildschirm"
-    },
-    {
-      "title": "Cybersecurity 2025: Warum IT-Sicherheit ein solides Fundament benötigt",
-      "teaser": "Die Bedrohungslage wird sich auch 2025 weiter verschärfen. Unternehmen müssen daher ihre IT-Sicherheit kontinuierlich ausbauen. Das ist jedoch nur auf Basis einer soliden IT-Infrastruktur möglich.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/cybersecurity-2025-warum-it-sicherheit-ein-solides-fundament-benoetigt-4890/?source=hbsadersatz"
     },
     {
       "title": "Kein Ausweg: Google und Samsung müssen sich Epic vor Gericht stellen",
@@ -425,12 +431,6 @@
       "teaser": "Googles Pixel-10-Serie wird wohl im Sommer erscheinen. Das Basismodell soll erstmals eine Telekamera erhalten, bei den Sensoren könnte es ein Downgrade geben.",
       "url": "https://www.heise.de/news/Google-Pixel-10-angeblich-mit-Kamera-Downgrade-aber-einem-Sensor-mehr-10340601.html",
       "image_title": "Google Pixel 9 Pro"
-    },
-    {
-      "title": "UpdateEU-Plattform zur Online-Streitbeilegung wird im Juli abgeschaltet",
-      "teaser": "Die Europäische Plattform für Online-Streitbeilegung wird im Juli 2025 nach rund zehn Jahren eingestellt. Beschwerden können nicht mehr eingereicht werden.",
-      "url": "https://www.heise.de/news/EU-Plattform-zur-Online-Streitbeilegung-wird-im-Juli-abgeschaltet-10340399.html",
-      "image_title": "Screenshot, auf dem zu sehen ist, dass eine Seite der EU-Kommission nicht mehr gefunden werden kann. \"Page not found\" steht dort."
     },
     {
       "title": "US-Zollchaos: Über PC-Hardware schwebt das Damoklesschwert",
@@ -601,19 +601,20 @@
       "url": "https://www.heise.de/en/news/iPhone-mirroring-in-the-EU-still-waiting-for-useful-macOS-function-10317754.html"
     },
     {
-      "title": "Mehr Transparenz versprochenSchufa will neues Scoring einführen",
-      "teaser": "Deutschlands größte Auskunftei kündigt für Ende 2025 ein neues Scoring für Verbraucher an.",
-      "url": "https://www.heise.de/news/Schufa-will-neues-Scoring-einfuehren-10340771.html"
-    },
-    {
-      "title": "Bildgenerator von ChatGPT 4o mit laxen Ethikrichtlinien",
-      "teaser": "Der in ChatGPT 4o eingebaute Bildgenerator erzeugt glaubhaft gefälschte Porträts von Politikern und Animationsfilmen. Kann das gutgehen?",
-      "url": "https://www.heise.de/news/Bildgenerator-von-ChatGPT-4o-mit-laxen-Ethikrichtlinien-10338487.html"
-    },
-    {
       "title": "Alternativen zu US-Clouddiensten: Überblick und Konfigurationstipps",
       "teaser": "US-Clouddienste spenden bereitwillig für den neuen US-Präsidenten. Damit das nicht auch für Ihre Daten gilt, zeigen wir welche Alternativen es gibt.",
       "url": "https://www.heise.de/ratgeber/Alternativen-zu-US-Clouddiensten-Ueberblick-und-Konfigurationstipps-10294724.html"
+    },
+    {
+      "title": "Display-Technik: OLEDs für alle oder doch besser LEDs?",
+      "teaser": "Nachdem sich OLEDs im Smartphone etabliert haben, starten sie jetzt auch in Notebooks durch. Bei TVs und Monitoren gewinnen andere Techniken gerade Land.",
+      "url": "https://www.heise.de/hintergrund/Display-Technik-OLEDs-fuer-alle-oder-doch-besser-LEDs-10330492.html",
+      "image_title": "oled"
+    },
+    {
+      "title": "Mehr Transparenz versprochenSchufa will neues Scoring einführen",
+      "teaser": "Deutschlands größte Auskunftei kündigt für Ende 2025 ein neues Scoring für Verbraucher an.",
+      "url": "https://www.heise.de/news/Schufa-will-neues-Scoring-einfuehren-10340771.html"
     },
     {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
@@ -745,20 +746,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Pentagon-Anordnung: US-Militär soll sich auf Krieg gegen China vorbereiten",
+      "teaser": "Trump-Regierung verschärft Anti-China-Kurs, wie Strategiepapier zeigt. US-Truppen im Pazifik werden zur \"Speerspitze\". Wohin führt der Machtpoker um Taiwan?",
+      "url": "https://www.heise.de/tp/features/Pentagon-Anordnung-US-Militaer-soll-sich-auf-Krieg-gegen-China-vorbereiten-10338822.html",
+      "image_title": "Hände in USA und China-Farben zerren an Seil mit Taiwan-Wimpel"
+    },
+    {
       "title": "Urteil gegen Le Pen: Französische Rechtspopulistin kämpft um politische Zukunft",
       "teaser": "Berufungsgericht will Vorwürfe neu prüfen. Der Umgang mit Geldern im EU-Parlament wirft Schlaglicht auf systemische Schwächen. Hintergrund.",
       "url": "https://www.heise.de/tp/features/Urteil-gegen-Le-Pen-Franzoesische-Rechtspopulistin-kaempft-um-politische-Zukunft-10340620.html"
     },
     {
-      "title": "USA verstärken Militärpräsenz am Golf: Trumps Iran-Ultimatum",
-      "teaser": "USA verlegen massive Militärkapazitäten. Trump gibt Iran zwei Monate für einen neuen Atomdeal. Was der US-Präsident dabei riskiert. Analyse.",
-      "url": "https://www.heise.de/tp/features/USA-verstaerken-Militaerpraesenz-am-Golf-Trumps-Iran-Ultimatum-10341664.html",
-      "image_title": "Northrop Grumman B-2 Spirit ist im blauen Himmel unterwegs. Blick von vorne."
-    },
-    {
-      "title": "Sicherheit, Nato und Alarmismus: \"Russland ist eine beherrschbare militärische Bedrohung\"",
-      "teaser": "Verteidigungsbereit ja, kriegstüchtig nein. Experten mahnen zu mehr Besonnenheit. Interview mit Politikwissenschaftler Johannes Varwick zur sicherheitspolitischen Debatte.",
-      "url": "https://www.heise.de/tp/features/Sicherheit-Nato-und-Alarmismus-Russland-ist-eine-beherrschbare-militaerische-Bedrohung-10338269.html"
+      "title": "Wer protestiert, fliegt raus: Berlins fragwürdige Abschiebepläne nach Palästina-Demonstrationen",
+      "teaser": "Berlin möchte vier Ausländer abschieben. Der Grund: Teilnahme an Demonstrationen. Keiner von ihnen wurde verurteilt. Und: Interne E-Mails stellen Israel-Politik infrage.",
+      "url": "https://www.heise.de/tp/features/Wer-protestiert-fliegt-raus-Berlins-fragwuerdige-Abschiebeplaene-nach-Palaestina-Demonstrationen-10337517.html",
+      "image_title": "Eine Frau mit zwei Kindern geht in Berlin über die Straße, eine Palästinenserfahne über der Schulter, dahinter eine Gruppe einsatzbereitter Polizisten in Schutzkleidung"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
