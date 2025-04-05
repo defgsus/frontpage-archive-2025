@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-05T09:08:53",
+  "timestamp": "2025-04-05T10:08:56",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Trump gibt TikTok mehr Zeit in den USA",
+      "url": "https://www.heise.de/news/Trump-gibt-TikTok-mehr-Zeit-in-den-USA-10341660.html"
+    },
     {
       "title": "Freelancer-Studie 2025: Das verdienen IT-Freiberufler in Deutschland",
       "url": "https://www.heise.de/ratgeber/Freelancer-Studie-2025-Das-verdienen-IT-Freiberufler-in-Deutschland-9958271.html"
@@ -60,10 +64,6 @@
     {
       "title": "Von Flughunden, Stille und einer vergangenen Zeit: Die Bilder der Woche 13",
       "url": "https://www.heise.de/news/Von-Flughunden-Stille-und-einer-vergangenen-Zeit-Die-Bilder-der-Woche-13-10337455.html"
-    },
-    {
-      "title": "Raus aus der US-Cloud: Wege zur digitalen Souveränität | c’t uplink",
-      "url": "https://www.heise.de/news/Raus-aus-der-US-Cloud-Wege-zur-digitalen-Souveraenitaet-c-t-uplink-10339838.html"
     },
     {
       "title": "\"De-minimis\"-RegelungTemu und Shein im Visier: USA stoppen Zoll-Ausnahmeregelung",
@@ -184,20 +184,26 @@
       "url": "https://www.heise.de/news/Raus-aus-der-US-Cloud-Wege-zur-digitalen-Souveraenitaet-c-t-uplink-10339838.html"
     },
     {
+      "title": "Trump gibt TikTok mehr Zeit in den USA",
+      "teaser": "Donald Trump hat es doch nicht geschafft, einen Deal um TikTok in 75 Tagen festzuzurren. Jetzt soll die Video-App eine zweite Gnadenfrist bekommen.",
+      "url": "https://www.heise.de/news/Trump-gibt-TikTok-mehr-Zeit-in-den-USA-10341660.html",
+      "image_title": "Ein Smartphone auf einer Tastatur, im Display mit dem TikTok-Schriftzug spiegelt sich die US-Flagge"
+    },
+    {
       "title": "Freelancer-Studie 2025: Das verdienen IT-Freiberufler in Deutschland",
       "teaser": "Stagnierende Stundensätze bereiten Freiberuflern wirtschaftliche Sorgen. Aber IT-Freelancer sehen für 2025 auch Lichtblicke, zeigen zwei aktuelle Studien.",
       "url": "https://www.heise.de/ratgeber/Freelancer-Studie-2025-Das-verdienen-IT-Freiberufler-in-Deutschland-9958271.html"
+    },
+    {
+      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
+      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Windows 11: 24H2-Update-Blockade bei installiertem SenseShield-Schutz",
       "teaser": "Microsoft hat Inkompatibilitäten des Windows-11-24H2-Updates mit Treibern von SenseShield-Schutzsoftware eingeräumt.",
       "url": "https://www.heise.de/news/Windows-11-24H2-Update-Blockade-bei-installiertem-SenseShield-Schutz-10341586.html",
       "image_title": "Ein Monitor zeigt das Windows-Logo und einen Fortschrittsbalken, davor rauft sich ein verzweifeltes Monster die Haare"
-    },
-    {
-      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
-      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "KI-Modellkunde: Fundierte Entscheidungshilfe für Bildmodelle im Unternehmen",
@@ -225,11 +231,6 @@
       "title": "Nikons Plattformierung und noch ein Leica-Klon – Fotonews der Woche 14/2025",
       "teaser": "Die neue Vollformat-Z hat die CPU des Flaggschiffs, und ein Kickstarter-Projekt will wie eine Leica aussehen – aber nicht bei der Bildqualität.",
       "url": "https://www.heise.de/news/Nikons-Plattformierung-und-noch-ein-Leica-Klon-Fotonews-der-Woche-14-2025-10341032.html"
-    },
-    {
-      "title": "Raspberry Pi und Green: Einsteigerhardware für Home Assistant im Vergleich",
-      "teaser": "Anstöpseln und loslegen: Wir zeigen, mit welcher Hardware Einsteiger schnell mit Home Assistant starten können – und worauf sie vor dem Kauf achten sollten.",
-      "url": "https://www.heise.de/ratgeber/Raspberry-Pi-und-Green-Einsteigerhardware-fuer-Home-Assistant-im-Vergleich-10298326.html"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -292,6 +293,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Raspberry Pi und Green: Einsteigerhardware für Home Assistant im Vergleich",
+      "teaser": "Anstöpseln und loslegen: Wir zeigen, mit welcher Hardware Einsteiger schnell mit Home Assistant starten können – und worauf sie vor dem Kauf achten sollten.",
+      "url": "https://www.heise.de/ratgeber/Raspberry-Pi-und-Green-Einsteigerhardware-fuer-Home-Assistant-im-Vergleich-10298326.html"
     },
     {
       "title": "Von Flughunden, Stille und einer vergangenen Zeit: Die Bilder der Woche 13",
@@ -363,15 +369,15 @@
       "image_title": "Das Logo des Epic Games Store wird auf einem Smartphone angezeigt."
     },
     {
+      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
+      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
+    },
+    {
       "title": "KI-Update: KI im Wissenschaftstest, ChatGPT löst Bilderboom aus, AMD Ryzen",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-KI-im-Wissenschaftstest-ChatGPT-loest-Bilderboom-aus-AMD-Ryzen-10340027.html",
       "image_title": "Aufmacherbild KI Update"
-    },
-    {
-      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
-      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
     },
     {
       "title": "Kurztests: LED-Controller, Leuchtstreifen und LED-Displaybox",
@@ -425,11 +431,6 @@
       "teaser": "Wer Mac, iPhone & iPad in China kauft, kann darauf Apple Intelligence nicht starten, auch nicht mit passendem Account. Apple nutzt offenbar hartes Geoblocking.",
       "url": "https://www.heise.de/news/Apple-Geraete-aus-China-Harte-Blockade-von-Apple-Intelligence-10339856.html",
       "image_title": "Apple Store in Peking"
-    },
-    {
-      "title": "Jetzt in der Make 2/25: Schlauer schalten mit Shelly",
-      "teaser": "Mit Shelly lassen sich Geräte einfach fernsteuern. Doch das Produktportfolio kann verwirren. In der Make 2/25 helfen wir beim Einstieg.",
-      "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-25-Schlauer-schalten-mit-Shelly-10339378.html"
     },
     {
       "title": "US-Zollchaos: Über PC-Hardware schwebt das Damoklesschwert",
@@ -605,14 +606,14 @@
       "url": "https://www.heise.de/news/Raus-aus-der-US-Cloud-Wege-zur-digitalen-Souveraenitaet-c-t-uplink-10339838.html"
     },
     {
+      "title": "Bildgenerator von ChatGPT 4o mit laxen Ethikrichtlinien",
+      "teaser": "Der in ChatGPT 4o eingebaute Bildgenerator erzeugt glaubhaft gefälschte Porträts von Politikern und Animationsfilmen. Kann das gutgehen?",
+      "url": "https://www.heise.de/news/Bildgenerator-von-ChatGPT-4o-mit-laxen-Ethikrichtlinien-10338487.html"
+    },
+    {
       "title": "Alternativen zu US-Clouddiensten: Überblick und Konfigurationstipps",
       "teaser": "US-Clouddienste spenden bereitwillig für den neuen US-Präsidenten. Damit das nicht auch für Ihre Daten gilt, zeigen wir welche Alternativen es gibt.",
       "url": "https://www.heise.de/ratgeber/Alternativen-zu-US-Clouddiensten-Ueberblick-und-Konfigurationstipps-10294724.html"
-    },
-    {
-      "title": "Mehr Transparenz versprochenSchufa will neues Scoring einführen",
-      "teaser": "Deutschlands größte Auskunftei kündigt für Ende 2025 ein neues Scoring für Verbraucher an.",
-      "url": "https://www.heise.de/news/Schufa-will-neues-Scoring-einfuehren-10340771.html"
     },
     {
       "title": "MicroSD-Karten ab 1 TByteZusatzspeicher fürs MacBook Pro im Test",
@@ -633,21 +634,20 @@
       "image_title": "ProArt PA27JCV von Asus"
     },
     {
+      "title": "Jetzt in der Make 2/25: Schlauer schalten mit Shelly",
+      "teaser": "Mit Shelly lassen sich Geräte einfach fernsteuern. Doch das Produktportfolio kann verwirren. In der Make 2/25 helfen wir beim Einstieg.",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-25-Schlauer-schalten-mit-Shelly-10339378.html"
+    },
+    {
+      "title": "Eierlege-Automat Deluxe zum Nachbauen",
+      "teaser": "Passend zu Ostern bringen wir euch einen bunten Eierlege-Revolver, der auf Knopfdruck ein Ei legen kann. Ihr könnt den Automaten auch mit Süßigkeiten laden.",
+      "url": "https://www.heise.de/ratgeber/Eierlege-Automat-Deluxe-zum-Nachbauen-10295963.html",
+      "image_title": ","
+    },
+    {
       "title": "Fraunhofer-Forscher entwickeln akustisches Regenmessverfahren",
       "teaser": "Um flächendeckende Niederschlagsdaten zu erhalten, wollen Forscher des Fraunhofer-Instituts mit Sensoren den Aufprall von Regentropfen auf PV-Modulen messen.",
       "url": "https://www.heise.de/news/Forschung-Wie-sich-Regenintensitaet-akustisch-messen-laesst-10338461.html"
-    },
-    {
-      "title": "Unitree Go1: Sicherheitslücken im Roboterhund ermöglichen Übernahme",
-      "teaser": "Der Unitree Go1 ist von Sicherheitslücken betroffen, die es ermöglichen, ihn aus der Ferne zu übernehmen. Eine davon ist bereits beseitigt, eine zweite bleibt.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Roboterhund-Unitree-Go1-ermoeglichen-Uebernahme-10338297.html",
-      "image_title": "Unitree Go1 läuft neben einem Fahrrad"
-    },
-    {
-      "title": "Orange Pi RVRaspberry-Pi-Alternative mit RISC-V",
-      "teaser": "Nach langer Wartezeit erscheint das RISC-V-Board mit bis 8 GByte RAM, HDMI, USB 3.0, M.2-SSD-Slot und WLAN.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-Alternative-mit-RISC-V-Orange-Pi-RV-10337391.html",
-      "image_title": "Man sieht das Board von schräg oben. Es sieht aus wie ein Raspi."
     },
     {
       "title": "Fotowettbewerb \"Menschen in Bewegung\": Bewerten Sie Ihre Favoriten!",
@@ -745,20 +745,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "\"Adolescence\": Wie tickt die Gesellschaft, in der Incel-Boys zu Mördern werden?",
-      "teaser": "Die britische Netflix-Serie wurde schnell zum Hit. Sie erzählt vom Zerfall der Demokratie, von Unverständnis, Männlichkeit, Elternschaft und der Erosion von Institutionen.",
-      "url": "https://www.heise.de/tp/features/Adolescence-Wie-tickt-die-Gesellschaft-in-der-Incel-Boys-zu-Moerdern-werden-10341602.html"
+      "title": "Pentagon-Anordnung: US-Militär soll sich auf Krieg gegen China vorbereiten",
+      "teaser": "Trump-Regierung verschärft Anti-China-Kurs, wie Strategiepapier zeigt. US-Truppen im Pazifik werden zur \"Speerspitze\". Wohin führt der Machtpoker um Taiwan?",
+      "url": "https://www.heise.de/tp/features/Pentagon-Anordnung-US-Militaer-soll-sich-auf-Krieg-gegen-China-vorbereiten-10338822.html",
+      "image_title": "Hände in USA und China-Farben zerren an Seil mit Taiwan-Wimpel"
     },
     {
-      "title": "Entstehung des Lebens: Forschungsteam präsentiert neue Erkenntnisse zu Sodaseen",
-      "teaser": "Sodaseen gelten als mögliche Ursprungsorte des Lebens. Ein Forscherteam der ETH Zürich liefert dafür neue Belege. Was dabei der hohe Phosphorgehalt dieser Seen damit zu tun hat.",
-      "url": "https://www.heise.de/tp/features/Entstehung-des-Lebens-Forschungsteam-praesentiert-neue-Erkenntnisse-zu-Sodaseen-10339884.html",
-      "image_title": "Lake Mono in Kalifornien"
+      "title": "\"Ich will alles. Hildegard Knef\": Rote Rosen und klare Gedanken",
+      "teaser": "Zu wild für das Wirtschaftswunder: Luzia Schmids Dokumentarfilm zeigt eine seltsame, einmalige und polarisierende Erscheinung in Deutschland nach dem Zweiten Weltkrieg.",
+      "url": "https://www.heise.de/tp/features/Ich-will-alles-Hildegard-Knef-Rote-Rosen-und-klare-Gedanken-10339972.html",
+      "image_title": "Hildegrad Knef, jung, im Mantel, mit Zigarette im Mund"
     },
     {
-      "title": "Sicherheit, Nato und Alarmismus: \"Russland ist eine beherrschbare militärische Bedrohung\"",
-      "teaser": "Verteidigungsbereit ja, kriegstüchtig nein. Experten mahnen zu mehr Besonnenheit. Interview mit Politikwissenschaftler Johannes Varwick zur sicherheitspolitischen Debatte.",
-      "url": "https://www.heise.de/tp/features/Sicherheit-Nato-und-Alarmismus-Russland-ist-eine-beherrschbare-militaerische-Bedrohung-10338269.html"
+      "title": "Trumps Zoll-Hammer: Stürzt die Weltwirtschaft in die Krise?",
+      "teaser": "Donald Trump führt die höchsten US-Zölle seit über 100 Jahren ein. Ökonomen warnen vor globaler Rezession. Erste Unternehmen wie Mercedes reagieren bereits.",
+      "url": "https://www.heise.de/tp/features/Trumps-Zoll-Hammer-Stuerzt-die-Weltwirtschaft-in-die-Krise-10339535.html",
+      "image_title": "Flaggen, die mit Stacheldraht umgeben sind - Zeichen der zunehmenden Abschottung."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
