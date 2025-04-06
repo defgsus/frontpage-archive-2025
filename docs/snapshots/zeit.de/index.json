@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-06T12:15:46",
+  "timestamp": "2025-04-06T13:16:53",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -98,18 +104,51 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Volvo : Krise, welche Krise?",
-      "teaser": "Volvo feiert Rekorde, gerade bei E-Autos. In ihrem belgischen Werk wird klar, warum die schwedisch-chinesische Marke so viel besser dasteht als die Konkurrenz.",
-      "url": "https://www.zeit.de/mobilitaet/2025-04/volvo-autoindustrie-erfolg-belgien-verkaeufe",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-04/volvo-autoindustrie-erfolg-belgien-verkaeufe-bild-4/wide__1000x562",
-      "image_title": "Volvo: Blick auf die Fertigung des Volvo EX30 in einer der Werkshallen des Volvo Konzerns in Gent, Belgien."
+      "title": "Z+ (abopflichtiger Inhalt); Gesundheit von Kindern : Wird mein Kind krank, wenn ich vor der Zeugung ungesund lebe?",
+      "teaser": "Kinder erben von ihren Eltern weitaus mehr als die Gene. Im Fokus epigenetischer Forschung steht auch der Lebenswandel – insbesondere von Vätern.",
+      "url": "https://www.zeit.de/gesundheit/2025-03/gesundheit-kinder-eltern-lebensstil-ernaehrung-epigenetik",
+      "image_url": "https://img.zeit.de/gesundheit/2025-03/gesundheit-kinder-eltern-lebensstil-ernaehrung-epigenetik-bild/square__500x500",
+      "image_title": "Gesundheit von Kindern: Matrjoschkas"
     },
     {
-      "title": "Sanitäter in Gaza : Was über die Tötung von 15 Sanitätern in Gaza bekannt ist",
+      "title": "Sanitäter in Gaza : Was über die Tötung von Sanitätern in Gaza bekannt ist",
       "teaser": "Ein Video bringt Israels Militär in Erklärungsnot. Bislang unbekannte Aufnahmen zeigen die letzten Momente vor der Tötung von Rettungskräften im März.",
       "url": "https://www.zeit.de/politik/ausland/2025-04/sanitaeter-gaza-israel-militaer-video",
       "image_url": "https://img.zeit.de/politik/ausland/2025-04/gaza-palaestinensischer-halbmond-sanitaeter/super__430x286",
       "image_title": "Gaza Palästinensischer Halbmond Sanitäter"
+    },
+    {
+      "title": "US-Zölle : Großbritannien will heimische Unternehmen vor US-Zöllen schützen",
+      "teaser": "Premier Keir Starmer will Firmen angesichts der US-Zölle unterstützen. Auch in Italien könnte es staatliche Interventionen geben. Andere Länder setzen auf Verhandlungen.",
+      "url": "https://www.zeit.de/wirtschaft/2025-04/keir-starmer-zoelle-reaktionen-laender-italien-taiwan-indonesien-indien",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/keir-starmer-zoelle-reaktionen-laender-italien-taiwan-indonesien-indien-bild/super__430x286",
+      "image_title": "US-Zölle: US import tariffs. Prime Minister Sir Keir Starmer (centre) chairs a roundtable with business leaders including Steve Rigby (left), Rigby Group, Julia Hogett (second left) DBE, London Stock Exchange, Frank-Steffen Walliser (third left), CEO Bentley, Dame Emma Walmsley, DBE GlaxoSmithKline and Ben Wilson, National Grid (second right) at 10 Downing Street in London, after US President Donald Trump slapped a 10% tariff on US imports of UK goods. Picture date: Thursday April 3, 2025. See PA story INDUSTRY Tariffs. Photo credit should read: Ben Stansall/PA Wire URN:79600692"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Volvo : Krise, welche Krise?",
+      "teaser": "Volvo feiert Rekorde, gerade bei E-Autos. In ihrem belgischen Werk wird klar, warum die schwedisch-chinesische Marke so viel besser dasteht als die Konkurrenz.",
+      "url": "https://www.zeit.de/mobilitaet/2025-04/volvo-autoindustrie-erfolg-belgien-verkaeufe",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-04/volvo-autoindustrie-erfolg-belgien-verkaeufe-bild-4/wide__892x501",
+      "image_title": "Volvo: Blick auf die Fertigung des Volvo EX30 in einer der Werkshallen des Volvo Konzerns in Gent, Belgien."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Rita Süssmuth : \"Männer weinen heimlich! Ich sage Gott sei Dank\"",
+      "teaser": "Rita Süssmuths Lebensthema sind Männer und Macht. Hier spricht die frühere Bundestagspräsidentin über Putin, Merz – und darüber, wie man Wodka diskret wegschüttet.",
+      "url": "https://www.zeit.de/kultur/2025-04/rita-suessmuth-cdu-maenner-friedrich-merz-groenemeyer",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/rita-suessmuth-cdu-maenner-friedrich-merz-groenemeyer-bild-2/super__430x286",
+      "image_title": "Rita Süssmuth: \"Männer weinen heimlich! Ich sage Gott sei Dank\""
+    },
+    {
+      "title": "Parteitag der Grünen : Grünen-Chefin will Populismus unter Friedrich Merz bekämpfen",
+      "teaser": "Franziska Brantner hat den voraussichtlich zukünftigen Kanzler Merz deutlich attackiert. Die Grünen schwört sie auf dem kleinen Parteitag auf die Oppositionsrolle ein.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-04/gruene-opposition-kampfansage-merz-parteitag"
+    },
+    {
+      "title": "Liveblog:Koalitionsverhandlungen : Unionsabgeordnete sorgen sich um angekündigten \"Politikwechsel\"",
+      "teaser": "Die Union geht unter Druck in die letzte Verhandlungsrunde mit der SPD. Angesichts schwacher Umfragewerte wächst die Sorge vor zu vielen Zugeständnissen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/deutschland/2025-03/koalitionsverhandlungen-union-spd-news-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/koalitionsverhandlungen-union-spd-news-live-bild-10/super__430x286",
+      "image_title": "Koalitionsverhandlungen: Secretary General of Germany's Christian Democratic Union (CDU) Carsten Linnemann (L) arrives on April 3, 2025 in front of the headquarters of Germany's social democratic SPD party, where are taking place coalition talks with representatives of the conservative CDU/CSU party union to form a new government. (Photo by Odd ANDERSEN / AFP) (Photo by ODD ANDERSEN/AFP via Getty Images)"
     },
     {
       "title": "Tarifverhandlungen : Tarifstreit im öffentlichen Dienst beigelegt",
@@ -119,11 +158,18 @@
       "image_title": "Tarifverhandlungen: Zwei Männer gehen während eines Warnstreiks der Frankfurter Verkehrsgesellschaft (VGF) am 21. Februar 2025 in Frankfurt am Main, Westdeutschland, an abgestellten Straßenbahnen in einem Depot vorbei"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rita Süssmuth : \"Männer weinen heimlich! Ich sage Gott sei Dank\"",
-      "teaser": "Rita Süssmuths Lebensthema sind Männer und Macht. Hier spricht die frühere Bundestagspräsidentin über Putin, Merz – und darüber, wie man Wodka diskret wegschüttet.",
-      "url": "https://www.zeit.de/kultur/2025-04/rita-suessmuth-cdu-maenner-friedrich-merz-groenemeyer",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/rita-suessmuth-cdu-maenner-friedrich-merz-groenemeyer-bild-2/wide__892x501",
-      "image_title": "Rita Süssmuth: \"Männer weinen heimlich! Ich sage Gott sei Dank\""
+      "title": "Z+ (abopflichtiger Inhalt); Aktienkurse • Das Beste aus Z+ : Ist jetzt der beste Zeitpunkt, um in den MSCI World zu investieren?",
+      "teaser": "Donald Trump hämmert die Börsenkurse in den Keller. Wäre jetzt die Chance, günstig zu investieren – um hohe Gewinne zu machen? Wie und wann die Strategie funktioniert.",
+      "url": "https://www.zeit.de/geld/2025-04/aktienkurse-boerse-us-zoelle-donald-trump-geldanlage",
+      "image_url": "https://img.zeit.de/geld/2025-04/aktienkurse-boerse-us-zoelle-donald-trump-geldanlage-bild/super__430x286",
+      "image_title": "Aktienkurse • Das Beste aus Z+: Ist jetzt der beste Zeitpunkt, um in den MSCI World zu investieren?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Patrick Schwarzenegger : Ein Mann ohne Angriffsfläche",
+      "teaser": "In der dritten Staffel von \"The White Lotus\" spielt Patrick Schwarzenegger einen hypervirilen Finance Bro. Das Internet fragt sich: Ist der das? Oder spielt der das?",
+      "url": "https://www.zeit.de/kultur/film/2025-04/patrick-schwarzenegger-schauspieler-white-lotus-serie",
+      "image_url": "https://img.zeit.de/kultur/2025-03/2025-03-20-patrick-schwarzenegger-9/wide__892x501",
+      "image_title": "2025_03_20_Patrick_Schwarzenegger_9"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dieter Hallervorden : Zum Jubiläum das N-Wort",
@@ -131,41 +177,6 @@
       "url": "https://www.zeit.de/kultur/2025-04/dieter-hallervorden-75-jahre-ard-meinungsfreiheit",
       "image_url": "https://img.zeit.de/kultur/2025-04/ard-gala-75-jahre-dieter-hallervorden/super__430x286",
       "image_title": "Dieter Hallervorden: Dieter Hallervorden, Schauspieler, tritt mit dem Sketch Palim-Palim bei der Aufzeichnung von «75 Jahre ARD - Die große Jubiläumsshow» im Studio Berlin-Adlershof auf."
-    },
-    {
-      "title": "Omri Boehm : Dieser Mann ist ein Ärgernis (für viele)",
-      "teaser": "Der Philosoph Omri Boehm darf nicht zum Gedenken an die Befreiung des KZ Buchenwald sprechen. Aber was macht sein Denken gerade für die israelische Regierung so anstößig?",
-      "url": "https://www.zeit.de/kultur/2025-04/omri-boehm-philosoph-universalismus-denken-werk",
-      "image_url": "https://img.zeit.de/kultur/2025-04/omri-boehm-philosoph-universalismus-denken-hochschullehrer/super__430x286",
-      "image_title": "Omri Boehm: *** SPECIAL FEE +100% *** Omri Boehm, Philosoph, Autor, Hochschullehrer Engl: Omri Boehm, philosopher, author, Associate Professor"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Carbonara : Ausflug in den Pasta-Himmel",
-      "teaser": "Herrlich cremig und würzig: Nichts geht über gute Carbonara. Aber was macht die aus? Wir haben Sie gefragt, Ihre Rezepte getestet – und stellen hier die Gewinner vor.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025/08/carbonara-rezepte-test-vegetarisch",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-04/carbonara-leser-teaser/super__430x286",
-      "image_title": "Carbonara: Ausflug in den Pasta-Himmel"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Microsoft : Wie Microsoft stets Riese blieb",
-      "teaser": "Der Softwarekonzern aus Redmond wird 50 Jahre alt. Von Karl Klammer bis zum Copilot: Cool waren Microsoft-Produkte nie. Wie wurde das Unternehmen trotzdem KI-Vorreiter?",
-      "url": "https://www.zeit.de/digital/2025-04/microsoft-kuenstliche-intelligenz-software-unternehmen-technologie",
-      "image_url": "https://img.zeit.de/digital/2025-04/microsoft-bill-gates-ki/wide__892x501",
-      "image_title": "Microsoft: Bill Gates, Microsoft founder, during a press conference in Amsterdam, Netherlands, circa 1986. (Photo by Gijsbert Hanekroot/Redferns)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Carolin Kebekus : \"Eine pupsende Frau ist nach wie vor ein Statement\"",
-      "teaser": "Warum Witze über Männernippel wichtig sind, über nervige Freundinnen nicht jeder lacht und was Humor mit Macht zu tun hat: ein Gespräch mit der Komikerin Carolin Kebekus",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-04/carolin-kebekus-humor-macht-frauen-witze",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-04/carolin-kebekus-humor-macht-frauen-witze-bild/super__430x286",
-      "image_title": "Carolin Kebekus: \"Eine pupsende Frau ist nach wie vor ein Statement\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Psychologie • Das Wichtigste aus Z+ : Das hilft wirklich gegen Depressionen",
-      "teaser": "Therapie oder Medikamente? Tiefenpsychologie oder Verhaltenstherapie? Seit 17 Jahren erforscht Pim Cuijpers, wie Menschen Depressionen überwinden. Und was wenig bringt.",
-      "url": "https://www.zeit.de/2025/13/psychologie-depressionen-therapie-medikamente-forschung",
-      "image_url": "https://img.zeit.de/2025/13/psychologie-depressionen-therapie-medikamente-forschung-teaserbild/super__430x286",
-      "image_title": "Psychologie • Das Wichtigste aus Z+: \"Vielen Menschen geht es nach einer Therapie besser, aber nicht allen. Viele brauchen einen weiteren Anlauf, das ist normal.\" +++++++<br/>Tobias Nicolai / Connected Archives"
     },
     {
       "title": "Ausgabe 14/2025 : Von der Hand in den Hund. Willkommen im Wochenende.",
@@ -231,11 +242,18 @@
       "image_title": "Gold: Her mit den Barren!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Altersheim : Von Pflegerinnen empfohlen",
-      "teaser": "Was ist ein gutes Altersheim? Das fragt man am besten diejenigen, die dort arbeiten. Denn die Forschung sagt: Auf die Zwischentöne kommt es an.",
-      "url": "https://www.zeit.de/2025/14/altersheim-qualitaet-pfleger-bewohner",
-      "image_url": "https://img.zeit.de/2025/14/von-pflegerinnen-empfohlen-bild-1/super__430x286",
-      "image_title": "Altersheim: Bewohner der Demenz-WG in der Wohn- und Lebensgemeinschaft Schötmarsches Tor beim Backen mit der Pflegeleiterin Cornelia Uffmann (2. von links)"
+      "title": "Z+ (abopflichtiger Inhalt); Carolin Kebekus : \"Eine pupsende Frau ist nach wie vor ein Statement\"",
+      "teaser": "Warum Witze über Männernippel wichtig sind, über nervige Freundinnen nicht jeder lacht und was Humor mit Macht zu tun hat: ein Gespräch mit der Komikerin Carolin Kebekus",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-04/carolin-kebekus-humor-macht-frauen-witze",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025-04/carolin-kebekus-humor-macht-frauen-witze-bild/super__430x286",
+      "image_title": "Carolin Kebekus: \"Eine pupsende Frau ist nach wie vor ein Statement\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Microsoft : Wie Microsoft stets Riese blieb",
+      "teaser": "Der Softwarekonzern aus Redmond wird 50 Jahre alt. Von Karl Klammer bis zum Copilot: Cool waren Microsoft-Produkte nie. Wie wurde das Unternehmen trotzdem KI-Vorreiter?",
+      "url": "https://www.zeit.de/digital/2025-04/microsoft-kuenstliche-intelligenz-software-unternehmen-technologie",
+      "image_url": "https://img.zeit.de/digital/2025-04/microsoft-bill-gates-ki/super__430x286",
+      "image_title": "Microsoft: Bill Gates, Microsoft founder, during a press conference in Amsterdam, Netherlands, circa 1986. (Photo by Gijsbert Hanekroot/Redferns)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Unterhaltsregelung : \"Wir haben bei gebildeten jungen Frauen eh schon einen Gebärstreik\"",
@@ -259,6 +277,13 @@
       "image_title": "\"Das Herz von St. Pauli\": Ein Spiel des FC St. Pauli 1966 im Wilhelm-Koch-Stadion, das heute nicht mehr Wilhelm-Koch-Stadion heißt"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Putzmittel selber machen : Braucht man wirklich teure Putzmittel?",
+      "teaser": "Putzmittel bestehen eigentlich nur aus drei Zutaten. Wer ihren Inhalt versteht, spart Geld, Platz und schont die Umwelt. Ein Crashkurs in der Chemie des Putzens",
+      "url": "https://www.zeit.de/wissen/2024-01/putzmittel-selber-machen-hausmittel-chemie-zitronensaeure-essig",
+      "image_url": "https://img.zeit.de/wissen/2023-12/putzmittel-selber-machen-hausmittel-chemie-zitronensaeure-2/super__430x286",
+      "image_title": "Putzmittel selber machen: Braucht man wirklich teure Putzmittel?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Heuschnupfen : Wie eine Hyposensibilisierung effektiv gegen Heuschnupfen wirkt",
       "teaser": "Viele Allergiker behandeln ihre Symptome selbst. Doch das kann sich rächen, sagt der Allergologe Oliver Pfaar, etwa mit Asthma. Er rät zur einzig ursächlichen Therapie.",
       "url": "https://www.zeit.de/gesundheit/2025-03/heuschnupfen-pollenallergie-allergenimmuntherapie-symptome-kinder-oliver-pfaar",
@@ -273,18 +298,11 @@
       "image_title": "Hochstapler-Syndrom: Leistungsträger, die sich wie Versager fühlen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Putzmittel selber machen : Braucht man wirklich teure Putzmittel?",
-      "teaser": "Putzmittel bestehen eigentlich nur aus drei Zutaten. Wer ihren Inhalt versteht, spart Geld, Platz und schont die Umwelt. Ein Crashkurs in der Chemie des Putzens",
-      "url": "https://www.zeit.de/wissen/2024-01/putzmittel-selber-machen-hausmittel-chemie-zitronensaeure-essig",
-      "image_url": "https://img.zeit.de/wissen/2023-12/putzmittel-selber-machen-hausmittel-chemie-zitronensaeure-2/super__430x286",
-      "image_title": "Putzmittel selber machen: Braucht man wirklich teure Putzmittel?"
-    },
-    {
-      "title": "Wirtschaftspodcast \"Ist das eine Blase?\" : Ruiniert Elon Musk gerade die Marke Tesla?",
-      "teaser": "Proteste, Absatzkrise, Tesla-Scham: Der Elektroautobauer Tesla steckt in der Krise, dabei war er einst so beliebt. Das hat viel mit seinem Chef zu tun.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2025-03/wirtschaftspodcast-tesla-elon-musk-marke-absatzkrise",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2025-03/wirtschaftspodcast-tesla-elon-musk-marke-absatzkrise-1/super__430x286",
-      "image_title": "Wirtschaftspodcast \"Ist das eine Blase?\": Ausgebrannter Tesla in Berlin"
+      "title": "Z+ (abopflichtiger Inhalt); Altersheim : Von Pflegerinnen empfohlen",
+      "teaser": "Was ist ein gutes Altersheim? Das fragt man am besten diejenigen, die dort arbeiten. Denn die Forschung sagt: Auf die Zwischentöne kommt es an.",
+      "url": "https://www.zeit.de/2025/14/altersheim-qualitaet-pfleger-bewohner",
+      "image_url": "https://img.zeit.de/2025/14/von-pflegerinnen-empfohlen-bild-1/super__430x286",
+      "image_title": "Altersheim: Bewohner der Demenz-WG in der Wohn- und Lebensgemeinschaft Schötmarsches Tor beim Backen mit der Pflegeleiterin Cornelia Uffmann (2. von links)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hightech-Industrie in China : Er soll es der Welt zeigen",
@@ -294,11 +312,11 @@
       "image_title": "Hightech-Industrie in China: Ein Konkurrent für die großen Tech-Firmen in den USA? Der humanoide Roboter des chinesischen Start-ups Unitree"
     },
     {
-      "title": "Los Angeles Lakers : Sein letztes Rodeo",
-      "teaser": "LeBron James ist der beste Basketballer der letzten 25 Jahre. Seine Ära wird bald zu Ende sein, die nächste geht aber auch schon los. Ein Besuch bei den Lakers in L.A.",
-      "url": "https://www.zeit.de/kultur/2025-03/los-angeles-lakers-usa-basketball-livesport-lebron-james",
-      "image_url": "https://img.zeit.de/kultur/2025-03/los-angeles-california-lakers-lebron-james/super__430x286",
-      "image_title": "Los Angeles, California Lakers LeBron James"
+      "title": "Z+ (abopflichtiger Inhalt); Carbonara : Ausflug in den Pasta-Himmel",
+      "teaser": "Herrlich cremig und würzig: Nichts geht über gute Carbonara. Aber was macht die aus? Wir haben Sie gefragt, Ihre Rezepte getestet – und stellen hier die Gewinner vor.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025/08/carbonara-rezepte-test-vegetarisch",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-04/carbonara-leser-teaser/super__430x286",
+      "image_title": "Carbonara: Ausflug in den Pasta-Himmel"
     },
     {
       "title": "Folge 43 : Deshalb reisen Sie nicht mehr in die USA",
@@ -623,11 +641,11 @@
       "image_title": "Hefe: Wenn es warm ist, aber nicht über 40 Grad, wenn es Luft gibt, aber nicht zieht, geht es der Hefe gut. Dann wächst sie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Aktienkurse : Ist jetzt der beste Zeitpunkt, um in den MSCI World zu investieren?",
+      "title": "Z+ (abopflichtiger Inhalt); Aktienkurse • Das Beste aus Z+ : Ist jetzt der beste Zeitpunkt, um in den MSCI World zu investieren?",
       "teaser": "Donald Trump hämmert die Börsenkurse in den Keller. Wäre jetzt die Chance, günstig zu investieren – um hohe Gewinne zu machen? Wie und wann die Strategie funktioniert.",
       "url": "https://www.zeit.de/geld/2025-04/aktienkurse-boerse-us-zoelle-donald-trump-geldanlage",
       "image_url": "https://img.zeit.de/geld/2025-04/aktienkurse-boerse-us-zoelle-donald-trump-geldanlage-bild/super__430x286",
-      "image_title": "Aktienkurse: Ist jetzt der beste Zeitpunkt, um in den MSCI World zu investieren?"
+      "image_title": "Aktienkurse • Das Beste aus Z+: Ist jetzt der beste Zeitpunkt, um in den MSCI World zu investieren?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Berechnung der US-Zölle : Ein folgenschwerer Rechenfehler",
@@ -652,21 +670,16 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-04/demonstrationen-usa-anfang-demokraten-bewegung-veteranen"
     },
     {
-      "title": "Transatlantische Beziehungen : Sigmar Gabriel schlägt EU-Mitgliedschaft für Kanada vor",
-      "teaser": "Ex-Außenminister Gabriel regt an, Kanada in die EU aufzunehmen. Hintergrund ist Trumps Forderung nach einem Zusammenschluss der USA und Kanadas.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/kanada-eu-beitritt-sigmar-gabriel"
-    },
-    {
-      "title": "Transatlantische Beziehungen : Sigmar Gabriel schlägt EU-Mitgliedschaft für Kanada vor",
-      "teaser": "Ex-Außenminister Gabriel regt an, Kanada in die EU aufzunehmen. Hintergrund ist Trumps Forderung nach einem Zusammenschluss der USA und Kanadas.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/kanada-eu-beitritt-sigmar-gabriel",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/igmar-gabriel-kanada-mitgliedschaft-europaeische-union-bild/super__430x286",
-      "image_title": "Transatlantische Beziehungen: Sigmar Gabriel (SPD), Ex-Außenminister und Vorsitzender der Atlantik-Brücke e.V."
+      "title": "Tarifverhandlungen : Tarifstreit im öffentlichen Dienst beigelegt",
+      "teaser": "Bund, Kommunen und Gewerkschaften haben sich auf einen neuen Tarifvertrag für den öffentlichen Dienst geeinigt. Die Beschäftigten bekommen mehr Lohn und mehr Urlaub.",
+      "url": "https://www.zeit.de/arbeit/2025-04/tarifstreit-im-oeffentlichen-dienst-beigelegt"
     },
     {
       "title": "Kleiner Parteitag : Grüne wollen enttäuschendes Wahlergebnis aufarbeiten",
       "teaser": "Sechs Wochen nach der Bundestagswahl kommen die Grünen heute zu einem kleinen Parteitag zusammen. Ein Leitantrag des Vorstands enthält eine selbstkritische Bilanz.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-04/gruene-kleiner-parteitag-bilanz-bundestagswahl"
+      "url": "https://www.zeit.de/politik/deutschland/2025-04/gruene-kleiner-parteitag-bilanz-bundestagswahl",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/gruene-kleiner-parteitag-bilanz-bundestagswahl-bild-2/super__430x286",
+      "image_title": "Kleiner Parteitag: Das Podium steht vor dem Beginn des Parteitags von Bündnis 90/Die Grünen am 23. November 2023 in Karlsruhe, Süddeutschland, der unter dem Motto „Machen, was zählt“ stattfindet."
     },
     {
       "title": "Proteste gegen Tesla : Alle gegen Elon",
@@ -674,11 +687,16 @@
       "url": "https://www.zeit.de/gesellschaft/2025-04/proteste-gegen-tesla-elon-musk-berlin-usa"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gold : Her mit den Barren!",
-      "teaser": "Aus Angst vor Trumps Politik kaufen Anleger immer mehr Gold. Dadurch wird die Frage wichtig, in welchem Land es eigentlich verwahrt wird – auch das der Deutschen.",
-      "url": "https://www.zeit.de/2025/14/gold-lagerung-geldanlage-zoelle-usa",
-      "image_url": "https://img.zeit.de/2025/14/wo-liegen-noch-mal-unsere-barren-bild-1/wide__892x501",
-      "image_title": "Gold: Her mit den Barren!"
+      "title": "Asylanträge : Deutschland nicht mehr wichtigstes EU-Land für Asylanträge",
+      "teaser": "Laut einem EU-Bericht werden erstmals seit Langem in anderen EU-Staaten mehr Asylanträge gestellt als in Deutschland. Die meisten Anträge gingen in Frankreich ein.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-04/asylantraege-deutschland-rueckgang-frankreich-euaa"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Patrick Schwarzenegger : Ein Mann ohne Angriffsfläche",
+      "teaser": "In der dritten Staffel von \"The White Lotus\" spielt Patrick Schwarzenegger einen hypervirilen Finance Bro. Das Internet fragt sich: Ist der das? Oder spielt der das?",
+      "url": "https://www.zeit.de/kultur/film/2025-04/patrick-schwarzenegger-schauspieler-white-lotus-serie",
+      "image_url": "https://img.zeit.de/kultur/2025-03/2025-03-20-patrick-schwarzenegger-9/wide__892x501",
+      "image_title": "2025_03_20_Patrick_Schwarzenegger_9"
     },
     {
       "title": "Verlagsangebot : 5 Werkzeuge gegen negative Gedankenspiralen",
@@ -688,18 +706,18 @@
       "image_title": "Freunde der ZEIT: 5 Werkzeuge gegen negative Gedankenspiralen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Pilot : \"Ich investiere 1.000 Euro im Monat in ETFs\"",
-      "teaser": "Rasmus, 36, ist Pilot für Langstreckenflüge und verdient mehr als 7.500 Euro. Wenn er nach Kapstadt fliegt, geht er kiten. Oder seine Mutter reist mit. Der Kontoauszug",
-      "url": "https://www.zeit.de/arbeit/2025-04/pilot-gehalt-langstrecke-verantwortung-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2025-04/pilot-gehalt-langstrecke-verantwortung/super__430x286",
-      "image_title": "Pilot: \"Ich investiere 1.000 Euro im Monat in ETFs\""
+      "title": "Z+ (abopflichtiger Inhalt); Gold : Her mit den Barren!",
+      "teaser": "Aus Angst vor Trumps Politik kaufen Anleger immer mehr Gold. Dadurch wird die Frage wichtig, in welchem Land es eigentlich verwahrt wird – auch das der Deutschen.",
+      "url": "https://www.zeit.de/2025/14/gold-lagerung-geldanlage-zoelle-usa",
+      "image_url": "https://img.zeit.de/2025/14/wo-liegen-noch-mal-unsere-barren-bild-1/super__430x286",
+      "image_title": "Gold: Her mit den Barren!"
     },
     {
-      "title": "Türkei : Noch hält Erdoğans wichtigste Stütze",
-      "teaser": "Trotz Massenprotesten und leisem Unmut in der eigenen Partei: Der türkische Präsident Recep Erdoğan kann weitermachen. Für die Unterstützer im Ausland ist er zu wichtig.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/tuerkei-akp-recep-tayyip-erdogan-proteste",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/tuerkei-akp-recep-tayyip-erdogan-proteste-bild/wide__892x501",
-      "image_title": "Türkei: Der türkische Präsident Recep Tayyip Erdogan nimmt am 25. März 2025 an einem Iftar-Abendessen mit Universitätsstudenten in der Bestepe Nation's Exhibition Hall in Ankara, Türkei, teil."
+      "title": "Ukraine : Ein Toter nach russischem Raketenangriff auf Kyjiw",
+      "teaser": "Russland hat die ukrainische Hauptstadt erneut mit Raketen beschossen. Selenskyj bezweifelt daraufhin erneut Putins Willen zu einer Friedenslösung.",
+      "url": "https://www.zeit.de/politik/ausland/2025-04/kyjiw-angriff-russland-toter",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/ukraine-russland-krieg-angriff-kyjiw-bild/wide__892x501",
+      "image_title": "Ukraine: Ukrainische Rettungskräfte arbeiten auf dem Dach eines beschädigten mehrstöckigen Bürogebäudes nach einem russischen Raketeneinschlag in Kiew am 6. April 2025, inmitten des russischen Einmarsches in die Ukraine. Russland hat „in den frühen Morgenstunden einen massiven landesweiten Angriff auf die Ukraine mit ballistischen Raketen, Marschflugkörpern und Drohnen gestartet“, sagte der erste stellvertretende Ministerpräsident der Ukraine."
     },
     {
       "title": "Verlagsangebot : Quiz: Wie gut ist Ihr Zeitgefühl?",
@@ -709,11 +727,11 @@
       "image_title": "Quiz: Wie gut ist Ihr Zeitgefühl?"
     },
     {
-      "title": "Liveblog:Koalitionsverhandlungen : Landkreistag stellt Aufnahme von Bürgerkriegsflüchtlingen infrage",
-      "teaser": "Der Präsident des Landkreistags fordert unter anderem Zurückweisungen an der Grenze. Der Städte- und Gemeindebund lobt das Investitionspaket von Schwarz-Rot. Das Liveblog",
-      "url": "https://www.zeit.de/politik/deutschland/2025-03/koalitionsverhandlungen-union-spd-news-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/koalitionsverhandlungen-union-spd-news-live-bild/super__430x286",
-      "image_title": "Koalitionsverhandlungen: Flüchtlinge aus der Ukraine am Informationsschalter in der temporären Flüchtlingsunterkunft und dem Willkommenszentrum am ehemaligen Flughafen Tegel am 19. Mai 2023 in Berlin, Deutschland. Die Behörden gehen davon aus, dass in diesem Jahr 10.000 bis 12.000 neue Flüchtlinge in Berlin ankommen werden. Das ist zwar deutlich weniger als die Rekordzahl von 95.000, die die Stadt im vergangenen Jahr registriert hat, bringt die ohnehin schon überlasteten Kapazitäten aber dennoch an ihre Grenzen. In Berlin fehlt es an ausreichenden Unterkünften sowie an freien Plätzen in Schulen für Flüchtlingskinder."
+      "title": "Türkei : Noch hält Erdoğans wichtigste Stütze",
+      "teaser": "Trotz Massenprotesten und leisem Unmut in der eigenen Partei: Der türkische Präsident Recep Erdoğan kann weitermachen. Für die Unterstützer im Ausland ist er zu wichtig.",
+      "url": "https://www.zeit.de/politik/ausland/2025-04/tuerkei-akp-recep-tayyip-erdogan-proteste",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/tuerkei-akp-recep-tayyip-erdogan-proteste-bild/super__430x286",
+      "image_title": "Türkei: Der türkische Präsident Recep Tayyip Erdogan nimmt am 25. März 2025 an einem Iftar-Abendessen mit Universitätsstudenten in der Bestepe Nation's Exhibition Hall in Ankara, Türkei, teil."
     },
     {
       "title": "DEI-Initiativen : US-Tochter der Telekom gibt Initiativen für Diversität weitgehend auf",
@@ -744,25 +762,25 @@
       "image_title": "Aktienkurse: Traders work on the floor of the New York Stock Exchange (NYSE) in New York, US, on Friday, April 4, 2025. The S&P 500 slumped 5.97% on Friday, closing out its worst week since Covid, as investors continued to pull away from US equities after China escalated the trade war by retaliating against President Donald Trump's tariffs. Photographer: Michael Nagle/Bloomberg via Getty Images"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Aktienkurse : Ist jetzt der beste Zeitpunkt, um in den MSCI World zu investieren?",
-      "teaser": "Donald Trump hämmert die Börsenkurse in den Keller. Wäre jetzt die Chance, günstig zu investieren – um hohe Gewinne zu machen? Wie und wann die Strategie funktioniert.",
-      "url": "https://www.zeit.de/geld/2025-04/aktienkurse-boerse-us-zoelle-donald-trump-geldanlage",
-      "image_url": "https://img.zeit.de/geld/2025-04/aktienkurse-boerse-us-zoelle-donald-trump-geldanlage-bild/super__430x286",
-      "image_title": "Aktienkurse: Ist jetzt der beste Zeitpunkt, um in den MSCI World zu investieren?"
+      "title": "Z+ (abopflichtiger Inhalt); Risiko von Geldanlagen : Sie ertragen das ETF-Tief nicht? So werden Ihre Finanzen krisenfest",
+      "teaser": "Da wollte man alles richtig machen. Hat das Ersparte in ETFs investiert. Und jetzt: Alles rot. Wer keine Lust auf das Risiko hat, sollte diese Alternativen kennen.",
+      "url": "https://www.zeit.de/geld/2025-03/geldanlage-risiko-minimieren-aktien-rendite-umschichten",
+      "image_url": "https://img.zeit.de/geld/2025-03/geldanlage-risiko-minimieren-aktien-rendite/super__430x286",
+      "image_title": "Risiko von Geldanlagen: Sie ertragen das ETF-Tief nicht? So werden Ihre Finanzen krisenfest"
     },
     {
-      "title": "Tarifverhandlungen : Entscheidende Runde für Beschäftigte im öffentlichen Dienst",
-      "teaser": "Gewerkschaften und Arbeitgeber sitzen nach dem Schlichterspruch wieder am Verhandlungstisch. Ohne Einigung drohen an Kitas, Kliniken oder Flughäfen unbefristete Streiks.",
-      "url": "https://www.zeit.de/wirtschaft/2025-04/oeffentlicher-dienst-tarifverhandlungen-streik",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-04/oeffentlicher-dienst-tarifverhandlungen-streik-bild/wide__892x501",
-      "image_title": "Tarifverhandlungen: Oliver Bandosz (l-r), Tarifexperte bei Verdi, Christine Behle, Stellvertretende Vorsitzende der Dienstleistungsgewerkschaft Verdi, Frank Werneke (r), Vorsitzender der Dienstleistungsgewerkschaft Verdi, und Volker Geyer, Verhandlungsführer für den deutschen Beamtenbund (dbb), kommen zur Fortsetzung der Tarifverhandlungen für den öffentlichen Dienst im Kongresshotel Am Templiner See. Verhandelt werden die Entgelte für die Tarifbeschäftigten des Bundes und der kommunalen Arbeitgeber, deren Arbeitsverhältnisse durch den Tarifvertrag für den öffentlichen Dienst (TVöD) geregelt sind. 17.03.2025"
+      "title": "Z+ (abopflichtiger Inhalt); Pilot : \"Ich investiere 1.000 Euro im Monat in ETFs\"",
+      "teaser": "Rasmus, 36, ist Pilot für Langstreckenflüge und verdient mehr als 7.500 Euro. Wenn er nach Kapstadt fliegt, geht er kiten. Oder seine Mutter reist mit. Der Kontoauszug",
+      "url": "https://www.zeit.de/arbeit/2025-04/pilot-gehalt-langstrecke-verantwortung-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2025-04/pilot-gehalt-langstrecke-verantwortung/wide__892x501",
+      "image_title": "Pilot: \"Ich investiere 1.000 Euro im Monat in ETFs\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Entwicklungszusammenarbeit : \"Wie ein Reisebüro für Akademikerkinder\"",
-      "teaser": "Er war Projektmanager in Lateinamerika, sie Juniorberaterin in Afrika: Beide bekamen mehr als 5.000 Euro netto. Über absurde Gehälter in der Entwicklungszusammenarbeit",
-      "url": "https://www.zeit.de/arbeit/2025-03/entwicklungszusammenarbeit-ausland-gehalt-entwicklungshilfe-ungleichheit",
-      "image_url": "https://img.zeit.de/arbeit/2025-04/entwicklungszusammenarbeit-ausland-gehalt/super__430x286",
-      "image_title": "Entwicklungszusammenarbeit: \"Irgendwelche Kartoffeln müssen da im Büro rumsitzen\""
+      "title": "Tarifkonflikt der Berliner Verkehrsbetriebe : Ver.di-Mitglieder stimmen für unbefristete Streiks bei der BVG",
+      "teaser": "Schlichter versuchen, eine Lösung im Tarifkonflikt bei den Berliner Verkehrsbetrieben zu finden. Nach einer Urabstimmung bei ver.di drohen unbefristete Streiks.",
+      "url": "https://www.zeit.de/arbeit/2025-04/verdi-bvg-berlin-streik-unbefristet",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-04/tarifkonflikt-bvg-streik-verdi-bild/super__430x286",
+      "image_title": "Tarifkonflikt der Berliner Verkehrsbetriebe: Mit Rauchtöpfen demonstrieren Beschäftigte der Berliner Verkehrsbetriebe (BVG)vor dem Roten Rathaus in Berlin. Vor der möglicherweise entscheidenden Runde im Tarifkonflikt zwischen den Berliner Verkehrsbetrieben (BVG) und Verdi hält die Gewerkschaft ein Scheitern der Gespräche für möglich"
     },
     {
       "title": "Eifersucht : Wie subtil Eifersucht in Familien wirkt",
@@ -891,10 +909,17 @@
       "image_title": "Plan D: Wähler in Deutschland: \"Wir müssen im Dialog bleiben, sonst ist alles verloren\""
     },
     {
+      "title": "Los Angeles Lakers : Sein letztes Rodeo",
+      "teaser": "LeBron James ist der beste Basketballer der letzten 25 Jahre. Seine Ära wird bald zu Ende sein, die nächste geht aber auch schon los. Ein Besuch bei den Lakers in L.A.",
+      "url": "https://www.zeit.de/kultur/2025-03/los-angeles-lakers-usa-basketball-livesport-lebron-james",
+      "image_url": "https://img.zeit.de/kultur/2025-03/los-angeles-california-lakers-lebron-james/wide__892x501",
+      "image_title": "Los Angeles, California Lakers LeBron James"
+    },
+    {
       "title": "Literaturkolumne Krimi : Aus den Abgründen der Virenforschung",
       "teaser": "Taugen Experten als Schriftsteller? Die Beispiele eines bekannten Virologen und einer Rechtswissenschaftlerin zeigen: Es gibt schlechte wie gute Beispiele.",
       "url": "https://www.zeit.de/2025/14/kriminalromane-virenforschung-wissenschaft-autor-spannung",
-      "image_url": "https://img.zeit.de/2025/14/kriminalromane-virenforschung-wissenschaft-teaser/wide__892x501",
+      "image_url": "https://img.zeit.de/2025/14/kriminalromane-virenforschung-wissenschaft-teaser/super__430x286",
       "image_title": "Literaturkolumne Krimi: Die Strafrechtlerin Elisa Hoven hat einen spannenden Krimi geschrieben."
     },
     {
@@ -903,13 +928,6 @@
       "url": "https://www.zeit.de/kultur/2025-04/mats-hummels-karriere-ende-bvb-fussball",
       "image_url": "https://img.zeit.de/sport/2025-04/mats-hummels-karriere-ende-bvb-fussball-bild/super__430x286",
       "image_title": "Mats Hummels: DORTMUND, GERMANY - SEPTEMBER 7: Mats Hummels after the Farewell Match For Lukasz Piszczek and Jakub Blaszczykowski on September 7, 2024 in Dortmund, Germany. (Photo by Hendrik Deckers/Borussia Dortmund via Getty Images)"
-    },
-    {
-      "title": "\"Das Narrenschiff\" : Die Zeiten ändern dich",
-      "teaser": "Christoph Hein hat einen starken Roman über das Leben der Angepassten und der Funktionäre in der DDR geschrieben. Doch war die DDR wirklich ein \"Narrenschiff\"?",
-      "url": "https://www.zeit.de/2025/14/das-narrenschiff-christoph-hein-ddr-gesellschaft-entwicklung",
-      "image_url": "https://img.zeit.de/2025/14/die-zeiten-aendern-dich-bild-1/super__430x286",
-      "image_title": "\"Das Narrenschiff\": Skeptischer Blick nach Westen, 1960. Ein Jahr später steht da die Mauer"
     },
     {
       "title": "Thomas Mann und Heinrich Mann : Rivalität der Meister",
@@ -994,18 +1012,18 @@
       "image_title": "Haut von Kindern: So viel Schutz braucht Kinderhaut"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Psychologie • Das Wichtigste aus Z+ : Das hilft wirklich gegen Depressionen",
+      "teaser": "Therapie oder Medikamente? Tiefenpsychologie oder Verhaltenstherapie? Seit 17 Jahren erforscht Pim Cuijpers, wie Menschen Depressionen überwinden. Und was wenig bringt.",
+      "url": "https://www.zeit.de/2025/13/psychologie-depressionen-therapie-medikamente-forschung",
+      "image_url": "https://img.zeit.de/2025/13/psychologie-depressionen-therapie-medikamente-forschung-teaserbild/super__430x286",
+      "image_title": "Psychologie • Das Wichtigste aus Z+: \"Vielen Menschen geht es nach einer Therapie besser, aber nicht allen. Viele brauchen einen weiteren Anlauf, das ist normal.\" +++++++<br/>Tobias Nicolai / Connected Archives"
+    },
+    {
       "title": "Lebensmittel : Kaufland schließt vorübergehend zwei Filialen wegen Hygienemängeln",
       "teaser": "Eine Reportage hat Missstände in zwei Kaufland-Filialen aufgedeckt. Die Lebensmittelkette schließt die Läden nun vorübergehend – und überprüft alle anderen Filialen.",
       "url": "https://www.zeit.de/gesellschaft/2025-04/lebensmittel-kaufland-hygiene-filialschliessung",
       "image_url": "https://img.zeit.de/2025-04/hygiene-maengel-kaufland-schliessung-bild/super__430x286",
       "image_title": "Lebensmittel: Das Logo von Kaufland hängt vor einer Filiale in Köln-Ehrenfeld. Der Lebensmitteleinzelhändler Kaufland übernimmt Real-Filialen."
-    },
-    {
-      "title": "Statistisches Bundesamt : Zahl der Schwangerschaftsabbrüche bleibt unverändert hoch",
-      "teaser": "Im vergangenen Jahr wurden bundesweit 106.000 Schwangerschaftsabbrüche vorgenommen. Trotz Mehrheiten für eine Liberalisierung der Situation bleiben Abbrüche rechtswidrig.",
-      "url": "https://www.zeit.de/gesundheit/2025-04/schwangerschaftsabbrueche-zahl-2024-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-04/schwangerschaftsabbrueche-zahl-kaum-veraenderung-bild/super__430x286",
-      "image_title": "Statistisches Bundesamt: Zahl der Schwangerschaftsabbrüche bleibt unverändert hoch"
     },
     {
       "title": "TikTok : Donald Trump setzt TikTok-Verbot für weitere 75 Tage aus",
@@ -1183,11 +1201,11 @@
       "image_title": "Abschiebung: Eine Demonstratin wird bei einer Pro-Palästina Demo in Berlin von der Polizei festgehalten und ein Mirko liegt bei einer Demonstration der Palästina-Solidaritätsbewegung in Berlin am Boden am 7. Mai 2024."
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Propalästinensische Aktionen : \"Migrationsrecht genutzt, um missliebige Leute zu vertreiben\"",
@@ -1225,36 +1243,36 @@
       "image_title": "Einsamkeit im Alter: Viele Menschen leiden an Einsamkeit, gerade im Alter ist sie eine Gefahr. Zwei Hamburger erzählen, wie sie neue Kontakte suchten."
     },
     {
-      "title": "Halbmarathon in Berlin: Petros läuft deutschen Rekord - Krause auf Rang elf",
-      "url": "https://www.zeit.de/news/2025-04/06/petros-laeuft-deutschen-rekord-krause-auf-rang-elf"
+      "title": "Shoppen in der City: Erster verkaufsoffener Sonntag lockt Besucher nach Hamburg",
+      "url": "https://www.zeit.de/news/2025-04/06/erster-verkaufsoffener-sonntag-lockt-besucher-nach-hamburg"
     },
     {
-      "title": "Bluttat im Westerwald: Ortsbürgermeister zeigt sich nach Leichenfund betroffen",
-      "url": "https://www.zeit.de/news/2025-04/06/drei-tote-im-westerwald-gefunden-taeter-auf-der-flucht"
+      "title": "Digitales Gedenkbuch: Gedenken an das Massaker von Isenschnibbe vor 80 Jahren",
+      "url": "https://www.zeit.de/news/2025-04/06/gedenken-an-das-massaker-von-isenschnibbe-vor-80-jahren"
     },
     {
-      "title": "Falscher Weg: Feuerwehr rettet verirrten Pizzaboten",
-      "url": "https://www.zeit.de/news/2025-04/06/feuerwehr-rettet-verirrten-pizzaboten"
+      "title": "Besuch aus den USA: Woidke spricht in der Staatskanzlei mit US-Gouverneur",
+      "url": "https://www.zeit.de/news/2025-04/06/woidke-spricht-in-der-staatskanzlei-mit-us-gouverneur"
     },
     {
-      "title": "2. Fußball-Bundesliga: Mulder bestätigt: Baumann \"gute Wahl\" für Schalke",
-      "url": "https://www.zeit.de/news/2025-04/06/mulder-bestaetigt-baumann-gute-wahl-fuer-schalke"
+      "title": "Schnelles Internet: Telekom forciert Glasfaserausbau in Sachsen",
+      "url": "https://www.zeit.de/news/2025-04/06/telekom-forciert-glasfaserausbau-in-sachsen"
     },
     {
-      "title": "#TeslaTakedown: Plakate und Sprühfarbe - Protest gegen Tesla in Oldenburg",
-      "url": "https://www.zeit.de/news/2025-04/06/plakate-und-spruehfarbe-protest-gegen-tesla-in-oldenburg"
+      "title": "Fotografie: Bilder des Tages",
+      "url": "https://www.zeit.de/news/2025-04/06/bilder-des-tages"
     },
     {
-      "title": "Weltkriegsfolgen: Blindgänger-Verdacht - keine Entschärfung in Dortmund nötig",
-      "url": "https://www.zeit.de/news/2025-04/06/blindgaenger-verdacht-in-dortmund-evakuierung-laeuft"
+      "title": "Bedrohung und Schläge: Statt zu zahlen - Mann bedroht Taxifahrer mit Waffe",
+      "url": "https://www.zeit.de/news/2025-04/06/statt-zu-zahlen-mann-bedroht-taxifahrer-mit-waffe"
     },
     {
-      "title": "Parteitag: Brinker erneut zur Berliner AfD-Chefin gewählt",
-      "url": "https://www.zeit.de/news/2025-04/06/proteste-gegen-afd-parteitag-in-jueterbog"
+      "title": "Landespolitiker: \"Kluger Geist\" – früherer CDU-Minister Georg Gölter ist tot",
+      "url": "https://www.zeit.de/news/2025-04/06/kluger-geist-frueherer-cdu-minister-georg-goelter-ist-tot"
     },
     {
-      "title": "Bayern vor Inter: Musiala-Aus verwandelt Müllers Abschiedstour: \"Pack ma's\"",
-      "url": "https://www.zeit.de/news/2025-04/06/matthaeus-ueber-causa-mueller-haussegen-haengt-schief"
+      "title": "Theater: Gustaf-Gründgens-Preis 2025 für Lina Beckmann",
+      "url": "https://www.zeit.de/news/2025-04/06/gustaf-gruendgens-preis-2025-fuer-lina-beckmann"
     }
   ]
 }
