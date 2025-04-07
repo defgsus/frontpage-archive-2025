@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-07T08:14:04",
+  "timestamp": "2025-04-07T09:11:24",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,25 +26,49 @@
   ],
   "articles": [
     {
+      "title": "ESP32-Hardware-Kompass: Welches Modell Sie für Ihr nächstes Projekt benötigen",
+      "teaser": "Zwischen WROOM, NodeMCU und Co. kann man den Überblick verlieren. Dieser Artikel macht die ESP32-Familie verständlich und hilft bei der Auswahl der Hardware.",
+      "url": "https://www.heise.de/ratgeber/ESP32-Hardware-Kompass-Welches-Modell-Sie-fuer-Ihr-naechstes-Projekt-benoetigen-10321040.html"
+    },
+    {
       "title": "Kompakte VR-Brille mit 8K-Auflösung für PC-Spiele: MeganeX Superlight 8K im Test",
       "teaser": "Kompakte Maße treffen auf enorme Auflösung: Wir testen die MeganeX Superlight 8K - und ob die Grafikkarte der Zahl berechneter Pixel gewachsen ist.",
       "url": "https://www.heise.de/tests/Kompakte-VR-Brille-mit-8K-Aufloesung-fuer-PC-Spiele-MeganeX-Superlight-8K-im-Test-10290905.html"
     },
     {
-      "title": "Raspberry Pi und Green: Einsteigerhardware für Home Assistant im Vergleich",
-      "teaser": "Anstöpseln und loslegen: Wir zeigen, mit welcher Hardware Einsteiger schnell mit Home Assistant starten können – und worauf sie vor dem Kauf achten sollten.",
-      "url": "https://www.heise.de/ratgeber/Raspberry-Pi-und-Green-Einsteigerhardware-fuer-Home-Assistant-im-Vergleich-10298326.html"
+      "title": "Lock-freier Stack: Details zu Implementierung von Hazard Pointers, Teil 2",
+      "teaser": "Wie Hazard Pointers bei der Umsetzung eines Lock-freien Stacks helfen, zeigt die Fortsetzung der Implementierung aus dem vorherigen Beitrag.",
+      "url": "https://www.heise.de/blog/Lock-freier-Stack-Details-zu-Implementierung-von-Hazard-Pointers-Teil-2-10342219.html",
+      "image_title": "Holzwürfel mit dem Schriftzug C++"
+    },
+    {
+      "title": "Llama 4: Meta veröffentlicht neue KI-Modelle",
+      "teaser": "Llama 4 Scout und Maverick sind da, das riesige Trainermodell Behemoth sowie ein Reasoning-Modell von Meta sollen folgen.",
+      "url": "https://www.heise.de/news/Llama-4-Meta-veroeffentlicht-neue-KI-Modelle-10342223.html"
+    },
+    {
+      "title": "\"Health Check\" von Xund soll Gesundheitsrisiken erkennen",
+      "teaser": "Das österreichische Start-up Xund hat zusammen mit der Handelskrankenkasse (Hkk) ein digitales Präventionstool veröffentlicht, den \"Health Check\".",
+      "url": "https://www.heise.de/news/Health-Check-von-Xund-soll-Gesundheitsrisiken-erkennen-10342266.html",
+      "image_title": "Health Check von Xund steht auf der Website der Handelskrankenkasse bereit"
+    },
+    {
+      "title": "iWork: Updates für Funktionen in neuen Betriebssystemen",
+      "teaser": "Pages, Numbers, und Keynote für iPhone, iPad und Mac erhalten Verbesserungen, die sie fit machen für iOS 18.4, iPadOS 18.4 und macOS 15.4.",
+      "url": "https://www.heise.de/news/iWork-Updates-fuer-Funktionen-in-neuen-Betriebssystemen-10340987.html",
+      "image_title": "iWork für verschiedene Plattformen"
+    },
+    {
+      "title": "Sicherheitsupdate: Angreifer können Winrar Schadcode unterschieben",
+      "teaser": "Unter bestimmten Bedingungen können Angreifer einen Schutzmechanismus von Windows umgehen und Schadcode ausführen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Winrar-Schadcode-unterschieben-10342337.html",
+      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
     },
     {
       "title": "Das heise security Webinar: Gefährliche Voreinstellungen der Microsoft-Cloud",
       "teaser": "Microsoft Entra ID kommt mit gefährlichen Defaults. Wir zeigen, wo man unbedingt nachbessern muss. Und bis Mittwoch gibts das Webinar noch 20 Prozent reduziert.",
       "url": "https://www.heise.de/news/Das-heise-security-Webinar-Gefaehrliche-Voreinstellungen-der-Microsoft-Cloud-10340393.html",
       "image_title": "Regenwolke in den Microsoft-Farben, oben links das Logo von heise security."
-    },
-    {
-      "title": "ESP32-Hardware-Kompass: Welches Modell Sie für Ihr nächstes Projekt benötigen",
-      "teaser": "Zwischen WROOM, NodeMCU und Co. kann man den Überblick verlieren. Dieser Artikel macht die ESP32-Familie verständlich und hilft bei der Auswahl der Hardware.",
-      "url": "https://www.heise.de/ratgeber/ESP32-Hardware-Kompass-Welches-Modell-Sie-fuer-Ihr-naechstes-Projekt-benoetigen-10321040.html"
     },
     {
       "title": "Rahmenvertrag: MS-365-Alternative OpenDesk soll die Bundeswehr erobern",
@@ -97,29 +121,6 @@
       "teaser": "Das Programm der JavaScript-Konferenz umfasst mehr als 35 Vorträge in drei Tracks. Darüber hinaus bietet sie Workshops zu Angular, TypeScript und KI.",
       "url": "https://www.heise.de/news/Konferenz-zu-Enterprise-JavaScript-enterJS-2025-am-7-und-8-Mai-in-Mannheim-10338760.html",
       "image_title": "enterJS Aufmacherbild"
-    },
-    {
-      "title": "Nvidia veröffentlicht PhysX vollständig als Open Source",
-      "teaser": "Die Physik-Bibliothek für Spiele ist nun erstmals auch mit Sourcen für GPUs verfügbar. Für Modder ergeben sich dadurch ganz neue Möglichkeiten.",
-      "url": "https://www.heise.de/news/Nvidia-veroeffentlicht-PhysX-vollstaendig-als-Open-Source-10341954.html"
-    },
-    {
-      "title": "iX-Workshop: Windows Server absichern und härten",
-      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10335055.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Top 8: Das beste Smart Lock im Test – Tedee vor Aqara und Nuki",
-      "teaser": "Die Tür per Fingerabdruck oder NFC-Tag zu öffnen, gelingt schneller und bequemer als mit einem herkömmlichen Schlüssel. Wir zeigen die besten Smart Locks aus unseren Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-7-das-beste-smart-lock-im-test/8nlt4e6?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Mini-PC Minisforum AI X1 Pro im Test: Genug Power für lokale KI, Gaming & Co.",
-      "teaser": "Der Minisforum AI X1 Pro ist ein hervorragender Premium-Mini-PC, der neben der Anschlussausstattung auch mit KI-Power, etwa für lokale Sprachsteuerung mit Home Assistant überzeugt. Wir haben ihn getestet.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-minisforum-ai-x1-pro-im-test/zynpjrj?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
       "title": "Endpoint Central wird Champion in der Kategorie Vulnerability Management",
