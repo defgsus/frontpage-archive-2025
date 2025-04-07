@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-07T20:10:48",
+  "timestamp": "2025-04-07T21:08:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Europcar: Kundendaten und Quellcodes gestohlen",
+      "url": "https://www.heise.de/news/Europcar-Kundendaten-und-Quellcodes-gestohlen-10343654.html"
+    },
     {
       "title": "iOS 19: Dann ist mit Apples großem iPhone-Update zu rechnen",
       "url": "https://www.heise.de/news/Apples-naechstes-iPhone-Betriebssystem-Wann-kommt-iOS-19-10343608.html"
@@ -60,10 +64,6 @@
     {
       "title": "Ausnahmen beim Verbrenner-Verbot: Britische Regierung will Autoindustrie helfen",
       "url": "https://www.heise.de/news/Grossbritannien-Regierung-will-der-Autoindustrie-helfen-10343401.html"
-    },
-    {
-      "title": "Meereis in der Arktis hat geringste Ausdehnung seit 1979",
-      "url": "https://www.heise.de/news/Meereis-in-der-Arktis-hat-geringste-Ausdehnung-seit-1979-10343348.html"
     },
     {
       "title": "25 ProzentUS-Autozölle gelten für alle Computer und Festplatten",
@@ -183,20 +183,26 @@
       "image_title": "Sicherheitsmensch vor oder in Glaskugel, darum schwirren Schlösser und Geld"
     },
     {
+      "title": "Europcar: Kundendaten und Quellcodes gestohlen",
+      "teaser": "Ein Cyberkrimineller hat offenbar Daten von bis zu 200.000 Europcar-Kunden abgegriffen und versucht, das Unternehmen zu erpressen.",
+      "url": "https://www.heise.de/news/Europcar-Kundendaten-und-Quellcodes-gestohlen-10343654.html",
+      "image_title": "Hände am Laptop im Gegenlicht, Vordergrund im Dunklen"
+    },
+    {
       "title": "iOS 19: Dann ist mit Apples großem iPhone-Update zu rechnen",
       "teaser": "Apple folgt bei seinen Betriebssystemen bestimmten Regeln in Sachen Veröffentlichung. Die Mac & i-Vorhersage zeigt, wann es bei iOS in diesem Jahr so weit ist.",
       "url": "https://www.heise.de/news/Apples-naechstes-iPhone-Betriebssystem-Wann-kommt-iOS-19-10343608.html",
       "image_title": "iOS mit Icons"
     },
     {
-      "title": "Top 10: Das beste Outdoor-Handy im Test – wasserdicht, robust, Wärmebild & Co.",
-      "teaser": "Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Smartphones sind nicht nur stabil und wasserdicht. Wir zeigen die besten Modelle aus unseren Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test/l7bnxjv?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "So arbeiten moderne Hacker-Fabriken",
       "teaser": "Hacker-Gruppen im digitalen Untergrund arbeiten oft schon in industriellem Maßstab. Sie adaptieren neue Technologien, sodass es ständig zu neuen Angriffswellen kommt. Doch die Security-Firmen ergreifen Gegenmaßnahmen.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6946150026&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Das beste Outdoor-Handy im Test – wasserdicht, robust, Wärmebild & Co.",
+      "teaser": "Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Smartphones sind nicht nur stabil und wasserdicht. Wir zeigen die besten Modelle aus unseren Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test/l7bnxjv?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Erstes größeres Update für Apples neue Einladungen-App",
@@ -226,12 +232,6 @@
       "title": "Bildgenerator von GPT-4o: Was vermutlich technisch hinter dem Durchbruch steckt",
       "teaser": "Der Bildgenerator von GPT-4o beeindruckt mit Qualität und präziser Textintegration. Doch was unterscheidet ihn von anderen Modellen? Ein Erklärungsversuch.",
       "url": "https://www.heise.de/hintergrund/Bildgenerator-von-GPT-4o-Was-vermutlich-technisch-hinter-dem-Durchbruch-steckt-10343038.html"
-    },
-    {
-      "title": "Ausnahmen beim Verbrenner-Verbot: Britische Regierung will Autoindustrie helfen",
-      "teaser": "Ab 2030 sollen in Großbritannien keine Neuwagen mit Verbrenner mehr verkauft werden. Doch die Regierung plant Ausnahmen, um die Industrie zu unterstützen.",
-      "url": "https://www.heise.de/news/Grossbritannien-Regierung-will-der-Autoindustrie-helfen-10343401.html",
-      "image_title": "Land Rover"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -296,6 +296,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Ausnahmen beim Verbrenner-Verbot: Britische Regierung will Autoindustrie helfen",
+      "teaser": "Ab 2030 sollen in Großbritannien keine Neuwagen mit Verbrenner mehr verkauft werden. Doch die Regierung plant Ausnahmen, um die Industrie zu unterstützen.",
+      "url": "https://www.heise.de/news/Grossbritannien-Regierung-will-der-Autoindustrie-helfen-10343401.html",
+      "image_title": "Land Rover"
     },
     {
       "title": "Meereis in der Arktis hat geringste Ausdehnung seit 1979",
@@ -366,15 +372,15 @@
       "image_title": "Eine ZIP-Datei öffnet sich und entlässt Malware auf dem Rechner"
     },
     {
+      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
+      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
+    },
+    {
       "title": "Slackware schafft mehr Sicherheit: Wifislax 4.0 prüft WLAN-Netze mit WPA3",
       "teaser": "Der Slackwork-Force Wifislax soll Administratoren beim Betrieb sicherer Netzwerke unterstützen. In Version 4.0 gibt es Support für WPA3 und OpenSSL 3.",
       "url": "https://www.heise.de/news/Slackware-schafft-mehr-Sicherheit-Wifislax-4-0-prueft-WLAN-Netze-mit-WPA3-10339163.html",
       "image_title": "Nutzer gibt etwas am Rechner ein, Viren fliegen umher"
-    },
-    {
-      "title": "Mobile Workstations: Performance ohne Kompromisse",
-      "teaser": "Mobile Workstations sind oft ein Kompromiss. Leichte Geräte mit langer Akkulaufzeit sind in der Regel weniger leistungsfähig als Alternativen im Tower-Design, hohe Performance geht meist mit mehr Gewicht, größeren Abmessungen und kürzeren Laufzeiten einher. Warum das nicht so sein muss.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/mobile-workstations-performance-ohne-kompromisse-4886/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
@@ -427,12 +433,6 @@
       "teaser": "Die Linux-Paketverwaltung APT ist jetzt als stabile Version 3.0.0 erschienen. Sie bringt etwa eine verbesserte Darstellung.",
       "url": "https://www.heise.de/news/Paketverwalter-apt-macht-Versionssprung-auf-3-0-0-10342718.html",
       "image_title": "Ubuntu mit apt-Kommandozeile auf Laptop"
-    },
-    {
-      "title": "E-Autos: Zahl in Deutschland steigt seit 2024 um 243.000 auf 1,65 Millionen",
-      "teaser": "Über die Hälfte der deutschen Pkw fährt heute mit Euro 6 oder lokal abgasfrei. Kleine und kompakte Autos werden immer weniger, was beim CO₂-Ausstoß nicht hilft.",
-      "url": "https://www.heise.de/news/E-Autos-Zahl-in-Deutschland-steigt-seit-2024-um-243-000-auf-1-65-Millionen-10342650.html",
-      "image_title": "Leapmotor T03"
     },
     {
       "title": "Nvidia veröffentlicht PhysX vollständig als Open Source",
@@ -599,20 +599,19 @@
       "url": "https://www.heise.de/en/news/VMware-Companies-will-have-to-license-72-instead-of-16-cores-in-future-10335733.html"
     },
     {
-      "title": "Bit-Rauschen: Intels neuer Chef ist ein alter Bekannter",
-      "teaser": "Intels neuer CEO kennt das Unternehmen schon. Nvidia steigt ins Workstation-Geschäft ein. Die EU will sich mit RISC-V digital von den USA emanzipieren.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Intels-neuer-Chef-ist-ein-alter-Bekannter-10325727.html",
-      "image_title": ","
+      "title": "Thermomix TM7 ausprobiert | c't 3003",
+      "teaser": "Ist das noch ein Küchengerät? c't 3003 hat den Thermomix TM7 vor dem Verkaufsstart ausprobiert.",
+      "url": "https://www.heise.de/news/Thermomix-TM7-ausprobiert-c-t-3003-10342805.html"
     },
     {
-      "title": "Bezahlbare Mittelklasse-Smartphones: Nothing Phone (3a) und (3a) Pro im Test",
-      "teaser": "Nothing mischt mit den beiden neuen, sehr ähnlichen Smartphones in der nicht so schmerzhaft teuren Mittelklasse kräftig mit. Ob sie gut sind, klärt der Test.",
-      "url": "https://www.heise.de/tests/Bezahlbare-Mittelklasse-Smartphones-Nothing-Phone-3a-und-3a-Pro-im-Test-10342392.html"
+      "title": "Im Test: ARC Studio 4 korrigiert Frequenzgänge von Lautsprechern",
+      "teaser": "Die Akustik im Tonstudio verändert den Klang von Lautsprechern. ARC Studio 4 korrigiert den Frequenzgang mit einer kleinen Box.",
+      "url": "https://www.heise.de/tests/Im-Test-ARC-Studio-4-korrigiert-Frequenzgaenge-von-Lautsprechern-10319379.html"
     },
     {
-      "title": "Buchrezension: Per Anhalter durch die IT-Branche",
-      "teaser": "Das Autorenteam des Ratgebers räumt mit 24 verbreiteten Mythen in Bezug auf Berufe der IT-Branche auf.",
-      "url": "https://www.heise.de/ratgeber/Buchrezension-Per-Anhalter-durch-die-IT-Branche-10315806.html"
+      "title": "Teure Trägerfolien für Dokumentenscanner",
+      "teaser": "Die teuren Trägerfolien für den Brother ADS-2400N gibt es nur im Fünferpack für 2500 Scans. Gibt es günstigere Einzelfolien oder Alternativen?",
+      "url": "https://www.heise.de/ratgeber/Teure-Traegerfolien-fuer-Dokumentenscanner-10335820.html"
     },
     {
       "title": "Gut & günstig?Das neue Einsteiger-iPad im Test",
@@ -639,14 +638,21 @@
       "image_title": "Müll"
     },
     {
-      "title": "ESP32-Hardware-Kompass: Welches Modell Sie für Ihr nächstes Projekt benötigen",
-      "teaser": "Zwischen WROOM, NodeMCU und Co. kann man den Überblick verlieren. Dieser Artikel macht die ESP32-Familie verständlich und hilft bei der Auswahl der Hardware.",
-      "url": "https://www.heise.de/ratgeber/ESP32-Hardware-Kompass-Welches-Modell-Sie-fuer-Ihr-naechstes-Projekt-benoetigen-10321040.html"
-    },
-    {
       "title": "Jetzt in der Make 2/25: Schlauer schalten mit Shelly",
       "teaser": "Mit Shelly lassen sich Geräte einfach fernsteuern. Doch das Produktportfolio kann verwirren. In der Make 2/25 helfen wir beim Einstieg.",
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-25-Schlauer-schalten-mit-Shelly-10339378.html"
+    },
+    {
+      "title": "Eierlege-Automat Deluxe zum Nachbauen",
+      "teaser": "Passend zu Ostern bringen wir euch einen bunten Eierlege-Revolver, der auf Knopfdruck ein Ei legen kann. Ihr könnt den Automaten auch mit Süßigkeiten laden.",
+      "url": "https://www.heise.de/ratgeber/Eierlege-Automat-Deluxe-zum-Nachbauen-10295963.html",
+      "image_title": ","
+    },
+    {
+      "title": "Wie Sportfotografie für Einsteiger gelingt",
+      "teaser": "Egal ob im Verein oder bei einer Veranstaltung der eigenen Kinder – mit dem richtigen Equipment und der passenden Herangehensweise gelingt Sportfotografie.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sportfotografie-fuer-Einsteiger-gelingt-10292833.html",
+      "image_title": ", Alle Bilder: Tom Leon Zacharek , Location: Gran Turismo Cup Race / Nürburgring"
     },
     {
       "title": "Von Flughunden, Stille und einer vergangenen Zeit: Die Bilder der Woche 13",
@@ -666,11 +672,6 @@
       "image_title": ", KI-generiert mit freepik, alle anderen Bilder und Screens: Kevin Kurek"
     },
     {
-      "title": "Fotowettbewerb \"Menschen in Bewegung\": Bewerten Sie Ihre Favoriten!",
-      "teaser": "Wir suchen die besten Bilder des aktuellen Fotowettbewerbs. Mit Ihrer Stimme entscheiden Sie, welche Fotografen es auf das Siegertreppchen schaffen.",
-      "url": "https://www.heise.de/news/Fotowettbewerb-Menschen-in-Bewegung-Bewerten-Sie-Ihre-Favoriten-10338634.html"
-    },
-    {
       "title": "Verschiedene Formate von Sprachmodellen im Überblick",
       "teaser": "Sprachmodelle können in zahlreichen Formaten vorliegen. Wer sie lokal einsetzen will, muss aber nur über Safetensors und das GGUF-Format Bescheid wissen.",
       "url": "https://www.heise.de/hintergrund/Verschiedene-Formate-von-Sprachmodellen-im-Ueberblick-10312839.html"
@@ -684,6 +685,12 @@
       "title": "Übersicht über kleine KI-Modelle, die sich für den lokalen Betrieb eignen",
       "teaser": "Ob für das Feintunen, in einem RAG-System oder für den Offlinebetrieb: Small Language Models eignen sich auch für den lokalen Einsatz und sind einen Blick wert.",
       "url": "https://www.heise.de/hintergrund/Uebersicht-ueber-kleine-KI-Modelle-die-sich-fuer-den-lokalen-Betrieb-eignen-10306979.html"
+    },
+    {
+      "title": "ElektroautoE-Auto-Zulassungen steigen um 243.000 auf 1,65 Millionen",
+      "teaser": "Über die Hälfte der deutschen Pkw fährt heute mit Euro 6 oder lokal abgasfrei. Kleine und kompakte Autos werden immer weniger, was beim CO₂-Ausstoß nicht hilft.",
+      "url": "https://www.heise.de/news/E-Autos-Zahl-in-Deutschland-steigt-seit-2024-um-243-000-auf-1-65-Millionen-10342650.html",
+      "image_title": "Leapmotor T03"
     },
     {
       "title": "Deutschland muss beim Verkehr noch nachlegenIEA: Verkehrssektor bremst Energiewende",
@@ -702,12 +709,6 @@
       "teaser": "Mit einer kleinen Modellpflege will Renault das Hybrid-SUV Austral optisch näher an jüngere Modelle rücken. Die Antriebe bleiben unangetastet.",
       "url": "https://www.heise.de/news/Renault-Austral-Facelift-optisch-geschaerft-Antrieb-unveraendert-10339549.html",
       "image_title": "Renault Austral"
-    },
-    {
-      "title": "Hersteller zeigen sich entsetztUS-Zölle für Autos",
-      "teaser": "Trumps neue Zölle gelten für alle importierten Autos. Die deutschen Hersteller zeigen sich entsetzt – und legen erste Maßnahmen auf.",
-      "url": "https://www.heise.de/news/US-Praesident-Trump-setzt-Autozoelle-in-Kraft-10339513.html",
-      "image_title": "Porsche in den USA"
     },
     {
       "title": "Midjourney 7 ausprobiert: So schlägt sich die Bild-KI gegen die Konkurrenz",
@@ -745,21 +746,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Die US-Börse crasht, Musk mosert – Trump golft",
-      "teaser": "In den USA regt sich Widerstand gegen Trump. In Miami empfing er saudi-arabische Golfturnier-Gäste, in Mar-a-Lago Spender. Und dann gibt es noch eine pikante Rechnung.",
-      "url": "https://www.heise.de/tp/features/Die-US-Boerse-crasht-Musk-mosert-Trump-golft-10341890.html",
-      "image_title": "Handelscontainer, Schiffscontainer, davor Sperrbänder mit der US-Fahne drauf"
-    },
-    {
-      "title": "Sprachlos war gestern: KI macht Gedanken hörbar",
-      "teaser": "Gehirnimplantate werden immer besser. Nun verspricht eine neue Technologie, Gedanken in gesprochene Sprache zu übersetzen; und das in Echtzeit",
-      "url": "https://www.heise.de/tp/features/Sprachlos-war-gestern-KI-macht-Gedanken-hoerbar-10337678.html",
-      "image_title": "Symbolgrafik einer Gehirn-Computer-Schnittstelle; Implantat"
-    },
-    {
       "title": "KI-Revolution: Die Prophezeiungen von Bill Gates",
       "teaser": "Microsoft-Gründer kündigt Ende von Berufen und Experten an. Unser Arbeitsleben wird sich grundlegend verändern. Wer sind die Auslaufmodelle? Gastbeitrag.",
       "url": "https://www.heise.de/tp/features/KI-Revolution-Die-Prophezeiungen-von-Bill-Gates-10341713.html"
+    },
+    {
+      "title": "Militär-Keynesianismus: Deutschland rüstet sich arm",
+      "teaser": "Die Reform der Schuldenbremse erlaubt unbegrenzte Militärausgaben. Der Ökonom Paul Steinhardt warnt vor den Folgen dieser Entscheidung. Wer soll das alles bezahlen?",
+      "url": "https://www.heise.de/tp/features/Militaer-Keynesianismus-Deutschland-ruestet-sich-arm-10341342.html",
+      "image_title": "Taurus-Marschflugkörper und eine Tüte Milch im Regel - was hat Priorität?"
+    },
+    {
+      "title": "Bildung und Schulen: Wer unten ist, bleibt unten?",
+      "teaser": "Im Bereich der Bildung werden Machtkämpfe ausgetragen. Was durch Sparen erodiert, was zur Begabtenförderung gehört und warum die Deutschen mehr Bildung nötig haben. Analyse.",
+      "url": "https://www.heise.de/tp/features/Bildung-und-Schulen-Wer-unten-ist-bleibt-unten-10341920.html",
+      "image_title": "Grundschul-Klasse mit Kindern auf der Schulback von hiinten aufgenommen."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
