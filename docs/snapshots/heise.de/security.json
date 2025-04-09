@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-09T07:10:25",
+  "timestamp": "2025-04-09T08:13:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
-      "title": "VerschlüsselungsbibliothekOpenSSL 3.5.0 enthält nun Post-Quanten-Verfahren",
-      "teaser": "OpenSSL fügt mit der neuen LTS-Version 3.5.0 seiner Bibliothek die Post-Quanten-Verfahren ML-KEM, ML-DSA und SLH-DSA hinzu.",
-      "url": "https://www.heise.de/news/OpenSSL-3-5-0-enthaelt-nun-Post-Quanten-Verfahren-10345122.html",
-      "image_title": "Jackie Niam"
-    },
-    {
-      "title": "ToddyCatMalware nutzt Sicherheitsleck in Antivirensoftware",
-      "teaser": "Statt Systeme vor Malware zu schützen, hat eine Lücke in Eset-Virenschutz zur Ausführung von Schadsoftware geführt.",
-      "url": "https://www.heise.de/news/ToddyCat-Malware-nutzt-Sicherheitsleck-in-Antivirensoftware-10344279.html",
-      "image_title": "Ein Monitor zeigt einen Schutzschild an, aus dem Viren dringen"
-    },
-    {
-      "title": "AlertPatchday: Angreifer attackieren Windows und verschaffen sich System-Rechte",
+      "title": "AlertPatchdayAngreifer attackieren Windows und verschaffen sich System-Rechte",
+      "teaser": "Microsoft hat über Windows Update wichtige Sicherheitspatches für unter anderem Azure, Bitlocker und Kerberos bereitgestellt.",
       "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-10345516.html",
       "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
+    },
+    {
+      "title": "\"Passwort\" Folge 29Security-News und Feedback von Oracle bis Web-PKI",
+      "teaser": "Die Reaktionen zeigen: Angriffe auf Smartphones bewegen viele Hörer. Die Passwort-Hosts ärgern sich zudem in der neuesten Folge über Versäumnisse großer Player.",
+      "url": "https://www.heise.de/news/Passwort-Folge-29-Security-News-und-Feedback-von-Oracle-bis-Web-PKI-10340960.html",
+      "image_title": "Bild vom heise-Security-Podcast"
+    },
+    {
+      "title": "AlertPatchday Adobe: Kritische Schadcode-Lücken bedrohen ColdFusion & Co.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Schadcode-Luecken-bedrohen-ColdFusion-Co-10345556.html",
+      "image_title": "Laptop mit Adobe-Logo auf dem Display brennt"
     },
     {
       "title": "Auslegungssache 131: Europäische Gesundheitsdaten sollen fließen",
@@ -69,16 +69,10 @@
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
-      "title": "AlertPatchday: Angreifer attackieren Windows und verschaffen sich System-Rechte",
-      "teaser": "Microsoft hat über Windows Update wichtige Sicherheitspatches für unter anderem Azure, Bitlocker und Kerberos bereitgestellt.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-10345516.html",
-      "image_title": "Computer zeigt Windows-Logo an, Server drum herum brennen, qualmende Viren attackieren alles"
-    },
-    {
-      "title": "\"Passwort\" Folge 29: Security-News und Feedback von Oracle bis Web-PKI",
-      "teaser": "Die Reaktionen zeigen: Angriffe auf Smartphones bewegen viele Hörer. Die Passwort-Hosts ärgern sich zudem in der neuesten Folge über Versäumnisse großer Player.",
-      "url": "https://www.heise.de/news/Passwort-Folge-29-Security-News-und-Feedback-von-Oracle-bis-Web-PKI-10340960.html",
-      "image_title": "Bild vom heise-Security-Podcast"
+      "title": "AlertPatchday Adobe: Kritische Schadcode-Lücken bedrohen ColdFusion & Co.",
+      "teaser": "Adobe schließt mehrere Sicherheitslücken in verschiedenen Anwendungen. Im schlimmsten Fall können Angreifer Schadcode ausführen.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Schadcode-Luecken-bedrohen-ColdFusion-Co-10345556.html",
+      "image_title": "Laptop mit Adobe-Logo auf dem Display brennt"
     },
     {
       "title": "heise security Tour: Risiko Management, Managed Security, Phishing-Abwehr & mehr",
@@ -98,10 +92,22 @@
       "image_title": "Ein gezackter Schlüssel liegt auf einer Laptoptatstatur"
     },
     {
+      "title": "OpenSSL 3.5.0 enthält nun Post-Quanten-Verfahren",
+      "teaser": "OpenSSL fügt mit der neuen LTS-Version 3.5.0 seiner Bibliothek die Post-Quanten-Verfahren ML-KEM, ML-DSA und SLH-DSA hinzu.",
+      "url": "https://www.heise.de/news/OpenSSL-3-5-0-enthaelt-nun-Post-Quanten-Verfahren-10345122.html",
+      "image_title": "Jackie Niam"
+    },
+    {
       "title": "AlertHCL: Sicherheitslücken in BigFix, DevOps und mehr Produkten",
       "teaser": "HCL warnt vor teils kritischen Sicherheitslücken. Updates stehen für BigFix, DevOps, Traveler und Connections bereit.",
       "url": "https://www.heise.de/news/HCL-Sicherheitsluecken-in-BigFix-DevOps-und-mehr-Produkten-10344571.html",
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
+    },
+    {
+      "title": "ToddyCat: Malware nutzt Sicherheitsleck in Antivirensoftware",
+      "teaser": "Statt Systeme vor Malware zu schützen, hat eine Lücke in Eset-Virenschutz zur Ausführung von Schadsoftware geführt.",
+      "url": "https://www.heise.de/news/ToddyCat-Malware-nutzt-Sicherheitsleck-in-Antivirensoftware-10344279.html",
+      "image_title": "Ein Monitor zeigt einen Schutzschild an, aus dem Viren dringen"
     },
     {
       "title": "iX-Workshop: Webanwendungen absichern mit OWASP® Top 10",
@@ -156,12 +162,6 @@
       "teaser": "Der Business-Malwareschutz GravityZone von Bitdefender weist eine kritische Sicherheitslücke auf. Updates stehen bereit.",
       "url": "https://www.heise.de/news/Bitdefender-GravityZone-Kritische-Sicherheitsluecke-gefaehrdet-Nutzer-10342193.html",
       "image_title": "Ein Monster hämmert auf einen Virenscanner in Pacman-Form, der Viren am laufenden Band frisst."
-    },
-    {
-      "title": "iX-Workshop: Windows Server absichern und härten",
-      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10335055.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "Classroom | 28.04. – 26.05.2025Fortgeschrittenes Ethical Hacking – Deep Dive ins Pentesting für Admins",
