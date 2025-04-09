@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-09T02:21:29",
+  "timestamp": "2025-04-09T03:26:44",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "TSMC droht US-Milliardenstrafe wegen vermeintlicher Chip-Lieferungen an Huawei",
+      "url": "https://www.heise.de/news/TSMC-droht-US-Milliardenstrafe-wegen-vermeintlicher-Chip-Lieferungen-an-Huawei-10345406.html"
+    },
     {
       "title": "US-Bankenaufsicht 21 Monate infiltriert",
       "url": "https://www.heise.de/news/US-Bankenaufsicht-21-Monate-infiltriert-10345392.html"
@@ -60,10 +64,6 @@
     {
       "title": "Framework für KI-Agenten: MCP Gateway verknüpft KI mit Datenquellen und Apps",
       "url": "https://www.heise.de/news/Framework-fuer-KI-Agenten-MCP-Gateway-verknuepft-KI-mit-Datenquellen-und-Apps-10343799.html"
-    },
-    {
-      "title": "Tracking: Landgericht verdonnert Meta zu mehreren tausend Euro Schadenersatz",
-      "url": "https://www.heise.de/news/Tracking-Landgericht-verdonnert-Meta-zu-mehreren-tausend-Euro-Schadenersatz-10345102.html"
     },
     {
       "title": "ZollhammeriPhone-Kunden in den USA kaufen Läden leer",
@@ -185,15 +185,16 @@
       "image_title": "Erstflug des BlackBird"
     },
     {
+      "title": "TSMC droht US-Milliardenstrafe wegen vermeintlicher Chip-Lieferungen an Huawei",
+      "teaser": "Trotz Exportverbot soll TSMC über Sophgo Chips an Huawei geliefert haben. Zwar dementieren die Beteiligten, aber trotzdem droht eine Milliardenstrafe der USA.",
+      "url": "https://www.heise.de/news/TSMC-droht-US-Milliardenstrafe-wegen-vermeintlicher-Chip-Lieferungen-an-Huawei-10345406.html",
+      "image_title": "Ein Chip auf einem symbolischen Wafer"
+    },
+    {
       "title": "US-Bankenaufsicht 21 Monate infiltriert",
       "teaser": "Über ein Adminkonto drangen Unbekannte beim Comptroller of the Currency ein. Sie konnten mitlesen, wie Geldwäsche und Terrorfinanzierung bekämpft werden.",
       "url": "https://www.heise.de/news/US-Bankenaufsicht-21-Monate-infiltriert-10345392.html",
       "image_title": "Ein gezackter Schlüssel liegt auf einer Laptoptatstatur"
-    },
-    {
-      "title": "\"Commandos – Origins\" angespielt: Echtzeittaktik für Kenner",
-      "teaser": "Die deutschen Claymore Game Studios wagen mit \"Commandos: Origins\" den Sprung in die Nische der Echtzeittaktik-Spiele.",
-      "url": "https://www.heise.de/tests/Commandos-Origins-angespielt-Echtzeittaktik-fuer-Kenner-10344724.html"
     },
     {
       "title": "Backup-Technologien, die Ransomware keine Chance lassen",
@@ -201,8 +202,13 @@
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
     },
     {
+      "title": "\"Commandos – Origins\" angespielt: Echtzeittaktik für Kenner",
+      "teaser": "Die deutschen Claymore Game Studios wagen mit \"Commandos: Origins\" den Sprung in die Nische der Echtzeittaktik-Spiele.",
+      "url": "https://www.heise.de/tests/Commandos-Origins-angespielt-Echtzeittaktik-fuer-Kenner-10344724.html"
+    },
+    {
       "title": "FreeDOS 1.4 ist da",
-      "teaser": "MS-DOS war die längste Zeit Closed Source. 1994 beschloss Jim Hall, eine Open-Source-Alternative aufzulege: FreeDOS. Es ist zu Version 1.4 gereift.",
+      "teaser": "MS-DOS war die längste Zeit Closed Source. 1994 beschloss Jim Hall, eine Open-Source-Alternative aufzulegen: FreeDOS. Es ist zu Version 1.4 gereift.",
       "url": "https://www.heise.de/news/FreeDOS-1-4-ist-da-10345336.html",
       "image_title": "Rechts eine 3,5-Zoll-Diskette, links ein von Künstlerhand aus Diskettenteilen gefertigtes Männlein; ein Notizzettel auf der Diskette sagt \"'Floppy Dudes' made from old floppy disks, $9 each\""
     },
@@ -230,12 +236,6 @@
       "image_title": "Smart #5 Brabus"
     },
     {
-      "title": "Wie Sportfotografie für Einsteiger gelingt",
-      "teaser": "Egal ob im Verein oder bei einer Veranstaltung der eigenen Kinder – mit dem richtigen Equipment und der passenden Herangehensweise gelingt Sportfotografie.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sportfotografie-fuer-Einsteiger-gelingt-10292833.html",
-      "image_title": ", Alle Bilder: Tom Leon Zacharek , Location: Gran Turismo Cup Race / Nürburgring"
-    },
-    {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
       "teaser": "Die Schweiz lockt mit hohen Gehältern. Auch die Lebensqualität ist gut. Wir zeigen, wie ITler auswandern können – und wie viel sie verdienen.",
       "url": "https://www.heise.de/ratgeber/Auswandern-Als-ITler-in-der-Schweiz-arbeiten-10296203.html"
@@ -256,12 +256,12 @@
       "image_title": "Baumdiagramm über Verluste an der US-Börse"
     },
     {
-      "title": "\"Mein coolster Code\": Bill Gates veröffentlicht Quellcode von Altair Basic",
-      "url": "https://www.heise.de/news/Mein-coolster-Code-Bill-Gates-veroeffentlicht-Quellcode-von-Altair-Basic-10339005.html"
+      "title": "US-Autozölle verwirren mit Zollcode für Computer und Festplatten",
+      "url": "https://www.heise.de/news/US-Autozoelle-gelten-fuer-alle-Computer-und-Festplatten-10342923.html"
     },
     {
-      "title": "\"Wir drücken die Daumen\": Asteroid 2024 YR₄ könnte noch immer den Mond treffen",
-      "url": "https://www.heise.de/news/Wir-druecken-die-Daumen-Asteroid-2024-YR-koennte-noch-immer-den-Mond-treffen-10335202.html"
+      "title": "Erste Berechnungen: 700 Dollar mehr für ein iPhone wegen Trump",
+      "url": "https://www.heise.de/news/US-iPhone-Preise-2300-Dollar-fuer-ein-Topmodell-wegen-Trump-Zoellen-10341562.html"
     },
     {
       "title": "Fünf Office-Programme ohne Microsoft im Test",
@@ -298,6 +298,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Wie Sportfotografie für Einsteiger gelingt",
+      "teaser": "Egal ob im Verein oder bei einer Veranstaltung der eigenen Kinder – mit dem richtigen Equipment und der passenden Herangehensweise gelingt Sportfotografie.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sportfotografie-fuer-Einsteiger-gelingt-10292833.html",
+      "image_title": ", Alle Bilder: Tom Leon Zacharek , Location: Gran Turismo Cup Race / Nürburgring"
     },
     {
       "title": "Framework für KI-Agenten: MCP Gateway verknüpft KI mit Datenquellen und Apps",
@@ -367,15 +373,15 @@
       "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
     },
     {
+      "title": "NIS-2: Warum Sie trotz Verschiebung handeln sollten",
+      "teaser": "Die EU-Cyber-Sicherheitsrichtlinie NIS-2 ist als Gesetz in Deutschland noch nicht erlassen worden und wird vermutlich erst im Herbst 2025 in Kraft treten. In einem Webcast erklären wir, weshalb Unternehmen bis dahin nicht untätig sein und trotz Verschiebung handeln sollten.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-warum-unternehmen-trotz-verschiebung-handeln-sollten-4899/?source=hbsad-ersatz"
+    },
+    {
       "title": "iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
       "teaser": "Lernen Sie hands-on, wie Sie Schwachstellen in der API-Implementierung vermeiden und Angriffe abwehren.",
       "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-10339561.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "NIS-2: Warum Sie trotz Verschiebung handeln sollten",
-      "teaser": "Die EU-Cyber-Sicherheitsrichtlinie NIS-2 ist als Gesetz in Deutschland noch nicht erlassen worden und wird vermutlich erst im Herbst 2025 in Kraft treten. In einem Webcast erklären wir, weshalb Unternehmen bis dahin nicht untätig sein und trotz Verschiebung handeln sollten.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-warum-unternehmen-trotz-verschiebung-handeln-sollten-4899/?source=hbsad-ersatz"
     },
     {
       "title": "Autoindustrie: Continental will nur noch Reifen herstellen",
@@ -429,24 +435,22 @@
       "image_title": "Circular,Economy,Concept.,Energy,Consumption,And,Co2,Emissions,Are,Increasing."
     },
     {
-      "title": "Speicherung von Kohlendioxid unter der deutschen Nordsee ist möglich",
-      "teaser": "Um die Klimaziele zu erreichen, hat die Bundesregierung die unterirdische Speicherung von Kohlendioxid genehmigt. Ein Forschungsverbund untersucht die Nordsee.",
-      "url": "https://www.heise.de/news/Speicherung-von-Kohlendioxid-unter-der-deutschen-Nordsee-ist-moeglich-10344293.html",
-      "image_title": "Norwegische CCS-Anlage Sleipner"
+      "title": "Rahmenvertrag: MS-365-Alternative OpenDesk soll die Bundeswehr erobern",
+      "url": "https://www.heise.de/news/Rahmenvertrag-MS-365-Alternative-OpenDesk-soll-die-Bundeswehr-erobern-10342327.html",
+      "image_title": "Schulter eines Soldaten der Bundeswehr im gefleckten Tarnanzug mit Schulterklappe und Deutschlandflagge auf dem Oberarm."
     },
     {
-      "title": "UpdateUS-Autozölle verwirren mit Zollcode für Computer und Festplatten",
-      "url": "https://www.heise.de/news/US-Autozoelle-gelten-fuer-alle-Computer-und-Festplatten-10342923.html",
-      "image_title": "Mehrere Notebooks nebeneinander"
+      "title": "China entwickelt eigene HDMI-Alternative GPMI",
+      "url": "https://www.heise.de/news/China-entwickelt-eigene-HDMI-Alternative-GPMI-10343469.html"
     },
     {
       "title": "Kawasaki verspricht reitbaren Roboter-Löwen als Offroad-Vehikel",
       "url": "https://www.heise.de/news/Kawasaki-verspricht-reitbaren-Roboter-Loewen-als-Offroad-Vehikel-10342061.html"
     },
     {
-      "title": "Kommentar: So schlecht sind die Argumente für Microsoft 365",
-      "url": "https://www.heise.de/meinung/Kommentar-So-schlecht-sind-die-Argumente-fuer-Microsoft-365-10341986.html",
-      "image_title": "Ostersund,,Sweden,-,Jan,18,,2022:,Microsoft,365,On,A"
+      "title": "Analyse: Saturnmond Titan könnte Leben beherbergen – aber nur extrem wenig",
+      "url": "https://www.heise.de/news/Saturnmond-Titan-koennte-Leben-beherbergen-aber-nur-extrem-wenig-10344051.html",
+      "image_title": "Orangene Landschaft mit einigen Seen"
     },
     {
       "title": "Hyundai will Zehntausende Atlas-Roboter von Boston Dynamics kaufen",
@@ -454,13 +458,8 @@
       "image_title": "Humanoider Roboter Atlas"
     },
     {
-      "title": "Missing Link: Bundeswehr in Space",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Bundeswehr-in-Space-10340616.html",
-      "image_title": "Viele Satelliten"
-    },
-    {
-      "title": "Erste Tests: SpaceX will erstmals Super Heavy Booster für Start wiederverwenden",
-      "url": "https://www.heise.de/news/Erste-Tests-SpaceX-will-erstmals-gebrauchtes-Triebwerk-wiederverwenden-10341753.html"
+      "title": "Jetzt in der Make 2/25: Platinen selber machen",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-25-Platinen-selber-machen-10342055.html"
     },
     {
       "title": "Signal-Affäre: iPhone hat wohl Nummer von US-Journalisten falsch abgespeichert",
@@ -468,42 +467,42 @@
       "image_title": "Signal-App auf einem Smartphone, darüber eine Fignerspitze"
     },
     {
+      "title": "Zoll-Rochaden: Welche Strategie Apple bei Trumps \"Tariffs\" hat",
+      "url": "https://www.heise.de/news/Wie-Apple-die-Trump-Zoelle-teilweise-umgehen-koennte-10343674.html",
+      "image_title": "Tim Cook und Donald Trump"
+    },
+    {
       "title": "Android 15 für Samsung Galaxy S24 und Co.: Samsung liefert One UI 7 aus",
       "url": "https://www.heise.de/news/One-UI-7-Samsung-Galaxy-S24-und-Co-erhalten-das-Update-auf-Android-15-10342306.html",
       "image_title": "Samsung Galaxy S24"
-    },
-    {
-      "title": "iPhone 15 Pro und Pro Max: Visuelle Intelligenz nun aktiv",
-      "url": "https://www.heise.de/news/iPhone-15-Pro-und-Pro-Max-Visuelle-Intelligenz-nun-aktiv-10340991.html",
-      "image_title": "Visual Intelligence in Aktion"
     },
     {
       "title": "Thermomix TM7 ausprobiert | c't 3003",
       "url": "https://www.heise.de/news/Thermomix-TM7-ausprobiert-c-t-3003-10342805.html"
     },
     {
-      "title": "UpdateUS-Zölle: Börsen in Asien weiter auf Talfahrt, Nintendo 10 Prozent im Minus",
-      "url": "https://www.heise.de/news/US-Zoelle-Boersen-in-China-und-Hongkong-weiter-auf-Talfahrt-10342159.html",
-      "image_title": "Stock,Markets,Down,Chart,On,Grid,Background.,Abstract,Concept,Of"
+      "title": "ESP32-Hardware-Kompass: Welches Modell Sie für Ihr nächstes Projekt benötigen",
+      "url": "https://www.heise.de/ratgeber/ESP32-Hardware-Kompass-Welches-Modell-Sie-fuer-Ihr-naechstes-Projekt-benoetigen-10321040.html"
     },
     {
-      "title": "\"Tron: Ares\" – erster offizieller Trailer ist da und nennt Kinostart",
-      "url": "https://www.heise.de/news/Tron-Ares-erster-offizieller-Trailer-10341807.html",
-      "image_title": "Screenshot aus Tron-Ares-Trailer"
+      "title": "Apple CarPlay: Nutzer melden Ausfälle nach iOS-18.4-Update",
+      "url": "https://www.heise.de/news/CarPlay-Nach-Update-auf-iOS-18-4-Anzeige-und-Anschlussprobleme-10341232.html",
+      "image_title": "CarPlay im Auto"
     },
     {
-      "title": "Kanada: \"Das Gefühl von Patriotismus ist fast greifbar\"",
-      "url": "https://www.heise.de/news/Gastland-der-Hannover-Messe-Europa-ist-Kanadas-wichtigster-Verbuendeter-10340820.html"
+      "title": "DOGE-\"Hackathon\" soll alle US-Steuerdaten zusammenführen",
+      "url": "https://www.heise.de/news/DOGE-Hackathon-soll-alle-US-Steuerdaten-zusammenfuehren-10343691.html",
+      "image_title": "US-Dollar-Note, darauf liegen Scrabble-Buchstaben TAX"
     },
     {
-      "title": "Klageerfolg von Apple: Großbritanniens Heimlichtuerei hat ein Ende",
-      "url": "https://www.heise.de/news/Klageerfolg-von-Apple-Grossbritanniens-Heimlichtuerei-hat-ein-Ende-10343244.html",
-      "image_title": "Apple-Logo auf einer Geräterückseite"
+      "title": "Autonomes Fahren in Deutschland: Erlaubt ist, was zugelassen ist",
+      "url": "https://www.heise.de/news/Autonomes-Fahren-in-Deutschland-Erlaubt-ist-was-zugelassen-ist-10341275.html",
+      "image_title": "Mercedes"
     },
     {
-      "title": "Kursrutsch überall: Kryptowährungen wie Bitcoin sacken übers Wochenende ab",
-      "url": "https://www.heise.de/news/Kursrutsch-auch-bei-Kryptowaehrungen-Bitcoin-wieder-unter-75-000-US-Dollar-10342406.html",
-      "image_title": "Ein brennender Bitcoin, im Hintergrund eine fallende Kurskurve"
+      "title": "Temu und Shein im Visier: USA stoppen Zoll-Ausnahmeregelung",
+      "url": "https://www.heise.de/news/Gegen-China-Shopping-USA-erheben-ab-Mai-auch-fuer-geringwertige-Sendungen-Zoelle-10341251.html",
+      "image_title": "Pakete auf einem Laufband"
     },
     {
       "title": "UpdatePornhub & Co.: Provider wehren sich gerichtlich gegen Sperranordnungen",
@@ -511,28 +510,28 @@
       "image_title": "Blick auf Pornhub"
     },
     {
-      "title": "Meta beendet Faktenprüfung in den USA am Montag",
-      "url": "https://www.heise.de/news/Meta-beendet-Faktenpruefung-in-den-USA-am-Montag-10341676.html",
-      "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
-    },
-    {
       "title": "Über eine Milliarde US-Dollar: EU plant angeblich gigantische DSA-Strafe gegen X",
       "url": "https://www.heise.de/news/Eine-Milliarde-US-Dollar-Bruessel-plant-angeblich-gigantische-DSA-Strafe-gegen-X-10339936.html",
       "image_title": "Silhouette von Elon Musk vor dem X-Logo"
     },
     {
+      "title": "Meta beendet Faktenprüfung in den USA am Montag",
+      "url": "https://www.heise.de/news/Meta-beendet-Faktenpruefung-in-den-USA-am-Montag-10341676.html",
+      "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
+    },
+    {
+      "title": "Dienstag: DOGE führt US-Steuerdaten zusammen, Europcar-Kundendaten gestohlen",
+      "url": "https://www.heise.de/news/Dienstag-DOGE-fuehrt-US-Steuerdaten-zusammen-Europcar-Kundendaten-gestohlen-10343711.html",
+      "image_title": "US-Dollar-Noten, dazu Text: DIENSTAG DOGE-\"Hackathon\", Europcar-Datenklau, Signal-Affäre, iPhone-Preise & WhatsApp-Datenschutz"
+    },
+    {
+      "title": "Erneuerbare Energie: Globale Zunahme bei Strom aus Solaranlagen",
+      "url": "https://www.heise.de/news/Erneuerbare-Energie-Weltweit-immer-mehr-Strom-aus-Solaranlagen-10343723.html",
+      "image_title": "Techniker mit Hand auf Solarpanele"
+    },
+    {
       "title": "WTF: KI-Avatar als \"Anwalt\" vor New Yorker Gericht aufgeflogen",
       "url": "https://www.heise.de/news/WTF-KI-Avatar-als-Anwalt-vor-New-Yorker-Gericht-aufgeflogen-10341902.html"
-    },
-    {
-      "title": "Montag: Roboter-Löwe als Offroad-Reittier, Microsofts Mini-PCs mit Cloud-Windows",
-      "url": "https://www.heise.de/news/Montag-Roboter-Loewe-als-Offroad-Reittier-Microsofts-Mini-PCs-mit-Cloud-Windows-10342131.html",
-      "image_title": "Zwei Roboter-Löwen mit Reitern auf Berg überblicken Gebirgslandschaft; Montag: Kawasaki-Roboter, Cloud-PCs, Solaranlagen-Rekord, Bezahl-Optionen & Switch-2-Vorbestellungen"
-    },
-    {
-      "title": "3D-Druck: Neue Produkte aus altem Verpackungsmüll",
-      "url": "https://www.heise.de/news/Verpackungsmuell-als-Rohstoff-fuer-3D-Druck-Produkte-10342105.html",
-      "image_title": "Müll"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -579,26 +578,32 @@
       "url": "https://www.heise.de/multimediadatei/Frankreichs-Social-Kill-Switch-COBOL-Abloesung-Sommerzeit-heiseshow-10339677.html"
     },
     {
+      "title": "US car tariffs confuse with tariff code for computers and hard drives",
+      "url": "https://www.heise.de/en/news/US-auto-tariffs-apply-to-all-computers-and-hard-disks-10343085.html",
+      "image_title": "Several notebooks next to each other with the inscription WTF"
+    },
+    {
       "title": "tvOS 18.4: What the new operating system brings for Apple TV devices",
       "url": "https://www.heise.de/en/news/tvOS-18-4-What-the-new-operating-system-brings-for-Apple-TV-devices-10340596.html",
       "image_title": "Apple TV and television"
     },
     {
-      "title": "Package manager apt makes version jump to 3.0.0",
-      "url": "https://www.heise.de/en/news/Package-manager-apt-makes-version-jump-to-3-0-0-10342858.html",
-      "image_title": "Ubuntu with apt command line on laptop"
+      "title": "Kawasaki promises a rideable robot lion as an off-road vehicle",
+      "url": "https://www.heise.de/en/news/Kawasaki-promises-a-rideable-robot-lion-as-an-off-road-vehicle-10342076.html"
     },
     {
-      "title": "OpenWrt Two: jack of all trades router for OpenWrt fans",
-      "url": "https://www.heise.de/en/news/OpenWrt-Two-egg-laying-wool-milk-sow-router-for-OpenWrt-fans-10337428.html"
+      "title": "Galaxy S25 Enterprise Edition: Samsung promises 8 years of Android updates",
+      "url": "https://www.heise.de/en/news/Galaxy-S25-Enterprise-Edition-Samsung-promises-8-years-of-Android-updates-10343279.html"
     },
     {
-      "title": "US car tariffs confuse with tariff code for computers and hard drives",
-      "url": "https://www.heise.de/en/news/US-auto-tariffs-apply-to-all-computers-and-hard-disks-10343085.html"
+      "title": "Intensification of the trade war: China blacklists US drone companies",
+      "url": "https://www.heise.de/en/news/Intensification-of-the-trade-war-China-blacklists-US-drone-companies-10344359.html"
     },
     {
-      "title": "Nintendo Switch 2 and Switch OLED in comparison",
-      "url": "https://www.heise.de/en/news/Nintendo-Switch-2-and-Switch-OLED-in-comparison-10341138.html"
+      "title": "Stromspeicher: Ankers Solarbank 3 Pro im Test",
+      "teaser": "Die Solarysteme von Anker zählen zu den meistverkauften Balkonkraftspeichern mit integriertem Wechselrichter. In der Version 3 gibt es Änderungen der App.",
+      "url": "https://www.heise.de/tests/Stromspeicher-Ankers-Solarbank-3-Pro-im-Test-10337113.html",
+      "image_title": ","
     },
     {
       "title": "Kommentar zu Quantenchip-Inflation: Bitte Wissenschaft statt Marketing",
@@ -606,15 +611,16 @@
       "url": "https://www.heise.de/meinung/Kommentar-zu-Quantenchip-Inflation-Bitte-Wissenschaft-statt-Marketing-10335561.html"
     },
     {
-      "title": "Im Test: ARC Studio 4 korrigiert Frequenzgänge von Lautsprechern",
-      "teaser": "Die Akustik im Tonstudio verändert den Klang von Lautsprechern. ARC Studio 4 korrigiert den Frequenzgang mit einer kleinen Box.",
-      "url": "https://www.heise.de/tests/Im-Test-ARC-Studio-4-korrigiert-Frequenzgaenge-von-Lautsprechern-10319379.html"
+      "title": "Marktübersicht: Breitbandzugänge fürs Festnetz bis 35 Euro im Monat",
+      "teaser": "Internetzugänge für zu Hause mit bis zu 100 Mbit/s und mancherorts sogar noch mehr gibt es in der Regel schon für unter 35 Euro. Eine aktuelle Tarifübersicht.",
+      "url": "https://www.heise.de/tests/Marktuebersicht-Breitbandzugaenge-fuers-Festnetz-bis-35-Euro-im-Monat-10333747.html",
+      "image_title": ","
     },
     {
-      "title": "Stromspeicher: Ankers Solarbank 3 Pro im Test",
-      "teaser": "Die Solarysteme von Anker zählen zu den meistverkauften Balkonkraftspeichern mit integriertem Wechselrichter. In der Version 3 gibt es Änderungen der App.",
-      "url": "https://www.heise.de/tests/Stromspeicher-Ankers-Solarbank-3-Pro-im-Test-10337113.html",
-      "image_title": ","
+      "title": "Gut & günstig?Das neue Einsteiger-iPad im Test",
+      "teaser": "Das iPad 11 hat doppelt so viel Speicher und einen schnelleren Chip als das 2022er, kostet aber trotzdem nur 400 Euro.",
+      "url": "https://www.heise.de/tests/Das-neue-Einsteiger-iPad-im-Test-Gut-guenstig-10336535.html",
+      "image_title": "iPad 11"
     },
     {
       "title": "Gadget InspectorSmarter Präsenzsensor, iPad-Ständer, Batteriehülle für AirTags, Audio-Streamer",
@@ -629,25 +635,20 @@
       "image_title": ","
     },
     {
-      "title": "Scharfer SchirmAsus ProArt PA27JCV gegen Apples Studio Display im Test",
-      "teaser": "Der 27-Zoll-Monitor ProArt PA27JCV von Asus konkurriert mit Apples Studio Display.",
-      "url": "https://www.heise.de/tests/Scharfer-Schirm-Asus-ProArt-PA27JCV-gegen-Apples-Studio-Display-10318750.html",
-      "image_title": "ProArt PA27JCV von Asus"
-    },
-    {
-      "title": "Jetzt in der Make 2/25: Platinen selber machen",
-      "teaser": "Professionelle Platinen lassen sich einfach mit kostenloser Software entwerfen. In der Make 2/25 geben wir Tipps zur Auswahl des richtigen Programms.",
-      "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-25-Platinen-selber-machen-10342055.html"
-    },
-    {
       "title": "Für IoT-Projekte: Espressif ESP32-C5 mit 5-GHz-WLAN im Test",
       "teaser": "Ein neues ESP-Modell steht vor der Tür: WLAN im 5-GHz-Band und eine schnelle RISC-V-CPU versprechen neuen Schwung für IoT-Projekte. Wir haben mal nachgemessen.",
       "url": "https://www.heise.de/tests/Espressif-Dem-neuen-ESP32-C5-auf-den-Zahn-gefuehlt-10320227.html"
     },
     {
-      "title": "ESP32-Hardware-Kompass: Welches Modell Sie für Ihr nächstes Projekt benötigen",
-      "teaser": "Zwischen WROOM, NodeMCU und Co. kann man den Überblick verlieren. Dieser Artikel macht die ESP32-Familie verständlich und hilft bei der Auswahl der Hardware.",
-      "url": "https://www.heise.de/ratgeber/ESP32-Hardware-Kompass-Welches-Modell-Sie-fuer-Ihr-naechstes-Projekt-benoetigen-10321040.html"
+      "title": "3D-Druck: Neue Produkte aus altem Verpackungsmüll",
+      "teaser": "Deutschland produziert jährlich 5,6 Millionen Tonnen Kunststoffmüll, den das Fraunhofer IFAM und die Hochschule Bremen in 3D-Druck-Produkte umwandeln will.",
+      "url": "https://www.heise.de/news/Verpackungsmuell-als-Rohstoff-fuer-3D-Druck-Produkte-10342105.html",
+      "image_title": "Müll"
+    },
+    {
+      "title": "Jetzt in der Make 2/25: Schlauer schalten mit Shelly",
+      "teaser": "Mit Shelly lassen sich Geräte einfach fernsteuern. Doch das Produktportfolio kann verwirren. In der Make 2/25 helfen wir beim Einstieg.",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-25-Schlauer-schalten-mit-Shelly-10339378.html"
     },
     {
       "title": "Wie Sportfotografie für Einsteiger gelingt",
@@ -687,12 +688,6 @@
       "url": "https://www.heise.de/hintergrund/Uebersicht-ueber-kleine-KI-Modelle-die-sich-fuer-den-lokalen-Betrieb-eignen-10306979.html"
     },
     {
-      "title": "Erlaubt ist, was zugelassen istAutonomes Fahren: Deutschland erlaubt viel",
-      "teaser": "Deutschland hat eine im globalen Vergleich sehr fortschrittliche Gesetzgebung fürs autonome Fahren. Ein Auto darf hier alles, was seine Homologation erlaubt.",
-      "url": "https://www.heise.de/news/Autonomes-Fahren-in-Deutschland-Erlaubt-ist-was-zugelassen-ist-10341275.html",
-      "image_title": "Mercedes"
-    },
-    {
       "title": "Ausnahmen beim Verbrenner-VerbotBritische Regierung will Autoindustrie helfen",
       "teaser": "Ab 2030 sollen in Großbritannien keine Neuwagen mit Verbrenner mehr verkauft werden. Doch die Regierung plant Ausnahmen, um die Industrie zu unterstützen.",
       "url": "https://www.heise.de/news/Grossbritannien-Regierung-will-der-Autoindustrie-helfen-10343401.html",
@@ -709,6 +704,12 @@
       "teaser": "Deutschland komme bei der Energiewende gut voran, meint die Internationale Energieagentur. Doch der Verkehrssektor bremst derzeit noch stark.",
       "url": "https://www.heise.de/news/Energiewende-in-Deutschland-Verkehrssektor-bremst-10342313.html",
       "image_title": "Opel Corsa-e Ladeanschluss"
+    },
+    {
+      "title": "Optisch geschärft, Antrieb unverändertRenault Austral Facelift",
+      "teaser": "Mit einer kleinen Modellpflege will Renault das Hybrid-SUV Austral optisch näher an jüngere Modelle rücken. Die Antriebe bleiben unangetastet.",
+      "url": "https://www.heise.de/news/Renault-Austral-Facelift-optisch-geschaerft-Antrieb-unveraendert-10339549.html",
+      "image_title": "Renault Austral"
     },
     {
       "title": "Digitales Gold oder Spekulationsobjekt? Was Bitcoin (noch) nicht leisten kann",
@@ -746,22 +747,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Halbleiter-Revolution: Der kleinste Chip der Welt – und seine Folgen",
-      "teaser": "TSMC präsentiert den weltweit kleinsten Mikrochip. Der 2-Nanometer-Halbleiter soll bald in Serie gehen. Was der Durchbruch für uns bedeutet.",
-      "url": "https://www.heise.de/tp/features/Halbleiter-Revolution-Der-kleinste-Chip-der-Welt-und-seine-Folgen-10344597.html",
-      "image_title": "Chipfabrik"
+      "title": "Die große Kriegslüge: Warum Deutschland weder verteidigungsfähig ist – noch sein wird",
+      "teaser": "Die Bundesregierung rüstet massiv auf. Doch Experten warnen vor blindem Vertrauen in eine wirksame Verteidigung. Was also geschieht im Ernstfall? Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Die-grosse-Kriegsluege-Warum-Deutschland-weder-verteidigungsfaehig-ist-noch-sein-wird-10344982.html",
+      "image_title": "Flugabwehrraketensystem Patriot"
     },
     {
-      "title": "Blockchain-Startups: Wenn Demokratie zum Stolperstein wird",
-      "teaser": "Zu viel Mitsprache kann ein Startup ruinieren. Das zeigt eine neue Studie zu Blockchain-Unternehmen. Warum ausgerechnet demokratische Führung zum Verhängnis wird.",
-      "url": "https://www.heise.de/tp/features/Blockchain-Startups-Wenn-Demokratie-zum-Stolperstein-wird-10344134.html",
-      "image_title": "Geschäftsfrau verwenden ein Smartphone Verbindung zu Blockchain globale Netzwerke."
+      "title": "Seoul vor Kurswechsel: Lee will Dialog mit Kim Jong Un",
+      "teaser": "Nach der Amtsenthebung von Präsident Yoon steht Südkorea vor einem Neuanfang. Ein Sieg der Opposition könnte das Verhältnis zu Nordkorea grundlegend verändern. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Seoul-vor-Kurswechsel-Lee-will-Dialog-mit-Kim-Jong-Un-10342753.html",
+      "image_title": "Zwei Silhouetten vor Südkoreas Flagge"
     },
     {
-      "title": "Kampf dem Steuerbetrug: Kartenzahlung soll Pflicht werden",
-      "teaser": "Deutschland soll digitaler werden. Union und SPD planen ein Pflichtangebot zur bargeldlosen Zahlung in allen Geschäften. Was bedeutet das für die Bürger?",
-      "url": "https://www.heise.de/tp/features/Kampf-dem-Steuerbetrug-Kartenzahlung-soll-Pflicht-werden-10342423.html",
-      "image_title": "Eujroscheine"
+      "title": "Kampfbrigade in Litauen: Berlins neuer Machthebel",
+      "teaser": "Deutschlands litauischer Stützpunkt kompliziert die Schaffung einer neuen europäischen Sicherheitsarchitektur. Doch das ist nicht der einzige Aspekt.",
+      "url": "https://www.heise.de/tp/features/Kampfbrigade-in-Litauen-Berlins-neuer-Machthebel-10342773.html",
+      "image_title": "Gepanzerte Fahrzeuge der Bundeswehr"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
