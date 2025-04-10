@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-10T10:11:00",
+  "timestamp": "2025-04-10T11:08:09",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mediatek Dimensity 9400+: Höherer Takt, mehr KI, weiterer Funk",
+      "url": "https://www.heise.de/news/Mediatek-Dimensity-9400-Hoeherer-Takt-mehr-KI-weiterer-Funk-10347153.html"
+    },
     {
       "title": "software-architektur.tv: KI = Bullshit?",
       "url": "https://www.heise.de/news/software-architektur-tv-KI-Bullshit-10345540.html"
@@ -60,10 +64,6 @@
     {
       "title": "IServ-Gruppe übernimmt rückwirkend Logodidact",
       "url": "https://www.heise.de/news/IServ-Gruppe-uebernimmt-rueckwirkend-Logodidact-10346971.html"
-    },
-    {
-      "title": "Dell PowerScale OneFS: Standard-Passwort ermöglicht Account-Übernahme",
-      "url": "https://www.heise.de/news/Dell-PowerScale-OneFS-Standard-Passwort-ermoeglicht-Account-Uebernahme-10347097.html"
     },
     {
       "title": "3D-Modell des WracksAuf der Titanic brannte bis zum Ende das Licht",
@@ -130,7 +130,7 @@
       "image_title": ","
     },
     {
-      "title": "Library of Congress: Startmelodie von Windows 95 \"für alle Zeiten erhaltenswert\"",
+      "title": "Library of CongressStartmelodie von Windows 95 \"für alle Zeiten erhaltenswert\"",
       "teaser": "Jedes Jahr fügt die Library of Congress 25 Tondokumente zu einer Liste der wichtigsten Aufnahmen hinzu.",
       "url": "https://www.heise.de/news/Library-of-Congress-Start-Sound-von-Windows-95-fuer-alle-Zeiten-erhaltenswert-10347023.html",
       "image_title": "PC mit Windows 95 und jeder Menge altem Zubehör"
@@ -187,19 +187,25 @@
       "image_title": "Eine Silhouette von Heinz Nixdorf auf der Website des HNF"
     },
     {
+      "title": "Mediatek Dimensity 9400+: Höherer Takt, mehr KI, weiterer Funk",
+      "teaser": "Mit der Plus-Variante präsentiert Mediatek seinen neuen Smartphone-Prozessor. Der Dimensity 9400+ ist nicht nur schneller als der Vorgänger.",
+      "url": "https://www.heise.de/news/Mediatek-Dimensity-9400-Hoeherer-Takt-mehr-KI-weiterer-Funk-10347153.html",
+      "image_title": "Mediatek-Chip"
+    },
+    {
       "title": "software-architektur.tv: KI = Bullshit?",
       "teaser": "Eberhard Wolff widmet sich in dieser Folge seines Videocasts einem wissenschaftlichen Paper, das behauptet, KI provoziere Bullshit.",
       "url": "https://www.heise.de/news/software-architektur-tv-KI-Bullshit-10345540.html"
     },
     {
+      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
+      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Softwareentwicklung mit KI: Online-Konferenz betterCode() GenAI im Juni",
       "teaser": "Am 26. Juni behandelt die Online-Konferenz alle wichtigen Themen zu KI-gestützter Softwareentwicklung von Tools über die passende Anwendung bis zur Security.",
       "url": "https://www.heise.de/news/Softwareentwicklung-mit-KI-Online-Konferenz-betterCode-GenAI-im-Juni-10345504.html"
-    },
-    {
-      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
-      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Für IoT-Projekte: Espressif ESP32-C5 mit 5-GHz-WLAN im Test",
@@ -229,12 +235,6 @@
       "teaser": "Google scheint bei der Entwicklung von smarten Brillen mit Display voranzukommen.",
       "url": "https://www.heise.de/news/Android-XR-Google-demonstriert-AR-Brille-auf-TED-Konferenz-10347001.html",
       "image_title": "Eine Frau trägt eine Brille. Neben ihrem Kopf ist Text eingeblendet: \"...saying, just transcribed for you in real-time. Kind of like, subtitles for the world.\""
-    },
-    {
-      "title": "IServ-Gruppe übernimmt rückwirkend Logodidact",
-      "teaser": "Das digitale Schulplattform-Angebot IServ wächst weiter. Jetzt hat das Unternehmen aus Braunschweig die SBE network solutions GmbH mit Logodidact übernommen.",
-      "url": "https://www.heise.de/news/IServ-Gruppe-uebernimmt-rueckwirkend-Logodidact-10346971.html",
-      "image_title": "Schüler mit Mobilgeräten"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -299,6 +299,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "IServ-Gruppe übernimmt rückwirkend Logodidact",
+      "teaser": "Das digitale Schulplattform-Angebot IServ wächst weiter. Jetzt hat das Unternehmen aus Braunschweig die SBE network solutions GmbH mit Logodidact übernommen.",
+      "url": "https://www.heise.de/news/IServ-Gruppe-uebernimmt-rueckwirkend-Logodidact-10346971.html",
+      "image_title": "Schüler mit Mobilgeräten"
     },
     {
       "title": "AlertDell PowerScale OneFS: Standard-Passwort ermöglicht Account-Übernahme",
@@ -367,15 +373,15 @@
       "image_title": "Handwerkszeug mit AirTag und Alternative"
     },
     {
+      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
+      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
+    },
+    {
       "title": "AlertLinux-Kernel: Angreifer attackieren ältere Sicherheitslecks",
       "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor Attacken auf älter Sicherheitslecks im Linux-Kernel.",
       "url": "https://www.heise.de/news/Linux-Kernel-Angreifer-attackieren-aeltere-Sicherheitslecks-10346797.html",
       "image_title": "Stilisiertes Bild: Laptop zeigt brennenden Pinguin"
-    },
-    {
-      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
-      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
     },
     {
       "title": "DMEA: Wie KI in Arztpraxen und Kliniken zum Einsatz kommt",
@@ -428,12 +434,6 @@
       "title": "Top 10: Das beste Smartphone bis 500 Euro im Test – Nothing ist Testsieger",
       "teaser": "Flaggschiff-Smartphones kosten vierstellige Beträge. Zu teuer? Wir zeigen die Mittelklasse-Smartphones bis 500 Euro als günstige Alternativen mit Top-Technik.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mittelklasse-smartphone-bis-500-euro-im-test/z2jyxsr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Korruptionsermittlungen: Staatsanwaltschaft klagt europäischen Huawei-Chef an",
-      "teaser": "Ein wichtiger Huawei-Manager in Europa zählt zu den Verdächtigen in der belgischen Untersuchung wegen Korruption im EU-Parlament zugunsten des Tech-Konzerns.",
-      "url": "https://www.heise.de/news/Korruptionsermittlungen-Staatsanwaltschaft-klagt-europaeischen-Huawei-Chef-an-10346578.html",
-      "image_title": "EU-Fahnen vor dem Gebäude des Europäischen Parlaments in Brüssel."
     },
     {
       "title": "Microsoft erhöht Preise für On-Premises-Server",
@@ -612,9 +612,9 @@
       "url": "https://www.heise.de/news/US-Regierung-schraenkt-Forscher-und-die-akademische-Freiheit-ein-10328312.html"
     },
     {
-      "title": "Marktübersicht: Breitbandzugänge fürs Festnetz bis 35 Euro im Monat",
-      "teaser": "Internetzugänge für zu Hause mit bis zu 100 Mbit/s und mancherorts sogar noch mehr gibt es in der Regel schon für unter 35 Euro. Eine aktuelle Tarifübersicht.",
-      "url": "https://www.heise.de/tests/Marktuebersicht-Breitbandzugaenge-fuers-Festnetz-bis-35-Euro-im-Monat-10333747.html",
+      "title": "Stromspeicher: Ankers Solarbank 3 Pro im Test",
+      "teaser": "Die Solarysteme von Anker zählen zu den meistverkauften Balkonkraftspeichern mit integriertem Wechselrichter. In der Version 3 gibt es Änderungen der App.",
+      "url": "https://www.heise.de/tests/Stromspeicher-Ankers-Solarbank-3-Pro-im-Test-10337113.html",
       "image_title": ","
     },
     {
@@ -647,10 +647,9 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-25-Platinen-selber-machen-10342055.html"
     },
     {
-      "title": "3D-Druck: Neue Produkte aus altem Verpackungsmüll",
-      "teaser": "Deutschland produziert jährlich 5,6 Millionen Tonnen Kunststoffmüll, den das Fraunhofer IFAM und die Hochschule Bremen in 3D-Druck-Produkte umwandeln will.",
-      "url": "https://www.heise.de/news/Verpackungsmuell-als-Rohstoff-fuer-3D-Druck-Produkte-10342105.html",
-      "image_title": "Müll"
+      "title": "Für IoT-Projekte: Espressif ESP32-C5 mit 5-GHz-WLAN im Test",
+      "teaser": "Ein neues ESP-Modell steht vor der Tür: WLAN im 5-GHz-Band und eine schnelle RISC-V-CPU versprechen neuen Schwung für IoT-Projekte. Wir haben mal nachgemessen.",
+      "url": "https://www.heise.de/tests/Espressif-Dem-neuen-ESP32-C5-auf-den-Zahn-gefuehlt-10320227.html"
     },
     {
       "title": "RatgeberWie Sportfotografie für Einsteiger gelingt",
@@ -749,27 +748,26 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Nach Festnahmen im Donbass: China bestreitet militärische Beteiligung",
-      "teaser": "Ukrainische Streitkräfte haben zwei Chinesen gefangen genommen, die offenbar an der Seite Russlands kämpften. Die Umstände bleiben vorerst unklar. Ein Überblick.",
-      "url": "https://www.heise.de/tp/features/Nach-Festnahmen-im-Donbass-China-bestreitet-militaerische-Beteiligung-10345999.html",
-      "image_title": "Ukraines Präsident Wolodymyr Selenskyj"
+      "title": "800 Ideen für die Steuer: Deutsche debattieren Steuergerechtigkeit",
+      "teaser": "Bürgerinitiativen starten Online-Debatte zur Steuer- und Finanzpolitik: Wer entscheidet, wofür unser Geld ausgegeben wird?",
+      "url": "https://www.heise.de/tp/features/800-Ideen-fuer-die-Steuer-Deutsche-debattieren-Steuergerechtigkeit-10345498.html"
     },
     {
-      "title": "Bedingungsloses Grundeinkommen führt nicht zu Arbeitsrückgang",
-      "teaser": "1.200 Euro monatlich ohne Bedingungen: Eine dreijährige Feldstudie hat die Wirkung eines Grundeinkommens untersucht. Das Ergebnis überrascht viele Kritiker.",
-      "url": "https://www.heise.de/tp/features/Bedingungsloses-Grundeinkommen-fuehrt-nicht-zu-Arbeitsrueckgang-10346301.html",
-      "image_title": "Ausgestreckte Hand, in die eine Geldmünze fällt."
+      "title": "Geopolitischer Konflikt: Türkei und Israel ringen um Kontrolle des syrischen Luftraums",
+      "teaser": "Türkei will syrische Militärbasen übernehmen. Israel reagiert mit Luftschlägen auf strategische Stützpunkte. Wird Ankara seine S-400-Raketen gegen Israels Jets einsetzen?",
+      "url": "https://www.heise.de/tp/features/Geopolitischer-Konflikt-Tuerkei-und-Israel-ringen-um-Kontrolle-des-syrischen-Luftraums-10346855.html",
+      "image_title": "Israelische Luftwaffe F-35 Adir Tarnkappen-Mehrzweckkampfflugzeug im Himmel"
     },
     {
-      "title": "Wird Bitcoin zum sicheren Hafen im US-Handelskrieg?",
-      "teaser": "Trotz Turbulenzen zeigt sich der Bitcoin-Kurs robust. Analysten hoffen, dass sich die Kryptowährung von den Aktienmärkten abkoppelt. Wird Bitcoin zum Gewinner im Handelskrieg?",
-      "url": "https://www.heise.de/tp/features/Wird-Bitcoin-zum-sicheren-Hafen-im-US-Handelskrieg-10344535.html",
-      "image_title": "Bitcoin Goldmünze dreht sich auf dem dunkelblauen Hintergrund."
+      "title": "Blau, Grün, Gelb: SAP kategorisiert Mitarbeiter nach Leistung und Verhalten",
+      "teaser": "SAP führt ein neues Bewertungssystem ein. Mitarbeiter werden nach Leistung und Sozialverhalten beurteilt. Wer in die \"gelbe Zone\" rutscht, muss um seine Zukunft bangen.",
+      "url": "https://www.heise.de/tp/features/Blau-Gruen-Gelb-SAP-kategorisiert-Mitarbeiter-nach-Leistung-und-Verhalten-10340443.html",
+      "image_title": "Aufziehmännchen schiebt Pfeil nach oben"
     },
     {
-      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
-      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
-      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
+      "title": "PC-Gaming auf dem Mac: Windows-Spiele auf Apple-Rechnern zocken",
+      "teaser": "Moderne Macs bieten genug Leistung für High-End-Gaming, aber eine geringe Spiele-Auswahl. Mit den passenden Tools kann man auch Windows-Spiele zocken.",
+      "url": "https://www.heise.de/download/specials/PC-Gaming-auf-dem-Mac-Windows-Spiele-auf-Apple-Rechnern-zocken-10329172"
     },
     {
       "title": "Signal - Messenger-App",
