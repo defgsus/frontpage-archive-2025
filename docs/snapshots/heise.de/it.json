@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-10T12:18:05",
+  "timestamp": "2025-04-10T13:20:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.72c727dfa7a2245aff3f",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.bde741bc71c5cf4d8016",
       "id": null,
       "text": null
     },
@@ -26,15 +26,33 @@
   ],
   "articles": [
     {
+      "title": "Webanwendungen: Integrationstests mit Testcontainers durchführen",
+      "teaser": "Die Bibliothek Testcontainers stellt schlanke Einwegcontainer für Integrationstests mit vereinfachter Konfiguration und einheitlichem Set-up bereit.",
+      "url": "https://www.heise.de/ratgeber/Webanwendungen-Integrationstests-mit-Testcontainers-durchfuehren-10325930.html"
+    },
+    {
       "title": "Kostenlose E-CAD-Programme im Vergleich",
       "teaser": "Eine Platine schafft eine stabile Basis für die Elektronik eines Projekts. Wir geben eine Übersicht über die richtige Software für das Erstellen von PCBs.",
       "url": "https://www.heise.de/ratgeber/Kostenlose-E-CAD-Programme-im-Vergleich-10321246.html",
       "image_title": ","
     },
     {
-      "title": "Umbau des TypeScript-Compilers: Microsoft erfindet TypeScript in Go neu",
-      "teaser": "Microsoft plant einen radikalen Umbau des TypeScript-Compilers: Eine Portierung nach Go soll seine Performance verzehnfachen und den Speicherbedarf reduzieren.",
-      "url": "https://www.heise.de/hintergrund/Umbau-des-TypeScript-Compilers-Microsoft-erfindet-TypeScript-in-Go-neu-10343015.html"
+      "title": "KI lässt Strombedarf steigen: Rechenzentren verbrauchen 2030 doppelt so viel",
+      "teaser": "Wegen KI werde sich der Stromverbrauch von Rechenzentren bis 2030 verdoppeln, erwarten Experten. Bislang stammt die Hälfte des Stroms aus fossilen Quellen.",
+      "url": "https://www.heise.de/news/KI-laesst-Strombedarf-steigen-Rechenzentren-verbrauchen-2030-doppelt-so-viel-10347139.html",
+      "image_title": "Serverschränke mit Servern in einem Rechenzentrum"
+    },
+    {
+      "title": "Mit Firebase Studio bläst Google zum Großangriff auf Cursor AI und Copilot",
+      "teaser": "Das neu vorgestellte Firebase Studio entwickelt mit künstlicher Intelligenz komplette Anwendungen inklusive Backend, App, Testing, Doku und Deployment.",
+      "url": "https://www.heise.de/news/Mit-Firebase-Studio-blaest-Google-zum-Grossangriff-auf-Cursor-AI-und-Copilot-10347527.html",
+      "image_title": "Roboter vor Tafel"
+    },
+    {
+      "title": "Webentwicklung: Next.js 15.3 treibt den Bundler Turbopack weiter voran",
+      "teaser": "Mit dem webpack-Nachfolger Turbopack sind nun Alpha-Builds möglich und das TypeScript-Language-Service-Plug-in ist schneller sowie zuverlässiger geworden.",
+      "url": "https://www.heise.de/news/Webentwicklung-Next-js-15-3-treibt-den-Bundler-Turbopack-weiter-voran-10347397.html",
+      "image_title": "Close,Up,Of,Car,Speed,Meter"
     },
     {
       "title": "Im dauerhaften Flugmodus: Vier Prozent der Bevölkerung offline",
@@ -53,15 +71,15 @@
       "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
     },
     {
-      "title": "Webanwendungen: Integrationstests mit Testcontainers durchführen",
-      "teaser": "Die Bibliothek Testcontainers stellt schlanke Einwegcontainer für Integrationstests mit vereinfachter Konfiguration und einheitlichem Set-up bereit.",
-      "url": "https://www.heise.de/ratgeber/Webanwendungen-Integrationstests-mit-Testcontainers-durchfuehren-10325930.html"
-    },
-    {
       "title": "Oracle-Einbruch: Schweigen und Kleingerede",
       "teaser": "In einer E-Mail an Kunden ist die Rede von einem Angriff, es seien jedoch nur überflüssige Server und keine Kundendaten betroffen. Ist das erneut Wortklauberei?",
       "url": "https://www.heise.de/news/Oracle-Einbruch-Unternehmen-gibt-Datenklau-zu-und-redet-ihn-weiter-klein-10345793.html",
       "image_title": "Oracle-Logo sagt nix"
+    },
+    {
+      "title": "Umbau des TypeScript-Compilers: Microsoft erfindet TypeScript in Go neu",
+      "teaser": "Microsoft plant einen radikalen Umbau des TypeScript-Compilers: Eine Portierung nach Go soll seine Performance verzehnfachen und den Speicherbedarf reduzieren.",
+      "url": "https://www.heise.de/hintergrund/Umbau-des-TypeScript-Compilers-Microsoft-erfindet-TypeScript-in-Go-neu-10343015.html"
     },
     {
       "title": "software-architektur.tv: KI = Bullshit?",
@@ -102,24 +120,6 @@
       "teaser": "Eine Webseite zu erstellen, sei künftig so einfach wie ein Gespräch, sagt Wordpress und stellt ein entsprechendes KI-Werkzeug vor.",
       "url": "https://www.heise.de/news/Wordpress-Mit-einem-KI-Klick-zur-eigenen-Webseite-10346869.html",
       "image_title": "Wordpress Website-Builder Startseite."
-    },
-    {
-      "title": "Broadcom rudert zurück: Doch keine Mindestlizenz für 72 Kerne bei VMware",
-      "teaser": "Erst kündigte Broadcom an, dass VMware-Kunden mindestens 72 statt 16 Kerne lizenzieren müssen. Jetzt hat das Unternehmen die Entscheidung gekippt.",
-      "url": "https://www.heise.de/news/Rueckzieher-bei-VMware-Unternehmen-koennen-weiterhin-16-Kerne-lizenzieren-10346897.html",
-      "image_title": "VMware-Logo auf Smartphone vor Bildschirm mit Code"
-    },
-    {
-      "title": "iX-Intensiv-Workshop: VMware vSphere 7 und 8 einrichten und administrieren",
-      "teaser": "Lernen Sie an fünf Tagen mit vielen praktischen Übungen, wie Sie VMware vSphere 7 und 8 installieren, konfigurieren und administrieren.",
-      "url": "https://www.heise.de/news/iX-Intensiv-Workshop-VMware-vSphere-7-und-8-einrichten-und-administrieren-10339732.html",
-      "image_title": "Intensivkurs: Administration von VMware vSphere"
-    },
-    {
-      "title": "HPE Aruba: Sicherheitspatches für Access Points und weitere Hardware",
-      "teaser": "In den Access Points, Mobility Controllers, Conductors und Gateways von HPE Aruba können Angreifer aus dem Netz unter anderem Schadcode einschleusen.",
-      "url": "https://www.heise.de/news/HPE-Aruba-Sicherheitspatches-fuer-Access-Points-und-weitere-Hardware-10346927.html",
-      "image_title": "Acess Points und Siwtches werden von einem Kriminellen angegriffen"
     },
     {
       "title": "Endpoint Central wird Champion in der Kategorie Vulnerability Management",
