@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-11T02:21:10",
+  "timestamp": "2025-04-11T03:26:55",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Gericht nennt Details zu Angriffen auf 1223 WhatsApp-User mit Pegasus-Spyware",
+      "url": "https://www.heise.de/news/Gericht-nennt-Details-zu-Angriffen-auf-1223-WhatsApp-User-mit-Pegasus-Spyware-10348270.html"
+    },
     {
       "title": "Stellenanzeige für \"digital Native\" ist Altersdiskriminierung",
       "url": "https://www.heise.de/news/Stellenanzeige-fuer-digital-Native-ist-Altersdiskriminierung-10348256.html"
@@ -60,10 +64,6 @@
     {
       "title": "ESA-Bericht warnt vor Weltraumschrott und überfülltem Orbit",
       "url": "https://www.heise.de/news/ESA-Bericht-warnt-vor-Weltraumschrott-und-ueberfuelltem-Orbit-10347990.html"
-    },
-    {
-      "title": "Buchrezension: Per Anhalter durch die IT-Branche",
-      "url": "https://www.heise.de/ratgeber/Buchrezension-Per-Anhalter-durch-die-IT-Branche-10315806.html"
     },
     {
       "title": "WhatsAppMeta AI wegen eines technischen Problems verschwunden",
@@ -188,21 +188,27 @@
       "image_title": "Beladung eines Flugzeugs"
     },
     {
+      "title": "Gericht nennt Details zu Angriffen auf 1223 WhatsApp-User mit Pegasus-Spyware",
+      "teaser": "Ein Gerichtsdokument verrät Standorte der Opfer, für die Angriffe genutzte Server und die Herkunft der Angriffe mit der Pegasus-Spyware auf eine WhatsApp-Lücke.",
+      "url": "https://www.heise.de/news/Gericht-nennt-Details-zu-Angriffen-auf-1223-WhatsApp-User-mit-Pegasus-Spyware-10348270.html",
+      "image_title": "Mensch am Laptop hält Smartphone im dunklen Raum"
+    },
+    {
       "title": "Stellenanzeige für \"digital Native\" ist Altersdiskriminierung",
       "teaser": "Eine Stellenanzeige warb um \"digital Natives\". Ein qualifizierter \"digital Immigrant\" bewarb sich erfolglos. Der Nicht-Arbeitgeber muss ihn entschädigen.",
       "url": "https://www.heise.de/news/Stellenanzeige-fuer-digital-Native-ist-Altersdiskriminierung-10348256.html",
       "image_title": "Statue der Justizia"
     },
     {
+      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
+      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Bericht: Apple fliegt wegen US-Zöllen 600 Tonnen iPhones aus Indien ein",
       "teaser": "Vor dem geplanten Start der harten Zölle der Trump-Administration herrschte reger Luftverkehr. Bei Apple betraf das wohl nicht nur China, sondern auch Indien.",
       "url": "https://www.heise.de/news/Bericht-Apple-fliegt-wegen-US-Zoellen-600-Tonnen-iPhones-aus-Indien-ein-10348128.html",
       "image_title": "Indische Flagge"
-    },
-    {
-      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
-      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Neuer Kunststoff aus Japan löst sich in Salzwasser auf",
@@ -231,12 +237,6 @@
       "title": "Canva Visual Suite 2.0 mit KI-gestützter Tabellenkalkulation",
       "teaser": "Die Canva Visual Suite 2.0 bringt eine Tabellenkalkulation, eine Bildbearbeitung und eine Programmierumgebung, das alles unterstützt von KI-Werkzeugen.",
       "url": "https://www.heise.de/news/Canva-Visual-Suite-2-0-bessere-Uebersicht-und-mehr-KI-Tools-10344459.html"
-    },
-    {
-      "title": "ESA-Bericht warnt vor Weltraumschrott und überfülltem Orbit",
-      "teaser": "Die ESA hat den Space Environment Report 2025 veröffentlicht. Sie warnt, es werde eng in manchen Umlaufbahnen, und fordert eine Entfernung von Weltraumschrott.",
-      "url": "https://www.heise.de/news/ESA-Bericht-warnt-vor-Weltraumschrott-und-ueberfuelltem-Orbit-10347990.html",
-      "image_title": "Weltraumschrott"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -301,6 +301,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "ESA-Bericht warnt vor Weltraumschrott und überfülltem Orbit",
+      "teaser": "Die ESA hat den Space Environment Report 2025 veröffentlicht. Sie warnt, es werde eng in manchen Umlaufbahnen, und fordert eine Entfernung von Weltraumschrott.",
+      "url": "https://www.heise.de/news/ESA-Bericht-warnt-vor-Weltraumschrott-und-ueberfuelltem-Orbit-10347990.html",
+      "image_title": "Weltraumschrott"
     },
     {
       "title": "Buchrezension: Per Anhalter durch die IT-Branche",
@@ -368,14 +374,14 @@
       "url": "https://www.heise.de/news/Podcast-Wenn-KI-kreativ-wird-was-bleibt-fuer-Autorinnen-und-Entwicklerinnen-10347541.html"
     },
     {
+      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
+      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
+    },
+    {
       "title": "Im dauerhaften Flugmodus: Vier Prozent der Bevölkerung offline",
       "teaser": "Kein Online-Banking, kein Social Media: In Deutschland leben laut Statistischem Bundesamt fast drei Millionen Menschen ohne Internet.",
       "url": "https://www.heise.de/news/Im-dauerhaften-Flugmodus-Vier-Prozent-der-Bevoelkerung-offline-10347357.html"
-    },
-    {
-      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
-      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
     },
     {
       "title": "AlertSicherheitsupdates: Mit Drupal erstellte Website sind verwundbar",
@@ -429,29 +435,23 @@
       "url": "https://www.heise.de/news/software-architektur-tv-KI-Bullshit-10345540.html"
     },
     {
-      "title": "Softwareentwicklung mit KI: Online-Konferenz betterCode() GenAI im Juni",
-      "teaser": "Am 26. Juni behandelt die Online-Konferenz alle wichtigen Themen zu KI-gestützter Softwareentwicklung von Tools über die passende Anwendung bis zur Security.",
-      "url": "https://www.heise.de/news/Softwareentwicklung-mit-KI-Online-Konferenz-betterCode-GenAI-im-Juni-10345504.html"
+      "title": "Asus, Lenovo und Co.: Notebook-Hersteller setzen Lieferungen in die USA aus",
+      "url": "https://www.heise.de/news/Asus-Lenovo-und-Co-Notebook-Hersteller-setzen-Lieferungen-in-die-USA-aus-10346243.html",
+      "image_title": "Mehrere Notebooks nebeneinander"
     },
     {
-      "title": "Microsoft erhöht Preise für On-Premises-Server",
-      "url": "https://www.heise.de/news/Microsoft-erhoeht-Preise-fuer-On-Premises-Server-10345544.html",
-      "image_title": "Rechenzentrum und Server, davor Microsoft-Logo und ein Haufen Geld"
+      "title": "OpenAI schreibt wirtschaftliche Blaupause für die EU",
+      "url": "https://www.heise.de/news/OpenAI-schreibt-wirschaftliche-Blaupause-fuer-die-EU-10346084.html",
+      "image_title": "Das Logo von OpenAI an einer Glasfassade"
     },
     {
-      "title": "FreeDOS 1.4 ist da",
-      "url": "https://www.heise.de/news/FreeDOS-1-4-ist-da-10345336.html",
-      "image_title": "Rechts eine 3,5-Zoll-Diskette, links ein von Künstlerhand aus Diskettenteilen gefertigtes Männlein; ein Notizzettel auf der Diskette sagt \"'Floppy Dudes' made from old floppy disks, $9 each\""
+      "title": "Bericht: Erster großer Apple-Fertiger will in die USA kommen",
+      "url": "https://www.heise.de/news/Bericht-Erster-grosser-Apple-Fertiger-will-in-die-USA-kommen-10346651.html",
+      "image_title": "Gebäude von Luxshare ICT"
     },
     {
-      "title": "iPhone: US-Regierung glaubt an Produktion in den USA",
-      "url": "https://www.heise.de/news/iPhone-Amerikanische-Regierung-glaubt-an-Produktion-in-den-USA-10345470.html",
-      "image_title": "Apple-CEO Tim Cook bei Foxconn in China"
-    },
-    {
-      "title": "Asteroid 2024 YR₄ hat Form eines Hockey-Pucks und kommt aus unerwarteter Region",
-      "url": "https://www.heise.de/news/Asteroid-2024-YR-hat-Form-eines-Hockey-Pucks-und-kommt-aus-unerwarteter-Region-10345765.html",
-      "image_title": "Der Asteroid, im Hintergrund der Mond und unten rechts die Erde"
+      "title": "Forscher entwickeln 3D-Hologramme zum Anfassen und Bewegen",
+      "url": "https://www.heise.de/news/Forscher-entwickeln-3D-Hologramme-zum-Anfassen-und-Bewegen-10346949.html"
     },
     {
       "title": "Zehnmal heller als der Mond: Zwei Sterne auf unausweichlichem Kurs zur Supernova",
@@ -459,19 +459,34 @@
       "image_title": "Zwei weiße Sterne, die einander Material absaugen"
     },
     {
-      "title": "Die Nacht zum Tag machen: Drohnenlicht kostet knapp 60.000 US-Dollar",
-      "url": "https://www.heise.de/news/Drohnen-Lichtsystem-fuer-knapp-60-000-US-Dollar-macht-die-Nacht-zum-Tag-10343215.html",
-      "image_title": "Drohne mit Licht beleuchtet eine Fläche."
+      "title": "Asteroid 2024 YR₄ hat Form eines Hockey-Pucks und kommt aus unerwarteter Region",
+      "url": "https://www.heise.de/news/Asteroid-2024-YR-hat-Form-eines-Hockey-Pucks-und-kommt-aus-unerwarteter-Region-10345765.html",
+      "image_title": "Der Asteroid, im Hintergrund der Mond und unten rechts die Erde"
     },
     {
-      "title": "\"Würden sonst Verlust machen\": Framework stellt US-Verkauf günstiger Laptops ein",
-      "url": "https://www.heise.de/news/Wegen-Trumps-Zoellen-Framework-nimmt-in-den-USA-guenstige-Laptops-aus-dem-Angebot-10343846.html",
-      "image_title": "Ein aufgeschraubter Laptop"
+      "title": "iPhone: US-Regierung glaubt an Produktion in den USA",
+      "url": "https://www.heise.de/news/iPhone-Amerikanische-Regierung-glaubt-an-Produktion-in-den-USA-10345470.html",
+      "image_title": "Apple-CEO Tim Cook bei Foxconn in China"
     },
     {
-      "title": "Signal-Affäre: iPhone hat wohl Nummer von US-Journalisten falsch abgespeichert",
-      "url": "https://www.heise.de/news/Signal-Affaere-US-Journalist-angeblich-dank-iOS-Funktion-in-geheimem-Gruppenchat-10342141.html",
-      "image_title": "Signal-App auf einem Smartphone, darüber eine Fignerspitze"
+      "title": "Apple M4: Veränderungen machen Asahi-Linux-Umsetzung schwer",
+      "url": "https://www.heise.de/news/Asahi-Linux-Probleme-beim-Port-fuer-Apples-M4-10345622.html",
+      "image_title": "Ein Pinguin putzt sich"
+    },
+    {
+      "title": "Android XR: Google demonstriert AR-Brille auf TED-Konferenz",
+      "url": "https://www.heise.de/news/Android-XR-Google-demonstriert-AR-Brille-auf-TED-Konferenz-10347001.html",
+      "image_title": "Eine Frau trägt eine Brille. Neben ihrem Kopf ist Text eingeblendet: \"...saying, just transcribed for you in real-time. Kind of like, subtitles for the world.\""
+    },
+    {
+      "title": "Samsungs KI-Kugelroboter Ballie kommt im Sommer mit Google Gemini auf den Markt",
+      "url": "https://www.heise.de/news/Samsungs-KI-Kugelroboter-Ballie-kommt-im-Sommer-mit-Google-Gemini-auf-den-Markt-10346755.html",
+      "image_title": "Samsungs Kugelroboter Ballie steht vor einer weiblichen Person, die Popcorn isst"
+    },
+    {
+      "title": "Library of Congress: Start-Sound von Windows 95 \"für alle Zeiten erhaltenswert\"",
+      "url": "https://www.heise.de/news/Library-of-Congress-Start-Sound-von-Windows-95-fuer-alle-Zeiten-erhaltenswert-10347023.html",
+      "image_title": "PC mit Windows 95 und jeder Menge altem Zubehör"
     },
     {
       "title": "Vision Pro 2 angeblich in Produktion",
@@ -479,36 +494,24 @@
       "image_title": "Nutzerin mit Vision Pro"
     },
     {
-      "title": "Alien 3 Legacy Cut: \"Inoffizielle\" 4K-Version ohne Zustimmung der Rechteinhaber",
-      "url": "https://www.heise.de/news/Alien-3-Legacy-Cut-Inoffizielle-4K-Version-ohne-Zustimmung-der-Rechteinhaber-10344960.html"
+      "title": "USA stoppen Strafverfolgung bei Kryptowährungen und NFTs",
+      "url": "https://www.heise.de/news/USA-stoppen-Strafverfolgung-bei-Kryptowaehrungen-und-NFTs-10346765.html",
+      "image_title": "Stöße güldener Münzen mit aufgeprägtem Bitcoin-Logo"
     },
     {
-      "title": "\"Commandos – Origins\" angespielt: Echtzeittaktik für Kenner",
-      "url": "https://www.heise.de/tests/Commandos-Origins-angespielt-Echtzeittaktik-fuer-Kenner-10344724.html"
+      "title": "Microsoft erhöht Preise für On-Premises-Server",
+      "url": "https://www.heise.de/news/Microsoft-erhoeht-Preise-fuer-On-Premises-Server-10345544.html",
+      "image_title": "Rechenzentrum und Server, davor Microsoft-Logo und ein Haufen Geld"
     },
     {
-      "title": "Fujifilm stellt neue Instax Mini 41 vor",
-      "url": "https://www.heise.de/news/Fujifilm-stellt-neue-Instax-Mini-41-vor-10344897.html"
+      "title": "US-Zollchaos geht weiter: Trump pausiert neue Zölle, Euphorie an der Börse",
+      "url": "https://www.heise.de/news/US-Zollchaos-geht-weiter-Trump-pausiert-neue-Zoelle-Euphorie-an-der-Boerse-10346905.html",
+      "image_title": "Grüne Handelskurve"
     },
     {
-      "title": "Verschärfung des Handelskriegs: China setzt US-Drohnenfirmen auf Schwarze Liste",
-      "url": "https://www.heise.de/news/Verschaerfung-des-Handelskriegs-China-setzt-US-Drohnenfirmen-auf-Schwarze-Liste-10344112.html",
-      "image_title": "Skydio Drohne in der Luft"
-    },
-    {
-      "title": "Volkswagen verdoppelt seine E-Auto-Verkaufszahlen",
-      "url": "https://www.heise.de/news/Volkswagen-verdoppelt-seine-E-Auto-Verkaufszahlen-10345572.html",
-      "image_title": "VW-Zeichen"
-    },
-    {
-      "title": "TSMC droht US-Milliardenstrafe wegen vermeintlicher Chip-Lieferungen an Huawei",
-      "url": "https://www.heise.de/news/TSMC-droht-US-Milliardenstrafe-wegen-vermeintlicher-Chip-Lieferungen-an-Huawei-10345406.html",
-      "image_title": "Ein Chip auf einem symbolischen Wafer"
-    },
-    {
-      "title": "In Teams & Co.: US-Regierung lässt angeblich KI intern nach Trump-Kritik fahnden",
-      "url": "https://www.heise.de/news/US-Regierung-sucht-angeblich-mit-KI-in-interner-Kommunikation-nach-Trump-Kritik-10345526.html",
-      "image_title": "US-Flagge aus einer Art Halbleiter"
+      "title": "Frist für Microsoft endet bald: Einigung mit CISPE um Lizenzbedingungen wackelt",
+      "url": "https://www.heise.de/news/Streit-um-Lizenzbedingungen-Microsoft-laeuft-Zeit-fuer-Einigung-mit-CISPE-davon-10346159.html",
+      "image_title": "Stilisiertes Bild: Eine Wolke mit EU-Flagge darin, vor Serverracks im Hintergrund"
     },
     {
       "title": "NIS2-Umsetzung verzögert sich – Unternehmen müssen trotzdem handeln",
@@ -516,14 +519,9 @@
       "image_title": "Smartphone mit Zahlenschloss drauf"
     },
     {
-      "title": "EU-Kommission: \"KI-Gigafabriken\" sollen Standort Europa stärken",
-      "url": "https://www.heise.de/news/EU-Kommission-KI-Gigafabriken-sollen-Standort-Europa-staerken-10346219.html",
-      "image_title": "Henna Virkkunen steht an einem Pult mit der Aufschrift \"EU-Kommission\", im Hintergrund sind die Worte \"KI-Kontinent Aktionsplan\" auf Englisch an die Wand projiziert."
-    },
-    {
-      "title": "Dienstag: DOGE führt US-Steuerdaten zusammen, Europcar-Kundendaten gestohlen",
-      "url": "https://www.heise.de/news/Dienstag-DOGE-fuehrt-US-Steuerdaten-zusammen-Europcar-Kundendaten-gestohlen-10343711.html",
-      "image_title": "US-Dollar-Noten, dazu Text: DIENSTAG DOGE-\"Hackathon\", Europcar-Datenklau, Signal-Affäre, iPhone-Preise & WhatsApp-Datenschutz"
+      "title": "In Teams & Co.: US-Regierung lässt angeblich KI intern nach Trump-Kritik fahnden",
+      "url": "https://www.heise.de/news/US-Regierung-sucht-angeblich-mit-KI-in-interner-Kommunikation-nach-Trump-Kritik-10345526.html",
+      "image_title": "US-Flagge aus einer Art Halbleiter"
     },
     {
       "title": "Ein Schwergewicht in Ostwestfalen: Zum 100. Geburtstag von Heinz Nixdorf",
@@ -531,9 +529,14 @@
       "image_title": "Eine Silhouette von Heinz Nixdorf auf der Website des HNF"
     },
     {
-      "title": "Mittwoch: Einbruch in US-Bankenaufsicht, TSMC vor Milliardenstrafe wegen Huawei",
-      "url": "https://www.heise.de/news/Mittwoch-Einbruch-in-US-Bankenaufsicht-TSMC-vor-Milliardenstrafe-wegen-Huawei-10345422.html",
-      "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich vermutlich ein Smartphone; Mittwoch: Banken-Spionage, TSMC-Strafe, FreeDOS-Update, Commandos-Origin, OpenSSL-Quantenverfahren & Bit-Rauschen"
+      "title": "Donnerstag: Samsung-Roboter mit Google-KI, Freifahrtschein für Krypto-Gauner",
+      "url": "https://www.heise.de/news/Donnerstag-Samsung-Roboter-mit-Google-KI-Freifahrtschein-fuer-Krypto-Gauner-10346781.html",
+      "image_title": "Kugelroboter vor Hund in einem Gang; Donnerstag: Ballie-Marktstart, Krypto-Amnestie, Kryptoskandal-Untersuchung, Titanic-Details, Digital-Health-Investitionen & #heiseshow"
+    },
+    {
+      "title": "Dienstag: DOGE führt US-Steuerdaten zusammen, Europcar-Kundendaten gestohlen",
+      "url": "https://www.heise.de/news/Dienstag-DOGE-fuehrt-US-Steuerdaten-zusammen-Europcar-Kundendaten-gestohlen-10343711.html",
+      "image_title": "US-Dollar-Noten, dazu Text: DIENSTAG DOGE-\"Hackathon\", Europcar-Datenklau, Signal-Affäre, iPhone-Preise & WhatsApp-Datenschutz"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -580,9 +583,9 @@
       "url": "https://www.heise.de/multimediadatei/Frankreichs-Social-Kill-Switch-COBOL-Abloesung-Sommerzeit-heiseshow-10339677.html"
     },
     {
-      "title": "US car tariffs confuse with tariff code for computers and hard drives",
-      "url": "https://www.heise.de/en/news/US-auto-tariffs-apply-to-all-computers-and-hard-disks-10343085.html",
-      "image_title": "Several notebooks next to each other with the inscription WTF"
+      "title": "Asus, Lenovo and Co.: Notebook manufacturers suspend deliveries to the USA",
+      "url": "https://www.heise.de/en/news/Asus-Lenovo-and-Co-Notebook-manufacturers-suspend-deliveries-to-the-USA-10346409.html",
+      "image_title": "Several notebooks next to each other"
     },
     {
       "title": "Intensification of the trade war: China blacklists US drone companies",
@@ -594,28 +597,28 @@
       "url": "https://www.heise.de/en/news/OpenSSL-3-5-0-now-contains-post-quantum-procedures-10345305.html"
     },
     {
-      "title": "tvOS 18.4: What the new operating system brings for Apple TV devices",
-      "url": "https://www.heise.de/en/news/tvOS-18-4-What-the-new-operating-system-brings-for-Apple-TV-devices-10340596.html"
+      "title": "VMware: Companies will have to license 72 instead of 16 cores in future",
+      "url": "https://www.heise.de/en/news/VMware-Companies-will-have-to-license-72-instead-of-16-cores-in-future-10335733.html"
     },
     {
-      "title": "iPhone 17 Pro: But no (completely) new look – Major redesign not until 2027",
-      "url": "https://www.heise.de/en/news/iPhone-17-Pro-But-no-completely-new-look-Major-redesign-not-until-2027-10343585.html"
+      "title": "Fortinet plugs security holes in several products",
+      "url": "https://www.heise.de/en/news/Fortinet-plugs-security-holes-in-several-products-10346469.html"
     },
     {
-      "title": "Wie mechanische Knöpfe und Touchdisplays im Auto zusammenspielen",
-      "teaser": "Es ist gefährlich, wenn Einstellungen im Auto-Cockpit den Blick von der Straße auf den Touchscreen ziehen. Institutionen wie Euro NCAP fordern fühlbare Knöpfe.",
-      "url": "https://www.heise.de/hintergrund/Wie-mechanische-Knoepfe-und-Touchdisplays-im-Auto-zusammenspielen-10332113.html",
-      "image_title": ", Krämer Automotive Systems, Bearbeitung c’t"
+      "title": "Alien 3 Legacy Cut\"Inoffizielle\" 4K-Version ohne Zustimmung der Rechteinhaber",
+      "teaser": "Fünf Jahre lang hat ein Fan aus den beiden bekannten Schnittfassungen des SciFi-Films eine neue Version gebastelt.",
+      "url": "https://www.heise.de/news/Alien-3-Legacy-Cut-Inoffizielle-4K-Version-ohne-Zustimmung-der-Rechteinhaber-10344960.html"
     },
     {
-      "title": "Alien 3 Legacy Cut: \"Unofficial\" 4K version without consent of rights holders",
-      "teaser": "It took a fan five years to create a new version from the two known cut versions of the sci-fi film, fixing numerous weaknesses in the process.",
-      "url": "https://www.heise.de/en/news/Alien-3-Legacy-Cut-Unofficial-4K-version-without-consent-of-rights-holders-10345272.html"
+      "title": "Mediatek Dimensity 9400+: Höherer Takt, mehr KI, weiterer Funk",
+      "teaser": "Mit der Plus-Variante präsentiert Mediatek seinen neuen Smartphone-Prozessor. Der Dimensity 9400+ ist nicht nur schneller als der Vorgänger.",
+      "url": "https://www.heise.de/news/Mediatek-Dimensity-9400-Hoeherer-Takt-mehr-KI-weiterer-Funk-10347153.html",
+      "image_title": "Mediatek-Chip"
     },
     {
-      "title": "US-Regierung schränkt Forscher und die akademische Freiheit ein",
-      "teaser": "Präsident Trump streicht US-Forschern die Mittel und baut Stellen ab. Das kann Spitzenkräfte nach Europa treiben, aber auch wichtige Forschungsnetze zerstören.",
-      "url": "https://www.heise.de/news/US-Regierung-schraenkt-Forscher-und-die-akademische-Freiheit-ein-10328312.html"
+      "title": "Paramount+ jetzt mit deutschem Ton in 5.1 und Dolby Atmos",
+      "teaser": "Zwei Wochen nach dem Start des Premiumabos bietet der Videostreamingdienst offiziell den deutschen Ton in der versprochenen Qualität an.",
+      "url": "https://www.heise.de/news/Paramount-jetzt-mit-deutschem-Ton-in-5-1-und-Dolby-Atmos-10346088.html"
     },
     {
       "title": "Gut & günstig?Das neue Einsteiger-iPad im Test",
@@ -630,10 +633,10 @@
       "image_title": "Apple AirPods Max mit USB-C-Kabel am Mac"
     },
     {
-      "title": "Gadget InspectorSmarter Präsenzsensor, iPad-Ständer, Batteriehülle für AirTags, Audio-Streamer",
-      "teaser": "Hersteller und Händler bieten allerlei Zubehör für Apple-Produkte an. Mac & i wirft regelmäßig einen kritischen Blick auf Gadgets – von cool bis Kernschrott.",
-      "url": "https://www.heise.de/tests/Gadget-Inspector-Smarter-Praesenzsensor-langlebige-AirTags-und-mehr-10327186.html",
-      "image_title": "Gadget-Inspector-Logo."
+      "title": "AirTag-Alternativen im Test: Es muss nicht immer Apple sein",
+      "teaser": "Bluetooth-Tracker für Apples \"Wo ist?\"-Netzwerk gibt es von anderen Herstellern teilweise zum Bruchteil des Preises eines AirTags. Was taugen sie? Unser Test.",
+      "url": "https://www.heise.de/tests/AirTag-Alternativen-im-Test-Es-muss-nicht-immer-Apple-sein-10335077.html",
+      "image_title": "AirTag-Alternativen"
     },
     {
       "title": "Kostenlose E-CAD-Programme im Vergleich",
@@ -653,6 +656,11 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-25-Platinen-selber-machen-10342055.html"
     },
     {
+      "title": "Fujifilm stellt neue Instax Mini 41 vor",
+      "teaser": "Mit der Instax Mini 41 bringt Fujifilm eine weitere Sofortbildkamera auf den Markt. Das neue Modell kombiniert Retro-Design mit neuen Funktionen.",
+      "url": "https://www.heise.de/news/Fujifilm-stellt-neue-Instax-Mini-41-vor-10344897.html"
+    },
+    {
       "title": "RatgeberWie Sportfotografie für Einsteiger gelingt",
       "teaser": "Mit dem richtigen Equipment und der passenden Herangehensweise ist Sportfotografie gar nicht so schwer.",
       "url": "https://www.heise.de/ratgeber/Wie-Sportfotografie-fuer-Einsteiger-gelingt-10292833.html",
@@ -667,12 +675,6 @@
       "title": "Von Flughunden, Stille und einer vergangenen Zeit: Die Bilder der Woche 13",
       "teaser": "Ein Flughund kehrt heim, während ein Fischer im Morgengrauen seine Netze auslegt. Unsere Galeriefotografen zeigen diese Woche eine ruhige Ästhetik.",
       "url": "https://www.heise.de/news/Von-Flughunden-Stille-und-einer-vergangenen-Zeit-Die-Bilder-der-Woche-13-10337455.html"
-    },
-    {
-      "title": "Leica I und CoAnaloge Fotografie als immaterielles UNESCO-Kulturerbe in Deutschland anerkannt",
-      "teaser": "Die Deutsche UNESCO-Kommission ehrt die analoge Fotografie als immaterielles Kulturerbe. Sie würdigt damit handwerkliche fotografische Verfahren.",
-      "url": "https://www.heise.de/news/Analoge-Fotografie-als-immaterielles-UNESCO-Kulturerbe-in-Deutschland-anerkannt-10341291.html",
-      "image_title": "Mehrere Schwarz-Weiß-Fotos liegen auf einem Tisch."
     },
     {
       "title": "Verschiedene Formate von Sprachmodellen im Überblick",
@@ -708,10 +710,10 @@
       "image_title": "Peugeot e-208"
     },
     {
-      "title": "Versuch einer Absetzung vom RestE-Auto Smart #5 Brabus vorgestellt",
-      "teaser": "Smart legt das Topmodell des #5 vor, das trotz schwerem SUV-Format mit seinen 475 kW viele Sportwagen hinter sich lassen kann.",
-      "url": "https://www.heise.de/news/E-Auto-Smart-5-Brabus-Versuch-einer-Absetzung-vom-Rest-10343233.html",
-      "image_title": "Smart #5 Brabus"
+      "title": "Steiniger Weg, richtiger Kurs?Volkswagen verdoppelt seine E-Auto-Verkaufszahlen",
+      "teaser": "Gegenüber dem ersten Quartal 2024 verdoppelte Volkswagen seine E-Auto-Verkäufe in Europa. Das hat mehrere Gründe.",
+      "url": "https://www.heise.de/news/Volkswagen-verdoppelt-seine-E-Auto-Verkaufszahlen-10345572.html",
+      "image_title": "VW-Zeichen"
     },
     {
       "title": "14 Sätze aus dem Koalitionsvertrag: Was sie für Klima und Verkehr bedeuten",
@@ -749,10 +751,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Nach Festnahmen im Donbass: China bestreitet militärische Beteiligung",
-      "teaser": "Ukrainische Streitkräfte haben zwei Chinesen gefangen genommen, die offenbar an der Seite Russlands kämpften. Die Umstände bleiben vorerst unklar. Ein Überblick.",
-      "url": "https://www.heise.de/tp/features/Nach-Festnahmen-im-Donbass-China-bestreitet-militaerische-Beteiligung-10345999.html",
-      "image_title": "Ukraines Präsident Wolodymyr Selenskyj"
+      "title": "Blau, Grün, Gelb: SAP kategorisiert Mitarbeiter nach Leistung und Verhalten",
+      "teaser": "SAP führt ein neues Bewertungssystem ein. Mitarbeiter werden nach Leistung und Sozialverhalten beurteilt. Wer in die \"gelbe Zone\" rutscht, muss um seine Zukunft bangen.",
+      "url": "https://www.heise.de/tp/features/Blau-Gruen-Gelb-SAP-kategorisiert-Mitarbeiter-nach-Leistung-und-Verhalten-10340443.html",
+      "image_title": "Aufziehmännchen schiebt Pfeil nach oben"
     },
     {
       "title": "Halbleiter-Revolution: Der kleinste Chip der Welt – und seine Folgen",
@@ -761,10 +763,10 @@
       "image_title": "Chipfabrik"
     },
     {
-      "title": "Afrika am Tropf: Zwischen westlicher Ignoranz und Chinas Charmeoffensive",
-      "teaser": "Die Afrikanische Union warnt vor einer drohenden Gesundheitskrise. Warum Donald Trump und die Staatsverschuldung als Ursachen gelten und China eine Alternative ist. Eine Analyse.",
-      "url": "https://www.heise.de/tp/features/Afrika-am-Tropf-Zwischen-westlicher-Ignoranz-und-Chinas-Charmeoffensive-10346190.html",
-      "image_title": "Chinesische Banknote auf Karte Afrikas"
+      "title": "Bargeld ade? Mehr Freiheit statt Überwachung!",
+      "teaser": "Deutschland liebt Bargeld, doch elektronische Zahlungen bringen für uns alle Vorteile. Warum Bargeld-Fetischisten im Irrtum sind. Ein Kommentar.",
+      "url": "https://www.heise.de/tp/features/Bargeld-ade-Mehr-Freiheit-statt-Ueberwachung-10344988.html",
+      "image_title": "Ein bargeldloser Zahlvorgang"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
