@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-12T06:12:13",
+  "timestamp": "2025-04-12T07:08:31",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Koalitionsvertrag geprüft: Das bedeuten die Vorhaben konkret",
+      "url": "https://www.heise.de/news/Koalitionsvertrag-2025-Aufbruch-in-eine-neue-Digitalpolitik-10349362.html"
+    },
     {
       "title": "Von Erdgas zu Wasserstoff: Wo Deutschlands Speicherumbau derzeit steht",
       "url": "https://www.heise.de/hintergrund/Von-Erdgas-zu-Wasserstoff-Wo-Deutschlands-Speicherumbau-derzeit-steht-10297630.html"
@@ -60,10 +64,6 @@
     {
       "title": "Neu in .NET 9.0 [16]: Neue Mengenklasse OrderedDictionary<T,T>",
       "url": "https://www.heise.de/blog/Neu-in-NET-9-0-16-Neue-Mengenklasse-OrderedDictionary-T-T-10348386.html"
-    },
-    {
-      "title": "Notion-Alternative Anytype: Schöner, sicherer, offline-first",
-      "url": "https://www.heise.de/news/Notion-Alternative-Anytype-Schoener-sicherer-offline-first-10349463.html"
     },
     {
       "title": "Viele neue FeaturesNeuer Mainframe von IBM – und natürlich mit KI",
@@ -188,20 +188,26 @@
       "image_title": "Screenshot der Meta AI in WhatsApp"
     },
     {
+      "title": "Koalitionsvertrag geprüft: Das bedeuten die Vorhaben konkret",
+      "teaser": "Ist das Digitalministerium der große Wurf? Was bedeutet der Koalitionsvertrag für die IT-Branche? Und wo ist Kritik angebracht? Wir haben genauer hingesehen.",
+      "url": "https://www.heise.de/news/Koalitionsvertrag-2025-Aufbruch-in-eine-neue-Digitalpolitik-10349362.html",
+      "image_title": "Leerer Bundestag"
+    },
+    {
       "title": "Von Erdgas zu Wasserstoff: Wo Deutschlands Speicherumbau derzeit steht",
       "teaser": "Wasserstoffspeicher entkoppeln Energieerzeugung und Verbrauch. Damit sind sie ein Gamechanger für die Energiewende. Wo die Technik aktuell steht.",
       "url": "https://www.heise.de/hintergrund/Von-Erdgas-zu-Wasserstoff-Wo-Deutschlands-Speicherumbau-derzeit-steht-10297630.html"
+    },
+    {
+      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
+      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Altstädte, Silhouetten-Spiele und leuchtende Farben: Die Bilder der Woche 14",
       "teaser": "Unsere Galeriefotografen fangen die besonderen Momente des Lebens ein und nicht immer erzählt das scheinbare Hauptmotiv die eigentliche Geschichte.",
       "url": "https://www.heise.de/news/Altstaedte-Silhouetten-Spiele-und-leuchtende-Farben-Die-Bilder-der-Woche-14-10338149.html",
       "image_title": "Blüte von Blume"
-    },
-    {
-      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
-      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Wie SB-Kassen funktionieren | c’t uplink",
@@ -229,12 +235,6 @@
       "teaser": "Schalt Kreis Symposium: ein Fest der Elektronik, Licht und Sound im Juni und eine Fortbildung für Mentorinnen für Klimaschutzworkshops im Juli.",
       "url": "https://www.heise.de/news/Sommerlaune-Klimaschutz-und-Elektronik-Spass-und-Fortbildung-10348707.html",
       "image_title": "Bunte Szene mit Menschen die Spaß an Elektronik haben"
-    },
-    {
-      "title": ".NET 10.0 Preview 3 bringt Typ-Erweiterungen",
-      "teaser": "Das nachträgliche Erweitern von .NET-Typen um mehr als Instanzmethoden ist schon lange in Arbeit. C# 14.0 erlaubt das nun für Properties und statische Methoden.",
-      "url": "https://www.heise.de/news/NET-10-0-Preview-3-bringt-Typ-Erweiterungen-10349092.html",
-      "image_title": ".net-Schriftzug auf Schild"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -299,6 +299,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": ".NET 10.0 Preview 3 bringt Typ-Erweiterungen",
+      "teaser": "Das nachträgliche Erweitern von .NET-Typen um mehr als Instanzmethoden ist schon lange in Arbeit. C# 14.0 erlaubt das nun für Properties und statische Methoden.",
+      "url": "https://www.heise.de/news/NET-10-0-Preview-3-bringt-Typ-Erweiterungen-10349092.html",
+      "image_title": ".net-Schriftzug auf Schild"
     },
     {
       "title": "Neu in .NET 9.0 [16]: Neue Mengenklasse OrderedDictionary<T,T>",
@@ -367,15 +373,15 @@
       "image_title": "Konrad Zuse und Heinz Nixdorf"
     },
     {
+      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
+      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
+    },
+    {
       "title": "Digitale Souveränität: Bundesinnenministerium serviert ZenDiS-Chefin ab",
       "teaser": "Nach einem halben Jahr muss Jutta Horstmann die bundeseigene GmbH, die unter anderem OpenDesk entwickelt, wieder verlassen.",
       "url": "https://www.heise.de/news/Digitale-Souveraenitaet-Bundesinnenministerium-serviert-ZenDiS-Chefin-ab-10349053.html",
       "image_title": "Ein Mann in einem Anzug drückt mit seinem Zeigefinder auf ein virtuelles eGovernment-Icon."
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Runway ML: KI-Videogenerator Gen-4 veröffentlicht",
@@ -428,11 +434,6 @@
       "teaser": "Eine Open-Source-Lizenz genügt nicht: Hersteller von KI-Modellen sollen diese inklusive Code und Trainingsdaten Open Source stellen, fordert Holger Voormann.",
       "url": "https://www.heise.de/meinung/Macht-KI-Modelle-Open-Source-aber-richtig-10348646.html",
       "image_title": "gesprengte Ketten"
-    },
-    {
-      "title": "Raspberry Pi und Green: Einsteigerhardware für Home Assistant im Vergleich",
-      "teaser": "Anstöpseln und loslegen: Wir zeigen, mit welcher Hardware Einsteiger schnell mit Home Assistant starten können – und worauf sie vor dem Kauf achten sollten.",
-      "url": "https://www.heise.de/ratgeber/Raspberry-Pi-und-Green-Einsteigerhardware-fuer-Home-Assistant-im-Vergleich-10298326.html"
     },
     {
       "title": "Kunden-Backup landet bei fremder Person",
@@ -603,14 +604,14 @@
       "url": "https://www.heise.de/en/news/OpenSSL-3-5-0-now-contains-post-quantum-procedures-10345305.html"
     },
     {
+      "title": "Wie SB-Kassen funktionieren | c’t uplink",
+      "teaser": "In diesem c’t uplink gehts um Supermarkt-Kassensysteme, an denen man den Einkauf selber einscannt – und um die Technik, die die Läden dabei einsetzen.",
+      "url": "https://www.heise.de/news/Wie-SB-Kassen-funktionieren-c-t-uplink-10348095.html"
+    },
+    {
       "title": "Web-Tipps: Fröhliches Knallen",
       "teaser": "Auf bubblewrap.fun gibt es das befriedigende Ploppen von Luftpolsterfolie beim Zerdrücken in digitaler Form – perfekt gegen Langeweile, Stress und Frust.",
       "url": "https://www.heise.de/news/Web-Tipps-Froehliches-Knallen-10335686.html"
-    },
-    {
-      "title": "Notion-Alternative Anytype: Schöner, sicherer, offline-first",
-      "teaser": "Der High-End-Zettelkasten Notion hat einen riesigen Hype ausgelöst. Konkurrent Anytype will jetzt vieles besser machen, unter anderem die Datensicherheit.",
-      "url": "https://www.heise.de/news/Notion-Alternative-Anytype-Schoener-sicherer-offline-first-10349463.html"
     },
     {
       "title": "Kunden-Backup landet bei fremder Person",
@@ -631,10 +632,10 @@
       "image_title": "Apple AirPods Max mit USB-C-Kabel am Mac"
     },
     {
-      "title": "Günstiger, flacher, lauterAirTag-Alternativen mit Apples „Wo ist?“ im Test",
-      "teaser": "Bluetooth-Tracker für Apples \"Wo ist?\"-Netzwerk gibt es von anderen Herstellern teilweise zum Bruchteil des Preises eines AirTags. Was taugen sie? Unser Test.",
-      "url": "https://www.heise.de/tests/AirTag-Alternativen-im-Test-Es-muss-nicht-immer-Apple-sein-10335077.html",
-      "image_title": "AirTag-Alternativen"
+      "title": "Gadget InspectorSmarter Präsenzsensor, iPad-Ständer, Batteriehülle für AirTags, Audio-Streamer",
+      "teaser": "Hersteller und Händler bieten allerlei Zubehör für Apple-Produkte an. Mac & i wirft regelmäßig einen kritischen Blick auf Gadgets – von cool bis Kernschrott.",
+      "url": "https://www.heise.de/tests/Gadget-Inspector-Smarter-Praesenzsensor-langlebige-AirTags-und-mehr-10327186.html",
+      "image_title": "Gadget-Inspector-Logo."
     },
     {
       "title": "Wie Maker-Skills in der Schule gefördert werden – ein Erfahrungsbericht",
@@ -750,21 +751,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Trumps neue Zoll-Offensive: Jetzt trifft es Medikamente",
-      "teaser": "Trumps Zollpolitik kennt keine Grenzen: Nach Stahl und Aluminium nimmt er nun Medikamente ins Visier. Mit hohen Abgaben will er die heimische Produktion ankurbeln.",
-      "url": "https://www.heise.de/tp/features/Trumps-neue-Zoll-Offensive-Jetzt-trifft-es-Medikamente-10345654.html",
-      "image_title": "Pillen und eine Stopphand. Neue Zölle lassen Medikamente nicht mehr in die USA kommen."
+      "title": "Afrika am Tropf: Zwischen westlicher Ignoranz und Chinas Charmeoffensive",
+      "teaser": "Die Afrikanische Union warnt vor einer drohenden Gesundheitskrise. Warum Donald Trump und die Staatsverschuldung als Ursachen gelten und China eine Alternative ist. Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Afrika-am-Tropf-Zwischen-westlicher-Ignoranz-und-Chinas-Charmeoffensive-10346190.html",
+      "image_title": "Chinesische Banknote auf Karte Afrikas"
     },
     {
-      "title": "KIT-Forscher halbieren Massengrenze bei Neutrinos",
-      "teaser": "Neutrinos sind überall, aber kaum zu fassen. Forscher des KIT haben nun die Obergrenze für ihre Masse halbiert. Warum das wichtig ist und wie es gelang.",
-      "url": "https://www.heise.de/tp/features/KIT-Forscher-halbieren-Massengrenze-bei-Neutrinos-10349427.html",
-      "image_title": "Blick ins Innere des KATRIN-Hauptspektrometers"
+      "title": "Gedankensteuerung wird Realität: Neuer Mikrochip übersetzt Hirnaktivität in Befehle",
+      "teaser": "Stellen Sie sich vor, Sie könnten Geräte allein durch Ihre Gedanken steuern. Forscher haben nun einen winzigen Chip entwickelt, der diesen Traum wahr machen könnte.",
+      "url": "https://www.heise.de/tp/features/Gedankensteuerung-wird-Realitaet-Neuer-Mikrochip-uebersetzt-Hirnaktivitaet-in-Befehle-10347287.html",
+      "image_title": "Winzige Gehirn-Computer-Schnittstelle auf einer Fingerkuppe"
     },
     {
-      "title": "Wissenschaftler analysieren erdnahen Asteroiden: Einschlagrisiko auf dem Mond bei 3,8 Prozent",
-      "teaser": "Ein Asteroid sorgte für Aufregung bei Forschern. Neue Analysen geben Details zur Herkunft. Warum es spannend werden wird, wenn sich YR4 der Erde nährt.",
-      "url": "https://www.heise.de/tp/features/Wissenschaftler-analysieren-erdnahen-Asteroiden-Einschlagrisiko-auf-dem-Mond-bei-3-8-Prozent-10348120.html"
+      "title": "Vergessen Sie Stonehenge! Das hier ist Britanniens wahres Ur-Monument",
+      "teaser": "Steinzeit-Struktur neu untersucht. Riesiger Kreisgraben ist älter als Stonehenge. Spoiler: Spuren von Außerirdischen und deren Ufos wurden nicht gefunden.",
+      "url": "https://www.heise.de/tp/features/Vergessen-Sie-Stonehenge-Das-hier-ist-Britanniens-wahres-Ur-Monument-10348959.html",
+      "image_title": "Steinkreise in Dorchester"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
