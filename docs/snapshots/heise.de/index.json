@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-13T15:08:22",
+  "timestamp": "2025-04-13T16:10:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Apples Finanzchef soll Beschaffung von GPUs blockiert haben",
+      "url": "https://www.heise.de/news/Apples-Finanzchef-soll-Beschaffung-von-GPUs-blockiert-haben-10350256.html"
+    },
     {
       "title": "Ecovacs Winbot Mini im Test: Fensterputzroboter für 299 € erstaunlich gut & klug",
       "url": "https://www.heise.de/bestenlisten/testbericht/fensterputzroboter-ecovacs-winbot-mini-im-test/h7x5nbf"
@@ -60,10 +64,6 @@
     {
       "title": "c't-Webinar: KI-Schreibwerkzeuge im Praxiseinsatz",
       "url": "https://www.heise.de/news/c-t-Webinar-KI-Schreibwerkzeuge-im-Praxiseinsatz-10344463.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Schadcode-Attacken auf KI-Analyseplattform Spotfire möglich",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Attacken-auf-KI-Analyseplattform-Spotfire-moeglich-10350088.html"
     },
     {
       "title": "Missing Link \"Der große Plan\"",
@@ -192,20 +192,25 @@
       "url": "https://www.heise.de/news/Notion-Alternative-Anytype-Schoener-sicherer-offline-first-10349463.html"
     },
     {
+      "title": "Apples Finanzchef soll Beschaffung von GPUs blockiert haben",
+      "teaser": "Finanzchef Luca Maestri soll die von Tim Cook abgesegnete Chip-Bestellung halbiert haben. Apple hinkt im KI-Bereich hinterher.",
+      "url": "https://www.heise.de/news/Apples-Finanzchef-soll-Beschaffung-von-GPUs-blockiert-haben-10350256.html"
+    },
+    {
       "title": "Ecovacs Winbot Mini im Test: Fensterputzroboter für 299 € erstaunlich gut & klug",
       "teaser": "Der Ecovacs Winbot Mini ist ein kompakter Fensterputzroboter mit strukturierter Navigation zu einem attraktiven Preis. Wir haben getestet, wie gut er verschmutzte Fenster reinigt und ob er eine echte Alternative zur Handarbeit ist.",
       "url": "https://www.heise.de/bestenlisten/testbericht/fensterputzroboter-ecovacs-winbot-mini-im-test/h7x5nbf?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "So arbeiten moderne Hacker-Fabriken",
+      "teaser": "Hacker-Gruppen im digitalen Untergrund arbeiten oft schon in industriellem Maßstab. Sie adaptieren neue Technologien, sodass es ständig zu neuen Angriffswellen kommt. Doch die Security-Firmen ergreifen Gegenmaßnahmen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6946150026&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "AlertNetzwerkgeräte mit Arista EOS können Verschlüsselung vergessen",
       "teaser": "Unter bestimmten Bedingungen versenden Netzwerkgeräte mit Arista EOS Daten im Klartext, die eigentlich verschlüsselt sein sollen.",
       "url": "https://www.heise.de/news/Netzwerkgeraete-mit-Arista-EOS-koennen-Verschluesselung-vergessen-10350160.html",
       "image_title": "Abstraktes Bild zu Netzwerken"
-    },
-    {
-      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
-      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Koalitionsvertrag: Die wahre Bedeutung von 14 Sätzen zu Klima und Verkehr",
@@ -235,12 +240,6 @@
       "teaser": "Weil der Support für ein Siemens Mehrkanal-Strommessgerät ausgelaufen ist, gibt es keine Sicherheitsupdates mehr.",
       "url": "https://www.heise.de/news/Root-Luecken-in-Siemens-Sentron-7KT-PAC1260-Data-Manager-bleiben-offen-10350128.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "Verdacht auf DSGVO-Verstöße: Irische Datenschützer prüfen Musks KI-Modell Grok",
-      "teaser": "Die irische Datenschutzbehörde untersucht, wie Musks Plattform X personenbezogene Daten europäischer Bürger verwendet hat, um ihr KI-Modell Grok zu trainieren.",
-      "url": "https://www.heise.de/news/Verdacht-auf-DSGVO-Verstoesse-Irische-Datenschuetzer-pruefen-Musks-KI-Modell-Grok-10350106.html",
-      "image_title": "Europa,Dsgvo,-,3d,Illustration,With,Blue,Backdrop"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -305,6 +304,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Verdacht auf DSGVO-Verstöße: Irische Datenschützer prüfen Musks KI-Modell Grok",
+      "teaser": "Die irische Datenschutzbehörde untersucht, wie Musks Plattform X personenbezogene Daten europäischer Bürger verwendet hat, um ihr KI-Modell Grok zu trainieren.",
+      "url": "https://www.heise.de/news/Verdacht-auf-DSGVO-Verstoesse-Irische-Datenschuetzer-pruefen-Musks-KI-Modell-Grok-10350106.html",
+      "image_title": "Europa,Dsgvo,-,3d,Illustration,With,Blue,Backdrop"
     },
     {
       "title": "c't-Webinar: KI-Schreibwerkzeuge im Praxiseinsatz",
@@ -374,15 +379,15 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/in-ear-kopfhoerer-soundcore-liberty-4-im-test/vfltv5q?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-0-soundcore-liberty-4-im-test-fur-70-euro-gibt-es-kaum-bessere-in-ear-kopfhorer"
     },
     {
+      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
+      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
+    },
+    {
       "title": "UpdateGerüchte über Redesign für watchOS zusammen mit iOS 19",
       "teaser": "Apple will angeblich nicht nur iOS 19, iPadOS 19 und macOS 16 ein Redesign verpassen, sondern auch dem Apple-Watch-Betriebssystem. Wird es an iOS angenähert?",
       "url": "https://www.heise.de/news/Geruechte-ueber-Redesign-fuer-watchOS-zusammen-mit-iOS-19-10348026.html",
       "image_title": "Apple Watch am Handgelenk"
-    },
-    {
-      "title": "Cybersecurity 2025: Warum IT-Sicherheit ein solides Fundament benötigt",
-      "teaser": "Die Bedrohungslage wird sich auch 2025 weiter verschärfen. Unternehmen müssen daher ihre IT-Sicherheit kontinuierlich ausbauen. Das ist jedoch nur auf Basis einer soliden IT-Infrastruktur möglich.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/cybersecurity-2025-warum-it-sicherheit-ein-solides-fundament-benoetigt-4890/?source=hbsadersatz"
     },
     {
       "title": "Bundeskartellamt: Vodafone hat 1&1 beim 5G-Netzaufbau behindert",
@@ -434,12 +439,6 @@
       "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
       "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-10339773.html",
       "image_title": "Workshop Mobile Device Management mit Intune"
-    },
-    {
-      "title": "Developer Snapshots: Kleinere News der letzten Woche",
-      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Docker, CMake, Adminer, R, Crystal, Wine, Auth0, JetBrains und Rust.",
-      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-letzten-Woche-10348424.html",
-      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "Neuer Mainframe von IBM – und natürlich mit KI",
@@ -634,16 +633,16 @@
       "image_title": "iPad 11"
     },
     {
-      "title": "Günstiger, flacher, lauterAirTag-Alternativen mit Apples „Wo ist?“ im Test",
-      "teaser": "Bluetooth-Tracker für Apples \"Wo ist?\"-Netzwerk gibt es von anderen Herstellern teilweise zum Bruchteil des Preises eines AirTags. Was taugen sie? Unser Test.",
-      "url": "https://www.heise.de/tests/AirTag-Alternativen-im-Test-Es-muss-nicht-immer-Apple-sein-10335077.html",
-      "image_title": "AirTag-Alternativen"
-    },
-    {
       "title": "Entfesselter SoundAirPods Max mit Audio-Update im Test",
       "teaser": "Per Update wertet Apple die USB-C-Version der AirPods Max auf: Musik lässt sich nun endlich per Kabel abspielen, sogar in verlustfreier Qualität. Lohnt sich's?",
       "url": "https://www.heise.de/tests/Entfesselter-Sound-AirPods-Max-mit-neuem-USB-C-Audio-Update-im-Test-10343781.html",
       "image_title": "Apple AirPods Max mit USB-C-Kabel am Mac"
+    },
+    {
+      "title": "Gadget InspectorSmarter Präsenzsensor, iPad-Ständer, Batteriehülle für AirTags, Audio-Streamer",
+      "teaser": "Hersteller und Händler bieten allerlei Zubehör für Apple-Produkte an. Mac & i wirft regelmäßig einen kritischen Blick auf Gadgets – von cool bis Kernschrott.",
+      "url": "https://www.heise.de/tests/Gadget-Inspector-Smarter-Praesenzsensor-langlebige-AirTags-und-mehr-10327186.html",
+      "image_title": "Gadget-Inspector-Logo."
     },
     {
       "title": "Sommerlaune: Klimaschutz und Elektronik, Spaß und Fortbildung",
@@ -652,21 +651,15 @@
       "image_title": "Bunte Szene mit Menschen die Spaß an Elektronik haben"
     },
     {
-      "title": "Neue tragbare Technologie simuliert realistische Berührungen",
-      "teaser": "Forscher haben ein System entwickelt, das komplexe taktile Rückmeldungen wie Kneifen, Dehnen und Klopfen simuliert, was ein realistischeres Erlebnis bietet.",
-      "url": "https://www.heise.de/news/Neue-tragbare-Technologie-simuliert-realistische-Beruehrungen-10347853.html"
-    },
-    {
-      "title": "Kostenlose E-CAD-Programme im Vergleich",
-      "teaser": "Eine Platine schafft eine stabile Basis für die Elektronik eines Projekts. Wir geben eine Übersicht über die richtige Software für das Erstellen von PCBs.",
-      "url": "https://www.heise.de/ratgeber/Kostenlose-E-CAD-Programme-im-Vergleich-10321246.html",
+      "title": "Wie Maker-Skills in der Schule gefördert werden – ein Erfahrungsbericht",
+      "teaser": "Probleme lösen, Ideen entwickeln und Prototypen bauen: An der Wilhelm-August-Lay-Schule in Bötzingen gehören Maker-Skills fest zum Informatikunterricht.",
+      "url": "https://www.heise.de/ratgeber/Wie-Maker-Skills-in-der-Schule-gefoerdert-werden-ein-Erfahrungsbericht-10299421.html",
       "image_title": ","
     },
     {
-      "title": "Selbstporträt per KI – So versetzen Sie sich in fantastische Welten",
-      "teaser": "Willkommen in der Königsklasse der KI-Bildgenerierung. In der digitalen Welt der unbegrenzten Möglichkeiten können Sie auf einem Wal durch die Wolken fliegen.",
-      "url": "https://www.heise.de/ratgeber/Selbstportraet-per-KI-So-versetzen-Sie-sich-in-fantastische-Welten-10348857.html",
-      "image_title": "Ein Ritt auf dem fliegenden Wal – solche Traumwelten sind mit KI schnell erstellt. Sich selbst darin wiederzufinden, erfordert jedoch Aufwand.,"
+      "title": "Neue tragbare Technologie simuliert realistische Berührungen",
+      "teaser": "Forscher haben ein System entwickelt, das komplexe taktile Rückmeldungen wie Kneifen, Dehnen und Klopfen simuliert, was ein realistischeres Erlebnis bietet.",
+      "url": "https://www.heise.de/news/Neue-tragbare-Technologie-simuliert-realistische-Beruehrungen-10347853.html"
     },
     {
       "title": "Canva Visual Suite 2.0 mit KI-gestützter Tabellenkalkulation",
@@ -683,6 +676,11 @@
       "teaser": "Mit dem richtigen Equipment und der passenden Herangehensweise ist Sportfotografie gar nicht so schwer.",
       "url": "https://www.heise.de/ratgeber/Wie-Sportfotografie-fuer-Einsteiger-gelingt-10292833.html",
       "image_title": ", Alle Bilder: Tom Leon Zacharek , Location: Gran Turismo Cup Race / Nürburgring"
+    },
+    {
+      "title": "Nikons Plattformierung und noch ein Leica-Klon – Fotonews der Woche 14/2025",
+      "teaser": "Die neue Vollformat-Z hat die CPU des Flaggschiffs, und ein Kickstarter-Projekt will wie eine Leica aussehen – aber nicht bei der Bildqualität.",
+      "url": "https://www.heise.de/news/Nikons-Plattformierung-und-noch-ein-Leica-Klon-Fotonews-der-Woche-14-2025-10341032.html"
     },
     {
       "title": "Verschiedene Formate von Sprachmodellen im Überblick",
@@ -759,6 +757,12 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Christlicher Fundamentalismus ist bei jungen Menschen wieder angesagt",
+      "teaser": "Ein neuer christlicher Fundamentalismus ist auch in Europa angekommen. Finanzstarke Thinktanks vernetzen rechte Politiker und fundamentalistische Christen.",
+      "url": "https://www.heise.de/tp/features/Christlicher-Fundamentalismus-ist-bei-jungen-Menschen-wieder-angesagt-10348412.html",
+      "image_title": "KI-generierte Illsutration zeigt einen bärtigen Mann vor einer Amerika-Karte mit einem Kreuz in der Hand"
+    },
+    {
       "title": "Saugroboter werden zum Lebensretter für Senioren",
       "teaser": "Ein Drittel der über 65-Jährigen stürzt jährlich – oft mit schweren Folgen. Forscher statten Staubsauger mit Sturzerkennung aus. Wird das System den Notruf wählen?",
       "url": "https://www.heise.de/tp/features/Saugroboter-werden-zum-Lebensretter-fuer-Senioren-10343907.html",
@@ -769,11 +773,6 @@
       "teaser": "Mehrere Autohersteller schließen sich mit Tesla zusammen, um CO2-Grenzwerte einzuhalten. Durch Pooling lassen sich Strafzahlungen vermeiden. Doch was, wenn Teslas Verkäufe weiter sinken?",
       "url": "https://www.heise.de/tp/features/CO2-Pooling-Wie-Tesla-zur-Oeko-Bank-der-Autoindustrie-wird-10345670.html",
       "image_title": "E-Mobil umschlingt Verberenner mit dem Stromkabel"
-    },
-    {
-      "title": "Karriere beim Militär: Die Bundeswehr verharmlost die Realität des Soldatenberufs",
-      "teaser": "Bundeswehr wirbt mit Slogan \"Du willst immer nur mehr\". Kampagne zielt auf junge Menschen zwischen 17 und 35 Jahren. Doch was verbirgt sich hinter der coolen Fassade? Kommentar.",
-      "url": "https://www.heise.de/tp/features/Karriere-beim-Militaer-Die-Bundeswehr-verharmlost-die-Realitaet-des-Soldatenberufs-10349623.html"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
