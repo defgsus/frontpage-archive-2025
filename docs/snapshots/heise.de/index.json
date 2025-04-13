@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-13T07:08:50",
+  "timestamp": "2025-04-13T08:11:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Der schnelle Weg zum zertifizierten Softwarearchitekten (CPSA-F)",
+      "url": "https://www.heise.de/news/iX-Workshop-Der-schnelle-Weg-zum-zertifizierten-Softwarearchitekten-CPSA-F-10339785.html"
+    },
     {
       "title": "Missing Link: \"Der große Plan\"",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Der-grosse-Plan-10349992.html"
@@ -60,10 +64,6 @@
     {
       "title": "Telekom-Vertreter bekommen Hausverbot von der Deutsche Wohnen",
       "url": "https://www.heise.de/news/Hausverbot-fuer-Telekom-Vertreter-Deutsche-Wohnen-stoppt-Glasfaser-Verkaeufer-10349867.html"
-    },
-    {
-      "title": "Soundcore Liberty 4 im Test: Für 70 Euro gibt es kaum bessere In-Ear-Kopfhörer",
-      "url": "https://www.heise.de/bestenlisten/testbericht/in-ear-kopfhoerer-soundcore-liberty-4-im-test/vfltv5q#id-0-soundcore-liberty-4-im-test-fur-70-euro-gibt-es-kaum-bessere-in-ear-kopfhorer"
     },
     {
       "title": "HackathonIRS und DOGE wollen Steuerdaten der US-Bürger in Palantir heben",
@@ -186,21 +186,27 @@
       "url": "https://www.heise.de/news/Notion-Alternative-Anytype-Schoener-sicherer-offline-first-10349463.html"
     },
     {
+      "title": "iX-Workshop: Der schnelle Weg zum zertifizierten Softwarearchitekten (CPSA-F)",
+      "teaser": "Werden Sie zum Certified Professional for Software Architecture (CPSA). Online Intensiv-Schulung mit anschließender iSAQB-Zertifizierung.",
+      "url": "https://www.heise.de/news/iX-Workshop-Der-schnelle-Weg-zum-zertifizierten-Softwarearchitekten-CPSA-F-10339785.html",
+      "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
+    },
+    {
       "title": "Missing Link: \"Der große Plan\"",
       "teaser": "Elon Musk gilt als Prototyp des egomanischen und skrupellosen Tech-Unternehmers. Doch hinter seinen Eskapaden steckt wahrscheinlich eine toxische Ideologie.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Der-grosse-Plan-10349992.html",
       "image_title": "Elon Musk"
     },
     {
+      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
+      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Kostenlose E-CAD-Programme im Vergleich",
       "teaser": "Eine Platine schafft eine stabile Basis für die Elektronik eines Projekts. Wir geben eine Übersicht über die richtige Software für das Erstellen von PCBs.",
       "url": "https://www.heise.de/ratgeber/Kostenlose-E-CAD-Programme-im-Vergleich-10321246.html",
       "image_title": ","
-    },
-    {
-      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
-      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Balkonkraftwerk mit Speicher im Test – nachrüsten oder im Set",
@@ -229,12 +235,6 @@
       "title": "Soundcore Liberty 4 im Test: Für 70 Euro gibt es kaum bessere In-Ear-Kopfhörer",
       "teaser": "Die kompakten Soundcore Liberty 4 bieten High-Res-Klang, Spatial Audio, ANC und sogar Pulsmessung. Wir zeigen, wie alltagstauglich das Paket ist.",
       "url": "https://www.heise.de/bestenlisten/testbericht/in-ear-kopfhoerer-soundcore-liberty-4-im-test/vfltv5q?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-0-soundcore-liberty-4-im-test-fur-70-euro-gibt-es-kaum-bessere-in-ear-kopfhorer"
-    },
-    {
-      "title": "UpdateGerüchte über Redesign für watchOS zusammen mit iOS 19",
-      "teaser": "Apple will angeblich nicht nur iOS 19, iPadOS 19 und macOS 16 ein Redesign verpassen, sondern auch dem Apple-Watch-Betriebssystem. Wird es an iOS angenähert?",
-      "url": "https://www.heise.de/news/Geruechte-ueber-Redesign-fuer-watchOS-zusammen-mit-iOS-19-10348026.html",
-      "image_title": "Apple Watch am Handgelenk"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -299,6 +299,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "UpdateGerüchte über Redesign für watchOS zusammen mit iOS 19",
+      "teaser": "Apple will angeblich nicht nur iOS 19, iPadOS 19 und macOS 16 ein Redesign verpassen, sondern auch dem Apple-Watch-Betriebssystem. Wird es an iOS angenähert?",
+      "url": "https://www.heise.de/news/Geruechte-ueber-Redesign-fuer-watchOS-zusammen-mit-iOS-19-10348026.html",
+      "image_title": "Apple Watch am Handgelenk"
     },
     {
       "title": "Bundeskartellamt: Vodafone hat 1&1 beim 5G-Netzaufbau behindert",
@@ -369,15 +375,15 @@
       "url": "https://www.heise.de/hintergrund/Von-Erdgas-zu-Wasserstoff-Wo-Deutschlands-Speicherumbau-derzeit-steht-10297630.html"
     },
     {
+      "title": "APIs effektiv absichern - Bedrohungen und Gegenmaßnahmen",
+      "teaser": "APIs sind das Herzstück moderner Anwendungen - und damit auch beliebtes Angriffsziel. Im Live-Webcast am 15.5. um 11 Uhr erläutert Sven Müller von Radware die wichtigsten Risiken und effektive Schutzmaßnahmen.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/geschaeftskritische-apis-effektiv-absichern-aktuelle-bedrohungen-und-gegenmassnahmen-4908/?source=hbsad-ersatz"
+    },
+    {
       "title": "Altstädte, Silhouetten-Spiele und leuchtende Farben: Die Bilder der Woche 14",
       "teaser": "Unsere Galeriefotografen fangen die besonderen Momente des Lebens ein und nicht immer erzählt das scheinbare Hauptmotiv die eigentliche Geschichte.",
       "url": "https://www.heise.de/news/Altstaedte-Silhouetten-Spiele-und-leuchtende-Farben-Die-Bilder-der-Woche-14-10338149.html",
       "image_title": "Blüte von Blume"
-    },
-    {
-      "title": "Migration auf Windows 11 – so finden Unternehmen die richtige Hardware",
-      "teaser": "Im Oktober 2025 endet der Support für Windows 10. Unternehmen sollten deshalb möglichst bald auf Windows 11 umsteigen. Die Wahl der Hardwareplattform ist dabei ein entscheidender Erfolgsfaktor.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/migration-auf-windows-11-so-finden-unternehmen-die-richtige-hardware-4877/?source=hbsadersatz"
     },
     {
       "title": "Anker Solix Solarbank 3 Pro im Test: Bidirektional, KI & bis zu 16 kWh",
@@ -428,11 +434,6 @@
       "teaser": "Smart-Glasses für die Navigation statt Head-up-Display oder Infotainment-Display. In Googles Android Auto sind entsprechende Hinweise entdeckt worden.",
       "url": "https://www.heise.de/news/Android-Auto-Google-arbeitet-an-Naivigationshinweisen-per-Smart-Glasses-10348986.html",
       "image_title": "Google arbeitet seit Jahren an AR-Brillen – 2020 hat der Hersteller dafür das Startup North übernommen"
-    },
-    {
-      "title": "KI-Update Deep-Dive: Meta und die EU-Regulierung",
-      "teaser": "Meta bringt KI-Produkte erst verzögert in die EU. Nicht die Gesetze seien per se schwierig, eher die zu vielen Ansprechpartner.",
-      "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Meta-und-die-EU-Regulierung-10344541.html"
     },
     {
       "title": "Neuer Mainframe von IBM – und natürlich mit KI",
@@ -611,10 +612,9 @@
       "url": "https://www.heise.de/tests/Forderndes-Puzzle-Roguelike-c-t-zockt-spielt-Uncle-Chop-s-Rocket-Shop-10348116.html"
     },
     {
-      "title": "c’t-Story: Yakar darf nicht sterben",
-      "teaser": "Friedliches Zusammenleben beruht auf einer fragilen Balance von Gegensätzen. Diese Balance zu erhalten, ist den Schweiß der besten Forscher wert.",
-      "url": "https://www.heise.de/hintergrund/c-t-Story-Yakar-darf-nicht-sterben-10321988.html",
-      "image_title": "c’t-Story: Yakar darf nicht sterben"
+      "title": "c't 3003Anytype statt Notion: Schöner, sicherer, offline-first",
+      "teaser": "Der Zettelkasten Notion hat einen riesigen Hype ausgelöst. Anytype will vieles besser machen, unter anderem die Datensicherheit.",
+      "url": "https://www.heise.de/news/Notion-Alternative-Anytype-Schoener-sicherer-offline-first-10349463.html"
     },
     {
       "title": "c’t uplinkWie SB-Kassen funktionieren",
@@ -628,16 +628,16 @@
       "image_title": "iPad 11"
     },
     {
-      "title": "Günstiger, flacher, lauterAirTag-Alternativen mit Apples „Wo ist?“ im Test",
-      "teaser": "Bluetooth-Tracker für Apples \"Wo ist?\"-Netzwerk gibt es von anderen Herstellern teilweise zum Bruchteil des Preises eines AirTags. Was taugen sie? Unser Test.",
-      "url": "https://www.heise.de/tests/AirTag-Alternativen-im-Test-Es-muss-nicht-immer-Apple-sein-10335077.html",
-      "image_title": "AirTag-Alternativen"
-    },
-    {
       "title": "Entfesselter SoundAirPods Max mit Audio-Update im Test",
       "teaser": "Per Update wertet Apple die USB-C-Version der AirPods Max auf: Musik lässt sich nun endlich per Kabel abspielen, sogar in verlustfreier Qualität. Lohnt sich's?",
       "url": "https://www.heise.de/tests/Entfesselter-Sound-AirPods-Max-mit-neuem-USB-C-Audio-Update-im-Test-10343781.html",
       "image_title": "Apple AirPods Max mit USB-C-Kabel am Mac"
+    },
+    {
+      "title": "Gadget InspectorSmarter Präsenzsensor, iPad-Ständer, Batteriehülle für AirTags, Audio-Streamer",
+      "teaser": "Hersteller und Händler bieten allerlei Zubehör für Apple-Produkte an. Mac & i wirft regelmäßig einen kritischen Blick auf Gadgets – von cool bis Kernschrott.",
+      "url": "https://www.heise.de/tests/Gadget-Inspector-Smarter-Praesenzsensor-langlebige-AirTags-und-mehr-10327186.html",
+      "image_title": "Gadget-Inspector-Logo."
     },
     {
       "title": "Wie Maker-Skills in der Schule gefördert werden – ein Erfahrungsbericht",
@@ -657,6 +657,12 @@
       "image_title": ","
     },
     {
+      "title": "Selbstporträt per KI – So versetzen Sie sich in fantastische Welten",
+      "teaser": "Willkommen in der Königsklasse der KI-Bildgenerierung. In der digitalen Welt der unbegrenzten Möglichkeiten können Sie auf einem Wal durch die Wolken fliegen.",
+      "url": "https://www.heise.de/ratgeber/Selbstportraet-per-KI-So-versetzen-Sie-sich-in-fantastische-Welten-10348857.html",
+      "image_title": "Ein Ritt auf dem fliegenden Wal – solche Traumwelten sind mit KI schnell erstellt. Sich selbst darin wiederzufinden, erfordert jedoch Aufwand.,"
+    },
+    {
       "title": "Canva Visual Suite 2.0 mit KI-gestützter Tabellenkalkulation",
       "teaser": "Die Canva Visual Suite 2.0 bringt eine Tabellenkalkulation, eine Bildbearbeitung und eine Programmierumgebung, das alles unterstützt von KI-Werkzeugen.",
       "url": "https://www.heise.de/news/Canva-Visual-Suite-2-0-bessere-Uebersicht-und-mehr-KI-Tools-10344459.html"
@@ -671,11 +677,6 @@
       "teaser": "Mit dem richtigen Equipment und der passenden Herangehensweise ist Sportfotografie gar nicht so schwer.",
       "url": "https://www.heise.de/ratgeber/Wie-Sportfotografie-fuer-Einsteiger-gelingt-10292833.html",
       "image_title": ", Alle Bilder: Tom Leon Zacharek , Location: Gran Turismo Cup Race / Nürburgring"
-    },
-    {
-      "title": "Nikons Plattformierung und noch ein Leica-Klon – Fotonews der Woche 14/2025",
-      "teaser": "Die neue Vollformat-Z hat die CPU des Flaggschiffs, und ein Kickstarter-Projekt will wie eine Leica aussehen – aber nicht bei der Bildqualität.",
-      "url": "https://www.heise.de/news/Nikons-Plattformierung-und-noch-ein-Leica-Klon-Fotonews-der-Woche-14-2025-10341032.html"
     },
     {
       "title": "Verschiedene Formate von Sprachmodellen im Überblick",
@@ -752,21 +753,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Karriere beim Militär: Die Bundeswehr verharmlost die Realität des Soldatenberufs",
-      "teaser": "Bundeswehr wirbt mit Slogan \"Du willst immer nur mehr\". Kampagne zielt auf junge Menschen zwischen 17 und 35 Jahren. Doch was verbirgt sich hinter der coolen Fassade? Kommentar.",
-      "url": "https://www.heise.de/tp/features/Karriere-beim-Militaer-Die-Bundeswehr-verharmlost-die-Realitaet-des-Soldatenberufs-10349623.html"
+      "title": "Gesund alt werden: Mit dieser Ernährung klappt's am besten",
+      "teaser": "Wer gesund alt werden will, sollte auf seine Ernährung achten. Eine neue Studie zeigt, welche Diäten besonders vielversprechend sind. Zwei stechen dabei hervor.",
+      "url": "https://www.heise.de/tp/features/Gesund-alt-werden-Mit-dieser-Ernaehrung-klappt-s-am-besten-10349836.html",
+      "image_title": "Gesundheitslebensmittel-Konzept für eine hohe Faserdiät mit Obst, Gemüse, Getreide, Weizenpasta, Körner, Hülsenfrüchten und Kräuter. Lebensmittel mit hohem Gehalt an Anthocyane, Antioxidantien, intelligenten Kohlenhydraten und Vitaminen."
     },
     {
-      "title": "7 Gewohnheiten, die Ihre Nieren ruinieren können",
-      "teaser": "Millionen Deutsche leiden an chronischen Nierenkrankheiten, doch das Problem bleibt oft unbeachtet. Diese Gewohnheiten können den lebenswichtigen Organen schaden?",
-      "url": "https://www.heise.de/tp/features/7-Gewohnheiten-die-Ihre-Nieren-ruinieren-koennen-10348764.html",
-      "image_title": "Mann, der zu Hause an Nierenschmerzen leidet, Nahaufnahme"
+      "title": "\"PayPal-Mafia\": Wie Apartheid und Nazi-Verehrung die Trump-Oligarchen Musk, Thiel prägten",
+      "teaser": "Ist es Zufall, dass Paypal-Gründer wie Elon Musk und Peter Thiel in Südafrika aufwuchsen? Über Musks Neonazi-Großvater und Hitler-Grüße in Thiels Kindheit.",
+      "url": "https://www.heise.de/tp/features/PayPal-Mafia-Wie-Apartheid-und-Nazi-Verehrung-die-Trump-Oligarchen-Musk-Thiel-praegten-10349561.html",
+      "image_title": "Peter Thiel und Elon Musk, in der Mitte das Neonazi-Logo der Afrikaner Aufstandsbeweging"
     },
     {
-      "title": "Christlicher Fundamentalismus ist bei jungen Menschen wieder angesagt",
-      "teaser": "Ein neuer christlicher Fundamentalismus ist auch in Europa angekommen. Finanzstarke Thinktanks vernetzen rechte Politiker und fundamentalistische Christen.",
-      "url": "https://www.heise.de/tp/features/Christlicher-Fundamentalismus-ist-bei-jungen-Menschen-wieder-angesagt-10348412.html",
-      "image_title": "KI-generierte Illsutration zeigt einen bärtigen Mann vor einer Amerika-Karte mit einem Kreuz in der Hand"
+      "title": "Vergessen Sie Stonehenge! Das hier ist Britanniens wahres Ur-Monument",
+      "teaser": "Steinzeit-Struktur neu untersucht. Riesiger Kreisgraben ist älter als Stonehenge. Spoiler: Spuren von Außerirdischen und deren Ufos wurden nicht gefunden.",
+      "url": "https://www.heise.de/tp/features/Vergessen-Sie-Stonehenge-Das-hier-ist-Britanniens-wahres-Ur-Monument-10348959.html",
+      "image_title": "Steinkreise in Dorchester"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
