@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-15T02:24:01",
+  "timestamp": "2025-04-15T03:31:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Chipolo-Tracker unterstützt Apples \"Wo ist?\" und Googles \"Mein Gerät suchen\"",
+      "url": "https://www.heise.de/news/Chipolo-Tracker-unterstuetzt-Apples-Wo-ist-und-Googles-Mein-Geraet-suchen-10351815.html"
+    },
     {
       "title": "Meta Platforms füttert die Daten europäischer Kunden seiner KI",
       "url": "https://www.heise.de/news/Meta-Platforms-fuettert-die-Daten-europaeischer-Kunden-seiner-KI-10351900.html"
@@ -60,10 +64,6 @@
     {
       "title": "KI-Zugang nur mit Verifikation: OpenAI schränkt Nutzung für Firmenkunden ein",
       "url": "https://www.heise.de/news/KI-Zugang-nur-mit-Verifikation-OpenAI-schraenkt-Nutzung-fuer-Firmenkunden-ein-10350733.html"
-    },
-    {
-      "title": "World Quantum Day: Aktueller Stand der Entwicklung von Quantencomputern",
-      "url": "https://www.heise.de/hintergrund/World-Quantum-Day-Aktueller-Stand-der-Entwicklung-von-Quantencomputern-10349382.html"
     },
     {
       "title": "Achtung Feldhamster!Intel gibt Magdeburger Bauland für Mais und Sonnenblumen frei",
@@ -184,21 +184,27 @@
       "url": "https://www.heise.de/news/Apples-Finanzchef-soll-Beschaffung-von-GPUs-blockiert-haben-10350256.html"
     },
     {
+      "title": "Chipolo-Tracker unterstützt Apples \"Wo ist?\" und Googles \"Mein Gerät suchen\"",
+      "teaser": "Der europäische Hersteller Chipolo bringt mit dem POP einen Bluetooth-Tracker, der flexibel zwischen den Plattformen wechselt.",
+      "url": "https://www.heise.de/news/Chipolo-Tracker-unterstuetzt-Apples-Wo-ist-und-Googles-Mein-Geraet-suchen-10351815.html",
+      "image_title": "Tracker Chipolo POP in verschiedenen Farben"
+    },
+    {
       "title": "Meta Platforms füttert die Daten europäischer Kunden seiner KI",
       "teaser": "Meta Platforms nimmt das Training seiner KI-Modelle mit Daten aus der EU wieder auf. Wer seine Daten nicht spenden möchte, muss tätig werden.",
       "url": "https://www.heise.de/news/Meta-Platforms-fuettert-die-Daten-europaeischer-Kunden-seiner-KI-10351900.html",
       "image_title": "Meta-Logo und Kopf eines weiblichen Roboters"
     },
     {
+      "title": "Das volle Potenzial Ihrer Geschäftsdaten nutzen",
+      "teaser": "Mehr als die Hälfte der Unternehmensdaten bleibt ungenutzt, und die Menge der erzeugten Daten steigt jährlich enorm an. Diese Diskrepanz verdeutlicht, wie notwendig ein effektives Datenmanagement ist.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6952500608&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Milliardendeal: Intel macht Kasse zur Überwindung seiner Krise",
       "teaser": "Intel verkauft Mehrheitsbeteiligung am FGPA-Spezialisten Altera für 4,46 Milliarden US-Dollar. Der Deal ist Teil der Strategie zur Verschlankung des Konzerns.",
       "url": "https://www.heise.de/news/Intel-Milliardengeschaeft-gegen-die-Krise-10351864.html",
       "image_title": "Schild mit Intel-Logo am Firmensitz"
-    },
-    {
-      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
-      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Pornhub & Co.: Frankreich greift bei Alterskontrollen für Porno-Seiten durch",
@@ -227,12 +233,6 @@
       "teaser": "In vielen kryptografischen Systemen kann man Verfahren umstellen. Dieses Prinzip der Kryptoagilität wird durch die Post-Quanten-Kryptografie immer wichtiger.",
       "url": "https://www.heise.de/hintergrund/Kryptoagilitaet-und-Post-Quanten-Kryptografie-erklaert-10337485.html",
       "image_title": ", KI, Collage c’t"
-    },
-    {
-      "title": "KI-Zugang nur mit Verifikation: OpenAI schränkt Nutzung für Firmenkunden ein",
-      "teaser": "Künftig müssen sich Unternehmen bei OpenAI für den Zugriff auf KI-Modelle und Zusatzfunktionen verifizieren. Das soll vor missbräuchlicher Nutzung schützen.",
-      "url": "https://www.heise.de/news/KI-Zugang-nur-mit-Verifikation-OpenAI-schraenkt-Nutzung-fuer-Firmenkunden-ein-10350733.html",
-      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -267,8 +267,8 @@
       "url": "https://www.heise.de/hintergrund/Nerd-Trend-Digitaler-Garten-Die-eigene-Website-als-persoenliches-Wissensarchiv-10344169.html"
     },
     {
-      "title": "Smarte Küchenmaschine: Der neue Thermomix TM7 im Ersteindruck",
-      "url": "https://www.heise.de/tests/Smarte-Kuechenmaschine-Der-neue-Thermomix-TM7-im-Ersteindruck-10339355.html"
+      "title": "Pandas und Matplotlib: In Excel komplexe Berechnungen mit Python durchführen",
+      "url": "https://www.heise.de/ratgeber/Pandas-und-Matplotlib-In-Excel-komplexe-Berechnungen-mit-Python-durchfuehren-10335320.html"
     },
     {
       "title": "Apple AirTags: Batterielaufzeit, Flugzeugregeln, bewegte Objekte tracken,...",
@@ -297,6 +297,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "KI-Zugang nur mit Verifikation: OpenAI schränkt Nutzung für Firmenkunden ein",
+      "teaser": "Künftig müssen sich Unternehmen bei OpenAI für den Zugriff auf KI-Modelle und Zusatzfunktionen verifizieren. Das soll vor missbräuchlicher Nutzung schützen.",
+      "url": "https://www.heise.de/news/KI-Zugang-nur-mit-Verifikation-OpenAI-schraenkt-Nutzung-fuer-Firmenkunden-ein-10350733.html",
+      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
     },
     {
       "title": "World Quantum Day: Aktueller Stand der Entwicklung von Quantencomputern",
@@ -366,15 +372,15 @@
       "image_title": "iX-Workshop Docker und Kubernetes für die Cloud-native Softwareentwicklung"
     },
     {
+      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
+      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
+    },
+    {
       "title": "Stern nicht aufgebläht: Erster verschluckter Exoplanet kreiste in sein Ende",
       "teaser": "Vor zwei Jahren hieß es, dass erstmals beobachtet wurde, wie ein aufgeblähter Stern einen Exoplaneten verschluckt hat. Das hat so wohl doch nicht gestimmt.",
       "url": "https://www.heise.de/news/Erster-verschlungener-Exoplanet-doch-kein-Opfer-eines-augeblaehten-Sterns-10351142.html",
       "image_title": "Vier Bilder eines Sterns, mit PFeilen die eine enger werdende Umlaufbahn eines Planeten visualisieren. Am Ende wird der verschuckt und es entsteht eine ringförmige Gaswolke."
-    },
-    {
-      "title": "Mobile Workstations: Performance ohne Kompromisse",
-      "teaser": "Mobile Workstations sind oft ein Kompromiss. Leichte Geräte mit langer Akkulaufzeit sind in der Regel weniger leistungsfähig als Alternativen im Tower-Design, hohe Performance geht meist mit mehr Gewicht, größeren Abmessungen und kürzeren Laufzeiten einher. Warum das nicht so sein muss.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/mobile-workstations-performance-ohne-kompromisse-4886/?source=hbsadersatz"
     },
     {
       "title": "Identitätsmanagement: Mehr Sicherheit für Non-Human Identities",
@@ -428,9 +434,14 @@
       "image_title": "Computer vor Serverschränken, auf dem Dataleak steht, drumherum lungern Datendiebe"
     },
     {
-      "title": "Elektroauto: Transporter Nissan Interstar-e günstiger mit kleinem Akku",
-      "teaser": "Eine Version mit kleinerem Akku des Nissan Interstar-e bietet Nutzfahrzeugbetreibern mit geringem Reichweitenanspruch die Gelegenheit, am Preis zu sparen.",
-      "url": "https://www.heise.de/news/Elektroauto-Transporter-Nissan-Interstar-e-guenstiger-mit-kleinem-Akku-10350761.html"
+      "title": "Update außer der Reihe: Microsoft korrigiert Richtlinien-Anzeigefehler",
+      "url": "https://www.heise.de/news/Update-ausser-der-Reihe-Microsoft-korrigiert-Richtlinien-Anzeigefehler-10350530.html",
+      "image_title": "Ein Monitor zeigt das Windows-Logo und einen Fortschrittsbalken, davor rauft sich ein verzweifeltes Monster die Haare"
+    },
+    {
+      "title": "Aus Rache: Trump entzieht IT-Sicherheitsfirma Sicherheitsfreigaben",
+      "url": "https://www.heise.de/news/Vendetta-Trump-entzieht-IT-Sicherheitsfirma-Sicherheitsfreigaben-10348366.html",
+      "image_title": "Donald Trump vor US-Flagge"
     },
     {
       "title": "\"Trump-Effekt\" führt zu Nachfrage bei europäischen Cloud-Anbietern",
@@ -438,72 +449,60 @@
       "image_title": "Server mit überblendeter US-Flagge, im Hintergrund unscharf die EU-Flagge"
     },
     {
-      "title": "Hackathon: IRS und DOGE wollen Steuerdaten der US-Bürger in Palantir heben",
-      "url": "https://www.heise.de/news/Hackathon-IRS-und-DOGE-wollen-Steuerdaten-der-US-Buerger-in-Palantir-heben-10349796.html",
-      "image_title": "Palantir Logo"
-    },
-    {
-      "title": "Kawasaki verspricht reitbaren Roboter-Löwen als Offroad-Vehikel",
-      "url": "https://www.heise.de/news/Kawasaki-verspricht-reitbaren-Roboter-Loewen-als-Offroad-Vehikel-10342061.html"
-    },
-    {
-      "title": "Astronomie: Nachbargalaxie der Milchstraße wird offenbar zerrissen",
-      "url": "https://www.heise.de/news/Astronomie-Nachbargalaxie-der-Milchstrasse-wird-offenbar-zerrissen-10348772.html",
-      "image_title": "Sterne und die Milchstraé über einem Teleskop, das einen Laser nach oben strahlt."
-    },
-    {
       "title": "Auf der Titanic brannte bis zum Ende das Licht",
       "url": "https://www.heise.de/news/Aktuelle-Forschung-zeigt-neue-Details-zum-Untergang-der-Titanic-auf-10346624.html",
       "image_title": "Wrack der Titanic"
     },
     {
-      "title": "Check-in ade: Luftfahrtbranche will Abfertigung und Reisenachweis digitalisieren",
-      "url": "https://www.heise.de/news/Check-in-ade-Luftfahrtbranche-will-Abfertigung-und-Reisenachweis-digitalisieren-10349954.html",
-      "image_title": "Halbes Gesicht einer weißen Frau, darüber gelegt symbolische Rasterung"
+      "title": "NASA steht vor massiven Budgetkürzungen durch Trump-Regierung",
+      "url": "https://www.heise.de/news/NASA-steht-vor-massiven-Budgetkuerzungen-durch-Trump-Regierung-10350400.html",
+      "image_title": "Logo der NASA vor dem Kennedy-Space-Center"
     },
     {
-      "title": "Apple Foldable mit viel Platz angeblich 2026 in Produktion",
-      "url": "https://www.heise.de/news/Apple-Foldable-mit-viel-Platz-angeblich-2026-in-Produktion-10348022.html",
-      "image_title": "Ein Mann hält einen Finger auf einen faltbaren Bildschirm eines Smartphones oder Tablets."
+      "title": "Studie bestätigt: Digitale Medien bedrohen vor allem etablierte Demokratien",
+      "url": "https://www.heise.de/news/Studie-bestaetigt-Digitale-Medien-bedrohen-vor-allem-etablierte-Demokratien-10350525.html",
+      "image_title": "Viele Hände an Smartphones"
+    },
+    {
+      "title": "\"Interessiert sich für nichts anderes\": Apple-Chef Cook und die AR-Brille",
+      "url": "https://www.heise.de/news/Tim-Cook-Sein-Hauptprojekt-bleibt-die-Apple-Brille-10350414.html",
+      "image_title": "Tim Cook"
+    },
+    {
+      "title": "Fliegender Synchronisationswechsel: Apple ersetzt rsync durch openrsync",
+      "url": "https://www.heise.de/news/Fliegender-Synchronisationswechsel-Apple-ersetzt-rsync-durch-openrsync-10350428.html",
+      "image_title": "openrsync (Symbolbild)"
+    },
+    {
+      "title": "Nach ersten Gerüchten: Mehr Details zum Redesign von watchOS 12",
+      "url": "https://www.heise.de/news/watchOS-12-Designaenderungen-offenbar-bestaetigt-aber-nur-halbe-KI-10350340.html",
+      "image_title": "watchOS 12"
+    },
+    {
+      "title": "UpdateDer heise Osterkalender 2025: Täglich neue Angebote und Geschenke",
+      "url": "https://www.heise.de/news/Der-heise-Osterkalender-2025-Taeglich-neue-Angebote-und-Geschenke-10348292.html"
+    },
+    {
+      "title": "\"Marathon\": Bungies Ego-Shooter im ersten Trailer",
+      "url": "https://www.heise.de/news/Marathon-Neuer-Bungie-Shooter-erscheint-im-September-10350711.html",
+      "image_title": "Artwork zu \"Marathon\""
     },
     {
       "title": "Notion-Alternative Anytype: Schöner, sicherer, offline-first",
       "url": "https://www.heise.de/news/Notion-Alternative-Anytype-Schoener-sicherer-offline-first-10349463.html"
     },
     {
-      "title": "Bericht: Erster großer Apple-Fertiger will in die USA kommen",
-      "url": "https://www.heise.de/news/Bericht-Erster-grosser-Apple-Fertiger-will-in-die-USA-kommen-10346651.html",
-      "image_title": "Gebäude von Luxshare ICT"
+      "title": "Neue US-Zölle für Elektronik und Medikamente kommen bis spätestens Juni",
+      "url": "https://www.heise.de/news/Neue-US-Zoelle-fuer-Elektronik-und-Medikamente-kommen-bis-spaetestens-Juni-10350382.html"
     },
     {
-      "title": "Youtube Premium Lite kann ab sofort in Deutschland gebucht werden",
-      "url": "https://www.heise.de/news/Youtube-Premium-Lite-kann-ab-sofort-in-Deutschland-gebucht-werden-10347672.html",
-      "image_title": "Warsaw,,Poland,-,10.06.2020:,Youtube,App,On,The,Smartphone.,Youtube"
-    },
-    {
-      "title": "VR-Erfahrungen für Senioren dürfen nicht zu wild sein",
-      "url": "https://www.heise.de/news/Virtuelle-Realitaet-fuer-neue-Horizonte-in-der-Altenpflege-10348626.html",
-      "image_title": "Seerobbenstation"
-    },
-    {
-      "title": "Netflix testet Suchfunktion mit OpenAI-Technologie",
-      "url": "https://www.heise.de/news/Netflix-testet-Suchfunktion-mit-OpenAI-Technologie-10350120.html",
-      "image_title": "Das Netflix-Logo wird auf einem Laptop-Bildschirm angezeigt."
-    },
-    {
-      "title": "USA machen bei Elektronikprodukten Zoll-Ausnahme",
-      "url": "https://www.heise.de/news/USA-machen-bei-Elektronikprodukten-Zoll-Ausnahme-10349909.html",
-      "image_title": "Containerhafen"
+      "title": "Elektroauto: Transporter Nissan Interstar-e günstiger mit kleinem Akku",
+      "url": "https://www.heise.de/news/Elektroauto-Transporter-Nissan-Interstar-e-guenstiger-mit-kleinem-Akku-10350761.html"
     },
     {
       "title": "Bundeskartellamt: Vodafone hat 1&1 beim 5G-Netzaufbau behindert",
       "url": "https://www.heise.de/news/Bundeskartellamt-Vodafone-hat-1-1-beim-5G-Netzaufbau-behindert-10349810.html",
       "image_title": "Ein Techniker in Schutzkleidung führt Arbeiten an der Spitze eines Antennenmastes mit Mobilfunkantennen aus."
-    },
-    {
-      "title": "Interview: Digitale Souveränität ja – aber ohne Beschränkung auf Open-Source",
-      "url": "https://www.heise.de/hintergrund/Interview-Digitale-Souveraenitaet-ja-aber-ohne-Beschraenkung-auf-Open-Source-10349332.html",
-      "image_title": "Server mit überblendeter US-Flagge, im Hintergrund unscharf die EU-Flagge"
     },
     {
       "title": "Verdacht auf DSGVO-Verstöße: Irische Datenschützer prüfen Musks KI-Modell Grok",
@@ -516,9 +515,14 @@
       "image_title": "Blick vom Dach des Bundestages im Abendrot"
     },
     {
-      "title": "Aus Rache: Trump entzieht IT-Sicherheitsfirma Sicherheitsfreigaben",
-      "url": "https://www.heise.de/news/Vendetta-Trump-entzieht-IT-Sicherheitsfirma-Sicherheitsfreigaben-10348366.html",
-      "image_title": "Donald Trump vor US-Flagge"
+      "title": "Einst zwangen Nutzer die Plattform in die Knie: Jetzt wagt Digg den Neustart",
+      "url": "https://www.heise.de/news/Als-eine-Nutzerschaft-ihre-Content-Moderatoren-stuerzte-Digg-versucht-Neustart-10349123.html",
+      "image_title": "Blick durch eine Lupe auf das Digg-Logo, welches auf einem Bildschirm mit der Startseite des Portals angezeigt wird."
+    },
+    {
+      "title": "Montag: US-Regierung weiter für höhere Zölle, will NASA-Budget deutlich kürzen",
+      "url": "https://www.heise.de/news/Montag-US-Regierung-weiter-fuer-hoehere-Zoelle-will-NASA-Budget-deutlich-kuerzen-10350410.html",
+      "image_title": "Container-Schiff auf dem Meer vor niedrig stehender Sonne; Montag: Zoll-Drohungen, NASA-Einsparungen, Handy-Schulverbot, Vertreter-Hausverbot & Silicon-Valley-Ideologien"
     },
     {
       "title": "Schädliche Auswirkungen: Frankreich verschärft Handy-Verbot an Mittelschulen",
@@ -528,10 +532,6 @@
     {
       "title": "Wie SB-Kassen funktionieren | c’t uplink",
       "url": "https://www.heise.de/news/Wie-SB-Kassen-funktionieren-c-t-uplink-10348095.html"
-    },
-    {
-      "title": "Knappe Sony A1 II und eine Hochkant-Instax – die Fotonews der Woche 15/2025",
-      "url": "https://www.heise.de/news/Knappe-Sony-A1-II-und-eine-Hochkant-Instax-die-Fotonews-der-Woche-15-2025-10349139.html"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -578,35 +578,36 @@
       "url": "https://www.heise.de/multimediadatei/Frankreichs-Social-Kill-Switch-COBOL-Abloesung-Sommerzeit-heiseshow-10339677.html"
     },
     {
+      "title": "Kawasaki promises a rideable robot lion as an off-road vehicle",
+      "url": "https://www.heise.de/en/news/Kawasaki-promises-a-rideable-robot-lion-as-an-off-road-vehicle-10342076.html"
+    },
+    {
       "title": "More interest in European cloud providers due to the \"Trump effect\"",
       "url": "https://www.heise.de/en/news/More-interest-in-European-cloud-providers-due-to-the-Trump-effect-10349896.html",
       "image_title": "Server with superimposed US flag, the EU flag blurred in the background"
     },
     {
-      "title": "Kawasaki promises a rideable robot lion as an off-road vehicle",
-      "url": "https://www.heise.de/en/news/Kawasaki-promises-a-rideable-robot-lion-as-an-off-road-vehicle-10342076.html"
+      "title": "Trade war: China allegedly stops exports of several rare earths completely",
+      "url": "https://www.heise.de/en/news/Trade-war-China-allegedly-stops-exports-of-several-rare-earths-completely-10350479.html"
     },
     {
-      "title": "Instead of glassy macOS: Better make a \"Snow Sequoia\", Tim!",
-      "url": "https://www.heise.de/en/news/Instead-of-glassy-macOS-Better-make-a-Snow-Sequoia-Tim-10348493.html"
+      "title": "OpenSSH 10 relies on standards for quantum-safe key exchange",
+      "url": "https://www.heise.de/en/news/OpenSSH-10-relies-on-standards-for-quantum-safe-key-exchange-10346176.html"
     },
     {
-      "title": "OpenAI writes economic blueprint for the EU",
-      "url": "https://www.heise.de/en/news/OpenAI-writes-economic-blueprint-for-the-EU-10346806.html"
-    },
-    {
-      "title": "Hackathon: IRS and DOGE want to lift tax data of US citizens in Palantir",
-      "url": "https://www.heise.de/en/news/Hackathon-IRS-and-DOGE-want-to-lift-tax-data-of-US-citizens-in-Palantir-10349831.html"
-    },
-    {
-      "title": "Smart Meter: Schnittstelle für lokalen Datenabruf",
-      "teaser": "Bislang liefern Smart Meter ihren Nutzern kaum nützliche Daten. Eine einheitliche Schnittstelle für den lokalen Abruf soll das ändern.",
-      "url": "https://www.heise.de/hintergrund/Smart-Meter-Schnittstelle-fuer-lokalen-Datenabruf-10334463.html"
+      "title": "Framework agreement: MS-365 alternative OpenDesk to conquer the Bundeswehr",
+      "url": "https://www.heise.de/en/news/Framework-agreement-MS-365-alternative-OpenDesk-to-conquer-the-Bundeswehr-10342383.html"
     },
     {
       "title": "So stellen Sie Musik- und Heimkino-Anlagen richtig ein",
       "teaser": "Messautomatiken sind nur die halbe Miete, um Ihren AV-Verstärker zu justieren. Wir erklären, mit welchen zusätzlichen Methoden Sie den besten Sound herausholen.",
       "url": "https://www.heise.de/ratgeber/So-stellen-Sie-Musik-und-Heimkino-Anlagen-richtig-ein-10323337.html"
+    },
+    {
+      "title": "Preiswerte AM5-Boards mit B840- und B850-Chipsatz im Test",
+      "teaser": "Hinter AMDs 800er-Chipsätzen stecken alte Bekannte. Die bezahlbaren B840- und B850-Mainboards sind wegen schnellerem WLAN und Ethernet dennoch einen Blick wert.",
+      "url": "https://www.heise.de/tests/Preiswerte-AM5-Boards-mit-B840-und-B850-Chipsatz-im-Test-10332311.html",
+      "image_title": ","
     },
     {
       "title": "Besser als Soundbars: So verwandeln Sie quäkigen TV-Ton in vollen Heimkinosound",
@@ -620,16 +621,16 @@
       "image_title": "AirTag-Alternativen"
     },
     {
-      "title": "Entfesselter SoundAirPods Max mit Audio-Update im Test",
-      "teaser": "Per Update wertet Apple die USB-C-Version der AirPods Max auf: Musik lässt sich nun endlich per Kabel abspielen, sogar in verlustfreier Qualität. Lohnt sich's?",
-      "url": "https://www.heise.de/tests/Entfesselter-Sound-AirPods-Max-mit-neuem-USB-C-Audio-Update-im-Test-10343781.html",
-      "image_title": "Apple AirPods Max mit USB-C-Kabel am Mac"
-    },
-    {
       "title": "Gut & günstig?Das neue Einsteiger-iPad im Test",
       "teaser": "Das iPad 11 hat doppelt so viel Speicher und einen schnelleren Chip als das 2022er, kostet aber trotzdem nur 400 Euro.",
       "url": "https://www.heise.de/tests/Das-neue-Einsteiger-iPad-im-Test-Gut-guenstig-10336535.html",
       "image_title": "iPad 11"
+    },
+    {
+      "title": "Gadget InspectorSmarter Präsenzsensor, iPad-Ständer, Batteriehülle für AirTags, Audio-Streamer",
+      "teaser": "Hersteller und Händler bieten allerlei Zubehör für Apple-Produkte an. Mac & i wirft regelmäßig einen kritischen Blick auf Gadgets – von cool bis Kernschrott.",
+      "url": "https://www.heise.de/tests/Gadget-Inspector-Smarter-Praesenzsensor-langlebige-AirTags-und-mehr-10327186.html",
+      "image_title": "Gadget-Inspector-Logo."
     },
     {
       "title": "Sommerlaune: Klimaschutz und Elektronik, Spaß und Fortbildung",
@@ -638,21 +639,26 @@
       "image_title": "Bunte Szene mit Menschen die Spaß an Elektronik haben"
     },
     {
-      "title": "Wie Maker-Skills in der Schule gefördert werden – ein Erfahrungsbericht",
-      "teaser": "Probleme lösen, Ideen entwickeln und Prototypen bauen: An der Wilhelm-August-Lay-Schule in Bötzingen gehören Maker-Skills fest zum Informatikunterricht.",
-      "url": "https://www.heise.de/ratgeber/Wie-Maker-Skills-in-der-Schule-gefoerdert-werden-ein-Erfahrungsbericht-10299421.html",
-      "image_title": ","
-    },
-    {
       "title": "Neue tragbare Technologie simuliert realistische Berührungen",
       "teaser": "Forscher haben ein System entwickelt, das komplexe taktile Rückmeldungen wie Kneifen, Dehnen und Klopfen simuliert, was ein realistischeres Erlebnis bietet.",
       "url": "https://www.heise.de/news/Neue-tragbare-Technologie-simuliert-realistische-Beruehrungen-10347853.html"
+    },
+    {
+      "title": "Kostenlose E-CAD-Programme im Vergleich",
+      "teaser": "Eine Platine schafft eine stabile Basis für die Elektronik eines Projekts. Wir geben eine Übersicht über die richtige Software für das Erstellen von PCBs.",
+      "url": "https://www.heise.de/ratgeber/Kostenlose-E-CAD-Programme-im-Vergleich-10321246.html",
+      "image_title": ","
     },
     {
       "title": "Vorhang auf: Neue Folge Click Boom Flash \"Theater- und Filmfotografie\"",
       "teaser": "\"Der Nachbearbeitungsspielraum ist extrem gering. Du musst einfach wissen, welcher Knopf an deiner Kamera was macht\", sagt Axel Lauer über Theaterfotografie.",
       "url": "https://www.heise.de/news/Vorhang-auf-Neue-Folge-Click-Boom-Flash-Theater-und-Filmfotografie-10347796.html",
       "image_title": "Bühnenmoment am Staatsballett Berlin"
+    },
+    {
+      "title": "Knappe Sony A1 II und eine Hochkant-Instax – die Fotonews der Woche 15/2025",
+      "teaser": "Sonys Presse-Flaggschiff wird immer rarer, Fujis neue Sofortbild-Knipse setzt voll auf Retro, und Nikons Zf bekommt ein großes Update.",
+      "url": "https://www.heise.de/news/Knappe-Sony-A1-II-und-eine-Hochkant-Instax-die-Fotonews-der-Woche-15-2025-10349139.html"
     },
     {
       "title": "Altstädte, Silhouetten-Spiele und leuchtende Farben: Die Bilder der Woche 14",
@@ -665,11 +671,6 @@
       "teaser": "Willkommen in der Königsklasse der KI-Bildgenerierung. In der digitalen Welt der unbegrenzten Möglichkeiten können Sie auf einem Wal durch die Wolken fliegen.",
       "url": "https://www.heise.de/ratgeber/Selbstportraet-per-KI-So-versetzen-Sie-sich-in-fantastische-Welten-10348857.html",
       "image_title": "Ein Ritt auf dem fliegenden Wal – solche Traumwelten sind mit KI schnell erstellt. Sich selbst darin wiederzufinden, erfordert jedoch Aufwand.,"
-    },
-    {
-      "title": "Canva Visual Suite 2.0 mit KI-gestützter Tabellenkalkulation",
-      "teaser": "Die Canva Visual Suite 2.0 bringt eine Tabellenkalkulation, eine Bildbearbeitung und eine Programmierumgebung, das alles unterstützt von KI-Werkzeugen.",
-      "url": "https://www.heise.de/news/Canva-Visual-Suite-2-0-bessere-Uebersicht-und-mehr-KI-Tools-10344459.html"
     },
     {
       "title": "Verschiedene Formate von Sprachmodellen im Überblick",
@@ -746,22 +747,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Nach Erdbebenserie auf Santorini: Ist die beliebte Touristeninsel noch sicher?",
+      "teaser": "Griechenland: Wochenlang bebte die Erde auf Santorini, inzwischen hat sich die Lage beruhigt. Welches Risiko besteht nach der Erdbebenserie?",
+      "url": "https://www.heise.de/tp/features/Nach-Erdbebenserie-auf-Santorini-Ist-die-beliebte-Touristeninsel-noch-sicher-10351052.html",
+      "image_title": "Touristen auf der griechischen Insel Santorini"
+    },
+    {
       "title": "Von Sumy bis Rakka: Die blutigen Spuren der Luftkriege",
       "teaser": "Luftangriffe fordern stets zivile Opfer. In Sumy starben jüngst 32 Menschen durch russische Raketen. Die Frage der Verantwortung ist komplex.",
       "url": "https://www.heise.de/tp/features/Von-Sumy-bis-Rakka-Die-blutigen-Spuren-der-Luftkriege-10351462.html",
       "image_title": "Zerstörte Kathedrale in Donezk, Ukraine"
     },
     {
-      "title": "Vom Küstenkind zum Chef-Diplomaten: Merz' Mann fürs Außenamt",
-      "teaser": "Der Koalitionsvertrag steht, das Personalkarussell dreht sich. Baerbocks Nachfolger steht in den Startlöchern: Was ein neuer Minister Wadephul bedeuten würde.",
-      "url": "https://www.heise.de/tp/features/Vom-Kuestenkind-zum-Chef-Diplomaten-Merz-Mann-fuers-Aussenamt-10351267.html",
-      "image_title": "Johann Wadephul und andere CDU-Mitglieder auf einem Podium"
-    },
-    {
-      "title": "Dümmer als Trump erlaubt? Europas fatale Fehleinschätzung",
-      "teaser": "In der Trump-Ära belächelte Europa die USA als rückständig. Die EU sah sich als Vorreiterin in Sachen Klimaschutz und Technologie. Doch wer lacht jetzt über wen?",
-      "url": "https://www.heise.de/tp/features/Duemmer-als-Trump-erlaubt-Europas-fatale-Fehleinschaetzung-10348954.html",
-      "image_title": "Vier mal Donald Trump vor Pfeile-Hintergrund"
+      "title": "Teure Tankfüllung: Wie Saudi-Arabien US-Steuerzahler an der Nase herumführt",
+      "teaser": "Ein Buchungsfehler im Jemenkrieg belastete die US-Steuerzahler. Bis heute weigert sich das Königreich beharrlich, 13,7 Millionen Dollar zu begleichen. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Teure-Tankfuellung-Wie-Saudi-Arabien-US-Steuerzahler-an-der-Nase-herumfuehrt-10343019.html",
+      "image_title": "Puzzle mit der Saudischen Flagge und einem US-Dollar"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
