@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-17T07:10:38",
+  "timestamp": "2025-04-17T08:13:31",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,11 +26,31 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr",
+      "url": "https://www.heise.de/news/iX-Workshop-Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-10344327.html"
+    },
+    {
+      "title": "RoboBee: Mikro-Schlagflügelroboter landet sicher auf Pflanzenblättern",
+      "url": "https://www.heise.de/news/RoboBee-Mikro-Schlagfluegelroboter-landet-sicher-auf-Pflanzenblaettern-10355186.html"
+    },
+    {
+      "title": "OpenAI bringt o3 und o4-mini raus",
+      "url": "https://www.heise.de/news/OpenAI-bringt-o3-und-o4-mini-raus-10355096.html"
+    },
+    {
+      "title": "Gezielte Angriffe auf iPhones: Apple patcht Betriebssysteme außerhalb der Reihe",
+      "url": "https://www.heise.de/news/iOS-18-4-1-macOS-15-4-1-Co-Apple-liefert-Notfall-Patches-fuer-mehrere-Systeme-10355206.html"
+    },
+    {
+      "title": "Gemini Live: Bildschirm- und Kamera-Analyse kostenlos für alle Android-Nutzer",
+      "url": "https://www.heise.de/news/Gemini-Live-Bildschirm-und-Kamera-Analyse-kostenlos-fuer-alle-Android-Nutzer-10355164.html"
+    },
+    {
       "title": "Notfallupdate für anonymisierendes Linux Tails",
       "url": "https://www.heise.de/news/Notfallupdate-fuer-anonymisierendes-Linux-Tails-10355154.html"
     },
     {
-      "title": "\"Dwarf Fortress\": Kult-Klassiker über eine Million Mal auf Steam verkauft",
+      "title": "\"Dwarf Fortress\" erreicht Meilenstein: Über eine Million Mal auf Steam verkauft",
       "url": "https://www.heise.de/news/Dwarf-Fortress-Kult-Klassiker-ueber-eine-Million-Mal-auf-Steam-verkauft-10355069.html"
     },
     {
@@ -44,26 +64,6 @@
     {
       "title": "Sechs sichere Messenger im Vergleich",
       "url": "https://www.heise.de/ratgeber/Sechs-sichere-Messenger-im-Vergleich-10297137.html"
-    },
-    {
-      "title": "CVE-Aus abgewendet, Schwachstellendatenbank der EU geht an den Start",
-      "url": "https://www.heise.de/news/Nach-drohendem-CVE-Aus-Schwachstellendatenbank-der-EU-geht-an-den-Start-10354324.html"
-    },
-    {
-      "title": "c't-Workshop: Von Excel zu Power BI",
-      "url": "https://www.heise.de/news/c-t-Workshop-Effizient-Daten-analysieren-und-interaktive-Berichte-erstellen-10344471.html"
-    },
-    {
-      "title": "Microsofts Copilot sieht im Browser Edge nun, was du siehst",
-      "url": "https://www.heise.de/news/Microsofts-Copilot-sieht-im-Browser-Edge-nun-was-du-siehst-10355061.html"
-    },
-    {
-      "title": "E-Auto Polestar 4 im Test: Komfortabler, schneller Gleiter im Schwedendesign",
-      "url": "https://www.heise.de/tests/E-Auto-Polestar-4-im-Test-Komfortabler-schneller-Gleiter-im-Schwedendesign-10349475.html"
-    },
-    {
-      "title": "Meta vor Gericht: Zuckerberg sagt 13 Stunden lang aus",
-      "url": "https://www.heise.de/news/Meta-vor-Gericht-Zuckerberg-sagt-13-Stunden-lang-aus-10355026.html"
     },
     {
       "title": "Weltraumteleskop James WebbBislang klarster Hinweis auf außerirdisches Leben gefunden",
@@ -184,54 +184,57 @@
       "image_title": "Man sieht das Display von schräg vorne."
     },
     {
+      "title": "iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr",
+      "teaser": "Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.",
+      "url": "https://www.heise.de/news/iX-Workshop-Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-10344327.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "RoboBee: Mikro-Schlagflügelroboter landet sicher auf Pflanzenblättern",
+      "teaser": "Die RoboBee ist schon etwas älter. Sie hat nun ein Landegestell und eine Flugsteuerung als Upgrade bekommen, die sichere Landungen ermöglichen.",
+      "url": "https://www.heise.de/news/RoboBee-Mikro-Schlagfluegelroboter-landet-sicher-auf-Pflanzenblaettern-10355186.html",
+      "image_title": "RoboBee fliegt von Blatt zu Blatt"
+    },
+    {
+      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
+      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "OpenAI bringt o3 und o4-mini raus",
+      "teaser": "Zwei neue KI-Modelle von OpenAI: o3 und o4-mini denken länger nach und haben einen größeren Funktionsumfang – etwa Bildgenerierung.",
+      "url": "https://www.heise.de/news/OpenAI-bringt-o3-und-o4-mini-raus-10355096.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
+    },
+    {
+      "title": "AlertGezielte Angriffe auf iPhones: Apple patcht Betriebssysteme außerhalb der Reihe",
+      "teaser": "Die Updates sollen zwei Zero-Day-Lücken beseitigen, die offenbar für gezielte Angriffe genutzt wurden. Auch ein CarPlay-Problem geht Apple an.",
+      "url": "https://www.heise.de/news/iOS-18-4-1-macOS-15-4-1-Co-Apple-liefert-Notfall-Patches-fuer-mehrere-Systeme-10355206.html",
+      "image_title": "iPhone spielt Update ein und zeigt ein Apple-Logo"
+    },
+    {
+      "title": "Gemini Live: Bildschirm- und Kamera-Analyse kostenlos für alle Android-Nutzer",
+      "teaser": "Google macht die neue Gemini-Live-Funktion, die der KI Augen verleiht, für alle Android-Nutzer kostenlos verfügbar.",
+      "url": "https://www.heise.de/news/Gemini-Live-Bildschirm-und-Kamera-Analyse-kostenlos-fuer-alle-Android-Nutzer-10355164.html",
+      "image_title": "Finger schwebt über Gemini-App-Icon auf dem Smartphone-Bildschirm."
+    },
+    {
       "title": "AlertNotfallupdate für anonymisierendes Linux Tails",
       "teaser": "Die Tails-Maintainer haben das Notfallupdate auf Version 6.14.2 veröffentlicht. Sie schließen darin Sicherheitslücken.",
       "url": "https://www.heise.de/news/Notfallupdate-fuer-anonymisierendes-Linux-Tails-10355154.html",
       "image_title": "Tails-Desktop auf Notebook"
     },
     {
-      "title": "\"Dwarf Fortress\": Kult-Klassiker über eine Million Mal auf Steam verkauft",
+      "title": "\"Dwarf Fortress\" erreicht Meilenstein: Über eine Million Mal auf Steam verkauft",
       "teaser": "Das Aufbauspiel \"Dwarf Fortress\" gibt es seit Ende 2022 auf Steam. Nun haben die Entwickler einen Verkaufs-Meilenstein bekanntgegeben.",
       "url": "https://www.heise.de/news/Dwarf-Fortress-Kult-Klassiker-ueber-eine-Million-Mal-auf-Steam-verkauft-10355069.html",
       "image_title": "Artwork zu Dwarf Fortress"
-    },
-    {
-      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
-      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Security-Recherchen per OSINT-Browsererweiterungen in der Praxis",
       "teaser": "Wir stellen leicht bedienbare OSINT-Erweiterungen (Open Source Intelligence) vor, mit denen Sie relevante Bedrohungsdaten bequem sammeln und auswerten.",
       "url": "https://www.heise.de/ratgeber/Security-Recherchen-per-OSINT-Browsererweiterungen-in-der-Praxis-10350670.html",
       "image_title": ", KI, Collage c’t"
-    },
-    {
-      "title": "IT-Sicherheit: Technische Tricks sicherer Messenger",
-      "teaser": "Kommunikation abzusichern ist ein kompliziertes Unterfangen. Moderne Messenger greifen zu allerlei Tricks, um Daten und Metadaten gegen Angriffe zu schützen.",
-      "url": "https://www.heise.de/ratgeber/IT-Sicherheit-Technische-Tricks-sicherer-Messenger-10305737.html"
-    },
-    {
-      "title": "Sechs sichere Messenger im Vergleich",
-      "teaser": "Schlicht oder verspielt, aber jedenfalls sicher? Wir vergleichen sechs Ende-zu-Ende-verschlüsselte Messenger mit unterschiedlichen Prioritäten und Konzepten.",
-      "url": "https://www.heise.de/ratgeber/Sechs-sichere-Messenger-im-Vergleich-10297137.html"
-    },
-    {
-      "title": "c't-Workshop: Von Excel zu Power BI",
-      "teaser": "Der Workshop zeigt, wie Sie mit Power BI Datenquellen zusammenführen, Modelle erstellen und interaktive Berichte gestalten – für klar strukturierte Analysen.",
-      "url": "https://www.heise.de/news/c-t-Workshop-Effizient-Daten-analysieren-und-interaktive-Berichte-erstellen-10344471.html"
-    },
-    {
-      "title": "Microsofts Copilot sieht im Browser Edge nun, was du siehst",
-      "teaser": "Mit Copilot Vision bekommt Microsofts Browser Edge nun Augen. Die neue KI-Funktion ist frei verfügbar – für ausgewählte Seiten.",
-      "url": "https://www.heise.de/news/Microsofts-Copilot-sieht-im-Browser-Edge-nun-was-du-siehst-10355061.html",
-      "image_title": "Startseite Copilot-Vision."
-    },
-    {
-      "title": "E-Auto Polestar 4 im Test: Komfortabler, schneller Gleiter im Schwedendesign",
-      "teaser": "Dass der Polestar 4 keine Heckscheibe hat, spielt im Alltag schnell keine Rolle mehr. Seine Reichweite ist enorm, Assistenz, Fahrwerk und Antrieb überzeugen.",
-      "url": "https://www.heise.de/tests/E-Auto-Polestar-4-im-Test-Komfortabler-schneller-Gleiter-im-Schwedendesign-10349475.html",
-      "image_title": "Polestar 4"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -298,6 +301,28 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "IT-Sicherheit: Technische Tricks sicherer Messenger",
+      "teaser": "Kommunikation abzusichern ist ein kompliziertes Unterfangen. Moderne Messenger greifen zu allerlei Tricks, um Daten und Metadaten gegen Angriffe zu schützen.",
+      "url": "https://www.heise.de/ratgeber/IT-Sicherheit-Technische-Tricks-sicherer-Messenger-10305737.html"
+    },
+    {
+      "title": "c't-Workshop: Von Excel zu Power BI",
+      "teaser": "Der Workshop zeigt, wie Sie mit Power BI Datenquellen zusammenführen, Modelle erstellen und interaktive Berichte gestalten – für klar strukturierte Analysen.",
+      "url": "https://www.heise.de/news/c-t-Workshop-Effizient-Daten-analysieren-und-interaktive-Berichte-erstellen-10344471.html"
+    },
+    {
+      "title": "Microsofts Copilot sieht im Browser Edge nun, was du siehst",
+      "teaser": "Mit Copilot Vision bekommt Microsofts Browser Edge nun Augen. Die neue KI-Funktion ist frei verfügbar – für ausgewählte Seiten.",
+      "url": "https://www.heise.de/news/Microsofts-Copilot-sieht-im-Browser-Edge-nun-was-du-siehst-10355061.html",
+      "image_title": "Startseite Copilot-Vision."
+    },
+    {
+      "title": "E-Auto Polestar 4 im Test: Komfortabler, schneller Gleiter im Schwedendesign",
+      "teaser": "Dass der Polestar 4 keine Heckscheibe hat, spielt im Alltag schnell keine Rolle mehr. Seine Reichweite ist enorm, Assistenz, Fahrwerk und Antrieb überzeugen.",
+      "url": "https://www.heise.de/tests/E-Auto-Polestar-4-im-Test-Komfortabler-schneller-Gleiter-im-Schwedendesign-10349475.html",
+      "image_title": "Polestar 4"
+    },
+    {
       "title": "Meta vor Gericht: Zuckerberg sagt 13 Stunden lang aus",
       "teaser": "Anzeigen in WhatsApp, Instagram und dem Facebook Messenger bringen Meta zehn Milliarden US-Dollar ein, sagt Zuckerberg im FTC-Prozess.",
       "url": "https://www.heise.de/news/Meta-vor-Gericht-Zuckerberg-sagt-13-Stunden-lang-aus-10355026.html",
@@ -350,6 +375,11 @@
       "url": "https://www.heise.de/bestenlisten/ratgeber/ratgeber-oled-tv-55-zoll-testsieger-von-lg-zum-bestpreis-fuer-1200-euro/60cgsdj?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
+      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
+    },
+    {
       "title": "Nvidia lässt KI-Server künftig in den USA bauen",
       "teaser": "Foxconn und Wistron bauen US-Fabriken zur Herstellung von Nvidia-Servern. Die Pläne sind alt, stimmen dem US-Präsidenten aber glücklich.",
       "url": "https://www.heise.de/news/Nvidia-laesst-KI-Server-kuenftig-in-den-USA-bauen-10354683.html",
@@ -371,11 +401,6 @@
       "teaser": "Die Start-ups Lightmatter und Lightelligence haben erste Photonik-Prozessoren entwickelt, auf denen sogar fortschrittliche KI-Systeme laufen.",
       "url": "https://www.heise.de/news/Erste-Licht-Prozessoren-betreiben-effizient-KI-10354605.html",
       "image_title": "Chip von Lightmatter"
-    },
-    {
-      "title": "KI-Anwendungen schnell, smart und sicher entwickeln",
-      "teaser": "Sie wollen skalierbare und leistungsfähige KI-Anwendungen entwickeln? In einem Webcast erfahren Sie, wie Ihnen eine Vektordatenbank kombiniert mit einer semantischen Suche dabei helfen kann.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/schneller-smarter-sicherer-wie-prototypentwicklung-und-integration-von-ki-anwendungen-auf-aws-einfacher-wird-4868/?source=nat_teas"
     },
     {
       "title": "Bild-KIs und das Recht: Wem gehört die Kunst aus der Maschine",
@@ -410,29 +435,6 @@
       "title": "Carrera Hybrid Speedway to Hell im Test: Porsche mit dem Smartphone steuern",
       "teaser": "Carrera Hybrid Speedway to Hell modernisiert die traditionellen Spielzeugautos per App. Bleibt der hybride Fahrspaß trotz technischer Probleme erhalten?",
       "url": "https://www.heise.de/bestenlisten/testbericht/carrera-hybrid-speedway-to-hell-im-test/2mv1dl7?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "5G: Vodafone will Funklöcher in Tunneln mit neuartigen Antennen schließen",
-      "teaser": "Mit windfesten, kegelförmigen Antennen will der Netzbetreiber Vodafone auch längere Tunnel mit 5G-Netz versorgen.",
-      "url": "https://www.heise.de/news/5G-Vodafone-will-Funkloecher-in-Tunneln-mit-neuartigen-Antennen-schliessen-10354382.html",
-      "image_title": "Autotunnel-Einfahrt mit Fahrzeugen"
-    },
-    {
-      "title": "KI-Update: KI für die NATO, Soziales Netzwerk von Open AI, neue GPT-Modelle",
-      "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-KI-fuer-die-NATO-Soziales-Netzwerk-von-Open-AI-neue-GPT-Modelle-10353486.html"
-    },
-    {
-      "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
-      "teaser": "Mehrere macOS-Instanzen für Testzwecke parat zu haben, kann äußerst praktisch sein. Wir zeigen, wie Sie mit einem Synology-NAS einen virtuellen Mac einrichten.",
-      "url": "https://www.heise.de/ratgeber/macOS-im-Docker-Container-So-klappt-es-mit-dem-virtuellen-Mac-10327198.html",
-      "image_title": ", Lrwilk, stock.adobe.com; Montage: Mac & i"
-    },
-    {
-      "title": "Datenschützer: Nutzung privater Inhalte für Metas KI-Training widersprechen",
-      "teaser": "Meta will für das Training seiner KI auch die von Nutzern bei Instagram und Facebook geteilten Daten nutzen. Hamburgs Datenschutzbeauftragten besorgt dies.",
-      "url": "https://www.heise.de/news/Datenschuetzer-Nutzung-privater-Inhalte-fuer-Metas-KI-Training-widersprechen-10354260.html",
-      "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
     },
     {
       "title": "US-Kürzungen: CVE-Liste könnte sofort stoppen",
@@ -605,20 +607,20 @@
       "url": "https://www.heise.de/en/news/AMD-shows-first-wafer-with-2-nanometer-chips-from-TSMC-10352527.html"
     },
     {
-      "title": "Neuer Wettbewerb20 Jahre Hommingberger Gepardenforelle",
-      "teaser": "Zum Jubiläum ihres Wettbewerbs um eine mysteriöse Forellenart startet die c't einen neuen: Diesmal geht es um KI-kreierte Bilder.",
-      "url": "https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-Her-mit-Eurem-Fisch-10351670.html"
-    },
-    {
       "title": "Photonen statt Elektronen: Erste Licht-Prozessoren betreiben effizient KI",
       "teaser": "Die Start-ups Lightmatter und Lightelligence haben erste Photonik-Prozessoren entwickelt, auf denen sogar fortschrittliche KI-Systeme laufen.",
       "url": "https://www.heise.de/news/Erste-Licht-Prozessoren-betreiben-effizient-KI-10354605.html",
       "image_title": "Chip von Lightmatter"
     },
     {
-      "title": "Wie die Fahrradindustrie auf dem Weg aus der Krise ist",
-      "teaser": "Radhändler-Lager schrumpfen, bieten aber große Rabatte. Die stabile Nachfrage nach E-Bikes hilft der Branche, besonders bei elektrifizierten Mountainbikes.",
-      "url": "https://www.heise.de/ratgeber/Wie-die-Fahrradindustrie-auf-dem-Weg-aus-der-Krise-ist-10333826.html"
+      "title": "Neuer Wettbewerb20 Jahre Hommingberger Gepardenforelle",
+      "teaser": "Zum Jubiläum ihres Wettbewerbs um eine mysteriöse Forellenart startet die c't einen neuen: Diesmal geht es um KI-kreierte Bilder.",
+      "url": "https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-Her-mit-Eurem-Fisch-10351670.html"
+    },
+    {
+      "title": "Sechs sichere Messenger im Vergleich",
+      "teaser": "Schlicht oder verspielt, aber jedenfalls sicher? Wir vergleichen sechs Ende-zu-Ende-verschlüsselte Messenger mit unterschiedlichen Prioritäten und Konzepten.",
+      "url": "https://www.heise.de/ratgeber/Sechs-sichere-Messenger-im-Vergleich-10297137.html"
     },
     {
       "title": "Getaggt und geortetAlles, was Sie über AirTags wissen müssen",
@@ -752,22 +754,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Nach Erdbebenserie auf Santorini: Ist die beliebte Touristeninsel noch sicher?",
-      "teaser": "Griechenland: Wochenlang bebte die Erde auf Santorini, inzwischen hat sich die Lage beruhigt. Welches Risiko besteht nach der Erdbebenserie?",
-      "url": "https://www.heise.de/tp/features/Nach-Erdbebenserie-auf-Santorini-Ist-die-beliebte-Touristeninsel-noch-sicher-10351052.html",
-      "image_title": "Touristen auf der griechischen Insel Santorini"
+      "title": "Mindestens 48 Stunden: Wenn Mehrarbeit zur Gesundheitsfalle wird",
+      "teaser": "Überstunden sind in Deutschland verbreitet. Jeder zehnte Beschäftigte arbeitet mehr als 48 Stunden. Dahinter steht ein offenes Geheimnis.",
+      "url": "https://www.heise.de/tp/features/Mindestens-48-Stunden-Wenn-Mehrarbeit-zur-Gesundheitsfalle-wird-10347324.html",
+      "image_title": "Schraubenschlüssel zieht Mutter an den Zeigern einer Uhr an"
     },
     {
-      "title": "Exoplanet mit senkrechter Umlaufbahn um Doppelstern-System entdeckt",
-      "teaser": "Astronomen haben einen ungewöhnlichen Exoplaneten entdeckt. Er umkreist zwei Braune Zwerge auf einer senkrechten Bahn. Seine Masse gibt Rätsel auf.",
-      "url": "https://www.heise.de/tp/features/Exoplanet-mit-senkrechter-Umlaufbahn-um-Doppelstern-System-entdeckt-10354950.html",
-      "image_title": "Brauner Zwerg – wie sich ein Künstler vorstellt"
+      "title": "Muss der Steuerzahler die Raffinerien in Deutschland retten?",
+      "teaser": "Viele Deutsche sperren sich gegen E-Autos. Doch die Verbrenner haben ihre besten Tage hinter sich. Was bedeutet das für die Mineralölverarbeitung?",
+      "url": "https://www.heise.de/tp/features/Muss-der-Steuerzahler-die-Raffinerien-in-Deutschland-retten-10348657.html",
+      "image_title": "Raffinerien auf Deutschlandkarte"
     },
     {
-      "title": "Boeing-Boykott und Mega-Zölle: Der sino-amerikanische Wirtschaftskrieg",
-      "teaser": "Der Handelskrieg zwischen den USA und China eskaliert weiter. US-Präsident Trump fordert ein Einlenken Pekings, während China auf Augenhöhe verhandeln will. Wer wird nachgeben?",
-      "url": "https://www.heise.de/tp/features/Boeing-Boykott-und-Mega-Zoelle-Der-sino-amerikanische-Wirtschaftskrieg-10354363.html",
-      "image_title": "Waren im Supermarkt, ein Regal ist leer, das andere voll"
+      "title": "Globaler Blick auf Genozide: Deutschland muss umdenken",
+      "teaser": "Deutschland ringt mit seiner historischen Verantwortung für den Holocaust. Die Bedeutung von \"Nie wieder\" wird heute global diskutiert. Doch was heißt das für eine Welt voller neuer Konflikte? Ein Gastbeitrag. (Teil 2 und Schluss)",
+      "url": "https://www.heise.de/tp/features/Globaler-Blick-auf-Genozide-Deutschland-muss-umdenken-10355174.html",
+      "image_title": "Konzentrationslager Auschwitz mit angepinten Zetteln \"Nie Wieder!\" und \"Blutige Erde\"\"\""
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
