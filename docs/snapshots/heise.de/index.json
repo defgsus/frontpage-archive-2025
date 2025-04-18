@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-18T04:11:47",
+  "timestamp": "2025-04-18T05:10:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bereiche-Dashboard: Einsteigerfreundliche Dashboards in Home Assistant erstellen",
+      "url": "https://www.heise.de/ratgeber/Bereiche-Dashboard-Einsteigerfreundliche-Dashboards-in-Home-Assistant-erstellen-10350771.html"
+    },
     {
       "title": "Auslegungssache 132: KI-Verordnung und Datenschutz – ein schwieriges Verhältnis",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-132-KI-Verordnung-und-Datenschutz-ein-schwieriges-Verhaeltnis-10355964.html"
@@ -60,10 +64,6 @@
     {
       "title": "Britische Armee schießt erfolgreich Drohnenschwärme mit Energiewaffe ab",
       "url": "https://www.heise.de/news/Britische-Armee-schiesst-erfolgreich-Drohnenschwaerme-mit-Energiewaffe-ab-10356125.html"
-    },
-    {
-      "title": "Thermomix TM7: Smarte Küchenmaschine im Test",
-      "url": "https://www.heise.de/tests/Thermomix-TM7-Smarte-Kuechenmaschine-im-Test-10344237.html"
     },
     {
       "title": "Weltraumteleskop James WebbBislang klarster Hinweis auf außerirdisches Leben gefunden",
@@ -184,20 +184,25 @@
       "url": "https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-Her-mit-Eurem-Fisch-10351670.html"
     },
     {
+      "title": "Bereiche-Dashboard: Einsteigerfreundliche Dashboards in Home Assistant erstellen",
+      "teaser": "Mit dem Bereiche-Dashboard können auch Anfänger ihr Smart Home schnell und ansehnlich visualisieren. Wir zeigen, wie das geht.",
+      "url": "https://www.heise.de/ratgeber/Bereiche-Dashboard-Einsteigerfreundliche-Dashboards-in-Home-Assistant-erstellen-10350771.html"
+    },
+    {
       "title": "Auslegungssache 132: KI-Verordnung und Datenschutz – ein schwieriges Verhältnis",
       "teaser": "Inwieweit sind KI-Verordnung und DSGVO in der Praxis vereinbar? In der neuen Folge des c't-Datenschutz-Podcasts ist dazu Prof. Rolf Schwartmann zu Gast.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-132-KI-Verordnung-und-Datenschutz-ein-schwieriges-Verhaeltnis-10355964.html",
       "image_title": "Holger Bleich (oben links), Prof. Rolf Schwartmann (oben rechts) und Joerg Heidrich (unten)"
     },
     {
-      "title": "Top 10: Das beste Ladegerät fürs Handy bis 65 Watt – billig lädt schneller",
-      "teaser": "Um Handys zu laden, benötigt man kein teures Ladegerät. Wir haben USB-Netzteile bis 65 Watt auf ihre Leistungsfähigkeit getestet und zeigen die besten Modelle.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-ladegeraet-fuers-handy/y3c3lpe?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "So arbeiten moderne Hacker-Fabriken",
       "teaser": "Hacker-Gruppen im digitalen Untergrund arbeiten oft schon in industriellem Maßstab. Sie adaptieren neue Technologien, sodass es ständig zu neuen Angriffswellen kommt. Doch die Security-Firmen ergreifen Gegenmaßnahmen.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6946150026&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Das beste Ladegerät fürs Handy bis 65 Watt – billig lädt schneller",
+      "teaser": "Um Handys zu laden, benötigt man kein teures Ladegerät. Wir haben USB-Netzteile bis 65 Watt auf ihre Leistungsfähigkeit getestet und zeigen die besten Modelle.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-ladegeraet-fuers-handy/y3c3lpe?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Polizei warnt vor Betrug bei britischer Einreiseerlaubnis – mit falscher URL",
@@ -226,12 +231,6 @@
       "title": "Vom Messfühler zum smarten Sensor: Umfassende Studie zur Sensorentwicklung",
       "teaser": "70 Experten schildern den aktuellen Stand und die Zukunft der Sensortechnik: eine Fundgrube für Technikfreaks.",
       "url": "https://www.heise.de/hintergrund/Vom-Messfuehler-zum-smarten-Sensor-Umfassende-Studie-zur-Sensorentwicklung-10347645.html"
-    },
-    {
-      "title": "5G-Mobilfunk: Belastung für \"Elektrosensible\" nicht nachweisbar",
-      "teaser": "Steigende Datenübertragungsmengen erfordern eine ständige Weiterentwicklung des Mobilfunks. Bei der Strahlung sieht die Regierung aber keinen Grund zur Panik.",
-      "url": "https://www.heise.de/news/Bundesregierung-5G-hat-Mobilfunk-Strahlenbelastung-nicht-wesentlich-verstaerkt-10356282.html",
-      "image_title": "5G Symbolbild"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -299,6 +298,12 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "5G-Mobilfunk: Belastung für \"Elektrosensible\" nicht nachweisbar",
+      "teaser": "Steigende Datenübertragungsmengen erfordern eine ständige Weiterentwicklung des Mobilfunks. Bei der Strahlung sieht die Regierung aber keinen Grund zur Panik.",
+      "url": "https://www.heise.de/news/Bundesregierung-5G-hat-Mobilfunk-Strahlenbelastung-nicht-wesentlich-verstaerkt-10356282.html",
+      "image_title": "5G Symbolbild"
+    },
+    {
       "title": "Britische Armee schießt erfolgreich Drohnenschwärme mit Energiewaffe ab",
       "teaser": "Die britische Armee testet eine Energiewaffe auf Basis von Radiowellen, um Drohnenschwärme zu zerstören. Das System besticht durch geringe Einsatzkosten.",
       "url": "https://www.heise.de/news/Britische-Armee-schiesst-erfolgreich-Drohnenschwaerme-mit-Energiewaffe-ab-10356125.html"
@@ -364,15 +369,15 @@
       "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
     },
     {
+      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
+      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
+    },
+    {
       "title": "Support-Ende von Ubuntu 20.04 dräut",
       "teaser": "Der Support für Ubuntu 20.04 endet in wenigen Wochen. Ubuntu empfiehlt ein Upgrade oder erweiterten Support mit Ubuntu Pro.",
       "url": "https://www.heise.de/news/Support-Ende-von-Ubuntu-20-04-draeut-10355860.html",
       "image_title": "Pinguin sitzt vor einem Computer, der einen Pinguin und die Schrift \"Linux\" anzeigt"
-    },
-    {
-      "title": "NIS2: Warum Sie trotz Verschiebung handeln sollten",
-      "teaser": "Die EU-Cyber-Sicherheitsrichtlinie NIS2 ist als Gesetz in Deutschland noch nicht erlassen worden und wird vermutlich erst im Herbst 2025 in Kraft treten. In einem Webcast erklären wir, weshalb Unternehmen bis dahin nicht untätig sein und trotz Verschiebung handeln sollten.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-warum-unternehmen-trotz-verschiebung-handeln-sollten-4899/?source=hbsad-ersatz"
     },
     {
       "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
@@ -425,12 +430,6 @@
       "teaser": "Erstellen Sie für Ihr Unternehmen einen Leitfaden zur professionellen IT-Notfallplanung im interaktiven Workshop.",
       "url": "https://www.heise.de/news/iX-Workshop-BCM-und-IT-Notfallplanung-Vorbereitet-fuer-den-Ernstfall-10344269.html",
       "image_title": "Online-Workshop: BCM-Notfallplanung für den Security-Ernstfall"
-    },
-    {
-      "title": "Alles auf Azure: So will Microsoft den Umstieg von AWS vereinfachen",
-      "teaser": "Microsoft bietet eine neue Wissensplattform für Azure an. Sie soll Administratoren bei Workload-Umzügen von AWS und Google Cloud unterstützen.",
-      "url": "https://www.heise.de/news/Azure-Migration-Hub-Microsoft-unterstuetzt-bei-Umstieg-von-AWS-und-Google-Cloud-10355328.html",
-      "image_title": "Microsoft logo and text sign of Microsoft office building"
     },
     {
       "title": "Beschlossen: Lebensdauer für TLS-Serverzertifikate sinkt auf 47 Tage",
@@ -603,20 +602,21 @@
       "url": "https://www.heise.de/en/news/Palo-Alto-Networks-Vulnerabilities-in-PAN-OS-jeopardize-firewalls-10348582.html"
     },
     {
-      "title": "Sprachmodelle: Deutschlands Aufholjagd gegenüber den USA und China",
-      "teaser": "Während China mit DeepSeek die USA im Wettkampf um die leistungsstärksten Sprachmodelle herausfordert, ist Europa nach wie vor Zuschauer, trotz genug Potenzial.",
-      "url": "https://www.heise.de/hintergrund/Sprachmodelle-Deutschlands-Aufholjagd-gegenueber-den-USA-und-China-10348400.html",
-      "image_title": "!!!kommt von Ulrike Weis!!!,"
-    },
-    {
       "title": "KommunikationSechs sichere Messenger im Vergleich",
       "teaser": "Wir vergleichen sechs Ende-zu-Ende-verschlüsselte Messenger mit unterschiedlichen Prioritäten und Konzepten.",
       "url": "https://www.heise.de/ratgeber/Sechs-sichere-Messenger-im-Vergleich-10297137.html"
     },
     {
-      "title": "Ich versuche, KI-Bilder zu erkennen | Quiz",
-      "teaser": "GPT-4o erzeugt erschreckend realistische Bilder. c't 3003 prüft, ob man die neuen KI-Generationen noch entlarven kann. Außerdem: Tipps zum Erkennen.",
-      "url": "https://www.heise.de/news/Kann-ich-alle-KI-Bilder-erkennen-10356005.html"
+      "title": "Photonen statt Elektronen: Erste Licht-Prozessoren betreiben effizient KI",
+      "teaser": "Die Start-ups Lightmatter und Lightelligence haben erste Photonik-Prozessoren entwickelt, auf denen sogar fortschrittliche KI-Systeme laufen.",
+      "url": "https://www.heise.de/news/Erste-Licht-Prozessoren-betreiben-effizient-KI-10354605.html",
+      "image_title": "Chip von Lightmatter"
+    },
+    {
+      "title": "Sprachmodelle: Deutschlands Aufholjagd gegenüber den USA und China",
+      "teaser": "Während China mit DeepSeek die USA im Wettkampf um die leistungsstärksten Sprachmodelle herausfordert, ist Europa nach wie vor Zuschauer, trotz genug Potenzial.",
+      "url": "https://www.heise.de/hintergrund/Sprachmodelle-Deutschlands-Aufholjagd-gegenueber-den-USA-und-China-10348400.html",
+      "image_title": "!!!kommt von Ulrike Weis!!!,"
     },
     {
       "title": "Praxistipps zu iOS 18.4Apple Intelligence jetzt clever nutzen",
@@ -750,22 +750,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Seltenes Blut: Wissenschaftler lösen jahrzehntelanges Rätsel",
-      "teaser": "Medizinisches Rätsel seit halbem Jahrhundert. Am Anfang: eine schwangere Patientin im Jahr 1972. Grund für Anomalie inzwischen klar.",
-      "url": "https://www.heise.de/tp/features/Seltenes-Blut-Wissenschaftler-loesen-jahrzehntelanges-Raetsel-10355237.html",
-      "image_title": "Blut zählen"
-    },
-    {
       "title": "Muss der Steuerzahler die Raffinerien in Deutschland retten?",
       "teaser": "Viele Deutsche sperren sich gegen E-Autos. Doch die Verbrenner haben ihre besten Tage hinter sich. Was bedeutet das für die Mineralölverarbeitung?",
       "url": "https://www.heise.de/tp/features/Muss-der-Steuerzahler-die-Raffinerien-in-Deutschland-retten-10348657.html",
       "image_title": "Raffinerien auf Deutschlandkarte"
     },
     {
-      "title": "Wie Israel für seine Gaza-Säuberungspläne die Soldaten ausgehen",
-      "teaser": "Es ist die größte Rekrutierungskrise seit Jahrzehnten. Doch die Netanjahu-Regierung treibt das kriegsmüde Land weiter an die Front. Ist die neue Militäroffensive zum Scheitern verurteilt?",
-      "url": "https://www.heise.de/tp/features/Wie-Israel-fuer-seine-Gaza-Saeuberungsplaene-die-Soldaten-ausgehen-10354693.html",
-      "image_title": "Soldaten der 36. Einheit des israelischen Militärs bei Operationen im Gazastreifen am 5. April 2025."
+      "title": "Seltenes Blut: Wissenschaftler lösen jahrzehntelanges Rätsel",
+      "teaser": "Medizinisches Rätsel seit halbem Jahrhundert. Am Anfang: eine schwangere Patientin im Jahr 1972. Grund für Anomalie inzwischen klar.",
+      "url": "https://www.heise.de/tp/features/Seltenes-Blut-Wissenschaftler-loesen-jahrzehntelanges-Raetsel-10355237.html",
+      "image_title": "Blut zählen"
+    },
+    {
+      "title": "Mindestens 48 Stunden: Wenn Mehrarbeit zur Gesundheitsfalle wird",
+      "teaser": "Überstunden sind in Deutschland verbreitet. Jeder zehnte Beschäftigte arbeitet mehr als 48 Stunden. Dahinter steht ein offenes Geheimnis.",
+      "url": "https://www.heise.de/tp/features/Mindestens-48-Stunden-Wenn-Mehrarbeit-zur-Gesundheitsfalle-wird-10347324.html",
+      "image_title": "Schraubenschlüssel zieht Mutter an den Zeigern einer Uhr an"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
