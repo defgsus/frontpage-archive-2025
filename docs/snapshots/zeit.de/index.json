@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-20T13:17:51",
+  "timestamp": "2025-04-20T14:08:11",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -104,25 +110,18 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Orcas und Segler: Nie kamen sie uns so nah",
+      "teaser": "16 Orcas beschädigen hunderte Boote vor Gibraltar. Nun feuern Menschen mit Waffen auf sie. Der Streit um die Wale eskaliert. Dabei haben sie keine Killerabsichten.",
+      "url": "https://www.zeit.de/wissen/umwelt/2025-04/orcas-segeljachten-gibraltar-angriffe-killerwal",
+      "image_url": "https://img.zeit.de/wissen/2025-03/orcas-segeljachten-gibraltar-angriffe-12/wide__1000x562",
+      "image_title": "Orcas und Segler: Nie kamen sie uns so nah"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Internetkultur: So süß geht die Welt unter",
       "teaser": "Im Internet ist der Trend zur Niedlichkeit ungebrochen, obwohl doch so viel Hässliches passiert. Ist das Zufall? Oder hängen Cuteness und Krise am Ende eng zusammen?",
       "url": "https://www.zeit.de/kultur/2025-04/internetkultur-trend-niedliche-bilder-soziale-medien",
-      "image_url": "https://img.zeit.de/kultur/2025-04/internetkultur-trend-niedliche-bilder/wide__1000x562",
+      "image_url": "https://img.zeit.de/kultur/2025-04/internetkultur-trend-niedliche-bilder/super__430x286",
       "image_title": "Internetkultur: So süß geht die Welt unter"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Daten zu Asylanträgen: Warum gerade weniger Flüchtlinge nach Deutschland kommen",
-      "teaser": "Die Zahl der Asylanträge sinkt, Friedrich Merz will sie sogar auf 100.000 pro Jahr reduzieren. Wir zeigen, woher die Menschen kommen und welche Bleibechancen sie haben.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/daten-asylantraege-laender-migration-friedrich-merz",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/daten-asylantraege-laender-migration-friedrich-merz-bild/super__430x286",
-      "image_title": "Daten zu Asylanträgen: Neue Syrische Flagge nach dem Sturz des Assad Regime. Ahmat ist von Syrien nach Deutschland gefluechtet. Er ist Bewohner der Unterkunft. Blick in seinen Raum in der Fluechtlingsunterkunft in der Colditzstrasse 32, betrieben von der Albatros gGmbH. Es ist eine Gemeinschaftsunterkunft im Bezirk Tempelhof-Schoeneberg, in der gefluechtete Menschen untergebracht werden. [Fuer die Errichtung, Belegung und Qualitaetssicherung dieser Unterkunft ist das Landesamt fuer Fluechtlingsangelegenheiten (LAF) zustaendig.] Aufgenommen am 04.02.2025 in Berlin."
-    },
-    {
-      "title": "Alexander Dobrindt: Bei ihm kann sich Friedrich Merz bedanken",
-      "teaser": "Manche hielten ihn für einen Populisten, bevor es die AfD gab. Nun ist ausgerechnet er der Brückenbauer zu SPD und Grünen. Über die Wandlung des Alexander Dobrindt.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-04/alexander-dobrindt-csu-koalitionsverhandlungen-spd-die-gruenen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/alexander-dobrindt-csu-koalitionsverhandlungen-spd-die-gruenen-bild/super__430x286",
-      "image_title": "Alexander Dobrindt: Alexander Dobrindt, CSU-Landesgruppenchef im Bundestag, aufgenommen bei einem Interview mit der dpa Deutsche Presse-Agentur GmbH. (zu dpa: «Dobrindt kündigt neuen Regierungsstil unter Unionsführung an») +++ dpa-Bildfunk +++"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Christentum: 20 Leute, der Anführer tot. Was soll da schon rauskommen!",
@@ -139,11 +138,25 @@
       "image_title": "Witze im Gottesdienst: Vier Mönche, c. 1884 von Claudio Rinaldi"
     },
     {
-      "title": "Franziskus: Papst erscheint zur Ostermesse und spendet Segen Urbi et orbi",
-      "teaser": "Bei der Ostermesse in Rom hat Papst Franziskus nur wenige Worte gesprochen. Auch seine Privataudienz für US-Vizepräsident JD Vance fiel sehr kurz aus.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-04/vatikan-ostermesse-papst-franziskus-petersplatz-rom",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-04/papst-ostermesse-urbi-et-orbi-vatikan-bild/super__430x286",
-      "image_title": "Franziskus: Papst Franziskus spricht auf dem Balkon des Petersdoms den Segen \"Urbi et Orbi\" am Ostersonntag 2025"
+      "title": "Großbritannien: Tausende Briten protestieren gegen Einschränkung von Transrechten",
+      "teaser": "Mit einer Entscheidung des britischen Supreme Court können trans Frauen von Schutzräumen ausgeschlossen werden. In London gehen Tausende dagegen auf die Straße.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-04/london-gerichtsurteil-transrechte-demonstrationen",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-04/urteil-grossbritannien-trans-frauenrechte-gleichstellung-demonstrationen-bild-bild-2/super__430x286",
+      "image_title": "Großbritannien: Mitglieder der Öffentlichkeit versammeln sich auf dem Parliament Square mit Transparenten und Plakaten als Teil des Trans Liberation Emergency Protest am 19. April 2025 in London, England. Der Trans Liberation Emergency Protest wurde nach dem Urteil des Obersten Gerichtshofs von dieser Woche ausgerufen, dass die rechtliche Definition einer Frau auf dem biologischen Geschlecht basieren sollte."
+    },
+    {
+      "title": "1860 München: Ehemaliger Fußballtrainer Werner Lorant ist tot",
+      "teaser": "In den Neunzigern führte er 1860 München von der dritten Liga in den europäischen Wettbewerb. Nun starb Trainer-Legende Werner Lorant nach schwerer Krankheit.",
+      "url": "https://www.zeit.de/sport/2025-04/werner-lorant-tot-fussball-trainer-1860-muenchen",
+      "image_url": "https://img.zeit.de/sport/2025-04/fussball-trainer-werner-lorant-tot-bild/super__430x286",
+      "image_title": "1860 München: ARCHIV - Fußballtrainer Werner Lorant steht in einem Fitnesstudio in Gladbeck (Archivfoto vom 15.06.2009). Der ehemalige Bundesliga-Trainer Werner Lorant wird neuer Sportdirektor beim Fußball-Regionalligisten Tennis Borussia Berlin. Das teilten die TeBe-Verantwortlichen am Dienstag (23.03.2010) mit. Foto: Bernd Thissen (zu dpa 0329 vom 23.03.2010) +++ dpa-Bildfunk +++"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fußball: \"Wir haben schon zusammen Fußball gespielt\"",
+      "teaser": "Die eine war Bundestagspräsidentin, die andere Fußballnationaltrainerin: Bärbel Bas und Martina Voss-Tecklenburg reden darüber, was die Politik vom Sport lernen kann.",
+      "url": "https://www.zeit.de/2025/16/fussball-baerbel-bas-martina-voss-tecklenburg",
+      "image_url": "https://img.zeit.de/2025/16/wir-haben-schon-zusammen-fussball-gespielt-teaserbild/super__430x286",
+      "image_title": "Fußball: Martina Voss-Tecklenburg links und Bärbel Bas rechts vor dem Margaretensee in Duisburg, 2025 +++++++<br/>Martina Voss-Tecklenburg und Bärbel Bas vor dem Margaretensee in Duisburg."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Tipps zum Reisen: \"Unter 20 Quadratmetern wird es eng\"",
@@ -151,25 +164,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2025/16/tipps-reisen-fluege-unterkunft-buchen-betrug",
       "image_url": "https://img.zeit.de/zeit-magazin/2025/16/booking-com-reisen-daten-vergleich-alexei-matouchkine-bild/super__430x286",
       "image_title": "Tipps zum Reisen: \"Unter 20 Quadratmetern wird es eng\""
-    },
-    {
-      "title": "Wetter an Ostern: Wetterdienst prognostiziert Starkregen und Gewitter an Ostersonntag",
-      "teaser": "In Teilen Deutschlands drohen laut DWD am Ostersonntag Gewitter mit Starkregen. Auch am Montag bleibt das Wetter unbeständig mit Schauern und einzelnen Gewittern.",
-      "url": "https://www.zeit.de/wissen/umwelt/2025-04/ostern-deutscher-wetterdienst-unwetter",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-04/ostern-deutscher-wetterdienst-unwetter-bild/super__430x286",
-      "image_title": "Wetter an Ostern: Eine Pusteblume ist mit Regentropfen benetzt in Lohr Am Main, Bayern, am 18. April 2025."
-    },
-    {
-      "title": "Liveblog:Ukrainekrieg: Russische Verluste laut Ukraine auf niedrigstem Stand seit Monaten",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/ukraine-krieg-news-liveblog-bild-21/square__430x430",
-      "image_title": "Ukrainekrieg: Ein Kreuz ist hinter Stacheldraht in der Frontstadt Kostiantynivka in der Region Donezk in der Ukraine zu sehen, am 19. April 2025."
-    },
-    {
-      "title": "Ukrainekrieg: Eine Feuerpause als Mittel des Kriegs?",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/ukraine-feuerpause-waffenruhe-wladimir-putin-experten",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/ukraine-feuerpause-waffenruhe-wladimir-putin-experten-bild/square__430x430",
-      "image_title": "Ukrainekrieg: Ein gepanzertes ukrainisches Militärfahrzeug fährt am 19. April 2025 inmitten der russischen Invasion in der Ukraine auf einer Straße in einem Dorf unweit der Frontlinie in der Region Dnipropetrowsk. Der ukrainische Präsident Wolodymyr Zelenski erklärte am 19. April 2025, seine Streitkräfte würden sich an die vom russischen Präsidenten überraschend verkündete Osterruhe halten, die bis Sonntag um Mitternacht gelten sollte, während in Kiew Luftschutzsirenen ertönten. Doch nur wenige Stunden nach Inkrafttreten des Befehls ertönten in der ukrainischen Hauptstadt Luftschutzsirenen, und Zelensky beschuldigte Russland, sein Artilleriefeuer und seine Angriffe auf die Frontlinie aufrechtzuerhalten."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Neobroker: Was tun, wenn Trade Republic, Scalable und Co. down sind?",
@@ -193,25 +187,11 @@
       "image_title": "Eskapismus: Bitte schalten Sie jetzt ab"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erziehungsvorsätze: Nie wollte ich mein Kind belügen. Jetzt glaubt es an den Osterhasen",
-      "teaser": "Bevor man Kinder hat, macht man allerlei gute Vorsätze für die Erziehung. Die gehen in der Realität schnell dahin – weil Eltern sich auch ständig selbst etwas vormachen.",
-      "url": "https://www.zeit.de/familie/2025-04/erziehungsvorsaetze-eltern-kinder-luegen-familie",
-      "image_url": "https://img.zeit.de/familie/2025-04/osterhase-geheimnisse-bild/super__430x286",
-      "image_title": "Erziehungsvorsätze: Nie wollte ich mein Kind belügen. Jetzt glaubt es an den Osterhasen"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Psychotherapie • Z+ Empfehlung: \"Seien Sie glücklich, und enttäuschen Sie Ihre Eltern\"",
       "teaser": "Depressionen sind der Dank für jahrelanges Artigsein. Und: Wer loslässt, hat zwei Hände frei. Diese 100 Sätze haben unsere Leser aus ihrer Therapie mitgenommen.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration",
       "image_url": "https://img.zeit.de/zeit-magazin/2024-07/psychotherapie-psychologie-mentale-gesundheit-inspiration-teaser/super__430x286",
       "image_title": "Psychotherapie • Z+ Empfehlung: \"Seien Sie glücklich, und enttäuschen Sie Ihre Eltern\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mundgesundheit: So putzen Sie Ihre Zähne (wissenschaftlich) korrekt",
-      "teaser": "Auf die Dauer kommt es nicht an, auf die richtige Zahnpasta schon. Ob es Zahnreinigung, Seide und die Elektrische wirklich braucht: Alles, was man über Zahnpflege weiß.",
-      "url": "https://www.zeit.de/2025/16/mundgesundheit-zaehne-karies-vorsorge",
-      "image_url": "https://img.zeit.de/2025/16/2-was-jeder-selbst-tun-kann-bild-1/super__430x286",
-      "image_title": "Mundgesundheit: Angst? Jeder Zehnte vermeidet deswegen den Praxisbesuch"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Werdende Eltern: 99 Dinge, die wir gerne vor dem ersten Kind gewusst hätten",
@@ -291,27 +271,6 @@
       "image_title": "Biergärten in Hamburg: Leser Wilfried schreibt: \"Die für mich beste Zeit bei Sierichs ist eine Stunde vor Sonnenuntergang.\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Backen: Mein Kuchenjahr",
-      "teaser": "Anfangs buk unsere Autorin zur Entspannung, dann für Freunde, zuletzt aus Stress. Was sie in einem Jahr über das Backen lernte – und welche Rezepte Freude bereiten.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025/08/backen-kuchen-gebaeck-hobby-rezepte",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-04/mein-kuchenjahr-bild/super__430x286",
-      "image_title": "Backen: Mein Kuchenjahr"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Personalsachbearbeiterin: \"Manche Kommilitonen kamen morgens mit dem Benz zur Vorlesung\"",
-      "teaser": "Katja, 25, studierte an einer privaten Uni und fühlte sich dort fremd. Heute hat sie einen langweiligen Job, den sie wegen des hohen Studienkredits nicht kündigen kann.",
-      "url": "https://www.zeit.de/arbeit/2025-04/personalsachbearbeiterin-gehalt-studienkredit-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2025-04/personalsachbearbeiterin-gehalt-studienkredit-kontoauszug-2/super__430x286",
-      "image_title": "Personalsachbearbeiterin: \"Manche Kommilitonen kamen morgens mit dem Benz zur Vorlesung\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kontaktabbruch • Z+ Empfehlung: \"Ich habe mich als Vater machtlos gefühlt\"",
-      "teaser": "Was gibt es Schlimmeres für Eltern als Kinder, die sich von ihnen abwenden? Wir erzählen die Geschichte eines Kontaktabbruchs aus der Sicht des Vaters – und der Tochter.",
-      "url": "https://www.zeit.de/familie/2025-04/kontaktabbruch-vater-tochter-familie-beziehung",
-      "image_url": "https://img.zeit.de/familie/2025-04/kontaktabbruch-vater-tochter-familie-beziehung-bild/super__430x286",
-      "image_title": "Kontaktabbruch • Z+ Empfehlung: Rückansicht Vater mit Tochter"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Bernadette Lang: Bernadette, 34, ewige Jungfrau",
       "teaser": "Bernadette Lang führt ein Leben als \"Braut Christi\". Sie gelobt, für immer auf Sex zu verzichten, und inszeniert das öffentlich. Ist das abwegig – oder folgerichtig?",
       "url": "https://www.zeit.de/2025/16/bernadette-lang-braut-christi-jungfrau-weihe",
@@ -333,11 +292,11 @@
       "image_title": "Kunst aus Schokolade: Leonie Corentin Chocolatier"
     },
     {
-      "title": "Indigene im Amazonas: Wovor sich diese Menschen im Regenwald wirklich verstecken",
-      "teaser": "2024 taucht ein Video von den angeblich unkontaktierten Mashco Piro im peruanischen Urwald auf. Sind sie bedroht – oder selbst eine Gefahr? Eine Spurensuche im Amazonas",
-      "url": "https://www.zeit.de/video/2025-04/mashco-piro-unkontaktiert-indigen-peru-amazonas",
-      "image_url": "https://img.zeit.de/video/2025-04/zeit-mashco-piro-peru-amazonas-unkontaktiert/super__430x286",
-      "image_title": "Indigene im Amazonas: Wovor sich diese Menschen im Regenwald wirklich verstecken"
+      "title": "Z+ (abopflichtiger Inhalt); Mundgesundheit: So putzen Sie Ihre Zähne (wissenschaftlich) korrekt",
+      "teaser": "Auf die Dauer kommt es nicht an, auf die richtige Zahnpasta schon. Ob es Zahnreinigung, Seide und die Elektrische wirklich braucht: Alles, was man über Zahnpflege weiß.",
+      "url": "https://www.zeit.de/2025/16/mundgesundheit-zaehne-karies-vorsorge",
+      "image_url": "https://img.zeit.de/2025/16/2-was-jeder-selbst-tun-kann-bild-1/super__430x286",
+      "image_title": "Mundgesundheit: Angst? Jeder Zehnte vermeidet deswegen den Praxisbesuch"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Finanzkrisen: Macht ein Börsencrash die Welt wieder gleicher?",
@@ -345,13 +304,6 @@
       "url": "https://www.zeit.de/geld/2025-04/finanzkrisen-gleichheit-boersencrash-superreiche-milliardaere-oekonomen",
       "image_url": "https://img.zeit.de/geld/2025-04/finanzkrisen-gleichheit-boersencrash/wide__892x501",
       "image_title": "Finanzkrisen: Macht ein Börsencrash die Welt wieder gleicher?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Thermomix TM7: Ich habe mich eine Woche nur aus dem neuen Thermomix TM7 ernährt",
-      "teaser": "Kein anderes Küchengerät polarisiert so sehr wie der Thermomix. Unser Gadget-Experte hat getestet, was das Gerät kann und ob sich der Kauf des Turbo-Mixers lohnt.",
-      "url": "https://www.zeit.de/digital/2025-04/thermomix-tm7-vorwerk-test-kueche-anwendung",
-      "image_url": "https://img.zeit.de/digital/2025-04/vorwerk-thermomix-tm7-test/super__430x286",
-      "image_title": "Thermomix TM7: Ich habe mich eine Woche nur aus dem neuen Thermomix TM7 ernährt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Eier: Was die Wissenschaft über das perfekte Ei weiß",
@@ -474,9 +426,9 @@
       "url": "https://www.zeit.de/politik/deutschland/2025-04/alexander-dobrindt-csu-koalitionsverhandlungen-spd-die-gruenen"
     },
     {
-      "title": "Bitcoin-Mining in Texas: Wo die Krypto-Minen brummen",
-      "teaser": "In Texas geht das Bitcoin-Fieber um, riesige Rechenzentren entstehen. Anwohner und natürliche Ressourcen werden nicht geschont, auch weil der Präsident selbst profitiert.",
-      "url": "https://www.zeit.de/wirtschaft/bitcoin-mining-texas-kryptowaehrung-boom-usa"
+      "title": "Donald Trump: Erneut landesweite Proteste in den USA gegen Regierung",
+      "teaser": "In den USA werfen Tausende Demonstranten dem US-Präsidenten autokratisches Regieren vor. Auch vor dem Weißen Haus in Washington wurde gegen Donald Trump protestiert.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-04/donald-trump-proteste-usa-landesweit-hunderte"
     },
     {
       "title": "Alexander Dobrindt: Bei ihm kann sich Friedrich Merz bedanken",
@@ -496,11 +448,11 @@
       "url": "https://www.zeit.de/politik/ausland/2025-04/ukraine-krieg-wladimir-putin-ankuendigung-waffenruhe-ueber-ostern"
     },
     {
-      "title": "\"Elena\" – Folge 1: Kann eine Mutter so etwas wirklich tun?",
-      "teaser": "Die achtjährige Elena wird tot im Wald gefunden. Ihre Mutter soll die Mörderin sein. Doch es gibt keinen Beweis – nur 16 Indizien. Unser Dokupodcast geht den Spuren nach.",
-      "url": "https://www.zeit.de/gesellschaft/2025-02/elena-mord-koenizbergwald-bern-podcast-folge-1",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-02/elena-mord-koenizbergwald-bern-podcast-folge-1-bild/wide__892x501",
-      "image_title": "\"Elena\" – Folge 1: Kann eine Mutter so etwas wirklich tun?"
+      "title": "Z+ (abopflichtiger Inhalt); Orcas und Segler: Nie kamen sie uns so nah",
+      "teaser": "16 Orcas beschädigen hunderte Boote vor Gibraltar. Nun feuern Menschen mit Waffen auf sie. Der Streit um die Wale eskaliert. Dabei haben sie keine Killerabsichten.",
+      "url": "https://www.zeit.de/wissen/umwelt/2025-04/orcas-segeljachten-gibraltar-angriffe-killerwal",
+      "image_url": "https://img.zeit.de/wissen/2025-03/orcas-segeljachten-gibraltar-angriffe-12/wide__892x501",
+      "image_title": "Orcas und Segler: Nie kamen sie uns so nah"
     },
     {
       "title": "Verlagsangebot: 9 charmante Kleinstädte in Deutschland",
@@ -510,18 +462,18 @@
       "image_title": "Freunde der ZEIT: 9 charmante Kleinstädte in Deutschland"
     },
     {
-      "title": "Dokupodcast: Friedrich Merz: Sein langer Weg zur Macht",
-      "teaser": "Eine Podcastserie in sechs Teilen",
-      "url": "https://www.zeit.de/serie/merz",
-      "image_url": "https://img.zeit.de/podcasts/logos/friedrich-merz-logo/super__E7DBDB__430x286",
-      "image_title": "Dokupodcast: Logo für den Podcast \"Friedrich Merz: Sein langer Weg zur Macht\""
+      "title": "Z+ (abopflichtiger Inhalt); Daten zu Asylanträgen: Warum gerade weniger Flüchtlinge nach Deutschland kommen",
+      "teaser": "Die Zahl der Asylanträge sinkt, Friedrich Merz will sie sogar auf 100.000 pro Jahr reduzieren. Wir zeigen, woher die Menschen kommen und welche Bleibechancen sie haben.",
+      "url": "https://www.zeit.de/politik/ausland/2025-04/daten-asylantraege-laender-migration-friedrich-merz",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/daten-asylantraege-laender-migration-friedrich-merz-bild/super__430x286",
+      "image_title": "Daten zu Asylanträgen: Neue Syrische Flagge nach dem Sturz des Assad Regime. Ahmat ist von Syrien nach Deutschland gefluechtet. Er ist Bewohner der Unterkunft. Blick in seinen Raum in der Fluechtlingsunterkunft in der Colditzstrasse 32, betrieben von der Albatros gGmbH. Es ist eine Gemeinschaftsunterkunft im Bezirk Tempelhof-Schoeneberg, in der gefluechtete Menschen untergebracht werden. [Fuer die Errichtung, Belegung und Qualitaetssicherung dieser Unterkunft ist das Landesamt fuer Fluechtlingsangelegenheiten (LAF) zustaendig.] Aufgenommen am 04.02.2025 in Berlin."
     },
     {
-      "title": "Liveblog:Regierungsbildung: Julia Klöckner will im Streit um die AfD vermitteln",
-      "teaser": "Die Fraktionen sollen sich über den Umgang mit der AfD einigen, fordert Bundestagspräsidentin Klöckner. Sie regt zudem digitale Abstimmungen im Parlament an. Das Liveblog",
-      "url": "https://www.zeit.de/politik/deutschland/2025-04/regierungsbildung-spd-union-abstimmung-koalitionsvertrag-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/julia-kloeckner-bundestag/wide__892x501",
-      "image_title": "Regierungsbildung: Bundestagspräsidentin Julia Klöckner (CDU)"
+      "title": "Ukrainekrieg: Eine Feuerpause als Mittel des Kriegs?",
+      "teaser": "Die von Putin verkündete Feuerpause ist an der Front kaum zu spüren, Experten sehen in ihr keinen Impuls für Frieden. Schon 2023 gab es einen vielsagenden Präzedenzfall.",
+      "url": "https://www.zeit.de/politik/ausland/2025-04/ukraine-feuerpause-waffenruhe-wladimir-putin-experten",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/ukraine-feuerpause-waffenruhe-wladimir-putin-experten-bild/wide__892x501",
+      "image_title": "Ukrainekrieg: Ein gepanzertes ukrainisches Militärfahrzeug fährt am 19. April 2025 inmitten der russischen Invasion in der Ukraine auf einer Straße in einem Dorf unweit der Frontlinie in der Region Dnipropetrowsk. Der ukrainische Präsident Wolodymyr Zelenski erklärte am 19. April 2025, seine Streitkräfte würden sich an die vom russischen Präsidenten überraschend verkündete Osterruhe halten, die bis Sonntag um Mitternacht gelten sollte, während in Kiew Luftschutzsirenen ertönten. Doch nur wenige Stunden nach Inkrafttreten des Befehls ertönten in der ukrainischen Hauptstadt Luftschutzsirenen, und Zelensky beschuldigte Russland, sein Artilleriefeuer und seine Angriffe auf die Frontlinie aufrechtzuerhalten."
     },
     {
       "title": "Verlagsangebot: Quiz: Wie gut ist Ihr Zeitgefühl?",
@@ -531,11 +483,11 @@
       "image_title": "Quiz: Wie gut ist Ihr Zeitgefühl?"
     },
     {
-      "title": "Ukrainekarte aktuell: Ukrainische Streitkräfte rücken bei Pokrowsk vor",
-      "teaser": "Südlich der strategisch wichtigen Stadt Pokrowsk hat die Ukraine Gelände zurückerobert, östlich von ihr drang Russland vor. Auch bei Torezk gelingen Russland Vorstöße.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/super__430x286",
-      "image_title": "Ukrainekarte aktuell: Ukrainische Streitkräfte rücken bei Pokrowsk vor"
+      "title": "Liveblog:Regierungsbildung: Julia Klöckner will im Streit um die AfD vermitteln",
+      "teaser": "Die Fraktionen sollen sich über den Umgang mit der AfD einigen, fordert Bundestagspräsidentin Klöckner. Sie regt zudem digitale Abstimmungen im Parlament an. Das Liveblog",
+      "url": "https://www.zeit.de/politik/deutschland/2025-04/regierungsbildung-spd-union-abstimmung-koalitionsvertrag-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/julia-kloeckner-bundestag/super__430x286",
+      "image_title": "Regierungsbildung: Bundestagspräsidentin Julia Klöckner (CDU)"
     },
     {
       "title": "Bitcoin-Mining in Texas: Wo die Krypto-Minen brummen",
@@ -573,24 +525,31 @@
       "image_title": "Finanzmarkt: Warum das Schlimmste für die Börsen noch kommen könnte"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Jobsuche: In diesen sechs Jobs werden dringend Leute gesucht",
-      "teaser": "Überall fallen Stellen weg? Stimmt nicht. In welchen Branchen Personal gebraucht wird, wie viel man dort verdient – und wo ein Quereinstieg möglich ist.",
-      "url": "https://www.zeit.de/arbeit/2025-03/jobsuche-offene-stellen-quereinstieg-gehalt",
-      "image_url": "https://img.zeit.de/arbeit/2025-03/jobsuche-offene-stellen-quereinstieg-gehalt-bild/wide__892x501",
-      "image_title": "Jobsuche: In diesen sechs Jobs werden dringend Leute gesucht"
+      "title": "Z+ (abopflichtiger Inhalt); Personalsachbearbeiterin: \"Manche Kommilitonen kamen morgens mit dem Benz zur Vorlesung\"",
+      "teaser": "Katja, 25, studierte an einer privaten Uni und fühlte sich dort fremd. Heute hat sie einen langweiligen Job, den sie wegen des hohen Studienkredits nicht kündigen kann.",
+      "url": "https://www.zeit.de/arbeit/2025-04/personalsachbearbeiterin-gehalt-studienkredit-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2025-04/personalsachbearbeiterin-gehalt-studienkredit-kontoauszug-2/wide__892x501",
+      "image_title": "Personalsachbearbeiterin: \"Manche Kommilitonen kamen morgens mit dem Benz zur Vorlesung\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Neuanfang: \"Ich habe die Warnzeichen meines Körpers lange ignoriert\"",
-      "teaser": "Anna Donauer aus Wiener Neustadt arbeitete in einer Werbeagentur, bis sie vor Erschöpfung zusammenbrach. Sie kündigte und fühlt sich als Crossfit-Coach so frei wie nie.",
-      "url": "https://www.zeit.de/arbeit/2025-03/neuanfang-buerojob-erschoepfung-neuorientierung-bali",
-      "image_url": "https://img.zeit.de/arbeit/2025-03/neuanfang-buerojob-erschoepfung/super__430x286",
-      "image_title": "Neuanfang: \"Ich habe die Warnzeichen meines Körpers lange ignoriert\""
+      "title": "Z+ (abopflichtiger Inhalt); Freitodbegleitung: Sie wollen sterben",
+      "teaser": "Wer bestimmt, wann ein Leben endet? Es gibt Menschen, die diese Entscheidung selbst treffen möchten. Ein Jahr mit einer Ärztin, die andere in den Tod begleitet.",
+      "url": "https://www.zeit.de/arbeit/2025-04/freitodbegleitung-aerztin-assistierter-suizid-sterbehilfe-medizin",
+      "image_url": "https://img.zeit.de/arbeit/2025-04/freitodbegleitung-aerztin-assistierter-suizid-8/super__430x286",
+      "image_title": "Freitodbegleitung: Sie wollen sterben"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kontaktabbruch • Z+ Empfehlung: \"Ich habe mich als Vater machtlos gefühlt\"",
+      "teaser": "Was gibt es Schlimmeres für Eltern als Kinder, die sich von ihnen abwenden? Wir erzählen die Geschichte eines Kontaktabbruchs aus der Sicht des Vaters – und der Tochter.",
+      "url": "https://www.zeit.de/familie/2025-04/kontaktabbruch-vater-tochter-familie-beziehung",
+      "image_url": "https://img.zeit.de/familie/2025-04/kontaktabbruch-vater-tochter-familie-beziehung-bild/wide__892x501",
+      "image_title": "Kontaktabbruch • Z+ Empfehlung: Rückansicht Vater mit Tochter"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Getrennte Eltern: \"Früher haben wir uns täglich gestritten, jetzt nur noch alle 14 Tage\"",
       "teaser": "Getrennt, aber weiterhin als Familie zusammenleben – geht das? Wir haben Eltern und Experten befragt, die zeigen, wie das funktionieren kann. Auch, wenn es weh tut.",
       "url": "https://www.zeit.de/familie/2025-04/getrennte-eltern-familie-streit-therapie-kinder",
-      "image_url": "https://img.zeit.de/familie/2025-04/getrennte-eltern-familie-streit-therapie/wide__892x501",
+      "image_url": "https://img.zeit.de/familie/2025-04/getrennte-eltern-familie-streit-therapie/super__430x286",
       "image_title": "Getrennte Eltern: \"Früher haben wir uns täglich gestritten, jetzt nur noch alle 14 Tage\""
     },
     {
@@ -599,13 +558,6 @@
       "url": "https://www.zeit.de/familie/2025-04/exkursionen-schule-ausflug-museum-lehrerkolumne",
       "image_url": "https://img.zeit.de/zeit-verlag/2025-04/exkursionen-schule-ausflug-museum-lehrerkolumne-bild/super__430x286",
       "image_title": "Exkursionen in der Schule: Ich kann während des Ramadan nicht auch noch aufs Fluchen verzichten"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Auswandern aus Deutschland: Ein Land zum Davonlaufen",
-      "teaser": "Wenn man als junger Mensch überall Geld verdienen kann, warum dann ausgerechnet hier? Was Eltern fühlen, wenn ihre Kinder über das Auswandern nachdenken.",
-      "url": "https://www.zeit.de/zeit-magazin/2025/15/auswandern-deutschland-wunsch-pruefers-toechter",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-04/auswandern-deutschland-wunsch-pruefers/super__430x286",
-      "image_title": "Auswandern aus Deutschland: Ein Land zum Davonlaufen"
     },
     {
       "title": "Bücherpodcast: Wir und die Außerirdischen",
@@ -685,11 +637,11 @@
       "image_title": "Autoindustrie in China: MG Motor vehicles, a brand of Chinese state-owned carmaker SAIC, are seen reflected in the glass of a car showroom in Santander, Spain, 2024. REUTERS/Vincent West"
     },
     {
-      "title": "Großbritannien: Tausende Briten protestieren gegen Einschränkung von Transrechten",
-      "teaser": "Mit einer Entscheidung des britischen Supreme Court können trans Frauen von Schutzräumen ausgeschlossen werden. In London gehen Tausende dagegen auf die Straße.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-04/london-gerichtsurteil-transrechte-demonstrationen",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-04/urteil-grossbritannien-trans-frauenrechte-gleichstellung-demonstrationen-bild-bild-2/wide__892x501",
-      "image_title": "Großbritannien: Mitglieder der Öffentlichkeit versammeln sich auf dem Parliament Square mit Transparenten und Plakaten als Teil des Trans Liberation Emergency Protest am 19. April 2025 in London, England. Der Trans Liberation Emergency Protest wurde nach dem Urteil des Obersten Gerichtshofs von dieser Woche ausgerufen, dass die rechtliche Definition einer Frau auf dem biologischen Geschlecht basieren sollte."
+      "title": "Franziskus: Papst erscheint zur Ostermesse und spendet Segen Urbi et orbi",
+      "teaser": "Bei der Ostermesse in Rom hat Papst Franziskus nur wenige Worte gesprochen. Auch seine Privataudienz für US-Vizepräsident JD Vance fiel sehr kurz aus.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-04/vatikan-ostermesse-papst-franziskus-petersplatz-rom",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-04/papst-ostermesse-urbi-et-orbi-vatikan-bild/wide__892x501",
+      "image_title": "Franziskus: Papst Franziskus spricht auf dem Balkon des Petersdoms den Segen \"Urbi et Orbi\" am Ostersonntag 2025"
     },
     {
       "title": "Ostern: Papst möchte an Ostermesse in Rom teilnehmen",
@@ -741,18 +693,18 @@
       "image_title": "Überseequartier: In Deckung, die Tür öffnet sich"
     },
     {
+      "title": "Wetter an Ostern: Wetterdienst prognostiziert Starkregen und Gewitter an Ostersonntag",
+      "teaser": "In Teilen Deutschlands drohen laut DWD am Ostersonntag Gewitter mit Starkregen. Auch am Montag bleibt das Wetter unbeständig mit Schauern und einzelnen Gewittern.",
+      "url": "https://www.zeit.de/wissen/umwelt/2025-04/ostern-deutscher-wetterdienst-unwetter",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-04/ostern-deutscher-wetterdienst-unwetter-bild/wide__892x501",
+      "image_title": "Wetter an Ostern: Eine Pusteblume ist mit Regentropfen benetzt in Lohr Am Main, Bayern, am 18. April 2025."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Mikrobiom im Darm • Z+ Empfehlung: 1.038 Bakterienarten – in meinem Darm!",
       "teaser": "Wer wohnt im Verdauungstrakt? Das sollen Mikrobiom-Analysen verraten. Unser Autor lässt sich testen und beschließt eine Ernährungsumstellung – mit verblüffendem Ergebnis.",
       "url": "https://www.zeit.de/2024/49/mikrobiom-darm-ernaehrung-gesundheit-test",
-      "image_url": "https://img.zeit.de/2024/49/volkszaehlung-in-meinem-darm-bild-8/wide__892x501",
+      "image_url": "https://img.zeit.de/2024/49/volkszaehlung-in-meinem-darm-bild-8/super__430x286",
       "image_title": "Mikrobiom im Darm • Z+ Empfehlung: Online"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Thomas Mann und der Nationalsozialismus: Als Thomas Mann endlich sprach",
-      "teaser": "1933 verließ Thomas Mann Deutschland. Doch es dauerte drei Jahre, bis er sich öffentlich gegen Hitler stellte – und damit sein Heimatland für immer verlor.",
-      "url": "https://www.zeit.de/zeit-geschichte/2025/02/thomas-mann-nationalsozialismus-widerstand-emigration-adolf-hitler",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2025/02/der-bursche-ist-eine-katastrophe-bild-2/super__430x286",
-      "image_title": "Thomas Mann und der Nationalsozialismus: Machtdemonstration Nationalsozialisten marschieren am 9. November 1933 durch die Straßen von Thomas Manns Wahlheimat München. Das Regime zelebriert den zehnten Jahrestag des Hitler-Putsches"
     },
     {
       "title": "Anzeige: Reiseinspiration mit dem ZEIT REISEN-Newsletter",
@@ -844,18 +796,18 @@
       "image_title": "Künstliche Intelligenz: Wie ich zur Überwachungskamera-Installateurin wurde (fast)"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Thermomix TM7: Ich habe mich eine Woche nur aus dem neuen Thermomix TM7 ernährt",
+      "teaser": "Kein anderes Küchengerät polarisiert so sehr wie der Thermomix. Unser Gadget-Experte hat getestet, was das Gerät kann und ob sich der Kauf des Turbo-Mixers lohnt.",
+      "url": "https://www.zeit.de/digital/2025-04/thermomix-tm7-vorwerk-test-kueche-anwendung",
+      "image_url": "https://img.zeit.de/digital/2025-04/vorwerk-thermomix-tm7-test/super__430x286",
+      "image_title": "Thermomix TM7: Ich habe mich eine Woche nur aus dem neuen Thermomix TM7 ernährt"
+    },
+    {
       "title": "Kartellverfahren gegen Google: Google hatte laut US-Gericht illegales Monopol bei Onlinewerbung",
       "teaser": "Nach dem Urteil im Zusammenhang mit dem Chrome-Browser vergangenen August urteilte nun erneut ein US-Gericht gegen Google. Dabei ging es um die Platzierung von Werbung.",
       "url": "https://www.zeit.de/digital/2025-04/usa-google-werbung-monopol-kartell-verfahren",
       "image_url": "https://img.zeit.de/digital/2025-04/usa-google-werbung-monopol-kartell-verfahren-bild/super__430x286",
       "image_title": "Kartellverfahren gegen Google: The logo of Google is seen outside Google Bay View facilities during the Made by Google event in Mountain View, California, U.S. August 13, 2024. Google unveils a new line of Pixel smartphones, plus a new smart watch and wireless earbuds at its annual hardware event. REUTERS/Manuel Orbegozo"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); TikTok-Tipp: Warum schmiert man Zahnpasta auf einen Badezimmerspiegel?",
-      "teaser": "Auf TikTok zeigen etliche Videos, wie man Badezimmerspiegel erkennt, durch die andere einen beobachten können. Angeblich. Denn das ist nicht der wahre Zweck dieser Clips.",
-      "url": "https://www.zeit.de/digital/internet/2025-04/tiktok-tipp-zahnpasta-badezimmer-spiegel",
-      "image_url": "https://img.zeit.de/digital/2025-04/tiktok-tipp-zahnpasta-badezimmer/super__430x286",
-      "image_title": "TikTok-Tipp: Warum schmiert man Zahnpasta auf einen Badezimmerspiegel?"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -900,18 +852,18 @@
       "image_title": "Cannabis: \"Mich hat diese Droge fast alles gekostet\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Backen: Mein Kuchenjahr",
+      "teaser": "Anfangs buk unsere Autorin zur Entspannung, dann für Freunde, zuletzt aus Stress. Was sie in einem Jahr über das Backen lernte – und welche Rezepte Freude bereiten.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025/08/backen-kuchen-gebaeck-hobby-rezepte",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-04/mein-kuchenjahr-bild/wide__892x501",
+      "image_title": "Backen: Mein Kuchenjahr"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Dennis Eichmann : Warum ausgerechnet Plastikstühle Fernweh auslösen",
       "teaser": "Der Fotograf Dennis Eichmann sammelt Bilder von leeren Plastikstühlen. Und ist dabei auch auf ganz besondere Reisetipps für ganz besondere Orte gestoßen.",
       "url": "https://www.zeit.de/zeit-magazin/2025/16/dennis-eichmann-fotografie-plastikstuehle-fernweh",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/16/schon-gebucht-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/16/schon-gebucht-bild-1/super__430x286",
       "image_title": "Dennis Eichmann: 3. Was essen auf dem Mercado Jamaica in Mexiko-Stadt? Pia Riverola, die Fotografin unseres ersten Coverfotos, empfiehlt dringend den Maissalat (Esquites) bei Elotes Correa. Der Stand ist von acht Uhr früh bis drei Uhr nachts geöffnet – und das Gericht schmeckt jederzeit"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bread-Pudding mit Erdbeeren: Alle glücklich",
-      "teaser": "Diese fluffige Süßspeise macht alle froh, die das Glück haben, am Tisch zu sitzen, auf dem sie steht. Für Erdbeeren ist's zwar noch arg früh, aber gebacken schmeckt's.",
-      "url": "https://www.zeit.de/zeit-magazin/2025/16/bread-pudding-erdbeeren-hefezopf-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025/16/alle-gluecklich-bild-1/super__430x286",
-      "image_title": "Bread-Pudding mit Erdbeeren: Alle glücklich"
     },
     {
       "title": "Neu: Buchstabensalat: Wortgeflecht",
@@ -956,17 +908,24 @@
       "image_title": "Einfach – mittel – schwer: Sudoku für Einsteiger"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bread-Pudding mit Erdbeeren: Alle glücklich",
+      "teaser": "Diese fluffige Süßspeise macht alle froh, die das Glück haben, am Tisch zu sitzen, auf dem sie steht. Für Erdbeeren ist's zwar noch arg früh, aber gebacken schmeckt's.",
+      "url": "https://www.zeit.de/zeit-magazin/2025/16/bread-pudding-erdbeeren-hefezopf-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/16/alle-gluecklich-bild-1/wide__892x501",
+      "image_title": "Bread-Pudding mit Erdbeeren: Alle glücklich"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Penne mit entflohenem Huhn: Da kräht sehr wohl ein Hahn danach!",
       "teaser": "Manche Gerichte feiern schon im Namen, dass kein Tier für sie gestorben ist, so wie Penne con pollo scappato: Hier ist das Huhn entkommen, geschmacklich fehlt es nicht.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-04/penne-con-pollo-scappato-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-04/penne-con-pollo-scappato-teaser/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-04/penne-con-pollo-scappato-teaser/super__430x286",
       "image_title": "Penne mit entflohenem Huhn: Rachel Roddys penne con pollo scappato haben es in sich: fleischlos, aber mit reichlich Umami."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dosenfisch: Alles, nur kein Brot!",
       "teaser": "Konservierte Sardinen und Co. sind sehr gesund. Und sehr lecker. Aber immer mit Brot? Wir haben originelle Rezepte gefunden, mit Pfirsich, Eiern oder Koriander-Salsa.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025/08/dosenfisch-zubereitung-sardinen-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-04/dosenfisch/super__430x286",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-04/dosenfisch/super__320x213",
       "image_title": "Dosenfisch: Alles, nur kein Brot!"
     },
     {
@@ -998,13 +957,6 @@
       "image_title": "Bärlauch-Süßkartoffel-Börek: Bärlauch-Süßkartoffel-Börek"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tofu-Erdnuss-Curry mit Spinat: Ein Curry für Eilige",
-      "teaser": "20 Minuten – und das Curry steht auf dem Tisch. Comfort-Food muss nicht kompliziert sein. Der heimliche Held dieses Gerichts: Blattspinat.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2024-05/tofu-erdnuss-curry-spinat-schnell-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2024-05/tofu-erdnuss-curry/super__320x213",
-      "image_title": "Tofu-Erdnuss-Curry mit Spinat: Ein Curry für Eilige"
-    },
-    {
       "title": "Maya Train in Mexiko: Der Fluch der Karibik",
       "teaser": "Aktivismus ist in Mexiko lebensgefährlich. Trotzdem kämpft Talismán für die Höhlen und den Urwald. Und gegen den Staat, der eine Bahnstrecke für Touris baut.",
       "url": "https://www.zeit.de/campus/2025/02/maya-train-mexiko-umweltschutz-aktivismus-urwald",
@@ -1012,11 +964,11 @@
       "image_title": "Maya Train in Mexiko: \"Sie haben mich gerettet, jetzt will ich sie retten\", sagt Talismán über die Cenotes, die Höhlen unter seiner Heimatstadt Playa del Carmen."
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Propalästinensische Proteste: Präsidentin der Humboldt-Universität verteidigt Räumung von Hörsaal",
@@ -1054,36 +1006,36 @@
       "image_title": "Felix Magath: Felix Magath"
     },
     {
-      "title": "Pazifisten fordern Frieden: Demonstranten schwenken Friedenstaube-Fahnen bei Ostermarsch",
-      "url": "https://www.zeit.de/news/2025-04/20/demonstranten-schwenken-friedenstaube-fahnen-bei-ostermarsch"
-    },
-    {
-      "title": "BMW Open im Tennis: Geburtstagskind Zverev triumphiert in München",
+      "title": "BMW Open im Tennis: Geburtstagskind Zverev siegt in München - \"Beste Woche\"",
       "url": "https://www.zeit.de/news/2025-04/20/tennis-ass-zverev-gewinnt-atp-turnier-in-muenchen"
     },
     {
-      "title": "Unfall: Betrunkener verursacht Verkehrsunfall und versucht Flucht",
-      "url": "https://www.zeit.de/news/2025-04/20/betrunkener-verursacht-verkehrsunfall-und-versucht-flucht"
+      "title": "Überholunfall: Zusammenstoß mit Jugendlichen - Fahrer verlässt Unfallort",
+      "url": "https://www.zeit.de/news/2025-04/20/zusammenstoss-mit-jugendlichen-fahrer-verlaesst-unfallort"
     },
     {
-      "title": "Kriminalität: Tödliche Schüsse: Polizei geht von persönlichem Motiv aus",
-      "url": "https://www.zeit.de/news/2025-04/20/grossfahndung-nach-toedlichen-schuessen-in-hessen"
+      "title": "Vineta-Osterspektakel: 2.500 Besucher verfolgen Legende von Vineta",
+      "url": "https://www.zeit.de/news/2025-04/20/2-500-besucher-verfolgen-legende-von-vineta"
     },
     {
-      "title": "Feuerwehreinsatz in Pinneberg: Brennende Wohnung in Wedel",
-      "url": "https://www.zeit.de/news/2025-04/20/brennende-wohnung-in-wedel"
+      "title": "Todesfall: Kult-Trainer Werner Lorant ist tot",
+      "url": "https://www.zeit.de/news/2025-04/20/kult-trainer-werner-lorant-ist-tot"
     },
     {
-      "title": "Weltbekannte Eisbachwelle: Surf-Unfall am Eisbach: Vorschläge für mehr Sicherheit",
-      "url": "https://www.zeit.de/news/2025-04/20/surf-unfall-am-eisbach-vorschlaege-fuer-mehr-sicherheit"
+      "title": "2. Fußball-Bundesliga: Magath bestätigt Kandidatur: Bin der richtige HSV-Präsident",
+      "url": "https://www.zeit.de/news/2025-04/20/magath-bestaetigt-kandidatur-bin-der-richtige-hsv-praesident"
     },
     {
-      "title": "WTA-Tour: Ostapenko erreicht Tennis-Finale in Stuttgart",
-      "url": "https://www.zeit.de/news/2025-04/20/ostapenko-erreicht-tennis-finale-in-stuttgart"
+      "title": "Unfall: Motorradfahrer stirbt bei Zusammenprall mit Auto",
+      "url": "https://www.zeit.de/news/2025-04/20/motorradfahrer-stirbt-bei-zusammenprall-mit-auto"
     },
     {
-      "title": "Notfälle: Schwelbrand in Mehrfamilienhaus – Mieterin unter Verdacht",
-      "url": "https://www.zeit.de/news/2025-04/20/schwelbrand-in-mehrfamilienhaus-mieterin-unter-verdacht"
+      "title": "Ostersonntag: Berliner genießen Frühlingswetter in Parks und Cafés",
+      "url": "https://www.zeit.de/news/2025-04/20/berliner-geniessen-fruehlingswetter-in-parks-und-caf-s"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Wieder Dritter: Magdeburg schlägt Regensburg klar",
+      "url": "https://www.zeit.de/news/2025-04/20/wieder-dritter-magdeburg-schlaegt-regensburg-klar"
     }
   ]
 }
