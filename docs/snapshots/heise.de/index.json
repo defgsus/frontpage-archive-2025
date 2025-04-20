@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-20T11:07:15",
+  "timestamp": "2025-04-20T12:15:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Python: Mit Minecraft spielerisch programmieren lernen",
+      "url": "https://www.heise.de/ratgeber/Python-Mit-Minecraft-spielerisch-programmieren-lernen-10296218.html"
+    },
+    {
+      "title": "LG: Smart-TVs sollen Emotionen der Zuschauer überwachen und per KI auswerten",
+      "url": "https://www.heise.de/news/LG-Smart-TVs-sollen-Emotionen-der-Zuschauer-ueberwachen-und-per-KI-auswerten-10357123.html"
+    },
     {
       "title": "iX-Workshop: DevSecOps – Automatisierte Sicherheitstests für Webanwendungen",
       "url": "https://www.heise.de/news/iX-Workshop-DevSecOps-Automatisierte-Sicherheitstests-fuer-Webanwendungen-10344415.html"
@@ -56,14 +64,6 @@
     {
       "title": "Missing Link: Digitale Stellwerke in Norwegen – Ein Vorbild für Deutschland?",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Digitale-Stellwerke-in-Norwegen-Ein-Vorbild-fuer-Deutschland-10356359.html"
-    },
-    {
-      "title": "Kommentar: Wofür private Messenger NICHT gedacht sind",
-      "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
-    },
-    {
-      "title": "Top-Angebote: Mähroboter ohne Begrenzungskabel aus 2024 bis zu 44 % günstiger",
-      "url": "https://www.heise.de/bestenlisten/deals/top-angebote-maehroboter/gv0z7e9"
     },
     {
       "title": "Missing LinkDigitale Stellwerke in Norwegen – Ein Vorbild für Deutschland?",
@@ -186,6 +186,23 @@
       "url": "https://www.heise.de/news/Sechs-sichere-Messenger-fuer-Android-und-iOS-c-t-uplink-10354444.html"
     },
     {
+      "title": "Python: Mit Minecraft spielerisch programmieren lernen",
+      "teaser": "In Minecraft Education können Sie ganz einfach mit Python ein Villager-Dorf generieren. Wir zeigen, wie der Einstieg in Python gelingt.",
+      "url": "https://www.heise.de/ratgeber/Python-Mit-Minecraft-spielerisch-programmieren-lernen-10296218.html",
+      "image_title": "Ein Minecraft Dirt-Block und das Symbol der Programmiersprache Python"
+    },
+    {
+      "title": "LG: Smart-TVs sollen Emotionen der Zuschauer überwachen und per KI auswerten",
+      "teaser": "LG-Fernseher werden bald ein KI-Modell fürs Schalten von Werbung nutzen, die mehr auf die persönlichen Überzeugungen und Emotionen der Nutzer zugeschnitten ist.",
+      "url": "https://www.heise.de/news/LG-Smart-TVs-sollen-Emotionen-der-Zuschauer-ueberwachen-und-per-KI-auswerten-10357123.html",
+      "image_title": "Fernbedienung, auf der gerade der Ausschalt-Knopf gedrückt wird; im Hintergrund unscharf ein Fernseher."
+    },
+    {
+      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
+      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "iX-Workshop: DevSecOps – Automatisierte Sicherheitstests für Webanwendungen",
       "teaser": "Automatisierte Sicherheitsprüfungen auf Anwendungsebene in den DevSecOps-Prozess integrieren.",
       "url": "https://www.heise.de/news/iX-Workshop-DevSecOps-Automatisierte-Sicherheitstests-fuer-Webanwendungen-10344415.html",
@@ -196,11 +213,6 @@
       "teaser": "Im ersten Quartal 2025 sind hierzulande Windenergieanlagen mit einer Leistung von knapp einem Gigawatt neu in Betrieb gegangen – der höchste Wert seit 2018.",
       "url": "https://www.heise.de/news/Windenergie-Ausbautempo-hat-Anfang-2025-deutlich-zugelegt-10357097.html",
       "image_title": "Drei Schwertransporte stehen an einer Straße und haben Bauteile für Windräder auf ihren Anhängern."
-    },
-    {
-      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
-      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Ärger mit aufgedrängten Verträgen: mehr Beschwerden",
@@ -224,17 +236,6 @@
       "teaser": "Erfahren Sie, wie Sie mit Retrieval Augmented Generation (RAG) und LangChain.js maßgeschneiderte KI-Lösungen entwickeln und implementieren können.",
       "url": "https://www.heise.de/news/iX-Workshop-KI-fuer-eigene-Daten-RAG-in-der-Praxis-mit-LangChain-js-10344429.html",
       "image_title": "iX-Workshop IT-Governance planen und implementieren"
-    },
-    {
-      "title": "Smart-Meter-Alternativen: Zähler-Leseköpfe & Co. im Überblick",
-      "teaser": "Den Stromverbrauch eines Haushalts erfasst man mit einem Lesekopf für gerade mal 30 Euro anschaulicher als mit einem teuren Smart-Meter-Gateway. Ein Überblick.",
-      "url": "https://www.heise.de/ratgeber/Smart-Meter-Alternativen-Zaehler-Lesekoepfe-Co-im-Ueberblick-10306611.html",
-      "image_title": ", KI, Collage c’t"
-    },
-    {
-      "title": "Kommentar: Wofür private Messenger NICHT gedacht sind",
-      "teaser": "Wenn Politiker via Signal chatten, dann ist das zwar sicher – aber trotzdem ein vollkommen falsches Kommunikationsmittel, meint Sylvester Tremmel.",
-      "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -302,6 +303,17 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "Smart-Meter-Alternativen: Zähler-Leseköpfe & Co. im Überblick",
+      "teaser": "Den Stromverbrauch eines Haushalts erfasst man mit einem Lesekopf für gerade mal 30 Euro anschaulicher als mit einem teuren Smart-Meter-Gateway. Ein Überblick.",
+      "url": "https://www.heise.de/ratgeber/Smart-Meter-Alternativen-Zaehler-Lesekoepfe-Co-im-Ueberblick-10306611.html",
+      "image_title": ", KI, Collage c’t"
+    },
+    {
+      "title": "Kommentar: Wofür private Messenger NICHT gedacht sind",
+      "teaser": "Wenn Politiker via Signal chatten, dann ist das zwar sicher – aber trotzdem ein vollkommen falsches Kommunikationsmittel, meint Sylvester Tremmel.",
+      "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
+    },
+    {
       "title": "Top-Angebote: Mähroboter ohne Begrenzungskabel aus 2024 bis zu 44 % günstiger",
       "teaser": "Mähroboter, die ohne Begrenzungskabel auskommen, sind relativ teuer. Doch Geräte aus dem Vorjahr locken mit kräftigen Rabatten. Wir zeigen die besten Angebote.",
       "url": "https://www.heise.de/bestenlisten/deals/top-angebote-maehroboter/gv0z7e9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -362,6 +374,11 @@
       "url": "https://www.heise.de/news/iX-Workshop-OAuth-und-OpenID-Connect-mit-Keycloak-fuer-Entwickler-10344397.html"
     },
     {
+      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
+      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
+    },
+    {
       "title": "Risikoanalyse mit leichtgewichtigen Softwarearchitektur-Reviews",
       "teaser": "Architektur-Reviews geben Aufschluss über den Zustand von Softwaresystemen und zeigen Risiken auf. Dafür gibt es schnelle, aussagekräftige Methoden.",
       "url": "https://www.heise.de/hintergrund/Risikoanalyse-mit-leichtgewichtigen-Softwarearchitektur-Reviews-10351694.html",
@@ -372,11 +389,6 @@
       "teaser": "Ob sie nun Ostern feiern oder sich nur über einige freie Tage freuen – die Redaktion von c't Fotografie sagte Danke und bietet neuen sowie alten Lesestoff.",
       "url": "https://www.heise.de/news/Schoene-Feiertage-und-die-Trends-der-Fotonews-10356254.html",
       "image_title": "Rote Blüte in extremer Nahaufnahme"
-    },
-    {
-      "title": "APIs effektiv absichern - Bedrohungen und Gegenmaßnahmen",
-      "teaser": "APIs sind das Herzstück moderner Anwendungen - und damit auch beliebtes Angriffsziel. Im Live-Webcast am 15.5. um 11 Uhr erläutert Sven Müller von Radware die wichtigsten Risiken und effektive Schutzmaßnahmen.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/geschaeftskritische-apis-effektiv-absichern-aktuelle-bedrohungen-und-gegenmassnahmen-4908/?source=hbsad-ersatz"
     },
     {
       "title": "Developer Snapshots: Kleinere News der Woche",
@@ -422,16 +434,6 @@
       "teaser": "Ist online oder stationär einkaufen umweltfreundlicher? Der Bitkom warnt vor Pauschalurteilen. Und Frauen bemühen sich etwas mehr, Emissionen zu sparen.",
       "url": "https://www.heise.de/news/Umweltbewusstes-Online-Shopping-Frauen-etwas-achtsamer-10356626.html",
       "image_title": "Eine Grafik zeigt einen kleinen Einkaufswagen mit Paketen, der auf einer Laptop-Tastatur steht."
-    },
-    {
-      "title": "Erotik in VR: Zu Besuch im virtuellen Lapdance-Club",
-      "teaser": "VR-Lapdance-Clubs bringen erotische Tänzerinnen und Tänzer direkt ins Wohnzimmer. Wir beleuchten die Möglichkeiten und Probleme von VRChat.",
-      "url": "https://www.heise.de/hintergrund/Erotik-in-VRChat-Lapdance-und-Poledance-in-der-VR-Brille-ausprobiert-9953196.html"
-    },
-    {
-      "title": "Lokal und per Cloud: Aktuelle PC-Spiele auf dem Raspberry Pi spielen",
-      "teaser": "Spiele von Steam streamen auf den Raspi, GeForce Now im Browser: Aus dem kleinen Raspi 5 lässt sich mit den richtigen Diensten ein Spiele-PC machen.",
-      "url": "https://www.heise.de/tests/Lokal-und-per-Cloud-Aktuelle-PC-Spiele-auf-dem-Raspberry-Pi-spielen-10334443.html"
     },
     {
       "title": "Outlook: E-Mail schreiben = 30 bis 50 Prozent CPU-Auslastung",
@@ -608,15 +610,14 @@
       "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
     },
     {
+      "title": "c’t uplinkSechs sichere Messenger für Android und iOS",
+      "teaser": "In diesem c’t uplink gehts um die Technik, die Sicherheit und den Datenschutz moderner Messenger.",
+      "url": "https://www.heise.de/news/Sechs-sichere-Messenger-fuer-Android-und-iOS-c-t-uplink-10354444.html"
+    },
+    {
       "title": "Comment: What private messengers are NOT intended for",
       "teaser": "When politicians chat via Signal, this is certainly – but still a completely wrong means of communication, says Sylvester Tremmel.",
       "url": "https://www.heise.de/en/opinion/Comment-What-private-messengers-are-NOT-intended-for-10356087.html"
-    },
-    {
-      "title": "UmstellungMicrosoft Edge macht Adobe-Reader auch für Geschäftsnutzer zum Standard",
-      "teaser": "Privatnutzer von Edge sind schon lange auf den Adobe-Inline-Reader umgestellt. Ab September soll er auch für Geschäftskunden zum Opt-out werden.",
-      "url": "https://www.heise.de/news/Microsoft-Edge-Adobe-Reader-ab-Herbst-auch-fuer-Geschaeftsnutzer-Standard-10356864.html",
-      "image_title": "Das Microsoft Edge-Logo, angezeigt auf einem Laptop-Display."
     },
     {
       "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
@@ -749,22 +750,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Kommt die außerparlamentarische Opposition gegen die Merz-Regierung?",
-      "teaser": "Die Regierungsbildung unter Friedrich Merz läuft erstaunlich ruhig ab. Die SPD murrt nur leise. Aber könnte sich neuer außerparlamentarischer Protest entwickeln?",
-      "url": "https://www.heise.de/tp/features/Kommt-die-ausserparlamentarische-Opposition-gegen-die-Merz-Regierung-10356758.html",
-      "image_title": "Fäuste"
+      "title": "Öffentlich-Rechtliche senden \"Klar\": Der Erfolg der AfD verändert das Fernsehprogramm",
+      "teaser": "\"Migration: Was falsch läuft\": Über eine Reportage, die einiges richtig macht, aber auf der fallenden Brandmauer sitzt. Dafür braucht es mehr Substanz.",
+      "url": "https://www.heise.de/tp/features/Oeffentlich-Rechtliche-senden-Klar-Der-Erfolg-der-AfD-veraendert-das-Fernsehprogramm-10355932.html",
+      "image_title": "Logo vom NDR auf einem Gebäude"
     },
     {
-      "title": "Wird Medikamentenmangel zum Dauerzustand?",
-      "teaser": "Über 500 Medikamente sind in Deutschland aktuell nicht lieferbar. Die EU will die Produktion wieder nach Europa holen. Doch der Plan könnte an einem entscheidenden Detail scheitern.",
-      "url": "https://www.heise.de/tp/features/Wird-Medikamentenmangel-zum-Dauerzustand-10352386.html",
-      "image_title": "Sterne aus der EU-Flagge befördern Pillen nach oben"
+      "title": "Kampf dem Alkohol: Russische Regionen drehen den Zapfhahn zu",
+      "teaser": "Eine Reihe russischer Regionen geht gegen den Verkauf von Alkohol vor. Positiven Effekten steht die Ausbreitung illegaler Märkte gegenüber. Eine Bestandsaufnahme.",
+      "url": "https://www.heise.de/tp/features/Kampf-dem-Alkohol-Russische-Regionen-drehen-den-Zapfhahn-zu-10351583.html",
+      "image_title": "Wodkaflaschen auf einem Fließband in einer Fabrik"
     },
     {
-      "title": "Antikes Troja: Neue Studie widerlegt Elite-Mythos um Weinkonsum",
-      "teaser": "Troja galt als Hochburg elitären Weingenusses. Neue archäologische Forschungen widerlegen diese Annahme jetzt eindeutig. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Antikes-Troja-Neue-Studie-widerlegt-Elite-Mythos-um-Weinkonsum-10351500.html",
-      "image_title": "Ausschnitt eines Trinkgefäßes"
+      "title": "Schokoladen-Wissenschaft: Warum Osterhasen besser schmecken",
+      "teaser": "Osterjagd nach Leckereien. Manche behaupten Schoko-Osterhasen schmecken besser als normale Tafeln. Zwei Wissenschaftler sind dieser Frage nachgegangen.",
+      "url": "https://www.heise.de/tp/features/Schokoladen-Wissenschaft-Warum-Osterhasen-besser-schmecken-10357043.html",
+      "image_title": "Schokoladenosterhase"
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
