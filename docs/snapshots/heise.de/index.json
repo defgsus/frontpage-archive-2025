@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-21T07:10:21",
+  "timestamp": "2025-04-21T08:13:49",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-10353991.html"
+    },
     {
       "title": "Die Produktwerker: Wie können wir Output, Outcome & Impact liefern?",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Wie-koennen-wir-Output-Outcome-Impact-liefern-10355190.html"
@@ -60,10 +64,6 @@
     {
       "title": "Python: Mit Minecraft spielerisch programmieren lernen",
       "url": "https://www.heise.de/ratgeber/Python-Mit-Minecraft-spielerisch-programmieren-lernen-10296218.html"
-    },
-    {
-      "title": "LG: Smart-TVs sollen Emotionen der Zuschauer überwachen und per KI auswerten",
-      "url": "https://www.heise.de/news/LG-Smart-TVs-sollen-Emotionen-der-Zuschauer-ueberwachen-und-per-KI-auswerten-10357123.html"
     },
     {
       "title": "Missing LinkDigitale Stellwerke in Norwegen – Ein Vorbild für Deutschland?",
@@ -187,21 +187,27 @@
       "url": "https://www.heise.de/news/Sechs-sichere-Messenger-fuer-Android-und-iOS-c-t-uplink-10354444.html"
     },
     {
+      "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
+      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-in-Unternehmen-10353991.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
       "title": "Die Produktwerker: Wie können wir Output, Outcome & Impact liefern?",
       "teaser": "Output liefert Features – doch Outcome schafft Wirkung. In dieser Folge sprechen Oliver Winter und Tim Klein über echte Produktwirksamkeit statt bloßem Liefern.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Wie-koennen-wir-Output-Outcome-Impact-liefern-10355190.html",
       "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
     },
     {
+      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
+      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Kalorienzählen mit KI: Foodvisor im Test",
       "teaser": "Wer gezielt abnehmen will, kommt kaum ums Kalorienzählen herum. Doch statt mühsame Datenbanken zu durchforsten, kann man die Erkennung auch der KI überlassen.",
       "url": "https://www.heise.de/tests/Kalorienzaehlen-mit-KI-Foodvisor-im-Test-10195446.html",
       "image_title": "Eine Person macht mit ihrem Smartphone ein Bild vom Essen. Von der Person sind nur die Hände zu sehen."
-    },
-    {
-      "title": "Kostenloses KI-Programm erweckt Ideen zum Leben",
-      "teaser": "Wer mit KI-Unterstützung wachsen will, aber fachliche Beratung braucht, kann beim Programm „AI Business Innovation Sprint“ mitmachen. Von den teilnehmenden Teams wird das Beste am 5. Juni geehrt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966631612&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Cisco: Ältere Webex-Apps können Schadcode einschleusen",
@@ -229,12 +235,6 @@
       "title": "Technik für SB-Kassen erklärt: Wie Kunden zu Selbst-Kassierern werden",
       "teaser": "SB-Kassen sind auf dem Vormarsch. Mit neuer Technik sollen künftig selbst Alters- und Diebstahlkontrollen automatisiert und trotzdem datensparsam erfolgen.",
       "url": "https://www.heise.de/ratgeber/Technik-fuer-SB-Kassen-erklaert-Wie-Kunden-zu-Selbst-Kassierern-werden-10291773.html"
-    },
-    {
-      "title": "Python: Mit Minecraft spielerisch programmieren lernen",
-      "teaser": "In Minecraft Education können Sie ganz einfach mit Python ein Villager-Dorf generieren. Wir zeigen, wie der Einstieg in Python gelingt.",
-      "url": "https://www.heise.de/ratgeber/Python-Mit-Minecraft-spielerisch-programmieren-lernen-10296218.html",
-      "image_title": "Ein Minecraft Dirt-Block und das Symbol der Programmiersprache Python"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Python: Mit Minecraft spielerisch programmieren lernen",
+      "teaser": "In Minecraft Education können Sie ganz einfach mit Python ein Villager-Dorf generieren. Wir zeigen, wie der Einstieg in Python gelingt.",
+      "url": "https://www.heise.de/ratgeber/Python-Mit-Minecraft-spielerisch-programmieren-lernen-10296218.html",
+      "image_title": "Ein Minecraft Dirt-Block und das Symbol der Programmiersprache Python"
     },
     {
       "title": "LG: Smart-TVs sollen Emotionen der Zuschauer überwachen und per KI auswerten",
@@ -369,15 +375,15 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/nothing-phone-3a-im-test/703fgk6?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
+      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
+    },
+    {
       "title": "Acht High-End-Smartphones im Vergleich: Von Apple iPhone bis Samsung Galaxy",
       "teaser": "Rasend schnelle Prozessoren, tolle Displays und viele Kameras – für tausend Euro und mehr bekommt man das Beste, was die Smartphone-Welt zu bieten hat.",
       "url": "https://www.heise.de/ratgeber/Acht-High-End-Smartphones-im-Vergleich-Von-Apple-IPhone-bis-Samsung-Galaxy-10288978.html",
       "image_title": ","
-    },
-    {
-      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
-      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
     },
     {
       "title": "Neuer Blick auf Sonnenwinde: \"Punch\"-Mission der NASA liefert erste Aufnahmen",
@@ -428,12 +434,6 @@
       "teaser": "Ob sie nun Ostern feiern oder sich nur über einige freie Tage freuen – die Redaktion von c't Fotografie sagte Danke und bietet neuen sowie alten Lesestoff.",
       "url": "https://www.heise.de/news/Schoene-Feiertage-und-die-Trends-der-Fotonews-10356254.html",
       "image_title": "Rote Blüte in extremer Nahaufnahme"
-    },
-    {
-      "title": "Developer Snapshots: Kleinere News der Woche",
-      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Visual Studio, Qt, KubeOne, Influxdata, CodeQL, JetBrains, auth0, W3C und Bitbucket.",
-      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10355116.html",
-      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "Britische Armee schießt erfolgreich Drohnenschwärme mit Energiewaffe ab",
@@ -618,6 +618,12 @@
       "url": "https://www.heise.de/ratgeber/Natur-erforschen-Wie-Sie-mithilfe-von-Apps-die-Voegel-vor-Ihrer-Haustuer-zaehlen-10320221.html"
     },
     {
+      "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
+      "teaser": "Mehrere macOS-Instanzen für Testzwecke parat zu haben, kann äußerst praktisch sein. Wir zeigen, wie Sie mit einem Synology-NAS einen virtuellen Mac einrichten.",
+      "url": "https://www.heise.de/ratgeber/macOS-im-Docker-Container-So-klappt-es-mit-dem-virtuellen-Mac-10327198.html",
+      "image_title": ", Lrwilk, stock.adobe.com; Montage: Mac & i"
+    },
+    {
       "title": "Praxistipps zu iOS 18.4Apple Intelligence jetzt clever nutzen",
       "teaser": "Es ist so weit: Apple Intelligence kommt in die EU und spricht Deutsch, Apple Mail erhält ein großes Redesign.",
       "url": "https://www.heise.de/ratgeber/22-Tipps-zu-iOS-18-4-Apple-Intelligence-auf-iPhones-in-Deutschland-10329236.html",
@@ -628,12 +634,6 @@
       "teaser": "Ein AirTag führt ein unauffälliges Leben – bis man es mit Schlüsselbund verliert. Unsere Tipps.",
       "url": "https://www.heise.de/ratgeber/Getaggt-und-geortet-Die-grosse-FAQ-zu-Apples-AirTag-10335069.html",
       "image_title": "AirTags und iPhone"
-    },
-    {
-      "title": "EinstiegsdrogeGünstigstes MacBook Air M4 im Test",
-      "teaser": "Das MacBook Air ist nicht nur das leichteste Notebook in Apples Portfolio, sondern auch das günstigste. Lohnt es sich?",
-      "url": "https://www.heise.de/tests/Einstiegsdroge-Guenstigstes-MacBook-Air-M4-im-Test-10339781.html",
-      "image_title": "MacBook Air M4"
     },
     {
       "title": "Bastelprojekt: Wie man eine per ESP-gesteuerte Lampe für Verliebte baut",
@@ -749,22 +749,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Deutsche Rüstungspolitik: Fakten gegen Fake News",
+      "teaser": "Deutschlands Verteidigungshaushalt wächst seit Jahren. Ausgaben in einem Jahrzehnt verdoppelt. Doch eine weitverbreitete Lobbylüge verschleiert diesen Trend. (Teil 1)",
+      "url": "https://www.heise.de/tp/features/Deutsche-Ruestungspolitik-Fakten-gegen-Fake-News-10356951.html",
+      "image_title": "Emblem der Bundeswehr, dahinter viele Euro Scheine"
+    },
+    {
+      "title": "KI-Alignment: Wenn Roboter und Menschen sich (nicht) verstehen",
+      "teaser": "KI soll menschliche Werte widerspiegeln, doch Menschen verfolgen oft widersprüchliche Ziele. Forscher messen erstmals, wie groß diese Fehlanpassung ist. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/KI-Alignment-Wenn-Roboter-und-Menschen-sich-nicht-verstehen-10351646.html",
+      "image_title": "Ein Fußgänger und ein Auto bei einem Zebrastreifen"
+    },
+    {
       "title": "Der digitale Seelsorger: Ersetzt KI bald auch den Pfarrer?",
       "teaser": "Künstliche Intelligenz erobert die Arbeitswelt – selbst vor der Kirche macht sie nicht halt. Bibel-KIs geben bereits Antworten auf Glaubensfragen. Aber kann Technik auch Seelsorge?",
       "url": "https://www.heise.de/tp/features/Der-digitale-Seelsorger-Ersetzt-KI-bald-auch-den-Pfarrer-10348996.html",
       "image_title": "Megafon mit KI-Aufdruck auf Büroarbeiter gerichtet und Megafon mit KI-Gott-Aufdruck auf Betenden gerichtet"
-    },
-    {
-      "title": "Sternschnuppen Lyriden im April 2025: Wenn der Himmel Funken sprüht",
-      "teaser": "Der erste große Meteorschauer des Jahres steht bevor. Die Lyriden erreichen am 21. April ihr Maximum. Was Beobachter dieses Jahr besonders hoffen lässt.",
-      "url": "https://www.heise.de/tp/features/Sternschnuppen-Lyriden-im-April-2025-Wenn-der-Himmel-Funken-sprueht-10357175.html",
-      "image_title": "Sternschnuppen am morgendlichen Himmel"
-    },
-    {
-      "title": "Naturnaher Garten: Warum heimische Sträucher die bessere Wahl sind",
-      "teaser": "Monotone Gärten werden zur tödlichen Falle für Vögel und Insekten. Schotter und Beton verdrängen natürliche Lebensräume. Doch es gibt Pflanzen, die das Artensterben stoppen können.",
-      "url": "https://www.heise.de/tp/features/Naturnaher-Garten-Warum-heimische-Straeucher-die-bessere-Wahl-sind-10351217.html",
-      "image_title": "Felsenbirne mit OK-Zeichen für Biene, Vogel und Essen, Thuya mit Verbotszeichen für Biene und Vogel sowie Warnzeichen für Gift"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
