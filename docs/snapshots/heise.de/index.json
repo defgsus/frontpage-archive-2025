@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-21T05:10:50",
+  "timestamp": "2025-04-21T06:14:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Cisco: Ältere Webex-Apps können Schadcode einschleusen",
+      "url": "https://www.heise.de/news/Cisco-Aeltere-Webex-Apps-koennen-Schadcode-einschleusen-10357209.html"
+    },
     {
       "title": "Top 10: Das beste Smartphone bis 400 Euro im Test – viel Handy für wenig Geld",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-bis-400-euro-im-test/22wwybb"
@@ -60,10 +64,6 @@
     {
       "title": "Ein Gigawatt neue Windenergie seit Anfang 2025",
       "url": "https://www.heise.de/news/Windenergie-Ausbautempo-hat-Anfang-2025-deutlich-zugelegt-10357097.html"
-    },
-    {
-      "title": "Ärger mit aufgedrängten Verträgen: mehr Beschwerden",
-      "url": "https://www.heise.de/news/Aerger-mit-aufgedraengten-Vertraegen-mehr-Beschwerden-10357081.html"
     },
     {
       "title": "Missing LinkDigitale Stellwerke in Norwegen – Ein Vorbild für Deutschland?",
@@ -187,20 +187,26 @@
       "url": "https://www.heise.de/news/Sechs-sichere-Messenger-fuer-Android-und-iOS-c-t-uplink-10354444.html"
     },
     {
+      "title": "Cisco: Ältere Webex-Apps können Schadcode einschleusen",
+      "teaser": "Zwei Versionen des Webex-Clients können in URLs versteckte Befehle ausführen, wenn ein Link geöffnet wird. Das betrifft alle Betriebssysteme, sagt Cisco.",
+      "url": "https://www.heise.de/news/Cisco-Aeltere-Webex-Apps-koennen-Schadcode-einschleusen-10357209.html",
+      "image_title": "Cisco Systems, Inc"
+    },
+    {
       "title": "Top 10: Das beste Smartphone bis 400 Euro im Test – viel Handy für wenig Geld",
       "teaser": "Telelinse, starke Displays mit OLED-Technologie und 120 Hertz oder flotte Chips gibt es schon für wenig Geld. Wir zeigen die 10 besten Smartphones bis 400 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-bis-400-euro-im-test/22wwybb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Digitale Souveränität mit europäischen Partnern",
+      "teaser": "Der Druck auf europäische Firmen ist bei digitaler Infrastruktur groß – vor allem wegen der geopolitischen Verwerfungen. Es ist jedoch möglich, Cloud-Strategien ohne die US-Hyperscaler zu entwickeln.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6974106437&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Skurrile Coinbase-Kontroverse: Neuer US-Rechtsstreit angekündigt",
       "teaser": "Ein US-Bundesstaat will ein Verfahren gegen die Kryptobörse Coinbase einleiten. Hintergrund sind kontroverse, neue \"Content Coins\".",
       "url": "https://www.heise.de/news/Coinbase-will-Social-Media-Posts-zu-Kryptowaehrungen-machen-Aerger-mit-US-Justiz-10357171.html",
       "image_title": "Ethereum,(eth),Cryptocurrency,Coin,In,Front,Of,An,Abstract,Blue"
-    },
-    {
-      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
-      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Sharkoon Purewriter W65 im Test: Mechanische Gaming-Tastatur mit flachen Tasten",
@@ -229,12 +235,6 @@
       "teaser": "Automatisierte Sicherheitsprüfungen auf Anwendungsebene in den DevSecOps-Prozess integrieren.",
       "url": "https://www.heise.de/news/iX-Workshop-DevSecOps-Automatisierte-Sicherheitstests-fuer-Webanwendungen-10344415.html",
       "image_title": "Workshop DevSecOps: Automatisierte Sicherheitstests für die Webentwicklung"
-    },
-    {
-      "title": "Ärger mit aufgedrängten Verträgen: mehr Beschwerden",
-      "teaser": "Am Telefon aufgeschwatzte Verträge können am Ende teuer werden. Verbraucherschützer warnen davor und hoffen auf die neue Bundesregierung.",
-      "url": "https://www.heise.de/news/Aerger-mit-aufgedraengten-Vertraegen-mehr-Beschwerden-10357081.html",
-      "image_title": "Ein Schnurtelefon von der Seite, ein Arm im weißem Hemd hält den Hörer hoch."
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -300,6 +300,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Ärger mit aufgedrängten Verträgen: mehr Beschwerden",
+      "teaser": "Am Telefon aufgeschwatzte Verträge können am Ende teuer werden. Verbraucherschützer warnen davor und hoffen auf die neue Bundesregierung.",
+      "url": "https://www.heise.de/news/Aerger-mit-aufgedraengten-Vertraegen-mehr-Beschwerden-10357081.html",
+      "image_title": "Ein Schnurtelefon von der Seite, ein Arm im weißem Hemd hält den Hörer hoch."
     },
     {
       "title": "US-Amerikaner und Russen nach ISS-Mission auf Erde gelandet",
@@ -368,15 +374,15 @@
       "image_title": "Das Microsoft Edge-Logo, angezeigt auf einem Laptop-Display."
     },
     {
+      "title": "Cybersecurity 2025: Warum IT-Sicherheit ein solides Fundament benötigt",
+      "teaser": "Die Bedrohungslage wird sich auch 2025 weiter verschärfen. Unternehmen müssen daher ihre IT-Sicherheit kontinuierlich ausbauen. Das ist jedoch nur auf Basis einer soliden IT-Infrastruktur möglich.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/cybersecurity-2025-warum-it-sicherheit-ein-solides-fundament-benoetigt-4890/?source=hbsadersatz"
+    },
+    {
       "title": "BikePlay: iPhone-Halterungen fürs Fahrrad im Test",
       "teaser": "Sie müssen robust sein und ein wertvolles Smartphone sicher am Lenker befestigen: iPhone-Halterungen fürs Bike. Wir haben vier Systeme inklusive Case getestet.",
       "url": "https://www.heise.de/tests/BikePlay-iPhone-Halterungen-fuers-Fahrrad-im-Test-9733286.html",
       "image_title": "iPhone am Fahrrad.​"
-    },
-    {
-      "title": "Künstliche Intelligenz in der Softwareentwicklung – Chancen und Risiken",
-      "teaser": "KI kann die Softwarebereitstellung beschleunigen und effizienter machen - birgt aber auch Risiken. Sicherheitslücken, schlechtere Codequalität und Ineffizienz können unerwünschte Folgen sein.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/kuenstliche-intelligenz-in-der-softwareentwicklung-chancen-und-risiken-4897/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop: Fortgeschrittene Administration von Kubernetes",
@@ -428,11 +434,6 @@
       "teaser": "Diese Woche fingen unsere Galeriefotografen himmlische und irdische Motive ein – von Sonne und Mond über Motocross bis zu architektonischen Besonderheiten.",
       "url": "https://www.heise.de/news/Motocross-Grossstaedte-und-Gestirne-Die-Bilder-der-Woche-15-10354944.html",
       "image_title": "Blüte von Blume"
-    },
-    {
-      "title": "Balkonkraftwerk günstig wie nie: Angebote mit und ohne Speicher ab 200 Euro",
-      "teaser": "Je günstiger ein Balkonkraftwerk ist, desto schneller rentiert es sich. Optimal ist die Kombination mit einem Speicher und einem dynamischen Stromtarif.",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-guenstig-wie-nie-angebote-mit-und-ohne-speicher-ab-200-euro/xl8fc44?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Britische Armee schießt erfolgreich Drohnenschwärme mit Energiewaffe ab",
@@ -602,20 +603,21 @@
       "url": "https://www.heise.de/en/news/AI-videos-and-images-for-everyone-Amuse-3-0-1-simplifies-the-use-of-AI-10356859.html"
     },
     {
-      "title": "Kommentar: Wofür private Messenger NICHT gedacht sind",
-      "teaser": "Wenn Politiker via Signal chatten, dann ist das zwar sicher – aber trotzdem ein vollkommen falsches Kommunikationsmittel, meint Sylvester Tremmel.",
-      "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
+      "title": "Bit-Rauschen: Server-Umsätze gehen durch die Decke",
+      "teaser": "Dank KI boomt der Servermarkt, wandelt sich aber rasant. Windows-on-ARM-Notebooks verkaufen sich schleppend. Intels neuer Chef will den Laden zusammenhalten.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Server-Umsaetze-gehen-durch-die-Decke-10343238.html",
+      "image_title": ","
+    },
+    {
+      "title": "Natur erforschen: Wie Sie mithilfe von Apps die Vögel vor Ihrer Haustür zählen",
+      "teaser": "Rausgehen und nebenbei die heimische Flora und Fauna kennenlernen – dazu ermuntern viele Citizen-Science-Projekte. Wir stellen Aktionen und hilfreiche Apps vor.",
+      "url": "https://www.heise.de/ratgeber/Natur-erforschen-Wie-Sie-mithilfe-von-Apps-die-Voegel-vor-Ihrer-Haustuer-zaehlen-10320221.html"
     },
     {
       "title": "UmstellungMicrosoft Edge macht Adobe-Reader auch für Geschäftsnutzer zum Standard",
       "teaser": "Privatnutzer von Edge sind schon lange auf den Adobe-Inline-Reader umgestellt. Ab September soll er auch für Geschäftskunden zum Opt-out werden.",
       "url": "https://www.heise.de/news/Microsoft-Edge-Adobe-Reader-ab-Herbst-auch-fuer-Geschaeftsnutzer-Standard-10356864.html",
       "image_title": "Das Microsoft Edge-Logo, angezeigt auf einem Laptop-Display."
-    },
-    {
-      "title": "Web-Tipps: Schon wieder?",
-      "teaser": "Michael Kreil zeigt per Scroll-Effekt, wie der Aufstieg der AfD dem der NSDAP ähnelt – und in der Zukunft bis zur systematischen \"Remigration\" führen könnte.",
-      "url": "https://www.heise.de/news/Web-Tipps-Schon-wieder-10354988.html"
     },
     {
       "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
@@ -689,6 +691,12 @@
       "url": "https://www.heise.de/hintergrund/Uebersicht-ueber-kleine-KI-Modelle-die-sich-fuer-den-lokalen-Betrieb-eignen-10306979.html"
     },
     {
+      "title": "Elektroauto Polestar 4 im TestKein Ausblick nach hinten, aber flink und komfortabel",
+      "teaser": "Dass der Polestar 4 keine Heckscheibe hat, spielt im Alltag schnell keine Rolle mehr. Seine Reichweite ist enorm.",
+      "url": "https://www.heise.de/tests/E-Auto-Polestar-4-im-Test-Komfortabler-schneller-Gleiter-im-Schwedendesign-10349475.html",
+      "image_title": "Polestar 4"
+    },
+    {
       "title": "Lyft übernimmt FreenowUbers größter Konkurrent kommt nach Europa",
       "teaser": "Ubers größter US-Konkurrent wagt endlich den Schritt nach Europa und übernimmt den Taxivermittler Freenow von Mercedes und BMW.",
       "url": "https://www.heise.de/news/Mobilitaetsplattformen-Lyft-uebernimmt-Freenow-10354595.html",
@@ -705,12 +713,6 @@
       "teaser": "Die bildschöne Retro-Triumph ist ein bemerkenswert sportliches und doch komfortables Landstraßentalent. Gründlich überarbeitet bietet sie noch mehr fürs Geld.",
       "url": "https://www.heise.de/tests/Triumph-Speed-Twin-1200-RS-im-Test-Nackt-retro-schnell-10352320.html",
       "image_title": "Test Triumph Speed Twin 1200 RS"
-    },
-    {
-      "title": "Miss BavariaMotorrad BMW R 12 S im Test",
-      "teaser": "Die BMW R 12 S vereint überzeugend Komfort und Dynamik und hält, was ihre auffällige Optik verspricht. Nicht billig, aber trotz ein paar Zicken jeden Euro wert.",
-      "url": "https://www.heise.de/tests/Motorrad-BMW-R-12-S-im-Test-Miss-Bavaria-10351698.html",
-      "image_title": "BMW R 12 S"
     },
     {
       "title": "Coworking statt Homeoffice: Wieso nach 5 Jahren für mich Schluss ist",
@@ -748,27 +750,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Der digitale Seelsorger: Ersetzt KI bald auch den Pfarrer?",
-      "teaser": "Künstliche Intelligenz erobert die Arbeitswelt – selbst vor der Kirche macht sie nicht halt. Bibel-KIs geben bereits Antworten auf Glaubensfragen. Aber kann Technik auch Seelsorge?",
-      "url": "https://www.heise.de/tp/features/Der-digitale-Seelsorger-Ersetzt-KI-bald-auch-den-Pfarrer-10348996.html",
-      "image_title": "Megafon mit KI-Aufdruck auf Büroarbeiter gerichtet und Megafon mit KI-Gott-Aufdruck auf Betenden gerichtet"
+      "title": "Kampf dem Alkohol: Russische Regionen drehen den Zapfhahn zu",
+      "teaser": "Eine Reihe russischer Regionen geht gegen den Verkauf von Alkohol vor. Positiven Effekten steht die Ausbreitung illegaler Märkte gegenüber. Eine Bestandsaufnahme.",
+      "url": "https://www.heise.de/tp/features/Kampf-dem-Alkohol-Russische-Regionen-drehen-den-Zapfhahn-zu-10351583.html",
+      "image_title": "Wodkaflaschen auf einem Fließband in einer Fabrik"
     },
     {
-      "title": "Deutsche Rüstungspolitik: Fakten gegen Fake News",
-      "teaser": "Deutschlands Verteidigungshaushalt wächst seit Jahren. Ausgaben in einem Jahrzehnt verdoppelt. Doch eine weitverbreitete Lobbylüge verschleiert diesen Trend. (Teil 1)",
-      "url": "https://www.heise.de/tp/features/Deutsche-Ruestungspolitik-Fakten-gegen-Fake-News-10356951.html",
-      "image_title": "Emblem der Bundeswehr, dahinter viele Euro Scheine"
+      "title": "Nato vs. Russland: Der unsichtbare Krieg hat längst begonnen – die Taurus-Debatte befeuert ihn",
+      "teaser": "Moskau droht bei der Lieferung des Marschflugkörpers mit Folgen. Ähnliche Warnungen blieben bislang scheinbar folgenlos. Doch dieser Eindruck trügt.",
+      "url": "https://www.heise.de/tp/features/Nato-vs-Russland-Der-unsichtbare-Krieg-hat-laengst-begonnen-die-Taurus-Debatte-befeuert-ihn-10356894.html",
+      "image_title": "Und Soldaten im Stechschritt vor der roten Mauer des Krems"
     },
     {
-      "title": "Merz' Albtraum: Deutschland schlittert in die Triple-Rezession",
-      "teaser": "Die EZB senkt erneut die Zinsen. Globale Handelsspannungen gefährden Europas Erholung. Deutschland ist alarmiert. Was kommt als Nächstes?",
-      "url": "https://www.heise.de/tp/features/Merz-Albtraum-Deutschland-schlittert-in-die-Triple-Rezession-10356159.html",
-      "image_title": "Abrissbirne in den Farben der Deutschlandfahne zerschmettert ein Zement-€."
+      "title": "Umfrage: Mehrheit der US-Bürger lehnt Trumps Außenpolitik ab",
+      "teaser": "Die wichtigsten außenpolitischen Vorhaben von Donald Trump kommen bei US-Bürgern nicht gut an. Die Umfrageergebnisse offenbaren jedoch überraschende Details. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Umfrage-Mehrheit-der-US-Buerger-lehnt-Trumps-Aussenpolitik-ab-10351550.html",
+      "image_title": "US-Vizepräsident JD Vance und Präsident Donald Trump"
     },
     {
-      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
+      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
+      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
     },
     {
       "title": "Signal - Messenger-App",
