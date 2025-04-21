@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-21T11:08:20",
+  "timestamp": "2025-04-21T12:18:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zum Welttag des Buches: Mensch oder KI – wer schreibt morgen unsere Bücher?",
+      "url": "https://www.heise.de/news/Zum-Welttag-des-Buches-Mensch-oder-KI-wer-schreibt-morgen-unsere-Buecher-10357313.html"
+    },
     {
       "title": "Frühbucherrabatt endet bald: heise-Konferenz bietet zwei Tage API-Praxis-Knowhow",
       "url": "https://www.heise.de/news/Fruehbucherrabatt-endet-bald-heise-Konferenz-bietet-zwei-Tage-API-Praxis-Knowhow-10350496.html"
@@ -60,10 +64,6 @@
     {
       "title": "Top 10: Das beste Smartphone bis 400 Euro im Test – viel Handy für wenig Geld",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-bis-400-euro-im-test/22wwybb"
-    },
-    {
-      "title": "Skurrile Coinbase-Kontroverse: Neuer US-Rechtsstreit angekündigt",
-      "url": "https://www.heise.de/news/Coinbase-will-Social-Media-Posts-zu-Kryptowaehrungen-machen-Aerger-mit-US-Justiz-10357171.html"
     },
     {
       "title": "Missing LinkDigitale Stellwerke in Norwegen – Ein Vorbild für Deutschland?",
@@ -187,21 +187,27 @@
       "url": "https://www.heise.de/news/Sechs-sichere-Messenger-fuer-Android-und-iOS-c-t-uplink-10354444.html"
     },
     {
+      "title": "Zum Welttag des Buches: Mensch oder KI – wer schreibt morgen unsere Bücher?",
+      "teaser": "Ein kurzer Prompt genügt, schon unterstützt KI beim Schreiben. Doch Autoren und Experten warnen: Textet KI Kinderbücher und Romane, bedroht das die Kreativität.",
+      "url": "https://www.heise.de/news/Zum-Welttag-des-Buches-Mensch-oder-KI-wer-schreibt-morgen-unsere-Buecher-10357313.html",
+      "image_title": "Märchen, Bücher, Buch"
+    },
+    {
       "title": "Frühbucherrabatt endet bald: heise-Konferenz bietet zwei Tage API-Praxis-Knowhow",
       "teaser": "Internationale Expertinnen und Experten halten Vorträge zu Design, Entwicklung, Testing und Management von APIs auf der zweitägigen Online-Konferenz.",
       "url": "https://www.heise.de/news/Fruehbucherrabatt-endet-bald-heise-Konferenz-bietet-zwei-Tage-API-Praxis-Knowhow-10350496.html",
       "image_title": "Aufmacher Konferenz bcc API"
     },
     {
+      "title": "Kostenloses KI-Programm erweckt Ideen zum Leben",
+      "teaser": "Wer mit KI-Unterstützung wachsen will, aber fachliche Beratung braucht, kann beim Programm „AI Business Innovation Sprint“ mitmachen. Von den teilnehmenden Teams wird das Beste am 5. Juni geehrt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966631612&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Klingonisch – von wenigen Wörtern bis Sex und Geschlecht",
       "teaser": "Die außerirdische \"Trekkie\"-Sprache Klingonisch wächst jedes Jahr um viele neue Wörter. Beim Thema Sexualität mussten die Fans lange warten.",
       "url": "https://www.heise.de/news/Klingonisch-von-wenigen-Woertern-bis-Sex-und-Geschlecht-10357309.html",
       "image_title": "Die Erde aus dem All"
-    },
-    {
-      "title": "Digitale Souveränität mit europäischen Partnern",
-      "teaser": "Der Druck auf europäische Firmen ist bei digitaler Infrastruktur groß – vor allem wegen der geopolitischen Verwerfungen. Es ist jedoch möglich, Cloud-Strategien ohne die US-Hyperscaler zu entwickeln.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6974106437&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "So geht's: Einfamilienhaus mit PV-Anlage vermieten",
@@ -230,12 +236,6 @@
       "teaser": "Wer gezielt abnehmen will, kommt kaum ums Kalorienzählen herum. Doch statt mühsame Datenbanken zu durchforsten, kann man die Erkennung auch der KI überlassen.",
       "url": "https://www.heise.de/tests/Kalorienzaehlen-mit-KI-Foodvisor-im-Test-10195446.html",
       "image_title": "Eine Person macht mit ihrem Smartphone ein Bild vom Essen. Von der Person sind nur die Hände zu sehen."
-    },
-    {
-      "title": "Cisco: Ältere Webex-Apps können Schadcode einschleusen",
-      "teaser": "Zwei Versionen des Webex-Clients können in URLs versteckte Befehle ausführen, wenn ein Link geöffnet wird. Das betrifft alle Betriebssysteme, sagt Cisco.",
-      "url": "https://www.heise.de/news/Cisco-Aeltere-Webex-Apps-koennen-Schadcode-einschleusen-10357209.html",
-      "image_title": "Cisco Systems, Inc"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -301,6 +301,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Cisco: Ältere Webex-Apps können Schadcode einschleusen",
+      "teaser": "Zwei Versionen des Webex-Clients können in URLs versteckte Befehle ausführen, wenn ein Link geöffnet wird. Das betrifft alle Betriebssysteme, sagt Cisco.",
+      "url": "https://www.heise.de/news/Cisco-Aeltere-Webex-Apps-koennen-Schadcode-einschleusen-10357209.html",
+      "image_title": "Cisco Systems, Inc"
     },
     {
       "title": "Top 10: Das beste Smartphone bis 400 Euro im Test – viel Handy für wenig Geld",
@@ -371,14 +377,14 @@
       "image_title": ", KI, Collage c’t"
     },
     {
+      "title": "NIS2: Warum Sie trotz Verschiebung handeln sollten",
+      "teaser": "Die EU-Cyber-Sicherheitsrichtlinie NIS2 ist als Gesetz in Deutschland noch nicht erlassen worden und wird vermutlich erst im Herbst 2025 in Kraft treten. In einem Webcast erklären wir, weshalb Unternehmen bis dahin nicht untätig sein und trotz Verschiebung handeln sollten.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-warum-unternehmen-trotz-verschiebung-handeln-sollten-4899/?source=hbsad-ersatz"
+    },
+    {
       "title": "Kommentar: Wofür private Messenger NICHT gedacht sind",
       "teaser": "Wenn Politiker via Signal chatten, dann ist das zwar sicher – aber trotzdem ein vollkommen falsches Kommunikationsmittel, meint Sylvester Tremmel.",
       "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
-    },
-    {
-      "title": "APIs effektiv absichern - Bedrohungen und Gegenmaßnahmen",
-      "teaser": "APIs sind das Herzstück moderner Anwendungen - und damit auch beliebtes Angriffsziel. Im Live-Webcast am 15.5. um 11 Uhr erläutert Sven Müller von Radware die wichtigsten Risiken und effektive Schutzmaßnahmen.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/geschaeftskritische-apis-effektiv-absichern-aktuelle-bedrohungen-und-gegenmassnahmen-4908/?source=hbsad-ersatz"
     },
     {
       "title": "Top-Angebote: Mähroboter ohne Begrenzungskabel aus 2024 bis zu 44 % günstiger",
@@ -428,12 +434,6 @@
       "teaser": "Lernen Sie fortgeschrittene Techniken für das Applikationsmanagement und die Implementierung von Service-Mesh-Technologien.",
       "url": "https://www.heise.de/news/iX-Workshop-Fortgeschrittene-Administration-von-Kubernetes-10344403.html",
       "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "\"Blue Prince\" angespielt: Verdammt clever",
-      "teaser": "Der Überraschungshit \"Blue Prince\" von Dogubomb variiert bekannte Spielmechaniken zu einem kniffligen Puzzle-Hit mit Roguelike-Spielelementen.",
-      "url": "https://www.heise.de/tests/Blue-Prince-abgespielt-Verdammt-clever-10356814.html",
-      "image_title": "Screenshot aus Blue Prince"
     },
     {
       "title": "Britische Armee schießt erfolgreich Drohnenschwärme mit Energiewaffe ab",
@@ -490,8 +490,9 @@
       "image_title": "Szene aus \"iHostage\""
     },
     {
-      "title": "Web-Tipps: Schon wieder?",
-      "url": "https://www.heise.de/news/Web-Tipps-Schon-wieder-10354988.html"
+      "title": "\"Blue Prince\" angespielt: Verdammt clever",
+      "url": "https://www.heise.de/tests/Blue-Prince-abgespielt-Verdammt-clever-10356814.html",
+      "image_title": "Screenshot aus Blue Prince"
     },
     {
       "title": "Apple-Store-Geiselnahme in Amsterdam: Täter stirbt an Verletzungen",
@@ -603,10 +604,9 @@
       "url": "https://www.heise.de/en/news/AI-videos-and-images-for-everyone-Amuse-3-0-1-simplifies-the-use-of-AI-10356859.html"
     },
     {
-      "title": "UmstellungMicrosoft Edge macht Adobe-Reader auch für Geschäftsnutzer zum Standard",
-      "teaser": "Privatnutzer von Edge sind schon lange auf den Adobe-Inline-Reader umgestellt. Ab September soll er auch für Geschäftskunden zum Opt-out werden.",
-      "url": "https://www.heise.de/news/Microsoft-Edge-Adobe-Reader-ab-Herbst-auch-fuer-Geschaeftsnutzer-Standard-10356864.html",
-      "image_title": "Das Microsoft Edge-Logo, angezeigt auf einem Laptop-Display."
+      "title": "Kommentar: Wofür private Messenger NICHT gedacht sind",
+      "teaser": "Wenn Politiker via Signal chatten, dann ist das zwar sicher – aber trotzdem ein vollkommen falsches Kommunikationsmittel, meint Sylvester Tremmel.",
+      "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
     },
     {
       "title": "Natur erforschen: Wie Sie mithilfe von Apps die Vögel vor Ihrer Haustür zählen",
@@ -614,16 +614,10 @@
       "url": "https://www.heise.de/ratgeber/Natur-erforschen-Wie-Sie-mithilfe-von-Apps-die-Voegel-vor-Ihrer-Haustuer-zaehlen-10320221.html"
     },
     {
-      "title": "Bit-Rauschen: Server-Umsätze gehen durch die Decke",
-      "teaser": "Dank KI boomt der Servermarkt, wandelt sich aber rasant. Windows-on-ARM-Notebooks verkaufen sich schleppend. Intels neuer Chef will den Laden zusammenhalten.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Server-Umsaetze-gehen-durch-die-Decke-10343238.html",
-      "image_title": ","
-    },
-    {
-      "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
-      "teaser": "Mehrere macOS-Instanzen für Testzwecke parat zu haben, kann äußerst praktisch sein. Wir zeigen, wie Sie mit einem Synology-NAS einen virtuellen Mac einrichten.",
-      "url": "https://www.heise.de/ratgeber/macOS-im-Docker-Container-So-klappt-es-mit-dem-virtuellen-Mac-10327198.html",
-      "image_title": ", Lrwilk, stock.adobe.com; Montage: Mac & i"
+      "title": "Microsoft Edge: Adobe Reader also standard for business users from fall",
+      "teaser": "Private Edge users have long since switched to the Adobe inline reader. From September, it will also become an opt-out for business customers.",
+      "url": "https://www.heise.de/en/news/Microsoft-Edge-Adobe-Reader-also-standard-for-business-users-from-fall-10356905.html",
+      "image_title": "The Microsoft Edge logo displayed on a laptop screen."
     },
     {
       "title": "Praxistipps zu iOS 18.4Apple Intelligence jetzt clever nutzen",
@@ -636,6 +630,12 @@
       "teaser": "Ein AirTag führt ein unauffälliges Leben – bis man es mit Schlüsselbund verliert. Unsere Tipps.",
       "url": "https://www.heise.de/ratgeber/Getaggt-und-geortet-Die-grosse-FAQ-zu-Apples-AirTag-10335069.html",
       "image_title": "AirTags und iPhone"
+    },
+    {
+      "title": "EinstiegsdrogeGünstigstes MacBook Air M4 im Test",
+      "teaser": "Das MacBook Air ist nicht nur das leichteste Notebook in Apples Portfolio, sondern auch das günstigste. Lohnt es sich?",
+      "url": "https://www.heise.de/tests/Einstiegsdroge-Guenstigstes-MacBook-Air-M4-im-Test-10339781.html",
+      "image_title": "MacBook Air M4"
     },
     {
       "title": "Bastelprojekt: Wie man eine per ESP-gesteuerte Lampe für Verliebte baut",
@@ -751,16 +751,15 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Antikes Troja: Neue Studie widerlegt Elite-Mythos um Weinkonsum",
-      "teaser": "Troja galt als Hochburg elitären Weingenusses. Neue archäologische Forschungen widerlegen diese Annahme jetzt eindeutig. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Antikes-Troja-Neue-Studie-widerlegt-Elite-Mythos-um-Weinkonsum-10351500.html",
-      "image_title": "Ausschnitt eines Trinkgefäßes"
+      "title": "Putin verkündet Oster-Waffenstillstand – Wende in Ukraine-Verhandlungen?",
+      "teaser": "Russlands Präsident hat einen einseitigen Oster-Waffenstillstand angeordnet. Zugleich gibt es Berichte über neue Friedenspläne der USA. Entscheidend wird ein Treffen in London sein.",
+      "url": "https://www.heise.de/tp/features/Putin-verkuendet-Oster-Waffenstillstand-Wende-in-Ukraine-Verhandlungen-10356999.html"
     },
     {
-      "title": "Sternschnuppen Lyriden im April 2025: Wenn der Himmel Funken sprüht",
-      "teaser": "Der erste große Meteorschauer des Jahres steht bevor. Die Lyriden erreichen am 21. April ihr Maximum. Was Beobachter dieses Jahr besonders hoffen lässt.",
-      "url": "https://www.heise.de/tp/features/Sternschnuppen-Lyriden-im-April-2025-Wenn-der-Himmel-Funken-sprueht-10357175.html",
-      "image_title": "Sternschnuppen am morgendlichen Himmel"
+      "title": "USA: Das Gespenst der \"Woke Right\"",
+      "teaser": "In der zweiten Trump-Ära ist die US-Linke in der Defensive. Doch manche erschrecken über eine neue Form \"woker\" Denkmuster – von rechts.",
+      "url": "https://www.heise.de/tp/features/USA-Das-Gespenst-der-Woke-Right-10355800.html",
+      "image_title": "Karte mit Woke-Symbol wird gewendet und zeigt weißen Mann"
     },
     {
       "title": "Kommt die außerparlamentarische Opposition gegen die Merz-Regierung?",
