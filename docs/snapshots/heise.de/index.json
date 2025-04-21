@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-21T18:13:00",
+  "timestamp": "2025-04-21T19:07:39",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ubuntu 25.04: Update offenbar temporär gestoppt",
+      "url": "https://www.heise.de/news/Ubuntu-25-04-Update-offenbar-temporaer-gestoppt-10357439.html"
+    },
     {
       "title": "Top 10: Die beste Screenbar im Test – Benq dominiert, aber auch billig ist gut",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-screenbar-im-test/1y3x1w6"
@@ -60,10 +64,6 @@
     {
       "title": "Zum Welttag des Buches: Mensch oder KI – wer schreibt morgen unsere Bücher?",
       "url": "https://www.heise.de/news/Zum-Welttag-des-Buches-Mensch-oder-KI-wer-schreibt-morgen-unsere-Buecher-10357313.html"
-    },
-    {
-      "title": "Frühbucherrabatt endet bald: heise-Konferenz bietet zwei Tage API-Praxis-Knowhow",
-      "url": "https://www.heise.de/news/Fruehbucherrabatt-endet-bald-heise-Konferenz-bietet-zwei-Tage-API-Praxis-Knowhow-10350496.html"
     },
     {
       "title": "Missing LinkDigitale Stellwerke in Norwegen – Ein Vorbild für Deutschland?",
@@ -186,20 +186,26 @@
       "url": "https://www.heise.de/news/Sechs-sichere-Messenger-fuer-Android-und-iOS-c-t-uplink-10354444.html"
     },
     {
+      "title": "Ubuntu 25.04: Update offenbar temporär gestoppt",
+      "teaser": "Zum Osterwochenende ist Ubuntu 25.04 erschienen. Das Upgrade insbesondere der KDE-Version macht Probleme, weshalb es nun gestoppt wurde.",
+      "url": "https://www.heise.de/news/Ubuntu-25-04-Update-offenbar-temporaer-gestoppt-10357439.html",
+      "image_title": "Pinguin sitzt vor Laptop, verzweifelt, das eine stilisierte Installation/Konfiguration anzeigt"
+    },
+    {
       "title": "Top 10: Die beste Screenbar im Test – Benq dominiert, aber auch billig ist gut",
       "teaser": "Nur wenige kennen sie, fast alle brauchen sie: Screenbars. Wir zeigen die 10 besten Monitorlampen aus über 20 Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-screenbar-im-test/1y3x1w6?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "US-Verteidigungsminister teilte Militärpläne über Signal mit Ehefrau",
       "teaser": "Verteidigungsminister Hegseth soll Militärinformationen über einen Gruppenchat im Signal-Messenger auch mit seiner Frau und seinem Bruder geteilt haben.",
       "url": "https://www.heise.de/news/US-Verteidigungsminister-teilte-Militaerplaene-ueber-Signal-mit-Ehefrau-10357423.html",
       "image_title": "Digitale Briefsymbole vor US-Flagge"
-    },
-    {
-      "title": "Digitale Souveränität mit europäischen Partnern",
-      "teaser": "Der Druck auf europäische Firmen ist bei digitaler Infrastruktur groß – vor allem wegen der geopolitischen Verwerfungen. Es ist jedoch möglich, Cloud-Strategien ohne die US-Hyperscaler zu entwickeln.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6974106437&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Meta FAIR: Bessere Augen und besseres Verständnis von KI-Modellen",
@@ -227,12 +233,6 @@
       "teaser": "Die Mission soll dabei helfen, dass die Zeiger der Welt gleicher schlagen. Und auch grundlegende Annahmen von Einstein zu Schwerkraft will das Vorhaben prüfen.",
       "url": "https://www.heise.de/news/Europa-will-mit-Uhren-im-All-Einstein-These-testen-10357340.html",
       "image_title": "Wecker, Zeit"
-    },
-    {
-      "title": "Frühbucherrabatt endet bald: heise-Konferenz bietet zwei Tage API-Praxis-Knowhow",
-      "teaser": "Internationale Expertinnen und Experten halten Vorträge zu Design, Entwicklung, Testing und Management von APIs auf der zweitägigen Online-Konferenz.",
-      "url": "https://www.heise.de/news/Fruehbucherrabatt-endet-bald-heise-Konferenz-bietet-zwei-Tage-API-Praxis-Knowhow-10350496.html",
-      "image_title": "Aufmacher Konferenz bcc API"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -298,6 +298,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Frühbucherrabatt endet bald: heise-Konferenz bietet zwei Tage API-Praxis-Knowhow",
+      "teaser": "Internationale Expertinnen und Experten halten Vorträge zu Design, Entwicklung, Testing und Management von APIs auf der zweitägigen Online-Konferenz.",
+      "url": "https://www.heise.de/news/Fruehbucherrabatt-endet-bald-heise-Konferenz-bietet-zwei-Tage-API-Praxis-Knowhow-10350496.html",
+      "image_title": "Aufmacher Konferenz bcc API"
     },
     {
       "title": "Klingonisch – von wenigen Wörtern bis Sex und Geschlecht",
@@ -367,15 +373,15 @@
       "image_title": "Ein Minecraft Dirt-Block und das Symbol der Programmiersprache Python"
     },
     {
+      "title": "APIs effektiv absichern - Bedrohungen und Gegenmaßnahmen",
+      "teaser": "APIs sind das Herzstück moderner Anwendungen - und damit auch beliebtes Angriffsziel. Im Live-Webcast am 15.5. um 11 Uhr erläutert Sven Müller von Radware die wichtigsten Risiken und effektive Schutzmaßnahmen.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/geschaeftskritische-apis-effektiv-absichern-aktuelle-bedrohungen-und-gegenmassnahmen-4908/?source=hbsad-ersatz"
+    },
+    {
       "title": "LG: Smart-TVs sollen Emotionen der Zuschauer überwachen und per KI auswerten",
       "teaser": "LG-Fernseher werden bald ein KI-Modell fürs Schalten von Werbung nutzen, die mehr auf die persönlichen Überzeugungen und Emotionen der Nutzer zugeschnitten ist.",
       "url": "https://www.heise.de/news/LG-Smart-TVs-sollen-Emotionen-der-Zuschauer-ueberwachen-und-per-KI-auswerten-10357123.html",
       "image_title": "Fernbedienung, auf der gerade der Ausschalt-Knopf gedrückt wird; im Hintergrund unscharf ein Fernseher."
-    },
-    {
-      "title": "Mobile Workstations: Performance ohne Kompromisse",
-      "teaser": "Mobile Workstations sind oft ein Kompromiss. Leichte Geräte mit langer Akkulaufzeit sind in der Regel weniger leistungsfähig als Alternativen im Tower-Design, hohe Performance geht meist mit mehr Gewicht, größeren Abmessungen und kürzeren Laufzeiten einher. Warum das nicht so sein muss.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/mobile-workstations-performance-ohne-kompromisse-4886/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop: DevSecOps – Automatisierte Sicherheitstests für Webanwendungen",
@@ -429,11 +435,6 @@
       "image_title": "Bunt leuchtendes Neon-Zeochen von Google"
     },
     {
-      "title": "Humanoide Roboter laufen Marathon gegen Menschen in Peking",
-      "teaser": "Selbstständig laufende Roboter, fast wie Menschen: In Peking wollten Chinas Hightech-Startups bei einem Halbmarathon zeigen, was ihre Technik drauf hat",
-      "url": "https://www.heise.de/news/Humanoid-versus-Mensch-China-zeigt-Open-Source-Roboter-Plattform-bei-Marathon-10356973.html"
-    },
-    {
       "title": "KI-Videos und -Bilder für alle: Amuse 3.0.1 vereinfacht Umgang mit KI",
       "url": "https://www.heise.de/news/KI-Videos-und-Bilder-fuer-alle-Amuse-3-0-1-vereinfacht-Umgang-mit-KI-10356840.html",
       "image_title": "Amuse erzeugt KI-Video-Clips"
@@ -448,6 +449,10 @@
       "image_title": "Das Microsoft Edge-Logo, angezeigt auf einem Laptop-Display."
     },
     {
+      "title": "Humanoide Roboter laufen Marathon gegen Menschen in Peking",
+      "url": "https://www.heise.de/news/Humanoid-versus-Mensch-China-zeigt-Open-Source-Roboter-Plattform-bei-Marathon-10356973.html"
+    },
+    {
       "title": "\"Hubble-Spannung\": Rotierendes Universum könnte Rätsel der Kosmologie lösen",
       "url": "https://www.heise.de/news/Hubble-Spannung-Rotierendes-Universum-koennte-Raetsel-der-Kosmologie-loesen-10355976.html",
       "image_title": "Kreisförmige Lichtstreifen am Nachthimmel über einer Wüstenlandschaft"
@@ -455,11 +460,6 @@
     {
       "title": "Neuer Blick auf Sonnenwinde: \"Punch\"-Mission der NASA liefert erste Aufnahmen",
       "url": "https://www.heise.de/news/Neuer-Blick-auf-Sonnenwinde-Punch-Mission-der-NASA-liefert-erste-Aufnahmen-10356850.html"
-    },
-    {
-      "title": "Werft-Wechsel: Forschungsschiff Meteor IV fährt letztem Bauschritt entgegen",
-      "url": "https://www.heise.de/news/Werft-Wechsel-Forschungsschiff-Meteor-IV-faehrt-letztem-Bauschritt-entgegen-10356693.html",
-      "image_title": "Die Meteor IV in Illustration durch die Meyer-Werft"
     },
     {
       "title": "One UI 7: Diese Galaxy-Modelle erhalten laut Samsung das Update auf Android 15",
@@ -601,9 +601,9 @@
       "url": "https://www.heise.de/en/news/AI-videos-and-images-for-everyone-Amuse-3-0-1-simplifies-the-use-of-AI-10356859.html"
     },
     {
-      "title": "Kommentar: Wofür private Messenger NICHT gedacht sind",
-      "teaser": "Wenn Politiker via Signal chatten, dann ist das zwar sicher – aber trotzdem ein vollkommen falsches Kommunikationsmittel, meint Sylvester Tremmel.",
-      "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
+      "title": "Natur erforschen: Wie Sie mithilfe von Apps die Vögel vor Ihrer Haustür zählen",
+      "teaser": "Rausgehen und nebenbei die heimische Flora und Fauna kennenlernen – dazu ermuntern viele Citizen-Science-Projekte. Wir stellen Aktionen und hilfreiche Apps vor.",
+      "url": "https://www.heise.de/ratgeber/Natur-erforschen-Wie-Sie-mithilfe-von-Apps-die-Voegel-vor-Ihrer-Haustuer-zaehlen-10320221.html"
     },
     {
       "title": "Web-Tipps: Schon wieder?",
@@ -611,9 +611,9 @@
       "url": "https://www.heise.de/news/Web-Tipps-Schon-wieder-10354988.html"
     },
     {
-      "title": "Natur erforschen: Wie Sie mithilfe von Apps die Vögel vor Ihrer Haustür zählen",
-      "teaser": "Rausgehen und nebenbei die heimische Flora und Fauna kennenlernen – dazu ermuntern viele Citizen-Science-Projekte. Wir stellen Aktionen und hilfreiche Apps vor.",
-      "url": "https://www.heise.de/ratgeber/Natur-erforschen-Wie-Sie-mithilfe-von-Apps-die-Voegel-vor-Ihrer-Haustuer-zaehlen-10320221.html"
+      "title": "Kommentar: Wofür private Messenger NICHT gedacht sind",
+      "teaser": "Wenn Politiker via Signal chatten, dann ist das zwar sicher – aber trotzdem ein vollkommen falsches Kommunikationsmittel, meint Sylvester Tremmel.",
+      "url": "https://www.heise.de/meinung/Kommentar-Wofuer-private-Messenger-NICHT-gedacht-sind-10354982.html"
     },
     {
       "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
@@ -634,12 +634,6 @@
       "image_title": "AirTags und iPhone"
     },
     {
-      "title": "Bastelprojekt: Wie man eine per ESP-gesteuerte Lampe für Verliebte baut",
-      "teaser": "Im Projekt \"LoversLamp\" synchronisieren sich ESP-gesteuerte Lampen übers Internet per MQTT miteinander, um einer Person zu zeigen, dass man an sie denkt.",
-      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-man-eine-per-ESP-gesteuerte-Lampe-fuer-Verliebte-baut-10322225.html",
-      "image_title": ","
-    },
-    {
       "title": "BastelgerätPimoroni Presto bringt RP2350-Power auf den Schreibtisch",
       "teaser": "Pimoroni bringt mit dem Presto ein Displaygerät mit Touchscreen, WLAN, RGB-LEDs und Sensoranschluss für eigene Projekte.",
       "url": "https://www.heise.de/news/Pimoroni-Presto-Touch-Display-auf-Basis-von-Pi-Pico-10354068.html",
@@ -649,6 +643,12 @@
       "title": "Echtzeit-Magie: TU-Graz-Team lässt Objekte unsichtbar werden",
       "teaser": "Am Institute of Visual Computing entwickeln Forschende eine Technik, die Objekte in Echtzeit aus Live-Aufnahmen in dreidimensionalen Umgebungen entfernt.",
       "url": "https://www.heise.de/news/Echtzeit-Magie-TU-Graz-Team-laesst-Objekte-unsichtbar-werden-10350797.html"
+    },
+    {
+      "title": "Nicht nur für Raspi-NutzerRaspi-Hersteller bringt USB-C-Netzteil mit 45 Watt",
+      "teaser": "Der Raspi-Hersteller bringt ein USB-C-Netzteil mit 45 Watt Ladeleistung. Es ist etwas teurer als die bisherige 27-Watt-Version.",
+      "url": "https://www.heise.de/news/Offizielles-Raspi-USB-Netzteil-mit-45-Watt-10351343.html",
+      "image_title": "Drei Raspi-Netzteile mit unterschiedlichen Länderanschlüssen vor grauem Hintergrund"
     },
     {
       "title": "Motocross, Großstädte und Gestirne: Die Bilder der Woche 15",
@@ -747,22 +747,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Deutsche Rüstungspolitik: Fakten gegen Fake News",
-      "teaser": "Deutschlands Verteidigungshaushalt wächst seit Jahren. Ausgaben in einem Jahrzehnt verdoppelt. Doch eine weitverbreitete Lobbylüge verschleiert diesen Trend. (Teil 1)",
-      "url": "https://www.heise.de/tp/features/Deutsche-Ruestungspolitik-Fakten-gegen-Fake-News-10356951.html",
-      "image_title": "Emblem der Bundeswehr, dahinter viele Euro Scheine"
+      "title": "Merz' Albtraum: Deutschland schlittert in die Triple-Rezession",
+      "teaser": "Die EZB senkt erneut die Zinsen. Globale Handelsspannungen gefährden Europas Erholung. Deutschland ist alarmiert. Was kommt als Nächstes?",
+      "url": "https://www.heise.de/tp/features/Merz-Albtraum-Deutschland-schlittert-in-die-Triple-Rezession-10356159.html",
+      "image_title": "Abrissbirne in den Farben der Deutschlandfahne zerschmettert ein Zement-€."
     },
     {
-      "title": "Wird Medikamentenmangel zum Dauerzustand?",
-      "teaser": "Über 500 Medikamente sind in Deutschland aktuell nicht lieferbar. EU will Produktion wieder nach Europa holen. Doch der Plan könnte an einem Detail scheitern.",
-      "url": "https://www.heise.de/tp/features/Wird-Medikamentenmangel-zum-Dauerzustand-10352386.html",
-      "image_title": "Sterne aus der EU-Flagge befördern Pillen nach oben"
+      "title": "German Angst vs. Verteidigungsfähigkeit: Der teure Weg zur Militärmacht",
+      "teaser": "Deutschland will zu den Top-5-Militärmächten aufsteigen. Doch warum investieren wir Milliarden, wenn eine Studie zeigt, dass die Bundeswehr längst stark ist?",
+      "url": "https://www.heise.de/tp/features/German-Angst-vs-Verteidigungsfaehigkeit-Der-teure-Weg-zur-Militaermacht-10357183.html",
+      "image_title": "Kapelle der Bundeswehr mit Trommeln"
     },
     {
-      "title": "Mindset-Coaches: Ihr liebstes Totschlagargument – das Resonanzprinzip",
-      "teaser": "Schlechte Schwingungen – dein Pech? Wenn Verzweiflung den Markt durchzieht, wird Trost zur Ware. Über den problematischen Gleichschritt des Mitschwingens.",
-      "url": "https://www.heise.de/tp/features/Mindset-Coaches-Ihr-liebstes-Totschlagargument-das-Resonanzprinzip-10357035.html",
-      "image_title": "Sehr verärgerte Frau in Großaufnahme"
+      "title": "Putin verkündet Oster-Waffenstillstand – Wende in Ukraine-Verhandlungen?",
+      "teaser": "Russlands Präsident hat einen einseitigen Oster-Waffenstillstand angeordnet. Zugleich gibt es Berichte über neue Friedenspläne der USA. Entscheidend wird ein Treffen in London sein.",
+      "url": "https://www.heise.de/tp/features/Putin-verkuendet-Oster-Waffenstillstand-Wende-in-Ukraine-Verhandlungen-10356999.html"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
