@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-22T07:10:25",
+  "timestamp": "2025-04-22T08:13:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
+      "title": "In freier WildbahnAttacken auf Microsofts NTLM-Authentifizierung",
+      "teaser": "Angreifer haben Microsoft-NTLM-Hashes abgegriffen und zur Authentifizierung missbraucht. Davor warnt etwa die CISA.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-NTLM-Authentifizierung-beobachtet-10357572.html",
+      "image_title": "Ein Monitor zeigt \"Attack running ...\" an"
+    },
+    {
       "title": "Windows-UpdatesNetzwerkprobleme bei AD-DCs und Windows-11-BSoDs",
       "teaser": "Microsoft hat weitere Probleme mit Windows-Updates eingeräumt. Domaincontroller haben Probleme im Netz, Windows 11 kann abstürzen.",
       "url": "https://www.heise.de/news/Windows-Update-Probleme-Netzwerk-bei-Domaincontrollern-und-Windows-11-BSoDs-10355226.html",
       "image_title": "Ein Monitor zeigt das Windows-Logo und einen Fortschrittsbalken, davor rauft sich ein verzweifeltes Monster die Haare"
     },
     {
-      "title": "AlertSchwachstellenAtlassian stopft hochriskante Lecks in Confluence, Jira & Co.",
-      "teaser": "Atlassian hat Sicherheitsupdates für Bamboo, Confluence und Jira veröffentlicht. Sie dichten als hohes Risiko eingestufte Lücken.",
-      "url": "https://www.heise.de/news/Atlassian-stopft-hochriskante-Lecks-in-Confluence-Jira-Co-10355832.html",
-      "image_title": "Hand tippt auf Update-Schaltfläche auf Monitor"
-    },
-    {
-      "title": "AlertSchwachstellenAtlassian stopft hochriskante Lecks in Confluence, Jira & Co.",
-      "url": "https://www.heise.de/news/Atlassian-stopft-hochriskante-Lecks-in-Confluence-Jira-Co-10355832.html",
-      "image_title": "Hand tippt auf Update-Schaltfläche auf Monitor"
+      "title": "AlertWordpress: Angreifer können über Greenshift-Plug-in Schadcode hochladen",
+      "url": "https://www.heise.de/news/Wordpress-Angreifer-koennen-ueber-Greenshift-Plug-in-Schadcode-hochladen-10357624.html",
+      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
       "title": "Auslegungssache 132: KI-Verordnung und Datenschutz – ein schwieriges Verhältnis",
@@ -73,10 +73,10 @@
       "url": "https://heise-academy.de/webinare/ad-tiering?wt_mc=intern.academy.security.web_ad.hs_teaser.teaser.teaser"
     },
     {
-      "title": "Angriffe auf Microsoft-NTLM-Authentifizierung beobachtet",
-      "teaser": "Angreifer haben Microsoft-NTLM-Hashes abgegriffen und zur Authentifizierung missbraucht. Davor warnt etwa die CISA.",
-      "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-NTLM-Authentifizierung-beobachtet-10357572.html",
-      "image_title": "Ein Monitor zeigt \"Attack running ...\" an"
+      "title": "AlertWordpress: Angreifer können über Greenshift-Plug-in Schadcode hochladen",
+      "teaser": "Potenziell sind 50.000 Wordpress-Websites mit dem Greenshift-Plug-in für Schadcode-Attacken anfällig.",
+      "url": "https://www.heise.de/news/Wordpress-Angreifer-koennen-ueber-Greenshift-Plug-in-Schadcode-hochladen-10357624.html",
+      "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
       "title": "iX-Workshop: Effiziente IT-Sicherheit für kleine und mittlere Unternehmen",
@@ -120,6 +120,12 @@
       "image_title": "Pinguin sitzt vor einem Computer, der einen Pinguin und die Schrift \"Linux\" anzeigt"
     },
     {
+      "title": "AlertAtlassian stopft hochriskante Lecks in Confluence, Jira & Co.",
+      "teaser": "Atlassian hat Sicherheitsupdates für Bamboo, Confluence und Jira veröffentlicht. Sie dichten als hohes Risiko eingestufte Lücken.",
+      "url": "https://www.heise.de/news/Atlassian-stopft-hochriskante-Lecks-in-Confluence-Jira-Co-10355832.html",
+      "image_title": "Hand tippt auf Update-Schaltfläche auf Monitor"
+    },
+    {
       "title": "AlertSonicwall SMA100: Angreifer missbrauchen alte Sicherheitslücke",
       "teaser": "Derzeit finden Angriffe auf alte Sicherheitslücken in Sonicwalls Firmware für Geräte der SMA100-Baureihen statt.",
       "url": "https://www.heise.de/news/Sonicwall-SMA100-Angreifer-missbrauchen-alte-Sicherheitsluecke-10355459.html",
@@ -159,12 +165,6 @@
       "title": "AlertUpdates von Oracle: 378 Security-Patches aber nichts zum Einbruch in die Cloud",
       "teaser": "Im Rahmen des regelmäßigen Update-Zyklus liefert Oracle Patches satt für fast die gesamte Produktpalette, die die Kunden zügig installieren sollten.",
       "url": "https://www.heise.de/news/Updates-von-Oracle-378-Security-Patches-aber-nichts-zum-Einbruch-in-die-Cloud-10354094.html"
-    },
-    {
-      "title": "Messenger-Alternative: Volla Messages mit großen Versprechungen",
-      "teaser": "Die angebliche \"WhatsApp- und Telegram-Alternative\" Volla Messages wird mit Lob überhäuft, kann aber noch(?) kaum echte Vorteile ins Feld führen.",
-      "url": "https://www.heise.de/news/Messenger-Alternative-Volla-Messages-mit-grossen-Versprechungen-10352561.html",
-      "image_title": "Smartphone von Volla"
     },
     {
       "title": "Classroom | 28.04. – 26.05.2025Fortgeschrittenes Ethical Hacking – Deep Dive ins Pentesting für Admins",
