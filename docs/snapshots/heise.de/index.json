@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-22T10:10:17",
+  "timestamp": "2025-04-22T11:08:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,26 @@
   ],
   "articles": [
     {
+      "title": "Pixel Watch: Google aktualisiert alle Smartwatch-Generationen",
+      "url": "https://www.heise.de/news/Pixel-Watch-Google-aktualisiert-alle-Smartwatch-Generationen-10358075.html"
+    },
+    {
+      "title": "Microsoft korrigiert Update-Fehler 0x80070643 in Windows 10 und Server 2022",
+      "url": "https://www.heise.de/news/Microsoft-korrigiert-Update-Fehler-0x80070643-in-Windows-10-und-Server-2022-10358063.html"
+    },
+    {
+      "title": "Elektroauto: Mercedes will chinesische Kunden mit fahrendem Gadget überzeugen",
+      "url": "https://www.heise.de/news/Elektroauto-Mercedes-will-in-China-mit-KI-von-Bytedance-ueberzeugen-10358033.html"
+    },
+    {
+      "title": "Bericht: Wie Tim Cook es schaffte, US-Zoll-Ausnahmen fürs iPhone zu bekommen",
+      "url": "https://www.heise.de/news/Bericht-Wie-Tim-Cook-es-schaffte-US-Zoll-Ausnahmen-fuers-iPhone-zu-bekommen-10357449.html"
+    },
+    {
+      "title": "Freie Jira-Alternative: Worklenz 2.0 bringt wiederkehrende Tasks und Dark Mode",
+      "url": "https://www.heise.de/news/Alternative-fuer-Jira-Trello-Co-Worklenz-2-0-bringt-erweitertes-Kanban-Board-10357728.html"
+    },
+    {
       "title": "Elektroauto: Trotz Verkaufsschwäche will chinesische Marke Nio in Europa bleiben",
       "url": "https://www.heise.de/news/Elektroauto-Trotz-Verkaufsschwaeche-will-chinesische-Marke-Nio-in-Europa-bleiben-10357991.html"
     },
@@ -44,26 +64,6 @@
     {
       "title": "Apple-Hardware-Leak auf X: Erste Teile einer \"Vision Air\" aufgetaucht?",
       "url": "https://www.heise.de/news/Apple-Hardware-Leak-auf-X-Erste-Teile-einer-Vision-Air-aufgetaucht-10357467.html"
-    },
-    {
-      "title": "Asus-Router: Sicherheitslücke ermöglicht unbefugtes Ausführen von Funktionen",
-      "url": "https://www.heise.de/news/Asus-Router-Sicherheitsluecke-ermoeglicht-unbefugtes-Ausfuehren-von-Funktionen-10357834.html"
-    },
-    {
-      "title": "Apple will 60 Prozent seiner Klimagasemissionen seit 2015 eingespart haben",
-      "url": "https://www.heise.de/news/Apple-will-60-Prozent-seiner-Klimagasemissionen-seit-2015-eingespart-haben-10357485.html"
-    },
-    {
-      "title": "Die Waiptu.tv Box als IPTV-Zuspieler und Streamingplayer im Test",
-      "url": "https://www.heise.de/tests/Die-Waiptu-tv-Box-als-IPTV-Zuspieler-und-Streamingplayer-im-Test-10352680.html"
-    },
-    {
-      "title": "Cloud WAN: Google Cloud öffnet eigenes Netzwerk für Kunden",
-      "url": "https://www.heise.de/news/Cloud-WAN-Google-Cloud-oeffnet-eigenes-Netzwerk-fuer-Kunden-10350030.html"
-    },
-    {
-      "title": "US-Regierung hält an Aufspaltung Googles fest – auch KI im Blick",
-      "url": "https://www.heise.de/news/US-Regierung-haelt-an-Aufspaltung-Googles-fest-auch-KI-im-Blick-10357666.html"
     },
     {
       "title": "In freier WildbahnAttacken auf Microsofts NTLM-Authentifizierung",
@@ -179,10 +179,44 @@
       "image_title": "Ein Wasserplanet vor einem kleinen roten Stern"
     },
     {
-      "title": "GruppenchatUS-Verteidigungsminister teilte Militärpläne über Signal mit Ehefrau",
-      "teaser": "Pete Hegseth soll Militärinformationen über einen Gruppenchat in Signal auch mit seiner Frau und seinem Bruder geteilt haben.",
-      "url": "https://www.heise.de/news/US-Verteidigungsminister-teilte-Militaerplaene-ueber-Signal-mit-Ehefrau-10357423.html",
-      "image_title": "Digitale Briefsymbole vor US-Flagge"
+      "title": "Digitale GesundheitsanwendungenGesundheitsIDs vorübergehend unzulässig",
+      "teaser": "Derzeit gibt es keine rechtliche Grundlage, nach der DiGA-Hersteller GesundheitsIDs nutzen dürfen.",
+      "url": "https://www.heise.de/news/GesundheitsIDs-fuer-Digitale-Gesundheitsanwendungen-voruebergehend-unzulaessig-10296784.html",
+      "image_title": "Smartphone, auf dem verschiedene Gesundheitssymbole zu sehen sind"
+    },
+    {
+      "title": "Pixel Watch: Google aktualisiert alle Smartwatch-Generationen",
+      "teaser": "Google verpasst allen Generationen der Pixel Watch ein Update. Bei manchen Modellen entfernt der Hersteller einen fehlerhaften Schrittzahl-Algorithmus.",
+      "url": "https://www.heise.de/news/Pixel-Watch-Google-aktualisiert-alle-Smartwatch-Generationen-10358075.html"
+    },
+    {
+      "title": "Microsoft korrigiert Update-Fehler 0x80070643 in Windows 10 und Server 2022",
+      "teaser": "Beim Update von Windows 10 und Server 2022 im April kam oft die Fehlermeldung mit Code 0x80070643. Das hat Microsoft korrigiert.",
+      "url": "https://www.heise.de/news/Microsoft-korrigiert-Update-Fehler-0x80070643-in-Windows-10-und-Server-2022-10358063.html",
+      "image_title": "Stilisiertes Bild: Windows/Software-Update auf Laptop"
+    },
+    {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Elektroauto: Mercedes will chinesische Kunden mit fahrendem Gadget überzeugen",
+      "teaser": "Mercedes arbeitet in China mit der Tiktok-Firma ByteDance zusammen, neue Modelle sollen dort weniger mit \"Made in Germany\" als mit mehr KI überzeugen.",
+      "url": "https://www.heise.de/news/Elektroauto-Mercedes-will-in-China-mit-KI-von-Bytedance-ueberzeugen-10358033.html",
+      "image_title": "Mercedes CLA"
+    },
+    {
+      "title": "Bericht: Wie Tim Cook es schaffte, US-Zoll-Ausnahmen fürs iPhone zu bekommen",
+      "teaser": "Eigentlich wollte die Trump-Administration 145 Prozent Strafzoll auf iPhone & Co. Dass das nicht passierte, soll direkt mit Apple-Chef Cook zu tun gehabt haben.",
+      "url": "https://www.heise.de/news/Bericht-Wie-Tim-Cook-es-schaffte-US-Zoll-Ausnahmen-fuers-iPhone-zu-bekommen-10357449.html",
+      "image_title": "Apple-CEO Tim Cook mit US-Präsident Donald Trump"
+    },
+    {
+      "title": "Freie Jira-Alternative: Worklenz 2.0 bringt wiederkehrende Tasks und Dark Mode",
+      "teaser": "Worklenz ist ein freies Projektmanagement-Tool. Mit Version 2.0 kommen ein erweitertes Kanban-Board, wiederkehrende Aufgaben und ein Dark Mode.",
+      "url": "https://www.heise.de/news/Alternative-fuer-Jira-Trello-Co-Worklenz-2-0-bringt-erweitertes-Kanban-Board-10357728.html",
+      "image_title": "Screenshot der Aufgabenübersicht in Worklenz"
     },
     {
       "title": "Elektroauto: Trotz Verkaufsschwäche will chinesische Marke Nio in Europa bleiben",
@@ -196,44 +230,9 @@
       "url": "https://www.heise.de/news/Fuenf-Live-Webinare-zum-Apple-Geraetemanagement-mit-dem-Experten-im-Dialog-10355377.html"
     },
     {
-      "title": "Backup-Technologien, die Ransomware keine Chance lassen",
-      "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Ab 30 Euro: Leistungsfähige Prozessorkühler für AMD- und Intel-CPUs",
       "teaser": "Der Prozessorkühler schlägt bei Windows-Updates ein Klagegeheul an, gibt beim Lieblingsspiel alles oder dreht beim Videoschnitt voll auf? Zeit für ein Upgrade!",
       "url": "https://www.heise.de/tests/Ab-30-Euro-Leistungsfaehige-Prozessorkuehler-fuer-AMD-und-Intel-CPUs-10342678.html",
-      "image_title": ","
-    },
-    {
-      "title": "Huawei konkurriert mit vielen Chips gegen Nvidia",
-      "teaser": "Mit einer schieren Masse von Ascend-910C-Beschleunigern baut Huawei Server, die teils schneller sein sollen als Nvidias Blackwell-Systeme.",
-      "url": "https://www.heise.de/news/Huawei-konkurriert-mit-vielen-Chips-gegen-Nvidia-10357949.html",
-      "image_title": "Shot,Of,Data,Center,With,Multiple,Rows,Of,Fully,Operational"
-    },
-    {
-      "title": "Apple-Hardware-Leak auf X: Erste Teile einer \"Vision Air\" aufgetaucht?",
-      "teaser": "Ein Sammler von Apple-Prototypen will ein Stromkabel eines neuen Vision-Pro-Modells aufgetan haben. Wird die \"Vision Air\" leichter und einfacher zu handhaben?",
-      "url": "https://www.heise.de/news/Apple-Hardware-Leak-auf-X-Erste-Teile-einer-Vision-Air-aufgetaucht-10357467.html",
-      "image_title": "Vision Pro"
-    },
-    {
-      "title": "AlertAsus-Router: Sicherheitslücke ermöglicht unbefugtes Ausführen von Funktionen",
-      "teaser": "Eine kritische Schwachstelle in Asus' AiCloud ermöglicht Angreifern, auf einigen Asus-Routern unbefugt Funktionen auszuführen.",
-      "url": "https://www.heise.de/news/Asus-Router-Sicherheitsluecke-ermoeglicht-unbefugtes-Ausfuehren-von-Funktionen-10357834.html",
-      "image_title": "Router"
-    },
-    {
-      "title": "Apple will 60 Prozent seiner Klimagasemissionen seit 2015 eingespart haben",
-      "teaser": "Apple hat neue Zahlen zu seinen Öko-Bemühungen genannt. Der Konzern sieht etwa Erfolge bei der CO₂-Reduzierung und dem Recycling.",
-      "url": "https://www.heise.de/news/Apple-will-60-Prozent-seiner-Klimagasemissionen-seit-2015-eingespart-haben-10357485.html",
-      "image_title": "Recycling von Apple-Produkten"
-    },
-    {
-      "title": "Die Waiptu.tv Box als IPTV-Zuspieler und Streamingplayer im Test",
-      "teaser": "Waipu.tv lässt sich auf verschiedenen Wiedergabegeräten mittels TV-App nutzen, noch komfortabler mit dediziertem Zuspieler. Für die Waipu.tv Box spricht vieles.",
-      "url": "https://www.heise.de/tests/Die-Waiptu-tv-Box-als-IPTV-Zuspieler-und-Streamingplayer-im-Test-10352680.html",
       "image_title": ","
     },
     {
@@ -302,6 +301,36 @@
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
+      "title": "Huawei konkurriert mit vielen Chips gegen Nvidia",
+      "teaser": "Mit einer schieren Masse von Ascend-910C-Beschleunigern baut Huawei Server, die teils schneller sein sollen als Nvidias Blackwell-Systeme.",
+      "url": "https://www.heise.de/news/Huawei-konkurriert-mit-vielen-Chips-gegen-Nvidia-10357949.html",
+      "image_title": "Shot,Of,Data,Center,With,Multiple,Rows,Of,Fully,Operational"
+    },
+    {
+      "title": "Apple-Hardware-Leak auf X: Erste Teile einer \"Vision Air\" aufgetaucht?",
+      "teaser": "Ein Sammler von Apple-Prototypen will ein Stromkabel eines neuen Vision-Pro-Modells aufgetan haben. Wird die \"Vision Air\" leichter und einfacher zu handhaben?",
+      "url": "https://www.heise.de/news/Apple-Hardware-Leak-auf-X-Erste-Teile-einer-Vision-Air-aufgetaucht-10357467.html",
+      "image_title": "Vision Pro"
+    },
+    {
+      "title": "AlertAsus-Router: Sicherheitslücke ermöglicht unbefugtes Ausführen von Funktionen",
+      "teaser": "Eine kritische Schwachstelle in Asus' AiCloud ermöglicht Angreifern, auf einigen Asus-Routern unbefugt Funktionen auszuführen.",
+      "url": "https://www.heise.de/news/Asus-Router-Sicherheitsluecke-ermoeglicht-unbefugtes-Ausfuehren-von-Funktionen-10357834.html",
+      "image_title": "Router"
+    },
+    {
+      "title": "Apple will 60 Prozent seiner Klimagasemissionen seit 2015 eingespart haben",
+      "teaser": "Apple hat neue Zahlen zu seinen Öko-Bemühungen genannt. Der Konzern sieht etwa Erfolge bei der CO₂-Reduzierung und dem Recycling.",
+      "url": "https://www.heise.de/news/Apple-will-60-Prozent-seiner-Klimagasemissionen-seit-2015-eingespart-haben-10357485.html",
+      "image_title": "Recycling von Apple-Produkten"
+    },
+    {
+      "title": "Die Waiptu.tv Box als IPTV-Zuspieler und Streamingplayer im Test",
+      "teaser": "Waipu.tv lässt sich auf verschiedenen Wiedergabegeräten mittels TV-App nutzen, noch komfortabler mit dediziertem Zuspieler. Für die Waipu.tv Box spricht vieles.",
+      "url": "https://www.heise.de/tests/Die-Waiptu-tv-Box-als-IPTV-Zuspieler-und-Streamingplayer-im-Test-10352680.html",
+      "image_title": ","
+    },
+    {
       "title": "Cloud WAN: Google Cloud öffnet eigenes Netzwerk für Kunden",
       "teaser": "Googles Cloud-Abteilung hat ein neues Projekt gestartet. Das sogenannte Cloud Wide Area Network erlaubt es, Googles Netzinfrastruktur mitzunutzen.",
       "url": "https://www.heise.de/news/Cloud-WAN-Google-Cloud-oeffnet-eigenes-Netzwerk-fuer-Kunden-10350030.html",
@@ -344,15 +373,14 @@
       "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
     },
     {
-      "title": "GesundheitsIDs für Digitale Gesundheitsanwendungen vorübergehend unzulässig",
-      "teaser": "Derzeit gibt es keine rechtliche Grundlage, nach der DiGA-Hersteller GesundheitsIDs nutzen dürfen. Bereits gelistete Apps auf Rezept soll das nicht betreffen.",
-      "url": "https://www.heise.de/news/GesundheitsIDs-fuer-Digitale-Gesundheitsanwendungen-voruebergehend-unzulaessig-10296784.html",
-      "image_title": "Smartphone, auf dem verschiedene Gesundheitssymbole zu sehen sind"
-    },
-    {
       "title": "IT-Sicherheit: Technische Tricks sicherer Messenger",
       "teaser": "Kommunikation abzusichern ist ein kompliziertes Unterfangen. Moderne Messenger greifen zu allerlei Tricks, um Daten und Metadaten gegen Angriffe zu schützen.",
       "url": "https://www.heise.de/ratgeber/IT-Sicherheit-Technische-Tricks-sicherer-Messenger-10305737.html"
+    },
+    {
+      "title": "Cybersecurity 2025: Warum IT-Sicherheit ein solides Fundament benötigt",
+      "teaser": "Die Bedrohungslage wird sich auch 2025 weiter verschärfen. Unternehmen müssen daher ihre IT-Sicherheit kontinuierlich ausbauen. Das ist jedoch nur auf Basis einer soliden IT-Infrastruktur möglich.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/cybersecurity-2025-warum-it-sicherheit-ein-solides-fundament-benoetigt-4890/?source=hbsadersatz"
     },
     {
       "title": "Software Testing: Lernen mit Simulationen",
@@ -378,14 +406,15 @@
       "image_title": "Nahaufnahme einer Maschine, die Chips von einem Silizium-Wafer entnimmt und auf ein Substrat aufbringt, dazu Text: DIENSTAG Huaweis KI-Chips, Signal-Skandal, Google-Prozess, EU-Kommission & DHL-Pakete"
     },
     {
-      "title": "APIs effektiv absichern - Bedrohungen und Gegenmaßnahmen",
-      "teaser": "APIs sind das Herzstück moderner Anwendungen - und damit auch beliebtes Angriffsziel. Im Live-Webcast am 15.5. um 11 Uhr erläutert Sven Müller von Radware die wichtigsten Risiken und effektive Schutzmaßnahmen.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/geschaeftskritische-apis-effektiv-absichern-aktuelle-bedrohungen-und-gegenmassnahmen-4908/?source=hbsad-ersatz"
-    },
-    {
       "title": "Top 10: Die beste Screenbar im Test – Benq dominiert, aber auch billig ist gut",
       "teaser": "Nur wenige kennen sie, fast alle brauchen sie: Screenbars. Wir zeigen die 10 besten Monitorlampen aus über 20 Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-screenbar-im-test/1y3x1w6?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "US-Verteidigungsminister soll Militärpläne über Signal mit Ehefrau geteilt haben",
+      "teaser": "Verteidigungsminister Hegseth soll Militärinformationen über einen Gruppenchat im Signal-Messenger auch mit seiner Frau und seinem Bruder geteilt haben.",
+      "url": "https://www.heise.de/news/US-Verteidigungsminister-teilte-Militaerplaene-ueber-Signal-mit-Ehefrau-10357423.html",
+      "image_title": "Digitale Briefsymbole vor US-Flagge"
     },
     {
       "title": "Meta FAIR: Bessere Augen und besseres Verständnis von KI-Modellen",
@@ -409,32 +438,8 @@
     },
     {
       "title": "Europa will mit Uhren im All Einstein-These testen",
-      "teaser": "Die Mission soll dabei helfen, dass die Zeiger der Welt gleicher schlagen. Und auch grundlegende Annahmen von Einstein zu Schwerkraft will das Vorhaben prüfen.",
       "url": "https://www.heise.de/news/Europa-will-mit-Uhren-im-All-Einstein-These-testen-10357340.html",
       "image_title": "Wecker, Zeit"
-    },
-    {
-      "title": "Zum Welttag des Buches: Mensch oder KI – wer schreibt morgen unsere Bücher?",
-      "teaser": "Ein kurzer Prompt genügt, schon unterstützt KI beim Schreiben. Doch Autoren und Experten warnen: Textet KI Kinderbücher und Romane, bedroht das die Kreativität.",
-      "url": "https://www.heise.de/news/Zum-Welttag-des-Buches-Mensch-oder-KI-wer-schreibt-morgen-unsere-Buecher-10357313.html",
-      "image_title": "Märchen, Bücher, Buch"
-    },
-    {
-      "title": "Frühbucherrabatt endet bald: heise-Konferenz bietet zwei Tage API-Praxis-Knowhow",
-      "teaser": "Internationale Expertinnen und Experten halten Vorträge zu Design, Entwicklung, Testing und Management von APIs auf der zweitägigen Online-Konferenz.",
-      "url": "https://www.heise.de/news/Fruehbucherrabatt-endet-bald-heise-Konferenz-bietet-zwei-Tage-API-Praxis-Knowhow-10350496.html",
-      "image_title": "Aufmacher Konferenz bcc API"
-    },
-    {
-      "title": "Klingonisch – von wenigen Wörtern bis Sex und Geschlecht",
-      "teaser": "Die außerirdische \"Trekkie\"-Sprache Klingonisch wächst jedes Jahr um viele neue Wörter. Beim Thema Sexualität mussten die Fans lange warten.",
-      "url": "https://www.heise.de/news/Klingonisch-von-wenigen-Woertern-bis-Sex-und-Geschlecht-10357309.html",
-      "image_title": "Die Erde aus dem All"
-    },
-    {
-      "title": "So geht's: Einfamilienhaus mit PV-Anlage vermieten",
-      "teaser": "Modelle von ganz simpel bis komplexer: Will man ein Haus mit PV-Anlage vermieten, braucht man einen guten Draht zum Mieter und muss Prioritäten setzen.",
-      "url": "https://www.heise.de/ratgeber/So-geht-s-Einfamilienhaus-mit-PV-Anlage-vermieten-10297608.html"
     },
     {
       "title": "KI-Videos und -Bilder für alle: Amuse 3.0.1 vereinfacht Umgang mit KI",
@@ -445,11 +450,6 @@
       "title": "AlertGezielte Angriffe auf iPhones: Apple patcht Betriebssysteme außerhalb der Reihe",
       "url": "https://www.heise.de/news/iOS-18-4-1-macOS-15-4-1-Co-Apple-liefert-Notfall-Patches-fuer-mehrere-Systeme-10355206.html",
       "image_title": "iPhone spielt Update ein und zeigt ein Apple-Logo"
-    },
-    {
-      "title": "LG: Smart-TVs sollen Emotionen der Zuschauer überwachen und per KI auswerten",
-      "url": "https://www.heise.de/news/LG-Smart-TVs-sollen-Emotionen-der-Zuschauer-ueberwachen-und-per-KI-auswerten-10357123.html",
-      "image_title": "Fernbedienung, auf der gerade der Ausschalt-Knopf gedrückt wird; im Hintergrund unscharf ein Fernseher."
     },
     {
       "title": "\"Hubble-Spannung\": Rotierendes Universum könnte Rätsel der Kosmologie lösen",
@@ -522,6 +522,11 @@
       "image_title": "Bunt leuchtendes Neon-Zeochen von Google"
     },
     {
+      "title": "Klingonisch – von wenigen Wörtern bis Sex und Geschlecht",
+      "url": "https://www.heise.de/news/Klingonisch-von-wenigen-Woertern-bis-Sex-und-Geschlecht-10357309.html",
+      "image_title": "Die Erde aus dem All"
+    },
+    {
       "title": "Songsterr erstellt per KI recht genaue Gitarren-Tabs aus eigenen Aufnahmen",
       "url": "https://www.heise.de/news/Songsterr-erstellt-per-KI-recht-genaue-Gitarren-Tabs-aus-eigenen-Aufnahmen-10355904.html",
       "image_title": "Tabulatur aus Songsterr von \"Master of Puppets\" mit leichten Fehlern."
@@ -530,10 +535,6 @@
       "title": "Aus Rache: Trump entzieht IT-Sicherheitsfirma Sicherheitsfreigaben",
       "url": "https://www.heise.de/news/Vendetta-Trump-entzieht-IT-Sicherheitsfirma-Sicherheitsfreigaben-10348366.html",
       "image_title": "Donald Trump vor US-Flagge"
-    },
-    {
-      "title": "#TGIQF: Frühlingsquiz – das sind unsere spannendsten News der Woche",
-      "url": "https://www.heise.de/news/TGIQF-Fruehlingsquiz-das-sind-unsere-spannendsten-News-der-Woche-10356396.html"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -602,21 +603,21 @@
       "url": "https://www.heise.de/en/news/Fraud-with-Seagate-hard-disks-Dozens-of-readers-report-suspected-cases-10259237.html"
     },
     {
-      "title": "c’t-Notfall-Windows für ältere Systeme",
-      "teaser": "Auf meinem PC läuft aus Gründen noch Windows 8.1. Kann ich damit das aktuelle c’t-Notfall-Windows nutzen?",
-      "url": "https://www.heise.de/ratgeber/c-t-Notfall-Windows-fuer-aeltere-Systeme-10355000.html"
+      "title": "Mit incron oder inotify: Linux digitalisiert Text von Papiervorlagen automatisch",
+      "teaser": "Wir zeigen zwei Skripte für einen kostenlosen Digitalpakt mit Linux, bei dem er die Buchstaben von eingescannten Seiten automatisch erkennt und zu Text wandelt.",
+      "url": "https://www.heise.de/ratgeber/Mit-incron-oder-inotify-Linux-digitalisiert-Text-von-Papiervorlagen-automatisch-10331975.html",
+      "image_title": "KI, Collage c't"
+    },
+    {
+      "title": "Web-Tipps: Den Organspendewillen digital hinterlegen",
+      "teaser": "Seit 2024 können Menschen ab 16 im Online-Organspenderegister einfach und kostenlos darüber bestimmen, ob sie ihre Organe im Todesfall spenden möchten.",
+      "url": "https://www.heise.de/news/Web-Tipps-Den-Organspendewillen-digital-hinterlegen-10354992.html"
     },
     {
       "title": "Feinstaubdaten messen und der Wissenschaft helfen",
       "teaser": "Mit Bauteilen im Wert von rund 30 Euro kann man Feinstaub und andere Emissionen so gut messen, dass sie selbst für Wissenschaftler ausreichen.",
       "url": "https://www.heise.de/ratgeber/Feinstaubdaten-messen-und-der-Wissenschaft-helfen-10348692.html",
       "image_title": ", KI, Collage c’t"
-    },
-    {
-      "title": "Bit-Rauschen: Server-Umsätze gehen durch die Decke",
-      "teaser": "Dank KI boomt der Servermarkt, wandelt sich aber rasant. Windows-on-ARM-Notebooks verkaufen sich schleppend. Intels neuer Chef will den Laden zusammenhalten.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Server-Umsaetze-gehen-durch-die-Decke-10343238.html",
-      "image_title": ","
     },
     {
       "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
@@ -637,6 +638,12 @@
       "image_title": "AirTags und iPhone"
     },
     {
+      "title": "GraviTrax-Kugelbahn mit ESP32 steuern",
+      "teaser": "Die Taster des GraviTrax Power Element+ Controllers lassen sich durch ESP32-gesteuerte Relais ersetzen und damit programmgesteuerte Kugelbahnen realisieren.",
+      "url": "https://www.heise.de/ratgeber/GraviTrax-Kugelbahn-mit-ESP32-steuern-10320855.html",
+      "image_title": ","
+    },
+    {
       "title": "Bastelprojekt: Wie man eine per ESP-gesteuerte Lampe für Verliebte baut",
       "teaser": "Im Projekt \"LoversLamp\" synchronisieren sich ESP-gesteuerte Lampen übers Internet per MQTT miteinander, um einer Person zu zeigen, dass man an sie denkt.",
       "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-man-eine-per-ESP-gesteuerte-Lampe-fuer-Verliebte-baut-10322225.html",
@@ -647,11 +654,6 @@
       "teaser": "Pimoroni bringt mit dem Presto ein Displaygerät mit Touchscreen, WLAN, RGB-LEDs und Sensoranschluss für eigene Projekte.",
       "url": "https://www.heise.de/news/Pimoroni-Presto-Touch-Display-auf-Basis-von-Pi-Pico-10354068.html",
       "image_title": "Man sieht das Display von schräg vorne."
-    },
-    {
-      "title": "Echtzeit-Magie: TU-Graz-Team lässt Objekte unsichtbar werden",
-      "teaser": "Am Institute of Visual Computing entwickeln Forschende eine Technik, die Objekte in Echtzeit aus Live-Aufnahmen in dreidimensionalen Umgebungen entfernt.",
-      "url": "https://www.heise.de/news/Echtzeit-Magie-TU-Graz-Team-laesst-Objekte-unsichtbar-werden-10350797.html"
     },
     {
       "title": "Schöne Feiertage und die Trends der Fotonews",
@@ -692,12 +694,6 @@
       "url": "https://www.heise.de/hintergrund/Uebersicht-ueber-kleine-KI-Modelle-die-sich-fuer-den-lokalen-Betrieb-eignen-10306979.html"
     },
     {
-      "title": "Elektroauto Polestar 4 im TestKein Ausblick nach hinten, aber flink und komfortabel",
-      "teaser": "Dass der Polestar 4 keine Heckscheibe hat, spielt im Alltag schnell keine Rolle mehr. Seine Reichweite ist enorm.",
-      "url": "https://www.heise.de/tests/E-Auto-Polestar-4-im-Test-Komfortabler-schneller-Gleiter-im-Schwedendesign-10349475.html",
-      "image_title": "Polestar 4"
-    },
-    {
       "title": "Lyft übernimmt FreenowUbers größter Konkurrent kommt nach Europa",
       "teaser": "Ubers größter US-Konkurrent wagt endlich den Schritt nach Europa und übernimmt den Taxivermittler Freenow von Mercedes und BMW.",
       "url": "https://www.heise.de/news/Mobilitaetsplattformen-Lyft-uebernimmt-Freenow-10354595.html",
@@ -714,6 +710,12 @@
       "teaser": "Die bildschöne Retro-Triumph ist ein bemerkenswert sportliches und doch komfortables Landstraßentalent. Gründlich überarbeitet bietet sie noch mehr fürs Geld.",
       "url": "https://www.heise.de/tests/Triumph-Speed-Twin-1200-RS-im-Test-Nackt-retro-schnell-10352320.html",
       "image_title": "Test Triumph Speed Twin 1200 RS"
+    },
+    {
+      "title": "Miss BavariaMotorrad BMW R 12 S im Test",
+      "teaser": "Die BMW R 12 S vereint überzeugend Komfort und Dynamik und hält, was ihre auffällige Optik verspricht. Nicht billig, aber trotz ein paar Zicken jeden Euro wert.",
+      "url": "https://www.heise.de/tests/Motorrad-BMW-R-12-S-im-Test-Miss-Bavaria-10351698.html",
+      "image_title": "BMW R 12 S"
     },
     {
       "title": "Coworking statt Homeoffice: Wieso nach 5 Jahren für mich Schluss ist",
@@ -751,27 +753,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Indien erwärmt sich langsamer als der Rest der Welt: Wissenschaftler rätseln über die Gründe",
-      "teaser": "Die Erwärmung in Indien liegt deutlich unter dem globalen Mittel. Forscher diskutieren mögliche Erklärungen: von Luftverschmutzung bis Bewässerung.",
-      "url": "https://www.heise.de/tp/features/Indien-erwaermt-sich-langsamer-als-der-Rest-der-Welt-Wissenschaftler-raetseln-ueber-die-Gruende-10352575.html",
-      "image_title": "Straßenszene in Indien"
+      "title": "Nato vs. Russland: Der unsichtbare Krieg hat längst begonnen – die Taurus-Debatte befeuert ihn",
+      "teaser": "Moskau droht bei der Lieferung des Marschflugkörpers mit Folgen. Ähnliche Warnungen blieben bislang scheinbar folgenlos. Doch dieser Eindruck trügt.",
+      "url": "https://www.heise.de/tp/features/Nato-vs-Russland-Der-unsichtbare-Krieg-hat-laengst-begonnen-die-Taurus-Debatte-befeuert-ihn-10356894.html",
+      "image_title": "Und Soldaten im Stechschritt vor der roten Mauer des Krems"
     },
     {
-      "title": "Kommt die außerparlamentarische Opposition gegen die Merz-Regierung?",
-      "teaser": "Die Regierungsbildung unter Friedrich Merz läuft erstaunlich ruhig ab. Die SPD murrt nur leise. Aber könnte sich neuer außerparlamentarischer Protest entwickeln?",
-      "url": "https://www.heise.de/tp/features/Kommt-die-ausserparlamentarische-Opposition-gegen-die-Merz-Regierung-10356758.html",
-      "image_title": "Fäuste"
+      "title": "Mindset-Coaches: Ihr liebstes Totschlagargument – das Resonanzprinzip",
+      "teaser": "Schlechte Schwingungen – dein Pech? Wenn Verzweiflung den Markt durchzieht, wird Trost zur Ware. Über den problematischen Gleichschritt des Mitschwingens.",
+      "url": "https://www.heise.de/tp/features/Mindset-Coaches-Ihr-liebstes-Totschlagargument-das-Resonanzprinzip-10357035.html",
+      "image_title": "Sehr verärgerte Frau in Großaufnahme"
     },
     {
-      "title": "Schizophrenie: Wenn das Gehirn zu schnell altert",
-      "teaser": "Schizophrenie betrifft Millionen Menschen weltweit und könnte mit beschleunigter Gehirnalterung zusammenhängen. Ein Bluttest liefert erste Hinweise. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Schizophrenie-Wenn-das-Gehirn-zu-schnell-altert-10354144.html",
-      "image_title": "CT-Scan eines Gehirns"
+      "title": "Der unbequeme Papst: Franziskus' Vermächtnis",
+      "teaser": "Mit Franziskus verlieren die Ausgegrenzten dieser Welt einen Fürsprecher. Wofür der Papst stand, wer ihn ausbremste und wer seinen Platz einnehmen könnte. Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Der-unbequeme-Papst-Franziskus-Vermaechtnis-10357887.html",
+      "image_title": "Papst Franziskus"
     },
     {
-      "title": "Test: luckychat & luckymeet verbinden Teams und Kunden",
-      "teaser": "Der deutsche Cloud-Anbieter luckycloud offeriert mittlerweile auch ein Chat- und ein Videokonferenzsystem. Wir haben die zwei Dienste luckychat und luckymeet getestet.",
-      "url": "https://www.heise.de/download/specials/Test-luckychat-luckymeet-verbinden-Teams-und-Kunden-10317669"
+      "title": "Hostinger Horizons im Test: Web-Apps mit KI erstellen",
+      "teaser": "Web-Apps entwickeln, ohne selbst zu coden: Mit Horizons präsentiert das litauische Unternehmen Hostinger einen vollständig KI-basierten Webprojekt-Generator.",
+      "url": "https://www.heise.de/download/specials/Hostinger-Horizons-im-Test-Web-Apps-mit-KI-erstellen-10327943"
     },
     {
       "title": "Signal - Messenger-App",
