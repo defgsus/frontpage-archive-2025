@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-22T21:08:59",
+  "timestamp": "2025-04-22T22:09:15",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Boeing braucht Geld: Digital Aviation Solutions verkauft",
+      "url": "https://www.heise.de/news/Boeing-braucht-Geld-Digital-Aviation-Solutions-verkauft-10358832.html"
+    },
     {
       "title": "Klage von Plattenlabels: Petition zur Rettung des Internet Archive",
       "url": "https://www.heise.de/news/Klage-von-Plattenlabels-Petition-zur-Rettung-des-Internet-Archive-10358777.html"
@@ -60,10 +64,6 @@
     {
       "title": "Winziger Adapter für Carplay & Android Auto Wireless: Ottocast Mini im Test",
       "url": "https://www.heise.de/bestenlisten/testbericht/ottocast-mini-wireless-carplay-und-android-auto-adapter-im-test/93c3pk2"
-    },
-    {
-      "title": "Smartphone-App: Öffentliche Testphase für den digitalen Fahrzeugschein startet",
-      "url": "https://www.heise.de/news/Smartphone-App-Oeffentliche-Testphase-fuer-den-digitalen-Fahrzeugschein-startet-10358425.html"
     },
     {
       "title": "Kult-Rollenspiel\"Oblivion\"-Remaster ab sofort erhältlich",
@@ -186,20 +186,26 @@
       "image_title": "Synology company logo sign on exhibition fair Cebit 2017 in Hannover Messe, Germany"
     },
     {
+      "title": "Boeing braucht Geld: Digital Aviation Solutions verkauft",
+      "teaser": "Boeing leidet unter Milliardenverlusten und schrumpfenden Umsätze. Jetzt werden Tochterfirmen verkauft, darunter Jeppesen.",
+      "url": "https://www.heise.de/news/Boeing-braucht-Geld-Digital-Aviation-Solutions-verkauft-10358832.html",
+      "image_title": "Flugzeugrumpf mit Boeing-Schriftzug"
+    },
+    {
       "title": "Klage von Plattenlabels: Petition zur Rettung des Internet Archive",
       "teaser": "In einem offenen Brief fordern Unterzeichner die Musikbranche auf, die 700-Millionen-Klage gegen das Internet Archive wegen Schellackplatten fallen zu lassen.",
       "url": "https://www.heise.de/news/Klage-von-Plattenlabels-Petition-zur-Rettung-des-Internet-Archive-10358777.html",
       "image_title": "Schwarze Schallplate, dazu Nahaufnahme des Ettiketts mit Aufschrift \"Decelith, Typ L, 23. Okt. 1948\""
     },
     {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Der beste Adapter für Android Auto Wireless im Test",
       "teaser": "Wer das Smartphone drahtlos mit dem Auto verbinden will, kann einfach nachrüsten. Wir zeigen die besten Adapter von Ottocast, Carlinkit, AA Wireless und Co.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-adapter-fuer-android-auto-wireless-im-test/nv5rxl9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Digitale Souveränität mit europäischen Partnern",
-      "teaser": "Der Druck auf europäische Firmen ist bei digitaler Infrastruktur groß – vor allem wegen der geopolitischen Verwerfungen. Es ist jedoch möglich, Cloud-Strategien ohne die US-Hyperscaler zu entwickeln.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6974106437&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Entwickler verärgert: Apple will KI offenbar mit Bug-Reports füttern",
@@ -227,12 +233,6 @@
       "title": "Winziger Adapter für Carplay & Android Auto Wireless: Ottocast Mini im Test",
       "teaser": "Klein wie ein USB-Stick: Der Ottocast Mini erlaubt die kabellose Nutzung von Android Auto oder Apple Carplay im Auto. Wie das funktioniert, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ottocast-mini-wireless-carplay-und-android-auto-adapter-im-test/93c3pk2?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "M365-Alternative von OnlyOffice: In DocSpace 3.1 gemeinsam Formulare ausfüllen",
-      "teaser": "DocSpace 3.1 bekommt neue Funktionen für virtuelle Datenräume sowie eine überarbeitete Daten- und Gästeverwaltung. Ebenso gibt es eine Speicherverschlüsselung.",
-      "url": "https://www.heise.de/news/M365-Alternative-von-OnlyOffice-In-DocSpace-3-1-gemeinsam-Formulare-ausfuellen-10358045.html",
-      "image_title": "Screenshot von OnlyOffice DocSpace"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -298,6 +298,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 € sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "M365-Alternative von OnlyOffice: In DocSpace 3.1 gemeinsam Formulare ausfüllen",
+      "teaser": "DocSpace 3.1 bekommt neue Funktionen für virtuelle Datenräume sowie eine überarbeitete Daten- und Gästeverwaltung. Ebenso gibt es eine Speicherverschlüsselung.",
+      "url": "https://www.heise.de/news/M365-Alternative-von-OnlyOffice-In-DocSpace-3-1-gemeinsam-Formulare-ausfuellen-10358045.html",
+      "image_title": "Screenshot von OnlyOffice DocSpace"
     },
     {
       "title": "KI-Update kompakt: Google, OpenAI, Meta FAIR, Huawai",
@@ -368,15 +374,15 @@
       "url": "https://www.heise.de/news/Fuenf-Live-Webinare-zum-Apple-Geraetemanagement-mit-dem-Experten-im-Dialog-10355377.html"
     },
     {
+      "title": "Künstliche Intelligenz erfolgreich einsetzen – die Rolle der CPU",
+      "teaser": "Beim Einsatz von KI (Inferenz) kommt es primär auf Geschwindigkeit und Genauigkeit an. Effizienz und Sicherheit sind dabei aber ebenso wichtig wie die Unterstützung anderer geschäftskritischer Workloads.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/kuenstliche-intelligenz-erfolgreich-einsetzen-die-rolle-der-cpu-4878/?source=hbsadersatz"
+    },
+    {
       "title": "Ab 30 Euro: Leistungsfähige Prozessorkühler für AMD- und Intel-CPUs",
       "teaser": "Der Prozessorkühler schlägt bei Windows-Updates ein Klagegeheul an, gibt beim Lieblingsspiel alles oder dreht beim Videoschnitt voll auf? Zeit für ein Upgrade!",
       "url": "https://www.heise.de/tests/Ab-30-Euro-Leistungsfaehige-Prozessorkuehler-fuer-AMD-und-Intel-CPUs-10342678.html",
       "image_title": ","
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Apple-Hardware-Leak auf X: Erste Teile einer \"Vision Air\" aufgetaucht?",
@@ -431,12 +437,6 @@
       "teaser": "Die Online-Konferenz am 30. April zeigt, wie sich komplexe Infrastrukturkonfigurationen nach GitOps-Manier umsetzen lassen und wie Progressive Delivery gelingt.",
       "url": "https://www.heise.de/news/Last-Call-zur-Mastering-GitOps-Von-Continuous-zu-Progressive-Delivery-10353868.html",
       "image_title": "Mastering GitOps 2025"
-    },
-    {
-      "title": "Nach Blockade durch Meta: Facebook und Instagram ohne News in Kanadas Wahlkampf",
-      "teaser": "In wenigen Tagen wird in Kanada gewählt, aber Facebook blockiert weiterhin Hyperlinks zu Nachrichtenseiten. Andere füllen die Lücke, zeigt ein Bericht jetzt.",
-      "url": "https://www.heise.de/news/Nach-Blockade-durch-Meta-Facebook-und-Instagram-ohne-News-in-Kanadas-Wahlkampf-10357678.html",
-      "image_title": "Frau mit Smartphone in der Hand, auf dem Facebook geöffnet ist"
     },
     {
       "title": "Missing Link: Digitale Stellwerke in Norwegen – Ein Vorbild für Deutschland?",
@@ -621,12 +621,6 @@
       "url": "https://www.heise.de/news/Podcast-Digitale-Gesundheitsdaten-fuer-alle-Die-ePA-im-Sicherheitscheck-10358647.html"
     },
     {
-      "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
-      "teaser": "Mehrere macOS-Instanzen für Testzwecke parat zu haben, kann äußerst praktisch sein. Wir zeigen, wie Sie mit einem Synology-NAS einen virtuellen Mac einrichten.",
-      "url": "https://www.heise.de/ratgeber/macOS-im-Docker-Container-So-klappt-es-mit-dem-virtuellen-Mac-10327198.html",
-      "image_title": ", Lrwilk, stock.adobe.com; Montage: Mac & i"
-    },
-    {
       "title": "Praxistipps zu iOS 18.4Apple Intelligence jetzt clever nutzen",
       "teaser": "Es ist so weit: Apple Intelligence kommt in die EU und spricht Deutsch, Apple Mail erhält ein großes Redesign.",
       "url": "https://www.heise.de/ratgeber/22-Tipps-zu-iOS-18-4-Apple-Intelligence-auf-iPhones-in-Deutschland-10329236.html",
@@ -639,9 +633,20 @@
       "image_title": "AirTags und iPhone"
     },
     {
+      "title": "Passgenaues Case statt UniversallösungiPhone-Halterungen fürs Fahrrad im Test",
+      "teaser": "Sie müssen robust sein und ein wertvolles Smartphone sicher am Lenker befestigen: iPhone-Halterungen fürs Bike. Wir haben vier Systeme inklusive Case getestet.",
+      "url": "https://www.heise.de/tests/BikePlay-iPhone-Halterungen-fuers-Fahrrad-im-Test-9733286.html"
+    },
+    {
       "title": "GraviTrax-Kugelbahn mit ESP32 steuern",
       "teaser": "Die Taster des GraviTrax Power Element+ Controllers lassen sich durch ESP32-gesteuerte Relais ersetzen und damit programmgesteuerte Kugelbahnen realisieren.",
       "url": "https://www.heise.de/ratgeber/GraviTrax-Kugelbahn-mit-ESP32-steuern-10320855.html",
+      "image_title": ","
+    },
+    {
+      "title": "Bastelprojekt: Wie man eine per ESP-gesteuerte Lampe für Verliebte baut",
+      "teaser": "Im Projekt \"LoversLamp\" synchronisieren sich ESP-gesteuerte Lampen übers Internet per MQTT miteinander, um einer Person zu zeigen, dass man an sie denkt.",
+      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-man-eine-per-ESP-gesteuerte-Lampe-fuer-Verliebte-baut-10322225.html",
       "image_title": ","
     },
     {
@@ -649,11 +654,6 @@
       "teaser": "Pimoroni bringt mit dem Presto ein Displaygerät mit Touchscreen, WLAN, RGB-LEDs und Sensoranschluss für eigene Projekte.",
       "url": "https://www.heise.de/news/Pimoroni-Presto-Touch-Display-auf-Basis-von-Pi-Pico-10354068.html",
       "image_title": "Man sieht das Display von schräg vorne."
-    },
-    {
-      "title": "Echtzeit-Magie: TU-Graz-Team lässt Objekte unsichtbar werden",
-      "teaser": "Am Institute of Visual Computing entwickeln Forschende eine Technik, die Objekte in Echtzeit aus Live-Aufnahmen in dreidimensionalen Umgebungen entfernt.",
-      "url": "https://www.heise.de/news/Echtzeit-Magie-TU-Graz-Team-laesst-Objekte-unsichtbar-werden-10350797.html"
     },
     {
       "title": "Schöne Feiertage und die Trends der Fotonews",
@@ -753,22 +753,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Kriegstüchtigkeit im Feuilleton: Weiße Tauben im Visier",
+      "teaser": "Wie mit der Friedensbewegung abgerechnet wird. Statt weißer Friedenstauben soll \"robuster Antifaschismus\" ans Werk, um Frieden zu erzwingen. Analyse und Kommentar.",
+      "url": "https://www.heise.de/tp/features/Kriegstuechtigkeit-im-Feuilleton-Weisse-Tauben-im-Visier-10357507.html",
+      "image_title": "Friedenstaube mit Zweig im Schnabel"
+    },
+    {
+      "title": "Schizophrenie: Wenn das Gehirn zu schnell altert",
+      "teaser": "Schizophrenie könnte mit beschleunigter Gehirnalterung zusammenhängen. Hinweise darauf finden sich im Blut der Betroffenen. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Schizophrenie-Wenn-das-Gehirn-zu-schnell-altert-10354144.html",
+      "image_title": "CT-Scan eines Gehirns"
+    },
+    {
       "title": "Sternschnuppen Lyriden im April 2025: Wenn der Himmel Funken sprüht",
       "teaser": "Der erste große Meteorschauer des Jahres steht bevor. Die Lyriden erreichen am 21. April ihr Maximum. Was Beobachter dieses Jahr besonders hoffen lässt.",
       "url": "https://www.heise.de/tp/features/Sternschnuppen-Lyriden-im-April-2025-Wenn-der-Himmel-Funken-sprueht-10357175.html",
       "image_title": "Sternschnuppen am morgendlichen Himmel"
-    },
-    {
-      "title": "Wird Medikamentenmangel zum Dauerzustand?",
-      "teaser": "Über 500 Medikamente sind in Deutschland aktuell nicht lieferbar. EU will Produktion wieder nach Europa holen. Doch der Plan könnte an einem Detail scheitern.",
-      "url": "https://www.heise.de/tp/features/Wird-Medikamentenmangel-zum-Dauerzustand-10352386.html",
-      "image_title": "Sterne aus der EU-Flagge befördern Pillen nach oben"
-    },
-    {
-      "title": "Der unbequeme Papst: Franziskus' Vermächtnis",
-      "teaser": "Mit Franziskus verlieren die Ausgegrenzten dieser Welt einen Fürsprecher. Wofür der Papst stand, wer ihn ausbremste und wer seinen Platz einnehmen könnte. Eine Analyse.",
-      "url": "https://www.heise.de/tp/features/Der-unbequeme-Papst-Franziskus-Vermaechtnis-10357887.html",
-      "image_title": "Papst Franziskus"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
