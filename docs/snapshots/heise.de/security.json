@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-23T12:18:14",
+  "timestamp": "2025-04-23T13:21:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,20 +26,19 @@
   ],
   "articles": [
     {
-      "title": "In freier WildbahnAttacken auf Microsofts NTLM-Authentifizierung",
-      "teaser": "Angreifer haben Microsoft-NTLM-Hashes abgegriffen und zur Authentifizierung missbraucht. Davor warnt etwa die CISA.",
-      "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-NTLM-Authentifizierung-beobachtet-10357572.html",
-      "image_title": "Ein Monitor zeigt \"Attack running ...\" an"
+      "title": "AlertJetzt patchen! Attacken auf Erlang/OTP SSH können bevorstehen",
+      "teaser": "SSH-Server mit Erlang/OTP SSH sind über eine kritische Schwachstelle mit Höchstwertung attackierbar. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Erlang-OTP-SSH-koennen-bevorstehen-10358958.html"
     },
     {
-      "title": "Windows-UpdatesNetzwerkprobleme bei AD-DCs und Windows-11-BSoDs",
-      "teaser": "Microsoft hat weitere Probleme mit Windows-Updates eingeräumt. Domaincontroller haben Probleme im Netz, Windows 11 kann abstürzen.",
-      "url": "https://www.heise.de/news/Windows-Update-Probleme-Netzwerk-bei-Domaincontrollern-und-Windows-11-BSoDs-10355226.html",
-      "image_title": "Ein Monitor zeigt das Windows-Logo und einen Fortschrittsbalken, davor rauft sich ein verzweifeltes Monster die Haare"
+      "title": "AlertAsus-RouterLücke ermöglicht unbefugtes Ausführen von Funktionen",
+      "teaser": "Eine kritische Schwachstelle in Asus' AiCloud ermöglicht Angreifern, auf einigen Asus-Routern unbefugt Funktionen auszuführen.",
+      "url": "https://www.heise.de/news/Asus-Router-Sicherheitsluecke-ermoeglicht-unbefugtes-Ausfuehren-von-Funktionen-10357834.html",
+      "image_title": "Router"
     },
     {
-      "title": "AlertSicherheitslücken: Rechteausweitung in IBM Hardware Management Console möglich",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Rechteausweitung-in-IBM-Hardware-Management-Console-moeglich-10359108.html"
+      "title": "AlertZyxel-Firewall: Angreifer können Admin-Tokens stehlen",
+      "url": "https://www.heise.de/news/Zyxel-Firewall-Angreifer-koennen-Admin-Tokens-stehlen-10359376.html"
     },
     {
       "title": "Auslegungssache 132: KI-Verordnung und Datenschutz – ein schwieriges Verhältnis",
@@ -72,6 +71,11 @@
       "url": "https://heise-academy.de/webinare/ad-tiering?wt_mc=intern.academy.security.web_ad.hs_teaser.teaser.teaser"
     },
     {
+      "title": "AlertZyxel-Firewall: Angreifer können Admin-Tokens stehlen",
+      "teaser": "Zyxels Firewall-Serie USG FLEX H ist verwundbar. Sicherheitsupdates schaffen Abhilfe.",
+      "url": "https://www.heise.de/news/Zyxel-Firewall-Angreifer-koennen-Admin-Tokens-stehlen-10359376.html"
+    },
+    {
       "title": "iX-Workshop: IT-Sicherheit jenseits der Bits - Physische Schutzstrategien",
       "teaser": "Praxisnah mit simuliertem Penetrationstest: IT-Infrastruktur physisch absichern, Sicherheitslücken erkennen und wirksame Schutzmaßnahmen auswählen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-jenseits-der-Bits-Physische-Schutzstrategien-10353860.html",
@@ -81,11 +85,6 @@
       "title": "AlertSicherheitslücken: Rechteausweitung in IBM Hardware Management Console möglich",
       "teaser": "Angreifer können an zwei Softwareschwachstellen in IBM Hardware Management Console ansetzen. Eine Lücke gilt als kritisch.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Rechteausweitung-in-IBM-Hardware-Management-Console-moeglich-10359108.html"
-    },
-    {
-      "title": "AlertJetzt patchen! Attacken auf Erlang/OTP SSH können bevorstehen",
-      "teaser": "SSH-Server mit Erlang/OTP SSH sind über eine kritische Schwachstelle mit Höchstwertung attackierbar. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Erlang-OTP-SSH-koennen-bevorstehen-10358958.html"
     },
     {
       "title": "iX-Workshop: Linux-Server härten",
@@ -100,16 +99,16 @@
       "image_title": "Laptop mit Windows 11"
     },
     {
-      "title": "AlertAsus-Router: Sicherheitslücke ermöglicht unbefugtes Ausführen von Funktionen",
-      "teaser": "Eine kritische Schwachstelle in Asus' AiCloud ermöglicht Angreifern, auf einigen Asus-Routern unbefugt Funktionen auszuführen.",
-      "url": "https://www.heise.de/news/Asus-Router-Sicherheitsluecke-ermoeglicht-unbefugtes-Ausfuehren-von-Funktionen-10357834.html",
-      "image_title": "Router"
-    },
-    {
       "title": "AlertWordpress: Angreifer können über Greenshift-Plug-in Schadcode hochladen",
       "teaser": "Potenziell sind 50.000 Wordpress-Websites mit dem Greenshift-Plug-in für Schadcode-Attacken anfällig.",
       "url": "https://www.heise.de/news/Wordpress-Angreifer-koennen-ueber-Greenshift-Plug-in-Schadcode-hochladen-10357624.html",
       "image_title": "Laptop zeigt Wordpress-Logo, Viren fliegen herum"
+    },
+    {
+      "title": "Attacken auf Microsofts NTLM-Authentifizierung in freier Wildbahn",
+      "teaser": "Angreifer haben Microsoft-NTLM-Hashes abgegriffen und zur Authentifizierung missbraucht. Davor warnt etwa die CISA.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Microsoft-NTLM-Authentifizierung-beobachtet-10357572.html",
+      "image_title": "Ein Monitor zeigt \"Attack running ...\" an"
     },
     {
       "title": "iX-Workshop: Effiziente IT-Sicherheit für kleine und mittlere Unternehmen",
