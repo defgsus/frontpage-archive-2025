@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-25T20:10:22",
+  "timestamp": "2025-04-25T21:08:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "SAP patcht attackierte, kritische Schwachstelle außer der Reihe",
+      "url": "https://www.heise.de/news/SAP-Kritische-Sicherheitsluecke-ausser-der-Reihe-gepatcht-10361908.html"
+    },
     {
       "title": "Schätze digitalisieren: Alte VHS-Videokassetten retten und mit KI restaurieren",
       "url": "https://www.heise.de/ratgeber/Schaetze-digitalisieren-Alte-VHS-Videokassetten-retten-und-mit-KI-restaurieren-10232557.html"
@@ -60,10 +64,6 @@
     {
       "title": "Elektronische Patientenakte: Was vom bundesweiten Start zu erwarten ist",
       "url": "https://www.heise.de/news/Elektronische-Patientenakte-Was-vom-bundesweiten-Start-zu-erwarten-ist-10362120.html"
-    },
-    {
-      "title": "App Store: Apple gewährt Einblick, wie KI-Zusammenfassungen entstehen",
-      "url": "https://www.heise.de/news/App-Store-Apple-gewaehrt-Einblick-wie-KI-Zusammenfassungen-entstehen-10363120.html"
     },
     {
       "title": "MobilfunkEWE und Freenet klagen gegen Frequenzverlängerung",
@@ -185,19 +185,25 @@
       "image_title": "Oldtimer-Elektroauto in Schwarz-Weiß"
     },
     {
+      "title": "AlertUpdateSAP patcht attackierte, kritische Schwachstelle außer der Reihe",
+      "teaser": "Eine kritische Sicherheitslücke nötigt SAP zum Update außer der Reihe. Sie wird bereits in freier Wildbahn angegriffen.",
+      "url": "https://www.heise.de/news/SAP-Kritische-Sicherheitsluecke-ausser-der-Reihe-gepatcht-10361908.html",
+      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
+    },
+    {
       "title": "Schätze digitalisieren: Alte VHS-Videokassetten retten und mit KI restaurieren",
       "teaser": "VHS-Kassetten und -Rekorder verfallen langsam auf dem Dachboden – und mit ihnen kostbare Erinnerungen. So retten Sie Ihre Aufnahmen ins digitale Zeitalter.",
       "url": "https://www.heise.de/ratgeber/Schaetze-digitalisieren-Alte-VHS-Videokassetten-retten-und-mit-KI-restaurieren-10232557.html"
     },
     {
-      "title": "Top 10: Das beste Balkonkraftwerk mit 800 Watt im Test – mit exklusiven Rabatten",
-      "teaser": "Balkonkraftwerke sind günstig, einfach zu installieren und reduzieren die Stromkosten. Wir zeigen die besten Mini-PV-Anlagen aus unseren Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Backup-Technologien, die Ransomware keine Chance lassen",
       "teaser": "Wer sich auf unzureichend geschützte Backups verlässt, riskiert bei einem Ransomware-Angriff Datenverluste und IT-Ausfälle. Mit resilienten Backup-Lösungen können Sie Ihre Systeme effizient absichern.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6937363371&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Das beste Balkonkraftwerk mit 800 Watt im Test – mit exklusiven Rabatten",
+      "teaser": "Balkonkraftwerke sind günstig, einfach zu installieren und reduzieren die Stromkosten. Wir zeigen die besten Mini-PV-Anlagen aus unseren Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Strafzölle: Alle iPhones für US-Markt sollen künftig angeblich aus Indien kommen",
@@ -227,12 +233,6 @@
       "teaser": "Mit iOS 18.4 führte KI-Zusammenfassungen von Nutzerrezensionen im App Store ein. In einem Blogpost wird jetzt die komplexe Erstellung erläutert.",
       "url": "https://www.heise.de/news/App-Store-Apple-gewaehrt-Einblick-wie-KI-Zusammenfassungen-entstehen-10363120.html",
       "image_title": "Aussschnitt eines iPhone-Bildschirms mit dem Symbol der App-Store-App."
-    },
-    {
-      "title": "Zahlreiche Desktop-Prozessoren werden günstiger",
-      "teaser": "Monatelang kostete AMDs Gaming-Prozessor Ryzen 7 9800X3D zu viel. Inzwischen ist der Preis gefallen – ebenso von anderen CPUs.",
-      "url": "https://www.heise.de/news/Ryzen-7-9800X3D-faellt-unter-AMDs-Preisempfehlung-10363080.html",
-      "image_title": "AMDs Ryzen 7 9800X3D auf weißem Untergrund"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -298,6 +298,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Zahlreiche Desktop-Prozessoren werden günstiger",
+      "teaser": "Monatelang kostete AMDs Gaming-Prozessor Ryzen 7 9800X3D zu viel. Inzwischen ist der Preis gefallen – ebenso von anderen CPUs.",
+      "url": "https://www.heise.de/news/Ryzen-7-9800X3D-faellt-unter-AMDs-Preisempfehlung-10363080.html",
+      "image_title": "AMDs Ryzen 7 9800X3D auf weißem Untergrund"
     },
     {
       "title": "E-Bike Fiido M1 Pro 2025 im Test: Stark, schick, legal & sturzgefährlich",
@@ -371,15 +377,15 @@
       "image_title": "iPhone 16e"
     },
     {
+      "title": "APIs effektiv absichern - Bedrohungen und Gegenmaßnahmen",
+      "teaser": "APIs sind das Herzstück moderner Anwendungen - und damit auch beliebtes Angriffsziel. Im Live-Webcast am 15.5. um 11 Uhr erläutert Sven Müller von Radware die wichtigsten Risiken und effektive Schutzmaßnahmen.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/geschaeftskritische-apis-effektiv-absichern-aktuelle-bedrohungen-und-gegenmassnahmen-4908/?source=hbsad-ersatz"
+    },
+    {
       "title": "Razer bringt seine erste vertikale Maus",
       "teaser": "Die Razer Pro Click V2 erscheint in zwei Varianten. Eine davon hat einen vertikalen Aufbau und ist auch fürs Büro gedacht.",
       "url": "https://www.heise.de/news/Razer-bringt-seine-erste-vertikale-Maus-10362480.html",
       "image_title": "Mensch hält vertikale Razer-Maus in der Hand"
-    },
-    {
-      "title": "Mobile Workstations: Performance ohne Kompromisse",
-      "teaser": "Mobile Workstations sind oft ein Kompromiss. Leichte Geräte mit langer Akkulaufzeit sind in der Regel weniger leistungsfähig als Alternativen im Tower-Design, hohe Performance geht meist mit mehr Gewicht, größeren Abmessungen und kürzeren Laufzeiten einher. Warum das nicht so sein muss.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/mobile-workstations-performance-ohne-kompromisse-4886/?source=hbsadersatz"
     },
     {
       "title": "Veeam Backup & Replication erhält Web-UI und Linux Appliance",
@@ -432,12 +438,6 @@
       "title": "Neu in .NET 9.0 [18]: Ergänzungen für SearchValues und PriorityQueue",
       "teaser": "Die Klasse SearchValues erhält eine weitere Überladung, und in PriorityQueue kann man nun Elemente an beliebiger Stelle aus einer Warteschlange entnehmen.",
       "url": "https://www.heise.de/blog/Neu-in-NET-9-0-18-Ergaenzungen-fuer-SearchValues-und-PriorityQueue-10361904.html"
-    },
-    {
-      "title": "Leaker: Stage Manager für iOS 19, Menüleiste für iPadOS 19",
-      "teaser": "Apple will angeblich beide Mobilbetriebssysteme ab Herbst mehr \"Mac-like\" machen und Funktionen von macOS auf Smartphones und Tablets bringen.",
-      "url": "https://www.heise.de/news/Leaker-Stage-Manager-fuer-iOS-19-Menueleiste-fuer-iPadOS-19-10362156.html",
-      "image_title": "Stage Manager"
     },
     {
       "title": "Microsoft: Windows-Update schafft neue Schwachstelle",
@@ -607,20 +607,19 @@
       "url": "https://www.heise.de/en/news/Microsoft-Two-year-ban-on-reinstatement-for-underperformance-10360315.html"
     },
     {
-      "title": "Interview: Was nützt Citizen Science?",
-      "teaser": "Citizen Science ermöglicht Bürgern, selbst Forscher zu werden. Aber warum sollten sie? Das erzählt die mit:forschen!-Projektleiterin Wiebke Brink im Gespräch.",
-      "url": "https://www.heise.de/ratgeber/Interview-Was-nuetzt-Citizen-Science-10320213.html"
+      "title": "FAQ: Programmieren lernen",
+      "teaser": "In den bald 15 Jahren seit unserer letzten FAQ \"Programmieren lernen\" hat sich viel bei Sprachen, Tools und künstlicher Intelligenz getan. Ein Update.",
+      "url": "https://www.heise.de/ratgeber/FAQ-Programmieren-lernen-10353829.html"
+    },
+    {
+      "title": "Razr 60 Ultra und Razr 60: Neue Foldables von Motorola",
+      "teaser": "Motorola legt neben der Edge-Serie auch seine Foldables neu auf. Das Razr 60 Ultra setzt auf Power, das Razr 60 auf einen bezahlbaren Preis.",
+      "url": "https://www.heise.de/news/Razr-60-Ultra-und-Razr-60-Neue-Foldables-von-Motorola-10361075.html"
     },
     {
       "title": "c't 3003So macht man einen Homeserver von außen erreichbar",
       "teaser": "Ein Homeserver ist nur für den internen Gebrauch? Man kann ihn auch von außen erreichbar machen. c't 3003 zeigt, wie das geht.",
       "url": "https://www.heise.de/news/So-macht-man-einen-Homeserver-von-aussen-erreichbar-10363206.html"
-    },
-    {
-      "title": "Deutsche Glasfaser tauscht defektes Modem nicht",
-      "teaser": "Wenn ein vom Internetprovider gemietetes Gerät defekt ist, wird es getauscht. Sitzt die Firma das Problem lange genug aus, dann hilft sich der Kunde selbst.",
-      "url": "https://www.heise.de/ratgeber/Deutsche-Glasfaser-tauscht-defektes-Modem-nicht-9809782.html",
-      "image_title": "Daumen hoch, Daumen runter ..."
     },
     {
       "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
@@ -707,16 +706,16 @@
       "image_title": "Kia EV6 an Ladesäule"
     },
     {
+      "title": "Und jetzt bitte noch etwas FeinschliffCitroën ë-C3 im Test",
+      "teaser": "So einen günstigen und komfortablen E-Kleinwagen hätte VW sicher gern schon. Leider fehlt dem ë-C3 eine Vorkonditionierung und der Software die Reife.",
+      "url": "https://www.heise.de/tests/Elektro-Kleinwagen-Citroen-e-C3-im-Test-Und-jetzt-bitte-noch-etwas-Feinschliff-10359008.html",
+      "image_title": "Citroën ë-C3"
+    },
+    {
       "title": "Autonomes FahrenRobotaxi-Kooperation zwischen Uber und VW",
       "teaser": "In den USA sollen Uber-Kunden künftig auch autonom fahrende VW ID.Buzz buchen können. Eine entsprechende Vereinbarung wurde jetzt geschlossen.",
       "url": "https://www.heise.de/news/Autonomes-Fahren-Uber-und-VW-vereinbaren-Kooperation-10361416.html",
       "image_title": "VW ID. Buzz AD"
-    },
-    {
-      "title": "Neue Autos für EuropaAuto China Shanghai 2025",
-      "teaser": "Die Auto China 2025 in Shanghai verläuft vergleichsweise unspektakulär. Interessant ist jedoch, welche Modelle chinesische Hersteller in die EU bringen wollen.",
-      "url": "https://www.heise.de/news/Auto-China-Shanghai-2025-Welche-Modelle-kommen-nach-Europa-10361061.html",
-      "image_title": "Firefly"
     },
     {
       "title": "„Wir brauchen eine Willkommenskultur”: Kann Deutschland US-Forscher anlocken?",
@@ -754,10 +753,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Brauner Reis: Trotz Arsen eine gesunde Wahl für bewusste Ernährung",
-      "teaser": "Eine US-Studie fand mehr Arsen in braunem als in weißem Reis. Doch die Mengen sind unbedenklich. Brauner Reis bleibt gesund.",
-      "url": "https://www.heise.de/tp/features/Brauner-Reis-Trotz-Arsen-eine-gesunde-Wahl-fuer-bewusste-Ernaehrung-10363052.html",
-      "image_title": "Gegrillte Hühnerbrust mit braunem Reis, Spinat, Brokkoli, Spargel, Diätkonzept, gesunde Ernährung."
+      "title": "Der letzte Weg des Pontifex: So wird das Papst-Begräbnis am Samstag ablaufen",
+      "teaser": "Der verstorbene Papst Franziskus hatte genaue Wünsche für seine letzte Ruhestätte. Sein Begräbnis folgt einer jahrhundertealten Tradition. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Der-letzte-Weg-des-Pontifex-So-wird-das-Papst-Begraebnis-am-Samstag-ablaufen-10360014.html",
+      "image_title": "Beerdigung von Papst Johannes Paul II"
     },
     {
       "title": "Gourmet-Nation am Ende: Franzosen flüchten in die Bäckerei",
@@ -766,10 +765,10 @@
       "image_title": "Leere gedeckte Tische vor einem französischen Restaurant"
     },
     {
-      "title": "Russland sieht USA als Risiko für Gaslieferungen nach Europa",
-      "teaser": "Russland befürchtet, dass die USA den Gasfluss nach Europa stoppen könnten, selbst wenn die Sanktionen aufgehoben werden.",
-      "url": "https://www.heise.de/tp/features/Russland-sieht-USA-als-Risiko-fuer-Gaslieferungen-nach-Europa-10359571.html",
-      "image_title": "Karte auf derPipelines von von Russland in die EU mit US-Schloss"
+      "title": "Brauner Reis: Trotz Arsen eine gesunde Wahl für bewusste Ernährung",
+      "teaser": "Eine US-Studie fand mehr Arsen in braunem als in weißem Reis. Doch die Mengen sind unbedenklich. Brauner Reis bleibt gesund.",
+      "url": "https://www.heise.de/tp/features/Brauner-Reis-Trotz-Arsen-eine-gesunde-Wahl-fuer-bewusste-Ernaehrung-10363052.html",
+      "image_title": "Gegrillte Hühnerbrust mit braunem Reis, Spinat, Brokkoli, Spargel, Diätkonzept, gesunde Ernährung."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
