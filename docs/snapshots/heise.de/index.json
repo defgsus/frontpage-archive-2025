@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-27T14:07:40",
+  "timestamp": "2025-04-27T15:08:42",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Google zieht sich mit Nest-Thermostaten aus EU zurück – Support endet teilweise",
+      "url": "https://www.heise.de/news/Google-beendet-Support-fuer-alte-Nest-Learning-Thermostate-Rueckzug-vom-EU-Markt-10363735.html"
+    },
     {
       "title": "Newgen Medicals SW-490 im Test: Fitness-Smartwatch mit EKG für unter 70 Euro",
       "url": "https://www.heise.de/bestenlisten/testbericht/newgen-medicals-sw-490-im-test/gtkcn56"
@@ -60,10 +64,6 @@
     {
       "title": "Missing Link: Was bedeutet digitale Souveränität für die Verteidigungsfähigkeit?",
       "url": "https://www.heise.de/news/Missing-Link-Wer-nicht-digitalisiert-verliert-10362535.html"
-    },
-    {
-      "title": "Nerd-Trend \"Digitaler Garten\": Die eigene Website als persönliches Wissensarchiv",
-      "url": "https://www.heise.de/hintergrund/Nerd-Trend-Digitaler-Garten-Die-eigene-Website-als-persoenliches-Wissensarchiv-10344169.html"
     },
     {
       "title": "Missing LinkWas bedeutet digitale Souveränität für die Verteidigungsfähigkeit?",
@@ -191,20 +191,26 @@
       "url": "https://www.heise.de/news/Langsam-ist-mal-gut-Wie-schnell-Dein-Internet-sein-muss-und-WLAN-LAN-USB-10361699.html"
     },
     {
+      "title": "Google zieht sich mit Nest-Thermostaten aus EU zurück – Support endet teilweise",
+      "teaser": "Google zieht sich mit seinen Nest Learning Thermostaten aus dem EU-Markt zurück, für ältere Generationen endet der Support. Das Unternehmen nennt die Gründe.",
+      "url": "https://www.heise.de/news/Google-beendet-Support-fuer-alte-Nest-Learning-Thermostate-Rueckzug-vom-EU-Markt-10363735.html",
+      "image_title": "Ein Google-Lernthermostat steht auf einem Tisch."
+    },
+    {
       "title": "Newgen Medicals SW-490 im Test: Fitness-Smartwatch mit EKG für unter 70 Euro",
       "teaser": "Die Newgen Medicals SW-490 für unter 70 Euro legt als Smartwatch den Fokus auf Gesundheitsfunktionen wie EKG. Ob das zuverlässig funktioniert, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/newgen-medicals-sw-490-im-test/gtkcn56?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "4chan wurde wegen veralteter PDF-Software gehackt und ist wieder online",
       "teaser": "Das berüchtigte Imageboard 4chan ist wieder erreichbar. Die Administratoren haben Server ausgetauscht und einige Funktionen abgeschaltet.",
       "url": "https://www.heise.de/news/4chan-wurde-wegen-veralteter-PDF-Software-gehackt-und-ist-wieder-online-10363747.html",
       "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
-    },
-    {
-      "title": "Digitale Souveränität mit europäischen Partnern",
-      "teaser": "Der Druck auf europäische Firmen ist bei digitaler Infrastruktur groß – vor allem wegen der geopolitischen Verwerfungen. Es ist jedoch möglich, Cloud-Strategien ohne die US-Hyperscaler zu entwickeln.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6974106437&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Wie die EU das Recht auf Reparatur stärken will",
@@ -233,12 +239,6 @@
       "teaser": "BKA-Präsident Münch ist froh über den Plan von Schwarz-Rot zum anlasslosen Protokollieren. Der Eingriff in die Bürgerrechte sei extrem gering.",
       "url": "https://www.heise.de/news/BKA-Chef-Muench-wartet-sehnsuechtig-auf-neue-Vorratsdatenspeicherung-10363684.html",
       "image_title": "Vorratsdatenspeicherung"
-    },
-    {
-      "title": "iX-Workshop: Cloud-Landing-Zones: Aufbau einer modernen Cloud-Umgebung",
-      "teaser": "Erfahren Sie, wie Sie mit einer Landing Zone eine sichere, effiziente und skalierbare Cloud-Umgebung entwerfen und implementieren können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Cloud-Landing-Zones-Aufbau-einer-modernen-Cloud-Umgebung-10354264.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -305,6 +305,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "iX-Workshop: Cloud-Landing-Zones: Aufbau einer modernen Cloud-Umgebung",
+      "teaser": "Erfahren Sie, wie Sie mit einer Landing Zone eine sichere, effiziente und skalierbare Cloud-Umgebung entwerfen und implementieren können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Cloud-Landing-Zones-Aufbau-einer-modernen-Cloud-Umgebung-10354264.html",
+      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
     },
     {
       "title": "Nerd-Trend \"Digitaler Garten\": Die eigene Website als persönliches Wissensarchiv",
@@ -375,15 +381,15 @@
       "image_title": "Strategisches IT-Management entwickeln und umsetzen (iX-Workshop)"
     },
     {
+      "title": "NIS2: Warum Sie trotz Verschiebung handeln sollten",
+      "teaser": "Die EU-Cyber-Sicherheitsrichtlinie NIS2 ist als Gesetz in Deutschland noch nicht erlassen worden und wird vermutlich erst im Herbst 2025 in Kraft treten. In einem Webcast erklären wir, weshalb Unternehmen bis dahin nicht untätig sein und trotz Verschiebung handeln sollten.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-warum-unternehmen-trotz-verschiebung-handeln-sollten-4899/?source=hbsad-ersatz"
+    },
+    {
       "title": "Developer Snapshots: Kleinere News der Woche",
       "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Slint, wasmer, Swift, W3C, Wasmtime, .NET, Prometheus, TestRail und Linkerd.",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10362005.html",
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
-    },
-    {
-      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
-      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
     },
     {
       "title": "25 Jahre \"The Legend of Zelda: Majora’s Mask\": Der Endgegner ist die Zeit",
@@ -436,12 +442,6 @@
       "image_title": "Aussschnitt eines iPhone-Bildschirms mit dem Symbol der App-Store-App."
     },
     {
-      "title": "Mobilfunk: EWE und Freenet klagen gegen Frequenzverlängerung",
-      "teaser": "Die Bundesnetzagentur hat die Nutzungsrechte für Frequenzen bis 2030 verlängert. Dagegen klagen jetzt zwei Anbieter, die damit schon einmal Erfolg hatten.",
-      "url": "https://www.heise.de/news/EWE-und-Freenet-klagen-gegen-Verlaengerung-der-Mobilfunkfrequenzen-10363090.html",
-      "image_title": "Techniker klettert an einem Antennenmast mit Mobilfunkantennen hoch."
-    },
-    {
       "title": "Deutsche Glasfaser tauscht defektes Modem nicht",
       "url": "https://www.heise.de/ratgeber/Deutsche-Glasfaser-tauscht-defektes-Modem-nicht-9809782.html",
       "image_title": "Daumen hoch, Daumen runter ..."
@@ -472,6 +472,11 @@
       "image_title": "Ein Wasserplanet vor einem kleinen roten Stern"
     },
     {
+      "title": "Mobilfunk: EWE und Freenet klagen gegen Frequenzverlängerung",
+      "url": "https://www.heise.de/news/EWE-und-Freenet-klagen-gegen-Verlaengerung-der-Mobilfunkfrequenzen-10363090.html",
+      "image_title": "Techniker klettert an einem Antennenmast mit Mobilfunkantennen hoch."
+    },
+    {
       "title": "One UI 7: Samsung setzt Updateverteilung auf Android 15 fort",
       "url": "https://www.heise.de/news/One-UI-7-Samsung-setzt-Updateverteilung-auf-Android-15-fort-10359969.html",
       "image_title": "Samsung Galaxy S24"
@@ -480,11 +485,6 @@
       "title": "iPhone-Verkäufe: 16e gewinnt, 16 Pro verliert",
       "url": "https://www.heise.de/news/iPhone-Verkaeufe-16e-gewinnt-16-Pro-verliert-10362345.html",
       "image_title": "iPhone 16e"
-    },
-    {
-      "title": "Akkuprobleme beim Pixel 7a: Google bietet Batterietausch oder Kulanzleistung",
-      "url": "https://www.heise.de/news/Akkuprobleme-beim-Pixel-7a-Google-bietet-Batterietausch-oder-Kulanzleistung-10361340.html",
-      "image_title": "Google Pixel 7a"
     },
     {
       "title": "Amsterdamer Apple Store: Geiselnahme von 2022 wird bei Netflix zu \"iHostage\"",
@@ -617,15 +617,16 @@
       "url": "https://www.heise.de/news/So-macht-man-einen-Homeserver-von-aussen-erreichbar-10363206.html"
     },
     {
+      "title": "Frustrierte KundschaftDeutsche Glasfaser tauscht defektes Modem nicht",
+      "teaser": "Wenn ein vom Internetprovider gemietetes Gerät defekt ist, wird es getauscht. Sitzt die Firma das Problem lange genug aus, dann hilft sich der Kunde selbst.",
+      "url": "https://www.heise.de/ratgeber/Deutsche-Glasfaser-tauscht-defektes-Modem-nicht-9809782.html",
+      "image_title": "Daumen hoch, Daumen runter ..."
+    },
+    {
       "title": "Vorsicht, Kunde! – Glasfaserprobleme nach Gewitter",
       "teaser": "Was tun, wenn der superschnelle Internetzugang nach einem Gewitter nicht mehr funktioniert, der Provider sich aber nicht für die Probleme verantwortlich fühlt?",
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Glasfaserprobleme-nach-Gewitter-10359681.html",
       "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
-    },
-    {
-      "title": "c't uplinkWie schnell Dein Internet sein muss, und WLAN, LAN, USB, ...",
-      "teaser": "Die Bandbreiten scheinen bei Internet, WLAN und im PC zu stagnieren. Im Podcast diskutieren wir die Gründe.",
-      "url": "https://www.heise.de/news/Langsam-ist-mal-gut-Wie-schnell-Dein-Internet-sein-muss-und-WLAN-LAN-USB-10361699.html"
     },
     {
       "title": "Gute EinstellungVersteckte Apple-Watch-Funktionen finden und einsetzen",
@@ -759,22 +760,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Urbane Oase: Ihr Balkon als Zufluchtsort für Bienen und Schmetterlinge",
-      "teaser": "Mit der richtigen Bepflanzung wird der Balkon zum Paradies für Insekten. Welche Blühpflanzen sich besonders gut eignen.",
-      "url": "https://www.heise.de/tp/features/Urbane-Oase-Ihr-Balkon-als-Zufluchtsort-fuer-Bienen-und-Schmetterlinge-10362484.html",
-      "image_title": "Biene fliegt auf bepflanzten Balkon zu"
+      "title": "Soll der regionale Markt die Strompreise in Deutschland bestimmen?",
+      "teaser": "Regionale Unterschiede bei der Stromverfügbarkeit in Deutschland führen zu Netzengpässen und hohen Kosten für Alle. Lässt sich das ändern?",
+      "url": "https://www.heise.de/tp/features/Soll-der-regionale-Markt-die-Strompreise-in-Deutschland-bestimmen-10361131.html",
+      "image_title": "Stromkabel mit Euro-Zeichen als Stecker schnürt BRD ein"
     },
     {
-      "title": "Krise im Bitcoin-Mining: Unternehmen kämpfen ums Überleben",
-      "teaser": "Ertragskraft und Aktienkurse von Bitcoin-Minern sind eingebrochen. Technische und makroökonomische Faktoren setzen die Branche unter Druck. Droht eine Marktbereinigung?",
-      "url": "https://www.heise.de/tp/features/Krise-im-Bitcoin-Mining-Unternehmen-kaempfen-ums-Ueberleben-10361658.html",
-      "image_title": "Bitcoin und Cryptowährung Miner - ein Minenrechner. Nahaufnahme bei mehreren GPU"
+      "title": "Chinas bemannte Mondmission auf Kurs: Erste Tests erfolgreich abgeschlossen",
+      "teaser": "Trotz Herausforderungen liegt China bei der Entwicklung einer bemannten Mondmission im Zeitplan. Die USA wollen ebenfalls zurück zum Mond. Wer gewinnt das neue Wettrennen?",
+      "url": "https://www.heise.de/tp/features/Chinas-bemannte-Mondmission-auf-Kurs-Erste-Tests-erfolgreich-abgeschlossen-10361145.html",
+      "image_title": "Bild der Mondoberfläche"
     },
     {
-      "title": "Beobachtung Interstellarer Objekte: Wissenschaftler wollen schneller werden",
-      "teaser": "Bisher konnten Astronomen nur zwei interstellare Objekte entdecken. Doch das könnte sich bald dramatisch ändern. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Beobachtung-Interstellarer-Objekte-Wissenschaftler-wollen-schneller-werden-10358456.html",
-      "image_title": "Künstlerische Interpretation des interstellaren Objekts 'Oumuamua"
+      "title": "Astronaut oder Kosmonaut? Wie der Westen Deutungshoheit erzwingt",
+      "teaser": "Astronaut, Kosmonaut oder Taikonaut? Westliche Medien bevorzugen oft den US-Begriff, auch wenn Raumfahrer aus anderen Ländern stammen. Kommentar.",
+      "url": "https://www.heise.de/tp/features/Astronaut-oder-Kosmonaut-Wie-der-Westen-Deutungshoheit-erzwingt-10362675.html",
+      "image_title": "Raumfahrerin im All mit einem Smartphone, das sie betrachtet"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
