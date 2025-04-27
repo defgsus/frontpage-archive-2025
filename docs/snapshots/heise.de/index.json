@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-27T18:11:41",
+  "timestamp": "2025-04-27T19:08:10",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mit VR und Metaverse: Die letzten Tagen von Pompeji miterleben",
+      "url": "https://www.heise.de/news/Mit-VR-und-Metaverse-Die-letzten-Tagen-von-Pompeji-miterleben-10363707.html"
+    },
     {
       "title": "Top 10: Das beste kleine Tablet bis 9 Zoll im Test – Samsung und Apple führen",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-kleine-tablet-bis-9-zoll-im-test/k71p14c"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/ratgeber/Pandas-und-Matplotlib-In-Excel-komplexe-Berechnungen-mit-Python-durchfuehren-10335320.html"
     },
     {
-      "title": "BKA-Chef drängt auf schnelle Umsetzung von Vorratsdatenspeicherung",
-      "url": "https://www.heise.de/news/BKA-Chef-Muench-wartet-sehnsuechtig-auf-neue-Vorratsdatenspeicherung-10363684.html"
-    },
-    {
       "title": "Missing LinkWas bedeutet digitale Souveränität für die Verteidigungsfähigkeit?",
       "teaser": "Im Interview mit heise online erläutert BWI-Chef Frank Leidenberger, wie der größte IT-Dienstleister der Bundeswehr diese fit für die Zukunft machen soll.",
       "url": "https://www.heise.de/news/Missing-Link-Wer-nicht-digitalisiert-verliert-10362535.html",
@@ -95,10 +95,10 @@
       "url": "https://www.heise.de/ratgeber/Goodbye-Copilot-Wie-Sie-KI-Coding-Asisstenten-lokal-betreiben-10287092.html"
     },
     {
-      "title": "Elektronische PatientenakteWas vom bundesweiten Start zu erwarten ist",
-      "teaser": "Nach der Testphase soll es jetzt richtig losgehen – doch davon werden wahrscheinlich vorerst nur Wenige etwas mitbekommen.",
-      "url": "https://www.heise.de/news/Elektronische-Patientenakte-Was-vom-bundesweiten-Start-zu-erwarten-ist-10362120.html",
-      "image_title": "Stilisierte Darstellung eines menschlichen Körpers als Gitternetzmodell über einem Skelett, überlagert von einer ebenso stilisierten Weltkugel und auf Umlaufbahnen umkreist von Symbolen für Organe und medizinische Geräte."
+      "title": "Mit VR und MetaverseDie letzten Tagen von Pompeji miterleben",
+      "teaser": "Eine immersive Ausstellung erweckt die letzten Tage von Pompeji. heise online hat sich auf Zeitreise begeben.",
+      "url": "https://www.heise.de/news/Mit-VR-und-Metaverse-Die-letzten-Tagen-von-Pompeji-miterleben-10363707.html",
+      "image_title": "Wiederentdeckung der Stadt Pompeji"
     },
     {
       "title": "Jenseits von Apple PayVolksbanken bringen Girocard aufs iPhone",
@@ -379,9 +379,9 @@
       "image_title": "Eine Person macht mit ihrem Smartphone ein Bild vom Essen. Von der Person sind nur die Hände zu sehen."
     },
     {
-      "title": "Mobile Workstations: Performance ohne Kompromisse",
-      "teaser": "Mobile Workstations sind oft ein Kompromiss. Leichte Geräte mit langer Akkulaufzeit sind in der Regel weniger leistungsfähig als Alternativen im Tower-Design, hohe Performance geht meist mit mehr Gewicht, größeren Abmessungen und kürzeren Laufzeiten einher. Warum das nicht so sein muss.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/mobile-workstations-performance-ohne-kompromisse-4886/?source=hbsadersatz"
+      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
+      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop: Nachhaltigkeit messbar machen - ESG-Reporting in IT-Abteilungen",
@@ -450,9 +450,9 @@
       "image_title": "Rote Ampel und rote Fußgängerampel an einer Kreuzung der California Street in San Francisco"
     },
     {
-      "title": "KI-Tool klont Webseiten und macht Phishing kinderleicht",
-      "url": "https://www.heise.de/news/KI-Tool-klont-Webseiten-und-macht-Phishing-kinderleicht-10363070.html",
-      "image_title": "Smartphone mit einer empfangenen Spam-SMS auf dem Display."
+      "title": "Elektronische Patientenakte: Was vom bundesweiten Start zu erwarten ist",
+      "url": "https://www.heise.de/news/Elektronische-Patientenakte-Was-vom-bundesweiten-Start-zu-erwarten-ist-10362120.html",
+      "image_title": "Stilisierte Darstellung eines menschlichen Körpers als Gitternetzmodell über einem Skelett, überlagert von einer ebenso stilisierten Weltkugel und auf Umlaufbahnen umkreist von Symbolen für Organe und medizinische Geräte."
     },
     {
       "title": "Solar Orbiter macht die bislang größte Aufnahme unserer Sonne",
@@ -610,9 +610,14 @@
       "url": "https://www.heise.de/en/opinion/Oblivion-Remastered-also-shows-the-ugly-side-of-the-Unreal-Engine-10359349.html"
     },
     {
-      "title": "FAQ: Programmieren lernen",
-      "teaser": "In den bald 15 Jahren seit unserer letzten FAQ \"Programmieren lernen\" hat sich viel bei Sprachen, Tools und künstlicher Intelligenz getan. Ein Update.",
-      "url": "https://www.heise.de/ratgeber/FAQ-Programmieren-lernen-10353829.html"
+      "title": "c't 3003So macht man einen Homeserver von außen erreichbar",
+      "teaser": "Ein Homeserver ist nur für den internen Gebrauch? Man kann ihn auch von außen erreichbar machen. c't 3003 zeigt, wie das geht.",
+      "url": "https://www.heise.de/news/So-macht-man-einen-Homeserver-von-aussen-erreichbar-10363206.html"
+    },
+    {
+      "title": "c't uplinkWie schnell Dein Internet sein muss, und WLAN, LAN, USB, ...",
+      "teaser": "Die Bandbreiten scheinen bei Internet, WLAN und im PC zu stagnieren. Im Podcast diskutieren wir die Gründe.",
+      "url": "https://www.heise.de/news/Langsam-ist-mal-gut-Wie-schnell-Dein-Internet-sein-muss-und-WLAN-LAN-USB-10361699.html"
     },
     {
       "title": "Vorsicht, Kunde! – Glasfaserprobleme nach Gewitter",
@@ -621,10 +626,10 @@
       "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
     },
     {
-      "title": "Frustrierte KundschaftDeutsche Glasfaser tauscht defektes Modem nicht",
-      "teaser": "Wenn ein vom Internetprovider gemietetes Gerät defekt ist, wird es getauscht. Sitzt die Firma das Problem lange genug aus, dann hilft sich der Kunde selbst.",
-      "url": "https://www.heise.de/ratgeber/Deutsche-Glasfaser-tauscht-defektes-Modem-nicht-9809782.html",
-      "image_title": "Daumen hoch, Daumen runter ..."
+      "title": "Gute EinstellungVersteckte Apple-Watch-Funktionen finden und einsetzen",
+      "teaser": "Viele User kennen nicht alle Watch-Funktionen. Wir betrachten das Einstellungsmenü von watchOS 11 und zeigen Optionen, die wenig bekannt, aber nützlich sind.",
+      "url": "https://www.heise.de/ratgeber/Gute-Einstellung-Versteckte-Apple-Watch-Funktionen-finden-und-einsetzen-10351996.html",
+      "image_title": "Apple Watch mit watchOS 11"
     },
     {
       "title": "macOS im Docker-Container: So klappt es mit dem virtuellen Mac",
@@ -636,12 +641,6 @@
       "title": "Passgenaues Case statt UniversallösungiPhone-Halterungen fürs Fahrrad im Test",
       "teaser": "Sie müssen robust sein und ein wertvolles Smartphone sicher am Lenker befestigen: iPhone-Halterungen fürs Bike. Wir haben vier Systeme inklusive Case getestet.",
       "url": "https://www.heise.de/tests/BikePlay-iPhone-Halterungen-fuers-Fahrrad-im-Test-9733286.html"
-    },
-    {
-      "title": "Flinker Pixelschubser: Acorn 8 für macOS im Test",
-      "teaser": "Die Pixelmator- und Photoshop-Alternative Acorn 8 bearbeitet Bilder und bietet erstmals KI-Freisteller.",
-      "url": "https://www.heise.de/tests/Flinker-Pixelschubser-Acorn-8-fuer-macOS-im-Test-10327192.html",
-      "image_title": "Acorn 8 auf dem Mac"
     },
     {
       "title": "Neue Lego-Fabrik in Vietnam setzt auf 100% Erneuerbare Energien",
@@ -758,22 +757,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Vier Jahrhunderte Rechenschieber: Ein vergessenes Genie",
-      "teaser": "Trotz zentraler Rolle bei technischen Triumphen wie Apollo 11 kennt heute kaum noch jemand die Logik und Eleganz dieses Instruments. Eine Zeitreise durch die Geschichte der Mathematik.",
-      "url": "https://www.heise.de/tp/features/Vier-Jahrhunderte-Rechenschieber-Ein-vergessenes-Genie-10362385.html",
-      "image_title": "Rechenschieber"
+      "title": "Nach US-Abtreibungsverboten: Müttersterblichkeit auf dem Vormarsch",
+      "teaser": "Frauen in US-Staaten mit Abtreibungsverbot haben ein fast doppelt so hohes Risiko, während der Schwangerschaft oder Geburt zu sterben. Besonders betroffen sind Schwarze. Ein Überblick.",
+      "url": "https://www.heise.de/tp/features/Nach-US-Abtreibungsverboten-Muettersterblichkeit-auf-dem-Vormarsch-10362773.html"
     },
     {
-      "title": "Minecraft enthüllt Geheimnisse des sozialen Lernens",
-      "teaser": "Flexibel zwischen Eigeninitiative und Beobachtung wechseln – das ist laut einer neuen Studie mit Minecraft der Schlüssel zum optimalen Lernerfolg.",
-      "url": "https://www.heise.de/tp/features/Minecraft-enthuellt-Geheimnisse-des-sozialen-Lernens-10363665.html",
-      "image_title": "Ein mit KI erstelltes Bild einer Minecraft-Welt."
+      "title": "Astronaut oder Kosmonaut? Wie der Westen Deutungshoheit erzwingt",
+      "teaser": "Astronaut, Kosmonaut oder Taikonaut? Westliche Medien bevorzugen oft den US-Begriff, auch wenn Raumfahrer aus anderen Ländern stammen. Kommentar.",
+      "url": "https://www.heise.de/tp/features/Astronaut-oder-Kosmonaut-Wie-der-Westen-Deutungshoheit-erzwingt-10362675.html",
+      "image_title": "Raumfahrerin im All mit einem Smartphone, das sie betrachtet"
     },
     {
-      "title": "Demografischer Kollaps: Politiker ohne Plan für sterbende Regionen",
-      "teaser": "Vergreiste Dörfer und leere Schulen – Studien warnen: Der Bevölkerungsschwund wird ländliche Gebiete hart treffen. Sind Politiker überfordert?",
-      "url": "https://www.heise.de/tp/features/Demografischer-Kollaps-Politiker-ohne-Plan-fuer-sterbende-Regionen-10362597.html",
-      "image_title": "Vergessene Geschichte: Entdecken einer abgebrochenen Schule in einem historischen Gebäude"
+      "title": "Pilger des Friedens: Ein Nachruf auf Papst Franziskus",
+      "teaser": "Entgegen dem Zeitgeist war Papst Franziskus ein unermüdlicher Friedensstifter. Er reiste in Krisengebiete und setzte sich für Dialog ein. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Pilger-des-Friedens-Ein-Nachruf-auf-Papst-Franziskus-10362563.html",
+      "image_title": "Papst Franziskus"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
