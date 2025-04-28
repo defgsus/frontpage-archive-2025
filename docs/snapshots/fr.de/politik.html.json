@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-28T08:31:52",
+  "timestamp": "2025-04-28T10:43:48",
   "url": "https://www.fr.de/politik/",
   "response": {
     "status": 200
@@ -37,6 +37,12 @@
     },
     {
       "type": "text/plain",
+      "src": "https://www.fr.de/static/external/idbraze/id.braze.min.js?v=580",
+      "id": "idBrazeSetup",
+      "text": null
+    },
+    {
+      "type": "text/plain",
       "src": "https://www.fr.de/static/external/idmoe/id.moe.min.js?v=580",
       "id": "idMoeSetup",
       "text": null
@@ -56,26 +62,57 @@
   ],
   "articles": [
     {
-      "title": "CDU veröffentlicht Minister-Liste: Merz macht MediaMarkt-Chef zum Bundesminister",
+      "title": "CDU und CSU stellen Minister vor – Söder feiert seinen „schwarzen Metzger“ und teilt gegen Grüne aus",
       "teaser": "Verkündung am Montag",
       "url": "https://www.fr.de/politik/minister-stehen-fuer-merz-kabinett-bereit-wer-regiert-diese-zr-93595972.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/27/93702359/37922629-friedrich-merz-kabinett-nimmt-form-an-liste-der-neuen-minister-von-cdu-und-csu-37RG.jpg",
-      "image_title": "CDU veröffentlicht Minister-Liste: Merz macht MediaMarkt-Chef zum Bundesminister",
+      "image_url": "https://www.fr.de/bilder/2025/04/27/93702359/37924375-muenchen-markus-soeder-csu-vorsitzender-und-bayerischer-ministerpraesident-bei-einer-pressekonferenz-27CeGN9r3PRG.jpg",
+      "image_title": "CDU und CSU stellen Minister vor – Söder feiert seinen „schwarzen Metzger“ und teilt gegen Grüne aus",
       "author": "Paula Völknerund Felix Durach"
     },
     {
-      "title": "Aufrüstung wegen des Ukraine-Krieges: Die Welt kauft massenhaft Waffen ein",
-      "teaser": "Sipri-Bericht",
-      "url": "https://www.fr.de/politik/aufruestung-wegen-des-ukraine-krieges-die-welt-wappnet-sich-immer-mehr-93703433.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/27/93703433/37913933-09-04-2025-xjrdrx-politik-bundeswehr-taktisches-luftwaffengeschwader-74-neuburg-eurofighter-ef-2000-typhoon-gaf3101-ein-eurofighter-steigt-in-den-18VI.jpg",
-      "image_title": "Aufrüstung wegen des Ukraine-Krieges: Die Welt kauft massenhaft Waffen ein",
-      "author": "Thomas Borchert"
+      "title": "Aktuelle Umfragen zur Parlamentswahl in Kanada in der Übersicht",
+      "teaser": "Neuwahl am 28. April",
+      "url": "https://www.fr.de/politik/parlamentswahl-kanada-wahl-wegen-trump-aktuelle-umfragen-umschwung-93660424.html",
+      "image_url": "https://www.fr.de/bilder/2025/04/01/93660424/37633285-mark-carney-1bVI.jpg",
+      "image_title": "Aktuelle Umfragen zur Parlamentswahl in Kanada in der Übersicht",
+      "author": "Christian Stör"
+    },
+    {
+      "title": "AfD droht angeblich Rauswurf aus der Bundeszentrale in Berlin",
+      "teaser": "Laut eines Medienberichts",
+      "url": "https://www.fr.de/politik/afd-droht-angeblich-rauswurf-aus-der-bundeszentrale-in-berlin-93703465.html",
+      "image_url": "https://www.fr.de/bilder/2025/04/28/93703465/37920734-die-rechtspopulistische-afd-hat-zuletzt-in-umfragen-zugelegt-symbolfoto-2nqlD0Ais4PI.jpg",
+      "image_title": "AfD droht angeblich Rauswurf aus der Bundeszentrale in Berlin",
+      "author": "Patrick Mayer"
+    },
+    {
+      "title": "Friedensfrage: Ist Pazifismus angesichts des Ukraine-Kriegs naiv?",
+      "teaser": "Friedensfragen",
+      "url": "https://www.fr.de/panorama/unter-den-papst-kandidaten-ein-deutscher-franziskus-nachfolger-favoriten-zr-93585819.html",
+      "image_url": "https://www.fr.de/bilder/2025/04/22/93703697/37860292-div-archiv-29-03-2013-nordrhein-westfalen-duisburg-ein-luftballon-mit-einer-friedenstaube-fliegt-am-30-03-2013-waehrend-des-ostermarsches-rhein-ruhr-2ra7.jpg",
+      "image_title": "Friedensfrage: Ist Pazifismus angesichts des Ukraine-Kriegs naiv?"
+    },
+    {
+      "title": "„Vertrauen erschlichen“: Spahn wird wohl Fraktionschef",
+      "teaser": "Trotz Söder-Bedenken",
+      "url": "https://www.fr.de/politik/minister-stehen-fuer-merz-kabinett-bereit-wer-regiert-diese-zr-93595972.html",
+      "image_url": "https://www.fr.de/bilder/2025/04/24/93697808/37885361-soll-fuer-friedrich-merz-wohl-bald-die-fraktion-fuehren-jens-spahn-rechts-2RkZ1RmyR8a7.jpg",
+      "image_title": "„Vertrauen erschlichen“: Spahn wird wohl Fraktionschef",
+      "author": "Jens Kiffmeier"
+    },
+    {
+      "title": "Merz‘ Ministerliste: Energiemanagerin soll Wirtschaftsministerin werden",
+      "teaser": "Überraschungen erwartet",
+      "url": "https://www.fr.de/politik/regiert-merz-ministerliste-ab-montag-ist-klar-wer-von-der-cdu-deutschland-kuenftig-93702766.html",
+      "image_url": "https://www.fr.de/bilder/2025/04/27/93702766/37921885-katherina-reiche-cdu-maerz-2024-duesseldorf-2ida9P1nX0SG.jpg",
+      "image_title": "Merz‘ Ministerliste: Energiemanagerin soll Wirtschaftsministerin werden",
+      "author": "Paula Völknerund Simon Schröder"
     },
     {
       "title": "Düstere Wetter-Prognose: Künftig droht Trockenheit und Starkregen im Wechsel",
       "teaser": "Wasserversorgung",
       "url": "https://www.fr.de/politik/duestere-wetter-prognose-es-drohen-trockenheit-und-starkregen-im-wechsel-93703428.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/27/93703428/37915329-stauseen-wie-die-edertalsperre-koennen-drohendes-hochwasser-entschaerfen-20cWxFwggPPI.jpg",
+      "image_url": "https://www.fr.de/bilder/2025/04/27/93703428/37915329-stauseen-wie-die-edertalsperre-koennen-drohendes-hochwasser-entschaerfen-20cWxFwggPa7.jpg",
       "image_title": "Düstere Wetter-Prognose: Künftig droht Trockenheit und Starkregen im Wechsel",
       "author": "Jörg Staude"
     },
@@ -90,65 +127,33 @@
     {
       "title": "Schwer bewaffnet: Kiew schickt ersten Kampfroboter gegen Putin an die Front",
       "teaser": "Drohnenkrieg in Ukraine",
-      "url": "https://www.fr.de/politik/die-ehre-papst-begraebnis-von-trump-bis-selenskyj-polit-promis-erweisen-franziskus-zr-93700136.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/27/93703306/37909101-ukraine-krieg-russland-putin-kuenstliche-intelligenz-roboter-drohne-verluste-nato-3ja7.jpg",
+      "url": "https://www.fr.de/politik/ukraine-krieg-russland-putin-kuenstliche-intelligenz-roboter-drohne-usa-trump-krim-93703306.html",
+      "image_url": "https://www.fr.de/bilder/2025/04/27/93703306/37909101-ukraine-krieg-russland-putin-kuenstliche-intelligenz-roboter-drohne-verluste-nato-3jSG.jpg",
       "image_title": "Schwer bewaffnet: Kiew schickt ersten Kampfroboter gegen Putin an die Front",
       "author": "Karsten-Dirk Hinzmann"
     },
     {
-      "title": "Ex-Ukraine-Beauftragter warnt: Trump unterschätzt Putins Absichten",
-      "teaser": "Kritik an Russland-Kurs",
-      "url": "https://www.fr.de/politik/ex-ukraine-beauftragter-warnt-trump-unterschaetzt-putins-absichten-93703305.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/27/93703305/37916662-us-praesident-donald-trump-wladimir-putin-russland-2lpfiYaFMcSG.jpg",
-      "image_title": "Ex-Ukraine-Beauftragter warnt: Trump unterschätzt Putins Absichten",
-      "author": "Lisa Mahnke"
+      "title": "Minister der Union unter Kanzler Merz: Finale Liste da – das Kabinett in Bildern",
+      "teaser": "Vakante Posten",
+      "url": "https://www.fr.de/politik/cdu-minister-unter-kanzler-merz-neue-liste-durchgesickert-das-kabinett-in-bildern-zr-93703547.html",
+      "image_url": "https://www.fr.de/bilder/2025/04/28/93703547/37923294-ministe-rkabinett-liste-friedrich-merz-1Ma7.jpg",
+      "image_title": "Minister der Union unter Kanzler Merz: Finale Liste da – das Kabinett in Bildern",
+      "author": "Andreas Knobloch"
     },
     {
-      "title": "Beweis: Hamas-Chef sauer auf Iran – wegen fehlender Dollars",
-      "teaser": "Nahost-Konflikt",
-      "url": "https://www.fr.de/panorama/maria-wo-liegt-franziskus-begraben-bilder-vom-papst-grab-in-der-basilika-santa-zr-93702415.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/27/93703259/37920319-iran-hamas-hisbollah-israel-gaza-terror-usa-russland-china-1Va7.jpg",
-      "image_title": "Beweis: Hamas-Chef sauer auf Iran – wegen fehlender Dollars",
-      "author": "Karsten-Dirk Hinzmann"
+      "title": "CDU und CSU legen Kabinettsliste vor - Manager fürs Digitale",
+      "teaser": "Neue Bundesregierung",
+      "url": "https://www.fr.de/politik/cdu-und-csu-legen-kabinettsliste-vor-manager-fuers-digitale-zr-93703638.html",
+      "image_url": "https://www.fr.de/bilder/2025/04/28/93703638/37927298-cdu-bundesausschuss-vorbereitungen-22a7.jpg",
+      "image_title": "CDU und CSU legen Kabinettsliste vor - Manager fürs Digitale"
     },
     {
-      "title": "Die Luft wird dünn: Erdogan kann sich nicht länger auf das Militär verlassen",
-      "teaser": "Foreign Policy",
-      "url": "https://www.fr.de/politik/recep-tayyip-erdogan-der-weg-zur-macht-des-tuerkischen-praesidenten-zr-91673655.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/24/93703216/37888596-erdogan-laeuft-an-einer-gruppe-soldaten-vorbei-Va4i6G3T7a7.jpg",
-      "image_title": "Die Luft wird dünn: Erdogan kann sich nicht länger auf das Militär verlassen",
-      "author": "Foreign Policy"
-    },
-    {
-      "title": "Putins Vertreter für die Ukraine wollte Russlands Präsenz in Afrika stärken – mit …",
-      "teaser": "Moskau greift nach Afrika",
-      "url": "https://www.fr.de/politik/putins-vertreter-fuer-die-ukraine-wollte-russlands-praesenz-in-afrika-staerken-mit-alten-corona-impfungen-93703101.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/27/93703101/37918629-der-us-sondergesandte-steve-witkoff-und-wladimir-putins-enger-vertrauter-kirill-dmitrijew-1ZSG.jpg",
-      "image_title": "Putins Vertreter für die Ukraine wollte Russlands Präsenz in Afrika stärken – mit alten Corona-Impfungen",
-      "author": "Simon Schröder"
-    },
-    {
-      "title": "Karsten Wildberger: Von der Konzernspitze ins Bundeskabinett",
-      "teaser": "Neues Kabinett",
-      "url": "https://www.fr.de/politik/karsten-wildberger-von-der-konzernspitze-ins-bundeskabinett-zr-93703543.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/28/93703543/37923329-karsten-wildberger-9a7.jpg",
-      "image_title": "Karsten Wildberger: Von der Konzernspitze ins Bundeskabinett"
-    },
-    {
-      "title": "Merz präsentiert CDU-Ministerliste für Schwarz-Rot – zwei Top-Manager im Kabinett",
+      "title": "Merz holt zwei Top-Manager ins Kabinett – auch CSU-Minister jetzt bekannt",
       "teaser": "Überraschung im Digitalministerium",
       "url": "https://www.fr.de/politik/minister-stehen-fuer-merz-kabinett-bereit-wer-regiert-diese-zr-93595972.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/27/93702530/37922602-friedrich-merz-hat-am-montagmorgen-die-ministerliste-der-cdu-fuer-das-schwarz-rote-kabinett-vorgestellt-1YAOP0XJnaa7.jpg",
-      "image_title": "Merz präsentiert CDU-Ministerliste für Schwarz-Rot – zwei Top-Manager im Kabinett",
+      "image_url": "https://www.fr.de/bilder/2025/04/27/93702530/37924462-friedrich-merz-cdu-neben-dem-designierten-innenminister-alexander-dobrindt-csu-und-dem-designierten-digitalisierungsminister-karsten-wildberger-2lJWX42NZ6a7.jpg",
+      "image_title": "Merz holt zwei Top-Manager ins Kabinett – auch CSU-Minister jetzt bekannt",
       "author": "Felix Durach, Paula Völkner und Simon Schröder"
-    },
-    {
-      "title": "Ukraine-Verhandlungen: Trump enthüllt brisante Details aus Selenskyj-Gespräch – USA …",
-      "teaser": "Ende des Ukraine-Krieges?",
-      "url": "https://www.fr.de/panorama/rom-im-ausnahmezustand-gaeste-trauer-traditionsbrueche-bilder-von-der-beerdigung-von-papst-franziskus-zr-93701363.html",
-      "image_url": "https://www.fr.de/bilder/2025/04/26/93701569/37909420-ukraine-gipfel-im-vatikan-donald-trump-und-wolodymyr-selenskyj-im-gespraech-kurz-vor-der-papst-beerdigung-2Ea7.jpg",
-      "image_title": "Ukraine-Verhandlungen: Trump enthüllt brisante Details aus Selenskyj-Gespräch – USA setzen heikle Deadline",
-      "author": "Franziska Schwarz, Bedrettin Bölükbasi, Stephanie Munk, Hannes Niemeyer und Marcel Guboff"
     },
     {
       "title": "Papst-Beerdigung in Rom: Trump trägt blau, Selenskyj im Anzug",

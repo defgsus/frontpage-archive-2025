@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-28T08:31:57",
+  "timestamp": "2025-04-28T10:43:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,20 @@
   ],
   "articles": [
     {
+      "title": "SamsungAndroid-Smartphones speichern auch Passwörter zwischen",
+      "teaser": "Die Samsung-Tastatur auf Samsung-Smartphones listet im Verlauf auch alte kopierte Passwörter. Der Hersteller prüft Änderungen.",
+      "url": "https://www.heise.de/news/Samsung-Android-Zwischenablage-speichert-Passwoerter-zwischen-10363941.html",
+      "image_title": "Samsung-Schriftzug an einer Hecke"
+    },
+    {
       "title": "AlertUpdateJetzt handelnKritische Lücke in SAP angegriffen - Patch verfügbar",
       "teaser": "Eine kritische Sicherheitslücke nötigt SAP zum Update außer der Reihe. Sie wird bereits in freier Wildbahn angegriffen.",
       "url": "https://www.heise.de/news/SAP-Kritische-Sicherheitsluecke-ausser-der-Reihe-gepatcht-10361908.html",
       "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
     },
     {
-      "title": "MicrosoftWindows-Update schafft neue Schwachstelle",
-      "teaser": "Ein Microsoft-Update zum Schließen einer Sicherheitslücke legt den Ordner \"inetpub\" an. Und schafft ein neues Sicherheitsleck.",
-      "url": "https://www.heise.de/news/Microsoft-Sicherheitspatch-reisst-neue-Sicherheitsluecke-auf-10360468.html",
-      "image_title": "Ein Monitor zeigt das Windows-Logo und einen Fortschrittsbalken, davor rauft sich ein verzweifeltes Monster die Haare"
-    },
-    {
-      "title": "AlertUpdateJetzt handelnKritische Lücke in SAP angegriffen - Patch verfügbar",
-      "url": "https://www.heise.de/news/SAP-Kritische-Sicherheitsluecke-ausser-der-Reihe-gepatcht-10361908.html",
-      "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
+      "title": "AlertSicherheitsupdate: Unbefugte Zugriffe auf VMware Tanzu Spring Boot möglich",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Unbefugte-Zugriffe-auf-VMware-Tanzu-Spring-Boot-moeglich-10364138.html"
     },
     {
       "title": "Auslegungssache 132: KI-Verordnung und Datenschutz – ein schwieriges Verhältnis",
@@ -73,10 +72,21 @@
       "url": "https://heise-academy.de/webinare/ad-tiering?wt_mc=intern.academy.security.web_ad.hs_teaser.teaser.teaser"
     },
     {
-      "title": "Samsung: Android-Smartphones speichern auch Passwörter zwischen",
-      "teaser": "Die Samsung-Tastatur auf Samsung-Smartphones listet im Verlauf auch alte kopierte Passwörter. Der Hersteller prüft mögliche Änderungen.",
-      "url": "https://www.heise.de/news/Samsung-Android-Zwischenablage-speichert-Passwoerter-zwischen-10363941.html",
-      "image_title": "Samsung-Schriftzug an einer Hecke"
+      "title": "Microsoft: Neustart der Recall-KI-Funktionen – in der EU später",
+      "teaser": "Die KI-Funktion Recall in Windows 11 24H2 startet wieder für die Allgemeinheit durch. Jedoch noch nicht in der EU.",
+      "url": "https://www.heise.de/news/Microsoft-Neustart-der-Recall-KI-Funktionen-in-der-EU-spaeter-10364247.html",
+      "image_title": "Recall-Funktion in Aktion"
+    },
+    {
+      "title": "Das heise security Webinar: Gefährliche Voreinstellungen der Microsoft-Cloud",
+      "teaser": "Diese gefährlichen Defaults in Microsofts Entra ID sollte jeder Admin kennen, verstehen und vielleicht dann auch ändern. Das kompakte Webinar hilft dabei.",
+      "url": "https://www.heise.de/news/Das-heise-security-Webinar-Gefaehrliche-Voreinstellungen-der-Microsoft-Cloud-10362152.html",
+      "image_title": "Regenwolke in den Microsoft-Farben, oben links das Logo von heise security."
+    },
+    {
+      "title": "AlertSicherheitsupdate: Unbefugte Zugriffe auf VMware Tanzu Spring Boot möglich",
+      "teaser": "Admins sollten Softwareentwicklungsumgebungen mit VMware Tanzu Spring Boot aus Sicherheitsgründen auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Unbefugte-Zugriffe-auf-VMware-Tanzu-Spring-Boot-moeglich-10364138.html"
     },
     {
       "title": "UpdateWindows-Update-Vorschauen: Recall ist zurück",
@@ -144,27 +154,16 @@
       "image_title": "Hand tippt auf Update-Schaltfläche auf Monitor"
     },
     {
+      "title": "Microsoft: Windows-Update schafft neue Schwachstelle",
+      "teaser": "Ein Microsoft-Update zum Schließen einer Sicherheitslücke legt den Ordner \"inetpub\" an. Und schafft ein neues Sicherheitsleck.",
+      "url": "https://www.heise.de/news/Microsoft-Sicherheitspatch-reisst-neue-Sicherheitsluecke-auf-10360468.html",
+      "image_title": "Ein Monitor zeigt das Windows-Logo und einen Fortschrittsbalken, davor rauft sich ein verzweifeltes Monster die Haare"
+    },
+    {
       "title": "Ransomware-Angriff bei Preisvergleichsportal \"guenstiger.de\"",
       "teaser": "Die Preisvergleichsplattform guenstiger.de ist von einem Ransomware-Vorfall betroffen. In der Folge wurden alle Systeme heruntergefahren.",
       "url": "https://www.heise.de/news/Ransomware-Angriff-bei-Preisvergleichsportal-guenstiger-de-10359486.html",
       "image_title": "guenstiger-Startseite"
-    },
-    {
-      "title": "\"Passwort\" Folge 30: i-Soon, das Leak aus der chinesischen Cybercrime-Industrie",
-      "teaser": "Die Hosts diskutieren einen seltenen Einblick in die kommerzielle Hacking-Szene in China und was man daraus über die dortige Cybercrime-Industrie lernen kann.",
-      "url": "https://www.heise.de/news/Passwort-Folge-30-i-Soon-das-Leak-aus-der-chinesischen-Cybercrime-Industrie-10354478.html",
-      "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "AlertZyxel-Firewall: Angreifer können Admin-Tokens stehlen",
-      "teaser": "Zyxels Firewall-Serie USG FLEX H ist verwundbar. Sicherheitsupdates schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Zyxel-Firewall-Angreifer-koennen-Admin-Tokens-stehlen-10359376.html"
-    },
-    {
-      "title": "iX-Workshop: IT-Sicherheit jenseits der Bits - Physische Schutzstrategien",
-      "teaser": "Praxisnah mit simuliertem Penetrationstest: IT-Infrastruktur physisch absichern, Sicherheitslücken erkennen und wirksame Schutzmaßnahmen auswählen.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-jenseits-der-Bits-Physische-Schutzstrategien-10353860.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
     },
     {
       "title": "Classroom | 07.05. – 04.06.2025NIS-2 in der Praxis – EU-Richtlinie umsetzen und Sicherheit steigern",
