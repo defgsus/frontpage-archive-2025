@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-29T21:08:45",
+  "timestamp": "2025-04-29T22:09:07",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zerodays sind überwiegend staatlichen Akteuren zu verdanken",
+      "url": "https://www.heise.de/news/Steuergeld-finanziert-Angriffe-mit-Zerodays-10367137.html"
+    },
     {
       "title": "Widerspruchsempfehlung: Aufsicht prüft Ebays KI-Training mit Nutzerdaten",
       "url": "https://www.heise.de/news/Widerspruchsempfehlung-Aufsicht-prueft-Ebays-KI-Training-mit-Nutzerdaten-10367093.html"
@@ -60,10 +64,6 @@
     {
       "title": "Eine der größten am Himmel: Interstellare Gaswolke in der Nachbarschaft entdeckt",
       "url": "https://www.heise.de/news/Eine-der-groessten-am-Himmel-Interstellare-Gaswolke-in-der-Nachbarschaft-entdeckt-10366224.html"
-    },
-    {
-      "title": "CPU-Kühler: Scythe EU GmbH macht die Pforten dicht",
-      "url": "https://www.heise.de/news/Scythe-EU-GmbH-macht-die-Pforten-dicht-10366556.html"
     },
     {
       "title": "Jetzt formellTSMC darf in den USA keine Chips mit modernster Technik fertigen",
@@ -185,21 +185,27 @@
       "image_title": "iPhone mit schwarzem Bildschirm (Symbolbild):"
     },
     {
+      "title": "Zerodays sind überwiegend staatlichen Akteuren zu verdanken",
+      "teaser": "Zwei Drittel der erfolgreichen Zeroday-Angriffe auf IKT sind 2025 von staatlichen Einrichtungen ausgegangen, sagt Google.",
+      "url": "https://www.heise.de/news/Steuergeld-finanziert-Angriffe-mit-Zerodays-10367137.html",
+      "image_title": "T-Shirt mit Aufschrift \"All you need is love, all you get is 0day\""
+    },
+    {
       "title": "Widerspruchsempfehlung: Aufsicht prüft Ebays KI-Training mit Nutzerdaten",
       "teaser": "Ebay will persönliche Daten von Nutzern für die Entwicklung von KI verwenden. Die zuständige Behörde hat viele Beschwerden erhalten und geht ihnen nach.",
       "url": "https://www.heise.de/news/Widerspruchsempfehlung-Aufsicht-prueft-Ebays-KI-Training-mit-Nutzerdaten-10367093.html",
       "image_title": "eBay-Logo steht in Blumenbeet"
     },
     {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Überwachung: Deutsches IP-Catching ist geheimer als geheim",
       "teaser": "Mobilfunkbetreiber, die Bundesregierung und Strafverfolgungsbehörden wie das BKA halten sich zur umstrittenen Überwachungsmethode IP-Catching bedeckt.",
       "url": "https://www.heise.de/news/Ueberwachung-Regierung-Ermittler-und-Provider-wollen-IP-Catching-geheim-halten-10366952.html",
       "image_title": "Künstlerische Darstellung eines auf eine helle Glastür zulaufenden Ganges; an den Seiten sind blaute Lichtstreifen zu sehen, dahinter sind Ziffern angedeutet"
-    },
-    {
-      "title": "Kostenloses KI-Programm erweckt Ideen zum Leben",
-      "teaser": "Wer mit KI-Unterstützung wachsen will, aber fachliche Beratung braucht, kann beim Programm „AI Business Innovation Sprint“ mitmachen. Von den teilnehmenden Teams wird das Beste am 5. Juni geehrt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966631612&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Die beste Akku-Luftpumpe im Test",
@@ -229,12 +235,6 @@
       "teaser": "Aktuell sind in Deutschland kaum noch Scythe-Kühler zu normalen Preisen erhältlich. Der Vertrieb könnte künftig wieder anlaufen.",
       "url": "https://www.heise.de/news/Scythe-EU-GmbH-macht-die-Pforten-dicht-10366556.html",
       "image_title": "Scythe Mugen 5 vor weißem Hintergrund"
-    },
-    {
-      "title": "Amazon schießt erste Kuiper-Satelliten in All",
-      "teaser": "Mit Project Kuiper will Amazon Satelliteninternet anbieten und Starlink Konkurrenz machen. Die ersten Satelliten der Konstellation sind im All.",
-      "url": "https://www.heise.de/news/Amazon-schiesst-erste-Kuiper-Satelliten-ins-All-10366760.html",
-      "image_title": "Raketenstart"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -303,6 +303,12 @@
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
     },
     {
+      "title": "Amazon schießt erste Kuiper-Satelliten in All",
+      "teaser": "Mit Project Kuiper will Amazon Satelliteninternet anbieten und Starlink Konkurrenz machen. Die ersten Satelliten der Konstellation sind im All.",
+      "url": "https://www.heise.de/news/Amazon-schiesst-erste-Kuiper-Satelliten-ins-All-10366760.html",
+      "image_title": "Raketenstart"
+    },
+    {
       "title": "Whatsapp testet bequemeren Weg zur Aufnahme von Sprachnachrichten",
       "teaser": "Whatsapp testet eine einfachere Methode für die Aufnahme längerer Sprachnachrichten. Manche iPhone-Nutzer können sie bereits ausprobieren.",
       "url": "https://www.heise.de/news/Whatsapp-testet-bequemeren-Weg-zur-Aufnahme-von-Sprachnachrichten-10366663.html"
@@ -369,15 +375,15 @@
       "image_title": "Ein Soldat startet eine Aufklärungsdrohne aus der Hand."
     },
     {
+      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
+      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
+    },
+    {
       "title": "Chromecast mit Google TV – aber nicht von Google",
       "teaser": "Mit dem Cast 150 lässt die europäische Marke Thomson Googles kompakten Chromecast mit Google TV in gewisser Weise wieder aufleben.",
       "url": "https://www.heise.de/news/Chromecast-mit-Google-TV-aber-nicht-von-Google-10365889.html",
       "image_title": "Thomson Cast 150 mit Fernseher verbunden"
-    },
-    {
-      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
-      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
     },
     {
       "title": "AlertSeiko-Epson-Druckertreiber ermöglicht Rechteausweitung auf System",
@@ -430,12 +436,6 @@
       "title": "Schätze digitalisieren: Alte VHS-Videokassetten retten und mit KI restaurieren",
       "teaser": "VHS-Kassetten und -Rekorder verfallen langsam auf dem Dachboden – und mit ihnen kostbare Erinnerungen. So retten Sie Ihre Aufnahmen ins digitale Zeitalter.",
       "url": "https://www.heise.de/ratgeber/Schaetze-digitalisieren-Alte-VHS-Videokassetten-retten-und-mit-KI-restaurieren-10232557.html"
-    },
-    {
-      "title": "Arlo-Kameras bekommen HomeKit, jedoch nicht verschlüsselt",
-      "teaser": "Besitzer verschiedener Überwachungskameras von Arlo können diese in HomeKit einbinden. Secure Video wird jedoch nicht unterstützt. Zudem ist ein Hub notwendig.",
-      "url": "https://www.heise.de/news/Arlo-Kameras-bekommen-HomeKit-jedoch-nicht-verschluesselt-10364513.html",
-      "image_title": "Kamera von Arlo"
     },
     {
       "title": "UpdateGroßräumige Stromausfälle in Portugal und Spanien",
@@ -603,6 +603,11 @@
       "url": "https://www.heise.de/en/news/Government-formation-Merz-makes-MediaMarkt-manager-Digital-Minister-10364171.html"
     },
     {
+      "title": "Duell in der Mittelklasse-CPUs: Intel Core Ultra 200S gegen Ryzen 9000 im Test",
+      "teaser": "Bei den Arrow-Lake-CPUs hat Intel nicht nur ein neues Namensschema eingeführt. Wir testen, wie gut sich die günstigen 65-Watt-Modelle gegen Ryzen 9000 schlagen.",
+      "url": "https://www.heise.de/tests/Duell-in-der-Mittelklasse-CPUs-Intel-Core-Ultra-200S-gegen-Ryzen-9000-im-Test-10313447.html"
+    },
+    {
       "title": "Sechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
       "teaser": "Ethernet-Switches mit Netzwerkspezialitäten wie VLANs oder Mirroring gibt es schon unter 70 Euro. Wir vergleichen fünf Preisbrecher und ein Profigerät.",
       "url": "https://www.heise.de/tests/Sechs-konfigurierbare-Ethernet-Switches-fuer-2-5-Gbit-s-im-Test-10346227.html"
@@ -612,11 +617,6 @@
       "teaser": "Neue Tarifmodelle wie die kostenlose Volumennachbuchung bei Aldi Talk sollen Kunden locken, andere Anbieter packen noch mehr Freivolumen in ihre Optionen.",
       "url": "https://www.heise.de/tests/Prepaid-Tarife-fuer-jeden-Bedarf-im-Vergleich-10362450.html",
       "image_title": ","
-    },
-    {
-      "title": "20 Jahre Hommingberger GepardenforelleDie besten KI-Bilder zum Jubiläum",
-      "teaser": "Wir haben nach euren KI-Interpretationen der Hommingberger Gepardenforelle gefragt. Hier sind nun die besten Bilder.",
-      "url": "https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-die-besten-KI-Bilder-zum-Jubilaeum-10363957.html"
     },
     {
       "title": "Gute EinstellungVersteckte Apple-Watch-Funktionen finden und einsetzen",
@@ -643,16 +643,16 @@
       "image_title": "Eröffnung der Lego-Fabrik in Vietnam"
     },
     {
-      "title": "GraviTrax-Kugelbahn mit ESP32 steuern",
-      "teaser": "Die Taster des GraviTrax Power Element+ Controllers lassen sich durch ESP32-gesteuerte Relais ersetzen und damit programmgesteuerte Kugelbahnen realisieren.",
-      "url": "https://www.heise.de/ratgeber/GraviTrax-Kugelbahn-mit-ESP32-steuern-10320855.html",
-      "image_title": ","
-    },
-    {
       "title": "Bastelprojekt: Wie man eine per ESP-gesteuerte Lampe für Verliebte baut",
       "teaser": "Im Projekt \"LoversLamp\" synchronisieren sich ESP-gesteuerte Lampen übers Internet per MQTT miteinander, um einer Person zu zeigen, dass man an sie denkt.",
       "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-man-eine-per-ESP-gesteuerte-Lampe-fuer-Verliebte-baut-10322225.html",
       "image_title": ","
+    },
+    {
+      "title": "BastelgerätPimoroni Presto bringt RP2350-Power auf den Schreibtisch",
+      "teaser": "Pimoroni bringt mit dem Presto ein Displaygerät mit Touchscreen, WLAN, RGB-LEDs und Sensoranschluss für eigene Projekte.",
+      "url": "https://www.heise.de/news/Pimoroni-Presto-Touch-Display-auf-Basis-von-Pi-Pico-10354068.html",
+      "image_title": "Man sieht das Display von schräg vorne."
     },
     {
       "title": "Sonys Über-Glas und rare Sigma BF – die Fotonews der Woche 17/2025",
@@ -749,22 +749,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "US-Autozölle: Scheinbare Erleichterung täuscht Verbraucher",
-      "teaser": "Die US-Regierung lockert die Zölle auf importierte Autos. Hersteller sollen mehr Zeit bekommen, ihre Produktion in die USA zu verlagern. Doch für Verbraucher wird es teuer.",
-      "url": "https://www.heise.de/tp/features/US-Autozoelle-Scheinbare-Erleichterung-taeuscht-Verbraucher-10366300.html",
-      "image_title": "US-Autos, fabrikneu"
+      "title": "Chefs als Mobber: Wie weit darf Kostensenkung gehen?",
+      "teaser": "Mobbing als Methode des Managements: Manche Chefs schrecken nicht davor zurück, um Kosten zu senken und Betriebsräte auszubremsen",
+      "url": "https://www.heise.de/tp/features/Chefs-als-Mobber-Wie-weit-darf-Kostensenkung-gehen-10364795.html",
+      "image_title": "Ein Chef macht einen Angestellten vor den Kollegen herunter."
     },
     {
-      "title": "Kaschmir, Indien und Pakistan: Am Abgrund, mal wieder",
-      "teaser": "Im Schatten der Supermächte eskaliert der Kaschmir-Konflikt erneut. Nach einem Anschlag reagiert Indien scharf gegen Pakistan. Droht ein Krieg um Wasser? Analyse.",
-      "url": "https://www.heise.de/tp/features/Kaschmir-Indien-und-Pakistan-Am-Abgrund-mal-wieder-10364289.html",
-      "image_title": "Unbekannter indischer Soldat in Kaschmir, Bild aus dem Jahr 2015, im Hintergrund Berge."
+      "title": "Blackout in Portugal und Spanien: \"Es war wirklich wie in Kuba\"",
+      "teaser": "Ein Schweizer Tourist schildert seine Erlebnisse während des großen Stromausfalls auf der iberischen Halbinsel. Behörden geben Entwarnung, doch viele Fragen bleiben offen.",
+      "url": "https://www.heise.de/tp/features/Blackout-in-Portugal-und-Spanien-Es-war-wirklich-wie-in-Kuba-10366310.html",
+      "image_title": "Mutter, Vater und kleines Mädchen, die ohne Elektrizität auf dem Sofa sitzen und Buch mit Kerzenlicht lesen. Blackout."
     },
     {
-      "title": "Big Data, kleine Rechte: Die Elektronische Patientenakte und personalisierte Medizin",
-      "teaser": "Koalitionsvertrag fordert: An Innovationen angepassten Datenschutz und neue Regeln für Zell- und Gentherapien. Was ein Marktimperativ und Ihr persönlicher Gesundheitszustand damit zu tun haben.",
-      "url": "https://www.heise.de/tp/features/Big-Data-kleine-Rechte-Die-Elektronische-Patientenakte-und-personalisierte-Medizin-10365593.html",
-      "image_title": "Offenes Vorhängeschloss als Chip auf Leiterplatte, deren Kontakte einen Menschen zeichnen. Darauf eine Arzeneikapsel"
+      "title": "Tragödie oder Staatsterrorismus – was steckt hinter der Explosion im Iran?",
+      "teaser": "Eine Explosion erschüttert den Hafen von Bandar Abbas. Die iranische Regierung spricht von einem Unfall, doch Zweifel bleiben. Könnte mehr dahinterstecken?",
+      "url": "https://www.heise.de/tp/features/Tragoedie-oder-Staatsterrorismus-was-steckt-hinter-der-Explosion-im-Iran-10365839.html",
+      "image_title": "Irans Flagge als Pin auf einer Karte"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
