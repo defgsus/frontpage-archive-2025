@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-29T12:19:31",
+  "timestamp": "2025-04-29T13:26:15",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -8,33 +8,58 @@
     {
       "type": null,
       "src": "https://cmp.heise.de/unified/wrapperMessagingWithoutDetection.js",
+      "id": "sourcepoint-js",
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.77933a83e0292e7d3f8c",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.d5e0cea8b9c9c30ba16b",
+      "src": "https://hl.upscore.com/config/heise.de.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Sechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
-      "teaser": "Ethernet-Switches mit Netzwerkspezialitäten wie VLANs oder Mirroring gibt es schon unter 70 Euro. Wir vergleichen fünf Preisbrecher und ein Profigerät.",
+      "title": "Foundation AI: Cisco bringt KI-Modell für Integration in Security-Anwendungen",
+      "teaser": "Cisco stellte ein KI-Modell für die IT-Sicherheit vor. Zudem soll das Tool AI Defense künftig Unternehmen vor der Nutzung bösartiger Sprachmodelle schützen.",
+      "url": "https://www.heise.de/news/Foundation-AI-Cisco-bringt-KI-Modell-fuer-Integration-in-Security-Anwendungen-10365704.html",
+      "image_title": "Computer-Chips mit Security-Symbolen drauf"
+    },
+    {
+      "title": "Hauptstadtportal berlin.de nach DDoS-Attacke wieder online",
+      "teaser": "Am vergangenen Freitag begann ein umfassende DDoS-Angriff auf Portal der Hauptstadt. Betroffen waren Bürgerdienste und auch das Intranet der Verwaltung.",
+      "url": "https://www.heise.de/news/Hauptstadtportal-berlin-de-nach-DDoS-Attacke-wieder-online-10365002.html",
+      "image_title": "Server werden von Kriminellen angegriffen, Nutzer davor verzweifelt"
+    },
+    {
+      "title": "AlertDocker: Rechteausweitungslücke in Desktop für Windows",
+      "teaser": "Angreifer können ihre Rechte durch ein Sicherheitsleck in Docker Desktop für Windows ausweiten. Ein Update korrigiert das.",
+      "url": "https://www.heise.de/news/Docker-Rechteausweitungsluecke-in-Desktop-fuer-Windows-10366320.html"
+    },
+    {
+      "title": "Möglicher Zusammenhang zum Blackout in Spanien: Mehrere Orte in Grönland offline",
+      "teaser": "Nicht nur in Spanien und Portugal ist am Montag die Kommunikation zusammengebrochen, sondern auch in Teilen Grönlands. Ein Zusammenhang sei möglich.",
+      "url": "https://www.heise.de/news/Moeglicher-Zusammenhang-zum-Blackout-in-Spanien-Mehrere-Orte-in-Groenland-offline-10366328.html",
+      "image_title": "Siedlung auf Grönland"
+    },
+    {
+      "title": "TestsSechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
       "url": "https://www.heise.de/tests/Sechs-konfigurierbare-Ethernet-Switches-fuer-2-5-Gbit-s-im-Test-10346227.html"
     },
     {
-      "title": "Scannen, kopieren, drucken: Multifunktionsdrucker für den Mac im Test",
-      "teaser": "Schon für weniger als 100 Euro bekommt man kompakte Tintendrucker mit Flachbettscanner und WLAN. Doch welche taugen für Apple-Nutzer?",
+      "title": "TestsScannen, kopieren, drucken: Multifunktionsdrucker für den Mac im Test",
       "url": "https://www.heise.de/tests/Scannen-kopieren-drucken-Multifunktionsdrucker-fuer-den-Mac-im-Test-10357400.html",
       "image_title": ","
+    },
+    {
+      "title": "TestsDuell in der Mittelklasse-CPUs: Intel Core Ultra 200S gegen Ryzen 9000 im Test",
+      "url": "https://www.heise.de/tests/Duell-in-der-Mittelklasse-CPUs-Intel-Core-Ultra-200S-gegen-Ryzen-9000-im-Test-10313447.html"
     },
     {
       "title": "Duolingo setzt auf KI – gegen Fachkräftemangel",
@@ -60,7 +85,7 @@
       "image_title": "Thomson Cast 150 mit Fernseher verbunden"
     },
     {
-      "title": "Seiko-Epson-Druckertreiber ermöglicht Rechteausweitung auf System",
+      "title": "AlertSeiko-Epson-Druckertreiber ermöglicht Rechteausweitung auf System",
       "teaser": "Die Windows-Druckertreiber für Seiko-Epson-Drucker enthalten eine hochriskante Lücke, die Angreifern die Ausweitung ihrer Rechte ermöglicht.",
       "url": "https://www.heise.de/news/Seiko-Epson-Druckertreiber-ermoeglicht-Rechteausweitung-auf-System-10365989.html",
       "image_title": "Stilisierte Grafik: ein brennender Netzwerkdrucker"
@@ -89,7 +114,7 @@
       "image_title": "iPhone mit schwarzem Bildschirm (Symbolbild):"
     },
     {
-      "title": "Attackierte SAP-Lücke: Hunderte verwundbare Server im Netz",
+      "title": "AlertAttackierte SAP-Lücke: Hunderte verwundbare Server im Netz",
       "teaser": "Am Freitag hat SAP eine bereits angegriffene Sicherheitslücke in SAP Netweaver gepatcht. Noch immer sind hunderte Server verwundbar.",
       "url": "https://www.heise.de/news/Attackierte-SAP-Luecke-Hunderte-verwundbare-Server-im-Netz-10365650.html",
       "image_title": "Stilisiertes Bild: Laptop mit SAP-Logo brennt, vor Serverracks"
@@ -101,7 +126,7 @@
       "image_title": "Software Testing: Eine Referenzimplementierung als Testorakel"
     },
     {
-      "title": "Fragwürdiges KI-Experiment auf Reddit: Massive Kritik an Forschungsgruppe",
+      "title": "UpdateFragwürdiges KI-Experiment auf Reddit: Massive Kritik an Forschungsgruppe",
       "teaser": "Im Subreddit r/changemyview geht es darum, Menschen mit Argumenten zu überzeugen. Jetzt wurde enthüllt, dass dort KI mitgemischt hat – für die Forschung.",
       "url": "https://www.heise.de/news/Unerwuenschtes-KI-Experiment-auf-Reddit-Massive-Kritik-an-Forschungsgruppe-10365507.html",
       "image_title": "Reddit-Logo auf Smartphone"
@@ -124,10 +149,41 @@
       "image_title": "QEMU-Logo"
     },
     {
-      "title": "Endpoint Central wird Champion in der Kategorie Vulnerability Management",
-      "teaser": "ManageEngine überzeugt die Anwender mit Funktionsumfang und Service.",
-      "url": "https://www.manageengine.de/produkte-loesungen/desktop-mobile-devices/endpoint-central/infomaterial/endpoint-central-champion-pur-2025.html?utm_medium=www&utm_source=ad&utm_campaign=vmp.heise.PUR.ad&utm_content=vmp",
-      "image_title": "Studieninfos ansehen"
+      "title": "NewsEntwickler: Linux-Kernel soll keine Rücksicht mehr auf 486-CPUs nehmen",
+      "url": "https://www.heise.de/news/Linux-Entwickler-erwaegen-Support-fuer-486er-und-andere-CPUs-einzustellen-10363813.html"
+    },
+    {
+      "title": "UpdateNewsGroßräumige Stromausfälle in Portugal und Spanien",
+      "url": "https://www.heise.de/news/Grossraeumige-Stromausfaelle-in-Portugal-und-Spanien-10364573.html"
+    },
+    {
+      "title": "NewsiPhone-Umzug nach Indien: China macht es Apple schwer",
+      "url": "https://www.heise.de/news/iPhone-Umzug-nach-Indien-China-macht-es-Apple-schwer-10363781.html",
+      "image_title": "Foxconn"
+    },
+    {
+      "title": "News Energieeffizienz: Neukauf von Haushaltsgeräten lohnt kaum mehr",
+      "url": "https://www.heise.de/news/Energieeffizienz-Neukauf-von-Haushaltsgeraeten-lohnt-kaum-mehr-10363711.html",
+      "image_title": "Haushaltsgeräte wie Waschmaschine, Staubsauger, Toaster"
+    },
+    {
+      "title": "HintergrundBis 500.000.000 Euro Schaden: Wie die Bahnbranche das Deutschlandticket riskiert",
+      "url": "https://www.heise.de/hintergrund/Bis-500-000-000-Euro-Schaden-Wie-die-Bahnbranche-das-Deutschlandticket-riskiert-10361820.html",
+      "image_title": "Deutschlandticket in einer Hand vor einem Bahnwaggon"
+    },
+    {
+      "title": "RatgeberGoodbye Copilot: Wie Sie KI-Coding-Asisstenten lokal betreiben",
+      "url": "https://www.heise.de/ratgeber/Goodbye-Copilot-Wie-Sie-KI-Coding-Asisstenten-lokal-betreiben-10287092.html"
+    },
+    {
+      "title": "TestsElektroauto Polestar 2 im Dauertest: Der erzwungene Abschied schmerzt",
+      "url": "https://www.heise.de/tests/Elektroauto-Polestar-2-im-Dauertest-Der-erzwungene-Abschied-schmerzt-10357608.html",
+      "image_title": "Polestar 2"
+    },
+    {
+      "title": "TestsApple iPhone 16e und Google Pixel 9a im Vergleichtest",
+      "url": "https://www.heise.de/tests/Apple-iPhone-16e-und-Google-Pixel-9a-im-Vergleich-10357953.html",
+      "image_title": ","
     }
   ]
 }
