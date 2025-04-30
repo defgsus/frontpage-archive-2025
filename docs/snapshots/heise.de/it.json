@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-30T10:10:38",
+  "timestamp": "2025-04-30T11:08:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,26 @@
   ],
   "articles": [
     {
+      "title": "Terraform-Konkurrent OpenTofu tritt im Sandbox-Status der CNCF bei",
+      "teaser": "Das Open-Source-IaC-Tool OpenTofu tritt der Cloud Native Computing Foundation bei. Dafür hat sich die OpenTofu-Community mehrheitlich entschieden.",
+      "url": "https://www.heise.de/news/Terraform-Konkurrent-OpenTofu-tritt-im-Sandbox-Status-der-CNCF-bei-10367600.html",
+      "image_title": "Tofu mit Wolken"
+    },
+    {
+      "title": "AlertDell schützt PowerProtect Data Manager und Laptops vor möglichen Attacken",
+      "teaser": "Angreifer können an verschiedenen Sicherheitslücken in Dell PowerProtect Data Manager und im Qualcom-Chipset-Treiber einiger Laptops ansetzen.",
+      "url": "https://www.heise.de/news/Dell-schuetzt-PowerProtect-Data-Manager-und-Laptops-vor-moeglichen-Attacken-10367541.html"
+    },
+    {
+      "title": "Strompreise an StrombörseUmstellung von stündlichen auf viertelstündlichen Takt",
+      "teaser": "Die europäische Strombörse stellt im Juni den Takt um: Der Preis im Day-Ahead-Handel wird dann alle 15 Minuten ermittelt.",
+      "url": "https://www.heise.de/news/Viertelstundentakt-Boersen-Strompreis-wird-in-kuerzeren-Abstaenden-berechnet-10367304.html",
+      "image_title": "Strommasten vor Abendhimmel"
+    },
+    {
       "title": "Moderne Java-Entwicklung: Noch Frühbuchertickets für betterCode() Spring sichern",
       "teaser": "Am 3. Juni bietet das Programm der Konferenz unter anderem eine Vorschau auf Spring 7 sowie Einblicke in Spring AI und das Testen von Spring-Boot-Anwendungen.",
       "url": "https://www.heise.de/news/Moderne-Java-Entwicklung-Noch-Fruehbuchertickets-fuer-betterCode-Spring-sichern-10366053.html"
-    },
-    {
-      "title": "Duell in der Mittelklasse-CPUs: Intel Core Ultra 200S gegen Ryzen 9000 im Test",
-      "teaser": "Bei den Arrow-Lake-CPUs hat Intel nicht nur ein neues Namensschema eingeführt. Wir testen, wie gut sich die günstigen 65-Watt-Modelle gegen Ryzen 9000 schlagen.",
-      "url": "https://www.heise.de/tests/Duell-in-der-Mittelklasse-CPUs-Intel-Core-Ultra-200S-gegen-Ryzen-9000-im-Test-10313447.html"
-    },
-    {
-      "title": "Firefox: Tab-Gruppen sind da",
-      "teaser": "Firefox arbeitet weiter die Nutzerwünsche auf: In der aktuellen Version 138 sind die Tab-Gruppen dran. Mit an Bord ist außerdem ein neues Profil-Management.",
-      "url": "https://www.heise.de/news/Firefox-Tab-Gruppen-sind-da-10367588.html",
-      "image_title": "Mozilla Firefox Browser-Fenster"
-    },
-    {
-      "title": "Tipp: System- und App-Icons in macOS extrahieren",
-      "teaser": "In macOS verstecken sich viele schöne Icons von Apple-Produkten sowie allen Apps. Doch wie kommt man an sie heran?",
-      "url": "https://www.heise.de/ratgeber/System-und-App-Icons-in-macOS-extrahieren-4217779.html",
-      "image_title": "Mac mini, hier das M1-Modell"
     },
     {
       "title": "RatgeberUmstieg auf Passkeys: So schaffen Sie es als App-Entwickler auf Mac und iPhone",
@@ -60,6 +60,18 @@
     {
       "title": "TestsSechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
       "url": "https://www.heise.de/tests/Sechs-konfigurierbare-Ethernet-Switches-fuer-2-5-Gbit-s-im-Test-10346227.html"
+    },
+    {
+      "title": "Firefox: Tab-Gruppen sind da",
+      "teaser": "Firefox arbeitet weiter die Nutzerwünsche auf: In der aktuellen Version 138 sind die Tab-Gruppen dran. Mit an Bord ist außerdem ein neues Profil-Management.",
+      "url": "https://www.heise.de/news/Firefox-Tab-Gruppen-sind-da-10367588.html",
+      "image_title": "Mozilla Firefox Browser-Fenster"
+    },
+    {
+      "title": "Tipp: System- und App-Icons in macOS extrahieren",
+      "teaser": "In macOS verstecken sich viele schöne Icons von Apple-Produkten sowie allen Apps. Doch wie kommt man an sie heran?",
+      "url": "https://www.heise.de/ratgeber/System-und-App-Icons-in-macOS-extrahieren-4217779.html",
+      "image_title": "Mac mini, hier das M1-Modell"
     },
     {
       "title": "Parallels Desktop: Neue x86-Emulation auf Apple Silicon",
@@ -137,17 +149,6 @@
       "teaser": "Metas KI-Assistent bekommt eine eigenständige App, die mehr kann als nur chatten und Bilder generieren. Und sie dient als Schnittstelle für Metas Brillen.",
       "url": "https://www.heise.de/news/Meta-AI-Eigenstaendige-App-samt-Social-Media-Feed-10366956.html",
       "image_title": "Chris Cox auf einer Bühne stellt die neue Meta AI App vor."
-    },
-    {
-      "title": "Luckfox Lyra: Linux im Pico-Format",
-      "teaser": "Kaum größer als ein Kaugummistreifen und dennoch ein Board, auf dem ein richtiges Linux läuft. Dank Rockchip RK3506G2 sogar erstaunlich gut.",
-      "url": "https://www.heise.de/news/Luckfox-Lyra-Linux-im-Pico-Format-10366884.html",
-      "image_title": "Luckfox Lyra Linux Board auf Laptop mit Matrix Screensaver"
-    },
-    {
-      "title": "AlertApple AirPlay: Sicherheitsforscher warnen vor gravierenden Lücken",
-      "teaser": "Schwachstellen erlauben die Übernahme von AirPlay-Geräten, warnen Sicherheitsforscher. Für iPhones & Co gibt es Patches, bei anderer Hardware wird es knifflig.",
-      "url": "https://www.heise.de/news/Schwere-Luecken-in-AirPlay-Apple-patcht-andere-Geraete-wohl-weiter-angreifbar-10366898.html"
     },
     {
       "title": "NewsJetzt formell: TSMC darf in den USA keine Chips mit modernster Technik fertigen",
