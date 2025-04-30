@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-30T08:13:38",
+  "timestamp": "2025-04-30T09:10:34",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,26 @@
   ],
   "articles": [
     {
+      "title": "Parallels Desktop: Neue x86-Emulation auf Apple Silicon",
+      "url": "https://www.heise.de/news/Parallels-Desktop-Neue-x86-Emulation-auf-Apple-Silicon-10367163.html"
+    },
+    {
+      "title": "Qwen3: Alibaba macht neues KI-Modell frei verfügbar",
+      "url": "https://www.heise.de/news/Qwen3-Alibaba-macht-neues-KI-Modell-frei-verfuegbar-10367292.html"
+    },
+    {
+      "title": "Mächtigere KI-Systeme mit dem Model Context Protocol (MCP)",
+      "url": "https://www.heise.de/blog/Maechtigere-KI-Systeme-mit-dem-Model-Context-Protocol-MCP-10363599.html"
+    },
+    {
+      "title": "Elektro-Kleinwagen Citroën ë-C3 im Test: Und jetzt bitte noch etwas Feinschliff",
+      "url": "https://www.heise.de/tests/Elektro-Kleinwagen-Citroen-e-C3-im-Test-Und-jetzt-bitte-noch-etwas-Feinschliff-10359008.html"
+    },
+    {
+      "title": "2025: Diese Produkte stehen auf Apples Release-Liste für dieses Jahr",
+      "url": "https://www.heise.de/news/Uebersicht-Diese-Apple-Produkte-fuer-2025-koennten-noch-kommen-10364501.html"
+    },
+    {
       "title": "ESA-Erdbeobachtungssatellit gestartet: Biomass soll alle Wälder der Erde wiegen",
       "url": "https://www.heise.de/news/ESA-Erdbeobachtungssatellit-gestartet-Biomass-soll-alle-Waelder-der-Erde-wiegen-10367348.html"
     },
@@ -38,32 +58,12 @@
       "url": "https://www.heise.de/news/iX-Workshop-Kubernetes-fuer-Linux-Administratoren-10358749.html"
     },
     {
-      "title": "Ohne Motor: Seilbahnroboter transportiert Lasten mit der Kraft von Infrarotlicht",
+      "title": "Nudelförmiger Seilbahnroboter bewegt sich durch Infrarotlicht",
       "url": "https://www.heise.de/news/Ohne-Motor-Seilbahnroboter-transportiert-Lasten-mit-der-Kraft-von-Infrarotlicht-10367357.html"
     },
     {
       "title": "Drei Fragen und Antworten: Ist Platform Engineering mehr als ein Hype?",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Ist-Platform-Engineering-mehr-als-ein-Hype-10366816.html"
-    },
-    {
-      "title": "Afrinic-Krise zwingt zu Reform der globalen IP-Adressverwaltung",
-      "url": "https://www.heise.de/news/Afrinic-Krise-zwingt-zu-Reform-der-globalen-IP-Adressverwaltung-10367363.html"
-    },
-    {
-      "title": "Autonomes Fahren: Toyota und Waymo wollen kooperieren",
-      "url": "https://www.heise.de/news/Autonomes-Fahren-Toyota-und-Waymo-wollen-gemeinsame-Plattform-entwickeln-10367308.html"
-    },
-    {
-      "title": "Experte: Handy-Aus bei Blackout ist \"belastender Angriff\"",
-      "url": "https://www.heise.de/news/Experte-Handy-Aus-bei-Blackout-ist-belastender-Angriff-10367223.html"
-    },
-    {
-      "title": "Kommentar: Droht die Spaltung? – Synadia fordert NATS von der CNCF zurück",
-      "url": "https://www.heise.de/meinung/Kommentar-Droht-die-Spaltung-Synadia-fordert-NATS-von-der-CNCF-zurueck-10366601.html"
-    },
-    {
-      "title": "Sechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
-      "url": "https://www.heise.de/tests/Sechs-konfigurierbare-Ethernet-Switches-fuer-2-5-Gbit-s-im-Test-10346227.html"
     },
     {
       "title": "ÜberwachungDeutsches IP-Catching ist geheimer als geheim",
@@ -187,6 +187,41 @@
       "image_title": "Luckfox Lyra Linux Board auf Laptop mit Matrix Screensaver"
     },
     {
+      "title": "Parallels Desktop: Neue x86-Emulation auf Apple Silicon",
+      "teaser": "Alludo hat eine neue Version der VM-Lösung Parallels Desktop für macOS veröffentlicht. Sie hilft beim Emulieren von PC-Software und verbessert virtuelle Macs.",
+      "url": "https://www.heise.de/news/Parallels-Desktop-Neue-x86-Emulation-auf-Apple-Silicon-10367163.html",
+      "image_title": "OBS-Kamera-Unterstützung in Parallels Desktop"
+    },
+    {
+      "title": "Qwen3: Alibaba macht neues KI-Modell frei verfügbar",
+      "teaser": "Das hybride Open-Source-Modell Qwen3 kann zwischen einem ausführlichen \"Denkmodus\" und schnellen Antworten umgeschaltet werden.",
+      "url": "https://www.heise.de/news/Qwen3-Alibaba-macht-neues-KI-Modell-frei-verfuegbar-10367292.html",
+      "image_title": "Logo von Qwen3"
+    },
+    {
+      "title": "Kostenloses KI-Programm erweckt Ideen zum Leben",
+      "teaser": "Wer mit KI-Unterstützung wachsen will, aber fachliche Beratung braucht, kann beim Programm „AI Business Innovation Sprint“ mitmachen. Von den teilnehmenden Teams wird das Beste am 5. Juni geehrt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966631612&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Mächtigere KI-Systeme mit dem Model Context Protocol (MCP)",
+      "teaser": "Vor ein paar Wochen hat Anthropic das Model Context Protocol (MCP) vorgestellt. Doch wozu dient dieses Protokoll und wie funktioniert es?",
+      "url": "https://www.heise.de/blog/Maechtigere-KI-Systeme-mit-dem-Model-Context-Protocol-MCP-10363599.html",
+      "image_title": "Roboterarm hält mit dem Zeigefinger eine Glühbirne"
+    },
+    {
+      "title": "Elektro-Kleinwagen Citroën ë-C3 im Test: Und jetzt bitte noch etwas Feinschliff",
+      "teaser": "So einen günstigen und komfortablen E-Kleinwagen hätte VW sicher gern schon. Leider fehlt dem ë-C3 eine Vorkonditionierung und der Software die Reife.",
+      "url": "https://www.heise.de/tests/Elektro-Kleinwagen-Citroen-e-C3-im-Test-Und-jetzt-bitte-noch-etwas-Feinschliff-10359008.html",
+      "image_title": "Citroën ë-C3"
+    },
+    {
+      "title": "2025: Diese Produkte stehen auf Apples Release-Liste für dieses Jahr",
+      "teaser": "Trotz US-Zöllen und anderem Ärger: Apples Pipeline an frischen Produkten ist gut gefüllt. Ein Überblick der wichtigsten Neuerungen, die wir 2025 erwarten.",
+      "url": "https://www.heise.de/news/Uebersicht-Diese-Apple-Produkte-fuer-2025-koennten-noch-kommen-10364501.html",
+      "image_title": "Tim Cook bei einer Produktvorstellung im September 2022"
+    },
+    {
       "title": "ESA-Erdbeobachtungssatellit gestartet: Biomass soll alle Wälder der Erde wiegen",
       "teaser": "Wenn Biomass seine Arbeit aufnimmt, soll der Erdbeobachtungssatellit die genaueste Übersicht über die Biomasse aller Wälder liefern. Die Erwartungen sind groß.",
       "url": "https://www.heise.de/news/ESA-Erdbeobachtungssatellit-gestartet-Biomass-soll-alle-Waelder-der-Erde-wiegen-10367348.html",
@@ -199,43 +234,10 @@
       "image_title": "Screenshot von TmuxAI"
     },
     {
-      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
-      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "iX-Workshop: Kubernetes für Linux-Administratoren",
       "teaser": "Von der Automatisierung bis zur Wartung - Ein praxisorientierter Einstieg in die Container-Orchestrierung mit Kubernetes.",
       "url": "https://www.heise.de/news/iX-Workshop-Kubernetes-fuer-Linux-Administratoren-10358749.html",
       "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Ohne Motor: Seilbahnroboter transportiert Lasten mit der Kraft von Infrarotlicht",
-      "teaser": "Der Softroboter in Form einer Rotini-Nudel wird durch Infrarotlicht angetrieben und kann auch Hindernisse überwinden.",
-      "url": "https://www.heise.de/news/Ohne-Motor-Seilbahnroboter-transportiert-Lasten-mit-der-Kraft-von-Infrarotlicht-10367357.html",
-      "image_title": "Das Schema zeigt, wie sich der rotierende Roboter an einem Seil entlang bewegt."
-    },
-    {
-      "title": "Drei Fragen und Antworten: Ist Platform Engineering mehr als ein Hype?",
-      "teaser": "Platform Engineering gilt als Königsweg zu geringerer Komplexität. Ob der Ansatz diesem Anspruch gerecht wird, erklärt Andreas Grabner.",
-      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Ist-Platform-Engineering-mehr-als-ein-Hype-10366816.html",
-      "image_title": "Roter Roboter mit Sprechblase"
-    },
-    {
-      "title": "Autonomes Fahren: Toyota und Waymo wollen kooperieren",
-      "teaser": "Toyota will zusammen mit der Google-Firma Waymo autonom fahrende Autos entwickeln, die auch privaten Autokäufern angeboten werden sollen.",
-      "url": "https://www.heise.de/news/Autonomes-Fahren-Toyota-und-Waymo-wollen-gemeinsame-Plattform-entwickeln-10367308.html",
-      "image_title": "Waymo"
-    },
-    {
-      "title": "Kommentar: Droht die Spaltung? – Synadia fordert NATS von der CNCF zurück",
-      "teaser": "Mit der Forderung von Derek Collison, NATS aus der CNCF wieder zu lösen, riskiert er juristischen Dauerstreit oder sogar einen Fork wie bei Terraform.",
-      "url": "https://www.heise.de/meinung/Kommentar-Droht-die-Spaltung-Synadia-fordert-NATS-von-der-CNCF-zurueck-10366601.html"
-    },
-    {
-      "title": "Sechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
-      "teaser": "Ethernet-Switches mit Netzwerkspezialitäten wie VLANs oder Mirroring gibt es schon unter 70 Euro. Wir vergleichen fünf Preisbrecher und ein Profigerät.",
-      "url": "https://www.heise.de/tests/Sechs-konfigurierbare-Ethernet-Switches-fuer-2-5-Gbit-s-im-Test-10346227.html"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -304,6 +306,34 @@
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
     },
     {
+      "title": "Nudelförmiger Seilbahnroboter bewegt sich durch Infrarotlicht",
+      "teaser": "Der Softroboter in Form einer Rotini-Nudel wird durch Infrarotlicht angetrieben und kann auch Hindernisse überwinden.",
+      "url": "https://www.heise.de/news/Ohne-Motor-Seilbahnroboter-transportiert-Lasten-mit-der-Kraft-von-Infrarotlicht-10367357.html",
+      "image_title": "Das Schema zeigt, wie sich der rotierende Roboter an einem Seil entlang bewegt."
+    },
+    {
+      "title": "Drei Fragen und Antworten: Ist Platform Engineering mehr als ein Hype?",
+      "teaser": "Platform Engineering gilt als Königsweg zu geringerer Komplexität. Ob der Ansatz diesem Anspruch gerecht wird, erklärt Andreas Grabner.",
+      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Ist-Platform-Engineering-mehr-als-ein-Hype-10366816.html",
+      "image_title": "Roter Roboter mit Sprechblase"
+    },
+    {
+      "title": "Autonomes Fahren: Toyota und Waymo wollen kooperieren",
+      "teaser": "Toyota will zusammen mit der Google-Firma Waymo autonom fahrende Autos entwickeln, die auch privaten Autokäufern angeboten werden sollen.",
+      "url": "https://www.heise.de/news/Autonomes-Fahren-Toyota-und-Waymo-wollen-gemeinsame-Plattform-entwickeln-10367308.html",
+      "image_title": "Waymo"
+    },
+    {
+      "title": "Kommentar: Droht die Spaltung? – Synadia fordert NATS von der CNCF zurück",
+      "teaser": "Mit der Forderung von Derek Collison, NATS aus der CNCF wieder zu lösen, riskiert er juristischen Dauerstreit oder sogar einen Fork wie bei Terraform.",
+      "url": "https://www.heise.de/meinung/Kommentar-Droht-die-Spaltung-Synadia-fordert-NATS-von-der-CNCF-zurueck-10366601.html"
+    },
+    {
+      "title": "Sechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
+      "teaser": "Ethernet-Switches mit Netzwerkspezialitäten wie VLANs oder Mirroring gibt es schon unter 70 Euro. Wir vergleichen fünf Preisbrecher und ein Profigerät.",
+      "url": "https://www.heise.de/tests/Sechs-konfigurierbare-Ethernet-Switches-fuer-2-5-Gbit-s-im-Test-10346227.html"
+    },
+    {
       "title": "Frankreich wirft Russland Cyberattacken zur Destabilisierung vor",
       "teaser": "Frankreich wirft Russland vor, seit 2021 Cyberangriffe auf Einrichtungen wie Ministerien auszuführen. Ziel sei die Destabilisierung.",
       "url": "https://www.heise.de/news/Frankreich-wirft-Russland-Cyberattacken-zur-Destabilisierung-vor-10367213.html",
@@ -350,6 +380,11 @@
       "image_title": "Chris Cox auf einer Bühne stellt die neue Meta AI App vor."
     },
     {
+      "title": "Spitzenforschung: Wie Supercomputer zum European Green Deal beitragen",
+      "teaser": "Hochleistungsrechenzentren haben in der Regel einen hohen CO₂-Ausstoß. Das muss jedoch nicht so sein. Wie die folgenden Beispiele zeigen, können sie sogar einen positiven CO₂-Fußabdruck erzielen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/spitzenforschung-wie-supercomputer-zum-european-green-deal-beitragen-4884/?source=hbsadersatz"
+    },
+    {
       "title": "AlertApple AirPlay: Sicherheitsforscher warnen vor gravierenden Lücken",
       "teaser": "Schwachstellen erlauben die Übernahme von AirPlay-Geräten, warnen Sicherheitsforscher. Für iPhones & Co gibt es Patches, bei anderer Hardware wird es knifflig.",
       "url": "https://www.heise.de/news/Schwere-Luecken-in-AirPlay-Apple-patcht-andere-Geraete-wohl-weiter-angreifbar-10366898.html"
@@ -379,11 +414,6 @@
       "image_title": "Scythe Mugen 5 vor weißem Hintergrund"
     },
     {
-      "title": "Cybersecurity 2025: Warum IT-Sicherheit ein solides Fundament benötigt",
-      "teaser": "Die Bedrohungslage wird sich auch 2025 weiter verschärfen. Unternehmen müssen daher ihre IT-Sicherheit kontinuierlich ausbauen. Das ist jedoch nur auf Basis einer soliden IT-Infrastruktur möglich.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/cybersecurity-2025-warum-it-sicherheit-ein-solides-fundament-benoetigt-4890/?source=hbsadersatz"
-    },
-    {
       "title": "Amazon schießt erste Kuiper-Satelliten in All",
       "teaser": "Mit Project Kuiper will Amazon Satelliteninternet anbieten und Starlink Konkurrenz machen. Die ersten Satelliten der Konstellation sind im All.",
       "url": "https://www.heise.de/news/Amazon-schiesst-erste-Kuiper-Satelliten-ins-All-10366760.html",
@@ -410,33 +440,6 @@
       "teaser": "Cisco stellte ein KI-Modell für die IT-Sicherheit vor. Zudem soll das Tool AI Defense künftig Unternehmen vor der Nutzung bösartiger Sprachmodelle schützen.",
       "url": "https://www.heise.de/news/Foundation-AI-Cisco-bringt-KI-Modell-fuer-Integration-in-Security-Anwendungen-10365704.html",
       "image_title": "Computer-Chips mit Security-Symbolen drauf"
-    },
-    {
-      "title": "Hauptstadtportal berlin.de nach DDoS-Attacke wieder online",
-      "teaser": "Am vergangenen Freitag begann ein umfassende DDoS-Angriff auf Portal der Hauptstadt. Betroffen waren Bürgerdienste und auch das Intranet der Verwaltung.",
-      "url": "https://www.heise.de/news/Hauptstadtportal-berlin-de-nach-DDoS-Attacke-wieder-online-10365002.html",
-      "image_title": "Server werden von Kriminellen angegriffen, Nutzer davor verzweifelt"
-    },
-    {
-      "title": "AlertDocker: Rechteausweitungslücke in Desktop für Windows",
-      "teaser": "Angreifer können ihre Rechte durch ein Sicherheitsleck in Docker Desktop für Windows ausweiten. Ein Update korrigiert das.",
-      "url": "https://www.heise.de/news/Docker-Rechteausweitungsluecke-in-Desktop-fuer-Windows-10366320.html"
-    },
-    {
-      "title": "Duolingo setzt auf KI – gegen Fachkräftemangel",
-      "teaser": "Man wolle \"AI-first\" sein, schreibt der Duolingo-CEO und kündigt an, mehr Arbeiten von KI übernehmen lassen zu wollen.",
-      "url": "https://www.heise.de/news/Duolingo-setzt-auf-KI-gegen-Fachkraeftemangel-10365714.html"
-    },
-    {
-      "title": "iX-Workshop: Von C++ zu Rust - Jump Start in die moderne Systemsprache",
-      "teaser": "Praxisnah und kompakt an einem Tag: Lernen Sie Rust effizient für Ihr nächstes Projekt einzusetzen - von Cargo über Ownership bis hin zur Fehlerbehandlung.",
-      "url": "https://www.heise.de/news/iX-Workshop-Von-C-zu-Rust-Jump-Start-in-die-moderne-Systemsprache-10358715.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
-    },
-    {
-      "title": "Zahlen, bitte! 105,882 km/h Temporekord, um 12 km/h-Elektrotaxis zu verkaufen.",
-      "teaser": "Das erste Auto, welches mehr als 100 km/h schnell fuhr, war ein Elektromobil. Möglich machte das der belgische Rennfahrer und Konstrukteur Camille Jenatzy.",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-105-882-km-h-Temporekord-um-12-km-h-Elektrotaxis-zu-verkaufen-10365810.html"
     },
     {
       "title": "20 Jahre Hommingberger Gepardenforelle – die besten KI-Bilder zum Jubiläum",
@@ -526,6 +529,10 @@
       "image_title": "Wikipedia-Schriftzug auf einem Smartphone"
     },
     {
+      "title": "Zahlen, bitte! 105,882 km/h Temporekord, um 12 km/h-Elektrotaxis zu verkaufen.",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-105-882-km-h-Temporekord-um-12-km-h-Elektrotaxis-zu-verkaufen-10365810.html"
+    },
+    {
       "title": "Nähmaschine statt 3D-Drucker",
       "url": "https://www.heise.de/news/Naehmaschine-statt-3D-Drucker-10364821.html"
     },
@@ -533,11 +540,6 @@
       "title": "Dienstag: Debatte um designierten Digitalminister, Stromgebotszone im Visier",
       "url": "https://www.heise.de/news/Dienstag-Debatte-um-designierten-Digitalminister-Stromgebotszone-im-Visier-10365120.html",
       "image_title": "Reicxhstagkuppel, dazu Text: DIENSTAG Digitalminister, Stromgebotszone, Stromausfälle, Netzneutralität & Rechenzentren"
-    },
-    {
-      "title": "Aus Rache: Trump entzieht IT-Sicherheitsfirma Sicherheitsfreigaben",
-      "url": "https://www.heise.de/news/Vendetta-Trump-entzieht-IT-Sicherheitsfirma-Sicherheitsfreigaben-10348366.html",
-      "image_title": "Donald Trump vor US-Flagge"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -606,19 +608,20 @@
       "url": "https://www.heise.de/en/news/Auto-China-Shanghai-2025-Which-models-are-coming-to-Europe-10361437.html"
     },
     {
+      "title": "Duell in der Mittelklasse-CPUs: Intel Core Ultra 200S gegen Ryzen 9000 im Test",
+      "teaser": "Bei den Arrow-Lake-CPUs hat Intel nicht nur ein neues Namensschema eingeführt. Wir testen, wie gut sich die günstigen 65-Watt-Modelle gegen Ryzen 9000 schlagen.",
+      "url": "https://www.heise.de/tests/Duell-in-der-Mittelklasse-CPUs-Intel-Core-Ultra-200S-gegen-Ryzen-9000-im-Test-10313447.html"
+    },
+    {
       "title": "Sechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
       "teaser": "Ethernet-Switches mit Netzwerkspezialitäten wie VLANs oder Mirroring gibt es schon unter 70 Euro. Wir vergleichen fünf Preisbrecher und ein Profigerät.",
       "url": "https://www.heise.de/tests/Sechs-konfigurierbare-Ethernet-Switches-fuer-2-5-Gbit-s-im-Test-10346227.html"
     },
     {
-      "title": "20 Jahre Hommingberger GepardenforelleDie besten KI-Bilder zum Jubiläum",
-      "teaser": "Wir haben nach euren KI-Interpretationen der Hommingberger Gepardenforelle gefragt. Hier sind nun die besten Bilder.",
-      "url": "https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-die-besten-KI-Bilder-zum-Jubilaeum-10363957.html"
-    },
-    {
-      "title": "Duell in der Mittelklasse-CPUs: Intel Core Ultra 200S gegen Ryzen 9000 im Test",
-      "teaser": "Bei den Arrow-Lake-CPUs hat Intel nicht nur ein neues Namensschema eingeführt. Wir testen, wie gut sich die günstigen 65-Watt-Modelle gegen Ryzen 9000 schlagen.",
-      "url": "https://www.heise.de/tests/Duell-in-der-Mittelklasse-CPUs-Intel-Core-Ultra-200S-gegen-Ryzen-9000-im-Test-10313447.html"
+      "title": "Prepaid-Tarife für jeden Bedarf im Vergleich",
+      "teaser": "Neue Tarifmodelle wie die kostenlose Volumennachbuchung bei Aldi Talk sollen Kunden locken, andere Anbieter packen noch mehr Freivolumen in ihre Optionen.",
+      "url": "https://www.heise.de/tests/Prepaid-Tarife-fuer-jeden-Bedarf-im-Vergleich-10362450.html",
+      "image_title": ","
     },
     {
       "title": "Gute EinstellungVersteckte Apple-Watch-Funktionen finden und einsetzen",
@@ -752,22 +755,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "US-Autozölle: Scheinbare Erleichterung täuscht Verbraucher",
-      "teaser": "Die US-Regierung lockert die Zölle auf importierte Autos. Hersteller sollen mehr Zeit bekommen, ihre Produktion in die USA zu verlagern. Doch für Verbraucher wird es teuer.",
-      "url": "https://www.heise.de/tp/features/US-Autozoelle-Scheinbare-Erleichterung-taeuscht-Verbraucher-10366300.html",
-      "image_title": "US-Autos, fabrikneu"
+      "title": "Tragödie oder Staatsterrorismus – was steckt hinter der Explosion im Iran?",
+      "teaser": "Eine Explosion erschüttert den Hafen von Bandar Abbas. Die iranische Regierung spricht von einem Unfall, doch Zweifel bleiben. Könnte mehr dahinterstecken?",
+      "url": "https://www.heise.de/tp/features/Tragoedie-oder-Staatsterrorismus-was-steckt-hinter-der-Explosion-im-Iran-10365839.html",
+      "image_title": "Irans Flagge als Pin auf einer Karte"
     },
     {
-      "title": "China gewinnt Marktanteile in der EU auf Kosten Deutschlands",
-      "teaser": "China holt bei EU-Exporten auf, während Deutschland Anteile verliert. Das zeigt eine KfW- Studie. Der Handelskonflikt mit den USA könnte den Druck erhöhen.",
-      "url": "https://www.heise.de/tp/features/China-gewinnt-Marktanteile-in-der-EU-auf-Kosten-Deutschlands-10366547.html",
-      "image_title": "Frachtcontainer mit deutscher Flagge, Wolkenhintergrund"
+      "title": "Quantenregen: Forscher beobachten seltsames Tröpfchen-Phänomen",
+      "teaser": "Bizarre Entdeckung: In einer ultrakalten Quantenflüssigkeit bilden sich spontan winzige Tröpfchen – fast wie Regen, nur ganz anders.",
+      "url": "https://www.heise.de/tp/features/Quantenregen-Forscher-beobachten-seltsames-Troepfchen-Phaenomen-10364765.html",
+      "image_title": "Regentropfen an einer Scheibe"
     },
     {
-      "title": "Ukraine-Krieg: Russland und Nordkorea bestätigen Truppeneinsatz",
-      "teaser": "Nordkoreanische Truppen kämpfen im Ukraine-Krieg. Kim Jong-un ordnete die Entsendung persönlich an. Die Zahl der Soldaten übersteigt alle Erwartungen.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Russland-und-Nordkorea-bestaetigen-Truppeneinsatz-10365098.html",
-      "image_title": "Soldatenschulter mit nordkoreanischen Abzeichen auf der Uniform, im Hintergrund die Farben der ukrainischen Flagge"
+      "title": "Blackout in Portugal und Spanien: \"Es war wirklich wie in Kuba\"",
+      "teaser": "Ein Schweizer Tourist schildert seine Erlebnisse während des großen Stromausfalls auf der iberischen Halbinsel. Behörden geben Entwarnung, doch viele Fragen bleiben offen.",
+      "url": "https://www.heise.de/tp/features/Blackout-in-Portugal-und-Spanien-Es-war-wirklich-wie-in-Kuba-10366310.html",
+      "image_title": "Mutter, Vater und kleines Mädchen, die ohne Elektrizität auf dem Sofa sitzen und Buch mit Kerzenlicht lesen. Blackout."
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
