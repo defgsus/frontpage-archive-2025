@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-30T02:24:34",
+  "timestamp": "2025-04-30T03:31:38",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -105,11 +111,18 @@
       "image_title": "Der US-Überblick am Morgen: US-Präsident Donald Trump trifft zu einer Kundgebung anlässlich der ersten 100 Tage seiner zweiten Amtszeit in der US-Stadt Warren in Michigan ein."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ukraine: Die Krim als Beute",
-      "teaser": "Die Ukraine war historisch oft ein Spielball der Großmächte – und ist es heute wieder. Denn Trumps Friedensdeal ist nichts anderes als eine Übereinkunft zur Plünderung.",
-      "url": "https://www.zeit.de/kultur/2025-04/ukraine-geopolitik-ressourcen-weltmaechte-friedensverhandlungen",
-      "image_url": "https://img.zeit.de/kultur/2025-04/ukraine-geopolitik-ressourcen-weltmaechte/super__430x286",
-      "image_title": "Ukraine: Die Krim als Beute"
+      "title": "Z+ (abopflichtiger Inhalt); Weltwirtschaft: 100 Tage Wirtschaftschaos",
+      "teaser": "Seit er im Amt ist, nutzt Donald Trump Zölle als Druckmittel. Tagesgenaue Daten zeigen, wie gravierend die Folgen für die Wirtschaft sind. Einen Gewinner gibt es aber.",
+      "url": "https://www.zeit.de/wirtschaft/2025-04/weltwirtschaft-donald-trump-zollpolitik-boersenkurse-daten",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-04/weltwirtschaft-donald-trump-zollpolitik-boersenkurse-daten-bild/super__430x286",
+      "image_title": "Weltwirtschaft: 100 Tage Wirtschaftschaos"
+    },
+    {
+      "title": "US-Zollpolitik: Trump gewährt Autoindustrie begrenzte Zollentlastung",
+      "teaser": "Autobauer in den USA müssen künftig nicht doppelt 25 Prozent Zoll zahlen, wenn sie Fahrzeugteile importieren. Donald Trump spricht von einer \"kleinen Hilfestellung\".",
+      "url": "https://www.zeit.de/politik/ausland/2025-04/donald-trump-zoelle-autobauer",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/donald-trump-usa-zoelle-autoindustrie/super__430x286",
+      "image_title": "US-Zollpolitik: President Donald Trump speaks to members of the Michigan National Guard at Selfridge Air National Guard Base, Tuesday, April 29, 2025, in Harrison Township, Mich. (AP Photo/Alex Brandon) Aufnahmedatum 29.04.2025 Bildnachweis picture alliance / ASSOCIATED PRESS | Alex Brandon"
     },
     {
       "title": "Liveblog:Ukrainekrieg: Trump hält doppeltes Spiel von Putin für möglich",
@@ -119,74 +132,25 @@
       "image_title": "Ukrainekrieg: Ein zerstörtes Auto vor einem Haus, das bei einem russischen Angriff auf ein Wohnviertel in Kiew beschädigt wurde."
     },
     {
-      "title": "Liveblog:US-Zölle: US-Konsumklima sinkt auf den niedrigsten Stand seit 13 Jahren",
-      "teaser": "Infolge der Zollpolitik Donald Trumps wächst in den USA die Sorge vor einer Inflation. Die Stimmung unter den Verbrauchern sinkt merklich. Das Liveblog",
-      "url": "https://www.zeit.de/wirtschaft/boerse/2025-04/us-zoelle-boerse-aktien-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/us-zoelle-boerse-aktien-liveblog-konsumklima/super__320x213",
-      "image_title": "US-Zölle: People shop in a supermarket in the Manhattan borough of New York City on February 20, 2025. (Photo by CHARLY TRIBALLEAU / AFP) (Photo by CHARLY TRIBALLEAU/AFP via Getty Images)"
-    },
-    {
-      "title": "US-Zollpolitik: Trump gewährt Autoindustrie begrenzte Zollentlastung",
-      "teaser": "Autobauer in den USA müssen künftig nicht doppelt 25 Prozent Zoll zahlen, wenn sie Fahrzeugteile importieren. Donald Trump spricht von einer \"kleinen Hilfestellung\".",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/donald-trump-zoelle-autobauer",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/donald-trump-usa-zoelle-autoindustrie/super__320x213",
-      "image_title": "US-Zollpolitik: President Donald Trump speaks to members of the Michigan National Guard at Selfridge Air National Guard Base, Tuesday, April 29, 2025, in Harrison Township, Mich. (AP Photo/Alex Brandon) Aufnahmedatum 29.04.2025 Bildnachweis picture alliance / ASSOCIATED PRESS | Alex Brandon"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Weltwirtschaft: 100 Tage Wirtschaftschaos",
-      "teaser": "Seit er im Amt ist, nutzt Donald Trump Zölle als Druckmittel. Tagesgenaue Daten zeigen, wie gravierend die Folgen für die Wirtschaft sind. Einen Gewinner gibt es aber.",
-      "url": "https://www.zeit.de/wirtschaft/2025-04/weltwirtschaft-donald-trump-zollpolitik-boersenkurse-daten",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-04/weltwirtschaft-donald-trump-zollpolitik-boersenkurse-daten-bild/super__320x213",
-      "image_title": "Weltwirtschaft: 100 Tage Wirtschaftschaos"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); 100 Tage Trump: Die Demokratie stirbt am helllichten Tag",
-      "teaser": "100 Tage unter Donald Trump haben die USA verändert. Die Verfassungskrise und der Unrechtsstaat, sie sind kein drohendes Szenario mehr. Sie werden gerade Wirklichkeit.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/100-tage-trump-usa-demokratie-verfassung-widerstand",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/100-tage-trump-usa-demokratie-verfassung/super__320x213",
-      "image_title": "100 Tage Trump: Die Demokratie stirbt am helllichten Tag"
-    },
-    {
-      "title": "100 Tage Donald Trump: Hat der US-Präsident noch Freunde?",
-      "teaser": "Verbale Erniedrigungen, Ende der Entwicklungshilfe, Zölle für alle Welt: Wie Trump die internationalen Beziehungen gefährdet.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/amtszeit-donald-trump-100-tage-usa-internationale-beziehungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/donald-trump-auslandspolitik-100-tage/super__320x213",
-      "image_title": "100 Tage Donald Trump: Hat der US-Präsident noch Freunde?"
-    },
-    {
-      "title": "Quiz über 100 Tage Donald Trump: Das hat er nicht wirklich gesagt – oder doch?",
-      "teaser": "Donald Trumps erste 100 Tage im Amt sind geprägt von Pannen, verbalen Entgleisungen und wüsten Drohungen. Was ist wirklich passiert? Testen Sie Ihr Wissen.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/quiz-100-tage-donald-trump-entscheidungen-drohungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/donald-trump-usa-quiz/super__320x213",
-      "image_title": "Quiz über 100 Tage Donald Trump: Das hat er nicht wirklich gesagt – oder doch?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Körperspende: Mein Herz in eurer Hand",
-      "teaser": "An Toten lernen Medizinstudierende das Leben kennen. Von Menschen, die ihren Körper gespendet haben – damit sie nie vergessen werden.",
-      "url": "https://www.zeit.de/gesundheit/2025-03/koerperspende-medizinstudium-anatomie-leiche-lehre",
-      "image_url": "https://img.zeit.de/gesundheit/2025-04/koerperspende-medizinstudium-anatomie-12/super__430x286",
-      "image_title": "Körperspende: Mein Herz in eurer Hand"
-    },
-    {
-      "title": "Körperspende: Das sieht sonst nur, wer Medizin studiert",
-      "teaser": "Im Präpariersaal zergliedern Medizinstudierende Leichen. Wir haben sie monatelang begleitet: von der Angst vorm ersten Schnitt bis zum Begräbnis ihres Körperspenders.",
-      "url": "https://www.zeit.de/gesundheit/2025-04/medizinstudium-praepkurs-koerperspende-dokumentation",
-      "image_url": "https://img.zeit.de/gesundheit/2025-04/praepsaal-doku-gundlachs/wide__892x501",
-      "image_title": "Körperspende: Das sieht sonst nur, wer Medizin studiert"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Frauen in der Politik : Der Feminismus darf nicht die letzte Patrone im Machtkampf sein",
       "teaser": "Der Umgang der SPD mit Esken ist hart. Aber wenn Feminismus nur noch strauchelnde Politikerinnen wie sie oder Baerbock in Ämter bringen soll, kann man ihn abschaffen.",
       "url": "https://www.zeit.de/politik/2025-04/frauen-politik-saskia-esken-annalena-baerbock-feminismus",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/frauen-politik-saskia-esken-annalena-baerbock-feminismus-bild/super__430x286",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/frauen-politik-saskia-esken-annalena-baerbock-feminismus-bild/wide__892x501",
       "image_title": "Frauen in der Politik: Der Feminismus darf nicht die letzte Patrone im Machtkampf sein"
     },
     {
-      "title": "Stromausfall: Ein Blackout, den sich keiner erklären kann",
-      "teaser": "Cyberangriff, seltene Phänomene, Solarenergie – was stürzte Spanien und Portugal ins Chaos? Was hinter den Mutmaßungen steckt und warum Deutschlands Strom sicher fließt.",
-      "url": "https://www.zeit.de/wissen/2025-04/blackout-ursache-cyberangriff-solarstrom-notfall-deutschland",
-      "image_url": "https://img.zeit.de/wissen/2025-04/blackout-ursache-cyberangriff-solarstrom-notfall-deutschland-bild/super__430x286",
-      "image_title": "Stromausfall: Mass Electrical Outage - Spain A train parked in the middle of the track due to the blackout in the city of Albacete, on April 28, 2025, in Albacete, Castilla-La Mancha (Spain). An electrical blackout hit Spain, Portugal and part of France at 12:30 a.m. this morning. Without yet knowing the specific causes of the blackout, the power supply is gradually being restored in all regions of the Iberian Peninsula. Some cities and municipalities have been without power for more than 12 hours, and other areas have not yet recovered."
+      "title": "Z+ (abopflichtiger Inhalt); Zwillinge: \"Ab 35 ist die Wahrscheinlichkeit für Zwillinge drei mal so hoch\"",
+      "teaser": "Die Zahl der Zwillingsgeburten steigt. Warum das so ist und mit welchen Risiken Mehrlingsschwangerschaften und -geburten einhergehen, erklärt der Kinderarzt Jörg Dötsch.",
+      "url": "https://www.zeit.de/familie/2025-04/zwillinge-geburten-mehrlinge-kinderarzt-familienrat",
+      "image_url": "https://img.zeit.de/familie/2025-04/zwillinge-geburten-mehrlinge-kinderarzt/wide__892x501",
+      "image_title": "Zwillinge: \"Ab 35 ist die Wahrscheinlichkeit für Zwillinge drei mal so hoch\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hirnforschung • Z+ Empfehlung: Endlich so arbeiten, wie der Kopf es braucht",
+      "teaser": "Viele Menschen sabotieren sich selbst, ignorieren ihr Leistungshoch, arbeiten ineffizient. Zehn Erkenntnisse der Hirnforschung, mit denen man fünfmal produktiver wird",
+      "url": "https://www.zeit.de/arbeit/2025-04/hirnforschung-effizienz-arbeitsplatz-produktivitaet-alltag",
+      "image_url": "https://img.zeit.de/arbeit/2025-04/hirnforschung-effizienz-arbeitsplatz-produktivitaet/super__430x286",
+      "image_title": "Hirnforschung • Z+ Empfehlung: Endlich so arbeiten, wie der Kopf es braucht"
     },
     {
       "title": "Kaschmir-Konflikt: Pakistan rechnet mit indischem Angriff binnen 36 Stunden",
@@ -196,13 +160,6 @@
       "image_title": "Kaschmir-Konflikt: An Indian paramilitary personnel patrols along the banks of Dal Lake in Srinagar on April 28, 2025. Anger in Indian-run Kashmir escalated on April 28 over sweeping detentions in the hunt for the gunmen who killed 26 people on April 22, the worst attack on civilians in contested Muslim-majority Kashmir for a quarter of a century. (Photo by Tauseef MUSTAFA / AFP) (Photo by TAUSEEF MUSTAFA/AFP via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Extremwetter : Sturm, Flut und Hitze",
-      "teaser": "Extreme Wetterereignisse forderten weltweit Hunderttausende Tote, die Schäden sind gewaltig. Eine Bilanz in Grafiken – und ein Blick in die Zukunft",
-      "url": "https://www.zeit.de/2025/17/extremwetter-naturkatastrophen-klimawandel-hitze-flut",
-      "image_url": "https://img.zeit.de/wissen/2025-04/extremwetter-naturkatastrophen-teaser/wide__892x501",
-      "image_title": "Extremwetter: Sturm, Flut und Hitze"
-    },
-    {
       "title": "Huthi-Miliz: Großbritannien greift mutmaßliche Drohnenfabrik der Huthis im Jemen an",
       "teaser": "Laut der britischen Regierung haben Kampfjets einen Gebäudekomplex der Huthi-Miliz attackiert. Offenbar wurden dort Drohnen für Angriffe im Roten Meer hergestellt.",
       "url": "https://www.zeit.de/politik/ausland/2025-04/jemen-huthi-angriff-grossbritannien-usa-drohnenfabrik",
@@ -210,25 +167,81 @@
       "image_title": "Huthi-Miliz: Eurofighter jet fighters from the United Kingdom fly over the North Sea after being refueled by an MRTT aircraft coming from Eindhoven Air Base as part of the NATO exercise \"Ramstein\", near Eindhoven on April 2, 2025. (Photo by Sem van der Wal / ANP / AFP) / Netherlands OUT (Photo by SEM VAN DER WAL/ANP/AFP via Getty Images)"
     },
     {
-      "title": "Zollstreit: Senat bestätigt David Perdue als neuen US-Botschafter in China",
-      "teaser": "Die Beziehung zu China sei die größte diplomatische Herausforderung des 21. Jahrhunderts, sagt der künftige US-Botschafter. Er fordert eine strategische Herangehensweise.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/zollstreit-usa-china-neuer-botschafter-david-perdue",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/zollstreit-usa-china-neuer-botschafter-david-perdue-bild-2/super__430x286",
-      "image_title": "Zollstreit: WASHINGTON, DC - APRIL 03: David Perdue, nominee to serve as the U.S. Ambassador to China testifies during his Senate Foreign Relations Committee confirmation hearing in the Dirksen Senate Office Building on April 03, 2025 in Washington, DC. David Perdue was a Republican Senator of Georgia from 2015-2021 who lost re-election in 2022. (Photo by Kayla Bartkowski/Getty Images)"
+      "title": "Stromausfall: Ein Blackout, den sich keiner erklären kann",
+      "teaser": "Cyberangriff, seltene Phänomene, Solarenergie – was stürzte Spanien und Portugal ins Chaos? Was hinter den Mutmaßungen steckt und warum Deutschlands Strom sicher fließt.",
+      "url": "https://www.zeit.de/wissen/2025-04/blackout-ursache-cyberangriff-solarstrom-notfall-deutschland",
+      "image_url": "https://img.zeit.de/wissen/2025-04/blackout-ursache-cyberangriff-solarstrom-notfall-deutschland-bild/super__430x286",
+      "image_title": "Stromausfall: Mass Electrical Outage - Spain A train parked in the middle of the track due to the blackout in the city of Albacete, on April 28, 2025, in Albacete, Castilla-La Mancha (Spain). An electrical blackout hit Spain, Portugal and part of France at 12:30 a.m. this morning. Without yet knowing the specific causes of the blackout, the power supply is gradually being restored in all regions of the Iberian Peninsula. Some cities and municipalities have been without power for more than 12 hours, and other areas have not yet recovered."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ePA: Was Sie zum Start der elektronischen Patientenakte wissen müssen",
-      "teaser": "Als Prestigeprojekt angekündigt, wegen Sicherheitsproblemen verschoben. Nun startet die digitale Patientenakte. Sind die Probleme behoben? Die wichtigsten Antworten",
-      "url": "https://www.zeit.de/digital/datenschutz/2025-04/epa-digitalisierung-nutzung-app-gesundheitssystem-faq",
-      "image_url": "https://img.zeit.de/digital/2025-04/epa-digitalisierung-nutzung-app-gesundheitssystem-faq-bild/super__430x286",
-      "image_title": "ePA: Was Sie zum Start der elektronischen Patientenakte wissen müssen"
+      "title": "Diese Woche in der ZEIT: Ein Land verlernt das Lesen",
+      "teaser": "Schüler, Studierende, sogar angehende Lehrkräfte haben zunehmend Mühe, längere Texte zu erfassen. Das hat Folgen – nicht nur für das Gehirn",
+      "url": "https://www.zeit.de/2025/18/index?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2025/18/printbox/super__430x286",
+      "image_title": "Diese Woche in der ZEIT: Ein Land verlernt das Lesen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Viktoriia Roshchyna : Sie kam Putins Foltersystem zu nah",
-      "teaser": "Die Journalistin Viktoriia Roshchyna wollte aufdecken, wie Russland ukrainische Zivilisten an geheimen Orten festsetzt und misshandelt. Dann verschwand sie selbst.",
-      "url": "https://www.zeit.de/2025/18/viktoriia-roshchyna-journalistin-ukraine-russland-tod",
-      "image_url": "https://img.zeit.de/2025/18/zu-nah-dran-bild-1/wide__892x501",
-      "image_title": "Viktoriia Roshchyna: Schon 2022 war Viktoriia Roshchyna bei einer Recherche verhaftet worden"
+      "title": "Z+ (abopflichtiger Inhalt); Wahlen in Wien: Bleibt Wien wirklich einfach Wien?",
+      "teaser": "Bei der Wahl hält die SPÖ ihre Bastion an der Donau. Und sieht dafür über alle Probleme der Stadt hinweg.",
+      "url": "https://www.zeit.de/2025/18/wahlen-wien-ergebnis-spoe-oesterreich",
+      "image_url": "https://img.zeit.de/2025/18/bleibt-wien-wirklich-einfach-wien-bild-1/super__430x286",
+      "image_title": "Wahlen in Wien: Das Wien, über das die Stadtpolitik gern redet: Blick auf das Schloss Schönbrunn"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Emmentaler Käse: Emmentaler bleibt Emmentaler",
+      "teaser": "Der Schweizer Nationalkäse drohte, seine Löcher zu verlieren. Jetzt hat das Bundesverwaltungsgericht ihn gerettet.",
+      "url": "https://www.zeit.de/2025/17/emmentaler-kaese-loecherschwund-verunreinigung-schweiz-heublumenpulver",
+      "image_url": "https://img.zeit.de/2025/17/3007-bild-2/super__430x286",
+      "image_title": "Emmentaler Käse: BU: Das Pflichtenheft für die Emmentaler-Produktion schreibt eine »regelmäßige, saubere, runde bis leicht ovale Lochung, mehrheitlich 2 bis 3 cm groß« explizit vor. ++++++++++<br /> Mandatory Credit: Photo by Stefan Klein/imageBROKER/Shutterstock (14997086e) Emmental cheese Various 24bcbcbbda"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Jasmin Wagner: \"Alle meine Träume haben sich erfüllt. Das kann man so stehen lassen\"",
+      "teaser": "Die Neunziger erleben ein Comeback und mit ihnen die Songs der Technopop-Queen Blümchen. Trotzdem will sie bald nicht mehr auftreten.",
+      "url": "https://www.zeit.de/2025/18/jasmin-wagner-bluemchen-technopop-hamburg-neunziger",
+      "image_url": "https://img.zeit.de/2025/18/nabelpiercing-haette-ich-gern-gehabt-teaserbild/super__430x286",
+      "image_title": "Jasmin Wagner: Jasmin Wagner alias Blümchen, 45, in Ihrer Hamburger Wohnung ++++++++<br/> Die Sängerin Jasmin Wagner, auch bekannt als Blümchen., fotografiert am14.04.2025 in ihrer Wohung in Hamburg."
+    },
+    {
+      "title": "Champions League: Paris setzt sich im Halbfinalhinspiel gegen Arsenal durch",
+      "teaser": "Paris Saint-Germain hat das erste Spiel im Halbfinale der Champions League gegen den FC Arsenal gewonnen. Das Rückspiel findet in der kommenden Woche statt.",
+      "url": "https://www.zeit.de/sport/2025-04/champions-league-psg-arsenal-halbfinale",
+      "image_url": "https://img.zeit.de/sport/2025-04/champions-league-psg-ousmane-dembele/super__430x286",
+      "image_title": "Champions League: Fußball: Champions League, FC Arsenal - Paris Saint-Germain, K.o.-Runde, Halbfinale, Hinspiele, Emirates Stadium. Torschütze Ousmane Dembele von Paris Saint Germain feiert den ersten Treffer seiner Mannschaft. Service +++ dpa-Bildfunk +++ Aufnahmedatum 29.04.2025 Bildnachweis picture alliance/dpa/PA Wire | Adam Davy"
+    },
+    {
+      "title": "Antonio Rüdiger: Spanischer Verband sperrt Antonio Rüdiger für sechs Spiele",
+      "teaser": "Nach seinem Wutausbruch beim spanischen Pokalfinale muss Antonio Rüdiger sechs Spiele aussetzen. Wegen einer Verletzung fällt der Abwehrspieler ohnehin vorerst aus.",
+      "url": "https://www.zeit.de/sport/2025-04/spanien-antonio-ruediger-sperre-real-madrid",
+      "image_url": "https://img.zeit.de/sport/2025-04/antonio-ruediger-spanien-sperrung-spiele/super__430x286",
+      "image_title": "Antonio Rüdiger: Antonio Rüdiger von Real Madrid spricht vor Pressevertretern beim Real Madrid Open Media Day. Real Madrid spielt am Samstag (01.06.2024) im Champions-League-Finale in London gegen Borussia Dortmund. Service +++ dpa-Bildfunk +++ Aufnahmedatum 27.05.2024 Bildnachweis picture alliance/dpa/ZUMA Press Wire | Alberto Gardin"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Antonio Rüdiger: Rüdiger und die Apostel",
+      "teaser": "Antonio Rüdiger verliert die Fassung und das Fußballland fragt, was sich ein Nationalspieler erlauben darf und was nicht. Aber was wird hier wirklich verhandelt?",
+      "url": "https://www.zeit.de/sport/2025-04/antonio-ruediger-debatte-dfb",
+      "image_url": "https://img.zeit.de/sport/2025-04/antonio-ruediger-debatte/super__430x286",
+      "image_title": "Antonio Rüdiger: Rüdiger und die Apostel"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kaiserschnitt: Viel mehr als nur ein schneller Schnitt",
+      "teaser": "Etwa ein Drittel aller Babys kommt per Kaiserschnitt zur Welt. Aber vielen Frauen sind die Risiken der OP-Geburt nicht bekannt. Manche werden unwissentlich unfruchtbar.",
+      "url": "https://www.zeit.de/familie/2025-04/kaiserschnitt-geburt-risiken-medizin-operation",
+      "image_url": "https://img.zeit.de/familie/2025-04/kaiserschnitt-geburt-risiken-medizin/super__430x286",
+      "image_title": "Kaiserschnitt: Viel mehr als nur ein schneller Schnitt"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kosten für Kinder: So setzen Sie Ihre Kinder von der Steuer ab",
+      "teaser": "Kinder großzuziehen, kostet viel Geld. Aber viele Ausgaben lassen sich absetzen. Auf diese Punkte sollten Sie achten – gerade, wenn Ihr Kind älter wird.",
+      "url": "https://www.zeit.de/wirtschaft/2025-04/kosten-kinder-steuern-absetzen-betreuungskosten-kinderfreibeitraege",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-04/kosten-kinder-steuern-absetzen-betreuungskosten-kinderfreibeitraege-bild/super__430x286",
+      "image_title": "Kinder groß zu ziehen, geht in die Hunderttausende. Vom Staat gibt es für Eltern daher Geld bei der Steuer zurück."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Mythos Lerntyp: Warum Lerntypen ein Mythos sind – und was wirklich beim Lernen hilft",
+      "teaser": "Die Einteilung nach Lerntypen, ob visuell, auditiv oder haptisch, kann sogar nachteilig für Kinder sein. Die Forschung weiß, was das Lernen viel wirksamer verbessert.",
+      "url": "https://www.zeit.de/wissen/2025-04/mythos-lerntyp-lernen-studien-tipps-methoden",
+      "image_url": "https://img.zeit.de/wissen/2025-04/lerntypen-visuelles-auditives-lernen-bild/super__430x286",
+      "image_title": "Mythos Lerntyp: by Brian Finke/Connected Archives"
     },
     {
       "title": "Russland: Putin gibt Flughafen von Wolgograd zusätzlich den Namen Stalingrad",
@@ -236,27 +249,6 @@
       "url": "https://www.zeit.de/politik/ausland/2025-04/wolgograd-flughafen-umbenennung-stalingrad",
       "image_url": "https://img.zeit.de/politik/ausland/2025-04/wolgograd-flughafen-umbenennung-stalingrad-bild/super__430x286",
       "image_title": "Russland: Putin gibt Flughafen von Wolgograd zusätzlich den Namen Stalingrad"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sport als Selbstoptimierung: Sie machen Sport, um länger zu leben? Schade",
-      "teaser": "Trainingspläne, Blutwerte, Longevity: Für viele ist Sport der zu bewältigende Pflichtteil einer größeren Idee – Selbstoptimierung. Dabei geht das Wichtigste verloren.",
-      "url": "https://www.zeit.de/sport/2025-04/sport-selbstoptimierung-hobby-spass-freizeit-pflicht",
-      "image_url": "https://img.zeit.de/sport/2025-04/sport-selbstoptimierung-hobby-spass-2/super__430x286",
-      "image_title": "Sport als Selbstoptimierung: Sie machen Sport, um länger zu leben? Schade"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Lebenseinstellung: Das Leuchten in unseren Augen",
-      "teaser": "Das Leben einfach so laufen lassen? Kann attraktiv klingen, ist am Ende aber alles andere als erfüllend. Wer es bewusst leben will, sollte vor allem eins beherzigen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-04/leben-einstellung-intensitaet-alltag-erfahrungen",
-      "image_url": "https://img.zeit.de/zeit-verlag/2025-04/zeit-magazin-leben-2025-04-leben-einstellung-intensitaet-alltag-erfahrungen-bild/super__430x286",
-      "image_title": "Lebenseinstellung: Das Leuchten in unseren Augen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Russische Rüstungsbranche: Wie Russlands Rüstungsindustrie den Westen überholt hat",
-      "teaser": "Russische Waffenvorräte aus der Sowjetära leeren sich. Doch die Produktion von modernem Gerät wächst. Experten kommen zu alarmierenden Schätzungen.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/russische-ruestungsbranche-produktion-waffensysteme-drohne",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/russische-ruestungsbranche-produktion-waffensysteme-drohne-bild/super__430x286",
-      "image_title": "Russische Rüstungsbranche: MOSCOW, RUSSIA - MAY 5: (RUSSIA OUT) Russian armored military vehicles Phoenix arrive during the main rehearsals of the military parade, in the Red Square on May 5, 2024. More than 9,000 participants and 70 military vehicles and planes are expected to attend the Red Square Victory Day Parade, scheduled for May 9."
     },
     {
       "title": "Folge 50: Pendlerpauschale: gerecht oder umweltschädlich?",
@@ -329,60 +321,18 @@
       "image_title": "Folge 45: Was Sie über ein Handyverbot an Schulen denken"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlen in Wien: Bleibt Wien wirklich einfach Wien?",
-      "teaser": "Bei der Wahl hält die SPÖ ihre Bastion an der Donau. Und sieht dafür über alle Probleme der Stadt hinweg.",
-      "url": "https://www.zeit.de/2025/18/wahlen-wien-ergebnis-spoe-oesterreich",
-      "image_url": "https://img.zeit.de/2025/18/bleibt-wien-wirklich-einfach-wien-bild-1/super__430x286",
-      "image_title": "Wahlen in Wien: Das Wien, über das die Stadtpolitik gern redet: Blick auf das Schloss Schönbrunn"
+      "title": "Z+ (abopflichtiger Inhalt); Gehalt als Kellnerin: \"Jeden Tag setze ich meine Gute-Laune-Maske auf\"",
+      "teaser": "Huch, warum haben die es so eilig? Die Kellnerin Julie Baron sieht Gäste manchmal sehr schnell aufstehen und verschwinden. Sie weiß inzwischen: aus Scham",
+      "url": "https://www.zeit.de/arbeit/2025-04/gehalt-kellnerin-trinkgeld-freundlichkeit-service-belastung",
+      "image_url": "https://img.zeit.de/arbeit/2025-04/gehalt-kellnerin-trinkgeld-freundlichkeit-service-belastung-bild/super__430x286",
+      "image_title": "Gehalt als Kellnerin: Julie Baron"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Emmentaler Käse: Emmentaler bleibt Emmentaler",
-      "teaser": "Der Schweizer Nationalkäse drohte, seine Löcher zu verlieren. Jetzt hat das Bundesverwaltungsgericht ihn gerettet.",
-      "url": "https://www.zeit.de/2025/17/emmentaler-kaese-loecherschwund-verunreinigung-schweiz-heublumenpulver",
-      "image_url": "https://img.zeit.de/2025/17/3007-bild-2/super__430x286",
-      "image_title": "Emmentaler Käse: BU: Das Pflichtenheft für die Emmentaler-Produktion schreibt eine »regelmäßige, saubere, runde bis leicht ovale Lochung, mehrheitlich 2 bis 3 cm groß« explizit vor. ++++++++++<br /> Mandatory Credit: Photo by Stefan Klein/imageBROKER/Shutterstock (14997086e) Emmental cheese Various 24bcbcbbda"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jasmin Wagner: \"Alle meine Träume haben sich erfüllt. Das kann man so stehen lassen\"",
-      "teaser": "Die Neunziger erleben ein Comeback und mit ihnen die Songs der Technopop-Queen Blümchen. Trotzdem will sie bald nicht mehr auftreten.",
-      "url": "https://www.zeit.de/2025/18/jasmin-wagner-bluemchen-technopop-hamburg-neunziger",
-      "image_url": "https://img.zeit.de/2025/18/nabelpiercing-haette-ich-gern-gehabt-teaserbild/super__430x286",
-      "image_title": "Jasmin Wagner: Jasmin Wagner alias Blümchen, 45, in Ihrer Hamburger Wohnung ++++++++<br/> Die Sängerin Jasmin Wagner, auch bekannt als Blümchen., fotografiert am14.04.2025 in ihrer Wohung in Hamburg."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Die Nulllinie. Roman aus dem Krieg\": Wer keine Angst hat, ist verrückt",
-      "teaser": "Der schlesische Schriftsteller Szczepan Twardoch hat mit \"Die Nulllinie\" einen grandiosen Roman über den Ukrainekrieg geschrieben. Helden gibt es darin keine.",
-      "url": "https://www.zeit.de/2025/17/die-nulllinie-roman-aus-dem-krieg-szczepan-twardoch-ukraine-soldat",
-      "image_url": "https://img.zeit.de/2025/17/die-nulllinie-roman-aus-dem-krieg-szczepan-twardoch-ukraine-soldat-bild/wide__892x501",
-      "image_title": "\"Die Nulllinie. Roman aus dem Krieg\": Ukrainische Soldaten schießen aus einem Graben in der Nähe der Frontlinie in der Region Donezk (Symbolbild) +++++ Ukrainian servicemen shoot from a trench during a military training exercise near the front line in the Donetsk region, on February 23, 2024, amid the Russian invasion of Ukraine. (Photo by Anatolii STEPANOV / AFP) (Photo by ANATOLII STEPANOV/AFP via Getty Images)"
-    },
-    {
-      "title": "Champions League: Paris setzt sich im Halbfinalhinspiel gegen Arsenal durch",
-      "teaser": "Paris Saint-Germain hat das erste Spiel im Halbfinale der Champions League gegen den FC Arsenal gewonnen. Das Rückspiel findet in der kommenden Woche statt.",
-      "url": "https://www.zeit.de/sport/2025-04/champions-league-psg-arsenal-halbfinale",
-      "image_url": "https://img.zeit.de/sport/2025-04/champions-league-psg-ousmane-dembele/super__430x286",
-      "image_title": "Champions League: Fußball: Champions League, FC Arsenal - Paris Saint-Germain, K.o.-Runde, Halbfinale, Hinspiele, Emirates Stadium. Torschütze Ousmane Dembele von Paris Saint Germain feiert den ersten Treffer seiner Mannschaft. Service +++ dpa-Bildfunk +++ Aufnahmedatum 29.04.2025 Bildnachweis picture alliance/dpa/PA Wire | Adam Davy"
-    },
-    {
-      "title": "Antonio Rüdiger: Spanischer Verband sperrt Antonio Rüdiger für sechs Spiele",
-      "teaser": "Nach seinem Wutausbruch beim spanischen Pokalfinale muss Antonio Rüdiger sechs Spiele aussetzen. Wegen einer Verletzung fällt der Abwehrspieler ohnehin vorerst aus.",
-      "url": "https://www.zeit.de/sport/2025-04/spanien-antonio-ruediger-sperre-real-madrid",
-      "image_url": "https://img.zeit.de/sport/2025-04/antonio-ruediger-spanien-sperrung-spiele/super__430x286",
-      "image_title": "Antonio Rüdiger: Antonio Rüdiger von Real Madrid spricht vor Pressevertretern beim Real Madrid Open Media Day. Real Madrid spielt am Samstag (01.06.2024) im Champions-League-Finale in London gegen Borussia Dortmund. Service +++ dpa-Bildfunk +++ Aufnahmedatum 27.05.2024 Bildnachweis picture alliance/dpa/ZUMA Press Wire | Alberto Gardin"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Podcast \"Alles gesagt\" – vorab hören mit Abo: Philipp Westermeyer, wie wird man Online Marketing Rockstar?",
-      "teaser": "Der Gründer des OMR-Festivals erklärt im unendlichen Podcast, warum er Elon Musk noch immer einladen würde. Und er prognostiziert der KI-Wirtschaft ein \"Tal der Tränen\".",
-      "url": "https://www.zeit.de/digital/2025-04/philipp-westermeyer-interviewpodcast-alles-gesagt",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-04/philipp-westermeyer-alles-gesagt-podcast-aufmacherfoto/square__500x500",
-      "image_title": "Podcast \"Alles gesagt\" – vorab hören mit Abo: Philipp Westermeyer, wie wird man Online Marketing Rockstar?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hirnforschung: Endlich so arbeiten, wie der Kopf es braucht",
+      "title": "Z+ (abopflichtiger Inhalt); Hirnforschung • Z+ Empfehlung: Endlich so arbeiten, wie der Kopf es braucht",
       "teaser": "Viele Menschen sabotieren sich selbst, ignorieren ihr Leistungshoch, arbeiten ineffizient. Zehn Erkenntnisse der Hirnforschung, mit denen man fünfmal produktiver wird",
       "url": "https://www.zeit.de/arbeit/2025-04/hirnforschung-effizienz-arbeitsplatz-produktivitaet-alltag",
       "image_url": "https://img.zeit.de/arbeit/2025-04/hirnforschung-effizienz-arbeitsplatz-produktivitaet/super__430x286",
-      "image_title": "Hirnforschung: Endlich so arbeiten, wie der Kopf es braucht"
+      "image_title": "Hirnforschung • Z+ Empfehlung: Endlich so arbeiten, wie der Kopf es braucht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pflegekräfte: \"Hier werden Machtstrukturen in einer Familie offensichtlich\"",
@@ -429,11 +379,11 @@
       "url": "https://www.zeit.de/politik/deutschland/2025-04/koalitionsvertrag-spd-mitglieder-abstimmung-schwarz-rote-koalition"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lerntricks: So tricksen Sie Ihr Gedächtnis aus",
-      "teaser": "Songzeilen, Spielzüge und endokrine Achsen: Ein Musiker, eine E-Sportlerin und ein Gynäkologe verraten, mit welchen Tricks sie sich merken, was unmöglich scheint.",
-      "url": "https://www.zeit.de/campus/ratgeber/2025/01/lerntricks-tipps-studium-musik-ennio",
-      "image_url": "https://img.zeit.de/campus/2025-04/anna-hofmann-illu-2/wide__892x501",
-      "image_title": "Lerntricks: So tricksen Sie Ihr Gedächtnis aus"
+      "title": "Z+ (abopflichtiger Inhalt); \"Die Nulllinie. Roman aus dem Krieg\": Wer keine Angst hat, ist verrückt",
+      "teaser": "Der schlesische Schriftsteller Szczepan Twardoch hat mit \"Die Nulllinie\" einen grandiosen Roman über den Ukrainekrieg geschrieben. Helden gibt es darin keine.",
+      "url": "https://www.zeit.de/2025/17/die-nulllinie-roman-aus-dem-krieg-szczepan-twardoch-ukraine-soldat",
+      "image_url": "https://img.zeit.de/2025/17/die-nulllinie-roman-aus-dem-krieg-szczepan-twardoch-ukraine-soldat-bild/wide__892x501",
+      "image_title": "\"Die Nulllinie. Roman aus dem Krieg\": Ukrainische Soldaten schießen aus einem Graben in der Nähe der Frontlinie in der Region Donezk (Symbolbild) +++++ Ukrainian servicemen shoot from a trench during a military training exercise near the front line in the Donetsk region, on February 23, 2024, amid the Russian invasion of Ukraine. (Photo by Anatolii STEPANOV / AFP) (Photo by ANATOLII STEPANOV/AFP via Getty Images)"
     },
     {
       "title": "Verlagsangebot: Diese sieben Klassiker der Weltliteratur sollten Sie gelesen haben",
@@ -443,18 +393,18 @@
       "image_title": "Freunde der ZEIT: Diese sieben Klassiker der Weltliteratur sollten Sie gelesen haben"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Körperspende: Mein Herz in eurer Hand",
-      "teaser": "An Toten lernen Medizinstudierende das Leben kennen. Von Menschen, die ihren Körper gespendet haben – damit sie nie vergessen werden.",
-      "url": "https://www.zeit.de/gesundheit/2025-03/koerperspende-medizinstudium-anatomie-leiche-lehre",
-      "image_url": "https://img.zeit.de/gesundheit/2025-04/koerperspende-medizinstudium-anatomie-20/super__430x286",
-      "image_title": "Körperspende: Mein Herz in eurer Hand"
+      "title": "Z+ (abopflichtiger Inhalt); Extremwetter : Sturm, Flut und Hitze",
+      "teaser": "Extreme Wetterereignisse forderten weltweit Hunderttausende Tote, die Schäden sind gewaltig. Eine Bilanz in Grafiken – und ein Blick in die Zukunft",
+      "url": "https://www.zeit.de/2025/17/extremwetter-naturkatastrophen-klimawandel-hitze-flut",
+      "image_url": "https://img.zeit.de/wissen/2025-04/extremwetter-naturkatastrophen-teaser/super__430x286",
+      "image_title": "Extremwetter: Sturm, Flut und Hitze"
     },
     {
-      "title": "Europaparlament: Manfred Weber bleibt Chef der Europäischen Volkspartei",
-      "teaser": "Mit einer Mehrheit von 89 Prozent wurde Manfred Weber beim EVP-Kongress in Valencia wiedergewählt. Damit bleibt er der Parteichef der größten Fraktion im Europaparlament.",
-      "url": "https://www.zeit.de/politik/ausland/2025-04/manfred-weber-evp-chef-wiederwahl-europaparlament",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-04/europaeische-volkspartei-manfred-weber/wide__892x501",
-      "image_title": "Europaparlament: EPP Group leader Manfred Weber (R) poses for a selfie during the European People's Party (EPP) congress in Valencia on April 29, 2025. (Photo by JOSE JORDAN / AFP) (Photo by JOSE JORDAN/AFP via Getty Images)"
+      "title": "Zollstreit: Senat bestätigt David Perdue als neuen US-Botschafter in China",
+      "teaser": "Die Beziehung zu China sei die größte diplomatische Herausforderung des 21. Jahrhunderts, sagt der künftige US-Botschafter. Er fordert eine strategische Herangehensweise.",
+      "url": "https://www.zeit.de/politik/ausland/2025-04/zollstreit-usa-china-neuer-botschafter-david-perdue",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/zollstreit-usa-china-neuer-botschafter-david-perdue-bild-2/wide__892x501",
+      "image_title": "Zollstreit: WASHINGTON, DC - APRIL 03: David Perdue, nominee to serve as the U.S. Ambassador to China testifies during his Senate Foreign Relations Committee confirmation hearing in the Dirksen Senate Office Building on April 03, 2025 in Washington, DC. David Perdue was a Republican Senator of Georgia from 2015-2021 who lost re-election in 2022. (Photo by Kayla Bartkowski/Getty Images)"
     },
     {
       "title": "Verlagsangebot: Quiz: Die spinnen, die Briten!",
@@ -464,11 +414,11 @@
       "image_title": "Quiz: Die spinnen, die Briten!"
     },
     {
-      "title": "Schwarz-rote Koalition: Politikjournalist Stefan Kornelius wird Regierungssprecher",
-      "teaser": "Mit Stefan Kornelius hat Friedrich Merz einen Sprecher für seine Regierung gefunden. Der Journalist leitete bislang das Politikressort der \"Süddeutschen Zeitung\".",
-      "url": "https://www.zeit.de/politik/deutschland/2025-04/stefan-kornelius-schwarz-rot-regierungssprecher",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/regierung-sprecher-stefan-kornelius/super__430x286",
-      "image_title": "Schwarz-rote Koalition: Das undatierte Handout zeigt Stefan Kornelius, Ressortleiter Politik der Süddeutschen Zeitung. Kornelius wird Sprecher der neuen Bundesregierung"
+      "title": "Europaparlament: Manfred Weber bleibt Chef der Europäischen Volkspartei",
+      "teaser": "Mit einer Mehrheit von 89 Prozent wurde Manfred Weber beim EVP-Kongress in Valencia wiedergewählt. Damit bleibt er der Parteichef der größten Fraktion im Europaparlament.",
+      "url": "https://www.zeit.de/politik/ausland/2025-04/manfred-weber-evp-chef-wiederwahl-europaparlament",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/europaeische-volkspartei-manfred-weber/super__430x286",
+      "image_title": "Europaparlament: EPP Group leader Manfred Weber (R) poses for a selfie during the European People's Party (EPP) congress in Valencia on April 29, 2025. (Photo by JOSE JORDAN / AFP) (Photo by JOSE JORDAN/AFP via Getty Images)"
     },
     {
       "title": "The Metals Company: Kanadischer Konzern will erstmals Rohstoffe in der Tiefsee abbauen",
@@ -485,11 +435,11 @@
       "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Handelskonflikt: Adidas erhöht wegen Trumps Zollpolitik Preise in den USA",
-      "teaser": "Adidas produziert fast komplett außerhalb der USA. Wegen Trumps Einfuhrzöllen kündigt der Sportartikelhersteller nun Preiserhöhungen an. Das sei \"unvermeidlich\".",
-      "url": "https://www.zeit.de/wirtschaft/2025-04/handelskrieg-adidas-zoelle-preiserhoehung",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-04/adidas-usa-zoelle-hoehere-preise-shop/super__430x286",
-      "image_title": "Handelskonflikt: MIAMI, FLORIDA - APRIL 04: A customer shops in an Adidas store on April 04, 2025 in Miami, Florida. Germany’s Adidas stock has slumped nearly 12 percent since U.S. President Donald Trump enacted tariffs. Vietnam is its largest sourcing country, accounting for 27 percent of the firm’s volume last year. U.S. President Donald Trump declared a U.S. economic emergency and announced sweeping tariffs of at least 10%, with rates even higher for 60 countries that have a high trade deficit with the U.S. The tariffs will affect electronics, automobiles, clothing and shoes, wines and spirits, and Swiss watches. (Photo by Joe Raedle/Getty Images)"
+      "title": "Liveblog:US-Zölle: US-Konsumklima sinkt auf den niedrigsten Stand seit 13 Jahren",
+      "teaser": "Infolge der Zollpolitik Donald Trumps wächst in den USA die Sorge vor einer Inflation. Die Stimmung unter den Verbrauchern sinkt merklich. Das Liveblog",
+      "url": "https://www.zeit.de/wirtschaft/boerse/2025-04/us-zoelle-boerse-aktien-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-04/us-zoelle-boerse-aktien-liveblog-konsumklima/super__430x286",
+      "image_title": "US-Zölle: People shop in a supermarket in the Manhattan borough of New York City on February 20, 2025. (Photo by CHARLY TRIBALLEAU / AFP) (Photo by CHARLY TRIBALLEAU/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vermögen: \"Die Bauern wissen, wie viel Gold man für ein Schwein verlangen kann\"",
@@ -506,18 +456,18 @@
       "image_title": "Änderungen im Mai 2025: Das neue Namensrecht tritt in Kraft, Microsoft schaltet Skype ab"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gehalt als Kellnerin: \"Jeden Tag setze ich meine Gute-Laune-Maske auf\"",
-      "teaser": "Huch, warum haben die es so eilig? Die Kellnerin Julie Baron sieht Gäste manchmal sehr schnell aufstehen und verschwinden. Sie weiß inzwischen: aus Scham",
-      "url": "https://www.zeit.de/arbeit/2025-04/gehalt-kellnerin-trinkgeld-freundlichkeit-service-belastung",
-      "image_url": "https://img.zeit.de/arbeit/2025-04/gehalt-kellnerin-trinkgeld-freundlichkeit-service-belastung-bild/wide__892x501",
-      "image_title": "Gehalt als Kellnerin: Julie Baron"
+      "title": "Z+ (abopflichtiger Inhalt); Führung: Wie Vorgesetzte lernen, ihrem Team zu vertrauen",
+      "teaser": "Etliche Führungskräfte kontrollieren jeden Arbeitsschritt ihrer Teams. Wie Mikromanagement sich auf Mitarbeitende auswirkt – und was diese für mehr Freiheit tun können.",
+      "url": "https://www.zeit.de/arbeit/2025-04/fuehrung-chef-kontrolle-angestellte-arbeitsplatz",
+      "image_url": "https://img.zeit.de/arbeit/2025-04/fuehrung-chef-kontrolle-angestellte/wide__892x501",
+      "image_title": "Führung: Wie Vorgesetzte lernen, ihrem Team zu vertrauen"
     },
     {
-      "title": "Führungskräfte: Wie entscheiden Sie, wer befördert wird?",
-      "teaser": "Manche im Team leisten mehr, als von ihnen verlangt wird, andere erfüllen kaum die Mindestanforderungen. Erzählen Sie uns, wie Sie als Führungskraft damit umgehen.",
-      "url": "https://www.zeit.de/arbeit/2025-04/fuehrungskraefte-befoerderung-kriterien-mitarbeitende-aufruf",
-      "image_url": "https://img.zeit.de/arbeit/2025-04/fuehrungskraefte-befoerderung-kriterien-mitarbeitende/super__430x286",
-      "image_title": "Führungskräfte: Wie entscheiden Sie, wer befördert wird?"
+      "title": "Z+ (abopflichtiger Inhalt); Gehalt als Friseur: \"Die erzählen von ihrem Reichtum, abgeben wollen sie davon nichts\"",
+      "teaser": "Trinkgeld hat immer etwas mit Haltung zu tun, sagt der Friseur Thomas Higman. Hier erzählt er, wie viel Extrageld er angemessen findet – und was völlig dreist.",
+      "url": "https://www.zeit.de/arbeit/2025-04/gehalt-friseur-thomas-higman-trinkgeld-einkommen-kunden",
+      "image_url": "https://img.zeit.de/arbeit/2025-04/gehalt-friseur-thomas-higman-trinkgeld-einkommen-kunden-bild/super__430x286",
+      "image_title": "Gehalt als Friseur: Friseur Thomas Higman, Hamburg, April 2025"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pflegekräfte: \"Hier werden Machtstrukturen in einer Familie offensichtlich\"",
@@ -569,6 +519,13 @@
       "image_title": "Podcast \"Die Lügnerin\" (1/4): Eine junge Frau versucht, ihre Familie zu vernichten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Podcast \"Alles gesagt\" – vorab hören mit Abo: Philipp Westermeyer, wie wird man Online Marketing Rockstar?",
+      "teaser": "Der Gründer des OMR-Festivals erklärt im unendlichen Podcast, warum er Elon Musk noch immer einladen würde. Und er prognostiziert der KI-Wirtschaft ein \"Tal der Tränen\".",
+      "url": "https://www.zeit.de/digital/2025-04/philipp-westermeyer-interviewpodcast-alles-gesagt",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-04/philipp-westermeyer-alles-gesagt-podcast-aufmacherfoto/super__320x213",
+      "image_title": "Podcast \"Alles gesagt\" – vorab hören mit Abo: Philipp Westermeyer, wie wird man Online Marketing Rockstar?"
+    },
+    {
       "title": "Warum denken Sie das?: \"Ich glaube nicht, dass mehr Waffen Frieden schaffen\"",
       "teaser": "Patrick Sensburg, Oberst der Reserve, findet Aufrüstung dringend nötig. Die Publizistin Bascha Mika fürchtet die Militarisierung. Können sie einander verstehen?",
       "url": "https://www.zeit.de/politik/deutschland/2025-04/aufruestung-militaer-debatte-warum-denken-sie-das-podcast",
@@ -581,13 +538,6 @@
       "url": "https://www.zeit.de/wissen/geschichte/2025-04/thomas-mann-schriftsteller-nationalsozialismus-geschichte-podcast",
       "image_url": "https://img.zeit.de/wissen/geschichte/2025-04/thomas-mann-schirfsteller-nationalsozialismus-geschichte-podcast-bild/super__320x213",
       "image_title": "Geschichtspodacst: Portrait of Thomas Mann (1875-1955), circa 1910. Private Collection. Artist Anonymous. (Photo by Fine Art Images/Heritage Images/Getty Images)"
-    },
-    {
-      "title": "Wirtschaftspodcast \"Ist das eine Blase?\": \"Sie unterstützen etwas, das zum Tod von Menschen führt\"",
-      "teaser": "Panzer, Drohnen, Flugzeuge: Deutschland rüstet auf, die Kurse der Rüstungskonzerne steigen. Zeit für ein Gespräch mit einem Finanzethiker: Darf man daran mitverdienen?",
-      "url": "https://www.zeit.de/wirtschaft/2025-04/wirtschaftspodcast-ruestungsaktien-investieren-ethik",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-04/wirtschaftspodcast-ruestungsaktien-ethik-1/super__320x213",
-      "image_title": "Wirtschaftspodcast \"Ist das eine Blase?\": Ist es ethisch vertretbar, in Rüstungsaktien zu investieren?"
     },
     {
       "title": "USA: 100 Tage Trump, 10 Schicksale",
@@ -660,18 +610,18 @@
       "image_title": "Edek Bartz: BU: Edek Bartz mit Patti Smith, Wien 1976 ++++++++++<br /> Credits und Bildinfos, s. Druckfahne !!!"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ukraine: Die Krim als Beute",
+      "teaser": "Die Ukraine war historisch oft ein Spielball der Großmächte – und ist es heute wieder. Denn Trumps Friedensdeal ist nichts anderes als eine Übereinkunft zur Plünderung.",
+      "url": "https://www.zeit.de/kultur/2025-04/ukraine-geopolitik-ressourcen-weltmaechte-friedensverhandlungen",
+      "image_url": "https://img.zeit.de/kultur/2025-04/ukraine-geopolitik-ressourcen-weltmaechte/super__430x286",
+      "image_title": "Ukraine: Die Krim als Beute"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sachbuch-Bestenliste: Die Sachbuch-Bestenliste für Mai",
       "teaser": "Von der Vermögensverteilung in Deutschland über die Entstehung der indoeuropäischen Sprachen bis zum Wohnen heute: Hier sind die wichtigsten Sachbücher des Monats.",
       "url": "https://www.zeit.de/kultur/literatur/2025-04/sachbuch-bestenliste-weltpolitik-geschichte-belletristik",
       "image_url": "https://img.zeit.de/kultur/literatur/2025-04/sachbuchbestenliste-april-2025/super__430x286",
       "image_title": "Sachbuchbestenliste April 2025"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Der Meister und Margarita\": Putins Propagandisten hassen diesen Film",
-      "teaser": "Michail Bulgakows Roman \"Der Meister und Margarita\" wurde verfilmt – und in Russland zu einem großen Erfolg. Warum man ihn auch hierzulande unbedingt anschauen sollte.",
-      "url": "https://www.zeit.de/2025/17/der-meister-und-margarita-film-russland-michail-bulgakows-roman",
-      "image_url": "https://img.zeit.de/2025/17/die-groesste-suende-ist-die-feigheit-bild-1/super__430x286",
-      "image_title": "\"Der Meister und Margarita\": August Diehl spielt in Michael Lockshins Verfilmung die Teufelsfigur – und quält fiese Apparatschiks"
     },
     {
       "title": "Deutscher Wetterdienst: Frühling in Deutschland ist außergewöhnlich trocken",
@@ -737,31 +687,38 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/edition-neuanfaenge.jpg/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Körperspende: Mein Herz in eurer Hand",
+      "teaser": "An Toten lernen Medizinstudierende das Leben kennen. Von Menschen, die ihren Körper gespendet haben – damit sie nie vergessen werden.",
+      "url": "https://www.zeit.de/gesundheit/2025-03/koerperspende-medizinstudium-anatomie-leiche-lehre",
+      "image_url": "https://img.zeit.de/gesundheit/2025-04/koerperspende-medizinstudium-anatomie-20/wide__892x501",
+      "image_title": "Körperspende: Mein Herz in eurer Hand"
+    },
+    {
+      "title": "Körperspende: Das sieht sonst nur, wer Medizin studiert",
+      "teaser": "Im Präpariersaal zergliedern Medizinstudierende Leichen. Wir haben sie monatelang begleitet: von der Angst vorm ersten Schnitt bis zum Begräbnis ihres Körperspenders.",
+      "url": "https://www.zeit.de/gesundheit/2025-04/medizinstudium-praepkurs-koerperspende-dokumentation",
+      "image_url": "https://img.zeit.de/gesundheit/2025-04/praepsaal-doku-gundlachs/super__430x286",
+      "image_title": "Körperspende: Das sieht sonst nur, wer Medizin studiert"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Gesundheitsministerium: Warum Nina Warken?",
       "teaser": "Sie hat keinerlei Expertise und kaum Erfahrung. Nun soll Nina Warken Gesundheitsministerin werden – und damit eines der kompliziertesten Ministerien leiten.",
       "url": "https://www.zeit.de/gesundheit/2025-04/gesundheitsministerium-nina-warken-cdu-bundesregierung-kabinett",
-      "image_url": "https://img.zeit.de/gesundheit/2025-04/gesundheitsministerium-nina-warken-cdu-bundesregierung-kabinett-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/gesundheit/2025-04/gesundheitsministerium-nina-warken-cdu-bundesregierung-kabinett-bild/super__430x286",
       "image_title": "Gesundheitsministerium: Warum Nina Warken?"
     },
     {
-      "title": "ePA: Lauterbach nennt bundesweiten Start von E-Patientenakte \"Zeitenwende\"",
-      "teaser": "Die Testphase ist vorbei, ab Dienstag startet die ePA im ganzen Land. Lauterbach nennt das einen \"überfälligen Wendepunkt\", Patientenschützer kritisieren die Umsetzung.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-04/epa-karl-lauterbach-spd-gesundheitsakte-bundesweit",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-04/bundesgesundheitsminister-karl-lauterbach-start-elektronische-patientenakte-bild/super__430x286",
-      "image_title": "ePA: Karl Lauterbach (SPD), geschäftsführender Bundesgesundheitsminister, gibt ein Pressestatement zum Start für die bundesweite Nutzung der neuen elektronischen Patientenakten (ePA) ab Dienstag, 29. April. +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Belohungssystem: \"Die Dopamin-Neuronen verlangen nach immer mehr\"",
-      "teaser": "Wolfram Schultz entdeckte, wie Dopamin im Gehirn wirkt. Hier verrät er, was man über das Belohnungssystem wissen muss, um dauerhaft mehr Freude zu haben.",
-      "url": "https://www.zeit.de/gesundheit/2025-04/dopamin-neurowissenschaft-sucht-rauchen-wolfram-schultz",
-      "image_url": "https://img.zeit.de/gesundheit/2025-04/dopamin-neurowissenschaft-sucht-rauchen-wolfram-schultz-2/super__430x286",
-      "image_title": "Belohungssystem: \"Die Dopamin-Neuronen verlangen nach immer mehr\""
+      "title": "Z+ (abopflichtiger Inhalt); ePA: Was Sie zum Start der elektronischen Patientenakte wissen müssen",
+      "teaser": "Als Prestigeprojekt angekündigt, wegen Sicherheitsproblemen verschoben. Nun startet die digitale Patientenakte. Sind die Probleme behoben? Die wichtigsten Antworten",
+      "url": "https://www.zeit.de/digital/datenschutz/2025-04/epa-digitalisierung-nutzung-app-gesundheitssystem-faq",
+      "image_url": "https://img.zeit.de/digital/2025-04/epa-digitalisierung-nutzung-app-gesundheitssystem-faq-bild/wide__892x501",
+      "image_title": "ePA: Was Sie zum Start der elektronischen Patientenakte wissen müssen"
     },
     {
       "title": "Cybersicherheit: Hälfte der Internetnutzer verwendet Passwörter mehrfach",
       "teaser": "Dasselbe Passwort für mehrere Seiten zu nutzen, ist gefährlich. Laut einer Umfrage gehen 50 Prozent der Befragten das Risiko jedoch ein.",
       "url": "https://www.zeit.de/digital/2025-04/login-passwoerter-login-umfrage-risiko",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-04/internetnutzer-verwendung-passwoerter-mehrfach-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-04/internetnutzer-verwendung-passwoerter-mehrfach-bild/super__430x286",
       "image_title": "Cybersicherheit: Hälfte der Internetnutzer verwendet Passwörter mehrfach"
     },
     {
@@ -770,13 +727,6 @@
       "url": "https://www.zeit.de/digital/2025-04/amazon-internet-satelliten-all-konkurrenz-starlink",
       "image_url": "https://img.zeit.de/digital/2025-04/amazon-internet-satelliten-all-konkurrenz-starlink-bild/super__430x286",
       "image_title": "Kuiper: Eine Rakete mit 27 Internet-Satelliten von Amazons Projekt Kuiper beim Start in Cape Canaveral."
-    },
-    {
-      "title": "KI-Reallabore: Die Polizei braucht KI, aber nicht Palantir",
-      "teaser": "Ermittler müssen digital arbeiten können. Überwachungssoftware aus den USA aber ist der falsche Weg. Die Regierung muss Experimentierräume für eigene Lösungen schaffen.",
-      "url": "https://www.zeit.de/digital/datenschutz/2025-04/ki-reallabore-polizei-test-forschung-palantir",
-      "image_url": "https://img.zeit.de/digital/datenschutz/2025-04/ki-reallabore-polizei-test-forschung/super__430x286",
-      "image_title": "KI-Reallabore: Die Polizei braucht KI, aber nicht Palantir"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -926,39 +876,39 @@
       "image_title": "Zitronen-Chiffon-Kuchen: Ravneet Gills Zitronen-Chiffon-Torte"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Lerntricks: So tricksen Sie Ihr Gedächtnis aus",
+      "teaser": "Songzeilen, Spielzüge und endokrine Achsen: Ein Musiker, eine E-Sportlerin und ein Gynäkologe verraten, mit welchen Tricks sie sich merken, was unmöglich scheint.",
+      "url": "https://www.zeit.de/campus/ratgeber/2025/01/lerntricks-tipps-studium-musik-ennio",
+      "image_url": "https://img.zeit.de/campus/2025-04/anna-hofmann-illu-2/wide__892x501",
+      "image_title": "Lerntricks: So tricksen Sie Ihr Gedächtnis aus"
+    },
+    {
+      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
+      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
+      "url": "https://studiengaenge.zeit.de/sit",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
+      "image_title": "Nicht nur irgendwas studieren"
+    },
+    {
       "title": "Juristen: Welches Gesetz muss abgeschafft werden?",
       "teaser": "Das haben wir nicht auf der WG-Party, sondern fünf Jura-Studierende für unsere Serie \"Vom Fach\" gefragt.",
       "url": "https://www.zeit.de/campus/2025-04/schwangerschaftsabbrueche-mord-gesetze-abschaffung-juristen",
-      "image_url": "https://img.zeit.de/campus/2025-04/schwangerschaftsabbrueche-mord-gesetze-abschaffung-juristen-teaser/wide__892x501",
+      "image_url": "https://img.zeit.de/campus/2025-04/schwangerschaftsabbrueche-mord-gesetze-abschaffung-juristen-teaser/super__430x286",
       "image_title": "Juristen: Welches Gesetz muss abgeschafft werden?"
-    },
-    {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
-    },
-    {
-      "title": "Universität Harvard : Eine Universität im Widerstand",
-      "teaser": "Die Universität Harvard hat sich gegen die Trump-Regierung gestellt. Auf dem Campus wird das gefeiert. Doch der Kampf hat erst begonnen.",
-      "url": "https://www.zeit.de/2025/17/universitaet-harvard-donald-trump-widerstand-usa-hochschule",
-      "image_url": "https://img.zeit.de/2025/17/im-widerstand-bild-4/super__430x286",
-      "image_title": "Universität Harvard: BU: Die Wissenschaftshistorikerin Naomi Oreskes und Mathias Risse, Leiter des Carr-Zentrums für Menschenrechtspolitik an der Kennedy School in Harvard // die kleinen Portraits aus Print bitte zusätzlich auf Artikelebene einspiegeln ++++++++++<br /> Die Wissenschaftshistorikerin Naomi Oreskes und Mathias Risse, Leiter des Carr-Zentrums für Menschenrechtspolitik an der Kennedy School in Harvard"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Antonio Rüdiger: Rüdiger und die Apostel",
-      "teaser": "Antonio Rüdiger verliert die Fassung und das Fußballland fragt, was sich ein Nationalspieler erlauben darf und was nicht. Aber was wird hier wirklich verhandelt?",
-      "url": "https://www.zeit.de/sport/2025-04/antonio-ruediger-debatte-dfb",
-      "image_url": "https://img.zeit.de/sport/2025-04/antonio-ruediger-debatte/wide__892x501",
-      "image_title": "Antonio Rüdiger: Rüdiger und die Apostel"
     },
     {
       "title": "Fußballeuropameisterschaft der Frauen: DFB-Fußballerinnen könnten bei EM-Titel Rekordprämie einstreichen",
       "teaser": "Der Deutsche Fußball-Bund hat die Titelprämie bei der Frauennationalmannschaft verdoppelt. Jeder nominierten Nationalspielerin winken bei einem EM-Titel 120.000 Euro.",
       "url": "https://www.zeit.de/sport/2025-04/deutscher-fussball-bund-nationalmannschaft-frauen-em-2025-praemie-finale-rekord",
-      "image_url": "https://img.zeit.de/sport/2025-04/dfb-fussballerinnen-bei-em-titel-rekordpraemie/super__430x286",
+      "image_url": "https://img.zeit.de/sport/2025-04/dfb-fussballerinnen-bei-em-titel-rekordpraemie/wide__892x501",
       "image_title": "Fußballeuropameisterschaft der Frauen: Fußball, Frauen: EM-Qualifikation, Deutschland - Österreich, Liga A, Gruppe 4, 6. Spieltag, Heinz von Heiden-Arena. Deutschlands Jule Brand (l) und Torschützin Klara Bühl nach dem 1:0. - Hannover 16.07.2024"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Muskelkater: Das hilft wirklich gegen Muskelkater",
+      "teaser": "Über Muskelkater existieren viele Mythen. Antioxidantien, Dehnen oder Massagepistolen sollen dagegen helfen. Doch nur wer Muskelkater versteht, kann ihm gerecht werden.",
+      "url": "https://www.zeit.de/sport/2025-04/muskelkater-sport-fitness-uebungen-sportmedizin",
+      "image_url": "https://img.zeit.de/sport/2025-04/muskelkater-sport-fitness-uebungen/super__430x286",
+      "image_title": "Muskelkater: Das hilft wirklich gegen Muskelkater"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Universität Hamburg: Es geht hier nicht um den Nahostkonflikt, sagt die Richterin",
@@ -975,36 +925,36 @@
       "image_title": "Katharina Fegebank: Katharina Fegebank: Katharina Fegebank, 48, gilt als pragmatisch und wirtschaftsnah. ############################### Katharina Fegebank (Bündnis 90/Die Grünen), Zweite Bürgermeisterin und Senatorin für Wissenschaft, Forschung und Gleichstellung von Hamburg, sowie Spitzenkandidatin zur Bürgerschaftswahl, steht während eines Besuchs in einer Werkshalle auf dem Moia Hub. Am 2. März wird eine neue Bürgerschaft gewählt."
     },
     {
-      "title": "Stundenlange Sperrung: Sattelzug brennt auf A8 - rund 250.000 Euro Schaden",
-      "url": "https://www.zeit.de/news/2025-04/30/sattelzug-brennt-auf-a8-rund-250-000-euro-schaden"
+      "title": "Landkreis Rottweil: Rund 200.000 Euro Schaden nach Wohnhausbrand",
+      "url": "https://www.zeit.de/news/2025-04/30/rund-200-000-euro-schaden-nach-wohnhausbrand"
     },
     {
-      "title": "Tiere: Ex-Halter von \"Zu verschenken\"-Hund droht Bußgeld",
-      "url": "https://www.zeit.de/news/2025-04/30/ex-halter-von-zu-verschenken-hund-droht-bussgeld"
+      "title": "Fußball-Bundesliga: \"Alles drin\": Keller traut Freiburg Champions League zu",
+      "url": "https://www.zeit.de/news/2025-04/30/alles-drin-keller-traut-freiburg-champions-league-zu"
     },
     {
-      "title": "Rechtsextremismus: Verfassungsschutz beobachtet auch AfD-Landtagsabgeordnete",
-      "url": "https://www.zeit.de/news/2025-04/30/verfassungsschutz-beobachtet-auch-afd-landtagsabgeordnete"
+      "title": "Handy-Entzug im Vatikan: Kardinal Woelki will nach dem Konklave seine Mutter anrufen",
+      "url": "https://www.zeit.de/news/2025-04/30/kardinal-woelki-will-nach-dem-konklave-seine-mutter-anrufen"
     },
     {
-      "title": "Evangelische Kirche: Mit Steinmeier: Kirchentag in Hannover beginnt",
-      "url": "https://www.zeit.de/news/2025-04/30/mit-steinmeier-kirchentag-in-hannover-beginnt"
+      "title": "Entsorgung: Strengere Regeln: Biomüll darf kaum noch Plastik enthalten",
+      "url": "https://www.zeit.de/news/2025-04/30/strengere-regeln-biomuell-darf-kaum-noch-plastik-enthalten"
     },
     {
-      "title": "Gesundheit im Grünen: So schützt man sich gegen Zecken und andere Plagegeister",
-      "url": "https://www.zeit.de/news/2025-04/30/so-schuetzt-man-sich-gegen-zecken-und-andere-plagegeister"
+      "title": "Nach Aktion in Dortmund: EM-Stadionkletterer soll 12.076,93 Euro Polizeikosten zahlen",
+      "url": "https://www.zeit.de/news/2025-04/30/em-stadionkletterer-soll-12-076-93-euro-polizeikosten-zahlen"
     },
     {
-      "title": "Vorfall in Nagold: Rassistisches Gegröle am 1. Mai: Verfahren eingestellt",
-      "url": "https://www.zeit.de/news/2025-04/30/rassistisches-gegroele-am-1-mai-verfahren-eingestellt"
+      "title": "Tariftreuegesetz im Fokus: Zehntausende zu Demos der Gewerkschaften in NRW erwartet",
+      "url": "https://www.zeit.de/news/2025-04/30/zehntausende-zu-demos-der-gewerkschaften-in-nrw-erwartet"
     },
     {
-      "title": "Schwimmen: Freibad-Besuch wird zum Teil teurer - mehr Solarenergie",
-      "url": "https://www.zeit.de/news/2025-04/30/freibad-besuch-wird-zum-teil-teurer-mehr-solarenergie"
+      "title": "Tausende Männer unterwegs: Liebesbotschaft XXL: Die Nacht der Maibäume",
+      "url": "https://www.zeit.de/news/2025-04/30/liebesbotschaft-xxl-die-nacht-der-maibaeume"
     },
     {
-      "title": "Gesundheit: Neues Cannabisgesetz - bereits Hunderte Strafen aufgehoben",
-      "url": "https://www.zeit.de/news/2025-04/30/neues-cannabisgesetz-bereits-hunderte-strafen-aufgehoben"
+      "title": "Neue Fahrbahndecke: Tagelange A52-Sperrung in Richtung Roermond bei Düsseldorf",
+      "url": "https://www.zeit.de/news/2025-04/30/tagelange-a52-sperrung-in-richtung-roermond-bei-duesseldorf"
     }
   ]
 }
