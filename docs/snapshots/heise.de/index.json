@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-02T05:10:47",
+  "timestamp": "2025-05-02T06:14:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,7 +26,23 @@
   ],
   "articles": [
     {
-      "title": "Branchenverband prognostiziert mehr Solarstrom als Braunkohlestrom für 2025",
+      "title": "Neu in .NET 9.0 [19]: EnumerateSplits() für reguläre Ausdrücke",
+      "url": "https://www.heise.de/blog/Neu-in-NET-9-0-19-EnumerateSplits-fuer-regulaere-Ausdruecke-10367247.html"
+    },
+    {
+      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10358785.html"
+    },
+    {
+      "title": "Vor der Einreisekontrolle in den USA: So schützen Sie Smartphone, Laptop und Co.",
+      "url": "https://www.heise.de/ratgeber/Vor-der-Reise-in-die-USA-So-schuetzen-Sie-ihr-Smartphone-Laptop-und-Co-10361670.html"
+    },
+    {
+      "title": "\"Das ist Korruption\": Trump-Firma profitiert von Milliardeninvestment in Binance",
+      "url": "https://www.heise.de/news/Das-ist-Korruption-Trump-Firma-profitiert-von-Milliardeninvestment-in-Binance-10369330.html"
+    },
+    {
+      "title": "Prognose für 2025: Solarstrom überholt Braunkohlestrom",
       "url": "https://www.heise.de/news/Branchenverband-prognostiziert-mehr-Solarstrom-als-Braunkohlestrom-fuer-2025-10369326.html"
     },
     {
@@ -50,22 +66,6 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-guenstige-tablet-bis-300-euro-im-test/wq0c4t9"
     },
     {
-      "title": "Payment per QR-Code: Wie eine Softbank-Tochter sich in Japan durchsetzen will",
-      "url": "https://www.heise.de/hintergrund/Payment-per-QR-Code-Wie-eine-Softbank-Tochter-sich-in-Japan-durchsetzen-will-10329040.html"
-    },
-    {
-      "title": "Photonik-Chip kann KI trainieren",
-      "url": "https://www.heise.de/news/Photonik-Chip-kann-KI-trainieren-10369141.html"
-    },
-    {
-      "title": "Dashboards für Einsteiger in Home Assistant erstellen",
-      "url": "https://www.heise.de/ratgeber/Bereiche-Dashboard-Einsteigerfreundliche-Dashboards-in-Home-Assistant-erstellen-10350771.html"
-    },
-    {
-      "title": "ePA-Sicherheit: BSI hat vor Risiko gewarnt",
-      "url": "https://www.heise.de/news/ePA-Sicherheit-BSI-hatte-vor-Risiko-gewarnt-10369099.html"
-    },
-    {
       "title": "Elektronische PatientenakteBSI hat vor Risiko gewarnt",
       "teaser": "Nachdem erneut Sicherheitslücken bei der ePA bekannt geworden sind, äußert sich nun auch das BSI.",
       "url": "https://www.heise.de/news/ePA-Sicherheit-BSI-hatte-vor-Risiko-gewarnt-10369099.html",
@@ -78,10 +78,9 @@
       "image_title": "Python-Projekt für Zusammenfassungen: Ein Skript fasst per KI einen News-Artikel zusammen und zeigt ihn im Browsertab an."
     },
     {
-      "title": "NavigationVor 25 Jahren gab die US-Regierung GPS frei",
-      "teaser": "Am 1. Mai 2000 entschieden die USA, das zivile GPS-Signal nicht mehr ungenau zu halten. Das revolutionierte die Navigation.",
-      "url": "https://www.heise.de/hintergrund/Vor-25-Jahren-Bill-Clinton-gibt-GPS-frei-10368686.html",
-      "image_title": "Navigation per Smartphone und GPS"
+      "title": "Leichte NachtsichtbrillenFolie pimpt Brillengläser mit Nachtsichtfunktion",
+      "teaser": "Eine dünne Folie aus den Laboren des MIT reagiert auf Wärmestrahlung. Damit sind leichte Nachtsichtbrillen möglich.",
+      "url": "https://www.heise.de/news/Folie-pimpt-Brillenglaeser-mit-Nachtsichtfunktion-10369058.html"
     },
     {
       "title": "Shelly im ÜberblickDas Smart-Home-Ökosystem verstehen und nutzen",
@@ -96,9 +95,10 @@
       "image_title": "Portraitfotos von Chris Krebs und Donald Trump"
     },
     {
-      "title": "Blackout in SpanienWelche Risiken in Deutschland niedriger liegen",
-      "teaser": "Der stundenlange Stromausfall in Spanien wirft die Frage auf, wie zuverlässig die Versorgung in Deutschland ist.",
-      "url": "https://www.heise.de/news/Blackout-Risiken-Einige-in-Deutschland-geringer-als-in-Spanien-10368285.html"
+      "title": "\"Das ist Korruption\"Trump-Firma profitiert von Milliardeninvestment in Binance",
+      "teaser": "Von einer Milliardeninvestition in die Kryptobörse Binance dürfte die Familie des US-Präsidenten finanziell enorm profitieren.",
+      "url": "https://www.heise.de/news/Das-ist-Korruption-Trump-Firma-profitiert-von-Milliardeninvestment-in-Binance-10369330.html",
+      "image_title": "Donald Trump vor US-Flagge"
     },
     {
       "title": "US-UrteilApple steht keine Beteiligung an Web-Käufen aus Apps zu",
@@ -129,10 +129,9 @@
       "image_title": "AirTag-Alternativen"
     },
     {
-      "title": "ÜberwachungDeutsches IP-Catching ist geheimer als geheim",
-      "teaser": "Provider, die Bundesregierung und Strafverfolgungsbehörden halten sich zur umstrittenen Überwachungsmethode IP-Catching bedeckt.",
-      "url": "https://www.heise.de/news/Ueberwachung-Regierung-Ermittler-und-Provider-wollen-IP-Catching-geheim-halten-10366952.html",
-      "image_title": "Künstlerische Darstellung eines auf eine helle Glastür zulaufenden Ganges; an den Seiten sind blaute Lichtstreifen zu sehen, dahinter sind Ziffern angedeutet"
+      "title": "Blackout in SpanienWelche Risiken in Deutschland niedriger liegen",
+      "teaser": "Der stundenlange Stromausfall in Spanien wirft die Frage auf, wie zuverlässig die Versorgung in Deutschland ist.",
+      "url": "https://www.heise.de/news/Blackout-Risiken-Einige-in-Deutschland-geringer-als-in-Spanien-10368285.html"
     },
     {
       "title": "Im TestKonfigurierbare Ethernet-Switches für 2,5 Gbit/s",
@@ -146,15 +145,33 @@
       "image_title": "Deutschlandticket in einer Hand vor einem Bahnwaggon"
     },
     {
+      "title": "NavigationVor 25 Jahren gab die US-Regierung GPS frei",
+      "teaser": "Am 1. Mai 2000 entschieden die USA, das zivile GPS-Signal nicht mehr ungenau zu halten. Das revolutionierte die Navigation.",
+      "url": "https://www.heise.de/hintergrund/Vor-25-Jahren-Bill-Clinton-gibt-GPS-frei-10368686.html",
+      "image_title": "Navigation per Smartphone und GPS"
+    },
+    {
+      "title": "Wegen TrumpMicrosoft expandiert in Europa und verspricht mehr Resilienz",
+      "teaser": "Viele europäische Kunden haben das Vertrauen in digitale Produkte aus den USA verloren. Microsoft will nun in Europa investieren.",
+      "url": "https://www.heise.de/news/Wegen-Trump-Microsoft-expandiert-in-Europa-und-verspricht-mehr-Resilienz-10368956.html",
+      "image_title": "Microsoft office building"
+    },
+    {
+      "title": "ÜberwachungDeutsches IP-Catching ist geheimer als geheim",
+      "teaser": "Provider, die Bundesregierung und Strafverfolgungsbehörden halten sich zur umstrittenen Überwachungsmethode IP-Catching bedeckt.",
+      "url": "https://www.heise.de/news/Ueberwachung-Regierung-Ermittler-und-Provider-wollen-IP-Catching-geheim-halten-10366952.html",
+      "image_title": "Künstlerische Darstellung eines auf eine helle Glastür zulaufenden Ganges; an den Seiten sind blaute Lichtstreifen zu sehen, dahinter sind Ziffern angedeutet"
+    },
+    {
+      "title": "Pandas und MatplotlibIn Excel komplexe Berechnungen mit Python durchführen",
+      "teaser": "Mit Python lassen sich in Excel große Datenmengen einfach analysieren. Mit der Copilot-KI lässt sich Code erzeugen.",
+      "url": "https://www.heise.de/ratgeber/Pandas-und-Matplotlib-In-Excel-komplexe-Berechnungen-mit-Python-durchfuehren-10335320.html"
+    },
+    {
       "title": "Jetzt formellTSMC darf in den USA keine Chips mit modernster Technik fertigen",
       "teaser": "Die taiwanische Regierung erneuert ihr \"Gesetz zur industriellen Innovation\". Es geht explizit um TSMCs Chipfertigung im Ausland.",
       "url": "https://www.heise.de/news/Taiwan-schraenkt-formell-TSMCs-Investitionen-im-Ausland-ein-10365993.html",
       "image_title": "Silizium-Wafer in der Produktion"
-    },
-    {
-      "title": "GlasfaserausbauDeutschland bleibt absehbar DSL-Land",
-      "teaser": "Die Wettbewerber der Telekom investieren erneut weniger in den Netzausbau, während der Bonner Riese Strecke macht.",
-      "url": "https://www.heise.de/news/Glasfaserausbau-Deutschland-bleibt-absehbar-DSL-Land-10366500.html"
     },
     {
       "title": "CybersicherheitZerodays sind überwiegend staatlichen Akteuren zu verdanken",
@@ -163,30 +180,34 @@
       "image_title": "T-Shirt mit Aufschrift \"All you need is love, all you get is 0day\""
     },
     {
-      "title": "Pandas und MatplotlibIn Excel komplexe Berechnungen mit Python durchführen",
-      "teaser": "Mit Python lassen sich in Excel große Datenmengen einfach analysieren. Mit der Copilot-KI lässt sich Code erzeugen.",
-      "url": "https://www.heise.de/ratgeber/Pandas-und-Matplotlib-In-Excel-komplexe-Berechnungen-mit-Python-durchfuehren-10335320.html"
-    },
-    {
       "title": "Elektronische PatientenakteSo funktioniert die ePA-App für Versicherte",
       "teaser": "Die elektronische Patientenakte soll befüllt werden. Wie Sie sich selbst einen Überblick verschaffen können.",
       "url": "https://www.heise.de/ratgeber/Elektronische-Patientenakte-So-funktioniert-die-ePA-App-fuer-Versicherte-10367620.html",
       "image_title": "Smartphone mit Telemedizin-App"
     },
     {
-      "title": "Asteroid VestaAus einem Planeten herausgeschlagen?",
-      "teaser": "Bislang ist man davon ausgegangen, dass Vesta ein Protoplanet ist und etwa einen Kern hat. Dem widersprechen Messdaten.",
-      "url": "https://www.heise.de/news/Aus-einem-Planeten-herausgeschlagen-Ueberraschender-Befund-zu-Asteroid-Vesta-10367491.html",
-      "image_title": "Von KRatern übersäter Asteroid"
+      "title": "Neu in .NET 9.0 [19]: EnumerateSplits() für reguläre Ausdrücke",
+      "teaser": "Die neue Methode zum Aufteilen von Zeichenketten vermeidet Speicherallokationen.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-9-0-19-EnumerateSplits-fuer-regulaere-Ausdruecke-10367247.html"
     },
     {
-      "title": "Zusammenhang zum Blackout in Spanien?Mehrere Orte in Grönland seit Montag offline",
-      "teaser": "Nicht nur in Spanien und Portugal ist am Montag die Kommunikation zusammengebrochen, sondern auch in Teilen Grönlands.",
-      "url": "https://www.heise.de/news/Moeglicher-Zusammenhang-zum-Blackout-in-Spanien-Mehrere-Orte-in-Groenland-offline-10366328.html",
-      "image_title": "Siedlung auf Grönland"
+      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+      "teaser": "SSO und Multifaktor-Authentifizierung - Mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10358785.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
-      "title": "Branchenverband prognostiziert mehr Solarstrom als Braunkohlestrom für 2025",
+      "title": "Kostenloses KI-Programm erweckt Ideen zum Leben",
+      "teaser": "Wer mit KI-Unterstützung wachsen will, aber fachliche Beratung braucht, kann beim Programm „AI Business Innovation Sprint“ mitmachen. Von den teilnehmenden Teams wird das Beste am 5. Juni geehrt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966631612&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Vor der Einreisekontrolle in den USA: So schützen Sie Smartphone, Laptop und Co.",
+      "teaser": "Fliegen Sie bald in die USA? Dann sollten Sie sich darauf vorbereiten, dass Grenzbeamte Ihre elektronischen Geräte durchsuchen. So schützen Sie Ihre Daten.",
+      "url": "https://www.heise.de/ratgeber/Vor-der-Reise-in-die-USA-So-schuetzen-Sie-ihr-Smartphone-Laptop-und-Co-10361670.html"
+    },
+    {
+      "title": "Prognose für 2025: Solarstrom überholt Braunkohlestrom",
       "teaser": "In Deutschland soll der Anteil der Stromproduktion durch Solarmodule den Anteil des Stroms, der durch Braunkohleverbrennung erzeugt wird, erstmals übersteigen.",
       "url": "https://www.heise.de/news/Branchenverband-prognostiziert-mehr-Solarstrom-als-Braunkohlestrom-fuer-2025-10369326.html",
       "image_title": "Installateure montieren ein Modul eine Photovoltaik-Anlage"
@@ -196,11 +217,6 @@
       "teaser": "Im c't-Datenschutz-Podcast erörtern Dr. Stefan Brink, Holger Bleich und Joerg Heidrich die Zukunft des Datentransfers zwischen EU und USA.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-133-Transatlantisches-Daten-Sturmtief-10368319.html",
       "image_title": "Dr. Stefan Brink (oben links), Joerg Heidrich (oben rechts) und Holger Bleich (unten)"
-    },
-    {
-      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
-      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Freitag: Xbox-Spiele & -Konsolen teurer, BSI-Beschwichtigung zur ePA-Sicherheit",
@@ -219,22 +235,6 @@
       "teaser": "Die empfohlenen Verkaufspreise der Xbox-Spielkonsolen und -Controller wurden am 1. Mai angezogen. Zum Weihnachtsgeschäft erwartet Microsoft auch teurere Spiele.",
       "url": "https://www.heise.de/news/Microsoft-erhoeht-Preise-fuer-Xbox-Konsolen-und-Zubehoer-auch-Spiele-bald-teurer-10369302.html",
       "image_title": "Schwarzer Xbox-Controller"
-    },
-    {
-      "title": "Top 10: Das beste günstige Tablet bis 300 Euro – Xiaomi ist Testsieger",
-      "teaser": "Ein günstiges Tablet bietet nahezu alles, was man zur mobilen Unterhaltung auf der Couch benötigt. Wir zeigen die besten Geräte bis 300 Euro.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-guenstige-tablet-bis-300-euro-im-test/wq0c4t9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Payment per QR-Code: Wie eine Softbank-Tochter sich in Japan durchsetzen will",
-      "teaser": "In China zahlen die meisten Menschen per AliPay und WeChat Pay – und nutzen dabei die japanische QR-Code-Technik. Dort bläst Anbieter PayPay zur Aufholjagd.",
-      "url": "https://www.heise.de/hintergrund/Payment-per-QR-Code-Wie-eine-Softbank-Tochter-sich-in-Japan-durchsetzen-will-10329040.html",
-      "image_title": "PayPay-QR-Code in einem japanischen Restaurant"
-    },
-    {
-      "title": "Photonik-Chip kann KI trainieren",
-      "teaser": "An der University of Pennsylvania haben Forscher einen programmierbaren photonischen KI-Chip entwickelt, der neuronale Netze energiesparend trainieren kann.",
-      "url": "https://www.heise.de/news/Photonik-Chip-kann-KI-trainieren-10369141.html"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -303,14 +303,25 @@
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
     },
     {
+      "title": "Top 10: Das beste günstige Tablet bis 300 Euro – Xiaomi ist Testsieger",
+      "teaser": "Ein günstiges Tablet bietet nahezu alles, was man zur mobilen Unterhaltung auf der Couch benötigt. Wir zeigen die besten Geräte bis 300 Euro.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-guenstige-tablet-bis-300-euro-im-test/wq0c4t9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Payment per QR-Code: Wie eine Softbank-Tochter sich in Japan durchsetzen will",
+      "teaser": "In China zahlen die meisten Menschen per AliPay und WeChat Pay – und nutzen dabei die japanische QR-Code-Technik. Dort bläst Anbieter PayPay zur Aufholjagd.",
+      "url": "https://www.heise.de/hintergrund/Payment-per-QR-Code-Wie-eine-Softbank-Tochter-sich-in-Japan-durchsetzen-will-10329040.html",
+      "image_title": "PayPay-QR-Code in einem japanischen Restaurant"
+    },
+    {
+      "title": "Photonik-Chip kann KI trainieren",
+      "teaser": "An der University of Pennsylvania haben Forscher einen programmierbaren photonischen KI-Chip entwickelt, der neuronale Netze energiesparend trainieren kann.",
+      "url": "https://www.heise.de/news/Photonik-Chip-kann-KI-trainieren-10369141.html"
+    },
+    {
       "title": "Dashboards für Einsteiger in Home Assistant erstellen",
       "teaser": "Mit dem Bereiche-Dashboard können auch Anfänger ihr Smart Home schnell und ansehnlich visualisieren. Wir zeigen, wie das geht.",
       "url": "https://www.heise.de/ratgeber/Bereiche-Dashboard-Einsteigerfreundliche-Dashboards-in-Home-Assistant-erstellen-10350771.html"
-    },
-    {
-      "title": "Folie pimpt Brillengläser mit Nachtsichtfunktion",
-      "teaser": "Eine dünne Folie aus den Laboren des MIT reagiert auf Wärmestrahlung. Damit sind leichte Nachtsichtbrillen möglich oder neue Sensoren für Autofahrten im Nebel.",
-      "url": "https://www.heise.de/news/Folie-pimpt-Brillenglaeser-mit-Nachtsichtfunktion-10369058.html"
     },
     {
       "title": "Intel verliert seinen Vertriebsvorstand an Kuka",
@@ -345,12 +356,6 @@
       "url": "https://www.heise.de/news/Sonderheft-c-t-Hacking-Selbst-einsteigen-von-Profis-lernen-10366234.html"
     },
     {
-      "title": "Wegen Trump: Microsoft expandiert in Europa und verspricht mehr Resilienz",
-      "teaser": "Viele europäische Kunden haben durch Trump das Vertrauen in digitale Produkte aus den USA verloren. Microsoft will nun ordentlich in Europa investieren.",
-      "url": "https://www.heise.de/news/Wegen-Trump-Microsoft-expandiert-in-Europa-und-verspricht-mehr-Resilienz-10368956.html",
-      "image_title": "Microsoft office building"
-    },
-    {
       "title": "So geht's: Einfamilienhaus mit PV-Anlage vermieten",
       "teaser": "Modelle von ganz simpel bis komplexer: Will man ein Haus mit PV-Anlage vermieten, braucht man einen guten Draht zum Mieter und muss Prioritäten setzen.",
       "url": "https://www.heise.de/ratgeber/So-geht-s-Einfamilienhaus-mit-PV-Anlage-vermieten-10297608.html"
@@ -368,15 +373,15 @@
       "image_title": "Mountainbiker im Wald"
     },
     {
+      "title": "APIs effektiv absichern - Bedrohungen und Gegenmaßnahmen",
+      "teaser": "APIs sind das Herzstück moderner Anwendungen - und damit auch beliebtes Angriffsziel. Im Live-Webcast am 15.5. um 11 Uhr erläutert Sven Müller von Radware die wichtigsten Risiken und effektive Schutzmaßnahmen.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/geschaeftskritische-apis-effektiv-absichern-aktuelle-bedrohungen-und-gegenmassnahmen-4908/?source=hbsad-ersatz"
+    },
+    {
       "title": "iX-Workshop: Vom ersten KI-Projekt zur KI-Transformation",
       "teaser": "Erfolgreiche KI-Projekte: Wie Sie mit der richtigen Strategie und einer internen KI-Taskforce die KI-Transformation in Ihrem Unternehmen vorantreiben.",
       "url": "https://www.heise.de/news/iX-Workshop-Vom-ersten-KI-Projekt-zur-KI-Transformation-10358759.html",
       "image_title": "iX-Workshop IT-Governance planen und implementieren"
-    },
-    {
-      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
-      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
     },
     {
       "title": "Generierte Onlineshops: KI täuscht Kunden mit falschen Rabatten und Rezensionen",
@@ -430,12 +435,6 @@
       "image_title": "Wafer mit Meteor-Lake-Dies"
     },
     {
-      "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im Mai 2025",
-      "teaser": "Netflix zeigt im Mai die 4. Staffel von \"Love, Death & Robots\". Bei Amazon läuft \"King's Land\" und Disney+ bringt \"Star Wars: Geschichten der Unterwelt\".",
-      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-Mai-2025-10368384.html",
-      "image_title": "Screenshot zeigt einen Roboter mit roten Ringen als Augen"
-    },
-    {
       "title": "Afrinic-Krise zwingt zu Reform der globalen IP-Adressverwaltung",
       "url": "https://www.heise.de/news/Afrinic-Krise-zwingt-zu-Reform-der-globalen-IP-Adressverwaltung-10367363.html",
       "image_title": "Server mit Netzwerkkabeln"
@@ -451,6 +450,11 @@
       "image_title": "Die Kamera ist von vorn zu sehen. Man sieht einen Blitz und ein kleines Objektiv. Das Gehäuse ist schwarz und 3D-gedruckt. Es sieht sehr wie eine klassische Kamera aus."
     },
     {
+      "title": "Aus einem Planeten herausgeschlagen? – Überraschender Befund zu Asteroid Vesta",
+      "url": "https://www.heise.de/news/Aus-einem-Planeten-herausgeschlagen-Ueberraschender-Befund-zu-Asteroid-Vesta-10367491.html",
+      "image_title": "Von KRatern übersäter Asteroid"
+    },
+    {
       "title": "Hugging Face legt Baupläne für 100 US-Dollar teuren KI-Roboterarm offen",
       "url": "https://www.heise.de/news/Hugging-Face-legt-Bauplaene-fuer-100-US-Dollar-teuren-KI-Roboterarm-offen-10365489.html",
       "image_title": "Die fertig aufgebauten Roboterarme von Hugging Face."
@@ -459,11 +463,6 @@
       "title": "Weltraumteleskop James Webb: Bislang klarster Hinweis auf außerirdisches Leben",
       "url": "https://www.heise.de/news/Auf-riesiger-Wasserwelt-Bislang-eindeutigster-Hinweis-auf-ausserirdisches-Leben-10355034.html",
       "image_title": "Ein Wasserplanet vor einem kleinen roten Stern"
-    },
-    {
-      "title": "UpdateFragwürdiges KI-Experiment auf Reddit: Massive Kritik an Forschungsgruppe",
-      "url": "https://www.heise.de/news/Unerwuenschtes-KI-Experiment-auf-Reddit-Massive-Kritik-an-Forschungsgruppe-10365507.html",
-      "image_title": "Reddit-Logo auf Smartphone"
     },
     {
       "title": "iPhone-Umzug nach Indien: China macht es Apple schwer",
@@ -481,6 +480,11 @@
       "image_title": "Oneplus 13T in mehreren Farben"
     },
     {
+      "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im Mai 2025",
+      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-Mai-2025-10368384.html",
+      "image_title": "Screenshot zeigt einen Roboter mit roten Ringen als Augen"
+    },
+    {
       "title": "2025: Diese Produkte stehen auf Apples Release-Liste für dieses Jahr",
       "url": "https://www.heise.de/news/Uebersicht-Diese-Apple-Produkte-fuer-2025-koennten-noch-kommen-10364501.html",
       "image_title": "Tim Cook bei einer Produktvorstellung im September 2022"
@@ -488,11 +492,6 @@
     {
       "title": "20 Jahre Hommingberger Gepardenforelle – die besten KI-Bilder zum Jubiläum",
       "url": "https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-die-besten-KI-Bilder-zum-Jubilaeum-10363957.html"
-    },
-    {
-      "title": "Chromecast mit Google TV – aber nicht von Google",
-      "url": "https://www.heise.de/news/Chromecast-mit-Google-TV-aber-nicht-von-Google-10365889.html",
-      "image_title": "Thomson Cast 150 mit Fernseher verbunden"
     },
     {
       "title": "\"Wette niemals gegen Elon\": Letzte Kredite von Twitter-Übernahme verkauft",
@@ -602,21 +601,22 @@
       "url": "https://www.heise.de/en/news/Meta-AI-Sexting-in-voice-mode-with-John-Cena-and-Judi-Dench-10364053.html"
     },
     {
-      "title": "Starker Antrieb für E-Mountainbikes: Bosch stellt Performance Line CX-R vor",
-      "teaser": "Der Performance Line CX-R ist die Rennversion des CX-Motors von Bosch. Allerdings wird auch das Grundmodell auf Wunsch nachträglich stärker.",
-      "url": "https://www.heise.de/news/Bosch-Performance-Line-CX-R-Mehr-Power-fuer-E-Mountainbikes-10368216.html",
-      "image_title": "Mountainbiker im Wald"
-    },
-    {
       "title": "Auslegungssache 133: Transatlantisches Daten-Sturmtief",
       "teaser": "Im c't-Datenschutz-Podcast erörtern Dr. Stefan Brink, Holger Bleich und Joerg Heidrich die Zukunft des Datentransfers zwischen EU und USA.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-133-Transatlantisches-Daten-Sturmtief-10368319.html",
       "image_title": "Dr. Stefan Brink (oben links), Joerg Heidrich (oben rechts) und Holger Bleich (unten)"
     },
     {
-      "title": "Idle Games im Test: Spielend nichts tun und entspannen",
-      "teaser": "Zwischen Spiel und Bildschirmschoner ist eine neue Nische entstanden. Hier leben minimalistische Softwaretitel, die ein bisschen Leben auf den Desktop bringen.",
-      "url": "https://www.heise.de/tests/Idle-Games-im-Test-Spielend-nichts-tun-und-entspannen-10328288.html"
+      "title": "Wie europäische Staaten ihre Abhängigkeit von Microsoft reduzieren wollen",
+      "teaser": "Trump treibt europäische Regierungen zu Microsoft-Alternativen: Was Deutschland, Frankreich, Dänemark, die Niederlande, die Schweiz und Österreich planen.",
+      "url": "https://www.heise.de/hintergrund/Wie-europaeische-Staaten-ihre-Abhaengigkeit-von-Microsoft-reduzieren-wollen-10365345.html",
+      "image_title": ", KI, Collage c't"
+    },
+    {
+      "title": "Starker Antrieb für E-Mountainbikes: Bosch stellt Performance Line CX-R vor",
+      "teaser": "Der Performance Line CX-R ist die Rennversion des CX-Motors von Bosch. Allerdings wird auch das Grundmodell auf Wunsch nachträglich stärker.",
+      "url": "https://www.heise.de/news/Bosch-Performance-Line-CX-R-Mehr-Power-fuer-E-Mountainbikes-10368216.html",
+      "image_title": "Mountainbiker im Wald"
     },
     {
       "title": "Gute EinstellungVersteckte Apple-Watch-Funktionen finden und einsetzen",
@@ -693,6 +693,12 @@
       "url": "https://www.heise.de/hintergrund/Raus-aus-der-US-Cloud-Souveraene-SaaS-Angebote-im-Ueberblick-10342483.html"
     },
     {
+      "title": "Schnell, schick und günstigSport-Motorrad CFMoto 675 SR-R aus China im Test",
+      "teaser": "CFMoto ist mehr als nur ein Auftragsfertiger für KTM in China. Seine Eigenentwicklung 675 SR-R fährt noch schneller als sie aussieht. Der Preis: unschlagbar.",
+      "url": "https://www.heise.de/tests/Sport-Motorrad-CFMoto-675-SR-R-aus-China-im-Test-Schnell-schick-und-guenstig-10362638.html",
+      "image_title": "CFMoto 675 SR-R"
+    },
+    {
       "title": "UpdateStrom aus der SäuleLadetarife für Elektroautos im Vergleich",
       "teaser": "Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr.",
       "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
@@ -708,12 +714,6 @@
       "teaser": "Toyota will zusammen mit der Google-Firma Waymo autonom fahrende Autos entwickeln, die auch privaten Autokäufern angeboten werden sollen.",
       "url": "https://www.heise.de/news/Autonomes-Fahren-Toyota-und-Waymo-wollen-gemeinsame-Plattform-entwickeln-10367308.html",
       "image_title": "Waymo"
-    },
-    {
-      "title": "Kompakt-SUV von StellantisCitroën C5 Aircross als Hybrid, PHEV und E-Auto",
-      "teaser": "Citroën bringt Ende 2025 den C5 Aircross heraus. Auf Stellantis' Kompakt-SUV-Basis bietet er mehr Platz, ein Glasschiebedach und als E-Auto 680 km Reichweite.",
-      "url": "https://www.heise.de/news/Vorstellung-Kompakt-SUV-Citroen-C5-Aircross-kommt-als-Hybrid-PHEV-und-E-Auto-10366677.html",
-      "image_title": "Citroën C5 Aircross"
     },
     {
       "title": "KI-Weiterbildung: Dieser Prompt erstellt dir deinen Fahrplan",
@@ -751,22 +751,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Kuscht die ARD vor rechten Tendenzen?",
-      "teaser": "Umstrittene Reportagen und Vorwurf der Anbiederung: Beobachter sehen die Unabhängigkeit des ÖRR in Gefahr. Wohin driftet der öffentlich-rechtliche Rundfunk?",
-      "url": "https://www.heise.de/tp/features/Kuscht-die-ARD-vor-rechten-Tendenzen-10367127.html",
-      "image_title": "ARD-Mikrofon, deutlich zu erkennen, vor undeutlich zu erkennenden Hosenbeinen"
+      "title": "Tödliche Einsamkeit: Warum soziale Isolation gefährlicher ist als Rauchen",
+      "teaser": "Fehlende Kontakte können die Gesundheit massiv schädigen. Studien zeigen: Einsamkeit ist so gefährlich wie starkes Rauchen.",
+      "url": "https://www.heise.de/tp/features/Toedliche-Einsamkeit-Warum-soziale-Isolation-gefaehrlicher-ist-als-Rauchen-10367083.html",
+      "image_title": "Ein Medikament wird von einer Hand über eine Braunglasflasche in eine andere getröpfelt"
     },
     {
-      "title": "Vom Acker zum Fließband: Was ist eigentlich gute Arbeit?",
-      "teaser": "Von Zivilisations- bis zu Wachstumskritikern heißt es, dass es in Industriegesellschaften keine gute Arbeit gibt. Warum das Gegenteil stimmt.",
-      "url": "https://www.heise.de/tp/features/Vom-Acker-zum-Fliessband-Was-ist-eigentlich-gute-Arbeit-10368927.html",
-      "image_title": "Roboter-Fließband für Elektroautos mit Digitalisierungskonzept."
+      "title": "Bitcoin: Notenbanker warnen vor Risiken für Finanzstabilität",
+      "teaser": "Bitcoin und andere Kryptowährungen stehen zunehmend in der Kritik. Bei Europas Zentralbanken wächst die Sorge vor Gefahren für Anleger und Märkte.",
+      "url": "https://www.heise.de/tp/features/Bitcoin-Notenbanker-warnen-vor-Risiken-fuer-Finanzstabilitaet-10367413.html",
+      "image_title": "Golden Bitcoin Cryptocurrency Concept mit schwimmenden Münzen und digitalem Technologiehintergrund"
     },
     {
-      "title": "Die Iden des Merz: 14 Stimmen entscheiden über die Kanzlerschaft",
-      "teaser": "Über den Rubikon: Was passiert eigentlich, wenn Friedrich Merz bei der Kanzlerwahl durchfällt? Jens Spahn wäre der perfekte Brutus. Vier Szenarien. Kommentar.",
-      "url": "https://www.heise.de/tp/features/Die-Iden-des-Merz-14-Stimmen-entscheiden-ueber-die-Kanzlerschaft-10367316.html",
-      "image_title": "Christdemokraten in einer Reihe, ganz links Merz, ganz rechts Spahn"
+      "title": "Adipositas: Stress und Lebenskrisen treiben Gewichtszunahme voran",
+      "teaser": "Fettleibigkeit entsteht oft in Schüben, nicht schleichend. Stress und Lebenskrisen sind Haupttreiber. Doch wie können wir uns davor schützen?",
+      "url": "https://www.heise.de/tp/features/Adipositas-Stress-und-Lebenskrisen-treiben-Gewichtszunahme-voran-10369093.html",
+      "image_title": "Übergewichtiger Mann hält sein Bauchfett und ist geschockt."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
