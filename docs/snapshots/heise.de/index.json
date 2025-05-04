@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-04T09:09:40",
+  "timestamp": "2025-05-04T10:09:17",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Warren Buffett zieht sich mit 94 als Chef von Berkshire Hathaway zurück",
+      "url": "https://www.heise.de/news/Warren-Buffett-zieht-sich-mit-94-als-Chef-von-Berkshire-Hathaway-zurueck-10370805.html"
+    },
     {
       "title": "Monitor kaufen: Was Foto-, Videografen, Texter und Gamer beachten sollten",
       "url": "https://www.heise.de/ratgeber/Monitor-kaufen-Was-Foto-Videografen-Texter-und-Gamer-beachten-sollten-10352877.html"
@@ -60,10 +64,6 @@
     {
       "title": "US-Zölle auf Autoteile treten in Kraft",
       "url": "https://www.heise.de/news/US-Zoelle-auf-Autoteile-treten-in-Kraft-10370662.html"
-    },
-    {
-      "title": "Ladetarife für Elektroautos im Vergleich",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
     },
     {
       "title": "Missing LinkPressefreiheit – Kein Auskunftsgesetz für Bundesbehörden",
@@ -190,20 +190,26 @@
       "url": "https://www.heise.de/news/Der-Stand-der-Technik-bei-Monitoren-und-Dockingstationen-c-t-uplink-10368992.html"
     },
     {
+      "title": "Warren Buffett zieht sich mit 94 als Chef von Berkshire Hathaway zurück",
+      "teaser": "Investoren-Legende Warren Buffet will sich von der Spitze seiner Holding zurückziehen. Der Nachfolger hat große Schuhe zu füllen.",
+      "url": "https://www.heise.de/news/Warren-Buffett-zieht-sich-mit-94-als-Chef-von-Berkshire-Hathaway-zurueck-10370805.html",
+      "image_title": "Der Berkshire Hathaway-Schriftzug an einem Gebäude."
+    },
+    {
       "title": "Monitor kaufen: Was Foto-, Videografen, Texter und Gamer beachten sollten",
       "teaser": "Monitorkauf ist angesichts der vielen Modelle und Angebote kompliziert. Mit unseren Tipps finden Sie das passende Gerät für Ihre Anwendung.",
       "url": "https://www.heise.de/ratgeber/Monitor-kaufen-Was-Foto-Videografen-Texter-und-Gamer-beachten-sollten-10352877.html"
+    },
+    {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iX-Workshop: Exchange Migration – von Exchange OnPrem zu Exchange Online",
       "teaser": "So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.",
       "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-von-Exchange-OnPrem-zu-Exchange-Online-10358811.html",
       "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
-    },
-    {
-      "title": "Kostenloses KI-Programm erweckt Ideen zum Leben",
-      "teaser": "Wer mit KI-Unterstützung wachsen will, aber fachliche Beratung braucht, kann beim Programm „AI Business Innovation Sprint“ mitmachen. Von den teilnehmenden Teams wird das Beste am 5. Juni geehrt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966631612&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Retrogames ohne Emulation auf PCs starten",
@@ -231,12 +237,6 @@
       "title": "Be Quiets Gaming-Tastatur Light Mount im Test: Leise beim Zocken und im Büro",
       "teaser": "Mit der Light Mount liefert Be Quiet eine günstigere Alternative zur Dark Mount. Weniger modular, aber genauso präzise und leise beim Schreiben. Wir bringen Licht ins Dunkel und zeigen, wie sie sich im Gesamtpaket schlägt.",
       "url": "https://www.heise.de/bestenlisten/testbericht/be-quiet-light-mount-im-test/y739wm4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "US-Zölle auf Autoteile treten in Kraft",
-      "teaser": "Aluminium, Stahl, Autos – und nun Autoteile: US-Präsident Trump hat auf die Einfuhr diverser Waren Zölle verhängt. Es gibt kleine Erleichterungen.",
-      "url": "https://www.heise.de/news/US-Zoelle-auf-Autoteile-treten-in-Kraft-10370662.html",
-      "image_title": "Donald Trump gehend und klatschend; im Hintergrund eine enorme US-Fahne, dahinter rostbraune Container"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -303,6 +303,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "US-Zölle auf Autoteile treten in Kraft",
+      "teaser": "Aluminium, Stahl, Autos – und nun Autoteile: US-Präsident Trump hat auf die Einfuhr diverser Waren Zölle verhängt. Es gibt kleine Erleichterungen.",
+      "url": "https://www.heise.de/news/US-Zoelle-auf-Autoteile-treten-in-Kraft-10370662.html",
+      "image_title": "Donald Trump gehend und klatschend; im Hintergrund eine enorme US-Fahne, dahinter rostbraune Container"
     },
     {
       "title": "UpdateLadetarife für Elektroautos im Vergleich",
@@ -372,15 +378,15 @@
       "image_title": "Frau verzweifelt am Smartphone"
     },
     {
+      "title": "Portfolio-Guide – So finden Sie den richtigen Prozessor",
+      "teaser": "Die Unternehmens-IT muss eine Vielzahl unterschiedlicher Workloads bewältigen. Dieser Portfolio-Guide zeigt Ihnen, welche Prozessorfamilie für welchen Anwendungszweck am besten geeignet ist.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/portfolio-guide-so-finden-sie-den-richtigen-prozessor-4915/?source=hbsadersatz"
+    },
+    {
       "title": "Sprachmodelle: Deutschlands Aufholjagd gegenüber den USA und China",
       "teaser": "Während China mit DeepSeek die USA im Wettkampf um die leistungsstärksten Sprachmodelle herausfordert, ist Europa nach wie vor Zuschauer, trotz genug Potenzial.",
       "url": "https://www.heise.de/hintergrund/Sprachmodelle-Deutschlands-Aufholjagd-gegenueber-den-USA-und-China-10348400.html",
       "image_title": "!!!kommt von Ulrike Weis!!!,"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Hohe Hürden für Temu & Co. in den USA in Kraft getreten",
@@ -434,12 +440,6 @@
       "teaser": "Alphabet- und Google-Chef Sundar Pichai strebt an, Gemini in Apple Intelligence zu platzieren. Die Gespräche laufen, sagte er vor Gericht.",
       "url": "https://www.heise.de/news/Deal-noch-dieses-Jahr-Alphabet-hofft-auf-Gemini-in-iOS-10369292.html",
       "image_title": "Google-Logo neben Apple-Logo"
-    },
-    {
-      "title": "Spotlight Fotokultur – Ausstellungen und Festivals im Mai 2025",
-      "teaser": "Indien im Doppelblick, Fotografie im Exil, Streetfotografie aus dem Leica-Archiv und das Fotofestival in Zingst – der Mai hat für Fotofans einiges zu bieten.",
-      "url": "https://www.heise.de/news/Spotlight-Fotokultur-Ausstellungen-und-Festivals-im-Mai-2025-10369427.html",
-      "image_title": "Häuser in Indien."
     },
     {
       "title": "Passkeys: Microsoft drückt Neukunden Anmeldung ohne Passwort auf",
@@ -610,20 +610,20 @@
       "url": "https://www.heise.de/en/news/Meta-AI-Sexting-in-voice-mode-with-John-Cena-and-Judi-Dench-10364053.html"
     },
     {
+      "title": "Homebanking-Software im Kurztest: StarMoney 15 bietet verbesserte Bedienung",
+      "teaser": "Mit StarMoney kommen beim Homebanking am PC auch Nerds auf ihre Kosten. In Version 15 haben die Entwickler vor allem das Interface weiter verbessert.",
+      "url": "https://www.heise.de/tests/Homebanking-Software-im-Kurztest-StarMoney-15-bietet-verbesserte-Bedienung-10337937.html"
+    },
+    {
+      "title": "c’t 3003 Perplexity Assistant: Endlich ein echter Sprachassistent?",
+      "teaser": "Der Perplexity Assistant versteht natürliche Sprache und führt auch komplexe Aufgaben, wie eine Restaurantreservierung, aus. c't 3003 hat es ausprobiert.",
+      "url": "https://www.heise.de/news/Perplexity-Assistant-KI-Suchmaschine-wird-zum-vollwertigen-Sprachassistenten-10370199.html"
+    },
+    {
       "title": "Buchrezension: Code the Classics II",
       "teaser": "Die Raspberry Pi Foundation verwöhnt Retrodaddler mit Python-Code zu fünf Spieleklassiker-Clones. Dazu gibt’s erneut bunte Grafik und viele Hintergrundinfos.",
       "url": "https://www.heise.de/tests/Buchrezension-Code-the-Classics-II-10329449.html",
       "image_title": "Buchkritik: Code the Classics II"
-    },
-    {
-      "title": "c’t uplinkDer Stand der Technik bei Monitoren und Dockingstationen",
-      "teaser": "In diesem c’t uplink gehts um die Technik moderner Monitore und Docks – und worauf man beim Kauf für welchen Einsatzzweck achten sollte.",
-      "url": "https://www.heise.de/news/Der-Stand-der-Technik-bei-Monitoren-und-Dockingstationen-c-t-uplink-10368992.html"
-    },
-    {
-      "title": "Digitalisierungsminister Karsten Wildberger Wenn Ex-Manager auf Beamtenapparat trifft",
-      "teaser": "Karsten Wildberger, früher Konzernchef, soll den digitalen Stillstand in Deutschland beenden. Doch der Umbau des Staates wird zum Härtetest für den Rookie.",
-      "url": "https://www.heise.de/news/Digitalisierungsminister-Wildberger-Wenn-Ex-Manager-auf-Beamtenapparat-trifft-10364721.html"
     },
     {
       "title": "Scannen, kopieren, druckenMultifunktionsdrucker für den Mac im Test",
@@ -662,6 +662,12 @@
       "image_title": "Eröffnung der Lego-Fabrik in Vietnam"
     },
     {
+      "title": "Spotlight Fotokultur – Ausstellungen und Festivals im Mai 2025",
+      "teaser": "Indien im Doppelblick, Fotografie im Exil, Streetfotografie aus dem Leica-Archiv und das Fotofestival in Zingst – der Mai hat für Fotofans einiges zu bieten.",
+      "url": "https://www.heise.de/news/Spotlight-Fotokultur-Ausstellungen-und-Festivals-im-Mai-2025-10369427.html",
+      "image_title": "Häuser in Indien."
+    },
+    {
       "title": "20 Jahre Hommingberger GepardenforelleDie besten KI-Bilder zum Jubiläum",
       "teaser": "Wir haben nach euren KI-Interpretationen der Hommingberger Gepardenforelle gefragt. Hier sind nun die besten Bilder.",
       "url": "https://www.heise.de/news/20-Jahre-Hommingberger-Gepardenforelle-die-besten-KI-Bilder-zum-Jubilaeum-10363957.html"
@@ -676,12 +682,6 @@
       "title": "Sonys Über-Glas und rare Sigma BF – die Fotonews der Woche 17/2025",
       "teaser": "Zum Profi-Preis bringt Sony ein Profi-Tele, Sigma jedoch die schnörkellose BF nur in geringen Stückzahlen. Und Adobes Firefly hat nun mehrere KIs.",
       "url": "https://www.heise.de/news/Sonys-Ueber-Glas-und-rare-Sigma-BF-die-Fotonews-der-Woche-17-2025-10361703.html"
-    },
-    {
-      "title": "Zwischen Sakralbauten, Oldtimern und einem Schwan: Die Bilder der Woche 16",
-      "teaser": "Unsere Galeriefotografen zeigen diese Woche beeindruckende Sakralarchitektur, führen durch die Geschichte einer Kokerei und präsentieren faszinierende Oldtimer.",
-      "url": "https://www.heise.de/news/Zwischen-Sakralbauten-Oldtimern-und-einem-Schwan-Die-Bilder-der-Woche-16-10360789.html",
-      "image_title": "Kokerei Zeche Zollverein"
     },
     {
       "title": "Cyberangriffe ohne Malware: Living off the Land",
@@ -711,16 +711,15 @@
       "image_title": "Madurai,,India,2022,May,23,:,Elon,Musk's,Own,Companies"
     },
     {
+      "title": "UpdateStrom aus der SäuleLadetarife für Elektroautos im Vergleich",
+      "teaser": "Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr.",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
+    },
+    {
       "title": "Chancen für VW-Werk OsnabrückVW: Gewinn sinkt im ersten Quartal, Werk Osnabrück soll bleiben",
       "teaser": "Trotz der stabilen Abwärtstendenz beim Betriebsergebnis und Überkapazitäten will VW am Werk Osnabrück festhalten. MAN könnte dort ab 2027 Militär-Lkw bauen.",
       "url": "https://www.heise.de/news/VW-Gewinn-sinkt-im-ersten-Quartal-Werk-Osnabrueck-soll-bleiben-10367659.html",
       "image_title": "Volkswagenwerk Osnabrück mit VW T-Roc Cabrio"
-    },
-    {
-      "title": "Autonomes FahrenToyota und Waymo entwickeln selbstfahrende Autos",
-      "teaser": "Toyota will zusammen mit der Google-Firma Waymo autonom fahrende Autos entwickeln, die auch privaten Autokäufern angeboten werden sollen.",
-      "url": "https://www.heise.de/news/Autonomes-Fahren-Toyota-und-Waymo-wollen-gemeinsame-Plattform-entwickeln-10367308.html",
-      "image_title": "Waymo"
     },
     {
       "title": "Reform an der Ladenkasse: Warum Schwarz-Rot Kartenzahlungen ankurbelt",
@@ -758,22 +757,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Für die Freiheit des Internets: Ex-Justizministerin fordert mehr Kontrolle über soziale Medien",
-      "teaser": "Däubler-Gmelin tritt für Regulierung sozialer Medien ein. Sie warnt vor Machtkonzentration bei Tech-Giganten. Aber wie kann man Plattformen demokratischer machen?",
-      "url": "https://www.heise.de/tp/features/Fuer-die-Freiheit-des-Internets-Ex-Justizministerin-fordert-mehr-Kontrolle-ueber-soziale-Medien-10369729.html",
-      "image_title": "Paragrphenzeichen umklammert Handys mit X-, Instagram- uund TicToc-Logo"
-    },
-    {
-      "title": "Argentinien gibt Nazi-Akten frei: Neue Details über Eichmann, Mengele und Co.",
-      "teaser": "Mehr als 1850 Dokumente über NS-Kriegsverbrecher in Südamerika veröffentlicht. Auch bisher geheime Präsidialdekrete sind nun einsehbar. Ein Überblick.",
-      "url": "https://www.heise.de/tp/features/Argentinien-gibt-Nazi-Akten-frei-Neue-Details-ueber-Eichmann-Mengele-und-Co-10367929.html",
-      "image_title": "Schriftzug am Eingang des KZ Dachau"
+      "title": "Wer fällt am ehesten auf Fake News rein?",
+      "teaser": "Eine weltweite Studie mit über 66.000 Teilnehmern zeigt, welche Personengruppen besonders anfällig für Falschinformationen sind. Die Ergebnisse überraschen.",
+      "url": "https://www.heise.de/tp/features/Wer-faellt-am-ehesten-auf-Fake-News-rein-10370215.html",
+      "image_title": "Frau aus der Generation Z blickt auf ihr Smartphone und wundert sich über Fake News."
     },
     {
       "title": "Forschung unter Druck: Wie frei ist die deutsche Wissenschaft?",
       "teaser": "Ob Gaza-Krieg, Russland-Kooperation oder Zivilklausel: Es scheint unmöglich, die Wissensproduktion vom politischen Zeitgeist abzukoppeln. Das birgt massive Gefahren.",
       "url": "https://www.heise.de/tp/features/Forschung-unter-Druck-Wie-frei-ist-die-deutsche-Wissenschaft-10366655.html",
       "image_title": "Ein verhülltes Universitätsgebäude"
+    },
+    {
+      "title": "Für die Freiheit des Internets: Ex-Justizministerin fordert mehr Kontrolle über soziale Medien",
+      "teaser": "Däubler-Gmelin tritt für Regulierung sozialer Medien ein. Sie warnt vor Machtkonzentration bei Tech-Giganten. Aber wie kann man Plattformen demokratischer machen?",
+      "url": "https://www.heise.de/tp/features/Fuer-die-Freiheit-des-Internets-Ex-Justizministerin-fordert-mehr-Kontrolle-ueber-soziale-Medien-10369729.html",
+      "image_title": "Paragrphenzeichen umklammert Handys mit X-, Instagram- uund TicToc-Logo"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
