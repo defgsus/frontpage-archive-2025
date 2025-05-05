@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-05T02:29:22",
+  "timestamp": "2025-05-05T03:36:26",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "US-Regierung will NASA-Budget um fast 25 Prozent reduzieren und Stellen kürzen",
+      "url": "https://www.heise.de/news/US-Regierung-will-NASA-Budget-um-fast-25-Prozent-reduzieren-und-Stellen-kuerzen-10371080.html"
+    },
     {
       "title": "Top 5: Die beste mechanische Gaming-Tastatur im Test – Steelseries vor Be Quiet",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-5-die-beste-mechanische-gaming-tastatur-im-test/gj64hls"
@@ -60,10 +64,6 @@
     {
       "title": "Betrugsmasche: Anrufe über WhatsApp und Festnetz wegen Paypal-Überweisung",
       "url": "https://www.heise.de/news/Betruegerische-WhatsApp-und-Telefonanrufe-zu-angeblicher-Paypal-Transaktion-10370774.html"
-    },
-    {
-      "title": "Last Call: heise-Konferenz zur Architektur-Dokumentation mit Know-how und Praxis",
-      "url": "https://www.heise.de/news/Last-Call-heise-Konferenz-zur-Architektur-Dokumentation-mit-Know-how-und-Praxis-10368337.html"
     },
     {
       "title": "Missing LinkPressefreiheit – Kein Auskunftsgesetz für Bundesbehörden",
@@ -190,19 +190,25 @@
       "url": "https://www.heise.de/news/Der-Stand-der-Technik-bei-Monitoren-und-Dockingstationen-c-t-uplink-10368992.html"
     },
     {
+      "title": "US-Regierung will NASA-Budget um fast 25 Prozent reduzieren und Stellen kürzen",
+      "teaser": "Die NASA soll sich nach Vorschlag der Trump-Regierung auf Mond- und Mars-Missionen fokussieren. Die SLS-Riesenrakete steht vor dem Aus, Stellenkürzungen drohen.",
+      "url": "https://www.heise.de/news/US-Regierung-will-NASA-Budget-um-fast-25-Prozent-reduzieren-und-Stellen-kuerzen-10371080.html",
+      "image_title": "Artemis-1 Mondrakete SLS mit Orion-Kapsel bei Sonnenaufgang"
+    },
+    {
       "title": "Top 5: Die beste mechanische Gaming-Tastatur im Test – Steelseries vor Be Quiet",
       "teaser": "Mechanische Gaming-Tastaturen sind besonders wegen der Taster, des Aussehens und des Funktionsumfangs, den viele von ihnen mit sich bringen, beliebt. Wir zeigen die fünf Besten.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-5-die-beste-mechanische-gaming-tastatur-im-test/gj64hls?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Canons Reisezoom, \"Bigma\" und CAI als Adobe-Beta – Fotonews der Woche 18/2024",
       "teaser": "Canon legt ein altes Objektiv für den RF-Mount neu auf, Sigmas Supertele zeigt sich endlich, und \"Content Credentials\" stehen nun fast jedem offen.",
       "url": "https://www.heise.de/news/Canons-Reisezoom-Bigma-und-CAI-als-Adobe-Beta-Fotonews-der-Woche-18-2024-10370991.html"
-    },
-    {
-      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
-      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Starbase: Musks Weltraum-Firma bekommt eigene Stadt",
@@ -233,12 +239,6 @@
       "teaser": "Gebündeltes, praxisnahes Wissen zur Softwarearchitektur-Dokumentation gibt es auf der betterCode() ArchDoc: Techniken, Tools, Docs-as-Code und Hilfe mit KI.",
       "url": "https://www.heise.de/news/Last-Call-heise-Konferenz-zur-Architektur-Dokumentation-mit-Know-how-und-Praxis-10368337.html",
       "image_title": "Aufmacher Konferenz ArchDoc"
-    },
-    {
-      "title": "Scan-Autos: FAQ zur Technik gegen Falschparker",
-      "teaser": "Im Ausland gehen Behörden schon länger mit Scan-Autos gegen Falschparker vor. In Baden-Württemberg ist der Einsatz der Technik nun auch möglich, ein Test läuft.",
-      "url": "https://www.heise.de/news/Scan-Autos-FAQ-zur-Technik-gegen-Falschparker-10370829.html",
-      "image_title": "Ein Kleinwagen mit zahlreichen Kameras auf dem Dach ist als Scan-Auto gegen Falschparker im Einsatz."
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -279,8 +279,8 @@
       "url": "https://www.heise.de/ratgeber/Shelly-im-Ueberblick-Das-Smart-Home-Oekosystem-verstehen-und-nutzen-10324445.html"
     },
     {
-      "title": "Sechs konfigurierbare Ethernet-Switches für 2,5 Gbit/s im Test",
-      "url": "https://www.heise.de/tests/Sechs-konfigurierbare-Ethernet-Switches-fuer-2-5-Gbit-s-im-Test-10346227.html"
+      "title": "Vor der Einreisekontrolle in den USA: So schützen Sie Smartphone, Laptop und Co.",
+      "url": "https://www.heise.de/ratgeber/Vor-der-Reise-in-die-USA-So-schuetzen-Sie-ihr-Smartphone-Laptop-und-Co-10361670.html"
     },
     {
       "title": "Spanien und Portugal: Strom weitestgehend zurück, Ursache für Blackout unklar",
@@ -305,6 +305,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Scan-Autos: FAQ zur Technik gegen Falschparker",
+      "teaser": "Im Ausland gehen Behörden schon länger mit Scan-Autos gegen Falschparker vor. In Baden-Württemberg ist der Einsatz der Technik nun auch möglich, ein Test läuft.",
+      "url": "https://www.heise.de/news/Scan-Autos-FAQ-zur-Technik-gegen-Falschparker-10370829.html",
+      "image_title": "Ein Kleinwagen mit zahlreichen Kameras auf dem Dach ist als Scan-Auto gegen Falschparker im Einsatz."
     },
     {
       "title": "Warren Buffett zieht sich mit 94 als Chef von Berkshire Hathaway zurück",
@@ -372,15 +378,15 @@
       "url": "https://www.heise.de/news/KI-Selfies-Vom-Astronauten-zum-Cellisten-in-Sekunden-c-t-Fotografie-3-25-10368082.html"
     },
     {
+      "title": "Video: Bauen im australischen Outback – Herausforderungen für die IT-Infrastruktur",
+      "teaser": "Wie Acciona Zuverlässigkeit, Sicherheit und Energieeffizienz seiner IT-Umgebungen steigern konnte",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-bauen-im-australischen-outback-herausforderungen-fuer-die-it-infrastruktur-4914/?source=hbsadersatz"
+    },
+    {
       "title": "Google korrigiert Falschinformation über Tunnelschließungen",
       "teaser": "Viele Autofahrer verlassen sich bei der Navigation auf Google Maps. Jetzt sorgte allerdings ein Fehler für falsche Ansagen.",
       "url": "https://www.heise.de/news/Google-korrigiert-Falschinformation-ueber-Tunnelschliessungen-10370611.html",
       "image_title": "Icon von Google Maps auf einem iPhone"
-    },
-    {
-      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
-      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
     },
     {
       "title": "Idle Games im Test: Spielend nichts tun und entspannen",
@@ -434,25 +440,19 @@
       "image_title": "Frau verzweifelt am Smartphone"
     },
     {
-      "title": "Sprachmodelle: Deutschlands Aufholjagd gegenüber den USA und China",
-      "teaser": "Während China mit DeepSeek die USA im Wettkampf um die leistungsstärksten Sprachmodelle herausfordert, ist Europa nach wie vor Zuschauer, trotz genug Potenzial.",
-      "url": "https://www.heise.de/hintergrund/Sprachmodelle-Deutschlands-Aufholjagd-gegenueber-den-USA-und-China-10348400.html",
-      "image_title": "!!!kommt von Ulrike Weis!!!,"
-    },
-    {
       "title": "Windows: Anmeldung mit alten Passwörtern durch RDP möglich",
       "url": "https://www.heise.de/news/Windows-Log-in-ueber-RDP-mit-widerrufenen-Passwoerten-moeglich-10370025.html",
       "image_title": "Notebook mit Standard-Windows-Hintergrund auf einem Holztisch"
     },
     {
-      "title": "Passkeys: Microsoft drückt Neukunden Anmeldung ohne Passwort auf",
-      "url": "https://www.heise.de/news/Passkeys-Microsoft-drueckt-Neukunden-Anmeldung-ohne-Passwort-auf-10369464.html",
-      "image_title": "Microsoft-Anmeldefenster ohne Passwort"
-    },
-    {
       "title": "UpdateWegen Trump: Microsoft sichert Quellcode in der Schweiz und investiert in Europa",
       "url": "https://www.heise.de/news/Wegen-Trump-Microsoft-expandiert-in-Europa-und-verspricht-mehr-Resilienz-10368956.html",
       "image_title": "Microsoft office building"
+    },
+    {
+      "title": "Zerodays sind überwiegend staatlichen Akteuren zu verdanken",
+      "url": "https://www.heise.de/news/Steuergeld-finanziert-Angriffe-mit-Zerodays-10367137.html",
+      "image_title": "T-Shirt mit Aufschrift \"All you need is love, all you get is 0day\""
     },
     {
       "title": "Flughörnchen-Drohne fliegt besser als herkömmliche Drohnen",
@@ -469,14 +469,14 @@
       "image_title": "Leicht beleuchteter Planet, ein heller Stern im Hintergrund"
     },
     {
-      "title": "Handelsminister: Apple wartet für US-Produktion auf \"Roboter-Arme\"",
-      "url": "https://www.heise.de/news/Handelsminister-Apple-wartet-fuer-US-Produktion-auf-Roboter-Arme-10369533.html",
-      "image_title": "Howard Lutnick und Donald Trump"
-    },
-    {
       "title": "Gemini: Google gibt Vorgeschmack auf einen persönlicheren Assistenten",
       "url": "https://www.heise.de/news/Gemini-Google-gibt-Vorgeschmack-auf-einen-persoenlicheren-Assistenten-10370114.html",
       "image_title": "Finger schwebt über Gemini-App-Icon auf dem Smartphone-Bildschirm."
+    },
+    {
+      "title": "iPhone-Umzug nach Indien: China macht es Apple schwer",
+      "url": "https://www.heise.de/news/iPhone-Umzug-nach-Indien-China-macht-es-Apple-schwer-10363781.html",
+      "image_title": "Foxconn"
     },
     {
       "title": "\"Deal noch dieses Jahr\": Alphabet hofft auf Gemini in iOS",
@@ -494,9 +494,9 @@
       "image_title": "Screenshot zeigt einen Roboter mit roten Ringen als Augen"
     },
     {
-      "title": "Zahlreiche Kündigungen nach Verkauf der Gaming-Seite Polygon",
-      "url": "https://www.heise.de/news/Gaming-Seite-Polygon-verkauft-und-direkt-zahlreiche-Angestellte-entlassen-10369643.html",
-      "image_title": "Jyvaskyla,,Finland,-,May,21,2021:,Man,Playing,Playstation,5"
+      "title": "2025: Diese Produkte stehen auf Apples Release-Liste für dieses Jahr",
+      "url": "https://www.heise.de/news/Uebersicht-Diese-Apple-Produkte-fuer-2025-koennten-noch-kommen-10364501.html",
+      "image_title": "Tim Cook bei einer Produktvorstellung im September 2022"
     },
     {
       "title": "\"Das ist Korruption\": Trump-Firma profitiert von Milliardeninvestment in Binance",
@@ -509,14 +509,14 @@
       "image_title": "Healthcare,Business,Graph,Data,And,Growth,,Medical,Examination,And,Doctor"
     },
     {
-      "title": "Milliardenversprechen: IBM macht USA schöne Augen",
-      "url": "https://www.heise.de/news/150-Milliarden-US-Dollar-IBM-macht-USA-schoene-Augen-10369956.html",
-      "image_title": "IBM-Quantencomputer in einem grauen Raum"
+      "title": "Weißes Haus reagiert massiv auf Idee Amazons zur Kennzeichnung von Zollkosten",
+      "url": "https://www.heise.de/news/Amazon-legt-Kennzeichnung-von-US-Zollkosten-im-Online-Shop-nicht-offen-10367189.html",
+      "image_title": "Miniatureinkaufskorb links neben einem Laptop mit Amazon-Logo. Im Hintergrund die Amazon Buy Boxes, in denen Produkte auf der Website des Online-Gigangten Amazon platziert sind."
     },
     {
-      "title": "Afrinic-Krise zwingt zu Reform der globalen IP-Adressverwaltung",
-      "url": "https://www.heise.de/news/Afrinic-Krise-zwingt-zu-Reform-der-globalen-IP-Adressverwaltung-10367363.html",
-      "image_title": "Server mit Netzwerkkabeln"
+      "title": "UpdatePornhub & Co.: Provider wehren sich gerichtlich gegen Sperranordnungen",
+      "url": "https://www.heise.de/news/Pornhub-Co-Provider-wehren-sich-gerichtlich-gegen-Sperranordnungen-10316778.html",
+      "image_title": "Blick auf Pornhub"
     },
     {
       "title": "Überwachung: Deutsches IP-Catching ist geheimer als geheim",
@@ -524,9 +524,9 @@
       "image_title": "Künstlerische Darstellung eines auf eine helle Glastür zulaufenden Ganges; an den Seiten sind blaute Lichtstreifen zu sehen, dahinter sind Ziffern angedeutet"
     },
     {
-      "title": "UpdatePornhub & Co.: Provider wehren sich gerichtlich gegen Sperranordnungen",
-      "url": "https://www.heise.de/news/Pornhub-Co-Provider-wehren-sich-gerichtlich-gegen-Sperranordnungen-10316778.html",
-      "image_title": "Blick auf Pornhub"
+      "title": "Afrinic-Krise zwingt zu Reform der globalen IP-Adressverwaltung",
+      "url": "https://www.heise.de/news/Afrinic-Krise-zwingt-zu-Reform-der-globalen-IP-Adressverwaltung-10367363.html",
+      "image_title": "Server mit Netzwerkkabeln"
     },
     {
       "title": "Sonderheft c’t Hacking: Selbst einsteigen, von Profis lernen",
@@ -537,9 +537,8 @@
       "url": "https://www.heise.de/news/Naehmaschine-statt-3D-Drucker-10364821.html"
     },
     {
-      "title": "Freitag: Xbox-Spiele & -Konsolen teurer, BSI-Beschwichtigung zur ePA-Sicherheit",
-      "url": "https://www.heise.de/news/Freitag-Xbox-Spiele-Konsolen-teurer-BSI-Beschwichtigung-zur-ePA-Sicherheit-10369312.html",
-      "image_title": "Spieler mit Gamecontroller und Headset vor großem Bildschirm; Freitag Xbox-Preiserhöhungen, ePA-Sicherheitslücken, Apple-Transaktionsgebühren, Nachtsicht-Nanofolien & GPS-Jubläum"
+      "title": "UpdateGroßräumige Stromausfälle in Portugal und Spanien",
+      "url": "https://www.heise.de/news/Grossraeumige-Stromausfaelle-in-Portugal-und-Spanien-10364573.html"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -596,21 +595,21 @@
       "image_title": "Television"
     },
     {
-      "title": "Temu stops deliveries from China to the USA",
-      "url": "https://www.heise.de/en/news/Temu-stops-deliveries-from-China-to-the-USA-10370651.html"
+      "title": "Alien 3 Legacy Cut: \"Unofficial\" 4K version without consent of rights holders",
+      "url": "https://www.heise.de/en/news/Alien-3-Legacy-Cut-Unofficial-4K-version-without-consent-of-rights-holders-10345272.html"
     },
     {
-      "title": "Opinion: Is a split imminent? – Synadia demands NATS back from the CNCF",
-      "url": "https://www.heise.de/en/opinion/Opinion-Is-a-split-imminent-Synadia-demands-NATS-back-from-the-CNCF-10366963.html"
+      "title": "iPhone mirroring in the EU: still waiting for useful macOS function",
+      "url": "https://www.heise.de/en/news/iPhone-mirroring-in-the-EU-still-waiting-for-useful-macOS-function-10317754.html"
     },
     {
-      "title": "Meta AI: Sexting in voice mode with John Cena and Judi Dench",
-      "url": "https://www.heise.de/en/news/Meta-AI-Sexting-in-voice-mode-with-John-Cena-and-Judi-Dench-10364053.html"
+      "title": "Fiber optic expansion: Germany will remains a DSL country for the time being",
+      "url": "https://www.heise.de/en/news/Fiber-optic-expansion-Germany-will-remains-a-DSL-country-for-the-time-being-10366614.html"
     },
     {
-      "title": "c’t 3003 Perplexity Assistant: Endlich ein echter Sprachassistent?",
-      "teaser": "Der Perplexity Assistant versteht natürliche Sprache und führt auch komplexe Aufgaben, wie eine Restaurantreservierung, aus. c't 3003 hat es ausprobiert.",
-      "url": "https://www.heise.de/news/Perplexity-Assistant-KI-Suchmaschine-wird-zum-vollwertigen-Sprachassistenten-10370199.html"
+      "title": "Idle Games im Test: Spielend nichts tun und entspannen",
+      "teaser": "Zwischen Spiel und Bildschirmschoner ist eine neue Nische entstanden. Hier leben minimalistische Softwaretitel, die ein bisschen Leben auf den Desktop bringen.",
+      "url": "https://www.heise.de/tests/Idle-Games-im-Test-Spielend-nichts-tun-und-entspannen-10328288.html"
     },
     {
       "title": "c’t uplinkDer Stand der Technik bei Monitoren und Dockingstationen",
@@ -618,9 +617,9 @@
       "url": "https://www.heise.de/news/Der-Stand-der-Technik-bei-Monitoren-und-Dockingstationen-c-t-uplink-10368992.html"
     },
     {
-      "title": "Monitor kaufen: Was Foto-, Videografen, Texter und Gamer beachten sollten",
-      "teaser": "Monitorkauf ist angesichts der vielen Modelle und Angebote kompliziert. Mit unseren Tipps finden Sie das passende Gerät für Ihre Anwendung.",
-      "url": "https://www.heise.de/ratgeber/Monitor-kaufen-Was-Foto-Videografen-Texter-und-Gamer-beachten-sollten-10352877.html"
+      "title": "Web-Tipps: Street-Art-Weltkarte",
+      "teaser": "Street Art ist heute gefeierte Stadtkunst. Auf Street Art Cities können Sie weltweit über 70.000 Werke entdecken, dokumentiert von echten Kunstjägern.",
+      "url": "https://www.heise.de/news/Web-Tipps-Street-Art-Weltkarte-10369211.html"
     },
     {
       "title": "Scannen, kopieren, druckenMultifunktionsdrucker für den Mac im Test",
@@ -696,6 +695,12 @@
       "url": "https://www.heise.de/hintergrund/Raus-aus-der-US-Cloud-Souveraene-SaaS-Angebote-im-Ueberblick-10342483.html"
     },
     {
+      "title": "Komfortables Elektro-SUV für die LangstreckeVolvo EX90 im Test",
+      "teaser": "Im EX90 kombiniert Volvo bis zu sieben Sitze mit komfortabler Ausstattung und einem flinken Infotainmentsystem. Interessierte sollen aber noch ein wenig warten.",
+      "url": "https://www.heise.de/tests/Volvo-EX90-im-Test-Komfortables-Elektro-SUV-fuer-die-Langstrecke-10334002.html",
+      "image_title": "Volvo EX90 von vorn fotografiert"
+    },
+    {
       "title": "Zoll-Streit mit den USAUS-Mercedes-Werk Tuscaloosa bekommt weiteres Modell",
       "teaser": "Mercedes-Benz reagiert auf die von US-Präsident Trump angedrohten Zölle: Das Werk in Tuscaloosa soll ein zusätzliches Modell für den US-Markt bekommen.",
       "url": "https://www.heise.de/news/Zoll-Streit-US-Mercedes-Werk-Tuscaloosa-bekommt-weiteres-Modell-10369393.html",
@@ -711,12 +716,6 @@
       "title": "UpdateStrom aus der SäuleLadetarife für Elektroautos im Vergleich",
       "teaser": "Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr.",
       "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
-    },
-    {
-      "title": "Chancen für VW-Werk OsnabrückVW: Gewinn sinkt im ersten Quartal, Werk Osnabrück soll bleiben",
-      "teaser": "Trotz der stabilen Abwärtstendenz beim Betriebsergebnis und Überkapazitäten will VW am Werk Osnabrück festhalten. MAN könnte dort ab 2027 Militär-Lkw bauen.",
-      "url": "https://www.heise.de/news/VW-Gewinn-sinkt-im-ersten-Quartal-Werk-Osnabrueck-soll-bleiben-10367659.html",
-      "image_title": "Volkswagenwerk Osnabrück mit VW T-Roc Cabrio"
     },
     {
       "title": "Reform an der Ladenkasse: Warum Schwarz-Rot Kartenzahlungen ankurbelt",
@@ -754,10 +753,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Psychologische Ersthelfer: Pflaster für die Wunden der Arbeitswelt?",
-      "teaser": "Stress und Kostendruck belasten Mitarbeiter zunehmend. Firmen setzen auf psychologische Ersthelfer statt Ursachen anzugehen.",
-      "url": "https://www.heise.de/tp/features/Psychologische-Ersthelfer-Pflaster-fuer-die-Wunden-der-Arbeitswelt-10367388.html",
-      "image_title": "Zwei Wageheber unter Gewinnkurven, einer davon lastet auf gebücktem Menschen"
+      "title": "Wo sich die fehlende Materie des Universums versteckt",
+      "teaser": "Astronomen haben riesige Wasserstoffwolken entdeckt, die Galaxien umgeben. Sie könnten die Hälfte der bisher vermissten Materie enthalten.",
+      "url": "https://www.heise.de/tp/features/Wo-sich-die-fehlende-Materie-des-Universums-versteckt-10370899.html",
+      "image_title": "Schöne, helle, entfernte Galaxie."
     },
     {
       "title": "170 Atomsprengköpfe pro Land: Ein gefährlicher Konflikt eskaliert, aber niemand beachtet ihn",
@@ -766,10 +765,10 @@
       "image_title": "Due Fahnen von Pakistan und Indien, davor Schattenrisse von Soldaten."
     },
     {
-      "title": "Wer fällt am ehesten auf Fake News rein?",
-      "teaser": "Eine weltweite Studie mit über 66.000 Teilnehmern zeigt, welche Personengruppen besonders anfällig für Falschinformationen sind. Die Ergebnisse überraschen.",
-      "url": "https://www.heise.de/tp/features/Wer-faellt-am-ehesten-auf-Fake-News-rein-10370215.html",
-      "image_title": "Frau aus der Generation Z blickt auf ihr Smartphone und wundert sich über Fake News."
+      "title": "Römische Erinnerungskultur: Was uns die Straßen von Pompeji über die Rolle der antiken Frau lehren",
+      "teaser": "Pompeji offenbart mehr als Ruinen. Außerhalb der Stadtmauern säumen Gräber die Straßen – was verraten sie über die Rolle der Geschlechter? Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Roemische-Erinnerungskultur-Was-uns-die-Strassen-von-Pompeji-ueber-die-Rolle-der-antiken-Frau-lehren-10368116.html",
+      "image_title": "Männliche und weibliche Statue im antiken Pompej"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
