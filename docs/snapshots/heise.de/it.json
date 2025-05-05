@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-05T11:08:30",
+  "timestamp": "2025-05-05T12:18:30",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "Programmiersprache C++: Hazard Pointers in C++26",
+      "teaser": "Hazard Pointers ermöglichen die Garbage Collection in C++ und lösen das ABA-Problem.",
+      "url": "https://www.heise.de/blog/Programmiersprache-C-Hazard-Pointers-in-C-26-10371674.html",
+      "image_title": "Holzwürfel mit dem Schriftzug C++"
+    },
+    {
+      "title": "iX-Workshop: Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr",
+      "teaser": "Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.",
+      "url": "https://www.heise.de/news/iX-Workshop-Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-10368552.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
       "title": "EventSourcingDB made in Germany: Datenbank für Event-Sourcing-Projekte",
       "teaser": "Die Datenbank EventSourcingDB verwaltet die Sequenz von Ereignissen und kann über einen integrierten Subscription-Mechanismus Event-Streams abonnieren.",
       "url": "https://www.heise.de/news/EventSourcingDB-made-in-Germany-Datenbank-fuer-Event-Sourcing-Projekte-10371138.html",
@@ -36,18 +48,6 @@
       "teaser": "Internationale Expertinnen und Experten halten Vorträge zu Design, Entwicklung, Testing und Management von APIs auf der zweitägigen Online-Konferenz.",
       "url": "https://www.heise.de/news/Last-Call-zur-heise-API-Konferenz-mit-zwei-Tagen-API-Praxis-Know-how-10368341.html",
       "image_title": "Aufmacher Konferenz bcc API"
-    },
-    {
-      "title": "Bit-Rauschen: Zoll-Chaos zwingt Chipfirmen auf Amerikakurs",
-      "teaser": "Trumps Zölle verunsichern auch die Halbleiterwelt. Intel macht Altera zu Geld. Google schließt zu Nvidias KI-Beschleuniger auf.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Zoll-Chaos-zwingt-Chipfirmen-auf-Amerikakurs-10358942.html",
-      "image_title": ","
-    },
-    {
-      "title": "Microsoft Authenticator: Zurück vom Passwort-Manager zum Authenticator",
-      "teaser": "Microsofts Authenticator-App kann neben erweiterter Authentifizierung als zweiter Faktor auch Passwörter verwalten. Das endet jetzt.",
-      "url": "https://www.heise.de/news/Microsoft-Authenticator-Zurueck-vom-Passwort-Manager-zum-Authenticator-10371450.html",
-      "image_title": "Sicherheitsschloss mit Finger drauf"
     },
     {
       "title": "HintergrundBit-Rauschen: Zoll-Chaos zwingt Chipfirmen auf Amerikakurs",
@@ -62,6 +62,18 @@
     {
       "title": "HintergrundKryptoinventar erstellen: Cryptography Bills of Materials",
       "url": "https://www.heise.de/hintergrund/Kryptoinventar-erstellen-Cryptography-Bills-of-Materials-10359643.html"
+    },
+    {
+      "title": "Linux: Betriebssystem im Excel-Tabellenblatt",
+      "teaser": "Linux läuft auf ziemlich vielen Geräten. Nun haben Bastler gezeigt: Es läuft auch als Minimal-Betriebssystem in Excel.",
+      "url": "https://www.heise.de/news/Linux-Betriebssystem-im-Excel-Tabellenblatt-10371622.html",
+      "image_title": "Linux läuft im Excel-Sheet"
+    },
+    {
+      "title": "Microsoft Authenticator: Zurück vom Passwort-Manager zum Authenticator",
+      "teaser": "Microsofts Authenticator-App kann neben erweiterter Authentifizierung als zweiter Faktor auch Passwörter verwalten. Das endet jetzt.",
+      "url": "https://www.heise.de/news/Microsoft-Authenticator-Zurueck-vom-Passwort-Manager-zum-Authenticator-10371450.html",
+      "image_title": "Sicherheitsschloss mit Finger drauf"
     },
     {
       "title": "Vibe-Coding in Xcode: Apple kooperiert mit Anthropic",
@@ -139,18 +151,6 @@
       "teaser": "So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.",
       "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-von-Exchange-OnPrem-zu-Exchange-Online-10358811.html",
       "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
-    },
-    {
-      "title": "KI-Leitlinien: Öffentliche Hand soll KI nur grundrechtskonform nutzen",
-      "teaser": "Die Regierung hat Leitplanken für einen \"verantwortungsvollen und sicheren\" Einsatz von KI in der Bundesverwaltung veröffentlicht. Alles soll nachprüfbar sein.",
-      "url": "https://www.heise.de/news/KI-Leitlinien-Oeffentliche-Hand-soll-KI-nur-grundrechtskonform-nutzen-10370722.html",
-      "image_title": "Eine Grafik zeigt den Umriss eines menschlichen gehirns mit dem Schriftzug \"KI\" in der Mitte."
-    },
-    {
-      "title": "\"Meilenstein für digitale Souveränität\": 20 Jahre Open Document Format (ODF)",
-      "teaser": "The Document Foundation feiert den 20. Jahrestag der Festlegung von ODF als OASIS-Standard. Dieser fördere global digitale Unabhängigkeit und Interoperabilität.",
-      "url": "https://www.heise.de/news/Meilenstein-fuer-digitale-Souveraenitaet-20-Jahre-Open-Document-Format-ODF-10370728.html",
-      "image_title": "Das LibreOffice-Logo wird auf einem Laptop-Display angezeigt."
     },
     {
       "title": "NewsMehr als 400 IT-Sicherheitsexperten springen Chris Krebs bei",
