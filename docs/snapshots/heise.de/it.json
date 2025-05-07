@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-07T12:19:15",
+  "timestamp": "2025-05-07T13:25:49",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,26 @@
   ],
   "articles": [
     {
+      "title": "GitOps mit Crossplane, Teil 2: Basisinstallation",
+      "teaser": "Für eine Infrastrukturprovisionierung mit einer GitOps-Pipeline sollten auch Provisionierer und GitOps-Werkzeug nach den GitOps-Regeln eingerichtet werden.",
+      "url": "https://www.heise.de/hintergrund/GitOps-mit-Crossplane-Teil-2-Basisinstallation-10360476.html"
+    },
+    {
+      "title": "Intel senkt Preise für zwei Core Ultra 7 massiv",
+      "teaser": "Intel senkt die Preisempfehlungen von zwei Core Ultra 7. Zum ersten Mal seit 2019 fällt ein aktuelles 7er-Modell unter 300 Euro",
+      "url": "https://www.heise.de/news/Core-Ultra-7-265KF-Der-erste-aktuelle-Core-7-unter-300-Euro-seit-2019-10375161.html",
+      "image_title": "Drei Intel-Prozessoren nebeneinander vor blauem Hintergrund"
+    },
+    {
+      "title": "Heimserver: NAS-System Unraid 7.1.0 kann WLAN",
+      "teaser": "Das Heimserver-System Unraid unterstützt ab der Version 7.1.0 Netzwerk über WLAN. Der Import fremder Laufwerkpools wurde verbessert.",
+      "url": "https://www.heise.de/news/Heimserver-Unraid-7-10-lernt-WLAN-10375114.html"
+    },
+    {
       "title": "iX-Workshop: Echtzeitüberwachung mit Prometheus und Grafana",
       "teaser": "Infrastruktur und Anwendungen effektiv überwachen, Alarme einrichten und Probleme frühzeitig erkennen, um auf kritische Situationen reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Echtzeitueberwachung-mit-Prometheus-und-Grafana-10368585.html",
       "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
-    },
-    {
-      "title": "Ist OpenOffice tot?LibreOffice-Entwickler warnen vor Sicherheitslücken",
-      "teaser": "Die Entwickler von LibreOffice raten vom Konkurrenten OpenOffice ab. Die Apache-Software werde nicht weiterentwickelt.",
-      "url": "https://www.heise.de/news/Wegen-Sicherheitsluecken-LibreOffice-raet-von-OpenOffice-ab-10374548.html",
-      "image_title": "Dokument vor einem Bildschirm"
-    },
-    {
-      "title": "N26 SIM: Neobank wird zum Mobilfunkanbieter",
-      "teaser": "Die Neobank N26 kündigt sein eigenes Mobilfunkangebot an. Privatkunden der Bank können ab sofort einen Tarif über die App buchen.",
-      "url": "https://www.heise.de/news/N26-SIM-Neobank-wird-zum-Mobilfunkanbieter-10374966.html",
-      "image_title": "Verwaltung der N26 SIM auf einem Smartphone"
-    },
-    {
-      "title": "Smart Home: Matter-Geräte über IoT-Gateway in KNX-Installationen einbinden",
-      "teaser": "Viele Installateure tun sich beim Smart-Home-Standard Matter noch schwer. Ein neues Gateway verspricht nun, Matter-Geräte in bestehende KNX-Systeme einzubinden.",
-      "url": "https://www.heise.de/hintergrund/Smart-Home-Matter-Geraete-ueber-IoT-Gateway-in-KNX-Installationen-einbinden-10372020.html"
     },
     {
       "title": "HintergrundSmart Home: Matter-Geräte über IoT-Gateway in KNX-Installationen einbinden",
@@ -60,6 +59,18 @@
     {
       "title": "HintergrundDer Cyber Resilience Act und der Stand der Technik",
       "url": "https://www.heise.de/hintergrund/Der-Cyber-Resilience-Act-und-der-Stand-der-Technik-10362114.html"
+    },
+    {
+      "title": "Wegen Sicherheitslücken: LibreOffice rät von OpenOffice ab",
+      "teaser": "Die Entwickler von LibreOffice raten vom Konkurrenten OpenOffice ab. Die Apache-Software enthalte Sicherheitslücken und werde nicht weiterentwickelt.",
+      "url": "https://www.heise.de/news/Wegen-Sicherheitsluecken-LibreOffice-raet-von-OpenOffice-ab-10374548.html",
+      "image_title": "Dokument vor einem Bildschirm"
+    },
+    {
+      "title": "N26 SIM: Neobank wird zum Mobilfunkanbieter",
+      "teaser": "Die Neobank N26 kündigt sein eigenes Mobilfunkangebot an. Privatkunden der Bank können ab sofort einen Tarif über die App buchen.",
+      "url": "https://www.heise.de/news/N26-SIM-Neobank-wird-zum-Mobilfunkanbieter-10374966.html",
+      "image_title": "Verwaltung der N26 SIM auf einem Smartphone"
     },
     {
       "title": "Windows 11: Microsoft kündigt neues Startmenü und viele KI-Funktionen an",
@@ -136,18 +147,6 @@
       "title": "AlertBackupsoftware Commvault: Weitere Lücke angegriffen, Patch offenbar unwirksam",
       "teaser": "Zum Wochenende wurden Angriffe auf eine weitere Commvault-Sicherheitslücke bekannt. Das Update zum Abdichten wirkt wohl nicht.",
       "url": "https://www.heise.de/news/Backupsoftware-Commvault-Weitere-Luecke-angegriffen-Patch-offenbar-unwirksam-10374380.html"
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10368567.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Internal Developer Platform von Pulumi setzt Standards und entlastet Entwickler",
-      "teaser": "Infrastructure-as-Code-Anbieter Pulumi stellt eine interne Entwicklerplattform vor, die Vorlagen vereinheitlicht und die Arbeit der Entwickler erleichtern soll.",
-      "url": "https://www.heise.de/news/Internal-Developer-Platform-von-Pulumi-setzt-Standards-und-entlastet-Entwickler-10373394.html",
-      "image_title": "Aufmacher Kräne in Wolken"
     },
     {
       "title": "NewsWeitreichendes Fotografierverbot: Auswärtiges Amt warnt vor Neuregelung in Polen",
