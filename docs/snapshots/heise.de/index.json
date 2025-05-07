@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-07T18:14:06",
+  "timestamp": "2025-05-07T19:08:01",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "US-Berufungsgericht bestätigt Activision Blizzard-Übernahme durch Microsoft",
+      "url": "https://www.heise.de/news/US-Berufungsgericht-bestaetigt-Activision-Blizzard-Uebernahme-durch-Microsoft-10375564.html"
+    },
     {
       "title": "Top 10: Der beste Over-Ear-Kopfhörer im Test – Testsieger JBL vor Apple & Bose",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-over-ear-kopfhoerer-im-test/yp9675p"
@@ -60,10 +64,6 @@
     {
       "title": "Nach Unfall: Amazon-Tochter Zoox ruft 270 Robotaxis zurück",
       "url": "https://www.heise.de/news/Amazon-Tochter-Zoox-ruft-autonome-Taxis-nach-Unfall-zurueck-10375346.html"
-    },
-    {
-      "title": "Dateien offline bearbeiten: OpenCloud bekommt Desktop-Client und iOS-App",
-      "url": "https://www.heise.de/news/Dateien-offline-bearbeiten-OpenCloud-bekommt-Desktop-Client-und-iOS-App-10374574.html"
     },
     {
       "title": "BundesdigitalministerDeutschland soll zur \"treibenden Kraft Europas\" werden",
@@ -185,20 +185,26 @@
       "image_title": "Werbebild für GTA 6"
     },
     {
+      "title": "US-Berufungsgericht bestätigt Activision Blizzard-Übernahme durch Microsoft",
+      "teaser": "Microsoft kann aufatmen. Ein US-Berufungsgericht lehnt den Einspruch der Kartellbehörde FTC gegen die 69-Milliarden-Dollar-Übernahme von Activision Blizzard ab.",
+      "url": "https://www.heise.de/news/US-Berufungsgericht-bestaetigt-Activision-Blizzard-Uebernahme-durch-Microsoft-10375564.html",
+      "image_title": "Handy mit Logo von Activision Blizzard vor Microsoft-Logo"
+    },
+    {
       "title": "Top 10: Der beste Over-Ear-Kopfhörer im Test – Testsieger JBL vor Apple & Bose",
       "teaser": "Wir haben dutzende Over-Ear-Kopfhörer getestet. Wer hat den besten Klang, perfektes ANC, gute Verarbeitung und bietet das beste Preis-Leistungs-Verhältnis?",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-over-ear-kopfhoerer-im-test/yp9675p?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Hyperschallfluggerät Talon-A fliegt schneller als Mach 5 und landet anschließend",
       "teaser": "Talon-A ist ein unbemanntes Hyperschallflugzeug des US-Luftfahrtunternehmens Stratolaunch. Es fliegt schneller als Mach 5 und landet wie ein Flugzeug.",
       "url": "https://www.heise.de/news/Unbemanntes-Fluggeraet-Talon-A-landet-nach-Hyperschallflug-10375525.html",
       "image_title": "Hyperschallflugzeug Talon-A2"
-    },
-    {
-      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
-      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Insta360 X5 im Test: Robuste Actioncam für 360-Grad-Videos",
@@ -228,12 +234,6 @@
       "teaser": "Die freie Kollaborationsplattform OpenCloud bekommt einen Desktop-Client und eine iOS-App. Mit ihr lassen sich Dokumente synchronisieren und lokal bearbeiten.",
       "url": "https://www.heise.de/news/Dateien-offline-bearbeiten-OpenCloud-bekommt-Desktop-Client-und-iOS-App-10374574.html",
       "image_title": "OpenCloud-App auf Notebook und Smartphone"
-    },
-    {
-      "title": "UpdateKrankenkassen kritisieren hohe Kosten von Apps auf Rezept, eHealth-Verband tobt",
-      "teaser": "Krankenkassen fordern Nachbesserung bei Digitalen Gesundheitsanwendungen, speziell bei der Preisgestaltung. Vertreter der eHealth-Branche widersprechen.",
-      "url": "https://www.heise.de/news/Krankenkassen-kritisieren-hohe-Kosten-von-Apps-auf-Rezept-und-geringen-Nutzen-10363449.html",
-      "image_title": "Übergewichtiger Mann am Smartphone"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -299,6 +299,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "UpdateKrankenkassen kritisieren hohe Kosten von Apps auf Rezept, eHealth-Verband tobt",
+      "teaser": "Krankenkassen fordern Nachbesserung bei Digitalen Gesundheitsanwendungen, speziell bei der Preisgestaltung. Vertreter der eHealth-Branche widersprechen.",
+      "url": "https://www.heise.de/news/Krankenkassen-kritisieren-hohe-Kosten-von-Apps-auf-Rezept-und-geringen-Nutzen-10363449.html",
+      "image_title": "Übergewichtiger Mann am Smartphone"
     },
     {
       "title": "Signal: Messenger bringt zeitgesteuerte Sprachnachrichten",
@@ -370,15 +376,15 @@
       "image_title": ","
     },
     {
+      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
+      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
+    },
+    {
       "title": "Vision-Pro-Nachfolger: Zwei Modelle in Planung – plus Smartglasses à la Meta",
       "teaser": "Die Vision Pro ist seit Februar 2024 unverändert auf dem Markt. Apple scheint jedoch gleich an mehreren Nachfolgern zu arbeiten. Sie wären dringend nötig.",
       "url": "https://www.heise.de/news/Apple-Vision-Weiter-Arbeit-an-leichtem-Modell-doch-kommen-auch-Smartglasses-10364539.html",
       "image_title": "Nutzung der Vision Pro"
-    },
-    {
-      "title": "APIs effektiv absichern - Bedrohungen und Gegenmaßnahmen",
-      "teaser": "APIs sind das Herzstück moderner Anwendungen - und damit auch beliebtes Angriffsziel. Im Live-Webcast am 15.5. um 11 Uhr erläutert Sven Müller von Radware die wichtigsten Risiken und effektive Schutzmaßnahmen.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/geschaeftskritische-apis-effektiv-absichern-aktuelle-bedrohungen-und-gegenmassnahmen-4908/?source=hbsad-ersatz"
     },
     {
       "title": "Dieses ESP-Projekt bringt alte Maschinen in die Cloud",
@@ -431,12 +437,6 @@
       "teaser": "Wer Software nicht im App Store bezieht, muss Aktualisierungen pro Mac-App einzeln einspielen. Hier hilft das Tool MacUpdater. Doch die Macher möchten aufhören.",
       "url": "https://www.heise.de/news/MacUpdater-Traditionsreiches-Update-Tool-fuer-den-Mac-sucht-neue-Heimat-10371971.html",
       "image_title": "MacUpdater von CoreCode"
-    },
-    {
-      "title": "AlertJetzt patchen! Warnung vor Schadecode-Attacken auf FreeType und Langflow",
-      "teaser": "Die US-Sicherheitsbehörde CISA warnt vor Angriffen auf die Programmbibliothek FreeType und das KI-Tool Langflow.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Warnung-vor-Schadecode-Attacken-auf-FreeType-und-Langflow-10374264.html",
-      "image_title": "Warnmeldung auf Bildschirm"
     },
     {
       "title": "Blackout in Spanien kappte tatsächlich Satellitenverbindungen in Grönland",
@@ -608,21 +608,20 @@
       "url": "https://www.heise.de/en/news/YouTube-tests-premium-subscription-for-two-people-10372922.html"
     },
     {
-      "title": "Raspi, ESP & Co.: IoT-Bastelprojekte auf der Hutschiene installieren",
-      "teaser": "Bastelprojekte mit Mikrocontrollern können gepfuscht aussehen. Daher sollten Sie Dauerinstallationen ordentlich anschließen – mit diesen Bauteilen gelingt’s.",
-      "url": "https://www.heise.de/ratgeber/Raspi-ESP-Co-IoT-Bastelprojekte-auf-der-Hutschiene-installieren-10344245.html",
-      "image_title": ","
+      "title": "Wero für Solo-Selbstständige geht in Betrieb",
+      "teaser": "Kleinstgewerbetreibende und Solo-Selbstständige mit Konto bei einer Genossenschaftsbank können nun Zahlungen über den europäischen Zahlungsdienst Wero annehmen.",
+      "url": "https://www.heise.de/news/Wero-fuer-Solo-Selbststaendige-geht-in-Betrieb-10369701.html",
+      "image_title": "Zwei Personen halten ihre Smartphones nahe beeinander, im Hintergrund steht ein offener Laptop"
+    },
+    {
+      "title": "Denon/Marantz/B&WMasimo verkauft Audiosparte an Harman",
+      "teaser": "Masimo hat nach US-Medienberichten einem Verkauf an die Samsung-Tochter für 350 Millionen US-Dollar zugestimmt.",
+      "url": "https://www.heise.de/news/Denon-Marantz-B-W-Masimo-verkauft-Audiosparte-an-Harman-10374134.html"
     },
     {
       "title": "Von JavaScript zu TypeScript: Bequemer und fehlerärmer programmieren",
       "teaser": "Die dynamische Typisierung von JavaScript erleichtert anfangs das Entwickeln, führt dann aber schnell zu Problemen. Setzen Sie besser gleich TypeScript ein.",
       "url": "https://www.heise.de/hintergrund/Von-JavaScript-zu-TypeScript-Bequemer-und-fehleraermer-programmieren-10357975.html"
-    },
-    {
-      "title": "Wero für Solo-Selbstständige geht in Betrieb",
-      "teaser": "Kleinstgewerbetreibende und Solo-Selbstständige mit Konto bei einer Genossenschaftsbank können nun Zahlungen über den europäischen Zahlungsdienst Wero annehmen.",
-      "url": "https://www.heise.de/news/Wero-fuer-Solo-Selbststaendige-geht-in-Betrieb-10369701.html",
-      "image_title": "Zwei Personen halten ihre Smartphones nahe beeinander, im Hintergrund steht ein offener Laptop"
     },
     {
       "title": "Scannen, kopieren, druckenMultifunktionsdrucker für den Mac im Test",
@@ -757,21 +756,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Immunsystem steuert Gefühle: Warum Kranke schlecht gelaunt sind",
-      "teaser": "Lange dachte man, schlechte Laune bei Krankheit komme vom Unwohlsein. Doch Forscher fanden jetzt die wahre Ursache. Was das Immunsystem mit unseren Gefühlen macht.",
-      "url": "https://www.heise.de/tp/features/Immunsystem-steuert-Gefuehle-Warum-Kranke-schlecht-gelaunt-sind-10371843.html",
-      "image_title": "Kopf-Silhouette mit Gehirn, in dem der Griff eines Schirms, der Bakterien abwehrt auf eine Regenwolke zeigt"
+      "title": "Wettlauf um Hyperschallwaffen: USA auf der Verliererstraße?",
+      "teaser": "Die USA haben zwei Programme für Hyperschallwaffen eingestellt, während China und Russland in dieser Waffengattung wohl vorankommen. Verlieren die USA den Anschluss?",
+      "url": "https://www.heise.de/tp/features/Wettlauf-um-Hyperschallwaffen-USA-auf-der-Verliererstrasse-10370632.html",
+      "image_title": "Raketenwaffe unter einem Flugzeugrumpf"
     },
     {
-      "title": "Eskalation in Kaschmir: Indiens Luftangriffe auf Pakistan lassen Konflikt weiter hochkochen",
-      "teaser": "Indien tötet bei Luftangriffen auf Pakistan Dutzende Zivilisten. Islamabad schießt fünf indische Jets ab. Die Lage zwischen den Atommächten spitzt sich gefährlich zu.",
-      "url": "https://www.heise.de/tp/features/Eskalation-in-Kaschmir-Indiens-Luftangriffe-auf-Pakistan-lassen-Konflikt-weiter-hochkochen-10375094.html",
-      "image_title": "Flagge Pakistans und Indiens"
+      "title": "Gärten der Zukunft: Diese Strategien schützen Gärten vor Wetterextremen",
+      "teaser": "Dürre- und Hitzeperioden oder Starkregen betreffen zunehmend auch Hobby-Gärtner. Einige praktische Tipps, wie der Garten in der Klimakrise resilienter wird.",
+      "url": "https://www.heise.de/tp/features/Gaerten-der-Zukunft-Diese-Strategien-schuetzen-Gaerten-vor-Wetterextremen-10373053.html",
+      "image_title": "Erdboden mit Schubkarre, Spaten und Gießkanne"
     },
     {
-      "title": "Nvidia-Chef warnt: KI-Chips-Embargo gegen China kostet Milliarden",
-      "teaser": "Nvidia-Chef warnt vor Milliardenverlust durch KI-Chips-Embargo. China-Markt könnte auf 50 Milliarden US-Dollar wachsen. Wie wird die Trump-Regierung reagieren?",
-      "url": "https://www.heise.de/tp/features/Nvidia-Chef-warnt-KI-Chips-Embargo-gegen-China-kostet-Milliarden-10375207.html"
+      "title": "Neue Töne aus Beirut: Hisbollah-Führung setzt auf Stabilität mit USA",
+      "teaser": "Die Hisbollah-Führung sendet überraschende Signale an die USA. Sie betont gemeinsame Interessen für Stabilität im Libanon – US-Geheimdienste stimmen ihr zu. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Neue-Toene-aus-Beirut-Hisbollah-Fuehrung-setzt-auf-Stabilitaet-mit-USA-10373491.html",
+      "image_title": "Hisbollah-Kämpfer im Libanon mit Flagge"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
