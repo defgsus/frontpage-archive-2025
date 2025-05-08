@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-08T14:09:29",
+  "timestamp": "2025-05-08T15:10:14",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,17 @@
   ],
   "articles": [
     {
+      "title": "Wohl keine kompletten Tests der GeForce RTX 5060 zum Verkaufsbeginn",
+      "teaser": "Ab 19. Mai will Nvidia offenbar die kleinste Blackwell-Karte verkaufen. Manche Tester haben sie bereits, können aber mangels Treiber nichts testen.",
+      "url": "https://www.heise.de/news/Nvidia-legt-Marktstart-der-GeForce-RTX-5060-mitten-in-die-Computex-10376849.html"
+    },
+    {
+      "title": "Gegen BetrugEinigung auf Sicherheitsmaßnahmen beim Deutschlandticket erzielt",
+      "teaser": "Nach langem Ringen hat die Verkehrsbranche verbindliche Sicherheitsmaßnahmen gegen Beitrug beim Deutschlandticket beschlossen.",
+      "url": "https://www.heise.de/news/Gegen-Betrug-Einigung-auf-Sicherheitsmassnahmen-beim-Deutschlandticket-erzielt-10375918.html",
+      "image_title": "Hand mit Deutschlandticket auf Smartphone vor einfahrendem Zug"
+    },
+    {
       "title": "ARM knackt zum ersten Mal die Milliardenmarke",
       "teaser": "Höhere Lizenzkosten und Chipabgaben bescheren ARM ein Rekordquartal. Insbesondere der Prozessorbaukasten bringt Geld.",
       "url": "https://www.heise.de/news/ARM-knackt-zum-ersten-Mal-die-Milliardenmarke-10376769.html",
@@ -36,18 +47,6 @@
       "teaser": "Bevor ein US-Richter das Strafmaß für einen Totschlag verkünden konnte, äußerte sich der Getötete scheinbar selbst – dank KI.",
       "url": "https://www.heise.de/news/Lob-vom-Richter-KI-generiertes-Abbild-eines-Getoeteten-aeussert-sich-in-US-Gericht-10376647.html",
       "image_title": "Oberkörper eines bärtigen Mannes"
-    },
-    {
-      "title": "iOS 18.5: Bildschirmzeit hilft künftig überlisteten Eltern",
-      "teaser": "Die Veröffentlichung von iOS 18.5 steht kurz bevor. Für Nutzer der Bildschirmzeit gibt es eine neue Benachrichtigung, wenn jemand den Code erraten hat.",
-      "url": "https://www.heise.de/news/iOS-18-5-Bildschirmzeit-hilft-kuenftig-ueberlisteten-Eltern-10376763.html",
-      "image_title": "Apples Bildschirmzeit"
-    },
-    {
-      "title": "AlertMitel SIP-Phones lassen sich beliebige Befehle unterjubeln",
-      "teaser": "Durch teils kritische Sicherheitslücken in Mitels SIP-Phones können Angreifer verwundbaren Geräten beliebige Befehle unterschieben.",
-      "url": "https://www.heise.de/news/Mitel-SIP-Phones-lassen-sich-beliebige-Befehle-unterjubeln-10376625.html",
-      "image_title": "Ein Schnurtelefon von der Seite, ein Arm im weißem Hemd hält den Hörer hoch."
     },
     {
       "title": "TestsKurztests: Switch, CPU-Luftkühler und MicroSD-Karte",
@@ -62,6 +61,18 @@
       "title": "RatgeberBauvorschlag: Ryzen-9000-PC mit Radeon RX 9070",
       "url": "https://www.heise.de/ratgeber/Bauvorschlag-Ryzen-9000-PC-mit-Radeon-RX-9070-10361159.html",
       "image_title": "!!!Foto kann bitte noch etwas links beschnitten werden, sodass nur das Innere zu sehen ist!!!,"
+    },
+    {
+      "title": "iOS 18.5: Bildschirmzeit hilft künftig überlisteten Eltern",
+      "teaser": "Die Veröffentlichung von iOS 18.5 steht kurz bevor. Für Nutzer der Bildschirmzeit gibt es eine neue Benachrichtigung, wenn jemand den Code erraten hat.",
+      "url": "https://www.heise.de/news/iOS-18-5-Bildschirmzeit-hilft-kuenftig-ueberlisteten-Eltern-10376763.html",
+      "image_title": "Apples Bildschirmzeit"
+    },
+    {
+      "title": "AlertMitel SIP-Phones lassen sich beliebige Befehle unterjubeln",
+      "teaser": "Durch teils kritische Sicherheitslücken in Mitels SIP-Phones können Angreifer verwundbaren Geräten beliebige Befehle unterschieben.",
+      "url": "https://www.heise.de/news/Mitel-SIP-Phones-lassen-sich-beliebige-Befehle-unterjubeln-10376625.html",
+      "image_title": "Ein Schnurtelefon von der Seite, ein Arm im weißem Hemd hält den Hörer hoch."
     },
     {
       "title": "I/O-Edition: Google verbessert KI-Modell Gemini Pro 2.5 für Entwickler",
@@ -136,18 +147,6 @@
       "teaser": "Ende Juni treffen sich Entwicklerinnen und Entwickler im niederländischen Hemelum zu einer Unkonferenz mit vielen Java-Gesprächen und einigen Segeltörns.",
       "url": "https://www.heise.de/news/Java-Unkonferenz-JSail-Mit-vollem-Segel-zu-aktuellen-Java-Themen-10375762.html",
       "image_title": "Segeltörn auf der JSail"
-    },
-    {
-      "title": "ServiceNow-Chef Bill McDermott: \"Traditionelles CRM ist kaputt\"",
-      "teaser": "KI-Agenten sind der neue Hype – und da stimmt auch US-Anbieter ServiceNow mit ein. Für Chef Bill McDermott ist die Zukunft des CRM ganz klar agentisch geprägt.",
-      "url": "https://www.heise.de/news/ServiceNow-Chef-Bill-McDermott-Traditionelles-CRM-ist-kaputt-10375420.html",
-      "image_title": "ServiceNow-CEO Bill McDermott auf der Konferenzbühne"
-    },
-    {
-      "title": "AlertUbiquiti Unifi Protect: Kritisches Leck ermöglicht Codeschmuggel",
-      "teaser": "In Ubiquiti Unifi Protect schließt der Hersteller zwei Sicherheitslücken. Angreifer können etwa Schadcode einschleusen und ausführen.",
-      "url": "https://www.heise.de/news/Ubiquity-UniFi-Protect-Einschleusen-von-Schadcode-moeglich-10375772.html",
-      "image_title": "CCTV-Kamera an der Decke"
     },
     {
       "title": "NewsWeitreichendes Fotografierverbot: Auswärtiges Amt warnt vor Neuregelung in Polen",
