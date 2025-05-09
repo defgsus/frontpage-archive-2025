@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-09T22:09:10",
+  "timestamp": "2025-05-09T23:08:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -348,11 +348,6 @@
       "image_title": "Windows-Update mit \"Achtung\"-Schild"
     },
     {
-      "title": "heise+ Update vom 9. Mai 2025: Lesetipps fürs Wochenende",
-      "teaser": "Der wöchentliche Newsletter von heise+ mit den Themen: eSIM, Apple-Watch- und Monitor-Kaufberatung, lokal KI-Bilder generieren sowie Webscraper für Zalando.",
-      "url": "https://www.heise.de/news/heise-Update-vom-9-Mai-2025-Lesetipps-fuers-Wochenende-10378060.html"
-    },
-    {
       "title": "Im Test: Professionelle Kopfhörersimulationen für Dolby Atmos",
       "teaser": "Die Programme APL Virtuoso und Neumann RIME simulieren Atmos-Sound auf Kopfhörern für Musik und Filme. Wir vergleichen sie und geben Tipps zum Setup.",
       "url": "https://www.heise.de/tests/Im-Test-Professionelle-Kopfhoerersimulationen-fuer-Dolby-Atmos-10366378.html"
@@ -374,15 +369,15 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Skype-Quiz-10378119.html"
     },
     {
-      "title": "Lieber Wasserkühlung als Kühlung mit Luft",
-      "teaser": "Elektronik und Wasser? Lieber nicht. Doch bei der Kühlung von Rechnern gelten andere Regeln. In einem Webcast erfahren Sie, warum eine Wasserkühlung bei Servern eine bessere Lösung ist als die konventionelle Kühlung mit Luft.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-wasserkuehlung-der-schluessel-fuer-die-zukunft-ist-4869/?source=hbsad-ersatz"
-    },
-    {
       "title": "Linux-Desktop: Gnome Foundation mit neuem Geschäftsführer",
       "teaser": "Erneuter Wechsel an der Spitze der Gnome-Stiftung: Interims-Geschäftsführer Richard Littauer übergibt die Leitung an Steven Deobald – auf Dauer.",
       "url": "https://www.heise.de/news/Linux-Desktop-Gnome-Foundation-mit-neuem-Geschaeftsfuehrer-10377302.html",
       "image_title": "Schriftzug \"Linux\""
+    },
+    {
+      "title": "Video: Bauen im australischen Outback – Herausforderungen für die IT-Infrastruktur",
+      "teaser": "Wie Acciona Zuverlässigkeit, Sicherheit und Energieeffizienz seiner IT-Umgebungen steigern konnte",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-bauen-im-australischen-outback-herausforderungen-fuer-die-it-infrastruktur-4914/?source=hbsadersatz"
     },
     {
       "title": "Die US-Regierung will die Aufspaltung Googles – Adam Epstein hat andere Ideen",
@@ -433,6 +428,11 @@
       "teaser": "Das MIT hat den wohl schnellsten Tischtennisroboter der Welt entwickelt. Der Roboter hat aber noch so seine Tücken.",
       "url": "https://www.heise.de/news/MIT-baut-hochpraezisen-und-schlagkraeftigen-Tischtennisroboter-10377641.html",
       "image_title": "Phasen einer Schlagbewegung des MIT-Tischtennisroboters"
+    },
+    {
+      "title": "Neu in .NET 9.0 [20]: Erweiterte Nutzung von System.ReadOnlySpan<T>",
+      "teaser": "In .NET 9.0 kommt die Speicherallokationen vermeidende Klasse System.ReadOnlySpan<T> an weiteren Stellen in der .NET-Basisklassenbibliothek zum Einsatz.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-9-0-20-Erweiterte-Nutzung-von-System-ReadOnlySpan-T-10377811.html"
     },
     {
       "title": "NIS2 nicht umgesetzt: EU-Strafe für Deutschland rückt einen Schritt näher",
@@ -602,11 +602,6 @@
       "url": "https://www.heise.de/en/news/NIS2-not-implemented-EU-fine-for-Germany-moves-one-step-closer-10375493.html"
     },
     {
-      "title": "OpenSearch 3.0 ist da und bringt mehr Leistung und Skalierbarkeit",
-      "teaser": "Während der OpenSearchCon Europe wurde Version 3.0 des Such-Frameworks veröffentlicht. OpenSearch indexiert schneller und geht sparsamer mit Daten um.",
-      "url": "https://www.heise.de/news/OpenSearch-3-0-ist-da-und-bringt-mehr-Leistung-und-Skalierbarkeit-10378659.html"
-    },
-    {
       "title": "FAQ: Smart Meter",
       "teaser": "Kosten und Nutzen, Einbaupflicht und Wunscheinbau, Regeln für Mieter und Vermieter: Wir beantworten die häufigsten Fragen zu Smart Metern.",
       "url": "https://www.heise.de/ratgeber/FAQ-Smart-Meter-10354216.html"
@@ -615,6 +610,11 @@
       "title": "c't 3003Homeserver: Das machen wir damit",
       "teaser": "Was macht man eigentlich mit einem Homeserver? Und welche Hardware nimmt man? Wir gewähren Zugang zu unseren Privat-Servern.",
       "url": "https://www.heise.de/news/Das-machen-wir-mit-unseren-Homeservern-10378757.html"
+    },
+    {
+      "title": "OpenSearch 3.0 ist da und bringt mehr Leistung und Skalierbarkeit",
+      "teaser": "Während der OpenSearchCon Europe wurde Version 3.0 des Such-Frameworks veröffentlicht. OpenSearch indexiert schneller und geht sparsamer mit Daten um.",
+      "url": "https://www.heise.de/news/OpenSearch-3-0-ist-da-und-bringt-mehr-Leistung-und-Skalierbarkeit-10378659.html"
     },
     {
       "title": "Verlorenes findenAirTag-Alternativen mit Apples „Wo ist?“",
@@ -749,22 +749,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Gesichtserkennung in der Medizin: Künstliche Intelligenz schlägt Ärzte",
-      "teaser": "Künstliche Intelligenz übertrifft Ärzte bei der Alterseinschätzung. Ein simples Porträtfoto genügt. Doch was soll das bringen?",
-      "url": "https://www.heise.de/tp/features/Gesichtserkennung-in-der-Medizin-Kuenstliche-Intelligenz-schlaegt-Aerzte-10378020.html",
-      "image_title": "Mutter und Tochter"
+      "title": "Völkerrechtswidrige Annexion: Wenn Worte zu Waffen werden",
+      "teaser": "Doppelt gemoppelt hält besser? Die Kunst der medialen Übertreibung. Zur Macht der Wortwahl. Analyse.",
+      "url": "https://www.heise.de/tp/features/Voelkerrechtswidrige-Annexion-Wenn-Worte-zu-Waffen-werden-10376082.html"
     },
     {
-      "title": "Wer gehört zum deutschen Volk?",
-      "teaser": "Die Frage nach der Zugehörigkeit zum deutschen Volk erhitzt die Gemüter. Das Grundgesetz definiert es über die Staatsangehörigkeit. Doch was bedeutet das konkret?",
-      "url": "https://www.heise.de/tp/features/Wer-gehoert-zum-deutschen-Volk-10378565.html",
-      "image_title": "Richter, Schlaghammer und Justiz im Amt"
+      "title": "27 Millionen Tote: Die vergessenen Opfer des deutschen Ostfeldzugs",
+      "teaser": "80 Jahre Kriegsende – Erinnerungskultur auf dem Prüfstand: Gedenkfeier ohne russische und belarussische Vertreter und eine Bewertung des Vernichtungskriegs durch Historiker.",
+      "url": "https://www.heise.de/tp/features/27-Millionen-Tote-Die-vergessenen-Opfer-des-deutschen-Ostfeldzugs-10375791.html",
+      "image_title": "Kapitulation von Deutschland, 7. Mai 1945. Air Chief Marshall Arthur Tedder, stellvertretender Oberbefehlshaber, inspiziert die russische Ehrengarde bei seiner Ankunft auf dem Flugplatz Tempelhof, Berlin."
     },
     {
-      "title": "Von Telepolis ausgerichtet: Historiker und Diplomaten zum deutsch-russischen Verhältnis",
-      "teaser": "80 Jahre nach Kriegsende diskutieren Experten die deutsch-russischen Beziehungen. Vom Feind zum Freund und wieder zurück? Die Veranstaltung offenbart überraschende Einsichten.",
-      "url": "https://www.heise.de/tp/features/Von-Telepolis-ausgerichtet-Historiker-und-Diplomaten-zum-deutsch-russischen-Verhaeltnis-10376990.html",
-      "image_title": "Militär Vad und Publizistin Dahn"
+      "title": "Geheimtreffen in Baku: Deutsche Politiker und Russen auf Schattenmission",
+      "teaser": "Deutsche trafen sich mit russischen Vertretern in Baku. SPD-Mann Stegner war dabei, auch Ex-Kanzleramtschef Pofalla. Der ARD gefiel das nicht so gut.",
+      "url": "https://www.heise.de/tp/features/Geheimtreffen-in-Baku-Deutsche-Politiker-und-Russen-auf-Schattenmission-10378972.html",
+      "image_title": "Zwei Männer von hinten in einer Hotel Anlage, daneben die Fahnen von Deutschland und Russland"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
