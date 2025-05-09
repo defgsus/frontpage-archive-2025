@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-09T08:13:43",
+  "timestamp": "2025-05-09T09:10:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,40 @@
   ],
   "articles": [
     {
+      "title": "Neu in .NET 9.0 [20]: Erweiterte Nutzung von System.ReadOnlySpan<T>",
+      "teaser": "In .NET 9.0 kommt die Speicherallokationen vermeidende Klasse System.ReadOnlySpan<T> an weiteren Stellen in der .NET-Basisklassenbibliothek zum Einsatz.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-9-0-20-Erweiterte-Nutzung-von-System-ReadOnlySpan-T-10377811.html"
+    },
+    {
+      "title": "AlertSicherheitRemote-Access-Trojaner in npm-Paket mit 40.000 wöchentlichen Downloads gefunden",
+      "teaser": "Angreifer hatten das Paket rand-user-agent, das unter anderem für automatische Tests und zum Web-Scraping dient, mit Schadcode versehen.",
+      "url": "https://www.heise.de/news/Remote-Access-Trojaner-in-npm-Paket-mit-40-000-woechentlichen-Downloads-gefunden-10377590.html",
+      "image_title": "Künstlerische Darstellung einer Computerplatine mit aufgemaltem Pferd"
+    },
+    {
+      "title": "Web Search per API: Anthropic erweitert seine KI-Entwicklerschnittstelle",
+      "teaser": "Die Möglichkeit zur Websuche soll die KI um die Fähigkeit erweitern, Echtzeitinformationen einzubeziehen. Anthropic nennt verschiedene Anwendungsszenarien.",
+      "url": "https://www.heise.de/news/Web-Search-per-API-Anthropic-erweitert-seine-KI-Entwicklerschnittstelle-10377872.html",
+      "image_title": "Symbolbild für die Web-Search-API von Anthropic"
+    },
+    {
       "title": "Auch für Geldwäsche der Bybit-Beute genutzt: Behörden schalten Kryptoportal ab",
       "teaser": "Seit mehr als zehn Jahren konnte man auf eXch anonym Kryptogeld in andere Kryptowährungen tauschen. Als die Schließung angekündigt wurde, griff das BKA zu.",
       "url": "https://www.heise.de/news/Auch-fuer-Geldwaesche-der-Bybit-Beute-genutzt-Behoerden-schalten-Kryptoportal-ab-10377699.html",
       "image_title": "Englischer Erklärung, dass die Plattform beschlagnahmt wurde"
+    },
+    {
+      "title": "RatgeberDatenanalyse mit Python: Wie man Ausreißer in Zeitreihen verlässlich erkennt",
+      "url": "https://www.heise.de/ratgeber/Datenanalyse-mit-Python-Wie-man-Ausreisser-in-Zeitreihen-verlaesslich-erkennt-10373388.html"
+    },
+    {
+      "title": "TestsKurztests: Switch, CPU-Luftkühler und MicroSD-Karte",
+      "url": "https://www.heise.de/tests/Kurztests-Switch-CPU-Luftkuehler-und-MicroSD-Karte-10366015.html",
+      "image_title": ","
+    },
+    {
+      "title": "TestsWordPress.com: Mit KI und Text-Prompts in wenigen Minuten zur Website",
+      "url": "https://www.heise.de/tests/WordPress-com-Mit-KI-und-Text-Prompts-in-wenigen-Minuten-zur-Website-10374682.html"
     },
     {
       "title": "AlertSicherheitslücken: F5 BIG-IP-Appliances sind an mehreren Stellen verwundbar",
@@ -44,23 +74,10 @@
       "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
-      "title": "KommentarMicrosofts Milliardengeschenk ist ein Trojanisches Pferd für Europa",
-      "teaser": "Microsoft macht Europa Zusicherungen zur digitalen Souveränität. Unser Autor Dennis-Kenji Kipker meldet da Bedenken an.",
+      "title": "Kommentar: Microsofts Milliardengeschenk ist ein Trojanisches Pferd für Europa",
+      "teaser": "Microsoft-Manager Brad Smith macht Europa Zusicherungen zur digitalen Souveränität. Doch da reimt sich versprochen auf gebrochen, findet Dennis-Kenji Kipker.",
       "url": "https://www.heise.de/meinung/Kommentar-Microsofts-Milliardengeschenk-ist-ein-Trojanisches-Pferd-fuer-Europa-10376360.html",
       "image_title": "Sicht auf das Fenster eines Bürogebaudes mit Microsoft-Logo"
-    },
-    {
-      "title": "RatgeberDatenanalyse mit Python: Wie man Ausreißer in Zeitreihen verlässlich erkennt",
-      "url": "https://www.heise.de/ratgeber/Datenanalyse-mit-Python-Wie-man-Ausreisser-in-Zeitreihen-verlaesslich-erkennt-10373388.html"
-    },
-    {
-      "title": "TestsKurztests: Switch, CPU-Luftkühler und MicroSD-Karte",
-      "url": "https://www.heise.de/tests/Kurztests-Switch-CPU-Luftkuehler-und-MicroSD-Karte-10366015.html",
-      "image_title": ","
-    },
-    {
-      "title": "TestsWordPress.com: Mit KI und Text-Prompts in wenigen Minuten zur Website",
-      "url": "https://www.heise.de/tests/WordPress-com-Mit-KI-und-Text-Prompts-in-wenigen-Minuten-zur-Website-10374682.html"
     },
     {
       "title": "c't-Webinar: Passkeys statt Passwörter",
@@ -131,24 +148,6 @@
       "title": "Wohl keine kompletten Tests der GeForce RTX 5060 zum Verkaufsbeginn",
       "teaser": "Ab 19. Mai will Nvidia offenbar die kleinste Blackwell-Karte verkaufen. Manche Tester haben sie bereits, können aber mangels Treiber nichts testen.",
       "url": "https://www.heise.de/news/Nvidia-legt-Marktstart-der-GeForce-RTX-5060-mitten-in-die-Computex-10376849.html"
-    },
-    {
-      "title": "Gegen Betrug: Einigung auf Sicherheitsmaßnahmen beim Deutschlandticket erzielt",
-      "teaser": "Nach langem Ringen hat die Verkehrsbranche verbindliche Sicherheitsmaßnahmen gegen Betrug in dreistelliger Millionenhöhe beim Deutschlandticket beschlossen.",
-      "url": "https://www.heise.de/news/Gegen-Betrug-Einigung-auf-Sicherheitsmassnahmen-beim-Deutschlandticket-erzielt-10375918.html",
-      "image_title": "Hand mit Deutschlandticket auf Smartphone vor einfahrendem Zug"
-    },
-    {
-      "title": "ARM knackt zum ersten Mal die Milliardenmarke",
-      "teaser": "Höhere Lizenzkosten und Chipabgaben bescheren ARM ein Rekordquartal. Insbesondere der Prozessorbaukasten bringt Geld.",
-      "url": "https://www.heise.de/news/ARM-knackt-zum-ersten-Mal-die-Milliardenmarke-10376769.html",
-      "image_title": "Chip auf Mainboard"
-    },
-    {
-      "title": "Lob vom Richter: KI-generiertes Abbild eines Getöteten äußert sich in US-Gericht",
-      "teaser": "Bevor der zuständige Richter das Strafmaß für einen Totschlag im US-Bundesstaat Arizona verkünden konnte, äußerte sich der Getötete scheinbar selbst – dank KI.",
-      "url": "https://www.heise.de/news/Lob-vom-Richter-KI-generiertes-Abbild-eines-Getoeteten-aeussert-sich-in-US-Gericht-10376647.html",
-      "image_title": "Oberkörper eines bärtigen Mannes"
     },
     {
       "title": "NewsWeitreichendes Fotografierverbot: Auswärtiges Amt warnt vor Neuregelung in Polen",
