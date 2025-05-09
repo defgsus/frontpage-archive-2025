@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-09T09:10:35",
+  "timestamp": "2025-05-09T10:10:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,12 +26,47 @@
   ],
   "articles": [
     {
+      "title": "heise jobs IT Tag am 20. Mai in Leipzig",
+      "teaser": "Finden Sie ihren IT-Traumjob und kommen Sie mit potenziellen Arbeitgebern in Kontakt!",
+      "url": "https://www.heise.de/news/heise-jobs-IT-Tag-am-20-Mai-in-Leipzig-10376035.html"
+    },
+    {
+      "title": "WordPress.com: Mit KI und Text-Prompts in wenigen Minuten zur Website",
+      "teaser": "WordPress.com startet den AI Website Builder: Er erzeugt nicht nur Webseiten, sondern füllt sie auch mit Texten und Fotos. Wir testen, wie gut das funktioniert.",
+      "url": "https://www.heise.de/tests/WordPress-com-Mit-KI-und-Text-Prompts-in-wenigen-Minuten-zur-Website-10374682.html"
+    },
+    {
+      "title": "Apples Ex-Chefdesigner Jony Ive vermisst die \"unschuldige Euphorie\" im Valley",
+      "teaser": "Apples früherer Chief Design Officer Jony Ive stellte sich Fragen in San Francisco. Er sparte einmal mehr auch nicht mit kritischen Tönen.",
+      "url": "https://www.heise.de/news/Apples-Ex-Chefdesigner-Jony-Ive-vermisst-die-unschuldige-Euphorie-im-Valley-10378113.html",
+      "image_title": "Apples früherer Chefdesigner Jony Ive im Gespräch auf der Stripe Sessions"
+    },
+    {
+      "title": "Dresdener Halbleiterwerk: Infineons Milliardenförderung ist jetzt offiziell",
+      "teaser": "Das Bundesministerium für Wirtschaft und Energie bezuschusst Infineons Neubau mit 920 Millionen Euro. Weiteres Geld kommt von einem EU-Projekt.",
+      "url": "https://www.heise.de/news/Dresdener-Halbleiterwerk-Infineons-Milliardenfoerderung-ist-jetzt-offiziell-10378038.html",
+      "image_title": "Infineons Rohbau eines neuen Halbleiterwerks in Dresden"
+    },
+    {
+      "title": "RatgeberDatenanalyse mit Python: Wie man Ausreißer in Zeitreihen verlässlich erkennt",
+      "url": "https://www.heise.de/ratgeber/Datenanalyse-mit-Python-Wie-man-Ausreisser-in-Zeitreihen-verlaesslich-erkennt-10373388.html"
+    },
+    {
+      "title": "TestsKurztests: Switch, CPU-Luftkühler und MicroSD-Karte",
+      "url": "https://www.heise.de/tests/Kurztests-Switch-CPU-Luftkuehler-und-MicroSD-Karte-10366015.html",
+      "image_title": ","
+    },
+    {
+      "title": "TestsWordPress.com: Mit KI und Text-Prompts in wenigen Minuten zur Website",
+      "url": "https://www.heise.de/tests/WordPress-com-Mit-KI-und-Text-Prompts-in-wenigen-Minuten-zur-Website-10374682.html"
+    },
+    {
       "title": "Neu in .NET 9.0 [20]: Erweiterte Nutzung von System.ReadOnlySpan<T>",
       "teaser": "In .NET 9.0 kommt die Speicherallokationen vermeidende Klasse System.ReadOnlySpan<T> an weiteren Stellen in der .NET-Basisklassenbibliothek zum Einsatz.",
       "url": "https://www.heise.de/blog/Neu-in-NET-9-0-20-Erweiterte-Nutzung-von-System-ReadOnlySpan-T-10377811.html"
     },
     {
-      "title": "AlertSicherheitRemote-Access-Trojaner in npm-Paket mit 40.000 wöchentlichen Downloads gefunden",
+      "title": "AlertRemote-Access-Trojaner in npm-Paket mit 40.000 wöchentlichen Downloads gefunden",
       "teaser": "Angreifer hatten das Paket rand-user-agent, das unter anderem für automatische Tests und zum Web-Scraping dient, mit Schadcode versehen.",
       "url": "https://www.heise.de/news/Remote-Access-Trojaner-in-npm-Paket-mit-40-000-woechentlichen-Downloads-gefunden-10377590.html",
       "image_title": "Künstlerische Darstellung einer Computerplatine mit aufgemaltem Pferd"
@@ -47,19 +82,6 @@
       "teaser": "Seit mehr als zehn Jahren konnte man auf eXch anonym Kryptogeld in andere Kryptowährungen tauschen. Als die Schließung angekündigt wurde, griff das BKA zu.",
       "url": "https://www.heise.de/news/Auch-fuer-Geldwaesche-der-Bybit-Beute-genutzt-Behoerden-schalten-Kryptoportal-ab-10377699.html",
       "image_title": "Englischer Erklärung, dass die Plattform beschlagnahmt wurde"
-    },
-    {
-      "title": "RatgeberDatenanalyse mit Python: Wie man Ausreißer in Zeitreihen verlässlich erkennt",
-      "url": "https://www.heise.de/ratgeber/Datenanalyse-mit-Python-Wie-man-Ausreisser-in-Zeitreihen-verlaesslich-erkennt-10373388.html"
-    },
-    {
-      "title": "TestsKurztests: Switch, CPU-Luftkühler und MicroSD-Karte",
-      "url": "https://www.heise.de/tests/Kurztests-Switch-CPU-Luftkuehler-und-MicroSD-Karte-10366015.html",
-      "image_title": ","
-    },
-    {
-      "title": "TestsWordPress.com: Mit KI und Text-Prompts in wenigen Minuten zur Website",
-      "url": "https://www.heise.de/tests/WordPress-com-Mit-KI-und-Text-Prompts-in-wenigen-Minuten-zur-Website-10374682.html"
     },
     {
       "title": "AlertSicherheitslücken: F5 BIG-IP-Appliances sind an mehreren Stellen verwundbar",
@@ -125,29 +147,6 @@
       "teaser": "SMB hat AFP in macOS zwar schon lange abgelöst, Nutzer konnten den AFP-Client aber weiter für Netzwerkverbindungen verwenden. Damit ist bald Schluss.",
       "url": "https://www.heise.de/news/Abgekuendigt-und-bald-verschwunden-Apples-Netzwerkprotokoll-AFP-fliegt-aus-macOS-10377182.html",
       "image_title": "Im Test: MacBook Air vs. MacBook Pro 13\""
-    },
-    {
-      "title": "Nintendo Switch 2: Prozessor entsteht mit alter Samsung-Fertigungstechnik",
-      "teaser": "Eine Analyse des Switch-2-Prozessors bestätigt viele Gerüchte. Klarheit herrscht jetzt zudem beim Fertigungsprozess von Samsung.",
-      "url": "https://www.heise.de/news/Switch-2-Nintendo-und-Nvidia-setzen-auf-alten-8-Nanometer-Prozess-10377100.html",
-      "image_title": "Ein Mensch hält die Switch 2"
-    },
-    {
-      "title": "Grafana künftig mit eigenem KI-Assistenten",
-      "teaser": "Grafana Labs präsentiert ein Bündel Neues – darunter Observability als Code, ein KI-Assistent und ein Update der Performance-Testing-Plattform.",
-      "url": "https://www.heise.de/news/Grafana-bekennt-sich-zu-Observability-als-Code-und-Open-Source-10376179.html",
-      "image_title": "Code auf Monitor"
-    },
-    {
-      "title": "WWDC 2025 voraus: Apples riskante Großbaustellen | Mac & i-Podcast",
-      "teaser": "Dank iOS 19 & Co steht eine besonders spannende Entwicklerkonferenz vor der Tür: Apple muss Antworten auf eine wachsende Zahl gravierender Knackpunkte finden.",
-      "url": "https://www.heise.de/news/WWDC-2025-voraus-Apples-riskante-Grossbaustellen-Mac-i-Podcast-10377040.html",
-      "image_title": "WWDC 2025 kommt: Worauf Apple Antworten finden muss Mac & i-Podcast"
-    },
-    {
-      "title": "Wohl keine kompletten Tests der GeForce RTX 5060 zum Verkaufsbeginn",
-      "teaser": "Ab 19. Mai will Nvidia offenbar die kleinste Blackwell-Karte verkaufen. Manche Tester haben sie bereits, können aber mangels Treiber nichts testen.",
-      "url": "https://www.heise.de/news/Nvidia-legt-Marktstart-der-GeForce-RTX-5060-mitten-in-die-Computex-10376849.html"
     },
     {
       "title": "NewsWeitreichendes Fotografierverbot: Auswärtiges Amt warnt vor Neuregelung in Polen",
