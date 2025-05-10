@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-10T06:12:25",
+  "timestamp": "2025-05-10T07:08:27",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Radikale Umstellung: Aus Skype wurde Teams – doch was ist mit dem Prepaid-Geld?",
+      "url": "https://www.heise.de/news/Skype-in-Teams-Erfahrungen-nach-dem-Switch-und-wie-es-mit-Guthaben-weitergeht-10377763.html"
+    },
     {
       "title": "Analyse: Was Star Trek über den Umgang mit künstlicher Intelligenz lehrt",
       "url": "https://www.heise.de/hintergrund/Analyse-Was-Star-Trek-ueber-den-Umgang-mit-kuenstlicher-Intelligenz-lehrt-10327761.html"
@@ -60,10 +64,6 @@
     {
       "title": "OpenSearch 3.0 ist da und bringt mehr Leistung und Skalierbarkeit",
       "url": "https://www.heise.de/news/OpenSearch-3-0-ist-da-und-bringt-mehr-Leistung-und-Skalierbarkeit-10378659.html"
-    },
-    {
-      "title": "Homeserver: Das machen wir damit",
-      "url": "https://www.heise.de/news/Das-machen-wir-mit-unseren-Homeservern-10378757.html"
     },
     {
       "title": "EnergiewendeGrößter Batteriespeicher der Welt soll in der Schweiz entstehen",
@@ -185,21 +185,27 @@
       "url": "https://www.heise.de/news/c-t-Podcast-Wie-viel-Mediennutzung-ist-zu-viel-fuer-Kinder-10376474.html"
     },
     {
+      "title": "Radikale Umstellung: Aus Skype wurde Teams – doch was ist mit dem Prepaid-Geld?",
+      "teaser": "Microsoft hat Skype endgültig beerdigt. Nutzer klagen über die Radikalität der Umstellung – und fragen, was mit ihrem eingezahlten Geld wird. So läuft es ab.",
+      "url": "https://www.heise.de/news/Skype-in-Teams-Erfahrungen-nach-dem-Switch-und-wie-es-mit-Guthaben-weitergeht-10377763.html",
+      "image_title": "Skype- und Teams-Icons"
+    },
+    {
       "title": "Analyse: Was Star Trek über den Umgang mit künstlicher Intelligenz lehrt",
       "teaser": "Schon die originale Star-Trek-Serie \"Raumschiff Enterprise\" nahm hochaktuelle Diskussionen über den Umgang mit KI vorweg. Wir analysieren drei Episoden.",
       "url": "https://www.heise.de/hintergrund/Analyse-Was-Star-Trek-ueber-den-Umgang-mit-kuenstlicher-Intelligenz-lehrt-10327761.html",
       "image_title": "Der Bordcomputer denkt nach"
     },
     {
+      "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
+      "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Von leuchtender Natur und farbenfroher Architektur: Die Bilder der Woche 18",
       "teaser": "Diese Woche beeindrucken die Werke unserer Galeriefotografen mit abstrakten Stadtarchitekturen und zauberhaften Waldlandschaften.",
       "url": "https://www.heise.de/news/Von-leuchtender-Natur-und-farbenfroher-Architektur-Die-Bilder-der-Woche-18-10377472.html",
       "image_title": "Kokerei Zeche Zollverein"
-    },
-    {
-      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
-      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Was Citizen Science leisten kann | c’t uplink",
@@ -227,12 +233,6 @@
       "title": "OpenSearch 3.0 ist da und bringt mehr Leistung und Skalierbarkeit",
       "teaser": "Während der OpenSearchCon Europe wurde Version 3.0 des Such-Frameworks veröffentlicht. OpenSearch indexiert schneller und geht sparsamer mit Daten um.",
       "url": "https://www.heise.de/news/OpenSearch-3-0-ist-da-und-bringt-mehr-Leistung-und-Skalierbarkeit-10378659.html"
-    },
-    {
-      "title": "Insta360 X5 im Test: Robuste Actioncam für 360-Grad-Videos",
-      "teaser": "Die Insta360 X5 filmt in 360 Grad, retuschiert die Halterung heraus, stabilisiert und wählt optional einen Bildausschnitt über KI. Wir haben sie getestet.",
-      "url": "https://www.heise.de/tests/Insta360-X5-im-Test-robuste-Actioncam-fuer-360-Grad-Videos-10367471.html",
-      "image_title": "!!!Produktfoto folgt. Aufmacher nur für online!!!, Insta360"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -298,6 +298,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Insta360 X5 im Test: Robuste Actioncam für 360-Grad-Videos",
+      "teaser": "Die Insta360 X5 filmt in 360 Grad, retuschiert die Halterung heraus, stabilisiert und wählt optional einen Bildausschnitt über KI. Wir haben sie getestet.",
+      "url": "https://www.heise.de/tests/Insta360-X5-im-Test-robuste-Actioncam-fuer-360-Grad-Videos-10367471.html",
+      "image_title": "!!!Produktfoto folgt. Aufmacher nur für online!!!, Insta360"
     },
     {
       "title": "Panasonic plant 10.000 Entlassungen",
@@ -370,14 +376,14 @@
       "url": "https://www.heise.de/news/heise-Update-vom-9-Mai-2025-Lesetipps-fuers-Wochenende-10378060.html"
     },
     {
+      "title": "Maximale KI-Performance – mit der richtigen Serverplattform",
+      "teaser": "Künstliche Intelligenz ist dabei, alle Branchen zu revolutionieren. Wer hier mithalten will, benötigt eine Server-Infrastruktur, die den Anforderungen großer Sprachmodelle und anderer KI-Lösungen gewachsen ist. Worauf es bei der Wahl der passenden CPU-Plattform ankommt.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/maximale-ki-performance-mit-der-richtigen-serverplattform-4918/?source=hbsadersatz"
+    },
+    {
       "title": "Im Test: Professionelle Kopfhörersimulationen für Dolby Atmos",
       "teaser": "Die Programme APL Virtuoso und Neumann RIME simulieren Atmos-Sound auf Kopfhörern für Musik und Filme. Wir vergleichen sie und geben Tipps zum Setup.",
       "url": "https://www.heise.de/tests/Im-Test-Professionelle-Kopfhoerersimulationen-fuer-Dolby-Atmos-10366378.html"
-    },
-    {
-      "title": "Mehr Unabhängigkeit bei der Servervirtualisierung",
-      "teaser": "Viele Unternehmen wollen ihre Virtualisierungsumgebungen kosteneffizienter gestalten und die Abhängigkeit von Herstellern reduzieren. In einem Webcast am 20. Mai erfahren Sie, welche Chancen sich mit der Open-Source-Lösung PROXMOX VE eröffnen.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/proxmox-ve-mehr-unabhaengigkeit-bei-der-servervirtualisierung-4910/?source=hbsad-ersatz"
     },
     {
       "title": "Core i-13000/14000: Noch ein Update gegen zu hohe CPU-Kernspannungen",
@@ -428,12 +434,6 @@
       "image_title": "Apples früherer Chefdesigner Jony Ive im Gespräch auf der Stripe Sessions"
     },
     {
-      "title": "App-Store-Streit mit Apple: Epic Games legt Anwaltsrechnung vor",
-      "teaser": "In einem wichtigen US-Teilverfahren hat Epic Games einen Sieg gegen Apple errungen. Die Kosten sollen an einer Milliarde kratzen – inklusive Umsatzverlust.",
-      "url": "https://www.heise.de/news/App-Store-Streit-mit-Apple-Epic-Games-legt-Anwaltsrechnung-vor-10375047.html",
-      "image_title": "Epic Games und Geldscheine"
-    },
-    {
       "title": "Fahrrad-Fakeshops öffnen zur Outdoor-Saison",
       "url": "https://www.heise.de/news/Fahrrad-Fakeshops-oeffnen-zur-Outdoor-Saison-10377520.html",
       "image_title": "Ein Radfahrer unterwegs"
@@ -458,9 +458,9 @@
       "url": "https://www.heise.de/ratgeber/Fritzbox-Trennung-des-Gastnetzes-im-LAN-10369236.html"
     },
     {
-      "title": "\"Hirnloser\" Roboter läuft oder schwimmt automatisch ohne Steuerungsbefehle",
-      "url": "https://www.heise.de/news/Hirnloser-Roboter-laeuft-oder-schwimmt-automatisch-ohne-Steuerungsbefehle-10377538.html",
-      "image_title": "Forscher vor ihrem Laufroboter"
+      "title": "App-Store-Streit mit Apple: Epic Games legt Anwaltsrechnung vor",
+      "url": "https://www.heise.de/news/App-Store-Streit-mit-Apple-Epic-Games-legt-Anwaltsrechnung-vor-10375047.html",
+      "image_title": "Epic Games und Geldscheine"
     },
     {
       "title": "O2 ignoriert Kundenrechte bei Handyvertrag",
@@ -600,19 +600,20 @@
       "url": "https://www.heise.de/en/news/Expired-support-VMware-users-with-perpetual-licenses-should-remove-updates-10376296.html"
     },
     {
-      "title": "Fritzbox: Trennung des Gastnetzes im LAN",
-      "teaser": "Ich nutze mehrere Fritzboxen und Repeater, um unser Haus WLAN-mäßig gut abzudecken. Mich interessiert nun, wie AVM im LAN das interne und das Gastnetz trennt.",
-      "url": "https://www.heise.de/ratgeber/Fritzbox-Trennung-des-Gastnetzes-im-LAN-10369236.html"
-    },
-    {
-      "title": "OpenSearch 3.0 ist da und bringt mehr Leistung und Skalierbarkeit",
-      "teaser": "Während der OpenSearchCon Europe wurde Version 3.0 des Such-Frameworks veröffentlicht. OpenSearch indexiert schneller und geht sparsamer mit Daten um.",
-      "url": "https://www.heise.de/news/OpenSearch-3-0-ist-da-und-bringt-mehr-Leistung-und-Skalierbarkeit-10378659.html"
+      "title": "O2 ignoriert Kundenrechte bei Handyvertrag",
+      "teaser": "Gehört zu einem Mobilfunkvertrag ein Smartphone, gelten dieselben Gewährleistungsrechte wie beim direkten Kauf. Etwaige Mängel muss der Anbieter beseitigen.",
+      "url": "https://www.heise.de/ratgeber/O2-ignoriert-Kundenrechte-bei-Handyvertrag-10375598.html",
+      "image_title": ","
     },
     {
       "title": "c't 3003Homeserver: Das machen wir damit",
       "teaser": "Was macht man eigentlich mit einem Homeserver? Und welche Hardware nimmt man? Wir gewähren Zugang zu unseren Privat-Servern.",
       "url": "https://www.heise.de/news/Das-machen-wir-mit-unseren-Homeservern-10378757.html"
+    },
+    {
+      "title": "FAQ: Smart Meter",
+      "teaser": "Kosten und Nutzen, Einbaupflicht und Wunscheinbau, Regeln für Mieter und Vermieter: Wir beantworten die häufigsten Fragen zu Smart Metern.",
+      "url": "https://www.heise.de/ratgeber/FAQ-Smart-Meter-10354216.html"
     },
     {
       "title": "KaufberatungSo finden Sie die passende Apple Watch",
@@ -651,12 +652,6 @@
       "image_title": "Linux läuft im Excel-Sheet"
     },
     {
-      "title": "Zwei Makroobjektive im Test",
-      "teaser": "Am einfachsten fotografieren Sie Makros mit spezialisierten Objektiven. Kamera- und Fremdhersteller haben diese im Programm. Wir geben einen Überblick.",
-      "url": "https://www.heise.de/tests/Zwei-Makroobjektive-im-Test-10372273.html",
-      "image_title": ", Alle Bilder: Thomas Hoffmann"
-    },
-    {
       "title": "Nik Collection 8: Bildbearbeitung mit Ebenen und Masken",
       "teaser": "Die Bildbearbeitungssuite Nik Collection 8 übernimmt Masken aus Photoshop, überträgt sie zwischen Plug-ins und gibt an Photoshop Smartobjekte zurück.",
       "url": "https://www.heise.de/news/Nik-Collection-8-teilt-Masken-mit-Photoshop-10362665.html"
@@ -672,6 +667,11 @@
       "teaser": "Die Top 10 des Galerie-Fotowettbewerbs von c't Fotografie zeigen dynamische Momente jenseits des Sitzalltags – von Straßenkünstlern bis zu Tänzerinnen.",
       "url": "https://www.heise.de/news/c-t-Fotografie-Wettbewerb-Menschen-in-Bewegung-Die-Gewinner-stehen-fest-10371562.html",
       "image_title": "Menschen auf der Straße performen eine akrobatische Einlage"
+    },
+    {
+      "title": "Canons Reisezoom, \"Bigma\" und CAI als Adobe-Beta – Fotonews der Woche 18/2024",
+      "teaser": "Canon legt ein altes Objektiv für den RF-Mount neu auf, Sigmas Supertele zeigt sich endlich, und \"Content Credentials\" stehen nun fast jedem offen.",
+      "url": "https://www.heise.de/news/Canons-Reisezoom-Bigma-und-CAI-als-Adobe-Beta-Fotonews-der-Woche-18-2024-10370991.html"
     },
     {
       "title": "Cyberangriffe ohne Malware: Living off the Land",
@@ -747,27 +747,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Geheimtreffen in Baku: Deutsche Politiker und Russen auf Schattenmission",
-      "teaser": "Deutsche trafen sich mit russischen Vertretern in Baku. SPD-Mann Stegner war dabei, auch Ex-Kanzleramtschef Pofalla. Der ARD gefiel das nicht so gut.",
-      "url": "https://www.heise.de/tp/features/Geheimtreffen-in-Baku-Deutsche-Politiker-und-Russen-auf-Schattenmission-10378972.html",
-      "image_title": "Zwei Männer von hinten in einer Hotel Anlage, daneben die Fahnen von Deutschland und Russland"
+      "title": "Dieses Wochenende: LSD statt Lambrusco?",
+      "teaser": "Alkohol reduzieren – aber wie? Zwei neue Studien zeigen überraschende Wege aus der Sucht. Eine davon könnte manchen Lesern allerdings sehr gewagt erscheinen.",
+      "url": "https://www.heise.de/tp/features/Dieses-Wochenende-LSD-statt-Lambrusco-10378423.html",
+      "image_title": "Junge Frau macht Party"
     },
     {
-      "title": "Kollagen aus dem Kochtopf: Kann Knochenbrühe wirklich Falten glätten?",
-      "teaser": "Knochenbrühe erlebt einen Boom. Stars schwören auf Knochenbrühe für Schönheit und Gesundheit. Doch hält sie, was sie verspricht?",
-      "url": "https://www.heise.de/tp/features/Kollagen-aus-dem-Kochtopf-Kann-Knochenbruehe-wirklich-Falten-glaetten-10377028.html",
-      "image_title": "Knochenbrühe in einem Topf enthält Kollagen, das den Körper mit Aminosäuren versorgt, die die Bausteine von Proteinen sind."
+      "title": "Erich Vad bei Telepolis-Veranstaltung: \"Wenn Raketen, dann machen wir es selber\"",
+      "teaser": "Ex-Merkel-Berater Vad warnt vor Taurus-Lieferung. Er sieht Risiken für Eskalation mit Russland. Warum er auch US-Mittelstreckenraketen hierzulande ablehnt",
+      "url": "https://www.heise.de/tp/features/Erich-Vad-bei-Telepolis-Veranstaltung-Wenn-Raketen-dann-machen-wir-es-selber-10377776.html",
+      "image_title": "Erich Vad"
     },
     {
-      "title": "Posse um AfD und Verfassungsschutz: Bändigt endlich den Geheimdienst!",
-      "teaser": "Der Verfassungsschutz wollte die AfD als \"sicher rechtsextremistisch\" einstufen. Dann folgte der peinliche Rückzieher. Was steckt hinter dem Chaos?",
-      "url": "https://www.heise.de/tp/features/Posse-um-AfD-und-Verfassungsschutz-Baendigt-endlich-den-Geheimdienst-10378321.html",
-      "image_title": "Kaffeebecher des BfV auf Messestand"
+      "title": "EU-Datenschutz versagt bei Clearviews Gesichtsdatenbank",
+      "teaser": "Clearview AI ignoriert EU-Datenschutz und Millionenstrafen. Die Firma sammelt weiter Gesichtsdaten – Lücken im Gesetz verhindern Konsequenzen.",
+      "url": "https://www.heise.de/tp/features/EU-Datenschutz-versagt-bei-Clearviews-Gesichtsdatenbank-10373221.html",
+      "image_title": "Ordner mit Clearview-Logo entwischt Richterhmammer"
     },
     {
-      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "Windows-Software auf dem Mac ausführen",
+      "teaser": "Mit Tools und Cloud-Diensten lässt sich Windows-Software auch auf Mac-Systemen ausführen. Wir stellen einige Lösungen vor.",
+      "url": "https://www.heise.de/download/specials/Apps-Programme-Windows-Software-auf-dem-Mac-ausfuehren-10350853"
     },
     {
       "title": "Signal - Messenger-App",
