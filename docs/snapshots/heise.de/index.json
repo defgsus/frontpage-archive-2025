@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-10T15:08:47",
+  "timestamp": "2025-05-10T16:10:10",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zu viele Daten in Cloud: Arbeitnehmer erhält Schadenersatz nach der DSGVO",
+      "url": "https://www.heise.de/news/Zu-viele-Daten-in-Cloud-Arbeitnehmer-erhaelt-Schadenersatz-nach-der-DSGVO-10379251.html"
+    },
     {
       "title": "Datenschutz-Smartphone ohne Google: Was das Punkt MC02 wirklich taugt",
       "url": "https://www.heise.de/tests/Datenschutz-Smartphone-ohne-Google-Was-das-Punkt-MC02-wirklich-taugt-10373681.html"
@@ -60,10 +64,6 @@
     {
       "title": "Developer Snapshots: Kleinere News der Woche",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10377621.html"
-    },
-    {
-      "title": "iX-Workshop: IT-Recht für Admins – Wege zur gesetzeskonformen IT-Praxis",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Recht-fuer-Admins-Wege-zur-gesetzeskonformen-IT-Praxis-10368632.html"
     },
     {
       "title": "Sowjetische VenussondeKosmos 482 ins Meer gestürzt",
@@ -185,19 +185,25 @@
       "url": "https://www.heise.de/news/Was-Citizen-Science-leisten-kann-c-t-uplink-10377229.html"
     },
     {
+      "title": "Zu viele Daten in Cloud: Arbeitnehmer erhält Schadenersatz nach der DSGVO",
+      "teaser": "Das Bundesarbeitsgericht hat entschieden: Ein Arbeitgeber darf nicht über eine Betriebsvereinbarung hinausgehende Beschäftigtendaten in die Cloud hochladen.",
+      "url": "https://www.heise.de/news/Zu-viele-Daten-in-Cloud-Arbeitnehmer-erhaelt-Schadenersatz-nach-der-DSGVO-10379251.html",
+      "image_title": "Verschiedene Icons zum Thema Datenschutz. In der Mitte ein Sicherheitsschloss, links daneben ein digitaler Personalausweis, rechts daneben ein Fingerabdruck. Dahinter steht eine Person, die beide Hände geöffnet hat, sodass es scheint, als ob die Sicherheitssymbole darüber schweben."
+    },
+    {
       "title": "Datenschutz-Smartphone ohne Google: Was das Punkt MC02 wirklich taugt",
       "teaser": "Punkt MC02 entfernt Google aus Android und speichert Daten verschlüsselt in der Schweiz. Wir testen, wie das Smartphone die Privatsphäre schützt.",
       "url": "https://www.heise.de/tests/Datenschutz-Smartphone-ohne-Google-Was-das-Punkt-MC02-wirklich-taugt-10373681.html"
     },
     {
-      "title": "Google beerdigt Rechtsstreit um Gesichtserkennung für 1,4 Milliarden Dollar",
-      "teaser": "Seit Jahren lagen Texas und Google im Clinch um Datenschutz und Privatsphäre. Nun hat man sich ohne Urteil geeinigt.",
-      "url": "https://www.heise.de/news/Google-beerdigt-Rechtsstreit-um-Gesichtserkennung-fuer-1-4-Milliarden-Dollar-10379137.html"
-    },
-    {
       "title": "Wie Unternehmen ihre DNS-Infrastruktur absichern können",
       "teaser": "DDoS-Attacken sind eine ernstzunehmende Gefahr für Unternehmen. Vor allem wenn der DNS-Server ins Visier genommen wird. Umso wichtiger sind bestimmte Schutzprinzipien bei der DNS-Architektur.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6969107408&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Google beerdigt Rechtsstreit um Gesichtserkennung für 1,4 Milliarden Dollar",
+      "teaser": "Seit Jahren lagen Texas und Google im Clinch um Datenschutz und Privatsphäre. Nun hat man sich ohne Urteil geeinigt.",
+      "url": "https://www.heise.de/news/Google-beerdigt-Rechtsstreit-um-Gesichtserkennung-fuer-1-4-Milliarden-Dollar-10379137.html"
     },
     {
       "title": "Zwei Makroobjektive im Test",
@@ -224,12 +230,6 @@
       "title": "Sonys Sensor-Dementi, Zölle und das neue Nik – Fotonews der Woche",
       "teaser": "Sony sagt, es verkauft seine Sensor-Sparte nicht, Trumps Zölle wirbeln den US-Fotomarkt auf, und die Nik Collection kann einiges Neues.",
       "url": "https://www.heise.de/news/Sonys-Sensor-Dementi-Zoelle-und-das-neue-Nik-Fotonews-der-Woche-10378587.html"
-    },
-    {
-      "title": "Developer Snapshots: Kleinere News der Woche",
-      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Lazarus, CLion, Neo4J, Uno Platform, Deno, Atlassian, CouchDB, AWS und Superbase.",
-      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10377621.html",
-      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "Goodbye DeutschlandAuswandern: Als ITler in der Schweiz arbeiten",
@@ -295,6 +295,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Lazarus, CLion, Neo4J, Uno Platform, Deno, Atlassian, CouchDB, AWS und Superbase.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10377621.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "iX-Workshop: IT-Recht für Admins – Wege zur gesetzeskonformen IT-Praxis",
@@ -367,15 +373,15 @@
       "image_title": "Gerade Landstraße im US-Bundesstaat Utah mit einem Auto und Bergen im Hintergrund, an der Seite zahlreiche Telefonmasten."
     },
     {
+      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
+      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
+    },
+    {
       "title": "Schutz vor Betrug: Google integriert lokales KI-Modell Gemini Nano in Chrome",
       "teaser": "Google weitet den Einsatz seines lokalen KI-Modells Gemini Nano aus. Sowohl auf dem Desktop als auch unter Android soll es Chrome sicherer machen.",
       "url": "https://www.heise.de/news/Schutz-vor-Betrug-Google-integriert-lokales-KI-Modell-Gemini-Nano-in-Chrome-10378387.html",
       "image_title": "App von Chrome in Nahaufnahme"
-    },
-    {
-      "title": "Portfolio-Guide – So finden Sie den richtigen Prozessor",
-      "teaser": "Die Unternehmens-IT muss eine Vielzahl unterschiedlicher Workloads bewältigen. Dieser Portfolio-Guide zeigt Ihnen, welche Prozessorfamilie für welchen Anwendungszweck am besten geeignet ist.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/portfolio-guide-so-finden-sie-den-richtigen-prozessor-4915/?source=hbsadersatz"
     },
     {
       "title": "Mammotion Yuka Mini 600: Der beste Mähroboter für unter 900 Euro",
@@ -427,12 +433,6 @@
       "title": "Im Test: Professionelle Kopfhörersimulationen für Dolby Atmos",
       "teaser": "Die Programme APL Virtuoso und Neumann RIME simulieren Atmos-Sound auf Kopfhörern für Musik und Filme. Wir vergleichen sie und geben Tipps zum Setup.",
       "url": "https://www.heise.de/tests/Im-Test-Professionelle-Kopfhoerersimulationen-fuer-Dolby-Atmos-10366378.html"
-    },
-    {
-      "title": "Core i-13000/14000: Noch ein Update gegen zu hohe CPU-Kernspannungen",
-      "teaser": "Die Stabilitätsprobleme bei Prozessoren der Serien Core i-13000 und i-14000 beschäftigen Intel abermalig. Ein weiteres Microcode-Update soll das Problem lösen.",
-      "url": "https://www.heise.de/news/Intel-Raptor-Lake-Erneutes-Microcode-Update-gegen-zu-hohe-CPU-Kernspannungen-10378148.html",
-      "image_title": "Rot gefärbter Intel-Prozessor auf Mainboard"
     },
     {
       "title": "Fahrrad-Fakeshops öffnen zur Outdoor-Saison",
@@ -611,10 +611,9 @@
       "url": "https://www.heise.de/news/OpenSearch-3-0-ist-da-und-bringt-mehr-Leistung-und-Skalierbarkeit-10378659.html"
     },
     {
-      "title": "O2 ignoriert Kundenrechte bei Handyvertrag",
-      "teaser": "Gehört zu einem Mobilfunkvertrag ein Smartphone, gelten dieselben Gewährleistungsrechte wie beim direkten Kauf. Etwaige Mängel muss der Anbieter beseitigen.",
-      "url": "https://www.heise.de/ratgeber/O2-ignoriert-Kundenrechte-bei-Handyvertrag-10375598.html",
-      "image_title": ","
+      "title": "Fritzbox: Trennung des Gastnetzes im LAN",
+      "teaser": "Ich nutze mehrere Fritzboxen und Repeater, um unser Haus WLAN-mäßig gut abzudecken. Mich interessiert nun, wie AVM im LAN das interne und das Gastnetz trennt.",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-Trennung-des-Gastnetzes-im-LAN-10369236.html"
     },
     {
       "title": "KaufberatungSo finden Sie die passende Apple Watch",
@@ -749,22 +748,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-speicher-fuers-balkonkraftwerk-im-test/9g7b03h?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Wie Fondsmanager Europas Wirtschaft ankurbeln können",
+      "teaser": "Europas Wirtschaft braucht Investitionen. Fondsmanager könnten helfen, wenn sie in der EU säßen. Doch was hält sie fern?",
+      "url": "https://www.heise.de/tp/features/Wie-Fondsmanager-Europas-Wirtschaft-ankurbeln-koennen-10377715.html",
+      "image_title": "Geldanlagen in Banken- und Finanzfonds können zu einem erheblichen Wachstum führen, insbesondere wenn strategische Finanz- und Steuerplanung angewendet werden."
+    },
+    {
+      "title": "Dieses Wochenende: LSD statt Lambrusco?",
+      "teaser": "Alkohol reduzieren – aber wie? Zwei neue Studien zeigen überraschende Wege aus der Sucht. Eine davon könnte manchen Lesern allerdings sehr gewagt erscheinen.",
+      "url": "https://www.heise.de/tp/features/Dieses-Wochenende-LSD-statt-Lambrusco-10378423.html",
+      "image_title": "Junge Frau macht Party"
+    },
+    {
       "title": "\"An Unfinished Film\": Corona-Drama aus China – ein seltener Blick hinter Kulissen",
       "teaser": "Covid-19 in China. Lou Ye dreht einen klugen Film über Dissidenz, Chaos und Macht. Einer der besten Filme zur Pandemie.",
       "url": "https://www.heise.de/tp/features/An-Unfinished-Film-Corona-Drama-aus-China-ein-seltener-Blick-hinter-Kulissen-10377594.html",
       "image_title": "Filmbild zeigt Menschen in China, die während der Corona-Zeit miteinander diskutieren"
-    },
-    {
-      "title": "Gesichtserkennung in der Medizin: Künstliche Intelligenz schlägt Ärzte",
-      "teaser": "Künstliche Intelligenz übertrifft Ärzte bei der Alterseinschätzung. Ein simples Porträtfoto genügt. Doch was soll das bringen?",
-      "url": "https://www.heise.de/tp/features/Gesichtserkennung-in-der-Medizin-Kuenstliche-Intelligenz-schlaegt-Aerzte-10378020.html",
-      "image_title": "Mutter und Tochter"
-    },
-    {
-      "title": "Öffentlich-Rechtliche Sender bleiben Nachrichtenriesen",
-      "teaser": "Studie: Das Interesse an Nachrichten hat nachgelassen. Weniger Deutsche nutzen ein breites Informationsspektrum. Öffentlich-rechtliche Medien behalten Vorrangstellung.",
-      "url": "https://www.heise.de/tp/features/Oeffentlich-Rechtliche-Sender-bleiben-Nachrichtenriesen-10378475.html",
-      "image_title": "Junge Frau, die erstaunt schaut"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
