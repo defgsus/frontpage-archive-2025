@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-11T00:53:12",
+  "timestamp": "2025-05-11T02:39:23",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -105,14 +111,7 @@
       "image_title": "Ukrainekrieg: Selbstsicher, geschlossen und voller Tatendrang"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball in Hamburg: \"Hamburg brennt, Digga!\"",
-      "teaser": "Nach sieben Jahren Schmach in der Zweiten Bundesliga sicherte sich der HSV am Samstagabend den Aufstieg – und die Stadt versank im Rausch.",
-      "url": "https://www.zeit.de/hamburg/2025-05/fussball-hamburg-hamburger-sv-aufstieg-st-pauli-klassenerhalt",
-      "image_url": "https://img.zeit.de/hamburg/2025-05/fussball-hamburg-hamburger-sv-aufstieg-st-pauli-klassenerhalt-foto/super__430x286",
-      "image_title": "Fußball in Hamburg: \"Hamburg brennt, Digga!\""
-    },
-    {
-      "title": "Ukrainekrieg: Putin lehnt Waffenruhe ab und bietet neue Gespräche an",
+      "title": "Ukrainekrieg: Putin lehnt bedingungslose Waffenruhe ab und bietet neue Gespräche an",
       "teaser": "Russlands Präsident Wladimir Putin ignoriert die Forderung nach einer 30-tägigen Feuerpause. Er bietet aber die Wiederaufnahme von Verhandlungen mit der Ukraine an.",
       "url": "https://www.zeit.de/politik/ausland/2025-05/ukrainekrieg-putin-lehnt-waffenruhe-ab-und-bietet-neue-gespraeche-an",
       "image_url": "https://img.zeit.de/politik/ausland/2025-05/ukraine-liveblog-putin-waffenruhe-abgelehnt/super__430x286",
@@ -124,6 +123,13 @@
       "url": "https://www.zeit.de/politik/ausland/2025-05/junge-maenner-ukraine-kriegsdienst-verweigern-kritik-nationalismus",
       "image_url": "https://img.zeit.de/politik/ausland/2025-05/junge-maenner-ukraine-kriegsdienst-verweigern-kritik-nationalismus-bild-1/super__430x286",
       "image_title": "Junge Männer in der Ukraine: TOPSHOT - This photograph shows empty graves after the exhumation of bodies in the mass grave dug during Russia's occupation, near the town of Izyum, Kharkiv region, amid the Russian invasion of Ukraine. Following Ukraine's army liberation of Izyum on September 2022, a mass burial site was found in the woods near the town with more than 440 bodies in 2024, in what Amnesty International called a \"macabre reminder of the cost of Russian aggression\". (Photo by Roman PILIPEY / AFP) (Photo by ROMAN PILIPEY/AFP via Getty Images)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fußball in Hamburg: \"Hamburg brennt, Digga!\"",
+      "teaser": "Nach sieben Jahren Schmach in der Zweiten Bundesliga sicherte sich der HSV am Samstagabend den Aufstieg – und die Stadt versank im Rausch.",
+      "url": "https://www.zeit.de/hamburg/2025-05/fussball-hamburg-hamburger-sv-aufstieg-st-pauli-klassenerhalt",
+      "image_url": "https://img.zeit.de/hamburg/2025-05/fussball-hamburg-hamburger-sv-aufstieg-st-pauli-klassenerhalt-foto/super__430x286",
+      "image_title": "Fußball in Hamburg: \"Hamburg brennt, Digga!\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bundesparteitag der Linken: Guess who's back",
@@ -147,11 +153,11 @@
       "image_title": "Tod von Margot Friedländer: Sie war so sehr Mensch"
     },
     {
-      "title": "Kaschmir-Konflikt: Indien wirft Pakistan Bruch der Waffenruhe vor",
+      "title": "Kaschmirkonflikt: Indien wirft Pakistan Bruch der Waffenruhe vor",
       "teaser": "Die Feuerpause zwischen Indien und Pakistan hat offenbar nur kurz gehalten. Indiens Außenministerium wirft Pakistan nach Explosionen in Jammu neue Angriffe vor.",
       "url": "https://www.zeit.de/politik/ausland/2025-05/kaschmirkonflikt-waffenruhe-bruch-indien-vorwurf-pakistan",
       "image_url": "https://img.zeit.de/politik/2025-05/kaschmirkonflikt-waffenruhe-bruch-indien-vorwurf-pakistan-bild/super__430x286",
-      "image_title": "Kaschmir-Konflikt: Konflikt zwischen Indien und Pakistan Indische paramilitärische Soldaten stehen Wache an einem provisorischen Kontrollpunkt auf einer Straße, die zum Flughafen führt, nachdem laute Explosionen in Srinagar, im indisch kontrollierten Kaschmir, zu hören waren."
+      "image_title": "Kaschmirkonflikt: Konflikt zwischen Indien und Pakistan Indische paramilitärische Soldaten stehen Wache an einem provisorischen Kontrollpunkt auf einer Straße, die zum Flughafen führt, nachdem laute Explosionen in Srinagar, im indisch kontrollierten Kaschmir, zu hören waren."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ulf Poschardt: Wer bremst, regiert",
@@ -1002,7 +1008,7 @@
       "image_title": "Sprachen lernen: Wie soll ich mir das alles merken?"
     },
     {
-      "title": "Bundesliga: HSV wieder in der ersten Fußball-Bundesliga",
+      "title": "Bundesliga: HSV wieder in der ersten Fußballbundesliga",
       "teaser": "Mit einem klaren Sieg gegen Ulm sichert sich der HSV nach sieben Jahren Abwesenheit vorzeitig den Aufstieg in die erste Liga. Tausende Fans feierten mit den Spielern.",
       "url": "https://www.zeit.de/sport/2025-05/hsv-hamburg-aufstieg-fussball-bundesliga",
       "image_url": "https://img.zeit.de/sport/2025-05/hsv-aufstieg-spielszene/wide__892x501",
@@ -1030,36 +1036,36 @@
       "image_title": "Cannabisclub in Hamburg: urbs.ociety e.V.: In den nächsten Tagen steht die Ernte an. Mit 560 Cannabispflanzen können alle Mitglieder des Vereins versorgt werden: 15-50 Gramm im Monat."
     },
     {
-      "title": "Krieg in der Ukraine: Putin schlägt Kiew direkte Verhandlungen am Donnerstag vor",
-      "url": "https://www.zeit.de/news/2025-05/11/putin-schlaegt-kiew-direkte-verhandlungen-am-donnerstag-vor"
+      "title": "Umwelt: Wenn Saatkrähen die Ernte vernichten",
+      "url": "https://www.zeit.de/news/2025-05/11/wenn-saatkraehen-die-ernte-vernichten"
     },
     {
-      "title": "Kriminalität: Razzia gegen illegales Glücksspiel in Gaststätten",
-      "url": "https://www.zeit.de/news/2025-05/10/razzia-gegen-illegales-gluecksspiel-in-gaststaetten"
+      "title": "Atomstreit: USA gehen mit Maximalforderung in Atomverhandlungen mit Iran",
+      "url": "https://www.zeit.de/news/2025-05/11/usa-gehen-mit-maximalforderung-in-atomverhandlungen-mit-iran"
     },
     {
-      "title": "Kreis Mettmann: Wendemanöver auf der Straße: Motorradfahrer schwer verletzt",
-      "url": "https://www.zeit.de/news/2025-05/11/wendemanoever-auf-der-strasse-motorradfahrer-schwer-verletzt"
+      "title": "Extremismus: Wie Rechtsextreme nach Schülern fischen",
+      "url": "https://www.zeit.de/news/2025-05/11/wie-rechtsextreme-nach-schuelern-fischen"
     },
     {
-      "title": "Ex-\"Wetten, dass..?\"-Moderator: Thomas Gottschalk verkündet Show-Aus im Fernsehen",
-      "url": "https://www.zeit.de/news/2025-05/11/thomas-gottschalk-verkuendet-show-aus-im-fernsehen"
+      "title": "Wasserverkehr: Wasserschutzpolizei will Raser mit Lasern kontrollieren",
+      "url": "https://www.zeit.de/news/2025-05/11/wasserschutzpolizei-will-raser-mit-lasern-kontrollieren"
     },
     {
-      "title": "Kalenderblatt: Was geschah am 11. Mai?",
-      "url": "https://www.zeit.de/news/2025-05/10/was-geschah-am-11-mai"
+      "title": "Extremismus: Tauziehen um Bewertung der AfD beschäftigt Minister Poseck",
+      "url": "https://www.zeit.de/news/2025-05/11/tauziehen-um-bewertung-der-afd-beschaeftigt-minister-poseck"
     },
     {
-      "title": "Landkreis Coburg: 41-Jähriger bei Unfall auf B4 lebensgefährlich verletzt",
-      "url": "https://www.zeit.de/news/2025-05/10/eine-person-bei-unfall-auf-b4-schwer-verletzt"
+      "title": "Grünen-Politiker: Ex-Minister Özdemir will Lego-Raumschiff zusammenbasteln",
+      "url": "https://www.zeit.de/news/2025-05/11/ex-minister-oezdemir-will-lego-raumschiff-zusammenbasteln"
     },
     {
-      "title": "Krieg in der Ukraine: Russlands dreitägige Waffenruhe im Ukraine-Krieg ausgelaufen",
-      "url": "https://www.zeit.de/news/2025-05/10/russlands-dreitaegige-waffenruhe-im-ukraine-krieg-ausgelaufen"
+      "title": "Digitalisierung: Digitalministerin: Weg vom Kleinklein - Bund muss handeln",
+      "url": "https://www.zeit.de/news/2025-05/11/digitalministerin-weg-vom-kleinklein-bund-muss-handeln"
     },
     {
-      "title": "2. Fußball-Bundesliga: Endlich wieder Bundesliga: HSV im Partyrausch zum Aufstieg",
-      "url": "https://www.zeit.de/news/2025-05/10/vfl-bochum-steigt-aus-der-bundesliga-ab"
+      "title": "Verhalten in der Gastronomie: Dos and Don'ts in Biergarten, Café & Co.",
+      "url": "https://www.zeit.de/news/2025-05/11/dos-and-don-ts-in-biergarten-caf-co"
     }
   ]
 }
