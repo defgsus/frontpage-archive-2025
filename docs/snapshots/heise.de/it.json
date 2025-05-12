@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-12T05:11:02",
+  "timestamp": "2025-05-12T06:15:30",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,28 @@
   ],
   "articles": [
     {
+      "title": "Last Call: KI-Management – lernen Sie KI-Tools im Unternehmen einzuführen",
+      "teaser": "Ab dem 19. Mai lernen Sie, Künstliche Intelligenz in Arbeitsprozesse zu integrieren: von Prompting über Implementierung bis zu Regulierung und Ethik.",
+      "url": "https://www.heise.de/news/Last-Call-KI-Management-lernen-Sie-KI-Tools-im-Unternehmen-einzufuehren-10374582.html"
+    },
+    {
+      "title": "Microsoft Dynamics 365: PCF-Komponenten statt Webressourcen nutzen",
+      "teaser": "Microsoft entfernt die Hierarchiesteuerung in modellgesteuerten Apps: Dann hilft ein eigenes, mit dem PowerApps Component Framework erstelltes Steuerelement.",
+      "url": "https://www.heise.de/ratgeber/Microsoft-Dynamics-365-PCF-Komponenten-statt-Webressourcen-nutzen-10368132.html"
+    },
+    {
+      "title": "Microsoft löst Update-Bremsen für Windows 11 24H2",
+      "teaser": "Microsoft verteilt das 24H2-Update für Windows 11 an die restlichen infrage kommenden PCs. Die Entwickler lösen zudem Update-Bremsen.",
+      "url": "https://www.heise.de/news/Microsoft-loest-Update-Bremsen-fuer-Windows-11-24H2-10379600.html"
+    },
+    {
       "title": "KI-Test: Acht Reasoning-Modelle aus USA und China im Vergleich",
       "teaser": "Eine neue KI-Generation soll komplexe Aufgaben per Reasoning lösen. In unserem Test fühlen wir acht Modellen aus den USA und China auf den Zahn.",
       "url": "https://www.heise.de/tests/KI-Test-Acht-Reasoning-Modelle-aus-USA-und-China-im-Vergleich-10337901.html"
     },
     {
-      "title": "Branche und Klimaschützer protestierenUS-Regierung will \"Energy Star\" für Elektrogeräte stoppen",
-      "teaser": "Der blaue Energy-Star-Sticker auf Elektrogeräten weist seit 1992 auf höhere Effizienz hin. Donald Trump will das Programm beenden.",
-      "url": "https://www.heise.de/news/US-Regierung-will-Energy-Star-stoppen-Branche-und-Klimaschuetzer-protestieren-10379566.html",
-      "image_title": "Ein Computer mit Monitor, der einen Energy-Star-Sticker zeigt"
-    },
-    {
-      "title": "Privatsphäre: Meta will wohl doch Gesichtserkennung in smarte Brillen einbauen",
-      "teaser": "Laut Berichten entwickelt Meta Funktionen zur Gesichtserkennung für seine Smart Glasses. Der Konzern vermied diese Technik dort bisher aus Datenschutzgründen.",
-      "url": "https://www.heise.de/news/Privatsphaere-Meta-will-wohl-doch-Gesichtserkennung-in-smarte-Brillen-einbauen-10379476.html"
-    },
-    {
-      "title": "Ab Juli 2025Microsoft Teams verhindert mit neuer Funktion Screenshots",
-      "teaser": "Eine neue Sicherheitsfunktion soll Screenshots unter bestimmten Bedingungen verhindern und wirft viele Fragen auf.",
-      "url": "https://www.heise.de/news/Microsoft-Teams-soll-kuenftig-Screenshots-verhindern-koennen-10379434.html",
-      "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
+      "title": "RatgeberMicrosoft Dynamics 365: PCF-Komponenten statt Webressourcen nutzen",
+      "url": "https://www.heise.de/ratgeber/Microsoft-Dynamics-365-PCF-Komponenten-statt-Webressourcen-nutzen-10368132.html"
     },
     {
       "title": "TestsKI-Test: Acht Reasoning-Modelle aus USA und China im Vergleich",
@@ -56,9 +58,21 @@
       "url": "https://www.heise.de/ratgeber/Datenanalyse-mit-Python-Wie-man-Ausreisser-in-Zeitreihen-verlaesslich-erkennt-10373388.html"
     },
     {
-      "title": "TestsKurztests: Switch, CPU-Luftkühler und MicroSD-Karte",
-      "url": "https://www.heise.de/tests/Kurztests-Switch-CPU-Luftkuehler-und-MicroSD-Karte-10366015.html",
-      "image_title": ","
+      "title": "US-Regierung will \"Energy Star\" stoppen, Branche und Klimaschützer protestieren",
+      "teaser": "Der blaue Energy-Star-Sticker auf elektrischen Geräten weist seit 1992 auf höhere Effizienz hin. Donald Trump will das Programm beenden, das führt zu Kritik.",
+      "url": "https://www.heise.de/news/US-Regierung-will-Energy-Star-stoppen-Branche-und-Klimaschuetzer-protestieren-10379566.html",
+      "image_title": "Ein Computer mit Monitor, der einen Energy-Star-Sticker zeigt"
+    },
+    {
+      "title": "Privatsphäre: Meta will wohl doch Gesichtserkennung in smarte Brillen einbauen",
+      "teaser": "Laut Berichten entwickelt Meta Funktionen zur Gesichtserkennung für seine Smart Glasses. Der Konzern vermied diese Technik dort bisher aus Datenschutzgründen.",
+      "url": "https://www.heise.de/news/Privatsphaere-Meta-will-wohl-doch-Gesichtserkennung-in-smarte-Brillen-einbauen-10379476.html"
+    },
+    {
+      "title": "Microsoft Teams verhindert mit neuer Funktion Screenshots",
+      "teaser": "Eine neue Sicherheitsfunktion soll Screenshots unter bestimmten Bedingungen verhindern und wirft viele Fragen auf.",
+      "url": "https://www.heise.de/news/Microsoft-Teams-soll-kuenftig-Screenshots-verhindern-koennen-10379434.html",
+      "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
     },
     {
       "title": "Nach KI-Offensive: Klarna setzt wieder verstärkt auf menschliche Kundenbetreuung",
@@ -129,22 +143,6 @@
       "title": "Was Citizen Science leisten kann | c’t uplink",
       "teaser": "In diesem c’t uplink gehts um Wissenschaft zum Mitmachen – von Tierbeobachtung bis Feinstaubmessung.",
       "url": "https://www.heise.de/news/Was-Citizen-Science-leisten-kann-c-t-uplink-10377229.html"
-    },
-    {
-      "title": "2-nm-Fertigung: Bei Japans Rapidus läuft es gut an",
-      "teaser": "Ein vierter Chipauftragsfertiger tritt in Erscheinung. Rapidus startet die Pilotproduktion mit eigener 2-Nanometer-Technik.",
-      "url": "https://www.heise.de/news/2-nm-Fertigung-Bei-Japans-Rapidus-laeuft-es-gut-an-10378547.html",
-      "image_title": "Chipstrukturen auf Silizium-Wafer"
-    },
-    {
-      "title": "OpenSearch 3.0 ist da und bringt mehr Leistung und Skalierbarkeit",
-      "teaser": "Während der OpenSearchCon Europe wurde Version 3.0 des Such-Frameworks veröffentlicht. OpenSearch indexiert schneller und geht sparsamer mit Daten um.",
-      "url": "https://www.heise.de/news/OpenSearch-3-0-ist-da-und-bringt-mehr-Leistung-und-Skalierbarkeit-10378659.html"
-    },
-    {
-      "title": "Homeserver: Das machen wir damit",
-      "teaser": "Was macht man eigentlich mit einem Homeserver? Und welche Hardware nimmt man dafür? Gute Frage: Neun Redakteure gewähren Zugang zu ihren Privat-Servern.",
-      "url": "https://www.heise.de/news/Das-machen-wir-mit-unseren-Homeservern-10378757.html"
     },
     {
       "title": "MeinungKommentar: Microsofts Milliardengeschenk ist ein Trojanisches Pferd für Europa",
