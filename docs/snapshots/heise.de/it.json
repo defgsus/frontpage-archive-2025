@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-13T15:10:06",
+  "timestamp": "2025-05-13T16:12:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,48 @@
   ],
   "articles": [
     {
+      "title": "Ein Besuch in der ungarischen Lenovo-Fabrik",
+      "teaser": "Die chinesische Firma Lenovo fertigt auch in der EU, etwa Server. Deren Produktion ist bis ins Detail auf Effizienz, Flexibilität und Geschwindigkeit optimiert.",
+      "url": "https://www.heise.de/hintergrund/Ein-Besuch-in-der-ungarischen-Lenovo-Fabrik-10360744.html"
+    },
+    {
+      "title": "Intels Arrow-Lake-CPUs bremsen High-End-SSDs",
+      "teaser": "Intels Aufbau der Core Ultra 200S führt zu einem Nachteil – er verlangsamt PCIe-5.0-SSDs. Schuld sind offenbar Latenzen.",
+      "url": "https://www.heise.de/news/Arrow-Lake-Intels-Desktop-Prozessoren-bremsen-High-End-SSDs-10382320.html",
+      "image_title": "Crucial-SSD in einem Mainboard eingebaut"
+    },
+    {
+      "title": "FastVLM: Apples neues KI-Modell gibt Gas",
+      "teaser": "Ein neues Forschungspapier gibt einen Vorgeschmack auf künftige Modelle der Apple Intelligence. Die lokale Verarbeitung auf dem Gerät bleibt im Fokus.",
+      "url": "https://www.heise.de/news/FastVLM-Apples-neue-Bild-zu-Text-KI-soll-deutlich-schneller-sein-10382234.html",
+      "image_title": "Apple-Intelligence-Icon mit Farbverlauf"
+    },
+    {
+      "title": "Handel begrüßt digitalen Euro als Alternative zu kostspieligen Kartenzahlungen",
+      "teaser": "Der Handelsverband HDE befürwortet prinzipiell die Entwicklung des digitalen Euros als staatliches, digitales Zahlverfahren. Entscheidend seien aber die Kosten.",
+      "url": "https://www.heise.de/news/Handel-begruesst-digitalen-Euro-als-Alternative-zu-kostspieligen-Kartenzahlungen-10382304.html",
+      "image_title": "Euro,Symbol,In,A,Digital,Raster,Micro,Structure,-,3d"
+    },
+    {
+      "title": "RatgeberPython-Tool: Daten verwandeln mit MarkItDown",
+      "url": "https://www.heise.de/ratgeber/Python-Tool-Daten-verwandeln-mit-MarkItDown-10369603.html"
+    },
+    {
+      "title": "RatgeberSorgenfrei in den Urlaub fahren: Einbruchschutz mit Home Assistant",
+      "url": "https://www.heise.de/ratgeber/Sorgenfrei-in-den-Urlaub-fahren-Einbruchschutz-mit-Home-Assistant-10368520.html",
+      "image_title": "KI-Illustration eines Smart Homes im Alarmmodus. So macht das Smart Home es Einbrechern schwer."
+    },
+    {
+      "title": "HintergrundEin Besuch in der ungarischen Lenovo-Fabrik",
+      "url": "https://www.heise.de/hintergrund/Ein-Besuch-in-der-ungarischen-Lenovo-Fabrik-10360744.html"
+    },
+    {
+      "title": "iOS 19 & Co: Apple liefert neue Funktionen rund um die Bedienungshilfen",
+      "teaser": "Ein großes Paket an Accessibility-Neuerungen kommt im Herbst auf Apple-Geräte. Auch Support für Brain-Computer-Interfaces ist in Arbeit.",
+      "url": "https://www.heise.de/news/iOS-19-Co-Apple-liefert-neue-Funktionen-rund-um-die-Bedienungshilfen-10382246.html",
+      "image_title": "Neue Lupenfunktion für macOS 16"
+    },
+    {
       "title": "AMD Epyc 4005 für kleine Server und dedicated Hosting",
       "teaser": "Die Epyc 4005 sind AMDs kleinste Server-CPUs und haben die moderne Ryzen-9000-Technik im Inneren. Der Einstieg beginnt bei sechs Kernen und 239 US-Dollar UVP.",
       "url": "https://www.heise.de/news/AMD-Epyc-4005-Sechs-Prozessoren-fuer-kleine-Server-mit-ECC-RAM-10381348.html"
@@ -43,23 +85,10 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
-      "title": "Spectre-Angriffe sind zurückPerfekt implementierte Sicherungen ausgehebelt",
+      "title": "Perfekt implementierte Sicherungen ausgehebelt: Spectre-Angriffe sind zurück",
       "teaser": "\"Training Solo\" hebelt Intels und ARMs CPU-Schutzmechanismen gegen Spectre-Angriffe aus. Dazu legen sie etwa den Kernel herein.",
       "url": "https://www.heise.de/news/Perfekt-implementierte-Sicherungen-ausgehebelt-Spectre-Angriffe-sind-zurueck-10381851.html",
       "image_title": "Intel Core Ultra 200S im Mainboard"
-    },
-    {
-      "title": "RatgeberPython-Tool: Daten verwandeln mit MarkItDown",
-      "url": "https://www.heise.de/ratgeber/Python-Tool-Daten-verwandeln-mit-MarkItDown-10369603.html"
-    },
-    {
-      "title": "RatgeberSorgenfrei in den Urlaub fahren: Einbruchschutz mit Home Assistant",
-      "url": "https://www.heise.de/ratgeber/Sorgenfrei-in-den-Urlaub-fahren-Einbruchschutz-mit-Home-Assistant-10368520.html",
-      "image_title": "KI-Illustration eines Smart Homes im Alarmmodus. So macht das Smart Home es Einbrechern schwer."
-    },
-    {
-      "title": "HintergrundEin Besuch in der ungarischen Lenovo-Fabrik",
-      "url": "https://www.heise.de/hintergrund/Ein-Besuch-in-der-ungarischen-Lenovo-Fabrik-10360744.html"
     },
     {
       "title": "Endlich Open Source: Warp, das Python-Framework von Nvidia für CUDA",
@@ -118,36 +147,6 @@
       "teaser": "In iOS 18.5, macOS 15.5 und Co. stecken viele Patches auch für gefährliche Lücken. Betroffen ist erstmals Apples eigenes Mobilfunkmodem.",
       "url": "https://www.heise.de/news/Sicherheitsfixes-Apple-behebt-zahllose-Luecken-inklusive-erste-im-C1-10381160.html",
       "image_title": "Update von iPhone und Mac"
-    },
-    {
-      "title": "Platform Engineering: Fitnessplan für Entwicklerplattformen",
-      "teaser": "Das Platform Engineering Maturity Model der CNCF unterstützt Organisationen auf dem Weg hin zur individuell wunschgemäß funktionierenden Entwicklerplattform.",
-      "url": "https://www.heise.de/hintergrund/Platform-Engineering-Fitnessplan-fuer-Entwicklerplattformen-10376910.html",
-      "image_title": "Menschen, die Kisten stapeln – in der Cloud"
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-10373699.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Humanoide Roboter in der Industrie: Warum der große Durchbruch noch aussteht",
-      "teaser": "Während Investoren den bevorstehenden Durchbruch humanoider Roboter in der Industrie sehen, bremsen Experten. Die Hürden sind höher als viele denken.",
-      "url": "https://www.heise.de/hintergrund/Humanoide-Roboter-in-der-Industrie-Warum-der-grosse-Durchbruch-noch-aussteht-10381166.html",
-      "image_title": "Humanoide Roboter bei der Arbeit"
-    },
-    {
-      "title": "Tipp: Was tun, wenn Apples Zwei-Faktor-Schutz den falschen Standort zeigt?",
-      "teaser": "Die mittlerweile standardmäßig aktive Zwei-Faktor-Authentifizierung von iCloud gibt auch Ortsangaben durch. Doch was, wenn die falsch sind?",
-      "url": "https://www.heise.de/ratgeber/Apples-Zwei-Faktor-Schutz-Apple-ID-Anmeldung-zeigt-falschen-Standort-3718376.html",
-      "image_title": "Zwei-Faktor-Authentifizierung"
-    },
-    {
-      "title": "Software Testing: Gewaltfreie Kommunikation im Software Testing",
-      "teaser": "In dieser Episode spricht Richard Seidl mit Maroš Kutschy über Gewaltfreie Kommunikation und den Einsatz dieser Methoden in der Softwareentwicklung.",
-      "url": "https://www.heise.de/blog/Software-Testing-Gewaltfreie-Kommunikation-im-Software-Testing-10380493.html",
-      "image_title": "Software Testing: Gewaltfreie Kommunikation"
     },
     {
       "title": "NewsBaubeginn für weltweit größten Batteriespeicher in der Schweiz",
