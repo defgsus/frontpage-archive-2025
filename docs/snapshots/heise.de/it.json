@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-13T12:19:33",
+  "timestamp": "2025-05-13T13:25:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,15 @@
   ],
   "articles": [
     {
-      "title": "Perfekt implementierte Sicherungen ausgehebelt: Spectre-Angriffe sind zurück",
-      "teaser": "\"Training Solo\" hebelt Intels und ARMs CPU-Schutzmechanismen gegen Spectre-Angriffe aus. Dazu legen sie etwa den Kernel herein.",
-      "url": "https://www.heise.de/news/Perfekt-implementierte-Sicherungen-ausgehebelt-Spectre-Angriffe-sind-zurueck-10381851.html",
-      "image_title": "Intel Core Ultra 200S im Mainboard"
+      "title": "AMD Epyc 4005 für kleine Server und dedicated Hosting",
+      "teaser": "Die Epyc 4005 sind AMDs kleinste Server-CPUs und haben die moderne Ryzen-9000-Technik im Inneren. Der Einstieg beginnt bei sechs Kernen und 239 US-Dollar UVP.",
+      "url": "https://www.heise.de/news/AMD-Epyc-4005-Sechs-Prozessoren-fuer-kleine-Server-mit-ECC-RAM-10381348.html"
+    },
+    {
+      "title": "AlertSAP-Patchday: Kritische Netweaver-Lücke und viele mehr gestopft",
+      "teaser": "Im Mai widmen sich SAPs Entwicklern 16 neuen Sicherheitsmitteilungen. Eine behandelt eine kritische Lücke in Netweaver.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Kritische-Netweaver-Luecke-und-viele-mehr-gestopft-10381863.html",
+      "image_title": "Zerstückeltes SAP-Logo, dahinter zerteilte SAP Netweaver GUI"
     },
     {
       "title": "iX-Workshop: Wireshark für Fortgeschrittene - Analyse realer Netzwerkprobleme",
@@ -38,16 +43,10 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
-      "title": "Endlich Open Source: Warp, das Python-Framework von Nvidia für CUDA",
-      "teaser": "Nach Kritik aus der Community hat sich Nvidia entschlossen, mit dem Warp-Framework in die Apache-2-Lizenz zu wechseln.",
-      "url": "https://www.heise.de/news/Endlich-Open-Source-Warp-das-Python-Framework-von-Nvidia-fuer-CUDA-10381641.html",
-      "image_title": "Mathematische Symbole und KI"
-    },
-    {
-      "title": "CISA-Umbau: Warnungen vor bekannten Exploits verschwinden aus der Übersicht",
-      "teaser": "Um mehr Rampenlicht für Cybersicherheits-Großereignisse zu bieten, verschlankt die CISA ihre Übersichtsseiten. Nutzer müssen sich anders behelfen.",
-      "url": "https://www.heise.de/news/CISA-Neuausrichtung-Warnungen-vor-bekannten-Exploits-nun-schwerer-zu-finden-10381306.html",
-      "image_title": "CISA-Logo"
+      "title": "Spectre-Angriffe sind zurückPerfekt implementierte Sicherungen ausgehebelt",
+      "teaser": "\"Training Solo\" hebelt Intels und ARMs CPU-Schutzmechanismen gegen Spectre-Angriffe aus. Dazu legen sie etwa den Kernel herein.",
+      "url": "https://www.heise.de/news/Perfekt-implementierte-Sicherungen-ausgehebelt-Spectre-Angriffe-sind-zurueck-10381851.html",
+      "image_title": "Intel Core Ultra 200S im Mainboard"
     },
     {
       "title": "RatgeberPython-Tool: Daten verwandeln mit MarkItDown",
@@ -61,6 +60,18 @@
     {
       "title": "HintergrundEin Besuch in der ungarischen Lenovo-Fabrik",
       "url": "https://www.heise.de/hintergrund/Ein-Besuch-in-der-ungarischen-Lenovo-Fabrik-10360744.html"
+    },
+    {
+      "title": "Endlich Open Source: Warp, das Python-Framework von Nvidia für CUDA",
+      "teaser": "Nach Kritik aus der Community hat sich Nvidia entschlossen, mit dem Warp-Framework in die Apache-2-Lizenz zu wechseln.",
+      "url": "https://www.heise.de/news/Endlich-Open-Source-Warp-das-Python-Framework-von-Nvidia-fuer-CUDA-10381641.html",
+      "image_title": "Mathematische Symbole und KI"
+    },
+    {
+      "title": "CISA-Umbau: Warnungen vor bekannten Exploits verschwinden aus der Übersicht",
+      "teaser": "Um mehr Rampenlicht für Cybersicherheits-Großereignisse zu bieten, verschlankt die CISA ihre Übersichtsseiten. Nutzer müssen sich anders behelfen.",
+      "url": "https://www.heise.de/news/CISA-Neuausrichtung-Warnungen-vor-bekannten-Exploits-nun-schwerer-zu-finden-10381306.html",
+      "image_title": "CISA-Logo"
     },
     {
       "title": "Microsoft: Copilot lernt Draufzeigen und Listenabgleich",
@@ -137,17 +148,6 @@
       "teaser": "In dieser Episode spricht Richard Seidl mit Maroš Kutschy über Gewaltfreie Kommunikation und den Einsatz dieser Methoden in der Softwareentwicklung.",
       "url": "https://www.heise.de/blog/Software-Testing-Gewaltfreie-Kommunikation-im-Software-Testing-10380493.html",
       "image_title": "Software Testing: Gewaltfreie Kommunikation"
-    },
-    {
-      "title": "Uplink-Rekord mit 5G-Advanced-Modem: 550 Mbit/s im Netz von T-Mobile USA",
-      "teaser": "Viele 5G-Netze liefern nur Bruchteile davon. Mit der Uplink-Beschleunigug bereitet die Telekom-Tochter den Boden für 4K-Video und Echtzeit-Gaming.",
-      "url": "https://www.heise.de/news/Uplink-Rekord-mit-5G-Advanced-Modem-550-Mbit-s-im-Netz-von-T-Mobile-USA-10378511.html"
-    },
-    {
-      "title": "Warum iMessage Sprachnachrichten mit Ben & Jerry's verschluckt",
-      "teaser": "Apples pedantischer Spyware-Schutz führt offenbar dazu, dass iPhones manche Audionachrichten nicht anzeigen.",
-      "url": "https://www.heise.de/news/Warum-iMessage-Sprachnachrichten-mit-Ben-Jerry-s-verschluckt-10380875.html",
-      "image_title": "Messages-App auf dem iPhone"
     },
     {
       "title": "NewsBaubeginn für weltweit größten Batteriespeicher in der Schweiz",
