@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-14T19:07:50",
+  "timestamp": "2025-05-14T20:09:34",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Nach Skandal: Neuer Zeitplan für BYD-Werk in Brasilien",
+      "url": "https://www.heise.de/news/Nach-Skandal-Neuer-Zeitplan-fuer-BYD-Werk-in-Brasilien-10384034.html"
+    },
     {
       "title": "Openjur vorerst gerettet: Verein haftet nicht für Gerichtsfehler",
       "url": "https://www.heise.de/news/Anonymisierungsfehler-Freier-Zugang-zu-deutschen-Urteilen-vorerst-gerettet-10372131.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/news/Schon-verfuegbar-RHEL-10-laesst-sich-vor-Ankuendigung-herunterladen-10383502.html"
     },
     {
-      "title": "Cyberkriminelle änderten Bankverbindungen bei der Bundesagentur für Arbeit",
-      "url": "https://www.heise.de/news/Cyberkriminelle-aenderten-Bankverbindungen-bei-der-Bundesagentur-fuer-Arbeit-10383804.html"
-    },
-    {
       "title": "StrombörseViertelstundentakt verschiebt sich deutlich",
       "teaser": "Es hatte sich bereits angedeutet: Es wird nichts mit der Umstellung auf den Viertelstundentakt an der Strombörse im Juni.",
       "url": "https://www.heise.de/news/Stromboerse-Viertelstundentakt-verschiebt-sich-deutlich-10383534.html",
@@ -89,9 +89,10 @@
       "image_title": "Beifahrerseite des VW ID.3"
     },
     {
-      "title": "AlertPatchdayAngreifer attackieren Windows über fünf Sicherheitslücken",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Azure, Office und Windows veröffentlicht. Angreifer nutzen bereits Schwachstellen aus.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-ueber-fuenf-Sicherheitsluecken-10382712.html"
+      "title": "GesundheitsdatenautobahnViele Praxen könnten bald auf der Strecke bleiben",
+      "teaser": "Das Ende der RSA-Zertifikate mit einer Schlüssellänge von 2048 Bit naht. Was das für das Gesundheitswesen bedeutet.",
+      "url": "https://www.heise.de/news/Gesundheitsdatenautobahn-Viele-Praxen-koennten-bald-auf-der-Strecke-bleiben-10380402.html",
+      "image_title": "Müder Mann am Laptop"
     },
     {
       "title": "Miniatur-Gehroboter\"Lego-Minifigur\" läuft über 0,8 km/h schnell",
@@ -100,10 +101,9 @@
       "image_title": "Laufroboter Zippy mit Kopf einer Lego-Minifigur."
     },
     {
-      "title": "GesundheitsdatenautobahnViele Praxen könnten bald auf der Strecke bleiben",
-      "teaser": "Das Ende der RSA-Zertifikate mit einer Schlüssellänge von 2048 Bit naht. Was das für das Gesundheitswesen bedeutet.",
-      "url": "https://www.heise.de/news/Gesundheitsdatenautobahn-Viele-Praxen-koennten-bald-auf-der-Strecke-bleiben-10380402.html",
-      "image_title": "Müder Mann am Laptop"
+      "title": "AlertPatchdayAngreifer attackieren Windows über fünf Sicherheitslücken",
+      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Azure, Office und Windows veröffentlicht. Angreifer nutzen bereits Schwachstellen aus.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-ueber-fuenf-Sicherheitsluecken-10382712.html"
     },
     {
       "title": "Raspi, ESP & Co.Bastelprojekte auf der Hutschiene installieren",
@@ -188,20 +188,26 @@
       "image_title": "Kraken3 Überwasserfahrzeug in Fahrt"
     },
     {
+      "title": "Nach Skandal: Neuer Zeitplan für BYD-Werk in Brasilien",
+      "teaser": "Das neue Werk des Autobauers BYD in Brasilien soll bis Ende 2026 voll funktionstüchtig sein. Ein Skandal um die Arbeitsbedingungen hat das Projekt verzögert.",
+      "url": "https://www.heise.de/news/Nach-Skandal-Neuer-Zeitplan-fuer-BYD-Werk-in-Brasilien-10384034.html",
+      "image_title": "Elektroauto, E-Auto, Laden"
+    },
+    {
       "title": "Openjur vorerst gerettet: Verein haftet nicht für Gerichtsfehler",
       "teaser": "Openjur sammelt deutsche Gerichtsentscheidungen in einer freien Datenbank. Ein Gericht versemmelte eine Anonymisierung. Der Betroffene verklagte Openjur.",
       "url": "https://www.heise.de/news/Anonymisierungsfehler-Freier-Zugang-zu-deutschen-Urteilen-vorerst-gerettet-10372131.html",
       "image_title": "Statue der Justizia vor blauem Hintergrund"
     },
     {
-      "title": "E-Bike Ado Air 30 Ultra im Test: Erstmals mit 3-Gang-Automatik im Nabenmotor",
-      "teaser": "Das Ado Air 30 Ultra ist etwas Besonderes. Denn erstmals kombiniert ein E-Bike einen Nabenmotor mit einer automatischen Gangschaltung. Wir machen den Test.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/ado-air-30-ultra-im-test/pdlyfrp?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
       "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "E-Bike Ado Air 30 Ultra im Test: Erstmals mit 3-Gang-Automatik im Nabenmotor",
+      "teaser": "Das Ado Air 30 Ultra ist etwas Besonderes. Denn erstmals kombiniert ein E-Bike einen Nabenmotor mit einer automatischen Gangschaltung. Wir machen den Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/ado-air-30-ultra-im-test/pdlyfrp?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "SMS an Pfizer: Von der Leyen kassiert Schlappe vor Gericht",
@@ -231,12 +237,6 @@
       "title": "WordPress.com: Mit KI und Text-Prompts in wenigen Minuten zur Website",
       "teaser": "WordPress.com startet den AI Website Builder: Er erzeugt nicht nur Webseiten, sondern füllt sie auch mit Texten und Fotos. Wir testen, wie gut das funktioniert.",
       "url": "https://www.heise.de/tests/WordPress-com-Mit-KI-und-Text-Prompts-in-wenigen-Minuten-zur-Website-10374682.html"
-    },
-    {
-      "title": "Tesla Optimus Bot: Video soll verkörperte Intelligenz belegen",
-      "teaser": "Teslas Optimus Bot ist hinsichtlich verkörperter Intelligenz gegenüber chinesischen Humanoiden ins Hintertreffen geraten. Ein Video zeigt aber Fortschritte.",
-      "url": "https://www.heise.de/news/Tesla-Optimus-Bot-Video-soll-verkoerperte-Intelligenz-belegen-10383168.html",
-      "image_title": "Optimus Bot tanzt"
     },
     {
       "title": "Sogar durch den TÜVElektro-Oldtimer straßentauglich machen",
@@ -302,6 +302,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Tesla Optimus Bot: Video soll verkörperte Intelligenz belegen",
+      "teaser": "Teslas Optimus Bot ist hinsichtlich verkörperter Intelligenz gegenüber chinesischen Humanoiden ins Hintertreffen geraten. Ein Video zeigt aber Fortschritte.",
+      "url": "https://www.heise.de/news/Tesla-Optimus-Bot-Video-soll-verkoerperte-Intelligenz-belegen-10383168.html",
+      "image_title": "Optimus Bot tanzt"
     },
     {
       "title": "Schon verfügbar? RHEL 10 lässt sich vor Ankündigung herunterladen",
@@ -375,15 +381,15 @@
       "image_title": "!!!Foto kann bitte noch etwas links beschnitten werden, sodass nur das Innere zu sehen ist!!!,"
     },
     {
+      "title": "NIS2: Warum Sie trotz Verschiebung handeln sollten",
+      "teaser": "Die EU-Cyber-Sicherheitsrichtlinie NIS2 ist als Gesetz in Deutschland noch nicht erlassen worden und wird vermutlich erst im Herbst 2025 in Kraft treten. In einem Webcast erklären wir, weshalb Unternehmen bis dahin nicht untätig sein und trotz Verschiebung handeln sollten.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-warum-unternehmen-trotz-verschiebung-handeln-sollten-4899/?source=hbsad-ersatz"
+    },
+    {
       "title": "Neu in Apple Maps: Formel 1 in Monaco mit Werbeflächen",
       "teaser": "Zum Grand Prix de Monaco ergänzt Apple eine detaillierte Ansicht des Stadtstaats mit Formel-1- Circuit – und nutzt den Dienst für Cross-Promotion.",
       "url": "https://www.heise.de/news/Neu-in-Apple-Maps-Formel-1-in-Monaco-mit-Werbeflaechen-10383360.html",
       "image_title": "GP Monaco in Apple Maps"
-    },
-    {
-      "title": "Wie Sie mit modernen Clients die IT entlasten und für mehr Sicherheit sorgen",
-      "teaser": "Hybride Arbeitsmodelle stellen IT- und Sicherheitsverantwortliche vor Herausforderungen. Sie müssen nicht nur den Schutz der verteilten Endgeräte gewährleisten, sondern diese auch verwalten und im Fehlerfall Support bieten. Wie hardwarebasierte Sicherheits- & Managementfunktionen diese Aufgabe erleichtern.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/hardwarebasierte-sicherheit-und-effizientes-management-fuer-ihre-endgeraete-4924/?source=hbsadersat"
     },
     {
       "title": "iX-Workshop: Vom ersten KI-Projekt zur KI-Transformation",
@@ -436,12 +442,6 @@
       "title": "c't-Webinar: Anwendungen ohne Programmieren",
       "teaser": "Das Webinar zeigt, wie Sie mit No-Code- und Low-Code-Plattformen eigene Lösungen entwickeln – auch ohne tiefgehende IT-Kenntnisse oder Programmierfähigkeiten.",
       "url": "https://www.heise.de/news/c-t-Webinar-Anwendungen-ohne-Programmieren-10379824.html"
-    },
-    {
-      "title": "Mobile Platzschaffer: Was taugen Apps zum Aufräumen von iPhone und iPad?",
-      "teaser": "Wenn der freie Speicherplatz auf iPhone oder iPad zur Neige geht, ist Aufräumen angesagt. Sogenannte Cleaner versprechen deutlichen Platzgewinn. Was können sie?",
-      "url": "https://www.heise.de/tests/Mobile-Platzschaffer-Was-taugen-Apps-zum-Aufraeumen-von-iPhone-und-iPad-10372636.html",
-      "image_title": ", KI-generiert mit Midjourney; bearbeitet von Mac & i"
     },
     {
       "title": "UpdateiOS 18.5 & Co: Update-Reigen für Apples Betriebssysteme",
@@ -610,6 +610,12 @@
       "url": "https://www.heise.de/en/news/iPhone-mirroring-in-the-EU-still-waiting-for-useful-macOS-function-10317754.html"
     },
     {
+      "title": "Weg von Steam: Spiele wirklich besitzen, offline spielen und installieren",
+      "teaser": "Wer gekaufte Spiele wirklich besitzen will, ist bei Steam & Co. falsch. Doch es gibt Alternativen ganz ohne Kopierschutz, Client- und Onlinezwang.",
+      "url": "https://www.heise.de/ratgeber/Weg-von-Steam-Spiele-wirklich-besitzen-offline-spielen-und-installieren-10368528.html",
+      "image_title": "Eine junge Frau reißt sich von ihrer Kette los, die sie an eine Steam-Kugel bindet und sprintet in Richtung einer phantastischen Welt."
+    },
+    {
       "title": "DJI Mavic 4 Pro: Drohne für Luftbildaufnahmen aus jedem Winkel",
       "teaser": "Die neue DJI-Drohne Mavic 4 Pro glänzt mit 100 MP Hasselblad-Hauptkamera, Dual-Telekameras mit großen CMOS-Sensoren und einem Infinity-Gimbal mit 360°-Drehung.",
       "url": "https://www.heise.de/news/DJI-Mavic-4-Pro-Drohne-fuer-Luftbildaufnahmen-aus-jedem-Winkel-10381486.html"
@@ -618,11 +624,6 @@
       "title": "KI versus Gehirn: Wie gut künstliche Intelligenz menschliches Denken nachahmt",
       "teaser": "GPT-4o und DeepSeek arbeiten strukturiert und lösen zunehmend komplexe Aufgaben. Doch zwischen künstlichem Gehirn und seinem menschlichen Vorbild liegen Welten.",
       "url": "https://www.heise.de/ratgeber/KI-versus-Gehirn-Wie-gut-kuenstliche-Intelligenz-menschliches-Denken-nachahmt-10323257.html"
-    },
-    {
-      "title": "Vergleichstest für VloggerDJI Osmo Pocket 3 gegen Vollformat-Kamera.",
-      "teaser": "Wackelfreie 4K-Aufnahme mit 60 Bildern pro Sekunde leisten auch Minikameras: DJI Osmo Pocket 3 vs. Panasonic Lumix S5IIX.",
-      "url": "https://www.heise.de/ratgeber/Hardware-fuer-Videografen-Kleine-Kompaktkamera-vs-Vollformat-10377936.html"
     },
     {
       "title": "KaufberatungSo finden Sie die passende Apple Watch",
@@ -763,16 +764,16 @@
       "image_title": "Wachstum in den Bereichen Finanzen oder Investitionen. Langfristige Investitionsgewinne."
     },
     {
-      "title": "Freiburg bestraft Verbraucher mit Verpackungssteuer: Ist das fair?",
-      "teaser": "Freiburg führt Verpackungssteuer ein: 50 Cent pro Einwegverpackung sollen Müllberge reduzieren. Doch ist die Abgabe fair für Verbraucher?",
-      "url": "https://www.heise.de/tp/features/Freiburg-bestraft-Verbraucher-mit-Verpackungssteuer-Ist-das-fair-10382505.html",
-      "image_title": "EinwegGeschirr und Besteck auf blauem Holztisch, Draufsicht"
+      "title": "Globale Methan-Emissionen erreichen Rekordhöhe",
+      "teaser": "Konzentration des starken Treibhausgases Methan in der Atmosphäre ist so hoch wie nie. Der Mensch ist Hauptverursacher – doch es gibt Wege, den Methan-Fußabdruck zu senken.",
+      "url": "https://www.heise.de/tp/features/Globale-Methan-Emissionen-erreichen-Rekordhoehe-10382940.html",
+      "image_title": "Darstellung der Emissionen aus der Landwirtschaft"
     },
     {
-      "title": "Friedensgespräche Ukraine-Russland: Durchbruch oder Sackgasse?",
-      "teaser": "Russland und die Ukraine verhandeln. Die Gespräche in Istanbul sind ein Fortschritt – doch wie weit gehen die Kompromisse? Ein Gastbeitrag (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Friedensgespraeche-Ukraine-Russland-Durchbruch-oder-Sackgasse-10383178.html",
-      "image_title": "Putin und Selenskyj auf einem Handydisplay vor der ukrainischen Karte"
+      "title": "Präsidentenjet vom Scheich: Trumps dubioses Luftfahrt-Upgrade",
+      "teaser": "Katar plant, US-Präsident Trump ein neues Flugzeug im Wert von 400 Millionen Dollar zu schenken. Die Demokraten sprechen von Bestechung. Die Hintergründe sind unklar.",
+      "url": "https://www.heise.de/tp/features/Praesidentenjet-vom-Scheich-Trumps-dubioses-Luftfahrt-Upgrade-10382106.html",
+      "image_title": "Die Air Force One, eine Boeing 747"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
