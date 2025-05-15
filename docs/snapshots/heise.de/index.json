@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-15T02:26:08",
+  "timestamp": "2025-05-15T03:35:54",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Foxconn mit Rekordquartal dank KI-Servern, Wachstum 2025 aber etwas gedämpft",
+      "url": "https://www.heise.de/news/Foxconn-mit-Rekordquartal-dank-KI-Servern-Wachstum-2025-aber-etwas-gedaempft-10384104.html"
+    },
     {
       "title": "Nach kleineren Kollisionen: Waymo ruft 1.200 autonom fahrende Fahrzeuge zurück",
       "url": "https://www.heise.de/news/Nach-kleineren-Unfaellen-Waymo-ruft-1-200-selbstfahrende-Fahrzeuge-zurueck-10384080.html"
@@ -60,10 +64,6 @@
     {
       "title": "Angeblicher Steam-Hack: Datenleck enthält SMS-Sendeprotokolle",
       "url": "https://www.heise.de/news/Angeblicher-Steam-Hack-Datenleck-enthaelt-SMS-Sendeprotokolle-10383892.html"
-    },
-    {
-      "title": "WordPress.com: Mit KI und Text-Prompts in wenigen Minuten zur Website",
-      "url": "https://www.heise.de/tests/WordPress-com-Mit-KI-und-Text-Prompts-in-wenigen-Minuten-zur-Website-10374682.html"
     },
     {
       "title": "StrombörseViertelstundentakt verschiebt sich deutlich",
@@ -188,20 +188,26 @@
       "image_title": "Kraken3 Überwasserfahrzeug in Fahrt"
     },
     {
+      "title": "Foxconn mit Rekordquartal dank KI-Servern, Wachstum 2025 aber etwas gedämpft",
+      "teaser": "Die Nachfrage nach KI-Servern lässt bei Foxconn die Kassen klingeln und das Geschäft mit E-Autos kommt voran. Doch Währungsschwankungen trüben die Prognose.",
+      "url": "https://www.heise.de/news/Foxconn-mit-Rekordquartal-dank-KI-Servern-Wachstum-2025-aber-etwas-gedaempft-10384104.html",
+      "image_title": "Server-Hardware"
+    },
+    {
       "title": "Nach kleineren Kollisionen: Waymo ruft 1.200 autonom fahrende Fahrzeuge zurück",
       "teaser": "Große Rückrufaktion des Robotaxi-Start-ups Waymo. Die Software fast aller Fahrzeuge soll aktualisiert werden. Die US-Verkehrsbehörde ermittelt derweil weiter.",
       "url": "https://www.heise.de/news/Nach-kleineren-Unfaellen-Waymo-ruft-1-200-selbstfahrende-Fahrzeuge-zurueck-10384080.html"
+    },
+    {
+      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
+      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Deutscher Computerspielpreis: \"Enshrouded\" ist bestes Spiel 2025",
       "teaser": "Survival aus Frankfurt: Nach dem Entwicklerpreis hat Enshrouded auch beim Deutschen Computerspielpreis die Hauptauszeichnung gewonnen.",
       "url": "https://www.heise.de/news/Deutscher-Computerspielpreis-Enshrouded-ist-bestes-Spiel-2025-10379694.html",
       "image_title": "Screenshot aus Enshrouded"
-    },
-    {
-      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
-      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Nach Skandal: Neuer Zeitplan für BYD-Werk in Brasilien",
@@ -233,12 +239,6 @@
       "image_title": "Samsung-Schriftzug an einer Hecke"
     },
     {
-      "title": "Schottische Zugreisende bekommen Satelliteninternet von Starlink",
-      "teaser": "Wer im kargen Hochland von Schottland im Zug fährt, bekommt bald schnelles Internet: ScotRail hat einige Züge mit der Technik von Starlink ausgestattet.",
-      "url": "https://www.heise.de/news/Schottische-Zugreisende-bekommen-Satelliteninternet-von-Starlink-10383958.html",
-      "image_title": "Zug von ScotRail"
-    },
-    {
       "title": "Sogar durch den TÜVElektro-Oldtimer straßentauglich machen",
       "teaser": "Unsere Autorin hat das Kultauto \"CityEL\" mit neuen Akkus zurück auf die Straße gebracht.",
       "url": "https://www.heise.de/ratgeber/Elektro-Oldtimer-wieder-strassentauglich-machen-Mit-neuen-Akkus-durch-den-TUeV-10227720.html"
@@ -263,21 +263,21 @@
       "url": "https://www.heise.de/meinung/Kommentar-Microsofts-Milliardengeschenk-ist-ein-Trojanisches-Pferd-fuer-Europa-10376360.html"
     },
     {
-      "title": "Fehlfunktion: Humanoider Roboter schlägt bei Tests um sich",
-      "url": "https://www.heise.de/news/Fehlfunktion-Humanoider-Roboter-schlaegt-bei-Tests-um-sich-10374306.html"
-    },
-    {
-      "title": "Raspi, ESP & Co.: IoT-Bastelprojekte auf der Hutschiene installieren",
-      "url": "https://www.heise.de/ratgeber/Raspi-ESP-Co-IoT-Bastelprojekte-auf-der-Hutschiene-installieren-10344245.html",
-      "image_title": ","
+      "title": "Baubeginn für weltweit größten Batteriespeicher in der Schweiz",
+      "url": "https://www.heise.de/news/Baubeginn-fuer-weltweit-groessten-Batteriespeicher-in-der-Schweiz-10378797.html"
     },
     {
       "title": "Was VW ID.3 und VW Golf tatsächlich kosten: Basismodelle im Kostenvergleich",
-      "url": "https://www.heise.de/ratgeber/Was-VW-ID-3-und-VW-Golf-tatsaechlich-kosten-Basismodelle-im-Kostenvergleich-10358924.html"
+      "url": "https://www.heise.de/ratgeber/Was-VW-ID-3-und-VW-Golf-tatsaechlich-kosten-Basismodelle-im-Kostenvergleich-10358924.html",
+      "image_title": "Beifahrerseite des VW ID.3"
     },
     {
-      "title": "Günstiges Internet im Urlaub: Mit eSIM weltweit sorglos surfen",
-      "url": "https://www.heise.de/ratgeber/Guenstiges-Internet-im-Urlaub-Mit-eSIM-weltweit-sorglos-surfen-10373903.html"
+      "title": "Raspi, ESP & Co.: IoT-Bastelprojekte auf der Hutschiene installieren",
+      "url": "https://www.heise.de/ratgeber/Raspi-ESP-Co-IoT-Bastelprojekte-auf-der-Hutschiene-installieren-10344245.html"
+    },
+    {
+      "title": "Elektro-Roller Govecs eSchwalbe im Test: Eine Schwalbe für viele Sommer",
+      "url": "https://www.heise.de/tests/Elektro-Roller-Govecs-eSchwalbe-im-Test-Eine-Schwalbe-fuer-viele-Sommer-10377739.html"
     },
     {
       "title": "Baubeginn für weltweit größten Batteriespeicher in der Schweiz",
@@ -302,6 +302,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Schottische Zugreisende bekommen Satelliteninternet von Starlink",
+      "teaser": "Wer im kargen Hochland von Schottland im Zug fährt, bekommt bald schnelles Internet: ScotRail hat einige Züge mit der Technik von Starlink ausgestattet.",
+      "url": "https://www.heise.de/news/Schottische-Zugreisende-bekommen-Satelliteninternet-von-Starlink-10383958.html",
+      "image_title": "Zug von ScotRail"
     },
     {
       "title": "Angeblicher Steam-Hack: Datenleck enthält SMS-Sendeprotokolle",
@@ -374,15 +380,15 @@
       "image_title": "Handschellen liegen auf einer Computertastatur"
     },
     {
+      "title": "Mehr Unabhängigkeit bei der Servervirtualisierung",
+      "teaser": "Viele Unternehmen wollen ihre Virtualisierungsumgebungen kosteneffizienter gestalten und die Abhängigkeit von Herstellern reduzieren. In einem Webcast am 20. Mai erfahren Sie, welche Chancen sich mit der Open-Source-Lösung PROXMOX VE eröffnen.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/proxmox-ve-mehr-unabhaengigkeit-bei-der-servervirtualisierung-4910/?source=hbsad-ersatz"
+    },
+    {
       "title": "Schnelles Netz, langsamer Staat: TK-Branche macht Druck auf Politik",
       "teaser": "Die Telekommunikationsbranche fordert von der Regierung und der Digitalministerkonferenz mehr Tempo, um die Bremsen im Glasfaserausbau zu lösen.",
       "url": "https://www.heise.de/news/Schnelles-Netz-langsamer-Staat-TK-Branche-macht-Druck-auf-Politik-10383436.html",
       "image_title": "Verlegung von Glasfaser in Dettenheim bei Karlsruhe"
-    },
-    {
-      "title": "Video: Bauen im australischen Outback – Herausforderungen für die IT-Infrastruktur",
-      "teaser": "Wie Acciona Zuverlässigkeit, Sicherheit und Energieeffizienz seiner IT-Umgebungen steigern konnte",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-bauen-im-australischen-outback-herausforderungen-fuer-die-it-infrastruktur-4914/?source=hbsadersatz"
     },
     {
       "title": "KI-Update: KI im Gesundheitswesen, Apple Intelligence, TikTok, Papst Leo zu KI",
@@ -438,25 +444,19 @@
       "image_title": ".NET-Logo auf einem Straßenschild"
     },
     {
-      "title": "AlertZoom: Videokonferenzsoftware mit teils hochriskanten Lücken",
-      "teaser": "Zoom meldet mehrere Sicherheitslücken in den Workplace Apps der Videokonferenzsoftware. Eine verpasst den Status \"kritisch\" nur knapp.",
-      "url": "https://www.heise.de/news/VIdeokonferenzen-Hochriskante-Rechteausweitungsluecken-in-Zoom-Workplace-Apps-10383108.html",
-      "image_title": "Mann mit Kopfhörern vor Laptop mit Videkonferenz"
-    },
-    {
-      "title": "UpdateiOS 18.5 & Co: Update-Reigen für Apples Betriebssysteme",
-      "url": "https://www.heise.de/news/iOS-18-5-bringt-Fehlerkorrekturen-und-kleine-Neuerungen-10380905.html",
-      "image_title": "iPhone 14 Pro und iPhone 14 Pro Max"
-    },
-    {
       "title": "Perfekt implementierte Sicherungen ausgehebelt: Spectre-Angriffe sind zurück",
       "url": "https://www.heise.de/news/Perfekt-implementierte-Sicherungen-ausgehebelt-Spectre-Angriffe-sind-zurueck-10381851.html",
       "image_title": "Intel Core Ultra 200S im Mainboard"
     },
     {
-      "title": "Fernzugriff: Raspberry Pi Connect wird erwachsen",
-      "url": "https://www.heise.de/news/Fernzugriff-Raspberry-Pi-Connect-wird-erwachsen-10381414.html",
-      "image_title": "Raspberry-Pi-Connect-Fenster"
+      "title": "Handel begrüßt digitalen Euro als Alternative zu kostspieligen Kartenzahlungen",
+      "url": "https://www.heise.de/news/Handel-begruesst-digitalen-Euro-als-Alternative-zu-kostspieligen-Kartenzahlungen-10382304.html",
+      "image_title": "Euro,Symbol,In,A,Digital,Raster,Micro,Structure,-,3d"
+    },
+    {
+      "title": "FastVLM: Apples neues KI-Modell gibt Gas",
+      "url": "https://www.heise.de/news/FastVLM-Apples-neue-Bild-zu-Text-KI-soll-deutlich-schneller-sein-10382234.html",
+      "image_title": "Apple-Intelligence-Icon mit Farbverlauf"
     },
     {
       "title": "LegoGPT generiert Klemmbaustein-Modelle",
@@ -464,47 +464,49 @@
       "image_title": "Das Interface von LegoGPT."
     },
     {
+      "title": "Modell soll Hitzesommer in Europa drei Jahre im Voraus vorhersagen können",
+      "url": "https://www.heise.de/news/Modell-soll-Hitzesommer-in-Europa-drei-Jahre-im-Voraus-vorhersagen-koennen-10382973.html",
+      "image_title": "Sonne hinter einem Ozean"
+    },
+    {
       "title": "Folgen des extremen Sonnensturms: GPS-Probleme und außergewöhnliche Polarlichter",
       "url": "https://www.heise.de/news/Extremer-Sonnensturm-vom-Mai-2024-NASA-traegt-unterschiedliche-Folgen-zusammen-10379943.html",
       "image_title": "Farbiges Polarlicht über einem Schiff am Sandstrand"
     },
     {
-      "title": "Seismische Wellen liefern Hinweise auf Ozean im Marsboden",
-      "url": "https://www.heise.de/news/Seismische-Wellen-liefern-Hinweise-auf-Ozean-im-Marsboden-10380251.html",
-      "image_title": "Der Mars"
+      "title": "Nach erfolgreichem Testjahr: Ladebordsteine für E-Autos gehen in Serie",
+      "url": "https://www.heise.de/news/Nach-erfolgreichem-Testjahr-Ladebordsteine-fuer-E-Autos-gehen-in-Serie-10382010.html",
+      "image_title": "Einer der getesteten Ladebordsteine in Köln"
     },
     {
-      "title": "Galaxy S25 Edge: Das bisher dünnste Samsung-Smartphone",
-      "url": "https://www.heise.de/news/Galaxy-S25-Edge-Das-bisher-duennste-Samsung-Smartphone-10380528.html"
+      "title": "Redesign für Android 16 und Wear OS 6: Google frischt seine Betriebssysteme auf",
+      "url": "https://www.heise.de/news/Redesign-fuer-Android-16-und-Wear-OS-6-Google-frischt-seine-Betriebssysteme-auf-10380281.html",
+      "image_title": "Android 16 mit Material 3 Expressive"
     },
     {
-      "title": "iPhone 17: Apple plant allgemeine Preiserhöhung – nicht nur zollbedingt",
-      "url": "https://www.heise.de/news/iPhone-Preise-koennten-steigen-nicht-nur-wegen-US-Strafzoellen-10381144.html",
-      "image_title": "iPhone 15 Pro-Kamera"
+      "title": "Airbnb vor radikalem Wandel: Buchung von Dienstleistungen nun möglich",
+      "url": "https://www.heise.de/news/Airbnb-vor-radikalem-Wandel-Buchung-von-Dienstleistungen-nun-moeglich-10382642.html",
+      "image_title": "Mehrere Screenshots der Airbnb-App mit Entdeckungen und Services"
     },
     {
-      "title": "Warum iMessage Sprachnachrichten mit Ben & Jerry's verschluckt",
-      "url": "https://www.heise.de/news/Warum-iMessage-Sprachnachrichten-mit-Ben-Jerry-s-verschluckt-10380875.html",
-      "image_title": "Messages-App auf dem iPhone"
+      "title": "Reiseenduro Yamaha Ténéré 700 überarbeitet: Wüste Erfahrungen",
+      "url": "https://www.heise.de/news/Enduro-Klassiker-Yamaha-Tenere-700-ueberarbeitet-Wueste-Erfahrungen-10374657.html",
+      "image_title": "Yamaha Ténéré 700"
     },
     {
-      "title": "DJI Mavic 4 Pro: Drohne für Luftbildaufnahmen aus jedem Winkel",
-      "url": "https://www.heise.de/news/DJI-Mavic-4-Pro-Drohne-fuer-Luftbildaufnahmen-aus-jedem-Winkel-10381486.html"
+      "title": "Nach Urteil: Epic reicht \"Fortnite\" mit Web-Zahlung bei Apple ein – und wartet",
+      "url": "https://www.heise.de/news/Epic-Games-Fortnite-mit-Web-Kauf-wartet-auf-Apples-Genehmigung-10380293.html",
+      "image_title": "Fortnite im App Store (Symbolbild)"
     },
     {
-      "title": "Zweite \"Fallout\"-Staffel kommt im Dezember und spielt in New Vegas",
-      "url": "https://www.heise.de/news/Fallout-bei-Prime-Video-Staffel-2-kommt-im-September-10381172.html",
-      "image_title": "Screenshot aus der ersten Staffel von Fallout"
+      "title": "Bericht: Mini-Kamera für Apple Watch und AirPods in Planung",
+      "url": "https://www.heise.de/news/Bericht-Mini-Kamera-fuer-Apple-Watch-und-AirPods-in-Planung-10381210.html",
+      "image_title": "AirPods Pro"
     },
     {
-      "title": "Nintendo Switch 2: Akkuschonmodus und Aufregung um Nutzungsbedingungen",
-      "url": "https://www.heise.de/news/Nintendo-Switch-2-Akkuschonmodus-und-Aufregung-um-Nutzungsbedingungen-10381136.html",
-      "image_title": "Switch 2 vor rotem Hintergrund"
-    },
-    {
-      "title": "Elon Musk profitiert von EU-Geldern in Millionenhöhe",
-      "url": "https://www.heise.de/news/Trump-Freund-Elon-Musk-profitiert-von-EU-Geldern-in-Millionenhoehe-10381115.html",
-      "image_title": "Elon Musk"
+      "title": "\"Organisatorische Veränderungen\": Microsoft entlässt Tausende Mitarbeiter",
+      "url": "https://www.heise.de/news/Organisatorische-Veraenderungen-Microsoft-entlaesst-Tausende-Mitarbeiter-10382577.html",
+      "image_title": "Microsoft-Schild an dunklem Geböude"
     },
     {
       "title": "Elektroauto-Fahrbericht MG S5 EV: Erfolgsrezept aus China",
@@ -512,9 +514,9 @@
       "image_title": "MG S5 EV"
     },
     {
-      "title": "1,3 Millionen Dollar gespart: 37signals zieht Daten von AWS auf eigene Server um",
-      "url": "https://www.heise.de/news/Weg-von-AWS-37signals-spart-mit-eigenem-Speicher-jaehrlich-1-3-Millionen-Dollar-10379632.html",
-      "image_title": "Geldscheine wehen vor Wolken am Himmel"
+      "title": "Neuer Digitalminister: Datenschutz darf nicht zur Innovationsbremse werden",
+      "url": "https://www.heise.de/news/Neuer-Digitalminister-Datenschutz-darf-nicht-zur-Innovationsbremse-werden-10382733.html",
+      "image_title": "Mann hinter zwei Mikros"
     },
     {
       "title": "Nach unbefugtem ePA-Widerspruch: Bundesdatenschutzbeauftragte will Rechte zurück",
@@ -522,22 +524,23 @@
       "image_title": "Frau im Anzug mit Tablet in der Hand"
     },
     {
-      "title": "Ransomware-Gang: Fahndungserfolg in der Republik Moldau",
-      "url": "https://www.heise.de/news/Ransomware-Gang-Fahnungserfolg-in-der-Republik-Moldau-10380969.html"
+      "title": "UpdateCISA rudert zurück: Sicherheitswarnungen bleiben vorerst unangetastet",
+      "url": "https://www.heise.de/news/CISA-Neuausrichtung-Warnungen-vor-bekannten-Exploits-nun-schwerer-zu-finden-10381306.html",
+      "image_title": "CISA-Logo"
     },
     {
-      "title": "Ohne Befugnis: Donald Trump \"feuert\" Chefin der Copyright-Behörde der USA",
-      "url": "https://www.heise.de/news/Nach-Kritik-an-Praxis-beim-KI-Training-Trump-feuert-Chefin-von-Copyright-Buero-10379684.html",
-      "image_title": "Weißes Copyright-Symbol"
+      "title": "Milliardenschwere Fusion: EU-Kommission prüft Intelsat-Übernahme durch SES",
+      "url": "https://www.heise.de/news/Milliardenschwere-Fusion-EU-Kommission-prueft-Intelsat-Uebernahme-durch-SES-10382538.html",
+      "image_title": "Ein Satellit umkreist die Erde"
+    },
+    {
+      "title": "Mittwoch: Microsoft kürzt Tausende Stellen, TikTok mit eigenem KI-Videogenerator",
+      "url": "https://www.heise.de/news/Mittwoch-Microsoft-kuerzt-Tausende-Stellen-TikTok-mit-eigenem-KI-Videogenerator-10382638.html",
+      "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox; Mittwoch: Microsoft-Entlassungen, TikTok-Videogenerator, Satelliten-Fusion, Videomarkt-Regularien & Android-Show"
     },
     {
       "title": "Zahlen, bitte! 16 Striche für bundesdeutsches E-Government",
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-16-Striche-fuer-bundesdeutsches-E-Government-10381312.html"
-    },
-    {
-      "title": "Dienstag: EU ebnet Weg für Fusionen, Datenschutzbeauftragte will Rechte zurück",
-      "url": "https://www.heise.de/news/Dienstag-EU-ebnet-Weg-fuer-Fusionen-Datenschutzbeauftragte-will-Rechte-zurueck-10381045.html",
-      "image_title": "EU-Kommission, dazu Text: DIENSTAG Mega-Fusionen, ePA-Widerspruch, Ransomware, Sonnensturm & Difface-Software"
     },
     {
       "title": "KI-Update: Milliardenpoker um OpenAI, KI-Systeme entwickeln Software, LegoGPT",
@@ -589,41 +592,41 @@
       "url": "https://www.heise.de/news/heiseshow-PayPal-Wallet-Mozilla-Finanzen-Scan-Autos-10374706.html"
     },
     {
-      "title": "Critical security vulnerability in automatic update system for Asus mainboards",
-      "url": "https://www.heise.de/en/news/Critical-security-vulnerability-in-automatic-update-system-for-Asus-mainboards-10380387.html",
-      "image_title": "Four Asus mainboards next to each other against a dark background"
+      "title": "Instead of Apple Pay: PayPal launches contactless payment on iPhone",
+      "url": "https://www.heise.de/en/news/Instead-of-Apple-Pay-PayPal-launches-contactless-payment-on-iPhone-10382486.html",
+      "image_title": "Paypal Card on the iPhone"
     },
     {
       "title": "Switzerland plans to ban anonymity and data retention by decree",
       "url": "https://www.heise.de/en/news/Switzerland-plans-to-ban-anonymity-and-data-retention-by-decree-10377287.html"
     },
     {
-      "title": "30 years of \"299\" - how Sony turned the console market upside down",
-      "url": "https://www.heise.de/en/background/30-years-of-299-how-Sony-turned-the-console-market-upside-down-10379507.html"
+      "title": "Google's new logo: \"G\" with a color gradient instead of color blocks",
+      "url": "https://www.heise.de/en/news/Google-s-new-logo-G-with-a-color-gradient-instead-of-color-blocks-10382517.html"
     },
     {
-      "title": "Perfectly implemented safeguards undermined: Spectre attacks are back",
-      "url": "https://www.heise.de/en/news/Perfectly-implemented-safeguards-undermined-Spectre-attacks-are-back-10381920.html"
+      "title": "Critical security vulnerability in automatic update system for Asus mainboards",
+      "url": "https://www.heise.de/en/news/Critical-security-vulnerability-in-automatic-update-system-for-Asus-mainboards-10380387.html"
     },
     {
-      "title": "iPhone mirroring in the EU: still waiting for useful macOS function",
-      "url": "https://www.heise.de/en/news/iPhone-mirroring-in-the-EU-still-waiting-for-useful-macOS-function-10317754.html"
+      "title": "Tesla Optimus Bot: Video to prove embodied intelligence",
+      "url": "https://www.heise.de/en/news/Tesla-Optimus-Bot-Video-to-prove-embodied-intelligence-10383326.html"
     },
     {
-      "title": "Gewagte TheseLCDs bleiben auch künftig die dominante Displaytechnik",
-      "teaser": "OLEDs sind zu teuer, Mikro-LEDs unbeherrschbar und selbstleuchtende Quantenpunkte unausgereift. Ein vernichtendes Urteil, oder?",
-      "url": "https://www.heise.de/news/Gewagte-These-LCDs-bleiben-auch-kuenftig-die-dominante-Displaytechnik-10381324.html"
+      "title": "DJI Mavic 4 Pro: Drohne für Luftbildaufnahmen aus jedem Winkel",
+      "teaser": "Die neue DJI-Drohne Mavic 4 Pro glänzt mit 100 MP Hasselblad-Hauptkamera, Dual-Telekameras mit großen CMOS-Sensoren und einem Infinity-Gimbal mit 360°-Drehung.",
+      "url": "https://www.heise.de/news/DJI-Mavic-4-Pro-Drohne-fuer-Luftbildaufnahmen-aus-jedem-Winkel-10381486.html"
     },
     {
-      "title": "Für Heimwerker: Wie Sie Glasfaser mit Werkzeug für unter 100 Euro einsetzen",
-      "teaser": "Glasfaser ist als Übertragungsmedium kompliziert zu installieren. Wir zeigen, wie Sie Singlemode-Verlegekabel mit günstigem Material und Werkzeug vorbereiten.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-Lichtwellenleiter-mit-Werkzeug-fuer-unter-100-Euro-einsetzen-10381253.html",
-      "image_title": ","
+      "title": "KI versus Gehirn: Wie gut künstliche Intelligenz menschliches Denken nachahmt",
+      "teaser": "GPT-4o und DeepSeek arbeiten strukturiert und lösen zunehmend komplexe Aufgaben. Doch zwischen künstlichem Gehirn und seinem menschlichen Vorbild liegen Welten.",
+      "url": "https://www.heise.de/ratgeber/KI-versus-Gehirn-Wie-gut-kuenstliche-Intelligenz-menschliches-Denken-nachahmt-10323257.html"
     },
     {
-      "title": "Vergleichstest für VloggerDJI Osmo Pocket 3 gegen Vollformat-Kamera.",
-      "teaser": "Wackelfreie 4K-Aufnahme mit 60 Bildern pro Sekunde leisten auch Minikameras: DJI Osmo Pocket 3 vs. Panasonic Lumix S5IIX.",
-      "url": "https://www.heise.de/ratgeber/Hardware-fuer-Videografen-Kleine-Kompaktkamera-vs-Vollformat-10377936.html"
+      "title": "Weg von Steam: Spiele wirklich besitzen, offline spielen und installieren",
+      "teaser": "Wer gekaufte Spiele wirklich besitzen will, ist bei Steam & Co. falsch. Doch es gibt Alternativen ganz ohne Kopierschutz, Client- und Onlinezwang.",
+      "url": "https://www.heise.de/ratgeber/Weg-von-Steam-Spiele-wirklich-besitzen-offline-spielen-und-installieren-10368528.html",
+      "image_title": "Eine junge Frau reißt sich von ihrer Kette los, die sie an eine Steam-Kugel bindet und sprintet in Richtung einer phantastischen Welt."
     },
     {
       "title": "KaufberatungSo finden Sie die passende Apple Watch",
@@ -638,10 +641,10 @@
       "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
     },
     {
-      "title": "Geistesblitz-KanalisatorIdeen- und Mediensammler Funnel für iOS im Test",
-      "teaser": "Die App Funnel nimmt Inhalte unterschiedlicher Art für eine gezielte Weiterverarbeitung entgegen. Unser Test zeigt, ob das den iPhone-Alltag erleichtert.",
-      "url": "https://www.heise.de/tests/Geistesblitz-Kanalisator-Ideen-und-Mediensammler-Funnel-fuer-iOS-im-Test-10357411.html",
-      "image_title": "Funnel 2.1 auf einem iPhone"
+      "title": "Gehäuse für den Mac Mini mit M4 im Test",
+      "teaser": "Apples Mac mini ist inzwischen für anspruchsvolle Aufgaben gerüstet, sieht aber wie ein Einstiegsrechner aus. Mit einem passenden Gehäuse ändert sich das.",
+      "url": "https://www.heise.de/tests/Des-minis-neue-Kleider-Kompakt-Mac-mit-M4-im-neuen-Look-10372652.html",
+      "image_title": "MacForge Gen 2 von Zeera"
     },
     {
       "title": "Linux-Hacking-Gadget für die Hosentasche",
@@ -656,10 +659,10 @@
       "image_title": "Schriftzug Fixables dahinter Phillips Rasierer"
     },
     {
-      "title": "Pironman 5 MaxMini-Tower-Gehäuse für den Raspi 5 unterstützt jetzt zwei SSDs",
-      "teaser": "Das Pironman 5 Max behält sein eigenwilliges Design abseits der Farbe bei, kann jetzt aber zwei SSDs aufnehmen.",
-      "url": "https://www.heise.de/news/Mini-Tower-Gehaeuse-fuer-den-Raspi-5-unterstuetzt-jetzt-zwei-SSDs-10380705.html",
-      "image_title": "Raspberry Pi 5 in einem Tower-Gehäuse vor weißem Hintergrund"
+      "title": "FernzugriffRaspberry Pi Connect wird erwachsen",
+      "teaser": "Die Raspberry-Pi-Entwickler haben die Fernzugriffsoftware Raspberry Pi Connect nach einem Jahr aus der Beta-Phase entlassen.",
+      "url": "https://www.heise.de/news/Fernzugriff-Raspberry-Pi-Connect-wird-erwachsen-10381414.html",
+      "image_title": "Raspberry-Pi-Connect-Fenster"
     },
     {
       "title": "Polaroid Flip: Sofortbildkamera mit Retro-Charme im Test",
@@ -711,16 +714,16 @@
       "image_title": "Ford Explorer"
     },
     {
-      "title": "Enduro-Klassiker überarbeitetYamaha Ténéré 700: Erfahrung für die Wüste",
-      "teaser": "Yamaha hat seine Erfolgs-Enduro Ténéré 700 gründlich überarbeitet. Standard- und Rally-Variante bieten Verbesserungen an Fahrwerk, Antrieb und Fahrassistenz.",
-      "url": "https://www.heise.de/news/Enduro-Klassiker-Yamaha-Tenere-700-ueberarbeitet-Wueste-Erfahrungen-10374657.html",
-      "image_title": "Yamaha Ténéré 700"
-    },
-    {
       "title": "Auslieferung ab 2026?Flugauto AirCar am Start",
       "teaser": "Nach langer Entwicklungszeit wird das Flugauto AirCar endlich auf den Markt kommen. Es ist aber nicht für jedes Portemonnaie geeignet.",
       "url": "https://www.heise.de/news/Flugauto-AirCar-soll-Anfang-2026-ausgeliefert-werden-10382074.html",
       "image_title": "Künstlerische Darstellung der Serienversion des AirCar"
+    },
+    {
+      "title": "TU München arbeitet an FestkörperakkuElektrolyt mit sehr hoher Leitfähigkeit",
+      "teaser": "Festkörperakkus gelten als die Stromspeicher der Zukunft. Eine Entwicklung der TU München verbessert diese deutlich.",
+      "url": "https://www.heise.de/news/TU-Muenchen-entwickelt-Elektrolyt-fuer-Festkoerperakku-mit-sehr-hoher-Leitfaehigkeit-10381645.html",
+      "image_title": "Ein Stück unbekanntes, dunkles Material in Form einer Batterie, das in Richtung Himmel gehalten wird. In der Mitte ist ein Ausschnitt in Form eines Blitzes, durch den der Himmel zu sehen ist."
     },
     {
       "title": "KI-Agenten ohne Coding erstellen: Wir haben Langflow ausprobiert",
@@ -758,22 +761,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "So fördert Jan Böhmermann Nazis",
-      "teaser": "Ein Beitrag im ZDF Magazin Royale über einen rechten Youtuber ging nach hinten los. Warum rechte Strömungen durch solche \"Enthüllungen\" noch gestärkt werden. Ein Kommentar.",
-      "url": "https://www.heise.de/tp/features/So-foerdert-Jan-Boehmermann-Nazis-10381754.html",
-      "image_title": "Laptop-Computer mit dem Zeichen des Doxings auf einer Internet-E-Mail-Site"
+      "title": "Essen Sie sich gesund: Intervallfasten ohne viel Verzicht",
+      "teaser": "Intervallfasten zeigt vielversprechende Effekte auf die Gesundheit. Studien belegen Vorteile für Gewicht und Stoffwechsel. Doch wie funktioniert es ohne strengen Verzicht?",
+      "url": "https://www.heise.de/tp/features/Essen-Sie-sich-gesund-Intervallfasten-ohne-viel-Verzicht-10383410.html",
+      "image_title": "Keller mit Messer und Gabel als Uhrzeiger"
+    },
+    {
+      "title": "Der Bauernkrieg 1524/25: Als der gemeine Mann aufbegehrte",
+      "teaser": "Vor 500 Jahren erschütterte der Bauernkrieg das Heilige Römische Reich. Tausende starben für Freiheit und Gerechtigkeit. Was trieb die Aufständischen an? (Erster Teil + Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/Der-Bauernkrieg-1524-25-Als-der-gemeine-Mann-aufbegehrte-10382016.html",
+      "image_title": "Sturm auf das Kloster Weißenau. Zeichnung aus der Bauernkriegschronik des Abt Jacob Murer"
     },
     {
       "title": "Freiburg bestraft Verbraucher mit Verpackungssteuer: Ist das fair?",
       "teaser": "Freiburg führt Verpackungssteuer ein: 50 Cent pro Einwegverpackung sollen Müllberge reduzieren. Doch ist die Abgabe fair für Verbraucher?",
       "url": "https://www.heise.de/tp/features/Freiburg-bestraft-Verbraucher-mit-Verpackungssteuer-Ist-das-fair-10382505.html",
       "image_title": "EinwegGeschirr und Besteck auf blauem Holztisch, Draufsicht"
-    },
-    {
-      "title": "Saudi-Arabien lacht: US-Fracking stirbt den Preistod",
-      "teaser": "Niedrige Ölpreise und Produktivitätsgrenzen bedrohen die US-Fracking-Industrie. Experten erwarten das Fördermaximum noch 2025. Ist die Erdgasversorgung Europas betroffen?",
-      "url": "https://www.heise.de/tp/features/Saudi-Arabien-lacht-US-Fracking-stirbt-den-Preistod-10378383.html",
-      "image_title": "Symbolbild Fracking und Gasfrachtschiff"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
