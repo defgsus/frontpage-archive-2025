@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-16T03:36:55",
+  "timestamp": "2025-05-16T04:14:32",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Auslegungssache 134: Datenschutz im Umbruch?",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-134-Datenschutz-im-Umbruch-10385027.html"
+    },
     {
       "title": "OpenAI bucht weitere 4 Milliarden US-Dollar an KI-Rechenzeit bei CoreWeave",
       "url": "https://www.heise.de/news/OpenAI-bucht-weitere-4-Milliarden-US-Dollar-an-KI-Rechenzeit-bei-CoreWeave-10385529.html"
@@ -60,10 +64,6 @@
     {
       "title": "Mehr Abschreckung: App Store warnt vor Apps mit \"externen Käufen\"",
       "url": "https://www.heise.de/news/Mehr-Abschreckung-App-Store-warnt-vor-Apps-mit-externen-Kaeufen-10385332.html"
-    },
-    {
-      "title": "Patentstreit um CRISPR: Wer hat die Genschere wirklich erfunden?",
-      "url": "https://www.heise.de/news/Patentstreit-um-CRISPR-Wer-hat-die-Genschere-wirklich-erfunden-10385312.html"
     },
     {
       "title": "Laut USABösartige Kommunikationsgeräte in chinesischen Solar-Wechselrichtern",
@@ -190,21 +190,27 @@
       "image_title": "Firefox-Logo auf Glasskulptur"
     },
     {
+      "title": "Auslegungssache 134: Datenschutz im Umbruch?",
+      "teaser": "Im c't-Datenschutz-Podcast geht es um die geplante Neuausrichtung des Datenschutzes unter der schwarz-roten Koalition. Droht ein Abschied vom föderalen Modell?",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-134-Datenschutz-im-Umbruch-10385027.html",
+      "image_title": "Dr. Stefan Brink (oben links), Joerg Heidrich (oben rechts) und Holger Bleich (unten)"
+    },
+    {
       "title": "OpenAI bucht weitere 4 Milliarden US-Dollar an KI-Rechenzeit bei CoreWeave",
       "teaser": "Der ChatGPT-Betreiber steckt bereits fast 12 Milliarden Dollar in CoreWeave. Bis 2029 soll der Rechenzentrumsbetreiber weitere Milliarden bekommen.",
       "url": "https://www.heise.de/news/OpenAI-bucht-weitere-4-Milliarden-US-Dollar-an-KI-Rechenzeit-bei-CoreWeave-10385529.html",
       "image_title": "Nvidia-Server im Rechenzentrum von CoreWeave"
     },
     {
+      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
+      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Blackout in Spanien und Portugal: Erste Erkenntnisse",
       "teaser": "Spaniens Regierung macht drei Stromausfälle in Granada, Badajoz und Sevilla für den Beginn des Blackouts verantwortlich. Die Ursache wird weiter untersucht.",
       "url": "https://www.heise.de/news/Blackout-in-Spanien-und-Portugal-Was-zu-Beginn-geschah-10385484.html",
       "image_title": "Überlandstromleitung"
-    },
-    {
-      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
-      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Die beste Sportuhr im Test – Garmin, Polar, Huawei & Co.",
@@ -234,11 +240,6 @@
       "teaser": "Aus China soll ein flotter Serverprozessor mit 128 x86-Kernen stammen. Der Hygon C86-5G kommt angeblich mit 512 Threads.",
       "url": "https://www.heise.de/news/Hygon-C86-5G-Ex-AMD-Partner-entwirft-offenbar-128-Kern-Prozessor-10385336.html",
       "image_title": "Renderbild eines generischen Hygon-Serverprozessors"
-    },
-    {
-      "title": "Sony WH-1000XM6 im Test: Gelungene Evolution des Noise-Cancelling-Kopfhörers",
-      "teaser": "Durchdachte Verbesserungen statt radikaler Umbauten: Sonys sechste Generation des Noise-Cancelling-Kopfhörers WH-1000X macht vieles besser als sein Vorgänger.",
-      "url": "https://www.heise.de/tests/Sony-WH-1000XM6-im-Test-Gelungene-Evolution-des-Noise-Cancelling-Kopfhoerers-10380034.html"
     },
     {
       "title": "Sogar durch den TÜVElektro-Oldtimer straßentauglich machen",
@@ -383,9 +384,9 @@
       "image_title": "Telefon mit Wählscheibe in weiß"
     },
     {
-      "title": "Mehr Unabhängigkeit bei der Servervirtualisierung",
-      "teaser": "Viele Unternehmen wollen ihre Virtualisierungsumgebungen kosteneffizienter gestalten und die Abhängigkeit von Herstellern reduzieren. In einem Webcast am 20. Mai erfahren Sie, welche Chancen sich mit der Open-Source-Lösung PROXMOX VE eröffnen.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/proxmox-ve-mehr-unabhaengigkeit-bei-der-servervirtualisierung-4910/?source=hbsad-ersatz"
+      "title": "Erfolgsfaktoren für eine leistungsfähige KI-Infrastruktur",
+      "teaser": "Welche Rolle spielt der Hauptprozessor (CPU) eines Servers beim Training und der Anwendung von KI-Modellen? Wie müssen CPU und Grafikprozessor (GPU) zusammenarbeiten, um eine möglichst hohe Performance zu gewährleisten? Die Antworten finden Sie in diesem Video.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-workloads-und-die-bedeutung-der-cpu-4923/?source=hbsadersatz"
     },
     {
       "title": "AlertMonitoringtool Dell PowerScale InsightIQ über zwei Wege angreifbar",
@@ -614,22 +615,22 @@
       "url": "https://www.heise.de/en/news/Android-16-for-Pixel-devices-in-June-Material-3-Expressive-first-as-a-beta-10382925.html"
     },
     {
-      "title": "Weg von Steam: Spiele wirklich besitzen, offline spielen und installieren",
-      "teaser": "Wer gekaufte Spiele wirklich besitzen will, ist bei Steam & Co. falsch. Doch es gibt Alternativen ganz ohne Kopierschutz, Client- und Onlinezwang.",
-      "url": "https://www.heise.de/ratgeber/Weg-von-Steam-Spiele-wirklich-besitzen-offline-spielen-und-installieren-10368528.html",
-      "image_title": "Eine junge Frau reißt sich von ihrer Kette los, die sie an eine Steam-Kugel bindet und sprintet in Richtung einer phantastischen Welt."
-    },
-    {
-      "title": "Bluetooth-Nachrüstung: Zehn Audiobrücken für TV, Hi-Fi und Flugzeug",
-      "teaser": "Vielen älteren Verstärkern fehlt Bluetooth für kabellose Audioübertragung. Zehn Nachrüstadapter schlagen die Brücke zu Smartphones und Bluetooth-Kopfhörern.",
-      "url": "https://www.heise.de/tests/Bluetooth-Nachruestung-Zehn-Audiobruecken-fuer-TV-Hi-Fi-und-Flugzeug-10367969.html",
-      "image_title": ","
+      "title": "Warum Vorurteile gegen E-Autos überholt sind",
+      "teaser": "Wir haben Vorbehalte gegen E-Autos überprüft: Unser Härtetest in Kooperation mit dem ADAC zeigt, dass man selbst das Thema Reichweitenangst ad acta legen kann.",
+      "url": "https://www.heise.de/ratgeber/Warum-Vorurteile-gegen-E-Autos-ueberholt-sind-10369935.html",
+      "image_title": ", KI, Collage c’t"
     },
     {
       "title": "Praxistest mit sechs ElektroautosWas passiert und wie weit Sie kommen, wenn Sie E-Autos auf 0 Prozent fahren",
       "teaser": "Stellen Sie sich vor, Sie sitzen in einem E-Auto mit fünf Prozent Restakku, haben aber noch zehn Kilometer vor sich. Unser Test zeigt: Kein Grund zur Panik.",
       "url": "https://www.heise.de/ratgeber/Praxistest-mit-sechs-Elektroautos-Akkus-bis-zum-Stillstand-leerfahren-10375914.html",
       "image_title": ", KI, Collage c’t"
+    },
+    {
+      "title": "Huawei stellt neue Smartwatches Watch 5 und Watch Fit 4 Pro vor",
+      "teaser": "Die Huawei Watch 5 bringt einen neuen Sensor mit, der an der Fingerkuppe drei Messungen zeitgleich durchführt.",
+      "url": "https://www.heise.de/news/Huawei-stellt-neue-Smartwatches-Watch-5-und-Watch-Fit-4-Pro-vor-10384291.html",
+      "image_title": "Huawai Watch 5"
     },
     {
       "title": "Gehäuse für den Mac Mini mit M4 im Test",
@@ -644,10 +645,10 @@
       "image_title": ", CDPiC, stock.adobe.com"
     },
     {
-      "title": "15 Tipps: Das neue Apple Mail richtig nutzen",
-      "teaser": "Mit KI, Kategorien und Profilbildern liefert Mail viel Neues – überfordert aber schnell. Wir sorgen für Durchblick und erklären, wie Sie das Rad zurückdrehen.",
-      "url": "https://www.heise.de/ratgeber/15-Tipps-Das-neue-Apple-Mail-richtig-nutzen-10383422.html",
-      "image_title": ", Ivan, stock.adobe.com"
+      "title": "Mobile Platzschaffer im TestWas taugen Apps zum Aufräumen von iPhone und iPad?",
+      "teaser": "Wenn der freie Speicherplatz auf iPhone oder iPad zur Neige geht, ist Aufräumen angesagt. Sogenannte Cleaner versprechen deutlichen Platzgewinn. Was können sie?",
+      "url": "https://www.heise.de/tests/Mobile-Platzschaffer-Was-taugen-Apps-zum-Aufraeumen-von-iPhone-und-iPad-10372636.html",
+      "image_title": ", KI-generiert mit Midjourney; bearbeitet von Mac & i"
     },
     {
       "title": "Linux-Hacking-Gadget für die Hosentasche",
@@ -764,21 +765,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Saudi-Arabien lacht: US-Fracking stirbt den Preistod",
-      "teaser": "Niedrige Ölpreise und Produktivitätsgrenzen bedrohen die US-Fracking-Industrie. Experten erwarten das Fördermaximum noch 2025. Ist die Erdgasversorgung Europas betroffen?",
-      "url": "https://www.heise.de/tp/features/Saudi-Arabien-lacht-US-Fracking-stirbt-den-Preistod-10378383.html",
-      "image_title": "Symbolbild Fracking und Gasfrachtschiff"
+      "title": "Wie Israel Terrorismusvorwürfe gezielt als Waffe einsetzt",
+      "teaser": "Israel beschuldigt Aktivisten und Hilfsorganisationen regelmäßig der Terrorunterstützung. Ein Ex-US-Diplomat kennt diese Taktik aus eigener Erfahrung. Was er enthüllt, ist brisant. Ein Gastbeitrag mit Leserdebatte.",
+      "url": "https://www.heise.de/tp/features/Wie-Israel-Terrorismusvorwuerfe-gezielt-als-Waffe-einsetzt-10383623.html",
+      "image_title": "Israelische Soldaten an einem Checkpoint im besetzten Westjordanland"
     },
     {
-      "title": "Jetzt wissenschaftlich belegt: Die USA versinken",
-      "teaser": "Und zwar die 28 größten Städte. Vergleichbare Probleme auch in Asien. Wissenschaftler meinen, einen Grund ausfindig gemacht zu haben.",
-      "url": "https://www.heise.de/tp/features/Jetzt-wissenschaftlich-belegt-Die-USA-versinken-10382150.html"
+      "title": "Zölle auf russische Importdünger sollen heimische Industrie stärken",
+      "teaser": "Russland drängt mit Billigdüngern in den EU-Markt. Um die Abhängigkeit von russischen Importen zu verringern, sollen Zölle eingeführt werden. Doch was bedeutet das für die Bauern?",
+      "url": "https://www.heise.de/tp/features/Zoelle-auf-russische-Importduenger-sollen-heimische-Industrie-staerken-10384028.html",
+      "image_title": "Nahaufnahme Hände halten gemischten chemischen Dünger."
     },
     {
-      "title": "Essen Sie sich gesund: Intervallfasten ohne viel Verzicht",
-      "teaser": "Intervallfasten zeigt vielversprechende Effekte auf die Gesundheit. Studien belegen Vorteile für Gewicht und Stoffwechsel. Doch wie funktioniert es ohne strengen Verzicht?",
-      "url": "https://www.heise.de/tp/features/Essen-Sie-sich-gesund-Intervallfasten-ohne-viel-Verzicht-10383410.html",
-      "image_title": "Keller mit Messer und Gabel als Uhrzeiger"
+      "title": "Aktien statt Lotto: So klappt die Altersvorsorge wirklich",
+      "teaser": "Finanzwissen ist der Schlüssel für eine sorgenfreie Rente. Neue Ratgeber zeigen, wie man mit klugen Investments vorsorgt.",
+      "url": "https://www.heise.de/tp/features/Aktien-statt-Lotto-So-klappt-die-Altersvorsorge-wirklich-10383490.html",
+      "image_title": "Wachstum in den Bereichen Finanzen oder Investitionen. Langfristige Investitionsgewinne."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
