@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-18T07:08:52",
+  "timestamp": "2025-05-18T08:11:36",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10373876.html"
+    },
     {
       "title": "Drei Fragen und Antworten: Beendet Low Code den Cloud-Trend?",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Beendet-Low-Code-den-Cloud-Trend-10386141.html"
@@ -60,10 +64,6 @@
     {
       "title": "Weg von Steam: Spiele wirklich besitzen, offline spielen und installieren",
       "url": "https://www.heise.de/ratgeber/Weg-von-Steam-Spiele-wirklich-besitzen-offline-spielen-und-installieren-10368528.html"
-    },
-    {
-      "title": "iX-Workshop: Hochverfügbare IT-Infrastrukturen mit Proxmox VE und Ceph",
-      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbare-IT-Infrastrukturen-mit-Proxmox-VE-und-Ceph-10382334.html"
     },
     {
       "title": "UpdateSchon wiederKein Fortnite mehr für iPhones: Apple blockiert angeblich Update",
@@ -185,21 +185,27 @@
       "url": "https://www.heise.de/news/Warum-MCP-die-KI-Nutzung-auf-den-Kopf-stellt-10386848.html"
     },
     {
+      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
+      "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10373876.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+    },
+    {
       "title": "Drei Fragen und Antworten: Beendet Low Code den Cloud-Trend?",
       "teaser": "Lange Zeit gab es nur einen Weg für Unternehmensanwendungen: raus aus dem eigenen Rechenzentrum, rein in die Cloud. Dreht sich mit Low Code der Trend jetzt um?",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Beendet-Low-Code-den-Cloud-Trend-10386141.html",
       "image_title": "Roboter mit Sprechblase"
     },
     {
+      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
+      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "IP-Adressvergabestellen unter Beschuss: Einschüchtern, klagen, übernehmen",
       "teaser": "Ein Hongkonger IP-Adresshändler liefert sich einen erbitterten Streit mit den IP-Adressvergabestellen. Neben Afrika nun offenbar auch in Europa.",
       "url": "https://www.heise.de/news/IP-Adressvergabestellen-unter-Beschuss-Einschuechtern-klagen-uebernehmen-10386278.html",
       "image_title": "Business,,Technology,,Internet,And,Network,Concept.,Young,Businessman,Working,On"
-    },
-    {
-      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
-      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Bluetooth-Nachrüstung: Zehn Audiobrücken für TV, Hi-Fi und Flugzeug",
@@ -228,12 +234,6 @@
       "teaser": "Wer gekaufte Spiele wirklich besitzen will, ist bei Steam & Co. falsch. Doch es gibt Alternativen ganz ohne Kopierschutz, Client- und Onlinezwang.",
       "url": "https://www.heise.de/ratgeber/Weg-von-Steam-Spiele-wirklich-besitzen-offline-spielen-und-installieren-10368528.html",
       "image_title": "Eine junge Frau reißt sich von ihrer Kette los, die sie an eine Steam-Kugel bindet und sprintet in Richtung einer phantastischen Welt."
-    },
-    {
-      "title": "iX-Workshop: Hochverfügbare IT-Infrastrukturen mit Proxmox VE und Ceph",
-      "teaser": "Lernen Sie, wie Sie ein hochverfügbares Proxmox VE-Clusters mit Ceph-Speicher einrichten und verwalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbare-IT-Infrastrukturen-mit-Proxmox-VE-und-Ceph-10382334.html",
-      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
     },
     {
       "title": "Sogar durch den TÜVElektro-Oldtimer straßentauglich machen",
@@ -286,8 +286,8 @@
       "url": "https://www.heise.de/news/Blackout-in-Spanien-und-Portugal-Was-zu-Beginn-geschah-10385484.html"
     },
     {
-      "title": "Microsoft Teams verhindert mit neuer Funktion Screenshots",
-      "url": "https://www.heise.de/news/Microsoft-Teams-soll-kuenftig-Screenshots-verhindern-koennen-10379434.html"
+      "title": "Negativpreis an der Börse: Stromanbieter zahlen Kunden Geld",
+      "url": "https://www.heise.de/news/Negativpreis-an-der-Boerse-Stromanbieter-zahlen-Kunden-Geld-10387187.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -299,6 +299,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "iX-Workshop: Hochverfügbare IT-Infrastrukturen mit Proxmox VE und Ceph",
+      "teaser": "Lernen Sie, wie Sie ein hochverfügbares Proxmox VE-Clusters mit Ceph-Speicher einrichten und verwalten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbare-IT-Infrastrukturen-mit-Proxmox-VE-und-Ceph-10382334.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
     },
     {
       "title": "Verizon darf Frontier kaufen – weil Diversitätsprogramme gestrichen wurden",
@@ -369,15 +375,15 @@
       "url": "https://www.heise.de/news/Mobilfunkstreit-Verwaltungsgericht-ruegt-Untaetigkeit-der-Bundesnetzagentur-10386874.html"
     },
     {
+      "title": "Mehr Unabhängigkeit bei der Servervirtualisierung",
+      "teaser": "Viele Unternehmen wollen ihre Virtualisierungsumgebungen kosteneffizienter gestalten und die Abhängigkeit von Herstellern reduzieren. In einem Webcast am 20. Mai erfahren Sie, welche Chancen sich mit der Open-Source-Lösung PROXMOX VE eröffnen.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/proxmox-ve-mehr-unabhaengigkeit-bei-der-servervirtualisierung-4910/?source=hbsad-ersatz"
+    },
+    {
       "title": "Zweiter Tag der Pwn2Own Berlin: Sandkistenausbrüche und KI-Exploits",
       "teaser": "Beim ersten Pwn2Own-Wettbewerb in Deutschland sammelten internationale Teilnehmer sechsstellige Preisgelder ein. Besonders beliebt: Nvidias KI-Server Triton.",
       "url": "https://www.heise.de/news/Zweiter-Tag-der-Pwn2Own-Berlin-Sandkistenausbrueche-und-KI-Exploits-10386551.html",
       "image_title": "Das Logo der pwn2own Berlin"
-    },
-    {
-      "title": "Mehr Unabhängigkeit bei der Servervirtualisierung",
-      "teaser": "Viele Unternehmen wollen ihre Virtualisierungsumgebungen kosteneffizienter gestalten und die Abhängigkeit von Herstellern reduzieren. In einem Webcast am 20. Mai erfahren Sie, welche Chancen sich mit der Open-Source-Lösung PROXMOX VE eröffnen.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/proxmox-ve-mehr-unabhaengigkeit-bei-der-servervirtualisierung-4910/?source=hbsad-ersatz"
     },
     {
       "title": "VisionOS 3, XR Expo und Spatial-Kamera im Eigenbau | TNBT-Podcast",
@@ -433,7 +439,6 @@
     },
     {
       "title": "Seltenheit: Acer bringt 14-Zoll-Notebook mit mattem OLED-Display",
-      "teaser": "Acer legt das Swift Edge 14 neu auf. Die 2025er-Version verwendet Intels Lunar-Lake-CPUs statt wie bisher AMDs Ryzen.",
       "url": "https://www.heise.de/news/Swift-Edge-14-Acer-bringt-leichtes-14-Zoll-Notebook-10385271.html",
       "image_title": "Acer Swift Edge 14 auf einem Tisch"
     },
@@ -446,10 +451,6 @@
       "title": "CarPlay Ultra rollt los: Später wie langsamer Start für CarPlay 2",
       "url": "https://www.heise.de/news/CarPlay-Ultra-rollt-los-Spaeter-wie-langsamer-Start-fuer-CarPlay-2-10385037.html",
       "image_title": "CarPlay Ultra im Aston Martin"
-    },
-    {
-      "title": "Auch für iPhones: Superschneller Sparspeicher \"Mobile HBM\"",
-      "url": "https://www.heise.de/news/Mobile-HBM-Superschnelles-DRAM-fuer-Apple-Smartphones-mit-KI-10386380.html"
     },
     {
       "title": "Start-up stellt stahlhartes \"Superholz\" vor",
@@ -607,20 +608,20 @@
       "url": "https://www.heise.de/en/news/World-Press-Photo-withdraws-recognition-from-Nick-Ut-for-Napalm-Girl-10386970.html"
     },
     {
-      "title": "Auch für iPhonesSuperschneller Sparspeicher \"Mobile HBM\"",
-      "teaser": "\"Low Power Wide I/O\"-Speicherchips mit vielen Datenleitungen sollen hohe Datentransferraten mit niedrigem Stromdurst kombinieren.",
-      "url": "https://www.heise.de/news/Mobile-HBM-Superschnelles-DRAM-fuer-Apple-Smartphones-mit-KI-10386380.html"
+      "title": "c’t uplinkPodcast: Was passiert, wenn man den Akku eines E-Autos leer fährt",
+      "teaser": "Wie plötzlich bleibt ein E-Auto mit leerem Akku eigentlich stehen? Und ist der Akku dann tiefentladen oder gar kaputt? Wie räumen die Bedenken im Podcast auf.",
+      "url": "https://www.heise.de/news/Podcast-Was-passiert-wenn-man-den-Akku-eines-E-Autos-leer-faehrt-c-t-uplink-10386070.html"
+    },
+    {
+      "title": "c't 3003Warum MCP die KI-Nutzung auf den Kopf stellt",
+      "teaser": "KI kann jetzt direkt Software wie Blender, GitHub oder Slack bedienen -- die neue MCP-Schnittstelle macht's möglich. Wir haben uns MCP genauer angesehen.",
+      "url": "https://www.heise.de/news/Warum-MCP-die-KI-Nutzung-auf-den-Kopf-stellt-10386848.html"
     },
     {
       "title": "Buchkritik: Wissenschaftliches Schreiben mit KI",
       "teaser": "Isabella Bucks Ratgeber erklärt angehenden Wissenschaftlern, wie sie KI-Tools gewinnbringend beim Schreiben von Seminar- oder Abschlussarbeiten nutzen.",
       "url": "https://www.heise.de/tests/Buchkritik-Wissenschaftliches-Schreiben-mit-KI-10354088.html",
       "image_title": "Isabella Buck - Wissenschaftliches Schreiben mit KI"
-    },
-    {
-      "title": "c’t uplinkPodcast: Was passiert, wenn man den Akku eines E-Autos leer fährt",
-      "teaser": "Wie plötzlich bleibt ein E-Auto mit leerem Akku eigentlich stehen? Und ist der Akku dann tiefentladen oder gar kaputt? Wie räumen die Bedenken im Podcast auf.",
-      "url": "https://www.heise.de/news/Podcast-Was-passiert-wenn-man-den-Akku-eines-E-Autos-leer-faehrt-c-t-uplink-10386070.html"
     },
     {
       "title": "15 Tipps: Das neue Apple Mail richtig nutzen",
@@ -670,15 +671,14 @@
       "image_title": "Das Siegerbild zeigt den Biologen Audun Rikardsen in einem norwegischen Fjord, wie er Wale mit Sendern ausstattet."
     },
     {
+      "title": "Optimale Landschaftsfotografie: Wie digitales Locationscouting hilft",
+      "teaser": "Für perfekte Landschaftsfotos braucht es die passenden Lichtverhältnisse und fotogenes Wetter. Mit den richtigen Tools und Apps sind Sie immer am schönsten Ort.",
+      "url": "https://www.heise.de/ratgeber/Optimale-Landschaftsfotografie-Wie-digitales-Locationscouting-hilft-10376350.html"
+    },
+    {
       "title": "Polaroid Flip: Sofortbildkamera mit Retro-Charme im Test",
       "teaser": "Die Flip ist die neueste Sofortbildkamera von Polaroid und verspricht eine noch einfache Handhabung und gute Sofortbilder. Wir haben sie getestet.",
       "url": "https://www.heise.de/tests/Polaroid-Flip-Sofortbildkamera-mit-Retro-Charme-im-Test-10378874.html"
-    },
-    {
-      "title": "So schreit der Sportwagen: PS! Click Boom Flash # 37 \"Autos fotografieren\"",
-      "teaser": "\"Es ist schwierig, wenn man seitlich das Auto fotografiert. Dann steht man direkt im Spiegelbild davor\", sagt Fotograf Emmanuel Zouboulis.",
-      "url": "https://www.heise.de/news/So-schreit-der-Sportwagen-PS-Click-Boom-Flash-37-Autos-fotografieren-10376840.html",
-      "image_title": "Merzedes als Color-Key Aufnahme"
     },
     {
       "title": "Cyberangriffe ohne Malware: Living off the Land",
@@ -755,10 +755,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Coinbase-Hack könnte Unternehmen 400 Millionen Dollar kosten",
-      "teaser": "Hacker erpressen Coinbase: Mitarbeiter wurden bestochen, um an sensible Kundendaten zu gelangen. Das Image der Krypto-Börse ist angekratzt.",
-      "url": "https://www.heise.de/tp/features/Coinbase-Hack-koennte-Unternehmen-400-Millionen-Dollar-kosten-10386214.html",
-      "image_title": "Nahaufnahme von glänzenden Münzen in Gold- und Silberfarbe mit Bitcoin-Symbol"
+      "title": "Turkstream: Wenn amerikanisches Geld auf russisches Gas trifft",
+      "teaser": "Ein US-Investmentfonds könnte sich an der Turkstream-Pipeline in Bulgarien beteiligen. Das wäre ein Rückschlag für Europas Pläne, sich von Russlands Gas zu lösen.",
+      "url": "https://www.heise.de/tp/features/Turkstream-Wenn-amerikanisches-Geld-auf-russisches-Gas-trifft-10386778.html",
+      "image_title": "Person, die Smartphone mit Website der Erdgas-Pipeline TurkStream auf dem Bildschirm vor dem Logo."
     },
     {
       "title": "Istanbul: Das große Warten auf den Frieden",
@@ -767,10 +767,10 @@
       "image_title": "Ukraines Präsident Wolodymyr Selenskyj"
     },
     {
-      "title": "Von McDonalds bis Zara: Kehren westliche Marken nach Russland zurück?",
-      "teaser": "Einige ausländische Marken könnten nach Russland zurückkehren. Doch ihre Wiederkehr wird an Bedingungen geknüpft sein (Leserdebatte).",
-      "url": "https://www.heise.de/tp/features/Von-McDonalds-bis-Zara-Kehren-westliche-Marken-nach-Russland-zurueck-10380909.html",
-      "image_title": "Eine McDonalds Filiale in Russland"
+      "title": "Politische Angriffe gescheitert: Telepolis überzeugt mit Sorgfalt und Transparenz",
+      "teaser": "Telepolis wehrt alle Angriffe ab: Keine Beschwerde beim Presserat hatte eine Rüge zufolge. Zu gutem Journalismus können auch Sie beitragen.",
+      "url": "https://www.heise.de/tp/features/Politische-Angriffe-gescheitert-Telepolis-ueberzeugt-mit-Sorgfalt-und-Transparenz-10386993.html",
+      "image_title": "Erhobener Faust vor offenem Himmel, dadrin ein Stift"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
