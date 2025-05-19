@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-19T07:10:58",
+  "timestamp": "2025-05-19T08:15:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,27 @@
   ],
   "articles": [
     {
-      "title": "REST-API und Python: Daten mit FastAPI verwalten",
-      "teaser": "Python eignet sich nicht nur für kleine Skripte: Mit einer Bibliothek wie FastAPI schreiben Sie mit Python auch APIs nach dem REST-Schema.",
-      "url": "https://www.heise.de/ratgeber/REST-API-und-Python-Daten-mit-FastAPI-verwalten-10298371.html"
+      "title": "Neue Angriffsmasche auf GitHub und Co.: Zeichentausch mit Unicode in URLs",
+      "teaser": "Wenn Angreifer Buchstaben in URLs durch gleich aussehende Unicode-Zeichen ersetzen, ist das schwer aufzudecken. Eine neuer CI-Job schafft Abhilfe.",
+      "url": "https://www.heise.de/news/Neue-Angriffsmasche-auf-GitHub-und-Co-Zeichentausch-mit-Unicode-in-URLs-10387719.html",
+      "image_title": "Bunte Buchstaben"
     },
     {
-      "title": "NVLink Fusion: Nvidia öffnet die NVLink-Schnittstelle für andere Chiphersteller",
+      "title": "Notebook-Zusatzbildschirm: Darf’s ein bisschen mehr sein?",
+      "teaser": "Acer zeigt auf der Computex mehrere mobile Bildschirme. Das größte Modell hat zwei IPS-Panels mit jeweils 23,8 Zoll Diagonale.",
+      "url": "https://www.heise.de/news/Notebook-Zusatzbildschirm-Darf-s-ein-bisschen-mehr-sein-10387488.html",
+      "image_title": "Acer-Displays auf einem Tisch neben Notebooks"
+    },
+    {
+      "title": "c’t <webdev>: Spannende Vorträge gesucht",
+      "teaser": "Noch bis zum 30. Mai können sich Interessierte für die aktive Teilnahme an der Frontend-Konferenz der c’t bewerben. Gesucht sind Talks und Workshops.",
+      "url": "https://www.heise.de/news/c-t-webdev-Spannende-Vortraege-gesucht-10386149.html"
+    },
+    {
+      "title": "Nvidia NVLink Fusion: Flotte Chipschnittstelle auch für andere Hersteller",
       "teaser": "Bislang nutzte Nvidia die schnelle NVLink-Schnittstelle exklusiv für eigene Rechenbeschleuniger. In Zukunft dürfen sie auch andere Firmen integrieren.",
       "url": "https://www.heise.de/news/NVLink-Fusion-Nvidia-oeffnet-die-NVLink-Schnittstelle-fuer-andere-Chiphersteller-10387549.html",
       "image_title": "Nvidia-CEO Jensen Huang mit einem NVLink-Verteiler für Server-Racks"
-    },
-    {
-      "title": "iX-Workshop: IT-Sicherheit jenseits der Bits - Physische Schutzstrategien",
-      "teaser": "Praxisnah mit simuliertem Penetrationstest: IT-Infrastruktur physisch absichern, Sicherheitslücken erkennen und wirksame Schutzmaßnahmen auswählen.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-jenseits-der-Bits-Physische-Schutzstrategien-10382204.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "AlertAngreifer können Verbindungen von Sonicwall SMA1000 manipulieren",
-      "teaser": "Die Fernzugriffslösung Secure Mobile Access (SMA) der 1000er-Serie von Sonicwall ist verwundbar.",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Verbindungen-von-Sonicwall-SMA1000-manipulieren-10387581.html",
-      "image_title": "Abstraktes Bild zu Netzwerken"
     },
     {
       "title": "HintergrundBit-Rauschen: Tausende Intel-Manager fliegen raus",
@@ -60,6 +60,18 @@
     {
       "title": "RatgeberWas Fuse-Bits sind und wie man sie am ATmega328 anpasst",
       "url": "https://www.heise.de/ratgeber/Was-Fuse-Bits-sind-und-wie-man-sie-am-ATmega328-anpasst-10373669.html"
+    },
+    {
+      "title": "iX-Workshop: IT-Sicherheit jenseits der Bits - Physische Schutzstrategien",
+      "teaser": "Praxisnah mit simuliertem Penetrationstest: IT-Infrastruktur physisch absichern, Sicherheitslücken erkennen und wirksame Schutzmaßnahmen auswählen.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-jenseits-der-Bits-Physische-Schutzstrategien-10382204.html",
+      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
+    },
+    {
+      "title": "AlertAngreifer können Verbindungen von Sonicwall SMA1000 manipulieren",
+      "teaser": "Die Fernzugriffslösung Secure Mobile Access (SMA) der 1000er-Serie von Sonicwall ist verwundbar.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Verbindungen-von-Sonicwall-SMA1000-manipulieren-10387581.html",
+      "image_title": "Abstraktes Bild zu Netzwerken"
     },
     {
       "title": "US-Regierung erwägt neuen Deal mit Boeing zu Max-Abstürzen",
@@ -134,17 +146,6 @@
       "teaser": "Die KI Grok verbreitete am Mittwoch einige Stunden lang Falschinformationen über einen angeblichen Genozid in Südafrika. xAI reagierte mit einer Stellungnahme.",
       "url": "https://www.heise.de/news/Manipulation-am-Systemprompt-Grok-fabulierte-ueber-weissen-Genozid-10386925.html",
       "image_title": "Logo von Grok"
-    },
-    {
-      "title": "ARM gibt \"Cortex\" auf",
-      "teaser": "Alle CPU-Kerne bekommen bei ARM neue Namen. Der Architekturdesigner will offenbar Kerne speziell für PCs entwerfen.",
-      "url": "https://www.heise.de/news/ARM-gibt-Cortex-auf-10386957.html",
-      "image_title": "Chip auf Mainboard"
-    },
-    {
-      "title": "Mobilfunkstreit: Verwaltungsgericht rügt Untätigkeit der Bundesnetzagentur",
-      "teaser": "Streitbeilegungsverfahren wegen gescheiterter Zugangsverhandlungen zu Telekommunikationsnetzen muss der Regulierer laut dem Urteil binnen 4 Monaten entscheiden.",
-      "url": "https://www.heise.de/news/Mobilfunkstreit-Verwaltungsgericht-ruegt-Untaetigkeit-der-Bundesnetzagentur-10386874.html"
     },
     {
       "title": "NewsWorld Press Photo entzieht Nick Ut Anerkennung für \"Napalm Girl\"",
