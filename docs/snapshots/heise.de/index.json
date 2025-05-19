@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-19T12:19:36",
+  "timestamp": "2025-05-19T13:25:21",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,11 +26,35 @@
   ],
   "articles": [
     {
+      "title": "C++: Vorschlag von Oliver Schädlich zu \"atomic<shared_ptr<>>\" – ein Experiment",
+      "url": "https://www.heise.de/blog/C-Vorschlag-von-Oliver-Schaedlich-zu-atomic-shared-ptr-ein-Experiment-10388550.html"
+    },
+    {
+      "title": "Die Produktwerker: Wie viel Refinement braucht ein gutes Produktteam?",
+      "url": "https://www.heise.de/blog/Die-Produktwerker-Wie-viel-Refinement-braucht-ein-gutes-Produktteam-10388156.html"
+    },
+    {
+      "title": "KI-Update kompakt: Noyb vs. Meta, Gemini Talkback, Codex-1, Siri-Alternative",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Noyb-vs-Meta-Gemini-Talkback-Codex-1-Siri-Alternative-10388320.html"
+    },
+    {
+      "title": "Schlaue Steuererklärung: WISO Steuer mit KI fürs iPhone, iPad und Mac im Test",
+      "url": "https://www.heise.de/tests/Schlaue-Steuererklaerung-WISO-Steuer-mit-KI-fuers-iPhone-iPad-und-Mac-im-Test-10372642.html"
+    },
+    {
+      "title": "KI- und Siri-Probleme: Warum so viel an Apple Intelligence hängt",
+      "url": "https://www.heise.de/news/KI-und-Siri-Probleme-Warum-so-viel-an-Apple-Intelligence-haengt-10387619.html"
+    },
+    {
+      "title": "Nein zu Black-Mirror-Fantasien: Datenschutzempfehlungen zu Neurotechnologien",
+      "url": "https://www.heise.de/news/Nein-zu-Black-Mirror-Fantasien-Datenschutzempfehlungen-zu-Neurotechnologien-10387760.html"
+    },
+    {
       "title": "Nvidia beeinflusst frühe Tests der GeForce RTX 5060 erheblich",
       "url": "https://www.heise.de/news/Nvidia-beeinflusst-fruehe-Tests-der-GeForce-RTX-5060-erheblich-10388222.html"
     },
     {
-      "title": "Genesis G80 Electrified: Mehr Radstand, mehr Reichweite",
+      "title": "Genesis G80 Electrified: Radstand und Reichweite erweitert",
       "url": "https://www.heise.de/news/Genesis-G80-Electrified-Mehr-Radstand-mehr-Reichweite-10388294.html"
     },
     {
@@ -40,30 +64,6 @@
     {
       "title": "BattleMatrix: KI-Workstations mit bis zu acht von Intels neuen Arc B60 Pro",
       "url": "https://www.heise.de/news/Workstation-und-KI-Grafikkarten-von-Intel-Arc-B50-und-B60-mit-bis-zu-24-GByte-10388248.html"
-    },
-    {
-      "title": "Non-Profits sollen zahlen: Microsoft streicht kostenloses M365 Business Premium",
-      "url": "https://www.heise.de/news/Non-Profits-sollen-zahlen-Microsoft-streicht-kostenloses-M365-Business-Premium-10388160.html"
-    },
-    {
-      "title": "Tropfen im Fokus: Auf den Spuren des Kaffeering-Phänomens",
-      "url": "https://www.heise.de/news/Raetsel-des-Kaffeering-Effekts-kann-Druckprozesse-verbessern-10388326.html"
-    },
-    {
-      "title": "Strom aus menschlichen Bewegungen mit Klebeband gewinnen",
-      "url": "https://www.heise.de/news/Strom-aus-menschlichen-Bewegungen-mit-Klebeband-gewinnen-10388264.html"
-    },
-    {
-      "title": "Acer steigt mit Smart-Ring und Dolmetscher-Ohrstöpseln in Wearable-Markt ein",
-      "url": "https://www.heise.de/news/Acer-steigt-mit-Smart-Ring-und-Dolmetscher-Ohrstoepseln-in-Wearable-Markt-ein-10388359.html"
-    },
-    {
-      "title": "Australische Forscher bauen Solarthermieanlage mit Kunststoffspiegeln",
-      "url": "https://www.heise.de/news/Australische-Forscher-bauen-Solarthermieanlage-mit-Kunststoffspiegeln-10388375.html"
-    },
-    {
-      "title": "OECD: Nicht genügend Studien zu kindlichem Wohlbefinden im digitalen Zeitalter",
-      "url": "https://www.heise.de/news/OECD-Wohlbefinden-von-Kindern-im-digitalen-Zeitalter-hoechst-individuell-10387669.html"
     },
     {
       "title": "Internationaler StrafgerichtshofMicrosofts E-Mail-Sperre als Weckruf für digitale Souveränität",
@@ -88,21 +88,22 @@
       "image_title": ", KI, Collage c’t"
     },
     {
-      "title": "Krypto-MenschenraubBitcoins: Finger weg!",
-      "teaser": "Wer nicht seine Finger von Kryptowährungen lassen kann und mit seinen Bitcoin-Millionen prahlt, riskiert, sie zu verlieren – die Millionen und die Finger.",
-      "url": "https://www.heise.de/news/Bitcoins-Finger-weg-10386693.html"
+      "title": "Non-Profits sollen zahlenMicrosoft streicht kostenloses M365 Business Premium",
+      "teaser": "Bislang verteilte Microsoft kostenlose Lizenzen von M365 Business Premium an Non-Profit-Organisationen. Damit ist künftig Schluss.",
+      "url": "https://www.heise.de/news/Non-Profits-sollen-zahlen-Microsoft-streicht-kostenloses-M365-Business-Premium-10388160.html",
+      "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
     },
     {
-      "title": "OpenAI-Tool Codex soll Softwareentwicklern das Programmieren abnehmen",
-      "teaser": "OpenAI hat ein Tool veröffentlicht, das einen Großteil der Programmierarbeit in Softwareprojekten übernehmen soll.",
-      "url": "https://www.heise.de/news/OpenAI-Tool-Codex-soll-Softwareentwicklern-das-Programmieren-abnehmen-10387230.html",
-      "image_title": "Das Logo von OpenAI an einer Glasfassade"
+      "title": "Australisches ForschungsprojektSolarthermieanlage mit Kunststoffspiegeln",
+      "teaser": "Spiegel aus Kunststoff sollen die Energiegewinnung über Solarthermieanlagen praktikabler und günstiger machen.",
+      "url": "https://www.heise.de/news/Australische-Forscher-bauen-Solarthermieanlage-mit-Kunststoffspiegeln-10388375.html",
+      "image_title": "Solarthermie-Anlage aus der Luft"
     },
     {
-      "title": "Für Reviewer und CIs schwer erkennbarBösartiger URL-Schwindel mit Unicode",
-      "teaser": "Wenn Angreifer Buchstaben in URLs durch Unicode-Zeichen ersetzen, ist das schwer aufzudecken. Eine neuer CI-Job schafft Abhilfe.",
-      "url": "https://www.heise.de/news/Neue-Angriffsmasche-auf-GitHub-und-Co-Zeichentausch-mit-Unicode-in-URLs-10387719.html",
-      "image_title": "Bunte Buchstaben"
+      "title": "Gaming-GrafikkarteNvidia beeinflusst frühe Tests der GeForce RTX 5060 erheblich",
+      "teaser": "Frühe Tests der GeForce RTX 5060 haben fast keinen Aussagewert. Nvidia gibt Spiele, Einstellungen und Vergleichsmodelle vor.",
+      "url": "https://www.heise.de/news/Nvidia-beeinflusst-fruehe-Tests-der-GeForce-RTX-5060-erheblich-10388222.html",
+      "image_title": "Gigabyte GeForce RTX 5060 hängt an einer Wand"
     },
     {
       "title": "EinbruchsschutzAnwesenheit simulieren mit Home Assistant",
@@ -128,10 +129,10 @@
       "url": "https://www.heise.de/hintergrund/Gehaelter-2025-Das-verdienen-IT-Administratoren-in-Deutschland-10359651.html"
     },
     {
-      "title": "Für die Switch 2Nintendo nennt kostenfrei verbesserte Switch-Spiele",
-      "teaser": "Nintendo verspricht grafische Updates auf der Switch 2 für etliche Originalspiele der ersten Switch.",
-      "url": "https://www.heise.de/news/Nintendo-listet-die-auf-der-Switch-2-kostenfrei-verbesserten-Switch-Spiele-10387537.html",
-      "image_title": "Mario-Kart-Spiel auf der Nintendo Switch 2"
+      "title": "OpenAI-Tool Codex soll Softwareentwicklern das Programmieren abnehmen",
+      "teaser": "OpenAI hat ein Tool veröffentlicht, das einen Großteil der Programmierarbeit in Softwareprojekten übernehmen soll.",
+      "url": "https://www.heise.de/news/OpenAI-Tool-Codex-soll-Softwareentwicklern-das-Programmieren-abnehmen-10387230.html",
+      "image_title": "Das Logo von OpenAI an einer Glasfassade"
     },
     {
       "title": "EinbruchsschutzMit Home Assistant kompatible Geräte zur Heim-Absicherung",
@@ -146,21 +147,20 @@
       "image_title": "Installateur montiert ein Modul einer Photovoltaik-Anlage."
     },
     {
-      "title": "Mehrere FälleNegativpreis an der Börse: Stromanbieter zahlen Kunden Geld",
-      "teaser": "Statt bezahlen zu müssen, erhielten Stromkunden für jede verbrauchte Kilowattstunde Geld. Die Stromtarife machten es möglich.",
-      "url": "https://www.heise.de/news/Negativpreis-an-der-Boerse-Stromanbieter-zahlen-Kunden-Geld-10387187.html",
-      "image_title": "Eine Person hält eine Glühbirne und einige Geldscheine in der Hand."
+      "title": "BattleMatrixKI-Workstations mit bis zu acht von Intels neuen Arc B60 Pro",
+      "teaser": "Intels neue Battlemage-GPUs für Workstations sollen ab dem dritten Quartal erhältlich sein. Sie nutzen bis zu 24 GByte Speicher.",
+      "url": "https://www.heise.de/news/Workstation-und-KI-Grafikkarten-von-Intel-Arc-B50-und-B60-mit-bis-zu-24-GByte-10388248.html",
+      "image_title": "Renderbild von Intels Battlemage-Grafikchip"
     },
     {
-      "title": "Historisch bedingtPost und Telekom haben noch Tausende Beamte",
-      "teaser": "Beamte arbeiten für den Staat – außer, sie waren früher bei der Bundespost. Der Anteil der Beamten bei Post und Telekom sinkt jedoch ständig.",
-      "url": "https://www.heise.de/news/Noch-ueber-27-000-Beamte-bei-Post-und-Telekom-10387466.html"
+      "title": "Tropfen im FokusAuf den Spuren des Kaffeering-Phänomens",
+      "teaser": "Ein Team der TU Darmstadt hat die Verdunstung von Tropfen aus Flüssigkeiten erforscht. Die Erkenntnisse nutzen dem 3D-Druck.",
+      "url": "https://www.heise.de/news/Raetsel-des-Kaffeering-Effekts-kann-Druckprozesse-verbessern-10388326.html"
     },
     {
-      "title": "Notebook-ZusatzbildschirmDarf’s ein bisschen mehr Displayfläche sein?",
-      "teaser": "Acer zeigt auf der Computex mehrere mobile Bildschirme. Das größte Modell hat zwei IPS-Panels mit jeweils 23,8 Zoll Diagonale.",
-      "url": "https://www.heise.de/news/Notebook-Zusatzbildschirm-Darf-s-ein-bisschen-mehr-sein-10387488.html",
-      "image_title": "Acer-Displays auf einem Tisch neben Notebooks"
+      "title": "Krypto-MenschenraubBitcoins: Finger weg!",
+      "teaser": "Wer nicht seine Finger von Kryptowährungen lassen kann und mit seinen Bitcoin-Millionen prahlt, riskiert, sie zu verlieren – die Millionen und die Finger.",
+      "url": "https://www.heise.de/news/Bitcoins-Finger-weg-10386693.html"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -169,10 +169,10 @@
       "image_title": "Mann kauert im Urlaub auf einer Hängematte am Smartphone und kann nicht abschalten."
     },
     {
-      "title": "Guinness-RekordStudentischer Roboter löst Rubik’s Cube in 0,1 Sekunden",
-      "teaser": "Der Guinness-Rekord im Lösen des Rubik's Cube von Mitsubishi ist von einem studentischen Team geknackt worden.",
-      "url": "https://www.heise.de/news/Guinness-Rekord-Studentischer-Roboter-loest-Rubick-s-Cube-in-0-1-Sekunden-10385567.html",
-      "image_title": "\"Purdubik's Cube\" löst den Zauberwürfel."
+      "title": "Mehrere FälleNegativpreis an der Börse: Stromanbieter zahlen Kunden Geld",
+      "teaser": "Statt bezahlen zu müssen, erhielten Stromkunden für jede verbrauchte Kilowattstunde Geld. Die Stromtarife machten es möglich.",
+      "url": "https://www.heise.de/news/Negativpreis-an-der-Boerse-Stromanbieter-zahlen-Kunden-Geld-10387187.html",
+      "image_title": "Eine Person hält eine Glühbirne und einige Geldscheine in der Hand."
     },
     {
       "title": "Weltberühmtes FotoWorld Press Photo entzieht Nick Ut Anerkennung für \"Napalm Girl\"",
@@ -181,22 +181,22 @@
       "image_title": "Das Foto \"Napalm Girl\""
     },
     {
-      "title": "Nvidia NVLink FusionFlotte Chipschnittstelle auch für andere Hersteller",
-      "teaser": "Bislang nutzte Nvidia die schnelle NVLink exklusiv in eigenen Chips. In Zukunft dürfen sie auch andere Firmen integrieren.",
-      "url": "https://www.heise.de/news/NVLink-Fusion-Nvidia-oeffnet-die-NVLink-Schnittstelle-fuer-andere-Chiphersteller-10387549.html",
-      "image_title": "Nvidia-CEO Jensen Huang mit einem NVLink-Verteiler für Server-Racks"
+      "title": "Für die Switch 2Nintendo nennt kostenfrei verbesserte Switch-Spiele",
+      "teaser": "Nintendo verspricht grafische Updates auf der Switch 2 für etliche Originalspiele der ersten Switch.",
+      "url": "https://www.heise.de/news/Nintendo-listet-die-auf-der-Switch-2-kostenfrei-verbesserten-Switch-Spiele-10387537.html",
+      "image_title": "Mario-Kart-Spiel auf der Nintendo Switch 2"
     },
     {
-      "title": "Nvidia beeinflusst frühe Tests der GeForce RTX 5060 erheblich",
-      "teaser": "Frühe Tests der GeForce RTX 5060 haben fast keinen Aussagewert. Nvidia gibt die Spieleauswahl, Einstellungen und Vergleichsmodelle vor.",
-      "url": "https://www.heise.de/news/Nvidia-beeinflusst-fruehe-Tests-der-GeForce-RTX-5060-erheblich-10388222.html",
-      "image_title": "Gigabyte GeForce RTX 5060 hängt an einer Wand"
+      "title": "C++: Vorschlag von Oliver Schädlich zu \"atomic<shared_ptr<>>\" – ein Experiment",
+      "teaser": "Ein Leser schlägt als Replik auf den vorherigen Blogbeitrag eine schnelle Variante zur Implementierung von atomic<shared_ptr<>> vor. Aufruf zur Diskussion!",
+      "url": "https://www.heise.de/blog/C-Vorschlag-von-Oliver-Schaedlich-zu-atomic-shared-ptr-ein-Experiment-10388550.html",
+      "image_title": "Holzwürfel mit dem Schriftzug C++"
     },
     {
-      "title": "Genesis G80 Electrified: Mehr Radstand, mehr Reichweite",
-      "teaser": "Die E-Limousine G80 Electrified bekommt erheblich mehr Radstand und 50 km mehr Reichweite spendiert.",
-      "url": "https://www.heise.de/news/Genesis-G80-Electrified-Mehr-Radstand-mehr-Reichweite-10388294.html",
-      "image_title": "Genesis G80 Electrified"
+      "title": "Die Produktwerker: Wie viel Refinement braucht ein gutes Produktteam?",
+      "teaser": "Wie viel Refinement braucht ein gutes Produktteam? Tim und Dominique geben Antworten aus der Praxis – klar, konkret und ohne Dogma.",
+      "url": "https://www.heise.de/blog/Die-Produktwerker-Wie-viel-Refinement-braucht-ein-gutes-Produktteam-10388156.html",
+      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
     },
     {
       "title": "Windows Server 2025 für die moderne IT",
@@ -204,38 +204,38 @@
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6994109743&iu=%2F6514%2FClicktracking"
     },
     {
+      "title": "KI-Update kompakt: Noyb vs. Meta, Gemini Talkback, Codex-1, Siri-Alternative",
+      "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Noyb-vs-Meta-Gemini-Talkback-Codex-1-Siri-Alternative-10388320.html"
+    },
+    {
+      "title": "Schlaue Steuererklärung: WISO Steuer mit KI fürs iPhone, iPad und Mac im Test",
+      "teaser": "Eine neue Steuer-KI in der Software WISO Steuer beantwortet Fragen per Chat. Ist das hilfreich oder ein Gimmick?",
+      "url": "https://www.heise.de/tests/Schlaue-Steuererklaerung-WISO-Steuer-mit-KI-fuers-iPhone-iPad-und-Mac-im-Test-10372642.html",
+      "image_title": "Symbolbild Steuern"
+    },
+    {
+      "title": "KI- und Siri-Probleme: Warum so viel an Apple Intelligence hängt",
+      "teaser": "Die Probleme rund um KI-Funktionen bei Apple – inklusive Ankündigungsdrama – bedrohen das ganze Geschäft. Davon gehen Manager des Konzerns selbst.",
+      "url": "https://www.heise.de/news/KI-und-Siri-Probleme-Warum-so-viel-an-Apple-Intelligence-haengt-10387619.html",
+      "image_title": "Logo und Icon von Apple Intelligence"
+    },
+    {
+      "title": "Nein zu Black-Mirror-Fantasien: Datenschutzempfehlungen zu Neurotechnologien",
+      "teaser": "Datenschützer empfehlen, den besonderen Risiken von Neurotechnologien mit einem hohen Schutzniveau für die Rechte und Freiheiten der Menschen zu begegnen.",
+      "url": "https://www.heise.de/news/Nein-zu-Black-Mirror-Fantasien-Datenschutzempfehlungen-zu-Neurotechnologien-10387760.html",
+      "image_title": "Schematische Darstellung des Kopfzes einer Person mit Strichen dran."
+    },
+    {
+      "title": "Genesis G80 Electrified: Radstand und Reichweite erweitert",
+      "teaser": "Die E-Limousine G80 Electrified bekommt erheblich mehr Radstand und 50 km mehr Reichweite spendiert.",
+      "url": "https://www.heise.de/news/Genesis-G80-Electrified-Mehr-Radstand-mehr-Reichweite-10388294.html",
+      "image_title": "Genesis G80 Electrified"
+    },
+    {
       "title": "Python-Programm: Wie Sie einen unbesiegbaren Tic-Tac-Toe-Gegner erschaffen",
       "teaser": "Algorithmen wie Minimax verleihen Computergegnern die Fähigkeit, fehlerfrei zu spielen. Wir zeigen die Algorithmen am Beispiel des Klassikers Tic-Tac-Toe.",
       "url": "https://www.heise.de/hintergrund/Python-Programm-Wie-Sie-einen-unbesiegbaren-Tic-Tac-Toe-Gegner-erschaffen-10337731.html"
-    },
-    {
-      "title": "BattleMatrix: KI-Workstations mit bis zu acht von Intels neuen Arc B60 Pro",
-      "teaser": "Intels neue Workstation-Grafikkarten mit Battlemage-Architektur und bis zu 24 GByte Grafikspeicher sollen ab dem dritten Quartal 2025 erhältlich sein.",
-      "url": "https://www.heise.de/news/Workstation-und-KI-Grafikkarten-von-Intel-Arc-B50-und-B60-mit-bis-zu-24-GByte-10388248.html",
-      "image_title": "Renderbild von Intels Battlemage-Grafikchip"
-    },
-    {
-      "title": "Non-Profits sollen zahlen: Microsoft streicht kostenloses M365 Business Premium",
-      "teaser": "Bislang verteilte Microsoft kostenlose Lizenzen von M365 Business Premium an Non-Profit-Organisationen. Damit ist künftig Schluss.",
-      "url": "https://www.heise.de/news/Non-Profits-sollen-zahlen-Microsoft-streicht-kostenloses-M365-Business-Premium-10388160.html",
-      "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
-    },
-    {
-      "title": "Tropfen im Fokus: Auf den Spuren des Kaffeering-Phänomens",
-      "teaser": "Ein Team der TU Darmstadt hat die Verdunstung von Tropfen aus Flüssigkeiten erforscht. Die Erkenntnisse eröffnen neue Möglichkeiten für den 3D-Druck.",
-      "url": "https://www.heise.de/news/Raetsel-des-Kaffeering-Effekts-kann-Druckprozesse-verbessern-10388326.html"
-    },
-    {
-      "title": "Strom aus menschlichen Bewegungen mit Klebeband gewinnen",
-      "teaser": "Beim Gehen oder Laufen generiert ein triboelektrischer Nanogenerator Strom, um Biosensoren zu betreiben. Das wichtigste Element des Generators ist Klebeband.",
-      "url": "https://www.heise.de/news/Strom-aus-menschlichen-Bewegungen-mit-Klebeband-gewinnen-10388264.html",
-      "image_title": "Ein Prototyp des triboelektrischen Generators."
-    },
-    {
-      "title": "Acer steigt mit Smart-Ring und Dolmetscher-Ohrstöpseln in Wearable-Markt ein",
-      "teaser": "Mehr als nur PCs: Acer hat im Zuge der Computex in Taiwan einen ersten Smart-Ring und Ohrstöpsel mit Echtzeitübersetzungs-Funktion angekündigt.",
-      "url": "https://www.heise.de/news/Acer-steigt-mit-Smart-Ring-und-Dolmetscher-Ohrstoepseln-in-Wearable-Markt-ein-10388359.html",
-      "image_title": "Acer Smart-Ring und Ohrstöpsel mit Dolmetschfunktion"
     },
     {
       "title": "Sogar durch den TÜVElektro-Oldtimer straßentauglich machen",
@@ -304,10 +304,16 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
-      "title": "Australische Forscher bauen Solarthermieanlage mit Kunststoffspiegeln",
-      "teaser": "Solarthermieanlagen wandeln Sonnenlicht in thermische Energie. Spiegel aus Kunststoff sollen diese Form der Energiegewinnung praktikabler und günstiger machen.",
-      "url": "https://www.heise.de/news/Australische-Forscher-bauen-Solarthermieanlage-mit-Kunststoffspiegeln-10388375.html",
-      "image_title": "Solarthermie-Anlage aus der Luft"
+      "title": "Strom aus menschlichen Bewegungen mit Klebeband gewinnen",
+      "teaser": "Beim Gehen oder Laufen generiert ein triboelektrischer Nanogenerator Strom, um Biosensoren zu betreiben. Das wichtigste Element des Generators ist Klebeband.",
+      "url": "https://www.heise.de/news/Strom-aus-menschlichen-Bewegungen-mit-Klebeband-gewinnen-10388264.html",
+      "image_title": "Ein Prototyp des triboelektrischen Generators."
+    },
+    {
+      "title": "Acer steigt mit Smart-Ring und Dolmetscher-Ohrstöpseln in Wearable-Markt ein",
+      "teaser": "Mehr als nur PCs: Acer hat im Zuge der Computex in Taiwan einen ersten Smart-Ring und Ohrstöpsel mit Echtzeitübersetzungs-Funktion angekündigt.",
+      "url": "https://www.heise.de/news/Acer-steigt-mit-Smart-Ring-und-Dolmetscher-Ohrstoepseln-in-Wearable-Markt-ein-10388359.html",
+      "image_title": "Acer Smart-Ring und Ohrstöpsel mit Dolmetschfunktion"
     },
     {
       "title": "OECD: Nicht genügend Studien zu kindlichem Wohlbefinden im digitalen Zeitalter",
@@ -368,6 +374,23 @@
       "url": "https://www.heise.de/hintergrund/Der-Weg-zur-souveraenen-IT-Ziele-Risiken-und-Handlungsfelder-10381222.html"
     },
     {
+      "title": "Bösartiger URL-Schwindel mit Unicode – für Reviewer und CIs schwer erkennbar",
+      "teaser": "Wenn Angreifer Buchstaben in URLs durch gleich aussehende Unicode-Zeichen ersetzen, ist das schwer aufzudecken. Eine neuer CI-Job schafft Abhilfe.",
+      "url": "https://www.heise.de/news/Neue-Angriffsmasche-auf-GitHub-und-Co-Zeichentausch-mit-Unicode-in-URLs-10387719.html",
+      "image_title": "Bunte Buchstaben"
+    },
+    {
+      "title": "Video: Bauen im australischen Outback – Herausforderungen für die IT-Infrastruktur",
+      "teaser": "Wie Acciona Zuverlässigkeit, Sicherheit und Energieeffizienz seiner IT-Umgebungen steigern konnte",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-bauen-im-australischen-outback-herausforderungen-fuer-die-it-infrastruktur-4914/?source=hbsadersatz"
+    },
+    {
+      "title": "Notebook-Zusatzbildschirm: Darf’s ein bisschen mehr sein?",
+      "teaser": "Acer zeigt auf der Computex mehrere mobile Bildschirme. Das größte Modell hat zwei IPS-Panels mit jeweils 23,8 Zoll Diagonale.",
+      "url": "https://www.heise.de/news/Notebook-Zusatzbildschirm-Darf-s-ein-bisschen-mehr-sein-10387488.html",
+      "image_title": "Acer-Displays auf einem Tisch neben Notebooks"
+    },
+    {
       "title": "c’t <webdev>: Spannende Vorträge gesucht",
       "teaser": "Noch bis zum 30. Mai können sich Interessierte für die aktive Teilnahme an der Frontend-Konferenz der c’t bewerben. Gesucht sind Talks und Workshops.",
       "url": "https://www.heise.de/news/c-t-webdev-Spannende-Vortraege-gesucht-10386149.html"
@@ -377,11 +400,6 @@
       "teaser": "Google öffnet die lokale KI Gemini Nano für Entwickler von Android-Apps. Mit einer neuen API kann die KI Texte zusammenfassen, umformulieren und mehr.",
       "url": "https://www.heise.de/news/Gemini-Nano-Google-oeffnet-lokale-KI-fuer-App-Entwickler-10387689.html",
       "image_title": "Finger schwebt über Gemini-App-Icon auf dem Smartphone-Bildschirm."
-    },
-    {
-      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
-      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
     },
     {
       "title": "\"Fortnite\" für iOS offline: Epic und Apple geben sich gegenseitig die Schuld",
@@ -407,6 +425,12 @@
       "image_title": "Apples Siri"
     },
     {
+      "title": "Nvidia NVLink Fusion: Flotte Chipschnittstelle auch für andere Hersteller",
+      "teaser": "Bislang nutzte Nvidia die schnelle NVLink-Schnittstelle exklusiv für eigene Rechenbeschleuniger. In Zukunft dürfen sie auch andere Firmen integrieren.",
+      "url": "https://www.heise.de/news/NVLink-Fusion-Nvidia-oeffnet-die-NVLink-Schnittstelle-fuer-andere-Chiphersteller-10387549.html",
+      "image_title": "Nvidia-CEO Jensen Huang mit einem NVLink-Verteiler für Server-Racks"
+    },
+    {
       "title": "iX-Workshop: IT-Sicherheit jenseits der Bits - Physische Schutzstrategien",
       "teaser": "Praxisnah mit simuliertem Penetrationstest: IT-Infrastruktur physisch absichern, Sicherheitslücken erkennen und wirksame Schutzmaßnahmen auswählen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-jenseits-der-Bits-Physische-Schutzstrategien-10382204.html",
@@ -416,29 +440,6 @@
       "title": "So verändert KI den Job von Übersetzern",
       "teaser": "Sprach-Apps lehren per KI, Webseiten übersetzen automatisch: Übersetzer müssen um ihre Jobs bangen. Aber sie setzen die neuen KI-Tools auch selbst ein.",
       "url": "https://www.heise.de/hintergrund/So-veraendert-KI-den-Job-von-Uebersetzern-10352170.html"
-    },
-    {
-      "title": "AlertAngreifer können Verbindungen von Sonicwall SMA1000 manipulieren",
-      "teaser": "Die Fernzugriffslösung Secure Mobile Access (SMA) der 1000er-Serie von Sonicwall ist verwundbar.",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Verbindungen-von-Sonicwall-SMA1000-manipulieren-10387581.html",
-      "image_title": "Abstraktes Bild zu Netzwerken"
-    },
-    {
-      "title": "US-Regierung erwägt neuen Deal mit Boeing zu Max-Abstürzen",
-      "teaser": "Jahre nach tödlichen Abstürzen von zwei 737-Max-Flugzeugen droht Boeing ein Prozess. Doch der Konzern spricht über eine Einigung mit dem US-Justizministerium.",
-      "url": "https://www.heise.de/news/US-Regierung-erwaegt-neuen-Deal-mit-Boeing-zu-Max-Abstuerzen-10387559.html",
-      "image_title": "Farnborough,,U.k.,-,7/15/2016:,The,Side,Of,A,Boeing,737"
-    },
-    {
-      "title": "Montag: Autos mit Satellitenverbindung, Nintendos Gratis-Updates für alte Spiele",
-      "teaser": "Satellit statt 5G im Auto + Switch-Spiele gratis aufgebohrt + Stromverbrauch als Einnahmenquelle + E-Mail-Sperre nach Trump-Sanktionen + IP-Vergabe unter Druck",
-      "url": "https://www.heise.de/news/Montag-Autos-mit-Satellitenverbindung-Nintendos-Gratis-Updates-fuer-alte-Spiele-10387553.html",
-      "image_title": "Fahrzeuge mit Vernetzungssymbolen auf der Straße einer Stadt, Montag: Auto-Vernetzung, Switch-Verbesserungen, Strom-Einnahmen, Digital-Souveränität & IP-Vergabe-Streit"
-    },
-    {
-      "title": "Top 10: Die besten Saugroboter im Test – Roborock vor Ecovacs & Dreame",
-      "teaser": "Wir haben inzwischen Dutzende Saugroboter getestet. Welche der Modelle mit Absaug- oder Reinigungsstation am besten abgeschnitten haben, zeigen wir in dieser Bestenliste.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-saugroboter-im-test/2dxtvlp?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Drei Fragen und Antworten: Beendet Low Code den SaaS-Trend?",
@@ -455,6 +456,11 @@
       "image_title": "Chip auf Mainboard"
     },
     {
+      "title": "Guinness-Rekord: Studentischer Roboter löst Rubik’s Cube in 0,1 Sekunden",
+      "url": "https://www.heise.de/news/Guinness-Rekord-Studentischer-Roboter-loest-Rubick-s-Cube-in-0-1-Sekunden-10385567.html",
+      "image_title": "\"Purdubik's Cube\" löst den Zauberwürfel."
+    },
+    {
       "title": "Start-up stellt stahlhartes \"Superholz\" vor",
       "url": "https://www.heise.de/news/Start-up-stellt-stahlhartes-Superholz-vor-10384802.html",
       "image_title": "Ein Brett aus \"Superholz\" vor weißem Hintergrund"
@@ -463,11 +469,6 @@
       "title": "Erstmals Polarlichter von der Oberfläche eines anderen Planeten aufgenommen",
       "url": "https://www.heise.de/news/Rover-Perseverance-fotografiert-Polarlichter-auf-dem-Mars-10386145.html",
       "image_title": "Marsrover Perseverance"
-    },
-    {
-      "title": "Neue App schätzt Feinstaubbelastung beim Radfahren und Gehen",
-      "url": "https://www.heise.de/news/Neue-App-misst-Feinstaubbelastung-beim-Radfahren-und-Gehen-10387001.html",
-      "image_title": "Many,People,In,The,City,Center,In,The,Pedestrian,Zone"
     },
     {
       "title": "UpdateKein Fortnite mehr für iPhones: Apple blockiert angeblich Update",
@@ -479,9 +480,9 @@
       "image_title": "Klimaanlagensteuerung mit CarPlay Ultra"
     },
     {
-      "title": "Forerunner 570 und 970: Garmin mit neuen Sportuhren",
-      "url": "https://www.heise.de/news/Forerunner-570-und-970-Garmin-mit-neuen-Sportuhren-10386628.html",
-      "image_title": "Garmin Forerunner 970 und 570"
+      "title": "Neue App schätzt Feinstaubbelastung beim Radfahren und Gehen",
+      "url": "https://www.heise.de/news/Neue-App-misst-Feinstaubbelastung-beim-Radfahren-und-Gehen-10387001.html",
+      "image_title": "Many,People,In,The,City,Center,In,The,Pedestrian,Zone"
     },
     {
       "title": "Ubisoft-Erkenntnis: Mehr Entwicklungszeit führt zu mehr Qualität",
@@ -502,14 +503,13 @@
       "image_title": "Europa,Dsgvo,-,3d,Illustration,With,Blue,Backdrop"
     },
     {
+      "title": "Post und Telekom haben noch Tausende Beamte",
+      "url": "https://www.heise.de/news/Noch-ueber-27-000-Beamte-bei-Post-und-Telekom-10387466.html"
+    },
+    {
       "title": "Tesla setzt Hürde für Aktionärsklagen",
       "url": "https://www.heise.de/news/Tesla-setzt-Huerde-fuer-Aktionaersklagen-10387405.html",
       "image_title": "Elon Musk"
-    },
-    {
-      "title": "Motorrad-Vorstellung BMW R 1300 RS: Boxer-Modell mit geschärftem Profil",
-      "url": "https://www.heise.de/news/Motorrad-Vorstellung-BMW-R-1300-RS-Boxer-Modell-mit-geschaerftem-Profil-10383596.html",
-      "image_title": "BMW R 1300 RT"
     },
     {
       "title": "Missing Link: Druck auf IP-Adressvergabestellen – einschüchtern, klagen und mehr",
@@ -557,6 +557,11 @@
       "image_title": "!!!Aufmacher wird eine Variante der Titel-Aktentasche"
     },
     {
+      "title": "Microsoft Certified: Azure FundamentalsAZ-900 Teil 2: Übersicht über Azure-Architektur und -Dienste",
+      "teaser": "Erkunden Sie im zweiten Teil unserer Zertifizierungsvorbereitungsreihe die wichtigsten Dienste von Azure und lernen Sie, Ihre Cloud-Umgebung sicher und effizient zu managen.",
+      "url": "https://heise-academy.de/Videokurse/az-900-teil-2-azure-architektur-und-dienste?wt_mc=intern.academy.academy.vk_az900teil2.academy_buehne_ho.teaser.teaser"
+    },
+    {
       "title": "Gemeinsam weiterkommenDie IT entwickelt sich stetig weiter. Sie sich auch?",
       "teaser": "Der stetige Wandel in der IT bringt neue Herausforderungen, aber auch neue Chancen mit sich. Als Partner für IT-Weiterbildung stehen wir Ihnen dabei zur Seite.",
       "url": "https://heise-academy.de/gemeinsam-weiterkommen?wt_mc=intern.academy.academy.brandingkampagne.academy-buehne-ho_rt.link.link"
@@ -565,11 +570,6 @@
       "title": "Microsoft 365 absichernM365 Security: Sicherer Einsatz der Microsoft-Cloud im Unternehmen",
       "teaser": "M365 und Entra ID sind in vielen Unternehmen verbreitet. Lernen Sie, diese sicher zu konfigurieren, Defender einzusetzen und Zero Trust umzusetzen.",
       "url": "https://heise-academy.de/classrooms/m365-security625?wt_mc=intern.academy.academy.cr_m365-security.academy-buehne-ho.teaser.teaser"
-    },
-    {
-      "title": "Leistungsstarke Business IntelligenceMicrosoft Fabric – Power BI",
-      "teaser": "Erstellen Sie interaktive Berichte und Dashboards, die Ihnen helfen, Daten effektiv zu analysieren und zu visualisieren.",
-      "url": "https://heise-academy.de/Videokurse/microsoft-fabric-power-bi?wt_mc=intern.academy.academy.vk_msfabricpowerbi.academy_buehne_ho.teaser.teaser"
     },
     {
       "title": "c't 3003Warum MCP die KI-Nutzung auf den Kopf stellt",
@@ -606,16 +606,16 @@
       "url": "https://www.heise.de/en/news/Forerunner-570-and-970-Garmin-with-new-sports-watches-10386700.html"
     },
     {
-      "title": "BattleMatrix: KI-Workstations mit bis zu acht von Intels neuen Arc B60 Pro",
-      "teaser": "Intels neue Workstation-Grafikkarten mit Battlemage-Architektur und bis zu 24 GByte Grafikspeicher sollen ab dem dritten Quartal 2025 erhältlich sein.",
-      "url": "https://www.heise.de/news/Workstation-und-KI-Grafikkarten-von-Intel-Arc-B50-und-B60-mit-bis-zu-24-GByte-10388248.html",
-      "image_title": "Renderbild von Intels Battlemage-Grafikchip"
+      "title": "Nvidia NVLink FusionFlotte Chipschnittstelle auch für andere Hersteller",
+      "teaser": "Bislang nutzte Nvidia die schnelle NVLink exklusiv in eigenen Chips. In Zukunft dürfen sie auch andere Firmen integrieren.",
+      "url": "https://www.heise.de/news/NVLink-Fusion-Nvidia-oeffnet-die-NVLink-Schnittstelle-fuer-andere-Chiphersteller-10387549.html",
+      "image_title": "Nvidia-CEO Jensen Huang mit einem NVLink-Verteiler für Server-Racks"
     },
     {
-      "title": "eGPU mit Thunderbolt 5: Asus setzt auf offenen Betrieb statt Gehäuse",
-      "teaser": "Dank des höheren Durchsatzes von Thunderbolt 5 soll Asus' Dock moderne Grafikkarten nicht mehr so stark ausbremsen wie bisher.",
-      "url": "https://www.heise.de/news/Asus-ROG-XG-Station-3-Externe-GPU-Box-mit-Thunderbolt-5-10387447.html",
-      "image_title": "Asus-Grafikkarte auf einem externen eGPU-Adapter"
+      "title": "BattleMatrixKI-Workstations mit bis zu acht von Intels neuen Arc B60 Pro",
+      "teaser": "Intels neue Battlemage-GPUs für Workstations sollen ab dem dritten Quartal erhältlich sein. Sie nutzen bis zu 24 GByte Speicher.",
+      "url": "https://www.heise.de/news/Workstation-und-KI-Grafikkarten-von-Intel-Arc-B50-und-B60-mit-bis-zu-24-GByte-10388248.html",
+      "image_title": "Renderbild von Intels Battlemage-Grafikchip"
     },
     {
       "title": "Notebook-ZusatzbildschirmDarf’s ein bisschen mehr Displayfläche sein?",
@@ -676,9 +676,9 @@
       "image_title": "Das Siegerbild zeigt den Biologen Audun Rikardsen in einem norwegischen Fjord, wie er Wale mit Sendern ausstattet."
     },
     {
-      "title": "Polaroid Flip: Sofortbildkamera mit Retro-Charme im Test",
-      "teaser": "Die Flip ist die neueste Sofortbildkamera von Polaroid und verspricht eine noch einfache Handhabung und gute Sofortbilder. Wir haben sie getestet.",
-      "url": "https://www.heise.de/tests/Polaroid-Flip-Sofortbildkamera-mit-Retro-Charme-im-Test-10378874.html"
+      "title": "Optimale Landschaftsfotografie: Wie digitales Locationscouting hilft",
+      "teaser": "Für perfekte Landschaftsfotos braucht es die passenden Lichtverhältnisse und fotogenes Wetter. Mit den richtigen Tools und Apps sind Sie immer am schönsten Ort.",
+      "url": "https://www.heise.de/ratgeber/Optimale-Landschaftsfotografie-Wie-digitales-Locationscouting-hilft-10376350.html"
     },
     {
       "title": "Cyberangriffe ohne Malware: Living off the Land",
@@ -713,10 +713,10 @@
       "image_title": "Oliver Blume"
     },
     {
-      "title": "Auslastungsprobleme bei VWRegierungschef Weil: VW-Werk Osnabrück problematisch klein",
-      "teaser": "Angesichts der Probleme im Volkswagen-Werk Osnabrück sieht Niedersachsens Regierungschef den Autokonzern weiter in der Verantwortung für den Standort.",
-      "url": "https://www.heise.de/news/Regierungschef-Weil-findet-Groesse-des-VW-Werks-Osnabrueck-problematisch-10385804.html",
-      "image_title": "VW-Werk Osnabrück"
+      "title": "Motorrad-Vorstellung BMW R 1300 RS: Boxer-Modell mit geschärftem Profil",
+      "teaser": "Der Sporttourer betont die Dynamik, ohne die Reisefraktion zu vergessen. Die reichhaltige Serienausstattung bietet unter anderem ein semi-aktives Fahrwerk.",
+      "url": "https://www.heise.de/news/Motorrad-Vorstellung-BMW-R-1300-RS-Boxer-Modell-mit-geschaerftem-Profil-10383596.html",
+      "image_title": "BMW R 1300 RT"
     },
     {
       "title": "Gehaltsvergleich: Was ist ein gutes Gehalt in Deutschland?",
@@ -754,21 +754,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "US-Operation Rough Rider im Jemen: Wie Huthis die F-35 sichtbar machten",
-      "teaser": "Die F-35 galt als unsichtbar für feindliche Radare. Im Jemen musste der Tarnkappenjäger dennoch Notmanöver fliegen. Wie konnten Huthi-Rebellen die Flieger aufspüren?",
-      "url": "https://www.heise.de/tp/features/US-Operation-Rough-Rider-im-Jemen-Wie-Huthis-die-F-35-sichtbar-machten-10387115.html",
-      "image_title": "USAF Tarnkappen-Kampfflugzeug F-35A Lightning II im Flug"
+      "title": "Warum der US-Dollar (noch) König der Reservewährungen ist",
+      "teaser": "Der Wert des US-Dollars basiert auf Vertrauen und Akzeptanz weltweit. Doch wie lange noch? Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Warum-der-US-Dollar-noch-Koenig-der-Reservewaehrungen-ist-10383752.html",
+      "image_title": "Euro und US-Dollarnoten"
     },
     {
-      "title": "Sozial-Abbau: Politische Vorgaben und der mediale Zugaben-Chor",
-      "teaser": "Kanzler Merz regiert. Dem Sozialstaat geht es heftiger an den Kragen als bisher. Leitmedial wird das Ganze beschönigend begleitet. Mediensplitter. (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Sozial-Abbau-Politische-Vorgaben-und-der-mediale-Zugaben-Chor-10387607.html"
+      "title": "Umfrage zu Iran: Verhandeln bei Republikanern beliebter als Bombardieren",
+      "teaser": "Neue Umfragen zeigen: Fast zwei Drittel der US-Republikaner bevorzugen Diplomatie statt Militärschläge gegen Irans Atomprogramm. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Umfrage-zu-Iran-Verhandeln-bei-Republikanern-beliebter-als-Bombardieren-10382158.html",
+      "image_title": "Ein leeres Rednerpult"
     },
     {
-      "title": "Kryptowährungen: Werden Hacker bald reich?",
-      "teaser": "BlackRock hat kürzlich erstmals vor möglichen Gefahren für Kryptowährungen durch Quantencomputer gewarnt. Müssen die Anleger jetzt aktiv werden?",
-      "url": "https://www.heise.de/tp/features/Kryptowaehrungen-Werden-Hacker-bald-reich-10387395.html",
-      "image_title": "Symbolbild eines mensxchen mit verdecktem gesicht im Hoodie, der ein Bitcoins hackt"
+      "title": "Trumps Nahost-Reise: Geschäfte machen statt Konflikte lösen",
+      "teaser": "Donald Trump reist durch den Nahen Osten und sammelt Milliarden-Deals ein. Saudi-Arabien verspricht gigantische Investitionen in die USA. Doch der Preis dafür könnte hoch sein (Leserdebatte).",
+      "url": "https://www.heise.de/tp/features/Trumps-Nahost-Reise-Geschaefte-machen-statt-Konflikte-loesen-10388272.html",
+      "image_title": "Donald Trump und der saudische Kronprinz Mohammed bin Salman als zwei Einzelportraits auf Handydisplays dargestellt"
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
