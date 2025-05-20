@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-20T11:08:54",
+  "timestamp": "2025-05-20T12:19:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,26 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+      "teaser": "SSO und Multifaktor-Authentifizierung - Mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10382240.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "Enterprise-Architektur: Bebauungsplanung für eine souveräne IT",
+      "teaser": "Mit den Methoden der Enterprise-Architektur lassen sich unternehmensweite technische und geschäftliche Neuausrichtungen souverän planen.",
+      "url": "https://www.heise.de/hintergrund/Enterprise-Architektur-Bebauungsplanung-fuer-eine-souveraene-IT-vorgestellt-10379770.html"
+    },
+    {
       "title": "Alles auf KI: Cloud-Integration von Boomi vernetzt Firmendaten mit KI-Agenten",
       "teaser": "Boomi erweitert seine Cloud-Integrationsplattform um die Erstellung und Verwaltung von KI-Agenten. Zugekaufte Technologien ergänzen die Datenverwaltung.",
       "url": "https://www.heise.de/news/Alles-auf-KI-Cloud-Integration-von-Boomi-vernetzt-Firmendaten-mit-KI-Agenten-10388570.html",
       "image_title": "Boomi-CEO Steve Lucas auf einer Bühne"
     },
     {
-      "title": "Jensen Huang: Nvidia entgehen 15 Milliarden US-Dollar durch China-Bann",
-      "teaser": "Nvidia schreibt H20-Chips im Wert von 5,5 Milliarden US-Dollar ab. Den Umsatzausfall schätzt der Firmenchef auf 15 Milliarden.",
-      "url": "https://www.heise.de/news/Jensen-Huang-Nvidia-entgehen-15-Milliarden-US-Dollar-durch-China-Bann-10389601.html",
-      "image_title": "Nvidias KI-Beschleuniger H100"
-    },
-    {
-      "title": "Nach fiesem Bug: Apple legt iPadOS 17.7.7 neu auf – als iPadOS 17.7.8",
-      "teaser": "Erlösung per Update: Wer nach Einspielen von iPadOS 17.7.7 sein Apple-Tablet kaum mehr nutzen konnte, sollte schnell 17.7.8 einspielen.",
-      "url": "https://www.heise.de/news/Nach-fiesem-Bug-Apple-legt-iPadOS-17-7-7-neu-auf-als-iPadOS-17-7-8-10389422.html",
-      "image_title": "iPad Pro von 2021"
-    },
-    {
-      "title": "AlertHCL-Domino-Add-on Leap gegen mögliche Attacken abgesichert",
-      "teaser": "Das Anwendungsentwicklungssystem HCL Domingo ist über Schwachstellen im Add-on Leap attackierbar.",
-      "url": "https://www.heise.de/news/HCL-Domino-Add-on-Leap-gegen-moegliche-Attacken-abgesichert-10389519.html"
+      "title": "Windows: Microsoft streicht App-Store-Gebühren für einzelne Entwickler",
+      "teaser": "Microsoft hat im Zuge der hauseigenen Build-Konferenz die Entwickler-Gebühren für die Einreichung von Apps im Microsoft-Store gestrichen.",
+      "url": "https://www.heise.de/news/Windows-10-und-11-Microsoft-streicht-Store-Gebuehren-fuer-einzelne-App-Entwickler-10389583.html"
     },
     {
       "title": "HintergrundBarrierefreier digitaler Raum per Gesetz: Das BFSG kommt",
@@ -64,9 +63,21 @@
       "image_title": "Gut abgesichert: Ein Mac als Burg"
     },
     {
-      "title": "Windows 10 und 11: Microsoft streicht Store-Gebühren für einzelne App-Entwickler",
-      "teaser": "Microsoft hat im Zuge der hauseigenen Build-Konferenz die Entwickler-Gebühren für die Einreichung von Apps im Microsoft-Store gestrichen.",
-      "url": "https://www.heise.de/news/Windows-10-und-11-Microsoft-streicht-Store-Gebuehren-fuer-einzelne-App-Entwickler-10389583.html"
+      "title": "Jensen Huang: Nvidia entgehen 15 Milliarden US-Dollar durch China-Bann",
+      "teaser": "Nvidia schreibt H20-Chips im Wert von 5,5 Milliarden US-Dollar ab. Den Umsatzausfall schätzt der Firmenchef auf 15 Milliarden.",
+      "url": "https://www.heise.de/news/Jensen-Huang-Nvidia-entgehen-15-Milliarden-US-Dollar-durch-China-Bann-10389601.html",
+      "image_title": "Nvidias KI-Beschleuniger H100"
+    },
+    {
+      "title": "Nach fiesem Bug: Apple legt iPadOS 17.7.7 neu auf – als iPadOS 17.7.8",
+      "teaser": "Erlösung per Update: Wer nach Einspielen von iPadOS 17.7.7 sein Apple-Tablet kaum mehr nutzen konnte, sollte schnell 17.7.8 einspielen.",
+      "url": "https://www.heise.de/news/Nach-fiesem-Bug-Apple-legt-iPadOS-17-7-7-neu-auf-als-iPadOS-17-7-8-10389422.html",
+      "image_title": "iPad Pro von 2021"
+    },
+    {
+      "title": "AlertHCL-Domino-Add-on Leap gegen mögliche Attacken abgesichert",
+      "teaser": "Das Anwendungsentwicklungssystem HCL Domingo ist über Schwachstellen im Add-on Leap attackierbar.",
+      "url": "https://www.heise.de/news/HCL-Domino-Add-on-Leap-gegen-moegliche-Attacken-abgesichert-10389519.html"
     },
     {
       "title": "Core Ultra 300: So sieht Intels nächster Chiplet-Prozessor Panther Lake aus",
@@ -137,18 +148,6 @@
       "teaser": "Die PDF-Sammlung wächst – und sie würden gerne mehrere Dokumente gleichzeitig überblicken? Mit Finder und Vorschau-App geht das.",
       "url": "https://www.heise.de/ratgeber/Mehrere-PDFs-am-Mac-durchsuchen-und-drucken-4432815.html",
       "image_title": "Apples Preview"
-    },
-    {
-      "title": "Gehärtete Images von Docker verbessern die Sicherheit und entlasten Entwickler",
-      "teaser": "Mit den Hardened Images (DHI) bietet Docker sichere, schlanke und Compliance-konforme Images. Mit dabei sind unter anderem Microsoft, Neo4J oder GitLab.",
-      "url": "https://www.heise.de/news/Gehaertete-Images-von-Docker-verbessern-die-Sicherheit-und-entlasten-Entwickler-10388766.html",
-      "image_title": "Container"
-    },
-    {
-      "title": "Software Testing: Mit Nudging zu mehr Security",
-      "teaser": "In dieser Episode sprechen Richard Seidl und Dr. Erlijn van Genuchten über Maßnahmen für mehr Security, die beim Menschen ansetzen.",
-      "url": "https://www.heise.de/blog/Software-Testing-Mit-Nudging-zu-mehr-Security-10381450.html",
-      "image_title": "Software Testing: Gewaltfreie Kommunikation"
     },
     {
       "title": "NewsWorld Press Photo entzieht Nick Ut Anerkennung für \"Napalm Girl\"",
