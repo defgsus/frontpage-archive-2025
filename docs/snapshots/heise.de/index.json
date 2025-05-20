@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-20T19:07:55",
+  "timestamp": "2025-05-20T20:11:20",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Autonome Taxis: Waymo erhält die Betriebsgenehmigung für die Bay Area",
+      "url": "https://www.heise.de/news/Autonome-Taxis-Waymo-erhaelt-die-Betriebsgenehmigung-fuer-die-Bay-Area-10390700.html"
+    },
     {
       "title": "Top 10: Der beste 3D-Drucker mit Filament im Test – perfekt drucken ab 200 Euro",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-3d-drucker-mit-filament-im-test/jrel4jt"
@@ -60,10 +64,6 @@
     {
       "title": "Vom OTP-Problem zur Entdeckung: Wie ein Autokäufer VWs App-Schwachstellen fand",
       "url": "https://www.heise.de/news/Vom-OTP-Problem-zur-Entdeckung-Wie-ein-Autokaeufer-VWs-App-Schwachstellen-fand-10390287.html"
-    },
-    {
-      "title": "Hessen: Zahlreiche Datenschutzbeschwerden, mehrere Verstöße in Arztpraxen",
-      "url": "https://www.heise.de/news/Hessen-Zahlreiche-Datenschutzbeschwerden-mehrere-Verstoesse-in-Arztpraxen-10389804.html"
     },
     {
       "title": "Google I/OKI-Abo für 250 US-Dollar und ein agentisches Gemini",
@@ -187,19 +187,25 @@
       "image_title": "Darth Vader im Fortnite-Look"
     },
     {
+      "title": "Autonome Taxis: Waymo erhält die Betriebsgenehmigung für die Bay Area",
+      "teaser": "Das US-Robotaxi-Start-up Waymo hat von Kaliforniens Behörden grünes Licht für den Ausbau seines autonomen Taxiservices für den Großraum San Francisco erhalten.",
+      "url": "https://www.heise.de/news/Autonome-Taxis-Waymo-erhaelt-die-Betriebsgenehmigung-fuer-die-Bay-Area-10390700.html",
+      "image_title": "Ein Fahrgast steigt in ein Waymo-Robotaxi in San Francisco ein."
+    },
+    {
       "title": "Top 10: Der beste 3D-Drucker mit Filament im Test – perfekt drucken ab 200 Euro",
       "teaser": "Welcher 3D-Drucker ist der beste? Einer, der zuverlässig funktioniert! Nach dutzenden Tests zeigen wir Modelle, die für hervorragende Ergebnisse sorgen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-3d-drucker-mit-filament-im-test/jrel4jt?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "Google: Schöner Shoppen mit KI",
-      "teaser": "KI soll künftig auch das Einkaufen erleichtern. Dafür setzt Google neben der Suche auf Bildererzeugung und digitale Assistenten.",
-      "url": "https://www.heise.de/news/Google-Schoener-Shoppen-mit-KI-10390372.html"
-    },
-    {
       "title": "Aufbruch zur europäischen Multi-Vendor-Cloud",
       "teaser": "Es ist heikel, zu sehr von außereuropäischen IT-Serviceprovidern abzuhängen. Mit der offenen API-Spezifikation „Sovereign European Cloud API“ (SECA) ist jedoch Flexibilität bei Cloud-Diensten möglich.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6996447782&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Google: Schöner Shoppen mit KI",
+      "teaser": "KI soll künftig auch das Einkaufen erleichtern. Dafür setzt Google neben der Suche auf Bildererzeugung und digitale Assistenten.",
+      "url": "https://www.heise.de/news/Google-Schoener-Shoppen-mit-KI-10390372.html"
     },
     {
       "title": "In 3D und ohne Sprachbarriere: Video-Calls wie ein persönliches Gespräch",
@@ -228,12 +234,6 @@
       "title": "Vom OTP-Problem zur Entdeckung: Wie ein Autokäufer VWs App-Schwachstellen fand",
       "teaser": "Ein Sicherheitsforscher aus Indien wollte nur Zugriff auf die App-Funktionen seines Fahrzeugs nehmen. Dabei entdeckte er Sicherheitslücken in der VW-App.",
       "url": "https://www.heise.de/news/Vom-OTP-Problem-zur-Entdeckung-Wie-ein-Autokaeufer-VWs-App-Schwachstellen-fand-10390287.html"
-    },
-    {
-      "title": "Hessen: Zahlreiche Datenschutzbeschwerden, mehrere Verstöße in Arztpraxen",
-      "teaser": "Der hessische Landesdatenschutzbeauftragte hat seinen Tätigkeitsbericht vorgestellt. Insgesamt sind Bußgelder in Höhe von 545.000 Euro angefallen.",
-      "url": "https://www.heise.de/news/Hessen-Zahlreiche-Datenschutzbeschwerden-mehrere-Verstoesse-in-Arztpraxen-10389804.html",
-      "image_title": "Eine männliche Hand greift nach einem Auge im Cyberraum."
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -282,12 +282,12 @@
       "url": "https://www.heise.de/news/Strafgerichtshof-Microsofts-E-Mail-Sperre-als-Weckruf-fuer-digitale-Souveraenitaet-10387368.html"
     },
     {
-      "title": "Negativpreis an der Börse: Stromanbieter zahlen Kunden Geld",
-      "url": "https://www.heise.de/news/Negativpreis-an-der-Boerse-Stromanbieter-zahlen-Kunden-Geld-10387187.html"
-    },
-    {
       "title": "Tempolimit: Mainz führt wieder Tempo 30 ein",
       "url": "https://www.heise.de/news/Tempolimit-In-Mainz-gilt-nun-wieder-Tempo-30-10389286.html"
+    },
+    {
+      "title": "Negativpreis an der Börse: Stromanbieter zahlen Kunden Geld",
+      "url": "https://www.heise.de/news/Negativpreis-an-der-Boerse-Stromanbieter-zahlen-Kunden-Geld-10387187.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -300,6 +300,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Hessen: Zahlreiche Datenschutzbeschwerden, mehrere Verstöße in Arztpraxen",
+      "teaser": "Der hessische Landesdatenschutzbeauftragte hat seinen Tätigkeitsbericht vorgestellt. Insgesamt sind Bußgelder in Höhe von 545.000 Euro angefallen.",
+      "url": "https://www.heise.de/news/Hessen-Zahlreiche-Datenschutzbeschwerden-mehrere-Verstoesse-in-Arztpraxen-10389804.html",
+      "image_title": "Eine männliche Hand greift nach einem Auge im Cyberraum."
     },
     {
       "title": "Tastatur-Switches: Cherry springt auf den induktiven Zug auf",
@@ -370,14 +376,14 @@
       "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
+      "title": "Portfolio-Guide – So finden Sie den richtigen Prozessor",
+      "teaser": "Die Unternehmens-IT muss eine Vielzahl unterschiedlicher Workloads bewältigen. Dieser Portfolio-Guide zeigt Ihnen, welche Prozessorfamilie für welchen Anwendungszweck am besten geeignet ist.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/portfolio-guide-so-finden-sie-den-richtigen-prozessor-4915/?source=hbsadersatz"
+    },
+    {
       "title": "Enterprise-Architektur: Bebauungsplanung für eine souveräne IT",
       "teaser": "Mit den Methoden der Enterprise-Architektur lassen sich unternehmensweite technische und geschäftliche Neuausrichtungen souverän planen.",
       "url": "https://www.heise.de/hintergrund/Enterprise-Architektur-Bebauungsplanung-fuer-eine-souveraene-IT-vorgestellt-10379770.html"
-    },
-    {
-      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
-      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
     },
     {
       "title": "\"Bits & Böses\": Wenn aus Worten Waffen werden – Hass im Netz",
@@ -429,11 +435,6 @@
       "teaser": "Wenn der globale Klimawandel gestoppt ist, werden sich die Gletscher davon erholen. Das wird allerdings Jahrhunderte dauern.",
       "url": "https://www.heise.de/news/Klimawandel-Gletscher-werden-sich-nur-sehr-langsam-erholen-10389561.html",
       "image_title": "Gletscher in Island"
-    },
-    {
-      "title": "c't-Webinar: Passkeys verstehen und sicher einsetzen",
-      "teaser": "Passkeys bieten eine sichere Alternative zum Passwort. Im Webinar erfahren Sie, wie Passkeys funktionieren, wie man sie einsetzt und worauf man achten muss.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Passkeys-verstehen-und-sicher-einsetzen-10387680.html"
     },
     {
       "title": "OpenAI-Tool Codex soll Softwareentwicklern das Programmieren abnehmen",
@@ -601,11 +602,6 @@
       "url": "https://www.heise.de/en/news/VMware-Workstation-und-Fusion-Ausbruch-aus-Gastsystem-moeglich-9718675.html"
     },
     {
-      "title": "Core Ultra 300So sieht Intels nächster Chiplet-Prozessor Panther Lake aus",
-      "teaser": "Auf der Computex zeigt Intel der Presse erstmals lauffähige Prototypen der in Intel 18A gefertigten Mobil-CPU Panther Lake.",
-      "url": "https://www.heise.de/news/Panther-Lake-Live-Demo-von-Intels-Mobilprozessor-Hoffnung-fuer-2026-10389609.html"
-    },
-    {
       "title": "Praxis: Windows stark verkleinern mit einfachen Befehlen",
       "teaser": "Wie man Platzbedarf einer Windows-Installation mithilfe von sechs einfachen Handgriffen drücken kann, und welche Nebenwirkungen das hat, zeigt dieser Artikel.",
       "url": "https://www.heise.de/ratgeber/Praxis-Windows-stark-verkleinern-mit-einfachen-Befehlen-10380646.html"
@@ -615,6 +611,11 @@
       "teaser": "Der neue Intel-Chef baut das Unternehmen um. Trotz eigener 18A-Technik will Intel TSMC-N2-Chiplets zukaufen. Apple verkauft das MacBook Air erstaunlich günstig.",
       "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Tausende-Intel-Manager-fliegen-raus-10384172.html",
       "image_title": ","
+    },
+    {
+      "title": "c't-WebinarPasskeys verstehen und sicher einsetzen",
+      "teaser": "Passkeys bieten eine sichere Alternative zum Passwort. Im Webinar erfahren Sie, wie Passkeys funktionieren, wie man sie einsetzt und worauf man achten muss.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Passkeys-verstehen-und-sicher-einsetzen-10387680.html"
     },
     {
       "title": "15 Tipps für iOS und macOSDas neue Apple Mail richtig nutzen",
@@ -747,22 +748,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "ÖPNV-Kollaps: 57 Prozent der Busfahrer kurz vor Rentenalter",
-      "teaser": "Mangels Fahrer fallen Busfahrten ungeplant aus und der Fahrgast muss länger warten als gewohnt. Die Verkehrswende könnte am Fahrermangel scheitern. Gibt es eine Lösung?",
-      "url": "https://www.heise.de/tp/features/OePNV-Kollaps-57-Prozent-der-Busfahrer-kurz-vor-Rentenalter-10386898.html",
-      "image_title": "Eine neue Busfahrerin im Dienst"
+      "title": "Atomkraft: Europas strahlende Zukunft?",
+      "teaser": "Nukleare Rolle rückwärts – Ausstieg vom Ausstieg: Belgien und Italien kehren zur Kernkraft zurück. Andere Länder folgen. Was macht Deutschland? (Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/Atomkraft-Europas-strahlende-Zukunft-10389178.html",
+      "image_title": "Grüne Landschaft und Kernkraftwerk"
     },
     {
-      "title": "Doxing-Trend in deutschen Medien nimmt zu",
-      "teaser": "Medien stellen Personen zunehmend an den digitalen Pranger, ohne dass es ein Urteil gibt. Wann wird aus Journalismus eine gefährliche Hetzjagd? Ein Kommentar.",
-      "url": "https://www.heise.de/tp/features/Doxing-Trend-in-deutschen-Medien-nimmt-zu-10390221.html",
-      "image_title": "Ein Mann am Pranger wird der öffentlichen Beschämung ausgesetzt."
+      "title": "Die Täuschung: Joe Bidens verborgener Niedergang",
+      "teaser": "Debakel mit Ansage: US-Journalisten berichten über die Abschirmung von Bidens kognitiver Verfassung. Haben Faktenchecks vertuscht, was alle längst sehen konnten?",
+      "url": "https://www.heise.de/tp/features/Die-Taeuschung-Joe-Bidens-verborgener-Niedergang-10387332.html",
+      "image_title": "Joe Biden im Wahlkampf 2020"
     },
     {
-      "title": "Präsidentschaftswahl in Rumänien: Sieger von Brüssels Gnaden",
-      "teaser": "Nicusor Dan ist Rumäniens neuer Präsident. Der Pro-Europäer setzte sich überraschend gegen den Rechtspopulisten Simion durch. Doch die Umstände des Sieges werfen Fragen auf (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Praesidentschaftswahl-in-Rumaenien-Sieger-von-Bruessels-Gnaden-10389450.html",
-      "image_title": "Rumäniens neuer Präsident Nicusor Dan"
+      "title": "Pakistan: Chinas Militärtechnik besteht Feuertaufe gegen westliches Arsenal",
+      "teaser": "Pakistan soll fünf indische Flugzeuge abgeschossen haben, darunter moderne Jets aus Frankreich. Warum der Vorfall Folgen für Taiwan haben könnte.",
+      "url": "https://www.heise.de/tp/features/Pakistan-Chinas-Militaertechnik-besteht-Feuertaufe-gegen-westliches-Arsenal-10380715.html",
+      "image_title": "Eine chinesische PL15-E Rakete"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
