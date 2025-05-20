@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-20T12:19:45",
+  "timestamp": "2025-05-20T13:25:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,28 @@
   ],
   "articles": [
     {
+      "title": "TrueNAS CORE lebt weiter: Community spaltet quelloffenen Fork zVault ab",
+      "teaser": "iXsystems setzt künftig auf die GNU/Linux-Variante von TrueNAS. Daher entwickelt die Community die FreeBSD-Version TrueNAS CORE im Fork zVault weiter.",
+      "url": "https://www.heise.de/news/TrueNAS-CORE-lebt-weiter-Community-spaltet-quelloffenen-Fork-zVault-ab-10389702.html",
+      "image_title": "Screenshot von zVault"
+    },
+    {
+      "title": "Bit-Rauschen: Tausende Intel-Manager fliegen raus",
+      "teaser": "Der neue Intel-Chef baut das Unternehmen um. Trotz eigener 18A-Technik will Intel TSMC-N2-Chiplets zukaufen. Apple verkauft das MacBook Air erstaunlich günstig.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Tausende-Intel-Manager-fliegen-raus-10384172.html",
+      "image_title": ","
+    },
+    {
+      "title": "Build 2025: Microsofts Edge-Browser übersetzt ganze PDFs mit einen Klick",
+      "teaser": "Microsofts Edge-Browser soll ab Juni dazu in der Lage sein, PDF-Dokumente mit einem Knopfdruck in verschiedene Sprachen zu übersetzen.",
+      "url": "https://www.heise.de/news/Build-2025-Microsofts-Edge-Browser-uebersetzt-ganze-PDFs-mit-einen-Klick-10390043.html",
+      "image_title": "Microsoft Edge Logo"
+    },
+    {
       "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
       "teaser": "SSO und Multifaktor-Authentifizierung - Mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
       "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10382240.html",
       "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
-    },
-    {
-      "title": "Enterprise-Architektur: Bebauungsplanung für eine souveräne IT",
-      "teaser": "Mit den Methoden der Enterprise-Architektur lassen sich unternehmensweite technische und geschäftliche Neuausrichtungen souverän planen.",
-      "url": "https://www.heise.de/hintergrund/Enterprise-Architektur-Bebauungsplanung-fuer-eine-souveraene-IT-vorgestellt-10379770.html"
-    },
-    {
-      "title": "Alles auf KI: Cloud-Integration von Boomi vernetzt Firmendaten mit KI-Agenten",
-      "teaser": "Boomi erweitert seine Cloud-Integrationsplattform um die Erstellung und Verwaltung von KI-Agenten. Zugekaufte Technologien ergänzen die Datenverwaltung.",
-      "url": "https://www.heise.de/news/Alles-auf-KI-Cloud-Integration-von-Boomi-vernetzt-Firmendaten-mit-KI-Agenten-10388570.html",
-      "image_title": "Boomi-CEO Steve Lucas auf einer Bühne"
-    },
-    {
-      "title": "Windows: Microsoft streicht App-Store-Gebühren für einzelne Entwickler",
-      "teaser": "Microsoft hat im Zuge der hauseigenen Build-Konferenz die Entwickler-Gebühren für die Einreichung von Apps im Microsoft-Store gestrichen.",
-      "url": "https://www.heise.de/news/Windows-10-und-11-Microsoft-streicht-Store-Gebuehren-fuer-einzelne-App-Entwickler-10389583.html"
     },
     {
       "title": "HintergrundBarrierefreier digitaler Raum per Gesetz: Das BFSG kommt",
@@ -63,6 +65,17 @@
       "image_title": "Gut abgesichert: Ein Mac als Burg"
     },
     {
+      "title": "Alles auf KI: Cloud-Integration von Boomi vernetzt Firmendaten mit KI-Agenten",
+      "teaser": "Boomi erweitert seine Cloud-Integrationsplattform um die Erstellung und Verwaltung von KI-Agenten. Zugekaufte Technologien ergänzen die Datenverwaltung.",
+      "url": "https://www.heise.de/news/Alles-auf-KI-Cloud-Integration-von-Boomi-vernetzt-Firmendaten-mit-KI-Agenten-10388570.html",
+      "image_title": "Boomi-CEO Steve Lucas auf einer Bühne"
+    },
+    {
+      "title": "Windows: Microsoft streicht App-Store-Gebühren für einzelne Entwickler",
+      "teaser": "Microsoft hat im Zuge der hauseigenen Build-Konferenz die Entwickler-Gebühren für die Einreichung von Apps im Microsoft-Store gestrichen.",
+      "url": "https://www.heise.de/news/Windows-10-und-11-Microsoft-streicht-Store-Gebuehren-fuer-einzelne-App-Entwickler-10389583.html"
+    },
+    {
       "title": "Jensen Huang: Nvidia entgehen 15 Milliarden US-Dollar durch China-Bann",
       "teaser": "Nvidia schreibt H20-Chips im Wert von 5,5 Milliarden US-Dollar ab. Den Umsatzausfall schätzt der Firmenchef auf 15 Milliarden.",
       "url": "https://www.heise.de/news/Jensen-Huang-Nvidia-entgehen-15-Milliarden-US-Dollar-durch-China-Bann-10389601.html",
@@ -76,7 +89,7 @@
     },
     {
       "title": "AlertHCL-Domino-Add-on Leap gegen mögliche Attacken abgesichert",
-      "teaser": "Das Anwendungsentwicklungssystem HCL Domingo ist über Schwachstellen im Add-on Leap attackierbar.",
+      "teaser": "Das Anwendungsentwicklungssystem HCL Domino ist über Schwachstellen im Add-on Leap attackierbar.",
       "url": "https://www.heise.de/news/HCL-Domino-Add-on-Leap-gegen-moegliche-Attacken-abgesichert-10389519.html"
     },
     {
@@ -136,18 +149,6 @@
       "teaser": "Künstliche Intelligenz als Retter des Webs? Die Idee hat zumindest Microsoft. Das agentische Web soll alles besser machen.",
       "url": "https://www.heise.de/news/Agentisches-Web-Microsoft-stellt-ein-KI-Internet-in-Aussicht-10389202.html",
       "image_title": "Microsoft logo and text sign of Microsoft office building"
-    },
-    {
-      "title": "GUI-Frameworks für .NET – Teil 3: Android, iOS, macOS und .NET MAUI",
-      "teaser": "Dieser Teil der Serie dreht sich um Microsofts .NET-Oberflächen, die auch auf anderen Plattformen als Windows laufen, insbesondere .NET MAUI.",
-      "url": "https://www.heise.de/hintergrund/GUI-Frameworks-fuer-NET-Teil-3-Android-iOS-macOS-und-NET-MAUI-10385896.html",
-      "image_title": ".NET"
-    },
-    {
-      "title": "Tipp: Mehrere PDFs am Mac durchsuchen – und drucken",
-      "teaser": "Die PDF-Sammlung wächst – und sie würden gerne mehrere Dokumente gleichzeitig überblicken? Mit Finder und Vorschau-App geht das.",
-      "url": "https://www.heise.de/ratgeber/Mehrere-PDFs-am-Mac-durchsuchen-und-drucken-4432815.html",
-      "image_title": "Apples Preview"
     },
     {
       "title": "NewsWorld Press Photo entzieht Nick Ut Anerkennung für \"Napalm Girl\"",
