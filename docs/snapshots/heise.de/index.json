@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-20T22:09:16",
+  "timestamp": "2025-05-20T23:09:20",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "National Ignition Facility meldet neuen Energierekord bei der Kernfusion",
+      "url": "https://www.heise.de/news/National-Ignition-Facility-meldet-neuen-Energierekord-bei-der-Kernfusion-10390243.html"
+    },
     {
       "title": "Bericht: Intel prüft den Verkauf seiner Netzwerk- und Edge-Sparte",
       "url": "https://www.heise.de/news/Bericht-Intel-prueft-den-Verkauf-seiner-Netzwerk-und-Edge-Sparte-10390744.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/news/Social-Media-bei-Minderjaehrigen-Prien-sieht-massiven-Handlungsbedarf-10390394.html"
     },
     {
-      "title": "So Ultra ist Apple CarPlay | Mac & i-Podcast",
-      "url": "https://www.heise.de/news/So-Ultra-ist-Apple-CarPlay-Mac-i-Podcast-10390412.html"
-    },
-    {
       "title": "Google I/OKI-Abo für 250 US-Dollar und ein agentisches Gemini",
       "teaser": "Es ist bereits das dritte Jahr, in dem KI die Google I/O dominiert. Von Agenten bis zum Luxus-Abo gibt es zahlreiche neue Dienste.",
       "url": "https://www.heise.de/news/Google-I-O-KI-Abo-fuer-250-US-Dollar-und-ein-besseres-Gemini-10390490.html",
@@ -73,7 +73,7 @@
     },
     {
       "title": "Jenseits von billigRenault 5 E-Tech im Test",
-      "teaser": "Der R5 ist überraschend gut:: hohe Qualität, niedrige Geräusche, sehr gute Assistenten.",
+      "teaser": "Der R5 ist überraschend gut: hohe Qualität, niedrige Geräusche, sehr gute Assistenten.",
       "url": "https://www.heise.de/tests/Renault-5-E-Tech-im-Test-Jenseits-von-billig-10381794.html",
       "image_title": "Renault 5 E-Tech"
     },
@@ -187,20 +187,26 @@
       "image_title": "Darth Vader im Fortnite-Look"
     },
     {
+      "title": "National Ignition Facility meldet neuen Energierekord bei der Kernfusion",
+      "teaser": "Ende 2022 schafften es Forscher an der NIF erstmals, mehr Energie mit einer Fusionsreaktion zu erzeugen, als sie hineinsteckten. Jetzt gibt es neue Rekorde.",
+      "url": "https://www.heise.de/news/National-Ignition-Facility-meldet-neuen-Energierekord-bei-der-Kernfusion-10390243.html",
+      "image_title": "Die Fusionsanlage des Lawrence Livermore National Laboratory"
+    },
+    {
       "title": "Bericht: Intel prüft den Verkauf seiner Netzwerk- und Edge-Sparte",
       "teaser": "Der kriselnde Chiphersteller Intel erwägt die Veräußerung der Netzwerk- und Edge-Gruppe. Der neue CEO will sich stattdessen auf andere Bereiche konzentrieren.",
       "url": "https://www.heise.de/news/Bericht-Intel-prueft-den-Verkauf-seiner-Netzwerk-und-Edge-Sparte-10390744.html"
+    },
+    {
+      "title": "Mehr Übersicht im Netzwerk",
+      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Autonome Taxis: Waymo erhält die Betriebsgenehmigung für die Bay Area",
       "teaser": "Das US-Robotaxi-Start-up Waymo hat von Kaliforniens Behörden grünes Licht für den Ausbau seines autonomen Taxiservices für den Großraum San Francisco erhalten.",
       "url": "https://www.heise.de/news/Autonome-Taxis-Waymo-erhaelt-die-Betriebsgenehmigung-fuer-die-Bay-Area-10390700.html",
       "image_title": "Ein Fahrgast steigt in ein Waymo-Robotaxi in San Francisco ein."
-    },
-    {
-      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
-      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Der beste 3D-Drucker mit Filament im Test – perfekt drucken ab 200 Euro",
@@ -228,12 +234,6 @@
       "teaser": "Die neue Familienministerin Karin Prien (CDU) will bei der Social Media-Nutzung neue Wege gehen – mit Eltern, Wissenschaft und Verboten.",
       "url": "https://www.heise.de/news/Social-Media-bei-Minderjaehrigen-Prien-sieht-massiven-Handlungsbedarf-10390394.html",
       "image_title": "Karin Prien vor Mikrofon"
-    },
-    {
-      "title": "So Ultra ist Apple CarPlay | Mac & i-Podcast",
-      "teaser": "Mit CarPlay Ultra will Apple das Kombiinstrument übernehmen. Was das für iPhone-Nutzer bedeutet, was Autohersteller davon halten und wo die Reise hingeht.",
-      "url": "https://www.heise.de/news/So-Ultra-ist-Apple-CarPlay-Mac-i-Podcast-10390412.html",
-      "image_title": "So Ultra ist Apple CarPlay Mac & i-Podcast"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -300,6 +300,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "So Ultra ist Apple CarPlay | Mac & i-Podcast",
+      "teaser": "Mit CarPlay Ultra will Apple das Kombiinstrument übernehmen. Was das für iPhone-Nutzer bedeutet, was Autohersteller davon halten und wo die Reise hingeht.",
+      "url": "https://www.heise.de/news/So-Ultra-ist-Apple-CarPlay-Mac-i-Podcast-10390412.html",
+      "image_title": "So Ultra ist Apple CarPlay Mac & i-Podcast"
     },
     {
       "title": "Vom OTP-Problem zur Entdeckung: Wie ein Autokäufer VWs App-Schwachstellen fand",
@@ -369,15 +375,15 @@
       "image_title": ","
     },
     {
+      "title": "Kernzahl, Taktfrequenz, Cache: Was bei der Auswahl der Server-CPU zählt",
+      "teaser": "Bei der Diskussion um Server-CPUs steht häufig die Anzahl der Rechenkerne im Vordergrund. Das ist jedoch nur ein Aspekt, der bei der Auswahl zu berücksichtigen ist.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/kernzahl-taktfrequenz-cache-was-bei-der-auswahl-einer-server-cpu-zaehlt-4928/?source=hbsadersatz"
+    },
+    {
       "title": "Build 2025: Microsofts Edge-Browser übersetzt ganze PDFs mit einen Klick",
       "teaser": "Microsofts Edge-Browser soll ab Juni dazu in der Lage sein, PDF-Dokumente mit einem Knopfdruck in verschiedene Sprachen zu übersetzen.",
       "url": "https://www.heise.de/news/Build-2025-Microsofts-Edge-Browser-uebersetzt-ganze-PDFs-mit-einen-Klick-10390043.html",
       "image_title": "Microsoft Edge Logo"
-    },
-    {
-      "title": "Portfolio-Guide – So finden Sie den richtigen Prozessor",
-      "teaser": "Die Unternehmens-IT muss eine Vielzahl unterschiedlicher Workloads bewältigen. Dieser Portfolio-Guide zeigt Ihnen, welche Prozessorfamilie für welchen Anwendungszweck am besten geeignet ist.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/portfolio-guide-so-finden-sie-den-richtigen-prozessor-4915/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
@@ -428,12 +434,6 @@
       "teaser": "Die GitHub-KI programmiert jetzt selbstständig, übernimmt komplette Aufgaben und agiert als virtuelles Teammitglied – der Mensch behalte die finale Kontrolle.",
       "url": "https://www.heise.de/news/GitHub-Neuer-KI-Coding-Agent-behebt-Bugs-per-Zuweisung-10389538.html",
       "image_title": "Symbolbild des Copilot Coding Agents"
-    },
-    {
-      "title": "Microsoft Build 2025: Neue Modelle, Schnittstellen und Tools für KI-Agenten",
-      "teaser": "Microsoft stellt KI-Plattformen und -Modelle vor, öffnet o4-mini fürs Finetuning und führt MCP und A2A ein. Agent Amelie baut und deployt Agenten selbständig.",
-      "url": "https://www.heise.de/news/Microsoft-Build-2025-Neue-Modelle-Schnittstellen-und-Tools-fuer-KI-Agenten-10389416.html",
-      "image_title": "Microsoft logo and text sign of Microsoft office building"
     },
     {
       "title": "OpenAI-Tool Codex soll Softwareentwicklern das Programmieren abnehmen",
@@ -601,9 +601,9 @@
       "url": "https://www.heise.de/en/news/VMware-Workstation-und-Fusion-Ausbruch-aus-Gastsystem-moeglich-9718675.html"
     },
     {
-      "title": "Praxis: Windows stark verkleinern mit einfachen Befehlen",
-      "teaser": "Wie man Platzbedarf einer Windows-Installation mithilfe von sechs einfachen Handgriffen drücken kann, und welche Nebenwirkungen das hat, zeigt dieser Artikel.",
-      "url": "https://www.heise.de/ratgeber/Praxis-Windows-stark-verkleinern-mit-einfachen-Befehlen-10380646.html"
+      "title": "c't-WebinarPasskeys verstehen und sicher einsetzen",
+      "teaser": "Passkeys bieten eine sichere Alternative zum Passwort. Im Webinar erfahren Sie, wie Passkeys funktionieren, wie man sie einsetzt und worauf man achten muss.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Passkeys-verstehen-und-sicher-einsetzen-10387680.html"
     },
     {
       "title": "Dunkle Energie: Fünf Erklärungsversuche für ein kosmisches Mysterium",
@@ -612,10 +612,9 @@
       "image_title": "Expansion des Universums"
     },
     {
-      "title": "Bit-Rauschen: Tausende Intel-Manager fliegen raus",
-      "teaser": "Der neue Intel-Chef baut das Unternehmen um. Trotz eigener 18A-Technik will Intel TSMC-N2-Chiplets zukaufen. Apple verkauft das MacBook Air erstaunlich günstig.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Tausende-Intel-Manager-fliegen-raus-10384172.html",
-      "image_title": ","
+      "title": "Praxis: Windows stark verkleinern mit einfachen Befehlen",
+      "teaser": "Wie man Platzbedarf einer Windows-Installation mithilfe von sechs einfachen Handgriffen drücken kann, und welche Nebenwirkungen das hat, zeigt dieser Artikel.",
+      "url": "https://www.heise.de/ratgeber/Praxis-Windows-stark-verkleinern-mit-einfachen-Befehlen-10380646.html"
     },
     {
       "title": "15 Tipps für iOS und macOSDas neue Apple Mail richtig nutzen",
@@ -748,21 +747,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Pakistan: Chinas Militärtechnik besteht Feuertaufe gegen westliches Arsenal",
-      "teaser": "Pakistan soll fünf indische Flugzeuge abgeschossen haben, darunter moderne Jets aus Frankreich. Warum der Vorfall Folgen für Taiwan haben könnte.",
-      "url": "https://www.heise.de/tp/features/Pakistan-Chinas-Militaertechnik-besteht-Feuertaufe-gegen-westliches-Arsenal-10380715.html",
-      "image_title": "Eine chinesische PL15-E Rakete"
+      "title": "Papst Leo XIV: Trumps neuer Gegenspieler auf dem Heiligen Stuhl?",
+      "teaser": "Mit Leo XIV. hat erstmals ein US-Amerikaner den Papstthron bestiegen. Das löste in Kirchenkreisen auch Unbehagen aus. Doch die Konstellation könnte jetzt eine interessante Dynamik entfalten.",
+      "url": "https://www.heise.de/tp/features/Papst-Leo-XIV-Trumps-neuer-Gegenspieler-auf-dem-Heiligen-Stuhl-10388367.html",
+      "image_title": "Papst Leo empfängt Journalisten"
     },
     {
-      "title": "Ukraine-Krieg: Russlands neue Waffe – Marschflugkörper von Drohnen gestartet",
-      "teaser": "Chinesisches Triebwerk macht S8000 Banderol zur Billig-Waffe mit großer Wirkung. Das ist eine Blaupause für die Kriegsökonomie der Zukunft. Was steckt dahinter? (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Russlands-neue-Waffe-Marschflugkoerper-von-Drohnen-gestartet-10388439.html",
-      "image_title": "KI-generierte Illustration einer Drohne, darunter ein startender Marschflugkörper,"
+      "title": "Ausbildung statt Studium: Braucht Deutschland ein Umdenken?",
+      "teaser": "Der Fachkräftemangel im Handwerk wird zur Belastungsprobe für die Branche. Zehntausende Stellen sind unbesetzt, Kunden warten monatelang.",
+      "url": "https://www.heise.de/tp/features/Ausbildung-statt-Studium-Braucht-Deutschland-ein-Umdenken-10388385.html",
+      "image_title": "Bauarbeiter auf der Baustelle."
     },
     {
-      "title": "Sozial-Abbau: Politische Vorgaben und der mediale Zugaben-Chor",
-      "teaser": "Kanzler Merz regiert. Dem Sozialstaat geht es heftiger an den Kragen als bisher. Leitmedial wird das Ganze beschönigend begleitet. Mediensplitter. (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Sozial-Abbau-Politische-Vorgaben-und-der-mediale-Zugaben-Chor-10387607.html"
+      "title": "Vergessene Seuche: Diphtherie kehrt nach Deutschland zurück",
+      "teaser": "RKI warnt: Sinkende Herdenimmunität durch Impflücken bedroht die Gesundheit in Deutschland. Was kann jeder Einzelne tun?",
+      "url": "https://www.heise.de/tp/features/Vergessene-Seuche-Diphtherie-kehrt-nach-Deutschland-zurueck-10389788.html",
+      "image_title": "Wissenschaftliches Bild von Bakterien Corynebacterium zeigt ihre charakteristische Morphologie, Stabförmige Bakterien mit breiteren Enden."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
