@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-20T21:08:58",
+  "timestamp": "2025-05-20T22:09:16",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bericht: Intel prüft den Verkauf seiner Netzwerk- und Edge-Sparte",
+      "url": "https://www.heise.de/news/Bericht-Intel-prueft-den-Verkauf-seiner-Netzwerk-und-Edge-Sparte-10390744.html"
+    },
     {
       "title": "Autonome Taxis: Waymo erhält die Betriebsgenehmigung für die Bay Area",
       "url": "https://www.heise.de/news/Autonome-Taxis-Waymo-erhaelt-die-Betriebsgenehmigung-fuer-die-Bay-Area-10390700.html"
@@ -60,10 +64,6 @@
     {
       "title": "So Ultra ist Apple CarPlay | Mac & i-Podcast",
       "url": "https://www.heise.de/news/So-Ultra-ist-Apple-CarPlay-Mac-i-Podcast-10390412.html"
-    },
-    {
-      "title": "Vom OTP-Problem zur Entdeckung: Wie ein Autokäufer VWs App-Schwachstellen fand",
-      "url": "https://www.heise.de/news/Vom-OTP-Problem-zur-Entdeckung-Wie-ein-Autokaeufer-VWs-App-Schwachstellen-fand-10390287.html"
     },
     {
       "title": "Google I/OKI-Abo für 250 US-Dollar und ein agentisches Gemini",
@@ -187,20 +187,25 @@
       "image_title": "Darth Vader im Fortnite-Look"
     },
     {
+      "title": "Bericht: Intel prüft den Verkauf seiner Netzwerk- und Edge-Sparte",
+      "teaser": "Der kriselnde Chiphersteller Intel erwägt die Veräußerung der Netzwerk- und Edge-Gruppe. Der neue CEO will sich stattdessen auf andere Bereiche konzentrieren.",
+      "url": "https://www.heise.de/news/Bericht-Intel-prueft-den-Verkauf-seiner-Netzwerk-und-Edge-Sparte-10390744.html"
+    },
+    {
       "title": "Autonome Taxis: Waymo erhält die Betriebsgenehmigung für die Bay Area",
       "teaser": "Das US-Robotaxi-Start-up Waymo hat von Kaliforniens Behörden grünes Licht für den Ausbau seines autonomen Taxiservices für den Großraum San Francisco erhalten.",
       "url": "https://www.heise.de/news/Autonome-Taxis-Waymo-erhaelt-die-Betriebsgenehmigung-fuer-die-Bay-Area-10390700.html",
       "image_title": "Ein Fahrgast steigt in ein Waymo-Robotaxi in San Francisco ein."
     },
     {
+      "title": "Wenn eine neue Ticket-Welle auf Admins zukommt",
+      "teaser": "Sind Beschäftigte mit ihren digitalen Arbeitsmitteln unzufrieden, dann richtet sich die Unzufriedenheit ans IT-Team. Mit bestimmten Tools können Admins die Sicht der Anwender rechtzeitig verstehen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983337068&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Der beste 3D-Drucker mit Filament im Test – perfekt drucken ab 200 Euro",
       "teaser": "Welcher 3D-Drucker ist der beste? Einer, der zuverlässig funktioniert! Nach dutzenden Tests zeigen wir Modelle, die für hervorragende Ergebnisse sorgen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-3d-drucker-mit-filament-im-test/jrel4jt?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Aufbruch zur europäischen Multi-Vendor-Cloud",
-      "teaser": "Es ist heikel, zu sehr von außereuropäischen IT-Serviceprovidern abzuhängen. Mit der offenen API-Spezifikation „Sovereign European Cloud API“ (SECA) ist jedoch Flexibilität bei Cloud-Diensten möglich.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6996447782&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Google: Schöner Shoppen mit KI",
@@ -229,11 +234,6 @@
       "teaser": "Mit CarPlay Ultra will Apple das Kombiinstrument übernehmen. Was das für iPhone-Nutzer bedeutet, was Autohersteller davon halten und wo die Reise hingeht.",
       "url": "https://www.heise.de/news/So-Ultra-ist-Apple-CarPlay-Mac-i-Podcast-10390412.html",
       "image_title": "So Ultra ist Apple CarPlay Mac & i-Podcast"
-    },
-    {
-      "title": "Vom OTP-Problem zur Entdeckung: Wie ein Autokäufer VWs App-Schwachstellen fand",
-      "teaser": "Ein Sicherheitsforscher aus Indien wollte nur Zugriff auf die App-Funktionen seines Fahrzeugs nehmen. Dabei entdeckte er Sicherheitslücken in der VW-App.",
-      "url": "https://www.heise.de/news/Vom-OTP-Problem-zur-Entdeckung-Wie-ein-Autokaeufer-VWs-App-Schwachstellen-fand-10390287.html"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -300,6 +300,11 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Vom OTP-Problem zur Entdeckung: Wie ein Autokäufer VWs App-Schwachstellen fand",
+      "teaser": "Ein Sicherheitsforscher aus Indien wollte nur Zugriff auf die App-Funktionen seines Fahrzeugs nehmen. Dabei entdeckte er Sicherheitslücken in der VW-App.",
+      "url": "https://www.heise.de/news/Vom-OTP-Problem-zur-Entdeckung-Wie-ein-Autokaeufer-VWs-App-Schwachstellen-fand-10390287.html"
     },
     {
       "title": "Hessen: Zahlreiche Datenschutzbeschwerden, mehrere Verstöße in Arztpraxen",
@@ -370,15 +375,15 @@
       "image_title": "Microsoft Edge Logo"
     },
     {
+      "title": "Portfolio-Guide – So finden Sie den richtigen Prozessor",
+      "teaser": "Die Unternehmens-IT muss eine Vielzahl unterschiedlicher Workloads bewältigen. Dieser Portfolio-Guide zeigt Ihnen, welche Prozessorfamilie für welchen Anwendungszweck am besten geeignet ist.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/portfolio-guide-so-finden-sie-den-richtigen-prozessor-4915/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
       "teaser": "SSO und Multifaktor-Authentifizierung - Mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
       "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10382240.html",
       "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Enterprise-Architektur: Bebauungsplanung für eine souveräne IT",
@@ -429,12 +434,6 @@
       "teaser": "Microsoft stellt KI-Plattformen und -Modelle vor, öffnet o4-mini fürs Finetuning und führt MCP und A2A ein. Agent Amelie baut und deployt Agenten selbständig.",
       "url": "https://www.heise.de/news/Microsoft-Build-2025-Neue-Modelle-Schnittstellen-und-Tools-fuer-KI-Agenten-10389416.html",
       "image_title": "Microsoft logo and text sign of Microsoft office building"
-    },
-    {
-      "title": "Klimawandel: Gletscher werden sich nur sehr langsam erholen",
-      "teaser": "Wenn der globale Klimawandel gestoppt ist, werden sich die Gletscher davon erholen. Das wird allerdings Jahrhunderte dauern.",
-      "url": "https://www.heise.de/news/Klimawandel-Gletscher-werden-sich-nur-sehr-langsam-erholen-10389561.html",
-      "image_title": "Gletscher in Island"
     },
     {
       "title": "OpenAI-Tool Codex soll Softwareentwicklern das Programmieren abnehmen",
@@ -613,9 +612,10 @@
       "image_title": "Expansion des Universums"
     },
     {
-      "title": "c't-WebinarPasskeys verstehen und sicher einsetzen",
-      "teaser": "Passkeys bieten eine sichere Alternative zum Passwort. Im Webinar erfahren Sie, wie Passkeys funktionieren, wie man sie einsetzt und worauf man achten muss.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Passkeys-verstehen-und-sicher-einsetzen-10387680.html"
+      "title": "Bit-Rauschen: Tausende Intel-Manager fliegen raus",
+      "teaser": "Der neue Intel-Chef baut das Unternehmen um. Trotz eigener 18A-Technik will Intel TSMC-N2-Chiplets zukaufen. Apple verkauft das MacBook Air erstaunlich günstig.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Tausende-Intel-Manager-fliegen-raus-10384172.html",
+      "image_title": ","
     },
     {
       "title": "15 Tipps für iOS und macOSDas neue Apple Mail richtig nutzen",
@@ -642,16 +642,15 @@
       "image_title": "Marsrover Perseverance"
     },
     {
+      "title": "Was Fuse-Bits sind und wie man sie am ATmega328 anpasst",
+      "teaser": "Holen Sie alles aus Ihrem AVR-Mikrocontroller heraus: Nutzen Sie einen externen Taktgenerator, schützen Sie Ihr geistiges Eigentum und verhindern Sie Abstürze.",
+      "url": "https://www.heise.de/ratgeber/Was-Fuse-Bits-sind-und-wie-man-sie-am-ATmega328-anpasst-10373669.html"
+    },
+    {
       "title": "InventwoodStart-up stellt stahlhartes \"Superholz\" vor",
       "teaser": "Leichter als Stahl, stärker als Holz. Diese Eigenschaften verspricht ein Biotech-Start-up für sein neues Holzprodukt Superwood.",
       "url": "https://www.heise.de/news/Start-up-stellt-stahlhartes-Superholz-vor-10384802.html",
       "image_title": "Ein Brett aus \"Superholz\" vor weißem Hintergrund"
-    },
-    {
-      "title": "Linux-Hacking-Gadget für die Hosentasche",
-      "teaser": "Ein Linux-Handheld für Hacker: Der Interrupt vereint Funkanalyse, RFID-Emulation und Terminalzugriff in einem offenen Gerät – jetzt auf Kickstarter.",
-      "url": "https://www.heise.de/news/Linux-Hacking-Gadget-fuer-die-Hosentasche-10383090.html",
-      "image_title": "Der \"Interrupt\"-Handheld liegt auf einem Tisch neben einer Computermaus und einer Tastatur. Er ist nur ein Stückchen höher, als die Tastatur breit ist."
     },
     {
       "title": "Lichtspiele und die Freiheit über den Wolken: Die Bilder der Woche 19",
@@ -749,22 +748,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Vergessene Seuche: Diphtherie kehrt nach Deutschland zurück",
-      "teaser": "RKI warnt: Sinkende Herdenimmunität durch Impflücken bedroht die Gesundheit in Deutschland. Was kann jeder Einzelne tun?",
-      "url": "https://www.heise.de/tp/features/Vergessene-Seuche-Diphtherie-kehrt-nach-Deutschland-zurueck-10389788.html",
-      "image_title": "Wissenschaftliches Bild von Bakterien Corynebacterium zeigt ihre charakteristische Morphologie, Stabförmige Bakterien mit breiteren Enden."
-    },
-    {
-      "title": "Ausbildung statt Studium: Braucht Deutschland ein Umdenken?",
-      "teaser": "Der Fachkräftemangel im Handwerk wird zur Belastungsprobe für die Branche. Zehntausende Stellen sind unbesetzt, Kunden warten monatelang.",
-      "url": "https://www.heise.de/tp/features/Ausbildung-statt-Studium-Braucht-Deutschland-ein-Umdenken-10388385.html",
-      "image_title": "Bauarbeiter auf der Baustelle."
-    },
-    {
       "title": "Pakistan: Chinas Militärtechnik besteht Feuertaufe gegen westliches Arsenal",
       "teaser": "Pakistan soll fünf indische Flugzeuge abgeschossen haben, darunter moderne Jets aus Frankreich. Warum der Vorfall Folgen für Taiwan haben könnte.",
       "url": "https://www.heise.de/tp/features/Pakistan-Chinas-Militaertechnik-besteht-Feuertaufe-gegen-westliches-Arsenal-10380715.html",
       "image_title": "Eine chinesische PL15-E Rakete"
+    },
+    {
+      "title": "Ukraine-Krieg: Russlands neue Waffe – Marschflugkörper von Drohnen gestartet",
+      "teaser": "Chinesisches Triebwerk macht S8000 Banderol zur Billig-Waffe mit großer Wirkung. Das ist eine Blaupause für die Kriegsökonomie der Zukunft. Was steckt dahinter? (Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Russlands-neue-Waffe-Marschflugkoerper-von-Drohnen-gestartet-10388439.html",
+      "image_title": "KI-generierte Illustration einer Drohne, darunter ein startender Marschflugkörper,"
+    },
+    {
+      "title": "Sozial-Abbau: Politische Vorgaben und der mediale Zugaben-Chor",
+      "teaser": "Kanzler Merz regiert. Dem Sozialstaat geht es heftiger an den Kragen als bisher. Leitmedial wird das Ganze beschönigend begleitet. Mediensplitter. (Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/Sozial-Abbau-Politische-Vorgaben-und-der-mediale-Zugaben-Chor-10387607.html"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
