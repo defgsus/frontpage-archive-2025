@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-21T09:11:21",
+  "timestamp": "2025-05-21T10:11:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,43 @@
   ],
   "articles": [
     {
+      "title": "Sonderheft Photovoltaik: So gestalten Sie Ihre individuelle Energiewende",
+      "teaser": "Die eigene Energiewende schont die Umwelt, spart langfristig Kosten und darf auch Spaß machen. Das neue c’t Sonderheft Photovoltaik schafft eine Übersicht.",
+      "url": "https://www.heise.de/news/Sonderheft-Photovoltaik-So-gestalten-Sie-Ihre-individuelle-Energiewende-10388725.html"
+    },
+    {
+      "title": "Datenschutz auf iPhone, iPad und MacDatenschutzeinstellungen auf Apple-Geräten: So sichern Sie sich richtig ab",
+      "teaser": "Apps dürfen nur mit Zustimmung auf sensible Daten und Sensoren wie Mikrofon oder Kamera zugreifen. Doch was bedeuten diese Freigaben im Detail? Wir zeigen es.",
+      "url": "https://www.heise.de/ratgeber/Datenschutzeinstellungen-auf-Apple-Geraeten-So-sichern-Sie-sich-richtig-ab-10380487.html",
+      "image_title": "Gut abgesichert: Ein Mac als Burg"
+    },
+    {
+      "title": "BSI will mehr Zuständigkeit für Energiesicherheit",
+      "teaser": "In einem Positionspapier fordert das Bundesamt für Sicherheit in der Informationstechnik eine zentrale Rolle für die Cybersicherheit der Energienetze.",
+      "url": "https://www.heise.de/news/BSI-will-mehr-Zustaendigkeit-fuer-Energiesicherheit-10391268.html",
+      "image_title": "Schulkind liest mit einer Kerze ein Buch"
+    },
+    {
+      "title": "Freie Jira-Alternative? OpenProject 16 bringt Meeting-Backlogs",
+      "teaser": "Das Projektmanagement-Tool OpenProject 16 umfasst nun einen Meeting-Backlog für verschiedene Themen. Jedoch sind nicht alle neuen Funktionen gratis verfügbar.",
+      "url": "https://www.heise.de/news/Freie-Jira-Alternative-OpenProject-16-bringt-Meeting-Backlogs-10390858.html",
+      "image_title": "Screenshot des Meeting-Backlogs von OpenProject 16"
+    },
+    {
+      "title": "RatgeberModel Context Protocol: Ein erster Standard für LLM-Agenten",
+      "url": "https://www.heise.de/ratgeber/Model-Context-Protocol-Ein-erster-Standard-fuer-LLM-Agenten-10386198.html"
+    },
+    {
+      "title": "HintergrundBarrierefreier digitaler Raum per Gesetz: Das BFSG kommt",
+      "url": "https://www.heise.de/hintergrund/Barrierefreier-digitaler-Raum-per-Gesetz-Das-BFSG-kommt-10389336.html",
+      "image_title": ", KI Midjourney Collage c’t"
+    },
+    {
+      "title": "HintergrundSnapdragon X und Copilot+: Wie ARM-Chips und KI den Notebookmarkt geändert haben",
+      "url": "https://www.heise.de/hintergrund/Snapdragon-X-und-Copilot-Wie-ARM-Chips-und-KI-den-Notebookmarkt-geaendert-haben-10364729.html",
+      "image_title": ","
+    },
+    {
       "title": "Asus bringt ein Business-Notebook mit AMD-Prozessor für Copilot+",
       "teaser": "Zuletzt hat Asus seine ExpertBooks der P-Serie mit Intel-CPUs bestückt, doch im neuen ExpertBook PM3 arbeitet ein Ryzen AI 300.",
       "url": "https://www.heise.de/news/Asus-bringt-ein-Business-Notebook-mit-AMD-Prozessor-fuer-Copilot-10390366.html",
@@ -44,24 +81,10 @@
       "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
-      "title": "Ransomware-Angriff verursacht IT-Aufall in großem US-Krankenhaus-Netzwerk",
+      "title": "Ransomware-Angriff verursacht IT-Ausfall in großem US-Krankenhaus-Netzwerk",
       "teaser": "Ein Ransomware-Angriff hat in einem Netzwerk von mehreren medizinischen Zentren in Ohio zu einem \"systemweiten Technologie-Ausfall\" geführt.",
-      "url": "https://www.heise.de/news/Ransomware-Angriff-verursacht-IT-Aufall-in-grossem-US-Krankenhaus-Netzwerk-10390922.html",
+      "url": "https://www.heise.de/news/Ransomware-Angriff-verursacht-IT-Ausfall-in-grossem-US-Krankenhaus-Netzwerk-10390922.html",
       "image_title": "Krankenhausflur"
-    },
-    {
-      "title": "RatgeberModel Context Protocol: Ein erster Standard für LLM-Agenten",
-      "url": "https://www.heise.de/ratgeber/Model-Context-Protocol-Ein-erster-Standard-fuer-LLM-Agenten-10386198.html"
-    },
-    {
-      "title": "HintergrundBarrierefreier digitaler Raum per Gesetz: Das BFSG kommt",
-      "url": "https://www.heise.de/hintergrund/Barrierefreier-digitaler-Raum-per-Gesetz-Das-BFSG-kommt-10389336.html",
-      "image_title": ", KI Midjourney Collage c’t"
-    },
-    {
-      "title": "HintergrundSnapdragon X und Copilot+: Wie ARM-Chips und KI den Notebookmarkt geändert haben",
-      "url": "https://www.heise.de/hintergrund/Snapdragon-X-und-Copilot-Wie-ARM-Chips-und-KI-den-Notebookmarkt-geaendert-haben-10364729.html",
-      "image_title": ","
     },
     {
       "title": "AlertMehrere Sicherheitslücken bedrohen VMware Cloud Foundation",
@@ -120,32 +143,9 @@
       "image_title": "So Ultra ist Apple CarPlay Mac & i-Podcast"
     },
     {
-      "title": "Vom OTP-Problem zur Entdeckung: Wie ein Autokäufer VWs App-Schwachstellen fand",
-      "teaser": "Ein Sicherheitsforscher aus Indien wollte nur Zugriff auf die App-Funktionen seines Fahrzeugs nehmen. Dabei entdeckte er Sicherheitslücken in der VW-App.",
+      "title": "UpdateVom OTP-Problem zur Entdeckung: Wie ein Autokäufer VWs App-Schwachstellen fand",
+      "teaser": "Ein Sicherheitsforscher aus Indien wollte Zugriff auf die App-Funktionen seines Fahrzeugs nehmen. Dabei entdeckte er Sicherheitslücken in der indischen VW-App.",
       "url": "https://www.heise.de/news/Vom-OTP-Problem-zur-Entdeckung-Wie-ein-Autokaeufer-VWs-App-Schwachstellen-fand-10390287.html"
-    },
-    {
-      "title": "Hessen: Zahlreiche Datenschutzbeschwerden, mehrere Verstöße in Arztpraxen",
-      "teaser": "Der hessische Landesdatenschutzbeauftragte hat seinen Tätigkeitsbericht vorgestellt. Insgesamt sind Bußgelder in Höhe von 545.000 Euro angefallen.",
-      "url": "https://www.heise.de/news/Hessen-Zahlreiche-Datenschutzbeschwerden-mehrere-Verstoesse-in-Arztpraxen-10389804.html",
-      "image_title": "Eine männliche Hand greift nach einem Auge im Cyberraum."
-    },
-    {
-      "title": "Tastatur-Switches: Cherry springt auf den induktiven Zug auf",
-      "teaser": "Der deutsche Hersteller Cherry kündigt eine Fülle neuer Taster an. Darunter: besonders leichte und taktile Switches.",
-      "url": "https://www.heise.de/news/Tastatur-Switches-Cherry-springt-auf-den-induktiven-Zug-auf-10390329.html",
-      "image_title": "Vier verschiedene Cherry-Switches nebeneinander"
-    },
-    {
-      "title": "Verwaltungsgericht: Cookie-Banner muss \"Alles ablehnen\"-Button enthalten",
-      "teaser": "Die Schaltfläche \"Alle akzeptieren\" ist oft der Standard bei Cookie-Bannern. Ein Verwaltungsgericht hat entschieden, auch die gegenteilige Offerte ist nötig.",
-      "url": "https://www.heise.de/news/Verwaltungsgericht-Cookie-Banner-muss-Alles-ablehnen-Button-enthalten-10390388.html"
-    },
-    {
-      "title": "Nvidias und Foxconns neuer KI-Supercomputer in Taiwan",
-      "teaser": "Ein neuer Supercomputer soll den Fortschritt von Taiwans Industrie, Gesellschaft und Regierung durch cloudbasierte KI-Dienste fördern.",
-      "url": "https://www.heise.de/news/Nvidia-und-Big-Innovation-Company-bauen-einen-KI-Supercomputer-in-Taiwan-10390338.html",
-      "image_title": "Nvidia logo and sign on headquarters. Blurred foreground with green trees - Santa Clara, California, USA"
     },
     {
       "title": "NewsStrafgerichtshof: Microsofts E-Mail-Sperre als Weckruf für digitale Souveränität",
