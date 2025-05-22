@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-22T09:11:03",
+  "timestamp": "2025-05-22T10:11:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,41 @@
   ],
   "articles": [
     {
+      "title": "Nun offiziell: RHEL 10 ist da – mit KI für Admins",
+      "teaser": "Die Images für RHEL 10 waren schon vor Ankündigung verfügbar – nun sind sie es offiziell. Neu an Bord sind unter anderem Post-Quanten-Krypto und KI für Admins.",
+      "url": "https://www.heise.de/news/Nun-offiziell-RHEL-10-ist-da-mit-KI-fuer-Admins-10392007.html",
+      "image_title": "Ein roter Herrenhut im Stil einer Comic-Grafik."
+    },
+    {
+      "title": "Modulare Infrastruktur: Dell startet Private Cloud für VMware, Nutanix & Co.",
+      "teaser": "Dell stellt auf seiner Hausmesse eine neue Private Cloud für verschiedene Betriebsumgebungen vor. Zum Release steht jedoch nur VMware zur Verfügung.",
+      "url": "https://www.heise.de/news/Ohne-Hardwarebindung-Dell-startet-Private-Cloud-fuer-VMware-Nutanix-und-Red-Hat-10392249.html",
+      "image_title": "Server in einer Wolke"
+    },
+    {
+      "title": "Gitex Europe: EU-Staaten werkeln an der quelloffenen \"Hyper-Cloud\" 8ra",
+      "teaser": "Aufbauend auf Gaia-X und dem EU-Programm für eine industrielle Cloud IPCEI-CIS wollen 12 EU-Länder mit 8ra ein Open-Source-Ökosystem für Datenräume schaffen.",
+      "url": "https://www.heise.de/news/Gitex-Europe-EU-Staaten-werkeln-an-der-quelloffenen-Hyper-Cloud-8ra-10392509.html",
+      "image_title": "Mehrere Personen auf einer Bühne, dahinter ihre Namen"
+    },
+    {
       "title": "Messenger Signal kritisiert Microsofts Recall",
-      "teaser": "In Windows soll eine Screenshot-Funktion einziehen, die Inhalte für die KI durchsuchbar macht. Signal möchte nicht, dass Microsoft dadurch mitliest.",
+      "teaser": "In Windows soll eine Screenshot-Funktion einziehen, die Inhalte für die KI durchsuchbar macht. Signal möchte das nicht.",
       "url": "https://www.heise.de/news/Messenger-Signal-kritisiert-Microsofts-Recall-10392448.html",
       "image_title": "Signal am Bildschirm"
+    },
+    {
+      "title": "RatgeberMit Distrobox mehrere Linux-Distributionen automatisiert starten",
+      "url": "https://www.heise.de/ratgeber/Mit-Distrobox-mehrere-Linux-Distributionen-automatisiert-starten-10371482.html"
+    },
+    {
+      "title": "TestsProjekt-Zauberer mit KI: Merlin Project 9 im Test",
+      "url": "https://www.heise.de/tests/Projekt-Zauberer-mit-KI-Merlin-Project-9-im-Test-10380471.html",
+      "image_title": "Merlin 9 auf verschiedenen Systemen"
+    },
+    {
+      "title": "TestsFramework im Test: Vom Desktop zur Web-App mit Wisej.NET",
+      "url": "https://www.heise.de/tests/Framework-im-Test-Vom-Desktop-zur-Web-App-mit-Wisej-NET-10376535.html"
     },
     {
       "title": "Patentanmeldungen: Asien bei Batterietechnik weit vorn",
@@ -46,19 +77,6 @@
       "title": "c't-Webinar: IT-Security für Nicht-Nerds",
       "teaser": "IT-Sicherheit muss nicht kompliziert sein: Lernen Sie im c’t-Webinar, wie Sie Ihre Geräte und Daten mit wenig Aufwand effektiv schützen.",
       "url": "https://www.heise.de/news/c-t-Webinar-IT-Security-fuer-Nicht-Nerds-10391013.html"
-    },
-    {
-      "title": "RatgeberMit Distrobox mehrere Linux-Distributionen automatisiert starten",
-      "url": "https://www.heise.de/ratgeber/Mit-Distrobox-mehrere-Linux-Distributionen-automatisiert-starten-10371482.html"
-    },
-    {
-      "title": "TestsProjekt-Zauberer mit KI: Merlin Project 9 im Test",
-      "url": "https://www.heise.de/tests/Projekt-Zauberer-mit-KI-Merlin-Project-9-im-Test-10380471.html",
-      "image_title": "Merlin 9 auf verschiedenen Systemen"
-    },
-    {
-      "title": "TestsFramework im Test: Vom Desktop zur Web-App mit Wisej.NET",
-      "url": "https://www.heise.de/tests/Framework-im-Test-Vom-Desktop-zur-Web-App-mit-Wisej-NET-10376535.html"
     },
     {
       "title": "Windows 11 erhält eine macOS-ähnliche \"Handoff\"-Funktion",
@@ -99,7 +117,7 @@
       "title": "Milliardendeal: Ex-Apple-Designchef Jony Ive und OpenAI tun sich zusammen",
       "teaser": "OpenAI kauft das KI-Hardware-Startup io des früheren Apple-Designers Jony Ive und schafft eine eigene Abteilung für die Entwicklung von KI-gesteuerten Geräten.",
       "url": "https://www.heise.de/news/Milliardendeal-Ex-Apple-Designchef-Jony-Ive-und-OpenAI-tun-sich-zusammen-10392145.html",
-      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
+      "image_title": "Jony Ive und Sam Altman"
     },
     {
       "title": "Gitex Europe: \"Wir brauchen eine cyberresiliente Bevölkerung\"",
@@ -129,24 +147,6 @@
       "teaser": "Neben neuen Servern stellte Dell auf seiner Hausmesse einen Wärmetauscher für KI-Hardware vor. Außerdem gab es Neuerungen für Objektspeicher und Netzwerke.",
       "url": "https://www.heise.de/news/Coole-KI-im-Rechenzentrum-Dell-praesentiert-Waermetauscher-fuer-KI-Hardware-10391078.html",
       "image_title": "Wärmetauscher von Dell an einem Server"
-    },
-    {
-      "title": "\"Godfather of AI\": Chatbots lernen nicht besonders effizient",
-      "teaser": "Nobelpreisträger Geoffrey Hinton gehört zu den Kritikern der KI-Technologie, die er mitgeschaffen hat. Auf der Gitex Europe verweist er auch auf die Chancen.",
-      "url": "https://www.heise.de/news/Geoffrey-Hinton-KI-ist-gut-fuer-Gesundheit-und-Bildung-10391727.html",
-      "image_title": "Geoffrey Hinton auf der Gitex Europe in Berlin"
-    },
-    {
-      "title": "iX-Workshop: Wireshark für Fortgeschrittene - Analyse realer Netzwerkprobleme",
-      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
-      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-fuer-Fortgeschrittene-Analyse-realer-Netzwerkprobleme-10382298.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Dell setzt auf KI: Neue PowerEdge-Server für Blackwell-GPUs und KI-Agenten",
-      "teaser": "Auf seiner Hausmesse kündigte Dell mehrere neue Server der PowerEdge-Reihe an. Damit will das Unternehmen dem wachsenden Bedarf im KI-Bereich gerecht werden.",
-      "url": "https://www.heise.de/news/Dell-setzt-auf-KI-Neue-PowerEdge-Server-fuer-Blackwell-GPUs-und-KI-Agenten-10391074.html",
-      "image_title": "Michael Dell auf einer Bühne, dahinter Server"
     },
     {
       "title": "NewsStrafgerichtshof: Microsofts E-Mail-Sperre als Weckruf für digitale Souveränität",
