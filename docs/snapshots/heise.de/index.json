@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-24T06:12:42",
+  "timestamp": "2025-05-24T07:08:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10394269.html"
+    },
     {
       "title": "Alte Ü20-Solaranlagen sinnvoll weiterbetreiben: Diese Möglichkeiten haben Sie",
       "url": "https://www.heise.de/ratgeber/Alte-Ue20-Solaranlagen-sinnvoll-weiterbetreiben-Diese-Moeglichkeiten-haben-Sie-10362928.html"
@@ -60,10 +64,6 @@
     {
       "title": "Mini-PC Bmax B9 Power im Test: Intel i9 und Thunderbolt 4 ab 459 Euro",
       "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-bmax-b9-power-im-test/x8gmw7v"
-    },
-    {
-      "title": "Intel Xeon 6 6776P: Diesen Prozessor setzt Nvidia im DGX B300 ein",
-      "url": "https://www.heise.de/news/Intel-stellt-den-Prozessor-fuer-Nvidias-DGX-B300-vor-10395118.html"
     },
     {
       "title": "Kritik an BroadcomEU-Cloudanbieter: VMwarelizenzen um 800 bis 1500 Prozent verteuert",
@@ -190,21 +190,27 @@
       "image_title": "Retro-PC mit offenem Seitenteil steht auf einem Tisch"
     },
     {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Kubernetes, Nikola, cURL-Umfrage, Prometheus, SSMS, Apache Arrow, Spring, Microsoft und KI.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10394269.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
       "title": "Alte Ü20-Solaranlagen sinnvoll weiterbetreiben: Diese Möglichkeiten haben Sie",
       "teaser": "Alt, aber nicht schrottreif: Anlagen, die die 20-Jahre-Marke erreicht haben, fallen aus der Einspeisevergütung. Doch es tun sich neue Chancen auf.",
       "url": "https://www.heise.de/ratgeber/Alte-Ue20-Solaranlagen-sinnvoll-weiterbetreiben-Diese-Moeglichkeiten-haben-Sie-10362928.html",
       "image_title": "Old,House,With,Solar,Panels,Roof,Red,Tiles.,Old,Roof"
     },
     {
+      "title": "Windows Server 2025 für die moderne IT",
+      "teaser": "Neue Maßstäbe bei der Sicherheit, eine nahtlose Integration von Hybridfunktionen und die Unterstützung der neuesten Hardware: Mit Windows Server 2025 lässt sich die IT effizient modernisieren.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6994109743&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Der Kreislauf des Lebens: Die Bilder der Woche 20",
       "teaser": "Unsere Galeriefotografen entdeckten in der vergangenen Woche die Natur in all ihren Facetten – von winzigen Spinnen bis zu ziehenden Kranichen.",
       "url": "https://www.heise.de/news/Mystisches-Moor-und-verbluehende-Schoenheit-Die-Bilder-der-Woche-20-10393050.html",
       "image_title": "Biene auf Blüte"
-    },
-    {
-      "title": "Mehr Übersicht im Netzwerk",
-      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Günstig auf Windows 11 umsteigen mit gebrauchten Mini-PCs | c’t uplink",
@@ -231,11 +237,6 @@
       "title": "Computex-Recherche: Wo es bei AMD, Nvidia und Intel hakt",
       "teaser": "Gerüchteköche hatten zur Computex verschiedene Notebookchips erwartet, doch passiert ist nicht viel. Gegen Jahresende dürfte es aber umso heißer hergehen.",
       "url": "https://www.heise.de/hintergrund/Das-grosse-Warten-Was-bis-Jahresende-und-darueber-hinaus-an-Notebook-CPUs-kommt-10395212.html"
-    },
-    {
-      "title": "Mini-PC Bmax B9 Power im Test: Intel i9 und Thunderbolt 4 ab 459 Euro",
-      "teaser": "Der Bmax B9 Power hat einen Intel Core i9-12900HK, 32 GB RAM und 1 TB SSD-Speicher. Zudem kann der Mini-PC über USB-C mit Thunderbolt 4 verbunden werden.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-bmax-b9-power-im-test/x8gmw7v?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -303,6 +304,11 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Mini-PC Bmax B9 Power im Test: Intel i9 und Thunderbolt 4 ab 459 Euro",
+      "teaser": "Der Bmax B9 Power hat einen Intel Core i9-12900HK, 32 GB RAM und 1 TB SSD-Speicher. Zudem kann der Mini-PC über USB-C mit Thunderbolt 4 verbunden werden.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-bmax-b9-power-im-test/x8gmw7v?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Intel Xeon 6 6776P: Diesen Prozessor setzt Nvidia im DGX B300 ein",
@@ -373,15 +379,15 @@
       "image_title": "Kamera-Auto für Apple Maps, gesehen im Juni 2020 in Köln."
     },
     {
+      "title": "KI-Fabrik: künstliche Intelligenz im industriellen Maßstab bereitstellen",
+      "teaser": "In der KI-Fabrik werden Entwicklung, Einsatz und Verwaltung von KI-Modellen und -Anwendungen standardisiert und automatisiert. Das bringt Vorteile, aber auch Herausforderungen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-fabrik-kuenstliche-intelligenz-im-industriellen-massstab-bereitstellen-4920/?source=hbsadersatz"
+    },
+    {
       "title": "SteamOS gibt es jetzt auch für andere Handhelds",
       "teaser": "Valve hat ein Recovery Image von SteamOS veröffentlicht, mit dem man das Handheld-Betriebssystem auch auf Geräte anderer Hersteller spielen kann.",
       "url": "https://www.heise.de/news/SteamOS-gibt-es-jetzt-auch-fuer-andere-Handhelds-10394542.html",
       "image_title": "Handheld Legion G S steht auf Tisch"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Curve Pay statt Apple Pay: Weiteres Wallet macht Apple Konkurrenz",
@@ -433,11 +439,6 @@
       "teaser": "Im April hat Bluesky damit begonnen, \"proaktiv\" blaue Haken zu vergeben, einige US-Medien durften auch. Nun können alle das Symbol für ihr Konto beantragen.",
       "url": "https://www.heise.de/news/Bluesky-Wer-will-kann-jetzt-einen-blauen-Haken-beantragen-10394219.html",
       "image_title": "Bluesky auf einem Smartphone"
-    },
-    {
-      "title": "KI soll Krankheiten an der Stimme erkennen",
-      "teaser": "Der Klang der Stimme weist auf Krankheiten hin, was sich bisher aber nur im Labor zeigt. Eine KI soll beim Telemonitoring Herzkranker Stimmanalyse betreiben.",
-      "url": "https://www.heise.de/hintergrund/KI-soll-Krankheiten-an-der-Stimme-erkennen-10308767.html"
     },
     {
       "title": "Fast 400.000 PCs infiziert: Microsoft und Europol zerschlagen Lumma-Malware",
@@ -607,11 +608,6 @@
       "url": "https://www.heise.de/en/news/Pascal-Technologies-Airhull-lets-electric-boats-glide-on-a-layer-of-air-10392755.html"
     },
     {
-      "title": "Browser-Alternative Vivaldi bietet Chrome-Kompatibilität mit mehr Privatsphäre",
-      "teaser": "Vivaldi kombiniert Chrome-Kompatibilität mit extremer Anpassbarkeit und Datenschutz. c't 3003 hat sich den Underdog-Browser genauer angeschaut.",
-      "url": "https://www.heise.de/news/Browser-Alternative-Vivaldi-bietet-Chrome-Kompatibilitaet-mit-mehr-Privatsphaere-10392760.html"
-    },
-    {
       "title": "Günstig auf Windows 11 umsteigen mit gebrauchten Mini-PCs | c’t uplink",
       "teaser": "Wie gut sich generalüberholte Mini-PCs aus Unternehmen für den Umstieg auf Windows 11 eignen, darüber sprechen wir diese Woche im Podcast c’t uplink.",
       "url": "https://www.heise.de/news/Guenstig-auf-Windows-11-umsteigen-mit-gebrauchten-Mini-PCs-c-t-uplink-10393757.html"
@@ -621,6 +617,11 @@
       "teaser": "Gebrauchtkauf spart Geld und schont die Umwelt. Doch wie schlagen sich aufbereitete Business-Minis gegen einen Billig-PC mit aktueller Technik?",
       "url": "https://www.heise.de/tests/Gebrauchte-Mini-PCs-mit-Windows-11-im-Vergleich-10391126.html",
       "image_title": ","
+    },
+    {
+      "title": "Das faule PferdKommentar zum neuen Schufa-Score",
+      "teaser": "Die Schufa macht ihr Scoring transparenter und nachvollziehbarer. Der Dank gilt aber anderen, meint Markus Montz.",
+      "url": "https://www.heise.de/meinung/Kommentar-zum-neuen-Schufa-Score-Das-faule-Pferd-10385138.html"
     },
     {
       "title": "15 Tipps für iOS und macOSDas neue Apple Mail richtig nutzen",
@@ -641,6 +642,12 @@
       "image_title": "Gut abgesichert: Ein Mac als Burg"
     },
     {
+      "title": "Git für Maker erklärt, Teil 3: Wie man Projekte einrichtet",
+      "teaser": "Ein cooles Projekt braucht eine Präsentation und Dokumentation. GitHub bietet einfache Funktionen, um eine Website mit wenigen Klicks auf die Beine zu stellen.",
+      "url": "https://www.heise.de/ratgeber/Git-fuer-Maker-erklaert-Teil-3-Wie-man-Projekte-einrichtet-10374771.html",
+      "image_title": ","
+    },
+    {
       "title": "Latent Reflection (2025): Die Gedanken einer KI als Kunstprojekt",
       "teaser": "Der Künstler Rootkid isoliert in einem Experiment ein LLM auf minimaler Hardware und lässt es seine Gedanken auf einem Display anzeigen.",
       "url": "https://www.heise.de/news/Latent-Reflection-2025-Die-Gedanken-einer-KI-als-Kunstprojekt-10393234.html",
@@ -650,11 +657,6 @@
       "title": "Firmware-Experiment auf dem Raspberry Pi 5 zeigt neuen Weg für Updates",
       "teaser": "Sichere Over-the-Air-Updates auf dem Raspberry Pi 5 – ganz ohne U-Boot! Bootlin experimentiert mit RAUC und RPi-Firmware für robustes A/B-Update-Handling.",
       "url": "https://www.heise.de/news/Experimentelle-A-B-Update-Loesung-fuer-Raspberry-Pi-5-10391535.html"
-    },
-    {
-      "title": "Tropfen im FokusAuf den Spuren des Kaffeering-Phänomens",
-      "teaser": "Ein Team der TU Darmstadt hat die Verdunstung von Tropfen aus Flüssigkeiten erforscht. Die Erkenntnisse nutzen dem 3D-Druck.",
-      "url": "https://www.heise.de/news/Raetsel-des-Kaffeering-Effekts-kann-Druckprozesse-verbessern-10388326.html"
     },
     {
       "title": "GR IV angekündigt: Ricoh präsentiert Nachfolger der bekannten Kompaktkamera",
@@ -751,22 +753,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Hitzewelle im Anmarsch: Juni startet wohl mit Temperatur-Rekorden",
-      "teaser": "Bringt der Juni die erste Hitzewelle des Jahres? Europäische Wettermodelle schlagen Alarm. Experten erklären, was dahinter steckt - und wie verlässlich die Prognosen sind.",
-      "url": "https://www.heise.de/tp/features/Hitzewelle-im-Anmarsch-Juni-startet-wohl-mit-Temperatur-Rekorden-10392792.html",
-      "image_title": "Junge Frau leidet unter Hitze, die zu Hause auf dem Boden vor einem Ventilator sitzt"
+      "title": "Putin will Pufferzone in Ukraine – Kiew lehnt entschieden ab",
+      "teaser": "Putin kündigt eine Sicherheitszone an der Grenze zur Ukraine an. Die Reaktion aus Kiew folgt prompt: Putins \"aggressive Forderungen\" seien eine Absage an den Frieden.",
+      "url": "https://www.heise.de/tp/features/Putin-will-Pufferzone-in-Ukraine-Kiew-lehnt-entschieden-ab-10393993.html",
+      "image_title": "Der russische Präsident Wladimir Putin spricht auf seiner jährlichen Pressekonferenz."
     },
     {
-      "title": "Muss Europa bald für gesamte ukrainische Armee zahlen?",
-      "teaser": "Die Ukraine fordert von der EU ab 2026 die direkte Finanzierung ihrer Streitkräfte. Der Plan könnte die europäischen Partner in eine Schuldenkrise führen.",
-      "url": "https://www.heise.de/tp/features/Muss-Europa-bald-fuer-gesamte-ukrainische-Armee-zahlen-10394507.html",
-      "image_title": "Ukrainische Soldatin mit Flagge vor einem zerstörten Haus."
+      "title": "Messerattacken 2024: Die wahren Zahlen hinter der Bahnhof-Kriminalität",
+      "teaser": "Messerattacken an Bahnhöfen nehmen zu. 373 Fälle im ersten Halbjahr 2024 alarmieren Behörden. Doch wie gefährlich sind die Orte wirklich?",
+      "url": "https://www.heise.de/tp/features/Messerattacken-2024-Die-wahren-Zahlen-hinter-der-Bahnhof-Kriminalitaet-10395538.html",
+      "image_title": "Polizisten in Schutzweste am Hauptbahnhof München"
     },
     {
-      "title": "Illusion der Abwehr: Kuppeln aus Eisen, Gold und falscher Hoffnung",
-      "teaser": "Die Pläne für eine flächendeckende Raketenabwehr sind ambitioniert – und problematisch. Werden Milliarden versenkt? Darauf deutet vieles hin.",
-      "url": "https://www.heise.de/tp/features/Illusion-der-Abwehr-Kuppeln-aus-Eisen-Gold-und-falscher-Hoffnung-10395507.html",
-      "image_title": "Rakete des Luftabwehrsystems ARROW 3 beim Start"
+      "title": "Neue EU-Regeln: Das Ende der Wegwerf-Smartphones",
+      "teaser": "Neue EU-Regeln für Smartphones und Tablets ab 2025. Geräte müssen reparierbar sein und ein neues Label tragen. Was bedeutet das für Verbraucher?",
+      "url": "https://www.heise.de/tp/features/Neue-EU-Regeln-Das-Ende-der-Wegwerf-Smartphones-10394088.html",
+      "image_title": "Geöffnetes Smartphone auf einem Tisch, daneben liegt ein Schraubenzieher. Zu sehen ist auch die Hand eines Reparateurs."
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
