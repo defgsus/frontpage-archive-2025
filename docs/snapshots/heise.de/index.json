@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-24T10:09:05",
+  "timestamp": "2025-05-24T11:07:18",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Hands-on Migration von VMware zu Proxmox",
+      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-Migration-von-VMware-zu-Proxmox-10386880.html"
+    },
     {
       "title": "EU-Reform könnte Fluggastrechte deutlich schwächen",
       "url": "https://www.heise.de/news/EU-Reform-koennte-Fluggastrechte-deutlich-schwaechen-10395604.html"
@@ -60,10 +64,6 @@
     {
       "title": "Günstig auf Windows 11 umsteigen mit gebrauchten Mini-PCs | c’t uplink",
       "url": "https://www.heise.de/news/Guenstig-auf-Windows-11-umsteigen-mit-gebrauchten-Mini-PCs-c-t-uplink-10393757.html"
-    },
-    {
-      "title": "Top 10: Die beste Smartwatch im Test – Apple und Samsung bleiben Testsieger",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-im-test/gee7t5m#id-0-top-10-die-beste-smartwatch-im-test-apple-und-samsung-bleiben-testsieger"
     },
     {
       "title": "Android 16\"Live Updates\" kommt auf Handys von Samsung, Xiaomi & Co.",
@@ -171,18 +171,24 @@
     },
     {
       "title": "c't 3003Browser-Alternative Vivaldi bietet Chrome-Kompatibilität mit mehr Privatsphäre",
-      "teaser": "Vivaldi kombiniert Chrome-Kompatibilität mit extremer Anpassbarkeit und Datenschutz. c't 3003 hat sich den Underdog-Browser genauer angeschaut.",
+      "teaser": "c't 3003 hat sich genauer angeschaut, was der Underdog-Browser Vivaldi zu bieten hat.",
       "url": "https://www.heise.de/news/Browser-Alternative-Vivaldi-bietet-Chrome-Kompatibilitaet-mit-mehr-Privatsphaere-10392760.html"
     },
     {
       "title": "#TGIQFDas Quiz rund um die SI-Einheiten",
-      "teaser": "Die SI-Basiseinheiten wie Kilogramm oder Meter machen unser Leben messbar. Zum 150. Jubiläum der Meterkonvention prüfen wir dazu Ihr Nerdwissen in unserem Quiz.",
+      "teaser": "Die SI-Basiseinheiten wie Kilogramm oder Meter machen unser Leben messbar – das Quiz zum 150. Jubiläum der Meterkonvention.",
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-die-SI-Einheiten-10394627.html"
     },
     {
       "title": "c’t uplinkGünstig auf Windows 11 umsteigen mit gebrauchten Mini-PCs",
-      "teaser": "Wie gut sich generalüberholte Mini-PCs aus Unternehmen für den Umstieg auf Windows 11 eignen, darüber sprechen wir diese Woche im Podcast c’t uplink.",
+      "teaser": "Wie gut sich generalüberholte Mini-PCs aus Unternehmen für den Windows 11-Umstieg eignen, besprechen wir diese Woche bei c’t uplink.",
       "url": "https://www.heise.de/news/Guenstig-auf-Windows-11-umsteigen-mit-gebrauchten-Mini-PCs-c-t-uplink-10393757.html"
+    },
+    {
+      "title": "iX-Workshop: Hands-on Migration von VMware zu Proxmox",
+      "teaser": "Praktische Schritte, Fallstricke vermeiden: Lernen Sie, wie Sie Ihre VMware-Infrastruktur effizient und sicher auf Proxmox VE umstellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-Migration-von-VMware-zu-Proxmox-10386880.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
     },
     {
       "title": "EU-Reform könnte Fluggastrechte deutlich schwächen",
@@ -191,15 +197,15 @@
       "image_title": "Eine Anzeigetafel am Flughafen zeigt annulierte Flüge an."
     },
     {
+      "title": "Mehr Übersicht im Netzwerk",
+      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Gerichtsurteile für alle zugänglich machen: KI soll helfen",
       "teaser": "Derzeit werden in Deutschland nur wenige Urteile veröffentlicht. Nun sollen Gerichtsentscheidungen leichter zugänglich werden.",
       "url": "https://www.heise.de/news/Gerichtsurteile-fuer-alle-zugaenglich-machen-KI-soll-helfen-10395574.html",
       "image_title": "Eine Waage, auf der die Buchstaben AI und die Zeichnung eines menschlichen Gehirns liegen."
-    },
-    {
-      "title": "Windows Server 2025 für die moderne IT",
-      "teaser": "Neue Maßstäbe bei der Sicherheit, eine nahtlose Integration von Hybridfunktionen und die Unterstützung der neuesten Hardware: Mit Windows Server 2025 lässt sich die IT effizient modernisieren.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6994109743&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Geistesblitz-Kanalisator: Ideen- und Mediensammler Funnel für iOS im Test",
@@ -230,11 +236,6 @@
       "teaser": "Unsere Galeriefotografen entdeckten in der vergangenen Woche die Natur in all ihren Facetten – von winzigen Spinnen bis zu ziehenden Kranichen.",
       "url": "https://www.heise.de/news/Mystisches-Moor-und-verbluehende-Schoenheit-Die-Bilder-der-Woche-20-10393050.html",
       "image_title": "Biene auf Blüte"
-    },
-    {
-      "title": "Top 10: Die beste Smartwatch im Test – Apple und Samsung bleiben Testsieger",
-      "teaser": "Apple, Samsung, Google, Amazfit oder doch lieber Huawei? Wearables sind eine perfekte Ergänzung zum Smartphone. Wir zeigen die zehn besten Smartwatches.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-im-test/gee7t5m?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-0-top-10-die-beste-smartwatch-im-test-apple-und-samsung-bleiben-testsieger"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -302,6 +303,11 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Top 10: Die beste Smartwatch im Test – Apple und Samsung bleiben Testsieger",
+      "teaser": "Apple, Samsung, Google, Amazfit oder doch lieber Huawei? Wearables sind eine perfekte Ergänzung zum Smartphone. Wir zeigen die zehn besten Smartwatches.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-im-test/gee7t5m?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-0-top-10-die-beste-smartwatch-im-test-apple-und-samsung-bleiben-testsieger"
     },
     {
       "title": "Die EU stellt ihre KI-Verordnung für generative KI scharf: Das ist der Stand",
@@ -372,15 +378,15 @@
       "url": "https://www.heise.de/ratgeber/Mit-Distrobox-mehrere-Linux-Distributionen-automatisiert-starten-10371482.html"
     },
     {
+      "title": "Erfolgreicher handeln – mit KI und Cloud Computing",
+      "teaser": "Um im Wettbewerb erfolgreich zu sein, müssen Handelsunternehmen Trends erkennen, Produktionskapazitäten vorausschauend planen und Kundenwünsche schnell umsetzen. Wie das mit der richtigen Kombination aus künstlicher Intelligenz und Cloud Computing gelingt.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/erfolgreicher-handeln-mit-ki-und-cloud-computing-4917/?source=hbsadersatz"
+    },
+    {
       "title": "Volkshochschulen auf KI-Kurs, Rahmenvertrag mit Fobizz weiterer Baustein",
       "teaser": "Eine neue Rahmenvereinbarung zwischen dem Dachverband der deutschen Volkshochschulen und Fobizz soll KI-Tools und -Kompetenzen in Verwaltung und Lehre bringen.",
       "url": "https://www.heise.de/news/Volkshochschulen-auf-KI-Kurs-Rahmenvertrag-mit-Fobizz-weiterer-Baustein-10394291.html",
       "image_title": "E-learning,Education,Concept.,Person,Use,Laptop,With,Virtual,Screen,Of"
-    },
-    {
-      "title": "Kernzahl, Taktfrequenz, Cache: Was bei der Auswahl der Server-CPU zählt",
-      "teaser": "Bei der Diskussion um Server-CPUs steht häufig die Anzahl der Rechenkerne im Vordergrund. Das ist jedoch nur ein Aspekt, der bei der Auswahl zu berücksichtigen ist.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/kernzahl-taktfrequenz-cache-was-bei-der-auswahl-einer-server-cpu-zaehlt-4928/?source=hbsadersatz"
     },
     {
       "title": "Einmal der KI winken: Apple-Kamerawagen wieder in Deutschland unterwegs",
@@ -435,12 +441,6 @@
       "image_title": "Claude-4-Grafik"
     },
     {
-      "title": "Googles Gemini soll künftig Anrufe erledigen und proaktiver werden",
-      "teaser": "Im Project Astra experimentiert Google an neuen Gemini-Funktionen. Der Assistent soll künftig gar beim Fahrradhändler nach Ersatzteilen fragen können.",
-      "url": "https://www.heise.de/news/Fuer-Smartphones-und-Brillen-Google-Gemini-soll-universeller-KI-Assistent-werden-10394167.html",
-      "image_title": "Project Astra – Gemini Anruf-Agent"
-    },
-    {
       "title": "Fast 400.000 PCs infiziert: Microsoft und Europol zerschlagen Lumma-Malware",
       "url": "https://www.heise.de/news/Fast-400-000-PCs-infiziert-Microsoft-und-Europol-zerschlagen-Lumma-Malware-10393145.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
@@ -481,9 +481,9 @@
       "image_title": "Desktopmodus Android 16"
     },
     {
-      "title": "Für 750 Euro Schadensersatz: Nutzer können Verbandsklage gegen X beitreten",
-      "url": "https://www.heise.de/news/Datenschutzverstoesse-Nutzer-koennen-Verbandsklage-gegen-X-kostenfrei-beitreten-10393626.html",
-      "image_title": "Altes und neues Logo von Twitter (jetzt X)"
+      "title": "Googles Gemini soll künftig Anrufe erledigen und proaktiver werden",
+      "url": "https://www.heise.de/news/Fuer-Smartphones-und-Brillen-Google-Gemini-soll-universeller-KI-Assistent-werden-10394167.html",
+      "image_title": "Project Astra – Gemini Anruf-Agent"
     },
     {
       "title": "\"Elden Ring\" wird verfilmt",
@@ -526,8 +526,9 @@
       "image_title": "DSGVO-Schriftzug auf EU-Flagge"
     },
     {
-      "title": "Verwaltungsgericht: Cookie-Banner muss \"Alles ablehnen\"-Button enthalten",
-      "url": "https://www.heise.de/news/Verwaltungsgericht-Cookie-Banner-muss-Alles-ablehnen-Button-enthalten-10390388.html"
+      "title": "Für 750 Euro Schadensersatz: Nutzer können Verbandsklage gegen X beitreten",
+      "url": "https://www.heise.de/news/Datenschutzverstoesse-Nutzer-koennen-Verbandsklage-gegen-X-kostenfrei-beitreten-10393626.html",
+      "image_title": "Altes und neues Logo von Twitter (jetzt X)"
     },
     {
       "title": "Freitag: OpenAI-Hinweise zum neuen KI-Gerät, Starship mit größerer Gefahrenzone",
@@ -608,6 +609,12 @@
       "url": "https://www.heise.de/en/news/Pascal-Technologies-Airhull-lets-electric-boats-glide-on-a-layer-of-air-10392755.html"
     },
     {
+      "title": "Gebrauchte Mini-PCs mit Windows 11 im Vergleich",
+      "teaser": "Gebrauchtkauf spart Geld und schont die Umwelt. Doch wie schlagen sich aufbereitete Business-Minis gegen einen Billig-PC mit aktueller Technik?",
+      "url": "https://www.heise.de/tests/Gebrauchte-Mini-PCs-mit-Windows-11-im-Vergleich-10391126.html",
+      "image_title": ","
+    },
+    {
       "title": "Hohe LeistungAMD-Mobilprozessor mit Grafik-Power: Notebooks mit Ryzen AI Max im Test",
       "teaser": "AMD will mit Ryzen AI Max sogar Apples M4 Pro überflügeln und eine wesentlich höhere 3D-Leistung bieten. Ein Test der ersten Notebooks.",
       "url": "https://www.heise.de/tests/Zwei-neue-Notebooks-mit-starkem-AMD-Kombiprozessor-fuer-KI-und-Gaming-im-Test-10389490.html",
@@ -617,12 +624,6 @@
       "title": "Das faule PferdKommentar zum neuen Schufa-Score",
       "teaser": "Die Schufa macht ihr Scoring transparenter und nachvollziehbarer. Der Dank gilt aber anderen, meint Markus Montz.",
       "url": "https://www.heise.de/meinung/Kommentar-zum-neuen-Schufa-Score-Das-faule-Pferd-10385138.html"
-    },
-    {
-      "title": "Gebrauchte Mini-PCs mit Windows 11 im Vergleich",
-      "teaser": "Gebrauchtkauf spart Geld und schont die Umwelt. Doch wie schlagen sich aufbereitete Business-Minis gegen einen Billig-PC mit aktueller Technik?",
-      "url": "https://www.heise.de/tests/Gebrauchte-Mini-PCs-mit-Windows-11-im-Vergleich-10391126.html",
-      "image_title": ","
     },
     {
       "title": "15 Tipps für iOS und macOSDas neue Apple Mail richtig nutzen",
@@ -754,22 +755,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Hitzewelle im Anmarsch: Juni startet wohl mit Temperatur-Rekorden",
-      "teaser": "Bringt der Juni die erste Hitzewelle des Jahres? Europäische Wettermodelle schlagen Alarm. Experten erklären, was dahinter steckt - und wie verlässlich die Prognosen sind.",
-      "url": "https://www.heise.de/tp/features/Hitzewelle-im-Anmarsch-Juni-startet-wohl-mit-Temperatur-Rekorden-10392792.html",
-      "image_title": "Junge Frau leidet unter Hitze, die zu Hause auf dem Boden vor einem Ventilator sitzt"
+      "title": "Messerattacken 2024: Die wahren Zahlen hinter der Bahnhof-Kriminalität",
+      "teaser": "Messerattacken an Bahnhöfen nehmen zu. 373 Fälle im ersten Halbjahr 2024 alarmieren Behörden. Doch wie gefährlich sind die Orte wirklich?",
+      "url": "https://www.heise.de/tp/features/Messerattacken-2024-Die-wahren-Zahlen-hinter-der-Bahnhof-Kriminalitaet-10395538.html",
+      "image_title": "Polizisten in Schutzweste am Hauptbahnhof München"
     },
     {
-      "title": "Warum die US-Armee vermutlich noch sehr lange im Irak bleiben wird",
-      "teaser": "Die US-Truppen im Irak sollen 2025 offiziell abziehen. Doch der Rückzug ist an Bedingungen geknüpft. Für viele Experten ist klar, dass die Amerikaner noch länger bleiben werden. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Warum-die-US-Armee-vermutlich-noch-sehr-lange-im-Irak-bleiben-wird-10392718.html",
-      "image_title": "Drei Soldaten auf einem Hügel"
+      "title": "Trumps Zollkeule gegen die EU: Jetzt werden die Handelsgespräche richtig hart",
+      "teaser": "US-Präsident Donald Trump droht der EU mit neuen Zöllen ab Juni. Die Verhandlungen zwischen Washington und Brüssel scheinen festgefahren.",
+      "url": "https://www.heise.de/tp/features/Trumps-Zollkeule-gegen-die-EU-Jetzt-werden-die-Handelsgespraeche-richtig-hart-10395041.html",
+      "image_title": "Flaggen der USA und der EU an einer Betonwand. Handels-, Zoll- und Zollkrieg zwischen den USA und der Europäischen Union."
     },
     {
-      "title": "Von Schafen und CEOs: Wie der gute Hirte zur guten Führungskraft wurde",
-      "teaser": "Neue Chef-Rolle und Teambuilding: Ein kulturkritischer Streifzug über Weiden, Weltmärkte und Wohlfühlbüros. Übrigens: Schafe sind nachtragend. (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Von-Schafen-und-CEOs-Wie-der-gute-Hirte-zur-guten-Fuehrungskraft-wurde-10395485.html",
-      "image_title": "Mann in moderner Street-Kapuzenjacke und Hirtenstab vor einer Herde Schafe"
+      "title": "Putin will Pufferzone in Ukraine – Kiew lehnt entschieden ab",
+      "teaser": "Putin kündigt eine Sicherheitszone an der Grenze zur Ukraine an. Die Reaktion aus Kiew folgt prompt: Putins \"aggressive Forderungen\" seien eine Absage an den Frieden.",
+      "url": "https://www.heise.de/tp/features/Putin-will-Pufferzone-in-Ukraine-Kiew-lehnt-entschieden-ab-10393993.html",
+      "image_title": "Der russische Präsident Wladimir Putin spricht auf seiner jährlichen Pressekonferenz."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
