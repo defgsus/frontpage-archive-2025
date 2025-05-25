@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-25T12:16:33",
+  "timestamp": "2025-05-25T13:18:21",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Neues PC-Netzteil soll Ströme auf 12V-2x6-Anschluss überwachen",
+      "url": "https://www.heise.de/news/Neues-PC-Netzteil-soll-Stroeme-auf-12V-2x6-Anschluss-ueberwachen-10395883.html"
+    },
     {
       "title": "Für die Autoindustrie entwickeln: Arbeitsbedingungen, Gehälter und Chancen",
       "url": "https://www.heise.de/ratgeber/Fuer-die-Autoindustrie-entwickeln-Arbeitsbedingungen-Gehaelter-und-Chancen-10369713.html"
@@ -60,10 +64,6 @@
     {
       "title": "Home Assistant: Moderne Dashboards für das Smartphone erstellen",
       "url": "https://www.heise.de/ratgeber/Home-Assistant-Moderne-Dashboards-fuer-das-Smartphone-erstellen-10362940.html"
-    },
-    {
-      "title": "Testsieger: Die beste Mini-Überwachungskamera im Test – Babyphone inklusive",
-      "url": "https://www.heise.de/bestenlisten/testsieger/testsieger-die-beste-mini-ueberwachungskamera-im-test-babyphone-inklusive/8pbvytt"
     },
     {
       "title": "Missing LinkWo steht Europas Raumfahrt 50 Jahre nach Gründung der ESA?",
@@ -188,20 +188,25 @@
       "url": "https://www.heise.de/news/Guenstig-auf-Windows-11-umsteigen-mit-gebrauchten-Mini-PCs-c-t-uplink-10393757.html"
     },
     {
+      "title": "Neues PC-Netzteil soll Ströme auf 12V-2x6-Anschluss überwachen",
+      "teaser": "Ein auf der Computex gezeigter Prototyp von Seasonic soll Überhitzung verhindern. Wie davor gewarnt wird, steht aber noch nicht fest.",
+      "url": "https://www.heise.de/news/Neues-PC-Netzteil-soll-Stroeme-auf-12V-2x6-Anschluss-ueberwachen-10395883.html"
+    },
+    {
       "title": "Für die Autoindustrie entwickeln: Arbeitsbedingungen, Gehälter und Chancen",
       "teaser": "Software spielt in Autos eine immer größere Rolle. Dementsprechend braucht es Entwickler. Wir erklären, was den Job besonders macht – und die Gehälter.",
       "url": "https://www.heise.de/ratgeber/Fuer-die-Autoindustrie-entwickeln-Arbeitsbedingungen-Gehaelter-und-Chancen-10369713.html"
+    },
+    {
+      "title": "Mehr Übersicht im Netzwerk",
+      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Onlyfans soll für 8 Milliarden US-Dollar verkauft werden",
       "teaser": "Die soziale Plattform für vorwiegend erotische Inhalte könnte verkauft werden – das Geschäftsmodell ist nicht unumstritten.",
       "url": "https://www.heise.de/news/Gespraeche-ueber-Onlyfans-Verkauf-fuer-8-Milliarden-US-Dollar-10395831.html",
       "image_title": "Großaufnahme der Brille eines Mannes, darin die Spiegelung einer Frau im Bikini"
-    },
-    {
-      "title": "Mehr Übersicht im Netzwerk",
-      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "c’t-Sonderheft Photovoltaik: Balkonakkus, dynamische Stromtarife, Förderungen",
@@ -230,11 +235,6 @@
       "title": "Home Assistant: Moderne Dashboards für das Smartphone erstellen",
       "teaser": "Dashboards fürs Smart Home sehen auf dem Handy oft anders aus als auf dem Desktop. Wir zeigen, wie ein Mobile-Dashboard in Home Assistant gelingt.",
       "url": "https://www.heise.de/ratgeber/Home-Assistant-Moderne-Dashboards-fuer-das-Smartphone-erstellen-10362940.html"
-    },
-    {
-      "title": "Testsieger: Die beste Mini-Überwachungskamera im Test – Babyphone inklusive",
-      "teaser": "Mini-Überwachungskameras sind nützlich, wenn es um die Beobachtung von Objekten bei Platzmangel geht. Modelle mit Akku und WLAN sind dabei besonders flexibel.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/testsieger-die-beste-mini-ueberwachungskamera-im-test-babyphone-inklusive/8pbvytt?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -301,6 +301,11 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Testsieger: Die beste Mini-Überwachungskamera im Test – Babyphone inklusive",
+      "teaser": "Mini-Überwachungskameras sind nützlich, wenn es um die Beobachtung von Objekten bei Platzmangel geht. Modelle mit Akku und WLAN sind dabei besonders flexibel.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/testsieger-die-beste-mini-ueberwachungskamera-im-test-babyphone-inklusive/8pbvytt?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "EU-Kommission treibt neue EU-weite Vorratsdatenspeicherung voran",
@@ -372,15 +377,15 @@
       "image_title": "Old,House,With,Solar,Panels,Roof,Red,Tiles.,Old,Roof"
     },
     {
+      "title": "Video: Bauen im australischen Outback – Herausforderungen für die IT-Infrastruktur",
+      "teaser": "Wie Acciona Zuverlässigkeit, Sicherheit und Energieeffizienz seiner IT-Umgebungen steigern konnte",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/video-bauen-im-australischen-outback-herausforderungen-fuer-die-it-infrastruktur-4914/?source=hbsadersatz"
+    },
+    {
       "title": "Der Kreislauf des Lebens: Die Bilder der Woche 20",
       "teaser": "Unsere Galeriefotografen entdeckten in der vergangenen Woche die Natur in all ihren Facetten – von winzigen Spinnen bis zu ziehenden Kranichen.",
       "url": "https://www.heise.de/news/Mystisches-Moor-und-verbluehende-Schoenheit-Die-Bilder-der-Woche-20-10393050.html",
       "image_title": "Biene auf Blüte"
-    },
-    {
-      "title": "Wie Sie mit modernen Clients die IT entlasten und für mehr Sicherheit sorgen",
-      "teaser": "Hybride Arbeitsmodelle stellen IT- und Sicherheitsverantwortliche vor Herausforderungen. Sie müssen nicht nur den Schutz der verteilten Endgeräte gewährleisten, sondern diese auch verwalten und im Fehlerfall Support bieten. Wie hardwarebasierte Sicherheits- & Managementfunktionen diese Aufgabe erleichtern.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/hardwarebasierte-sicherheit-und-effizientes-management-fuer-ihre-endgeraete-4924/?source=hbsadersat"
     },
     {
       "title": "Top 10: Die beste Smartwatch im Test – Apple und Samsung bleiben Testsieger",
@@ -432,11 +437,6 @@
       "teaser": "Eine Projektleiterin erzählt im Podcast, wie eine Berufsschule in Oldenburg VR und KI zum Sprachtraining einsetzt.",
       "url": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-in-der-Schnackbar-der-BBS-Wechloy-10389972.html",
       "image_title": "KI-Update-Logo"
-    },
-    {
-      "title": "SpiderFoot im Praxistest: Öffentliche Daten sammeln per OSINT-Tool",
-      "teaser": "SpiderFoot nutzt öffentlich verfügbare Daten, um Mailadressen und Benutzernamen zu verknüpfen und sogar Klarnamen zu entdecken. Wir haben das Tool ausprobiert.",
-      "url": "https://www.heise.de/tests/OSINT-Tool-SpiderFoot-sammelt-oeffentliche-Daten-im-Netz-10378044.html"
     },
     {
       "title": "Warum der Widerspruch bei Meta nur bedingt hilfreich ist",
@@ -618,9 +618,9 @@
       "url": "https://www.heise.de/hintergrund/Charme-Offensive-OpenAI-Buero-in-Muenchen-eroeffnet-10395425.html"
     },
     {
-      "title": "Kein SMB-Zugriff mehr auf Fritzbox-NAS",
-      "teaser": "Nach dem Tausch meiner Fritzbox klappt der SMB-Zugriff aufs NAS (USB-Festplatte) trotz aktiver Freigabe nicht mehr. Was läuft schief?",
-      "url": "https://www.heise.de/ratgeber/Kein-SMB-Zugriff-mehr-auf-Fritzbox-NAS-10388399.html"
+      "title": "c’t uplinkGünstig auf Windows 11 umsteigen mit gebrauchten Mini-PCs",
+      "teaser": "Wie gut sich generalüberholte Mini-PCs aus Unternehmen für den Windows 11-Umstieg eignen, besprechen wir diese Woche bei c’t uplink.",
+      "url": "https://www.heise.de/news/Guenstig-auf-Windows-11-umsteigen-mit-gebrauchten-Mini-PCs-c-t-uplink-10393757.html"
     },
     {
       "title": "15 Tipps für iOS und macOSDas neue Apple Mail richtig nutzen",
@@ -752,22 +752,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Durchbruch in der Delphin-Forschung: Forscher entschlüsseln Bedeutung von Pfiffen",
-      "teaser": "US-Forscher haben über 40 Jahre Delphin-Laute aufgezeichnet. Ein Team entschlüsselte nun 20 verschiedene Pfiff-Arten. Haben Delfine eine eigene Sprache?",
-      "url": "https://www.heise.de/tp/features/Durchbruch-in-der-Delphin-Forschung-Forscher-entschluesseln-Bedeutung-von-Pfiffen-10388840.html",
-      "image_title": "Zwei Delfine im Wasser"
+      "title": "Messer und Statistik: Mit der AfD liegt die Chance bei 50 %, dass Sie zu 100 % abgestochen werden",
+      "teaser": "AfD sieht Messerkriminalität als Ausländerproblem. Ihr Fokus: härtere Strafen, Abschiebungen. Doch die Realität ist komplexer, als die Partei zugibt. Ein Kommentar.",
+      "url": "https://www.heise.de/tp/features/Messer-und-Statistik-Mit-der-AfD-liegt-die-Chance-bei-50-dass-Sie-zu-100-abgestochen-werden-10395546.html"
     },
     {
-      "title": "Alternativmedien? Lügenpresse? Warum Telepolis die bessere Wahl ist",
-      "teaser": "Telepolis ist weder Mainstream noch Alternativmedium. Telepolis steht für journalistische Standards. Warum das außergewöhnlich ist.",
-      "url": "https://www.heise.de/tp/features/Alternativmedien-Luegenpresse-Warum-Telepolis-die-bessere-Wahl-ist-10394790.html",
-      "image_title": "Reporterin mit Mikrofon, Schreibblock"
+      "title": "Ukraine-Krieg: KI-Drohnen – die autonomen Killer",
+      "teaser": "Künstliche Intelligenz revolutioniert die Kriegsführung in der Ukraine. Autonome Drohnen treffen bereits eigenständig tödliche Entscheidungen. (Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-KI-Drohnen-die-autonomen-Killer-10393648.html",
+      "image_title": "Ki-generierte Grafik zeigt eine Drohne im Vordergrund mit einer sichtbaren Schnur, eine weitere, kleinere Drohne im Hintergrund und dahinter einen Militär-LKW, der Feuer gefangen hat."
     },
     {
-      "title": "Harvard vs. Trump: Was alle im Kampf um die Bildungselite übersehen",
-      "teaser": "Donald Trump verbannt Ausländer von Harvard. Uni droht Verlust von einem Viertel ihrer Studenten. Hinter der Attacke steckt ein mächtiges Netzwerk. (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Harvard-vs-Trump-Was-alle-im-Kampf-um-die-Bildungselite-uebersehen-10394273.html",
-      "image_title": "Polizei auf Harvard-Campus während Nahost-Protesten"
+      "title": "Tödliche Nächte: Moskau und Kiew tauschen Gefangene und Raketen",
+      "teaser": "Moskau und Kiew haben den größten Gefangenenaustausch des Krieges gestartet. Fast 700 Soldaten kamen frei. Doch während sie heimkehren, geht der Luftkrieg weiter.",
+      "url": "https://www.heise.de/tp/features/Toedliche-Naechte-Moskau-und-Kiew-tauschen-Gefangene-und-Raketen-10395802.html",
+      "image_title": "Eine Kampf, Drohne über Feldern"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
