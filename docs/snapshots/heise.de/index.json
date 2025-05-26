@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-26T06:15:22",
+  "timestamp": "2025-05-26T07:12:34",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Home Assistant: Moderne Dashboards für das Smartphone erstellen",
+      "url": "https://www.heise.de/ratgeber/Home-Assistant-Moderne-Dashboards-fuer-das-Smartphone-erstellen-10362940.html"
+    },
     {
       "title": "Microsoft: Außerplanmäßige Updates für Windows Server 2022 und Windows 10",
       "url": "https://www.heise.de/news/Microsoft-Ausserplanmaessige-Updates-fuer-Windows-Server-2022-und-Windows-10-10396092.html"
@@ -60,10 +64,6 @@
     {
       "title": "Oracle soll für OpenAI Nvidia-GPUs für 40 Milliarden Dollar kaufen",
       "url": "https://www.heise.de/news/Oracle-soll-fuer-OpenAI-Nvidia-GPUs-fuer-40-Milliarden-Dollar-kaufen-10395961.html"
-    },
-    {
-      "title": "Verleger: Googles neuer KI-Suchmodus entspricht \"der Definition von Diebstahl\"",
-      "url": "https://www.heise.de/news/Verleger-Googles-neuer-KI-Suchmodus-entspricht-der-Definition-von-Diebstahl-10395923.html"
     },
     {
       "title": "VerlegerGoogles KI-Suchmodus entspricht \"der Definition von Diebstahl\"",
@@ -187,21 +187,26 @@
       "url": "https://www.heise.de/hintergrund/Das-grosse-Warten-Was-bis-Jahresende-und-darueber-hinaus-an-Notebook-CPUs-kommt-10395212.html"
     },
     {
+      "title": "Home Assistant: Moderne Dashboards für das Smartphone erstellen",
+      "teaser": "Dashboards fürs Smart Home sehen auf dem Handy oft anders aus als auf dem Desktop. Wir zeigen, wie ein Mobile-Dashboard in Home Assistant gelingt.",
+      "url": "https://www.heise.de/ratgeber/Home-Assistant-Moderne-Dashboards-fuer-das-Smartphone-erstellen-10362940.html"
+    },
+    {
       "title": "Microsoft: Außerplanmäßige Updates für Windows Server 2022 und Windows 10",
       "teaser": "Microsoft hat außerplanmäßige Updates für Windows Server 2022 und Windows 10 bereitgestellt. Sie lösen Probleme mit Hyper-V und Bitlocker.",
       "url": "https://www.heise.de/news/Microsoft-Ausserplanmaessige-Updates-fuer-Windows-Server-2022-und-Windows-10-10396092.html",
       "image_title": "Windows Updates verfügbar: Herunterladen"
     },
     {
+      "title": "Mehr Übersicht im Netzwerk",
+      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "iX-Workshop: Sichere Programmierpraktiken für Java-Entwickler",
       "teaser": "Bereit für sicheren Code? Erlernen Sie fortgeschrittene Sicherheitspraktiken für Java und schützen Sie Ihre Anwendungen vor Cyberkriminalität.",
       "url": "https://www.heise.de/news/iX-Workshop-Sichere-Programmierpraktiken-fuer-Java-Entwickler-10392971.html",
       "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
-    },
-    {
-      "title": "Mehr Übersicht im Netzwerk",
-      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Alte Ü20-Solaranlagen sinnvoll weiterbetreiben: Diese Möglichkeiten haben Sie",
@@ -229,11 +234,6 @@
       "title": "Klimaanlagen für den Hals im Test: Kühler Kopf an heißen Tagen",
       "teaser": "Kühlgeräte für den Nacken sollen heiße Tage unterwegs erträglicher machen. Wir testen Sony Reon Pocket Pro und Torras Coolify Cyber.",
       "url": "https://www.heise.de/tests/Klimaanlagen-fuer-den-Hals-im-Test-Kuehler-Kopf-an-heissen-Tagen-10376880.html"
-    },
-    {
-      "title": "Huawei Watch Fit 4 Pro im Test: Ultraleichte Outdoor-Smartwatch mit EKG",
-      "teaser": "Eine schlanke Outdoor-Sportuhr mit EKG? Die Huawei Watch Fit 4 Pro macht der Apple Watch Ultra gehörig Konkurrenz, wie der Test zeigt.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/huawei-watch-fit-4-pro-im-test/cgqc7bn?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -302,6 +302,11 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "Huawei Watch Fit 4 Pro im Test: Ultraleichte Outdoor-Smartwatch mit EKG",
+      "teaser": "Eine schlanke Outdoor-Sportuhr mit EKG? Die Huawei Watch Fit 4 Pro macht der Apple Watch Ultra gehörig Konkurrenz, wie der Test zeigt.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/huawei-watch-fit-4-pro-im-test/cgqc7bn?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "Seasonic-Netzteil schaltet ab, wenn über 12V-2x6 zuviel Strom fließt",
       "teaser": "Ein auf der Computex gezeigter Prototyp von Seasonic soll Überhitzung verhindern. Wie davor gewarnt wird, steht aber noch nicht fest.",
       "url": "https://www.heise.de/news/Neues-PC-Netzteil-soll-Stroeme-auf-12V-2x6-Anschluss-ueberwachen-10395883.html"
@@ -367,14 +372,14 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-goatbot-unicut-h1-im-test/339k7th?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Warum ChromeOS im Vergleichstest besser abschneidet als andere Betriebssysteme",
+      "teaser": "Eine Wettbewerbsanalyse hat verschiedene Betriebssysteme untersucht. Googles ChromeOS schnitt dabei in Sachen Sicherheit am besten ab, in insgesamt acht Punkten hat es die Nase vorne. Hier lesen Sie, welche das sind.",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/sicherheit/sicherheitsanalyse-warum-chromeos-besser-als-vergleichbare-betriebssysteme-abschneidet/?source=hbsadersatz"
+    },
+    {
       "title": "Charme-Offensive: OpenAI-Büro in München eröffnet",
       "teaser": "Privatnutzer sind gut, Unternehmen bringen Geld: OpenAI baut ein kleines Team in Deutschland auf, um Unternehmenskunden und Entwickler zu betreuen.",
       "url": "https://www.heise.de/hintergrund/Charme-Offensive-OpenAI-Buero-in-Muenchen-eroeffnet-10395425.html"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Sonnenaktivität: Wie sich Magnetstürme auf die Erde auswirken",
@@ -429,12 +434,6 @@
       "image_title": "Old,House,With,Solar,Panels,Roof,Red,Tiles.,Old,Roof"
     },
     {
-      "title": "Der Kreislauf des Lebens: Die Bilder der Woche 20",
-      "teaser": "Unsere Galeriefotografen entdeckten in der vergangenen Woche die Natur in all ihren Facetten – von winzigen Spinnen bis zu ziehenden Kranichen.",
-      "url": "https://www.heise.de/news/Mystisches-Moor-und-verbluehende-Schoenheit-Die-Bilder-der-Woche-20-10393050.html",
-      "image_title": "Biene auf Blüte"
-    },
-    {
       "title": "Warum der Widerspruch bei Meta nur bedingt hilfreich ist",
       "url": "https://www.heise.de/news/Meta-darf-deine-oeffentlichen-Daten-nutzen-OpenAI-uebrigens-auch-10394503.html",
       "image_title": "Smartphone mit den Apps von Facebook, Facebook-Messenger, Instragm, WhatsApp und Oculus vor dem Meta-Logo"
@@ -482,14 +481,14 @@
       "image_title": "Screenshot aus Elden Ring Nightrein"
     },
     {
+      "title": "Der Kreislauf des Lebens: Die Bilder der Woche 20",
+      "url": "https://www.heise.de/news/Mystisches-Moor-und-verbluehende-Schoenheit-Die-Bilder-der-Woche-20-10393050.html",
+      "image_title": "Biene auf Blüte"
+    },
+    {
       "title": "Nintendo listet die auf der Switch 2 kostenfrei verbesserten Switch-Spiele",
       "url": "https://www.heise.de/news/Nintendo-listet-die-auf-der-Switch-2-kostenfrei-verbesserten-Switch-Spiele-10387537.html",
       "image_title": "Mario-Kart-Spiel auf der Nintendo Switch 2"
-    },
-    {
-      "title": "Nissan Micra: Kleines E-Auto kommt Ende 2025 nach Europa",
-      "url": "https://www.heise.de/news/Nissan-Micra-Origineller-E-Kleinwagen-auf-Basis-des-Renault-5-10391371.html",
-      "image_title": "Nissan Micra 2025"
     },
     {
       "title": "US-Präsident Trump droht Apple mit 25 Prozent Strafzoll",
@@ -531,8 +530,9 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-die-SI-Einheiten-10394627.html"
     },
     {
-      "title": "KI-Update: Widerspruch gegen Meta, Open AI investiert und will KI-Geräte, Gitex",
-      "url": "https://www.heise.de/news/KI-Update-Widerspruch-gegen-Meta-Open-AI-investiert-und-will-KI-Geraete-Gitex-10392321.html"
+      "title": "Alte Ü20-Solaranlagen sinnvoll weiterbetreiben: Diese Möglichkeiten haben Sie",
+      "url": "https://www.heise.de/ratgeber/Alte-Ue20-Solaranlagen-sinnvoll-weiterbetreiben-Diese-Moeglichkeiten-haben-Sie-10362928.html",
+      "image_title": "Old,House,With,Solar,Panels,Roof,Red,Tiles.,Old,Roof"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -600,20 +600,19 @@
       "url": "https://www.heise.de/en/news/Silverstone-Retro-PC-case-with-a-modern-interior-10393359.html"
     },
     {
-      "title": "Kein SMB-Zugriff mehr auf Fritzbox-NAS",
-      "teaser": "Nach dem Tausch meiner Fritzbox klappt der SMB-Zugriff aufs NAS (USB-Festplatte) trotz aktiver Freigabe nicht mehr. Was läuft schief?",
-      "url": "https://www.heise.de/ratgeber/Kein-SMB-Zugriff-mehr-auf-Fritzbox-NAS-10388399.html"
+      "title": "Charm offensive: OpenAI office opens in Munich",
+      "teaser": "Private users are good, companies make money: OpenAI is setting up a small team in Germany to support corporate customers and developers.",
+      "url": "https://www.heise.de/en/background/Charm-offensive-OpenAI-office-opens-in-Munich-10395657.html"
     },
     {
-      "title": "Hohe LeistungAMD-Mobilprozessor mit Grafik-Power: Notebooks mit Ryzen AI Max im Test",
-      "teaser": "AMD will mit Ryzen AI Max sogar Apples M4 Pro überflügeln und eine wesentlich höhere 3D-Leistung bieten. Ein Test der ersten Notebooks.",
-      "url": "https://www.heise.de/tests/Zwei-neue-Notebooks-mit-starkem-AMD-Kombiprozessor-fuer-KI-und-Gaming-im-Test-10389490.html",
-      "image_title": ","
+      "title": "Zwei WLAN-Basen von Lancom mit Wi-Fi 7 im Vergleich",
+      "teaser": "Access-Points von Lancom Systems versorgen größere Gebäude mit schnellem WLAN. Die beiden Wi-Fi-7-Erstlinge taugen auch für kleinere Firmen und Selbstständige.",
+      "url": "https://www.heise.de/tests/Zwei-WLAN-Basen-von-Lancom-mit-Wi-Fi-7-im-Vergleich-10384958.html"
     },
     {
-      "title": "Computex-RechercheWo es bei AMD, Nvidia und Intel hakt",
-      "teaser": "Zur Computex wurden neue Notebookchips erwartet, doch passiert ist nicht viel. Gegen Jahresende dürfte es aber umso heißer hergehen.",
-      "url": "https://www.heise.de/hintergrund/Das-grosse-Warten-Was-bis-Jahresende-und-darueber-hinaus-an-Notebook-CPUs-kommt-10395212.html"
+      "title": "Echter Standort geheimCharme-Offensive: OpenAI-Büro in München eröffnet",
+      "teaser": "Eröffnungsfeier in München: OpenAI baut ein kleines Team in Deutschland auf, um Unternehmenskunden und Entwickler zu betreuen.",
+      "url": "https://www.heise.de/hintergrund/Charme-Offensive-OpenAI-Buero-in-Muenchen-eroeffnet-10395425.html"
     },
     {
       "title": "15 Tipps für iOS und macOSDas neue Apple Mail richtig nutzen",
@@ -687,7 +686,13 @@
       "url": "https://www.heise.de/hintergrund/Raus-aus-der-US-Cloud-Souveraene-SaaS-Angebote-im-Ueberblick-10342483.html"
     },
     {
-      "title": "BMW Speedtop Concept: Exklusive Kleinserie zum Ende der 8er-Reihe",
+      "title": "Besser denn je, doch intern zweite WahlVW Passat eHybrid im Test",
+      "teaser": "Der neue Passat ist für sich betrachtet ein gutes Auto. Auch der Plug-in-Hybrid ist top: Gut 100 km elektrisch sind drin. Doch das Bessere ist des Guten Feind.",
+      "url": "https://www.heise.de/tests/VW-Passat-eHybrid-im-Test-Besser-denn-je-doch-intern-zweite-Wahl-10392889.html",
+      "image_title": "VW Passat e-Hybrid"
+    },
+    {
+      "title": "Exklusive KleinserieBMW Speedtop Concept",
       "teaser": "Das am Lago di Como vorgestellte Speedtop Concept ist eine Karosserievariante der exklusiven Cabrio-Studie Skytop. Beide markieren das Ende von BMWs 8er-Reihe.",
       "url": "https://www.heise.de/news/BMW-Speedtop-Concept-Exklusive-Kleinserie-zum-Ende-der-8er-Reihe-10394395.html",
       "image_title": "BMW Speedtop Concept"
@@ -703,12 +708,6 @@
       "teaser": "Der indische Motorradhersteller Bajaj bekommt 100 Prozent der KTM-Aktien für die fälligen 600 Millionen Euro Schulden und will das Werk Mattighofen erhalten.",
       "url": "https://www.heise.de/news/Motorrad-Marke-KTM-geht-nach-Konkurs-an-seinen-indischen-Auftragsfertiger-Bajaj-10393317.html",
       "image_title": "Bajaj übernimmt KTM"
-    },
-    {
-      "title": "Facelift bringt größere BatterieE-SUV Genesis Electrified GV70",
-      "teaser": "Hyundais Edel-Marke Genesis überarbeitet sein Elektro-SUV Electrified GV70. Die wichtigste Änderung scheint eine Vergrößerung der Reichweite zu sein.",
-      "url": "https://www.heise.de/news/E-SUV-Genesis-Electrified-GV70-bekommt-noch-groessere-Batterie-10393272.html",
-      "image_title": "Genesis GV70 2025"
     },
     {
       "title": "Desinformation bei Grok: Wie leicht lassen sich KI-Chatbots manipulieren?",
@@ -745,22 +744,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Harvard-Dekanin: Studentenverbot von Trump \"beispiellos in US-Hochschulgeschichte'",
-      "teaser": "US-Eliteuni schließt die Reihen. Rechtliche Schritte gegen Verbot internationaler Studenten. Eine interne Mail verrät, wie angespannt die Lage ist.",
-      "url": "https://www.heise.de/tp/features/Harvard-Dekanin-Studentenverbot-von-Trump-beispiellos-in-US-Hochschulgeschichte-10395981.html",
-      "image_title": "Hopi Hoekstra"
+      "title": "Fcas: Der Kampfjet-Koloss auf tönernen Füßen",
+      "teaser": "Europas größtes Rüstungsprojekt steht auf der Kippe. Fcas soll die Luftkampfführung der Zukunft revolutionieren. Doch ein Streit könnte das 2-Billionen-Projekt zum Absturz bringen.",
+      "url": "https://www.heise.de/tp/features/Fcas-Der-Kampfjet-Koloss-auf-toenernen-Fuessen-10388880.html",
+      "image_title": "Künstlerische Darstellung des Fcas nach dem Konzept von 2019"
     },
     {
-      "title": "Ukraine-Krieg: KI-Drohnen – die autonomen Killer",
-      "teaser": "Künstliche Intelligenz revolutioniert die Kriegsführung in der Ukraine. Autonome Drohnen treffen bereits eigenständig tödliche Entscheidungen. (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-KI-Drohnen-die-autonomen-Killer-10393648.html",
-      "image_title": "Ki-generierte Grafik zeigt eine Drohne im Vordergrund mit einer sichtbaren Schnur, eine weitere, kleinere Drohne im Hintergrund und dahinter einen Militär-LKW, der Feuer gefangen hat."
+      "title": "Gaza: Wer anonym stirbt, bleibt unsichtbar",
+      "teaser": "Zehntausende tote Palästinenser kommen nur als Zahlen vor. Was muss passieren, damit sich das ändert? Ein Kommentar. (Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/Gaza-Wer-anonym-stirbt-bleibt-unsichtbar-10395134.html",
+      "image_title": "Menschen laufen zwischen Zelten"
     },
     {
-      "title": "Mega-Herbivoren: Die vergessenen Öko-Ingenieure unserer Erde",
-      "teaser": "Einst prägten riesige Pflanzenfresser die Ökosysteme aller Kontinente. Wenn wir ausgestorbene Arten wiedererwecken wollen, dann sie, meint unser Gastautor.",
-      "url": "https://www.heise.de/tp/features/Mega-Herbivoren-Die-vergessenen-Oeko-Ingenieure-unserer-Erde-10390004.html",
-      "image_title": "Künstlerische Darstellung eines Wollnashorns"
+      "title": "Messer und Statistik: Mit der AfD liegt die Chance bei 50 %, dass Sie zu 100 % abgestochen werden",
+      "teaser": "AfD sieht Messerkriminalität als Ausländerproblem. Ihr Fokus: härtere Strafen, Abschiebungen. Doch die Realität ist komplexer, als die Partei zugibt. Ein Kommentar.",
+      "url": "https://www.heise.de/tp/features/Messer-und-Statistik-Mit-der-AfD-liegt-die-Chance-bei-50-dass-Sie-zu-100-abgestochen-werden-10395546.html"
     },
     {
       "title": "Hausverwaltungssoftware im Vergleich",
