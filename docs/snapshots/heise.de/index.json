@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-26T16:11:49",
+  "timestamp": "2025-05-26T17:08:29",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Verbraucherminister machen gegen Dark Patterns und gezielte Werbung mobil",
+      "url": "https://www.heise.de/news/Verbraucherminister-machen-gegen-Dark-Patterns-und-gezielte-Werbung-mobil-10398656.html"
+    },
     {
       "title": "Was Fuse-Bits sind und wie man sie am ATmega328 anpasst",
       "url": "https://www.heise.de/ratgeber/Was-Fuse-Bits-sind-und-wie-man-sie-am-ATmega328-anpasst-10373669.html"
@@ -60,10 +64,6 @@
     {
       "title": "EU: Fast-Fashion-Riese Shein muss sich ans Verbraucherrecht halten",
       "url": "https://www.heise.de/news/EU-Fast-Fashion-Riese-Shein-muss-sich-ans-Verbraucherrecht-halten-10398024.html"
-    },
-    {
-      "title": "Android Auto: Google öffnet seine Plattform für Browser- und Video-Apps",
-      "url": "https://www.heise.de/news/Android-Auto-Google-oeffnet-seine-Plattform-fuer-Browser-und-Video-Apps-10397840.html"
     },
     {
       "title": "Update\"Mobiler Sicherheitsassistent\"Bosch versetzt spexor-Geräten den Todesstoß",
@@ -189,20 +189,26 @@
       "image_title": "Close,Up,Waving,Flag,Of,China.,Flag,Symbols,Of,China."
     },
     {
+      "title": "Verbraucherminister machen gegen Dark Patterns und gezielte Werbung mobil",
+      "teaser": "Die Verbraucherschutzkonferenz hält entschlosseneres Handeln im Kampf gegen manipulative Designs für nötig. Auch personalisierte Werbung hat sie auf dem Kieker.",
+      "url": "https://www.heise.de/news/Verbraucherminister-machen-gegen-Dark-Patterns-und-gezielte-Werbung-mobil-10398656.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
       "title": "Was Fuse-Bits sind und wie man sie am ATmega328 anpasst",
       "teaser": "Holen Sie alles aus Ihrem AVR-Mikrocontroller heraus: Nutzen Sie einen externen Taktgenerator, schützen Sie Ihr geistiges Eigentum und verhindern Sie Abstürze.",
       "url": "https://www.heise.de/ratgeber/Was-Fuse-Bits-sind-und-wie-man-sie-am-ATmega328-anpasst-10373669.html"
+    },
+    {
+      "title": "Mehr Übersicht im Netzwerk",
+      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Winziger Macintosh-Nachbau: Pico-Mac-Nano bringt den Klassiker auf 62 Millimeter",
       "teaser": "Ein britischer Bastler hat den Macintosh aus dem Jahre 1984 im Miniformat nachgebaut. Er soll voll funktionsfähig sein.",
       "url": "https://www.heise.de/news/Winziger-Macintosh-Nachbau-Pico-Mac-Nano-bringt-den-Klassiker-auf-62-Millimeter-10398532.html",
       "image_title": "Der Mini-Mac im Dreierpack"
-    },
-    {
-      "title": "Mehr Übersicht im Netzwerk",
-      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Außergewöhnliches Paar: Stern entdeckt, der einst in anderem Stern unterwegs war",
@@ -232,12 +238,6 @@
       "teaser": "EU-Verbraucherschutzbehörden und die Kommission werfen Shein eine Reihe von Verstößen gegen das EU-Verbraucherrecht vor. Sie wollen zeitnah hart durchgreifen.",
       "url": "https://www.heise.de/news/EU-Fast-Fashion-Riese-Shein-muss-sich-ans-Verbraucherrecht-halten-10398024.html",
       "image_title": "Startseite von Shein auf einem Smartphone"
-    },
-    {
-      "title": "Android Auto: Google öffnet seine Plattform für Browser- und Video-Apps",
-      "teaser": "Im Zuge der I/O 2025 hat Google zahlreiche Neuerungen für Android Auto und Android Automotive angekündigt – unter anderem Support für Videos-Apps.",
-      "url": "https://www.heise.de/news/Android-Auto-Google-oeffnet-seine-Plattform-fuer-Browser-und-Video-Apps-10397840.html",
-      "image_title": "Android Auto Video"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -304,6 +304,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Android Auto: Google öffnet seine Plattform für Browser- und Video-Apps",
+      "teaser": "Im Zuge der I/O 2025 hat Google zahlreiche Neuerungen für Android Auto und Android Automotive angekündigt – unter anderem Support für Videos-Apps.",
+      "url": "https://www.heise.de/news/Android-Auto-Google-oeffnet-seine-Plattform-fuer-Browser-und-Video-Apps-10397840.html",
+      "image_title": "Android Auto Video"
     },
     {
       "title": "AlertWindows Server 2025: Rechteausweitungslücke im AD",
@@ -375,15 +381,15 @@
       "image_title": "Szene aus \"The Studio\""
     },
     {
+      "title": "Maximale KI-Performance – mit der richtigen Serverplattform",
+      "teaser": "Künstliche Intelligenz ist dabei, alle Branchen zu revolutionieren. Wer hier mithalten will, benötigt eine Server-Infrastruktur, die den Anforderungen großer Sprachmodelle und anderer KI-Lösungen gewachsen ist. Worauf es bei der Wahl der passenden CPU-Plattform ankommt.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/maximale-ki-performance-mit-der-richtigen-serverplattform-4918/?source=hbsadersatz"
+    },
+    {
       "title": "Kontaktlinse mit Nanopartikeln ermöglicht Nachtsicht",
       "teaser": "Chinesische Forscher haben eine Kontaktlinse entwickelt, die Infrarotlicht in sichtbares Licht verwandelt und so Nachtsicht ermöglicht.",
       "url": "https://www.heise.de/news/Neue-Kontaktlinse-ermoeglicht-das-Sehen-im-Dunkeln-10397164.html",
       "image_title": "Woman,Puts,On,Contact,Lenses,For,Vision,Close-up,On,A"
-    },
-    {
-      "title": "Wie Sie mit modernen Clients die IT entlasten und für mehr Sicherheit sorgen",
-      "teaser": "Hybride Arbeitsmodelle stellen IT- und Sicherheitsverantwortliche vor Herausforderungen. Sie müssen nicht nur den Schutz der verteilten Endgeräte gewährleisten, sondern diese auch verwalten und im Fehlerfall Support bieten. Wie hardwarebasierte Sicherheits- & Managementfunktionen diese Aufgabe erleichtern.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/hardwarebasierte-sicherheit-und-effizientes-management-fuer-ihre-endgeraete-4924/?source=hbsadersat"
     },
     {
       "title": "Windows 11: Microsoft will Migration von PC zu PC vereinfachen",
@@ -436,12 +442,6 @@
       "teaser": "Die neuen Joy-Con der Switch 2 lassen sich als Maus verwenden. Wer darauf keine Lust hat, kann auch eine traditionelle Maus per USB anschließen.",
       "url": "https://www.heise.de/news/Switch-2-unterstuetzt-auch-USB-Maeuse-10396535.html",
       "image_title": "Videospiel wird auf Switch 2 mit Maus gesteuert"
-    },
-    {
-      "title": "Gebrauchte Mini-PCs mit Windows 11 im Vergleich",
-      "teaser": "Gebrauchtkauf spart Geld und schont die Umwelt. Doch wie schlagen sich aufbereitete Business-Minis gegen einen Billig-PC mit aktueller Technik?",
-      "url": "https://www.heise.de/tests/Gebrauchte-Mini-PCs-mit-Windows-11-im-Vergleich-10391126.html",
-      "image_title": ","
     },
     {
       "title": "Operation Endgame 2.0: 20 Haftbefehle, Hunderte Server außer Gefecht gesetzt",
@@ -608,19 +608,19 @@
       "url": "https://www.heise.de/en/news/Silverstone-Retro-PC-case-with-a-modern-interior-10393359.html"
     },
     {
-      "title": "Kein SMB-Zugriff mehr auf Fritzbox-NAS",
-      "teaser": "Nach dem Tausch meiner Fritzbox klappt der SMB-Zugriff aufs NAS (USB-Festplatte) trotz aktiver Freigabe nicht mehr. Was läuft schief?",
-      "url": "https://www.heise.de/ratgeber/Kein-SMB-Zugriff-mehr-auf-Fritzbox-NAS-10388399.html"
-    },
-    {
-      "title": "Charm offensive: OpenAI office opens in Munich",
-      "teaser": "Private users are good, companies make money: OpenAI is setting up a small team in Germany to support corporate customers and developers.",
-      "url": "https://www.heise.de/en/background/Charm-offensive-OpenAI-office-opens-in-Munich-10395657.html"
+      "title": "USB-Laufwerk anstöpseln, Daten übertragen, fertig: Tipps sparen Zeit und Nerven.",
+      "teaser": "Wenn Sie ein USB-Laufwerk an einen PC anschließen, wird es seinen Zweck schon irgendwie erfüllen. In vielen Fällen können Sie jedoch Zeit und Nerven sparen.",
+      "url": "https://www.heise.de/ratgeber/USB-Laufwerk-anstoepseln-Daten-uebertragen-fertig-Tipps-sparen-Zeit-und-Nerven-10352883.html"
     },
     {
       "title": "Nothing CMF Phone 2 Pro im Test: Viel Handy fürs Geld",
       "teaser": "Die zweite Auflage des CMF Phone von Nothing kommt mit NFC, mehr Kameras und schließt so gegenüber dem Vorgänger die größten Ausstattungslücken.",
       "url": "https://www.heise.de/tests/Nothing-CMF-Phone-2-Pro-im-Test-Viel-Handy-fuers-Geld-10374743.html"
+    },
+    {
+      "title": "Deplatziertes Vertrauen: Über den TeleMessage-Skandal",
+      "teaser": "Der Messenger-Skandal der US-Regierung ist eine unfreiwillige Fortsetzungsgeschichte darüber, wie man Informationssicherheit nicht erreicht.",
+      "url": "https://www.heise.de/news/Deplatziertes-Vertrauen-Ueber-den-TeleMessage-Skandal-10376207.html"
     },
     {
       "title": "15 Tipps für iOS und macOSDas neue Apple Mail richtig nutzen",
@@ -641,6 +641,11 @@
       "image_title": "Symbolbild Steuern"
     },
     {
+      "title": "Im Test: 3D-Drucker Creality K2 Plus",
+      "teaser": "Mit seinem großen Bauraum und der Möglichkeit zum Mehrfarbdruck lassen sich Modelle herstellen, die ihr sonst in mehreren Teilen drucken müsstet.",
+      "url": "https://www.heise.de/tests/Im-Test-3D-Drucker-Creality-K2-Plus-10391453.html"
+    },
+    {
       "title": "Git für Maker erklärt, Teil 3: Wie man Projekte einrichtet",
       "teaser": "Ein cooles Projekt braucht eine Präsentation und Dokumentation. GitHub bietet einfache Funktionen, um eine Website mit wenigen Klicks auf die Beine zu stellen.",
       "url": "https://www.heise.de/ratgeber/Git-fuer-Maker-erklaert-Teil-3-Wie-man-Projekte-einrichtet-10374771.html",
@@ -651,11 +656,6 @@
       "teaser": "Der Künstler Rootkid isoliert in einem Experiment ein LLM auf minimaler Hardware und lässt es seine Gedanken auf einem Display anzeigen.",
       "url": "https://www.heise.de/news/Latent-Reflection-2025-Die-Gedanken-einer-KI-als-Kunstprojekt-10393234.html",
       "image_title": "LED-Segment-Display mit den Gedanken eines LLM"
-    },
-    {
-      "title": "Firmware-Experiment auf dem Raspberry Pi 5 zeigt neuen Weg für Updates",
-      "teaser": "Sichere Over-the-Air-Updates auf dem Raspberry Pi 5 – ganz ohne U-Boot! Bootlin experimentiert mit RAUC und RPi-Firmware für robustes A/B-Update-Handling.",
-      "url": "https://www.heise.de/news/Experimentelle-A-B-Update-Loesung-fuer-Raspberry-Pi-5-10391535.html"
     },
     {
       "title": "Motive und Locations: Fototour durch Istanbul",
@@ -753,22 +753,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test/19w3c1t?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Journalismus im Dienst der Arbeitgeber: Wie Medien die Arbeitszeitdebatte verzerren",
-      "teaser": "Medien stellen Pläne zur Lockerung des Arbeitszeitgesetzes einseitig dar. Eine kritische Betrachtung der Folgen für Arbeitnehmer fehlt oft.",
-      "url": "https://www.heise.de/tp/features/Journalismus-im-Dienst-der-Arbeitgeber-Wie-Medien-die-Arbeitszeitdebatte-verzerren-10395861.html",
-      "image_title": "Arbeiter schaut auf seine Uhr."
+      "title": "BYD-Aktie im Sturzflug: Preiskampf erschüttert E-Auto-Markt in China",
+      "teaser": "Chinas E-Auto-Boom gerät ins Stocken: Rabatte von bis zu 34 Prozent lassen Aktien abstürzen. Händler ächzen unter Rekordbeständen. Droht eine Pleitewelle?",
+      "url": "https://www.heise.de/tp/features/BYD-Aktie-im-Sturzflug-Preiskampf-erschuettert-E-Auto-Markt-in-China-10397026.html",
+      "image_title": "Räder mit Logo von BYD Electric Automobil Showroom in Thailand."
     },
     {
-      "title": "Gaza: Wer anonym stirbt, bleibt unsichtbar",
-      "teaser": "Zehntausende tote Palästinenser kommen nur als Zahlen vor. Was muss passieren, damit sich das ändert? Ein Kommentar. (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Gaza-Wer-anonym-stirbt-bleibt-unsichtbar-10395134.html",
-      "image_title": "Menschen laufen zwischen Zelten"
+      "title": "Von blau zu grün: Die faszinierende Farbgeschichte unserer Meere",
+      "teaser": "Japanische Forscher fanden Hinweise auf eine ferne Vergangenheit, in der die Ozeane grün waren. Was bedeutet das für die Zukunft unserer blauen Planeten? Ein Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/Von-blau-zu-gruen-Die-faszinierende-Farbgeschichte-unserer-Meere-10390051.html",
+      "image_title": "Ein grüner Ozean"
     },
     {
-      "title": "Fcas: Der Kampfjet-Koloss auf tönernen Füßen",
-      "teaser": "Europas größtes Rüstungsprojekt steht auf der Kippe. Fcas soll die Luftkampfführung der Zukunft revolutionieren. Doch ein Streit könnte das 2-Billionen-Projekt zum Absturz bringen.",
-      "url": "https://www.heise.de/tp/features/Fcas-Der-Kampfjet-Koloss-auf-toenernen-Fuessen-10388880.html",
-      "image_title": "Künstlerische Darstellung des Fcas nach dem Konzept von 2019"
+      "title": "Tödliche Nächte: Moskau und Kiew tauschen Gefangene und Raketen",
+      "teaser": "Moskau und Kiew haben den größten Gefangenenaustausch des Krieges gestartet. Fast 700 Soldaten kamen frei. Doch während sie heimkehren, geht der Luftkrieg weiter.",
+      "url": "https://www.heise.de/tp/features/Toedliche-Naechte-Moskau-und-Kiew-tauschen-Gefangene-und-Raketen-10395802.html",
+      "image_title": "Eine Kampf, Drohne über Feldern"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
