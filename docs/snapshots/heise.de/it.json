@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-26T09:38:11",
+  "timestamp": "2025-05-26T10:15:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,47 @@
   ],
   "articles": [
     {
-      "title": "Gebrauchte Mini-PCs mit Windows 11 im Vergleich",
-      "teaser": "Gebrauchtkauf spart Geld und schont die Umwelt. Doch wie schlagen sich aufbereitete Business-Minis gegen einen Billig-PC mit aktueller Technik?",
+      "title": "Kriminelle Gruppe \"Careto\" angeblich von spanischer Regierung gelenkt",
+      "teaser": "Nicht nur China und Russland steuern Cybergangs. Ehemalige Kaspersky-Mitarbeiter behaupten, die Bande \"Careto\" werde von Spanien gelenkt.",
+      "url": "https://www.heise.de/news/Kriminelle-Gruppe-Careto-angeblich-von-spanischer-Regierung-gelenkt-10396673.html",
+      "image_title": "Spanische Flagge"
+    },
+    {
+      "title": "enterJS Advanced Angular Day: Workshops zu A11y, Best Practices und Architektur",
+      "teaser": "Die Online-Konferenz am 1. Juli 2025 bietet Vorträge und Workshops für Angular-Profis. Tickets gibt es noch bis zum 3. Juni zum vergünstigten Frühbuchertarif.",
+      "url": "https://www.heise.de/news/enterJS-Advanced-Angular-Day-Workshops-zu-A11y-Best-Practices-und-Architektur-10393900.html",
+      "image_title": "Aufmacher enterJS Advanced Angular Day 1. Juli 2025"
+    },
+    {
+      "title": "WWDC-Vorhersage: Viel zu Apples Betriebssystemen, wenig zu KI?",
+      "teaser": "In zwei Wochen beginnt Apples Entwicklerkonferenz WWDC – und die Spannung ist groß, was Apple zeigen wird. Der iPhone-Konzern hat einiges aufzuholen.",
+      "url": "https://www.heise.de/news/WWDC-Vorhersage-Viel-zu-Apples-Betriebssystemen-wenig-zu-KI-10396146.html",
+      "image_title": "WWDC-2025-Logo"
+    },
+    {
+      "title": "Katz und Maus: Nvidias B40 soll China-Bann umgehen",
+      "teaser": "Ein neuer GPU-Beschleuniger von Nvidia soll ihren Weg nach China finden. Er könnte der GeForce RTX 5090 ähneln.",
+      "url": "https://www.heise.de/news/Katz-und-Maus-Nvidias-B40-soll-China-Bann-umgehen-10396800.html",
+      "image_title": "Renderbild einer GB202-GPU von Nvidia"
+    },
+    {
+      "title": "RatgeberUSB-Laufwerk anstöpseln, Daten übertragen, fertig: Tipps sparen Zeit und Nerven.",
+      "url": "https://www.heise.de/ratgeber/USB-Laufwerk-anstoepseln-Daten-uebertragen-fertig-Tipps-sparen-Zeit-und-Nerven-10352883.html"
+    },
+    {
+      "title": "TestsZwei WLAN-Basen von Lancom mit Wi-Fi 7 im Vergleich",
+      "url": "https://www.heise.de/tests/Zwei-WLAN-Basen-von-Lancom-mit-Wi-Fi-7-im-Vergleich-10384958.html"
+    },
+    {
+      "title": "TestsGebrauchte Mini-PCs mit Windows 11 im Vergleich",
       "url": "https://www.heise.de/tests/Gebrauchte-Mini-PCs-mit-Windows-11-im-Vergleich-10391126.html",
       "image_title": ","
+    },
+    {
+      "title": "Neuer Lieferkettenangriff mit bösartigen Skripten in npm-Paketen",
+      "teaser": "Ein neuer Angriff auf die Lieferkette bedroht Workstations und CI-Umgebungen. Das bösartige Skript spioniert interne Daten für weitere Attacken aus.",
+      "url": "https://www.heise.de/news/Neuer-Lieferkettenangriff-mit-boesartigen-Skripten-in-npm-Paketen-10396215.html",
+      "image_title": "Umzugskisten in Einkaufswagen auf Tastatur"
     },
     {
       "title": "Die Produktwerker: Visuelle Methoden in der Produktentwicklung",
@@ -48,19 +85,6 @@
       "teaser": "Nutzer von RHEL und OpenShift können nun Dokumentationen mit KI-Unterstützung abrufen. Zudem bringt Red Hat ein Management-Tool für Edge-Geräte.",
       "url": "https://www.heise.de/news/Noch-mehr-KI-RHEL-und-OpenShift-bekommen-KI-Assistenz-mit-Lightspeed-10396138.html",
       "image_title": "Sticker mit Red-Hat-Logo auf Tastatur"
-    },
-    {
-      "title": "RatgeberUSB-Laufwerk anstöpseln, Daten übertragen, fertig: Tipps sparen Zeit und Nerven.",
-      "url": "https://www.heise.de/ratgeber/USB-Laufwerk-anstoepseln-Daten-uebertragen-fertig-Tipps-sparen-Zeit-und-Nerven-10352883.html"
-    },
-    {
-      "title": "TestsZwei WLAN-Basen von Lancom mit Wi-Fi 7 im Vergleich",
-      "url": "https://www.heise.de/tests/Zwei-WLAN-Basen-von-Lancom-mit-Wi-Fi-7-im-Vergleich-10384958.html"
-    },
-    {
-      "title": "TestsGebrauchte Mini-PCs mit Windows 11 im Vergleich",
-      "url": "https://www.heise.de/tests/Gebrauchte-Mini-PCs-mit-Windows-11-im-Vergleich-10391126.html",
-      "image_title": ","
     },
     {
       "title": "c't-Webinar: KI-Schreibwerkzeuge im Praxiseinsatz",
@@ -124,28 +148,6 @@
       "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
       "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-10382451.html",
       "image_title": "Workshop Mobile Device Management mit Intune"
-    },
-    {
-      "title": "Testsieger: Die beste Mini-Überwachungskamera im Test – Babyphone inklusive",
-      "teaser": "Mini-Überwachungskameras sind nützlich, wenn es um die Beobachtung von Objekten bei Platzmangel geht. Modelle mit Akku und WLAN sind dabei besonders flexibel.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/testsieger-die-beste-mini-ueberwachungskamera-im-test-babyphone-inklusive/8pbvytt?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "EU-Kommission treibt neue EU-weite Vorratsdatenspeicherung voran",
-      "teaser": "Für eine wirksame Kriminalitätsbekämpfung sind laut der EU-Kommission Metadaten nötig. Vor einer potenziellen neuen Gesetzesinitiative holt sie Meinungen ein.",
-      "url": "https://www.heise.de/news/EU-Kommission-treibt-neue-EU-weite-Vorratsdatenspeicherung-voran-10395722.html",
-      "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
-    },
-    {
-      "title": "Charme-Offensive: OpenAI-Büro in München eröffnet",
-      "teaser": "Privatnutzer sind gut, Unternehmen bringen Geld: OpenAI baut ein kleines Team in Deutschland auf, um Unternehmenskunden und Entwickler zu betreuen.",
-      "url": "https://www.heise.de/hintergrund/Charme-Offensive-OpenAI-Buero-in-Muenchen-eroeffnet-10395425.html"
-    },
-    {
-      "title": "iX-Workshop: Hands-on Migration von VMware zu Proxmox",
-      "teaser": "Praktische Schritte, Fallstricke vermeiden: Lernen Sie, wie Sie Ihre VMware-Infrastruktur effizient und sicher auf Proxmox VE umstellen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-Migration-von-VMware-zu-Proxmox-10386880.html",
-      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
     },
     {
       "title": "NewsOperation Endgame 2.0: 20 Haftbefehle, Hunderte Server außer Gefecht gesetzt",
