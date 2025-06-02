@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-02T05:12:10",
+  "timestamp": "2025-06-02T06:15:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,18 @@
   ],
   "articles": [
     {
-      "title": "Sparkasse: Fehler der S-pushTAN-App legt Online-Banking lahm",
+      "title": "Sprachmodelle aus SQL: pgai erweitert PostgreSQL um KI-Funktionen",
+      "teaser": "Die PostgreSQL-Erweiterung pgai verknüpft ohne zusätzliche Middleware Daten und Sprachmodelle in einem System. LLMs lassen sich so aus SQL aufrufen.",
+      "url": "https://www.heise.de/tests/Sprachmodelle-aus-SQL-pgai-erweitert-PostgreSQL-um-KI-Funktionen-10419937.html"
+    },
+    {
+      "title": "iX-Workshop IEC 62443: IT-Sicherheit in der Produktentwicklung",
+      "teaser": "IEC 62443 für industrielle Kommunikationsnetze – Wie Sie Ihre Produktentwicklung von Anfang an sicher und normenkonform gestalten.",
+      "url": "https://www.heise.de/news/iX-Workshop-IEC-62443-IT-Sicherheit-in-der-Produktentwicklung-10400801.html",
+      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
+    },
+    {
+      "title": "SparkassenFehler der S-pushTAN-App legt Online-Banking lahm",
       "teaser": "Das Online-Banking der Sparkassen war am Sonntag gestört. Transaktionen konnten mit der S-pushTAN-App nicht freigegeben werden.",
       "url": "https://www.heise.de/news/Sparkasse-Fehler-der-S-pushTAN-App-legt-Online-Banking-lahm-10421592.html",
       "image_title": "Foto von einer Sparkassenfiliale in Berlin"
@@ -37,16 +48,8 @@
       "url": "https://www.heise.de/news/Seagate-KI-treibt-Speicherbedarf-ueber-Herstellungskapazitaeten-hinaus-10421533.html"
     },
     {
-      "title": "Verfälschtes DNSEchte URLs von Bose und Co mit Malware verseucht",
-      "teaser": "Cyberkriminelle nutzen im großen Stil URLs seriöser Anbieter, um ihre Malware zu verbreiten.",
-      "url": "https://www.heise.de/news/Falsch-konfigurierte-DNS-Eintraege-URLs-von-Bose-und-Co-mit-Malware-verseucht-10421430.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "enterJS Web Security Day: Online-Konferenz für sichere Webanwendungen",
-      "teaser": "Am 9. Oktober zeigt die Konferenz, wie man seine Webanwendung schützen kann. Die Themen umfassen OWASP Top Ten, KI-basierte Angriffe und Passkeys.",
-      "url": "https://www.heise.de/news/enterJS-Web-Security-Day-Online-Konferenz-fuer-sichere-Webanwendungen-10381206.html",
-      "image_title": "enterJS Web Security Day, Online-Konferenz am 9.Oktober"
+      "title": "TestsSprachmodelle aus SQL: pgai erweitert PostgreSQL um KI-Funktionen",
+      "url": "https://www.heise.de/tests/Sprachmodelle-aus-SQL-pgai-erweitert-PostgreSQL-um-KI-Funktionen-10419937.html"
     },
     {
       "title": "RatgeberPraxis \"Digitaler Garten\": So lassen Sie Wissen wachsen mit Notion",
@@ -57,13 +60,21 @@
       "url": "https://www.heise.de/ratgeber/Waermepumpe-selbst-kaufen-und-anschliessen-10385208.html"
     },
     {
-      "title": "HintergrundWie man Beacon Object Files für mehrere C2-Frameworks erstellt",
-      "url": "https://www.heise.de/hintergrund/Wie-man-Beacon-Object-Files-fuer-mehrere-C2-Frameworks-erstellt-10418030.html"
-    },
-    {
       "title": "Minisforum UM680 Slim im Test: Ryzen 7, HDMI 2.1 und USB-C für Strom & Bild",
       "teaser": "Der Minisforum UM680 Slim bietet eine Top-Ausstattung zum Mittelklasse-Preis. Ob er sich mit Ryzen 7 und einem vollausgestatteten USB-C-Port gegen die Konkurrenz durchsetzen kann, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/minisforum-um680-slim-im-test/1jr71rz?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Falsch konfigurierte DNS-Einträge: URLs von Bose und Co mit Malware verseucht",
+      "teaser": "Cyberkriminelle nutzen im großen Stil URLs seriöser Anbieter, um ihre Malware zu verbreiten. Ein Vektor ist dabei offenbar falsche DNS-Konfiguration.",
+      "url": "https://www.heise.de/news/Falsch-konfigurierte-DNS-Eintraege-URLs-von-Bose-und-Co-mit-Malware-verseucht-10421430.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
+      "title": "enterJS Web Security Day: Online-Konferenz für sichere Webanwendungen",
+      "teaser": "Am 9. Oktober zeigt die Konferenz, wie man seine Webanwendung schützen kann. Die Themen umfassen OWASP Top Ten, KI-basierte Angriffe und Passkeys.",
+      "url": "https://www.heise.de/news/enterJS-Web-Security-Day-Online-Konferenz-fuer-sichere-Webanwendungen-10381206.html",
+      "image_title": "enterJS Web Security Day, Online-Konferenz am 9.Oktober"
     },
     {
       "title": "iX-Workshop: Vom ersten KI-Projekt zur KI-Transformation",
@@ -130,17 +141,6 @@
       "title": "Nach Kritik an Siri-Debakel: Apple lehnt traditionelles WWDC-Interview ab",
       "teaser": "Auf der WWDC stellte sich Apples Softwarechef traditionell den Fragen eines Kommentators. Nachdem letzterer Kritik übte, gibt es kein Interview mehr.",
       "url": "https://www.heise.de/news/Nach-Kritik-an-Siri-Debakel-Apple-lehnt-traditionelles-WWDC-Interview-ab-10420938.html"
-    },
-    {
-      "title": "Nvidia-Chef: \"Huawei ist ein beachtliches Technologieunternehmen\"",
-      "teaser": "In einem Video-Interview geht Nvidia-CEO Jensen Huang auf chinesische Konkurrenz ein. Huawei soll schon weit sein.",
-      "url": "https://www.heise.de/news/Nvidia-Chef-Huawei-ist-ein-beachtliches-Technologieunternehmen-10420926.html",
-      "image_title": "Nvidia-CEO Jensen Huang während einer Veranstaltung auf der Computex im Juni 2024 in Taipeh."
-    },
-    {
-      "title": "Nvidia wird immer problematischer | c't 3003",
-      "teaser": "Schlechte Linux-Treiber, Maulkorb für Journalisten: c't 3003 ist sehr unzufrieden mit Nvidia.",
-      "url": "https://www.heise.de/meinung/Nvidia-wird-immer-problematischer-c-t-3003-10420639.html"
     },
     {
       "title": "NewsForscher beobachten erstmals Gammablitz auf der Erde",
