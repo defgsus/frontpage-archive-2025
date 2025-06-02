@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-02T13:25:42",
+  "timestamp": "2025-06-02T14:10:24",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,18 @@
   ],
   "articles": [
     {
-      "title": "iOS: Apple warnt vor Öffnung wichtiger Schnittstellen durch EU",
+      "title": "Neben Gemini: Samsung soll bei Galaxy-Smartphones auch auf Perplexity setzen",
+      "teaser": "Samsungs Galaxy-Smartphones könnten bald schon nicht nur KI-Dienste von Google an Bord haben, sondern auch die des Start-ups Perplexity.",
+      "url": "https://www.heise.de/news/Neben-Gemini-Samsung-soll-bei-Galaxy-Smartphones-auch-auf-Perplexity-setzen-10422722.html"
+    },
+    {
+      "title": "Defekte Ryzen-Prozessoren: Asrock schraubt erneut am BIOS",
+      "teaser": "Ein BIOS-Update für Asrock-Boards begrenzt die Stromstärke im Übertaktermodus Precision Boost Overdrive, sodass Ryzen-9000-CPUs keinen Schaden mehr nehmen.",
+      "url": "https://www.heise.de/news/Defekte-Ryzen-Prozessoren-Asrock-schraubt-erneut-am-BIOS-10422351.html",
+      "image_title": "Ryzen-Prozessor im Mainboard"
+    },
+    {
+      "title": "Berufung gegen EU-Vorgaben: Apple will iPhone nicht kompatibler machen",
       "teaser": "iPhones müssen bald besser mit der Hardware anderer Hersteller zusammenspielen, ordnete die EU-Kommission an. Apple will das verhindern.",
       "url": "https://www.heise.de/news/iOS-Apple-warnt-vor-Oeffnung-wichtiger-Schnittstellen-durch-EU-10422632.html",
       "image_title": "iPhone liegt auf der Verpackung"
@@ -35,16 +46,6 @@
       "title": "Operation Endgame: Behörden zerschlagen Antivirus-Testseite AVCheck",
       "teaser": "Entwickler von Schadsoftware konnten diese auf dem Portal auf Erkennung durch Antivirus-Software prüfen. Auch weitere Malware-Tools sind nun offline.",
       "url": "https://www.heise.de/news/Operation-Endgame-Behoerden-zerschlagen-Antivirus-Testseite-AVCheck-10422496.html"
-    },
-    {
-      "title": "KI erleichtert Einstieg in PBF-Verfahren für Laser- und 3D-Druck",
-      "teaser": "EMPA-Forscher nutzen maschinelles Lernen, um laserbasierte Metallverarbeitung sowie 3D-PBF-Druck zu optimieren und neuen Zielgruppen den Zugang zu erleichtern.",
-      "url": "https://www.heise.de/news/KI-erleichtert-Einstieg-in-PBF-Verfahren-fuer-Laser-und-3D-Druck-10422245.html"
-    },
-    {
-      "title": "Kommentar zu Wehrdienstdebatte: Boomer an die User-Front",
-      "teaser": "Freiheitsdienst für alle? Statt Panzer zu fahren, könnten Boomer Behördenportale testen – und so der Digitalisierung auf die Sprünge helfen, meint Tim Gerber.",
-      "url": "https://www.heise.de/ratgeber/Kommentar-zu-Wehrdienstdebatte-Boomer-an-die-User-Front-10419843.html"
     },
     {
       "title": "TestsEntspannter klicken: Vier ergonomische Mäuse im Test",
@@ -58,6 +59,16 @@
     {
       "title": "TestsSprachmodelle aus SQL: pgai erweitert PostgreSQL um KI-Funktionen",
       "url": "https://www.heise.de/tests/Sprachmodelle-aus-SQL-pgai-erweitert-PostgreSQL-um-KI-Funktionen-10419937.html"
+    },
+    {
+      "title": "Leiser Mini-PC mit Ryzen 7 ist günstig und gut: Blackview MP100 ab 257 € im Test",
+      "teaser": "Starke Hardware, hochwertig, günstig: Der Blackview MP100 bietet neben guter Leistung alles, was man sich ab 257 Euro wünscht. Wir haben den Mini-PC getestet.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-blackview-mp100-im-test/lcw3e7f?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Kommentar zu Wehrdienstdebatte: Boomer an die User-Front",
+      "teaser": "Freiheitsdienst für alle? Statt Panzer zu fahren, könnten Boomer Behördenportale testen – und so der Digitalisierung auf die Sprünge helfen, meint Tim Gerber.",
+      "url": "https://www.heise.de/ratgeber/Kommentar-zu-Wehrdienstdebatte-Boomer-an-die-User-Front-10419843.html"
     },
     {
       "title": "USB-C-Mindestanforderungen für Windows-11-Notebooks werden zur Pflicht",
@@ -133,18 +144,6 @@
       "teaser": "Meta ersetzt laut eines Berichts menschliche Risikoprüfer weitgehend durch KI. Es geht um Themen wie KI-Sicherheit, Falschinformationen und Jugendschutz.",
       "url": "https://www.heise.de/news/Interne-Dokumente-Meta-laesst-kuenftig-lieber-die-KI-Risiken-bewerten-10421987.html",
       "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
-    },
-    {
-      "title": "Die Produktwerker: Doppelrolle als Product Owner und Scrum Master – was tun?",
-      "teaser": "Es geht selten gut, wenn Product Owner auch Scrum Master sind – die Produktwerker zeigen in der aktuellen Folge, wie sich das Problem besser lösen lässt.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Doppelrolle-als-Product-Owner-und-Scrum-Master-was-tun-10421806.html",
-      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "Apache Groovy 5.0 bringt kompakte Quellnotationen und Jakarta-Servlets\u0000",
-      "teaser": "Das jüngste Major Release der Apache-Programmiersprache für die Java Virtual Machine bietet zahlreiche Vereinfachungen und neue Funktionen.",
-      "url": "https://www.heise.de/news/Apache-Groovy-5-0-bringt-kompakte-Quellnotationen-und-Jakarta-Servlets-10421772.html",
-      "image_title": "Bildschirm eines Laptops, auf dem Code zu sehen ist."
     },
     {
       "title": "NewsWenn der Glasfaser-Anbieter die Kündigung nicht annimmt",
