@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-02T02:44:03",
+  "timestamp": "2025-06-02T03:45:40",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -56,6 +62,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/site.8e98346d9e985f6abde4.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2025/mieten-kaufen-stadtteile/static/assets/stadtteile-standalone.6e26b74d.mjs",
       "id": null,
       "text": null
     },
@@ -146,11 +158,46 @@
       "image_title": "Geschichte des Westens: Ende einer Ikone: Zerknüllte Dose"
     },
     {
-      "title": "Gletscherabbruch: \"Wie wenn ein Leben zu Ende gegangen wäre\"",
-      "teaser": "Beim Bergsturz im Schweizer Lötschental haben 300 Menschen innerhalb weniger Minuten alles verloren. Nun müssen sie von Grund auf neu beginnen. Aber wie?",
-      "url": "https://www.zeit.de/gesellschaft/2025-06/gletscherabbruch-blatten-loetschetal-neuaufbau",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-06/gletscherabbruch-blatten-loetschetal-neuaufbau-bild/wide__892x501",
-      "image_title": "Gletscherabbruch: Daniel Ritler"
+      "title": "Mentale Gesundheit: Das kann der mentalen Gesundheit helfen",
+      "teaser": "So viele Krisen, Kriege, Katastrophen. Wie soll man damit nur umgehen, ohne durchzudrehen? Der Unterschied zwischen Mitleid und Mitgefühl ebnet einen Weg.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-05/mentale-gesundheit-psyche-globale-krisen-kriege-katastrophen",
+      "image_url": "https://img.zeit.de/zeit-verlag/2025-05/mentale-gesundheit-psyche-globale-krisen-kriege-katastrophen-bild/wide__892x501",
+      "image_title": "Mentale Gesundheit: Das kann der mentalen Gesundheit helfen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Zugelassene Autos • Z+ Empfehlung: Diese Autos fahren in Ihrer Gegend",
+      "teaser": "Wo gibt es die meisten SUVs? Und wo fahren die meisten BMW X7 oder Teslas? Neue Daten zeigen, welche Modelle wo in Deutschland besonders beliebt sind – auch Ihr Auto.",
+      "url": "https://www.zeit.de/mobilitaet/2025-05/zugelassene-autos-modelle-marken-karte-deutschland-statistik",
+      "image_url": "https://img.zeit.de/mobilitaet/2025-05/zugelassene-autos-modelle-marken-karte-deutschland-teaser/super__430x286",
+      "image_title": "Zugelassene Autos • Z+ Empfehlung: Diese Autos fahren in Ihrer Gegend"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Babyschlaf: Jedes Kind kann schlafen lernen? So einfach ist es nicht",
+      "teaser": "Schon beim Wort \"Schlaf\" bricht das Baby unserer Autorin in Tränen aus. Nach Jahren des Schlafentzugs weiß sie, was seriöse Ratgeber ausmacht – und wann es Hilfe braucht.",
+      "url": "https://www.zeit.de/zeit-wissen/2025/03/babyschlaf-muedigkeit-kinder-eltern-social-media-tipps",
+      "image_url": "https://img.zeit.de/zeit-wissen/2025/03/da-faellt-herab-ein-traeumelein-bild-1/super__430x286",
+      "image_title": "Babyschlaf: Unzählige Babys werden in den Schlaf »geferbert«. Im Englischen heißt die Methode ehrlicherweise »cry it out«"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Langjährige Beziehung: Wir sind kein Traumpaar. Wir sind glückliche Maulwürfe",
+      "teaser": "Seit 42 Jahren sind unser Autor und seine Frau ein Paar. Dafür werden sie von anderen bewundert. Doch beide wissen auch: Je länger der Weg, desto tiefer die Spurrillen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-05/langjaehrige-beziehung-liebe-gefuehle-kommunikation",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025-05/andreas-oehler-alter-ehe-liebe/super__430x286",
+      "image_title": "Langjährige Beziehung: Wir sind kein Traumpaar. Wir sind glückliche Maulwürfe"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kaiserschnitt: Was ein Kaiserschnitt langfristig für die Gesundheit bedeutet",
+      "teaser": "Drei von zehn Babys kommen per Kaiserschnitt zur Welt. Die Folgen können sich erst Jahre später zeigen. Für die Mutter – aber auch für das Kind.",
+      "url": "https://www.zeit.de/gesundheit/2025-05/kaiserschnitt-gesundheit-mutter-kind-geburt",
+      "image_url": "https://img.zeit.de/gesundheit/2025-04/kaiserschnitt-gesundheit-mutter-kind-geburt-bild/super__430x286",
+      "image_title": "Kaiserschnitt: Symbolbild zum Kaiserschnitt"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Programmieren lernen: \"Wer die KI beherrscht, der besitzt Herrschaftswissen\"",
+      "teaser": "Wer coden kann, kann reich werden. Also versucht unser Autor, es via YouTube, an einer Bällebad- und einer Nobel-Uni zu lernen. Und stellt fest: Das ist leider Arbeit.",
+      "url": "https://www.zeit.de/campus/2025/02/programmieren-lernen-coding-karriere-informatikstudium-youtube",
+      "image_url": "https://img.zeit.de/campus/2025/02/programmieren-lernen-coding-karriere-informatikstudium-youtube-bild/super__430x286",
+      "image_title": "Programmieren lernen: \"Wer die KI beherrscht, der besitzt Herrschaftswissen\""
     },
     {
       "title": "Katar im Fußball: Es war die Abkehr vom Prinzip Katar, die PSG den Erfolg brachte",
@@ -160,11 +207,18 @@
       "image_title": "Katar im Fußball: Ousmane Dembélé, Symbol von PSG"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Babyschlaf: Jedes Kind kann schlafen lernen? So einfach ist es nicht",
-      "teaser": "Schon beim Wort \"Schlaf\" bricht das Baby unserer Autorin in Tränen aus. Nach Jahren des Schlafentzugs weiß sie, was seriöse Ratgeber ausmacht – und wann es Hilfe braucht.",
-      "url": "https://www.zeit.de/zeit-wissen/2025/03/babyschlaf-muedigkeit-kinder-eltern-social-media-tipps",
-      "image_url": "https://img.zeit.de/zeit-wissen/2025/03/da-faellt-herab-ein-traeumelein-bild-1/wide__892x501",
-      "image_title": "Babyschlaf: Unzählige Babys werden in den Schlaf »geferbert«. Im Englischen heißt die Methode ehrlicherweise »cry it out«"
+      "title": "Gletscherabbruch: \"Wie wenn ein Leben zu Ende gegangen wäre\"",
+      "teaser": "Beim Bergsturz im Schweizer Lötschental haben 300 Menschen innerhalb weniger Minuten alles verloren. Nun müssen sie von Grund auf neu beginnen. Aber wie?",
+      "url": "https://www.zeit.de/gesellschaft/2025-06/gletscherabbruch-blatten-loetschetal-neuaufbau",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-06/gletscherabbruch-blatten-loetschetal-neuaufbau-bild/wide__892x501",
+      "image_title": "Gletscherabbruch: Daniel Ritler"
+    },
+    {
+      "title": "Nahost: Greta Thunberg auf Segelschiff unterwegs in den Gazastreifen",
+      "teaser": "Greta Thunberg will mit anderen Aktivisten Hilfsgüter in den Gazastreifen bringen. Egal wie schlecht die Chancen stünden, man müsse es versuchen, sagte die Schwedin.",
+      "url": "https://www.zeit.de/politik/ausland/2025-06/greta-thunberg-schiff-gazastreifen",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-06/greta-thunberg-schiff-gazastreifen-bild/super__430x286",
+      "image_title": "Nahost: Beschreibung Aktivisten der Freedom Flotilla Coalition gehen an Bord des Bootes Madleen, bevor sie vom sizilianischen Hafen Catania in Richtung Gaza auslaufen. Service +++ dpa-Bildfunk +++ Aufnahmedatum 01.06.2025 Bildnachweis picture alliance/dpa/AP | Salvatore Cavalli"
     },
     {
       "title": "Aufrüstung in Europa: Großbritannien will U-Boot-Flotte deutlich erweitern",
@@ -172,83 +226,6 @@
       "url": "https://www.zeit.de/politik/ausland/2025-06/grossbritannien-u-boot-flotte-aufruestung",
       "image_url": "https://img.zeit.de/politik/ausland/2025-06/grossbritannien-u-boot-aufruestung-bild/super__430x286",
       "image_title": "Aufrüstung in Europa: Multi-Million Nuclear Submarine Upgrade To Secure 2,000 UK Jobs LARGS, SCOTLAND - FEBRUARY 27: In this handout image provided by MoD Crown Copyright, HMS Vengeance departs for Devonport prior to re-fit on Ferbruary 27, 2012 off the coast of Largs, Scotland. The UK Ministry of Defence has awarded UK's leading naval support business Babcock, on March 25, 2012, with a contract to commence the planning phase for the £350 million GBP refit of Trident ballistic missile submarine HMS Vengeance, which will be undertaken at their Devonport Royal Dockyard. The project to upgrade and refuel the nuclear submarine will safeguard 2,000 UK jobs and will take around three and a half years. River Tamar shipping was suspended when the the 150m-long, 15,900-tonne submarine HMS Vengeance travelled to the Devonport Dockyard ahead of the scheduled refit on March 2, 2012, arriving amid concerns without a signed contract for the refit. HMS Vengeance will be the last of four Vanguard class submarines to undergo a Lond Overhaul Period and Refuel LOP(R) at Davernport that will commence once HMS Vigilant leaves Devonport on completion of her LOP(R) in 2012. Mandatory Credit: (Photo by Andrew Linnett/MoD Crown Copyright via Getty Images)"
-    },
-    {
-      "title": "Ausgabe 22/2025: Maschine. Willkommen im Wochenende.",
-      "teaser": "Funkelnde Kugeln, fließende Buchstaben und ein verdrahtetes Gehirn.",
-      "url": "https://www.zeit.de/wochenende/2025/22",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-05/wochenende-21-hero-bild-4/wide__892x501",
-      "image_title": "Ausgabe 22/2025: Maschine. Willkommen im Wochenende."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hirnforschung: Ist das hier das Großtanten-Neuron?",
-      "teaser": "Wie entsteht Erinnerung? Ein Forscher will das ergründen, indem er Sensoren ins Gehirn einer Patientin legt. Unter 80 Millionen Neuronen muss er die richtigen finden.",
-      "url": "https://www.zeit.de/wissen/2025-05/hirnforschung-erinnerung-konzeptzellen-neuronen-epilepsie",
-      "image_url": "https://img.zeit.de/wissen/2025-02/hirnforschung-erinnerung-konzeptzellen-neuronen-epilepsie-bild/wide__892x501",
-      "image_title": "Hirnforschung: Bonn, 29.01.2025: Implantation von Tiefenelektroden an der Universitätsklinik für Epileptologie Bonn, durch Neurochirurg PD Dr. med. Valeri Borger und der Unterstützung von Prof. Dr. Florian Mormann. Mormann von der Bonner Uniklinik für Epileptologie erforscht mithilfe invasiver EEG-Messungen die Mechanismen der Wahrnehmung und des Gedächtnisses im menschlichen Gehirn. Durch die Analyse der Aktivität einzelner Nervenzellen im Schläfenlappen von Epilepsiepatienten untersucht er, wie das Gehirn Informationen verarbeitet und speichert. Bei seiner Forschung wird der „Epilepsie-Herd“ im Gehirn gesucht – diese Stelle könnte dann ggf. zu einem späteren Zeitpunkt operativ entfernt werden und zur Heilung beitragen, sodass, bei einem positiven Verlauf, keine epileptischen Anfälle mehr entstehen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kündigung der Wohnung: 70 Jahre war das ihr Zuhause. Dann soll sie raus",
-      "teaser": "Sie weiß noch, wie sie das Sofa kauften. Wo Helga krabbelte. Wie sie den Hörer abhob, als Peter starb. Paulas Wohnung: viel mehr als zwei Zimmer. Darf man ihr das nehmen?",
-      "url": "https://www.zeit.de/2025/23/kuendigung-wohnung-mietvertrag-alter-erinnerungen",
-      "image_url": "https://img.zeit.de/2025/23/paula-soll-raus-bild-1/wide__892x501",
-      "image_title": "Kündigung der Wohnung: 70 Jahre war das ihr Zuhause. Dann soll sie raus"
-    },
-    {
-      "title": "KZ-Wachmann: Der letzte SS-Wachmann",
-      "teaser": "Gregor Formanek saß oben auf den Türmen im KZ Sachsenhausen. Unten überlebte Jerzy Zawadzki. Als Formanek mit 99 Jahren angeklagt wird, kreuzen sich ihre Leben erneut.",
-      "url": "https://www.zeit.de/gesellschaft/2025-05/konzentrationslager-wachmann-gregor-formanek-ss-nationalsozialismus-sachsenhausen-gerichtsverfahren",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-05/konzentrationslager-wachmann-gregor-formanek-ss-40/wide__892x501",
-      "image_title": "KZ-Wachmann: Der letzte SS-Wachmann"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schreibschrift: Wenn alles fließt",
-      "teaser": "Die Schönschrift soll aus dem Schulalltag verschwinden. Sie sei antiquiert und unpraktisch, sagen Experten. Stimmt, doch genau das ist der beste Grund, sie zu lieben.",
-      "url": "https://www.zeit.de/kultur/2025-05/schreibschrift-schriftart-kursiv-typografie-schule",
-      "image_url": "https://img.zeit.de/kultur/2025-05/handschrift-teaser-bild/wide__892x501",
-      "image_title": "Schreibschrift: Wenn alles fließt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jette Nietzard: Hinter jedem Aufreger steht eine Debatte, die verschwiegen wird",
-      "teaser": "Linksradikale Selbstgerechtigkeit gegen brave Onkeltaktik: Der Streit um die Politikerin Jette Nietzard offenbart die Strategiekrise der Grünen. Und nicht nur ihre.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-05/jette-nietzard-die-gruenen-jugend-strategie-krise",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-05/jette-nietzard-die-gruenen-jugend-strategie-krise-bild/wide__892x501",
-      "image_title": "Jette Nietzard: Hinter jedem Aufreger steht eine Debatte, die verschwiegen wird"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Wien: Gegen Bevormundung",
-      "teaser": "Militante Demonstranten, ein Fall möglicher Polizeigewalt. Der \"Tatort\" Wien rückt den Übeln dieser Welt mit einem ungewöhnlichen Mittel zu Leibe: Humor.",
-      "url": "https://www.zeit.de/kultur/film/2025-05/tatort-wien-wir-sind-nicht-zu-fassen-obduktionsbericht",
-      "image_url": "https://img.zeit.de/kultur/film/2025-05/tatort-wien-wir-sind-nicht-bild-1/wide__892x501",
-      "image_title": "\"Tatort\" Wien: Noah L. Perktold (Jonas Leisch), Beritan Balci (Leyla Kiyak), Wolfgang Oliver (Markus Schuch), Christina Scherrer (Meret Schande), Harald Krassnitzer (Moritz Eisner) und Adele Neuhauser (Bibi Fellner)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jon Kabat-Zinn: \"Achtsamkeit ist eine Superkraft\"",
-      "teaser": "Jon Kabat-Zinn gilt als Erfinder der modernen Achtsamkeit. Er entwickelte eine der wichtigsten Methoden gegen Stress. Ein Gespräch mit einem Mann, der die Ruhe selbst ist",
-      "url": "https://www.zeit.de/gesundheit/2025-05/jon-kabat-zinn-achtsamkeit-meditation-psyche-buddhismus",
-      "image_url": "https://img.zeit.de/gesundheit/2025-05/jon-kabat-zinn-achtsamkeit-meditation-psyche-buddhismus-bild/super__430x286",
-      "image_title": "Jon Kabat-Zinn: Illustration by Lorenzo Gritti"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verjüngungsbehandlung: Was hält unser Gesicht wirklich jung?",
-      "teaser": "Lachssperma, Microneedling, Fadenlifting: Wir haben Dermatologen gefragt, welche minimalinvasiven Behandlungen uns verjüngen – und welche nur teuer und eher nutzlos sind.",
-      "url": "https://www.zeit.de/wissen/2025-05/verjuengungsbehandlung-dermatologen-aerzte-nicht-invasiv-schoenheitsideal",
-      "image_url": "https://img.zeit.de/wissen/2025-05/verjuengungsbehandlung-dermatologen-aerzte-nicht-invasiv-schoenheitsideal-bild/super__430x286",
-      "image_title": "Verjüngungsbehandlung: Nahaufnahme Gesicht"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Heidi Gross: \"Ich dachte: Gott, ist das Kind schön\"",
-      "teaser": "Heidi Gross managt einige der berühmtesten Models der Welt, sie entdeckte Diane Kruger und begleitete Claudia Schiffer nach Paris.",
-      "url": "https://www.zeit.de/2025/23/heidi-gross-model-management-industrie",
-      "image_url": "https://img.zeit.de/hamburg/2025-05/heidi-gross-model-management-industrie-teaser/super__430x286",
-      "image_title": "Heidi Gross: Heidi Gross in ihrem Büro in der Hartungstraße"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ehrenamt: Was bringt es, Notleidenden zu helfen? Damit fliegt man nicht zum Mars",
-      "teaser": "Wir verlassen das Zeitalter der Solidarität und treten ein in die Ära des Deals. Ich komme zuerst, was hast du mir zu bieten? Höchste Zeit, dem entgegenzutreten.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-05/ehrenamt-menschlichkeit-abschiednehmen-power-of-goodbye",
-      "image_url": "https://img.zeit.de/zeit-verlag/2025-05/ehrenamt-menschlichkeit-abschiednehmen-power-of-goodbye-bild-3/super__430x286",
-      "image_title": "Ehrenamt: Was bringt es, Notleidenden zu helfen? Damit fliegt man nicht zum Mars"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Karl Renner: \"Seiner Exzellenz Marschall Stalin\"",
@@ -272,10 +249,17 @@
       "image_title": "Olympia-Bewerbung: Das Stadion bauen sie in jedem Fall"
     },
     {
+      "title": "\"Tatort\" Wien: Gegen Bevormundung",
+      "teaser": "Militante Demonstranten, ein Fall möglicher Polizeigewalt. Der \"Tatort\" Wien rückt den Übeln dieser Welt mit einem ungewöhnlichen Mittel zu Leibe: Humor.",
+      "url": "https://www.zeit.de/kultur/film/2025-05/tatort-wien-wir-sind-nicht-zu-fassen-obduktionsbericht",
+      "image_url": "https://img.zeit.de/kultur/film/2025-05/tatort-wien-wir-sind-nicht-bild-1/super__430x286",
+      "image_title": "\"Tatort\" Wien: Noah L. Perktold (Jonas Leisch), Beritan Balci (Leyla Kiyak), Wolfgang Oliver (Markus Schuch), Christina Scherrer (Meret Schande), Harald Krassnitzer (Moritz Eisner) und Adele Neuhauser (Bibi Fellner)"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Lost in Translation\": Das Lebensgefühl zwischen zwei Flugtickets",
       "teaser": "\"Lost in Translation\" schrieb Filmgeschichte. Auch über zwanzig Jahre später wirkt die Einsamkeit seiner Figuren wie eine Diagnose unserer hypervernetzten Gegenwart.",
       "url": "https://www.zeit.de/2025/22/lost-in-translation-sofia-coppola-bill-murray-scarlett-johansson",
-      "image_url": "https://img.zeit.de/kultur/2025-05/lost-in-translation-sofia-coppola-bill-murray-scarlett/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/2025-05/lost-in-translation-sofia-coppola-bill-murray-scarlett/super__430x286",
       "image_title": "\"Lost in Translation\": Das Lebensgefühl zwischen zwei Flugtickets"
     },
     {
@@ -519,11 +503,11 @@
       "image_title": "Fahrradwerkstatt: Reparieren statt verkaufen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zugelassene Autos: Diese Autos fahren in Ihrer Gegend",
-      "teaser": "Wo gibt es die meisten SUVs? Und wo fahren die meisten BMW X7 oder Teslas? Neue Daten zeigen, welche Modelle wo in Deutschland besonders beliebt sind – auch Ihr Auto.",
-      "url": "https://www.zeit.de/mobilitaet/2025-05/zugelassene-autos-modelle-marken-karte-deutschland-statistik",
-      "image_url": "https://img.zeit.de/mobilitaet/2025-05/zugelassene-autos-modelle-marken-karte-deutschland-teaser/super__430x286",
-      "image_title": "Zugelassene Autos: Diese Autos fahren in Ihrer Gegend"
+      "title": "Z+ (abopflichtiger Inhalt); Lastenräder : Sind Kinder auf dem Lastenrad sicher?",
+      "teaser": "Fahrradunfälle mit mitfahrenden Kindern nehmen zu. Wie sicher Lastenräder sind, hängt von der Bauart ab – und von einer Entscheidung der Eltern.",
+      "url": "https://www.zeit.de/mobilitaet/2025-05/lastenraeder-kinder-transport-sicherheit-fahrrad",
+      "image_url": "https://img.zeit.de/mobilitaet/2025-05/lastenraeder-kinder-transport-sicherheit-fahrrad-bild/super__430x286",
+      "image_title": "Lastenräder: Sind Kinder auf dem Lastenrad sicher?"
     },
     {
       "title": "Hamburg: 72-Jähriger nach tödlichem Brand in Krankenhaus festgenommen",
@@ -657,10 +641,17 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/buecherwelten.jpg/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Jon Kabat-Zinn: \"Achtsamkeit ist eine Superkraft\"",
+      "teaser": "Jon Kabat-Zinn gilt als Erfinder der modernen Achtsamkeit. Er entwickelte eine der wichtigsten Methoden gegen Stress. Ein Gespräch mit einem Mann, der die Ruhe selbst ist",
+      "url": "https://www.zeit.de/gesundheit/2025-05/jon-kabat-zinn-achtsamkeit-meditation-psyche-buddhismus",
+      "image_url": "https://img.zeit.de/gesundheit/2025-05/jon-kabat-zinn-achtsamkeit-meditation-psyche-buddhismus-bild/wide__892x501",
+      "image_title": "Jon Kabat-Zinn: Illustration by Lorenzo Gritti"
+    },
+    {
       "title": "Primärarztsystem: Hausärzteverband begrüßt neue Pläne zur Patientensteuerung",
       "teaser": "Der Verband der Hausärztinnen und Hausärzte sieht die Pläne der Bundesregierung für ein Primärarztsystem als sinnvoll an. Die Kassenärzte widersprechen teilweise.",
       "url": "https://www.zeit.de/gesundheit/2025-06/hausarzt-verband-patientensteuerung-primarzt-cdu",
-      "image_url": "https://img.zeit.de/gesundheit/2025-06/hausaerzte-neues-system-patientensteuerung-machbar-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/gesundheit/2025-06/hausaerzte-neues-system-patientensteuerung-machbar-bild/super__430x286",
       "image_title": "Primärarztsystem: Patienten stehen vor der Öffnung der Sprechstunde einer HNO-Praxis auf dem Gang vor der Praxistür. Berlin"
     },
     {
@@ -669,13 +660,6 @@
       "url": "https://www.zeit.de/gesundheit/2025-06/anspruch-auf-mutterschutz-nach-fehlgeburt-tritt-in-kraft",
       "image_url": "https://img.zeit.de/gesundheit/2025-06/anspruch-mutterschutz-fehlgeburt-tritt-in-kraft/super__430x286",
       "image_title": "Gesetzesänderung: Eine kleine Kinderfigur in einer Wiege ist am 01.02.2013 in Heidelberg (Baden-Württemberg) auf dem Bergfriedhof auf einem sogenannten Grabfeld für Stillgeborene zu sehen. Das sogenannte Grabfeld für Stillgeborene soll Eltern, die ihre Kinder durch einen frühen Schwangerschaftsverlust oder durch eine Fehlgeburt verlieren, einen Ort zum Trauern geben."
-    },
-    {
-      "title": "E-Zigaretten und Vapes: Gesundheitsministerin will strengere Regeln für Vapes und E-Zigaretten",
-      "teaser": "Bundesgesundheitsministerin Nina Warken fordert die Länder auf, mehr gegen Vapes und E-Zigaretten zu tun. Sie fordert Rauchverbote etwa in Schulen und Gaststätten.",
-      "url": "https://www.zeit.de/gesundheit/2025-05/nichtraucherschutz-e-zigaretten-vapes-nina-warken-gesundheitspolitik",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-05/nichtraucherschutz-e-zigaretten-vapes-nina-warken-gesundheitspolitik-bild/super__430x286",
-      "image_title": "E-Zigaretten und Vapes: Dieses Foto vom 30. Mai 2023 zeigt eine Person, die in Paris eine elektronische Zigarette raucht."
     },
     {
       "title": "Satelliten: Ein Rechenzentrum im All",
@@ -748,11 +732,11 @@
       "image_title": "Untervermietung: \"Es lagen sogar benutzte Kondome auf der Fensterbank\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Langjährige Beziehung: Wir sind kein Traumpaar. Wir sind glückliche Maulwürfe",
-      "teaser": "Seit 42 Jahren sind unser Autor und seine Frau ein Paar. Dafür werden sie von anderen bewundert. Doch beide wissen auch: Je länger der Weg, desto tiefer die Spurrillen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-05/langjaehrige-beziehung-liebe-gefuehle-kommunikation",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-05/andreas-oehler-alter-ehe-liebe/super__430x286",
-      "image_title": "Langjährige Beziehung: Wir sind kein Traumpaar. Wir sind glückliche Maulwürfe"
+      "title": "Z+ (abopflichtiger Inhalt); Männliche Prostitution • Z+ Empfehlung: Wie ich einmal einen Callboy buchte",
+      "teaser": "Maniküre, Waxing, Selfcare sind alles Schritte zum besseren Ich. Kann das auch für bezahlten Sex gelten? Jede Frau will doch schließlich begehrt werden. Besonders Mütter.",
+      "url": "https://www.zeit.de/zeit-magazin/2025/23/maennliche-prostitution-callboy-sexarbeit-frauen",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/23/wie-ich-einmal-diesen-mann-buchte-bild-1/super__430x286",
+      "image_title": "Männliche Prostitution • Z+ Empfehlung: Sein Strippername ist Aaron, im echten Leben heißt er Kevin"
     },
     {
       "title": "Neu: Buchstabensalat: Wortgeflecht",
@@ -853,11 +837,11 @@
       "image_title": "Cybermobbing: \"Der Algorithmus pusht Inhalte, die verletzend sind\""
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Abor und Tynna: Was hilft die Uni, wenn man vor 150 Millionen Menschen auftritt?",
@@ -895,36 +879,36 @@
       "image_title": "Steigende Mieten: Hamburg Altona"
     },
     {
-      "title": "Urlauber brauchen viel Geduld: ADAC erwartet viel Stau zu Beginn der Pfingstferien",
-      "url": "https://www.zeit.de/news/2025-06/02/adac-erwartet-viel-stau-zu-beginn-der-pfingstferien"
+      "title": "Richtungswahl: Rechtsruck in Polen: Konservativer wird neuer Präsident",
+      "url": "https://www.zeit.de/news/2025-06/01/prognose-kopf-an-kopf-rennen-bei-praesidentenwahl-in-polen"
     },
     {
-      "title": "Kriminalität: FBI: Sechs Verletzte bei \"gezieltem Gewaltakt\" in Colorado",
-      "url": "https://www.zeit.de/news/2025-06/02/fbi-sechs-verletzte-bei-gezieltem-gewaltakt-in-colorado"
+      "title": "Start der Festival-Saison: Von Camping bis Unwetter: Das Festival-ABC",
+      "url": "https://www.zeit.de/news/2025-06/02/von-camping-bis-unwetter-das-festival-abc"
     },
     {
-      "title": "Sachsen-Anhalt: Bau des neuen LKA-Gebäudes könnte früher beginnen",
-      "url": "https://www.zeit.de/news/2025-06/02/bau-des-neuen-lka-gebaeudes-koennte-frueher-beginnen"
+      "title": "Diplomatie: Ministerin Alabali-Radovan eröffnet Nachhaltigkeitskonferenz",
+      "url": "https://www.zeit.de/news/2025-06/02/ministerin-alabali-radovan-eroeffnet-nachhaltigkeitskonferenz"
     },
     {
-      "title": "Verdacht auf Brandstiftung: Nach Brand in Klinik: Tatverdächtiger kommt vor Haftrichter",
-      "url": "https://www.zeit.de/news/2025-06/02/nach-brand-in-klinik-tatverdaechtiger-kommt-vor-haftrichter"
+      "title": "Fernsehen: Unter der rauen Schale: Tragikomödie \"Familie is nich\"",
+      "url": "https://www.zeit.de/news/2025-06/02/unter-der-rauen-schale-tragikomoedie-familie-is-nich"
     },
     {
-      "title": "Verwaltung: Ministerium: Technische Probleme bei Ausländerbehörde gelöst",
-      "url": "https://www.zeit.de/news/2025-06/02/ministerium-technische-probleme-bei-auslaenderbehoerde-geloest"
+      "title": "Die Lage im Überblick: Israels Armee forciert Gaza-Einsatz - Ringen um Feuerpause",
+      "url": "https://www.zeit.de/news/2025-06/02/israels-armee-forciert-gaza-einsatz-ringen-um-feuerpause"
     },
     {
-      "title": "Musikfestival: 100 Acts & Überraschungen: So wird das Rock am Ring-Jubiläum",
-      "url": "https://www.zeit.de/news/2025-06/02/100-acts-ueberraschungen-so-wird-das-rock-am-ring-jubilaeum"
+      "title": "Neues Staatsoberhaupt: Polnische Medien rufen Rechtskonservativen zum Sieger aus",
+      "url": "https://www.zeit.de/news/2025-06/02/polnische-medien-rufen-rechtskonservativen-zum-sieger-aus"
     },
     {
-      "title": "Reiseverhalten: Umfrage: Knappes Drittel verreist 2025 seltener oder kürzer",
-      "url": "https://www.zeit.de/news/2025-06/02/umfrage-knappes-drittel-verreist-2025-seltener-oder-kuerzer"
+      "title": "Streaming-Hit: \"Exterritorial\" - der erfolgreichste deutsche Netflix-Film",
+      "url": "https://www.zeit.de/news/2025-06/02/exterritorial-der-erfolgreichste-deutsche-netflix-film"
     },
     {
-      "title": "Auto: E-Antrieb wird Trumpf bei vielen Firmenflotten - mit Folgen",
-      "url": "https://www.zeit.de/news/2025-06/02/e-antrieb-wird-trumpf-bei-vielen-firmenflotten-mit-folgen"
+      "title": "Bundestag: Klöckner bemängelt \"sehr schwach\" besetzte Regierungsbank",
+      "url": "https://www.zeit.de/news/2025-06/02/kloeckner-bemaengelt-sehr-schwach-besetzte-regierungsbank"
     }
   ]
 }
