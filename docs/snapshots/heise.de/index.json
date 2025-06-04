@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-04T00:51:27",
+  "timestamp": "2025-06-04T02:39:41",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Google setzt die KI-gestützte Suchfunktion \"Ask Photos\" vorerst aus",
+      "url": "https://www.heise.de/news/Google-setzt-die-KI-gestuetzte-Suchfunktion-Ask-Photos-vorerst-aus-10424617.html"
+    },
     {
       "title": "Alterskontrolle: Pornhub und YouPorn ziehen sich aus Frankreich zurück",
       "url": "https://www.heise.de/news/Alterskontrolle-Pornhub-und-YouPorn-ziehen-sich-aus-Frankreich-zurueck-10424589.html"
@@ -60,10 +64,6 @@
     {
       "title": "Neue Bauweise soll Petabyte-SSDs ermöglichen",
       "url": "https://www.heise.de/news/Neue-Bauweise-soll-Petabyte-SSDs-ermoeglichen-10424097.html"
-    },
-    {
-      "title": "Android und iPhones: Gemini Live mit Kamera und Bildschirmfreigabe wird verteilt",
-      "url": "https://www.heise.de/news/Android-und-iPhones-Gemini-Live-mit-Kamera-und-Bildschirmfreigabe-wird-verteilt-10424195.html"
     },
     {
       "title": "Anga ComMehr Wettbewerb, aber nicht weniger Regulierung",
@@ -186,20 +186,26 @@
       "image_title": "Zwei Fritzbox-Router vor buntem Hintergrund"
     },
     {
+      "title": "Google setzt die KI-gestützte Suchfunktion \"Ask Photos\" vorerst aus",
+      "teaser": "Mithilfe Geminis werden Nutzer die Fotos-App von Google durchsuchen können. Doch es gibt Probleme mit dieser Funktion. Google will in zwei Wochen nachbessern.",
+      "url": "https://www.heise.de/news/Google-setzt-die-KI-gestuetzte-Suchfunktion-Ask-Photos-vorerst-aus-10424617.html",
+      "image_title": "Google Photos App-Icon auf Smartphone"
+    },
+    {
       "title": "Alterskontrolle: Pornhub und YouPorn ziehen sich aus Frankreich zurück",
       "teaser": "Wie das Alter von Nutzern von Pornoseiten überprüft werden soll, sorgt in Frankreich für Streit zwischen Regierung und Anbietern. Nun eskaliert der Konflikt.",
       "url": "https://www.heise.de/news/Alterskontrolle-Pornhub-und-YouPorn-ziehen-sich-aus-Frankreich-zurueck-10424589.html",
       "image_title": "Mann schaut in einem abgedunkelten Raum pornografische Bilder auf einem Computerbildschirm an."
     },
     {
+      "title": "Aufbruch zur europäischen Multi-Vendor-Cloud",
+      "teaser": "Es ist heikel, zu sehr von außereuropäischen IT-Serviceprovidern abzuhängen. Mit der offenen API-Spezifikation „Sovereign European Cloud API“ (SECA) ist jedoch Flexibilität bei Cloud-Diensten möglich.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6996447782&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Monatlich kündbar: Der beste Handyvertrag im Juni – 150 GB Vodafone für 22 Euro",
       "teaser": "150 GB im Vodafone-Netz für 22 Euro oder 150 GB im Telekom-Netz für 29 Euro: Wir zeigen die besten monatlich kündbaren Handytarife.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/monatlich-kuendbar-der-beste-handyvertrag-im-juni-150-gb-vodafone-fuer-22-euro/6r7pf35?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Windows Server 2025 für die moderne IT",
-      "teaser": "Neue Maßstäbe bei der Sicherheit, eine nahtlose Integration von Hybridfunktionen und die Unterstützung der neuesten Hardware: Mit Windows Server 2025 lässt sich die IT effizient modernisieren.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6994109743&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Kraftfahrt-Bundesamt genehmigt Test für vollautomatisierten Bus in Burgdorf",
@@ -228,12 +234,6 @@
       "teaser": "Mit Kurzbefehlen können Apple-User häufige Vorgänge automatisieren. Apple arbeitet angeblich daran, dass die App mit natürlicher Sprache bedient werden kann.",
       "url": "https://www.heise.de/news/Kurzbefehle-App-von-Apple-soll-kuenftig-natuerliche-Sprache-verstehen-10424308.html",
       "image_title": "Kurzbefehle-App von Apple"
-    },
-    {
-      "title": "Neue Bauweise soll Petabyte-SSDs ermöglichen",
-      "teaser": "Für Server kommt die neue SSD-Bauform E2. Mit 64 Speicherbausteinen ist sie für Kapazitäten bis zu einem Petabyte gerüstet.",
-      "url": "https://www.heise.de/news/Neue-Bauweise-soll-Petabyte-SSDs-ermoeglichen-10424097.html",
-      "image_title": "Zwei große SSD-Prototypen nebeneinander auf Tischen"
     },
     {
       "title": "FahrraddiebstahlWie Sie Ihr Rad schützen und auf Verlust reagieren",
@@ -300,6 +300,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Neue Bauweise soll Petabyte-SSDs ermöglichen",
+      "teaser": "Für Server kommt die neue SSD-Bauform E2. Mit 64 Speicherbausteinen ist sie für Kapazitäten bis zu einem Petabyte gerüstet.",
+      "url": "https://www.heise.de/news/Neue-Bauweise-soll-Petabyte-SSDs-ermoeglichen-10424097.html",
+      "image_title": "Zwei große SSD-Prototypen nebeneinander auf Tischen"
     },
     {
       "title": "Android und iPhones: Gemini Live mit Kamera und Bildschirmfreigabe wird verteilt",
@@ -372,15 +378,15 @@
       "image_title": "Logo der CISA"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Die Cybersecurity steht an einem Wendepunkt und benötigt revolutionäre Technologien. In einem Webcast sprechen wir über die Merkmale und Vorteile von KI-gestützten Abwehrmaßnahmen, die über klassische Verhaltensanalysen hinausgehen.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/risiko-management-und-cybersicherheit-dynamisch-und-automatisch-dank-ki-4925/?source=hbsad_ersatz"
+    },
+    {
       "title": "Warnung vor Sicherheitslücken in vorinstallierten Apps auf Billig-Phones",
       "teaser": "Auf günstigen Smartphones vorrangig mit Mediatek-Chipsatz wurden vorinstallierte Apps mit Sicherheitslücken entdeckt.",
       "url": "https://www.heise.de/news/Vorinstallierte-Apps-mit-Sicherheitsluecken-auf-guenstigen-Smartphones-10423601.html",
       "image_title": "Webseiten-Screenshots der betroffenen Anbieter"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "iX-Workshop: Boost Your RAG - Optimierungsstrategien für KI-Systeme",
@@ -431,12 +437,6 @@
       "title": "IBMs-Werkzeugkasten für die Cloud: Das wird aus Ansible und Terraform",
       "teaser": "Red Hat gehört seit 2019 zu IBM, HashiCorp seit Februar 2025. IBM hat damit Ansible und Terraform gekauft. Jetzt wird klar, wie die Werkzeuge zusammenarbeiten.",
       "url": "https://www.heise.de/news/IBM-uebernimmt-HashiCorp-Terraform-und-Ansible-sollen-zusammenarbeiten-10423304.html"
-    },
-    {
-      "title": "Astronomen klären Entstehung des heißen Gasriesen Wasp-121b",
-      "teaser": "Der Exoplanet Wasp-121b umkreist seinen Stern in einer sehr engen Bahn. Entstanden ist er jedoch viel weiter weg, wie Forscher herausgefunden haben.",
-      "url": "https://www.heise.de/news/Astronomen-klaeren-Entstehung-des-heissen-Gasriesen-Wasp-121b-10423737.html",
-      "image_title": "Künstlerische Darstellung von der Wasp-121b in der Zeit seiner Entstehung"
     },
     {
       "title": "Falsch konfigurierte DNS-Einträge: URLs von Bose und Co mit Malware verseucht",
@@ -605,21 +605,20 @@
       "url": "https://www.heise.de/en/news/WWDC-Disappointing-in-terms-of-Apple-AI-10421859.html"
     },
     {
-      "title": "Bit-Rauschen: Hohe Umsätze und Umweltbelastungen durch KI",
-      "teaser": "Nvidia, MediaTek und vielleicht Lenovo arbeiten an ARM-Chips. Viele Firmen verdienen prächtig an KI-Beschleunigern, deren Stromdurst jedoch die Luft verpestet.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Hohe-Umsaetze-und-Umweltbelastungen-durch-KI-10399038.html",
-      "image_title": ","
-    },
-    {
-      "title": "Digitale VerwaltungWo man sich online ummelden kann – und wo nicht",
-      "teaser": "Die Einführung der Online-Ummeldung ist ein Mammutprojekt: Tausende Meldebehörden müssen angebunden werden.",
-      "url": "https://www.heise.de/news/Digitale-Verwaltung-Wo-man-sich-online-ummelden-kann-und-wo-nicht-10423687.html",
-      "image_title": "Die Karte der Senatskanzlei Hamburg zeigt den aktuellen Stand bei Rollout der elektronischen Wohnsitzanmeldung."
-    },
-    {
       "title": "Nobelpreisträger: KI ist wie die Elektrifizierung, sie wird alles verändern",
       "teaser": "Demis Hassabis, CEO von Google DeepMind, hält KI aktuell für übermäßig gehyped, auf längere Sicht berge sie jedoch extreme Umwälzungen für alle Lebensbereiche.",
       "url": "https://www.heise.de/news/Nobelpreistraeger-KI-wird-die-Welt-revolutionieren-wie-die-Elektrifizierung-10424035.html"
+    },
+    {
+      "title": "Online-Glücksspiel aus rechtlicher Sicht: Lizenzen, Sperren und Suchtprävention",
+      "teaser": "Geldspiele, bei denen nicht Geschicklichkeit entscheidet, unterliegen einer Lizenzpflicht. Bestimmungen sollen die Gefahr der Glücksspielsucht eindämmen.",
+      "url": "https://www.heise.de/hintergrund/Online-Gluecksspiel-aus-rechtlicher-Sicht-Lizenzen-Sperren-und-Suchtpraevention-10375668.html",
+      "image_title": "Recht: Online-Glücksspiel"
+    },
+    {
+      "title": "Erweiterte Android-Oberflächen mit Jetpack Compose programmieren",
+      "teaser": "Googles Framework Jetpack Compose bietet zahlreiche Möglichkeiten, um Bedienoberflächen mit nützlichen Zusatzfunktionen zu entwickeln.",
+      "url": "https://www.heise.de/ratgeber/Erweiterte-Android-Oberflaechen-mit-Jetpack-Compose-programmieren-10371270.html"
     },
     {
       "title": "OrtskontrolleSo gewinnen Sie die Kontrolle über iPhone-Standortfreigabe zurück",
@@ -655,12 +654,6 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-3-25-Breadboards-Vergleich-10418732.html"
     },
     {
-      "title": "Nützliches Zubehör für Kamerastative im Test",
-      "teaser": "Stabiler, komfortabler, praktischer: Wir zeigen, mit welchem Zubehör Sie das Beste aus Ihrem Stativ herausholen.",
-      "url": "https://www.heise.de/tests/Nuetzliches-Zubehoer-fuer-Kamerastative-im-Test-10391043.html",
-      "image_title": ", Alle Bilder: Michael Jordan"
-    },
-    {
       "title": "Retro-Fieber und Fernproduktion – die Fotonews der Woche 22/2025",
       "teaser": "Fuji lässt bei \"Canon\" produzieren und auch Yashica erfindet den Film-Hebel neu – die Foto-Welt dreht sich in nostalgischer Geschwindigkeit.",
       "url": "https://www.heise.de/news/Retro-Fieber-und-Fernproduktion-die-Fotonews-der-Woche-22-2025-10420287.html",
@@ -677,6 +670,12 @@
       "teaser": "Lange Zeit zeigte Instagram nur quadratische Bilder an, hochgeladen wird aber fast nur Hochformat. Nun unterstützt die App ein weiteres verbreitetes Format.",
       "url": "https://www.heise.de/news/Verbreitetstes-Fomat-bei-Smartphone-Kameras-Instagram-unterstuetzt-jetzt-3-4-10420036.html",
       "image_title": "Zwei Instagram-Beiträge, der rechte mit mehr Foto"
+    },
+    {
+      "title": "Kameraklassiker Nikon F – Beginn einer Ära",
+      "teaser": "Die Nikon F eroberte in den 1960er-Jahren den Kameramarkt. Mit ihrem innovativen Baukastensystem und ihrer Unverwüstlichkeit überzeugte sie Profis.",
+      "url": "https://www.heise.de/tests/Kameraklassiker-Nikon-F-im-Test-Beginn-einer-Aera-10387885.html",
+      "image_title": "Nikon F mit aufgesetztem Photomic FTn Sucher und Weitwinkelobjektiv 24 mm/2.8. Gut zu erkennen ist der silberfarbene Objektiventriegelungsknopf auf der rechten Seite. Nikon-Objektive fokussieren andersherum als die Objektive sämtlicher anderer Hersteller, die Umgewöhnung beginnt bereits beim Anbringen des Objektivs an den Body., Alle Bilder: Knut Gielen"
     },
     {
       "title": "Der Weg zur souveränen IT: Ziele, Risiken und Handlungsfelder",
@@ -753,22 +752,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Systemkollaps als Kriegsstrategie: Wie China Taiwan ohne einen Schuss einnehmen könnte",
-      "teaser": "China entwickelt Taktiken, um Taiwan ohne offenen Krieg in die Knie zu zwingen. Das Ziel: Kritische Infrastruktur lahmlegen und einen Systemzusammenbruch herbeiführen.",
-      "url": "https://www.heise.de/tp/features/Systemkollaps-als-Kriegsstrategie-Wie-China-Taiwan-ohne-einen-Schuss-einnehmen-koennte-10400071.html",
-      "image_title": "Ein Haus im dunkeln"
+      "title": "Goldmedaille unter falscher Flagge? Der IOC-Skandal um Imane Khelif",
+      "teaser": "Gutachten erschüttert das IOC. Olympiasiegerin Imane Khelif soll biologisch männliche Merkmale tragen. Was wusste das IOC? Ein Kommentar.",
+      "url": "https://www.heise.de/tp/features/Goldmedaille-unter-falscher-Flagge-Der-IOC-Skandal-um-Imane-Khelif-10423087.html",
+      "image_title": "Khelif im Ring"
     },
     {
-      "title": "Operation Spinnennetz: Gamechanger im Ukraine-Krieg?",
-      "teaser": "Die Ukraine greift Russlands Bomberflotte an. Ein beispielloser Schlag gegen die nukleare Triade einer Atommacht. Wie wird Moskau reagieren?",
-      "url": "https://www.heise.de/tp/features/Operation-Spinnennetz-Gamechanger-im-Ukraine-Krieg-10422608.html",
-      "image_title": "Eines ersten Satellitenbilder der Auswirkung Herr Angriffe."
+      "title": "Saatkrähen: Schädlinge oder verkannte Helfer der Landwirtschaft?",
+      "teaser": "Trotz Artenschutz erlaubt ein Gericht den Abschuss von Saatkrähen. Doch die Vögel fressen auch viele Schädlinge.",
+      "url": "https://www.heise.de/tp/features/Saatkraehen-Schaedlinge-oder-verkannte-Helfer-der-Landwirtschaft-10422303.html",
+      "image_title": "Krähe im Fadenkreuz"
     },
     {
-      "title": "Hat Elon Musk Tesla in die Sackgasse manövriert?",
-      "teaser": "Tesla steckt in der Krise: Die Verkäufe brechen ein, ein günstiges Modell gibt es nicht. Stattdessen setzt Chef Elon Musk alles auf eine riskante Karte.",
-      "url": "https://www.heise.de/tp/features/Hat-Elon-Musk-Tesla-in-die-Sackgasse-manoevriert-10422702.html",
-      "image_title": "Tesla Automobil Dearship außen und Warenzeichen-Logo"
+      "title": "Künstliche Dummheit: Warum KI uns in den nächsten Weltkrieg führt",
+      "teaser": "KI-Systeme unterstützen bereits 34 Regierungen bei außenpolitischen Entscheidungen. Sie versprechen effizientere Diplomatie, doch Algorithmen neigen oft zur militärischen Eskalation.",
+      "url": "https://www.heise.de/tp/features/Kuenstliche-Dummheit-Warum-KI-uns-in-den-naechsten-Weltkrieg-fuehrt-10420619.html",
+      "image_title": "Ein aus Cyborgs und Menschen gemischtes Doppel spielt Schach vor einer Weltkarte"
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
