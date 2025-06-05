@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-05T16:12:33",
+  "timestamp": "2025-06-05T17:07:35",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,7 +26,15 @@
   ],
   "articles": [
     {
-      "title": "Nutzer von Kleinanzeigen können nun sehen, wer ihnen folgt",
+      "title": "Umfrage: Elektronische Patientenakte durch Presse und Krankenkassen bekannt",
+      "url": "https://www.heise.de/news/Umfrage-Elektronische-Patientenakte-durch-Presse-und-Krankenkassen-bekannt-10434851.html"
+    },
+    {
+      "title": "Synthesizer Arturia MiniFreak: Firmware-Update macht ihn zum Vocoder",
+      "url": "https://www.heise.de/news/Synthesizer-Arturia-MiniFreak-Firmware-Update-macht-ihn-zum-Vocoder-10434861.html"
+    },
+    {
+      "title": "Kleinanzeigen: Follower nicht länger inkognito",
       "url": "https://www.heise.de/news/Nutzer-von-Kleinanzeigen-koennen-nun-sehen-wer-ihnen-folgt-10434831.html"
     },
     {
@@ -58,14 +66,6 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-poco-f7-pro-im-test/hekn2mj"
     },
     {
-      "title": "Acronis Cyber Protect: Mehrere teils kritische Sicherheitslücken",
-      "url": "https://www.heise.de/news/Acronis-Cyber-Protect-Mehrere-teils-kritische-Sicherheitsluecken-10433266.html"
-    },
-    {
-      "title": "Jetzt patchen: Exploit für kritische Roundcube-Lücke ist öffentlich",
-      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-bedroht-Roundcube-Webmail-10423965.html"
-    },
-    {
       "title": "Jetzt auch in DeutschlandWhatsApp schickt Nutzern Direktnachrichten",
       "teaser": "Bei ersten deutschen Nutzern taucht seit wenigen Tagen ein neues Chatfenster vom Absender WhatsApp auf. Was es damit auf sich hat.",
       "url": "https://www.heise.de/news/WhatsApp-schickt-Nutzern-Direktnachrichten-jetzt-auch-in-Deutschland-10427116.html",
@@ -89,9 +89,10 @@
       "url": "https://www.heise.de/ratgeber/Waermepumpe-selbst-kaufen-und-anschliessen-10385208.html"
     },
     {
-      "title": "AusbauGlasfaser bis in die Wohnung – ein FTTH-\"Häuserkampf\"",
-      "teaser": "Rund 22 Millionen Wohnungen in Mehrfamilienhäusern haben noch keinen Glasfaseranschluss. Der Ausbau ist schwierig, die Kosten hoch.",
-      "url": "https://www.heise.de/news/Glasfaser-bis-in-die-Wohnung-ein-FTTH-Haeuserkampf-10425958.html"
+      "title": "HalbleiterwerkGlobalfoundries investiert 1,1 Milliarden Euro in Dresden",
+      "teaser": "Der Chipauftragsfertiger GF will sein Dresdener Werk ausbauen, noch bevor die staatlichen Förderungen final sind.",
+      "url": "https://www.heise.de/news/Globalfoundries-investiert-1-1-Milliarden-Euro-in-Dresden-10434749.html",
+      "image_title": "Chipstrukturen auf Silizium-Wafer"
     },
     {
       "title": "iOS 26 und AirPodsFrische Gerüchte zur WWDC 2025",
@@ -127,10 +128,9 @@
       "image_title": "James-Webb erkundet fremde Welten"
     },
     {
-      "title": "HyperschallflugzeugHermeus' Prototyp Quarterhorse Mk 1 fliegt erstmals",
-      "teaser": "Das US-Luftfahrtunternehmen Hermeus will Hyperschallflugzeuge bauen. Der Prototyp Quarterhorse Mk 1 hat seinen Erstflug absolviert.",
-      "url": "https://www.heise.de/news/Hermeus-Prototyp-Quarterhorse-Mk-1-fliegt-erstmals-10425737.html",
-      "image_title": "Hermeus Quarterhorse Mk1"
+      "title": "AusbauGlasfaser bis in die Wohnung – ein FTTH-\"Häuserkampf\"",
+      "teaser": "Rund 22 Millionen Wohnungen in Mehrfamilien-Häusern haben noch keinen Glasfaseranschluss. Der Ausbau ist schwierig, die Kosten hoch.",
+      "url": "https://www.heise.de/news/Glasfaser-bis-in-die-Wohnung-ein-FTTH-Haeuserkampf-10425958.html"
     },
     {
       "title": "Autobahn-geeignetAudi A6 e-tron Avant im Test",
@@ -168,25 +168,42 @@
       "image_title": "Sparschwein hinter Taschenrechner"
     },
     {
+      "title": "HyperschallflugzeugHermeus' Prototyp Quarterhorse Mk 1 fliegt erstmals",
+      "teaser": "Das US-Luftfahrtunternehmen Hermeus will Hyperschallflugzeuge bauen. Der Prototyp Quarterhorse Mk 1 hat seinen Erstflug absolviert.",
+      "url": "https://www.heise.de/news/Hermeus-Prototyp-Quarterhorse-Mk-1-fliegt-erstmals-10425737.html",
+      "image_title": "Hermeus Quarterhorse Mk1"
+    },
+    {
+      "title": "/e/ OS 3.0Murena kündigt neue Version des \"entgoogelten\" Androids an",
+      "teaser": "Der Google-freie Android-Fork /e/OS des französischen Unternehmens Murena bekommt in Version 3.0 neue Funktionen.",
+      "url": "https://www.heise.de/news/e-OS-3-0-Murena-kuendigt-neue-Version-des-entgoogelten-Android-an-10431883.html",
+      "image_title": "Smartphone mit /e/ OS 3.0"
+    },
+    {
       "title": "Per NanolithografieMikrometer-große Geige ist nur unter dem Mikroskop zu sehen",
       "teaser": "Um ein neues Nanolithografiesystem zu testen, haben Forscher in England ein Mikrometer großes Bild einer Geige erschaffen.",
       "url": "https://www.heise.de/news/Britische-Forscher-erschaffen-kleinste-Geige-der-Welt-10431913.html",
       "image_title": "Kleinste Geige der Welt"
     },
     {
-      "title": "Auto-Abos als AbsatzbeschleunigerBYD und Finn kooperieren",
-      "teaser": "Finn und die chinesische Marke BYD wollen künftig enger zusammenarbeiten. Dafür soll das Angebot kräftig wachsen.",
-      "url": "https://www.heise.de/news/BYD-und-Finn-kooperieren-Auto-Abos-als-Absatzbeschleuniger-10423843.html",
-      "image_title": "BYD Dolphin Surf"
+      "title": "Umfrage: Elektronische Patientenakte durch Presse und Krankenkassen bekannt",
+      "teaser": "Zwar ist die elektronische Patientenakte den meisten bekannt, allerdings sind wenige in der Praxis mit ihr in Berührung gekommen.",
+      "url": "https://www.heise.de/news/Umfrage-Elektronische-Patientenakte-durch-Presse-und-Krankenkassen-bekannt-10434851.html",
+      "image_title": "Smartphone, auf dem verschiedene Gesundheitssymbole zu sehen sind"
     },
     {
-      "title": "\"007 First Light\"\"Hitman\"-Entwickler machen James Bond spielbar",
-      "teaser": "Die Macher der \"Hitman\"-Spiele setzten James Bond als Action-Adventure um: \"007 First Light\" soll 2026 auf den Markt kommen.",
-      "url": "https://www.heise.de/news/007-First-Light-Hitman-Entwickler-machen-James-Bond-spielbar-10426652.html",
-      "image_title": "Screenshot aus \"First Light\" zeigt James Bond"
+      "title": "Synthesizer Arturia MiniFreak: Firmware-Update macht ihn zum Vocoder",
+      "teaser": "Arturia spendiert dem MiniFreak das Update auf Version 4.0.0. Damit wird der \"algorithmische Synthesizer\" zum Vocoder.",
+      "url": "https://www.heise.de/news/Synthesizer-Arturia-MiniFreak-Firmware-Update-macht-ihn-zum-Vocoder-10434861.html",
+      "image_title": "MiniFreak V aktualisiert die MiniFreak-Firmware auf Stand 4.0.0"
     },
     {
-      "title": "Nutzer von Kleinanzeigen können nun sehen, wer ihnen folgt",
+      "title": "Mehr Übersicht im Netzwerk",
+      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Kleinanzeigen: Follower nicht länger inkognito",
       "teaser": "Nutzer der Plattform Kleinanzeigen können nun die Namen ihrer Follower sehen und nicht nur deren Anzahl.",
       "url": "https://www.heise.de/news/Nutzer-von-Kleinanzeigen-koennen-nun-sehen-wer-ihnen-folgt-10434831.html"
     },
@@ -197,21 +214,10 @@
       "image_title": "Weißes Copyright-Symbol"
     },
     {
-      "title": "Proactive IT – agieren statt reagieren!",
-      "teaser": "Früher griff die IT erst ein, wenn ein Problem auftrat. Das war reaktiv statt vorausschauend. Heute sollten Arbeitsumgebungen so gestaltet sein, dass Probleme gar nicht erst entstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983802470&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Nützliches Zubehör für Kamerastative im Test",
       "teaser": "Stabiler, komfortabler, praktischer: Wir zeigen, mit welchem Zubehör Sie das Beste aus Ihrem Stativ herausholen.",
       "url": "https://www.heise.de/tests/Nuetzliches-Zubehoer-fuer-Kamerastative-im-Test-10391043.html",
       "image_title": ", Alle Bilder: Michael Jordan"
-    },
-    {
-      "title": "Globalfoundries investiert 1,1 Milliarden Euro in Dresden",
-      "teaser": "Der Chipauftragsfertiger GF will sein Dresdener Werk ausbauen, noch bevor die staatlichen Förderungen final sind.",
-      "url": "https://www.heise.de/news/Globalfoundries-investiert-1-1-Milliarden-Euro-in-Dresden-10434749.html",
-      "image_title": "Chipstrukturen auf Silizium-Wafer"
     },
     {
       "title": "Kupfer-Glas-Migration: \"Voraussetzungen nicht vorhanden\"",
@@ -228,11 +234,6 @@
       "title": "Xiaomi Poco F7 Pro im Test: Leistung wie ein Top-Smartphone für unter 500 Euro",
       "teaser": "Snapdragon 8 Gen 3, 90-Watt-Laden und 3K-OLED – das Poco F7 Pro bietet Oberklasse-Technik zum fairen Preis. Der Test zeigt, ob es der Mittelklasse-König ist.",
       "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-poco-f7-pro-im-test/hekn2mj?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "AlertAcronis Cyber Protect: Mehrere teils kritische Sicherheitslücken",
-      "teaser": "In der Backup-Software Acronis Cyber Protect stopft der Hersteller mehrere teils höchst kritische Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Acronis-Cyber-Protect-Mehrere-teils-kritische-Sicherheitsluecken-10433266.html"
     },
     {
       "title": "FahrraddiebstahlWie Sie Ihr Rad schützen und auf Verlust reagieren",
@@ -284,8 +285,8 @@
       "url": "https://www.heise.de/news/Wendelstein-7-X-stellt-neuen-Fusionsrekord-auf-10422850.html"
     },
     {
-      "title": "Leicht radioaktiver Rauchmelder – Großer Feuerwehreinsatz",
-      "url": "https://www.heise.de/news/Leicht-radioaktiver-Rauchmelder-Grosser-Feuerwehreinsatz-10419905.html"
+      "title": "Glasfaser bis in die Wohnung – ein FTTH-\"Häuserkampf\"",
+      "url": "https://www.heise.de/news/Glasfaser-bis-in-die-Wohnung-ein-FTTH-Haeuserkampf-10425958.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -300,6 +301,11 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "AlertAcronis Cyber Protect: Mehrere teils kritische Sicherheitslücken",
+      "teaser": "In der Backup-Software Acronis Cyber Protect stopft der Hersteller mehrere teils höchst kritische Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Acronis-Cyber-Protect-Mehrere-teils-kritische-Sicherheitsluecken-10433266.html"
+    },
+    {
       "title": "AlertUpdateJetzt patchen: Exploit für kritische Roundcube-Lücke ist öffentlich",
       "teaser": "Vor wenigen Tagen machten die Webmailer-Entwickler die Lücke publik, nun gibt es einen Beispiel-Exploit. Admins sollten schleunigst reagieren.",
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecke-bedroht-Roundcube-Webmail-10423965.html",
@@ -310,12 +316,6 @@
       "teaser": "Eigentlich war für 23andme bereits ein Käufer gefunden, aber ein Konkurrent gibt nicht auf: Die Ex-Chefin der Firma hat womöglich eine weitere Auktion erreicht.",
       "url": "https://www.heise.de/news/23andme-Doch-noch-weitere-Auktion-fuer-Firma-und-Gendatensaetze-geplant-10432371.html",
       "image_title": "Testkit von 23andme"
-    },
-    {
-      "title": "/e/ OS 3.0: Murena kündigt neue Version des \"entgoogelten\" Android an",
-      "teaser": "Der Google-freie Android-Fork /e/OS des französischen Unternehmens Murena ist in Version 3.0 und neuen Funktionen angekündigt worden.",
-      "url": "https://www.heise.de/news/e-OS-3-0-Murena-kuendigt-neue-Version-des-entgoogelten-Android-an-10431883.html",
-      "image_title": "Smartphone mit /e/ OS 3.0"
     },
     {
       "title": "Studie: Apple kassiert nur bei 10 Prozent der App-Umsätze mit",
@@ -371,15 +371,21 @@
       "url": "https://www.heise.de/news/software-architektur-tv-Soll-man-LLMs-fuer-Softwarearchitektur-nutzen-10422285.html"
     },
     {
+      "title": "BYD und Finn kooperieren: Auto-Abos als Absatzbeschleuniger",
+      "teaser": "Finn und die chinesische Marke BYD wollen künftig enger zusammenarbeiten. Dafür soll das Angebot kräftig wachsen.",
+      "url": "https://www.heise.de/news/BYD-und-Finn-kooperieren-Auto-Abos-als-Absatzbeschleuniger-10423843.html",
+      "image_title": "BYD Dolphin Surf"
+    },
+    {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Die Cybersecurity steht an einem Wendepunkt und benötigt revolutionäre Technologien. In einem Webcast sprechen wir über die Merkmale und Vorteile von KI-gestützten Abwehrmaßnahmen, die über klassische Verhaltensanalysen hinausgehen.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/risiko-management-und-cybersicherheit-dynamisch-und-automatisch-dank-ki-4925/?source=hbsad_ersatz"
+    },
+    {
       "title": "Java zu langsam: Apple hat das Passwort-Monitoring in Swift umgeschrieben",
       "teaser": "Neuer Passwort-Monitoring-Dienst: Das Apple-Team lobt Swift aufgrund seiner hohen Performance und besseren Handhabung beim Umstieg von Java.",
       "url": "https://www.heise.de/news/Swift-statt-Java-Apple-hat-seinen-Passwort-Monitoring-Dienst-umgeschrieben-10428626.html",
       "image_title": "Verwalte-deine-Passwörter-Tag: Make Passwords Great Again!"
-    },
-    {
-      "title": "KI-Fabrik: künstliche Intelligenz im industriellen Maßstab bereitstellen",
-      "teaser": "In der KI-Fabrik werden Entwicklung, Einsatz und Verwaltung von KI-Modellen und -Anwendungen standardisiert und automatisiert. Das bringt Vorteile, aber auch Herausforderungen.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-fabrik-kuenstliche-intelligenz-im-industriellen-massstab-bereitstellen-4920/?source=hbsadersatz"
     },
     {
       "title": "c't-Webinar: Entdecke die Welt der Quanten",
@@ -429,12 +435,6 @@
       "title": "UpdateLadetarife für Elektroautos im Vergleich",
       "teaser": "Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
       "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
-    },
-    {
-      "title": "Fraunhofer IOF: 3D-Erkennung transparenter Objekte in weniger als 1,5 Sekunden",
-      "teaser": "Die automatische Erkennung von 3D-Objekten mit \"unkooperativen\" Oberflächen ist eine schwierige und langsame Angelegenheit. Das Fraunhofer IOF hat eine Lösung.",
-      "url": "https://www.heise.de/news/Fraunhofer-IOF-3D-Erkennung-transparenter-Objekte-in-weniger-als-1-5-Sekunden-10426736.html",
-      "image_title": "Roboter mit 3D-Erkennungssystem goROBOT3D."
     },
     {
       "title": "ChatGPT statt Recherche: Gericht sanktioniert Anwalt",
@@ -612,15 +612,16 @@
       "image_title": "Nahaufnahme der Oberkante einer Sapphire Radeon RX 9060 XT"
     },
     {
+      "title": "Marktübersicht: Acht Router für das Open-Source-Routerbetriebssystem OpenWrt",
+      "teaser": "Wir haben acht Modelle herausgesucht, auf denen Sie OpenWrt mit geringem Aufwand installieren können, und zeigen, worauf es bei der Geräteentscheidung ankommt.",
+      "url": "https://www.heise.de/tests/Marktuebersicht-Acht-Router-fuer-das-Open-Source-Routerbetriebssystem-OpenWrt-10397398.html",
+      "image_title": ", Rudolf A. Blaha"
+    },
+    {
       "title": "Games: Fünf digitale Brettspieladaptionen im Test",
       "teaser": "Platzsparend, schnell & günstig: So manche Games für Brettspielliebhaber bringen handfeste Vorteile und neue Möglichkeiten. Wir stellen fünf lohnende Titel vor.",
       "url": "https://www.heise.de/tests/Games-Fuenf-digitale-Brettspieladaptionen-im-Test-10373948.html",
       "image_title": "Eine Frau greift mit der Hand in einen Monitor und bewegt eine Spielfigur auf einem Spielbrett."
-    },
-    {
-      "title": "Outlook: Totalausfall wegen zu großer OST-Datei",
-      "teaser": "Outlook Classic meldet: \"Datendatei voll\", lässt aber kein Löschen zu. Der Webclient hilft nicht, wie lässt sich die Datenmenge dennoch verkleinern?",
-      "url": "https://www.heise.de/ratgeber/Outlook-Totalausfall-wegen-zu-grosser-OST-Datei-10420583.html"
     },
     {
       "title": "WeltWeitWebSo gehen Sie im Ausland mit dem iPhone kostengünstig online",
@@ -657,12 +658,6 @@
       "url": "https://www.heise.de/ratgeber/Bastelprojekt-IoT-Kartenhalter-im-Selbstbau-10375024.html"
     },
     {
-      "title": "Bildbearbeitung mit Photoshop: Wie Sie Smartfilter optimal einsetzen",
-      "teaser": "Mit Smartobjekten können Sie Bilder in Photoshop verlustfrei bearbeiten. Diese Technik lässt sich auch auf Filter anwenden. Wir zeigen, wie es geht.",
-      "url": "https://www.heise.de/ratgeber/Bildbearbeitung-mit-Photoshop-Wie-Sie-Smartfilter-optimal-einsetzen-10392364.html",
-      "image_title": ", Alle Bilder: Maike Jarsetz"
-    },
-    {
       "title": "Adobe veröffentlicht Photoshop für Android",
       "teaser": "Photoshop soll künftig auf diversen Plattformen im Rahmen eines Abomodells zu Hause sein. Nach Desktop, iPad und iPhone folgt nun eine Android-Version.",
       "url": "https://www.heise.de/news/Adobe-veroeffentlicht-Photoshop-fuer-Android-10423416.html",
@@ -672,6 +667,12 @@
       "title": "Black Forest Labs: Bildbearbeitung über KI-Prompt",
       "teaser": "Die künstliche Intelligenz \"Flux.1 Kontext\" vom Freiburger KI-Startup Black Forest Labs analysiert den Bildinhalt, um ihn per Prompteingabe zu bearbeiten.",
       "url": "https://www.heise.de/news/Black-Forest-Labs-Bildbearbeitung-ueber-KI-Prompt-10421969.html"
+    },
+    {
+      "title": "Nützliches Zubehör für Kamerastative im Test",
+      "teaser": "Stabiler, komfortabler, praktischer: Wir zeigen, mit welchem Zubehör Sie das Beste aus Ihrem Stativ herausholen.",
+      "url": "https://www.heise.de/tests/Nuetzliches-Zubehoer-fuer-Kamerastative-im-Test-10391043.html",
+      "image_title": ", Alle Bilder: Michael Jordan"
     },
     {
       "title": "Retro-Fieber und Fernproduktion – die Fotonews der Woche 22/2025",
@@ -753,22 +754,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Angriff auf russische Flughäfen: Schäden durch Operation Spinnennetz womöglich größer als erwartet",
-      "teaser": "Ukrainische Drohnen trafen russische Militärflughäfen. Mehrere strategische Bomber wurden zerstört. Doch der Preis für diesen Erfolg könnte höher sein als gedacht.",
-      "url": "https://www.heise.de/tp/features/Angriff-auf-russische-Flughaefen-Schaeden-durch-Operation-Spinnennetz-womoeglich-groesser-als-10424811.html",
-      "image_title": "Russische A-50"
+      "title": "China startet Auslieferung des Stealth-Kampfjets J-35",
+      "teaser": "China liefert offenbar erste Exemplare seines neuen Tarnkappen-Kampfjets J-35 aus. Das Flugzeug soll es mit der US-amerikanischen F-35 aufnehmen können. Doch Details bleiben unklar.",
+      "url": "https://www.heise.de/tp/features/China-startet-Auslieferung-des-Stealth-Kampfjets-J-35-10428710.html",
+      "image_title": "Die FC-31, ein früheres Versuchsmodell der J-35."
     },
     {
-      "title": "Neue Simulationen zeigen erhöhtes Risiko für planetaren Schleudereffekt",
-      "teaser": "Unser Sonnensystem ist weniger stabil als gedacht. Vorbeiziehende Sterne können die Planeten aus der Bahn werfen. Selbst die Erde ist nicht sicher.",
-      "url": "https://www.heise.de/tp/features/Neue-Simulationen-zeigen-erhoehtes-Risiko-fuer-planetaren-Schleudereffekt-10425667.html",
-      "image_title": "Unser Sonnensystem"
+      "title": "Japan verliert Spitzenposition als größte Gläubigernation an Deutschland",
+      "teaser": "Deutschland überholt Japan trotz Rekordwert bei Auslandsvermögen. Japans Nettoauslandsvermögen erreicht 3,7 Billionen US-Dollar. China bleibt auf Platz drei.",
+      "url": "https://www.heise.de/tp/features/Japan-verliert-Spitzenposition-als-groesste-Glaeubigernation-an-Deutschland-10407448.html",
+      "image_title": "Stadtszene in Japan"
     },
     {
-      "title": "Biologie trifft Robotik: Sanfte Steuerung für Cyborg-Kakerlaken",
-      "teaser": "Forscher haben eine neue Methode entwickelt, Kakerlaken zu steuern. Statt Elektroschocks nutzen sie UV-Licht und einen kleinen Helm. Was die Insekten damit leisten können, ist erstaunlich.",
-      "url": "https://www.heise.de/tp/features/Biologie-trifft-Robotik-Sanfte-Steuerung-fuer-Cyborg-Kakerlaken-10424543.html",
-      "image_title": "Kakerlake mit einem Steuerungssystem auf dem Rücken."
+      "title": "Deutsche Panzerbrigade in Litauen: Schutzschild oder Provokation?",
+      "teaser": "In Litauen steht eine neue deutsche Panzerbrigade. Was die Suwalki-Linie ist, warum Washington und Berlin kollidieren könnten und Russland dies als Bedrohung auffässt (Leserdebatte).",
+      "url": "https://www.heise.de/tp/features/Deutsche-Panzerbrigade-in-Litauen-Schutzschild-oder-Provokation-10425575.html",
+      "image_title": "Panzer mit Nato-Flagge in einer Reihe"
     },
     {
       "title": "Hostinger VPS im Test: Leistungsstarke virtuelle Server zum fairen Preis",
