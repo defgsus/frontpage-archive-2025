@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-07T09:09:17",
+  "timestamp": "2025-06-07T10:09:21",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutsche Industrie baut 100.000 Jobs binnen eines Jahres ab",
+      "url": "https://www.heise.de/news/Deutsche-Industrie-baut-100-000-Jobs-binnen-eines-Jahres-ab-10436829.html"
+    },
     {
       "title": "Weltweit Web: So gehen Sie im Urlaub mit Apple-Smartphones kostengünstig online",
       "url": "https://www.heise.de/ratgeber/Weltweit-Web-So-gehen-Sie-im-Urlaub-mit-Apple-Smartphones-kostenguenstig-online-10389280.html"
@@ -60,10 +64,6 @@
     {
       "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
       "url": "https://www.heise.de/ratgeber/Waermepumpen-Hack-Wie-man-im-Sommer-den-ueberschuessigen-Solarstrom-nutzt-10394046.html"
-    },
-    {
-      "title": "Von stiller Natur und surrealen Fassaden: Die Bilder der Woche 22",
-      "url": "https://www.heise.de/news/Von-stiller-Natur-und-surrealen-Fassaden-Die-Bilder-der-Woche-22-10435310.html"
     },
     {
       "title": "Was stellt Apple alles vor?WWDC 2025: Gerüchte im Roundup, Liveticker am Pfingstmontag",
@@ -185,21 +185,26 @@
       "url": "https://www.heise.de/news/Wo-Smartwatches-tatsaechlich-nuetzlich-sind-c-t-uplink-10435003.html"
     },
     {
+      "title": "Deutsche Industrie baut 100.000 Jobs binnen eines Jahres ab",
+      "teaser": "Die Wirtschaftskrise hinterlässt Spuren in der Industrie. Vor allem Autohersteller bauen Stellen ab, andere Branchen sind weniger betroffen.",
+      "url": "https://www.heise.de/news/Deutsche-Industrie-baut-100-000-Jobs-binnen-eines-Jahres-ab-10436829.html"
+    },
+    {
       "title": "Weltweit Web: So gehen Sie im Urlaub mit Apple-Smartphones kostengünstig online",
       "teaser": "Das Handy im Ausland weckt Unsicherheiten: Was kostet Telefonie, sollte ich mobile Daten deaktivieren und wo genau entstehen Kosten? Unser Ratgeber fürs iPhone.",
       "url": "https://www.heise.de/ratgeber/Weltweit-Web-So-gehen-Sie-im-Urlaub-mit-Apple-Smartphones-kostenguenstig-online-10389280.html",
       "image_title": ", Mix and Match Studio, stock.adobe.com"
     },
     {
+      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
+      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Neuer Benchmark soll Schmeichelei von KI-Modellen aufdecken",
       "teaser": "Sprachmodelle neigen dazu, den Menschen nach dem Mund zu reden. Ein neuer Benchmark soll helfen, diese Schmeichelei zu messen und einzudämmen.",
       "url": "https://www.heise.de/hintergrund/Neuer-Benchmark-soll-Schmeichelei-von-KI-Modellen-aufdecken-10436746.html",
       "image_title": "Künstliche Intelligenz"
-    },
-    {
-      "title": "Mehr Übersicht im Netzwerk",
-      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Product Owner AI Day: Zielführender KI-Einsatz bei der Produktentwicklung",
@@ -230,11 +235,6 @@
       "teaser": "Der neunte Haupt-Teil von \"Resident Evil\" heißt \"Requiem\" – und kommt schon im Februar. Publisher Capcom hat einen ersten Trailer veröffentlicht.",
       "url": "https://www.heise.de/news/Resident-Evil-9-Requiem-fuer-2026-angekuendigt-10436776.html",
       "image_title": "Screenshot aus Resident Evil 9"
-    },
-    {
-      "title": "Viren jagen und Daten retten: Desinfec’t 2025 jetzt auf USB-Stick vorbestellen",
-      "teaser": "Die neue Version des c’t-Sicherheitstools Desinfec’t 2025 erlaubt den sicheren Zugriff auf mit Malware verseuchte Windows-PCs.",
-      "url": "https://www.heise.de/news/Viren-jagen-und-Daten-retten-Desinfec-t-2025-jetzt-auf-USB-Stick-vorbestellen-10426364.html"
     },
     {
       "title": "FahrraddiebstahlWie Sie Ihr Rad schützen und auf Verlust reagieren",
@@ -300,6 +300,11 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Viren jagen und Daten retten: Desinfec’t 2025 jetzt auf USB-Stick vorbestellen",
+      "teaser": "Die neue Version des c’t-Sicherheitstools Desinfec’t 2025 erlaubt den sicheren Zugriff auf mit Malware verseuchte Windows-PCs.",
+      "url": "https://www.heise.de/news/Viren-jagen-und-Daten-retten-Desinfec-t-2025-jetzt-auf-USB-Stick-vorbestellen-10426364.html"
     },
     {
       "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
@@ -369,15 +374,15 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/samsung-galaxy-s25-edge-im-test/csrzym1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Wie Sie mit modernen Clients die IT entlasten und für mehr Sicherheit sorgen",
+      "teaser": "Hybride Arbeitsmodelle stellen IT- und Sicherheitsverantwortliche vor Herausforderungen. Sie müssen nicht nur den Schutz der verteilten Endgeräte gewährleisten, sondern diese auch verwalten und im Fehlerfall Support bieten. Wie hardwarebasierte Sicherheits- & Managementfunktionen diese Aufgabe erleichtern.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/hardwarebasierte-sicherheit-und-effizientes-management-fuer-ihre-endgeraete-4924/?source=hbsadersat"
+    },
+    {
       "title": "Staatliche Überwachung: Apple legt erstmals Anfragen zu Push-Tokens offen",
       "teaser": "Die Push-Server von Apple und Google verschicken täglich Abermilliarden von Mitteilungen. Das weckt Begehrlichkeiten bei Behörden – auch in Deutschland.",
       "url": "https://www.heise.de/news/Staatliche-Ueberwachung-Apple-legt-erstmals-Anfragen-zu-Push-Tokens-offen-10436250.html",
       "image_title": "Telegram-Logo auf Handy-Bildschirm"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Refurbed ist erstmals profitabel – Umsatz vor allem in Deutschland",
@@ -430,11 +435,6 @@
       "title": "Gesetzesvorhaben: Ist dDoS in Russland künftig legal?",
       "teaser": "Die Überlastungsangriffe stehen derzeit zwar unter Strafe – künftig soll es jedoch Ausnahmen geben. Betroffen wären viele westliche Unternehmen.",
       "url": "https://www.heise.de/news/Gesetzesvorhaben-Ist-dDoS-in-Russland-kuenftig-legal-10436032.html"
-    },
-    {
-      "title": "c't-Webinar: Photovoltaik kompakt",
-      "teaser": "Photovoltaikanlagen lohnen sich! Wie Sie Kosten kalkulieren, Angebote bewerten und die für Sie passende Lösung finden, erfahren Sie im c't-Webinar.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-kompakt-10423300.html"
     },
     {
       "title": "Massiver Cyberangriff auf US-Provider: Erster Einbruch schon ein Jahr früher",
@@ -606,21 +606,20 @@
       "url": "https://www.heise.de/en/news/ARM-gives-up-Cortex-10386982.html"
     },
     {
-      "title": "Games: Fünf digitale Brettspieladaptionen im Test",
-      "teaser": "Platzsparend, schnell & günstig: So manche Games für Brettspielliebhaber bringen handfeste Vorteile und neue Möglichkeiten. Wir stellen fünf lohnende Titel vor.",
-      "url": "https://www.heise.de/tests/Games-Fuenf-digitale-Brettspieladaptionen-im-Test-10373948.html",
-      "image_title": "Eine Frau greift mit der Hand in einen Monitor und bewegt eine Spielfigur auf einem Spielbrett."
-    },
-    {
-      "title": "Vorsicht, Kunde! – Lottogewinn steht Erben zu",
-      "teaser": "Viele Menschen hoffen, mit Glücksspielen kurzfristig zu Geld zu kommen. Wann müssen Gewinne versteuert werden, wer erbt und wer profitiert vom Glücksspiel?",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Gluecksspielgewinne-versteuern-und-erben-10435048.html",
-      "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
+      "title": "c’t uplinkWo Smartwatches tatsächlich nützlich sind",
+      "teaser": "Was die smarten Uhren mittlerweile können, wie sich die Modelle unterscheiden und wie Google Fossil verprellt hat, darüber sprechen wir in c’t uplink.",
+      "url": "https://www.heise.de/news/Wo-Smartwatches-tatsaechlich-nuetzlich-sind-c-t-uplink-10435003.html"
     },
     {
       "title": "c't 3003Windows-Spiele laufen besser auf Linux (wirklich!)",
       "teaser": "Wir haben auf einem PC-Handheld mit Windows 11 SteamOS, also Linux, installiert. Resultat: bis zu 54 % mehr Leistung.",
       "url": "https://www.heise.de/news/Windows-Spiele-laufen-besser-auf-Linux-wirklich-10436098.html"
+    },
+    {
+      "title": "Games: Fünf digitale Brettspieladaptionen im Test",
+      "teaser": "Platzsparend, schnell & günstig: So manche Games für Brettspielliebhaber bringen handfeste Vorteile und neue Möglichkeiten. Wir stellen fünf lohnende Titel vor.",
+      "url": "https://www.heise.de/tests/Games-Fuenf-digitale-Brettspieladaptionen-im-Test-10373948.html",
+      "image_title": "Eine Frau greift mit der Hand in einen Monitor und bewegt eine Spielfigur auf einem Spielbrett."
     },
     {
       "title": "Top-Produkte für Reise & Co.iPhone-Zubehör für unterwegs",
@@ -629,16 +628,16 @@
       "image_title": ", Mix and Match Studio, stock.adobe.com"
     },
     {
+      "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
+      "teaser": "iOS-Apps und Dienste helfen unterwegs, sich zurechtzufinden, Buchungen zu tätigen und an wichtige Informationen vor Ort zu gelangen. 24 Mac & i-Tipps.",
+      "url": "https://www.heise.de/tests/iPhone-Apps-fuer-die-Reise-Zwei-Dutzend-Tipps-10397681.html",
+      "image_title": ", Mix and Match Studio, stock.adobe.com"
+    },
+    {
       "title": "Projekt-Zauberer mit KI: Merlin Project 9 im Test",
       "teaser": "Die App Merlin Project 9 von den ProjectWizards erstellt Gantt-Projektpläne – und das nun auch mit Unterstützung von Künstlicher Intelligenz.",
       "url": "https://www.heise.de/tests/Projekt-Zauberer-mit-KI-Merlin-Project-9-im-Test-10380471.html",
       "image_title": "Merlin 9 auf verschiedenen Systemen"
-    },
-    {
-      "title": "BenQ PD2730S im Test: 27-Zoll-Monitor mit 5K-Auflösung und vielen Ports",
-      "teaser": "Der 27-Zoll-Monitor PD2730S mit 5K-Auflösung zeigt sich äußerst anschlussfreudig. Mac & i hat ihn getestet.",
-      "url": "https://www.heise.de/tests/Pixelprotz-mit-vielen-Ports-10397848.html",
-      "image_title": "BenQ PD2730S"
     },
     {
       "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
@@ -761,16 +760,16 @@
       "image_title": "Eine Hand hält eine Auster ins Bild"
     },
     {
-      "title": "Kriegstüchtig 2029: Deutschland als neue Nato-Drehscheibe",
-      "teaser": "Deutschland soll zur logistischen Basis der Nato werden. Ein neues Konzept plant die Umrüstung der zivilen Infrastruktur für den Kriegsfall. Was bedeutet das für die Bevölkerung?",
-      "url": "https://www.heise.de/tp/features/Kriegstuechtig-2029-Deutschland-als-neue-Nato-Drehscheibe-10424083.html",
-      "image_title": "Bundeswehrsanitäterin vor einem Fahrzeug"
-    },
-    {
       "title": "Friedrich Merz in Washington: Elon Musk hat ihm die Show gestohlen",
       "teaser": "Friedrich Merz traf Trump in Washington. Der Kanzler wollte in der Ukraine-Frage punkten. Doch am Ende stand er im Schatten. (Leserdebatte)",
       "url": "https://www.heise.de/tp/features/Friedrich-Merz-in-Washington-Elon-Musk-hat-ihm-die-Show-gestohlen-10435531.html",
       "image_title": "Merz bei Trump"
+    },
+    {
+      "title": "Zerbricht die Allianz mit Israel am Gaza-Krieg?",
+      "teaser": "Die Geduld des Westens mit Israel schwindet. Waffenlieferungen stoppen, Handel aussetzen, Sanktionen verhängen – alles Optionen, um Druck auszuüben. (Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/Zerbricht-die-Allianz-mit-Israel-am-Gaza-Krieg-10422436.html",
+      "image_title": "Die Fahne Israels flattert vor de Bundestag in berlin"
     },
     {
       "title": "Beste eSIM-Tarife für Dubai & Vereinigte Arabische Emirate",
