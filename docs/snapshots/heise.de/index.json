@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-07T11:07:26",
+  "timestamp": "2025-06-07T12:16:42",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bildbearbeitung für Landschaftsfotos: Alternativen zu Adobe Lightroom im Test",
+      "url": "https://www.heise.de/ratgeber/Bildbearbeitung-fuer-Landschaftsfotos-Alternativen-zu-Adobe-Lightroom-im-Test-10387573.html"
+    },
     {
       "title": "Deutsche Industrie baut 100.000 Jobs binnen eines Jahres ab",
       "url": "https://www.heise.de/news/Deutsche-Industrie-baut-100-000-Jobs-binnen-eines-Jahres-ab-10436829.html"
@@ -60,10 +64,6 @@
     {
       "title": "Viren jagen und Daten retten: Desinfec’t 2025 jetzt auf USB-Stick vorbestellen",
       "url": "https://www.heise.de/news/Viren-jagen-und-Daten-retten-Desinfec-t-2025-jetzt-auf-USB-Stick-vorbestellen-10426364.html"
-    },
-    {
-      "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
-      "url": "https://www.heise.de/ratgeber/Waermepumpen-Hack-Wie-man-im-Sommer-den-ueberschuessigen-Solarstrom-nutzt-10394046.html"
     },
     {
       "title": "Was stellt Apple alles vor?WWDC 2025: Gerüchte im Roundup, Liveticker am Pfingstmontag",
@@ -185,20 +185,26 @@
       "url": "https://www.heise.de/news/Wo-Smartwatches-tatsaechlich-nuetzlich-sind-c-t-uplink-10435003.html"
     },
     {
+      "title": "Bildbearbeitung für Landschaftsfotos: Alternativen zu Adobe Lightroom im Test",
+      "teaser": "Die Welt der Bildbearbeitung dreht sich häufig um Adobe. Doch es gibt Alternativen. Naturfotograf Philipp Jakesch testet, ob sie seine Anforderungen erfüllen.",
+      "url": "https://www.heise.de/ratgeber/Bildbearbeitung-fuer-Landschaftsfotos-Alternativen-zu-Adobe-Lightroom-im-Test-10387573.html",
+      "image_title": ", Bildmontage: bearbeitet Cathrin Kapell, c’t fotografie"
+    },
+    {
       "title": "Deutsche Industrie baut 100.000 Jobs binnen eines Jahres ab",
       "teaser": "Die Wirtschaftskrise hinterlässt Spuren in der Industrie. Vor allem Autohersteller bauen Stellen ab, andere Branchen sind weniger betroffen.",
       "url": "https://www.heise.de/news/Deutsche-Industrie-baut-100-000-Jobs-binnen-eines-Jahres-ab-10436829.html"
+    },
+    {
+      "title": "Die IT-Infrastruktur effizient verwalten",
+      "teaser": "Jede Konsole für die Endgeräteverwaltung hat Vorteile, ein Wechsel ist oft aufwändig. Deshalb hat Aagon eine Plattform aus seiner UEM-Lösung ACMP und Intune geschaffen, die die Vorteile kombiniert.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7000572934&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Weltweit Web: So gehen Sie im Urlaub mit Apple-Smartphones kostengünstig online",
       "teaser": "Das Handy im Ausland weckt Unsicherheiten: Was kostet Telefonie, sollte ich mobile Daten deaktivieren und wo genau entstehen Kosten? Unser Ratgeber fürs iPhone.",
       "url": "https://www.heise.de/ratgeber/Weltweit-Web-So-gehen-Sie-im-Urlaub-mit-Apple-Smartphones-kostenguenstig-online-10389280.html",
       "image_title": ", Mix and Match Studio, stock.adobe.com"
-    },
-    {
-      "title": "Die IT-Infrastruktur effizient verwalten",
-      "teaser": "Jede Konsole für die Endgeräteverwaltung hat Vorteile, ein Wechsel ist oft aufwändig. Deshalb hat Aagon eine Plattform aus seiner UEM-Lösung ACMP und Intune geschaffen, die die Vorteile kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7000572934&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Neuer Benchmark soll Schmeichelei von KI-Modellen aufdecken",
@@ -229,12 +235,6 @@
       "teaser": "Das \"Game of Thrones\"-Universum wird wieder als Videospiel umgesetzt: \"War for Westeros\" wird ein Strategiespiel im Stil von \"Age of Empires\".",
       "url": "https://www.heise.de/news/War-For-Westeros-Age-of-Empires-im-Game-of-Thrones-Universum-10436786.html",
       "image_title": "Screenshot aus Game of Thrones: War for Westeros"
-    },
-    {
-      "title": "\"Resident Evil 9: Requiem\" für 2026 angekündigt",
-      "teaser": "Der neunte Haupt-Teil von \"Resident Evil\" heißt \"Requiem\" – und kommt schon im Februar. Publisher Capcom hat einen ersten Trailer veröffentlicht.",
-      "url": "https://www.heise.de/news/Resident-Evil-9-Requiem-fuer-2026-angekuendigt-10436776.html",
-      "image_title": "Screenshot aus Resident Evil 9"
     },
     {
       "title": "FahrraddiebstahlWie Sie Ihr Rad schützen und auf Verlust reagieren",
@@ -278,16 +278,17 @@
       "url": "https://www.heise.de/tests/Hyundai-Ioniq-5-im-Test-Das-E-Auto-fuer-alle-die-bislang-keines-wollten-10386374.html"
     },
     {
-      "title": "Rekord bei Neuzulassungen von Elektroautos",
-      "url": "https://www.heise.de/news/Rekord-bei-Neuzulassungen-von-Elektroautos-10421210.html"
-    },
-    {
       "title": "Wendelstein 7-X stellt neuen Fusionsrekord auf",
-      "url": "https://www.heise.de/news/Wendelstein-7-X-stellt-neuen-Fusionsrekord-auf-10422850.html"
+      "url": "https://www.heise.de/news/Wendelstein-7-X-stellt-neuen-Fusionsrekord-auf-10422850.html",
+      "image_title": "Blick ins Innere Innere des Vakuumgefäßes von Wendelstein 7-X"
     },
     {
       "title": "Elon Musk vs. Donald Trump: Drohung mit SpaceX, Tesla-Aktie stürzt ab",
       "url": "https://www.heise.de/news/Elon-Musk-vs-Donald-Trump-Drohung-mit-SpaceX-Tesla-Aktie-stuerzt-ab-10435168.html"
+    },
+    {
+      "title": "Glasfaser bis in die Wohnung – ein FTTH-\"Häuserkampf\"",
+      "url": "https://www.heise.de/news/Glasfaser-bis-in-die-Wohnung-ein-FTTH-Haeuserkampf-10425958.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -300,6 +301,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "\"Resident Evil 9: Requiem\" für 2026 angekündigt",
+      "teaser": "Der neunte Haupt-Teil von \"Resident Evil\" heißt \"Requiem\" – und kommt schon im Februar. Publisher Capcom hat einen ersten Trailer veröffentlicht.",
+      "url": "https://www.heise.de/news/Resident-Evil-9-Requiem-fuer-2026-angekuendigt-10436776.html",
+      "image_title": "Screenshot aus Resident Evil 9"
     },
     {
       "title": "Viren jagen und Daten retten: Desinfec’t 2025 jetzt auf USB-Stick vorbestellen",
@@ -369,14 +376,14 @@
       "image_title": "Hologramm-Schloss über Handy"
     },
     {
+      "title": "Kernzahl, Taktfrequenz, Cache: Was bei der Auswahl der Server-CPU zählt",
+      "teaser": "Bei der Diskussion um Server-CPUs steht häufig die Anzahl der Rechenkerne im Vordergrund. Das ist jedoch nur ein Aspekt, der bei der Auswahl zu berücksichtigen ist.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/kernzahl-taktfrequenz-cache-was-bei-der-auswahl-einer-server-cpu-zaehlt-4928/?source=hbsadersatz"
+    },
+    {
       "title": "Samsung Galaxy S25 Edge im Test: Hauchdünnes Smartphone – aber wozu?",
       "teaser": "Schlankheitskur: Noch nie war ein Samsung-Smartphone so dünn wie das Galaxy Edge 25. Wie gut das Handy ist und ob es einen Haken gibt, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/samsung-galaxy-s25-edge-im-test/csrzym1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
-      "teaser": "Die Cybersecurity steht an einem Wendepunkt und benötigt revolutionäre Technologien. In einem Webcast sprechen wir über die Merkmale und Vorteile von KI-gestützten Abwehrmaßnahmen, die über klassische Verhaltensanalysen hinausgehen.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/risiko-management-und-cybersicherheit-dynamisch-und-automatisch-dank-ki-4925/?source=hbsad_ersatz"
     },
     {
       "title": "Staatliche Überwachung: Apple legt erstmals Anfragen zu Push-Tokens offen",
@@ -430,11 +437,6 @@
       "teaser": "Das Fairphone 6 erscheint Ende Juni. Das fairer produzierte Smartphone soll wieder modular sein und etwas günstiger als der Vorgänger werden, so erste Leaks.",
       "url": "https://www.heise.de/news/Leaks-Modulares-Fairphone-6-soll-am-25-Juni-vorgestellt-werden-10436048.html",
       "image_title": "Fairphone 5 von vorne"
-    },
-    {
-      "title": "Gesetzesvorhaben: Ist dDoS in Russland künftig legal?",
-      "teaser": "Die Überlastungsangriffe stehen derzeit zwar unter Strafe – künftig soll es jedoch Ausnahmen geben. Betroffen wären viele westliche Unternehmen.",
-      "url": "https://www.heise.de/news/Gesetzesvorhaben-Ist-dDoS-in-Russland-kuenftig-legal-10436032.html"
     },
     {
       "title": "Massiver Cyberangriff auf US-Provider: Erster Einbruch schon ein Jahr früher",
@@ -511,8 +513,8 @@
       "image_title": "Windturbinen auf dem Meer"
     },
     {
-      "title": "Glasfaser bis in die Wohnung – ein FTTH-\"Häuserkampf\"",
-      "url": "https://www.heise.de/news/Glasfaser-bis-in-die-Wohnung-ein-FTTH-Haeuserkampf-10425958.html"
+      "title": "Gesetzesvorhaben: Ist dDoS in Russland künftig legal?",
+      "url": "https://www.heise.de/news/Gesetzesvorhaben-Ist-dDoS-in-Russland-kuenftig-legal-10436032.html"
     },
     {
       "title": "Fiese Schnüffelei: Meta und Yandex spionierten Nutzer ihrer Android-Apps aus",
@@ -606,9 +608,16 @@
       "url": "https://www.heise.de/en/news/ARM-gives-up-Cortex-10386982.html"
     },
     {
-      "title": "c’t uplinkWo Smartwatches tatsächlich nützlich sind",
-      "teaser": "Was die smarten Uhren mittlerweile können, wie sich die Modelle unterscheiden und wie Google Fossil verprellt hat, darüber sprechen wir in c’t uplink.",
-      "url": "https://www.heise.de/news/Wo-Smartwatches-tatsaechlich-nuetzlich-sind-c-t-uplink-10435003.html"
+      "title": "Vorsicht, Kunde! – Lottogewinn steht Erben zu",
+      "teaser": "Viele Menschen hoffen, mit Glücksspielen kurzfristig zu Geld zu kommen. Wann müssen Gewinne versteuert werden, wer erbt und wer profitiert vom Glücksspiel?",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Gluecksspielgewinne-versteuern-und-erben-10435048.html",
+      "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
+    },
+    {
+      "title": "Games: Fünf digitale Brettspieladaptionen im Test",
+      "teaser": "Platzsparend, schnell & günstig: So manche Games für Brettspielliebhaber bringen handfeste Vorteile und neue Möglichkeiten. Wir stellen fünf lohnende Titel vor.",
+      "url": "https://www.heise.de/tests/Games-Fuenf-digitale-Brettspieladaptionen-im-Test-10373948.html",
+      "image_title": "Eine Frau greift mit der Hand in einen Monitor und bewegt eine Spielfigur auf einem Spielbrett."
     },
     {
       "title": "c't 3003Windows-Spiele laufen besser auf Linux (wirklich!)",
@@ -616,10 +625,10 @@
       "url": "https://www.heise.de/news/Windows-Spiele-laufen-besser-auf-Linux-wirklich-10436098.html"
     },
     {
-      "title": "Lottohelden.de will vererbtes Guthaben behalten",
-      "teaser": "Zum Erbe gehören ohne Zweifel auch sämtliche Guthaben, die der Erblasser bei Dritten hat. Glücksspielbetreiber lottohelden.de verweigert trotzdem die Auszahlung",
-      "url": "https://www.heise.de/ratgeber/Lottohelden-de-will-vererbtes-Guthaben-behalten-10435019.html",
-      "image_title": ","
+      "title": "Top-Produkte für Reise & Co.iPhone-Zubehör für unterwegs",
+      "teaser": "Im Urlaub, auf Geschäftsreise oder während eines Wochenendausflugs leistet das iPhone wertvolle Dienste. Doch welches Zubehör sollte man dabeihaben?",
+      "url": "https://www.heise.de/tests/iPhone-Zubehoer-fuer-unterwegs-Die-besten-Produkte-fuer-Reise-Co-10397760.html",
+      "image_title": ", Mix and Match Studio, stock.adobe.com"
     },
     {
       "title": "Projekt-Zauberer mit KI: Merlin Project 9 im Test",
@@ -632,12 +641,6 @@
       "teaser": "Der 27-Zoll-Monitor PD2730S mit 5K-Auflösung zeigt sich äußerst anschlussfreudig. Mac & i hat ihn getestet.",
       "url": "https://www.heise.de/tests/Pixelprotz-mit-vielen-Ports-10397848.html",
       "image_title": "BenQ PD2730S"
-    },
-    {
-      "title": "Flexible Schreibwerkstatt: adoc Studio im Test",
-      "teaser": "Es muss nicht immer eine klassische Textverarbeitung sein: adoc Studio formatiert mithilfe von AsciiDoc umfangreiche Texte und Dokumentationen.",
-      "url": "https://www.heise.de/tests/Flexible-Schreibwerkstatt-adoc-Studio-im-Test-10389100.html",
-      "image_title": "adoc Studio"
     },
     {
       "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
@@ -754,26 +757,26 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ukraine-Friedensgespräche im Schatten der Angriffe: Kleine Fortschritte, große Differenzen",
-      "teaser": "Spontanes Telefonat zwischen Putin und Trump wegen beidseitiger Eskalation. Friedensverhandlungen mit kleinen Fortschritten. Doch die Lage spitzt sich weiter zu (Leserdebatte).",
-      "url": "https://www.heise.de/tp/features/Ukraine-Friedensgespraeche-im-Schatten-der-Angriffe-Kleine-Fortschritte-grosse-Differenzen-10434743.html",
-      "image_title": "Silhouette von Trump und Putin"
-    },
-    {
-      "title": "Neue Simulationen zeigen erhöhtes Risiko für planetaren Schleudereffekt",
-      "teaser": "Unser Sonnensystem ist weniger stabil als gedacht. Vorbeiziehende Sterne können die Planeten aus der Bahn werfen. Selbst die Erde ist nicht sicher.",
-      "url": "https://www.heise.de/tp/features/Neue-Simulationen-zeigen-erhoehtes-Risiko-fuer-planetaren-Schleudereffekt-10425667.html",
-      "image_title": "Unser Sonnensystem"
-    },
-    {
       "title": "Awacs am Ende: Warum die Ära der fliegenden Radarstationen zu Ende geht",
       "teaser": "Moderne Luftabwehr macht Awacs-Flugzeuge zunehmend verwundbar. Strategische Neuausrichtung ist im Gang. Zwei Atommächte bilden eine Ausnahme. (Leserdebatte)",
       "url": "https://www.heise.de/tp/features/Awacs-am-Ende-Warum-die-Aera-der-fliegenden-Radarstationen-zu-Ende-geht-10436710.html"
     },
     {
-      "title": "Beste eSIM-Tarife für Dubai & Vereinigte Arabische Emirate",
-      "teaser": "Wer in Dubai oder den Vereinigten Arabischen Emiraten mobil online geht, muss mit hohen Roaming-Gebühren rechnen. Per eSIM surft man meist günstiger.",
-      "url": "https://www.heise.de/download/specials/Beste-eSIM-Tarife-fuer-Dubai-und-Vereinigte-Arabische-Emirate-Urlaub-Beruf-10428006"
+      "title": "Hoffnung für jüngere Generationen: Studie zeigt geringeres Demenzrisiko",
+      "teaser": "Neue Forschungsergebnisse deuten darauf hin, dass jüngere Generationen ein geringeres Risiko haben, an Demenz zu erkranken. Der Trend ist bei Frauen besonders ausgeprägt.",
+      "url": "https://www.heise.de/tp/features/Hoffnung-fuer-juengere-Generationen-Studie-zeigt-geringeres-Demenzrisiko-10435562.html",
+      "image_title": "Personen in weißen Kitteln schauen sich ein CT Bild an"
+    },
+    {
+      "title": "3sat-Kulturzeit präsentiert: Waffen für die Jugend, Opfer fürs Vaterland",
+      "teaser": "In einem 3sat-Beitrag kommen Militarismus und rechte Ideologie unkritisch zu Wort. Fragwürdige Thesen zur Wehrpflicht und zur Opferbereitschaft bleiben unkommentiert. (Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/3sat-Kulturzeit-praesentiert-Waffen-fuer-die-Jugend-Opfer-fuers-Vaterland-10436841.html",
+      "image_title": "Ein Kind nimmt ein automatisches Gewehr vom Tisch."
+    },
+    {
+      "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
+      "teaser": "Wo gibt es den meisten Gratis-Speicher, wo den besten Datenschutz? Wir Cloud-Anbieter getestet und erklären, worauf bei der Auswahl zu achten ist.",
+      "url": "https://www.heise.de/download/specials/Die-10-besten-Cloud-Speicher-3149052"
     },
     {
       "title": "Desinfec't",
