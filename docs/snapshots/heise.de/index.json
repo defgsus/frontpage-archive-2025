@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-09T08:15:18",
+  "timestamp": "2025-06-09T09:11:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Smart Plugs und Home Assistant: Kaffeemaschine, Flurlicht und Co. automatisieren",
+      "url": "https://www.heise.de/ratgeber/Smart-Plugs-und-Home-Assistant-Kaffeemaschine-Flurlicht-und-Co-automatisieren-10395258.html"
+    },
     {
       "title": "iX-Workshop: Echtzeitüberwachung mit Prometheus und Grafana",
       "url": "https://www.heise.de/news/iX-Workshop-Echtzeitueberwachung-mit-Prometheus-und-Grafana-10432137.html"
@@ -60,10 +64,6 @@
     {
       "title": "Instagram, TikTok und Co erst ab 15 - neue Initiative durch EU-Minister",
       "url": "https://www.heise.de/news/Instagram-TikTok-und-Co-erst-ab-15-neue-Initiative-durch-EU-Minister-10437261.html"
-    },
-    {
-      "title": "Nvidia GeForce RTX 5060 und RTX 5060 Ti im Test",
-      "url": "https://www.heise.de/tests/Nvidia-GeForce-RTX-5060-und-RTX-5060-Ti-im-Test-10395140.html"
     },
     {
       "title": "Missing LinkTim Berners-Lee wird 70 – der Architekt des World Wide Webs",
@@ -190,20 +190,21 @@
       "url": "https://www.heise.de/news/Wo-Smartwatches-tatsaechlich-nuetzlich-sind-c-t-uplink-10435003.html"
     },
     {
+      "title": "Smart Plugs und Home Assistant: Kaffeemaschine, Flurlicht und Co. automatisieren",
+      "teaser": "Smarte Zwischenstecker lassen sich in Home Assistant integrieren, was wiederum praktische Automationen erlaubt. Wir liefern Beispiele.",
+      "url": "https://www.heise.de/ratgeber/Smart-Plugs-und-Home-Assistant-Kaffeemaschine-Flurlicht-und-Co-automatisieren-10395258.html",
+      "image_title": "Smart Plugs vor Verbrauchsdiagrammen in Home Assistant. Die intelligenten Zwischenstecker lassen sich vielseitig im Smart Home einsetzen."
+    },
+    {
       "title": "iX-Workshop: Echtzeitüberwachung mit Prometheus und Grafana",
       "teaser": "Infrastruktur und Anwendungen effektiv überwachen, Alarme einrichten und Probleme frühzeitig erkennen, um auf kritische Situationen reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Echtzeitueberwachung-mit-Prometheus-und-Grafana-10432137.html",
       "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
     },
     {
-      "title": "Switch 2 im Test: Nintendos Antwort auf Steam Deck und PC-Handhelds",
-      "teaser": "Die Switch 2 verspricht Multiplayer-Spaß und Konsolengrafik an jedem Ort. Wir testen, wie sie sich gegen Steam Deck und PC-Handhelds schlägt.",
-      "url": "https://www.heise.de/tests/Switch-2-im-Test-Nintendos-Antwort-auf-Steam-Deck-und-PC-Handhelds-10387966.html"
-    },
-    {
-      "title": "Mehr Übersicht im Netzwerk",
-      "teaser": "Wer eine hohe Transparenz will, muss wissen, wie die vielen Geräte im Netzwerk zusammenhängen. Mit einem speziellen Tool lassen sich Fehleranalyse, Umzugsplanung und Netzwerksicherheit verbessern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6954158103&iu=%2F6514%2FClicktracking"
+      "title": "Aufbruch zur europäischen Multi-Vendor-Cloud",
+      "teaser": "Es ist heikel, zu sehr von außereuropäischen IT-Serviceprovidern abzuhängen. Mit der offenen API-Spezifikation „Sovereign European Cloud API“ (SECA) ist jedoch Flexibilität bei Cloud-Diensten möglich.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6996447782&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Neue Natrium-Brennstoffzelle verspricht Durchbruch für E-Flugzeuge",
@@ -376,9 +377,9 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mittelklasse-smartphone-bis-500-euro-im-test/z2jyxsr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "Wie Sie mit modernen Clients die IT entlasten und für mehr Sicherheit sorgen",
-      "teaser": "Hybride Arbeitsmodelle stellen IT- und Sicherheitsverantwortliche vor Herausforderungen. Sie müssen nicht nur den Schutz der verteilten Endgeräte gewährleisten, sondern diese auch verwalten und im Fehlerfall Support bieten. Wie hardwarebasierte Sicherheits- & Managementfunktionen diese Aufgabe erleichtern.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/security/beitrag/hardwarebasierte-sicherheit-und-effizientes-management-fuer-ihre-endgeraete-4924/?source=hbsadersat"
+      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
+      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Nach verschlafener Energiewende wollen Start-ups für mehr Unabhängigkeit sorgen",
@@ -605,20 +606,26 @@
       "url": "https://www.heise.de/en/news/Exceptionally-low-wind-quarter-fossil-fuels-overtake-renewables-10435754.html"
     },
     {
-      "title": "MarktübersichtRouter für das Open-Source-System OpenWrt",
-      "teaser": "Wir haben acht Modelle herausgesucht, auf denen Sie OpenWrt mit geringem Aufwand installieren können, und zeigen, worauf es bei der Wahl ankommt.",
-      "url": "https://www.heise.de/tests/Marktuebersicht-Acht-Router-fuer-das-Open-Source-Routerbetriebssystem-OpenWrt-10397398.html",
-      "image_title": ", Rudolf A. Blaha"
-    },
-    {
       "title": "Web-Tipps: Wordle ohne Ende",
       "teaser": "Wordle erobert die Welt: Täglich ein 5-Buchstaben-Rätsel, simpel & süchtig machend. Wer mehr will, spielt Quordle, Octordle oder das NerdWord!",
       "url": "https://www.heise.de/news/Web-Tipps-Wordle-ohne-Ende-10392897.html"
     },
     {
-      "title": "Microsoft Word: Klassischer Speichern-Dialog",
-      "teaser": "Word 365 zeigt beim Speichern immer OneDrive zuerst an. Ich will stattdessen den normalen lokalen Windows-Dateidialog als Standard. Wie geht das?",
-      "url": "https://www.heise.de/ratgeber/Microsoft-Word-Klassischer-Speichern-Dialog-10420627.html"
+      "title": "c't-Webinar: Digitale Sicherheit für Anfänger",
+      "teaser": "IT-Sicherheit kann auch unkompliziert sein: Lernen Sie im c’t-Webinar praxisnah, wie Sie Geräte und Daten mit wenig Aufwand effektiv schützen.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Digitale-Sicherheit-fuer-Anfaenger-10424890.html"
+    },
+    {
+      "title": "Im Test: Zwei 5K-Displays von Asus und BenQ mit USB-C für gehobene Ansprüche",
+      "teaser": "Der Asus ProArt PA27JCV und BenQ PD2730S bieten satte Farben, knackscharfe Darstellung und moderne Anschlussfelder. Sie erfüllen jedoch nicht alle Erwartungen.",
+      "url": "https://www.heise.de/tests/Im-Test-Zwei-5K-Displays-von-Asus-und-BenQ-mit-USB-C-fuer-gehobene-Ansprueche-10420654.html",
+      "image_title": ","
+    },
+    {
+      "title": "Top-Produkte für Reise & Co.iPhone-Zubehör für unterwegs",
+      "teaser": "Im Urlaub, auf Geschäftsreise oder während eines Wochenendausflugs leistet das iPhone wertvolle Dienste. Doch welches Zubehör sollte man dabeihaben?",
+      "url": "https://www.heise.de/tests/iPhone-Zubehoer-fuer-unterwegs-Die-besten-Produkte-fuer-Reise-Co-10397760.html",
+      "image_title": ", Mix and Match Studio, stock.adobe.com"
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -631,12 +638,6 @@
       "teaser": "Der 27-Zoll-Monitor PD2730S mit 5K-Auflösung zeigt sich äußerst anschlussfreudig. Mac & i hat ihn getestet.",
       "url": "https://www.heise.de/tests/Pixelprotz-mit-vielen-Ports-10397848.html",
       "image_title": "BenQ PD2730S"
-    },
-    {
-      "title": "Projekt-Zauberer mit KI: Merlin Project 9 im Test",
-      "teaser": "Die App Merlin Project 9 von den ProjectWizards erstellt Gantt-Projektpläne – und das nun auch mit Unterstützung von Künstlicher Intelligenz.",
-      "url": "https://www.heise.de/tests/Projekt-Zauberer-mit-KI-Merlin-Project-9-im-Test-10380471.html",
-      "image_title": "Merlin 9 auf verschiedenen Systemen"
     },
     {
       "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
@@ -759,16 +760,16 @@
       "image_title": "Historische Ruinen vor gewaltiger Bergkulisse"
     },
     {
+      "title": "3sat-Kulturzeit präsentiert: Waffen für die Jugend, Opfer fürs Vaterland",
+      "teaser": "In einem 3sat-Beitrag kommen Militarismus und rechte Ideologie unkritisch zu Wort. Fragwürdige Thesen zur Wehrpflicht und zur Opferbereitschaft bleiben unkommentiert. (Leserdebatte)",
+      "url": "https://www.heise.de/tp/features/3sat-Kulturzeit-praesentiert-Waffen-fuer-die-Jugend-Opfer-fuers-Vaterland-10436841.html",
+      "image_title": "Ein Kind nimmt ein automatisches Gewehr vom Tisch."
+    },
+    {
       "title": "Der Mensch fällt durch: Zu dumm für den Turing-Test",
       "teaser": "Weil wir stottern, schwanken, lieben und lügen, erkennt man uns nicht mehr als Menschen. Der Turing-Test straft Echtheit ab. (Leserdebatte)",
       "url": "https://www.heise.de/tp/features/Der-Mensch-faellt-durch-Zu-dumm-fuer-den-Turing-Test-10437117.html",
       "image_title": "Junges verliebtes Paar, das auf dem Gras sitzt und sich küsst"
-    },
-    {
-      "title": "Wasser-Steuer: Kommunen auf der Suche nach neuen Geldquellen",
-      "teaser": "Wiesbaden plant eine neue Steuer auf Wasser und gewinnt vor Gericht. Andere Kommunen beobachten den Fall mit Interesse. Droht bald eine Welle von Wasserabgaben in ganz Deutschland? (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Wasser-Steuer-Kommunen-auf-der-Suche-nach-neuen-Geldquellen-10423987.html",
-      "image_title": "Ein Duschkopf mit Münzen"
     },
     {
       "title": "Vereinsmanagement-Software im Vergleich",
