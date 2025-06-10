@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-10T13:26:55",
+  "timestamp": "2025-06-10T14:10:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "US-Flugsicherung will Windows 95, Disketten und Papierstreifen los werden",
+      "url": "https://www.heise.de/news/US-Flugsicherung-will-Windows-95-Disketten-und-Papierstreifen-los-werden-10439137.html"
+    },
     {
       "title": "CarPlay und Car Key: Was Apple im Herbst alles plant",
       "url": "https://www.heise.de/news/iPhone-im-Auto-Widgets-fuer-CarPlay-mehr-Car-Keys-und-immer-noch-kein-Browser-10437882.html"
@@ -62,12 +66,8 @@
       "url": "https://www.heise.de/news/Digitale-Souveraenitaet-EU-startet-eigenen-DNS-Dienst-mit-praktischen-Funktionen-10438361.html"
     },
     {
-      "title": "Windows-Insider-Vorschauen bringen neues Startmenü mit",
-      "url": "https://www.heise.de/news/Windows-Insider-Vorschauen-bringen-neues-Startmenue-mit-10438401.html"
-    },
-    {
       "title": "Abschied bis HerbstDänisches Digitalministerium kehrt Microsoft den Rücken",
-      "teaser": "Beim dänischen Digitalministerium sollen Angestellte ohne Microsoft auskommen. Stattdessen werde man Linux und LibreOffice nutzen.",
+      "teaser": "Beim dänischen Digitalministerium sollen Angestellte ohne Microsoft auskommen. Linux und LibreOffice kommen als Ersatz.",
       "url": "https://www.heise.de/news/Von-Word-und-Excel-zu-LibreOffice-Daenisches-Ministerium-verabschiedet-Microsoft-10438683.html",
       "image_title": "Nahaufnahme einer Tastatur, eine Taste in den Farben der dänischen Flagge"
     },
@@ -211,20 +211,26 @@
       "image_title": "Teslas Optimus Bot sortiert Teile."
     },
     {
+      "title": "US-Flugsicherung will Windows 95, Disketten und Papierstreifen los werden",
+      "teaser": "Die US-Flugsicherung arbeitet mit veralteten Systemen, die zu Ausfällen geführt haben. Jetzt soll die Flugsicherung modernisiert werden.",
+      "url": "https://www.heise.de/news/US-Flugsicherung-will-Windows-95-Disketten-und-Papierstreifen-los-werden-10439137.html",
+      "image_title": "Female,Air,Traffic,Controller,With,Headset,Talk,On,A,Call"
+    },
+    {
       "title": "CarPlay und Car Key: Was Apple im Herbst alles plant",
       "teaser": "Neben iOS 26, macOS 26 und Co. hat Apple auch Verbesserungen für CarPlay angekündigt. Ein Überblick der neuen Funktionen.",
       "url": "https://www.heise.de/news/iPhone-im-Auto-Widgets-fuer-CarPlay-mehr-Car-Keys-und-immer-noch-kein-Browser-10437882.html",
       "image_title": "Widgets in CarPlay"
     },
     {
+      "title": "Den besten KI-Laptop mit Windows finden",
+      "teaser": "Das Spektrum an Copilot+ PCs wächst ständig. Es ist daher nicht einfach, dass passende Gerät zu finden. Bei der Auswahl sollten Käufer deshalb auf bestimmte Kriterien achten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7009587067&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Kurztests: Fisheye-Objektiv, Video- und Bildbearbeitungsprogramm",
       "teaser": "Wir testen das Canon RF-S Dual Fisheye-Objektiv und die Programme AquaSoft Video Vision 2025 und Nik Collection 8.",
       "url": "https://www.heise.de/tests/Kurztests-Fisheye-Objektiv-Video-und-Bildbearbeitungsprogramm-10424685.html"
-    },
-    {
-      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
-      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Aus für Xorg: Ubuntu Desktop 25.10 nur noch mit Wayland",
@@ -254,12 +260,6 @@
       "teaser": "Lernen Sie, wie Sie mit SAP BTP Anwendungen entwickeln, Schnittstellen integrieren und Geschäftsprozesse optimieren.",
       "url": "https://www.heise.de/news/iX-Workshop-Einfuehrung-in-die-SAP-Business-Technology-Platform-BTP-10432295.html",
       "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
-    },
-    {
-      "title": "Windows-Insider-Vorschauen bringen neues Startmenü mit",
-      "teaser": "Microsoft hatte Änderungen am Startmenü angekündigt. Nun zeigt das Unternehmen sie in aktuellen Windows-Insider-Builds.",
-      "url": "https://www.heise.de/news/Windows-Insider-Vorschauen-bringen-neues-Startmenue-mit-10438401.html",
-      "image_title": "Neues Startmenü für Windows 11 (Insider-Version)"
     },
     {
       "title": "FahrraddiebstahlWie Sie Ihr Rad schützen und auf Verlust reagieren",
@@ -326,6 +326,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Windows-Insider-Vorschauen bringen neues Startmenü mit",
+      "teaser": "Microsoft hatte Änderungen am Startmenü angekündigt. Nun zeigt das Unternehmen sie in aktuellen Windows-Insider-Builds.",
+      "url": "https://www.heise.de/news/Windows-Insider-Vorschauen-bringen-neues-Startmenue-mit-10438401.html",
+      "image_title": "Neues Startmenü für Windows 11 (Insider-Version)"
     },
     {
       "title": "tvOS 26: Was das neue Apple-TV-Betriebssystem alles kann – und wo es läuft",
@@ -398,15 +404,15 @@
       "image_title": "Zerstückeltes SAP-Logo, dahinter zerteilte SAP Netweaver GUI"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Die Cybersecurity steht an einem Wendepunkt und benötigt revolutionäre Technologien. In einem Webcast sprechen wir über die Merkmale und Vorteile von KI-gestützten Abwehrmaßnahmen, die über klassische Verhaltensanalysen hinausgehen.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/risiko-management-und-cybersicherheit-dynamisch-und-automatisch-dank-ki-4925/?source=hbsad_ersatz"
+    },
+    {
       "title": "Sechs M.2-SSDs mit PCIe 4.0 und 8 TByte Speicherplatz im Test",
       "teaser": "Viele Leser wünschten sich einen Test mit aktuellen PCIe-SSDs mit 8 TByte Speicher. Der passt heute maximal auf M.2-Platinen mit 80 Millimeter Länge.",
       "url": "https://www.heise.de/tests/Sechs-M-2-SSDs-mit-PCIe-4-0-und-8-TByte-Speicherplatz-im-Test-10409923.html",
       "image_title": ","
-    },
-    {
-      "title": "Erfolgreicher handeln – mit KI und Cloud Computing",
-      "teaser": "Um im Wettbewerb erfolgreich zu sein, müssen Handelsunternehmen Trends erkennen, Produktionskapazitäten vorausschauend planen und Kundenwünsche schnell umsetzen. Wie das mit der richtigen Kombination aus künstlicher Intelligenz und Cloud Computing gelingt.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/erfolgreicher-handeln-mit-ki-und-cloud-computing-4917/?source=hbsadersatz"
     },
     {
       "title": "Apples visionOS 26: Menschlichere Persona, Widgets und Support für Sony",
@@ -458,11 +464,6 @@
       "teaser": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-10432407.html",
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
-    },
-    {
-      "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
-      "teaser": "Im Sommer nutzt man den Photovoltaik-Überschuss für den Warmwasserspeicher – vollautomatisch mithilfe der Open-Source-Projekte evcc, ioBroker und einem RasPi.",
-      "url": "https://www.heise.de/ratgeber/Waermepumpen-Hack-Wie-man-im-Sommer-den-ueberschuessigen-Solarstrom-nutzt-10394046.html"
     },
     {
       "title": "GNOME 49 schickt X11 in Rente",
@@ -636,14 +637,15 @@
       "image_title": ","
     },
     {
-      "title": "c't 3003Windows-Spiele laufen besser auf Linux (wirklich!)",
-      "teaser": "Wir haben auf einem PC-Handheld mit Windows 11 SteamOS, also Linux, installiert. Resultat: bis zu 54 % mehr Leistung.",
-      "url": "https://www.heise.de/news/Windows-Spiele-laufen-besser-auf-Linux-wirklich-10436098.html"
+      "title": "Im Test: Zwei 5K-Displays von Asus und BenQ mit USB-C für gehobene Ansprüche",
+      "teaser": "Der Asus ProArt PA27JCV und BenQ PD2730S bieten satte Farben, knackscharfe Darstellung und moderne Anschlussfelder. Sie erfüllen jedoch nicht alle Erwartungen.",
+      "url": "https://www.heise.de/tests/Im-Test-Zwei-5K-Displays-von-Asus-und-BenQ-mit-USB-C-fuer-gehobene-Ansprueche-10420654.html",
+      "image_title": ","
     },
     {
-      "title": "Notfall-Windows und Kali Linux auf einem USB-Stick",
-      "teaser": "Ich möchte einen USB-Stick mit dem c’t-Notfall-System und Kali Linux erstellen. Brauche ich dafür PEBakery oder genügen zwei Partitionen? Wie setze ich das um?",
-      "url": "https://www.heise.de/ratgeber/Notfall-Windows-und-Kali-Linux-auf-einem-USB-Stick-10420664.html"
+      "title": "c’t uplinkWo Smartwatches tatsächlich nützlich sind",
+      "teaser": "Was die smarten Uhren mittlerweile können, wie sich die Modelle unterscheiden und wie Google Fossil verprellt hat, darüber sprechen wir in c’t uplink.",
+      "url": "https://www.heise.de/news/Wo-Smartwatches-tatsaechlich-nuetzlich-sind-c-t-uplink-10435003.html"
     },
     {
       "title": "Top-Produkte für Reise & Co.iPhone-Zubehör für unterwegs",
@@ -652,16 +654,16 @@
       "image_title": ", Mix and Match Studio, stock.adobe.com"
     },
     {
-      "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
-      "teaser": "iOS-Apps und Dienste helfen unterwegs, sich zurechtzufinden, Buchungen zu tätigen und an wichtige Informationen vor Ort zu gelangen. 24 Mac & i-Tipps.",
-      "url": "https://www.heise.de/tests/iPhone-Apps-fuer-die-Reise-Zwei-Dutzend-Tipps-10397681.html",
-      "image_title": ", Mix and Match Studio, stock.adobe.com"
-    },
-    {
       "title": "BenQ PD2730S im Test: 27-Zoll-Monitor mit 5K-Auflösung und vielen Ports",
       "teaser": "Der 27-Zoll-Monitor PD2730S mit 5K-Auflösung zeigt sich äußerst anschlussfreudig. Mac & i hat ihn getestet.",
       "url": "https://www.heise.de/tests/Pixelprotz-mit-vielen-Ports-10397848.html",
       "image_title": "BenQ PD2730S"
+    },
+    {
+      "title": "Flexible Schreibwerkstatt: adoc Studio im Test",
+      "teaser": "Es muss nicht immer eine klassische Textverarbeitung sein: adoc Studio formatiert mithilfe von AsciiDoc umfangreiche Texte und Dokumentationen.",
+      "url": "https://www.heise.de/tests/Flexible-Schreibwerkstatt-adoc-Studio-im-Test-10389100.html",
+      "image_title": "adoc Studio"
     },
     {
       "title": "Oxocard-Projekt: Wie man eine Steuerungssoftware für Fischertechnik entwickelt",
@@ -675,10 +677,9 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-3-25-Fritzbox-pimpen-10433070.html"
     },
     {
-      "title": "Sampler-Synthesizer: Bastl Instruments Wave Bard",
-      "teaser": "Der Wave Bard ist ein experimenteller, patchbarer Stereo-Sample-Player. Durch Modulation und Modularität entdeckt man ständig neue Rhythmen und Riffs.",
-      "url": "https://www.heise.de/news/Sample-Barde-Bastl-Instruments-Wave-Bard-10425801.html",
-      "image_title": "Bastl Kastl 2 Wave Bard"
+      "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
+      "teaser": "Im Sommer nutzt man den Photovoltaik-Überschuss für den Warmwasserspeicher – vollautomatisch mithilfe der Open-Source-Projekte evcc, ioBroker und einem RasPi.",
+      "url": "https://www.heise.de/ratgeber/Waermepumpen-Hack-Wie-man-im-Sommer-den-ueberschuessigen-Solarstrom-nutzt-10394046.html"
     },
     {
       "title": "Sonne versus Blitz: Click Boom Flash # 39 \"Licht in der Fotografie\"",
@@ -778,27 +779,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "BYD macht Ernst: Gratis-Autopilot fordert Tesla heraus",
-      "teaser": "BYD greift Tesla an: Gratis-Autopilot für andere Hersteller. Chinas E-Auto-Riese will Markt aufmischen. Kann der US-Konkurrent noch kontern?",
-      "url": "https://www.heise.de/tp/features/BYD-macht-Ernst-Gratis-Autopilot-fordert-Tesla-heraus-10438809.html",
-      "image_title": "Hängende Plakatwand mit Logo BYD"
-    },
-    {
       "title": "Ukraine-Krieg: Russland nutzt offenbar chinesische Laserwaffen",
       "teaser": "Nach ukrainischem Drohnenangriff: Russland setzt laut Berichten chinesische Laserwaffen gegen Drohnen ein. Auch andere Staaten setzen zunehmend auf die Technik.",
       "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Russland-nutzt-offenbar-chinesische-Laserwaffen-10425455.html",
       "image_title": "Lasergeschütz als 3D-illustration"
     },
     {
-      "title": "Anleihe-Schock: Ist Griechenland jetzt sicherer als Deutschland?",
-      "teaser": "Griechenlands Staatsanleihen gelten plötzlich als sichere Wette. Deutsche Papiere verlieren dagegen massiv an Wert. Das könnte erst der Anfang sein. (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Anleihe-Schock-Ist-Griechenland-jetzt-sicherer-als-Deutschland-10437646.html",
-      "image_title": "Deutschlandfahne, Pfeile nach unten"
+      "title": "Machtkampf um Kalifornien: Trump schickt Marines nach Los Angeles",
+      "teaser": "Präsident Trump schickt Marineinfanteristen nach Los Angeles, um Proteste gegen seine Migrationspolitik zu unterdrücken. Ein Überblick (Leserdebatte).",
+      "url": "https://www.heise.de/tp/features/Machtkampf-um-Kalifornien-Trump-schickt-Marines-nach-Los-Angeles-10438379.html",
+      "image_title": "Eine Frau hält ein Schild, neben ihr Polizisten"
     },
     {
-      "title": "Hostinger VPS im Test: Leistungsstarke virtuelle Server zum fairen Preis",
-      "teaser": "Virtuelle Private Server (VPS) sind flott, leicht zu bedienen – und doch oft nichts für Einsteiger. Kann Hostinger die Einstiegshürden senken?",
-      "url": "https://www.heise.de/download/specials/Hostinger-VPS-im-Test-Leistungsstarke-virtuelle-Server-zum-fairen-Preis-10395019"
+      "title": "Apple auf der WWDC 2025: Glänzende Oberfläche, matter Kern",
+      "teaser": "Apple enttäuscht auf WWDC 2025 mit fehlenden KI-Innovationen. Aktie fällt seit Januar um 20 Prozent, Konkurrenz legt zu. Der Tech-Gigant hat drei Probleme.",
+      "url": "https://www.heise.de/tp/features/Apple-auf-der-WWDC-2025-Glaenzende-Oberflaeche-matter-Kern-10438165.html",
+      "image_title": "Smartphone mit Apple Logo, dahinter sinkende Aktienkurve"
+    },
+    {
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Desinfec't",
