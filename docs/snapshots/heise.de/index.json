@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-10T08:14:31",
+  "timestamp": "2025-06-10T09:11:53",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,11 +26,27 @@
   ],
   "articles": [
     {
-      "title": "visionOS 26: Bessere Persona, mehr Spatial-Content und erstmals Widgets",
+      "title": "Webframework Astro 5.9 wappnet sich gegen XSS-Attacken",
+      "url": "https://www.heise.de/news/Webframework-Astro-5-9-wappnet-sich-gegen-XSS-Attacken-10438157.html"
+    },
+    {
+      "title": "SAP-Patchday: Kritisches Leck in Netweaver und weitere Schwachstellen",
+      "url": "https://www.heise.de/news/SAP-Patchday-Erneut-kritische-Sicherheitsluecke-in-Netweaver-10438217.html"
+    },
+    {
+      "title": "Sechs M.2-SSDs mit PCIe 4.0 und 8 TByte Speicherplatz im Test",
+      "url": "https://www.heise.de/tests/Sechs-M-2-SSDs-mit-PCIe-4-0-und-8-TByte-Speicherplatz-im-Test-10409923.html"
+    },
+    {
+      "title": "Einschlag des Asteroiden 2024 YR₄ auf Mond noch einmal etwas wahrscheinlicher",
+      "url": "https://www.heise.de/news/Einschlag-des-Asteroiden-2024-YR-auf-Mond-noch-einmal-etwas-wahrscheinlicher-10438247.html"
+    },
+    {
+      "title": "Apples visionOS 26: Menschlichere Persona, Widgets und Support für Sony",
       "url": "https://www.heise.de/news/visionOS-26-Bessere-Persona-mehr-Spatial-Content-und-erstmals-Widgets-10437868.html"
     },
     {
-      "title": "Dobrindt will mehr KI zur Sabotage-Abwehr einsetzen",
+      "title": "Bundesinnenminister will mehr KI zur Sabotage-Abwehr einsetzen",
       "url": "https://www.heise.de/news/Dobrindt-will-mehr-KI-zur-Sabotage-Abwehr-einsetzen-10438193.html"
     },
     {
@@ -48,22 +64,6 @@
     {
       "title": "\"Anno 117\": Release am 13. November geplant",
       "url": "https://www.heise.de/news/Anno-117-Release-am-13-November-geplant-10438084.html"
-    },
-    {
-      "title": "KI bei Apple: Sorry wegen Siri, bessere Visual Intelligence, mehr ChatGPT",
-      "url": "https://www.heise.de/news/KI-bei-Apple-Sorry-wegen-Siri-bessere-Visual-Intelligence-mehr-ChatGPT-10437894.html"
-    },
-    {
-      "title": "Python-Grundlagen: Wie Sie for-Schleifen richtig einsetzen",
-      "url": "https://www.heise.de/ratgeber/Python-Grundlagen-Wie-Sie-for-Schleifen-richtig-einsetzen-10362960.html"
-    },
-    {
-      "title": "Sicherheitsupdate: Netzwerkanalysetool Wireshark ist angreifbar",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Netzwerkanalysetool-Wireshark-ist-angreifbar-10438074.html"
-    },
-    {
-      "title": "Rückschlag für Optimus Bot: Chef der Robotersparte verlässt Tesla",
-      "url": "https://www.heise.de/news/Rueckschlag-fuer-Optimus-Bot-Chef-der-Robotersparte-verlaesst-Tesla-10438044.html"
     },
     {
       "title": "Analyse zur WWDC 2025-KeynoteSieht Apple nach dem Redesign auf dem iPhone & Co. besser aus?",
@@ -117,15 +117,16 @@
       "image_title": "Magnetschwebebahn, Hochgeschwindigkeitszug und Flugzeug"
     },
     {
-      "title": "ifo-UmfrageStellenabbau durch KI erwartet",
-      "teaser": "Nach einer Ifo-Umfrage geht ein Viertel der deutschen Unternehmen von einem KI-bedingten Stellenabbau aus.",
-      "url": "https://www.heise.de/news/ifo-Umfrage-Stellenabbau-durch-KI-erwartet-10437538.html"
+      "title": "Open SourceAMD gibt proprietäre 3D-Grafiktreiber für Linux auf",
+      "teaser": "Auch im professionellen Umfeld setzt AMD zur 3D- und Video-Beschleunigung auf quelloffene Treiber, die es bei Linux schon lange gibt.",
+      "url": "https://www.heise.de/news/AMD-gibt-proprietaere-3D-Grafiktreiber-fuer-Linux-auf-10438121.html",
+      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
     },
     {
-      "title": "Vandalismus bei DemosWaymo beschränkt Fahrdienste in LA und San Francisco",
-      "teaser": "Autonome Taxis von Waymo sind an der US-Westküste ein gewohnter Anblick. Nachdem einige angezündet wurden, wird das Angebot beschränkt.",
-      "url": "https://www.heise.de/news/Nach-Vandalismus-Waymo-beschraenkt-Fahrdienste-in-Los-Angeles-und-San-Francisco-10437972.html",
-      "image_title": "Leerer Fahrersitz eines Waymo-Taxis"
+      "title": "Rückschlag für Optimus BotChef der Robotersparte verlässt Tesla",
+      "teaser": "Milan Kovac, Chef der Entwicklung des humanoiden Roboters Optimus bei Tesla, verlässt das Unternehmen überraschend.",
+      "url": "https://www.heise.de/news/Rueckschlag-fuer-Optimus-Bot-Chef-der-Robotersparte-verlaesst-Tesla-10438044.html",
+      "image_title": "Teslas Optimus Bot sortiert Teile."
     },
     {
       "title": "Das E-Auto für UmsteigerHyundai Ioniq 5 im Test",
@@ -150,10 +151,10 @@
       "image_title": "James-Webb erkundet fremde Welten"
     },
     {
-      "title": "EU-DatenschützerVorsicht bei Informationsersuchen aus Drittstaaten",
-      "teaser": "Die EU-Datenschutzbehörden erläutern, dass Urteile oder Entscheidungen aus Drittstaaten nicht automatisch anerkannt werden können.",
-      "url": "https://www.heise.de/news/EU-Datenschuetzer-Vorsicht-bei-Informationsersuchen-aus-Drittstaaten-10437277.html",
-      "image_title": "Europa,Dsgvo,-,3d,Illustration,With,Blue,Backdrop"
+      "title": "Vandalismus bei DemosWaymo beschränkt Fahrdienste in LA und San Francisco",
+      "teaser": "Autonome Taxis von Waymo sind an der US-Westküste ein gewohnter Anblick. Nachdem einige angezündet wurden, wird das Angebot beschränkt.",
+      "url": "https://www.heise.de/news/Nach-Vandalismus-Waymo-beschraenkt-Fahrdienste-in-Los-Angeles-und-San-Francisco-10437972.html",
+      "image_title": "Leerer Fahrersitz eines Waymo-Taxis"
     },
     {
       "title": "Kaffeemaschine, Flurlicht und Co.Automatisieren mit Smart Plugs und Home Assistant",
@@ -179,9 +180,9 @@
       "image_title": "Blick auf Pornhub"
     },
     {
-      "title": "Social MediaBundesjustizministerin Hubig hält Altersgrenze für nötig",
-      "teaser": "Social-Media-Plattformen sorgen nicht genug für Jugendschutz. Bundesjustizministerin Hubig will deshalb Altersgrenzen und -prüfungen.",
-      "url": "https://www.heise.de/news/Altersgrenze-fuer-Social-Media-Weniger-Mobbing-mehr-Konzentration-10437594.html"
+      "title": "ifo-UmfrageStellenabbau durch KI erwartet",
+      "teaser": "Nach einer Ifo-Umfrage geht ein Viertel der deutschen Unternehmen von einem KI-bedingten Stellenabbau aus.",
+      "url": "https://www.heise.de/news/ifo-Umfrage-Stellenabbau-durch-KI-erwartet-10437538.html"
     },
     {
       "title": "Einstieg in die PhotovoltaikSo finden Sie das passende Angebot für Ihre Solaranlage",
@@ -208,21 +209,45 @@
       "image_title": "Blick aufs Weiße Haus in Washington."
     },
     {
-      "title": "visionOS 26: Bessere Persona, mehr Spatial-Content und erstmals Widgets",
+      "title": "Webframework Astro 5.9 wappnet sich gegen XSS-Attacken",
+      "teaser": "Experimenteller Support für CSP soll dabei helfen, Astro-Anwendungen gegen Cross-Site-Scripting-Angriffe abzusichern. Neuerungen gibt es auch für Markdown.",
+      "url": "https://www.heise.de/news/Webframework-Astro-5-9-wappnet-sich-gegen-XSS-Attacken-10438157.html",
+      "image_title": "Verschiedene Icons zum Thema Datenschutz. In der Mitte ein Sicherheitsschloss, links daneben ein digitaler Personalausweis, rechts daneben ein Fingerabdruck. Dahinter steht eine Person, die beide Hände geöffnet hat, sodass es scheint, als ob die Sicherheitssymbole darüber schweben."
+    },
+    {
+      "title": "AlertSAP-Patchday: Kritisches Leck in Netweaver und weitere Schwachstellen",
+      "teaser": "SAP kümmert sich am Juni-Patchday in 14 neuen Sicherheitsnotizen um teils kritische Sicherheitslücken in den Produkten aus Walldorf.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Erneut-kritische-Sicherheitsluecke-in-Netweaver-10438217.html",
+      "image_title": "Zerstückeltes SAP-Logo, dahinter zerteilte SAP Netweaver GUI"
+    },
+    {
+      "title": "Proactive IT – agieren statt reagieren!",
+      "teaser": "Früher griff die IT erst ein, wenn ein Problem auftrat. Das war reaktiv statt vorausschauend. Heute sollten Arbeitsumgebungen so gestaltet sein, dass Probleme gar nicht erst entstehen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983802470&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Sechs M.2-SSDs mit PCIe 4.0 und 8 TByte Speicherplatz im Test",
+      "teaser": "Viele Leser wünschten sich einen Test mit aktuellen PCIe-SSDs mit 8 TByte Speicher. Der passt heute maximal auf M.2-Platinen mit 80 Millimeter Länge.",
+      "url": "https://www.heise.de/tests/Sechs-M-2-SSDs-mit-PCIe-4-0-und-8-TByte-Speicherplatz-im-Test-10409923.html",
+      "image_title": ","
+    },
+    {
+      "title": "Einschlag des Asteroiden 2024 YR₄ auf Mond noch einmal etwas wahrscheinlicher",
+      "teaser": "Der Asteroid 2024 YR₄ ist vorerst außer Reichweite unserer Instrumente. Laut der letzten Beobachtung ist ein Einschlag auf dem Mond nun etwas wahrscheinlicher.",
+      "url": "https://www.heise.de/news/Einschlag-des-Asteroiden-2024-YR-auf-Mond-noch-einmal-etwas-wahrscheinlicher-10438247.html",
+      "image_title": "Die Erde vom Mond aus."
+    },
+    {
+      "title": "Apples visionOS 26: Menschlichere Persona, Widgets und Support für Sony",
       "teaser": "Von visionOS 2.5 direkt auf visionOS 26: Apple bringt zahlreiche Neuerungen für sein Headset Vision Pro – mehr, als viele erwartet hätten.",
       "url": "https://www.heise.de/news/visionOS-26-Bessere-Persona-mehr-Spatial-Content-und-erstmals-Widgets-10437868.html",
       "image_title": "Vision Pro mit Sonys Spatial-Controller"
     },
     {
-      "title": "Dobrindt will mehr KI zur Sabotage-Abwehr einsetzen",
+      "title": "Bundesinnenminister will mehr KI zur Sabotage-Abwehr einsetzen",
       "teaser": "Neben militärischen Bedrohungen nehmen auch Angriffe auf die Infrastruktur zu. Der Innenminister will mit modernen Mitteln dagegen vorgehen.",
       "url": "https://www.heise.de/news/Dobrindt-will-mehr-KI-zur-Sabotage-Abwehr-einsetzen-10438193.html",
       "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
-    },
-    {
-      "title": "Die IT-Infrastruktur effizient verwalten",
-      "teaser": "Jede Konsole für die Endgeräteverwaltung hat Vorteile, ein Wechsel ist oft aufwändig. Deshalb hat Aagon eine Plattform aus seiner UEM-Lösung ACMP und Intune geschaffen, die die Vorteile kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7000572934&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Horizons #25: KI, Datenstrategie & Zukunft der Arbeit",
@@ -234,29 +259,6 @@
       "teaser": "In dieser Episode spricht Richard Seidl mit Prof. Peter Liggesmeyer über eine neue Profession: die Autonomik.",
       "url": "https://www.heise.de/blog/Software-Testing-Zeitalter-der-Autonomik-10438012.html",
       "image_title": "Software Testing: Zeitalter der Autonomik"
-    },
-    {
-      "title": "AMD gibt proprietäre 3D-Grafiktreiber für Linux auf",
-      "teaser": "Auch im professionellen Umfeld setzt AMD zur 3D- und Video-Beschleunigung auf quelloffene Treiber, die Linux-Distributionen seit langem standardmäßig nutzen.",
-      "url": "https://www.heise.de/news/AMD-gibt-proprietaere-3D-Grafiktreiber-fuer-Linux-auf-10438121.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
-    },
-    {
-      "title": "\"Anno 117\": Release am 13. November geplant",
-      "teaser": "Ubisoft hat den Release-Termin für das Aufbaustrategiespiel \"Anno 117\" bekannt gegeben. Auch die Inhalte von drei DLCs sind geplant – es geht nach Ägypten.",
-      "url": "https://www.heise.de/news/Anno-117-Release-am-13-November-geplant-10438084.html",
-      "image_title": "Screenshot aus \"Anno 117\""
-    },
-    {
-      "title": "KI bei Apple: Sorry wegen Siri, bessere Visual Intelligence, mehr ChatGPT",
-      "teaser": "Apple hat auf der WWDC 2025 Details zur verschobenen Siri genannt. Außerdem gibt es mehr Visual Intelligence und ChatGPT-Integration.",
-      "url": "https://www.heise.de/news/KI-bei-Apple-Sorry-wegen-Siri-bessere-Visual-Intelligence-mehr-ChatGPT-10437894.html",
-      "image_title": "Craig Federighi spricht zur verschobenen Siri"
-    },
-    {
-      "title": "Python-Grundlagen: Wie Sie for-Schleifen richtig einsetzen",
-      "teaser": "for-Schleifen gehören zu den grundlegenden Konzepten in der Programmierung. Richtig eingesetzt sparen sie sehr viele Codezeilen.",
-      "url": "https://www.heise.de/ratgeber/Python-Grundlagen-Wie-Sie-for-Schleifen-richtig-einsetzen-10362960.html"
     },
     {
       "title": "FahrraddiebstahlWie Sie Ihr Rad schützen und auf Verlust reagieren",
@@ -325,15 +327,26 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "\"Anno 117\": Release am 13. November geplant",
+      "teaser": "Ubisoft hat den Release-Termin für das Aufbaustrategiespiel \"Anno 117\" bekannt gegeben. Auch die Inhalte von drei DLCs sind geplant – es geht nach Ägypten.",
+      "url": "https://www.heise.de/news/Anno-117-Release-am-13-November-geplant-10438084.html",
+      "image_title": "Screenshot aus \"Anno 117\""
+    },
+    {
+      "title": "KI bei Apple: Sorry wegen Siri, bessere Visual Intelligence, mehr ChatGPT",
+      "teaser": "Apple hat auf der WWDC 2025 Details zur verschobenen Siri genannt. Außerdem gibt es mehr Visual Intelligence und ChatGPT-Integration.",
+      "url": "https://www.heise.de/news/KI-bei-Apple-Sorry-wegen-Siri-bessere-Visual-Intelligence-mehr-ChatGPT-10437894.html",
+      "image_title": "Craig Federighi spricht zur verschobenen Siri"
+    },
+    {
+      "title": "Python-Grundlagen: Wie Sie for-Schleifen richtig einsetzen",
+      "teaser": "for-Schleifen gehören zu den grundlegenden Konzepten in der Programmierung. Richtig eingesetzt sparen sie sehr viele Codezeilen.",
+      "url": "https://www.heise.de/ratgeber/Python-Grundlagen-Wie-Sie-for-Schleifen-richtig-einsetzen-10362960.html"
+    },
+    {
       "title": "AlertSicherheitsupdate: Netzwerkanalysetool Wireshark ist angreifbar",
       "teaser": "In der aktuellen Wireshark-Version haben die Entwickler eine Sicherheitslücke geschlossen und mehrere Bugs beseitigt.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Netzwerkanalysetool-Wireshark-ist-angreifbar-10438074.html"
-    },
-    {
-      "title": "Rückschlag für Optimus Bot: Chef der Robotersparte verlässt Tesla",
-      "teaser": "Milan Kovac, Chef der Entwicklung des humanoiden Roboters Optimus bei Tesla, verlässt das Unternehmen überraschend. Der Weggang könnte sich negativ auswirken.",
-      "url": "https://www.heise.de/news/Rueckschlag-fuer-Optimus-Bot-Chef-der-Robotersparte-verlaesst-Tesla-10438044.html",
-      "image_title": "Teslas Optimus Bot sortiert Teile."
     },
     {
       "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
@@ -376,10 +389,20 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-mechanische-gaming-tastatur-im-test/gj64hls?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Bundesjustizministerin Hubig: Altersgrenze für Social Media ist nötig",
+      "teaser": "Da Social-Media-Plattformen nicht genug für den Jugendschutz tun, spricht sich auch Bundesjustizministerin Hubig für Altersverifikationen und Altersgrenzen aus.",
+      "url": "https://www.heise.de/news/Altersgrenze-fuer-Social-Media-Weniger-Mobbing-mehr-Konzentration-10437594.html"
+    },
+    {
       "title": "Wo sind die Aliens? Warum die Suche nach Leben im All so schwierig ist",
       "teaser": "Signaturen vom Exoplaneten K2-18b wecken Hoffnung, außerirdisches Leben zu finden. Doch wie suchen Forscher danach – und warum haben sie noch keins entdeckt?",
       "url": "https://www.heise.de/hintergrund/Wo-sind-die-Aliens-Warum-die-Suche-nach-Leben-im-All-so-schwierig-ist-10363180.html",
       "image_title": "James-Webb erkundet fremde Welten"
+    },
+    {
+      "title": "Cyberrisiken und -kriminalität: Don’t panic!",
+      "teaser": "Ruhe und Konzentration statt Hektik und Panik – wer widerstandsfähiger gegen Cyberangriffe werden will, sollte sich von Horrormeldungen rund um Sicherheitsvorfälle nicht einschüchtern lassen. Darüber und über die richtigen Maßnahmen geht es in einem Webcast am 17.6.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/dont-panic-wie-sie-cyberrisiken-einfach-konkret-und-umsetzbar-begegnen-4931/?source=hbsad-ersatz"
     },
     {
       "title": "Mini-PC für 150 Euro im Test: Ninkear Mbox 11 ist erstaunlich gut",
@@ -396,11 +419,6 @@
       "title": "Bastelprojekt: IoT-Kartenhalter im Selbstbau",
       "teaser": "Ein Sharing-System ist praktisch und spart Geld. Es behält mit Sensoren den Überblick und informiert auf einer Website über den Verfügbarkeitsstatus.",
       "url": "https://www.heise.de/ratgeber/Bastelprojekt-IoT-Kartenhalter-im-Selbstbau-10375024.html"
-    },
-    {
-      "title": "Erfolgreicher handeln – mit KI und Cloud Computing",
-      "teaser": "Um im Wettbewerb erfolgreich zu sein, müssen Handelsunternehmen Trends erkennen, Produktionskapazitäten vorausschauend planen und Kundenwünsche schnell umsetzen. Wie das mit der richtigen Kombination aus künstlicher Intelligenz und Cloud Computing gelingt.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/erfolgreicher-handeln-mit-ki-und-cloud-computing-4917/?source=hbsadersatz"
     },
     {
       "title": "GNOME 49 schickt X11 in Rente",
@@ -427,6 +445,12 @@
       "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
     },
     {
+      "title": "EU-Datenschützer: Vorsicht bei Informationsersuchen aus Drittstaaten",
+      "teaser": "Die EU-Datenschutzbehörden erläutern, dass Urteile oder Entscheidungen von Behörden aus Drittstaaten wie den USA nicht automatisch anerkannt werden können.",
+      "url": "https://www.heise.de/news/EU-Datenschuetzer-Vorsicht-bei-Informationsersuchen-aus-Drittstaaten-10437277.html",
+      "image_title": "Europa,Dsgvo,-,3d,Illustration,With,Blue,Backdrop"
+    },
+    {
       "title": "Python-Grundlagen: Wie Sie for-Schleifen richtig einsetzen",
       "teaser": "for-Schleifen gehören zu den grundlegenden Konzepten in der Programmierung. Richtig eingesetzt sparen sie sehr viele Codezeilen.",
       "url": "https://www.heise.de/ratgeber/Python-Grundlagen-Wie-Sie-for-Schleifen-richtig-einsetzen-10362960.html"
@@ -436,28 +460,6 @@
       "teaser": "\"Der Blitz ist in seinem Spektrum dem Tageslicht sehr ähnlich und in meinen Augen die beste fotografische Lichtquelle\", sagt Fotograf und Autor Dr. Tilo Gockel.",
       "url": "https://www.heise.de/news/Sonne-versus-Blitz-Click-Boom-Flash-39-Licht-in-der-Fotografie-10436006.html",
       "image_title": "Junge Frau im Abendlicht"
-    },
-    {
-      "title": "Top 10: Die beste Powerbank im Test – Testsieger kostet 23 Euro",
-      "teaser": "Powerbanks gibt es in allerlei Leistungsklassen: von 10 bis 200 Watt, von 5000 bis 27.000 mAh. Wir haben knapp 30 Modelle aus verschiedenen Preisbereichen getestet und zeigen die zehn besten.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-powerbank-im-test/d2705w7?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Xbox Ally: Asus und Microsoft bauen zwei Windows-Handhelds",
-      "teaser": "Microsoft hat zwei Handhelds mit Xbox-Branding vorgestellt: Beide Modelle kommen mit einer neuen Bedienoberfläche, die sparsamer als Standard-Windows sein soll.",
-      "url": "https://www.heise.de/news/Xbox-Ally-Asus-und-Microsoft-bauen-zwei-Windows-Handhelds-10437283.html",
-      "image_title": "Handheld-PCs nebeneinander"
-    },
-    {
-      "title": "Instagram, TikTok und Co erst ab 15 - neue Initiative durch EU-Minister",
-      "teaser": "Mehrere EU-Länder wollen ein Verbot von Social Media für unter 15-Jährige. Die Plattformen seien gefährlich für die Entwicklung der Kinder.",
-      "url": "https://www.heise.de/news/Instagram-TikTok-und-Co-erst-ab-15-neue-Initiative-durch-EU-Minister-10437261.html",
-      "image_title": "Kinder am Smartphone"
-    },
-    {
-      "title": "Nvidia GeForce RTX 5060 und RTX 5060 Ti im Test",
-      "teaser": "Nvidias GeForce RTX 5060, komplett mit Ti-Version und optionalen 16 GByte ist da und ergänzt die RTX-5000-Reihe. Wir geben nur einer Variante grünes Licht.",
-      "url": "https://www.heise.de/tests/Nvidia-GeForce-RTX-5060-und-RTX-5060-Ti-im-Test-10395140.html"
     },
     {
       "title": "Missing Link: Tim Berners-Lee wird 70 – der Architekt des World Wide Webs",
@@ -498,9 +500,14 @@
       "url": "https://www.heise.de/news/Wo-Smartwatches-tatsaechlich-nuetzlich-sind-c-t-uplink-10435003.html"
     },
     {
-      "title": "Händlerkreise: Fairphone 6 soll Ende Juni vorgestellt werden",
-      "url": "https://www.heise.de/news/Leaks-Modulares-Fairphone-6-soll-am-25-Juni-vorgestellt-werden-10436048.html",
-      "image_title": "Fairphone 5 von vorne"
+      "title": "Instagram, TikTok und Co erst ab 15 - neue Initiative durch EU-Minister",
+      "url": "https://www.heise.de/news/Instagram-TikTok-und-Co-erst-ab-15-neue-Initiative-durch-EU-Minister-10437261.html",
+      "image_title": "Kinder am Smartphone"
+    },
+    {
+      "title": "Xbox Ally: Asus und Microsoft bauen zwei Windows-Handhelds",
+      "url": "https://www.heise.de/news/Xbox-Ally-Asus-und-Microsoft-bauen-zwei-Windows-Handhelds-10437283.html",
+      "image_title": "Handheld-PCs nebeneinander"
     },
     {
       "title": "\"War For Westeros\": \"Age of Empires\" im \"Game of Thrones\"-Universum",
@@ -511,11 +518,6 @@
       "title": "\"The Expanse: Osiris Reborn\": Action-Rollenspiel nach \"Mass Effect\"-Muster",
       "url": "https://www.heise.de/news/The-Expanse-Osiris-Reborn-Action-Rollenspiel-nach-Mass-Effect-Muster-10437079.html",
       "image_title": "Screenshot aus \"The Expanse Osiris Reborn\""
-    },
-    {
-      "title": "\"Resident Evil 9: Requiem\" für 2026 angekündigt",
-      "url": "https://www.heise.de/news/Resident-Evil-9-Requiem-fuer-2026-angekuendigt-10436776.html",
-      "image_title": "Screenshot aus Resident Evil 9"
     },
     {
       "title": "Bayern bekommt Autobahnstrecke für kontaktloses Laden fahrender E-Autos",
@@ -625,14 +627,14 @@
       "url": "https://www.heise.de/en/news/iPhone-mirroring-in-the-EU-still-waiting-for-useful-macOS-function-10317754.html"
     },
     {
-      "title": "Notfall-Windows und Kali Linux auf einem USB-Stick",
-      "teaser": "Ich möchte einen USB-Stick mit dem c’t-Notfall-System und Kali Linux erstellen. Brauche ich dafür PEBakery oder genügen zwei Partitionen? Wie setze ich das um?",
-      "url": "https://www.heise.de/ratgeber/Notfall-Windows-und-Kali-Linux-auf-einem-USB-Stick-10420664.html"
+      "title": "Nvidia GeForce RTX 5060 und RTX 5060 Ti im Test",
+      "teaser": "Nvidias GeForce RTX 5060, komplett mit Ti-Version und optionalen 16 GByte ist da und ergänzt die RTX-5000-Reihe. Wir geben nur einer Variante grünes Licht.",
+      "url": "https://www.heise.de/tests/Nvidia-GeForce-RTX-5060-und-RTX-5060-Ti-im-Test-10395140.html"
     },
     {
-      "title": "c't-Webinar: Digitale Sicherheit für Anfänger",
-      "teaser": "IT-Sicherheit kann auch unkompliziert sein: Lernen Sie im c’t-Webinar praxisnah, wie Sie Geräte und Daten mit wenig Aufwand effektiv schützen.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Digitale-Sicherheit-fuer-Anfaenger-10424890.html"
+      "title": "c't 3003Windows-Spiele laufen besser auf Linux (wirklich!)",
+      "teaser": "Wir haben auf einem PC-Handheld mit Windows 11 SteamOS, also Linux, installiert. Resultat: bis zu 54 % mehr Leistung.",
+      "url": "https://www.heise.de/news/Windows-Spiele-laufen-besser-auf-Linux-wirklich-10436098.html"
     },
     {
       "title": "c’t uplinkWo Smartwatches tatsächlich nützlich sind",
@@ -652,10 +654,10 @@
       "image_title": ", Mix and Match Studio, stock.adobe.com"
     },
     {
-      "title": "Flexible Schreibwerkstatt: adoc Studio im Test",
-      "teaser": "Es muss nicht immer eine klassische Textverarbeitung sein: adoc Studio formatiert mithilfe von AsciiDoc umfangreiche Texte und Dokumentationen.",
-      "url": "https://www.heise.de/tests/Flexible-Schreibwerkstatt-adoc-Studio-im-Test-10389100.html",
-      "image_title": "adoc Studio"
+      "title": "BenQ PD2730S im Test: 27-Zoll-Monitor mit 5K-Auflösung und vielen Ports",
+      "teaser": "Der 27-Zoll-Monitor PD2730S mit 5K-Auflösung zeigt sich äußerst anschlussfreudig. Mac & i hat ihn getestet.",
+      "url": "https://www.heise.de/tests/Pixelprotz-mit-vielen-Ports-10397848.html",
+      "image_title": "BenQ PD2730S"
     },
     {
       "title": "Oxocard-Projekt: Wie man eine Steuerungssoftware für Fischertechnik entwickelt",
@@ -669,9 +671,10 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-3-25-Fritzbox-pimpen-10433070.html"
     },
     {
-      "title": "Wärmepumpen-Hack: Wie man im Sommer den überschüssigen Solarstrom nutzt",
-      "teaser": "Im Sommer nutzt man den Photovoltaik-Überschuss für den Warmwasserspeicher – vollautomatisch mithilfe der Open-Source-Projekte evcc, ioBroker und einem RasPi.",
-      "url": "https://www.heise.de/ratgeber/Waermepumpen-Hack-Wie-man-im-Sommer-den-ueberschuessigen-Solarstrom-nutzt-10394046.html"
+      "title": "Sampler-Synthesizer: Bastl Instruments Wave Bard",
+      "teaser": "Der Wave Bard ist ein experimenteller, patchbarer Stereo-Sample-Player. Durch Modulation und Modularität entdeckt man ständig neue Rhythmen und Riffs.",
+      "url": "https://www.heise.de/news/Sample-Barde-Bastl-Instruments-Wave-Bard-10425801.html",
+      "image_title": "Bastl Kastl 2 Wave Bard"
     },
     {
       "title": "KW 23/2025X half ausprobiert und Sigmas Cine-Primes– Fotonews der Woche",
@@ -771,22 +774,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-im-test/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wie sich abendlicher Kaffeekonsum auf unseren Schlaf auswirkt",
-      "teaser": "Wer spät am Abend noch Kaffee trinkt, dessen Gehirn bleibt auch im Schlaf aktiver. Eine neue Studie zeigt: Koffein verändert die nächtliche Hirnaktivität.",
-      "url": "https://www.heise.de/tp/features/Wie-sich-abendlicher-Kaffeekonsum-auf-unseren-Schlaf-auswirkt-10423867.html",
-      "image_title": "Eine Tasse Kaffee"
+      "title": "Attila der Hunne: Vom unbesiegbaren Herrscher zum tragischen Ende",
+      "teaser": "Attila plante 450 seinen Westfeldzug. Ostrom verweigerte Tribute, der Westen lockte mit Reichtum. Doch er ahnte nicht, dass sein größter Feind bereits lauerte.",
+      "url": "https://www.heise.de/tp/features/Attila-der-Hunne-Vom-unbesiegbaren-Herrscher-zum-tragischen-Ende-10434759.html",
+      "image_title": "Kreidezeichnung mit Papst Leo I., der den Eindringling Attila den Hunnen aufhält"
     },
     {
-      "title": "Generation Z verliert Bezug zur heimischen Natur",
-      "teaser": "Junge Menschen kennen weniger Tier- und Pflanzenarten als Ältere. Ihre Naturverbundenheit sinkt. Naturerfahrungen im frühen Kindesalter können das Naturwissen fördern und stärken. (Leserdebatte)",
-      "url": "https://www.heise.de/tp/features/Generation-Z-verliert-Bezug-zur-heimischen-Natur-10425367.html",
-      "image_title": "HAnd mit Schmetterling auf Finger und Hand mit Brombeere"
+      "title": "Erster Veteranentag: Wie Krieg gefeiert wird",
+      "teaser": "Die \"Detonators\" spielen beim Veteranentag. Band aus Bundeswehr- und Polizei. Der Name hat System (Leserdebatte, Teil 2 und Schluss)",
+      "url": "https://www.heise.de/tp/features/Erster-Veteranentag-Wie-Krieg-gefeiert-wird-10435482.html",
+      "image_title": "Kränze mit Schleifen in Deutschland-Farben"
     },
     {
-      "title": "Afghanistan: Rückkehr der USA?",
-      "teaser": "China, Russland und Iran festigen die Beziehungen zu Kabul, während die USA das Great Game wieder aufnehmen. Tritt Indien als Parteigänger der USA auf?",
-      "url": "https://www.heise.de/tp/features/Afghanistan-Rueckkehr-der-USA-10436863.html",
-      "image_title": "Historische Ruinen vor gewaltiger Bergkulisse"
+      "title": "Greta Thunbergs Gaza-Mission: Vom Klimaprotest zur Nahost-Politik",
+      "teaser": "Greta Thunberg auf Gaza-Mission gestoppt. Israelisches Militär leitet Hilfsschiff um. Was steckt hinter der Aktion der Klimaaktivistin?",
+      "url": "https://www.heise.de/tp/features/Greta-Thunbergs-Gaza-Mission-Vom-Klimaprotest-zur-Nahost-Politik-10437580.html"
     },
     {
       "title": "Cloud86 im Test: Webhosting aus den Niederlanden",

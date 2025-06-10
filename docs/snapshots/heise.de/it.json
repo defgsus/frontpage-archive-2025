@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-10T08:14:36",
+  "timestamp": "2025-06-10T09:11:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
-      "title": "visionOS 26: Bessere Persona, mehr Spatial-Content und erstmals Widgets",
+      "title": "Webframework Astro 5.9 wappnet sich gegen XSS-Attacken",
+      "teaser": "Experimenteller Support für CSP soll dabei helfen, Astro-Anwendungen gegen Cross-Site-Scripting-Angriffe abzusichern. Neuerungen gibt es auch für Markdown.",
+      "url": "https://www.heise.de/news/Webframework-Astro-5-9-wappnet-sich-gegen-XSS-Attacken-10438157.html",
+      "image_title": "Verschiedene Icons zum Thema Datenschutz. In der Mitte ein Sicherheitsschloss, links daneben ein digitaler Personalausweis, rechts daneben ein Fingerabdruck. Dahinter steht eine Person, die beide Hände geöffnet hat, sodass es scheint, als ob die Sicherheitssymbole darüber schweben."
+    },
+    {
+      "title": "AlertSAP-Patchday: Kritisches Leck in Netweaver und weitere Schwachstellen",
+      "teaser": "SAP kümmert sich am Juni-Patchday in 14 neuen Sicherheitsnotizen um teils kritische Sicherheitslücken in den Produkten aus Walldorf.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Erneut-kritische-Sicherheitsluecke-in-Netweaver-10438217.html",
+      "image_title": "Zerstückeltes SAP-Logo, dahinter zerteilte SAP Netweaver GUI"
+    },
+    {
+      "title": "Apples visionOS 26: Menschlichere Persona, Widgets und Support für Sony",
       "teaser": "Von visionOS 2.5 direkt auf visionOS 26: Apple bringt zahlreiche Neuerungen für sein Headset Vision Pro – mehr, als viele erwartet hätten.",
       "url": "https://www.heise.de/news/visionOS-26-Bessere-Persona-mehr-Spatial-Content-und-erstmals-Widgets-10437868.html",
       "image_title": "Vision Pro mit Sonys Spatial-Controller"
     },
     {
-      "title": "Dobrindt will mehr KI zur Sabotage-Abwehr einsetzen",
+      "title": "Bundesinnenminister will mehr KI zur Sabotage-Abwehr einsetzen",
       "teaser": "Neben militärischen Bedrohungen nehmen auch Angriffe auf die Infrastruktur zu. Der Innenminister will mit modernen Mitteln dagegen vorgehen.",
       "url": "https://www.heise.de/news/Dobrindt-will-mehr-KI-zur-Sabotage-Abwehr-einsetzen-10438193.html",
       "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
-    },
-    {
-      "title": "Horizons #25: KI, Datenstrategie & Zukunft der Arbeit",
-      "teaser": "Horizons by heise bringt Wirtschaft, Wissenschaft und Gesellschaft zusammen.",
-      "url": "https://www.heise.de/news/Horizons-25-KI-Datenstrategie-Zukunft-der-Arbeit-10424827.html"
-    },
-    {
-      "title": "Software Testing: Zeitalter der Autonomik",
-      "teaser": "In dieser Episode spricht Richard Seidl mit Prof. Peter Liggesmeyer über eine neue Profession: die Autonomik.",
-      "url": "https://www.heise.de/blog/Software-Testing-Zeitalter-der-Autonomik-10438012.html",
-      "image_title": "Software Testing: Zeitalter der Autonomik"
     },
     {
       "title": "TestsIm Test: Zwei 5K-Displays von Asus und BenQ mit USB-C für gehobene Ansprüche",
@@ -61,6 +62,17 @@
     {
       "title": "RatgeberPython-Grundlagen: Wie Sie for-Schleifen richtig einsetzen",
       "url": "https://www.heise.de/ratgeber/Python-Grundlagen-Wie-Sie-for-Schleifen-richtig-einsetzen-10362960.html"
+    },
+    {
+      "title": "Horizons #25: KI, Datenstrategie & Zukunft der Arbeit",
+      "teaser": "Horizons by heise bringt Wirtschaft, Wissenschaft und Gesellschaft zusammen.",
+      "url": "https://www.heise.de/news/Horizons-25-KI-Datenstrategie-Zukunft-der-Arbeit-10424827.html"
+    },
+    {
+      "title": "Software Testing: Zeitalter der Autonomik",
+      "teaser": "In dieser Episode spricht Richard Seidl mit Prof. Peter Liggesmeyer über eine neue Profession: die Autonomik.",
+      "url": "https://www.heise.de/blog/Software-Testing-Zeitalter-der-Autonomik-10438012.html",
+      "image_title": "Software Testing: Zeitalter der Autonomik"
     },
     {
       "title": "AMD gibt proprietäre 3D-Grafiktreiber für Linux auf",
@@ -137,17 +149,6 @@
       "teaser": "CRA, NIS-2 und AI Act: Wie Unternehmen ihre IT rechtssicher betreiben können – praxisorientierte Einblicke aus dem Alltag von Systemadministratoren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Recht-fuer-Admins-Wege-zur-gesetzeskonformen-IT-Praxis-10432235.html",
       "image_title": "ix-Tagesworkshop IT-Recht für Administrator:innen"
-    },
-    {
-      "title": "iX-Workshop: Echtzeitüberwachung mit Prometheus und Grafana",
-      "teaser": "Infrastruktur und Anwendungen effektiv überwachen, Alarme einrichten und Probleme frühzeitig erkennen, um auf kritische Situationen reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Echtzeitueberwachung-mit-Prometheus-und-Grafana-10432137.html",
-      "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
-    },
-    {
-      "title": "Viel Leistung, unverschämt günstig: Mini-PC U58 mit Ryzen 7 für 272 Euro im Test",
-      "teaser": "Gxmo oder Alliwava, egal: Der U58 bietet zum Knüller-Preis von 272 Euro ein starkes Gesamtpaket mit Ryzen 7 & 32 GB RAM. Wo die Stärken und Schwächen des Mini-PCs liegen, zeigt unser Test.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-u58-im-test/lm8d041?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "News Verwaltungsgericht München: Pornhub und YouPorn bleiben zunächst gesperrt",
