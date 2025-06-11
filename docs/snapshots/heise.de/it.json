@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-11T06:15:18",
+  "timestamp": "2025-06-11T07:10:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,31 @@
   ],
   "articles": [
     {
+      "title": "Tipp: Nachrichten-App auf Mac und iPad per Tastatur steuern",
+      "teaser": "Tapbacks auf iMessage-Botschaften sind ebenso populär wie praktisch. Wenn es schneller gehen soll, hilft ein Tastaturkürzel. Und nicht nur dafür.",
+      "url": "https://www.heise.de/ratgeber/Tipp-iMessage-Tapbacks-an-Mac-und-iPad-per-Tastatur-eingeben-6511429.html",
+      "image_title": "iMessage-Logo mit zwei Benachrichtigungen"
+    },
+    {
+      "title": "FAQ zum c't-Sicherheitstool Desinfec't 2025",
+      "teaser": "Wir beantworten die häufigsten Fragen zum c’t-Sicherheitstool Desinfec't 2025.",
+      "url": "https://www.heise.de/ratgeber/FAQ-zum-c-t-Sicherheitstool-Desinfec-t-2025-10336138.html"
+    },
+    {
+      "title": "programmier.bar: Vite – das universale Build Tool für JavaScript und TypeScript",
+      "teaser": "In dieser Folge ist die Crew der programmier.bar im Gespräch mit einem der Vite-Maintainer über Developer Experience, Frameworks und Architekturentscheidungen.",
+      "url": "https://www.heise.de/blog/programmier-bar-Vite-das-universale-Build-Tool-fuer-JavaScript-und-TypeScript-10438579.html",
+      "image_title": "programmier.bar: Vite mit Dominik Göpel"
+    },
+    {
       "title": "Zwei externe Webcams für den Mac im Test – mit besonderen Funktionen",
       "teaser": "Aktuelle Macs mit Kamera unterstützen neben einem Folgemodus auch die Schreibtischansicht. Lohnen sich externe Webcams trotzdem? Wir haben zwei Geräte getestet.",
       "url": "https://www.heise.de/tests/Zwei-externe-Webcams-fuer-den-Mac-im-Test-mit-besonderen-Funktionen-10422964.html",
       "image_title": ","
     },
     {
-      "title": "Teams-Alternative Nextcloud TalkBessere Telefonie-Funktion, neues Dashboard",
-      "teaser": "Microsoft und Google sind nicht alternativlos: Nextcloud baut Talk im jüngsten Update für die Migration weg von MS Teams & Co aus.",
-      "url": "https://www.heise.de/news/Nextcloud-Talk-statt-MS-Teams-10439231.html",
-      "image_title": "Nextcloud Talk \"Munich\" Logo"
-    },
-    {
-      "title": "Zum Tod von Bill AtkinsonDer Mann, der Apples Kronjuwelen programmierte",
-      "teaser": "Der Apple-Pionier und Naturfotograf Bill Atkinson ist Anfang Juni an den Folgen einer Krebserkrankung gestorben. Er wurde 74 Jahre alt.",
-      "url": "https://www.heise.de/news/Der-Mann-der-Apples-Kronjuwelen-programmierte-Zum-Tod-von-Bill-Atkinson-10439342.html"
-    },
-    {
-      "title": "KI-AssistenzSnap bringt AR-Brille Specs auf den Markt",
-      "teaser": "Snap hat neue Specs vorgestellt. Die leichte AR-Brille mit KI-Funktionen soll ab 2026 erhältlich sein.",
-      "url": "https://www.heise.de/news/Snap-kuendigt-echte-AR-Brille-fuer-Konsumenten-an-10438080.html",
-      "image_title": "Die Brille zeigt den perfekten Stoß am Billardtisch."
+      "title": "RatgeberFAQ zum c't-Sicherheitstool Desinfec't 2025",
+      "url": "https://www.heise.de/ratgeber/FAQ-zum-c-t-Sicherheitstool-Desinfec-t-2025-10336138.html"
     },
     {
       "title": "TestsZwei externe Webcams für den Mac im Test – mit besonderen Funktionen",
@@ -59,8 +63,16 @@
       "image_title": ","
     },
     {
-      "title": "RatgeberJavaScript: Einen Discord-Bot für die eigene Gaming-Community programmieren",
-      "url": "https://www.heise.de/ratgeber/JavaScript-Einen-Discord-Bot-fuer-die-eigene-Gaming-Community-programmieren-10420597.html"
+      "title": "Teams-Alternative Nextcloud Talk: Bessere Telefonie-Funktion, neues Dashboard",
+      "teaser": "Microsoft und Google sind nicht alternativlos: Nextcloud baut Talk im jüngsten Update jetzt explizit für die Migration weg von MS Teams & Co aus.",
+      "url": "https://www.heise.de/news/Nextcloud-Talk-statt-MS-Teams-10439231.html",
+      "image_title": "Nextcloud Talk \"Munich\" Logo"
+    },
+    {
+      "title": "Snaps Specs: Echte AR-Brille mit KI-Funktionen ab 2026",
+      "teaser": "Snap hat neue Specs vorgestellt. Die leichte AR-Brille mit KI-Funktionen ist ab 2026 für Verbraucher erhältlich.",
+      "url": "https://www.heise.de/news/Snap-kuendigt-echte-AR-Brille-fuer-Konsumenten-an-10438080.html",
+      "image_title": "Die Brille zeigt den perfekten Stoß am Billardtisch."
     },
     {
       "title": "Stark und leise: Mini-PC Acemagic W1 mit Ryzen 7 im Test",
@@ -131,22 +143,9 @@
       "url": "https://www.heise.de/news/gamescom-jobs-career-powered-by-heise-Jobs-10433356.html"
     },
     {
-      "title": "Europas schnellster Supercomputer steht wieder in Deutschland",
-      "teaser": "Der Jülicher Jupiter Booster belegt Rang 4 der Top500-Liste der weltschnellsten Supercomputer und ist damit der schnellste Supercomputer in Europa.",
-      "url": "https://www.heise.de/news/Jupiter-Booster-Beinahe-der-erste-Exascale-Supercomputer-Europas-10438385.html",
-      "image_title": "Erste Container des Supercomputers Jupiter stehen auf ihrem Fundament"
-    },
-    {
-      "title": "Webframework Astro 5.9 wappnet sich gegen XSS-Attacken",
-      "teaser": "Experimenteller Support für CSP soll dabei helfen, Astro-Anwendungen gegen Cross-Site-Scripting-Angriffe abzusichern. Neuerungen gibt es auch für Markdown.",
-      "url": "https://www.heise.de/news/Webframework-Astro-5-9-wappnet-sich-gegen-XSS-Attacken-10438157.html",
-      "image_title": "Verschiedene Icons zum Thema Datenschutz. In der Mitte ein Sicherheitsschloss, links daneben ein digitaler Personalausweis, rechts daneben ein Fingerabdruck. Dahinter steht eine Person, die beide Hände geöffnet hat, sodass es scheint, als ob die Sicherheitssymbole darüber schweben."
-    },
-    {
-      "title": "AlertSAP-Patchday: Kritisches Leck in Netweaver und weitere Schwachstellen",
-      "teaser": "SAP kümmert sich am Juni-Patchday in 14 neuen Sicherheitsnotizen um teils kritische Sicherheitslücken in den Produkten aus Walldorf.",
-      "url": "https://www.heise.de/news/SAP-Patchday-Erneut-kritische-Sicherheitsluecke-in-Netweaver-10438217.html",
-      "image_title": "Zerstückeltes SAP-Logo, dahinter zerteilte SAP Netweaver GUI"
+      "title": "JavaScript: Einen Discord-Bot für die eigene Gaming-Community programmieren",
+      "teaser": "Ein Discord-Bot begrüßt User, zeigt Daten an oder schmeißt Spammer raus. Wir zeigen, wie Sie mit dem Framework discord.js einen simplen Bot programmieren.",
+      "url": "https://www.heise.de/ratgeber/JavaScript-Einen-Discord-Bot-fuer-die-eigene-Gaming-Community-programmieren-10420597.html"
     },
     {
       "title": "NewsChina will in den Erdmantel bohren",
