@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-11T02:40:52",
+  "timestamp": "2025-06-11T03:41:59",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -110,11 +116,18 @@
   ],
   "articles": [
     {
-      "title": "Liveblog:Proteste in den USA: Bürgermeisterin von L. A. verhängt teilweise Ausgangssperre",
-      "teaser": "In Los Angeles tritt der Notstand in Kraft, nachts gelten Ausgangsbeschränkungen. Kaliforniens Gouverneur Newsom zieht gegen Einsatz der Armee vor Gericht. Das Liveblog",
+      "title": "Liveblog:Proteste in den USA: \"Die Demokratie wird angegriffen\"",
+      "teaser": "Kaliforniens Gouverneur Gavin Newsom rückt Donald Trumps Vorgehen in die Nähe von Autoritarismus und Diktatur. Polizeichef meldet 197 Festnahmen in L. A. Das Liveblog",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-06/proteste-los-angeles-usa-militaer-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-06/la-proteste/wide__1000x562",
-      "image_title": "LA Proteste"
+      "image_url": "https://img.zeit.de/politik/ausland/2025-06/gavin-newsom-kalifornien/wide__1000x562",
+      "image_title": "Gavin Newsom Kalifornien"
+    },
+    {
+      "title": "Eskalation in Los Angeles: Bürgermeisterin von Los Angeles verhängt nächtliche Ausgangssperre",
+      "teaser": "Nach Vandalismus im Zentrum von Los Angeles hat Bürgermeisterin Karen Bass für einen Teil der Stadt eine Ausgangssperre verhängt. Sie soll für mehrere Nächte gelten.",
+      "url": "https://www.zeit.de/politik/ausland/2025-06/los-angeles-ausgangssperre",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-06/los-angeles-ausgangssperre-bild/super__430x286",
+      "image_title": "Eskalation in Los Angeles: Tür zu: Ein Soldat neben dem Ronald Reagan Federal Building im Zentrum von Los Angeles."
     },
     {
       "title": "Demonstrationen gegen ICE: US-Präsident spricht von \"ausländischer Invasion\" in L. A.",
@@ -122,13 +135,6 @@
       "url": "https://www.zeit.de/politik/ausland/2025-06/trump-proteste-los-angeles-invasion",
       "image_url": "https://img.zeit.de/politik/ausland/2025-06/trump-proteste-los-angeles-invasion-bild/super__430x286",
       "image_title": "Demonstrationen gegen ICE: Große Bühne in Fort Bragg: US-Präsident Donald Trump spricht anlässlich des 250. Bestehens des US-Heeres."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Proteste gegen US-Einwanderungsbehörde: Eine Stadt schlägt zurück",
-      "teaser": "Donald Trump schickt Soldaten nach Los Angeles, um Kalifornien unter Kontrolle zu bringen. Kann der US-Präsident die Bundesstaaten mit Militäreinsätzen entmachten?",
-      "url": "https://www.zeit.de/politik/ausland/2025-06/proteste-us-einwanderungsbehoerde-los-angeles-militaereinsatz-donald-trump",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-06/proteste-us-einwanderungsbehoerde-los-angeles-militaereinsatz-donald-trump-bild/super__430x286",
-      "image_title": "Proteste gegen US-Einwanderungsbehörde: Protesters confront police on the 101 Freeway near the metropolitan detention center of downtown Los Angeles, Sunday, June 8, 2025, following last night's immigration raid protest. Demonstranten stellen sich am Sonntag, dem 8. Juni 2025, auf dem Highway 101 nahe dem Gefängniszentrum in Los Angeles der Polizei – nach Protesten gegen eine Einwanderungsrazzia am Vorabend."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Amoklauf an Schule : Auch für den Täter brennt eine Kerze",
@@ -145,52 +151,32 @@
       "image_title": "Amoklauf in Graz: Ein Polizeihubschrauber kreist über dem Tatort."
     },
     {
-      "title": "Zölle: China und USA verkünden Fortschritte im Handelsstreit",
-      "teaser": "Vertreter der USA und Chinas haben sich im Zollkonflikt nach eigenen Angaben auf einen \"Rahmen\" verständigt. Mit Blick auf Seltene Erden zeigen sich die USA optimistisch.",
-      "url": "https://www.zeit.de/wirtschaft/2025-06/handelsstreit-usa-china-zoelle-london",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-06/china-usa-handel/super__430x286",
-      "image_title": "China USA Handel"
+      "title": "Nachruf: Die Nägel, die die Welt bedeuten",
+      "teaser": "Wie man mit dem Hammer Sanftmut lehren kann und Poesie: zum Tode des großen Künstlers Günther Uecker.",
+      "url": "https://www.zeit.de/2025/25/kuenstler-guenther-uecker-nachruf-die-naegel-die-die-welt-bedeuten",
+      "image_url": "https://img.zeit.de/2025/25/die-naegel-die-die-welt-bedeuten-bild-1/super__430x286",
+      "image_title": "Nachruf: Günther Uecker (* 13. 3. 1930, † 10. 6. 2025)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mordfall: \"Der wird eliminiert\"",
-      "teaser": "Eine Tierärztin heiratet einen reichen Kardiologen. Wenig später wird er im Bett erstochen. Die Witwe hat ein Alibi – bis die Polizei sie mit einem Detail konfrontiert.",
-      "url": "https://www.zeit.de/2025/24/mordfall-tieraerztin-kardiologe-detail-ermittlung",
-      "image_url": "https://img.zeit.de/2025/24/der-wird-eliminiert-bild-5/wide__892x501",
-      "image_title": "Mordfall: Das Opfer muss auf dem Bauch geschlafen haben, als der tödliche Angriff kam. / Die Bilder der Täter dürfen NUR unkenntlich und nicht mit ihren Klarnamen veröffentlicht werden. Bitte genauso wie in Print zeigen. ++++++++++<br /> Hotel Room"
-    },
-    {
-      "title": "Günther Uecker: Künstler Günther Uecker ist gestorben",
-      "teaser": "Der für seine Nagelreliefs berühmte Künstler Günther Uecker ist tot. Er wurde 95 Jahre alt. Uecker galt als einer der wichtigsten deutschen Nachkriegskünstler.",
-      "url": "https://www.zeit.de/kultur/kunst/2025-06/kuenstler-guenther-uecker-ist-gestorben",
-      "image_url": "https://img.zeit.de/kultur/kunst/2025-06/kuenstler-guenther-uecker-ist-gestorben-bild-2/super__430x286",
-      "image_title": "Günther Uecker: Der Künstler Günther Ueckerim Jahr 2015 in einer Ausstellung in Düsseldorf (Archivfoto)."
+      "title": "Z+ (abopflichtiger Inhalt); Impulskontrolle: Das Zauberwort heißt: Impulskontrolle",
+      "teaser": "Im Job, im Auto, im Streit: In angespannten Situationen verliert man leicht die Beherrschung. Die Psychologie weiß, wie man solche Impulse besser kontrollieren kann.",
+      "url": "https://www.zeit.de/gesundheit/2025-06/impulskontrolle-reaktion-emotionen-psychologie-strategien",
+      "image_url": "https://img.zeit.de/gesundheit/2025-06/impulskontrolle-reaktion-emotionen-psychologie-strategien-bild/wide__892x501",
+      "image_title": "Impulskontrolle: A dog in a leather jacket sits in a car with a person waving beside it, against a brick wall in Berlin."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Abfindung: \"Die Summe hatte es in sich – 480.000 Euro\"",
       "teaser": "Wer lange im Betrieb ist, kann gute Abfindungen verhandeln. Drei Menschen erzählen, wie sie es geschafft haben, mit viel Geld zu gehen – und was sie damit gemacht haben.",
       "url": "https://www.zeit.de/arbeit/2025-05/abfindung-unternehmen-arbeitsplatz-umgang-finanzen",
-      "image_url": "https://img.zeit.de/arbeit/2025-05/abfindung-unternehmen-arbeitsplatz-umgang-finanzen-2/wide__892x501",
+      "image_url": "https://img.zeit.de/arbeit/2025-05/abfindung-unternehmen-arbeitsplatz-umgang-finanzen-2/super__430x286",
       "image_title": "Abfindung: \"Die Summe hatte es in sich – 480.000 Euro\""
     },
     {
-      "title": "Jens Spahn: Die Maskendeals wird er nicht los",
-      "teaser": "Als Gesundheitsminister kaufte er viele teure Masken, die Folge: ein Milliardenschaden. Jetzt soll ein Ermittlungsbericht Jens Spahn belasten – und könnte geheim bleiben.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-06/jens-spahn-masken-vorwurf-bericht-corona-gesundheitsminister",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-06/jens-spahn-masken-vorwurf/super__430x286",
-      "image_title": "Jens Spahn: BERLIN, GERMANY - MAY 21: Jens Spahn, Chairman of the CDU/CSU parliamentary group in the German Bundestag, gestures during an interview on May 21, 2025 in Berlin, Germany. (Photo by Thomas Trutschel/Photothek via Getty Images)"
-    },
-    {
-      "title": "NEU: Wochenmarkt Abo: Unser Abo mit Geschmack",
-      "teaser": "Über 3.000 Rezepte, täglich frische Kochideen per E-Mail, saisonale Menüs und Tipps von Spitzenköchinnen und -köchen. Für alle, die mit Genuss lesen – und kochen.",
-      "url": "https://premium.zeit.de/bestellung/4000057#start",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-06/wochenmarkt-illustration-cluster-square/square__500x500"
-    },
-    {
-      "title": "Astrophysik: Gibt es im Weltall oben und unten?",
-      "teaser": "Astronauten fühlen sich schwerelos, doch selbst auf sie wirkt die Erdanziehung. Nur was passiert noch weiter draußen im All? Wo die Schwerkraft endet – oder auch nicht.",
-      "url": "https://www.zeit.de/2025/24/astrophysik-schwerkraft-weltall-oben-unten",
-      "image_url": "https://img.zeit.de/2025/24/weltall-oben-unten-stimmts-bild/wide__892x501",
-      "image_title": "Astrophysik: Der Tarantelnebel - Jedes Objekt im Weltall zieht jedes andere an. +++++++ The Tarantula Nebula is an H II region within the Large Magellanic Cloud (LMC), a nearby galaxy to our own Milky Way. This shot was captured from my suburban Sydney backyard on 6th December 2013 on an infrared modified Canon 550D & Orion ED80T Carbon Fibre Telescope and is made up of only 65 minutes worth of data. The sub-exposures were made up of the following:"
+      "title": "Zölle: China und USA verkünden Fortschritte im Handelsstreit",
+      "teaser": "Vertreter der USA und Chinas haben sich im Zollkonflikt nach eigenen Angaben auf einen \"Rahmen\" verständigt. Mit Blick auf Seltene Erden zeigen sich die USA optimistisch.",
+      "url": "https://www.zeit.de/wirtschaft/2025-06/handelsstreit-usa-china-zoelle-london",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-06/china-usa-handel/super__430x286",
+      "image_title": "China USA Handel"
     },
     {
       "title": "Ungarn: 15.000 Menschen demonstrieren gegen Viktor Orbán",
@@ -200,18 +186,10 @@
       "image_title": "Ungarn: Demonstranten versammeln sich vor dem Parlamentsgebäude in Budapest."
     },
     {
-      "title": "Brasilien: Jair Bolsonaro bestreitet vor Gericht Umsturzpläne",
-      "teaser": "Brasiliens früherem Präsidenten wird der Prozess gemacht, weil er nach seiner Wahlniederlage 2022 einen Putsch geplant haben soll. Vor Gericht wies er das von sich.",
-      "url": "https://www.zeit.de/politik/ausland/2025-06/bolsonaro-gericht-vernehmung-putschversuch",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-06/bolsonaro-gericht-vernehmung-putschversuch-bild/super__430x286",
-      "image_title": "Brasilien: Ex-Präsident Jair Bolsonaro (M.) sagt vor dem brasilianischen Obersten Gerichtshof aus."
-    },
-    {
-      "title": "Argentinien: Oberstes Gericht bestätigt Urteil gegen Cristina Kirchner",
-      "teaser": "Argentiniens frühere Präsidentin Cristina Fernández de Kirchner soll Millionen Dollar veruntreut haben. Das oberste Gericht erhielt eine sechsjährige Haftstrafe aufrecht.",
-      "url": "https://www.zeit.de/politik/ausland/2025-06/argentinien-cristina-fernandez-de-kirchner-haftstrafe-oberstes-gericht",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-06/argentinien-cristina-fernandez-de-kirchner-haftstrafe-oberstes-gericht-bild/super__430x286",
-      "image_title": "Argentinien: Former Argentine President Cristina Fernandez de Kirchner looks on as she testifies as a witness in the trial for her assassination attempt at the Comodoro Py courts in Buenos Aires on August 14, 2024. Cristina Kirchner demanded this Wednesday that the justice system find the \"ideologues and financiers\" of the failed assassination attempt of September 1, 2022, when she was vice president, as she testified in a trial against three defendants whom she considered only as \"material authors.\" (Photo by TOMAS CUESTA / AFP) (Photo by TOMAS CUESTA/AFP via Getty Images)"
+      "title": "NEU: Wochenmarkt Abo: Unser Abo mit Geschmack",
+      "teaser": "Über 3.000 Rezepte, täglich frische Kochideen per E-Mail, saisonale Menüs und Tipps von Spitzenköchinnen und -köchen. Für alle, die mit Genuss lesen – und kochen.",
+      "url": "https://premium.zeit.de/bestellung/4000057#start",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-06/wochenmarkt-illustration-cluster-square/square__500x500"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Amtsgeheimnis in Österreich : Sollen wir es Ihnen sagen?",
@@ -235,32 +213,46 @@
       "image_title": "Demis Volpi: Er folgte auf John Neumeier, den Gründer des Hamburg Balletts, nun muss er nach knapp einem Jahr wieder gehen: Demis Volpi."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erkrankung des Kiefergelenks: Der ganze Körper zerknirscht?",
-      "teaser": "Tinnitus, Schwindel, Fußschmerzen: Die craniomandibuläre Dysfunktion soll Ursache für vieles sein. Was Fachleute über die Macht des Kiefers wissen.",
-      "url": "https://www.zeit.de/gesundheit/2025-06/erkrankung-kiefergelenk-craniomandibulaere-dysfunktion-schmerzen-koerper",
-      "image_url": "https://img.zeit.de/gesundheit/2025-06/erkrankung-kiefergelenk-craniomandibulaere-dysfunktion-schmerzen-koerper-bild/super__430x286",
-      "image_title": "Erkrankung des Kiefergelenks: The Instant of Change. Photo by Alecio Ferrari/Connected Archives"
+      "title": "Brasilien: Jair Bolsonaro bestreitet vor Gericht Umsturzpläne",
+      "teaser": "Brasiliens früherem Präsidenten wird der Prozess gemacht, weil er nach seiner Wahlniederlage 2022 einen Putsch geplant haben soll. Vor Gericht wies er das von sich.",
+      "url": "https://www.zeit.de/politik/ausland/2025-06/bolsonaro-gericht-vernehmung-putschversuch",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-06/bolsonaro-gericht-vernehmung-putschversuch-bild/super__430x286",
+      "image_title": "Brasilien: Ex-Präsident Jair Bolsonaro (M.) sagt vor dem brasilianischen Obersten Gerichtshof aus."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schlechte Chefs: Die sieben Arten der Manipulation",
-      "teaser": "Flache Hierarchien? Aufpassen. Schlechte Vorgesetzte beeinflussen ihre Mitarbeiter heute mit subtileren Methoden als Rumbrüllen. Wer die erkennt, kann sich schützen.",
-      "url": "https://www.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-hierarchie",
-      "image_url": "https://img.zeit.de/arbeit/2024-04/schlechte-chefs-manipulation-2/super__430x286",
-      "image_title": "Schlechte Chefs: Iris Gavric (nicht im Bild) hat erlebt, wie schlechte Chefs Angestellte einschüchtern."
+      "title": "Z+ (abopflichtiger Inhalt); Mordfall: \"Der wird eliminiert\"",
+      "teaser": "Eine Tierärztin heiratet einen reichen Kardiologen. Wenig später wird er im Bett erstochen. Die Witwe hat ein Alibi – bis die Polizei sie mit einem Detail konfrontiert.",
+      "url": "https://www.zeit.de/2025/24/mordfall-tieraerztin-kardiologe-detail-ermittlung",
+      "image_url": "https://img.zeit.de/2025/24/der-wird-eliminiert-bild-5/wide__892x501",
+      "image_title": "Mordfall: Das Opfer muss auf dem Bauch geschlafen haben, als der tödliche Angriff kam. / Die Bilder der Täter dürfen NUR unkenntlich und nicht mit ihren Klarnamen veröffentlicht werden. Bitte genauso wie in Print zeigen. ++++++++++<br /> Hotel Room"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zweite Familie: \"Alte Väter sind momentan furchtbar in\"",
-      "teaser": "Wie weiter nach der Scheidung? Da seien die Chancen zwar ungerecht verteilt, sagt die Wiener Anwältin Helene Klaar. Aber blöd kann es für beide werden, nur eben anders.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-06/zweite-familie-maenner-scheidung-ehe-kinder",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-06/zweite-familie-maenner-scheidung-ehe-kinder-bild/super__430x286",
-      "image_title": "Zweite Familie: \"Alte Väter sind momentan furchtbar in\""
+      "title": "Z+ (abopflichtiger Inhalt); Fehler in der Finanzplanung: Das ist die Not-to-do-Liste für Ihr Vermögen",
+      "teaser": "Sie fragen sich, wie Sie sparen und fürs Alter vorsorgen sollen? Fangen wir doch erst mal mit sechs Dingen an, die Sie besser sein lassen.",
+      "url": "https://www.zeit.de/geld/2025-06/fehler-finanzplanung-konsum-kredit-aktienmarkt",
+      "image_url": "https://img.zeit.de/geld/2025-06/fehler-finanzplanung-konsum-kredit-aktienmarkt-bild/super__430x286",
+      "image_title": "Fehler in der Finanzplanung: Das ist die Not-to-do-Liste für Ihr Vermögen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Alfred Brendel: So reich kann ein Leben sein",
-      "teaser": "Wie Kunst auch witzig sein kann: Die Essays des großen Pianisten Alfred Brendel sind eine altersmelacholische Fundgrube.",
-      "url": "https://www.zeit.de/2025/24/alfred-brendel-naivitaet-und-ironie-essays-pianist",
-      "image_url": "https://img.zeit.de/2025/24/alfred-brendel-naivitaet-und-ironie-essays-pianist-bild/wide__892x501",
-      "image_title": "Alfred Brendel: ***SPECIAL FEE*** Alfred Brendel, oesterreichischer Pianist."
+      "title": "Z+ (abopflichtiger Inhalt); Verena Kast: \"Es ist nicht weise, das Leben anders machen zu wollen, als es ist\"",
+      "teaser": "Wie unser Körper besser altert, wissen wir. Was aber ist mit der Seele? Die Psychologin Verena Kast über jugendliches Glück von 80-Jährigen – und wie man es früher findet",
+      "url": "https://www.zeit.de/zeit-magazin/2025/23/verena-kast-aelter-werden-psychologie-glueck",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025/23/schreiben-sie-ihre-guten-erinnerungen-auf-bild-1/super__430x286",
+      "image_title": "Verena Kast: Dorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tinet 00.100 Zeichen unt ut"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Strafbarkeit von Ärzten: Ein Fehler, der ein Leben kostete",
+      "teaser": "Eine 49-jährige Patientin klagt über Schmerzen in der Brust, am nächsten Morgen ist sie tot. Nun steht ihr Notarzt vor Gericht. Warum nahm er die Symptome nicht ernst?",
+      "url": "https://www.zeit.de/hamburg/2025-06/strafbarkeit-aerzte-fahrlaessige-toetung-hamburg-herzinfarkt-diagnose",
+      "image_url": "https://img.zeit.de/hamburg/2025-06/strafbarkeit-aerzte-fahrlaessige-toetung-herzinfarkt-diagnose/super__430x286",
+      "image_title": "Strafbarkeit von Ärzten: Ein Fehler, der ein Leben kostete"
+    },
+    {
+      "title": "Argentinien: Oberstes Gericht bestätigt Urteil gegen Cristina Kirchner",
+      "teaser": "Argentiniens frühere Präsidentin Cristina Fernández de Kirchner soll Millionen Dollar veruntreut haben. Das oberste Gericht erhielt eine sechsjährige Haftstrafe aufrecht.",
+      "url": "https://www.zeit.de/politik/ausland/2025-06/argentinien-cristina-fernandez-de-kirchner-haftstrafe-oberstes-gericht",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-06/argentinien-cristina-fernandez-de-kirchner-haftstrafe-oberstes-gericht-bild/super__430x286",
+      "image_title": "Argentinien: Former Argentine President Cristina Fernandez de Kirchner looks on as she testifies as a witness in the trial for her assassination attempt at the Comodoro Py courts in Buenos Aires on August 14, 2024. Cristina Kirchner demanded this Wednesday that the justice system find the \"ideologues and financiers\" of the failed assassination attempt of September 1, 2022, when she was vice president, as she testified in a trial against three defendants whom she considered only as \"material authors.\" (Photo by TOMAS CUESTA / AFP) (Photo by TOMAS CUESTA/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herzgesundheit • Z+ Empfehlung: \"Sie können mehr als zehn gesunde Lebensjahre gewinnen\"",
@@ -328,11 +320,11 @@
       "url": "https://www.zeit.de/wirtschaft/2025-06/klimatechnologien-industrie-co2-emissionen-klimapolitik"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Compact\"-Verbot: Der Gerichtssaal als Bühne",
-      "teaser": "Zum Prozessauftakt um das \"Compact\"-Verbot gibt sich Jürgen Elsässer zurückgelehnt. Es sind seine Anwälte, die versuchen, das Verfahren am ersten Tag zu vereinnahmen.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-06/compact-magazin-rechtsextremismus-verbot-leipzig-gericht",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-06/juergen-elsaesser-compact-gericht-verhandlung-bild-2/wide__892x501",
-      "image_title": "\"Compact\"-Verbot: Leipzig, Sachsen, Deutschland, 10.06.2025: Bundesverwaltungsgericht: Gerichtsverhandlung über Compact-Verbot: Jürgen Rainer Elsässer (rechts) und seine Ehefrau Stephanie (links) *** Leipzig, Saxony, Germany, 10 06 2025 Federal Administrative Court Court hearing on Compact ban Jürgen Rainer Elsässer on the right and his wife Stephanie on the left Copyright: xdtsxNachrichtenagenturx dts_70780"
+      "title": "Z+ (abopflichtiger Inhalt); Kaffee-Baklava: Back mir Baklava!",
+      "teaser": "So süß, so klebrig, so gut! Türkisches Baklava ist mit fertigem Yufkateig im Handumdrehen gebacken. Ob mit oder ohne Koffein, das entscheiden Sie selbst.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-05/kaffee-baklava-walnuesse-nachtisch-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-05/kaffee-baklava-walnuesse-nachtisch-rezept-teaserbild/wide__892x501",
+      "image_title": "Kaffee-Baklava: Back mir Baklava!"
     },
     {
       "title": "Verlagsangebot: 7 Sehnsuchtsorte in Frankreich",
@@ -342,11 +334,11 @@
       "image_title": "Freunde der ZEIT: 7 Sehnsuchtsorte in Frankreich"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kaffee-Baklava: Back mir Baklava!",
-      "teaser": "So süß, so klebrig, so gut! Türkisches Baklava ist mit fertigem Yufkateig im Handumdrehen gebacken. Ob mit oder ohne Koffein, das entscheiden Sie selbst.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-05/kaffee-baklava-walnuesse-nachtisch-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-05/kaffee-baklava-walnuesse-nachtisch-rezept-teaserbild/super__430x286",
-      "image_title": "Kaffee-Baklava: Back mir Baklava!"
+      "title": "Z+ (abopflichtiger Inhalt); \"Compact\"-Verbot: Der Gerichtssaal als Bühne",
+      "teaser": "Zum Prozessauftakt um das \"Compact\"-Verbot gibt sich Jürgen Elsässer zurückgelehnt. Es sind seine Anwälte, die versuchen, das Verfahren am ersten Tag zu vereinnahmen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-06/compact-magazin-rechtsextremismus-verbot-leipzig-gericht",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-06/juergen-elsaesser-compact-gericht-verhandlung-bild-2/super__430x286",
+      "image_title": "\"Compact\"-Verbot: Leipzig, Sachsen, Deutschland, 10.06.2025: Bundesverwaltungsgericht: Gerichtsverhandlung über Compact-Verbot: Jürgen Rainer Elsässer (rechts) und seine Ehefrau Stephanie (links) *** Leipzig, Saxony, Germany, 10 06 2025 Federal Administrative Court Court hearing on Compact ban Jürgen Rainer Elsässer on the right and his wife Stephanie on the left Copyright: xdtsxNachrichtenagenturx dts_70780"
     },
     {
       "title": "Liveblog:Ukrainekrieg: Bundeskanzler Merz wirft Russland \"schwerste Kriegsverbrechen\" vor",
@@ -363,11 +355,11 @@
       "image_title": "Quiz: Wie gut ist Ihr Business English? Testen Sie Ihr Wissen!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Los Angeles: Bilder, die Trump selbst bestellt haben könnte",
-      "teaser": "Für die Ausschreitungen in Los Angeles ist allein Donald Trump verantwortlich? Damit machen es sich seine Kritiker zu leicht – und spielen ihm sogar in die Hände.",
-      "url": "https://www.zeit.de/politik/ausland/2025-06/los-angeles-proteste-eskalation-demokraten-reaktion",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-06/los-angeles-proteste-eskalation-demokraten-reaktion-bild-2/super__430x286",
-      "image_title": "Los Angeles: Los Angeles, CA - June 09: A demonstrator burns an American flag at the Japanese American Cultural Centers's Memorial Court as protesters continue to clash with the Los Angeles Police Department in downtown Los Angeles due to the immigration raids in L.A. on Monday, June 9, 2025 in Los Angeles, CA. (Jason Armond / Los Angeles Times via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Proteste gegen US-Einwanderungsbehörde: Eine Stadt schlägt zurück",
+      "teaser": "Donald Trump schickt Soldaten nach Los Angeles, um Kalifornien unter Kontrolle zu bringen. Kann der US-Präsident die Bundesstaaten mit Militäreinsätzen entmachten?",
+      "url": "https://www.zeit.de/politik/ausland/2025-06/proteste-us-einwanderungsbehoerde-los-angeles-militaereinsatz-donald-trump",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-06/proteste-us-einwanderungsbehoerde-los-angeles-militaereinsatz-donald-trump-bild/super__430x286",
+      "image_title": "Proteste gegen US-Einwanderungsbehörde: Protesters confront police on the 101 Freeway near the metropolitan detention center of downtown Los Angeles, Sunday, June 8, 2025, following last night's immigration raid protest. Demonstranten stellen sich am Sonntag, dem 8. Juni 2025, auf dem Highway 101 nahe dem Gefängniszentrum in Los Angeles der Polizei – nach Protesten gegen eine Einwanderungsrazzia am Vorabend."
     },
     {
       "title": "Cookinseln: Plötzlich wollen alle Freunde der Cookinseln sein",
@@ -398,11 +390,11 @@
       "image_title": "Berufsunfähigkeitsversicherung: Nicht versichert, weil sie sich um ihre Psyche gekümmert haben"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fehler in der Finanzplanung: Das ist die Not-to-do-Liste für Ihr Vermögen",
-      "teaser": "Sie fragen sich, wie Sie sparen und fürs Alter vorsorgen sollen? Fangen wir doch erst mal mit sechs Dingen an, die Sie besser sein lassen.",
-      "url": "https://www.zeit.de/geld/2025-06/fehler-finanzplanung-konsum-kredit-aktienmarkt",
-      "image_url": "https://img.zeit.de/geld/2025-06/fehler-finanzplanung-konsum-kredit-aktienmarkt-bild/super__430x286",
-      "image_title": "Fehler in der Finanzplanung: Das ist die Not-to-do-Liste für Ihr Vermögen"
+      "title": "Z+ (abopflichtiger Inhalt); Leitzins: Wo Sie noch drei Prozent kriegen",
+      "teaser": "Die EZB hat den Leitzins erneut gesenkt – auf zwei Prozent. Für Sparerinnen ist das keine gute Nachricht. So holen Sie ohne unnötiges Risiko noch das meiste heraus.",
+      "url": "https://www.zeit.de/geld/2025-06/leitzins-senkung-europaeische-zentralbank-geld-sparen",
+      "image_url": "https://img.zeit.de/geld/2025-06/leitzins-senkung-europaeische-zentralbank-geld-sparen-2/super__430x286",
+      "image_title": "Leitzins: Wo Sie noch drei Prozent kriegen"
     },
     {
       "title": "Mitarbeiterwohnungen: Ein Job plus Zimmer mit Aussicht",
@@ -552,39 +544,39 @@
       "image_title": "Plan D: Wähler in Deutschland: \"Wir müssen im Dialog bleiben, sonst ist alles verloren\""
     },
     {
+      "title": "Günther Uecker: Künstler Günther Uecker ist gestorben",
+      "teaser": "Der für seine Nagelreliefs berühmte Künstler Günther Uecker ist tot. Er wurde 95 Jahre alt. Uecker galt als einer der wichtigsten deutschen Nachkriegskünstler.",
+      "url": "https://www.zeit.de/kultur/kunst/2025-06/kuenstler-guenther-uecker-ist-gestorben",
+      "image_url": "https://img.zeit.de/kultur/kunst/2025-06/kuenstler-guenther-uecker-ist-gestorben-bild-2/wide__892x501",
+      "image_title": "Günther Uecker: Der Künstler Günther Ueckerim Jahr 2015 in einer Ausstellung in Düsseldorf (Archivfoto)."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Alfred Brendel: So reich kann ein Leben sein",
+      "teaser": "Wie Kunst auch witzig sein kann: Die Essays des großen Pianisten Alfred Brendel sind eine altersmelacholische Fundgrube.",
+      "url": "https://www.zeit.de/2025/24/alfred-brendel-naivitaet-und-ironie-essays-pianist",
+      "image_url": "https://img.zeit.de/2025/24/alfred-brendel-naivitaet-und-ironie-essays-pianist-bild/super__430x286",
+      "image_title": "Alfred Brendel: ***SPECIAL FEE*** Alfred Brendel, oesterreichischer Pianist."
+    },
+    {
       "title": "Candy Licious: \"Diese Doppelmoral ist dumm und dämlich\"",
       "teaser": "Als Candy Licious liest Bernhard Ledinski aus Kinderbüchern vor – in Frauenkleidern und manchmal unter Polizeischutz. Ein Gespräch über Drag als Kunst und Anfeindungen",
       "url": "https://www.zeit.de/2025/24/candy-licious-drag-queen-kinderbuch-lesungen-bernhard-ledinski",
-      "image_url": "https://img.zeit.de/2025/24/diese-doppelmoral-ist-dumm-und-daemlich-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2025/24/diese-doppelmoral-ist-dumm-und-daemlich-bild-1/super__430x286",
       "image_title": "Candy Licious: »Ich hatte Angst, körperlich angegriffen zu werden«, sagt Bernhard Ledinski, 33, der in Spanien lebt, aber immer wieder in Österreich auftritt"
     },
     {
-      "title": "Carlo von Tiedemann: Er war sen-sa-tionell",
-      "teaser": "Dieser Mann war nicht zu brechen, im Fernsehen und im Leben staunte Carlo von Tiedemann ansteckend über die Wunder der Existenz. Nun ist er gestorben. Ein Nachruf",
-      "url": "https://www.zeit.de/kultur/film/2025-06/carlo-von-tiedemann-tod-moderator-ndr-trauer",
-      "image_url": "https://img.zeit.de/kultur/2025-06/carlo-von-tiedemann-tod-moderator-ndr-trauer-bild/super__430x286",
-      "image_title": "Carlo von Tiedemann: Der deutsche Schauspieler und Moderator Carlo von Tiedemann 1989."
-    },
-    {
-      "title": "Friedrich Merz: Der @bundeskanzler als Reelpolitiker",
-      "teaser": "Auf Instagram und TikTok inszeniert sich Friedrich Merz als Kanzler, der durchgreift. Doch das steht in großem Kontrast zu den ersten Wochen seiner Kanzlerschaft.",
-      "url": "https://www.zeit.de/kultur/2025-06/friedrich-merz-bundeskanzler-social-media-inszenierung-instagram",
-      "image_url": "https://img.zeit.de/kultur/2025-06/friedrich-merz-bundeskanzler-social-media-inszenierung-instagram-bild-2/super__430x286",
-      "image_title": "Friedrich Merz: Friedrich Merz, betrachtet durch ein Smartphone bei einer CDU-Wahlkampfveranstaltung am 18.02.2025 in Halle (Saale), Sachsen-Anhalt, Deutschland"
+      "title": "Astrophysik: Gibt es im Weltall oben und unten?",
+      "teaser": "Astronauten fühlen sich schwerelos, doch selbst auf sie wirkt die Erdanziehung. Nur was passiert noch weiter draußen im All? Wo die Schwerkraft endet – oder auch nicht.",
+      "url": "https://www.zeit.de/2025/24/astrophysik-schwerkraft-weltall-oben-unten",
+      "image_url": "https://img.zeit.de/2025/24/weltall-oben-unten-stimmts-bild/wide__892x501",
+      "image_title": "Astrophysik: Der Tarantelnebel - Jedes Objekt im Weltall zieht jedes andere an. +++++++ The Tarantula Nebula is an H II region within the Large Magellanic Cloud (LMC), a nearby galaxy to our own Milky Way. This shot was captured from my suburban Sydney backyard on 6th December 2013 on an infrared modified Canon 550D & Orion ED80T Carbon Fibre Telescope and is made up of only 65 minutes worth of data. The sub-exposures were made up of the following:"
     },
     {
       "title": "Klimawandel: Höchsttemperaturen in der Nordsee gemessen",
       "teaser": "Für die Nordsee wurde das wärmste Frühjahr seit Beginn der aktuellen Auswertungen im Jahr 1997 aufgezeichnet. Auch das Wasser des deutschen Teils der Ostsee erwärmt sich.",
       "url": "https://www.zeit.de/wissen/umwelt/2025-06/klimawandel-bundesamt-seeschifffahrt-hydrographie-nordsee-temperaturen",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2025-06/temperaturrekord-in-nordsee-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2025-06/temperaturrekord-in-nordsee-bild/super__430x286",
       "image_title": "Klimawandel: Urlauber laufen zum Strand der ostfriesischen Insel Spiekeroog am 04.06.2025."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Landwirtschaft: Wie geht es den deutschen Kartoffeln?",
-      "teaser": "Krankheiten wie Stolbur und Wetterextreme bedrohen nicht nur die Kartoffel. Wie Forscher, Züchter und eine Kartoffelkönigin Pommes und Co. retten wollen.",
-      "url": "https://www.zeit.de/wissen/umwelt/2024-11/landwirtschaft-kartoffel-extremwetter-krankheit-schilf-glasfluegelzikade-ernte",
-      "image_url": "https://img.zeit.de/wissen/2024-11/landwirtschaft-url-landwirtschaft-kartoffel-extremwetter-krankheit/super__430x286",
-      "image_title": "Landwirtschaft: Wie geht es den deutschen Kartoffeln?"
     },
     {
       "title": "Anzeige: Feiern Sie mit uns 25 Jahre ZEIT REISEN!",
@@ -844,11 +836,11 @@
       "image_title": "Alkoholismus in der Familie: Der Geruch nach Bier legte sich wie ein Schatten über alles"
     },
     {
-      "title": "Verlagsangebot : Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
       "url": "https://studiengaenge.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__430x286__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Auswandern nach Schweden: \"Ich unterschrieb den Kaufvertrag, ohne das Haus gesehen zu haben\"",
@@ -886,36 +878,36 @@
       "image_title": "Kriminalität in Hamburg: Schusswaffe Online"
     },
     {
-      "title": "Trauerminute in Österreich: Nach Amoklauf in Graz: Suche nach Motiv des Täters",
-      "url": "https://www.zeit.de/news/2025-06/11/nach-amoklauf-in-graz-suche-nach-motiv-des-taeters"
+      "title": "Demonstrationen in den USA: Ausgangssperre und Trump-Newsom-Duell - Die Lage in LA",
+      "url": "https://www.zeit.de/news/2025-06/11/trump-wirft-newsom-komplizenschaft-mit-randalierern-vor"
     },
     {
-      "title": "Solarenergie: Eine Million Balkonkraftwerke",
-      "url": "https://www.zeit.de/news/2025-06/11/eine-million-balkonkraftwerke"
+      "title": "Organisierte Kriminalität: Internationaler Kampf gegen Enkeltrick-Betrüger",
+      "url": "https://www.zeit.de/news/2025-06/11/internationaler-kampf-gegen-enkeltrick-betrueger"
     },
     {
-      "title": "BVB-Transfer Jobe Bellingham: BVB-Star Brandt über Bellinghams: \"Eine gute Familie\"",
-      "url": "https://www.zeit.de/news/2025-06/11/bvb-star-brandt-ueber-bellinghams-eine-gute-familie"
+      "title": "Gewaltherrschaft: Ausstellung zu SED-Diktatur - Protest gegen Lenin-Denkmal",
+      "url": "https://www.zeit.de/news/2025-06/11/ausstellung-zu-sed-diktatur-protest-gegen-lenin-denkmal"
     },
     {
-      "title": "Landesweites Angebot: Sieben Schüler im jüdischen Religionsunterricht",
-      "url": "https://www.zeit.de/news/2025-06/11/sieben-schueler-im-juedischen-religionsunterricht"
+      "title": "Hochschulen: Petition im Landtag: Studierende fordern Entlastung",
+      "url": "https://www.zeit.de/news/2025-06/11/petition-im-landtag-studierende-fordern-entlastung"
     },
     {
-      "title": "Bund-Länder-Treffen: Innenministerkonferenz: Sicherheit im Zug und Abschiebungen",
-      "url": "https://www.zeit.de/news/2025-06/11/innenministerkonferenz-sicherheit-im-zug-und-abschiebungen"
+      "title": "KI-Software: ChatGPT: So viel Strom wie eine Sekunde Backofen pro Anfrage",
+      "url": "https://www.zeit.de/news/2025-06/11/chatgpt-so-viel-strom-wie-eine-sekunde-backofen-pro-anfrage"
     },
     {
-      "title": "\"Kleine Hitzewelle\": 34 Grad erwartet - So gelingt der Schutz vor Hitze",
-      "url": "https://www.zeit.de/news/2025-06/11/34-grad-erwartet-so-gelingt-der-schutz-vor-hitze"
+      "title": "Club-WM in den USA: Kane will Müller \"perfekten Abschluss\" bei Bayern bescheren",
+      "url": "https://www.zeit.de/news/2025-06/11/kane-will-mueller-perfekten-abschluss-bei-bayern-bescheren"
     },
     {
-      "title": "Sommerwetter: Hohe Temperaturen erwartet - Das hilft beim Hitzeschutz",
-      "url": "https://www.zeit.de/news/2025-06/11/hohe-temperaturen-erwartet-das-hilft-beim-hitzeschutz"
+      "title": "Fotografie: Bilder des Tages",
+      "url": "https://www.zeit.de/news/2025-06/11/bilder-des-tages"
     },
     {
-      "title": "Juni-Vollmond: Das muss man zum \"Erdbeermond\" in Baden-Württemberg wissen",
-      "url": "https://www.zeit.de/news/2025-06/11/das-muss-man-zum-erdbeermond-in-baden-wuerttemberg-wissen"
+      "title": "Die Lage im Überblick: Erneut schwere Angriffe - Kiew will Ölpreisgrenze halbieren",
+      "url": "https://www.zeit.de/news/2025-06/11/erneut-angriff-mit-toten-auf-charkiw-gemeldet"
     }
   ]
 }
