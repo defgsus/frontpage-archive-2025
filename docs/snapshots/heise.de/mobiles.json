@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-11T09:11:52",
+  "timestamp": "2025-06-11T10:11:29",
   "url": "https://www.heise.de/newsticker/mobiles/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "macOS 26: Nativer Container-Support freut Developer – und nicht nur die",
+      "teaser": "Wer weder Docker noch Orbstack nutzen möchte, muss das unter macOS 26 nicht mehr: Es gibt nativen Support für Linux-Container direkt vom Terminal aus.",
+      "url": "https://www.heise.de/news/macOS-26-Nativer-Container-Support-freut-Developer-und-nicht-nur-die-10439133.html",
+      "image_title": "Container in macOS 26"
+    },
+    {
+      "title": "Android 16 ist fertig: Mit Live-Updates, aber ohne Material 3 Expressive",
+      "teaser": "Android 16 ist fertig. Das große Update des mobilen Betriebssystems wird zunächst für Googles Pixel-Geräte verteilt. Material 3 Expressive fehlt jedoch noch.",
+      "url": "https://www.heise.de/news/Android-16-ist-fertig-Mit-Live-Updates-aber-ohne-Material-3-Expressive-10439613.html",
+      "image_title": "Android 16 Release"
+    },
+    {
       "title": "Endlich Fenster-Management: iPadOS 26 als neues Traum-Betriebssystem?",
       "teaser": "Apple macht es endlich möglich, Fenster auf dem iPad frei zu platzieren. Noch ist die Oberfläche von iPadOS 26 aber etwas wild.",
       "url": "https://www.heise.de/news/Endlich-Fenster-Management-iPadOS-26-als-neues-Traum-Betriebssystem-10439145.html",
@@ -36,18 +48,6 @@
       "teaser": "Liquid Glass, Apples neues Interface, ist auf dem iPhone eine größere Umstellung als gedacht. Die Beta hakt – und führt zu scherzhaften Microsoft-Vergleichen.",
       "url": "https://www.heise.de/news/Apples-neue-iOS-26-UI-Usability-Probleme-und-Vista-Nostalgie-10439485.html",
       "image_title": "UI-Elemente in iOS 26"
-    },
-    {
-      "title": "Auf Probefahrt mit dem neuen VanMoof: Stadtcruiser mit Power",
-      "teaser": "VanMoof S6 und S6 Open sind die ersten E-Bikes des Herstellers seit der Pleite. Sie entpuppen sich als verfeinerte Versionen ihrer Vorgänger.",
-      "url": "https://www.heise.de/news/Auf-Probefahrt-mit-dem-neuen-VanMoof-Stadtcruiser-mit-Power-10439670.html",
-      "image_title": "VanMoof-Fahrrad vor weißem Hintergrund"
-    },
-    {
-      "title": "Qualcomm stellt AR1+ Gen 1-Chip für lokale KI-Assistenz auf Smartbrillen vor",
-      "teaser": "Qualcomm hat den AR1+ Gen 1-Chip vorgestellt, der die Ausführung von KI-Features auf Smartbrillen effizienter und lokal auf den Geräten ermöglichen soll.",
-      "url": "https://www.heise.de/news/Qualcomm-stellt-AR1-Gen-1-Chip-fuer-lokale-KI-Assistenz-auf-Smartbrillen-vor-10439573.html",
-      "image_title": "Eine Grafik zeigt eine schwarze Smartbrille, ein Snapdragon Logo und einen Werbeschriftzug."
     },
     {
       "title": "TestsZwei externe Webcams für den Mac im Test – mit besonderen Funktionen",
@@ -64,10 +64,16 @@
       "url": "https://www.heise.de/tests/Android-16-im-Test-Frischere-Optik-und-mehr-Sicherheit-10432761.html"
     },
     {
-      "title": "Android 16 ist fertig: Mit Live-Updates, aber ohne Material 3 Expressive",
-      "teaser": "Android 16 ist fertig. Das große Update des mobilen Betriebssystems wird zunächst für Googles Pixel-Geräte verteilt. Material 3 Expressive fehlt jedoch noch.",
-      "url": "https://www.heise.de/news/Android-16-ist-fertig-Mit-Live-Updates-aber-ohne-Material-3-Expressive-10439613.html",
-      "image_title": "Android 16 Release"
+      "title": "Auf Probefahrt mit dem neuen VanMoof: Stadtcruiser mit Power",
+      "teaser": "VanMoof S6 und S6 Open sind die ersten E-Bikes des Herstellers seit der Pleite. Sie entpuppen sich als verfeinerte Versionen ihrer Vorgänger.",
+      "url": "https://www.heise.de/news/Auf-Probefahrt-mit-dem-neuen-VanMoof-Stadtcruiser-mit-Power-10439670.html",
+      "image_title": "VanMoof-Fahrrad vor weißem Hintergrund"
+    },
+    {
+      "title": "Qualcomm stellt AR1+ Gen 1-Chip für lokale KI-Assistenz auf Smartbrillen vor",
+      "teaser": "Qualcomm hat den AR1+ Gen 1-Chip vorgestellt, der die Ausführung von KI-Features auf Smartbrillen effizienter und lokal auf den Geräten ermöglichen soll.",
+      "url": "https://www.heise.de/news/Qualcomm-stellt-AR1-Gen-1-Chip-fuer-lokale-KI-Assistenz-auf-Smartbrillen-vor-10439573.html",
+      "image_title": "Eine Grafik zeigt eine schwarze Smartbrille, ein Snapdragon Logo und einen Werbeschriftzug."
     },
     {
       "title": "Tipp: Nachrichten-App auf Mac und iPad per Tastatur steuern",
@@ -143,12 +149,6 @@
       "teaser": "Der Saug- und Wischroboter SwitchBot K20+ Pro putzt nicht nur den Boden, sondern bringt Frühstück ans Bett oder den Ventilator dorthin, wo es heiß ist.",
       "url": "https://www.heise.de/news/SwitchBot-K20-Pro-Saugbot-mit-fahrendem-Serviertablett-verfuegbar-10436384.html",
       "image_title": "Saugroboter mit Tablett am Bett"
-    },
-    {
-      "title": "iOS 26, macOS 26, iPadOS 26 und mehr: WWDC-2025-Liveticker zum Nachlesen",
-      "teaser": "Apples nächstes großes Event steht an: Am Pfingstmontag startet die WWDC-2025-Keynote ab 19 Uhr. Mac & i berichtet hier live.",
-      "url": "https://www.heise.de/news/iOS-26-macOS-26-iPadOS-26-und-mehr-WWDC-2025-Liveticker-zum-Nachlesen-10435314.html",
-      "image_title": "WWDC 2025"
     },
     {
       "title": "NewsChina will in den Erdmantel bohren",
