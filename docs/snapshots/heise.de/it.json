@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-12T02:39:41",
+  "timestamp": "2025-06-12T03:41:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Kritische Sicherheitslücke in Microsoft 365 Copilot zeigt Risiko von KI-Agenten",
+      "teaser": "Der KI-Agent von M365 konnte per E-Mail und ohne Mausklick zur Freigabe sensibler Informationen verführt werden. Microsoft hat die Lücke jetzt geschlossen.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Microsoft-365-Copilot-zeigt-Risiko-von-KI-Agenten-10441034.html",
+      "image_title": "Lupe auf Microsoft 365 und Outlook-Symbol"
+    },
+    {
       "title": "Europol warntFür Kriminelle sind Daten \"äußerst wertvoll\"",
       "teaser": "KI beschleunigt die Schattenseiten der digitalen Revolution, warnt Europol. Cyberkriminelle steigerten damit ihre Effizienz.",
       "url": "https://www.heise.de/news/Europol-Datendiebstahl-ist-Big-Business-und-eine-erhebliche-Bedrohung-10440828.html",
@@ -43,12 +49,6 @@
       "url": "https://www.heise.de/news/iPadOS-26-Aus-fuer-Split-View-und-Slide-Over-10440774.html"
     },
     {
-      "title": "Nvidias PC-Prozessor N1X im Geekbench",
-      "teaser": "Erste Einträge in einer Benchmark-Datenbank attestieren Nvidias kommendem N1X 20 CPU-Kerne und mehr als 4 GHz Taktfrequenz.",
-      "url": "https://www.heise.de/news/Nvidias-PC-Prozessor-N1X-im-Geekbench-10440734.html",
-      "image_title": "Nahaufnahme von Nvidias GB10-Prozessor auf einem Mainboard"
-    },
-    {
       "title": "RatgeberGoodbye Chrome: Warum Vivaldi der bessere Browser ist",
       "url": "https://www.heise.de/ratgeber/Goodbye-Chrome-Warum-Vivaldi-der-bessere-Browser-ist-10439884.html"
     },
@@ -59,6 +59,12 @@
     {
       "title": "RatgeberFAQ zum c't-Sicherheitstool Desinfec't 2025",
       "url": "https://www.heise.de/ratgeber/FAQ-zum-c-t-Sicherheitstool-Desinfec-t-2025-10336138.html"
+    },
+    {
+      "title": "Nvidias PC-Prozessor N1X im Geekbench",
+      "teaser": "Erste Einträge in einer Benchmark-Datenbank attestieren Nvidias kommendem N1X 20 CPU-Kerne und mehr als 4 GHz Taktfrequenz.",
+      "url": "https://www.heise.de/news/Nvidias-PC-Prozessor-N1X-im-Geekbench-10440734.html",
+      "image_title": "Nahaufnahme von Nvidias GB10-Prozessor auf einem Mainboard"
     },
     {
       "title": "RCS und Telefon: Apple räumt den Standard-Platz in der EU",
@@ -143,25 +149,9 @@
       "image_title": "Container in macOS 26"
     },
     {
-      "title": "Altman: ChatGPT ist mächtiger als jeder Mensch, der je lebte",
-      "teaser": "Im Blogbeitrag sinniert Sam Altman über das Jahr 2030. Da werde es unendlich viel Energie geben. Und unendlich viel Intelligenz.",
-      "url": "https://www.heise.de/news/Altman-ChatGPT-ist-maechtiger-als-jeder-Mensch-der-je-lebte-10439804.html",
-      "image_title": "Sam Altman"
-    },
-    {
       "title": "NewsChina will in den Erdmantel bohren",
       "url": "https://www.heise.de/news/China-will-in-den-Erdmantel-bohren-10438563.html",
       "image_title": "Forschungsschiff Meng Xiang"
-    },
-    {
-      "title": "UpdateNewsiOS 26: Glas-Design und neue Funktionen für das iPhone-System",
-      "url": "https://www.heise.de/news/iOS-26-Glas-Design-und-neue-Funktionen-fuer-das-iPhone-System-10437642.html",
-      "image_title": "Die neue Liquid-Glass-Oberfläche von iOS 26."
-    },
-    {
-      "title": "NewsNeue Natrium-Brennstoffzelle verspricht Durchbruch für E-Flugzeuge",
-      "url": "https://www.heise.de/news/Forscher-entwickeln-Natrium-Brennstoffzelle-fuer-Elektromobilitaet-10436756.html",
-      "image_title": "Magnetschwebebahn, Hochgeschwindigkeitszug und Flugzeug"
     },
     {
       "title": "NewsAbschied bis Herbst: Dänisches Digitalministerium kehrt Microsoft den Rücken",
@@ -169,22 +159,32 @@
       "image_title": "Nahaufnahme einer Tastatur, eine Taste in den Farben der dänischen Flagge"
     },
     {
+      "title": "UpdateNewsiOS 26: Glas-Design und neue Funktionen für das iPhone-System",
+      "url": "https://www.heise.de/news/iOS-26-Glas-Design-und-neue-Funktionen-fuer-das-iPhone-System-10437642.html",
+      "image_title": "Die neue Liquid-Glass-Oberfläche von iOS 26."
+    },
+    {
+      "title": "NewsOLG: Heimliche Kamera im Zimmer eines Mitbewohners ist nicht per se strafbar",
+      "url": "https://www.heise.de/news/OLG-Heimliche-Kamera-im-Zimmer-eines-Mitbewohners-ist-nicht-per-se-strafbar-10439336.html",
+      "image_title": "Großes Schild \"Oberlandesgericht – Generalstaatsanwaltschaft\", darhinter ein schmuckloser Zweckbau"
+    },
+    {
       "title": "TestsSwitch 2 im Test: Nintendos Antwort auf Steam Deck und PC-Handhelds",
       "url": "https://www.heise.de/tests/Switch-2-im-Test-Nintendos-Antwort-auf-Steam-Deck-und-PC-Handhelds-10387966.html"
+    },
+    {
+      "title": "TestsSkoda Elroq 85 im Test: Bequemer Begleiter",
+      "url": "https://www.heise.de/tests/Skoda-Elroq-85-im-Test-Emotionslos-anziehend-10422371.html",
+      "image_title": "Skoda Elroq 85"
     },
     {
       "title": "RatgeberPraxisanleitung: Wärmepumpe selbst kaufen und anschließen",
       "url": "https://www.heise.de/ratgeber/Waermepumpe-selbst-kaufen-und-anschliessen-10385208.html"
     },
     {
-      "title": "TestsMarktübersicht: Acht Router für das Open-Source-Routerbetriebssystem OpenWrt",
-      "url": "https://www.heise.de/tests/Marktuebersicht-Acht-Router-fuer-das-Open-Source-Routerbetriebssystem-OpenWrt-10397398.html",
-      "image_title": ", Rudolf A. Blaha"
-    },
-    {
-      "title": "TestsSkoda Elroq 85 im Test: Bequemer Begleiter",
-      "url": "https://www.heise.de/tests/Skoda-Elroq-85-im-Test-Emotionslos-anziehend-10422371.html",
-      "image_title": "Skoda Elroq 85"
+      "title": "RatgeberElektro-SUVs im Vergleich: Was Ford Explorer und Skoda Elroq tatsächlich kosten",
+      "url": "https://www.heise.de/ratgeber/Elektro-SUVs-im-Vergleich-Was-Ford-Explorer-und-Skoda-Elroq-tatsaechlich-kosten-10358936.html",
+      "image_title": "Ford Explorer"
     }
   ]
 }
