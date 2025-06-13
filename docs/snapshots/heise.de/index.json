@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-13T10:11:06",
+  "timestamp": "2025-06-13T11:08:45",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "#TGIQF: Das Quiz rund um den Newsticker der Juniwoche",
+      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-den-Newsticker-der-Juniwoche-10444133.html"
+    },
     {
       "title": "heise+ Update vom 13. Juni 2025: Lesetipps zum Wochenende",
       "url": "https://www.heise.de/meinung/heise-Update-vom-13-Juni-2025-Lesetipps-zum-Wochenende-10443345.html"
@@ -60,10 +64,6 @@
     {
       "title": "E-Mobilität: US-Präsident will Kaliforniens Verbrenner-Ausstieg verhindern",
       "url": "https://www.heise.de/news/E-Mobilitaet-US-Praesident-will-Kaliforniens-Verbrenner-Ausstieg-verhindern-10443723.html"
-    },
-    {
-      "title": "Hintertürpflicht für britische Lauscher: WhatsApp will Apple helfen",
-      "url": "https://www.heise.de/news/Grossbritanien-WhatsApp-springt-Apple-im-Kryptokrieg-zur-Seite-10443507.html"
     },
     {
       "title": "BrandgefahrAnker ruft über 1,1 Millionen Powerbanks zurück",
@@ -188,21 +188,27 @@
       "image_title": "Kia PV5 Passenger"
     },
     {
+      "title": "#TGIQF: Das Quiz rund um den Newsticker der Juniwoche",
+      "teaser": "Es gab in der vergangenen Woche wieder viele spannende News bei heise onlinen. Bekommen Sie die wichtigsten Schlagzeilen noch zusammen? Dann rätseln Sie mit!",
+      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-den-Newsticker-der-Juniwoche-10444133.html",
+      "image_title": "Hologramme von Bildschirmen und Handys"
+    },
+    {
       "title": "heise+ Update vom 13. Juni 2025: Lesetipps zum Wochenende",
       "teaser": "Der Newsletter von heise+: Nintendo Switch 2 im Test, Skoda Elroq und Ford Explorer verglichen, Sparen durch verringerte Netzentgelte, Chrome-Konkurrent Vivaldi",
       "url": "https://www.heise.de/meinung/heise-Update-vom-13-Juni-2025-Lesetipps-zum-Wochenende-10443345.html",
       "image_title": "heise+ Update"
     },
     {
+      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
+      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "iX-Workshop: Hands-on Migration von VMware zu Proxmox",
       "teaser": "Praktische Schritte, Fallstricke vermeiden: Lernen Sie, wie Sie Ihre VMware-Infrastruktur effizient und sicher auf Proxmox VE umstellen.",
       "url": "https://www.heise.de/news/iX-Workshop-Hands-on-Migration-von-VMware-zu-Proxmox-10435060.html",
       "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
-    },
-    {
-      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
-      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Internet per TV-Kabel weiterleiten: Digital Devices EOC 2000 im Test",
@@ -232,12 +238,6 @@
       "teaser": "In der Datenmigration für Workspace finden Admins jetzt ein neues Tool, mit dem sie die E-Mails und Kalender ihrer Nutzer einfach von Microsoft kopieren können.",
       "url": "https://www.heise.de/news/Neues-Google-Tool-E-Mails-einfach-von-Exchange-Online-zu-Gmail-migrieren-10443923.html",
       "image_title": "Google-Farben im Spirograph-Stil"
-    },
-    {
-      "title": "Passwort-Reset: Was tun, wenn man seine Mac-Zugangsdaten vergessen hat?",
-      "teaser": "macOS ist gut abgesichert. Umso unangenehmer, wenn Sie Ihr Anmeldepasswort vergessen. Wir zeigen, wie Sie diesem GAU vorbeugen – und was im Notfall zu tun ist.",
-      "url": "https://www.heise.de/ratgeber/Passwort-Reset-Was-tun-wenn-man-seine-Mac-Zugangsdaten-vergessen-hat-10424228.html",
-      "image_title": ", Panitan – stock.adobe.com; bearbeitet von Mac & i"
     },
     {
       "title": "FahrraddiebstahlWie Sie Ihr Rad schützen und auf Verlust reagieren",
@@ -305,6 +305,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Passwort-Reset: Was tun, wenn man seine Mac-Zugangsdaten vergessen hat?",
+      "teaser": "macOS ist gut abgesichert. Umso unangenehmer, wenn Sie Ihr Anmeldepasswort vergessen. Wir zeigen, wie Sie diesem GAU vorbeugen – und was im Notfall zu tun ist.",
+      "url": "https://www.heise.de/ratgeber/Passwort-Reset-Was-tun-wenn-man-seine-Mac-Zugangsdaten-vergessen-hat-10424228.html",
+      "image_title": ", Panitan – stock.adobe.com; bearbeitet von Mac & i"
     },
     {
       "title": "E-Mobilität: US-Präsident will Kaliforniens Verbrenner-Ausstieg verhindern",
@@ -377,15 +383,15 @@
       "image_title": "Eclipse IDE Logo"
     },
     {
+      "title": "Maximale KI-Performance – mit der richtigen Serverplattform",
+      "teaser": "Künstliche Intelligenz ist dabei, alle Branchen zu revolutionieren. Wer hier mithalten will, benötigt eine Server-Infrastruktur, die den Anforderungen großer Sprachmodelle und anderer KI-Lösungen gewachsen ist. Worauf es bei der Wahl der passenden CPU-Plattform ankommt.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/maximale-ki-performance-mit-der-richtigen-serverplattform-4918/?source=hbsadersatz"
+    },
+    {
       "title": "Neu in .NET 9.0 [25]: Einstellungen für die Komprimierung mit ZLib und Brotli",
       "teaser": ".NET 9.0 verbessert die Kompressionseinstellungen durch zwei neue Klassen für ZLib und Brotli, die flexibler als die bisherigen sind.",
       "url": "https://www.heise.de/blog/Neu-in-NET-9-0-25-Einstellungen-fuer-die-Komprimierung-mit-ZLib-und-Brotli-10427084.html",
       "image_title": "Wegweiser .NET"
-    },
-    {
-      "title": "Erfolgreicher handeln – mit KI und Cloud Computing",
-      "teaser": "Um im Wettbewerb erfolgreich zu sein, müssen Handelsunternehmen Trends erkennen, Produktionskapazitäten vorausschauend planen und Kundenwünsche schnell umsetzen. Wie das mit der richtigen Kombination aus künstlicher Intelligenz und Cloud Computing gelingt.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/erfolgreicher-handeln-mit-ki-und-cloud-computing-4917/?source=hbsadersatz"
     },
     {
       "title": "Cisco-Switches: Mehr Sicherheit – auch wenn es noch keine Patches gibt",
@@ -438,12 +444,6 @@
       "title": "Umfrage: Ein Viertel der Studenten nutzt täglich KI",
       "teaser": "Brainstormen, Themenüberblicke erstellen, Texte zusammenfassen: Für solche Aufgaben greifen Studenten oft auf KI-Tools zurück.",
       "url": "https://www.heise.de/news/Umfrage-Ein-Viertel-der-Studenten-nutzt-taeglich-KI-10443443.html"
-    },
-    {
-      "title": "\"Zombie Army VR\" ausprobiert: Mittelmaß in einem überlaufenen Genre",
-      "teaser": "\"Zombie Army VR\" schickt die untoten Nazi-Soldaten jetzt erstmals auf das Virtual-Reality-Schlachtfeld. Ein Spiel, das nur echte Genre-Fans begeistern wird.",
-      "url": "https://www.heise.de/tests/Zombie-Army-VR-ausprobiert-Mittelmass-in-einem-ueberlaufenen-Genre-10443157.html",
-      "image_title": "Eine Spielszene in Ego-Perspektive, in der eine Gruppe untoter Soldaten auf den mit einer Pistole bewaffneten Spieler zustürmt."
     },
     {
       "title": "Microsoft: Windows-11-24H2-Update durch Update außer der Reihe ersetzt",
@@ -617,10 +617,9 @@
       "url": "https://www.heise.de/en/news/macOS-26-Native-container-support-delights-developers-and-not-just-them-10440095.html"
     },
     {
-      "title": "Fiber-to-the-RoomGlasfaser bis in jedes einzelne Zimmer",
-      "teaser": "Huawei verkauft sein \"FTTR\"-System zur Glasfaser-Heimverkabelung im Eigenbau bald auch in Deutschland.",
-      "url": "https://www.heise.de/news/Fiber-to-the-Room-Glasfaser-bis-in-jedes-einzelne-Zimmer-10439878.html",
-      "image_title": "Huawei FTTR: Klebewerkzeug zur Glasfaser-Verlegung."
+      "title": "Self-Hosting: Dienste mittels Reverse-Proxy oder (VPN-)Tunnel zugänglich machen",
+      "teaser": "Vom Reverse-Proxy Caddy bis zum Tunnelbau mit Pangolin: Lernen Sie Methoden für fortgeschrittene Self-Hoster kennen, um Dienste ins Netz zu bekommen.",
+      "url": "https://www.heise.de/ratgeber/Self-Hosting-Dienste-mittels-Reverse-Proxy-oder-VPN-Tunnel-zugaenglich-machen-10380851.html"
     },
     {
       "title": "Apples Docker-Alternative Container ausprobiert",
@@ -628,10 +627,9 @@
       "url": "https://www.heise.de/tests/Apples-Docker-Alternative-Container-ausprobiert-10440947.html"
     },
     {
-      "title": "Instinct MI350X/MI355XAMD opfert Compute- für KI-Rechenleistung",
-      "teaser": "AMDs GPU-Beschleuniger MI350X und 355X bringen viel mehr KI-Optimierungen, zulasten der Gleitkomma-Arithmetik mit hoher Genauigkeit.",
-      "url": "https://www.heise.de/news/Instinct-MI350X-MI355X-AMD-opfert-Compute-fuer-KI-Rechenleistung-10442505.html",
-      "image_title": "Grafische Darstellung von AMDs MI355X-Chip"
+      "title": "Internet per TV-Kabel weiterleiten: Digital Devices EOC 2000 im Test",
+      "teaser": "EoC-Adapter schicken Daten durchs TV-Kabel in Räume fern des Routers. Die früher klobigen Kästchen verschwinden jetzt in der Wand. Wir haben die Dosen getestet.",
+      "url": "https://www.heise.de/tests/Internet-per-TV-Kabel-weiterleiten-Digital-Devices-EOC-2000-im-Test-10347630.html"
     },
     {
       "title": "BenQ PD2730S im Test: 27-Zoll-Monitor mit 5K-Auflösung und vielen Ports",
@@ -674,6 +672,12 @@
       "image_title": "Fotograf auf nächtlichem Fotostreifzug mit derFujifilm X-E5."
     },
     {
+      "title": "Fotografie bei der Polizei: Robert Kubaink über forensische Bilder",
+      "teaser": "In der Polizeiarbeit spielen Fotos eine entscheidende Rolle vor Gericht. Robert Kubaink berichtet, wie das LKA Niedersachsen mit Bildmaterial arbeitet.",
+      "url": "https://www.heise.de/hintergrund/Fotografie-bei-der-Polizei-Robert-Kubaink-ueber-forensische-Bilder-10392733.html",
+      "image_title": ", Angelov, stock.adobe.com"
+    },
+    {
       "title": "Sonne versus Blitz: Click Boom Flash # 39 \"Licht in der Fotografie\"",
       "teaser": "\"Der Blitz ist in seinem Spektrum dem Tageslicht sehr ähnlich und in meinen Augen die beste fotografische Lichtquelle\", sagt Fotograf und Autor Dr. Tilo Gockel.",
       "url": "https://www.heise.de/news/Sonne-versus-Blitz-Click-Boom-Flash-39-Licht-in-der-Fotografie-10436006.html",
@@ -683,11 +687,6 @@
       "title": "KW 23/2025X half ausprobiert und Sigmas Cine-Primes– Fotonews der Woche",
       "teaser": "Fujis digitale Halbbild-Kamera simuliert analogen Workflow überzeugend, Sigma plant 13 Objektive für Filmer und alles über einen echten Klassiker.",
       "url": "https://www.heise.de/news/X-half-ausprobiert-und-Sigmas-Cine-Primes-Fotonews-der-Woche-23-2025-10436968.html"
-    },
-    {
-      "title": "UrteilHandy-Videos des Tagesgeschehens haben Urheberrechtsschutz",
-      "teaser": "Handy-Videos etwa von Naturkatastrophen genießen als Laufbilder laut einem Urteil urheberrechtlichen Schutz.",
-      "url": "https://www.heise.de/news/Urheberrecht-Smartphone-Aufnahmen-des-Tagesgeschehens-sind-geschuetzt-10436906.html"
     },
     {
       "title": "Der Weg zur souveränen IT: Ziele, Risiken und Handlungsfelder",
@@ -711,15 +710,15 @@
       "image_title": "BMW R 1300 RT"
     },
     {
+      "title": "Schnell laden, langsam alternBatterietechnik bei Porsche",
+      "teaser": "Batterien stehen im Zielkonflikt zwischen Leistung, Gewicht, Sicherheit und Haltbarkeit. Porsche erzählt, wie sie Performance-Akkus entwickeln.",
+      "url": "https://www.heise.de/hintergrund/Batterietechnik-bei-Porsche-Schnell-laden-langsam-altern-10355455.html"
+    },
+    {
       "title": "Batterien für Ford Explorer und CapriFord beginnt in Köln mit Akkufertigung",
       "teaser": "In seinem umgebauten ehemaligen Kölner Motorenwerk startet Ford am Donnerstag mit der Batterieproduktion für seine E-Auto-Modelle Explorer und Capri.",
       "url": "https://www.heise.de/news/E-Auto-Ford-beginnt-in-Koeln-mit-Akkufertigung-fuer-E-Modelle-Explorer-und-Capri-10443050.html",
       "image_title": "Koelner_Ford_Batterieproduktion_fuer_Ford_Explorer_und_Ford_Capri"
-    },
-    {
-      "title": "UpdateLade-RatgeberMit dem Elektroauto in den Auslands-Urlaub",
-      "teaser": "Auch mit dem Elektroauto ist die Fahrt ins Ausland kein Problem mehr. Wir erzählen Ihnen, was Sie beachten müssen.",
-      "url": "https://www.heise.de/ratgeber/Urlaub-mit-dem-Elektroauto-Was-Sie-beim-Laden-im-Ausland-beachten-sollten-9741114.html"
     },
     {
       "title": "Acea: CO2-Grenze aufweichenLobby sieht Probleme mit EU-Emissionsregeln",
@@ -769,16 +768,16 @@
       "image_title": "Bitcoin 3D-Illustration des futuristischen Raumeffekts"
     },
     {
-      "title": "China gibt grünes Licht für Serienproduktion des größten Amphibienflugzeugs der Welt",
-      "teaser": "Das in China entwickelte AG600 \"Kunlong\" erhält Produktionszertifizierung. Es soll vor allem für Brandbekämpfung und Rettungseinsätze genutzt werden. Ein Überblick.",
-      "url": "https://www.heise.de/tp/features/China-gibt-gruenes-Licht-fuer-Serienproduktion-des-groessten-Amphibienflugzeugs-der-Welt-10441815.html",
-      "image_title": "Ein Amphibienflugzeug (AG600) auf einem Flugplatz"
+      "title": "\"Mineralwasser Perrier\" – Nestlés Werbelüge fliegt auf",
+      "teaser": "Nestlé hat in Frankreich Wasser illegal gereinigt und als natürliches Mineralwasser verkauft. Ein Ausschuss im Parlament wirft der Regierung Vertuschung vor.",
+      "url": "https://www.heise.de/tp/features/Mineralwasser-Perrier-Nestles-Werbeluege-fliegt-auf-10438419.html",
+      "image_title": "Perrier-Flasche ind Paragraphenzeichen in Tricolore-Farben"
     },
     {
-      "title": "BYD in Bedrängnis: Regierung zwingt zu fairen Zahlungspraktiken",
-      "teaser": "Unter Druck geloben Chinas Autohersteller, ihre Zulieferer schneller zu bezahlen. Doch der Preiskampf in der Branche hat bereits Schäden in der Wirtschaft hinterlassen.",
-      "url": "https://www.heise.de/tp/features/BYD-in-Bedraengnis-Regierung-zwingt-zu-fairen-Zahlungspraktiken-10440487.html",
-      "image_title": "Auto-Logo eines BYD"
+      "title": "Erdbeermond: Alles, was Sie über das Himmelsschauspiel wissen müssen",
+      "teaser": "Der \"Erdbeermond\" zeigt sich am 11. Juni 2025 besonders tief am Horizont. Dieses seltene Phänomen tritt nur alle 18,6 Jahre auf. Doch warum erscheint er dabei so riesig?",
+      "url": "https://www.heise.de/tp/features/Erdbeermond-Alles-was-Sie-ueber-das-Himmelsschauspiel-wissen-muessen-10440678.html",
+      "image_title": "Roter Mond"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
