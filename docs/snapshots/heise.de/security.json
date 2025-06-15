@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-15T11:07:46",
+  "timestamp": "2025-06-15T12:17:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,19 +26,18 @@
   ],
   "articles": [
     {
-      "title": "AlertThunderbird-Update verfügbarHTML-Mails können Zugangsdaten verraten",
-      "teaser": "Mozilla hat Updates für Thunderbird veröffentlicht. Sie stopfen ein Sicherheitsleck bei der Anzeige von HTML-E-Mails.",
-      "url": "https://www.heise.de/news/Thunderbird-HTML-Mails-koennen-Zugangsdaten-verraten-Update-verfuegbar-10441439.html",
-      "image_title": "Achtung-Schild neben Thunderbird-Programm 139.0.2"
+      "title": "CARsenalKali Linux 2025.2 bringt Tools zum Hacken von Autos mit",
+      "teaser": "Die neue Version von Kali Linux bringt unter anderem neue Tools und Funktionen zur Sicherheitsanalyse von Autos mit.",
+      "url": "https://www.heise.de/news/CARsenal-Kali-Linux-2025-2-bringt-Tools-zum-Hacken-von-Autos-mit-10446995.html"
     },
     {
-      "title": "secIT digital 2025Hilfreiche Taktiken für Backup-Strategien und gegen Vishing",
-      "teaser": "Das redaktionelle Programm der IT-Security-Konferenz secIT digital ist online einsehbar. Tickets sind ab sofort buchbar.",
-      "url": "https://www.heise.de/news/secIT-digital-2025-Hilfreiche-Fakten-fuer-Backup-Strategien-und-gegen-Vishing-10438066.html"
-    },
-    {
-      "title": "AlertSicherheitslücken Tenable Agent: Angreifer können Systemdaten überschreiben",
+      "title": "AlertSicherheitslücken Tenable AgentAngreifer können Systemdaten überschreiben",
+      "teaser": "Die Entwickler haben in der aktuellen Ausgabe von Tenable Agent mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Tenable-Agent-Angreifer-koennen-Systemdaten-ueberschreiben-10447045.html"
+    },
+    {
+      "title": "AlertSicherheitslücke in Dell iDRAC Tools gefährdet Server",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Dell-iDRAC-Tools-gefaehrdet-Server-10447071.html"
     },
     {
       "title": "Auslegungssache 136: Bayerischer Datenschutz im Fokus",
@@ -69,19 +68,14 @@
       "url": "https://shop.heise.de/microsoft-entra-dangerous-defaults?wt_mc=intern.academy.security.web_entradd.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "AlertSicherheitslücke in Dell iDRAC Tools gefährdet Server",
+      "teaser": "Eine Schwachstelle in Dells Servermanagementsoftware iDRAC Tools gefährdet Server. Eine reparierte Version steht zum Download.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Dell-iDRAC-Tools-gefaehrdet-Server-10447071.html"
+    },
+    {
       "title": "c't-Webinar: Digitale Sicherheit für Anfänger",
       "teaser": "Clevere Backups, sichere Passwörter und geschützte Geräte: Lernen Sie die Grundlagen der IT-Sicherheit in alltagstauglichen Schritten kennen.",
       "url": "https://www.heise.de/news/c-t-Webinar-Digitale-Sicherheit-fuer-Anfaenger-10442245.html"
-    },
-    {
-      "title": "AlertSicherheitslücken Tenable Agent: Angreifer können Systemdaten überschreiben",
-      "teaser": "Die Entwickler haben in der aktuellen Ausgabe von Tenable Agent mehrere Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Tenable-Agent-Angreifer-koennen-Systemdaten-ueberschreiben-10447045.html"
-    },
-    {
-      "title": "CARsenal: Kali Linux 2025.2 bringt Tools zum Hacken von Autos mit",
-      "teaser": "Die neue Version von Kali Linux bringt unter anderem neue Tools und Funktionen zur Sicherheitsanalyse von Autos mit.",
-      "url": "https://www.heise.de/news/CARsenal-Kali-Linux-2025-2-bringt-Tools-zum-Hacken-von-Autos-mit-10446995.html"
     },
     {
       "title": "AlertIBM AIX/VIOS und DataPower Gateway für Schadcode-Attacken anfällig",
@@ -139,6 +133,12 @@
       "teaser": "Eine Codeschmuggel-Lücke im Roundcube Webmailer wird bereits angegriffen. Zehntausende Systeme sind weltweit noch verwundbar.",
       "url": "https://www.heise.de/news/Roundcube-Webmail-Mehr-als-10-000-verwundbare-Instanzen-in-Deutschland-10441859.html",
       "image_title": "Weltkarte mit Anzahlen verwundbarer Systeme"
+    },
+    {
+      "title": "AlertThunderbird: HTML-Mails können Zugangsdaten verraten, Update verfügbar",
+      "teaser": "Mozilla hat Updates für Thunderbird veröffentlicht. Sie stopfen ein Sicherheitsleck bei der Anzeige von HTML-E-Mails.",
+      "url": "https://www.heise.de/news/Thunderbird-HTML-Mails-koennen-Zugangsdaten-verraten-Update-verfuegbar-10441439.html",
+      "image_title": "Achtung-Schild neben Thunderbird-Programm 139.0.2"
     },
     {
       "title": "AlertFortinet: Angreifer können VPN-Verbindungen umleiten",
@@ -204,17 +204,17 @@
       "url": "https://www.heise.de/ratgeber/Sie-wurden-gehackt-Das-ist-jetzt-zu-tun-9989769.html"
     },
     {
-      "title": "Starlink-Gäste-WLAN im Weißen Haus ohne Sicherheitskontrollen",
-      "url": "https://www.heise.de/news/Starlink-Gaeste-WLAN-im-Weissen-Haus-ohne-Sicherheitskontrollen-10437169.html",
-      "image_title": "Blick aufs Weiße Haus in Washington."
-    },
-    {
       "title": "Windows-11-24H2-Update durch Update außer der Reihe ersetzt",
-      "url": "https://www.heise.de/news/Microsoft-Windows-11-24H2-Update-durch-Update-ausser-der-Reihe-ersetzt-10441092.html"
+      "url": "https://www.heise.de/news/Microsoft-Windows-11-24H2-Update-durch-Update-ausser-der-Reihe-ersetzt-10441092.html",
+      "image_title": "Windows Updates sind fehlgeschlagen"
     },
     {
       "title": "EU startet eigenen DNS-Dienst mit praktischen Funktionen",
       "url": "https://www.heise.de/news/Digitale-Souveraenitaet-EU-startet-eigenen-DNS-Dienst-mit-praktischen-Funktionen-10438361.html"
+    },
+    {
+      "title": "HTML-Mails können Zugangsdaten verraten",
+      "url": "https://www.heise.de/news/Thunderbird-HTML-Mails-koennen-Zugangsdaten-verraten-Update-verfuegbar-10441439.html"
     }
   ]
 }
