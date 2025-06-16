@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-16T11:09:32",
+  "timestamp": "2025-06-16T12:20:04",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,46 @@
   ],
   "articles": [
     {
-      "title": "Open-Source-KommandozeileneditorMicrosofts Edit bringt einige Verbesserungen",
-      "teaser": "Microsofts quelloffenes Edit für die Eingabeaufforderung hüpft auf Stand 1.2.0. Die Entwickler haben Verbesserungen eingebaut.",
+      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+      "teaser": "SSO und Multifaktor-Authentifizierung - Mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10443407.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "Souveränes Azure kommt: So kann nicht einmal Microsoft selbst Daten einsehen",
+      "teaser": "Mehr Datenkontrollen für die Sovereign Public Cloud, eine neue souveräne Private Cloud beim Kunden, lokales M365 – so sollen EU-Kunden Microsoft vertrauen.",
+      "url": "https://www.heise.de/news/Souveraen-nach-Kundenwunsch-Microsoft-baut-EU-Cloud-deutlich-aus-10447946.html",
+      "image_title": "Baum wächst aus Laptop, Microsoft-Symbole als Blätter des Baums"
+    },
+    {
+      "title": "Windows UpdatesZwei Probleme gelöst, eines neu geschaffen",
+      "teaser": "Die Windows-Sicherheitsupdates aus dem Juni schaffen ein neues Problem auf Surface Hubs. Dafür sind zwei ältere nun gelöst.",
+      "url": "https://www.heise.de/news/Windows-Updates-Zwei-Probleme-geloest-eines-neu-geschaffen-10447970.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
+    },
+    {
+      "title": "Darknet-BKA schaltet Drogen-Marktplatz \"Archetyp Market\" ab",
+      "teaser": "Strafverfolger haben den mutmaßlichen Betreiber des Darknet-Markts \"Archetyp Market\" festgenommen und die Plattform abgeschaltet.",
+      "url": "https://www.heise.de/news/BKA-schaltet-Darknet-Marktplatz-Archetyp-Market-ab-10447892.html",
+      "image_title": "Hinweis auf Beschlagnahme des Darknet-Marktplatzes"
+    },
+    {
+      "title": "RatgeberBastelprojekt: Wie man Gravitrax über Python steuert",
+      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-man-Gravitrax-ueber-Python-steuert-10355196.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundDigitale Souveränität in Abstufungen: T-Systems Expertin im Gespräch",
+      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-in-Abstufungen-T-Systems-Expertin-im-Gespraech-10438235.html"
+    },
+    {
+      "title": "RatgeberMit c’t-WIMage erstellte Sicherungen wiederherstellen",
+      "url": "https://www.heise.de/ratgeber/Mit-c-t-WIMage-erstellte-Sicherungen-wiederherstellen-10425207.html",
+      "image_title": ","
+    },
+    {
+      "title": "Microsofts Open-Source-Kommandozeileneditor bringt einige Verbesserungen",
+      "teaser": "Microsofts Open-Source-Editor Edit für die Eingabeaufforderung hüpft auf Stand 1.2.0. Die Entwickler haben Verbesserungen eingebaut.",
       "url": "https://www.heise.de/news/Microsofts-Open-Source-Kommandozeileneditor-bringt-einige-Verbesserungen-10447522.html",
       "image_title": "Versionsdialog von Microsofts Kommandozeileneditor"
     },
@@ -48,20 +86,6 @@
       "teaser": "Wer Apples IP-Verschleierungsdienst verwendet, bekommt gelegentlich Ärger mit Google-Diensten. Ruft man diese zu häufig oder zu schnell auf, wird geblockt.",
       "url": "https://www.heise.de/news/iCloud-Private-Relay-Google-blockiert-temporaer-Zugriffe-von-Apple-Geraeten-10447140.html",
       "image_title": "Bunt leuchtendes Neon-Zeichen von Google"
-    },
-    {
-      "title": "RatgeberBastelprojekt: Wie man Gravitrax über Python steuert",
-      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-man-Gravitrax-ueber-Python-steuert-10355196.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundDigitale Souveränität in Abstufungen: T-Systems Expertin im Gespräch",
-      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-in-Abstufungen-T-Systems-Expertin-im-Gespraech-10438235.html"
-    },
-    {
-      "title": "RatgeberMit c’t-WIMage erstellte Sicherungen wiederherstellen",
-      "url": "https://www.heise.de/ratgeber/Mit-c-t-WIMage-erstellte-Sicherungen-wiederherstellen-10425207.html",
-      "image_title": ","
     },
     {
       "title": "Mittwoch online teilnehmen: Die heise security Tour – Wissen schützt!",
@@ -123,28 +147,6 @@
       "title": "AlertSicherheitslücken Tenable Agent: Angreifer können Systemdaten überschreiben",
       "teaser": "Die Entwickler haben in der aktuellen Ausgabe von Tenable Agent mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Tenable-Agent-Angreifer-koennen-Systemdaten-ueberschreiben-10447045.html"
-    },
-    {
-      "title": "CARsenal: Kali Linux 2025.2 bringt Tools zum Hacken von Autos mit",
-      "teaser": "Die neue Version von Kali Linux bringt unter anderem neue Tools und Funktionen zur Sicherheitsanalyse von Autos mit.",
-      "url": "https://www.heise.de/news/CARsenal-Kali-Linux-2025-2-bringt-Tools-zum-Hacken-von-Autos-mit-10446995.html"
-    },
-    {
-      "title": "40 Jahre Schengen: Mehr Überwachung als Ausgleich für entfallene Grenzkontrollen",
-      "teaser": "Der Schengen-Raum wird 40. Vielen ist nicht zum Feiern zumute: Deutschland überprüft wieder Ausweise. Die technologische Überwachung hat zudem stark zugenommen.",
-      "url": "https://www.heise.de/news/40-Jahre-Schengen-Mehr-Ueberwachung-als-Ausgleich-fuer-entfallene-Grenzkontrollen-10446987.html",
-      "image_title": "Hinweisschild zur Zollkontrolle bei der Einreise in die EU auf einem Flughafen."
-    },
-    {
-      "title": "AlertIBM AIX/VIOS und DataPower Gateway für Schadcode-Attacken anfällig",
-      "teaser": "Patches schließen mehrere Lücken in IBM AIX und DataPower Gateway. Admins sollten zeitnah reagieren.",
-      "url": "https://www.heise.de/news/IBM-AIX-VIOS-und-DataPower-Gateway-fuer-Schadcode-Attacken-anfaellig-10446983.html"
-    },
-    {
-      "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-      "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
-      "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-10443369.html",
-      "image_title": "Workshop Mobile Device Management mit Intune"
     },
     {
       "title": "NewsDeutscher Wetterdienst: Hitzetage sind nicht normal",
