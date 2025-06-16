@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-16T14:10:57",
+  "timestamp": "2025-06-16T15:10:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Virtual Reality in den 80ern: Ohne Videospielcrash gäbe es heute keine VR-Brille",
+      "url": "https://www.heise.de/hintergrund/Wie-der-Videospielcrash-in-den-Achtzigern-die-erste-VR-Brille-hervorbrachte-10448269.html"
+    },
+    {
+      "title": "3D-Druck belebt die Gravitrax-Welt",
+      "url": "https://www.heise.de/news/3D-Druck-belebt-die-Gravitrax-Welt-10447978.html"
+    },
     {
       "title": "Leiser Mini-PC mit USB-C: Minisforum UN150P im Test",
       "url": "https://www.heise.de/bestenlisten/testbericht/minisforum-un150p-im-test/jn4g3l4"
@@ -56,14 +64,6 @@
     {
       "title": "Didacta-Verband zu Schülerdaten: \"Sehen die Gefahr der Stigmatisierung\"",
       "url": "https://www.heise.de/hintergrund/Didacta-Verband-zu-Schuelerdaten-Sehen-die-Gefahr-der-Stigmatisierung-10448110.html"
-    },
-    {
-      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
-      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10443407.html"
-    },
-    {
-      "title": "Souveränes Azure kommt: So kann nicht einmal Microsoft selbst Daten einsehen",
-      "url": "https://www.heise.de/news/Souveraen-nach-Kundenwunsch-Microsoft-baut-EU-Cloud-deutlich-aus-10447946.html"
     },
     {
       "title": "Google bestätigtDas Ende der Instant Apps naht",
@@ -150,9 +150,10 @@
       "image_title": "Mac mini M2"
     },
     {
-      "title": "AlertPhishing und Passwort-KlauBösartige Skripte im Mail-Anhang als Vektorgrafik",
-      "teaser": "Immer mehr Phishing-Kampagnen nutzen das wenig bekannte Vektorgrafik-Format SVG. Das kann nämlich Skripte enthalten.",
-      "url": "https://www.heise.de/news/E-Mail-Sicherheit-Verstaerkte-Angriffe-mit-SVG-10444330.html"
+      "title": "SchülerdatenDidacta-Verband sieht Gefahr der Stigmatisierung",
+      "teaser": "Im Bildungsverlaufsregister sieht der neue Präsident des Didacta-Verbands eine Chance – Datenschutz ist dabei wichtig.",
+      "url": "https://www.heise.de/hintergrund/Didacta-Verband-zu-Schuelerdaten-Sehen-die-Gefahr-der-Stigmatisierung-10448110.html",
+      "image_title": "Schülerinnen und Schüler sitzen in einer Klasse. An ihren technischen Geräten ist ein Cloud-Upload-Zeichen zu sehen"
     },
     {
       "title": "AmazonPrime-Abo für alle zwischen 18 und 22 deutlich günstiger",
@@ -167,10 +168,9 @@
       "image_title": "Smart Plugs vor Verbrauchsdiagrammen in Home Assistant. Die intelligenten Zwischenstecker lassen sich vielseitig im Smart Home einsetzen."
     },
     {
-      "title": "Debatte um KupfernetzeTele Columbus: Es ist an der Zeit, das Ende von DSL einzuläuten",
-      "teaser": "Die Telekom will die DSL-Abschaltung auf die lange Bank schieben. Tele Columbus hält dagegen: Der Wechsel auf Glasfaser spare Geld und wappne für die Zukunft.",
-      "url": "https://www.heise.de/news/Tele-Columbus-Es-ist-an-der-Zeit-das-Ende-von-DSL-einzulaeuten-10446790.html",
-      "image_title": "Baustelle eines Neubaugebiets in Barsinghausen bei Hannover, im Vordergrund ein kleiner Bagger und eine Rolle Glasfaserkabel."
+      "title": "AlertPhishing und Passwort-KlauBösartige Skripte im Mail-Anhang als Vektorgrafik",
+      "teaser": "Immer mehr Phishing-Kampagnen nutzen das wenig bekannte Vektorgrafik-Format SVG. Das kann nämlich Skripte enthalten.",
+      "url": "https://www.heise.de/news/E-Mail-Sicherheit-Verstaerkte-Angriffe-mit-SVG-10444330.html"
     },
     {
       "title": "AppleÜbernächstes macOS dreht Time-Capsule-Unterstützung ab",
@@ -185,6 +185,22 @@
       "image_title": "Roboter liest Bücher"
     },
     {
+      "title": "Virtual Reality in den 80ern: Ohne Videospielcrash gäbe es heute keine VR-Brille",
+      "teaser": "Kein anderes Jahrzehnt prägte die Entwicklung der Virtual Reality so sehr wie die Achtziger. Entscheidenden Anteil daran hatte das Beinahe-Ende der Videospiele.",
+      "url": "https://www.heise.de/hintergrund/Wie-der-Videospielcrash-in-den-Achtzigern-die-erste-VR-Brille-hervorbrachte-10448269.html",
+      "image_title": "Eine Frau trägt ein Headmounted Display mit der Aufschrift \"NASA\"."
+    },
+    {
+      "title": "3D-Druck belebt die Gravitrax-Welt",
+      "teaser": "Die lebendige Community treibt den Erfolg des Gravitrax-Kugelbahnsystems maßgeblich voran, indem sie das System mit kreativen 3D-Druck-Ergänzungen bereichert.",
+      "url": "https://www.heise.de/news/3D-Druck-belebt-die-Gravitrax-Welt-10447978.html"
+    },
+    {
+      "title": "Ein durchdachtes Kreativsystem für Profis",
+      "teaser": "Wer täglich im kreativen Bereich arbeitet, braucht ein leistungsstarkes und intelligentes Werkzeug, das mitdenkt. Am besten ein Notebook, das jede Idee in Echtzeit Wirklichkeit werden lässt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7010861519&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Leiser Mini-PC mit USB-C: Minisforum UN150P im Test",
       "teaser": "Gute Leistung, kompaktes Design und USB-C: Wie gut sich der Minisforum UN150P in der Praxis schlägt, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/minisforum-un150p-im-test/jn4g3l4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -194,11 +210,6 @@
       "teaser": "Das Fairphone 6 wird Ende Juni erwartet. Schon jetzt sind offenbar durch einen unvorsichtigen Händler viele Ausstattungsdetails durchgesickert.",
       "url": "https://www.heise.de/news/Fairphone-6-Neuer-Leak-verraet-viele-Details-10448183.html",
       "image_title": "Fairphone 5 zerlegt"
-    },
-    {
-      "title": "Proactive IT – agieren statt reagieren!",
-      "teaser": "Früher griff die IT erst ein, wenn ein Problem auftrat. Das war reaktiv statt vorausschauend. Heute sollten Arbeitsumgebungen so gestaltet sein, dass Probleme gar nicht erst entstehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6983802470&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "15.000 Watt: Stromdurst von KI-Beschleuniger steigt weiter rasant",
@@ -222,18 +233,6 @@
       "teaser": "In der Polizeiarbeit spielen Fotos eine entscheidende Rolle vor Gericht. Robert Kubaink berichtet, wie das LKA Niedersachsen mit Bildmaterial arbeitet.",
       "url": "https://www.heise.de/hintergrund/Fotografie-bei-der-Polizei-Robert-Kubaink-ueber-forensische-Bilder-10392733.html",
       "image_title": ", Angelov, stock.adobe.com"
-    },
-    {
-      "title": "Didacta-Verband zu Schülerdaten: \"Sehen die Gefahr der Stigmatisierung\"",
-      "teaser": "Schüler-ID und Bildungsverlaufsregister bieten laut dem neuen Präsidenten des Didacta-Verbands große Chancen. Ein hohes Datenschutzniveau sei aber wichtig.",
-      "url": "https://www.heise.de/hintergrund/Didacta-Verband-zu-Schuelerdaten-Sehen-die-Gefahr-der-Stigmatisierung-10448110.html",
-      "image_title": "Schülerinnen und Schüler sitzen in einer Klasse. An ihren technischen Geräten ist ein Cloud-Upload-Zeichen zu sehen"
-    },
-    {
-      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
-      "teaser": "SSO und Multifaktor-Authentifizierung - Mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
-      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10443407.html",
-      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
       "title": "FahrraddiebstahlWie Sie Ihr Rad schützen und auf Verlust reagieren",
@@ -273,7 +272,7 @@
       "url": "https://www.heise.de/tests/Switch-2-im-Test-Nintendos-Antwort-auf-Steam-Deck-und-PC-Handhelds-10387966.html"
     },
     {
-      "title": "Skoda Elroq 85 im Test: Bequemer Begleiter",
+      "title": "Skoda Elroq 85 im Test: Emotionslos anziehend",
       "url": "https://www.heise.de/tests/Skoda-Elroq-85-im-Test-Emotionslos-anziehend-10422371.html"
     },
     {
@@ -300,6 +299,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 4 Monate mit 40 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit und schon ab 1,79 € pro Woche!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=30888&wt_mc=intern.abo.plus.hp_2025_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+      "teaser": "SSO und Multifaktor-Authentifizierung - Mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10443407.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
       "title": "Interview zu GitHub Sponsors: Warum Geld für Open Source wichtig ist",
@@ -371,14 +376,14 @@
       "url": "https://www.heise.de/ratgeber/Dienste-im-Internet-erreichbar-machen-10380847.html"
     },
     {
+      "title": "KI-Fabrik: künstliche Intelligenz im industriellen Maßstab bereitstellen",
+      "teaser": "In der KI-Fabrik werden Entwicklung, Einsatz und Verwaltung von KI-Modellen und -Anwendungen standardisiert und automatisiert. Das bringt Vorteile, aber auch Herausforderungen.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/ki/beitrag/ki-fabrik-kuenstliche-intelligenz-im-industriellen-massstab-bereitstellen-4920/?source=hbsadersatz"
+    },
+    {
       "title": "Mittwoch online teilnehmen: Die heise security Tour – Wissen schützt!",
       "teaser": "Spannende Vorträge und die Möglichkeit, sich mit Referenten und Kollegen auszutauschen – die heise security Tour ist ein Muss für IT-Sicherheitsverantwortliche.",
       "url": "https://www.heise.de/news/Mittwoch-online-teilnehmen-Die-heise-security-Tour-Wissen-schuetzt-10444283.html"
-    },
-    {
-      "title": "Portfolio-Guide – So finden Sie den richtigen Prozessor",
-      "teaser": "Die Unternehmens-IT muss eine Vielzahl unterschiedlicher Workloads bewältigen. Dieser Portfolio-Guide zeigt Ihnen, welche Prozessorfamilie für welchen Anwendungszweck am besten geeignet ist.",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/portfolio-guide-so-finden-sie-den-richtigen-prozessor-4915/?source=hbsadersatz"
     },
     {
       "title": "AlertDell ControlVault: Angreifer können Systeme vollständig kompromittieren",
@@ -428,12 +433,6 @@
       "title": "Firedrive Link im Test: Netflix im Auto dank HDMI-Adapter für Fire TV Stick",
       "teaser": "Der Firedrive Link von Carlinkit erweitert das Infotainmentsystem im Auto um eine HDMI-Schnittstelle für den Fire TV Stick. Wie das funktioniert, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/carlinkit-firedrive-link-im-test/v359p6p?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Nach Meta-Einsteig: Google zieht sich offenbar bei Scale AI als Kunde zurück",
-      "teaser": "Diese Woche stieg der Meta-Konzern mit 49 Prozent bei Scale AI ein. Das hat anscheinend auch Auswirkungen auf die restliche Scale-Kundschaft.",
-      "url": "https://www.heise.de/news/Nach-Meta-Einsteig-Google-zieht-sich-offenbar-bei-Scale-AI-als-Kunde-zurueck-10447065.html",
-      "image_title": "Das Scale-Logo wird auf einem Smartphone angezeigt, im Hintergrund ist ein PC-Bildschirm zu sehen."
     },
     {
       "title": "Deutschland will bei KI führen: Nvidia und Telekom beteiligen sich an Gigafabrik",
@@ -501,9 +500,9 @@
       "image_title": "Peugeot e-208 GTI"
     },
     {
-      "title": "Cloud-Ausfall: Fehlerhaftes Update für API-Quoten laut Google die Ursache",
-      "url": "https://www.heise.de/news/Google-Quotenregelung-fuer-API-Zugriffe-fuehrte-zu-Cloud-Ausfall-10445520.html",
-      "image_title": "Teilansicht eines Bürogebäudes mit einer Leuchtschrift \"Google Cloud\""
+      "title": "Nach Meta-Einsteig: Google zieht sich offenbar bei Scale AI als Kunde zurück",
+      "url": "https://www.heise.de/news/Nach-Meta-Einsteig-Google-zieht-sich-offenbar-bei-Scale-AI-als-Kunde-zurueck-10447065.html",
+      "image_title": "Das Scale-Logo wird auf einem Smartphone angezeigt, im Hintergrund ist ein PC-Bildschirm zu sehen."
     },
     {
       "title": "Datenzugang für Forscher: Gericht hebt Verfügung gegen X auf",
@@ -566,12 +565,12 @@
       "url": "https://heise-academy.de/Videokurse/entra-id-neuerungen-q1-2025?wt_mc=intern.academy.academy.vk_entraid125.academy_buehne_ho.teaser.teaser"
     },
     {
-      "title": "c't 3003Windows-Spiele laufen besser auf Linux (wirklich!)",
-      "url": "https://www.heise.de/news/Windows-Spiele-laufen-besser-auf-Linux-wirklich-10436098.html"
+      "title": "c't 3003Wir beantworten eure Fragen zu Homeservern",
+      "url": "https://www.heise.de/news/c-t-3003-Eure-Fragen-zu-Homeservern-LIVE-10444528.html"
     },
     {
-      "title": "c’t uplinkWo Smartwatches tatsächlich nützlich sind",
-      "url": "https://www.heise.de/news/Wo-Smartwatches-tatsaechlich-nuetzlich-sind-c-t-uplink-10435003.html"
+      "title": "Weg von Google Drive, Dropbox & Co.: Online-Services selbst hosten | c’t uplink",
+      "url": "https://www.heise.de/multimediadatei/Weg-von-Google-Drive-Dropbox-Co-Online-Services-selbst-hosten-c-t-uplink-10443475.html"
     },
     {
       "title": "#heiseshowFerngesteuerte Schiffe, EU-iPhone-Streit, KI-Eigenleben",
@@ -600,9 +599,9 @@
       "url": "https://www.heise.de/en/news/Digital-sovereignty-EU-launches-its-own-DNS-service-with-practical-functions-10438818.html"
     },
     {
-      "title": "Smart Glasses: Was die neue Generation smarter Brillen kann",
-      "teaser": "Die smarten Brillen sind zurück – unauffälliger, leistungsfähiger und intelligenter denn je. Schafft die Produktkategorie jetzt den Durchbruch?",
-      "url": "https://www.heise.de/tests/Smart-Glasses-Was-die-neue-Generation-smarter-Brillen-kann-10337741.html"
+      "title": "Smart Glasses: Was Brillenträger beachten müssen",
+      "teaser": "Eigentlich sind Smart Glasses perfekt für Menschen mit Sehfehlern, die ohnehin eine Brille tragen. Doch gerade sie erwarten einige zusätzliche Hürden.",
+      "url": "https://www.heise.de/tests/Smart-Glasses-Was-Brillentraeger-beachten-muessen-10392376.html"
     },
     {
       "title": "Günstige DSL- und TV-Kabel-Anschlüsse im Vergleich",
@@ -610,10 +609,9 @@
       "url": "https://www.heise.de/tests/Guenstige-DSL-und-TV-Kabel-Anschluesse-im-Vergleich-10392531.html"
     },
     {
-      "title": "15.000 Watt: Stromdurst von KI-Beschleuniger steigt weiter rasant",
-      "teaser": "Koreanische Chipforscher erläutern ihre Roadmap für immer schnelleren HBM-Speicher und stärkere KI-Rechenchips.",
-      "url": "https://www.heise.de/news/15-000-Watt-Stromdurst-von-KI-Beschleuniger-steigt-weiter-rasant-10448197.html",
-      "image_title": "SK Hynix erklärt technische Verbesserungen mehrerer Generationen von High Bandwidth Memory"
+      "title": "Smart Glasses: Was die neue Generation smarter Brillen kann",
+      "teaser": "Die smarten Brillen sind zurück – unauffälliger, leistungsfähiger und intelligenter denn je. Schafft die Produktkategorie jetzt den Durchbruch?",
+      "url": "https://www.heise.de/tests/Smart-Glasses-Was-die-neue-Generation-smarter-Brillen-kann-10337741.html"
     },
     {
       "title": "Container für macOSApples Docker-Alternative Container ausprobiert",
@@ -621,16 +619,16 @@
       "url": "https://www.heise.de/tests/Apples-Docker-Alternative-Container-ausprobiert-10440947.html"
     },
     {
-      "title": "Passwort-ResetWas tun, wenn man seine Mac-Zugangsdaten vergessen hat?",
-      "teaser": "macOS ist gut abgesichert. Umso unangenehmer, wenn Sie Ihr Anmeldepasswort vergessen. Wir zeigen, wie Sie diesem GAU vorbeugen – und was im Notfall zu tun ist.",
-      "url": "https://www.heise.de/ratgeber/Passwort-Reset-Was-tun-wenn-man-seine-Mac-Zugangsdaten-vergessen-hat-10424228.html",
-      "image_title": ", Panitan – stock.adobe.com; bearbeitet von Mac & i"
-    },
-    {
       "title": "BenQ PD2730S im Test27-Zoll-Monitor mit 5K-Auflösung und vielen Ports",
       "teaser": "Der 27-Zoll-Monitor PD2730S mit 5K-Auflösung zeigt sich äußerst anschlussfreudig. Mac & i hat ihn getestet.",
       "url": "https://www.heise.de/tests/Pixelprotz-mit-vielen-Ports-10397848.html",
       "image_title": "BenQ PD2730S"
+    },
+    {
+      "title": "Flexible Schreibwerkstatt: adoc Studio im Test",
+      "teaser": "Es muss nicht immer eine klassische Textverarbeitung sein: adoc Studio formatiert mithilfe von AsciiDoc umfangreiche Texte und Dokumentationen.",
+      "url": "https://www.heise.de/tests/Flexible-Schreibwerkstatt-adoc-Studio-im-Test-10389100.html",
+      "image_title": "adoc Studio"
     },
     {
       "title": "Bastelprojekt: Wie man Gravitrax über Python steuert",
@@ -711,19 +709,19 @@
       "image_title": "Los Angeles Skyline"
     },
     {
-      "title": "Zehn Stunden ohne ChatGPT: Warum der Ausfall der KI ein Warnzeichen ist",
-      "teaser": "War da was? ChatGPT fällt für zehn Stunden aus, und das Internet macht ein paar lahme Witze. Zeit, das Problem ernst zu nehmen, meint unser Autor.",
-      "url": "https://t3n.de/news/zehn-stunden-ohne-chatgpt-warum-der-ausfall-der-ki-ein-warnzeichen-ist-1692541/"
+      "title": "Mark Zuckerberg sucht 50 Experten für sein KI-Team – das sind unsere Vorschläge",
+      "teaser": "Meta will bei der Entwicklung einer menschenähnlichen Intelligenz jetzt richtig Gas geben und sucht 50 Expert:innen. Wir hätten da mal ein paar Vorschläge.",
+      "url": "https://t3n.de/news/zuckerberg-50-experten-superintelligenz-1692345/"
+    },
+    {
+      "title": "KI und Copyright: Hat Metas KI-Modell zu viel von Harry Potter gelernt?",
+      "teaser": "Forscher:innen haben untersucht, wie gut sich KI-Modelle an Romane erinnern. Das Ergebnis: Llama kann große Teile vom ersten Harry Potter-Band rekonstruieren – und heizt die Urheberrechtsdebatte weiter an.",
+      "url": "https://t3n.de/news/ki-und-copyright-hat-metas-ki-modell-zu-viel-von-harry-potter-gelernt-1692980/"
     },
     {
       "title": "Wo kommt das Gold auf der Erde her? Es gibt neue Hinweise",
       "teaser": "Der Goldpreis ist wieder mal auf Rekordkurs. Aber woher das begehrte Edelmetall auf der Erde kommt und wie viel unser Planet davon noch preisgibt, darüber gibt es unterschiedliche Theorien.",
       "url": "https://t3n.de/news/die-herkunft-von-gold-auf-der-erde-ist-immer-noch-raetselhaft-doch-es-gibt-neue-hinweise-1692565/"
-    },
-    {
-      "title": "Feiertag abschaffen für Wirtschaftswachstum? Pro und Kontra",
-      "teaser": "Soll die Politik mindestens einen kirchlichen Feiertag abschaffen? Das sind die Argumente dafür und dagegen und so hoch ist der Einfluss auf das Wirtschaftswachstum wirklich.",
-      "url": "https://t3n.de/news/feiertag-abschaffen-fuer-wirtschaftswachstum-pro-und-kontra-und-was-wirklich-hilft-1692641/"
     },
     {
       "title": "Top 10: Die beste Powerbank im Test – Testsieger kostet 23 Euro",
@@ -746,22 +744,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Weltordnung am Abgrund: Warum die Eskalation zwischen Israel und Iran ein Wendepunkt ist",
-      "teaser": "Schlagabtausch zwischen Israel und Iran. Diplomatische Lösung in weiter Ferne. Hier deutet sich an, was uns bevorsteht, argumentiert dieser Telepolis-Leitartikel.",
-      "url": "https://www.heise.de/tp/features/Weltordnung-am-Abgrund-Warum-die-Eskalation-zwischen-Israel-und-Iran-ein-Wendepunkt-ist-10448024.html",
-      "image_title": "Fahnen von Israel, Iran, dazwischen Flammen"
+      "title": "Qualifizierung im Sinne Trumps? Microsoft startet Offensive in NRW",
+      "teaser": "Microsoft investiert Milliarden in NRW und will Hunderttausende schulen. Doch Kritiker warnen vor zu großem Einfluss des US-Konzerns.",
+      "url": "https://www.heise.de/tp/features/Qualifizierung-im-Sinne-Trumps-Microsoft-startet-Offensive-in-NRW-10444324.html",
+      "image_title": "Verschiedenfarbige Würfel mit gestanztem Zahnrad verbunden mit Chip, teils unterbrochen"
     },
     {
-      "title": "Benzinpreise explodieren: Zahlen Deutsche die Zeche für Israels Angriffe?",
-      "teaser": "Israel greift erstmals direkt Irans Öl- und Gasanlagen an. Produktionsanlagen betroffen. Experten warnen: Das könnte für deutsche Autofahrer teuer werden.",
-      "url": "https://www.heise.de/tp/features/Benzinpreise-explodieren-Zahlen-Deutsche-die-Zeche-fuer-Israels-Angriffe-10447248.html",
-      "image_title": "Benzinpreistafel daneben deutsche Fahne"
+      "title": "Klimawandel: Wenn die Atmosphäre Wasser \"klaut\"",
+      "teaser": "Dürren werden weltweit immer schwerer und erfassen immer größere Flächen. Welchen Anteil hat eine \"durstiger\" werdende Atmosphäre daran?",
+      "url": "https://www.heise.de/tp/features/Klimawandel-Wenn-die-Atmosphaere-Wasser-klaut-10446908.html",
+      "image_title": "Der Kölner Dom vor einem weitgehend ausgetrockneten Rhein"
     },
     {
-      "title": "Iran-Israel-Konflikt lässt Ölpreis explodieren: Droht jetzt der Mega-Ölschock?",
-      "teaser": "Der Konflikt zwischen Iran und Israel eskaliert. Beide Seiten greifen Ölanlagen an. Experten warnen: Ölpreis könnte auf 130 Dollar pro Barrel steigen.",
-      "url": "https://www.heise.de/tp/features/Iran-Israel-Konflikt-laesst-Oelpreis-explodieren-Droht-jetzt-der-Mega-Oelschock-10447059.html",
-      "image_title": "Ein Ölfeld steht in Flammen."
+      "title": "Ethnomathematik? Die Farce um den aztekischen Abakus",
+      "teaser": "Mexikos Mathematik hat einen Star: den Nepohualtzintzin. Er soll der aztekische Abakus sein. Doch stimmt das? Die Wahrheit ist überraschend.",
+      "url": "https://www.heise.de/tp/features/Ethnomathematik-Die-Farce-um-den-aztekischen-Abakus-10443879.html",
+      "image_title": "Anleitung für den mexikanischen Abakus"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
