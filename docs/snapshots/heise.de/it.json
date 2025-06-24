@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-24T06:15:56",
+  "timestamp": "2025-06-24T07:11:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,42 @@
   ],
   "articles": [
     {
+      "title": "Tipp: Safari am Mac mit leerer Seite starten",
+      "teaser": "Startet Apples Browser gewöhnlich mit allen Fenstern und Tabs der letzten Sitzung, kann man Safari per Tastenkürzel auch mit einer leeren Seite öffnen.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Safari-am-Mac-mit-leerer-Seite-starten-6331055.html",
+      "image_title": "Safari von Apple"
+    },
+    {
+      "title": "Security: Wie sich der Cyber Resilience Act auf Open-Source-Projekte auswirkt",
+      "teaser": "Der Cyber Resilience Act der EU soll die Sicherheit von Produkten mit digitalen Anteilen stärken. Für Open-Source-Projekte sieht er zahlreiche Ausnahmen vor.",
+      "url": "https://www.heise.de/hintergrund/Security-Wie-sich-der-Cyber-Resilience-Act-auf-Open-Source-Projekte-auswirkt-10450910.html"
+    },
+    {
+      "title": "AlertKanboardSicherheitslücke ermöglicht Kontoübernahme",
+      "teaser": "In dem Open-Source-Kanban Kanboard können Angreifer Links fälschen, die zur Kontoübernahme führen. Ein Update korrigiert das.",
+      "url": "https://www.heise.de/news/Kanboard-Sicherheitsluecke-ermoeglicht-Kontouebernahme-10457116.html",
+      "image_title": "Achtung-Schild vor Kanboard-Kanban-Demo"
+    },
+    {
+      "title": "GitLab 18.1 erklärt Duo Code Review für produktionsreif",
+      "teaser": "Der KI-gestützte Dienst Duo Code Review ist allgemein verfügbar und GitLab.com gibt nun Warnungen aus, wenn User kompromittierte Passwörter nutzen.",
+      "url": "https://www.heise.de/news/GitLab-18-1-erklaert-Duo-Code-Review-fuer-produktionsreif-10455486.html",
+      "image_title": "Roboterhand weist auf ein Papier, auf dem eine menschliche Hand mit Stift schreibt. Im Hintergrund ein Richterhammer"
+    },
+    {
+      "title": "HintergrundSecurity: Wie sich der Cyber Resilience Act auf Open-Source-Projekte auswirkt",
+      "url": "https://www.heise.de/hintergrund/Security-Wie-sich-der-Cyber-Resilience-Act-auf-Open-Source-Projekte-auswirkt-10450910.html"
+    },
+    {
+      "title": "TestsWas die ersten Docks und Hubs mit Thunderbolt 5 am Mac können",
+      "url": "https://www.heise.de/tests/Was-die-ersten-Docks-und-Hubs-mit-Thunderbolt-5-am-Mac-koennen-10449081.html",
+      "image_title": ", Kensington, Bearbeitung Mac & i"
+    },
+    {
+      "title": "TestsKaufberatung: Wie man den passenden CPU-Kühler findet",
+      "url": "https://www.heise.de/tests/Kaufberatung-Wie-man-den-passenden-CPU-Kuehler-findet-10388012.html"
+    },
+    {
       "title": "Software Testing: Cypress, Playwright oder WebdriverIO",
       "teaser": "In dieser Episode spricht Richard Seidl mit Dehla Sokenou über die Auswahl von Testautomatisierungswerkzeugen.",
       "url": "https://www.heise.de/blog/Software-Testing-Cypress-Playwright-oder-WebdriverIO-10455494.html",
@@ -38,28 +74,14 @@
       "image_title": "Microsoft 365 Copilot für IT-Administratoren"
     },
     {
-      "title": "Was die ersten Docks und Hubs mit Thunderbolt 5 am Mac können",
-      "teaser": "Die neue Version von Thunderbolt bringt doppeltes Tempo und mehr. Unser Test von drei Produkten zeigt, wie viel davon in der Praxis am Mac übrig bleibt.",
-      "url": "https://www.heise.de/tests/Was-die-ersten-Docks-und-Hubs-mit-Thunderbolt-5-am-Mac-koennen-10449081.html",
-      "image_title": ", Kensington, Bearbeitung Mac & i"
-    },
-    {
       "title": "Delta Chat in Russland vor Gericht: Urteil gegen deutsches Entwicklerteam",
       "teaser": "Russland geht gegen den Messenger Delta Chat vor und nimmt eine Freiburger Firma ins Visier. Die wehrt sich und warnt zugleich die EU.",
       "url": "https://www.heise.de/news/Delta-Chat-in-Russland-vor-Gericht-Urteil-gegen-deutsches-Entwicklerteam-10435648.html",
       "image_title": "Collage, Delta Chat Logo vor einem Abstraktem Hintergrund mit vielen Sprechblasen"
     },
     {
-      "title": "TestsWas die ersten Docks und Hubs mit Thunderbolt 5 am Mac können",
-      "url": "https://www.heise.de/tests/Was-die-ersten-Docks-und-Hubs-mit-Thunderbolt-5-am-Mac-koennen-10449081.html",
-      "image_title": ", Kensington, Bearbeitung Mac & i"
-    },
-    {
-      "title": "TestsKaufberatung: Wie man den passenden CPU-Kühler findet",
-      "url": "https://www.heise.de/tests/Kaufberatung-Wie-man-den-passenden-CPU-Kuehler-findet-10388012.html"
-    },
-    {
-      "title": "TestsVier superflache CPU-Kühler für Mini-ITX-Systeme im Vergleich",
+      "title": "Vier superflache CPU-Kühler für Mini-ITX-Systeme im Vergleich",
+      "teaser": "In kleine Barebone-PCs und Mini-ITX-Rechner passen nur Kühler mit geringer Bauhöhe. Vier leise, leistungsfähige Modelle ab 24 Euro fordern Noctuas NH-L9 heraus.",
       "url": "https://www.heise.de/tests/Vier-superflache-CPU-Kuehler-fuer-Mini-ITX-Systeme-im-Vergleich-10378032.html"
     },
     {
@@ -126,30 +148,6 @@
       "teaser": "USB4 nimmt Fahrt auf, immer mehr Notebooks haben den schnellen Verbindungsstandard. Wir schauen uns zwei aktuelle externe SSDs mit USB4 an.",
       "url": "https://www.heise.de/tests/Zwei-USB4-SSDs-mit-Transferraten-bis-zu-3-8-GByte-s-im-Test-10451048.html",
       "image_title": ","
-    },
-    {
-      "title": "DMA-Streit mit der EU: Apple angeblich zu Zugeständnissen bereit",
-      "teaser": "Am Donnerstag läuft eine Frist aus, bis zu der Apple Änderungen im App Store vornehmen muss. Angeblich sei das Unternehmen zu Zugeständnissen bereit.",
-      "url": "https://www.heise.de/news/DMA-Streit-mit-der-EU-Apple-angeblich-zu-Zugestaendnissen-bereit-10456273.html",
-      "image_title": "Der App Store auf dem iPhone"
-    },
-    {
-      "title": "Die Produktwerker: Anwendungsnahe Weiterbildung für Product Owner",
-      "teaser": "Was macht eine gute Weiterbildung als Product Owner aus? Sohrab Salimi und Tim Klein sprechen über wirksames Lernen und neue Angebote der Agile Academy.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Anwendungsnahe-Weiterbildung-fuer-Product-Owner-10455594.html",
-      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "postmarketOS: Handy-Linux nun mit systemd",
-      "teaser": "Die Linux-Distribution fürs Smartphone setzt in der Version 25.06 auf systemd. 60 Geräte unterstützt postmarketOS nun.",
-      "url": "https://www.heise.de/news/Handy-Linux-postmarketOS-v25-06-setzt-auf-systemd-10456093.html",
-      "image_title": "Handys mit postmarketOS v25.04"
-    },
-    {
-      "title": "Mehr Sicherheit, weniger Handarbeit: AWS bringt die KI-Security",
-      "teaser": "Security Hub, Shield und GuardDuty XTD erhalten neue Funktionen: Mit einer speziell trainierten KI will AWS wichtige Sicherheitsmaßnahmen beschleunigen.",
-      "url": "https://www.heise.de/news/Mehr-Sicherheit-weniger-Handarbeit-AWS-bringt-die-KI-Security-10455859.html",
-      "image_title": "Container mit Virus-Spinne"
     },
     {
       "title": "HintergrundMissing Link: \"Sie werden ein größeres Boot brauchen\" – 50 Jahre \"Der weiße Hai\"",
