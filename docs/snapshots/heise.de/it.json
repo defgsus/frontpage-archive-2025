@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-24T09:12:38",
+  "timestamp": "2025-06-24T10:11:41",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,20 @@
   ],
   "articles": [
     {
-      "title": "Wayland-Wechsel bei Kubuntu und Fork des Xservers Xorg",
-      "teaser": "Auch Kubuntu wagt den nächsten Schritt beim Technologiewechsel von Xorg auf Wayland. Ein zweifelhafter Fork versucht derweil, Xorg neues Leben einzuhauchen.",
+      "title": "KI Navigator #11: Fünf Stufen der KI-Nutzung in der Softwareentwicklung",
+      "teaser": "Entwicklerinnen und Entwickler setzen KI-Tools auf sehr unterschiedliche Weise ein. Wir haben fünf Stufen identifiziert.",
+      "url": "https://www.heise.de/hintergrund/KI-Navigator-11-Fuenf-Stufen-der-KI-Nutzung-in-der-Softwareentwicklung-10457094.html",
+      "image_title": "Holografischer Kompass vor blauem Hintergrund"
+    },
+    {
+      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+      "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-10450436.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "LinuxKubuntu wechselt auf Wayland, neuer Fork von Xorg erschienen",
+      "teaser": "Auch Kubuntu wagt den nächsten Schritt beim Technologiewechsel auf Wayland. Ein Fork versucht derweil, Xorg neues Leben einzuhauchen.",
       "url": "https://www.heise.de/news/Wayland-Wechsel-bei-Kubuntu-und-Fork-des-Xservers-Xorg-10457397.html",
       "image_title": "Kubuntu 25.04 Desktop"
     },
@@ -36,18 +48,6 @@
       "teaser": "Neben IBMs Datenspeicherlösung Storage Protect ist auch die Datenintegrationsplattform InfoSphere Information Server verwundbar.",
       "url": "https://www.heise.de/news/Update-In-IBM-Storage-Protect-eingebauter-Admin-Account-gefaehrdet-Systeme-10457089.html",
       "image_title": "Update-Bild mit Streifen"
-    },
-    {
-      "title": "Google Chrome: Unterstützung für Android 8 und 9 endet",
-      "teaser": "Google knappst dem Webbrowser Chrome die Unterstützung für die veralteten Android-Versionen 8 (Oreo) und 9 (Pie) ab.",
-      "url": "https://www.heise.de/news/Google-Chrome-Unterstuetzung-fuer-Android-8-und-9-endet-10457257.html",
-      "image_title": "App von Chrome in Nahaufnahme"
-    },
-    {
-      "title": "heise security Webinar: Sicheres Windows-Netz mit Tiering und PAWs",
-      "teaser": "Wer ein Active Directory betreibt, sollte Ebenen trennen und gesicherte Admin-Workstations nutzen. Dieses Webinar gibt praktische Hilfe bei der Umsetzung.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-Sicheres-Windows-Netz-mit-Tiering-und-PAWs-10456119.html",
-      "image_title": "Tiering-Illustration"
     },
     {
       "title": "HintergrundSecurity: Wie sich der Cyber Resilience Act auf Open-Source-Projekte auswirkt",
@@ -61,6 +61,23 @@
     {
       "title": "TestsKaufberatung: Wie man den passenden CPU-Kühler findet",
       "url": "https://www.heise.de/tests/Kaufberatung-Wie-man-den-passenden-CPU-Kuehler-findet-10388012.html"
+    },
+    {
+      "title": "Wie Unternehmen bei IT-Ausfällen rasch wieder handlungsfähig werden",
+      "teaser": "Softwarefehler und andere Probleme führen in der IT regelmäßig zu Ausfällen. Die Hardwareplattform trägt entscheidend dazu bei, die Downtime minimal zu halten.",
+      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-unternehmen-bei-it-ausfaellen-rasch-wieder-handlungsfaehig-werden/"
+    },
+    {
+      "title": "Google Chrome: Unterstützung für Android 8 und 9 endet",
+      "teaser": "Google knappst dem Webbrowser Chrome die Unterstützung für die veralteten Android-Versionen 8 (Oreo) und 9 (Pie) ab.",
+      "url": "https://www.heise.de/news/Google-Chrome-Unterstuetzung-fuer-Android-8-und-9-endet-10457257.html",
+      "image_title": "App von Chrome in Nahaufnahme"
+    },
+    {
+      "title": "heise security Webinar: Sicheres Windows-Netz mit Tiering und PAWs",
+      "teaser": "Wer ein Active Directory betreibt, sollte Ebenen trennen und gesicherte Admin-Workstations nutzen. Dieses Webinar gibt praktische Hilfe bei der Umsetzung.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Sicheres-Windows-Netz-mit-Tiering-und-PAWs-10456119.html",
+      "image_title": "Tiering-Illustration"
     },
     {
       "title": "Tipp: Safari am Mac mit leerer Seite starten",
@@ -131,24 +148,6 @@
       "teaser": "Nach Thüringen will auch Schleswig-Holstein die Open-Source-Videokonferenzlösung OpenTalk in den Landesbehörden ausrollen.",
       "url": "https://www.heise.de/news/Videokonferenz-Tool-Nach-Thueringen-setzt-Schleswig-Holstein-auf-OpenTalk-10424605.html",
       "image_title": "Videokonferenztool OpenTalk"
-    },
-    {
-      "title": "Kein WhatsApp mehr: US-Kongressmitarbeiter müssen den Messenger wechseln",
-      "teaser": "Zu intransparent, zu wenig Verschlüsselung und unsicher: Das Urteil der Cybersecurity-Abteilung fällt hart aus. Jetzt gilt ein WhatsApp-Verbot für Mitarbeiter.",
-      "url": "https://www.heise.de/news/WhatsApp-Verbot-US-Kongressmitarbeiter-muessen-den-Messenger-loeschen-10456589.html",
-      "image_title": "Finger zeigt auf Whatsapp-App auf dem Smartphone-Bildschirm"
-    },
-    {
-      "title": "Japanischer Supercomputer: FugakuNEXT mit neuen Fujitsu-Monaka-X-Prozessoren",
-      "teaser": "Das japanische RIKEN-Institut, Betreiber des Supercomputers Fugaku, gibt Technik für die nächste Generation FugakuNEXT bei Fujitsu in Auftrag.",
-      "url": "https://www.heise.de/news/Japanischer-Supercomputer-FugakuNEXT-mit-neuen-Fujitsu-Monaka-X-Prozessoren-10455935.html",
-      "image_title": "Fujitsu Monaka: ARM-CPU (auch) für Supercomputer"
-    },
-    {
-      "title": "\"Kryptokalypse\": EU verlangt quantensichere Verschlüsselung – teils bis 2030",
-      "teaser": "Alle Mitgliedstaaten sollen bis 2026 mit der Umstellung auf Post-Quanten-Kryptografie beginnen, fordern EU-Gremien. Bei kritischen Infrastrukturen sei es eilig.",
-      "url": "https://www.heise.de/news/Kryptokalypse-EU-verlangt-quantensichere-Verschluesselung-teils-bis-2030-10456551.html",
-      "image_title": "Flaggen vor der EU-Kommission"
     },
     {
       "title": "HintergrundMissing Link: \"Sie werden ein größeres Boot brauchen\" – 50 Jahre \"Der weiße Hai\"",
