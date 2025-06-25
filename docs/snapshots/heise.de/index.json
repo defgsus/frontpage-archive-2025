@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-25T11:09:37",
+  "timestamp": "2025-06-25T12:19:55",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,26 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Hands-on Migration von VMware zu Proxmox",
+      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-Migration-von-VMware-zu-Proxmox-10450446.html"
+    },
+    {
+      "title": "Premiere in Solothurn: Die Maker Faire kommt in die Schweiz",
+      "url": "https://www.heise.de/news/Premiere-in-Solothurn-Die-Maker-Faire-kommt-in-die-Schweiz-10459305.html"
+    },
+    {
+      "title": "Unerwünschte Apple-Werbung: Push-Mitteilung verärgert iPhone-Nutzer in den USA",
+      "url": "https://www.heise.de/news/Unerwuenschte-Apple-Werbung-Push-Mitteilung-veraergert-iPhone-Nutzer-in-den-USA-10459398.html"
+    },
+    {
+      "title": "Quantencomputing: Langfristig sicher dank QKD",
+      "url": "https://www.heise.de/news/Quantencomputing-Langfristig-sicher-dank-QKD-10459263.html"
+    },
+    {
+      "title": "Security: Wie sich der Cyber Resilience Act auf Open-Source-Projekte auswirkt",
+      "url": "https://www.heise.de/hintergrund/Security-Wie-sich-der-Cyber-Resilience-Act-auf-Open-Source-Projekte-auswirkt-10450910.html"
+    },
+    {
       "title": "Aktionstag der Polizei: 65 Durchsuchungen wegen Hass und Hetze im Netz",
       "url": "https://www.heise.de/news/Aktionstag-der-Polizei-65-Durchsuchungen-wegen-Hass-und-Hetze-im-Netz-10458932.html"
     },
@@ -44,26 +64,6 @@
     {
       "title": "Was die ersten Docks und Hubs mit Thunderbolt 5 am Mac können",
       "url": "https://www.heise.de/tests/Was-die-ersten-Docks-und-Hubs-mit-Thunderbolt-5-am-Mac-koennen-10449081.html"
-    },
-    {
-      "title": "Media Markt und Saturn: Zusammenführung der Kundenkonten",
-      "url": "https://www.heise.de/news/Media-Markt-und-Saturn-Zusammenfuehrung-der-Kundenkonten-10458916.html"
-    },
-    {
-      "title": "Admin-Attacken auf HPE OneView für VMware vCenter möglich",
-      "url": "https://www.heise.de/news/Admin-Attacken-auf-HPE-OneView-fuer-VMware-vCenter-moeglich-10458873.html"
-    },
-    {
-      "title": "Nach über zwanzig Jahren: Zeit für ein neues PNG",
-      "url": "https://www.heise.de/news/Nach-ueber-zwanzig-Jahren-Zeit-fuer-ein-neues-PNG-10458894.html"
-    },
-    {
-      "title": "Gericht hat keine Bedenken gegenüber Volksbegehren \"Berlin autofrei\"",
-      "url": "https://www.heise.de/news/Gericht-hat-keine-Bedenken-gegenueber-Volksbegehren-Berlin-autofrei-10458890.html"
-    },
-    {
-      "title": "EU-Automarkt: Wieder mehr E-Autos im Mai, Tesla und Verbrenner stürzen ab",
-      "url": "https://www.heise.de/news/EU-Automarkt-Wieder-mehr-E-Autos-im-Mai-Tesla-und-Verbrenner-stuerzen-ab-10458630.html"
     },
     {
       "title": "MicrosoftUpdate-Verlängerung für Windows 10 für Privatkunden konkretisiert",
@@ -184,6 +184,40 @@
       "image_title": "Apple Silicon SoC."
     },
     {
+      "title": "iX-Workshop: Hands-on Migration von VMware zu Proxmox",
+      "teaser": "Praktische Schritte, Fallstricke vermeiden: Lernen Sie, wie Sie Ihre VMware-Infrastruktur effizient und sicher auf Proxmox VE umstellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-Migration-von-VMware-zu-Proxmox-10450446.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
+    },
+    {
+      "title": "Premiere in Solothurn: Die Maker Faire kommt in die Schweiz",
+      "teaser": "Roboter tanzen, Käsebretter sprechen: Die Maker Faire Solothurn feiert vom 28. bis 29. Juni Premiere – das größte DIY-Festival der Schweiz!",
+      "url": "https://www.heise.de/news/Premiere-in-Solothurn-Die-Maker-Faire-kommt-in-die-Schweiz-10459305.html",
+      "image_title": "Ein Banner der Messe. Sie zeigt das Eventdatum 28. - 29. Juni an."
+    },
+    {
+      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
+      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Unerwünschte Apple-Werbung: Push-Mitteilung verärgert iPhone-Nutzer in den USA",
+      "teaser": "Apple nutzt seine Apps als Werbekanal für einen F1-Film. iPhone-Besitzer zeigen sich zusehends genervt von solchen Marketingaktionen.",
+      "url": "https://www.heise.de/news/Unerwuenschte-Apple-Werbung-Push-Mitteilung-veraergert-iPhone-Nutzer-in-den-USA-10459398.html",
+      "image_title": "Das Icon von Apple Wallet"
+    },
+    {
+      "title": "Quantencomputing: Langfristig sicher dank QKD",
+      "teaser": "TK-Anbieter und Unternehmen sorgen sich um die Quantensecurity. Der Orange Defender soll Netze schon jetzt absichern.",
+      "url": "https://www.heise.de/news/Quantencomputing-Langfristig-sicher-dank-QKD-10459263.html",
+      "image_title": "Hardware mit dem Schriftzug Toshiba"
+    },
+    {
+      "title": "Security: Wie sich der Cyber Resilience Act auf Open-Source-Projekte auswirkt",
+      "teaser": "Der Cyber Resilience Act der EU soll die Sicherheit von Produkten mit digitalen Anteilen stärken. Für Open-Source-Projekte sieht er zahlreiche Ausnahmen vor.",
+      "url": "https://www.heise.de/hintergrund/Security-Wie-sich-der-Cyber-Resilience-Act-auf-Open-Source-Projekte-auswirkt-10450910.html"
+    },
+    {
       "title": "Aktionstag der Polizei: 65 Durchsuchungen wegen Hass und Hetze im Netz",
       "teaser": "Beim 12. Aktionstag zur Bekämpfung von strafbaren Hassbeiträgen im Internet haben Strafverfolgungsbehörden in allen Bundesländern Wohnungen durchsucht.",
       "url": "https://www.heise.de/news/Aktionstag-der-Polizei-65-Durchsuchungen-wegen-Hass-und-Hetze-im-Netz-10458932.html"
@@ -195,45 +229,10 @@
       "image_title": "Blick aus orangefarbenem Kajak auf smaragdgrünes Wasser vor einer von Sonnenlicht erhellten Höhlenwand mit hängenden Lianen."
     },
     {
-      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
-      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Für fairen Wettbewerb – Google übergibt KI-Agenten-Protokoll an Linux Foundation",
       "teaser": "Die Linux Foundation hat das Agent-2-Agent-Projekt (A2A) auf GitHub gestartet. Das von Google initiierte Open-Source-Protokoll vernetzt KI-Agenten miteinander.",
       "url": "https://www.heise.de/news/Fuer-fairen-Wettbewerb-Google-uebergibt-KI-Agenten-Protokoll-an-Linux-Foundation-10458862.html",
       "image_title": "Visual,Contact.,Two,Opponents,Facing,Each,Other.,People,Talk,Face"
-    },
-    {
-      "title": "data2day 2025: Praxiswissen für Data Teams – Von Architektur bis Agentic AI",
-      "teaser": "Von Datenarchitekturen und -Pipelines über Datenqualität und Governance bis zu Agentic AI und Data Privacy sowie Praxiseinblicken reichen die Konferenzthemen.",
-      "url": "https://www.heise.de/news/data2day-2025-Praxiswissen-fuer-Data-Teams-Von-Architektur-bis-Agentic-AI-10457797.html",
-      "image_title": "data2day 2025: Vorträge zur zwölften Ausgabe der Data-Science-Konferenz gesucht"
-    },
-    {
-      "title": "Was die ersten Docks und Hubs mit Thunderbolt 5 am Mac können",
-      "teaser": "Die neue Version von Thunderbolt bringt doppeltes Tempo und mehr. Unser Test von drei Produkten zeigt, wie viel davon in der Praxis am Mac übrig bleibt.",
-      "url": "https://www.heise.de/tests/Was-die-ersten-Docks-und-Hubs-mit-Thunderbolt-5-am-Mac-koennen-10449081.html",
-      "image_title": ", Kensington, Bearbeitung Mac & i"
-    },
-    {
-      "title": "Media Markt und Saturn: Zusammenführung der Kundenkonten",
-      "teaser": "Die Marken Media Markt und Saturn von Ceconomy pflegen je eigene Kundenkonten. Die sollen nun zusammengelegt werden.",
-      "url": "https://www.heise.de/news/Media-Markt-und-Saturn-Zusammenfuehrung-der-Kundenkonten-10458916.html",
-      "image_title": "Media-Markt-Schilder vor einem Media Markt"
-    },
-    {
-      "title": "AlertAdmin-Attacken auf HPE OneView für VMware vCenter möglich",
-      "teaser": "Angreifer können an einer Sicherheitslücke in HPE OneView für VMware vCenter ansetzen. Eine dagegen gerüstete Version ist verfügbar.",
-      "url": "https://www.heise.de/news/Admin-Attacken-auf-HPE-OneView-fuer-VMware-vCenter-moeglich-10458873.html",
-      "image_title": "Update-Schild"
-    },
-    {
-      "title": "Gericht hat keine Bedenken gegenüber Volksbegehren \"Berlin autofrei\"",
-      "teaser": "Nach dem Willen einer Bürgerinitiative sollen innerhalb des S-Bahn-Rings kaum noch Autos fahren. Ein Volksentscheid darf die Pläne nun unterstützen.",
-      "url": "https://www.heise.de/news/Gericht-hat-keine-Bedenken-gegenueber-Volksbegehren-Berlin-autofrei-10458890.html",
-      "image_title": "Kammergericht Berlin"
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -303,6 +302,36 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "data2day 2025: Praxiswissen für Data Teams – Von Architektur bis Agentic AI",
+      "teaser": "Von Datenarchitekturen und -Pipelines über Datenqualität und Governance bis zu Agentic AI und Data Privacy sowie Praxiseinblicken reichen die Konferenzthemen.",
+      "url": "https://www.heise.de/news/data2day-2025-Praxiswissen-fuer-Data-Teams-Von-Architektur-bis-Agentic-AI-10457797.html",
+      "image_title": "data2day 2025: Vorträge zur zwölften Ausgabe der Data-Science-Konferenz gesucht"
+    },
+    {
+      "title": "Was die ersten Docks und Hubs mit Thunderbolt 5 am Mac können",
+      "teaser": "Die neue Version von Thunderbolt bringt doppeltes Tempo und mehr. Unser Test von drei Produkten zeigt, wie viel davon in der Praxis am Mac übrig bleibt.",
+      "url": "https://www.heise.de/tests/Was-die-ersten-Docks-und-Hubs-mit-Thunderbolt-5-am-Mac-koennen-10449081.html",
+      "image_title": ", Kensington, Bearbeitung Mac & i"
+    },
+    {
+      "title": "Media Markt und Saturn: Zusammenführung der Kundenkonten",
+      "teaser": "Die Marken Media Markt und Saturn von Ceconomy pflegen je eigene Kundenkonten. Die sollen nun zusammengelegt werden.",
+      "url": "https://www.heise.de/news/Media-Markt-und-Saturn-Zusammenfuehrung-der-Kundenkonten-10458916.html",
+      "image_title": "Media-Markt-Schilder vor einem Media Markt"
+    },
+    {
+      "title": "AlertAdmin-Attacken auf HPE OneView für VMware vCenter möglich",
+      "teaser": "Angreifer können an einer Sicherheitslücke in HPE OneView für VMware vCenter ansetzen. Eine dagegen gerüstete Version ist verfügbar.",
+      "url": "https://www.heise.de/news/Admin-Attacken-auf-HPE-OneView-fuer-VMware-vCenter-moeglich-10458873.html",
+      "image_title": "Update-Schild"
+    },
+    {
+      "title": "Gericht hat keine Bedenken gegenüber Volksbegehren \"Berlin autofrei\"",
+      "teaser": "Nach dem Willen einer Bürgerinitiative sollen innerhalb des S-Bahn-Rings kaum noch Autos fahren. Ein Volksentscheid darf die Pläne nun unterstützen.",
+      "url": "https://www.heise.de/news/Gericht-hat-keine-Bedenken-gegenueber-Volksbegehren-Berlin-autofrei-10458890.html",
+      "image_title": "Kammergericht Berlin"
+    },
+    {
       "title": "Sonicwall: Angreifer kopieren VPN-Daten mittels Fake-NetExtender-App",
       "teaser": "Derzeit ist eine von Cyberkriminellen manipulierte Ausgabe der VPN-Anwendung NetExtender in Umlauf.",
       "url": "https://www.heise.de/news/Sonicwall-warnt-vor-mit-Schadcode-verseuchter-Fake-NetExtender-App-10458782.html"
@@ -346,6 +375,11 @@
       "image_title": "Mein Scrum ist kaputt, Folge 113"
     },
     {
+      "title": "Kernzahl, Taktfrequenz, Cache: Was bei der Auswahl der Server-CPU zählt",
+      "teaser": "Bei der Diskussion um Server-CPUs steht häufig die Anzahl der Rechenkerne im Vordergrund. Das ist jedoch nur ein Aspekt, der bei der Auswahl zu berücksichtigen ist.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/kernzahl-taktfrequenz-cache-was-bei-der-auswahl-einer-server-cpu-zaehlt-4928/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
       "teaser": "SSO und Multifaktor-Authentifizierung - Mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
       "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-10450514.html",
@@ -373,11 +407,6 @@
       "teaser": "Monster und CareerBuilder wurden vor 30 Jahren gegründet, zuletzt hatten sie mit starker Konkurrenz zu kämpfen und fusionierten. Nun folgt die Insolvenz.",
       "url": "https://www.heise.de/news/Portale-fuer-die-Stellensuche-CareerBuilder-Monster-meldet-Insolvenz-an-10458523.html",
       "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox"
-    },
-    {
-      "title": "Migration auf Windows 11: Herausforderungen meistern, KI-Potenzial nutzen",
-      "teaser": "Viele Unternehmen zögern mit dem Umstieg auf Windows 11, obwohl der Support für Windows 10 bald endet. Warum sich die Migration jedoch lohnt!",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-sie-beim-umstieg-auf-windows-11-die-huerden-meistern-und-das-ki-potenzial-nutzen/?source=hbsadersatz"
     },
     {
       "title": "Mittwoch: Anthropic mit Copyright-Teilerfolg, Google Earth bietet Rückblicke",
@@ -408,34 +437,6 @@
       "teaser": "Im EU-Parlament sprach Gates über Innovationen für globale Gesundheit und Bildung – unterstützt von den 200 Milliarden Dollar, die er spenden will.",
       "url": "https://www.heise.de/news/Bill-Gates-im-EU-Parlament-Innovationen-gegen-globaler-Gesundheitskrise-10458268.html",
       "image_title": "Bill Gates im EU-Parlament"
-    },
-    {
-      "title": "Kupfer-Glas-Migration: Verbraucherschützer fordern transparente Abschaltpläne",
-      "teaser": "Kunden sollen frühzeitig über Pläne zu DSL-Abschaltung informiert und zu Umstellung auf Glasfaser angeregt werden, verlangen die Verbraucherzentralen.",
-      "url": "https://www.heise.de/news/Kupfer-Glas-Migration-Verbraucherschuetzer-fordern-transparente-Abschaltplaene-10458315.html",
-      "image_title": "Baustelle eines Neubaugebiets in Barsinghausen bei Hannover, im Vordergrund ein kleiner Bagger und eine Rolle Glasfaserkabel."
-    },
-    {
-      "title": "Top 10: Das beste USB-C-Ladegerät ab 65 Watt – Testsieger mit 100 Watt für 22 €",
-      "teaser": "Netzteile, die Handys, aber auch Tablets, Laptops und Macbooks per USB-C laden, bekommt man schon für unter 20 Euro. Wir zeigen die besten Ladegeräte ab 65 Watt.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-usb-c-ladegeraet-ab-65-watt-testsieger-mit-100-watt-fuer-22-euro/7cpzjbb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Maker Bits: Software, Hardware und Infos für Maker",
-      "teaser": "Oft findet man bei der Recherche auch Beifang in Form von kleinen Tools, neuer Hardware und spannenden neuen oder alten Themen. Hier eine kleine Auswahl.",
-      "url": "https://www.heise.de/news/Maker-Bits-Software-Hardware-und-Infos-fuer-Maker-10458197.html"
-    },
-    {
-      "title": "EU erzwingt NFC-Öffnung für Payments: Tschüss Apple Pay?",
-      "teaser": "iPhone ans Terminal und schwupp ist bezahlt – das ging bisher nur mit Apple Pay. Jetzt dürfen PayPal & Co. die NFC-Schnittstelle nutzen. Was das ändert.",
-      "url": "https://www.heise.de/ratgeber/EU-erzwingt-NFC-Oeffnung-fuer-Payments-Tschuess-Apple-Pay-10451432.html",
-      "image_title": ", Fizkes, stock.adobe.com"
-    },
-    {
-      "title": "EU-Fahrplan für \"Entschlüsselung\" und Vorratsdatenspeicherung steht",
-      "teaser": "2026 will die EU über den Zugang von Ermittlern zu Daten und verschlüsselter Kommunikation entscheiden. Ein Zeitplan liegt jetzt vor.",
-      "url": "https://www.heise.de/news/EU-Fahrplan-fuer-Entschluesselung-und-Vorratsdatenspeicherung-steht-10458124.html",
-      "image_title": "Hand auf Computertatastatur in dunklem Zimmer"
     },
     {
       "title": "Polizei-Handys seit Cyberangriff nicht nutzbar",
@@ -513,6 +514,11 @@
       "image_title": "Unbeschriftete Tasten einer Tastatur; eine zeigt die Flagge der USA, die andere der Volksrepublik China, die übrigens sind einfärbig hellgrau"
     },
     {
+      "title": "EU-Fahrplan für \"Entschlüsselung\" und Vorratsdatenspeicherung steht",
+      "url": "https://www.heise.de/news/EU-Fahrplan-fuer-Entschluesselung-und-Vorratsdatenspeicherung-steht-10458124.html",
+      "image_title": "Hand auf Computertatastatur in dunklem Zimmer"
+    },
+    {
       "title": "Pornhub und Co. nach Gerichtsentscheidung zurück in Frankreich",
       "url": "https://www.heise.de/news/Jugendschutz-Pornhub-YouPorn-und-Redtube-sind-in-Frankreich-wieder-online-10454949.html",
       "image_title": "Blick auf Pornhub"
@@ -521,11 +527,6 @@
       "title": "Project Kuiper: Amazon startet zweite Serie von Internetsatelliten",
       "url": "https://www.heise.de/news/Project-Kuiper-Amazon-startet-zweite-Serie-von-Internetsatelliten-10456812.html",
       "image_title": "Viele Satelliten"
-    },
-    {
-      "title": "Verwaltungsgericht München: Pornhub und YouPorn bleiben zunächst gesperrt",
-      "url": "https://www.heise.de/news/Verwaltungsgericht-Muenchen-Pornhub-und-YouPorn-bleiben-zunaechst-gesperrt-10436572.html",
-      "image_title": "Blick auf Pornhub"
     },
     {
       "title": "Dienstag: Amazon schickt weitere Satelliten ins All, Apple streitet mit der EU",
@@ -609,25 +610,20 @@
       "url": "https://www.heise.de/en/news/IBM-QRadar-SIEM-Autoupdate-files-can-be-infected-with-malicious-code-10455645.html"
     },
     {
-      "title": "Elektroautos: Wie Opel in Rüsselsheim Batterien repariert",
-      "teaser": "Eigentlich sollte der Akku eines E-Autos ein Fahrzeugleben lang halten. Kommt es vorher zu einem Defekt, bleibt nur die Reparatur in einem Refurbishment Center.",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-Wie-Opel-in-Ruesselsheim-Batterien-repariert-10388538.html"
-    },
-    {
-      "title": "Vier superflache CPU-Kühler für Mini-ITX-Systeme im Vergleich",
-      "teaser": "In kleine Barebone-PCs und Mini-ITX-Rechner passen nur Kühler mit geringer Bauhöhe. Vier leise, leistungsfähige Modelle ab 24 Euro fordern Noctuas NH-L9 heraus.",
-      "url": "https://www.heise.de/tests/Vier-superflache-CPU-Kuehler-fuer-Mini-ITX-Systeme-im-Vergleich-10378032.html"
-    },
-    {
       "title": "Kompakte E-Ink-Tablets im Test: Supernote A6X2 vs. Boox Go 7",
       "teaser": "Die stiftfähigen E-Ink-Tablets Boox Go 7 und Supernote A6X2 ähneln einander und sind doch grundverschieden. Der Test klärt, welches das richtige für Sie ist.",
       "url": "https://www.heise.de/tests/Kompakte-E-Ink-Tablets-im-Test-Supernote-A6X2-vs-Boox-Go-7-10381519.html"
     },
     {
-      "title": "PayPal und andere Banken nutzenTschüss Apple Pay? Mit dem iPhone bezahlen",
-      "teaser": "iPhone ans Terminal und schwupp ist bezahlt – das ging bisher nur mit Apple Pay. Jetzt dürfen PayPal & Co. die NFC-Schnittstelle nutzen. Was das ändert.",
-      "url": "https://www.heise.de/ratgeber/EU-erzwingt-NFC-Oeffnung-fuer-Payments-Tschuess-Apple-Pay-10451432.html",
-      "image_title": ", Fizkes, stock.adobe.com"
+      "title": "Bosch Performance Line PXNeuer Motor für Trekking-E-Bikes",
+      "teaser": "Auf der Eurobike stellt Bosch seinen neuen Antrieb für Trekking-E-Bikes vor. Er schiebt stärker an als die Motoren vieler Mountainbikes.",
+      "url": "https://www.heise.de/news/Bosch-Performance-Line-PX-Neuer-Motor-fuer-Trekking-E-Bikes-10458059.html",
+      "image_title": "Bosch Performance Line PX"
+    },
+    {
+      "title": "Open-Source-HardwareOffener Bausatz für Redox-Flow-Batterien",
+      "teaser": "Mit der Flow Battery Research Collective wollen Forscher den Zugang zu Redox-Flox-Akkus erleichtern und zum Nachbau anregen.",
+      "url": "https://www.heise.de/news/Open-Source-Hardware-Offener-Bausatz-fuer-Redox-Flow-Batterien-10454562.html"
     },
     {
       "title": "Strom im Urlaub10 Adapterstecker mit USB C für iPhone, iPad und Mac im Test",
@@ -641,20 +637,25 @@
       "url": "https://www.heise.de/tests/Apples-Docker-Alternative-Container-ausprobiert-10440947.html"
     },
     {
-      "title": "Kugelbahnsystem3D-Druck belebt die GraviTrax-Welt",
-      "teaser": "Die Community treibt den Erfolg des GraviTrax-Kugelbahnsystems voran, indem sie das System mit 3D-Druck-Ergänzungen bereichert.",
-      "url": "https://www.heise.de/news/3D-Druck-belebt-die-Gravitrax-Welt-10447978.html"
-    },
-    {
-      "title": "Bastelprojekt: Wie man Gravitrax über Python steuert",
-      "teaser": "Python in Verbindung mit der Bluetooth-Anbindung an die GraviTrax-Welt reizt alle Möglichkeiten des Systems so richtig aus und sorgt für kreative Spaßmomente.",
-      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-man-Gravitrax-ueber-Python-steuert-10355196.html",
+      "title": "Mit besonderen FunktionenZwei externe Webcams für den Mac im Test",
+      "teaser": "Aktuelle Macs mit Kamera unterstützen neben einem Folgemodus auch die Schreibtischansicht. Lohnen sich externe Webcams trotzdem? Wir haben zwei Geräte getestet.",
+      "url": "https://www.heise.de/tests/Zwei-externe-Webcams-fuer-den-Mac-im-Test-mit-besonderen-Funktionen-10422964.html",
       "image_title": ","
     },
     {
-      "title": "Im Vergleich: Steckplatinen für Maker erklärt",
-      "teaser": "Steckplatinen erlauben ohne Löten den Aufbau von Schaltungen. Vielleicht haben Sie schon die Erfahrung gemacht, dass einige besser in Haptik und Funktion sind.",
-      "url": "https://www.heise.de/ratgeber/Im-Vergleich-Steckplatinen-fuer-Maker-erklaert-10384724.html"
+      "title": "Maker Bits: Software, Hardware und Infos für Maker",
+      "teaser": "Oft findet man bei der Recherche auch Beifang in Form von kleinen Tools, neuer Hardware und spannenden neuen oder alten Themen. Hier eine kleine Auswahl.",
+      "url": "https://www.heise.de/news/Maker-Bits-Software-Hardware-und-Infos-fuer-Maker-10458197.html"
+    },
+    {
+      "title": "Roboter mit dem Raspi steuern: Wie man einen Motor über Motorshield ansteuert",
+      "teaser": "Man beschäftigt sich mit einer Bandbreite von Techniken, bis der Roboter sehen, hören und navigieren kann. Wir zeigen, welche Teile man dafür braucht.",
+      "url": "https://www.heise.de/ratgeber/Roboter-mit-dem-Raspi-steuern-Wie-man-einen-Motor-ueber-Motorshield-ansteuert-10394867.html"
+    },
+    {
+      "title": "Kugelbahnsystem3D-Druck belebt die GraviTrax-Welt",
+      "teaser": "Die Community treibt den Erfolg des GraviTrax-Kugelbahnsystems voran, indem sie das System mit 3D-Druck-Ergänzungen bereichert.",
+      "url": "https://www.heise.de/news/3D-Druck-belebt-die-Gravitrax-Welt-10447978.html"
     },
     {
       "title": "Podcast: Click Boom Flash # 41 Fetisch-Fotografie: Respekt und Vertrauen",
@@ -752,21 +753,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Durchbruch in der Covid-Forschung: Wenn Viren Zellen täuschen",
-      "teaser": "Israelische Forscher haben einen rätselhaften Covid-Mechanismus entschlüsselt. Ein virales Protein springt auf gesunde Zellen über. Doch es gibt ein Gegenmittel.",
-      "url": "https://www.heise.de/tp/features/Durchbruch-in-der-Covid-Forschung-Wenn-Viren-Zellen-taeuschen-10458230.html"
+      "title": "Demokratie vs. Dollarmacht: Gates' wachsender Einfluss auf die Weltgesundheit",
+      "teaser": "Bill Gates wirbt in EU für mehr private Einflussnahme in der Gesundheitspolitik. Seine Stiftung ist größter WHO-Geldgeber. Wem nutzt das?",
+      "url": "https://www.heise.de/tp/features/Demokratie-vs-Dollarmacht-Gates-wachsender-Einfluss-auf-die-Weltgesundheit-10458436.html",
+      "image_title": "Bill Gates, Oktober 2023, in Brüssel"
     },
     {
-      "title": "Fructose: Der Entzündungs-Booster in unserer Nahrung?",
-      "teaser": "Fructose steckt in Obst, aber auch in vielen Fertigprodukten. Zu viel davon hat negative Effekte auf unser Immunsystem. Was macht Fructose so gefährlich?",
-      "url": "https://www.heise.de/tp/features/Fructose-Der-Entzuendungs-Booster-in-unserer-Nahrung-10458866.html",
-      "image_title": "Etliche Würfel Haushaltszucker, der zum Teil aus Fructose besteht."
+      "title": "Warum die Rheinmetall-Aktie trotz Nato-Beschluss fällt",
+      "teaser": "Die Aktie des Rüstungskonzerns Rheinmetall rutscht weiter ab. Auch die neuen Nato-Ausgabenziele können den Kurs nicht stützen. Die Gründe sind vielfältig.",
+      "url": "https://www.heise.de/tp/features/Warum-die-Rheinmetall-Aktie-trotz-Nato-Beschluss-faellt-10456383.html",
+      "image_title": "Ein Panzer vor einem Gebäude"
     },
     {
-      "title": "Waffenstillstand im Iran-Krieg: Frieden oder Finte?",
-      "teaser": "Der Waffenstillstand lässt viele Fragen offen. Welche nächsten Schritte unternimmt Israel? Wird das iranische Regime fallen? Eine Momentaufnahme.",
-      "url": "https://www.heise.de/tp/features/Waffenstillstand-im-Iran-Krieg-Frieden-oder-Finte-10458828.html",
-      "image_title": "Freiheitsturm in Teheran"
+      "title": "\"Europa soll zahlen\": Wie Nato-Chef Rutte Donald Trump umschmeichelt",
+      "teaser": "Nato-Chef Rutte lobt Trump in den höchsten Tönen. Europa müsse für Militärausgaben stärker zur Kasse geben werden. Doch nicht alle EU-Länder ziehen mit.",
+      "url": "https://www.heise.de/tp/features/Europa-soll-zahlen-Wie-Nato-Chef-Rutte-Donald-Trump-umschmeichelt-10459037.html",
+      "image_title": "Ein Mann in Anzug vor Nato Logo"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
