@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-25T09:13:01",
+  "timestamp": "2025-06-25T10:11:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
+      "title": "KinderschutzMicrosoft bestätigt Google-Chrome-Blockade",
+      "teaser": "Zahlreiche Windows-Nutzer beklagen, dass der Webbrowser Chrome beim Start wieder geschlossen wird. Ursache ist der Kinderschutz.",
+      "url": "https://www.heise.de/news/Microsoft-bestaetigt-Google-Chrome-Blockade-10458636.html",
+      "image_title": "Finger tippt auf Chrome-Kachel auf Windows-Gerät"
+    },
+    {
       "title": "MicrosoftUpdate-Verlängerung für Windows 10 für Privatkunden konkretisiert",
       "teaser": "Microsoft hatte Support-Verlängerung für Windows-10-Privatkunden angekündigt. Jetzt gibt es Infos dazu – es geht sogar kostenlos.",
       "url": "https://www.heise.de/news/Microsoft-Update-Verlaengerung-fuer-Windows-10-fuer-Privatkunden-konkretisiert-10458519.html",
       "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
-      "title": "AlertKanboardSicherheitslücke ermöglicht Kontoübernahme",
-      "teaser": "In dem Open-Source-Kanban Kanboard können Angreifer Links fälschen, die zur Kontoübernahme führen. Ein Update korrigiert das.",
-      "url": "https://www.heise.de/news/Kanboard-Sicherheitsluecke-ermoeglicht-Kontouebernahme-10457116.html",
-      "image_title": "Achtung-Schild vor Kanboard-Kanban-Demo"
-    },
-    {
-      "title": "AlertUpdate: In IBM Storage Protect eingebauter Admin-Account gefährdet Systeme",
-      "url": "https://www.heise.de/news/Update-In-IBM-Storage-Protect-eingebauter-Admin-Account-gefaehrdet-Systeme-10457089.html",
-      "image_title": "Update-Bild mit Streifen"
+      "title": "AlertAdmin-Attacken auf HPE OneView für VMware vCenter möglich",
+      "url": "https://www.heise.de/news/Admin-Attacken-auf-HPE-OneView-fuer-VMware-vCenter-moeglich-10458873.html",
+      "image_title": "Update-Schild"
     },
     {
       "title": "Auslegungssache 136: Bayerischer Datenschutz im Fokus",
@@ -71,15 +71,15 @@
       "url": "https://shop.heise.de/microsoft-entra-dangerous-defaults?wt_mc=intern.academy.security.web_entradd.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Sonicwall warnt vor mit Schadcode verseuchter Fake-NetExtender-App",
-      "teaser": "Derzeit ist eine von Cyberkriminellen manipulierte Ausgabe der VPN-Anwendung NetExtender in Umlauf.",
-      "url": "https://www.heise.de/news/Sonicwall-warnt-vor-mit-Schadcode-verseuchter-Fake-NetExtender-App-10458782.html"
+      "title": "AlertAdmin-Attacken auf HPE OneView für VMware vCenter möglich",
+      "teaser": "Angreifer können an einer Sicherheitslücke in HPE OneView für VMware vCenter ansetzen. Eine dagegen gerüstete Version ist verfügbar.",
+      "url": "https://www.heise.de/news/Admin-Attacken-auf-HPE-OneView-fuer-VMware-vCenter-moeglich-10458873.html",
+      "image_title": "Update-Schild"
     },
     {
-      "title": "Microsoft bestätigt Google-Chrome-Blockade",
-      "teaser": "Zahlreiche Windows-Nutzer beklagen, dass der Webbrowser Chrome beim Start wieder geschlossen wird. Ursache ist der Kinderschutz.",
-      "url": "https://www.heise.de/news/Microsoft-bestaetigt-Google-Chrome-Blockade-10458636.html",
-      "image_title": "Finger tippt auf Chrome-Kachel auf Windows-Gerät"
+      "title": "Sonicwall: Angreifer kopieren VPN-Daten mittels Fake-NetExtender-App",
+      "teaser": "Derzeit ist eine von Cyberkriminellen manipulierte Ausgabe der VPN-Anwendung NetExtender in Umlauf.",
+      "url": "https://www.heise.de/news/Sonicwall-warnt-vor-mit-Schadcode-verseuchter-Fake-NetExtender-App-10458782.html"
     },
     {
       "title": "Kanadischer Provider: Ungepatchte Cisco-Sicherheitslücke als Einfallstor",
@@ -110,6 +110,12 @@
       "teaser": "Wer ein Active Directory betreibt, sollte Ebenen trennen und gesicherte Admin-Workstations nutzen. Dieses Webinar gibt praktische Hilfe bei der Umsetzung.",
       "url": "https://www.heise.de/news/heise-security-Webinar-Sicheres-Windows-Netz-mit-Tiering-und-PAWs-10456119.html",
       "image_title": "Tiering-Illustration"
+    },
+    {
+      "title": "AlertKanboard: Sicherheitslücke ermöglicht Kontoübernahme",
+      "teaser": "In dem Open-Source-Kanban Kanboard können Angreifer Links fälschen, die zur Kontoübernahme führen. Ein Update korrigiert das.",
+      "url": "https://www.heise.de/news/Kanboard-Sicherheitsluecke-ermoeglicht-Kontouebernahme-10457116.html",
+      "image_title": "Achtung-Schild vor Kanboard-Kanban-Demo"
     },
     {
       "title": "Polizei-Handys seit Cyberangriff nicht nutzbar",
@@ -157,12 +163,6 @@
       "teaser": "Standardmäßig schiebt Microsoft Legacy-Protokollen und Drittanbietern jetzt einen Riegel vor: Das erhöht die M365-Sicherheit, doch Nutzer müssen sofort handeln.",
       "url": "https://www.heise.de/news/Alte-Apps-und-Drittanbieter-blockiert-Massive-Folgen-der-Microsoft-365-Security-10453940.html",
       "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
-    },
-    {
-      "title": "AlertWordPress: Angriffe auf Sicherheitslücke in Theme \"Motors\"",
-      "teaser": "Eine Rechteausweitungs-Schwachstelle im \"Motors\"-Theme für WordPress nutzen Angreifer aktiv aus, um Instanzen zu übernehmen.",
-      "url": "https://www.heise.de/news/WordPress-Angriffe-auf-Sicherheitsluecke-in-Theme-Motors-10453790.html",
-      "image_title": "Woman,Creating,Her,Own,Website,On,Computer, Wordpress, CMS, Bildschirm, Webseite,"
     },
     {
       "title": "Workshop | 9. – 11.7.2025Angriffsziel lokales Active Directory: Effiziente Absicherung",
