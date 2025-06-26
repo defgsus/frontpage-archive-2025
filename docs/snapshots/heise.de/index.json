@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-26T19:07:56",
+  "timestamp": "2025-06-26T20:11:20",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "USA: Polizisten haben Kennzeichen-Scanner missbraucht",
+      "url": "https://www.heise.de/news/USA-Polizisten-haben-Kennzeichen-Scanner-missbraucht-10461676.html"
+    },
     {
       "title": "Top 10: Der beste günstige E-Scooter im Test – Preis-Leistungs-Sieger für 189 €",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-guenstige-e-scooter-im-test-preis-leistungs-sieger-fuer-189-euro/wzwnpn9"
@@ -60,10 +64,6 @@
     {
       "title": "Kleiner, später, nicht mehr \"Made in USA\": T1 Phone nach unten korrigiert",
       "url": "https://www.heise.de/news/T1-Phone-Trump-Organization-wirbt-nicht-mehr-mit-Made-in-USA-10461274.html"
-    },
-    {
-      "title": "Chatbot für Schulen: Bremen macht den Anfang",
-      "url": "https://www.heise.de/news/Chatbot-fuer-Schulen-Bremen-macht-den-Anfang-10461352.html"
     },
     {
       "title": "Zero-DayBluetooth-Lücke macht Millionen Kopfhörer zu Abhörstationen",
@@ -185,20 +185,26 @@
       "image_title": "Weckerfunktion in iOS 26"
     },
     {
+      "title": "USA: Polizisten haben Kennzeichen-Scanner missbraucht",
+      "teaser": "Flock, Betreiber von Kennzeichen-Scanner in tausenden US-Kommunen, blockiert in 3 Staaten Zugriff auf seine Kameras von außerhalb. Es gab zu viel Missbrauch.",
+      "url": "https://www.heise.de/news/USA-Polizisten-haben-Kennzeichen-Scanner-missbraucht-10461676.html",
+      "image_title": "3 Überwachungskameras an einer Ziegelwand; aiuf der mittleren Kamera sitzt eine Taube"
+    },
+    {
       "title": "Top 10: Der beste günstige E-Scooter im Test – Preis-Leistungs-Sieger für 189 €",
       "teaser": "E-Scooter müssen nicht teuer sein, bereits ab 189 € gibt es brauchbare elektrische Tretroller. Wir zeigen die 10 besten günstigen E-Scooter aus unseren Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-guenstige-e-scooter-im-test-preis-leistungs-sieger-fuer-189-euro/wzwnpn9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
+      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Budapest Pride: Druck auf Brüssel im Streit über Gesichtserkennung wächst",
       "teaser": "Bürgerrechtsorganisationen fordern die EU-Kommission deutlich auf, gegen den Einsatz von Gesichtserkennung zur Identifizierung von Pride-Teilnehmern vorzugehen.",
       "url": "https://www.heise.de/news/Budapest-Pride-Druck-auf-Bruessel-im-Streit-ueber-Gesichtserkennung-waechst-10461598.html",
       "image_title": "Eine Hand formt ein Herz vor einer Regenbogenflagge"
-    },
-    {
-      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
-      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Kein Verbot vorgesehen: Creative Commons arbeitet an Lizenzen fürs KI-Training",
@@ -227,12 +233,6 @@
       "title": "Breitband: Provider liefern mehr Leistung – oft aber noch nicht die bezahlte",
       "teaser": "Der 9. Bericht der Bundesnetzagentur zur Breitbandmessung bringt gemischte Ergebnisse. Im Festnetz sieht es weiter teils recht düster aus, 5G kommt aber voran.",
       "url": "https://www.heise.de/news/Breitband-Provider-liefern-mehr-Leistung-oft-aber-noch-nicht-die-bezahlte-10461470.html"
-    },
-    {
-      "title": "Chatbot für Schulen: Bremen macht den Anfang",
-      "teaser": "Der KI-Chatbot Telli soll später einmal Schulen bundesweit zur Verfügung stehen. Als erstes Bundesland geht jetzt Bremen an den Start.",
-      "url": "https://www.heise.de/news/Chatbot-fuer-Schulen-Bremen-macht-den-Anfang-10461352.html",
-      "image_title": "Ein Hand tippt auf einem Smartphone, darüber gelegt die Ansicht eines Chats mit einem Chatbot"
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -300,6 +300,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Chatbot für Schulen: Bremen macht den Anfang",
+      "teaser": "Der KI-Chatbot Telli soll später einmal Schulen bundesweit zur Verfügung stehen. Als erstes Bundesland geht jetzt Bremen an den Start.",
+      "url": "https://www.heise.de/news/Chatbot-fuer-Schulen-Bremen-macht-den-Anfang-10461352.html",
+      "image_title": "Ein Hand tippt auf einem Smartphone, darüber gelegt die Ansicht eines Chats mit einem Chatbot"
     },
     {
       "title": "Sony testet Beta-Version zur Bildauthentifizierung",
@@ -370,15 +376,15 @@
       "image_title": "Microsoft 365 Copilot für IT-Administratoren"
     },
     {
+      "title": "IT-Ausfälle: So werden Unternehmen schnell wieder handlungsfähig",
+      "teaser": "Softwarefehler und andere Probleme führen in der IT regelmäßig zu Ausfällen. Die Wahl der richtigen Hardwareplattform trägt entscheidend dazu bei, die Downtime minimal zu halten.",
+      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-unternehmen-bei-it-ausfaellen-rasch-wieder-handlungsfaehig-werden/?source=hbsadersatz"
+    },
+    {
       "title": "watchOS 26: Beta 2 lässt Hermès-Apple-Watch crashen",
       "teaser": "Nutzer der Apple Watch Hermès berichten über Probleme mit der jüngsten watchOS-Beta. Apple hat eine klare Empfehlung.",
       "url": "https://www.heise.de/news/watchOS-26-Beta-2-laesst-Hermes-Apple-Watch-crashen-10460072.html",
       "image_title": "Apple Watch Hermès"
-    },
-    {
-      "title": "Resilienz in wirtschaftlich unsicheren Zeiten: Wie IT-Umgebungen zukunftssicher werden",
-      "teaser": "Zölle, Embargos, geopolitische Spannungen – Unternehmen haben derzeit mit vielen Schwierigkeiten zu kämpfen. Eine resiliente IT ist unerlässlich, um gut durch die Krise zu kommen.",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/cloud/resilienz-in-wirtschaftlich-unsicheren-zeiten-wie-it-umgebungen-zukunftssicher-werden/?source=hbsadersatz"
     },
     {
       "title": "AlertSicherheitsupdate: IBM WebSphere Application Server mit Schadcode angreifbar",
@@ -430,11 +436,6 @@
       "teaser": "Lange funktionierte Apples eingeschränkter Stage Manager nur auf bestimmten Tablets. Das ändert sich nun – auch der neue Fenster-Modus wird breit verteilt.",
       "url": "https://www.heise.de/news/Stage-Manager-fuer-mehr-iPad-Modelle-10458459.html",
       "image_title": "iPadOS 26"
-    },
-    {
-      "title": "Migration auf Windows 11: Herausforderungen meistern, KI-Potenzial nutzen",
-      "teaser": "Viele Unternehmen zögern mit dem Umstieg auf Windows 11, obwohl der Support für Windows 10 bald endet. Warum sich die Migration jedoch lohnt!",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-sie-beim-umstieg-auf-windows-11-die-huerden-meistern-und-das-ki-potenzial-nutzen/"
     },
     {
       "title": "Microsoft bestätigt Google-Chrome-Blockade",
@@ -605,20 +606,19 @@
       "url": "https://www.heise.de/en/news/Criminal-Court-Microsoft-s-email-block-a-wake-up-call-for-digital-sovereignty-10387383.html"
     },
     {
-      "title": "MultitalenteTablets unter 400 Euro im Vergleich",
-      "teaser": "Einsteiger-Tablets kosten nicht die Welt, erledigen aber die meisten Aufgaben tadellos. Wir haben vier Modelle unter 400 Euro getestet.",
-      "url": "https://www.heise.de/tests/Multitalente-Tablets-unter-400-Euro-im-Vergleich-10394918.html"
-    },
-    {
       "title": "KommentarOpen Source auch für die Bösen!",
       "teaser": "Wer sich mit dem Etikett der Freiheit schmückt, darf bei Open Source oder Creative Commons nicht ausschließen, meint Hartmut Gieselmann.",
       "url": "https://www.heise.de/meinung/Kommentar-Open-Source-auch-fuer-die-Boesen-10438733.html"
     },
     {
-      "title": "Yamaha PW-X4Neuer E-MTB-Antrieb auf der Eurobike",
-      "teaser": "Mit dem PW-X4 zeigt Yamaha einen neuen Motor für E-Mountainbikes, der viel leistet und wenig wiegt.",
-      "url": "https://www.heise.de/news/Yamaha-PW-X4-Neuer-E-MTB-Antrieb-auf-der-Eurobike-10460556.html",
-      "image_title": "Raymon-MTB mit Yamaha PW-X4"
+      "title": "Vorsicht, Kunde: Paket verschwindet aus der Packstation",
+      "teaser": "Wenn man eine Sendung in eine Packstation einlegt, bekommt man eine Bestätigung. Mitunter aber versagt die Technik – mit unangenehmen Folgen für den Absender.",
+      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Paket-verschwindet-aus-der-Packstation-10387741.html"
+    },
+    {
+      "title": "MusikMoby veröffentlicht unfreie Gratis-Musik, aber nicht ohne Haken",
+      "teaser": "Der Musiker Moby stellt hunderte Tracks kostenlos im Web zur Verfügung. Doch es lauern juristische Fußangeln.",
+      "url": "https://www.heise.de/news/Moby-veroeffentlicht-unfreie-Gratis-Musik-mit-ethischen-und-politischen-Schranken-10439191.html"
     },
     {
       "title": "PayPal und andere Banken nutzenTschüss Apple Pay? Mit dem iPhone bezahlen",
@@ -751,16 +751,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "\"One to One: John & Yoko\": Warum sie gefährlich waren",
-      "teaser": "Ein Konzert, ein Paar, ein Feind: die US-Regierung. Kevin Macdonalds Doku reanimiert vergessene Wut. Was verrät sie über unsere Gegenwart?",
-      "url": "https://www.heise.de/tp/features/One-to-One-John-Yoko-Warum-sie-gefaehrlich-waren-10457085.html",
-      "image_title": "Yoko Ono und John Lennon mit Sohn im Fonds eines Autos"
+      "title": "Droht Deutschland der heißeste Sommer aller Zeiten?",
+      "teaser": "Schon der Juni bricht Temperaturrekorde. Meteorologen sind alarmiert: Der Sommer 2025 könnte alle Hitzerekorde sprengen. Doch Städte und Kommunen können sich wappnen.",
+      "url": "https://www.heise.de/tp/features/Droht-Deutschland-der-heisseste-Sommer-aller-Zeiten-10460791.html",
+      "image_title": "Hitzschlag, Hitzewellen, heiße Sonne, Globale Erwärmung durch die Sonne und Brennen, Klimawandel, Globale Erwärmung"
     },
     {
-      "title": "Demokratie-Update: Fünf-Prozent-Hürde auf drei Prozent für den Osten senken?",
-      "teaser": "Demokratie-Experten fordern Senkung der Sperrklausel im Osten. Ziel: Mehr Parteien in Parlamenten. Könnte das die politische Landschaft grundlegend verändern?",
-      "url": "https://www.heise.de/tp/features/Demokratie-Update-Fuenf-Prozent-Huerde-auf-drei-Prozent-fuer-den-Osten-senken-10460134.html",
-      "image_title": "KI-generierte Grafik zeigt ein schematisches Parlament, schematische Figuren und einen Mülleimer für Stimmen, die nicht gelten"
+      "title": "Dollar auf Talfahrt: Wie Trump den Fed-Chef unter Druck setzt",
+      "teaser": "Der Dollar befindet sich im Sinkflug. Hintergrund ist der Streit zwischen US-Präsident Trump und Fed-Chef Powell um die Zinspolitik. Was steckt dahinter?",
+      "url": "https://www.heise.de/tp/features/Dollar-auf-Talfahrt-Wie-Trump-den-Fed-Chef-unter-Druck-setzt-10460633.html",
+      "image_title": "Nahaufnahme einer Dollarnote"
     },
     {
       "title": "Warum Sie öfter in den Whirlpool steigen sollten",
