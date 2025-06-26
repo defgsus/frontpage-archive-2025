@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-26T10:11:20",
+  "timestamp": "2025-06-26T11:09:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Xbench: Chinesischer KI-Benchmark prüft Modelle auf Alltagstauglichkeit",
+      "url": "https://www.heise.de/news/Xbench-Chinesischer-KI-Benchmark-prueft-Modelle-auf-Alltagstauglichkeit-10460761.html"
+    },
+    {
+      "title": "Zero-Day: Bluetooth-Lücke macht Millionen Kopfhörer zu Abhörstationen",
+      "url": "https://www.heise.de/news/Zero-Day-Bluetooth-Luecke-macht-Millionen-Kopfhoerer-zu-Abhoerstationen-10457857.html"
+    },
     {
       "title": "software-architektur.tv: Architektur gilt als komplex – Warum ist das so?",
       "url": "https://www.heise.de/news/software-architektur-tv-Architektur-gilt-als-komplex-Warum-ist-das-so-10459462.html"
@@ -58,18 +66,10 @@
       "url": "https://www.heise.de/news/Yamaha-PW-X4-Neuer-E-MTB-Antrieb-auf-der-Eurobike-10460556.html"
     },
     {
-      "title": "Konkurrenz für Bosch: DJI geht unter die E-Bike-Zulieferer",
-      "url": "https://www.heise.de/news/Konkurrenz-fuer-Bosch-DJI-geht-unter-die-E-Bike-Zulieferer-10460432.html"
-    },
-    {
-      "title": "iOS 26: Schnell mal verschnarcht – Ärger mit neuem Wecker",
-      "url": "https://www.heise.de/news/iOS-26-Schnell-mal-verschnarcht-Aerger-mit-neuem-Wecker-10460076.html"
-    },
-    {
-      "title": "BerichtAutoindustrie lehnt Apple CarPlay Ultra überwiegend ab",
-      "teaser": "Deutsche Hersteller und andere große Automarken haben offenbar kein Interesse an CarPlay Ultra.",
-      "url": "https://www.heise.de/news/CarPlay-Ultra-Autohersteller-fahren-offenbar-nicht-drauf-ab-10459865.html",
-      "image_title": "CarPlay Ultra in einem Auto"
+      "title": "Zero-DayBluetooth-Lücke macht Millionen Kopfhörer zu Abhörstationen",
+      "teaser": "Der in beliebten Modellen großer Hersteller verbaute Bluetooth-Chipsatz ist angreifbar. Hacker konnten so Anrufe starten und Geräte abhören.",
+      "url": "https://www.heise.de/news/Zero-Day-Bluetooth-Luecke-macht-Millionen-Kopfhoerer-zu-Abhoerstationen-10457857.html",
+      "image_title": "Junger Mann mit Kopfhörer"
     },
     {
       "title": "Schritt für SchrittReddit-Crawler für Aktien in Python bauen",
@@ -78,10 +78,10 @@
       "image_title": "Comichafte Darstellung eines blonden Mannes in schwarzem Anzug und schwarzer Sonnenbrille vor angedeuteten Aktiencharts. Im Hintergrund steigt symbolisch eine Rakete auf. Er steht symbolisch für die Mitglieder des Subreddits Wallstreetbets, die vom Reichtum durch Aktienspekulation träumen."
     },
     {
-      "title": "James Bond 007Dune-Regisseur Denis Villeneuve dreht neuen Bond-Film",
-      "teaser": "Amazon arbeitet an einem neuen \"James Bond\"-Film mit Regisseur Denis Villeneuve, der unter anderem die \"Dune\"-Filme gedreht hat.",
-      "url": "https://www.heise.de/news/James-Bond-Amazon-laesst-Dune-Regisseur-neuen-Film-drehen-10460379.html",
-      "image_title": "Screenshot aus James-Bond-Film No Time to Die"
+      "title": "BerichtAutoindustrie lehnt Apple CarPlay Ultra überwiegend ab",
+      "teaser": "Deutsche Hersteller und andere große Automarken haben offenbar kein Interesse an CarPlay Ultra.",
+      "url": "https://www.heise.de/news/CarPlay-Ultra-Autohersteller-fahren-offenbar-nicht-drauf-ab-10459865.html",
+      "image_title": "CarPlay Ultra in einem Auto"
     },
     {
       "title": "Home AssistantHaus smart steuern mit interaktivem Grundriss",
@@ -89,21 +89,21 @@
       "url": "https://www.heise.de/ratgeber/Home-Assistant-Haus-smart-steuern-mit-interaktivem-Grundriss-10362948.html"
     },
     {
-      "title": "KinderschutzMicrosoft bestätigt Google-Chrome-Blockade",
-      "teaser": "Zahlreiche Windows-Nutzer beklagen, dass der Webbrowser Chrome beim Start wieder geschlossen wird. Ursache ist der Kinderschutz.",
-      "url": "https://www.heise.de/news/Microsoft-bestaetigt-Google-Chrome-Blockade-10458636.html",
-      "image_title": "Finger tippt auf Chrome-Kachel auf Windows-Gerät"
-    },
-    {
-      "title": "Der DE-CIX wird 30Jubiläum des größten Internetknotens der Welt",
-      "teaser": "Vor 30 Jahren entstand in Frankfurt der heute größte Internetknoten der Welt DE-CIX.",
-      "url": "https://www.heise.de/news/Jubilaeum-des-groessten-Internetknotens-der-Welt-Der-DE-CIX-wird-30-10457445.html",
-      "image_title": "Coronavirus - Frankfurt"
-    },
-    {
       "title": "MusikMoby veröffentlicht unfreie Gratis-Musik, aber nicht ohne Haken",
       "teaser": "Der Musiker Moby stellt hunderte Tracks kostenlos im Web zur Verfügung. Doch es lauern juristische Fußangeln.",
       "url": "https://www.heise.de/news/Moby-veroeffentlicht-unfreie-Gratis-Musik-mit-ethischen-und-politischen-Schranken-10439191.html"
+    },
+    {
+      "title": "Raubkopien für KI-TrainingMeta bekommt recht, die Klagenden einen Rüffel",
+      "teaser": "Für das KI-Training hat Meta Schattenbibliotheken heruntergeladen. Trotzdem sind die Autoren und Autorinnen vor Gericht gescheitert.",
+      "url": "https://www.heise.de/news/Raubkopien-fuer-KI-Training-Meta-bekommt-recht-die-Klagenden-einen-Rueffel-10460440.html",
+      "image_title": "Meta-Logo auf Schild vor der Zentrale"
+    },
+    {
+      "title": "James Bond 007Dune-Regisseur Denis Villeneuve dreht neuen Bond-Film",
+      "teaser": "Amazon arbeitet an einem neuen \"James Bond\"-Film mit Regisseur Denis Villeneuve, der unter anderem die \"Dune\"-Filme gedreht hat.",
+      "url": "https://www.heise.de/news/James-Bond-Amazon-laesst-Dune-Regisseur-neuen-Film-drehen-10460379.html",
+      "image_title": "Screenshot aus James-Bond-Film No Time to Die"
     },
     {
       "title": "Gehälter 2025Das verdienen Softwareentwickler",
@@ -127,10 +127,10 @@
       "url": "https://www.heise.de/ratgeber/Lipsync-Videos-selber-machen-kostenlos-und-ohne-Cloud-10290980.html"
     },
     {
-      "title": "iOS 26Schnell mal verschnarcht – Ärger mit neuem Wecker",
-      "teaser": "Wer sich von einem iPhone mit iOS 26 wecken lässt, bekommt womöglich ein Problem: Das Button-Design ist eher unklug.",
-      "url": "https://www.heise.de/news/iOS-26-Schnell-mal-verschnarcht-Aerger-mit-neuem-Wecker-10460076.html",
-      "image_title": "Weckerfunktion in iOS 26"
+      "title": "KinderschutzMicrosoft bestätigt Google-Chrome-Blockade",
+      "teaser": "Zahlreiche Windows-Nutzer beklagen, dass der Webbrowser Chrome beim Start wieder geschlossen wird. Ursache ist der Kinderschutz.",
+      "url": "https://www.heise.de/news/Microsoft-bestaetigt-Google-Chrome-Blockade-10458636.html",
+      "image_title": "Finger tippt auf Chrome-Kachel auf Windows-Gerät"
     },
     {
       "title": "Im TestDocks und Hubs mit Thunderbolt 5 am Mac",
@@ -144,10 +144,26 @@
       "url": "https://www.heise.de/ratgeber/Waermepumpe-selbst-kaufen-und-anschliessen-10385208.html"
     },
     {
+      "title": "Der DE-CIX wird 30Jubiläum des größten Internetknotens der Welt",
+      "teaser": "Vor 30 Jahren entstand in Frankfurt der heute größte Internetknoten der Welt DE-CIX.",
+      "url": "https://www.heise.de/news/Jubilaeum-des-groessten-Internetknotens-der-Welt-Der-DE-CIX-wird-30-10457445.html",
+      "image_title": "Coronavirus - Frankfurt"
+    },
+    {
+      "title": "KommentarOpen Source auch für die Bösen!",
+      "teaser": "Wer sich mit dem Etikett der Freiheit schmückt, darf bei Open Source oder Creative Commons nicht ausschließen, meint Hartmut Gieselmann.",
+      "url": "https://www.heise.de/meinung/Kommentar-Open-Source-auch-fuer-die-Boesen-10438733.html"
+    },
+    {
       "title": "InterviewBisherige Prüfungsformate werden durch KI-Einsatz nutzlos",
       "teaser": "Schummeln Schüler mittels KI? Einen Hase-und-Igel-Wettlauf sollte man sich sparen, erklärt ein Experte im Interview.",
       "url": "https://www.heise.de/hintergrund/Interview-Bisherige-Pruefungsformate-werden-durch-den-Einsatz-von-KI-nutzlos-10458161.html",
       "image_title": "Klassenzimmer"
+    },
+    {
+      "title": "Kleiner Haushalt, kleiner VerbrauchStromkostenoptimierung für Single-Haushalte",
+      "teaser": "Es gab in Deutschland noch nie so viele Single-Haushalte. Deshalb schauen wir, wie diese kleinen Haushalte Stromkosten optimieren können.",
+      "url": "https://www.heise.de/ratgeber/Kleiner-Haushalt-kleiner-Verbrauch-Stromkostenoptimierung-fuer-Single-Haushalte-10355298.html"
     },
     {
       "title": "Yamaha PW-X4Neuer E-MTB-Antrieb auf der Eurobike",
@@ -156,21 +172,10 @@
       "image_title": "Raymon-MTB mit Yamaha PW-X4"
     },
     {
-      "title": "Konkurrenz für BoschDJI geht unter die E-Bike-Zulieferer",
-      "teaser": "Sieben Hersteller zeigen auf der Eurobike neue Fahrräder mit dem 120 Nm starken Avinox-Antrieb.",
-      "url": "https://www.heise.de/news/Konkurrenz-fuer-Bosch-DJI-geht-unter-die-E-Bike-Zulieferer-10460432.html",
-      "image_title": "Fahrrad"
-    },
-    {
-      "title": "Kleiner Haushalt, kleiner VerbrauchStromkostenoptimierung für Single-Haushalte",
-      "teaser": "Es gab in Deutschland noch nie so viele Single-Haushalte. Deshalb schauen wir, wie diese kleinen Haushalte Stromkosten optimieren können.",
-      "url": "https://www.heise.de/ratgeber/Kleiner-Haushalt-kleiner-Verbrauch-Stromkostenoptimierung-fuer-Single-Haushalte-10355298.html"
-    },
-    {
-      "title": "Alert\"CitrixBleed 2\"Citrix Netscaler-Lücken gravierender",
-      "teaser": "Kürzlich hat Citrix vor Lücken in Netscaler ADC und Gateway gewarnt, sie sind gravierender.",
-      "url": "https://www.heise.de/news/CitrixBleed-2-Citrix-Netscaler-Luecken-gravierender-10460208.html",
-      "image_title": "Rechenzentrumsbild in Rottönen"
+      "title": "iOS 26Schnell mal verschnarcht – Ärger mit neuem Wecker",
+      "teaser": "Wer sich von einem iPhone mit iOS 26 wecken lässt, bekommt womöglich ein Problem: Das Button-Design ist eher unklug.",
+      "url": "https://www.heise.de/news/iOS-26-Schnell-mal-verschnarcht-Aerger-mit-neuem-Wecker-10460076.html",
+      "image_title": "Weckerfunktion in iOS 26"
     },
     {
       "title": "Datenschutzbehörde prüftHunderte Restaurant-Websites offenbarten Kundendaten",
@@ -179,10 +184,10 @@
       "image_title": "Person mit Handschuhen verpackt Salate zum ausliefern"
     },
     {
-      "title": "UpdateFairphone 6Beim fairen Smartphone geht ohne Schraubendreher nichts mehr",
-      "teaser": "Das niederländische Unternehmen hat das Fairphone 6 vorgestellt. Das fairer produzierte Smartphone mutet abermals gereifter an.",
-      "url": "https://www.heise.de/news/Fairphone-6-Beim-neuen-fairen-Smartphone-geht-ohne-Schraubendreher-nichts-mehr-10458385.html",
-      "image_title": "Fairphone 6 in Weiß in Hand"
+      "title": "Xbench: Chinesischer KI-Benchmark prüft Modelle auf Alltagstauglichkeit",
+      "teaser": "Ein neuer Benchmark aus China testet KI-Modelle auf ihre Fähigkeit, reale Aufgaben zu lösen. Er soll Unternehmen bei Investitionsentscheidungen in KI helfen.",
+      "url": "https://www.heise.de/news/Xbench-Chinesischer-KI-Benchmark-prueft-Modelle-auf-Alltagstauglichkeit-10460761.html",
+      "image_title": "Ein KI-Roboter geht in die Knie, wird von Viren und Netzwerkpaketen angegriffen"
     },
     {
       "title": "software-architektur.tv: Architektur gilt als komplex – Warum ist das so?",
@@ -190,15 +195,9 @@
       "url": "https://www.heise.de/news/software-architektur-tv-Architektur-gilt-als-komplex-Warum-ist-das-so-10459462.html"
     },
     {
-      "title": "Raubkopien für KI-Training: Meta bekommt recht, die Klagenden einen Rüffel",
-      "teaser": "Für das KI-Training hat Meta Schattenbibliotheken heruntergeladen. Trotzdem sind die Autoren und Autorinnen vor Gericht gescheitert – wegen mehrerer Fehler.",
-      "url": "https://www.heise.de/news/Raubkopien-fuer-KI-Training-Meta-bekommt-recht-die-Klagenden-einen-Rueffel-10460440.html",
-      "image_title": "Meta-Logo auf Schild vor der Zentrale"
-    },
-    {
-      "title": "Cloud Repatriation – zurück zur Kontrolle der eigenen Daten",
-      "teaser": "Ein bewusster Exit aus der Public Cloud kann ein Befreiungsschlag sein. Mit der sog. „Cloud Repatriation“ schützen sich Unternehmen vor politischen Risiken und sichern sich die Hoheit über die Daten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7019271351&iu=%2F6514%2FClicktracking"
+      "title": "Den besten KI-Laptop mit Windows finden",
+      "teaser": "Das Spektrum an Copilot+ PCs wächst ständig. Es ist daher nicht einfach, dass passende Gerät zu finden. Bei der Auswahl sollten Käufer deshalb auf bestimmte Kriterien achten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7009587067&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "betterCode() .NET 10.0: Experten präsentieren die Features des neuen LTS-Release",
@@ -218,7 +217,7 @@
       "image_title": "HPE Schriftzug"
     },
     {
-      "title": "Fenster und Stage Manager: Welche iPads das künftig können",
+      "title": "UpdateFenster und Stage Manager: Welche iPads das künftig können",
       "teaser": "Lange funktionierte Apples eingeschränkter Stage Manager nur auf bestimmten Tablets. Das ändert sich nun – auch der neue Fenster-Modus wird breit verteilt.",
       "url": "https://www.heise.de/news/Stage-Manager-fuer-mehr-iPad-Modelle-10458459.html",
       "image_title": "iPadOS 26"
@@ -229,10 +228,10 @@
       "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-sie-beim-umstieg-auf-windows-11-die-huerden-meistern-und-das-ki-potenzial-nutzen/"
     },
     {
-      "title": "WhatsApp führt KI-Zusammenfassungen von Chats ein – zuerst in den USA",
-      "teaser": "WhatsApp erweitert die KI-Funktionen: Fortan können Nutzer Zusammenfassungen verpasster Nachrichten mittels Meta AI erstellen lassen – zunächst in den USA.",
-      "url": "https://www.heise.de/news/WhatsApp-fuehrt-KI-Zusammenfassungen-von-Chats-ein-zuerst-in-den-USA-10460274.html",
-      "image_title": "WhatsApp Message Summaries"
+      "title": "Konkurrenz für Bosch: DJI geht unter die E-Bike-Zulieferer",
+      "teaser": "Sieben Hersteller zeigen auf der Eurobike neue Fahrräder mit dem 120 Nm starken Avinox-Antrieb. Darunter sind nicht nur Mountainbikes.",
+      "url": "https://www.heise.de/news/Konkurrenz-fuer-Bosch-DJI-geht-unter-die-E-Bike-Zulieferer-10460432.html",
+      "image_title": "Fahrrad"
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -302,6 +301,12 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "WhatsApp führt KI-Zusammenfassungen von Chats ein – zuerst in den USA",
+      "teaser": "WhatsApp erweitert die KI-Funktionen: Fortan können Nutzer Zusammenfassungen verpasster Nachrichten mittels Meta AI erstellen lassen – zunächst in den USA.",
+      "url": "https://www.heise.de/news/WhatsApp-fuehrt-KI-Zusammenfassungen-von-Chats-ein-zuerst-in-den-USA-10460274.html",
+      "image_title": "WhatsApp Message Summaries"
+    },
+    {
       "title": "Kaufberatung: Wie man den passenden CPU-Kühler findet",
       "teaser": "Das Angebot an Prozessorkühlern ist riesig, doch ein paar Überlegungen führen rasch zum passenden Modell. Ein Leitfaden für die Entscheidung.",
       "url": "https://www.heise.de/tests/Kaufberatung-Wie-man-den-passenden-CPU-Kuehler-findet-10388012.html"
@@ -337,11 +342,6 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
-      "title": "Kommentar: Open Source auch für die Bösen!",
-      "teaser": "Wer sich mit dem Etikett der Freiheit schmückt, darf bei Open Source oder Creative Commons nichts und niemanden ausschließen, meint Hartmut Gieselmann.",
-      "url": "https://www.heise.de/meinung/Kommentar-Open-Source-auch-fuer-die-Boesen-10438733.html"
-    },
-    {
       "title": "AlertRoot-Sicherheitslücken mit Höchstwertung bedrohen Cisco Identity Services Engine",
       "teaser": "Zwei kritische Schwachstellen gefährden Cisco Identity Services Engine. Sicherheitsupdates sind verfügbar.",
       "url": "https://www.heise.de/news/Root-Sicherheitsluecken-mit-Hoechstwertung-bedrohen-Cisco-Identity-Services-Engine-10460270.html",
@@ -352,6 +352,12 @@
       "teaser": "Der neue Bundesagrarminister will in seinem Ressort Reformen auf den Weg bringen. Dazu zählt auch die Förderung von Biokraftstoffen.",
       "url": "https://www.heise.de/news/Bundesagrarminister-Rainer-will-Biokraftstoffe-steuerlich-foerdern-10460152.html",
       "image_title": "Traktor"
+    },
+    {
+      "title": "Alert\"CitrixBleed 2\": Citrix Netscaler-Lücken gravierender",
+      "teaser": "Kürzlich hat Citrix vor Lücken in Netscaler ADC und Gateway gewarnt. Sie sind gravierender, \"CitrixBleed 2\" macht die Runde.",
+      "url": "https://www.heise.de/news/CitrixBleed-2-Citrix-Netscaler-Luecken-gravierender-10460208.html",
+      "image_title": "Rechenzentrumsbild in Rottönen"
     },
     {
       "title": "Warum Souveränität nicht in der Cloud beginnt",
@@ -371,15 +377,15 @@
       "image_title": "programmier.bar: Rolldown – wie void(0) das JS-Ökosystem umbaut"
     },
     {
+      "title": "Aufbau energieeffizienter IT-Infrastrukturen – die wichtigsten Faktoren",
+      "teaser": "Energieeffiziente Systeme benötigen weniger Strom und produzieren weniger Abwärme. Das ist nicht nur in Rechenzentren und Büros von Vorteil, wie ein Beispiel aus Australien zeigt.",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/aufbau-energieeffizienter-it-infrastrukturen-die-wichtigsten-faktoren-4937"
+    },
+    {
       "title": "Amazon Music Unlimited: Abonnenten bekommen ein Hörbuch pro Monat",
       "teaser": "Abonnenten von Amazon Music Unlimited können künftig ein Audible-Hörbuch pro Monat hören. Damit folgt Amazon dem Spotify-Vorbild.",
       "url": "https://www.heise.de/news/Amazon-Music-Unlimited-Abonnenten-bekommen-ein-Hoerbuch-pro-Monat-10458772.html",
       "image_title": "Amazon Music Unlimited App auf Handy vor blauem Hintergrund"
-    },
-    {
-      "title": "IT-Ausfälle: So werden Unternehmen schnell wieder handlungsfähig",
-      "teaser": "Softwarefehler und andere Probleme führen in der IT regelmäßig zu Ausfällen. Die Wahl der richtigen Hardwareplattform trägt entscheidend dazu bei, die Downtime minimal zu halten.",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-unternehmen-bei-it-ausfaellen-rasch-wieder-handlungsfaehig-werden/?source=hbsadersatz"
     },
     {
       "title": "Proaktive IT-Security mit Pentesting: Ethical Hacking für Admins",
@@ -434,12 +440,6 @@
       "image_title": "Mann schaut kleine Vorschauen auf pornografische Bilder auf einem Computerbildschirm an."
     },
     {
-      "title": "Aus für Rosetta 2 bei Apple: Entwickler sollen Kompatibilität mit M-Macs prüfen",
-      "teaser": "Apple verzichtet ab macOS 28 auf die Übersetzungsschicht Rosetta. Entwickler sollen jetzt schon testen, ob ihre Apps dann noch auf Macs mit M-Chip laufen.",
-      "url": "https://www.heise.de/news/Macs-mit-Apple-Chip-Intel-Software-laeuft-in-Zukunft-nicht-mehr-10459981.html",
-      "image_title": "MacBook unter dem Arm"
-    },
-    {
       "title": "Studie: Menschen sprechen immer häufiger wie die KI",
       "url": "https://www.heise.de/news/Studie-Veraendert-KI-die-menschliche-Sprache-10458136.html",
       "image_title": "ChatGPT-App auf einem Smartphone"
@@ -469,6 +469,11 @@
       "image_title": "Künstlerische Darstellung eines Asteroiden, im Hintergrund die Erde"
     },
     {
+      "title": "UpdateFairphone 6: Beim neuen fairen Smartphone geht ohne Schraubendreher nichts mehr",
+      "url": "https://www.heise.de/news/Fairphone-6-Beim-neuen-fairen-Smartphone-geht-ohne-Schraubendreher-nichts-mehr-10458385.html",
+      "image_title": "Fairphone 6 in Weiß in Hand"
+    },
+    {
       "title": "Bosch Performance Line PX: Neuer Motor für Trekking-E-Bikes",
       "url": "https://www.heise.de/news/Bosch-Performance-Line-PX-Neuer-Motor-fuer-Trekking-E-Bikes-10458059.html",
       "image_title": "Bosch Performance Line PX"
@@ -477,11 +482,6 @@
       "title": "Unerwünschte Apple-Werbung: Push-Mitteilung verärgert iPhone-Nutzer in den USA",
       "url": "https://www.heise.de/news/Unerwuenschte-Apple-Werbung-Push-Mitteilung-veraergert-iPhone-Nutzer-in-den-USA-10459398.html",
       "image_title": "Das Icon von Apple Wallet"
-    },
-    {
-      "title": "iOS 26 Developer Beta 2: Apple entglast das iPhone wieder etwas",
-      "url": "https://www.heise.de/news/iOS-26-Developer-Beta-2-Apple-entglast-das-iPhone-wieder-etwas-10457229.html",
-      "image_title": "Beispiel besserer Lesbarkeit in iOS 26 Developer Beta 2"
     },
     {
       "title": "Anthropic kann Copyright-Klage von Buchautoren teilweise abwehren",
@@ -608,10 +608,10 @@
       "url": "https://www.heise.de/en/news/Criminal-Court-Microsoft-s-email-block-a-wake-up-call-for-digital-sovereignty-10387383.html"
     },
     {
-      "title": "Yamaha PW-X4Neuer E-MTB-Antrieb auf der Eurobike",
-      "teaser": "Mit dem PW-X4 zeigt Yamaha einen neuen Motor für E-Mountainbikes, der viel leistet und wenig wiegt.",
-      "url": "https://www.heise.de/news/Yamaha-PW-X4-Neuer-E-MTB-Antrieb-auf-der-Eurobike-10460556.html",
-      "image_title": "Raymon-MTB mit Yamaha PW-X4"
+      "title": "Experten: Zentrale Online-Kfz-Zulassung würde 300 Millionen Euro jährlich sparen",
+      "teaser": "Die digitale Kfz-Zulassung kommt in Deutschland kaum vom Fleck. Eine Initiative aus Sachsen fordert nun einen Neustart – mit Zuständigkeit beim Bund.",
+      "url": "https://www.heise.de/news/Experten-Zentrale-Online-Kfz-Zulassung-wuerde-300-Millionen-Euro-jaehrlich-sparen-10459331.html",
+      "image_title": "Nummernschild mit Schlüssel liegt auf Tisch"
     },
     {
       "title": "MusikMoby veröffentlicht unfreie Gratis-Musik, aber nicht ohne Haken",
@@ -619,10 +619,9 @@
       "url": "https://www.heise.de/news/Moby-veroeffentlicht-unfreie-Gratis-Musik-mit-ethischen-und-politischen-Schranken-10439191.html"
     },
     {
-      "title": "Experten: Zentrale Online-Kfz-Zulassung würde 300 Millionen Euro jährlich sparen",
-      "teaser": "Die digitale Kfz-Zulassung kommt in Deutschland kaum vom Fleck. Eine Initiative aus Sachsen fordert nun einen Neustart – mit Zuständigkeit beim Bund.",
-      "url": "https://www.heise.de/news/Experten-Zentrale-Online-Kfz-Zulassung-wuerde-300-Millionen-Euro-jaehrlich-sparen-10459331.html",
-      "image_title": "Nummernschild mit Schlüssel liegt auf Tisch"
+      "title": "Multitalente: Tablets unter 400 Euro im Vergleich",
+      "teaser": "Einsteiger-Tablets kosten nicht die Welt, erledigen aber die meisten Aufgaben tadellos. Wir haben vier Modelle unter 400 Euro getestet.",
+      "url": "https://www.heise.de/tests/Multitalente-Tablets-unter-400-Euro-im-Vergleich-10394918.html"
     },
     {
       "title": "PayPal und andere Banken nutzenTschüss Apple Pay? Mit dem iPhone bezahlen",
@@ -659,12 +658,6 @@
       "url": "https://www.heise.de/news/Bosch-Smart-Home-Updateprobleme-stoeren-Controller-10458565.html"
     },
     {
-      "title": "Streetfotografie in Bolognas Altstadt",
-      "teaser": "Besuchen Sie Bologna mit Ihrer Kamera. Erschaffen Sie im abendlichen Licht der historischen Kulissen Fotos mit dem Gefühl des Dolce Vita.",
-      "url": "https://www.heise.de/ratgeber/Streetfotografie-in-Bolognas-Altstadt-10458039.html",
-      "image_title": ", Posztós János, stock.adobe.com, alle Bilder ab Seite 108 : Christian Frank"
-    },
-    {
       "title": "Podcast: Click Boom Flash # 41 Fetisch-Fotografie: Respekt und Vertrauen",
       "teaser": "\"Meine Definition von Weiblichkeit ist, glaube ich, eine andere\", sagt Lisa Loepke mit Blick auf ihre kraftvollen Fetisch-Bilder.",
       "url": "https://www.heise.de/news/Respekt-und-Vertrauen-Click-Boom-Flash-41-Fetisch-Fotografie-10453328.html"
@@ -678,6 +671,12 @@
       "title": "Vielfalt der Perspektiven auf die Welt: Die Bilder der Woche 24",
       "teaser": "Die Bilder dieser Woche zeigen eine Auswahl faszinierender Aufnahmen: ungewöhnliche Perspektiven und schimmerndes Gegenlicht regen zum Träumen an.",
       "url": "https://www.heise.de/news/Vielfalt-der-Perspektiven-auf-die-Welt-Die-Bilder-der-Woche-24-10453890.html"
+    },
+    {
+      "title": "Experimentelle Kamera-App soll iPhone-Fotos deutlich besser machen",
+      "teaser": "Weniger Bildrauschen, SLR-Aussehen und keine Spiegelungen: Project Indigo hat sich große Ziele gesetzt. Die App ist kostenlos verfügbar.",
+      "url": "https://www.heise.de/news/Experimentelle-Kamera-App-soll-iPhone-Fotos-deutlich-besser-machen-10454314.html",
+      "image_title": "Project Indigo - Bildschirmfotos"
     },
     {
       "title": "Der Weg zur souveränen IT: Ziele, Risiken und Handlungsfelder",
@@ -754,22 +753,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Nato-Gipfel 2025: Wenn „Daddy Trump“ das Kommando übernimmt",
-      "teaser": "Rutte umschwärmte Donald Trump, dahinter versteckt sich tiefgreifender Dissens im Nato-Bündnis. Was lässt sich vom gestrigen Gipfel ablesen? Eine Analyse.",
-      "url": "https://www.heise.de/tp/features/Nato-Gipfel-2025-Wenn-Daddy-Trump-das-Kommando-uebernimmt-10460393.html",
-      "image_title": "Donald Trump vor der Nato Flagge"
+      "title": "Vergessen Sie Anti-Aging-Cremes: Trinken Sie sich jung mit Kaffee!",
+      "teaser": "Koffein aktiviert zelluläres \"Energie-Überwachungsenzym\" und könnte Zellalterung verlangsamen. Neue Studie zeigt überraschende Effekte – auf Hefezellen.",
+      "url": "https://www.heise.de/tp/features/Vergessen-Sie-Anti-Aging-Cremes-Trinken-Sie-sich-jung-mit-Kaffee-10459582.html",
+      "image_title": "Blick von oben auf einen Tasse Kaffee"
     },
     {
-      "title": "Schulbarometer: Verschlafen Deutschlands Lehrer die KI-Revolution?",
-      "teaser": "Deutsche Lehrer tun sich schwer mit KI. Laut dem aktuellen Schulbarometer fühlen sich 62 Prozent im Umgang damit unsicher. Scheitert die digitale Revolution an den Schulen?",
-      "url": "https://www.heise.de/tp/features/Schulbarometer-Verschlafen-Deutschlands-Lehrer-die-KI-Revolution-10459190.html",
-      "image_title": "KI generierte Grafik zeigt einen gezeichneten Lehrer vor Schülern, im Hintergrund eine Taflel, auf dem Tisch ein Laptop-Bildschirm mit einem Dinosaurier"
+      "title": "\"Europa soll zahlen\": Wie Nato-Chef Rutte Donald Trump umschmeichelt",
+      "teaser": "Nato-Chef Rutte lobt Trump in den höchsten Tönen. Europa müsse für Militärausgaben stärker zur Kasse geben werden. Doch nicht alle EU-Länder ziehen mit.",
+      "url": "https://www.heise.de/tp/features/Europa-soll-zahlen-Wie-Nato-Chef-Rutte-Donald-Trump-umschmeichelt-10459037.html",
+      "image_title": "Ein Mann in Anzug vor Nato Logo"
     },
     {
-      "title": "Asteroid könnte Mond treffen: Chance für Einschlag gestiegen",
-      "teaser": "Neue Daten des James-Webb-Teleskops zeigen: Die Wahrscheinlichkeit für einen Asteroideneinschlag auf dem Mond ist gestiegen. Er könnte von der Erde aus sichtbar sein.",
-      "url": "https://www.heise.de/tp/features/Asteroid-koennte-Mond-treffen-Chance-fuer-Einschlag-gestiegen-10458147.html",
-      "image_title": "Asteroid vor der Erde (3D-Illustration)"
+      "title": "Titan-Tauchboot-Katastrophe: Netflix-Doku offenbart schwere Versäumnisse bei OceanGate",
+      "teaser": "Neue Dokumentation zeigt, wie Bedenken ignoriert wurden. Ehemalige Mitarbeiter und Experten kommen zu Wort. War die Tragödie unvermeidlich?",
+      "url": "https://www.heise.de/tp/features/Titan-Tauchboot-Katastrophe-Netflix-Doku-offenbart-schwere-Versaeumnisse-bei-OceanGate-10459806.html",
+      "image_title": "Rendering eines U-Boots"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
