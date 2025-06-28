@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-28T07:09:08",
+  "timestamp": "2025-06-28T08:12:24",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Linux-Server härten",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10457976.html"
+    },
+    {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10461856.html"
+    },
     {
       "title": "Apple vs. EU: Der Schlamassel wird immer größer",
       "url": "https://www.heise.de/meinung/Apple-und-die-EU-Geht-es-wirklich-nicht-einfacher-10462502.html"
@@ -58,18 +66,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-nintendo-switch-spiele-im-test-zelda-vor-mario-und-pokemon/663v8kw#id-2-welches-ist-das-beste-spiel-fur-die-nintendo-switch"
     },
     {
-      "title": "Brandgefahr: Anker ruft mehrere Powerbank-Modelle zurück – auch in Deutschland",
-      "url": "https://www.heise.de/news/Brandgefahr-Anker-ruft-mehrere-Powerbank-Modelle-zurueck-auch-in-Deutschland-10463026.html"
-    },
-    {
-      "title": "Samsung überholt angeblich TSMC bei 2-Nanometer-Fertigungstechnik",
-      "url": "https://www.heise.de/news/Samsung-ueberholt-angeblich-TSMC-bei-2-Nanometer-Fertigungstechnik-10462939.html"
-    },
-    {
-      "title": "Vorbereiten auf EinschlagMicrosoft warnt vor Secure-Boot-Zertifikat-Update",
-      "teaser": "\"Bereite dich auf das erste globale, großflächige Secure-Boot-Zertifikat-Update vor\", warnt Microsoft. Nicht nur Windows ist betroffen.",
-      "url": "https://www.heise.de/news/Vorbereiten-auf-Einschlag-Microsoft-warnt-vor-Secure-Boot-Zertifikat-Update-10461866.html",
-      "image_title": "Windows-Logo und Tux auf MAtrix-Zecihenregen-Hintergrund, davor \"Achtung\"-Schild"
+      "title": "Nächster BuildWindows 11 25H2 im Anflug",
+      "teaser": "Microsoft kündigt Windows 11 25H2 an. Es basiert auf Windows 11 24H2. Den Unterschied machen aktivierte Features.",
+      "url": "https://www.heise.de/news/Windows-11-25H2-im-Anflug-10463256.html",
+      "image_title": "Laptop mit Windows 11"
     },
     {
       "title": "Im Sommer 2025 Was 100 Kilometer mit dem Elektroauto wirklich kosten",
@@ -78,10 +78,10 @@
       "image_title": "VW ID.7"
     },
     {
-      "title": "Nächster BuildWindows 11 25H2 im Anflug",
-      "teaser": "Microsoft kündigt Windows 11 25H2 an. Es basiert auf Windows 11 24H2. Den Unterschied machen aktivierte Features.",
-      "url": "https://www.heise.de/news/Windows-11-25H2-im-Anflug-10463256.html",
-      "image_title": "Laptop mit Windows 11"
+      "title": "Vorbereiten auf EinschlagMicrosoft warnt vor Secure-Boot-Zertifikat-Update",
+      "teaser": "\"Bereite dich auf das erste globale, großflächige Secure-Boot-Zertifikat-Update vor\", warnt Microsoft. Nicht nur Windows ist betroffen.",
+      "url": "https://www.heise.de/news/Vorbereiten-auf-Einschlag-Microsoft-warnt-vor-Secure-Boot-Zertifikat-Update-10461866.html",
+      "image_title": "Windows-Logo und Tux auf MAtrix-Zecihenregen-Hintergrund, davor \"Achtung\"-Schild"
     },
     {
       "title": "Effizienter kühlenMobile Klimaanlagen auf Zweischlauchbetrieb umrüsten",
@@ -130,7 +130,7 @@
     },
     {
       "title": "LinuxLinus Torvalds erwägt Rauswurf des Bcachefs-Dateisystems",
-      "teaser": "Nach vorübergehender Verbannung des Entwicklers von Bcachefs will der Linux-Erfinder den Support für das Dateisystem Zank wohl entfernen.",
+      "teaser": "Nach temporärer Verbannung des Entwicklers von Bcachefs will der Linux-Erfinder den Support für das Dateisystem wohl entfernen.",
       "url": "https://www.heise.de/news/Linux-Torvalds-erwaegt-Rauswurf-des-Bcachefs-Dateisystems-10461896.html",
       "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
     },
@@ -186,6 +186,23 @@
       "image_title": "Nach dem fehlerhaften Crowdstrike-Update ausgefallene Anzeigesysteme am internationalen Flughafen von Denver."
     },
     {
+      "title": "iX-Workshop: Linux-Server härten",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10457976.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Rust, Rspack, Quarkus, WSL 2, Dev Boxes, Kotlin, Google Gemini, Apache Maven und Sulu.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10461856.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
+      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
+      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Stille Momente und starke Motive: Die Bilder der Woche 26",
       "teaser": "Die Fotografen unserer Galerie nehmen uns mit auf eine visuelle Reise durch Natur, Architektur und kreative Details – mal nostalgisch, mal modern.",
       "url": "https://www.heise.de/news/Stille-Momente-und-starke-Motive-Die-Bilder-der-Woche-26-10459593.html"
@@ -194,11 +211,6 @@
       "title": "Von Apple bis Samsung: Wie Sie das richtige Tablet finden",
       "teaser": "Lesen, Surfen, Daddeln: Tablets sind kleine Tausendsassas, nur zum Arbeiten taugten sie bislang nur bedingt. Das soll sich jetzt ändern.",
       "url": "https://www.heise.de/ratgeber/Von-Apple-bis-Samsung-Wie-Sie-das-richtige-Tablet-finden-10375406.html"
-    },
-    {
-      "title": "Security: Wie sich mit KI Angriff und Verteidigung verändern",
-      "teaser": "Cyberkriminelle nutzen KI für ihre Angriffe, doch auch die Verteidiger können KI-Systeme zum Schutz verwenden. Aber was ändert sich dadurch für die Arbeit der Admins und Security-Experten?",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6966445387&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "E-Passtransfer will Fotostudios souveräne Übermittlung von Passbildern anbieten",
@@ -221,18 +233,6 @@
       "title": "Top 10: Die besten Nintendo-Switch-Spiele im Test – Zelda vor Mario & Pokemon",
       "teaser": "Wir haben über 40 Games für die Nintendo Switch getestet und zeigen hier die zehn besten Spiele, die ihr auf keinen Fall verpassen solltet.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-nintendo-switch-spiele-im-test-zelda-vor-mario-und-pokemon/663v8kw?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-2-welches-ist-das-beste-spiel-fur-die-nintendo-switch"
-    },
-    {
-      "title": "Samsung überholt angeblich TSMC bei 2-Nanometer-Fertigungstechnik",
-      "teaser": "Deutlich vor TSMC und Apple will Samsung 2026 Chips mit 2-Nanometer-Technik fertigen und ins Galaxy S26 einbauen, nämlich neue Snapdragon- und Exynos-Typen.",
-      "url": "https://www.heise.de/news/Samsung-ueberholt-angeblich-TSMC-bei-2-Nanometer-Fertigungstechnik-10462939.html",
-      "image_title": "Die aktuelle Roadmap für Halbleiter-Fertigungstechnik von Samsung Foundry"
-    },
-    {
-      "title": "Prompte Neuerungen: Was Apple Intelligence in iOS 26 kann | Mac & i-Podcast",
-      "teaser": "Die wichtigsten versprochenen KI-Neuerungen konnte Apple bislang nicht liefern, doch bei Intelligence tut sich einiges – primär unter der Oberfläche.",
-      "url": "https://www.heise.de/news/Prompte-Neuerungen-Was-Apple-Intelligence-in-iOS-26-kann-Mac-i-Podcast-10463078.html",
-      "image_title": "Prompte Neuerungen: Was Apple Intelligence in iOS 26 kann"
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -302,6 +302,18 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "Samsung überholt angeblich TSMC bei 2-Nanometer-Fertigungstechnik",
+      "teaser": "Deutlich vor TSMC und Apple will Samsung 2026 Chips mit 2-Nanometer-Technik fertigen und ins Galaxy S26 einbauen, nämlich neue Snapdragon- und Exynos-Typen.",
+      "url": "https://www.heise.de/news/Samsung-ueberholt-angeblich-TSMC-bei-2-Nanometer-Fertigungstechnik-10462939.html",
+      "image_title": "Die aktuelle Roadmap für Halbleiter-Fertigungstechnik von Samsung Foundry"
+    },
+    {
+      "title": "Prompte Neuerungen: Was Apple Intelligence in iOS 26 kann | Mac & i-Podcast",
+      "teaser": "Die wichtigsten versprochenen KI-Neuerungen konnte Apple bislang nicht liefern, doch bei Intelligence tut sich einiges – primär unter der Oberfläche.",
+      "url": "https://www.heise.de/news/Prompte-Neuerungen-Was-Apple-Intelligence-in-iOS-26-kann-Mac-i-Podcast-10463078.html",
+      "image_title": "Prompte Neuerungen: Was Apple Intelligence in iOS 26 kann"
+    },
+    {
       "title": "Neue Funktionen für die Vision Pro: Was noch vor visionOS 26 kam",
       "teaser": "Mit visionOS 2.4 und 2.5 bringt Apple sein KI-System auf die Vision Pro und verbessert den eingeschränkten Gastmodus. Das ist aber nicht alles.",
       "url": "https://www.heise.de/ratgeber/Neue-Funktionen-fuer-die-Vision-Pro-Was-noch-vor-visionOS-26-kam-10450884.html",
@@ -364,6 +376,11 @@
       "image_title": "Workshop Mobile Device Management mit Intune"
     },
     {
+      "title": "IT-Ausfälle: So werden Unternehmen schnell wieder handlungsfähig",
+      "teaser": "Softwarefehler und andere Probleme führen in der IT regelmäßig zu Ausfällen. Die Wahl der richtigen Hardwareplattform trägt entscheidend dazu bei, die Downtime minimal zu halten.",
+      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-unternehmen-bei-it-ausfaellen-rasch-wieder-handlungsfaehig-werden/?source=hbsadersatz"
+    },
+    {
       "title": "KI-Agenten: Hohe Kosten und geringer Nutzen führen zum Aus",
       "teaser": "KI-Agenten sollen Aufgabenketten selbstständig abarbeiten. Doch laut Analysten werden bis 2027 über 40 Prozent der aktuellen Projekte eingestellt.",
       "url": "https://www.heise.de/news/Analystenprognose-Viele-KI-Agenten-scheitern-bis-2027-10462586.html",
@@ -374,11 +391,6 @@
       "teaser": "Oracle bietet bald isolierte Compute-Clouds für Organisationen mit hohem Souveränitätsbedarf an. Kunden können sie air-gapped im eigenen RZ betreiben.",
       "url": "https://www.heise.de/news/Oracle-OCI-Cloud-abseits-vom-oeffentlichen-Internet-10462454.html",
       "image_title": "Logo von Softwarekonzern Oracle"
-    },
-    {
-      "title": "IT-Ausfälle: So werden Unternehmen schnell wieder handlungsfähig",
-      "teaser": "Softwarefehler und andere Probleme führen in der IT regelmäßig zu Ausfällen. Die Wahl der richtigen Hardwareplattform trägt entscheidend dazu bei, die Downtime minimal zu halten.",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-unternehmen-bei-it-ausfaellen-rasch-wieder-handlungsfaehig-werden/?source=hbsadersatz"
     },
     {
       "title": "Neue Sammelklage: Apples KI-Verzögerung soll Aktienkurs bremsen",
@@ -426,17 +438,6 @@
       "teaser": "Die Digitalisierung in deutschen Krankenhäusern kommt voran. Bis zu den erreichbaren 100 Digitalisierungspunkten ist es jedoch noch ein weiter Weg.",
       "url": "https://www.heise.de/news/Digitalradar-Krankenhaeuser-digitaler-Finanzierung-koennte-Fortschritt-stoppen-10462318.html",
       "image_title": "Leerer Krankenhausflur mit Stühlen"
-    },
-    {
-      "title": "Von reMarkable bis Supernote: Das passende E-Ink-Tablet für jeden Zweck finden",
-      "teaser": "Sie ersetzen die Schreibkladde und machen Tablets Konkurrenz: E-Ink-Notizblöcke mit Farbe und Stift. So finden Sie den richtigen.",
-      "url": "https://www.heise.de/tests/Von-reMarkable-bis-Supernote-Das-passende-E-Ink-Tablet-fuer-jeden-Zweck-finden-10394930.html"
-    },
-    {
-      "title": "Elektroautos: Weltweiter Bestand wächst auf 56 Millionen",
-      "teaser": "Der Bestand an Fahrzeugen mit einem elektrifizierten Antrieb stieg im vergangenen Jahr auf knapp 56 Millionen. China dominiert dabei deutlich.",
-      "url": "https://www.heise.de/news/Elektroautos-Weltweiter-Bestand-waechst-auf-56-Millionen-10462390.html",
-      "image_title": "BYD"
     },
     {
       "title": "AlertAttacken auf Fernwartungsfirmware von Servern laufen",
@@ -607,9 +608,9 @@
       "url": "https://www.heise.de/en/news/Electric-cars-global-fleet-grows-to-56-million-10462441.html"
     },
     {
-      "title": "KommentarOpen Source auch für die Bösen!",
-      "teaser": "Wer sich mit dem Etikett der Freiheit schmückt, darf bei Open Source oder Creative Commons nicht ausschließen, meint Hartmut Gieselmann.",
-      "url": "https://www.heise.de/meinung/Kommentar-Open-Source-auch-fuer-die-Boesen-10438733.html"
+      "title": "Langzeittest mit Whoop-5.0-Aktivitätstracker",
+      "teaser": "Bis zu 34 Euro im Monat kostet das Whoop-Fitnessarmband. Wir haben getestet, ob die Gesundheits-Einsichten das Geld wert sind.",
+      "url": "https://www.heise.de/news/Langzeittest-mit-Whoop-5-0-Aktivitaetstracker-10463170.html"
     },
     {
       "title": "Samsung überholt angeblich TSMC bei 2-Nanometer-Fertigungstechnik",
@@ -618,9 +619,10 @@
       "image_title": "Die aktuelle Roadmap für Halbleiter-Fertigungstechnik von Samsung Foundry"
     },
     {
-      "title": "2Lock: Regensburger Startup zeigt smartes Nabenschloss für E-Bikes",
-      "teaser": "Die ersten Hersteller bauen das Nabenschloss 2Lock, das auf zwei Arten sichert, bereits in ihre Räder ein.",
-      "url": "https://www.heise.de/news/2Lock-Regensburger-Startup-zeigt-smartes-Nabenschloss-fuer-E-Bikes-10462868.html"
+      "title": "Yamaha PW-X4Neuer E-MTB-Antrieb auf der Eurobike",
+      "teaser": "Mit dem PW-X4 zeigt Yamaha einen neuen Motor für E-Mountainbikes, der viel leistet und wenig wiegt.",
+      "url": "https://www.heise.de/news/Yamaha-PW-X4-Neuer-E-MTB-Antrieb-auf-der-Eurobike-10460556.html",
+      "image_title": "Raymon-MTB mit Yamaha PW-X4"
     },
     {
       "title": "PayPal und andere Banken nutzenTschüss Apple Pay? Mit dem iPhone bezahlen",
@@ -695,6 +697,12 @@
       "url": "https://www.heise.de/hintergrund/CO-Bilanz-von-KI-Projekten-ermitteln-10447914.html"
     },
     {
+      "title": "E-Auto-Bestand wächstWeltweit 56 Millionen Elektroautos",
+      "teaser": "Der Bestand an Fahrzeugen mit einem elektrifizierten Antrieb stieg im vergangenen Jahr auf knapp 56 Millionen. China dominiert dabei deutlich.",
+      "url": "https://www.heise.de/news/Elektroautos-Weltweiter-Bestand-waechst-auf-56-Millionen-10462390.html",
+      "image_title": "BYD"
+    },
+    {
       "title": "Bundesagrarminister Rainer will Reformen umsetzenBiokraftstoffe steuerlich fördern",
       "teaser": "Der neue Bundesagrarminister will in seinem Ressort Reformen auf den Weg bringen. Dazu zählt auch die Förderung von Biokraftstoffen.",
       "url": "https://www.heise.de/news/Bundesagrarminister-Rainer-will-Biokraftstoffe-steuerlich-foerdern-10460152.html",
@@ -711,12 +719,6 @@
       "teaser": "Der Herstellerverband meldet einen Marktanteil von 15,4 Prozent batterieelektrischer Autos in der EU und damit einen stabilen Trend .",
       "url": "https://www.heise.de/news/EU-Automarkt-Wieder-mehr-E-Autos-im-Mai-Tesla-und-Verbrenner-stuerzen-ab-10458630.html",
       "image_title": "Elektroauto VW ID.3 Pure"
-    },
-    {
-      "title": "Billige Pneus versagen beim BremsenGanzjahresreifen der Dimension 225/45 R17 im Test",
-      "teaser": "Der ADAC hat 16 Ganzjahresreifen der Dimension 225/45 R17 getestet. Ein paar sind ganz gut, einige schlicht gefährlich.",
-      "url": "https://www.heise.de/ratgeber/Ganzjahresreifen-im-Test-Gravierende-Unterschiede-beim-Bremsen-10458750.html",
-      "image_title": "VW Golf 8"
     },
     {
       "title": "Gesetz gegen Deepfakes: Die Verbreitung könnte für Plattformen bald teuer werden",
@@ -754,22 +756,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Erste visuelle Planetenentdeckung durch das James-Webb-Weltraumteleskop",
-      "teaser": "Das James-Webb-Teleskop hat erstmals direkte Bilder eines Exoplaneten aufgenommen. Was wir über den Saturn-großen Planeten TWA 7b wissen.",
-      "url": "https://www.heise.de/tp/features/Erste-visuelle-Planetenentdeckung-durch-das-James-Webb-Weltraumteleskop-10462081.html",
-      "image_title": "Aufnahme eines Sterns und Planeten"
+      "title": "Digitalisierung – oder: Warum Verblödung auch eine Chance sein kann",
+      "teaser": "Wenn das Denken ins Outsourcing geht: Die soziale Schere bekommt ein Monster-Geschwisterchen. Spitzen der Gesellschaft, (Teil 1).",
+      "url": "https://www.heise.de/tp/features/Digitalisierung-oder-Warum-Verbloedung-auch-eine-Chance-sein-kann-10461842.html",
+      "image_title": "KI generiertes Bild: Comicähnliche gezeichnte Gruppe von jungen Männern und Frauen, die lachen und Sprechböasen über dem Kopf haben"
     },
     {
-      "title": "Ende der Illusionen: Wie der Krieg in der Ukraine (nicht) endet",
-      "teaser": "Der Ukraine-Krieg zieht sich ins viert Jahr. Die westlichen Partner halten an optimistischen Szenarien fest. Doch auf dem Schlachtfeld zeigt sich ein anderes Bild.",
-      "url": "https://www.heise.de/tp/features/Ende-der-Illusionen-Wie-der-Krieg-in-der-Ukraine-nicht-endet-10458764.html",
-      "image_title": "Seifenblase mit Taube vor ukrainischer Flagge"
+      "title": "Grünes Blattgemüse: Natürlicher Schutz für Herz und Gefäße",
+      "teaser": "Arteriosklerose betrifft Millionen Deutsche. Grünes Blattgemüse wie Spinat, Grünkohl und Brokkoli kann davor schützen. Wie das funktioniert, zeigt eine neue Studie.",
+      "url": "https://www.heise.de/tp/features/Gruenes-Blattgemuese-Natuerlicher-Schutz-fuer-Herz-und-Gefaesse-10461910.html",
+      "image_title": "Grünes Gemüse von Kale, Spinat, Broccoli auf weißem Hintergrund."
     },
     {
-      "title": "Heizkosten: Gas und Öl fast doppelt so teuer, Wärmepumpenstrom nur leicht gestiegen",
-      "teaser": "Die Preise für Gas und Heizöl haben sich in fünf Jahren fast verdoppelt, zeigt eine Analyse von Verivox. Wärmepumpenstrom wurde hingegen nur um 15 Prozent teurer.",
-      "url": "https://www.heise.de/tp/features/Heizkosten-Gas-und-Oel-fast-doppelt-so-teuer-Waermepumpenstrom-nur-leicht-gestiegen-10460488.html",
-      "image_title": "Grafische Darstellung einer Wärmepumpe"
+      "title": "14,60 Euro Mindestlohn: Nicht genug für armutsfeste Rente",
+      "teaser": "Der Mindestlohn steigt bis 2027 auf 14,60 Euro. Doch für eine armutsfeste Rente reicht das nicht. Wie viel wäre wirklich nötig?",
+      "url": "https://www.heise.de/tp/features/14-60-Euro-Mindestlohn-Nicht-genug-fuer-armutsfeste-Rente-10462864.html",
+      "image_title": "Mindestlohn: Münzen mit Symbol für verschiedene Tätigkeiten, die nur den Mindestlohn einbringen."
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
