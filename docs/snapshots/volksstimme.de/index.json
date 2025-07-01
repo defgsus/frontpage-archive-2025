@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-01T15:10:59",
+  "timestamp": "2025-07-01T16:13:16",
   "url": "https://www.volksstimme.de/",
   "response": {
     "status": 200
@@ -44,6 +44,12 @@
   ],
   "articles": [
     {
+      "title": "Lebensgefahr! Magdeburg sperrt beliebten Elberadweg - Warnung wird ignoriert",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/f0845ece-2c4f-434f-97c4-79ee90444f52.jpeg?rect=405%2C59%2C2797%2C1573&width=100",
+      "image_title": "\"Achtung Lebensgefahr\" steht an der Absperrung am Elberadweg in der Magdeburger Innenstadt.",
+      "topic": "Havarie an Uferpromenade"
+    },
+    {
       "title": "30-Jähriger stoppt Verkehr auf A14 bei Magdeburg! Mann stirbt nach Polizeieinsatz",
       "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/a49aabb2-0133-4856-b603-ade617dc6928.jpeg?rect=160%2C0%2C1232%2C693&width=100",
       "image_title": "Erst stoppte ein 30 Jahre alter Mann aus Bernburg den Verkehr auf der A14 bei Magdeburg, dann starb er plötzlich.",
@@ -54,12 +60,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/846c05cc-2a84-40b9-a461-098ceaf4e6b8.jpeg?rect=2%2C216%2C2010%2C1142&width=100",
       "image_title": "Eklige Lästlinge: Diese totgeschlagenen Fliegen verschickte eine Jävenitzerin per Post an die Betreiber der Geflügel-Anlage.",
       "topic": "Belästigung durch hunderte Fliegen"
-    },
-    {
-      "title": "Tödlicher Angriff in Firma: Was wir wissen - und was nicht",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/2719be0e-5e1a-4711-96fe-a9e1a3bcca27.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Nach dem Angriff in der Firma sind noch viele Fragen offen.",
-      "topic": "Großeinsatz"
     },
     {
       "title": "Mit Video: Razzia im Landtag von Sachsen-Anhalt - Polizei durchsucht bei CDU, SPD und AfD",
@@ -97,6 +97,13 @@
       "topic": "Jetzt mitmachen!"
     },
     {
+      "title": "Mit Video: Hier ist es in Magdeburg am kühlsten - Die Top-5-Orte",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/hier-ist-es-in-magdeburg-am-kuhlsten-die-top-5-orte-4075990",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/777a6407-414a-4323-97f2-d30b148fb6dd.jpeg?rect=0%2C0%2C1600%2C900&width=100",
+      "image_title": "Im Magdeburger Dom ist es angenehm kühl. Doch mit gut 22 Grad ist das altehrwürdige Gemäuer längst nicht der coolste Ort, den Volontärin Johanna Flint entdeckt hat.",
+      "topic": "Abkühlen statt schwitzen"
+    },
+    {
       "title": "Mit Video: Ost und West - Beide müssen mit anpacken",
       "url": "https://www.volksstimme.de/lokal/magdeburg/ost-und-west-beide-mussen-mit-anpacken-4074678",
       "image_url": "https://bmg-images.forward-publishing.io/2025/06/30/ed45161d-1d7f-4188-ad10-a9ea3dbee407.jpeg?rect=0%2C0%2C1600%2C900&width=100",
@@ -122,13 +129,6 @@
       "url": "https://www.volksstimme.de/lokal/magdeburg/die-maueroffnung-verschlafen-wie-der-heutige-fcm-prasident-wende-und-einheit-erlebte-4074262",
       "image_url": "https://bmg-images.forward-publishing.io/2025/06/28/19f7bb8f-4bc4-4111-aed1-a5956d8e50c1.jpeg?rect=0%2C1%2C1206%2C678&width=100",
       "image_title": "Jörg Biastoch, Unternehmer und FCM-Präsident, spricht offen über 35 Jahre Deutsche Einheit.",
-      "topic": "Serie „Otto ist Einheit“ über 35 Jahre Wiedervereinigung"
-    },
-    {
-      "title": "Mit Video: „Was willst du als Westdeutsche hier?“ Warum die Puppentheater-Chefin Magdeburg inzwischen trotzdem liebt",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/was-willst-du-als-westdeutsche-hier-warum-die-puppentheater-chefin-magdeburg-inzwischen-trotzdem-liebt-4074265",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/06/28/d101f80a-7987-40c5-8ee7-a3dba3eda8e2.jpeg?rect=6%2C0%2C1200%2C675&width=100",
-      "image_title": "Sabine Schramm, Intendantin des Puppentheaters Magdeburg.",
       "topic": "Serie „Otto ist Einheit“ über 35 Jahre Wiedervereinigung"
     },
     {
@@ -202,74 +202,81 @@
       "topic": "Kilometerlanger Stau auf der A14"
     },
     {
-      "title": "Warum junge Magdeburger in die Kirche eintreten",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/warum-junge-magdeburger-in-die-kirche-eintreten-4075805",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/a4bf9c79-17ad-43ed-87c6-fe860cb7b0be.jpeg?rect=0%2C40%2C2592%2C1458&width=100",
-      "image_title": "Die Magdeburgerinnen Marie Neitzel (l.) und Isabelle Koppernock sind gläubig und sehen die Kirche kritisch.",
-      "topic": "Mitgliederverlust und Missbrauchsskandale"
+      "title": "Eröffnungstermin für Aldi in Osterburg an der A14 steht fest",
+      "url": "https://www.volksstimme.de/lokal/osterburg/eroffnungstermin-fur-aldi-in-osterburg-an-der-a14-steht-fest-4075919",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/3ba2e1e7-6918-426d-b3fd-be8897df7c42.jpeg?rect=0%2C6%2C3319%2C1868&width=100",
+      "image_title": "Fast täglich ist der Baufortschritt am neuen Aldi-Markt an der Bismarker Straße in Osterburg zu beobachten.",
+      "topic": "Neuer Supermarkt im Kreis Stendal"
     },
     {
-      "title": "Der Hitze entfliehen: Diese Eissorten sind in Magdeburg besonders beliebt",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/der-hitze-entfliehen-diese-eissorten-sind-in-magdeburg-besonders-beliebt-4075977",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/4475eb8d-adfa-4d77-8949-e8a08c94f987.jpeg?rect=0%2C183%2C4000%2C2250&width=100",
-      "image_title": "Volontärin Johanna Flint (l.) probiert im Eiscafé Danz 11 eine Kugel Joghurt-Passionsfrucht - die Lieblingssorte von Verkäuferin Maja Kirschbaum.",
-      "topic": "Abkühlung bei über 30 Grad"
+      "title": "Lehrermangel: Mini-Musical statt Unterricht auf dem Land",
+      "url": "https://www.volksstimme.de/lokal/tangerhuette/lehrermangel-mini-musical-statt-unterricht-auf-dem-land-4075875",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/d959b532-0c82-456a-bd9f-8d4a98f500d0.jpeg?rect=289%2C115%2C1449%2C877&width=100",
+      "image_title": "Musical-Generalprobe in Grieben: Das Ausrufezeichen ruft alle Buchstaben zur Ordnung. Das „Z“ (am Boden) aber liest lieber noch ein Buch.",
+      "topic": "Schule im Kreis Stendal"
     },
     {
-      "title": "Ein Fest für den Brandschutz mit Oscar-Verleihung im Kreis Stendal",
-      "url": "https://www.volksstimme.de/lokal/tangerhuette/ein-fest-fur-den-brandschutz-mit-oscar-verleihung-im-kreis-stendal-4075917",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/9d020fb5-8e93-47e1-b4a8-7860aac1250d.jpeg?rect=484%2C188%2C2575%2C1070&width=100",
-      "image_title": "Die Männermannschaft aus dem Tangermünder Ortsteil Buch holte am Ende der Wettkämpfe den zweiten Platz im Löschangriff.",
-      "topic": "Uchtdorf feiert 135."
+      "title": "Privatkrieg im Schönebecker Stadtrat ruft fast Polizei auf den Plan",
+      "url": "https://www.volksstimme.de/lokal/schoenebeck/privatkrieg-im-schonebecker-stadtrat-ruft-fast-polizei-auf-den-plan-4075871",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/e1891c57-a9d2-48a4-a1c3-5b788f7c4447.jpeg?rect=0%2C0%2C4000%2C2667&width=100",
+      "image_title": "In der letzten Sitzung des Schönebecker Stadtrates vor der Sommerpause herrscht keine Harmonie. Zwischenzeitlich wird sogar erwogen, die Polizei einzuschalten.",
+      "topic": "Stadtpolitik"
     },
     {
-      "title": "Stadt Hecklingen unterstützt in Sachen Kastration",
-      "url": "https://www.volksstimme.de/lokal/stassfurt/stadt-hecklingen-unterstutzt-in-sachen-kastration-4075371",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/059d954e-fe20-447b-9ae0-0b49a2490c2f.jpeg?rect=0%2C416%2C4000%2C2250&width=100",
-      "image_title": "Wildlaufende Katzen im Fokus.",
-      "topic": "Tierschutzverein Staßfurt"
+      "title": "Wasser- und Abwasserverband Holtemme-Bode: Geschäftsführer steht vor Abwahl",
+      "url": "https://www.volksstimme.de/lokal/wernigerode/wasser-und-abwasserverband-holtemme-bode-geschaftsfuhrer-steht-vor-abwahl-4075908",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/b3e02c9d-ba65-4241-8c49-66d6d3b89f53.jpeg?rect=106%2C246%2C2688%2C1511&width=100",
+      "image_title": "Nikolai Witte, der Geschäftsführer des Wasser- und Abwasserverbands Holtemme-Bode (WAHB), soll seinen Posten vor Ablauf der regulären Vertragszeit Ende 2026 räumen.",
+      "topic": "Kritik vom Landesrechnungshof"
+    },
+    {
+      "title": "Sticker-Terror in Genthin: Wer verschandelt die Stadt?",
+      "url": "https://www.volksstimme.de/lokal/genthin/sticker-terror-in-genthin-wer-verschandelt-die-stadt-4075906",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/b1ea5924-8d2a-4dd9-a0db-9385a69e00ae.jpeg?rect=82%2C0%2C601%2C968&width=100",
+      "image_title": "Auch etliche Starßenlaternen Genthins sind davon betroffen.",
+      "topic": "Vandalismus statt Fankult"
+    },
+    {
+      "title": "Uwe, der (fast) Unbesiegbare: Schafft er den Marathon mit 80 Jahren?",
+      "url": "https://www.volksstimme.de/lokal/wolmirstedt/uwe-der-fast-unbesiegbare-schafft-er-den-marathon-mit-80-jahren-4076064",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/b66cf26a-b126-4a45-bb24-151d48af155b.jpeg?rect=0%2C592%2C1748%2C982&width=100",
+      "image_title": "Uwe Dietzmeyer bereitet sich auf den Marathon vor.",
+      "topic": "Sport im Alter"
+    },
+    {
+      "title": "Ein Schüler des berühmten Künstlers Neo Rauch stellt in Salzwedel aus",
+      "url": "https://www.volksstimme.de/lokal/salzwedel/ein-schuler-des-beruhmten-kunstlers-neo-rauch-stellt-in-salzwedel-aus-4076065",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/30d29d1f-b01b-4147-83bb-641e069dd22a.jpeg?rect=0%2C0%2C1248%2C652&width=100",
+      "image_title": "Malte Masemann stellt im Kunsthaus aus.",
+      "topic": "Ausstellung im Kunst"
+    },
+    {
+      "title": "Traumnote 1,2 und weitere Top-Leistungen am Jahn-Gymnaisum Salzwedel",
+      "url": "https://www.volksstimme.de/lokal/salzwedel/traumnote-1-2-und-weitere-top-leistungen-am-jahn-gymnaisum-salzwedel-4076060",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/c2c23320-119b-4a8b-9186-0001f2bd0d16.jpeg?rect=74%2C261%2C2543%2C1575&width=100",
+      "image_title": "Der Abschluss-Jahrgang 2025 des Jahn-Gymnasiums in Salzwedel.",
+      "topic": "Erfolgreiches Abitur in Salzwedel"
     },
     {
       "title": "Heißer Hund in Magdeburg – Tricks, wie ich meinen Vierbeiner gut durch die Hitze bekomme",
       "url": "https://www.volksstimme.de/lokal/magdeburg/heisser-hund-in-magdeburg-tricks-wie-ich-meinen-vierbeiner-gut-durch-die-hitze-bekomme-4075985",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/78b3bb2b-94d6-410b-9725-0ccb15dc6f24.jpeg?rect=0%2C98%2C3648%2C2052&width=100",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/cf18b4f6-d68c-4c66-8f3b-f487e9d07881.jpeg?rect=0%2C98%2C3648%2C2052&width=100",
       "image_title": "Irish-Wolfhound-Mix-Hündin Wilma kühlt sich ihre Pfoten gern an den Wasserspielen vor der Jugendkunstschule in Magdeburg- Buckau.",
       "topic": "Sorge vor Hitzeschlag"
     },
     {
-      "title": "Nach Sturm in Stendal: Oberbürgermeister zieht Bilanz über Schäden",
-      "url": "https://www.volksstimme.de/lokal/stendal/nach-sturm-in-stendal-oberburgermeister-zieht-bilanz-uber-schaden-4075976",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/694489d5-19a1-4f3f-99bc-525358b3d9b7.jpeg?rect=0%2C0%2C3216%2C2136&width=100",
-      "image_title": "Der Sturm, der am 26. Juni 2025 durch Stendal gezogen ist, hat im Park am Schwanenteich seine Spuren hinterlassen.",
-      "topic": "Spielplatz besonders getroffen"
+      "title": "Heiß, heißer, Mittwoch: So arbeitet Magdeburg bei fast 40 Grad",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/heiss-heisser-mittwoch-so-arbeitet-magdeburg-bei-fast-40-grad-4075982",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/7d2eb9ab-1153-4ff8-a783-984bb02a0106.jpeg?rect=0%2C312%2C3648%2C2052&width=100",
+      "image_title": "Hitze-Stopp auf der Baustelle: Die Tiefbauer Sandro John und Dennis Golacz nutzen den Schatten des Baggers, um kurz durchzuatmen. In der Gluthitze ssind die Werner-Bau-Mitarbeiter derzeit ind der Goslarer Straße in Magdeburg-Lemsdorf im Einsatz.",
+      "topic": "Hitzealarm in der Stadt"
     },
     {
-      "title": "Hier ist es in Magdeburg am kühlsten: Die Top-5-Orte",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/hier-ist-es-in-magdeburg-am-kuhlsten-die-top-5-orte-4075990",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/f5c37171-cb27-48b7-9fc0-de73d4442b71.jpeg?rect=0%2C375%2C4000%2C2250&width=100",
-      "image_title": "Im Magdeburger Dom ist es angenehm kühl. Doch mit gut 22 Grad ist das altehrwürdige Gemäuer längst nicht der coolste Ort, den Volontärin Johanna Flint entdeckt hat.",
-      "topic": "Abkühlen statt schwitzen"
-    },
-    {
-      "title": "Heinz Hoenig kämpft sich zurück: So steht es um seine Gesundheit und das Film-Comeback",
-      "url": "https://www.volksstimme.de/lokal/blankenburg/heinz-hoenig-schauspieler-film-comeback-krankheit-4075080",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/b2ef33fb-d304-4f29-8e69-9e6c84ba61d1.jpeg?rect=237%2C0%2C3560%2C2002&width=100",
-      "image_title": "Heinz Hoenig macht deutliche Fortschritte und möchte seine Karriere als Schauspieler fortsetzen.",
-      "topic": "Große Zukunftspläne"
-    },
-    {
-      "title": "Lebensgefahr! Magdeburg sperrt beliebten Elberadweg - Warnung wird ignoriert",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/lebensgefahr-magdeburg-sperrt-beliebten-elberadweg-warnung-wird-ignoriert-4075998",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/42e1b0ad-4131-42f6-a633-e44fd2de8641.jpeg?rect=405%2C59%2C2797%2C1573&width=100",
-      "image_title": "\"Achtung Lebensgefahr\" steht an der Absperrung am Elberadweg in der Magdeburger Innenstadt.",
-      "topic": "Havarie an Uferpromenade"
-    },
-    {
-      "title": "Dirk Fleischer aus Wolmirstedt holt Gold bei \"Olympischen Spielen\" für Beamte",
-      "url": "https://www.volksstimme.de/lokal/wolmirstedt/weltmeister-bodybuilding-goldmedaille-dirk-fleischer-4075934",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/f4a1b050-0313-4ec0-86c8-933260f7ab6a.jpeg?rect=0%2C214%2C1536%2C864&width=100",
-      "image_title": "Zum sechsten Mal siegte Dirk Fleischer bei den Weltsportspielen für Polizei und Feuerwehr.",
-      "topic": "stärkster Polizist Sachsen-Anhalts"
+      "title": "Afrika fängt gleich hinter Nedlitz an",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/afrika-fangt-gleich-hinter-nedlitz-an-4075740",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/061371fd-5980-4c02-89ee-706f3615d753.jpeg?rect=0%2C564%2C4000%2C2250&width=100",
+      "image_title": "Simone Holldorf hat den Straußenhennen einen Eimer voll Getreideleckerlis nirgebracht.",
+      "topic": "2. Teil der Serie „Die Freizeitmacher“ - „Straußenland“ im Jerichower Land"
     },
     {
       "title": "Kann Sachsen-Anhalts neuer Bildungsminister die Wogen wieder glätten?",
@@ -298,13 +305,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/d5d6cfd2-213e-44bb-82d9-24163ff13080.jpeg?rect=115%2C632%2C3371%2C1896&width=100",
       "image_title": "Die Freibadsaison in Sachsen-Anhalt ist wegen der hohen Temperaturen in vollem Gange. Zum Teil müssen Besucher aber mehr Eintritt als bisher bezahlen.",
       "topic": "Eintrittspreise und Öffnungszeiten"
-    },
-    {
-      "title": "Badeseen im Test: So steht es um die Wasserqualität der Seen in Sachsen-Anhalt",
-      "url": "https://www.volksstimme.de/sachsen-anhalt/see-badesee-wasser-freibad-strandbad-baden-schmutz-sommer-goitzsche-seeburg-geiseltal-4049390",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/6221fde6-a045-4100-89c3-7c633abe3375.jpeg?rect=213%2C284%2C3031%2C1705&width=100",
-      "image_title": "Blick auf den Arendsee in der Altmark.",
-      "topic": "Start der Badesaison"
     },
     {
       "title": "\"Total überfordert\": Ex-Leipziger Olaf begrüßt seine Auserwählte in Portugal mit Soljanka",
@@ -423,18 +423,25 @@
       "topic": "Fußball"
     },
     {
-      "title": "DFB-Kapitänin Gwinn bei der EM mit Regenbogenbinde",
-      "url": "https://www.volksstimme.de/sport/fussball/dfb-kapitanin-gwinn-bei-der-em-mit-regenbogenbinde-4075922",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/1b2a468e-2fa4-46c0-8c08-102f5872ccee.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Giulia Gwinn (l.) trägt die Regenbogenbinde bei der EM",
-      "topic": "Frauen-EM"
-    },
-    {
       "title": "Sinner locker weiter - Nächste Wimbledon-Überraschung",
       "url": "https://www.volksstimme.de/sport/sinner-locker-weiter-nachste-wimbledon-uberraschung-4076002",
       "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/9cc415dc-55ec-473b-a7cd-8bfe55778df9.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
       "image_title": "Jannik Sinner bewahrte einen kühlen Kopf.",
       "topic": "Tennis"
+    },
+    {
+      "title": "NOFV macht Druck: AG für Drittliga-Aufstieg gefordert",
+      "url": "https://www.volksstimme.de/sport/nofv-macht-druck-ag-fur-drittliga-aufstieg-gefordert-4076047",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/40eccf09-0e83-4962-a3b3-6248ad35dc33.jpeg?rect=0%2C125%2C2048%2C1152&width=100",
+      "image_title": "Der NOFV setzt sich verstärkt für eine Aufstiegsreform zur 3. Liga ein.",
+      "topic": "Fußball"
+    },
+    {
+      "title": "DFB-Kapitänin Gwinn bei der EM mit Regenbogenbinde",
+      "url": "https://www.volksstimme.de/sport/fussball/dfb-kapitanin-gwinn-bei-der-em-mit-regenbogenbinde-4075922",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/1b2a468e-2fa4-46c0-8c08-102f5872ccee.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Giulia Gwinn (l.) trägt die Regenbogenbinde bei der EM",
+      "topic": "Frauen-EM"
     },
     {
       "title": "„Unfassbares Potenzial“: Gwinn schwärmt von ihrem Team",
@@ -449,13 +456,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/e28dfa9c-82b8-48fe-a957-bb2be840b0d3.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
       "image_title": "Skeptisch, was ihren früheren Arbeitgeber betrifft: Inka Grings.",
       "topic": "Vor EM-Eröffnungsspiel"
-    },
-    {
-      "title": "Brasilianischer Doppelerfolg bei CHIO-Eröffnungsspringen",
-      "url": "https://www.volksstimme.de/sport/brasilianischer-doppelerfolg-bei-chio-eroffnungsspringen-4075913",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/e15599c9-f80b-4441-acb6-ecb47c50562b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Die deutsche Reiterin Sophie Hinners und ihr Freund Richard Vogel reiten beim CHIO.",
-      "topic": "Reitsport"
     },
     {
       "title": "„Kinder können nachts nicht schlafen“: Abriss bei Nacht sorgt für Ärger",
@@ -493,74 +493,73 @@
       "topic": "Nach Rettungsaktion an der Ringbrücke Damaschkeplatz"
     },
     {
-      "title": "Pride-Demo: EU-Kommissar lobt ungarische Zivilgesellschaft",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/pride-demo-eu-kommissar-lobt-ungarische-zivilgesellschaft-4076041",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/8daa864c-2898-492d-b6b1-4d421f577bd3.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Nicht ein einziger Euro solle nach Meinung der EU-Kommission in Länder fließen, in denen die Rechtsstaatlichkeit nicht respektiert wird, sagt EU-Kommissar Michael McGrath. (Archivbild)",
-      "topic": "Freiheitsrechte in der EU"
+      "title": "Trump zu Migranten-Haft im Sumpf: „Kein nettes Geschäft“",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/trump-zu-migranten-haft-im-sumpf-kein-nettes-geschaft-4076071",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/ce3cf36c-95f2-4087-872e-395eaeb28f0e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Trump reist nach Florida, wo eine neue Haftanstalt für Migranten eröffnet wird.",
+      "topic": "Abschiebungen"
     },
     {
-      "title": "Dieselprozess gegen Winterkorn vorerst gestoppt",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/dieselprozess-gegen-winterkorn-vorerst-gestoppt-4075865",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/19a89d02-9f5d-4a38-bac9-c82481e65589.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Der Prozess gegen Ex-Volkswagenchef Winterkorn ist vorläufig gestoppt. (Archivbild)",
-      "topic": "VW-Dieselaffäre"
+      "title": "Merz stellt Lösung bei Stromsteuer in Aussicht",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/merz-stellt-losung-bei-stromsteuer-in-aussicht-4075901",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/f13bc9fe-e75a-47f1-b848-fdb43b8ddfc6.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "„Wir schauen uns das noch mal an“, sagte der Kanzler.",
+      "topic": "Energie"
     },
     {
-      "title": "Russisches Kampfflugzeug abgestürzt",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/russisches-kampfflugzeug-abgesturzt-4076028",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/4cf1e28d-c706-4357-882d-0def2aa6a28b.jpeg?rect=0%2C0%2C2048%2C1152&width=100",
-      "image_title": "Ein russischer Kampfjet. (Archivbild)",
-      "topic": "Russlands Angriffskrieg"
+      "title": "Medizintechnik-Anbieter Brainlab sagt Börsengang ab",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/medizintechnik-anbieter-brainlab-sagt-borsengang-ab-4076053",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/cd0b66b8-64cd-413a-8c80-91a1bc9c367f.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Brainlab-Gründer Stefan Vilsmeier im Jahr 2021. Nun hat das Unternehmen seinen Börsengang kurzfristig abgeblasen. (Archiv)",
+      "topic": "Börse"
     },
     {
-      "title": "Deutsche Juden im Visier? Mutmaßlicher Iran-Spion gefasst",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/deutsche-juden-im-visier-mutmasslicher-iran-spion-gefasst-4075763",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/76d664d9-1df2-4a00-991f-92f30f79b4b9.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
-      "image_title": "Ein Spion soll für den Iran Juden und jüdische Einrichtungen in Berlin ausgespäht haben. (Symbolbild)",
-      "topic": "Bundesanwaltschaft"
+      "title": "Merck schließt größten Pharma-Deal seit Jahrzehnten ab",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/merck-schliesst-grossten-pharma-deal-seit-jahrzehnten-ab-4075884",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/c342b9d2-1fe9-4902-a3a8-e346bd87c0a9.jpeg?rect=0%2C171%2C2048%2C1152&width=100",
+      "image_title": "Merck-Chefin Belén Garijo richtet die Pharmasparte des Konzerns auf neue Therapiefelder aus (Archivbild)",
+      "topic": "Arzneibranche"
     },
     {
       "title": "Polen plant ab Montag Kontrollen an Grenze zu Deutschland",
       "url": "https://www.volksstimme.de/deutschland-und-welt/politik/polen-plant-ab-montag-kontrollen-an-grenze-zu-deutschland-4075790",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/7e8aedf9-a6d7-4e18-96d7-07acedea300f.jpeg?rect=0%2C88%2C2048%2C1152&width=100",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/3ea78b46-b55c-4823-a2e9-3568ca23f639.jpeg?rect=0%2C88%2C2048%2C1152&width=100",
       "image_title": "Der Ärger über deutsche Kontrollen an der gemeinsamen Grenze ist in Polen gestiegen. Nun will das Land selbst Kontrollen einführen. (Archivbild)",
       "topic": "Migration"
     },
     {
-      "title": "Keine Strafanzeige wegen falschen Alligator-Video in Vechta",
-      "url": "https://www.volksstimme.de/panorama/keine-strafanzeige-wegen-falschen-alligator-video-in-vechta-4076044",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/fa65e0ca-280e-4355-b24a-e68d40e8945c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Die Suche nach einem vermeintlichen Alligator hatte in Vechta für Aufregung gesorgt. (Archivbild)",
-      "topic": "Vergebliche Suche"
+      "title": "Halbjahr so trocken wie nie? Wohl Rekord in Potsdam",
+      "url": "https://www.volksstimme.de/panorama/halbjahr-so-trocken-wie-nie-wohl-rekord-in-potsdam-4076085",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/926bab14-63bf-4dc2-ac1c-044f589cfae9.jpeg?rect=0%2C177%2C2048%2C1152&width=100",
+      "image_title": "Für die Landwirtschaft ist die enorme Trockenheit ein großes Problem.",
+      "topic": "Dürre"
     },
     {
-      "title": "Neuer Kassenärztechef Windau tritt Amt an",
-      "url": "https://www.volksstimme.de/panorama/neuer-kassenarztechef-windau-tritt-amt-an-4076043",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/d3f7de8e-4265-4753-a70d-76b1d8d6b7a4.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Stefan Windau war 20 Jahre lang Vorsitzender der KVS-Vertreterversammlung. (Archivbild)",
-      "topic": "Gesundheitspolitik"
+      "title": "Waldbrände in Brandenburg ausgebrochen",
+      "url": "https://www.volksstimme.de/panorama/waldbrande-in-brandenburg-ausgebrochen-4076007",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/2629b83d-e917-476a-916d-e7ec719d3f18.jpeg?rect=0%2C81%2C2048%2C1152&width=100",
+      "image_title": "In Treuenbrietzen brennen rund 13 Hektar Waldfläche.",
+      "topic": "Trockenheit"
     },
     {
-      "title": "Doppelspitze an der Komischen Oper geht in die Verlängerung",
-      "url": "https://www.volksstimme.de/panorama/doppelspitze-an-der-komischen-oper-geht-in-die-verlangerung-4076042",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/f056e439-fd2a-4978-a8cc-45ef0cc3a621.jpeg?rect=0%2C108%2C2048%2C1152&width=100",
-      "image_title": "Philip Bröking und Susanne Moser gehen an der Komischen Oper in die Verlängerung (Archivbild).",
-      "topic": "Bühnen in Berlin"
+      "title": "Warum die Bahn Landwirte von ihren Feldern aussperrt",
+      "url": "https://www.volksstimme.de/panorama/aufgespiesst/warum-die-bahn-landwirte-von-ihren-feldern-aussperrt-4076083",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/9441128e-d1ac-4076-b909-2a06945b5c78.jpeg?rect=120%2C29%2C600%2C473&width=100",
+      "image_title": "Grasmahd? Unmöglich."
     },
     {
-      "title": "Ochsenknecht: „Der Spuk hat immer noch kein Ende“",
-      "url": "https://www.volksstimme.de/panorama/stars/ochsenknecht-der-spuk-hat-immer-noch-kein-ende-4076003",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/d8d5aaa6-6ad0-4e5b-81f0-3c1cbaeb2c19.jpeg?rect=0%2C177%2C2048%2C1152&width=100",
-      "image_title": "Jimi Blue Ochsenknecht schlägt auf Instagram einsichtige Töne an. (Archivbild)",
-      "topic": "Haft wegen Hotelschulden"
+      "title": "Wien und Innsbruck bewerben sich für ESC 2026",
+      "url": "https://www.volksstimme.de/panorama/wien-und-innsbruck-bewerben-sich-fur-esc-2026-4076081",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/4445b953-186d-4c40-9e63-fee271edae51.jpeg?rect=0%2C34%2C2048%2C1152&width=100",
+      "image_title": "Wien war bereits Gastgeber für den ESC 2015. (Archivbild)",
+      "topic": "Song Contest"
     },
     {
-      "title": "Gammelfleisch? 40 Dönerspieße am Feldweg entsorgt",
-      "url": "https://www.volksstimme.de/panorama/gammelfleisch-40-donerspiesse-am-feldweg-entsorgt-4075829",
-      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/74a43376-c81f-4ae9-a697-f5f9978c8582.jpeg?rect=0%2C269%2C2048%2C1152&width=100",
-      "image_title": "In Frischhaltefolie gewickelte Dönerspieße wurden an einem Feldweg im Landkreis Helmstedt entsorgt. Die Polizei ermittelt.",
-      "topic": "Kurioser Fund"
+      "title": "Steinmeier im Vollsprint - Niederlage im Drachenboot",
+      "url": "https://www.volksstimme.de/panorama/steinmeier-im-vollsprint-niederlage-im-drachenboot-4076076",
+      "image_url": "https://bmg-images.forward-publishing.io/2025/07/01/7b561ea5-88dc-454e-a5ea-908f66ffc4b7.jpeg?rect=0%2C119%2C2048%2C1152&width=100",
+      "image_title": "Steinmeier besucht Neuruppin für drei Tage.",
+      "topic": "Besuch in Neuruppin"
     },
     {
       "title": "Frische Ohrlöcher: Darum sollte man im Sommer nicht ins Wasser springen – oder doch?",
