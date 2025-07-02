@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-02T04:20:47",
+  "timestamp": "2025-07-02T05:13:23",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Cyberangriff auf australische Fluggesellschaft Qantas",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-australische-Fluggesellschaft-Qantas-10467031.html"
+    },
     {
       "title": "Mittwoch: Österreichs Rundfunkgebühren und Förderung der E-Mobilität",
       "url": "https://www.heise.de/news/Mittwoch-Oesterreichs-Rundfunkgebuehren-und-Foerderung-der-E-Mobilitaet-10467027.html"
@@ -60,10 +64,6 @@
     {
       "title": "c’t-Story: Very Important Drones",
       "url": "https://www.heise.de/hintergrund/c-t-Story-Very-Important-Drones-10418000.html"
-    },
-    {
-      "title": "Siri-Kehrtwende: Apple liebäugelt angeblich mit Anthropics KI-Modell",
-      "url": "https://www.heise.de/news/Siri-Kehrtwende-Apple-liebaeugelt-angeblich-mit-Anthropics-KI-Modell-10466925.html"
     },
     {
       "title": "AlertchwootKritische Linux-Lücke macht Nutzer auf den meisten Systemen zu Root",
@@ -183,21 +183,27 @@
       "image_title": "Luftbild einer FSRU und des Anlegers"
     },
     {
+      "title": "Cyberangriff auf australische Fluggesellschaft Qantas",
+      "teaser": "Cyberkriminelle haben sich Zugang zu Daten von Millionen Qantas-Kunden verschafft. Es ist nicht die erste Panne bei der australischen Fluglinie.",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-australische-Fluggesellschaft-Qantas-10467031.html",
+      "image_title": "Boeing-747-Modell in Qantas-Livery"
+    },
+    {
       "title": "Mittwoch: Österreichs Rundfunkgebühren und Förderung der E-Mobilität",
       "teaser": "Verfassungsgericht pro Haushaltsabgabe + Subventionen für E-Mobilität + Cloudflare gegen KI-Crawler + Mindfactory vor heise-Übernahme + Bit-Rauschen über RISC-V",
       "url": "https://www.heise.de/news/Mittwoch-Oesterreichs-Rundfunkgebuehren-und-Foerderung-der-E-Mobilitaet-10467027.html",
       "image_title": "Ausrangierte Fernseher auf einer Wiese; Mittwoch: Rundfunkgebühren-Urteil, E-Mobilität-Unterstützung, KI-Crawler-Abwehr, Mindfactory-Übernahme & Bit-Rauschen"
     },
     {
+      "title": "Technologieinseln nahtlos miteinander vernetzen",
+      "teaser": "Mit einer „Digital Fabric“ lässt sich der Datenaustausch über viele Anwendungen hinweg erleichtern. Das Ergebnis sind kosteneffiziente Netzwerkarchitekturen mit voller Transparenz und Kontrolle.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6976296867&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Wo steht die CPU-Technik RISC-V aktuell?",
       "teaser": "Zwar gibt es haufenweise RISC-V-Chips, aber kaum welche für attraktive Linux-Rechner. Die Ursachen ergründet Folge 2025/14 des Podcasts Bit-Rauschen.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Wo-steht-die-CPU-Technik-RISC-V-aktuell-10464678.html",
       "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
-      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Cloudflare lässt KI-Crawler auflaufen, wenn nicht für Scraping bezahlt wird",
@@ -227,12 +233,6 @@
       "teaser": "Das Phone (3) von Nothing bricht mit alten Gewohnheiten: Es ist stärker und teurer als die bisherigen Modelle. Der Glyph wurde zu einem Extra-Display.",
       "url": "https://www.heise.de/news/Nothing-Phone-3-Mit-neuem-Glyph-Display-in-Richtung-High-End-10466685.html",
       "image_title": "Neues Telefon"
-    },
-    {
-      "title": "Nothing Headphone (1): Over-Ear-Kopfhörer mit ANC im ersten Eindruck",
-      "teaser": "Mit seinem ersten großen Kopfhörer zieht Nothing den transparenten Look zumindest teilweise durch. Nützlicher sind andere Teile des Kopfhörers.",
-      "url": "https://www.heise.de/news/Nothing-Headphone-1-Over-Ear-Kopfhoerer-mit-ANC-im-ersten-Eindruck-10465785.html",
-      "image_title": "Nothing Headphone auf Tisch und Tastatur"
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -284,12 +284,12 @@
       "image_title": "Foto von den Rückbauarbeiten im Kernkraftwerk Lubmin"
     },
     {
-      "title": "Microsoft: Update-Verlängerung für Windows 10 für Privatkunden konkretisiert",
-      "url": "https://www.heise.de/news/Microsoft-Update-Verlaengerung-fuer-Windows-10-fuer-Privatkunden-konkretisiert-10458519.html"
-    },
-    {
       "title": "Apple vs. EU: Der Schlamassel wird immer größer",
       "url": "https://www.heise.de/meinung/Apple-und-die-EU-Geht-es-wirklich-nicht-einfacher-10462502.html"
+    },
+    {
+      "title": "Microsofts KI-Stromhunger: US-Atomkraftwerk soll vorzeitig reaktiviert werden",
+      "url": "https://www.heise.de/news/Microsofts-KI-Stromhunger-US-Atomkraftwerk-soll-vorzeitig-reaktiviert-werden-10463412.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -302,6 +302,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Nothing Headphone (1): Over-Ear-Kopfhörer mit ANC im ersten Eindruck",
+      "teaser": "Mit seinem ersten großen Kopfhörer zieht Nothing den transparenten Look zumindest teilweise durch. Nützlicher sind andere Teile des Kopfhörers.",
+      "url": "https://www.heise.de/news/Nothing-Headphone-1-Over-Ear-Kopfhoerer-mit-ANC-im-ersten-Eindruck-10465785.html",
+      "image_title": "Nothing Headphone auf Tisch und Tastatur"
     },
     {
       "title": "c’t-Story: Very Important Drones",
@@ -373,15 +379,15 @@
       "image_title": "Rechenzentrum und Code"
     },
     {
+      "title": "IT-Ausfälle: So werden Unternehmen schnell wieder handlungsfähig",
+      "teaser": "Softwarefehler und andere Probleme führen in der IT regelmäßig zu Ausfällen. Die Wahl der richtigen Hardwareplattform trägt entscheidend dazu bei, die Downtime minimal zu halten.",
+      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-unternehmen-bei-it-ausfaellen-rasch-wieder-handlungsfaehig-werden/?source=hbsadersatz"
+    },
+    {
       "title": "ChatEurope: dpa und weitere Medienhäuser eröffnen Nachrichtenplattform",
       "teaser": "15 Medienhäuser aus ganz Europa haben mit ChatEurope die erste KI-basierte Plattform für europäische Nachrichten veröffentlicht.",
       "url": "https://www.heise.de/news/ChatEurope-dpa-und-weitere-Medienhaeuser-starten-Nachrichtenplattform-10466471.html",
       "image_title": "ChatEurope"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Sharing-E-Scooter: Verkehrsminister will Parken auf Gehwegen verbieten",
@@ -435,12 +441,6 @@
       "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie.",
       "url": "https://www.heise.de/news/iX-Workshop-Effiziente-IT-Sicherheit-fuer-kleine-und-mittlere-Unternehmen-10459935.html",
       "image_title": "iX-Workshop: IT-Sicherheit für KMU"
-    },
-    {
-      "title": "Meisterklasse Landschaftsfotografie: Motiv mit Bedacht auswählen",
-      "teaser": "Im ersten Beitrag unserer fünfteiligen Reihe zur Landschaftsfotografie widmen wir uns dem Motiv und erklären, wie Sie Ihre Bilder maßgeblich verbessern können.",
-      "url": "https://www.heise.de/ratgeber/Bessere-Landschaftsaufnahmen-Motiv-mit-Bedacht-auswaehlen-10461005.html",
-      "image_title": "Nikon D850 220 mm ISO 500 f/8.0 1/320 s, Alle Fotos: Nicolas Alexander Otto"
     },
     {
       "title": "UpdateMidea PortaSplit: Fremde Klimaanlagen ferngesteuert",
@@ -612,21 +612,20 @@
       "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
     },
     {
-      "title": "Nothing Phone (3): Mit neuem Glyph-Display in Richtung High-End",
-      "teaser": "Das Phone (3) von Nothing bricht mit alten Gewohnheiten: Es ist stärker und teurer als die bisherigen Modelle. Der Glyph wurde zu einem Extra-Display.",
-      "url": "https://www.heise.de/news/Nothing-Phone-3-Mit-neuem-Glyph-Display-in-Richtung-High-End-10466685.html",
-      "image_title": "Neues Telefon"
-    },
-    {
-      "title": "Nothing Headphone (1): Over-Ear-Kopfhörer mit ANC im ersten Eindruck",
-      "teaser": "Mit seinem ersten großen Kopfhörer zieht Nothing den transparenten Look zumindest teilweise durch. Nützlicher sind andere Teile des Kopfhörers.",
-      "url": "https://www.heise.de/news/Nothing-Headphone-1-Over-Ear-Kopfhoerer-mit-ANC-im-ersten-Eindruck-10465785.html",
-      "image_title": "Nothing Headphone auf Tisch und Tastatur"
-    },
-    {
       "title": "Interview: Wie abhängig ist die Schweizer Bundesverwaltung von Microsoft?",
       "teaser": "Die Schweizer Bundesverwaltung steigt auf Microsofts Clouddienst 365 um, testet aber auch openDesk. Die Hintergründe erklärt Daniel Markwalder im c't-Interview.",
       "url": "https://www.heise.de/hintergrund/Interview-Wie-abhaengig-ist-die-Schweizer-Bundesverwaltung-von-Microsoft-10466802.html"
+    },
+    {
+      "title": "Bit-Rauschen, der Prozessor-Podcast: Wo steht die CPU-Technik RISC-V aktuell?",
+      "teaser": "Zwar gibt es haufenweise RISC-V-Chips, aber kaum welche für attraktive Linux-Rechner. Die Ursachen ergründet Folge 2025/14 des Podcasts Bit-Rauschen.",
+      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Wo-steht-die-CPU-Technik-RISC-V-aktuell-10464678.html",
+      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
+    },
+    {
+      "title": "BibBot: Browser-Add-on zum Lesen hinter vielen Paywalls",
+      "teaser": "Das Browser-Add-on BibBot verschafft günstigen Zugriff auf viele Artikel hinter Paywalls. Das funktioniert anders, als man vermutet, und ist legal.",
+      "url": "https://www.heise.de/ratgeber/BibBot-Browser-Add-on-zum-Lesen-hinter-vielen-Paywalls-10453174.html"
     },
     {
       "title": "Im TestDocks und Hubs mit Thunderbolt 5 am Mac",
@@ -719,10 +718,10 @@
       "image_title": "VW California eHybrid 4motion"
     },
     {
-      "title": "Plug-in-Hybrid mit fast 100 km E-ReichweiteCupra Terramar e-Hybrid im Test",
-      "teaser": "Der Terramar soll der letzte neue Cupra mit Verbrenner sein. Als PHEV bietet in der Praxis knapp 100 km E-Reichweite. Ist er damit zu empfehlen? Ein Test",
-      "url": "https://www.heise.de/tests/Cupra-Terramar-e-Hybrid-PHEV-mit-fast-100-km-E-Reichweite-im-Test-10460514.html",
-      "image_title": "Cupra Terramar e-Hybrid"
+      "title": "UpdateAirbags defektVolkswagen ruft tausende Fahrzeuge zurück",
+      "teaser": "Ein Problem mit dem Airbag kann bei einem Unfall für Beifahrer lebensgefährlich werden. Volkswagen bestätigte Medienberichte.",
+      "url": "https://www.heise.de/news/Airbags-defekt-Volkswagen-ruft-tausende-Fahrzeuge-zurueck-10463600.html",
+      "image_title": "VW Airbag"
     },
     {
       "title": "Überschuss im Netz: Wie erneuerbare Energien die Strompreise ins Minus treiben",
@@ -760,22 +759,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "2 Jahre und 9 Monate nach Sprengung: Bundesregierung erklärt Nordstream für tot",
-      "teaser": "SPD zieht einen Schlussstrich. Die Partei lehnt weitere Gaslieferungen aus Russland ab. Doch die Bundesregierung steht vor einem Problem.",
-      "url": "https://www.heise.de/tp/features/2-Jahre-und-9-Monate-nach-Sprengung-Bundesregierung-erklaert-Nordstream-fuer-tot-10464916.html",
-      "image_title": "Nordstream-Pipeline, künstlerische Darstellung"
+      "title": "Fettleber: Wissenschaftler sehen Vorteile bei mediterraner Küche",
+      "teaser": "Die mediterrane Ernährung gilt als Inbegriff gesunder Kost. Eine aktuelle Studie deutet darauf hin, dass sie auch vor Fettleber schützen könnte. So funktioniert’s.",
+      "url": "https://www.heise.de/tp/features/Fettleber-Wissenschaftler-sehen-Vorteile-bei-mediterraner-Kueche-10466571.html",
+      "image_title": "Eine Frau bereitet einen Salat mit Oliven, Tomaten, Feta-Käse und Olivenöl zu. Das gehört zur Mediterranen Diät."
     },
     {
-      "title": "Ukraine-Krieg: Nordkoreanische Arbeiter revolutionieren russische Drohnenproduktion",
-      "teaser": "Der Krieg ist zum Drohnen-Labor geworden. Russland schafft einen Fabrikkomplex für den Krieg der Zukunft. Über eine Kriegstechnik in permanenter Erneuerung. Analyse.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nordkoreanische-Arbeiter-revolutionieren-russische-Drohnenproduktion-10464376.html",
-      "image_title": "KI-generiertes Bild zeigt einen gezeichneten Arbeiter in nordkoreanischer Uniform, der eine Drohne herstellt"
+      "title": "Hitzewelle in Europa: Jetzt nur ein kühlen Kopf bewahren",
+      "teaser": "Europa ächzt unter Rekordtemperaturen. Die Wissenschaft sieht darin klare Anzeichen des Klimawandels. Doch Panik wäre jetzt der falsche Weg. Ein Telepolis-Leitartikel.",
+      "url": "https://www.heise.de/tp/features/Hitzewelle-in-Europa-Jetzt-nur-ein-kuehlen-Kopf-bewahren-10466258.html",
+      "image_title": "Thermometer vor roter Erdkugel"
     },
     {
-      "title": "Chinas fliegende Artillerie: Drohnen aus Geschützrohren",
-      "teaser": "Chinesische Ingenieure haben erfolgreich Drohnen getestet, die aus Artilleriegeschossen abgefeuert werden. Die Geräte galten bisher als nicht realisierbar.",
-      "url": "https://www.heise.de/tp/features/Chinas-fliegende-Artillerie-Drohnen-aus-Geschuetzrohren-10455973.html",
-      "image_title": "Symbolbild einer Artillerie"
+      "title": "Chinas Wirtschaft: Zwei Schritte vor, einer zurück",
+      "teaser": "Chinas Wirtschaft zeigt überraschende Verbesserungen in der Industrie. Die Exportzahlen steigen leicht an. Doch was bedeutet der erneute Rückgang der Beschäftigung?",
+      "url": "https://www.heise.de/tp/features/Chinas-Wirtschaft-Zwei-Schritte-vor-einer-zurueck-10464979.html",
+      "image_title": "Arbeiter, der an einem Ventilator hantiert"
     },
     {
       "title": "Usenet-Anbieter: So finden Sie den besten Provider",
