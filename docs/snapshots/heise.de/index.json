@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-02T12:19:33",
+  "timestamp": "2025-07-02T13:26:04",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Deutsche Digitalwirtschaft ist der Wachstumsmotor",
+      "url": "https://www.heise.de/news/Deutsche-Digitalwirtschaft-ist-der-Wachstumsmotor-10471152.html"
+    },
+    {
+      "title": "KI-Update: ChatEurope, KI in Schulen, Medizinische KI, Meta-Gehälter, OpenAI",
+      "url": "https://www.heise.de/news/KI-Update-ChatEurope-KI-in-Schulen-Medizinische-KI-Meta-Gehaelter-OpenAI-10467101.html"
+    },
+    {
+      "title": "Humanoide auf der Automatica: Warum Serviceroboter noch Mangelware sind",
+      "url": "https://www.heise.de/news/Humanoide-auf-der-Automatica-Warum-Serviceroboter-noch-Mangelware-sind-10455820.html"
+    },
+    {
+      "title": "5 Jahre Updates: Wie Smartphone-Hersteller mit der neuen EU-Vorabe umgehen",
+      "url": "https://www.heise.de/news/5-Jahre-Updates-Wie-Smartphone-Hersteller-mit-der-neuen-EU-Vorabe-umgehen-10467650.html"
+    },
+    {
       "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-10459955.html"
     },
@@ -50,22 +66,6 @@
       "url": "https://www.heise.de/news/Raspberry-Pi-gibt-Funkmodul-RM2-in-Maker-Haende-10469146.html"
     },
     {
-      "title": "Womöglich drittes interstellares Objekt bei Flug durchs Sonnensystem entdeckt",
-      "url": "https://www.heise.de/news/Dritter-interstellarer-Himmelskoerper-A11pl3Z-sorgt-fuer-Aufregung-10469052.html"
-    },
-    {
-      "title": "Kriminelle nutzen Deepfakes von Prominenten für täuschend echte Fake-Werbung",
-      "url": "https://www.heise.de/news/Kriminelle-nutzen-Deepfakes-von-Prominenten-fuer-taeuschend-echte-Fake-Werbung-10468370.html"
-    },
-    {
-      "title": "Microsoft befreit GitHub-Coding-Assistent für VS Code: Künftig mit MIT-Lizenz",
-      "url": "https://www.heise.de/news/Microsoft-befreit-GitHub-Coding-Assistent-fuer-VS-Code-Kuenftig-mit-MIT-Lizenz-10468334.html"
-    },
-    {
-      "title": "600.000 WordPress-Instanzen durch Lücke in Plug-in Forminator kompromittierbar",
-      "url": "https://www.heise.de/news/600-000-WordPress-Instanzen-durch-Luecke-in-Plug-in-Forminator-kompromittierbar-10467442.html"
-    },
-    {
       "title": "Aufregung um A11pl3ZDrittes interstellares Objekt bei Flug durchs Sonnensystem entdeckt?",
       "teaser": "Bislang wurden nur zwei interstellare Objekte im Sonnensystem entdeckt. Gerade verdichten sich die Hinweise auf das dritte.",
       "url": "https://www.heise.de/news/Dritter-interstellarer-Himmelskoerper-A11pl3Z-sorgt-fuer-Aufregung-10469052.html",
@@ -77,9 +77,10 @@
       "url": "https://www.heise.de/hintergrund/Klimaanlagen-zum-Kuehlen-und-Heizen-Wie-sie-funktionieren-was-sie-leisten-10455909.html"
     },
     {
-      "title": "AlertchwootKritische Linux-Lücke macht Nutzer auf den meisten Systemen zu Root",
-      "teaser": "Ein Exploit steht im Netz und funktioniert auf vielen Standardystemen. Admins sollten schnell die verfügbaren Updates einspielen.",
-      "url": "https://www.heise.de/news/chwoot-Kritische-Linux-Luecke-macht-Nutzer-auf-den-meisten-Systemen-zu-Root-10466885.html"
+      "title": "NAS-ZwangSynology verlangt Unsummen für SSDs mit veralteter Technik",
+      "teaser": "Drei SSDs aus Synologys Serie SNV5400 sind im Handel angekommen. Die Firma will deren Einsatz in ihren NAS erzwingen.",
+      "url": "https://www.heise.de/news/NAS-Zwang-Synology-verlangt-Unsummen-fuer-SSDs-mit-veralteter-Technik-10469122.html",
+      "image_title": "Synology-SSD vor blauem Hintergrund"
     },
     {
       "title": "Effizienter kühlenMobile Klimaanlagen auf Zweischlauchbetrieb umrüsten",
@@ -87,10 +88,9 @@
       "url": "https://www.heise.de/ratgeber/Effizienter-kuehlen-Mobile-Klimaanlage-auf-Zweischlauchbetrieb-umruesten-10329248.html"
     },
     {
-      "title": "Hohe SpritpreiseKartellamt kritisiert Preisgestaltung im Mineralölhandel",
-      "teaser": "Die Kraftstoffpreise sind nicht mehr allein durch den Wettbewerb zu erklären. Das Kartellamt bestätigt die wiederholte Kritik des ADAC.",
-      "url": "https://www.heise.de/news/Kartellamt-kritisiert-Spritpreis-Gestaltung-durch-Mineraloelhandel-10467279.html",
-      "image_title": "Benzinpreise"
+      "title": "AlertchwootKritische Linux-Lücke macht Nutzer auf den meisten Systemen zu Root",
+      "teaser": "Ein Exploit steht im Netz und funktioniert auf vielen Standardystemen. Admins sollten schnell die verfügbaren Updates einspielen.",
+      "url": "https://www.heise.de/news/chwoot-Kritische-Linux-Luecke-macht-Nutzer-auf-den-meisten-Systemen-zu-Root-10466885.html"
     },
     {
       "title": "Nach Insolvenzheise will Mindfactory übernehmen",
@@ -155,15 +155,21 @@
       "image_title": "Screenshot zeigt eine Szene aus Blade Runner"
     },
     {
-      "title": "KILLM-Betreiber sammeln umfangreich persönlich Daten und geben diese weiter",
-      "teaser": "Eine Studie zeigt, wie rücksichtslos LLMs mit persönlichen Daten umgehen: beim Sammeln in Social Media, in Apps und bei der Weitergabe.",
-      "url": "https://www.heise.de/news/Prompts-Telefon-Standort-Social-Media-LLMs-sammeln-massiv-persoenlich-Daten-10466018.html",
-      "image_title": "Eine Zeichnung, auf der ein Chef zu sehen ist, der seinen Mitarbeiter mit einer Lupe beobachtet."
+      "title": "Hohe SpritpreiseKartellamt kritisiert Preisgestaltung im Mineralölhandel",
+      "teaser": "Die Kraftstoffpreise sind nicht mehr allein durch den Wettbewerb zu erklären. Das Kartellamt bestätigt die wiederholte Kritik des ADAC.",
+      "url": "https://www.heise.de/news/Kartellamt-kritisiert-Spritpreis-Gestaltung-durch-Mineraloelhandel-10467279.html",
+      "image_title": "Benzinpreise"
     },
     {
       "title": "Home AssistantHaus smart steuern mit interaktivem Grundriss",
       "teaser": "Mit Home Assistant lassen sich Grundrisse erstellen, um das Smart Home zu steuern. Per KI sind sie aufhübschbar, etwa im Retro-Pixelstil.",
       "url": "https://www.heise.de/ratgeber/Home-Assistant-Haus-smart-steuern-mit-interaktivem-Grundriss-10362948.html"
+    },
+    {
+      "title": "Daten weitergegebenLLM-Betreiber sammeln umfangreich persönlich Daten",
+      "teaser": "Eine Studie zeigt, wie rücksichtslos LLMs mit persönlichen Daten umgehen: beim Sammeln in Social Media, in Apps und bei der Weitergabe.",
+      "url": "https://www.heise.de/news/Prompts-Telefon-Standort-Social-Media-LLMs-sammeln-massiv-persoenlich-Daten-10466018.html",
+      "image_title": "Eine Zeichnung, auf der ein Chef zu sehen ist, der seinen Mitarbeiter mit einer Lupe beobachtet."
     },
     {
       "title": "Neues LeitsystemDeutsche Bahn schließt großes IT-Projekt ab",
@@ -178,10 +184,31 @@
       "image_title": "Bitcoin-Münze"
     },
     {
-      "title": "ViruserkrankungenDNA-Sensor erkennt HPV oder HIV für weniger als ein Dollar",
-      "teaser": "Das MIT hat einen DNA-Sensor entwickelt, der durch Spannungsänderungen HPV- und HIV-Infektionen erkennen kann.",
-      "url": "https://www.heise.de/news/MITs-DNA-Sensor-erkennt-HPV-oder-HIV-fuer-weniger-als-ein-Dollar-10467107.html",
-      "image_title": "DNA-Sensor des MIt im Vergleich zu einer Münze."
+      "title": "Deutsche Digitalwirtschaft ist der Wachstumsmotor",
+      "teaser": "In der hiesigen ITK-Branche wachsen die Umsätze und es entstehen neue Jobs. Der Cloud-Anteil im Software- und Dienstleistungsgeschäft wächst überproportional.",
+      "url": "https://www.heise.de/news/Deutsche-Digitalwirtschaft-ist-der-Wachstumsmotor-10471152.html",
+      "image_title": "Taschenrechner, Münzen"
+    },
+    {
+      "title": "KI-Update: ChatEurope, KI in Schulen, Medizinische KI, Meta-Gehälter, OpenAI",
+      "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-ChatEurope-KI-in-Schulen-Medizinische-KI-Meta-Gehaelter-OpenAI-10467101.html"
+    },
+    {
+      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
+      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Humanoide auf der Automatica: Warum Serviceroboter noch Mangelware sind",
+      "teaser": "Laufroboter, die auf YouTube schon autonom handeln, wagen sich nur vorsichtig auf gut ausgeleuchtete Messen. Erste Einblicke lieferte die Automatica in München.",
+      "url": "https://www.heise.de/news/Humanoide-auf-der-Automatica-Warum-Serviceroboter-noch-Mangelware-sind-10455820.html"
+    },
+    {
+      "title": "5 Jahre Updates: Wie Smartphone-Hersteller mit der neuen EU-Vorabe umgehen",
+      "teaser": "Seit dem 20. Juni gilt in der EU die neue Ökoverordnung. Diese sieht unter anderem fünf Jahre Updates ab Verkaufsende vor. Wie Hersteller damit umgehen wollen.",
+      "url": "https://www.heise.de/news/5-Jahre-Updates-Wie-Smartphone-Hersteller-mit-der-neuen-EU-Vorabe-umgehen-10467650.html",
+      "image_title": "Eine Gruppe Menschen im Kreis hält Smartphones in der Hand"
     },
     {
       "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
@@ -195,45 +222,16 @@
       "url": "https://www.heise.de/news/Schwachstellen-IBM-Storage-Scale-fuer-Attacken-anfaellig-10468812.html"
     },
     {
-      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
-      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "iPhone-Fertigung in Indien: Foxconn zieht angeblich chinesische Mitarbeiter ab",
       "teaser": "Apple will bis zu 30 Prozent aller iPhones in Indien herstellen, braucht für den Aufbau der Fertigung aber chinesische Spezialisten. Doch genau die gehen jetzt.",
       "url": "https://www.heise.de/news/iPhone-Fertigung-in-Indien-Foxconn-zieht-angeblich-chinesische-Mitarbeiter-ab-10469142.html",
       "image_title": "iPhone vor indischer Flagge"
     },
     {
-      "title": "NAS-Zwang: Synology verlangt Unsummen für SSDs mit veralteter Technik",
-      "teaser": "Drei SSDs aus Synologys Serie SNV5400 sind im Handel angekommen. Die Firma will deren Einsatz in ihren NAS erzwingen.",
-      "url": "https://www.heise.de/news/NAS-Zwang-Synology-verlangt-Unsummen-fuer-SSDs-mit-veralteter-Technik-10469122.html",
-      "image_title": "Synology-SSD vor blauem Hintergrund"
-    },
-    {
       "title": "Multitalent Vorschau: Was Apples Preview-App für macOS alles kann",
       "teaser": "Die Standard-App Vorschau auf dem Mac kann mehr als nur Bilder und PDFs anzeigen. Entdecken Sie, wie Sie Formulare ausfüllen, Inhalte ergänzen oder schwärzen.",
       "url": "https://www.heise.de/ratgeber/Multitalent-Vorschau-Was-Apples-Preview-App-fuer-macOS-alles-kann-10456963.html",
       "image_title": "Apples Vorschau kann viel"
-    },
-    {
-      "title": "Raspberry Pi RM2 jetzt erhältlich",
-      "teaser": "Kompaktes Funkmodul mit Wi-Fi 4 und Bluetooth 5.2 für Pico-Projekte ab sofort verfügbar.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-gibt-Funkmodul-RM2-in-Maker-Haende-10469146.html",
-      "image_title": "Das Modul liegt schräg zur Kamera. Es ist silbern."
-    },
-    {
-      "title": "Kriminelle nutzen Deepfakes von Prominenten für täuschend echte Fake-Werbung",
-      "teaser": "Cyberkriminelle nutzen Deepfakes, um mit gefälschten Promi-Videos für dubiose Finanz- und Gesundheitsangebote zu werben. Verbraucherschützer warnen.",
-      "url": "https://www.heise.de/news/Kriminelle-nutzen-Deepfakes-von-Prominenten-fuer-taeuschend-echte-Fake-Werbung-10468370.html",
-      "image_title": "Abstraktes Bild von einer Künstliche Intelligenz. Zu sehen ist eine helle Maske mit verschiedenen Schichten."
-    },
-    {
-      "title": "Microsoft befreit GitHub-Coding-Assistent für VS Code: Künftig mit MIT-Lizenz",
-      "teaser": "Die kompletten KI-Funktionen für VS Code sollen Open Source werden. In einem ersten Schritt rückt Microsoft die Chat-Erweiterung heraus.",
-      "url": "https://www.heise.de/news/Microsoft-befreit-GitHub-Coding-Assistent-fuer-VS-Code-Kuenftig-mit-MIT-Lizenz-10468334.html",
-      "image_title": "Bildschirm eines Laptops, auf dem Code zu sehen ist."
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -305,6 +303,24 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "Raspberry Pi RM2 jetzt erhältlich",
+      "teaser": "Kompaktes Funkmodul mit Wi-Fi 4 und Bluetooth 5.2 für Pico-Projekte ab sofort verfügbar.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-gibt-Funkmodul-RM2-in-Maker-Haende-10469146.html",
+      "image_title": "Das Modul liegt schräg zur Kamera. Es ist silbern."
+    },
+    {
+      "title": "Kriminelle nutzen Deepfakes von Prominenten für täuschend echte Fake-Werbung",
+      "teaser": "Cyberkriminelle nutzen Deepfakes, um mit gefälschten Promi-Videos für dubiose Finanz- und Gesundheitsangebote zu werben. Verbraucherschützer warnen.",
+      "url": "https://www.heise.de/news/Kriminelle-nutzen-Deepfakes-von-Prominenten-fuer-taeuschend-echte-Fake-Werbung-10468370.html",
+      "image_title": "Abstraktes Bild von einer Künstliche Intelligenz. Zu sehen ist eine helle Maske mit verschiedenen Schichten."
+    },
+    {
+      "title": "Microsoft befreit GitHub-Coding-Assistent für VS Code: Künftig mit MIT-Lizenz",
+      "teaser": "Die kompletten KI-Funktionen für VS Code sollen Open Source werden. In einem ersten Schritt rückt Microsoft die Chat-Erweiterung heraus.",
+      "url": "https://www.heise.de/news/Microsoft-befreit-GitHub-Coding-Assistent-fuer-VS-Code-Kuenftig-mit-MIT-Lizenz-10468334.html",
+      "image_title": "Bildschirm eines Laptops, auf dem Code zu sehen ist."
+    },
+    {
       "title": "Alert600.000 WordPress-Instanzen durch Lücke in Plug-in Forminator kompromittierbar",
       "teaser": "Eine hochriskante Sicherheitslücke im 600.000 Mal installierten WordPress-Plug-in Forminator ermöglicht volle Kompromittierung.",
       "url": "https://www.heise.de/news/600-000-WordPress-Instanzen-durch-Luecke-in-Plug-in-Forminator-kompromittierbar-10467442.html",
@@ -363,6 +379,11 @@
       "image_title": "Apple TV 4K mit HomePod mini."
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Die Cybersecurity steht an einem Wendepunkt und benötigt revolutionäre Technologien. In einem Webcast sprechen wir über die Merkmale und Vorteile von KI-gestützten Abwehrmaßnahmen, die über klassische Verhaltensanalysen hinausgehen.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/risiko-management-und-cybersicherheit-dynamisch-und-automatisch-dank-ki-4925/?source=hbsad_ersatz"
+    },
+    {
       "title": "AlertSicherheitslücken Tenable Nessus: Angreifer können Systemdaten überschreiben",
       "teaser": "Der Schwachstellen- und Netzwerkscanner Nessus von Tenable ist verwundbar. Ein Sicherheitsupdate ist verfügbar.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Tenable-Nessus-Angreifer-koennen-Sytstemdaten-ueberschreiben-10467111.html"
@@ -377,11 +398,6 @@
       "teaser": "Die VR-Magie-Sandbox \"Waltz of the Wizard\" wird in Kürze um eine iOS-Version mit AR-Modus erweitert. Eine Vision-Pro-Version ist ebenfalls in Planung.",
       "url": "https://www.heise.de/news/VR-Klassiker-Waltz-of-the-Wizard-erscheint-bald-fuer-iPhone-und-Vision-Pro-10467247.html",
       "image_title": "Zwei lilafarbene Hände über einem Arbeitstisch gegenüber eines fliegenden Totenschädels."
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Zukunftsfähige Krankenhaus-IT: Digitalisierung, Sicherheit und Cloud",
@@ -422,23 +438,6 @@
       "teaser": "Videokonferenzen, Datenpakete blitzschnell versenden – flächendeckende Glasfaser soll den Datenfluss beschleunigen. Der Digitalminister setzt auf Mitwirkung.",
       "url": "https://www.heise.de/news/Digitalminister-wirbt-fuer-Glasfaser-10467119.html",
       "image_title": "Glasfasertechniker bei Reparaturen"
-    },
-    {
-      "title": "iX-Workshop: Windows Server absichern und härten",
-      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10461622.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Praxisanleitung zum Energiesparen bei Ryzen-9000-Prozessoren",
-      "teaser": "Der Curve Shaper von AMD ist eine neue Energiesparfunktion fürs Undervolting von Ryzen-9000-CPUs. Wir haben ihn auf dem aktuellen c’t-Bauvorschlag ausprobiert.",
-      "url": "https://www.heise.de/ratgeber/Praxisanleitung-zum-Energiesparen-bei-Ryzen-9000-Prozessoren-10376233.html"
-    },
-    {
-      "title": "Cyberangriff auf australische Fluggesellschaft Qantas",
-      "teaser": "Cyberkriminelle haben sich Zugang zu Daten von Millionen Qantas-Kunden verschafft. Es ist nicht die erste Panne bei der australischen Fluglinie.",
-      "url": "https://www.heise.de/news/Cyberangriff-auf-australische-Fluggesellschaft-Qantas-10467031.html",
-      "image_title": "Boeing-747-Modell in Qantas-Livery"
     },
     {
       "title": "Russland: Provider blockieren ausländische Inhalte mit 16-KByte-Trick",
@@ -610,21 +609,20 @@
       "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
     },
     {
+      "title": "BibBot: Browser-Add-on zum Lesen hinter vielen Paywalls",
+      "teaser": "Das Browser-Add-on BibBot verschafft günstigen Zugriff auf viele Artikel hinter Paywalls. Das funktioniert anders, als man vermutet, und ist legal.",
+      "url": "https://www.heise.de/ratgeber/BibBot-Browser-Add-on-zum-Lesen-hinter-vielen-Paywalls-10453174.html"
+    },
+    {
       "title": "Nothing Headphone (1): Over-Ear-Kopfhörer mit ANC im ersten Eindruck",
       "teaser": "Mit seinem ersten großen Kopfhörer zieht Nothing den transparenten Look zumindest teilweise durch. Nützlicher sind andere Teile des Kopfhörers.",
       "url": "https://www.heise.de/news/Nothing-Headphone-1-Over-Ear-Kopfhoerer-mit-ANC-im-ersten-Eindruck-10465785.html",
       "image_title": "Nothing Headphone auf Tisch und Tastatur"
     },
     {
-      "title": "Humanoide auf der Automatica: Warum Serviceroboter noch Mangelware sind",
-      "teaser": "Laufroboter, die auf YouTube schon autonom handeln, wagen sich nur vorsichtig auf gut ausgeleuchtete Messen. Erste Einblicke lieferte die Automatica in München.",
-      "url": "https://www.heise.de/news/Humanoide-auf-der-Automatica-Warum-Serviceroboter-noch-Mangelware-sind-10455820.html"
-    },
-    {
-      "title": "Nothing Phone (3)Mit neuem Glyph-Display in Richtung High-End",
-      "teaser": "Das Phone (3) von Nothing bricht mit alten Gewohnheiten: Es ist stärker und teurer als die bisherigen Modelle.",
-      "url": "https://www.heise.de/news/Nothing-Phone-3-Mit-neuem-Glyph-Display-in-Richtung-High-End-10466685.html",
-      "image_title": "Neues Telefon"
+      "title": "Praxisanleitung zum Energiesparen bei Ryzen-9000-Prozessoren",
+      "teaser": "Der Curve Shaper von AMD ist eine neue Energiesparfunktion fürs Undervolting von Ryzen-9000-CPUs. Wir haben ihn auf dem aktuellen c’t-Bauvorschlag ausprobiert.",
+      "url": "https://www.heise.de/ratgeber/Praxisanleitung-zum-Energiesparen-bei-Ryzen-9000-Prozessoren-10376233.html"
     },
     {
       "title": "Im TestDocks und Hubs mit Thunderbolt 5 am Mac",
@@ -723,19 +721,19 @@
       "image_title": "Mercedes-Benz Niederlassung Neu-Ulm"
     },
     {
+      "title": "Reichen 2 Liter Wasser pro Tag bei Hitze aus? Das sagt die Wissenschaft",
+      "teaser": "Die Empfehlung, man solle zwei Liter Wasser am Tag trinken, hält sich hartnäckig. Wissenschaftlich belegt ist die Empfehlung aber nicht. Doch wie viel ist dann genug?",
+      "url": "https://t3n.de/news/genug-trinken-in-der-hitzewelle-reichen-2-liter-wasser-pro-tag-aus-das-sagt-die-wissenschaft-1695199/"
+    },
+    {
+      "title": "ICEBlock: Warum diese iPhone-App in den USA aktuell auf Platz 1 steht",
+      "teaser": "Mit ICEBlock sichert sich in den USA derzeit eine App den Spitzenplatz im App-Store, bei der es nicht um Fotos, Memes oder KI geht. Stattdessen hat sie einen ernsten Hintergrund: Die Anwendung soll Abschiebungen verhindern. So funktioniert sie.",
+      "url": "https://t3n.de/news/iceblock-warum-diese-iphone-app-in-den-usa-aktuell-auf-platz-1-steht-1695224/"
+    },
+    {
       "title": "Überschuss im Netz: Wie erneuerbare Energien die Strompreise ins Minus treiben",
       "teaser": "Immer wieder sorgen negative Strompreise für Schlagzeilen. Verkehrte Welt oder ein vernünftiges Konstrukt? Wir erklären, was dahintersteckt und warum Kund:innen davon in einigen Fällen sogar profitieren können – vorausgesetzt, sie beachten ein paar einfache Regeln.",
       "url": "https://t3n.de/news/negative-strompreise-erneuerbare-energie-1694981/"
-    },
-    {
-      "title": "Astrofotografie ohne Kompromisse: Wie eine neue App Instagram Konkurrenz macht",
-      "teaser": "Hochauflösende Bilder, technische Transparenz und ein communitybasiertes Empfehlungssystem: Immer mehr Astrofotograf:innen sind von Instagram genervt. Diese App soll eine Alternative bieten.",
-      "url": "https://t3n.de/news/astrofotografie-ohne-kompromisse-wie-eine-neue-app-instagram-konkurrenz-macht-1695101/"
-    },
-    {
-      "title": "Nickerchen als Gehirn-Booster: Die unerwarteten Vorteile eines Mittagsschlafs",
-      "teaser": "Aha-Momente sind eigentlich schwer zu untersuchen. Forschende haben in einem Experiment entwickelt, bei dem es nicht nur um eine scheinbar einfache Aufgabe ging. Die Teilnehmenden konnten darin auch ein Nickerchen einlegen.",
-      "url": "https://t3n.de/news/nickerchen-als-gehirn-booster-die-unerwarteten-vorteile-eines-mittagsschlafs-1694785/"
     },
     {
       "title": "Top 10: Die beste Powerbank im Test – Testsieger kostet 23 Euro",
@@ -758,21 +756,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Trotz Nato-Zusagen: Lage in der Ukraine verschärft sich dramatisch",
-      "teaser": "Der Nato-Gipfel weckte Hoffnungen auf mehr Hilfe für die Ukraine. Doch hinter den Kulissen wächst der Pessimismus. Steht die Ukraine kurz vor dem Zusammenbruch?",
-      "url": "https://www.heise.de/tp/features/Trotz-Nato-Zusagen-Lage-in-der-Ukraine-verschaerft-sich-dramatisch-10465695.html",
-      "image_title": "Zerstörtes Wohnhaus in der Ukraine nach russischem Raketenangriff – Symbol für die zunehmende Eskalation im Ukrainekrieg"
-    },
-    {
-      "title": "Optische Computerchips: Chinas leuchtende Antwort auf US-Sanktionen",
-      "teaser": "China entwickelt weiterhin fieberhaft eigene Computerchips. Dabei verlassen die Forscher immer öfter das Feld klassischer Siliziumtechnologie.",
-      "url": "https://www.heise.de/tp/features/Optische-Computerchips-Chinas-leuchtende-Antwort-auf-US-Sanktionen-10462970.html",
-      "image_title": "Chip mit Aufdruck der chinesischen Fahne auf einer Platine."
+      "title": "Von Öl zu E-Fuels: Der verzweifelte Kampf der Ölkonzerne",
+      "teaser": "Die Branche will statt Klimaschutz Raffinerien retten. Neue Kraftstoffe kosten viel. Am Ende zahlt wohl der Steuerzahler die Zeche.",
+      "url": "https://www.heise.de/tp/features/Von-Oel-zu-E-Fuels-Der-verzweifelte-Kampf-der-Oelkonzerne-10464452.html",
+      "image_title": "Kohlenwasserstoff-Molekül vor Raffinerie"
     },
     {
       "title": "Wie weiter mit Iran? Ein möglicher diplomatischer Ausweg",
       "teaser": "Krieg mit Iran scheint unausweichlich. Doch es gibt noch Hoffnung auf Diplomatie. Könnte ein Atomkonsortium der Schlüssel zum Frieden sein? Ein Gastbeitrag.",
       "url": "https://www.heise.de/tp/features/Wie-weiter-mit-Iran-Ein-moeglicher-diplomatischer-Ausweg-10466405.html"
+    },
+    {
+      "title": "Hitzefrei im Home-Office: Der Trend zur Klimaanlage in den eigenen vier Wänden",
+      "teaser": "Immer mehr Menschen rüsten ihre Wohnungen mit Klimaanlagen aus. Doch was ist rechtlich, finanziell und ökologisch zu beachten? Ein Überblick über Chancen und Risiken des kühlen Trends.",
+      "url": "https://www.heise.de/tp/features/Hitzefrei-im-Home-Office-Der-Trend-zur-Klimaanlage-in-den-eigenen-vier-Waenden-10470262.html",
+      "image_title": "Tisch mit PC und leerem Stuhl steht in der Wüste. Der Himmel ist wolkenlos."
     },
     {
       "title": "WordPress-Hosting: Anbieter im Vergleich",
