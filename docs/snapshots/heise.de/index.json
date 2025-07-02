@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-02T19:07:38",
+  "timestamp": "2025-07-02T20:10:59",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Android: Millionenurteil gegen Google wegen Datenübertragung im Hintergrund",
+      "url": "https://www.heise.de/news/Android-Millionenurteil-gegen-Google-wegen-Datenuebertragung-im-Hintergrund-10472852.html"
+    },
     {
       "title": "Top 10: Das beste Balkonkraftwerk mit 800 Watt im Test – mit exklusiven Rabatten",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test-mit-exklusiven-rabatten/19w3c1t"
@@ -60,10 +64,6 @@
     {
       "title": "Microsoft entlässt erneut bis zu 9000 Mitarbeiter",
       "url": "https://www.heise.de/news/Microsoft-entlaesst-erneut-bis-zu-9000-Mitarbeiter-10472480.html"
-    },
-    {
-      "title": "Elektroauto: Tesla-Auslieferungen um weitere rund 13 Prozent gefallen",
-      "url": "https://www.heise.de/news/Elektroauto-Tesla-Auslieferungen-um-weitere-rund-13-Prozent-gefallen-10472539.html"
     },
     {
       "title": "Aufregung um A11pl3ZDrittes interstellares Objekt bei Flug durchs Sonnensystem entdeckt?",
@@ -184,20 +184,26 @@
       "image_title": "ADAC versenkt Auto"
     },
     {
+      "title": "Android: Millionenurteil gegen Google wegen Datenübertragung im Hintergrund",
+      "teaser": "Wenn Android im Hintergrund Daten an Google schickt, kann das die Mobilfunkrechnung belasten. Laut einem kalifornischen Urteil soll Google dafür geradestehen.",
+      "url": "https://www.heise.de/news/Android-Millionenurteil-gegen-Google-wegen-Datenuebertragung-im-Hintergrund-10472852.html",
+      "image_title": "Grüner Androide vor Smartphone"
+    },
+    {
       "title": "Top 10: Das beste Balkonkraftwerk mit 800 Watt im Test – mit exklusiven Rabatten",
       "teaser": "Balkonkraftwerke sind günstig, einfach zu installieren und reduzieren die Stromkosten. Wir zeigen die besten Mini-PV-Anlagen aus unseren Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-balkonkraftwerk-mit-800-watt-im-test-mit-exklusiven-rabatten/19w3c1t?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
+      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Altgeräte: Bundesregierung will Entsorgung von Elektroschrott verbessern",
       "teaser": "Künftig sollen Kunden ausgediente Elektrogeräte leichter im Handel zurückgeben können. Das sieht ein Regierungsentwurf für eine Reform des Elektrogesetzes vor.",
       "url": "https://www.heise.de/news/Altgeraete-Bundesregierung-will-Entsorgung-von-Elektroschrott-verbessern-10472802.html",
       "image_title": "Alte Computer, Smartphones und weiterer Elektroschrott."
-    },
-    {
-      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
-      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Wasserverbrauch: Die große Unbekannte bei der zunehmenden KI-Nutzung",
@@ -226,12 +232,6 @@
       "teaser": "Als die Tesla-Auslieferung zu Jahresbeginn um 13 Prozent fielen, nannte die Marke die Überarbeitung des Tesla Model Y als Grund. Heute glaubt das niemand mehr.",
       "url": "https://www.heise.de/news/Elektroauto-Tesla-Auslieferungen-um-weitere-rund-13-Prozent-gefallen-10472539.html",
       "image_title": "Tesla Model Y"
-    },
-    {
-      "title": "Uber und Bolt bedrängen Taxis: Demonstrationen für allgemeine Tarife",
-      "teaser": "Auch das deutsche Taxi-Gewerbe wird seit Jahren von allzu lasch regulierter Mietwagen-Konkurrenz bedrängt. Verbände organisierten Proteste in über zehn Städten.",
-      "url": "https://www.heise.de/news/Uber-und-Bolt-bedraengen-Taxis-Demonstrationen-fuer-allgemeine-Tarife-10472410.html",
-      "image_title": "Taxi-Schild auf Dach"
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -303,6 +303,12 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "Uber und Bolt bedrängen Taxis: Demonstrationen für allgemeine Tarife",
+      "teaser": "Auch das deutsche Taxi-Gewerbe wird seit Jahren von allzu lasch regulierter Mietwagen-Konkurrenz bedrängt. Verbände organisierten Proteste in über zehn Städten.",
+      "url": "https://www.heise.de/news/Uber-und-Bolt-bedraengen-Taxis-Demonstrationen-fuer-allgemeine-Tarife-10472410.html",
+      "image_title": "Taxi-Schild auf Dach"
+    },
+    {
       "title": "Atlassian ade? OpenProject und XWiki planen freie Projekt- und Wissensverwaltung",
       "teaser": "OpenProject und XWiki tun sich gegen Atlassian zusammen: Gemeinsam wollen sie ein freies Tool für das Projekt- und Wissensmanagement entwickeln.",
       "url": "https://www.heise.de/news/Statt-Jira-und-Confluence-OpenProject-und-XWiki-planen-Open-Source-Alternative-10469118.html",
@@ -370,15 +376,15 @@
       "url": "https://www.heise.de/news/Schwachstellen-IBM-Storage-Scale-fuer-Attacken-anfaellig-10468812.html"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Die Cybersecurity steht an einem Wendepunkt und benötigt revolutionäre Technologien. In einem Webcast sprechen wir über die Merkmale und Vorteile von KI-gestützten Abwehrmaßnahmen, die über klassische Verhaltensanalysen hinausgehen.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/risiko-management-und-cybersicherheit-dynamisch-und-automatisch-dank-ki-4925/?source=hbsad_ersatz"
+    },
+    {
       "title": "iPhone-Fertigung in Indien: Foxconn zieht angeblich chinesische Mitarbeiter ab",
       "teaser": "Apple will bis zu 30 Prozent aller iPhones in Indien herstellen, braucht für den Aufbau der Fertigung aber chinesische Spezialisten. Doch genau die gehen jetzt.",
       "url": "https://www.heise.de/news/iPhone-Fertigung-in-Indien-Foxconn-zieht-angeblich-chinesische-Mitarbeiter-ab-10469142.html",
       "image_title": "iPhone vor indischer Flagge"
-    },
-    {
-      "title": "Resilienz in wirtschaftlich unsicheren Zeiten: Wie IT-Umgebungen zukunftssicher werden",
-      "teaser": "Zölle, Embargos, geopolitische Spannungen – Unternehmen haben derzeit mit vielen Schwierigkeiten zu kämpfen. Eine resiliente IT ist unerlässlich, um gut durch die Krise zu kommen.",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/cloud/resilienz-in-wirtschaftlich-unsicheren-zeiten-wie-it-umgebungen-zukunftssicher-werden/?source=hbsadersatz"
     },
     {
       "title": "Multitalent Vorschau: Was Apples Preview-App für macOS alles kann",
@@ -431,12 +437,6 @@
       "teaser": "Mehrere Komponenten von Dell Secure Connect Gateway weisen Schwachstellen auf und können Angreifern als Ansatzpunkt dienen.",
       "url": "https://www.heise.de/news/Dell-Secure-Connect-Gateway-Sicherheitsluecken-gefaehrden-Remote-IT-Support-10467370.html",
       "image_title": "Update-Zeichen auf einem Bildschirm"
-    },
-    {
-      "title": "Citizen Science: Explodierender Stern von Amateuren fast in Echtzeit entdeckt",
-      "teaser": "Im Rahmen des Projekts Kilonova Science kann jeder und jede zwischendurch mal eben nach explodierenden Sternen suchen. Nun gibt es eine erste große Entdeckung.",
-      "url": "https://www.heise.de/news/Citizen-Science-im-Bus-Amateure-entdecken-explodierenden-Stern-fast-in-Echtzeit-10467402.html",
-      "image_title": "Drei Bilder mit mehreren hellen Punkten, ganz links und ganz rechts ist ein heller Punkt mehr zu sehen"
     },
     {
       "title": "Russland: Provider blockieren ausländische Inhalte mit 16-KByte-Trick",
@@ -608,20 +608,21 @@
       "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
     },
     {
-      "title": "Praxisanleitung zum Energiesparen bei Ryzen-9000-Prozessoren",
-      "teaser": "Der Curve Shaper von AMD ist eine neue Energiesparfunktion fürs Undervolting von Ryzen-9000-CPUs. Wir haben ihn auf dem aktuellen c’t-Bauvorschlag ausprobiert.",
-      "url": "https://www.heise.de/ratgeber/Praxisanleitung-zum-Energiesparen-bei-Ryzen-9000-Prozessoren-10376233.html"
-    },
-    {
-      "title": "BibBot: Browser-Add-on zum Lesen hinter vielen Paywalls",
-      "teaser": "Das Browser-Add-on BibBot verschafft günstigen Zugriff auf viele Artikel hinter Paywalls. Das funktioniert anders, als man vermutet, und ist legal.",
-      "url": "https://www.heise.de/ratgeber/BibBot-Browser-Add-on-zum-Lesen-hinter-vielen-Paywalls-10453174.html"
+      "title": "Nothing Headphone (1): Over-Ear-Kopfhörer mit ANC im ersten Eindruck",
+      "teaser": "Mit seinem ersten großen Kopfhörer zieht Nothing den transparenten Look zumindest teilweise durch. Nützlicher sind andere Teile des Kopfhörers.",
+      "url": "https://www.heise.de/news/Nothing-Headphone-1-Over-Ear-Kopfhoerer-mit-ANC-im-ersten-Eindruck-10465785.html",
+      "image_title": "Nothing Headphone auf Tisch und Tastatur"
     },
     {
       "title": "Nothing Phone (3)Mit neuem Glyph-Display in Richtung High-End",
       "teaser": "Das Phone (3) von Nothing bricht mit alten Gewohnheiten: Es ist stärker und teurer als die bisherigen Modelle.",
       "url": "https://www.heise.de/news/Nothing-Phone-3-Mit-neuem-Glyph-Display-in-Richtung-High-End-10466685.html",
       "image_title": "Neues Telefon"
+    },
+    {
+      "title": "BibBot: Browser-Add-on zum Lesen hinter vielen Paywalls",
+      "teaser": "Das Browser-Add-on BibBot verschafft günstigen Zugriff auf viele Artikel hinter Paywalls. Das funktioniert anders, als man vermutet, und ist legal.",
+      "url": "https://www.heise.de/ratgeber/BibBot-Browser-Add-on-zum-Lesen-hinter-vielen-Paywalls-10453174.html"
     },
     {
       "title": "Im TestDocks und Hubs mit Thunderbolt 5 am Mac",
@@ -755,26 +756,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Fettleber: Wissenschaftler sehen Vorteile bei mediterraner Küche",
-      "teaser": "Die mediterrane Ernährung gilt als Inbegriff gesunder Kost. Eine aktuelle Studie deutet darauf hin, dass sie auch vor Fettleber schützen könnte. So funktioniert’s.",
-      "url": "https://www.heise.de/tp/features/Fettleber-Wissenschaftler-sehen-Vorteile-bei-mediterraner-Kueche-10466571.html",
-      "image_title": "Eine Frau bereitet einen Salat mit Oliven, Tomaten, Feta-Käse und Olivenöl zu. Das gehört zur Mediterranen Diät."
-    },
-    {
       "title": "KI: Die Echokammer denkt mit",
       "teaser": "Was oft gesagt wird, wird von KI zur Wahrheit gemacht. Übrig bleibt Sprache mit System – und zunehmend schrägen Ergebnissen.",
       "url": "https://www.heise.de/tp/features/KI-Die-Echokammer-denkt-mit-10467135.html",
       "image_title": "KI-generierte Grafik zeigt einen maschinellen Kopf, ähnlich dem eines Cyborgs, und Sprechblasen"
     },
     {
-      "title": "Russlands Arctic LNG 2: Sanktionen? Welche Sanktionen?",
-      "teaser": "Russlands Arctic LNG 2 trotzt den Strafmaßnahmen. Offenbar neue Produktionsrekorde beim Flüssiggas. Was bedeutet das für den Westen?",
-      "url": "https://www.heise.de/tp/features/Russlands-Arctic-LNG-2-Sanktionen-Welche-Sanktionen-10465458.html"
+      "title": "Optische Computerchips: Chinas leuchtende Antwort auf US-Sanktionen",
+      "teaser": "China entwickelt weiterhin fieberhaft eigene Computerchips. Dabei verlassen die Forscher immer öfter das Feld klassischer Siliziumtechnologie.",
+      "url": "https://www.heise.de/tp/features/Optische-Computerchips-Chinas-leuchtende-Antwort-auf-US-Sanktionen-10462970.html",
+      "image_title": "Chip mit Aufdruck der chinesischen Fahne auf einer Platine."
     },
     {
-      "title": "Beste eSIM-Tarife für Deutschland",
-      "teaser": "Wer mit einer ausländischen SIM-Karte in Deutschland surft, muss Roaming-Gebühren zahlen. eSIMs sind eine Alternative. Wir haben einige eSIM-Tarife verglichen.",
-      "url": "https://www.heise.de/download/specials/Beste-eSIM-Tarife-fuer-Deutschland-Urlaub-Reise-10462160"
+      "title": "Trotz Nato-Zusagen: Lage in der Ukraine verschärft sich dramatisch",
+      "teaser": "Der Nato-Gipfel weckte Hoffnungen auf mehr Hilfe für die Ukraine. Doch hinter den Kulissen wächst der Pessimismus. Steht die Ukraine kurz vor dem Zusammenbruch?",
+      "url": "https://www.heise.de/tp/features/Trotz-Nato-Zusagen-Lage-in-der-Ukraine-verschaerft-sich-dramatisch-10465695.html",
+      "image_title": "Zerstörtes Wohnhaus in der Ukraine nach russischem Raketenangriff – Symbol für die zunehmende Eskalation im Ukrainekrieg"
+    },
+    {
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Desinfec't",
