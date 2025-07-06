@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-06T09:09:31",
+  "timestamp": "2025-07-06T10:10:12",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Unbemanntes Schmuggel-U-Boot mit Starlink",
+      "url": "https://www.heise.de/news/U-Boot-Drohne-fuer-Drogenschmuggel-mit-Starlink-Antenne-10476162.html"
+    },
     {
       "title": "Backups prüfen: Mit c’t-WIMage-Sicherungen in Hyper-V restaurieren",
       "url": "https://www.heise.de/ratgeber/Backups-pruefen-Mit-c-t-WIMage-Sicherungen-in-Hyper-V-restaurieren-10441305.html"
@@ -60,10 +64,6 @@
     {
       "title": "Überwachung made in EU: Dobrindt vermeidet klares Nein zur Chatkontrolle",
       "url": "https://www.heise.de/news/Ueberwachung-made-in-EU-Dobrindt-vermeidet-klares-Nein-zur-Chatkontrolle-10476120.html"
-    },
-    {
-      "title": "Huawei Matepad Pro Papermatte Edition im Test: Mattes OLED-Tablet mit 12 Zoll",
-      "url": "https://www.heise.de/bestenlisten/testbericht/huawei-matepad-pro-papermatte-edition-im-test-mattes-oled-tablet-mit-12-zoll/fqhnsme"
     },
     {
       "title": "Missing LinkFreie Netze – erst erobern wir die Nachbarschaft, dann die Welt",
@@ -188,20 +188,25 @@
       "url": "https://www.heise.de/news/USB-C-Kabel-Alle-Unterschiede-erklaert-10473984.html"
     },
     {
+      "title": "Unbemanntes Schmuggel-U-Boot mit Starlink",
+      "teaser": "Die kolumbianische Marine hat ein unbemanntes U-Boot beschlagnahmt, das mutmaßlich Drogen schmuggeln sollte. Vernetzt war es per Starlink.",
+      "url": "https://www.heise.de/news/U-Boot-Drohne-fuer-Drogenschmuggel-mit-Starlink-Antenne-10476162.html"
+    },
+    {
       "title": "Backups prüfen: Mit c’t-WIMage-Sicherungen in Hyper-V restaurieren",
       "teaser": "Ein Backup darf erst als zuverlässig gelten, nachdem es sich wiederherstellen ließ. Mit c’t-WIMage können Sie das in einer virtuellen Maschine ausprobieren.",
       "url": "https://www.heise.de/ratgeber/Backups-pruefen-Mit-c-t-WIMage-Sicherungen-in-Hyper-V-restaurieren-10441305.html"
+    },
+    {
+      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
+      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iX-Workshop: Fortgeschrittene Administration von Kubernetes",
       "teaser": "Lernen Sie fortgeschrittene Techniken für das Applikationsmanagement und die Implementierung von Service-Mesh-Technologien.",
       "url": "https://www.heise.de/news/iX-Workshop-Fortgeschrittene-Administration-von-Kubernetes-10461630.html",
       "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Technologieinseln nahtlos miteinander vernetzen",
-      "teaser": "Mit einer „Digital Fabric“ lässt sich der Datenaustausch über viele Anwendungen hinweg erleichtern. Das Ergebnis sind kosteneffiziente Netzwerkarchitekturen mit voller Transparenz und Kontrolle.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6976296867&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "FAQ: USB-C-Kabel – Antworten auf die häufigsten Fragen",
@@ -230,11 +235,6 @@
       "title": "Überwachung made in EU: Dobrindt vermeidet klares Nein zur Chatkontrolle",
       "teaser": "Das von Dobrindt geführte Bundesinnenministerium betont auf eine Abgeordneten-Anfrage, der Kampf gegen sexuellen Missbrauch von Kindern habe höchste Priorität.",
       "url": "https://www.heise.de/news/Ueberwachung-made-in-EU-Dobrindt-vermeidet-klares-Nein-zur-Chatkontrolle-10476120.html"
-    },
-    {
-      "title": "Huawei Matepad Pro Papermatte Edition im Test: Mattes OLED-Tablet mit 12 Zoll",
-      "teaser": "Highlight des Huawei Matepad Pro Papermatte Edition ist das matte 12,2-Zoll-OLED-Display. Zum schicken Tablet gibt es eine Tastatur. Wir haben es getestet.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/huawei-matepad-pro-papermatte-edition-im-test-mattes-oled-tablet-mit-12-zoll/fqhnsme?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Zwei Dutzend TippsiPhone-Apps für die Reise",
@@ -305,6 +305,11 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "Huawei Matepad Pro Papermatte Edition im Test: Mattes OLED-Tablet mit 12 Zoll",
+      "teaser": "Highlight des Huawei Matepad Pro Papermatte Edition ist das matte 12,2-Zoll-OLED-Display. Zum schicken Tablet gibt es eine Tastatur. Wir haben es getestet.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/huawei-matepad-pro-papermatte-edition-im-test-mattes-oled-tablet-mit-12-zoll/fqhnsme?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "IBAN-Namensabgleich wird Pflicht für EU-Banken, Betrugsgefahr bleibt",
       "teaser": "Name des Empfängers und sein IBAN werden bei Überweisungen bisher nicht von den Banken abgeglichen. Das ändert sich ab Oktober, bestimmte Risiken bleiben aber.",
       "url": "https://www.heise.de/news/IBAN-Namensabgleich-wird-Pflicht-fuer-EU-Banken-Betrugsgefahr-bleibt-10476058.html",
@@ -370,15 +375,15 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-powerbank-ab-20000-mah-testsieger-mit-echten-140-watt/b1dg6rh?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Die Cybersecurity steht an einem Wendepunkt und benötigt revolutionäre Technologien. In einem Webcast sprechen wir über die Merkmale und Vorteile von KI-gestützten Abwehrmaßnahmen, die über klassische Verhaltensanalysen hinausgehen.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/risiko-management-und-cybersicherheit-dynamisch-und-automatisch-dank-ki-4925/?source=hbsad_ersatz"
+    },
+    {
       "title": "Fraunhofer IOF bringt Europas Laserkommunikation im Weltraum voran",
       "teaser": "Fraunhofer Forscher wollen mit Laserkommunikationsteleskop die Satelliteninfrastruktur modernisieren und im globalen Wettbewerb mithalten.",
       "url": "https://www.heise.de/news/Fraunhofer-IOF-entwickelt-Satellitenkommunikation-mit-Laser-Teleskop-10475730.html",
       "image_title": "Wissenschaftler haben ein Empfangsteleskop für satellitengestützte Laserkommunikation entwickelt."
-    },
-    {
-      "title": "Resilienz in wirtschaftlich unsicheren Zeiten: Wie IT-Umgebungen zukunftssicher werden",
-      "teaser": "Zölle, Embargos, geopolitische Spannungen – Unternehmen haben derzeit mit vielen Schwierigkeiten zu kämpfen. Eine resiliente IT ist unerlässlich, um gut durch die Krise zu kommen.",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/cloud/resilienz-in-wirtschaftlich-unsicheren-zeiten-wie-it-umgebungen-zukunftssicher-werden/?source=hbsadersatz"
     },
     {
       "title": "Urteil: Behörden dürfen beschlagnahmte Kryptowerte notfalls verkaufen",
@@ -432,12 +437,6 @@
       "title": "Nintendo Switch 2 im Test: Verbesserte Grafik & 4K, aber kein OLED",
       "teaser": "Die Nintendo Switch 2 löst nach über acht Jahren nun das Vorgängermodell ab. Mehr Display, mehr Speicher und mehr Power bringt sie in die aktuelle Konsolengeneration mit. Wie sie sich schlägt, klären wir im Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/nintendo-switch-2-im-test-verbesserte-grafik-und-4k-aber-kein-oled/b96p89n?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Erster Mini-PC mit Windows-on-ARM: Lenovo ThinkCentre Neo 50q QC ausprobiert",
-      "teaser": "Der Lenovo ThinkCentre Neo 50q QC ist der erste lieferbare Mini-PC mit der ARM-CPU Qualcomm Snapdragon X. Er rechnet effizient, hat aber Schwächen.",
-      "url": "https://www.heise.de/hintergrund/Erster-Mini-PC-mit-Windows-on-ARM-Lenovo-ThinkCentre-Neo-50q-QC-ausprobiert-10467396.html",
-      "image_title": "Lenovo ThinkCentre Neo 50q QC: Mini-PC mit Windows on ARM und Qualcomm Snapdragon X1-26-100"
     },
     {
       "title": "Octopus Energy vergeigt Smart-Meter-Installation",
@@ -610,6 +609,12 @@
       "url": "https://www.heise.de/en/background/Why-augmented-reality-is-treading-water-10474619.html"
     },
     {
+      "title": "Buchkritik: Digitaler Kolonialismus",
+      "teaser": "Offiziell ist die Ära des Kolonialismus längst vorbei. Doch Staaten und große Unternehmen setzen die Ausbeutung des globalen Südens auf digitale Weise fort.",
+      "url": "https://www.heise.de/tests/Buchkritik-Digitaler-Kolonialismus-10440201.html",
+      "image_title": "Buchkritik: Digitaler Kolonialismus"
+    },
+    {
       "title": "Erster Mini-PC mit Windows-on-ARM: Lenovo ThinkCentre Neo 50q QC ausprobiert",
       "teaser": "Der Lenovo ThinkCentre Neo 50q QC ist der erste lieferbare Mini-PC mit der ARM-CPU Qualcomm Snapdragon X. Er rechnet effizient, hat aber Schwächen.",
       "url": "https://www.heise.de/hintergrund/Erster-Mini-PC-mit-Windows-on-ARM-Lenovo-ThinkCentre-Neo-50q-QC-ausprobiert-10467396.html",
@@ -622,28 +627,22 @@
       "image_title": "Zwei Bildschirme mit Fußball zum Latenztest nebeneinander"
     },
     {
-      "title": "Vorsicht, Kunde! – Problematische Smart-Meter-Installation",
-      "teaser": "Vernetzte Stromzähler sind eine feine Sache, sofern sie funktionieren. Oft scheitert bereits die Inbetriebnahme. Dabei gibt es klare gesetzliche Vorgaben.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Problematische-Smart-Meter-Installation-10474263.html",
-      "image_title": "Stilisiertes Blatt mit Stempel \"Vorsicht Kunde!\""
-    },
-    {
       "title": "Multitalent auf dem MacWas Apples Vorschau-App von macOS alles kann",
       "teaser": "Die Standard-App Vorschau auf dem Mac kann mehr als nur Bilder und PDFs anzeigen. Entdecken Sie, wie Sie Formulare ausfüllen, Inhalte ergänzen oder schwärzen.",
       "url": "https://www.heise.de/ratgeber/Multitalent-Vorschau-Was-Apples-Preview-App-fuer-macOS-alles-kann-10456963.html",
       "image_title": "Apples Vorschau kann viel"
     },
     {
+      "title": "Mit Muse durch die eigenen Fotos: Musebox für den Mac im Test",
+      "teaser": "Die Musebox verwaltet und verschlagwortet Medien auf dem Mac. Wir haben sie getestet.",
+      "url": "https://www.heise.de/tests/Mit-Muse-durch-die-eigenen-Fotos-Musebox-fuer-den-Mac-im-Test-10456975.html",
+      "image_title": "Musebox für den Mac"
+    },
+    {
       "title": "Multimedia-Reader im Test: Tapestry holt Feeds aufs iPhone",
       "teaser": "Tapestry bringt Feeds von YouTube, Reddit & Co. unter ein Dach.",
       "url": "https://www.heise.de/tests/Multimedia-Reader-im-Test-Tapestry-holt-Feeds-aufs-iPhone-10456969.html",
       "image_title": "Tapestry fasst wichtige Feeds zusammen"
-    },
-    {
-      "title": "Mit besonderen FunktionenZwei externe Webcams für den Mac im Test",
-      "teaser": "Aktuelle Macs mit Kamera unterstützen neben einem Folgemodus auch die Schreibtischansicht. Lohnen sich externe Webcams trotzdem? Wir haben zwei Geräte getestet.",
-      "url": "https://www.heise.de/tests/Zwei-externe-Webcams-fuer-den-Mac-im-Test-mit-besonderen-Funktionen-10422964.html",
-      "image_title": ","
     },
     {
       "title": "Raspberry Pi RM2 jetzt erhältlich",
@@ -699,12 +698,6 @@
       "url": "https://www.heise.de/hintergrund/CO-Bilanz-von-KI-Projekten-ermitteln-10447914.html"
     },
     {
-      "title": "VW-Kombis im KostenvergleichWas ID.7 Tourer und Passat tatsächlich kosten",
-      "teaser": "VWs ID.7 Tourer und Passat ähneln sich in vielen Punkten – etwa beim Platzangebot. Bei den Unterhaltskosten Kosten gibt es hingegen große Unterschiede.",
-      "url": "https://www.heise.de/ratgeber/VW-Kombis-im-Vergleich-Was-ID-7-Tourer-und-Passat-tatsaechlich-kosten-10381286.html",
-      "image_title": "VW Passat PHEB"
-    },
-    {
       "title": "AutovermietungenKI-Scanner für die Schadensermittlung an vier deutschen Flughäfen",
       "teaser": "Auch in Deutschland werden Mietwagen von KI-Scannern auf Schäden untersucht. Die nötige Technik gibt es hier an vier Flughäfen.",
       "url": "https://www.heise.de/news/Automatische-Schadensermittlung-per-KI-Scanner-jetzt-an-vier-deutschen-Airports-10474150.html",
@@ -720,6 +713,12 @@
       "teaser": "Als die Tesla-Auslieferung zu Jahresbeginn um 13 Prozent fielen, nannte die Marke die Überarbeitung des Tesla Model Y als Grund. Heute glaubt das niemand mehr.",
       "url": "https://www.heise.de/news/Elektroauto-Tesla-Auslieferungen-um-weitere-rund-13-Prozent-gefallen-10472539.html",
       "image_title": "Tesla Model Y"
+    },
+    {
+      "title": "Bedrängt von Uber und Bolt Taxi-Corsos für allgemeine Tarife",
+      "teaser": "Auch das deutsche Taxi-Gewerbe wird seit Jahren von allzu lasch regulierter Mietwagen-Konkurrenz bedrängt. Verbände organisierten Proteste in über zehn Städten.",
+      "url": "https://www.heise.de/news/Uber-und-Bolt-bedraengen-Taxis-Demonstrationen-fuer-allgemeine-Tarife-10472410.html",
+      "image_title": "Taxi-Schild auf Dach"
     },
     {
       "title": "Künstliche Intelligenz ersetzt menschliche Mitarbeiter – oder doch nicht?",
@@ -757,21 +756,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "KI-Psychologe Centaur: Vorhersage menschlichen Verhaltens auf neuem Level",
+      "teaser": "Ein neues KI-System kann menschliche Entscheidungen vorhersagen – oft besser als klassische psychologische Theorien. Doch das Modell hat auch Grenzen.",
+      "url": "https://www.heise.de/tp/features/KI-Psychologe-Centaur-Vorhersage-menschlichen-Verhaltens-auf-neuem-Level-10474694.html",
+      "image_title": "Symbolbild eines Gehirns/KI"
+    },
+    {
+      "title": "Kriegsmunition bedroht Badespaß! Explosives Erbe an deutschen Küsten",
+      "teaser": "Bomben-Alarm an unseren Stränden! Millionen Tonnen Kriegsmunition ticken in Nord- und Ostsee. Todes-Gefahr für Urlauber!",
+      "url": "https://www.heise.de/tp/features/Kriegsmunition-bedroht-Badespass-Explosives-Erbe-an-deutschen-Kuesten-10475128.html",
+      "image_title": "Sandstrand an der Ostseeküste mit Blick aufs Meer, wo unter der Wasseroberfläche Weltkriegsmunition lagert."
+    },
+    {
       "title": "Nach Iran-Einsatz: US-Militär plant Super-Bunkerbrecher 2.0",
       "teaser": "Nach Iran-Einsatz treibt das US-Militär die Entwicklung einer neuen Generation von Bunkerbrechern voran – auch mit Blick auf einen möglichen Konflikt mit China.",
       "url": "https://www.heise.de/tp/features/Nach-Iran-Einsatz-US-Militaer-plant-Super-Bunkerbrecher-2-0-10464580.html",
       "image_title": "Ein B2 Bomber"
-    },
-    {
-      "title": "Verschollener Tempel der Tiwanaku-Kultur in den Anden entdeckt",
-      "teaser": "Archäologen entdecken Tempelruinen, die Einblicke in die Tiwanaku-Kultur versprechen. Der Fund könnte helfen, den rätselhaften Niedergang des mächtigen Reiches zu erklären.",
-      "url": "https://www.heise.de/tp/features/Verschollener-Tempel-der-Tiwanaku-Kultur-in-den-Anden-entdeckt-10464755.html"
-    },
-    {
-      "title": "Vom Versprechen zum Verstummen: ARD kneift bei Mischke-Aufarbeitung",
-      "teaser": "Die ARD bricht ihr Versprechen zur Aufarbeitung des Falls Thilo Mischke. Statt Transparenz herrscht Schweigen. Was steckt hinter dem plötzlichen Rückzieher?",
-      "url": "https://www.heise.de/tp/features/Vom-Versprechen-zum-Verstummen-ARD-kneift-bei-Mischke-Aufarbeitung-10475096.html",
-      "image_title": "Ruhe! Geste mit dem Finger auf den Lippen"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
