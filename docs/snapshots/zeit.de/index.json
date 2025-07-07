@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-07T02:50:13",
+  "timestamp": "2025-07-07T03:50:10",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,11 +104,25 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mordvorwürfe gegen Palliativarzt: Der Vater sagt Aua, dann ist er tot",
-      "teaser": "Ein Berliner Arzt ist verdächtig, mindestens 15 Patienten umgebracht zu haben. Jetzt listet die Anklage minutiös auf, wie er vorgegangen sein soll.",
-      "url": "https://www.zeit.de/2025/28/mordvorwuerfe-palliativarzt-berlin-anklage-patienten",
-      "image_url": "https://img.zeit.de/2025/28/doktor-tod-bild-1/wide__1000x562",
-      "image_title": "Mordvorwürfe gegen Palliativarzt: M. wird vorgeworfen, seine Patienten mit Narkosemitteln getötet zu haben"
+      "title": "Z+ (abopflichtiger Inhalt); US-Zölle: Wir brauchen einen Deal",
+      "teaser": "Donald Trumps Countdown läuft, bald könnten höhere Zölle Europa treffen. Was die US-Regierung mit anderen Ländern vereinbart hat und was man daraus lernen kann.",
+      "url": "https://www.zeit.de/2025/28/us-zoelle-europa-donald-trump-handelspolitik",
+      "image_url": "https://img.zeit.de/2025/28/wir-brauchen-einen-deal-bild-2/wide__1000x562",
+      "image_title": "US-Zölle: Illustration USA Zölle Europa Deal"
+    },
+    {
+      "title": "Brasilien: Brics-Staaten verurteilen Trumps Handelspolitik und Israels Angriffe",
+      "teaser": "US-Präsident Donald Trump bestätigt neue US-Zölle ab 1. August. Betroffene Länder erhielten einen Brief, sagt er. Brics-Staaten kritisieren das Vorgehen als Willkür.",
+      "url": "https://www.zeit.de/politik/ausland/2025-07/brics-gipfel-erklaerung-brasilien-usa-zollpolitik",
+      "image_url": "https://img.zeit.de/politik/2025-07/brics-staaten-aeussern-ernsthafte-bedenken-gegen-us-strafzoelle-bild/super__430x286",
+      "image_title": "Brasilien: BRICS-Gipfel in Rio de Janeiro Führende Politiker aus aller Welt nehmen am 17. jährlichen BRICS-Gipfel teil. 06/07/2025"
+    },
+    {
+      "title": "USA: Trump bezeichnet Musks neue Partei als \"lächerlich\"",
+      "teaser": "Der US-Päsident hat für die Idee seines Ex-Beraters, eine eigene Partei zu gründen, nur Spott übrig. Elon Musk verkomme zu einer \"Vollkatastrophe\", schreibt Donald Trump.",
+      "url": "https://www.zeit.de/politik/ausland/2025-07/donald-trump-nennt-elon-musks-partei-laecherlich",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-07/trump-musk-partei-bild/super__430x286",
+      "image_title": "USA: US-Präsident Donald Trump bezeichnet Elon Musks Idee von einer neuen Partei als \"lächerlich\"."
     },
     {
       "title": "USA: Gouverneur warnt vor neuen tödlichen Unwettern nach Sturzflut in Texas",
@@ -112,39 +132,25 @@
       "image_title": "USA: Aufräumarbeiten nach den schweren Überflutungen im US-Bundesstaat Texas"
     },
     {
+      "title": "Liveblog:Krieg in Gaza: Israel will 54.000 ultraorthodoxe Juden zum Militär einberufen",
+      "teaser": "Die Armee will Religionsstudenten einberufen, für die nun der Militärdienst gilt. Israels Premier Netanjahu trifft sich heute mit Donald Trump in Washington. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2025-06/krieg-gaza-israel-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-07/krieg-gaza-israel-liveblog-ultraorthodoxe-bild/super__430x286",
+      "image_title": "Krieg in Gaza: An ultra-Orthodox Jewish man walks through the Old City of Jerusalem on October 8, 2024. An usually bustling tourism area, Jerusalem's Old City has seen fewer tourist with some shops having to close since the beginning of the war between Israel and the Palestinian Hamas group. (Photo by JOHN WESSELS / AFP) (Photo by JOHN WESSELS/AFP via Getty Images)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geld sparen: Wie genau verkauft man Aktien? Ich frage für einen nervösen Freund",
+      "teaser": "Wie man sich einen ETF-Sparplan anlegt, das haben die meisten raus. Aber worauf man achten sollte, wenn man Aktien loswerden will? Eine Einführung",
+      "url": "https://www.zeit.de/entdecken/2025-04/geld-sparen-aktien-verkauf-etf-sparplan",
+      "image_url": "https://img.zeit.de/zeit-verlag/2025-07/geld-sparen-aktien-verkauf-etf-sparplan/wide__892x501",
+      "image_title": "Geld sparen: Wie genau verkauft man Aktien? Ich frage für einen nervösen Freund"
+    },
+    {
       "title": "Jens Spahn: Die Jungs mit den Masken",
       "teaser": "Der ungeschwärzte Bericht zu Jens Spahns Maskenaffäre ist öffentlich. Nun im Fokus: interne Warnungen und ein Schweizer Unternehmen, das offenbar viel Wohlwollen erfuhr.",
       "url": "https://www.zeit.de/wirtschaft/2025-07/maskenaffaere-jens-spahn-sudhof-bericht-schwaerzungen-unternehmen",
       "image_url": "https://img.zeit.de/politik/deutschland/2025-07/maskenaffaere-jens-spahn-sudhof-bericht-schwaerzungen-unternehmen-faq-bild/super__430x286",
       "image_title": "Jens Spahn: BERLIN, GERMANY - JANUARY 04: In this photo illustration on the topic of corona pandemic, a man holds an FFP2 protective mask on January 04, 2022 in Berlin, Germany."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mattering: Würde man mich vermissen, wenn ich weg wäre?",
-      "teaser": "Wahrgenommen werden, für andere wichtig sein – Mattering, sagen Psychologen – macht resilienter und schützt vor Burn-out. Wie man es schafft, sich bedeutsam zu fühlen.",
-      "url": "https://www.zeit.de/gesundheit/2025-07/mattering-aufmerksamkeit-bedeutung-alltag-psychologie",
-      "image_url": "https://img.zeit.de/gesundheit/2025-07/mattering-aufmerksamkeit-bedeutung-alltag-psychologie-bild/wide__892x501",
-      "image_title": "Mattering: Symbolbild zur Bedeutsamkeit, Tonje Thilesen für DIE ZEIT"
-    },
-    {
-      "title": "Liveblog:Krieg in Gaza: Israel greift Ziele im Jemen an",
-      "teaser": "Israel hat Luftangriffe auf mehrere Ziele im Jemen geflogen. Neue indirekte Verhandlungen über einen Waffenstillstand im Gazastreifen haben begonnen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2025-06/krieg-gaza-israel-liveblog",
-      "image_url": "https://img.zeit.de/politik/2025-07/luftangriffe-jemen-blog-bild/super__430x286",
-      "image_title": "Krieg in Gaza: Ein israelisches Kampfflugzeug bereitet sich auf einen Luftangriff im Jemen vor, 16.5.2025."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Lebensmotivation: Ich bin kein Vater und will trotzdem Liebe weitergeben",
-      "teaser": "Er ist Mitte 40, kinderlos und hat etwas Wichtiges für sich erkannt: Er wird kein Kind bekommen. Aber was sonst könnte seinem Leben eine Richtung geben?",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-07/lebensmotivation-liebe-kinder-vater-praegung",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-07/lebensmotivation-liebe-kinder-vater/wide__892x501",
-      "image_title": "Lebensmotivation: Ich bin kein Vater und will trotzdem Liebe weitergeben"
-    },
-    {
-      "title": "Brasilien: Brics-Staaten verurteilen Trumps Politik und Israels Angriffe",
-      "teaser": "US-Präsident Donald Trump bestätigt neue US-Zölle ab 1. August. Betroffene Länder würden einen Brief erhalten, sagt er. Brics-Staaten kritisieren seine Handelspolitik.",
-      "url": "https://www.zeit.de/politik/ausland/2025-07/brics-gipfel-erklaerung-brasilien-usa-zollpolitik",
-      "image_url": "https://img.zeit.de/politik/2025-07/brics-staaten-aeussern-ernsthafte-bedenken-gegen-us-strafzoelle-bild/super__430x286",
-      "image_title": "Brasilien: BRICS-Gipfel in Rio de Janeiro Führende Politiker aus aller Welt nehmen am 17. jährlichen BRICS-Gipfel teil. 06/07/2025"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nahverkehr: \"Die Bahn, aber nicht nur sie, stiehlt den Leuten Lebenszeit\"",
@@ -154,32 +160,11 @@
       "image_title": "Nahverkehr: \"Die Bahn, aber nicht nur sie, stiehlt den Leuten Lebenszeit\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Steine-Sammlung: Stein auf Stein auf Stein",
-      "teaser": "Luigi Lineri sammelt seit 60 Jahren Steine, zu Hunderttausenden lagert er sie zu Hause. Er sagt, er habe von ihnen das Wichtigste über das Leben gelernt.",
-      "url": "https://www.zeit.de/2025/28/steine-sammlung-luigi-lineri-hobby-leben",
-      "image_url": "https://img.zeit.de/2025/28/steinreich-bild-4/wide__892x501",
-      "image_title": "Steine-Sammlung: Luigi Lineri, November 2024"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Guadalajara-Facelift: \"Der beste Facelift, den ich je gesehen habe\"",
-      "teaser": "Eine Frau sieht nach einer Schönheits-OP 20 Jahre jünger aus – und das Internet feiert sie. Da kann man nur rufen: Free the wrinkle!",
-      "url": "https://www.zeit.de/digital/2025-07/guadalajara-facelift-schoenheit-op-falten-internet",
-      "image_url": "https://img.zeit.de/digital/2025-07/rose-guadalajara-facelift-schoenheit-op-falten-internet-bild/super__430x286",
-      "image_title": "Guadalajara-Facelift: \"Der beste Facelift, den ich je gesehen habe\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Erziehung • Z+ Empfehlung: \"Logisch, dass Eltern heute verunsichert sind\"",
-      "teaser": "Bettina Müller ist seit 25 Jahren Erziehungsberaterin. Sie bewundert, was moderne Eltern heute an Pionierarbeit leisten – und rät ihnen zu mehr Mut, Grenzen zu ziehen.",
-      "url": "https://www.zeit.de/2025/25/erziehung-eltern-kinder-beduerfnisse-empathie-grenzen",
-      "image_url": "https://img.zeit.de/familie/2025-03/probleme-eltern-erziehung-gewalt-beduerfnisse/super__430x286",
-      "image_title": "Erziehung • Z+ Empfehlung: \"Logisch, dass Eltern heute verunsichert sind\""
-    },
-    {
-      "title": "Jamal Musiala: Ein tragischer Tag für Musiala",
-      "teaser": "Die Bayern nehmen zwar viel Geld von ihrer USA-Reise mit, doch gestern haben sie die Klub-WM teuer bezahlt. Sie endet mit der schlimmen Verletzung von Jamal Musiala.",
-      "url": "https://www.zeit.de/sport/2025-07/jamal-musiala-verletzung-fc-bayern-muenchen-klub-wm",
-      "image_url": "https://img.zeit.de/sport/2025-07/jamal-musiala-verletzung-fc-bayern-muenchen-klub-wm-bild-2/super__430x286",
-      "image_title": "Jamal Musiala: Jamal Musiala wird während des Viertelfinalspiels der FIFA Klub-Weltmeisterschaft 2025 zwischen Paris Saint-Germain und dem FC Bayern München, von Sanitätern vom Spielfeld getragen, nachdem er sich verletzt hat."
+      "title": "Z+ (abopflichtiger Inhalt); Mordvorwürfe gegen Palliativarzt: Der Vater sagt Aua, dann ist er tot",
+      "teaser": "Ein Berliner Arzt ist verdächtig, mindestens 15 Patienten umgebracht zu haben. Jetzt listet die Anklage minutiös auf, wie er vorgegangen sein soll.",
+      "url": "https://www.zeit.de/2025/28/mordvorwuerfe-palliativarzt-berlin-anklage-patienten",
+      "image_url": "https://img.zeit.de/2025/28/doktor-tod-bild-1/wide__892x501",
+      "image_title": "Mordvorwürfe gegen Palliativarzt: M. wird vorgeworfen, seine Patienten mit Narkosemitteln getötet zu haben"
     },
     {
       "title": "Fußball-EM: Schweiz kickt Island aus dem Turnier, Norwegen erreicht Viertelfinale",
@@ -187,41 +172,6 @@
       "url": "https://www.zeit.de/sport/2025-07/fussball-em-frauen-norwegen-finnland",
       "image_url": "https://img.zeit.de/sport/2025-07/em-schweiz-island-bild/super__430x286",
       "image_title": "Fußball-EM: Islands Sveindis Jonsdottir und die Schweizerin Smilla Vallotto kämpfen um den Ball."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Ozeane\" von David Attenborough: Seiten zum Eintauchen",
-      "teaser": "David Attenborough ist nun schon 99 Jahre alt. Sein neues Buch \"Ozeane\" ist so etwas wie die Summe seines Meeresforscherlebens. Es liest sich mitreißend.",
-      "url": "https://www.zeit.de/2025/28/ozeane-david-attenborough-colin-butfield-buch-doku",
-      "image_url": "https://img.zeit.de/2025/28/ozeane-david-attenborough-colin-butfield-buch-doku-teaser/wide__892x501",
-      "image_title": "\"Ozeane\" von David Attenborough: Weichkorallen, Phuket, Similan-Inseln, Andamanensee, Thailand, Asien"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Die Siedler von Catan\" : \"Catan ist wie das Leben: Manchmal bekommst du schlechte Karten\"",
-      "teaser": "Warum lieben Milliardäre das Brettspiel \"Catan\"? Und brauchte es echt eine Klimawandel-Erweiterung? Auf eine Partie mit Benjamin Teuber, Entwickler und Sohn des Erfinders",
-      "url": "https://www.zeit.de/2025/28/die-siedler-von-catan-benjamin-teuber-spiele",
-      "image_url": "https://img.zeit.de/entdecken/2025-07/die-siedler-von-catan-benjamin-teuber-spiele-bild/super__430x286",
-      "image_title": "\"Die Siedler von Catan\": \"Catan ist wie das Leben: Manchmal bekommst du schlechte Karten\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ungeplant schwanger: Wir gaben alles, um ein Kind zu kriegen – und wollten das zweite nicht",
-      "teaser": "Unser Autor und seine Freundin versuchten jahrelang, ein Kind zu bekommen. Als sich ungeplant ein zweites ankündigt, stehen sie vor einer schwierigen Entscheidung.",
-      "url": "https://www.zeit.de/familie/2025-06/ungeplant-schwanger-kinderwunsch-beziehung-entscheidung",
-      "image_url": "https://img.zeit.de/familie/2025-06/ungeplant-schwanger-kinderwunsch-beziehung/super__430x286",
-      "image_title": "Ungeplant schwanger: Wir gaben alles, um ein Kind zu kriegen – und wollten das zweite nicht"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Streitigkeiten in der Familie: Nein, miteinander reden ist nicht die Lösung für alles",
-      "teaser": "Zerwürfnisse in Familien lassen sich nicht immer an- und aussprechen. Zwei persönliche Geschichten zeigen, wann Schweigen die bessere Option ist.",
-      "url": "https://www.zeit.de/familie/2025-07/streitigkeiten-familie-kommunikation-schweigen-weltansicht",
-      "image_url": "https://img.zeit.de/familie/2025-06/streitigkeiten-familie-kommunikation-schweigen/super__430x286",
-      "image_title": "Streitigkeiten in der Familie: Nein, miteinander reden ist nicht die Lösung für alles"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Reality-TV: Wie Trash-TV sind Sie?",
-      "teaser": "Guter Trash? Das ist möglich – denn ein Teil Ihrer Persönlichkeit spürt da was. Unser Trash-O-Mat verrät Ihnen, welche Sendung zu Ihnen passt wie \"Promis unter Palmen\".",
-      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2025-06/reality-tv-trash-formate-shows-tipps",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-06/reality-tv-trash-formate-shows-tipps-teaser/super__430x286",
-      "image_title": "Reality-TV: Wie Trash-TV sind Sie?"
     },
     {
       "title": "Europaparlament: Wie Rechtsaußen-Politiker die Brüsseler Parlamentskasse plünderten",
@@ -245,11 +195,67 @@
       "image_title": "Plätze: Heute schmückt sich die Stadt Hamburg mit dem \"Park Fiction“, geplant und durchgesetzt hat es aber eine Initiative aus Künstlern und Anwohnern."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Lebensmotivation: Ich bin kein Vater und will trotzdem Liebe weitergeben",
+      "teaser": "Er ist Mitte 40, kinderlos und hat etwas Wichtiges für sich erkannt: Er wird kein Kind bekommen. Aber was sonst könnte seinem Leben eine Richtung geben?",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-07/lebensmotivation-liebe-kinder-vater-praegung",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-07/lebensmotivation-liebe-kinder-vater/super__430x286",
+      "image_title": "Lebensmotivation: Ich bin kein Vater und will trotzdem Liebe weitergeben"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Getrennte Eltern: Mein doppeltes Leben",
+      "teaser": "Schulwege, Kinderzimmer, Urlaube: Wenn Eltern sich trennen, gibt es vieles plötzlich zweimal. Und viel Hin und Her. Hier erzählen drei Kinder, wie es ihnen damit geht.",
+      "url": "https://www.zeit.de/2025/28/getrennte-eltern-kinder-alltag-herausforderung",
+      "image_url": "https://img.zeit.de/2025/28/getrennte-eltern-kinder-alltag-herausforderung-teaser/wide__892x501",
+      "image_title": "Getrennte Eltern: Mein doppeltes Leben"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wohnort • Z+ Empfehlung: Das perfekte Viertel",
+      "teaser": "Wären Sie glücklicher, würden Sie woanders leben? Unsere Autorin zog probeweise von Berlin-Kreuzberg in den Stadtteil, der laut Statistik am besten zu ihr passt.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-06/wohnort-ideales-viertel-statistik-stadtteilrechner",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-06/wohnort-ideales-viertel-statistik-stadtteilrechner-aufmacher-jpg/super__430x286",
+      "image_title": "Wohnort • Z+ Empfehlung: Das perfekte Viertel"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ungeplant schwanger: Wir gaben alles, um ein Kind zu kriegen – und wollten das zweite nicht",
+      "teaser": "Unser Autor und seine Freundin versuchten jahrelang, ein Kind zu bekommen. Als sich ungeplant ein zweites ankündigt, stehen sie vor einer schwierigen Entscheidung.",
+      "url": "https://www.zeit.de/familie/2025-06/ungeplant-schwanger-kinderwunsch-beziehung-entscheidung",
+      "image_url": "https://img.zeit.de/familie/2025-06/ungeplant-schwanger-kinderwunsch-beziehung/super__430x286",
+      "image_title": "Ungeplant schwanger: Wir gaben alles, um ein Kind zu kriegen – und wollten das zweite nicht"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Guadalajara-Facelift: \"Der beste Facelift, den ich je gesehen habe\"",
+      "teaser": "Eine Frau sieht nach einer Schönheits-OP 20 Jahre jünger aus – und das Internet feiert sie. Da kann man nur rufen: Free the wrinkle!",
+      "url": "https://www.zeit.de/digital/2025-07/guadalajara-facelift-schoenheit-op-falten-internet",
+      "image_url": "https://img.zeit.de/digital/2025-07/rose-guadalajara-facelift-schoenheit-op-falten-internet-bild/super__430x286",
+      "image_title": "Guadalajara-Facelift: \"Der beste Facelift, den ich je gesehen habe\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Streitigkeiten in der Familie: Nein, miteinander reden ist nicht die Lösung für alles",
+      "teaser": "Zerwürfnisse in Familien lassen sich nicht immer an- und aussprechen. Zwei persönliche Geschichten zeigen, wann Schweigen die bessere Option ist.",
+      "url": "https://www.zeit.de/familie/2025-07/streitigkeiten-familie-kommunikation-schweigen-weltansicht",
+      "image_url": "https://img.zeit.de/familie/2025-06/streitigkeiten-familie-kommunikation-schweigen/super__430x286",
+      "image_title": "Streitigkeiten in der Familie: Nein, miteinander reden ist nicht die Lösung für alles"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Steine-Sammlung: Stein auf Stein auf Stein",
+      "teaser": "Luigi Lineri sammelt seit 60 Jahren Steine, zu Hunderttausenden lagert er sie zu Hause. Er sagt, er habe von ihnen das Wichtigste über das Leben gelernt.",
+      "url": "https://www.zeit.de/2025/28/steine-sammlung-luigi-lineri-hobby-leben",
+      "image_url": "https://img.zeit.de/2025/28/steinreich-bild-4/super__430x286",
+      "image_title": "Steine-Sammlung: Luigi Lineri, November 2024"
+    },
+    {
       "title": "Black Sabbath: Ein letztes Gruselhörspiel",
       "teaser": "Das Abschiedskonzert von Black Sabbath in Birmingham wird zum Festival der Rock- und Metalprominenz: Metallica, Slayer und Guns N' Roses geben sich das Kabel in die Hand.",
       "url": "https://www.zeit.de/kultur/musik/2025-07/black-sabbath-ozzy-osbourne-abschied-konzert-rockmusik",
-      "image_url": "https://img.zeit.de/kultur/2025-07/black-sabbath-ozzy-osbourne-2025-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/kultur/2025-07/black-sabbath-ozzy-osbourne-2025-bild/super__430x286",
       "image_title": "Black Sabbath: Fans im Stadtion Villa Park werfen sich einen Ozzy Osbourne-Ball zu. Der echte Leadsänger von Black Sabbath verharrt beim Abscheidskonzert \"Back to The Beginning\" auf seinem Fledermausthron."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Mattering: Würde man mich vermissen, wenn ich weg wäre?",
+      "teaser": "Wahrgenommen werden, für andere wichtig sein – Mattering, sagen Psychologen – macht resilienter und schützt vor Burn-out. Wie man es schafft, sich bedeutsam zu fühlen.",
+      "url": "https://www.zeit.de/gesundheit/2025-07/mattering-aufmerksamkeit-bedeutung-alltag-psychologie",
+      "image_url": "https://img.zeit.de/gesundheit/2025-07/mattering-aufmerksamkeit-bedeutung-alltag-psychologie-bild/super__430x286",
+      "image_title": "Mattering: Symbolbild zur Bedeutsamkeit, Tonje Thilesen für DIE ZEIT"
     },
     {
       "title": "Klimawandel in Deutschland: Körper am Limit – was Hitze mit unserer Gesundheit macht",
@@ -358,11 +364,11 @@
       "url": "https://www.zeit.de/politik/ausland/2025-07/usa-waffen-lieferung-ukraine-hegseth"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hans Pleschinski: Die Königin als schlichter Mensch",
-      "teaser": "Marie Antoinette war die zentrale Hassfigur der Französischen Revolution. Die Memoiren ihrer Kammerfrau hat der Schriftsteller Hans Pleschinski nun neu übersetzt.",
-      "url": "https://www.zeit.de/2025/28/hans-pleschinski-marie-antoinette-kammerfrau-buch",
-      "image_url": "https://img.zeit.de/2025/28/hans-pleschinski-marie-antoinette-kammerfrau-buch-teaser/wide__892x501",
-      "image_title": "Hans Pleschinski: Marie Antoinette"
+      "title": "Z+ (abopflichtiger Inhalt); \"Ozeane\" von David Attenborough: Seiten zum Eintauchen",
+      "teaser": "David Attenborough ist nun schon 99 Jahre alt. Sein neues Buch \"Ozeane\" ist so etwas wie die Summe seines Meeresforscherlebens. Es liest sich mitreißend.",
+      "url": "https://www.zeit.de/2025/28/ozeane-david-attenborough-colin-butfield-buch-doku",
+      "image_url": "https://img.zeit.de/2025/28/ozeane-david-attenborough-colin-butfield-buch-doku-teaser/wide__892x501",
+      "image_title": "\"Ozeane\" von David Attenborough: Weichkorallen, Phuket, Similan-Inseln, Andamanensee, Thailand, Asien"
     },
     {
       "title": "Verlagsangebot: 7 Sehnsuchtsorte in Frankreich",
@@ -372,11 +378,11 @@
       "image_title": "Freunde der ZEIT: 7 Sehnsuchtsorte in Frankreich"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Alexander Kluge: \"Der Krieg ist ein Dämon\"",
-      "teaser": "Alexander Kluge sagt, Kriege könne man nicht wirklich gewinnen. Hier spricht der 93-jährige Autor, Jurist und Filmemacher über die Kunst, Frieden zu schließen.",
-      "url": "https://www.zeit.de/2025/28/alexander-kluge-frieden-krieg-regisseur",
-      "image_url": "https://img.zeit.de/2025/28/ich-muss-mich-ganz-in-die-perspektive-des-gegners-hineinversetzen-bild-1/super__430x286",
-      "image_title": "Alexander Kluge: Der Autor, Jurist und Filmemacher Alexander Kluge, 93, in seinem Atelier in München"
+      "title": "Z+ (abopflichtiger Inhalt); Hans Pleschinski: Die Königin als schlichter Mensch",
+      "teaser": "Marie Antoinette war die zentrale Hassfigur der Französischen Revolution. Die Memoiren ihrer Kammerfrau hat der Schriftsteller Hans Pleschinski nun neu übersetzt.",
+      "url": "https://www.zeit.de/2025/28/hans-pleschinski-marie-antoinette-kammerfrau-buch",
+      "image_url": "https://img.zeit.de/2025/28/hans-pleschinski-marie-antoinette-kammerfrau-buch-teaser/super__430x286",
+      "image_title": "Hans Pleschinski: Marie Antoinette"
     },
     {
       "title": "Corona-Pandemie: Bundesrechnungshof rügt Folgekosten der Maskenkäufe",
@@ -568,18 +574,18 @@
       "image_title": "Ingeborg Bachmann und Heinrich Böll: Die Schriftsteller Heinrich Böll, Ingeborg Bachmann und Ilse Aichinger (v.l. oben) ."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Alexander Kluge: \"Der Krieg ist ein Dämon\"",
+      "teaser": "Alexander Kluge sagt, Kriege könne man nicht wirklich gewinnen. Hier spricht der 93-jährige Autor, Jurist und Filmemacher über die Kunst, Frieden zu schließen.",
+      "url": "https://www.zeit.de/2025/28/alexander-kluge-frieden-krieg-regisseur",
+      "image_url": "https://img.zeit.de/2025/28/ich-muss-mich-ganz-in-die-perspektive-des-gegners-hineinversetzen-bild-1/super__430x286",
+      "image_title": "Alexander Kluge: Der Autor, Jurist und Filmemacher Alexander Kluge, 93, in seinem Atelier in München"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); USA: Der dunkle Traum vom MAGA-Staat",
       "teaser": "Vermummte Agenten auf Menschenjagd und \"Alligator Alcatraz\": In den USA formt sich gerade ein autoritärer MAGA-Staat, den konservative Vordenker schon lange herbeisehnen.",
       "url": "https://www.zeit.de/kultur/2025-07/usa-maga-donald-trump-ice-migration-soziale-ungleichheit",
       "image_url": "https://img.zeit.de/kultur/2025-07/usa-maga-donald-trump-ice-migration-soziale-ungleichheit-2/super__430x286",
       "image_title": "USA: Der dunkle Traum vom MAGA-Staat"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Wild Song\" von Candy Gourlay: Wer ist hier zivilisiert?",
-      "teaser": "1904 luden die USA Indigene von den Philippinen ein – und stellten sie wie in einem Zoo zur Schau. Diese Geschichte fasst Candy Gourlay in einen fesselnden Jugendroman.",
-      "url": "https://www.zeit.de/2025/28/wild-song-candy-gourlay-indigene-ausstellung-roman",
-      "image_url": "https://img.zeit.de/2025/28/wild-song-candy-gourlay-indigene-ausstellung-roman-teaser/super__430x286",
-      "image_title": "\"Wild Song\" von Candy Gourlay: Die philippinischen Gäste mussten für die Amerikaner die \"Wilden\" spielen und wurden, wie dieses Suyoc-Mädchen, für die Anthropologie-Abteilung fotografiert."
     },
     {
       "title": "Fluten in Texas: Warum die Fluten in Texas so tödlich waren",
@@ -881,11 +887,11 @@
       "image_title": "Medizinstudierende auf der Fusion: Die Medizinstudentin Sophie setzt das Blaulicht aufs Dach des ungewöhnlichen Rettungswagens. Dann bahnt sie sich mit Sirene den Weg durch die morgendlichen Menschenmassen, zurück zum Sani-Zelt."
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot : Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Formel 1: Nico Hülkenberg erstmals auf Formel-1-Podium in Silverstone",
@@ -916,36 +922,36 @@
       "image_title": "Hamburger Hafen: Zwei Millionen Container mehr im Jahr"
     },
     {
-      "title": "Soziales: Bund-Länder-AG für große Pflegereform startet",
-      "url": "https://www.zeit.de/news/2025-07/07/bund-laender-ag-fuer-grosse-pflegereform-startet"
+      "title": "Versorgung im Krisenfall: Regierung kennt Zahl einsatzfähiger Zivilschutz-Helfer nicht",
+      "url": "https://www.zeit.de/news/2025-07/07/regierung-kennt-zahl-einsatzfaehiger-zivilschutz-helfer-nicht"
     },
     {
-      "title": "Verkehr: Südschnellweg in Hannover für eine Woche gesperrt",
-      "url": "https://www.zeit.de/news/2025-07/07/suedschnellweg-in-hannover-fuer-eine-woche-gesperrt"
+      "title": "Migration: Polen beginnt mit Kontrollen an Grenze zu Deutschland",
+      "url": "https://www.zeit.de/news/2025-07/07/polen-beginnt-mit-kontrollen-an-grenze-zu-deutschland"
     },
     {
-      "title": "Entlastung: Woidke: Senkung der Stromsteuer für alle wäre fair",
-      "url": "https://www.zeit.de/news/2025-07/07/woidke-senkung-der-stromsteuer-fuer-alle-waere-fair"
+      "title": "Arbeit: Für Geschäftsreisende kommt es aufs Frühstück an",
+      "url": "https://www.zeit.de/news/2025-07/07/fuer-geschaeftsreisende-kommt-es-aufs-fruehstueck-an"
     },
     {
-      "title": "Fernsehen: Eine Frau und viele gruselige Männer - der Horrorfilm \"Men\"",
-      "url": "https://www.zeit.de/news/2025-07/07/eine-frau-und-viele-gruselige-maenner-der-horrorfilm-men"
+      "title": "Konjunktur: Metall- und Elektroindustrie im Norden tritt auf der Stelle",
+      "url": "https://www.zeit.de/news/2025-07/07/metall-und-elektroindustrie-im-norden-tritt-auf-der-stelle"
     },
     {
-      "title": "Achtung Zeugnisse: Experten raten: Gelassen bleiben bei schlechten Noten",
-      "url": "https://www.zeit.de/news/2025-07/07/experten-raten-gelassen-bleiben-bei-schlechten-noten"
+      "title": "Gesundheit: Jeder Fünfte hat Rückenschmerzen: Was dagegen hilft",
+      "url": "https://www.zeit.de/news/2025-07/07/jeder-fuenfte-hat-rueckenschmerzen-was-dagegen-hilft"
     },
     {
-      "title": "Tiere: \"Igel schützen\": Grüne fordern nächtliches Mähroboter-Verbot",
-      "url": "https://www.zeit.de/news/2025-07/07/igel-schuetzen-gruene-fordern-naechtliches-maehroboter-verbot"
+      "title": "Notfall in Queensland: Löwen-Angriff in australischem Zoo: Frau verliert Arm",
+      "url": "https://www.zeit.de/news/2025-07/07/loewen-angriff-in-australischem-zoo-frau-verliert-arm"
     },
     {
-      "title": "Hochschulfinanzierung: Aktionswoche gegen Kürzungen an Berliner Hochschulen",
-      "url": "https://www.zeit.de/news/2025-07/07/aktionswoche-gegen-kuerzungen-an-berliner-hochschulen"
+      "title": "Forschung: Kammern in Leipzig zur Forschung an Stoffwechselerkrankungen",
+      "url": "https://www.zeit.de/news/2025-07/07/kammern-in-leipzig-zur-forschung-an-stoffwechselerkrankungen"
     },
     {
-      "title": "Soziales: Bayern fordert mehr Geld vom Bund für Pflegeversicherung",
-      "url": "https://www.zeit.de/news/2025-07/07/bayern-fordert-mehr-geld-vom-bund-fuer-pflegeversicherung"
+      "title": "Medienphänomen Trump: Sloterdijk sieht Trump als König und Hofnarr zugleich",
+      "url": "https://www.zeit.de/news/2025-07/07/sloterdijk-sieht-trump-als-koenig-und-hofnarr-zugleich"
     }
   ]
 }
