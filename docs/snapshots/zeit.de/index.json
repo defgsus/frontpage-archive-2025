@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-08T03:44:40",
+  "timestamp": "2025-07-08T04:21:17",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,46 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Streitkultur: Der Knigge-Kampf der AfD",
-      "teaser": "Beleidigen, bedrohen, verhöhnen – damit hatte die AfD Erfolg. Nun will sie ihren Stil ändern. Das kann man durchaus als Angriff verstehen.",
-      "url": "https://www.zeit.de/kultur/2025-07/streitkultur-bundestag-knigge-afd",
-      "image_url": "https://img.zeit.de/kultur/2025-07/streitkultur-bundestag-knigge-afd-bild/wide__1000x562",
-      "image_title": "Streitkultur: Der Knigge-Kampf der AfD"
-    },
-    {
-      "title": "Ukrainekrieg: Donald Trump sagt der Ukraine weitere Waffenlieferungen zu",
-      "teaser": "US-Präsident Trump hat nun doch weitere militärische Unterstützung für die Ukraine in Aussicht gestellt. Zuvor hatte er gesagt, die USA hätten schon zu viel geliefert.",
-      "url": "https://www.zeit.de/politik/ausland/2025-07/donald-trump-will-doch-waffen-an-ukraine-liefern",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-07/ukraine-usa-waffenlieferungen-krieg/super__430x286",
-      "image_title": "Ukrainekrieg: Soldaten eines Zuges für unbemannte Luftfahrzeuge des 113. Bataillons der 110. Territorialen Verteidigungsbrigade der Ukraine starten am 28. April 2025 an einem nicht genannten Ort eine schwere Vampir-Drohne in Richtung Saporischschja in der Ukraine. Service +++ dpa-Bildfunk +++ Aufnahmedatum 28.04.2025 Bildnachweis picture alliance/dpa/Ukrinform | Dmytro Smolienko"
-    },
-    {
-      "title": "Krieg in Gaza: Trump und Netanjahu besprechen mögliche Waffenruhe im Gazakrieg",
-      "teaser": "Der US-Präsident und Israels Premier haben im Weißen Haus über die Gespräche zu einem Waffenstillstand beraten. Netanjahu schlägt Trump für den Friedensnobelpreis vor.",
-      "url": "https://www.zeit.de/politik/ausland/2025-07/donald-trump-benjamin-netanjahu-gaza-krieg-weisses-haus",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-07/donald-trump-benjamin-netanjahu-treffen/super__430x286",
-      "image_title": "Krieg in Gaza: WASHINGTON, DC - JULY 07: U.S. President Donald Trump, seated next to Secretary of Defense Pete Hegseth, hosts Israeli Prime Minister Benjamin Netanyahu for a dinner in the Blue Room of the White House on July 7, 2025, in Washington, DC. Trump is hosting Netanyahu to discuss a potential ceasefire agreement to end the fighting in Gaza. (Photo by Andrew Harnik/Getty Images)"
-    },
-    {
-      "title": "Bundesverfassungsgericht: Wahlausschuss einigt sich auf Kandidaten für das Verfassungsgericht",
-      "teaser": "Der Wahlausschuss schlägt Frauke Brosius-Gersdorf, Ann-Katrin Kaufhold und Günter Spinner für Posten am Bundesverfassungsgericht vor. Am Freitag stimmt der Bundestag ab.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-07/bundesverfassungsgericht-kandidaten-frauke-brosius-gersdorf-ann-katrin-kaufhold-guenter-spinner",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-07/bundesverfassungsgericht-wahlausschuss-kandidaten-cdu-spd/super__430x286",
-      "image_title": "Bundesverfassungsgericht: Der Zweite Senat des Bundesverfassungsgericht, (l-r) Astrid Wallrabenstein, Peter Müller, Peter M. Huber, Doris König (Vorsitz), Monika Hermanns, Sibylle Kessal-Wulf und Christine Langenfeld, verkündet das Urteil zu milliardenschweren EU-Corona-Fonds (Durch eine Scheibe fotografiert). Laut dem Urteil sind die Verfassungsbeschwerden erfolglos. Service +++ dpa-Bildfunk +++ Aufnahmedatum 06.12.2022 Bildnachweis picture alliance/dpa | Uli Deck"
-    },
-    {
-      "title": "Wahl der Bundesverfassungsrichter: Wie die Union die Verfassungsrichterwahl zum Wackeln bringt",
-      "teaser": "Drei neue Verfassungsrichter soll der Bundestag in dieser Woche wählen – doch eine Mehrheit gäbe es nur mit der Linken. Die Union stellt das vor grundsätzliche Probleme.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-07/wahl-bundesverfassungsrichter-besetzung-abstimmung-frauke-brosius-gersdorf",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-07/wahl-bundesverfassungsrichter-besetzung-abstimmung-frauke-brosius-gersdorf-bild/wide__892x501",
-      "image_title": "Wahl der Bundesverfassungsrichter: Wie die Union die Verfassungsrichterwahl zum Wackeln bringt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Brustkrebs: Es war sowieso schon zu viel – und dann kam der Krebs",
-      "teaser": "Immer mehr junge Frauen erkranken an Brustkrebs. Sie erwischt es, wenn sie mit Job und Kindern ohnehin überlastet sind. Wenn der Krebs besiegt ist, geht der Kampf weiter.",
-      "url": "https://www.zeit.de/arbeit/2025-06/brustkrebs-erkrankung-heilung-alltag-stress",
-      "image_url": "https://img.zeit.de/arbeit/2025-07/brustkrebs-erkrankung-heilung-alltag-stress/wide__892x501",
-      "image_title": "Brustkrebs: Es war sowieso schon zu viel – und dann kam der Krebs"
+      "title": "Z+ (abopflichtiger Inhalt); Scott Bessent: Donald Trumps wichtigster Mann",
+      "teaser": "Scott Bessent hat mit einem Trick eine Finanzkrise abgewendet. Aber wegen seiner MAGA-Treue wachsen unter Bankern und Investoren die Zweifel am US-Finanzminister.",
+      "url": "https://www.zeit.de/2025/28/scott-bessent-usa-finanzminister-donald-trump-finanzkrise-wall-street",
+      "image_url": "https://img.zeit.de/2025/28/trumps-wichtigster-mann-bild-1/wide__1000x562",
+      "image_title": "Scott Bessent: Scott Bessent, 62, war ein erfolgreicher Hedgefondsmanager, bevor er US-Finanzminister wurde"
     },
     {
       "title": "Flutkatastrophe in Texas: Donald Trump weist Kritik an Kürzungen beim Wetterdienst zurück",
@@ -147,32 +118,60 @@
       "image_title": "Flutkatastrophe in Texas: WASHINGTON, DC - JULY 01: U.S. President Donald Trump speaks to reporters on the South Lawn before boarding Marine One and departing the White House on July 01, 2025 in Washington, DC. Trump is traveling to Ochopee, Florida to visit a newly built immigration detention center in the Florida Everglades dubbed \"Alligator Alcatraz.\" (Photo by Anna Moneymaker/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Soziale Mobilität: \"Da sitzen seit mehr als 100 Jahren große deutsche Männer\"",
-      "teaser": "Laut einer Studie hat sich die Struktur der Eliten seit dem Kaiserreich kaum verändert. Der Autor sagt: Sie rekrutieren oft ein Abbild ihrer selbst – bis zur Körpergröße.",
-      "url": "https://www.zeit.de/2025/28/soziale-mobilitaet-deutschland-elite-mittelschicht",
-      "image_url": "https://img.zeit.de/2025/28/seit-mehr-als-hundert-jahren-besteht-die-deutsche-elite-aus-denselben-gesellschaftlichen-schichten-d-bild-1/super__430x286",
-      "image_title": "Soziale Mobilität: Kontinuität per Dynastie, im Bild: Wolfgang und Ferdinand Porsche"
+      "title": "Ukrainekrieg: Donald Trump sagt der Ukraine weitere Waffenlieferungen zu",
+      "teaser": "US-Präsident Trump hat nun doch weitere militärische Unterstützung für die Ukraine in Aussicht gestellt. Zuvor hatte er gesagt, die USA hätten schon zu viel geliefert.",
+      "url": "https://www.zeit.de/politik/ausland/2025-07/donald-trump-will-doch-waffen-an-ukraine-liefern",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-07/ukraine-usa-waffenlieferungen-krieg/super__430x286",
+      "image_title": "Ukrainekrieg: Soldaten eines Zuges für unbemannte Luftfahrzeuge des 113. Bataillons der 110. Territorialen Verteidigungsbrigade der Ukraine starten am 28. April 2025 an einem nicht genannten Ort eine schwere Vampir-Drohne in Richtung Saporischschja in der Ukraine. Service +++ dpa-Bildfunk +++ Aufnahmedatum 28.04.2025 Bildnachweis picture alliance/dpa/Ukrinform | Dmytro Smolienko"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Essverhalten von Kindern: Wenn das Hausschwein die Contenance verliert",
-      "teaser": "Die Kinder essen nie die Teller leer und sind auch sonst sehr wählerisch? Da hilft nur: als Elternteil am Familientisch eine neue Rolle finden. Und ein bisschen Dramatik.",
-      "url": "https://www.zeit.de/familie/2025-07/essverhalten-kinder-familie-erziehung-lebensmittel",
-      "image_url": "https://img.zeit.de/familie/2025-07/essen-verschwendung-hausschwein/super__430x286",
-      "image_title": "Essverhalten von Kindern: Wenn das Hausschwein die Contenance verliert"
+      "title": "Bundesverfassungsgericht: Wahlausschuss einigt sich auf Kandidaten für das Verfassungsgericht",
+      "teaser": "Der Wahlausschuss schlägt Frauke Brosius-Gersdorf, Ann-Katrin Kaufhold und Günter Spinner für Posten am Bundesverfassungsgericht vor. Am Freitag stimmt der Bundestag ab.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-07/bundesverfassungsgericht-kandidaten-frauke-brosius-gersdorf-ann-katrin-kaufhold-guenter-spinner",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-07/bundesverfassungsgericht-wahlausschuss-kandidaten-cdu-spd/super__430x286",
+      "image_title": "Bundesverfassungsgericht: Der Zweite Senat des Bundesverfassungsgericht, (l-r) Astrid Wallrabenstein, Peter Müller, Peter M. Huber, Doris König (Vorsitz), Monika Hermanns, Sibylle Kessal-Wulf und Christine Langenfeld, verkündet das Urteil zu milliardenschweren EU-Corona-Fonds (Durch eine Scheibe fotografiert). Laut dem Urteil sind die Verfassungsbeschwerden erfolglos. Service +++ dpa-Bildfunk +++ Aufnahmedatum 06.12.2022 Bildnachweis picture alliance/dpa | Uli Deck"
     },
     {
-      "title": "Wimbledon: Game, Set, Glitch",
-      "teaser": "In Wimbledon wurden zum ersten Mal die Linienrichter durch Technik ersetzt. Nun versagte sie. Wie viel KI verträgt der Tennissport – und was geht dabei verloren?",
-      "url": "https://www.zeit.de/sport/2025-07/wimbledon-linienrichter-ki-fehlfunktion",
-      "image_url": "https://img.zeit.de/sport/2025-07/anastasia-pavlyuchenkova/square__500x500",
-      "image_title": "Wimbledon: Game, Set, Glitch"
+      "title": "Z+ (abopflichtiger Inhalt); Streitkultur: Der Knigge-Kampf der AfD",
+      "teaser": "Beleidigen, bedrohen, verhöhnen – damit hatte die AfD Erfolg. Nun will sie ihren Stil ändern. Das kann man durchaus als Angriff verstehen.",
+      "url": "https://www.zeit.de/kultur/2025-07/streitkultur-bundestag-knigge-afd",
+      "image_url": "https://img.zeit.de/kultur/2025-07/streitkultur-bundestag-knigge-afd-bild/wide__892x501",
+      "image_title": "Streitkultur: Der Knigge-Kampf der AfD"
     },
     {
-      "title": "Studieren in Ostdeutschland: Willst du da drüben wirklich studieren?",
-      "teaser": "Unis im Osten verlieren seit Jahren Studierende, trotz günstiger Mieten und persönlicher Betreuung. Das liegt nicht nur an Vorurteilen.",
-      "url": "https://www.zeit.de/2025/28/studieren-ostdeutschland-unis-beliebtheit-westen",
-      "image_url": "https://img.zeit.de/2025/28/kommt-doch-mal-rueber-mann-bild-1/super__430x286",
-      "image_title": "Studieren in Ostdeutschland: Wo sind denn alle hin? Der Vorplatz des Weinhold-Baus der TU-Chemnitz, fast menschenleer"
+      "title": "Nachrichtenpodcast: Sonderermittlerin spricht zu Spahns Maskenaffäre",
+      "teaser": "Der ungeschwärzte Maskenbericht bringt Spahn unter Druck. Und: Die AfD will sich in Zukunft mit einem Verhaltenskodex im Bundestag besser benehmen.",
+      "url": "https://www.zeit.de/politik/2025-07/maskenaffaere-jens-spahn-margaretha-sudhof-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/super__430x286",
+      "image_title": "Nachrichtenpodcast: Sonderermittlerin spricht zu Spahns Maskenaffäre"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kindererziehung: Mit diesen 21 Hacks wird Erziehung zum Klacks",
+      "teaser": "Sie wissen, was gut für Ihr Kind ist, aber Ihr Kind will das nicht verstehen? Mit diesen Erziehungstricks setzen Sie sich endlich durch – ganz ohne Streit.",
+      "url": "https://www.zeit.de/familie/2025-06/kindererziehung-eltern-probleme-tipps-tricks",
+      "image_url": "https://img.zeit.de/familie/2025-07/kindererziehung-eltern-probleme-tipps/wide__892x501",
+      "image_title": "Kindererziehung: Mit diesen 21 Hacks wird Erziehung zum Klacks"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Schlafforschung • Z+ Empfehlung : \"Ausgeschlafene Menschen haben eine höhere Lebenserwartung\"",
+      "teaser": "Auch wer wenig schläft, kann viel leisten. Ein Schlafforscher erklärt, wie man seinen Schlaftyp findet, wann Kaffee wirklich hilft und wie krank falscher Schlaf macht.",
+      "url": "https://www.zeit.de/arbeit/2022-08/schlafforschung-produktivitaet-schichtarbeit-gesundheit-albrecht-vorster",
+      "image_url": "https://img.zeit.de/arbeit/2022-08/schlafforschung-produktivitaet-schichtarbeit/super__430x286",
+      "image_title": "Schlafforschung • Z+ Empfehlung: \"Ausgeschlafene Menschen haben eine höhere Lebenserwartung\""
+    },
+    {
+      "title": "Krieg in Gaza: Trump und Netanjahu besprechen mögliche Waffenruhe im Gazakrieg",
+      "teaser": "Der US-Präsident und Israels Premier haben im Weißen Haus über die Gespräche zu einem Waffenstillstand beraten. Netanjahu schlägt Trump für den Friedensnobelpreis vor.",
+      "url": "https://www.zeit.de/politik/ausland/2025-07/donald-trump-benjamin-netanjahu-gaza-krieg-weisses-haus",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-07/donald-trump-benjamin-netanjahu-treffen/super__430x286",
+      "image_title": "Krieg in Gaza: WASHINGTON, DC - JULY 07: U.S. President Donald Trump, seated next to Secretary of Defense Pete Hegseth, hosts Israeli Prime Minister Benjamin Netanyahu for a dinner in the Blue Room of the White House on July 7, 2025, in Washington, DC. Trump is hosting Netanyahu to discuss a potential ceasefire agreement to end the fighting in Gaza. (Photo by Andrew Harnik/Getty Images)"
+    },
+    {
+      "title": "Nahost: Huthi-Miliz bekennt sich zu Angriff auf Handelsschiff im Roten Meer",
+      "teaser": "Die vom Jemen aus operierende Huthi-Milz hat sich zum ersten Mal seit Monaten zu einem Angriff auf ein Handelsschiff bekannt. Mittlerweile ist der Frachter gesunken.",
+      "url": "https://www.zeit.de/politik/ausland/2025-07/huthis-bekennen-sich-zu-angriff-auf-frachtschiff-im-roten-meer",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-07/schiff-huthi-bild/super__430x286",
+      "image_title": "Nahost: Ein Archivbild des von den Huthis angegriffenen und inzwischen gesunkenen Frachtschiffs \"Magic Seas\", 9.8.2022"
     },
     {
       "title": "Fußball-EM der Frauen: Italien und Portugal gleichauf, Spanien zieht ins Viertelfinale ein",
@@ -180,6 +179,48 @@
       "url": "https://www.zeit.de/sport/2025-07/fussball-em-frauen-spanien-belgien",
       "image_url": "https://img.zeit.de/sport/2025-07/fussball-em-frauen-portugal-italien-bild/super__430x286",
       "image_title": "Fußball-EM der Frauen: Die Portugiesin Diana Silva jubelt nach dem Tor, das nach einer Überprüfung nicht anerkannt wurde."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Brustkrebs: Es war sowieso schon zu viel – und dann kam der Krebs",
+      "teaser": "Immer mehr junge Frauen erkranken an Brustkrebs. Sie erwischt es, wenn sie mit Job und Kindern ohnehin überlastet sind. Wenn der Krebs besiegt ist, geht der Kampf weiter.",
+      "url": "https://www.zeit.de/arbeit/2025-06/brustkrebs-erkrankung-heilung-alltag-stress",
+      "image_url": "https://img.zeit.de/arbeit/2025-07/brustkrebs-erkrankung-heilung-alltag-stress/super__430x286",
+      "image_title": "Brustkrebs: Es war sowieso schon zu viel – und dann kam der Krebs"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Soziale Mobilität: \"Da sitzen seit mehr als 100 Jahren große deutsche Männer\"",
+      "teaser": "Laut einer Studie hat sich die Struktur der Eliten seit dem Kaiserreich kaum verändert. Der Autor sagt: Sie rekrutieren oft ein Abbild ihrer selbst – bis zur Körpergröße.",
+      "url": "https://www.zeit.de/2025/28/soziale-mobilitaet-deutschland-elite-mittelschicht",
+      "image_url": "https://img.zeit.de/2025/28/seit-mehr-als-hundert-jahren-besteht-die-deutsche-elite-aus-denselben-gesellschaftlichen-schichten-d-bild-1/super__430x286",
+      "image_title": "Soziale Mobilität: Kontinuität per Dynastie, im Bild: Wolfgang und Ferdinand Porsche"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Urlaub: Wie die Deutschen verreisen",
+      "teaser": "Jeder Fünfte kann sich keine einzige Reise leisten – etwa genauso viele fahren dagegen mindestens viermal pro Jahr in Urlaub. Eine Übersicht in Grafiken",
+      "url": "https://www.zeit.de/2025/28/urlaub-reise-kosten-familien-armut",
+      "image_url": "https://img.zeit.de/2025/28/wie-die-deutschen-verreisen-bild-2/wide__892x501",
+      "image_title": "Urlaub: Wie die Deutschen verreisen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); René Benko: Die Klobürste ist für einen Euro zu haben",
+      "teaser": "Die Einrichtung von René Benkos Villa am Gardasee wird versteigert. Beim Rundgang kann man sich die Exponate ansehen: ein Humidor, angebrochene Grappaflaschen, Badeenten.",
+      "url": "https://www.zeit.de/gesellschaft/2025-07/benko-auktion-einrichtung-villa-gardasee",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-07/benko-auktion-einrichtung-villa/super__430x286",
+      "image_title": "René Benko: Die Klobürste ist für einen Euro zu haben"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Schwingen: Ein böses Zwergli",
+      "teaser": "Stephanie Iten ist neun Jahre alt und die Beste in einem Sport, den es nur in der Schweiz gibt: Schwingen. Sie hat schon viel gewonnen, auch einen lebendigen Hasen.",
+      "url": "https://www.zeit.de/2025/28/schwingen-kampfsport-schweiz-kinder",
+      "image_url": "https://img.zeit.de/2025/28/titelthema-unsere-coolen-kinder-bild-1/super__430x286",
+      "image_title": "Schwingen: Stephanie Iten (rechts) mit ihrer Trainingspartnerin im Goldauer Schwingkeller"
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Hüpfend ins Glück",
+      "teaser": "Die Elbvertiefung am Dienstag – mit einem riesigen Ausbau im Hamburger Hafen, dem Alten Elbtunnel und 30 neuen Stolpersteinen",
+      "url": "https://www.zeit.de/hamburg/2025-07/elbvertiefung-08-07-2025",
+      "image_url": "https://img.zeit.de/2025-07/foto-08-07-2025-7/super__430x286",
+      "image_title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Hüpfend ins Glück"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Perimenopause: Mitte 30 und schon in der Perimenopause – really?",
@@ -203,25 +244,18 @@
       "image_title": "Arbeitslosigkeit nach Studienabschluss: Masterabschluss, arbeitslos"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Urlaub: Wie die Deutschen verreisen",
-      "teaser": "Jeder Fünfte kann sich keine einzige Reise leisten – etwa genauso viele fahren dagegen mindestens viermal pro Jahr in Urlaub. Eine Übersicht in Grafiken",
-      "url": "https://www.zeit.de/2025/28/urlaub-reise-kosten-familien-armut",
-      "image_url": "https://img.zeit.de/2025/28/wie-die-deutschen-verreisen-bild-2/wide__892x501",
-      "image_title": "Urlaub: Wie die Deutschen verreisen"
-    },
-    {
-      "title": "Nahost: Huthi-Miliz bekennt sich zu Angriff auf Handelsschiff im Roten Meer",
-      "teaser": "Die vom Jemen aus operierende Huthi-Milz hat sich zum ersten Mal seit Monaten zu einem Angriff auf ein Handelsschiff bekannt. Mittlerweile ist der Frachter gesunken.",
-      "url": "https://www.zeit.de/politik/ausland/2025-07/huthis-bekennen-sich-zu-angriff-auf-frachtschiff-im-roten-meer",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-07/schiff-huthi-bild/super__430x286",
-      "image_title": "Nahost: Ein Archivbild des von den Huthis angegriffenen und inzwischen gesunkenen Frachtschiffs \"Magic Seas\", 9.8.2022"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Buchempfehlungen: Das sind die besten Bücher für diesen Sommer",
       "teaser": "Was uns die Ozeane erzählen, ein Politthriller und hoffnungsvolle Geschichten in einer depressiven Welt: Die Redaktion der ZEIT empfiehlt die perfekte Urlaubslektüre.",
       "url": "https://www.zeit.de/kultur/literatur/2025-07/buchempfehlung-lesen-tipps",
       "image_url": "https://img.zeit.de/kultur/2025-07/buchempfehlung-lesen-tipps-bild/super__430x286",
       "image_title": "Buchempfehlungen: Das sind die besten Bücher für diesen Sommer"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Theologische Bücher: In gute Hände abzugeben",
+      "teaser": "Unser Autor will seine theologischen Bücher loswerden und stellt sie auf die Straße. Aber niemand nimmt sie. Und jetzt?",
+      "url": "https://www.zeit.de/2025/27/theologische-buecher-zu-verschenken",
+      "image_url": "https://img.zeit.de/2025/27/in-gute-haende-abzugeben-bild-1/super__430x286",
+      "image_title": "Theologische Bücher: Als würde er ein Haustier aussetzen – so fühlte sich unser Autor, als er seine alten Bücher vor die Tür stellte"
     },
     {
       "title": "NEU: Wochenmarkt Abo: Unser Abo mit Geschmack",
@@ -235,27 +269,6 @@
       "url": "https://www.zeit.de/gesellschaft/2025-07/alles-gesagt-podcast-live-2025",
       "image_url": "https://img.zeit.de/gesellschaft/2025-03/livepodcasts-zeit-tour-2025-programm-aufmacher-06/super__430x286",
       "image_title": "ZEIT Podcast-Tour 2025: \"Alles gesagt?\" live – Die Publikumsfolge"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); René Benko: Die Klobürste ist für einen Euro zu haben",
-      "teaser": "Die Einrichtung von René Benkos Villa am Gardasee wird versteigert. Beim Rundgang kann man sich die Exponate ansehen: ein Humidor, angebrochene Grappaflaschen, Badeenten.",
-      "url": "https://www.zeit.de/gesellschaft/2025-07/benko-auktion-einrichtung-villa-gardasee",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-07/benko-auktion-einrichtung-villa/super__430x286",
-      "image_title": "René Benko: Die Klobürste ist für einen Euro zu haben"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Schwingen: Ein böses Zwergli",
-      "teaser": "Stephanie Iten ist neun Jahre alt und die Beste in einem Sport, den es nur in der Schweiz gibt: Schwingen. Sie hat schon viel gewonnen, auch einen lebendigen Hasen.",
-      "url": "https://www.zeit.de/2025/28/schwingen-kampfsport-schweiz-kinder",
-      "image_url": "https://img.zeit.de/2025/28/titelthema-unsere-coolen-kinder-bild-1/super__430x286",
-      "image_title": "Schwingen: Stephanie Iten (rechts) mit ihrer Trainingspartnerin im Goldauer Schwingkeller"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hilfe für psychisch kranke Menschen: Raus aus der Drehtür",
-      "teaser": "Mit einer neuen Strategie will die Hamburger Sozialbehörde psychisch kranken Menschen, die zur Gefahr werden könnten, besser helfen. Die Idee dahinter ist an sich banal.",
-      "url": "https://www.zeit.de/2025/27/hilfe-psychisch-kranke-menschen-praevention-hamburg",
-      "image_url": "https://img.zeit.de/2025/27/hilfe-psychisch-kranke-menschen-praevention-hamburg-teaserbild/super__430x286",
-      "image_title": "Hilfe für psychisch kranke Menschen: Am 23. Mai 2025 inspizieren Gerichtsmediziner nach einem Messerangriff im Hauptbahnhof in Hamburg den Tatort, an dem mehrere Menschen verletzt wurden."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Badeunfälle: \"Eltern sitzen mit dem Handy am Ufer …\"",
@@ -330,11 +343,11 @@
       "image_title": "\"Ozeane\" von David Attenborough: Weichkorallen, Phuket, Similan-Inseln, Andamanensee, Thailand, Asien"
     },
     {
-      "title": "Liveblog:Russischer Angriffskrieg gegen die Ukraine: USA kündigen weitere Waffenlieferungen an die Ukraine an",
-      "teaser": "US-Präsident Donald Trump sagt der Ukraine nun doch neue militärische Hilfen zu. In Charkiw sind bei Angriffen mindestens 60 Menschen verletzt worden. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-07/ukraine-usa-waffenlieferungen-krieg/wide__892x501",
-      "image_title": "Russischer Angriffskrieg gegen die Ukraine: Soldaten eines Zuges für unbemannte Luftfahrzeuge des 113. Bataillons der 110. Territorialen Verteidigungsbrigade der Ukraine starten am 28. April 2025 an einem nicht genannten Ort eine schwere Vampir-Drohne in Richtung Saporischschja in der Ukraine. Service +++ dpa-Bildfunk +++ Aufnahmedatum 28.04.2025 Bildnachweis picture alliance/dpa/Ukrinform | Dmytro Smolienko"
+      "title": "Syrien: US-Regierung streicht syrische HTS-Miliz von Terrorliste",
+      "teaser": "Die USA entfernen die Gruppierung Hajat Tahrir al-Scham um Syriens neuen Präsidenten von ihrer Terrorliste. US-Präsident Trump will dem Land \"eine Chance geben\".",
+      "url": "https://www.zeit.de/politik/ausland/2025-07/usa-streichen-syriens-hts-von-terrorliste",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-07/ahmad-al-sharaa-syrien-praesident-usa/wide__892x501",
+      "image_title": "Syrien: DAMASCUS, SYRIA - FEBRUARY 25: Syrian President Ahmad al-Sharaa attends the closing ceremony of Syrian National Dialogue Conference at the Presidential Palace in Damascus, Syria on February 25, 2025. the Syrian National Dialogue Conference, attends the National Dialogue Conference on February 25, 2025 in Damascus, Syria. A national dialogue conference intended to help chart Syria's political future after the fall of former President Bashar Assad began at the Presidential Palace in Damascus on Monday. (Photo by Ali Haj Suleiman/Getty Images)"
     },
     {
       "title": "Verlagsangebot: Die richtige Ernährung kann so schön und einfach sein",
@@ -344,11 +357,11 @@
       "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Liveblog:Krieg in Gaza: Donald Trump empfängt Benjamin Netanjahu im Weißen Haus",
-      "teaser": "US-Präsident Trump trifft den israelischen Premierminister Netanjahu zu Gesprächen in Washington. Lufthansa will wieder Flüge nach Israel aufnehmen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2025-06/krieg-gaza-israel-liveblog",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-07/donald-trump-benjamin-netanjahu-treffen/super__430x286",
-      "image_title": "Krieg in Gaza: WASHINGTON, DC - JULY 07: U.S. President Donald Trump, seated next to Secretary of Defense Pete Hegseth, hosts Israeli Prime Minister Benjamin Netanyahu for a dinner in the Blue Room of the White House on July 7, 2025, in Washington, DC. Trump is hosting Netanyahu to discuss a potential ceasefire agreement to end the fighting in Gaza. (Photo by Andrew Harnik/Getty Images)"
+      "title": "Grenzkontrollen: Gewerkschaft der Polizei hält Grenzkontrollen für unverhältnismäßig",
+      "teaser": "Laut der GdP ist die Zahl der Zurückweisungen von Asylsuchenden an der Grenze gering, der Aufwand der Kontrollen aber groß. Die Gewerkschaft warnt zudem vor Ferienstaus.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-07/gewerkschaft-der-polizei-grenzkontrollen-asylbewerber-kritik",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-07/grenzkontrollen-gdp-asylsuchende-zurueckweisungen/super__430x286",
+      "image_title": "Grenzkontrollen: Beamte der Bundespolizei stehen am frühen Morgen bei der Einreisekontrolle am deutsch-polnischen Grenzübergang Stadtbrücke. Die Bundespolizei hat die Kontrollen an den Grenzen verschärft. Service +++ dpa-Bildfunk +++ Aufnahmedatum 11.05.2025 Bildnachweis picture alliance/dpa | Patrick Pleul"
     },
     {
       "title": "Wirtschaftspodcast: Führen diese Schulden wirklich in die Zukunft?",
@@ -400,10 +413,17 @@
       "image_title": "Gen Z auf dem Arbeitsmarkt: Sind die Jungen faul oder ist das ein Klischee?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Essverhalten von Kindern: Wenn das Hausschwein die Contenance verliert",
+      "teaser": "Die Kinder essen nie die Teller leer und sind auch sonst sehr wählerisch? Da hilft nur: als Elternteil am Familientisch eine neue Rolle finden. Und ein bisschen Dramatik.",
+      "url": "https://www.zeit.de/familie/2025-07/essverhalten-kinder-familie-erziehung-lebensmittel",
+      "image_url": "https://img.zeit.de/familie/2025-07/essen-verschwendung-hausschwein/wide__892x501",
+      "image_title": "Essverhalten von Kindern: Wenn das Hausschwein die Contenance verliert"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Katharine Birbalsingh: \"Kinder sollten tun, was Erwachsene sagen\"",
       "teaser": "Sie ist altmodisch, unnachgiebig und hasst Gejammer: Katharine Birbalsingh gilt als Großbritanniens strengste Direktorin. Ihre Schüler aus dem Problemviertel? Heute Elite",
       "url": "https://www.zeit.de/2025/28/katharine-birbalsingh-schule-kinder-erziehung-direktorin",
-      "image_url": "https://img.zeit.de/2025/28/kinder-sollten-tun-was-erwachsene-sagen-bild-1/wide__892x501",
+      "image_url": "https://img.zeit.de/2025/28/kinder-sollten-tun-was-erwachsene-sagen-bild-1/super__430x286",
       "image_title": "Katharine Birbalsingh: Mit 15 Jahren kam Katharine Birbalsingh nach Großbritannien. Der Multikulti-Gesellschaft begegnet sie mit Patriotismus"
     },
     {
@@ -412,13 +432,6 @@
       "url": "https://www.zeit.de/familie/2025-07/trennung-kinder-scheidung-uebergaenge-emotionen-schmerz",
       "image_url": "https://img.zeit.de/familie/2025-07/trennung-kinder-scheidung-uebergaenge-emotionen/super__430x286",
       "image_title": "Trennung mit Kindern: Und immer wieder Tschüss sagen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ungeplant schwanger: Wir gaben alles, um ein Kind zu kriegen – und wollten das zweite nicht",
-      "teaser": "Unser Autor und seine Freundin versuchten jahrelang, ein Kind zu bekommen. Als sich ungeplant ein zweites ankündigt, stehen sie vor einer schwierigen Entscheidung.",
-      "url": "https://www.zeit.de/familie/2025-06/ungeplant-schwanger-kinderwunsch-beziehung-entscheidung",
-      "image_url": "https://img.zeit.de/familie/2025-06/ungeplant-schwanger-kinderwunsch-beziehung/super__430x286",
-      "image_title": "Ungeplant schwanger: Wir gaben alles, um ein Kind zu kriegen – und wollten das zweite nicht"
     },
     {
       "title": "\"English, please!\": Wer hat's erfunden? Die Briten … für die Schweizer",
@@ -825,46 +838,66 @@
       "image_title": "Das Ideenfestival 2025: Zehn Jahre Z2X-Ideenfestival: Wir laden dich ein"
     },
     {
-      "title": "Studienfinanzierung: Nachfrage nach Studienkrediten so gering wie nie",
-      "teaser": "In Deutschland werden weniger Studienkredite neu abgeschlossen. Grund ist laut Experten vor allem der hohe Zinssatz beim staatlichen Anbieter KfW.",
-      "url": "https://www.zeit.de/campus/2025-07/studienfinanzierung-studienkredite-rueckgang-kfw",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-07/nachfrage-nach-studienkrediten-gering-bild/wide__892x501",
-      "image_title": "Studienfinanzierung: 13/10/2023 Ein Student geht auf dem Campus Westend an der Johann Wolfgang Goethe-Universität durch ein Gebäude mit dem Studierendensekretariat. Dieser Tage beginnen in Hessen Tausende junge Menschen ein Studium oder einen neuen Studiengang. (zu dpa: «Trend zu mehr Erstsemestern in Hessen - Angespannter Wohnungsmarkt») +++ dpa-Bildfunk +++"
+      "title": "Studieren in Ostdeutschland: Willst du da drüben wirklich studieren?",
+      "teaser": "Unis im Osten verlieren seit Jahren Studierende, trotz günstiger Mieten und persönlicher Betreuung. Das liegt nicht nur an Vorurteilen.",
+      "url": "https://www.zeit.de/2025/28/studieren-ostdeutschland-unis-beliebtheit-westen",
+      "image_url": "https://img.zeit.de/2025/28/kommt-doch-mal-rueber-mann-bild-1/wide__892x501",
+      "image_title": "Studieren in Ostdeutschland: Wo sind denn alle hin? Der Vorplatz des Weinhold-Baus der TU-Chemnitz, fast menschenleer"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
       "url": "https://studiengaenge.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
+    },
+    {
+      "title": "Wimbledon: Game, Set, Glitch",
+      "teaser": "In Wimbledon wurden zum ersten Mal die Linienrichter durch Technik ersetzt. Nun versagte sie. Wie viel KI verträgt der Tennissport – und was geht dabei verloren?",
+      "url": "https://www.zeit.de/sport/2025-07/wimbledon-linienrichter-ki-fehlfunktion",
+      "image_url": "https://img.zeit.de/sport/2025-07/anastasia-pavlyuchenkova/wide__892x501",
+      "image_title": "Wimbledon: Game, Set, Glitch"
     },
     {
       "title": "Tour de France: Sprint-Star Jasper Philipsen muss nach schwerem Sturz aufgeben",
       "teaser": "Am dritten Tag der Tour de France gab es mehrere schwere Stürze – unter anderem von Auftaktetappensieger Philipsen. Der Deutsche Phil Bauhaus sprintet auf Platz drei.",
       "url": "https://www.zeit.de/sport/2025-07/tour-de-france-dritte-etappe-sturz-jasper-philipsen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2021-05/radsport-tour-de-france-jasper-philipsen-sturz/wide__892x501",
+      "image_url": "https://img.zeit.de/politik/deutschland/2021-05/radsport-tour-de-france-jasper-philipsen-sturz/super__430x286",
       "image_title": "Tour de France: Alpecin - Deceuninck team's Belgian rider Jasper Philipsen wearing the overall leader's yellow jersey cycles during the 2nd stage of the 112th edition of the Tour de France cycling race, 209.1 km between Lauwin-Planque and Boulogne-sur-Mer, Northern France, on July 6, 2025. (Photo by Anne-Christine POUJOULAT / AFP) (Photo by ANNE-CHRISTINE POUJOULAT/AFP via Getty Images)"
     },
     {
-      "title": "Fußball-EM: Schweiz kickt Island aus dem Turnier, Norwegen erreicht Viertelfinale",
-      "teaser": "In einer umkämpften Partie sichert sich Gastgeberin Schweiz spät die ersten Punkte der EM. Norwegen steht nach dem Sieg gegen Finnland vorzeitig im Viertelfinale.",
-      "url": "https://www.zeit.de/sport/2025-07/fussball-em-frauen-norwegen-finnland",
-      "image_url": "https://img.zeit.de/sport/2025-07/em-schweiz-island-bild/super__430x286",
-      "image_title": "Fußball-EM: Islands Sveindis Jonsdottir und die Schweizerin Smilla Vallotto kämpfen um den Ball."
+      "title": "Z+ (abopflichtiger Inhalt); Hilfe für psychisch kranke Menschen: Raus aus der Drehtür",
+      "teaser": "Mit einer neuen Strategie will die Hamburger Sozialbehörde psychisch kranken Menschen, die zur Gefahr werden könnten, besser helfen. Die Idee dahinter ist an sich banal.",
+      "url": "https://www.zeit.de/2025/27/hilfe-psychisch-kranke-menschen-praevention-hamburg",
+      "image_url": "https://img.zeit.de/2025/27/hilfe-psychisch-kranke-menschen-praevention-hamburg-teaserbild/wide__892x501",
+      "image_title": "Hilfe für psychisch kranke Menschen: Am 23. Mai 2025 inspizieren Gerichtsmediziner nach einem Messerangriff im Hauptbahnhof in Hamburg den Tatort, an dem mehrere Menschen verletzt wurden."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Plätze: Macht doch mal Platz!",
       "teaser": "Hamburg ist reich, schön und erfolgreich. Nur Orte, an denen man nett draußen sitzen kann, sind rar. Höchste Zeit, das zu ändern.",
       "url": "https://www.zeit.de/2025/27/oeffentliche-plaetze-hamburg-draussen-sitzen",
-      "image_url": "https://img.zeit.de/2025/27/macht-doch-mal-platz-teaserbild/wide__892x501",
+      "image_url": "https://img.zeit.de/2025/27/macht-doch-mal-platz-teaserbild/super__430x286",
       "image_title": "Plätze: Heute schmückt sich die Stadt Hamburg mit dem \"Park Fiction“, geplant und durchgesetzt hat es aber eine Initiative aus Künstlern und Anwohnern."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hamburg Dungeon: \"Ich mag es besonders, Leute aus der Reserve zu locken\"",
-      "teaser": "Die Schauspielerin Juliane Neu liebt es, wenn die Menschen schreiend vor ihr davonlaufen. Das hat mit ihrem Job zu tun.",
-      "url": "https://www.zeit.de/2025/27/hamburg-dungeon-schauspielerin-angst-besucher",
-      "image_url": "https://img.zeit.de/2025/27/juliane-neu-33-liebt-es-wenn-die-menschen-schreiend-vor-ihr-davonlaufen-das-hat-mit-ihrem-job-zu-tun-bild-2/super__430x286",
-      "image_title": "Hamburg Dungeon: Juliane Elisabeth Neu"
+      "title": "Fotografie: Bilder des Tages",
+      "url": "https://www.zeit.de/news/2025-07/08/bilder-des-tages"
+    },
+    {
+      "title": "Lage im Überblick: Netanjahu schlägt Trump für Friedensnobelpreis vor",
+      "url": "https://www.zeit.de/news/2025-07/08/netanjahu-schlaegt-trump-fuer-friedensnobelpreis-vor"
+    },
+    {
+      "title": "Tennis in Wimbledon: Becker schwärmt von Siegemund: \"Geschichte geschrieben\"",
+      "url": "https://www.zeit.de/news/2025-07/08/becker-schwaermt-von-siegemund-geschichte-geschrieben"
+    },
+    {
+      "title": "Handelskonflikt: Chinas Exportkontrollen verteuern seltene Erden",
+      "url": "https://www.zeit.de/news/2025-07/08/chinas-exportkontrollen-verteuern-seltene-erden"
+    },
+    {
+      "title": "Verkehr: Nach Gefahrgut-Lkw-Unfall: A4 bei Erfurt teils wieder frei",
+      "url": "https://www.zeit.de/news/2025-07/07/nach-gefahrgut-lkw-unfall-a4-bei-erfurt-teils-wieder-frei"
     },
     {
       "title": "Haushalt: Die Haushaltspläne: Schulden, Investitionen - und Lücken",
@@ -877,26 +910,6 @@
     {
       "title": "Schifffahrt: Mehr als 70 Schüler absolvieren Praktika auf Schiffen",
       "url": "https://www.zeit.de/news/2025-07/08/mehr-als-70-schueler-absolvieren-praktika-auf-schiffen"
-    },
-    {
-      "title": "Gesellschaft: 19 Projekte in Problemvierteln: Land fördert Nachbarschaften",
-      "url": "https://www.zeit.de/news/2025-07/08/19-projekte-in-problemvierteln-land-foerdert-nachbarschaften"
-    },
-    {
-      "title": "Zusatzleistungen als Anreiz: Womit Arbeitgeber in Stellenanzeigen locken",
-      "url": "https://www.zeit.de/news/2025-07/08/womit-arbeitgeber-in-stellenanzeigen-locken"
-    },
-    {
-      "title": "Die Lage im Überblick: Trump schickt Ukraine weiter Waffen - \"Ich beende Kriege\"",
-      "url": "https://www.zeit.de/news/2025-07/08/trump-an-ukraine-wir-werden-noch-weitere-waffen-schicken"
-    },
-    {
-      "title": "Lage im Überblick: Netanjahu schlägt Trump für Friedensnobelpreis vor",
-      "url": "https://www.zeit.de/news/2025-07/08/netanjahu-schlaegt-trump-fuer-friedensnobelpreis-vor"
-    },
-    {
-      "title": "Gründerbranche: Rekord in Sicht: Zahl der neuen Start-ups steigt stark",
-      "url": "https://www.zeit.de/news/2025-07/08/rekord-in-sicht-zahl-der-neuen-start-ups-steigt-stark"
     }
   ]
 }
