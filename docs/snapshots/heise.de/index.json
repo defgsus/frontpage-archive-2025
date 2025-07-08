@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-08T05:12:40",
+  "timestamp": "2025-07-08T06:15:52",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,11 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Software Testing: Qualitätsprobleme in bestehender Software mit KI beheben",
+      "url": "https://www.heise.de/blog/Software-Testing-Qualitaetsprobleme-in-bestehender-Software-mit-KI-beheben-10477000.html"
+    },
+    {
+      "title": "Live-Webinar: iOS 26, iPadOS 26 & macOS 26–Management mit Microsoft Intune",
+      "url": "https://www.heise.de/news/Live-Webinar-iOS-26-iPadOS-26-macOS-26-Management-mit-Microsoft-Intune-10474448.html"
+    },
+    {
+      "title": "iX-Workshop: Wireshark für Fortgeschrittene - Analyse realer Netzwerkprobleme",
+      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-fuer-Fortgeschrittene-Analyse-realer-Netzwerkprobleme-10464006.html"
+    },
+    {
+      "title": "KI-Code mit Metal parallelisieren: So geht es mit Apples API",
+      "url": "https://www.heise.de/ratgeber/KI-Code-mit-Metal-parallelisieren-So-geht-es-mit-Apples-API-10449073.html"
+    },
+    {
       "title": "Uneinigkeit bei Digitalsteuer: Spahn offen, NRW-Finanzminister strikt dagegen",
       "url": "https://www.heise.de/news/Uneinigkeit-bei-Digitalsteuer-Spahn-offen-NRW-Finanzminister-strikt-dagegen-10476952.html"
     },
     {
-      "title": "Vor Support-Ende: Windows 11 überholt Windows 10 – aber nicht in Deutschland",
+      "title": "Vor Support-Ende: Windows 11 zieht an Windows 10 vorbei – außer in Deutschland",
       "url": "https://www.heise.de/news/Vor-Support-Ende-Windows-11-ueberholt-Windows-10-aber-nicht-in-Deutschland-10477875.html"
     },
     {
@@ -48,22 +64,6 @@
     {
       "title": "BYD: Umstrittenes Werk in Brasilien eröffnet, Pläne in Mexiko auf Eis",
       "url": "https://www.heise.de/news/BYD-Umstrittenes-Werk-in-Brasilien-eroeffnet-Plaene-in-Mexiko-auf-Eis-10477735.html"
-    },
-    {
-      "title": "Doppelte Erpressung möglich: Cyberkriminelle im Clinch",
-      "url": "https://www.heise.de/news/Doppelte-Erpressung-moeglich-Cyberkriminelle-im-Clinch-10477705.html"
-    },
-    {
-      "title": "Top-Deals: Preiswertes Balkonkraftwerk von Yuma, Solakon, Priwatt & Co.",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/top-deals-preiswertes-balkonkraftwerk-von-yuma-solakon-priwatt-und-co/xl8fc44"
-    },
-    {
-      "title": "Hyundai: Autonome Drohnen reduzieren Inventurzeit um 90 Prozent",
-      "url": "https://www.heise.de/news/Hyundai-Autonome-Drohnen-reduzieren-Inventurzeit-um-90-Prozent-10477504.html"
-    },
-    {
-      "title": "EU-Datenmaut: Gegenwind für geplantes Streitbeilegungsverfahren für Peering",
-      "url": "https://www.heise.de/news/EU-Datenmaut-Gegenwind-fuer-geplantes-Streitbeilegungsverfahren-fuer-Peering-10477618.html"
     },
     {
       "title": "OLG-UrteilS-pushTAN-Verfahren reicht nicht für starke Kundenauthentifizierung",
@@ -95,16 +95,16 @@
       "image_title": "Controller vor Bildschirm mit mehreren Xbox-Spielen"
     },
     {
+      "title": "Vor Support-EndeWindows 11 zieht an Windows 10 vorbei – außer in Deutschland",
+      "teaser": "Ab Oktober will Microsoft Windows 10 nicht mehr unterstützen, verspricht aber Ausnahmen. Global beflügelt das den Nachfolger.",
+      "url": "https://www.heise.de/news/Vor-Support-Ende-Windows-11-ueberholt-Windows-10-aber-nicht-in-Deutschland-10477875.html",
+      "image_title": "Windows-Hintergrundbild auf einem Tablet"
+    },
+    {
       "title": "Studie probt AngriffKatzen irritieren Reasoning-Modelle",
       "teaser": "Ein irrelevanter Input verschlechtert die Ergebnisse von Reasoning-Modellen drastisch: Eine Studie hat das mit Katzen getestet.",
       "url": "https://www.heise.de/news/Katzen-irritieren-Reasoning-Modelle-Studie-probt-Angriff-10476834.html",
       "image_title": "Katze sieht einen Löwen als Spiegelbild."
-    },
-    {
-      "title": "Budget-PCsDDR4-RAM soll noch viel teurer werden",
-      "teaser": "Arbeitsspeicher vom Typ DDR4, LPDDR4X und GDDR6 soll in den nächsten Monaten um bis zu 43 Prozent im Preis steigen.",
-      "url": "https://www.heise.de/news/Schlecht-fuer-AMDs-Budget-Plattform-AM4-DDR4-RAM-soll-noch-viel-teurer-werden-10477136.html",
-      "image_title": "Vier RAM-Riegel nebeneinander"
     },
     {
       "title": "RatgeberKlimaanlagen zum Kühlen und Heizen",
@@ -152,9 +152,10 @@
       "image_title": "Rote Wüstenlandschaft auf dem Mars"
     },
     {
-      "title": "\"Cybersicherheit\"US-Militär stoppt Weitergabe von Satellitendaten an Forscher",
-      "teaser": "Jahrzehntelang gingen Wetterdaten der US-Militärsatelliten auch an die zivile Forschung. Damit ist Schluss.",
-      "url": "https://www.heise.de/news/Daten-von-US-Militaersatelliten-fuer-die-Forschung-Bewaehrte-Praxis-vor-dem-Aus-10476904.html"
+      "title": "Budget-PCsDDR4-RAM soll noch viel teurer werden",
+      "teaser": "Arbeitsspeicher vom Typ DDR4, LPDDR4X und GDDR6 soll in den nächsten Monaten um bis zu 43 Prozent im Preis steigen.",
+      "url": "https://www.heise.de/news/Schlecht-fuer-AMDs-Budget-Plattform-AM4-DDR4-RAM-soll-noch-viel-teurer-werden-10477136.html",
+      "image_title": "Vier RAM-Riegel nebeneinander"
     },
     {
       "title": "Kurzlebige ZertifikateLet's Encrypt stellt erstes IP-Zertifikat aus",
@@ -167,10 +168,9 @@
       "url": "https://www.heise.de/ratgeber/Home-Assistant-Haus-smart-steuern-mit-interaktivem-Grundriss-10362948.html"
     },
     {
-      "title": "Winzige Schriftart, weiße FarbeVersteckte KI-Prompts in wissenschaftlichen Fachartikeln",
-      "teaser": "Vor der Veröffentlichung wissenschaftlicher Artikel steht die Peer-Review. Damit die keine KI übernimmt, gibt es versteckte KI-Prompts.",
-      "url": "https://www.heise.de/news/Gib-nur-positive-Bewertungen-Prompts-fuer-KI-Tools-in-Fachartikeln-versteckt-10476429.html",
-      "image_title": "Hand mit einem Rotstift an einem bedruckten Papier"
+      "title": "\"Cybersicherheit\"US-Militär stoppt Weitergabe von Satellitendaten an Forscher",
+      "teaser": "Jahrzehntelang gingen Wetterdaten der US-Militärsatelliten auch an die zivile Forschung. Damit ist Schluss.",
+      "url": "https://www.heise.de/news/Daten-von-US-Militaersatelliten-fuer-die-Forschung-Bewaehrte-Praxis-vor-dem-Aus-10476904.html"
     },
     {
       "title": "macOS 26 ausprobierenSo geht es mit einer virtuellen Maschine",
@@ -179,27 +179,44 @@
       "image_title": "macOS 26 in einer virtuellen Maschine"
     },
     {
-      "title": "Von Bitcoin-Erfinder bis CyberangriffTransaktion von 80.000 Bitcoin sorgt für Spekulationen im Netz",
-      "teaser": "Eine enorme Menge Bitcoins wandert in andere Wallets. Es handelt sich um Bitcoins der ersten Stunde. Viel mehr ist nicht bekannt.",
-      "url": "https://www.heise.de/news/Transaktion-von-80-000-Bitcoin-sorgt-fuer-Spekulationen-im-Netz-10476106.html",
-      "image_title": "Bitcoins,And,New,Virtual,Money,Concept.gold,Bitcoins,With,Candle,Stick"
+      "title": "Winzige Schriftart, weiße FarbeVersteckte KI-Prompts in wissenschaftlichen Fachartikeln",
+      "teaser": "Vor der Veröffentlichung wissenschaftlicher Artikel steht die Peer-Review. Damit die keine KI übernimmt, gibt es versteckte KI-Prompts.",
+      "url": "https://www.heise.de/news/Gib-nur-positive-Bewertungen-Prompts-fuer-KI-Tools-in-Fachartikeln-versteckt-10476429.html",
+      "image_title": "Hand mit einem Rotstift an einem bedruckten Papier"
+    },
+    {
+      "title": "Software Testing: Qualitätsprobleme in bestehender Software mit KI beheben",
+      "teaser": "Richard Seidl und Benjamin Hummel diskutieren in dieser Podcast-Episode über den Einsatz von KI im Refactoring und der statischen Analyse.",
+      "url": "https://www.heise.de/blog/Software-Testing-Qualitaetsprobleme-in-bestehender-Software-mit-KI-beheben-10477000.html",
+      "image_title": "Software Testing: Qualitätsprobleme in bestehender Software mit KI beheben"
+    },
+    {
+      "title": "Live-Webinar: iOS 26, iPadOS 26 & macOS 26–Management mit Microsoft Intune",
+      "teaser": "Erfahren Sie, wie Sie iPhones, iPads und Macs mit Microsoft Intune verwalten. Lernen Sie Methoden und praktische Lösungen für typische Herausforderungen kennen.",
+      "url": "https://www.heise.de/news/Live-Webinar-iOS-26-iPadOS-26-macOS-26-Management-mit-Microsoft-Intune-10474448.html"
+    },
+    {
+      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
+      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "iX-Workshop: Wireshark für Fortgeschrittene - Analyse realer Netzwerkprobleme",
+      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-fuer-Fortgeschrittene-Analyse-realer-Netzwerkprobleme-10464006.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "KI-Code mit Metal parallelisieren: So geht es mit Apples API",
+      "teaser": "Large-Language-Modelle haben einen immensen Bedarf an Rechenleistung. Wir zeigen, wie man mit Apples Metal-API sequenziellen Code von der CPU auf die GPU lädt.",
+      "url": "https://www.heise.de/ratgeber/KI-Code-mit-Metal-parallelisieren-So-geht-es-mit-Apples-API-10449073.html",
+      "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
     },
     {
       "title": "Uneinigkeit bei Digitalsteuer: Spahn offen, NRW-Finanzminister strikt dagegen",
       "teaser": "CDU ist uneins über Digitalsteuer. Während Nordrhein-Westfalens Finanzminister Optendrenk vor Risiken warnt, zeigt sich Spahn offen.",
       "url": "https://www.heise.de/news/Uneinigkeit-bei-Digitalsteuer-Spahn-offen-NRW-Finanzminister-strikt-dagegen-10476952.html",
       "image_title": "Drei Münzstapel"
-    },
-    {
-      "title": "Vor Support-Ende: Windows 11 überholt Windows 10 – aber nicht in Deutschland",
-      "teaser": "Ab Oktober will Microsoft Windows 10 nicht mehr unterstützen, verspricht aber Ausnahmen. Global beflügelt das zuletzt den Nachfolger, nur nicht in Deutschland.",
-      "url": "https://www.heise.de/news/Vor-Support-Ende-Windows-11-ueberholt-Windows-10-aber-nicht-in-Deutschland-10477875.html",
-      "image_title": "Windows-Hintergrundbild auf einem Tablet"
-    },
-    {
-      "title": "Technologieinseln nahtlos miteinander vernetzen",
-      "teaser": "Mit einer „Digital Fabric“ lässt sich der Datenaustausch über viele Anwendungen hinweg erleichtern. Das Ergebnis sind kosteneffiziente Netzwerkarchitekturen mit voller Transparenz und Kontrolle.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6976296867&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Dienstag: S-pushTAN-Verfahren unzureichend, Trump bremst BYD in Mexiko aus",
@@ -217,22 +234,6 @@
       "title": "BYD: Umstrittenes Werk in Brasilien eröffnet, Pläne in Mexiko auf Eis",
       "teaser": "Während BYD in Brasilien sein größtes Werk außerhalb Asiens eröffnet, werden die Mexiko-Pläne des chinesischen Autobauers von US-Präsident Trump ausgebremst.",
       "url": "https://www.heise.de/news/BYD-Umstrittenes-Werk-in-Brasilien-eroeffnet-Plaene-in-Mexiko-auf-Eis-10477735.html"
-    },
-    {
-      "title": "Doppelte Erpressung möglich: Cyberkriminelle im Clinch",
-      "teaser": "Zwischen zwei rivalisierenden kriminellen Ransomware-Gruppen ist Streit ausgebrochen. Cyberexperten warnen, dass Unternehmen doppelt erpresst werden könnten.",
-      "url": "https://www.heise.de/news/Doppelte-Erpressung-moeglich-Cyberkriminelle-im-Clinch-10477705.html"
-    },
-    {
-      "title": "Top-Deals: Preiswertes Balkonkraftwerk von Yuma, Solakon, Priwatt & Co.",
-      "teaser": "Je günstiger ein Balkonkraftwerk ist, desto schneller rentiert es sich. Optimal ist die Kombination mit einem Speicher und einem dynamischen Stromtarif.",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/top-deals-preiswertes-balkonkraftwerk-von-yuma-solakon-priwatt-und-co/xl8fc44?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Hyundai: Autonome Drohnen reduzieren Inventurzeit um 90 Prozent",
-      "teaser": "Drohnen führen in der Hyundai Motor Group Metaplant America vollautomatisch Inventurprüfungen durch. Die Zeit dafür konnte um 90 Prozent reduziert werden.",
-      "url": "https://www.heise.de/news/Hyundai-Autonome-Drohnen-reduzieren-Inventurzeit-um-90-Prozent-10477504.html",
-      "image_title": "Inventurdrohne von Hyundai Glovis im Einsatz bei der Inventur."
     },
     {
       "title": "Mehr Platz, schnellerer RechnerMac-Speicher clever freiräumen",
@@ -302,6 +303,22 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "Doppelte Erpressung möglich: Cyberkriminelle im Clinch",
+      "teaser": "Zwischen zwei rivalisierenden kriminellen Ransomware-Gruppen ist Streit ausgebrochen. Cyberexperten warnen, dass Unternehmen doppelt erpresst werden könnten.",
+      "url": "https://www.heise.de/news/Doppelte-Erpressung-moeglich-Cyberkriminelle-im-Clinch-10477705.html"
+    },
+    {
+      "title": "Top-Deals: Preiswertes Balkonkraftwerk von Yuma, Solakon, Priwatt & Co.",
+      "teaser": "Je günstiger ein Balkonkraftwerk ist, desto schneller rentiert es sich. Optimal ist die Kombination mit einem Speicher und einem dynamischen Stromtarif.",
+      "url": "https://www.heise.de/bestenlisten/ratgeber/top-deals-preiswertes-balkonkraftwerk-von-yuma-solakon-priwatt-und-co/xl8fc44?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Hyundai: Autonome Drohnen reduzieren Inventurzeit um 90 Prozent",
+      "teaser": "Drohnen führen in der Hyundai Motor Group Metaplant America vollautomatisch Inventurprüfungen durch. Die Zeit dafür konnte um 90 Prozent reduziert werden.",
+      "url": "https://www.heise.de/news/Hyundai-Autonome-Drohnen-reduzieren-Inventurzeit-um-90-Prozent-10477504.html",
+      "image_title": "Inventurdrohne von Hyundai Glovis im Einsatz bei der Inventur."
+    },
+    {
       "title": "EU-Datenmaut: Gegenwind für geplantes Streitbeilegungsverfahren für Peering",
       "teaser": "Statt einer offenen Big-Tech-Kostenbeteiligung am Netzausbau schwebt der EU-Kommission die Einführung eines Schiedsverfahrens für \"IP-Zusammenschaltungen\" vor.",
       "url": "https://www.heise.de/news/EU-Datenmaut-Gegenwind-fuer-geplantes-Streitbeilegungsverfahren-fuer-Peering-10477618.html",
@@ -360,9 +377,20 @@
       "image_title": "Patrick Schnieder"
     },
     {
+      "title": "IT-Ausfälle: So werden Unternehmen schnell wieder handlungsfähig",
+      "teaser": "Softwarefehler und andere Probleme führen in der IT regelmäßig zu Ausfällen. Die Wahl der richtigen Hardwareplattform trägt entscheidend dazu bei, die Downtime minimal zu halten.",
+      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-unternehmen-bei-it-ausfaellen-rasch-wieder-handlungsfaehig-werden/?source=hbsadersatz"
+    },
+    {
       "title": "KI-Update kompakt: Datenschutz, CatAttack, Meta-Emitter, Peer-Review",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-Datenschutz-CatAttack-Meta-Emitter-Peer-Review-10476982.html"
+    },
+    {
+      "title": "Atomwaffen einfach erklärt: Von Urananreicherung bis zur Bombe",
+      "teaser": "Wie schwierig ist es, rein technisch betrachtet, Atomwaffen, beziehungsweise eine Bombe, zu bauen? Eine kurze Einführung in tödliche Physik.",
+      "url": "https://www.heise.de/hintergrund/Atomwaffen-einfach-erklaert-Von-Urananreicherung-bis-zur-Bombe-10464997.html",
+      "image_title": "Symbol eines Atommodells"
     },
     {
       "title": "CO₂-Bilanz von KI-Projekten ermitteln",
@@ -374,11 +402,6 @@
       "teaser": "Die Webseite des IT-Distributors Ingram Micro zeigt derzeit lediglich den Wartungsmodus an. Ursache ist ein IT-Vorfall.",
       "url": "https://www.heise.de/news/IT-Vorfall-bei-Distributor-Ingram-Micro-10477180.html",
       "image_title": "Ingram Micro-Webseite im Wartungsmodus"
-    },
-    {
-      "title": "IT-Ausfälle: So werden Unternehmen schnell wieder handlungsfähig",
-      "teaser": "Softwarefehler und andere Probleme führen in der IT regelmäßig zu Ausfällen. Die Wahl der richtigen Hardwareplattform trägt entscheidend dazu bei, die Downtime minimal zu halten.",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/business-pcs/wie-unternehmen-bei-it-ausfaellen-rasch-wieder-handlungsfaehig-werden/?source=hbsadersatz"
     },
     {
       "title": "Interview: Berliner Plattform für Psychotherapie will weltweit durchstarten",
@@ -414,30 +437,6 @@
       "teaser": "Ein IT-Sicherheitsforscher hat mehrere Sicherheitslücken im Virenschutz Comodo Internet Security entdeckt, wodurch Angreifer Schadcode einschleusen können.",
       "url": "https://www.heise.de/news/Antivirus-Comodo-Internet-Security-laesst-sich-Schadcode-unterschieben-10476908.html",
       "image_title": "Virus detected steht vor Servern"
-    },
-    {
-      "title": "Die Produktwerker: Vom Projekt- zum Produktmodus",
-      "teaser": "Wie gelingt der Wandel vom Projektmodus zum Produktmodus? Sebastian Borggrewe und Tim Klein geben konkrete Impulse für echte Produktverantwortung.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Vom-Projekt-zum-Produktmodus-10476886.html",
-      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "Bitkom-Befragte sind überzeugt: KI kann den eigenen Chef ersetzen",
-      "teaser": "KI-Weiterbildungen in Unternehmen spielen einer Bitkom-Umfrage zufolge bei vielen Beschäftigten noch keine große Rolle. Der Bitkom fordert Schulungen.",
-      "url": "https://www.heise.de/news/Bitkom-Befragte-sind-ueberzeugt-KI-kann-den-eigenen-Chef-ersetzen-10476763.html",
-      "image_title": "Frau wird von einem intelligenten Roboter ersetzt."
-    },
-    {
-      "title": "Mehr Geld für Gründer: Rekord bei Milliarden-Start-ups",
-      "teaser": "Deutsche Start-ups bekommen wieder mehr Kapital, eine Rekordzahl erreicht eine Milliardenbewertung – und das trotz Zollstreits und großer Börsenturbulenzen.",
-      "url": "https://www.heise.de/news/Mehr-Geld-fuer-Gruender-Rekord-bei-Milliarden-Start-ups-10476930.html",
-      "image_title": "Frau tippt auf Laptop und Taschenrechner"
-    },
-    {
-      "title": "Smartwatch-Markt: Apple und Samsung lassen Federn – Huawei und Xiaomi legen zu",
-      "teaser": "Der weltweite Smartwatch-Markt verzeichnet zum fünften Quartal in Folge einen Rückgang. Unter anderem muss der Marktführer abermals Apple Federn lassen.",
-      "url": "https://www.heise.de/news/Smartwatch-Markt-Apple-und-Samsung-lassen-Federn-Huawei-und-Xiaomi-legen-zu-10476816.html",
-      "image_title": "Verschiedene Smartwatch-Modelle von Apple, Samsung und weiteren nebeneinander"
     },
     {
       "title": "UpdateRansomware-Bande Hunters International hört auf",
@@ -479,9 +478,9 @@
       "image_title": "Samsung Galaxy S25 Edge von vorn und hinten."
     },
     {
-      "title": "Empfangswege gemessen: Wie man die Fußball-EM ohne Verzögerung sehen kann",
-      "url": "https://www.heise.de/news/Fussball-EM-verzoegerungsfrei-empfangen-10475000.html",
-      "image_title": "Zwei Bildschirme mit Fußball zum Latenztest nebeneinander"
+      "title": "Smartwatch-Markt: Apple und Samsung lassen Federn – Huawei und Xiaomi legen zu",
+      "url": "https://www.heise.de/news/Smartwatch-Markt-Apple-und-Samsung-lassen-Federn-Huawei-und-Xiaomi-legen-zu-10476816.html",
+      "image_title": "Verschiedene Smartwatch-Modelle von Apple, Samsung und weiteren nebeneinander"
     },
     {
       "title": "Polizeivideos gehen auf Tiktok viral",
@@ -618,10 +617,9 @@
       "url": "https://www.heise.de/tests/DaVinci-Resolve-20-im-Test-Videoschnitt-mit-KI-und-Keyframes-10464120.html"
     },
     {
-      "title": "Buchkritik: Digitaler Kolonialismus",
-      "teaser": "Offiziell ist die Ära des Kolonialismus längst vorbei. Doch Staaten und große Unternehmen setzen die Ausbeutung des globalen Südens auf digitale Weise fort.",
-      "url": "https://www.heise.de/tests/Buchkritik-Digitaler-Kolonialismus-10440201.html",
-      "image_title": "Buchkritik: Digitaler Kolonialismus"
+      "title": "OpenWrt-Router: BananaPi Router R3 im Test",
+      "teaser": "Wi-Fi 6 mit vier Streams, zwei SFP-Slots, vier schnellen CPU-Kernen und reichlich RAM: Der Banana Pi R3 bietet, was das Bastlerherz begehrt.",
+      "url": "https://www.heise.de/tests/OpenWrt-Router-BananaPi-Router-R3-im-Test-10397102.html"
     },
     {
       "title": "Multitalent auf dem MacWas Apples Vorschau-App von macOS alles kann",
@@ -754,22 +752,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Tödliche Entscheidung: USA liefern Ukraine dem Kreml aus",
-      "teaser": "Die USA stoppen Waffenlieferungen an die Ukraine. Kiew ist entsetzt, der Kreml begrüßt den Schritt. Doch was steckt wirklich hinter dieser folgenschweren Entscheidung?",
-      "url": "https://www.heise.de/tp/features/Toedliche-Entscheidung-USA-liefern-Ukraine-dem-Kreml-aus-10476358.html",
-      "image_title": "Patriot-Sytem"
+      "title": "Südkoreanische Forscher erreichen Effizienzrekord bei CO2-Umwandlung",
+      "teaser": "Forscher aus Südkorea haben eine effiziente Methode entwickelt, um Kohlendioxid in hochwertigen Alkohol umzuwandeln. Das könnte ein Meilenstein für den Klimaschutz sein.",
+      "url": "https://www.heise.de/tp/features/Suedkoreanische-Forscher-erreichen-Effizienzrekord-bei-CO2-Umwandlung-10476868.html",
+      "image_title": "CO2-Emissionen werden mit einem Regler heruntergefahren."
     },
     {
-      "title": "Medien und Hass im Krieg: Doppelte Standards als journalistischer Standard",
-      "teaser": "Was es bedeutet, wenn Staaten Gefühle zugeschrieben werden. Über die schleichende Emotionalisierung des Journalismus. Analyse und Kommentar.",
-      "url": "https://www.heise.de/tp/features/Medien-und-Hass-im-Krieg-Doppelte-Standards-als-journalistischer-Standard-10476391.html",
-      "image_title": "KI-generierte Grafik zeigt drei scharzweiß-gezeichnete Figuren, die als Presse zu erkennen sind, und die eine Fahne hochhalten"
+      "title": "Garten im Sommer: Natürliche Hausmittel gegen Blattläuse, Mehltau & Co.",
+      "teaser": "Um Blattläuse und Mehltau zu entfernen, helfen oft einfache Hausmittel. Auch Marienkäfer sind als biologische Gegenspieler nicht zu unterschätzen",
+      "url": "https://www.heise.de/tp/features/Garten-im-Sommer-Natuerliche-Hausmittel-gegen-Blattlaeuse-Mehltau-Co-10473264.html",
+      "image_title": "Blattlaus und Sprühflasche"
     },
     {
-      "title": "Pentagon stellt Wetterdatenfreigabe ein: Hurrikanvorhersagen und Meereisüberwachung betroffen",
-      "teaser": "Wichtige Daten für Klimawandel- und Hurrikanvorhersage fehlen ab sofort. Warum die Entscheidung zum schlechtestmöglichen Zeitpunkt kommt.",
-      "url": "https://www.heise.de/tp/features/Pentagon-stellt-Wetterdatenfreigabe-ein-Hurrikanvorhersagen-und-Meereisueberwachung-betroffen-10467654.html",
-      "image_title": "Karte der Arktis"
+      "title": "Vergeltung: China schließt EU-Firmen teilweise von Medizinprodukte-Markt aus",
+      "teaser": "Die Zollstreitigkeiten zwischen China und der EU verschärfen sich. Beijing reagiert auf Importbeschränkungen der EU mit Gegenmaßnahmen – doch es gibt Schlupflöcher.",
+      "url": "https://www.heise.de/tp/features/Vergeltung-China-schliesst-EU-Firmen-teilweise-von-Medizinprodukte-Markt-aus-10477301.html",
+      "image_title": "Sowohl die chinesische als auch die EU-Flagge bestehen aus Mustern."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
