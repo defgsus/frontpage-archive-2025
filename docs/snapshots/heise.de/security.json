@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-09T08:14:38",
+  "timestamp": "2025-07-09T09:13:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,20 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Keine Sicherheitsupdates nötigAndroid-Patchday fällt im Juli aus",
-      "teaser": "Admins können sich zumindest in Bezug auf Android und Pixel-Smartphones zurücklehnen: Im Juli gibt es nichts zu patchen.",
-      "url": "https://www.heise.de/news/Android-Patchday-faellt-im-Juli-aus-10478020.html",
-      "image_title": "Grüne Android-Figur vor Schloss-Symbol"
-    },
-    {
-      "title": "Server offlineAngreifer kapern PCs mit Lücke in \"Call of Duty WW2\"",
-      "teaser": "\"Call of Duty WW2\"wurde erst bei Microsofts Game Pass wiederveröffentlicht, nun ist das Spiel vorerst offline. Unbekannte griffen Spieler-PCs per Exploit an.",
-      "url": "https://www.heise.de/news/Server-offline-In-Call-of-Duty-WW2-lauert-ein-RCE-Exploit-10478396.html",
-      "image_title": "Activision Blizzard Logo auf Handy"
-    },
-    {
-      "title": "AlertPatchday: Microsoft schließt 100.000-$-Lücke in SharePoint aus Hacker-Wettbewerb",
+      "title": "AlertPatchdayMicrosoft schließt 100.000-$-Lücke in SharePoint aus Hacker-Wettbewerb",
+      "teaser": "Update-Sammlung veröffentlicht: Um Attacken vorzubeugen, sollten Admins sicherstellen, dass ihre Microsoft-Produkte auf dem aktuellen Stand sind.",
       "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-100-000-Luecke-in-SharePoint-aus-Hacker-Wettbewerb-10479811.html"
+    },
+    {
+      "title": "Der letzte Termin:Die heise security Tour – Wissen schützt!",
+      "teaser": "Aktuelle Themen, spannende Vorträge und ein guter Überblick zum Geschehen – die heise security Tour ist ein Muss für IT-Sicherheitsverantwortliche.",
+      "url": "https://www.heise.de/news/Der-letzte-Termin-Die-heise-security-Tour-Wissen-schuetzt-10478266.html"
+    },
+    {
+      "title": "AlertPatchdayAdobe schützt After Effects & Co. vor möglichen Attacken",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schuetzt-After-Effects-Co-vor-moeglichen-Attacken-10479838.html",
+      "image_title": "Aufmacher Adobe Patchday"
     },
     {
       "title": "Ubuntu- und Kernelentwickler uneins, wie kritisch ein Dateisystem-Bug ist",
@@ -71,9 +70,10 @@
       "url": "https://shop.heise.de/microsoft-entra-dangerous-defaults?wt_mc=intern.academy.security.web_entradd.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertPatchday: Microsoft schließt 100.000-$-Lücke in SharePoint aus Hacker-Wettbewerb",
-      "teaser": "Update-Sammlung veröffentlicht: Um Attacken vorzubeugen, sollten Admins sicherstellen, dass ihre Microsoft-Produkte auf dem aktuellen Stand sind.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-100-000-Luecke-in-SharePoint-aus-Hacker-Wettbewerb-10479811.html"
+      "title": "AlertPatchday: Adobe schützt After Effects & Co. vor möglichen Attacken",
+      "teaser": "Mehrere Adobe-Anwendungen sind unter anderem für DoS- und Schadcode-Attacken anfällig. Sicherheitsupdates schaffen Abhilfe.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-schuetzt-After-Effects-Co-vor-moeglichen-Attacken-10479838.html",
+      "image_title": "Aufmacher Adobe Patchday"
     },
     {
       "title": "iX-Workshop: Sicherer Betrieb von Windows 11 in Unternehmen",
@@ -100,9 +100,16 @@
       "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
     },
     {
-      "title": "Der letzte Termin: Die heise security Tour – Wissen schützt!",
-      "teaser": "Aktuelle Themen, spannende Vorträge und ein guter Überblick zum Geschehen – die heise security Tour ist ein Muss für IT-Sicherheitsverantwortliche.",
-      "url": "https://www.heise.de/news/Der-letzte-Termin-Die-heise-security-Tour-Wissen-schuetzt-10478266.html"
+      "title": "Server offline: Angreifer kapern PCs mit Lücke in \"Call of Duty WW2\"",
+      "teaser": "\"Call of Duty WW2\"wurde erst bei Microsofts Game Pass wiederveröffentlicht, nun ist das Spiel vorerst offline. Unbekannte griffen Spieler-PCs per Exploit an.",
+      "url": "https://www.heise.de/news/Server-offline-In-Call-of-Duty-WW2-lauert-ein-RCE-Exploit-10478396.html",
+      "image_title": "Activision Blizzard Logo auf Handy"
+    },
+    {
+      "title": "Android Patchday fällt im Juli aus",
+      "teaser": "Admins können sich zumindest in Bezug auf Android und Pixel-Smartphones zurücklehnen: Im Juli gibt es nichts zu patchen.",
+      "url": "https://www.heise.de/news/Android-Patchday-faellt-im-Juli-aus-10478020.html",
+      "image_title": "Grüne Android-Figur vor Schloss-Symbol"
     },
     {
       "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
@@ -155,11 +162,6 @@
       "teaser": "Die populäre Kompressionssoftware 7-Zip steht in Version 25.00 zur Installation bereit. Sie korrigiert auch Sicherheitslücken.",
       "url": "https://www.heise.de/news/7-Zip-25-00-bessert-Schwachstellen-aus-und-beschleunigt-Kompression-10476439.html",
       "image_title": "7-zip-Logo mit Update-Stempel"
-    },
-    {
-      "title": "BSI und ANSSI warnen vor VideoIdent bei der digitalen EU-Brieftasche",
-      "teaser": "Das BSI und seine französische Partnerbehörde ANSSI beschreiben videobasierte Identifikation beim Beantragen der geplanten EUDI-Wallet als \"herausfordernd\".",
-      "url": "https://www.heise.de/news/BSI-und-ANSSI-warnen-vor-VideoIdent-bei-der-digitalen-EU-Brieftasche-10476025.html"
     },
     {
       "title": "Workshop | 23. – 25.7.2025IT-Grundschutz-Praktiker mit Zertifikat",
