@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-11T05:15:16",
+  "timestamp": "2025-07-11T06:15:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,31 @@
   ],
   "articles": [
     {
-      "title": "Kontroverse Themen: KI-Modell Grok konsultiert offenbar Elon Musks Äußerungen",
-      "teaser": "Die Veröffentlichung des neuen KI-Modells von Elon Musks xAI erfolgte nicht ohne Schwierigkeiten. Nun gibt es Fragen, wie sehr sie auf ihn zugeschnitten wurde.",
+      "title": "Mein Scrum ist kaputt #137: Die fünf Säulen der Selbstorganisation",
+      "teaser": "Das Optimum für Teams ist die Selbstorganisation, doch wie erreicht man sie? Autor Bernhard Eickenberg stellt sein eigenes Modell vor.",
+      "url": "https://www.heise.de/blog/Mein-Scrum-ist-kaputt-137-Die-fuenf-Saeulen-der-Selbstorganisation-10482086.html",
+      "image_title": "Mein Scrum ist kaputt, Folge 113"
+    },
+    {
+      "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
+      "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-10464052.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "Einführung in das Textsatzsystem LaTeX",
+      "teaser": "Herkömmliche Textprogramme stoßen schnell an ihre Grenzen. Mit LaTeX meistern Sie elegantes Layout und mathematische Formeln. So gelingt der Einstieg.",
+      "url": "https://www.heise.de/ratgeber/Einfuehrung-in-das-Textsatzsystem-LaTeX-10446316.html"
+    },
+    {
+      "title": "Neues KI-ModellGrok richtet Antworten offenbar daran aus, was Elon Musk gesagt hat",
+      "teaser": "Die Veröffentlichung des neuen KI-Modells von Elon Musks xAI erfolgte nicht ohne Schwierigkeiten. Nun gibt es neue Fragen.",
       "url": "https://www.heise.de/news/Kontroverse-Themen-KI-Modell-Grok-konsultiert-offenbar-Elon-Musks-Aeusserungen-10483586.html",
       "image_title": "Elon Musk"
     },
     {
-      "title": "Auch für den Katastrophenfall: Meshfähiges Chatnetzwerk im Eigenbau",
-      "teaser": "Mit dem Off-Grid-Messenger Meshtastic kommunizieren Sie auch dann, wenn Internet- und Stromversorgung ausgefallen sind. Das kann der Katastrophen-Messenger.",
-      "url": "https://www.heise.de/ratgeber/Auch-fuer-den-Katastrophenfall-Meshfaehiges-Chatnetzwerk-im-Eigenbau-10462340.html"
-    },
-    {
-      "title": "Digital Networks Act: Wettbewerber fürchten drastische Folgen für den Netzausbau",
-      "teaser": "Große europäische Telekommunikationsanbieter und Branchenverbände warnen die EU-Kommission vor dramatischen Folgen bei geplanten neuen Gesetzen und Reformen.",
-      "url": "https://www.heise.de/news/Digital-Networks-Act-Wettbewerber-fuerchten-drastische-Folgen-fuer-den-Netzausbau-10483434.html"
-    },
-    {
-      "title": "Intel-ChefNvidia ist beim KI-Training nicht mehr einholbar",
-      "teaser": "In einer internen Videobotschaft bezeichnete Intel-CEO Lip-Bu Tan die Firmenwende als Marathon. Intel müsse demütig sein.",
-      "url": "https://www.heise.de/news/Intels-Chef-sieht-Intel-nicht-mehr-unter-den-Top-10-Chipfirmen-10483349.html",
-      "image_title": "Intels Chef Lip-Bu Tan vor einem Firmenschild"
+      "title": "RatgeberEinführung in das Textsatzsystem LaTeX",
+      "url": "https://www.heise.de/ratgeber/Einfuehrung-in-das-Textsatzsystem-LaTeX-10446316.html"
     },
     {
       "title": "RatgeberAuch für den Katastrophenfall: Meshfähiges Chatnetzwerk im Eigenbau",
@@ -56,8 +61,15 @@
       "url": "https://www.heise.de/ratgeber/Entspannt-surfen-Zen-Browser-vereint-Arc-und-Firefox-10477313.html"
     },
     {
-      "title": "RatgeberWindows Server Update Services: Vier moderne Alternativen vorgestellt",
-      "url": "https://www.heise.de/ratgeber/Windows-Server-Update-Services-Vier-moderne-Alternativen-vorgestellt-10477299.html"
+      "title": "Digital Networks Act: Wettbewerber fürchten drastische Folgen für den Netzausbau",
+      "teaser": "Große europäische Telekommunikationsanbieter und Branchenverbände warnen die EU-Kommission vor dramatischen Folgen bei geplanten neuen Gesetzen und Reformen.",
+      "url": "https://www.heise.de/news/Digital-Networks-Act-Wettbewerber-fuerchten-drastische-Folgen-fuer-den-Netzausbau-10483434.html"
+    },
+    {
+      "title": "Intel-Chef: Nvidia ist beim KI-Training nicht mehr einholbar",
+      "teaser": "In einer internen Videobotschaft bezeichnete Intel-CEO Lip-Bu Tan die Firmenwende als Marathon. Intel müsse demütig sein.",
+      "url": "https://www.heise.de/news/Intels-Chef-sieht-Intel-nicht-mehr-unter-den-Top-10-Chipfirmen-10483349.html",
+      "image_title": "Intels Chef Lip-Bu Tan vor einem Firmenschild"
     },
     {
       "title": "iPadOS 26: Fast ein Mac – aber nur fast",
@@ -133,18 +145,6 @@
       "teaser": "Update-Sammlung veröffentlicht: Um Attacken vorzubeugen, sollten Admins sicherstellen, dass ihre Microsoft-Produkte auf dem aktuellen Stand sind.",
       "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-100-000-Luecke-in-SharePoint-aus-Hacker-Wettbewerb-10479811.html",
       "image_title": "Windows-Logo mit Riss und Matrix-Hintergrund"
-    },
-    {
-      "title": "Microsoft spart 500 Millionen Dollar durch KI – während 15.000 gehen müssen",
-      "teaser": "Microsoft spart massiv durch KI-Einsatz. Diese Mitteilung lässt die jüngsten Entlassungswellen in einem anderen Licht erscheinen, beanstanden Kritiker.",
-      "url": "https://www.heise.de/news/Microsoft-spart-500-Millionen-Dollar-durch-KI-waehrend-15-000-gehen-muessen-10482449.html",
-      "image_title": "Close up shot of the Microsoft sign on a modern glass office building."
-    },
-    {
-      "title": "Testing Unleashed: Kommunikation in Teams mit visuellen Modellen verbessern",
-      "teaser": "Wie lassen sich Missverständnisse in Softwareprojekten vermeiden? Gien Verschatse und Kenny Baas-Schwegler setzen auf kollaborative Modellierung.",
-      "url": "https://www.heise.de/blog/Testing-Unleashed-Kommunikation-in-Teams-mit-visuellen-Modellen-verbessern-10480697.html",
-      "image_title": "Testing Unleashed: Misskommunikation in Teams mit visuellen Modellen vermeiden"
     },
     {
       "title": "NewsGeldschein-Verfolgung: Zunehmendes Bargeld-Tracking besorgt Datenschützer",
