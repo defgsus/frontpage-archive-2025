@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-11T11:09:39",
+  "timestamp": "2025-07-11T12:19:27",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Diese Werkzeuge sollen Kunstwerke vor KI schützen – doch die lassen sich umgehen",
+      "teaser": "Tools wie Nightshade sollen Kunst vor KI schützen, doch eine neue Methode namens Lightshed unterläuft diese Schutzmaßnahmen.",
+      "url": "https://www.heise.de/news/Diese-Werkzeuge-sollen-Kunstwerke-vor-KI-schuetzen-doch-die-lassen-sich-umgehen-10484319.html",
+      "image_title": "Künstler bei der Arbeit"
+    },
+    {
+      "title": "Datenarchitektur: DuckLake vereint Katalog und Tabellenmetadaten",
+      "teaser": "Mit der Spezifikation DuckLake und deren Implementierung eines Lakehouse-Formats treten die DuckDB-Macher gegen OpenTable-Formate wie Iceberg und Co. an.",
+      "url": "https://www.heise.de/hintergrund/Datenarchitektur-DuckLake-vereint-Katalog-und-Tabellenmetadaten-10478541.html"
+    },
+    {
       "title": "Kreislaufwirtschaft 4.0: Wenn die Mülltonne mit dem Lkw spricht",
       "teaser": "Die Digitalisierung erreicht die Abfallwirtschaft: Intelligente Mülltonnen, KI-gesteuerte Routenplanung und Roboter verändern die Müllabfuhr grundlegend.",
       "url": "https://www.heise.de/news/Kreislaufwirtschaft-4-0-Wenn-die-Muelltonne-mit-dem-Lkw-spricht-10484158.html",
       "image_title": "Abfall, Müll, Verpackungen, Plastikmüll"
     },
     {
-      "title": "PerfektBlue: Bluetooth-Lücke in Entertainment-Systemen von Mercedes, Skoda & VW",
-      "teaser": "Die Bluetooth-Schwachstellenkombination mit dem Spitznamen \"PerfektBlue\" schlägt gerade Wellen. Sie betrifft Fahrzeuge von Mercedes, Skoda & VW.",
+      "title": "\"PerfektBlue\": Mercedes, Skoda & VWBluetooth-Lücke in Entertainment-Systemen",
+      "teaser": "Die Bluetooth-Lücke mit dem Spitznamen \"PerfektBlue\" schlägt gerade Wellen. Sie betrifft Fahrzeuge von Mercedes, Skoda & VW.",
       "url": "https://www.heise.de/news/PerfektBlue-Bluetooth-Luecke-in-Entertainment-Systemen-von-Mercedes-Skoda-VW-10483938.html",
       "image_title": "VW ID.3 Pre-Facelift"
-    },
-    {
-      "title": "iX-Workshop Softwarearchitektur für KI-Systeme – skalierbare Lösungen entwickeln",
-      "teaser": "Lernen Sie, wie Sie KI-gestützte Architekturen konzipieren, die skalierbar, sicher und wartbar sind - mit Fokus auf ML, GenKI, Datenstrategie und Compliance.",
-      "url": "https://www.heise.de/news/iX-Workshop-Softwarearchitektur-fuer-KI-Systeme-skalierbare-Loesungen-entwickeln-10465572.html",
-      "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
-    },
-    {
-      "title": "Razers Deathadder V3 Pro bekommt nach drei Jahren einen Nachfolger",
-      "teaser": "Die Deathadder V4 Pro ist leichter als die V3, trotz gleicher Bauform. Ein optischer Encoder soll Problemen mit dem Mausrad vorbeugen.",
-      "url": "https://www.heise.de/news/Razers-Deathadder-V3-Pro-bekommt-nach-drei-Jahren-einen-Nachfolger-10484088.html",
-      "image_title": "Razer Deathadder V4 Pro in Schwarz und Weiß vor grünem Hintergrund"
     },
     {
       "title": "RatgeberEinführung in das Textsatzsystem LaTeX",
@@ -60,6 +59,24 @@
     {
       "title": "RatgeberSicherer als Chrome: Mit Zen-Browser Tabs bändigen und Tracker blockieren",
       "url": "https://www.heise.de/ratgeber/Entspannt-surfen-Zen-Browser-vereint-Arc-und-Firefox-10477313.html"
+    },
+    {
+      "title": "Hackergruppe soll 170 Cyberangriffe verübt haben",
+      "teaser": "Mindestens 170 Angriffe mit Millionenschaden: Ermittler nehmen eine internationale Hackergruppe ins Visier.",
+      "url": "https://www.heise.de/news/Hackergruppe-soll-170-Cyberangriffe-veruebt-haben-10484311.html",
+      "image_title": "Einsatzbereite Handschellen"
+    },
+    {
+      "title": "iX-Workshop Softwarearchitektur für KI-Systeme – skalierbare Lösungen entwickeln",
+      "teaser": "Lernen Sie, wie Sie KI-gestützte Architekturen konzipieren, die skalierbar, sicher und wartbar sind - mit Fokus auf ML, GenKI, Datenstrategie und Compliance.",
+      "url": "https://www.heise.de/news/iX-Workshop-Softwarearchitektur-fuer-KI-Systeme-skalierbare-Loesungen-entwickeln-10465572.html",
+      "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
+    },
+    {
+      "title": "Razers Deathadder V3 Pro bekommt nach drei Jahren einen Nachfolger",
+      "teaser": "Die Deathadder V4 Pro ist leichter als die V3, trotz gleicher Bauform. Ein optischer Encoder soll Problemen mit dem Mausrad vorbeugen.",
+      "url": "https://www.heise.de/news/Razers-Deathadder-V3-Pro-bekommt-nach-drei-Jahren-einen-Nachfolger-10484088.html",
+      "image_title": "Razer Deathadder V4 Pro in Schwarz und Weiß vor grünem Hintergrund"
     },
     {
       "title": "Apple erweitert Passwörter-App-Unterstützung für Windows",
@@ -131,23 +148,6 @@
       "teaser": "Die Veröffentlichung des neuen KI-Modells von Elon Musks xAI erfolgte nicht ohne Schwierigkeiten. Nun gibt es Fragen, wie sehr sie auf ihn zugeschnitten wurde.",
       "url": "https://www.heise.de/news/Kontroverse-Themen-KI-Modell-Grok-konsultiert-offenbar-Elon-Musks-Aeusserungen-10483586.html",
       "image_title": "Elon Musk"
-    },
-    {
-      "title": "Digital Networks Act: Wettbewerber fürchten drastische Folgen für den Netzausbau",
-      "teaser": "Große europäische Telekommunikationsanbieter und Branchenverbände warnen die EU-Kommission vor dramatischen Folgen bei geplanten neuen Gesetzen und Reformen.",
-      "url": "https://www.heise.de/news/Digital-Networks-Act-Wettbewerber-fuerchten-drastische-Folgen-fuer-den-Netzausbau-10483434.html"
-    },
-    {
-      "title": "Intel-Chef: Nvidia ist beim KI-Training nicht mehr einholbar",
-      "teaser": "In einer internen Videobotschaft bezeichnete Intel-CEO Lip-Bu Tan die Firmenwende als Marathon. Intel müsse demütig sein.",
-      "url": "https://www.heise.de/news/Intels-Chef-sieht-Intel-nicht-mehr-unter-den-Top-10-Chipfirmen-10483349.html",
-      "image_title": "Intels Chef Lip-Bu Tan vor einem Firmenschild"
-    },
-    {
-      "title": "iPadOS 26: Fast ein Mac – aber nur fast",
-      "teaser": "Apple gönnt seinem Tablet mehr Desktop-Features als je zuvor. In der Praxis gibt es aber zumindest in der Beta noch Fußangeln.",
-      "url": "https://www.heise.de/news/iPadOS-26-Fast-ein-Mac-aber-nur-fast-10481848.html",
-      "image_title": "Neuerungen in iPadOS 26"
     },
     {
       "title": "NewsGeldschein-Verfolgung: Zunehmendes Bargeld-Tracking besorgt Datenschützer",
