@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-15T03:54:57",
+  "timestamp": "2025-07-15T04:30:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,40 @@
   ],
   "articles": [
     {
+      "title": "Kommunikation mit dem Arzt: TI-Messenger TIM startet für gesetzlich Versicherte",
+      "teaser": "Ab heute sollen gesetzlich Versicherte den TI-Messenger TIM testen können – zumindest, wenn sie über eine App für die elektronische Patientenakte verfügen.",
+      "url": "https://www.heise.de/news/Kommunikation-mit-dem-Arzt-TI-Messenger-TIM-startet-fuer-gesetzlich-Versicherte-10486426.html",
+      "image_title": "Älterer Mann am Smartphone"
+    },
+    {
+      "title": "Dienstag: Kritik an Apple wegen Designplänen, Meta mit großen Plänen",
+      "teaser": "Apple fährt Designelemente zurück + Meta plant den Bau von Rechenzentren + Unternehmen meiden X + BSI mahnt Windows-Upgrade an + Entlassungen bei Intel",
+      "url": "https://www.heise.de/news/Dienstag-Kritik-an-Apple-wegen-Designplaenen-Meta-mit-grossen-Plaenen-10487044.html",
+      "image_title": "Apple-Logo in Blau, dazu Text: DIENSTAG Apple-Design, Meta Platforms, Elon Musk, Windows 10-Support & Intel"
+    },
+    {
+      "title": "HAMR-Festplatten: Erster Test der Laufwerke mit 30 TByte",
+      "teaser": "Seagates innovative Technik zur Erhöhung der Festplattenkapazität ist im Handel angekommen. Grundlage ist ein Laser an jedem Schreibkopf.",
+      "url": "https://www.heise.de/tests/HAMR-Festplatten-Erster-Test-der-Laufwerke-mit-30-TByte-10484186.html"
+    },
+    {
+      "title": "Festplattentechnik: Wie die Hersteller immer mehr Bits in die Gehäuse quetschen",
+      "teaser": "Moderne Festplatten nutzen verschiedene Methoden, um immer kleinere Bits sicher zu speichern. Ein Überblick über aktuelle und kommende Techniken.",
+      "url": "https://www.heise.de/hintergrund/Festplattentechnik-Wie-die-Hersteller-immer-mehr-Bits-in-die-Gehaeuse-quetschen-10461808.html"
+    },
+    {
+      "title": "TestsHAMR-Festplatten: Erster Test der Laufwerke mit 30 TByte",
+      "url": "https://www.heise.de/tests/HAMR-Festplatten-Erster-Test-der-Laufwerke-mit-30-TByte-10484186.html"
+    },
+    {
+      "title": "HintergrundFestplattentechnik: Wie die Hersteller immer mehr Bits in die Gehäuse quetschen",
+      "url": "https://www.heise.de/hintergrund/Festplattentechnik-Wie-die-Hersteller-immer-mehr-Bits-in-die-Gehaeuse-quetschen-10461808.html"
+    },
+    {
+      "title": "HintergrundSo funktioniert das Ultra Ethernet",
+      "url": "https://www.heise.de/hintergrund/So-funktioniert-das-Ultra-Ethernet-10477044.html"
+    },
+    {
       "title": "KI-Wettlauf: Meta kündigt den Bau von Rechenzentren im Gigawatt-Bereich an",
       "teaser": "Der US-Konzern Meta wirbt um Top-KI-Experten und will \"Hunderte Milliarden US-Dollar\" in die Datenverarbeitung investieren, um Superintelligenz aufzubauen.",
       "url": "https://www.heise.de/news/KI-Wettlauf-Meta-kuendigt-den-Bau-von-Rechenzentren-im-Gigawatt-Bereich-an-10486938.html",
@@ -43,23 +77,10 @@
       "url": "https://www.heise.de/news/Start-up-S-A-M-nutzt-3D-Druck-zur-Tokenherstellung-10486493.html"
     },
     {
-      "title": "BSI mahnt\"Windows 10 wird unsicher\" – rascher Wechsel nötig",
-      "teaser": "Microsoft stellt zum 14. Oktober den Support für Windows 10 ein. Das BSI mahnt ein schnelles Upgrade etwa auf Windows 11 an.",
+      "title": "BSI mahnt: \"Windows 10 wird unsicher\" – rascher Wechsel nötig",
+      "teaser": "Microsoft stellt zum 14. Oktober den Support für Windows 10 ein. Das BSI mahnt ein schnelles Upgrade etwa auf Windows 11 an. Eine Datensicherung sei ratsam.",
       "url": "https://www.heise.de/news/BSI-mahnt-Windows-10-wird-unsicher-rascher-Wechsel-noetig-10486622.html",
       "image_title": "Finger zeigt auf Logo von Windows 10"
-    },
-    {
-      "title": "HintergrundSo funktioniert das Ultra Ethernet",
-      "url": "https://www.heise.de/hintergrund/So-funktioniert-das-Ultra-Ethernet-10477044.html"
-    },
-    {
-      "title": "RatgeberBastelprojekt: Wie man einen preiswerten FET-Tastkopf für Oszilloskope verbaut",
-      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Wie-man-einen-preiswerten-FET-Tastkopf-fuer-Oszilloskope-verbaut-10444358.html"
-    },
-    {
-      "title": "RatgeberKI-Analyse für Aktien-Diskussionen auf Reddit: Anleitung zum Nachbauen",
-      "url": "https://www.heise.de/ratgeber/KI-Analyse-fuer-Aktien-Diskussionen-auf-Reddit-Anleitung-zum-Nachbauen-10482697.html",
-      "image_title": "KI in Androidengestalt vor symbolischen Aktiencharts und Raketen-Symbolen."
     },
     {
       "title": "Visual Studio Code 1.102 bringt neue Features für Copilot Chat und MCP-Support",
@@ -126,30 +147,6 @@
       "teaser": "Dank std::simd_mask ist es in C++26 möglich, Operationen auf data-parallel types bedingt auszuführen.",
       "url": "https://www.heise.de/blog/Datenparallele-Typen-in-C-26-Bedingte-Ausfuehrung-von-Operationen-10485650.html",
       "image_title": "Holzwürfel mit dem Schriftzug C++"
-    },
-    {
-      "title": "AlertAngriffe wahrscheinlich: Exploit für FortiWeb-Lücke verfügbar",
-      "teaser": "Am Donnerstag hat Fortinet ein Update für FortiWeb veröffentlicht. Exploits sind aufgetaucht, die die kritische Lücke missbrauchen.",
-      "url": "https://www.heise.de/news/Exploit-verfuegbar-FortiWeb-Sicherheitsluecke-jetzt-patchen-10485654.html",
-      "image_title": "Totenkopf aus Nullen und Einsen"
-    },
-    {
-      "title": "\"Twitch-Officer\": Polizei in Niedersachsen zockt online und beantwortet Fragen",
-      "teaser": "Thorsten Massinger ist neuer Präsident des niedersächsischen Landeskriminalamtes. Bei der Prävention setzt der 47-Jährige verstärkt auf das Internet.",
-      "url": "https://www.heise.de/news/Niedersachsen-LKA-Chef-will-junge-Menschen-auf-Gaming-Plattform-ansprechen-10485634.html",
-      "image_title": "Gaming,Rgb,Led,Backlit,Keyboard"
-    },
-    {
-      "title": "iX-Workshop: Linux-Server vor Angriffen wirksam schützen",
-      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
-      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-10481087.html",
-      "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Bit-Rauschen: Intels übernächste Desktop-CPU soll ein Kracher werden",
-      "teaser": "Intel will 2026 mit vielen starken CPU-Kernen für Desktop-PCs punkten. Für Server planen AMD und Intel neue Prozessoren mit PCI Express 6.0.",
-      "url": "https://www.heise.de/news/Bit-Rauschen-Intels-uebernaechste-Desktop-CPU-soll-ein-Kracher-werden-10368244.html",
-      "image_title": "Aufmacher Kolumne Bit-Rauschen"
     },
     {
       "title": "NewsE-Bike-Chef von Bosch im Interview: \"Bewegen uns immer weiter weg vom Fahrrad\"",
