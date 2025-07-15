@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-15T12:21:03",
+  "timestamp": "2025-07-15T13:30:06",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,40 @@
   ],
   "articles": [
     {
+      "title": "So funktioniert das Ultra Ethernet",
+      "teaser": "Die erste Spezifikation für Ultra Ethernet ist fertig. Der neue Standard ist explizit für KI-Cluster und HPC-Workloads gedacht.",
+      "url": "https://www.heise.de/hintergrund/So-funktioniert-das-Ultra-Ethernet-10477044.html"
+    },
+    {
+      "title": "Nvidia: Börsenrausch dank chinesischer Rückkehr",
+      "teaser": "Die US-Regierung will Nvidia wieder den Verkauf bestimmter GPUs nach China erlauben. Darüber freut sich die Börse.",
+      "url": "https://www.heise.de/news/Nvidia-Boersenrausch-dank-chinesischer-Rueckkehr-10488077.html",
+      "image_title": "Nvidia-Chef Jensen Huang hält auf einer Bühnung Hardware in den Händen"
+    },
+    {
+      "title": "Vorräte im Blick: Wie Sie mit Grocy Ihre Lebensmittel digital verwalten",
+      "teaser": "Grocy hilft dabei, den Überblick über Vorräte zu behalten. Die Anwendung läuft lokal auf einem Server im Heimnetz oder als Add-on für Home Assistant.",
+      "url": "https://www.heise.de/ratgeber/Vorraete-im-Blick-Wie-Sie-mit-Grocy-Ihre-Lebensmittel-digital-verwalten-10459027.html"
+    },
+    {
+      "title": "FBI schließt illegale Videospiel-Websites",
+      "teaser": "Ende vergangener Woche hat das FBI mehrere Webseiten stillgelegt, die widerrechtlich kopierte Videospiele angeboten haben.",
+      "url": "https://www.heise.de/news/FBI-gelingt-Schlag-gegen-Videospiel-Piraterie-10488050.html",
+      "image_title": "FBI-Banner auf beschlagnahmter Webseite"
+    },
+    {
+      "title": "RatgeberVorräte im Blick: Wie Sie mit Grocy Ihre Lebensmittel digital verwalten",
+      "url": "https://www.heise.de/ratgeber/Vorraete-im-Blick-Wie-Sie-mit-Grocy-Ihre-Lebensmittel-digital-verwalten-10459027.html"
+    },
+    {
+      "title": "TestsHAMR-Festplatten: Erster Test der Laufwerke mit 30 TByte",
+      "url": "https://www.heise.de/tests/HAMR-Festplatten-Erster-Test-der-Laufwerke-mit-30-TByte-10484186.html"
+    },
+    {
+      "title": "HintergrundFestplattentechnik: Wie die Hersteller immer mehr Bits in die Gehäuse quetschen",
+      "url": "https://www.heise.de/hintergrund/Festplattentechnik-Wie-die-Hersteller-immer-mehr-Bits-in-die-Gehaeuse-quetschen-10461808.html"
+    },
+    {
       "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
       "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-10481125.html",
@@ -38,34 +72,22 @@
       "image_title": "Windows \"Click-To-Do\" beschreibt Bildinhalte"
     },
     {
-      "title": "Formel 1 Das Mercedes-Team nutzt TeamViewer im Simulator",
-      "teaser": "TeamViewer ist Sponsor des Mercedes-AMG Petronas F1 Teams und stellt Software bereit, um die IT mit einem Simulator zu verbinden.",
-      "url": "https://www.heise.de/news/Das-Mercedes-Team-der-Formel-1-nutzt-TeamViewer-im-Simulator-10487854.html",
-      "image_title": "Blick in den Mercedes-Simulator"
-    },
-    {
-      "title": "Digitale Souveränität?Oracle investiert zwei Milliarden US-Dollar in deutsche Cloud",
-      "teaser": "Nach Amazon und Microsoft will nun auch Oracle Milliarden in deutsche Rechenzentren investieren und verspricht genau wie die Konkurrenz mehr Souveränität.",
-      "url": "https://www.heise.de/news/EU-Souveraenitaet-made-in-USA-Auch-Oracle-steckt-Milliarden-in-deutsche-Cloud-RZs-10487828.html",
-      "image_title": "Schriftzug von Oracle an Gebäude"
-    },
-    {
-      "title": "TestsHAMR-Festplatten: Erster Test der Laufwerke mit 30 TByte",
-      "url": "https://www.heise.de/tests/HAMR-Festplatten-Erster-Test-der-Laufwerke-mit-30-TByte-10484186.html"
-    },
-    {
-      "title": "HintergrundFestplattentechnik: Wie die Hersteller immer mehr Bits in die Gehäuse quetschen",
-      "url": "https://www.heise.de/hintergrund/Festplattentechnik-Wie-die-Hersteller-immer-mehr-Bits-in-die-Gehaeuse-quetschen-10461808.html"
-    },
-    {
-      "title": "HintergrundSo funktioniert das Ultra Ethernet",
-      "url": "https://www.heise.de/hintergrund/So-funktioniert-das-Ultra-Ethernet-10477044.html"
-    },
-    {
       "title": "Google baut doch kein eigenes Rechenzentrum in Berlin-Brandenburg",
       "teaser": "Google plante jahrelang den Bau eines großen Rechenzentrums in der Region Berlin-Brandenburg. Das Vorhaben wird jedoch nicht umgesetzt.",
       "url": "https://www.heise.de/news/Google-baut-doch-kein-eigenes-Rechenzentrum-in-Berlin-Brandenburg-10487886.html",
       "image_title": "Bunt leuchtendes Neon-Zeochen von Google"
+    },
+    {
+      "title": "Das Mercedes-Team der Formel 1 nutzt TeamViewer im Simulator",
+      "teaser": "Die Firma TeamViewer ist Sponsor des Mercedes-AMG Petronas F1 Teams und stellt Software bereit, um die IT auf der Rennstrecke mit einem Simulator zu verbinden.",
+      "url": "https://www.heise.de/news/Das-Mercedes-Team-der-Formel-1-nutzt-TeamViewer-im-Simulator-10487854.html",
+      "image_title": "Blick in den Mercedes-Simulator"
+    },
+    {
+      "title": "Oracle investiert zwei Milliarden US-Dollar in deutsche Cloud",
+      "teaser": "Nach Amazon und Microsoft will nun auch Oracle Milliarden in deutsche Rechenzentren investieren und verspricht genau wie die Konkurrenz mehr Souveränität.",
+      "url": "https://www.heise.de/news/EU-Souveraenitaet-made-in-USA-Auch-Oracle-steckt-Milliarden-in-deutsche-Cloud-RZs-10487828.html",
+      "image_title": "Schriftzug von Oracle an Gebäude"
     },
     {
       "title": "Java 25 kommt bald: Programm der Online-Konferenz betterCode() Java 2025 steht",
@@ -125,30 +147,6 @@
       "teaser": "Das Pentagon hat gleich mit vier KI-Firmen Verträge abgeschlossen, um deren Technik nutzen und testen zu können. Geld gibt es dabei auch für Grok 4 von xAI.",
       "url": "https://www.heise.de/news/Fuer-Grok-Co-Pentagon-verspricht-KI-Firmen-hunderte-Millionen-US-Dollar-10487074.html",
       "image_title": "Luftbild des Pentagon"
-    },
-    {
-      "title": "Drei mobile Videotürme für Überwachung in München",
-      "teaser": "Sechs Meter hoch und mit drei Kameras – an Schwerpunkten der Kriminalität sollen die neuen Anlagen mehr Sicherheit bringen.",
-      "url": "https://www.heise.de/news/Muenchner-Polizei-ueberwacht-mit-mobilen-Videotuermen-10486846.html",
-      "image_title": "Überwachungsturm in München"
-    },
-    {
-      "title": "Chat mit Arzt und Krankenkasse: TIM für erste gesetzlich Versicherte zugänglich",
-      "teaser": "Ab heute sollen gesetzlich Versicherte den TI-Messenger TIM testen können – zumindest, wenn sie über eine App für die elektronische Patientenakte verfügen.",
-      "url": "https://www.heise.de/news/Kommunikation-mit-dem-Arzt-TI-Messenger-TIM-startet-fuer-gesetzlich-Versicherte-10486426.html",
-      "image_title": "Älterer Mann am Smartphone"
-    },
-    {
-      "title": "KI-Wettlauf: Meta kündigt den Bau von Rechenzentren im Gigawatt-Bereich an",
-      "teaser": "Der US-Konzern Meta wirbt um Top-KI-Experten und will \"Hunderte Milliarden US-Dollar\" in die Datenverarbeitung investieren, um Superintelligenz aufzubauen.",
-      "url": "https://www.heise.de/news/KI-Wettlauf-Meta-kuendigt-den-Bau-von-Rechenzentren-im-Gigawatt-Bereich-an-10486938.html",
-      "image_title": "Meta-Logo und Kopf eines weiblichen Roboters"
-    },
-    {
-      "title": "Jamming in Ostsee: Erfolgreicher Test einer Laser-Verbindung zwischen Schiffen",
-      "teaser": "Ein litauisches Startup hat zusammen mit der Marine das Freiraum-Laserterminal Polaris erfolgreich auf See ausprobiert. Es soll gegen Funkstörungen immun sein.",
-      "url": "https://www.heise.de/news/Jamming-in-Ostsee-Erfolgreicher-Test-einer-Laser-Verbindung-zwischen-Schiffen-10486826.html",
-      "image_title": "Aufbau mit einer Spiegelfläche auf Deck eines Militärschiffs, im Hintergrund ein Mann in Uniform."
     },
     {
       "title": "NewsE-Bike-Chef von Bosch im Interview: \"Bewegen uns immer weiter weg vom Fahrrad\"",
