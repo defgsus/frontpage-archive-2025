@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-16T05:17:24",
+  "timestamp": "2025-07-16T06:16:18",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mein Scrum ist kaputt #138: Visual Product Ownership",
+      "url": "https://www.heise.de/blog/Mein-Scrum-ist-kaputt-138-Visual-Product-Ownership-10485682.html"
+    },
+    {
+      "title": "secIT digital: Würden Sie einen Vishing-Anruf erkennen?",
+      "url": "https://www.heise.de/news/secIT-digital-Wuerden-Sie-einen-Vishing-Anruf-erkennen-10477907.html"
+    },
+    {
+      "title": "Vorräte im Blick: Wie Sie mit Grocy Ihre Lebensmittel digital verwalten",
+      "url": "https://www.heise.de/ratgeber/Vorraete-im-Blick-Wie-Sie-mit-Grocy-Ihre-Lebensmittel-digital-verwalten-10459027.html"
+    },
     {
       "title": "Groß wie der Berliner Fernsehturm: Baubeginn für das höchste Windrad der Welt",
       "url": "https://www.heise.de/news/Gross-wie-der-Berliner-Fernsehturm-Baubeginn-fuer-das-hoechste-Windrad-der-Welt-10488726.html"
@@ -54,18 +66,6 @@
       "url": "https://www.heise.de/news/Wetransfer-wollte-sich-Rechte-an-allen-Dateien-krallen-10488660.html"
     },
     {
-      "title": "Bundesverfassungsgericht zu Ramstein: Schutzanspruch ist keine Schutzpflicht",
-      "url": "https://www.heise.de/news/Ramstein-Grundsatzurteil-US-Drohnenkrieg-Menschenrechte-und-Buendnislogik-10488623.html"
-    },
-    {
-      "title": "5G- & LTE-Router für Arbeit, Camping und unterwegs: Die besten Geräte und Tarife",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/5g-und-lte-router-fuer-arbeit-camping-und-unterwegs-die-besten-geraete-und-tarife/4zc24p5"
-    },
-    {
-      "title": "heise übernimmt Hardware-Shop Mindfactory: Bundeskartellamt gibt grünes Licht",
-      "url": "https://www.heise.de/news/heise-uebernimmt-Hardware-Shop-Mindfactory-Bundeskartellamt-gibt-gruenes-Licht-10488519.html"
-    },
-    {
       "title": "iPhone 17Wann es kommt, wie die Produktion läuft, wie es aussieht",
       "teaser": "Apples nächstes Smartphone kommt in knapp zwei Monaten. Vor dem Release gibt es nun frische Details.",
       "url": "https://www.heise.de/news/iPhone-17-Wann-es-kommt-wie-die-Produktion-laeuft-wie-es-aussieht-10485736.html",
@@ -89,13 +89,13 @@
       "image_title": "Tesla Model Y"
     },
     {
-      "title": "Meta meint es ernstWie Zuckerberg die KI-Wette gewinnen kann",
-      "teaser": "Meta setzt nicht nur auf KI, Meta schraubt an der absoluten Vorherrschaft bei KI – und ist dabei auch noch besonders attraktiv.",
-      "url": "https://www.heise.de/hintergrund/Meta-meint-es-ernst-Wie-Zuckerberg-die-KI-Wette-gewinnen-kann-10487858.html",
-      "image_title": "Das Rechenzentrum Hyperion soll fast so groß sein wie Manhattan."
+      "title": "Groß wie der Berliner FernsehturmBaubeginn für höchstes Windrad der Welt",
+      "teaser": "In Brandenburg wird das welthöchste Windrad errichtet. Es soll die Gewinnung erneuerbarer Energie auf einer dritten Ebene einleiten.",
+      "url": "https://www.heise.de/news/Gross-wie-der-Berliner-Fernsehturm-Baubeginn-fuer-das-hoechste-Windrad-der-Welt-10488726.html",
+      "image_title": "Ein Windrad über den Wolken"
     },
     {
-      "title": "heise übernimmt Hardware-Shop Mindfactory: Bundeskartellamt gibt grünes Licht",
+      "title": "Bundeskartellamt gibt grünes Lichtheise übernimmt Hardware-Shop Mindfactory",
       "teaser": "Das Bundeskartellamt stimmt der Übernahme von Mindfactory zu. Gute Nachrichten gibt es für Kunden im Vorfeld der Insolvenz.",
       "url": "https://www.heise.de/news/heise-uebernimmt-Hardware-Shop-Mindfactory-Bundeskartellamt-gibt-gruenes-Licht-10488519.html",
       "image_title": "Mehrere Grafikkarten nebeneinander mit Lichtschlieren"
@@ -145,16 +145,16 @@
       "url": "https://www.heise.de/hintergrund/Vier-Open-Source-Clouds-im-Vergleich-10479906.html"
     },
     {
+      "title": "Meta meint es ernstWie Zuckerberg die KI-Wette gewinnen kann",
+      "teaser": "Meta setzt nicht nur auf KI, Meta schraubt an der absoluten Vorherrschaft bei KI – und ist dabei auch noch besonders attraktiv.",
+      "url": "https://www.heise.de/hintergrund/Meta-meint-es-ernst-Wie-Zuckerberg-die-KI-Wette-gewinnen-kann-10487858.html",
+      "image_title": "Das Rechenzentrum Hyperion soll fast so groß sein wie Manhattan."
+    },
+    {
       "title": "BellTiltrotor-Flugzeug mit Fluggeschwindigkeit bis zu 832 km/h",
       "teaser": "Bell darf im Rahmen des SPRINT-X-Planes Programms des Pentagon einen Demonstrator für ein schnelles Tiltrotor-Flugzeug entwickeln.",
       "url": "https://www.heise.de/news/Bell-entwickelt-Tiltrotor-Flugzeug-mit-Fluggeschwindigkeit-bis-zu-832-km-h-10487160.html",
       "image_title": "Künstlerische Darstellung eines X-Planes von Bell."
-    },
-    {
-      "title": "ProgrammiersprachePHP diskutiert Lizenzwechsel",
-      "teaser": "Die PHP-Community plant einen Wechsel zur BSD-Lizenz. Ziel ist mehr rechtliche Klarheit und Kompatibilität – umgesetzt werden soll das mit PHP 9.0.",
-      "url": "https://www.heise.de/news/Programmiersprache-PHP-diskutiert-Lizenzwechsel-10487246.html",
-      "image_title": "Alter Papierstapel"
     },
     {
       "title": "SteuerfahndungInfluencer haben womöglich 300 Millionen Euro hinterzogen",
@@ -174,33 +174,43 @@
       "image_title": "Liquid Glass in iOS 26"
     },
     {
+      "title": "ProgrammiersprachePHP diskutiert Lizenzwechsel",
+      "teaser": "Die PHP-Community plant einen Wechsel zur BSD-Lizenz. Ziel ist mehr rechtliche Klarheit und Kompatibilität – umgesetzt werden soll das mit PHP 9.0.",
+      "url": "https://www.heise.de/news/Programmiersprache-PHP-diskutiert-Lizenzwechsel-10487246.html",
+      "image_title": "Alter Papierstapel"
+    },
+    {
       "title": "E-Bike-Chef von Bosch im Interview\"Bewegen uns immer weiter weg vom Fahrrad\"",
       "teaser": "Der Geschäftsleiter von Bosch eBike Systems blickt mit Sorge auf den Wettlauf bei der Motorleistung und warnt vor EU-Maßnahmen.",
       "url": "https://www.heise.de/news/Bosch-E-Bike-Chef-im-Interview-EU-Regulierung-die-nicht-zum-Problem-passt-10464874.html",
       "image_title": "Claus Fleischer, Geschäftsleiter Bosch eBike Systems"
     },
     {
-      "title": "Formel 1 Das Mercedes-Team nutzt TeamViewer im Simulator",
-      "teaser": "TeamViewer ist Sponsor des Mercedes-AMG Petronas F1 Teams und stellt Software bereit, um die IT mit einem Simulator zu verbinden.",
-      "url": "https://www.heise.de/news/Das-Mercedes-Team-der-Formel-1-nutzt-TeamViewer-im-Simulator-10487854.html",
-      "image_title": "Blick in den Mercedes-Simulator"
+      "title": "Mein Scrum ist kaputt #138: Visual Product Ownership",
+      "teaser": "Thema dieser Podcast-Episode: Visuelle Tools für Product Owner – für mehr Struktur, Überblick und Klarheit im Entwicklungsprozess.",
+      "url": "https://www.heise.de/blog/Mein-Scrum-ist-kaputt-138-Visual-Product-Ownership-10485682.html",
+      "image_title": "Mein Scrum ist kaputt, Folge 113"
     },
     {
-      "title": "Groß wie der Berliner Fernsehturm: Baubeginn für das höchste Windrad der Welt",
-      "teaser": "Im brandenburgischen Schipkau wird jetzt das weltweit höchste Windrad errichtet. Es soll die Gewinnung erneuerbarer Energie auf einer dritten Ebene einleiten.",
-      "url": "https://www.heise.de/news/Gross-wie-der-Berliner-Fernsehturm-Baubeginn-fuer-das-hoechste-Windrad-der-Welt-10488726.html",
-      "image_title": "Ein Windrad über den Wolken"
+      "title": "secIT digital: Würden Sie einen Vishing-Anruf erkennen?",
+      "teaser": "Auf der secIT digital im September geht es unter anderem um KI im Kontext von Cyberattacken, NIS2 und Vishing. Workshops vertiefen die Themen.",
+      "url": "https://www.heise.de/news/secIT-digital-Wuerden-Sie-einen-Vishing-Anruf-erkennen-10477907.html"
+    },
+    {
+      "title": "Technologieinseln nahtlos miteinander vernetzen",
+      "teaser": "Mit einer „Digital Fabric“ lässt sich der Datenaustausch über viele Anwendungen hinweg erleichtern. Das Ergebnis sind kosteneffiziente Netzwerkarchitekturen mit voller Transparenz und Kontrolle.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6976296867&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Vorräte im Blick: Wie Sie mit Grocy Ihre Lebensmittel digital verwalten",
+      "teaser": "Grocy hilft dabei, den Überblick über Vorräte zu behalten. Die Anwendung läuft lokal auf einem Server im Heimnetz oder als Add-on für Home Assistant.",
+      "url": "https://www.heise.de/ratgeber/Vorraete-im-Blick-Wie-Sie-mit-Grocy-Ihre-Lebensmittel-digital-verwalten-10459027.html"
     },
     {
       "title": "Porno-Streit in Frankreich: Betreiber kassiert Schlappe",
       "teaser": "Frankreich verlangt zum Jugendschutz eine strenge Alterskontrolle. Nicht allen Betreibern von Pornoseiten passt das. Legt ein Gerichtsentscheid den Streit bei?",
       "url": "https://www.heise.de/news/Porno-Streit-in-Frankreich-Betreiber-kassiert-Schlappe-10488738.html",
       "image_title": "Eine junge Frau schaut ein Filmchen auf dem Smartphone."
-    },
-    {
-      "title": "Technologieinseln nahtlos miteinander vernetzen",
-      "teaser": "Mit einer „Digital Fabric“ lässt sich der Datenaustausch über viele Anwendungen hinweg erleichtern. Das Ergebnis sind kosteneffiziente Netzwerkarchitekturen mit voller Transparenz und Kontrolle.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6976296867&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Für viele laut Umfrage selbstverständlich: Kopfhörer auch daheim genutzt",
@@ -225,17 +235,6 @@
       "teaser": "Die Uber-App könnte künftig zur Robotaxi-App werden. Denn der Fahrdienstvermittler kooperiert mit Baidu und plant die Expansion autonomer Fahrten weltweit.",
       "url": "https://www.heise.de/news/Uber-will-Robotaxi-Fahrten-mit-Baidu-aus-China-bald-weltweit-vermitteln-10488708.html",
       "image_title": "Autonom fahrendes Taxi fährt auf einer Straße vor einem See"
-    },
-    {
-      "title": "Bundesverfassungsgericht zu Ramstein: Schutzanspruch ist keine Schutzpflicht",
-      "teaser": "Über Deutschland ferngesteuerte US-Drohnen fliegen Angriffe im Jemen. 3 Jemeniten sehen ihre Rechte laut Grundgesetz verletzt, scheitern aber vor der Justiz.",
-      "url": "https://www.heise.de/news/Ramstein-Grundsatzurteil-US-Drohnenkrieg-Menschenrechte-und-Buendnislogik-10488623.html",
-      "image_title": "Drohne MQ-9 Reaper, bewaffnet mit lasergesteuerten Bomben und Hellfire-Raketen"
-    },
-    {
-      "title": "5G- & LTE-Router für Arbeit, Camping und unterwegs: Die besten Geräte und Tarife",
-      "teaser": "5G- und LTE-Router gibt es von preiswert bis teuer, und auch bei Tarifen hat man mittlerweile mehr Auswahl. Wir geben einen Überblick zum Thema.",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/5g-und-lte-router-fuer-arbeit-camping-und-unterwegs-die-besten-geraete-und-tarife/4zc24p5?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Mehr Platz, schnellerer RechnerMac-Speicher clever freiräumen",
@@ -290,8 +289,8 @@
       "url": "https://www.heise.de/hintergrund/CO-Handelssystem-EU-ETS2-ab-2027-Sprit-wird-absehbar-immer-teurer-10476986.html"
     },
     {
-      "title": "Geldschein-Verfolgung: Zunehmendes Bargeld-Tracking besorgt Datenschützer",
-      "url": "https://www.heise.de/news/Geldschein-Verfolgung-Zunehmendes-Bargeld-Tracking-besorgt-Datenschuetzer-10481677.html"
+      "title": "Influencer haben womöglich 300 Millionen Euro hinterzogen",
+      "url": "https://www.heise.de/news/Influencer-sollen-300-Millionen-Euro-hinterzogen-haben-10487070.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -304,6 +303,17 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Bundesverfassungsgericht zu Ramstein: Schutzanspruch ist keine Schutzpflicht",
+      "teaser": "Über Deutschland ferngesteuerte US-Drohnen fliegen Angriffe im Jemen. 3 Jemeniten sehen ihre Rechte laut Grundgesetz verletzt, scheitern aber vor der Justiz.",
+      "url": "https://www.heise.de/news/Ramstein-Grundsatzurteil-US-Drohnenkrieg-Menschenrechte-und-Buendnislogik-10488623.html",
+      "image_title": "Drohne MQ-9 Reaper, bewaffnet mit lasergesteuerten Bomben und Hellfire-Raketen"
+    },
+    {
+      "title": "5G- & LTE-Router für Arbeit, Camping und unterwegs: Die besten Geräte und Tarife",
+      "teaser": "5G- und LTE-Router gibt es von preiswert bis teuer, und auch bei Tarifen hat man mittlerweile mehr Auswahl. Wir geben einen Überblick zum Thema.",
+      "url": "https://www.heise.de/bestenlisten/ratgeber/5g-und-lte-router-fuer-arbeit-camping-und-unterwegs-die-besten-geraete-und-tarife/4zc24p5?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Amazon Prime Deal Days: Gericht untersagt irreführende Preisnachlässe",
@@ -370,6 +380,11 @@
       "image_title": "Eine Crew Dragon"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Die Cybersecurity steht an einem Wendepunkt und benötigt revolutionäre Technologien. In einem Webcast sprechen wir über die Merkmale und Vorteile von KI-gestützten Abwehrmaßnahmen, die über klassische Verhaltensanalysen hinausgehen.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/risiko-management-und-cybersicherheit-dynamisch-und-automatisch-dank-ki-4925/?source=hbsad_ersatz"
+    },
+    {
       "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
       "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-10481125.html",
@@ -380,11 +395,6 @@
       "teaser": "Microsoft hat neue Insider-Vorschauen im Windows-Developer- und Beta-Kanal veröffentlicht. Neue Sicherheitsfunktionen sind auch dabei.",
       "url": "https://www.heise.de/news/Windows-Insider-Vorschau-bringt-KI-Bildbeschreibungen-und-Sicherheitsfeatures-10487957.html",
       "image_title": "Windows \"Click-To-Do\" beschreibt Bildinhalte"
-    },
-    {
-      "title": "Resilienz in wirtschaftlich unsicheren Zeiten: Wie IT-Umgebungen zukunftssicher werden",
-      "teaser": "Zölle, Embargos, geopolitische Spannungen – Unternehmen haben derzeit mit vielen Schwierigkeiten zu kämpfen. Eine resiliente IT ist unerlässlich, um gut durch die Krise zu kommen.",
-      "url": "https://it-kenner.heise.de/moderne-it-infrastruktur/cloud/resilienz-in-wirtschaftlich-unsicheren-zeiten-wie-it-umgebungen-zukunftssicher-werden/?source=hbsadersatz"
     },
     {
       "title": "Fusionsenergie: Warum Europa und die USA das Rennen verlieren könnten",
@@ -429,22 +439,10 @@
       "image_title": "Windrad von hinten"
     },
     {
-      "title": "Oracle investiert zwei Milliarden US-Dollar in deutsche Cloud",
-      "teaser": "Nach Amazon und Microsoft will nun auch Oracle Milliarden in deutsche Rechenzentren investieren und verspricht genau wie die Konkurrenz mehr Souveränität.",
-      "url": "https://www.heise.de/news/EU-Souveraenitaet-made-in-USA-Auch-Oracle-steckt-Milliarden-in-deutsche-Cloud-RZs-10487828.html",
-      "image_title": "Schriftzug von Oracle an Gebäude"
-    },
-    {
-      "title": "Duell der Leichtgewichte: Meta und ByteDance entwickeln ultrakompakte VR-Brillen",
-      "teaser": "Meta und Pico arbeiten offenbar an Mixed-Reality-Brillen, die deutlich kompakter und leichter ausfallen sollen als Meta Quest und Apple Vision Pro.",
-      "url": "https://www.heise.de/news/Duell-der-Leichtgewichte-Meta-und-ByteDance-entwickeln-ultrakompakte-VR-Brillen-10487258.html",
-      "image_title": "Ein Mann trägt die ultrakompakte VR-Brille Bigscreen Beyond. Im Hintergrund eine Werkstatt."
-    },
-    {
-      "title": "Zwei Millionen US-Dollar Startgebot: Größter Meteorit vom Mars vor Versteigerung",
-      "teaser": "Vor genau zwei Jahren wurde in Niger der größte bekannte Meteorit gefunden, der vom Mars stammt. Jetzt kann er ersteigert werden – für das nötige Kleingeld.",
-      "url": "https://www.heise.de/news/Zwei-Millionen-US-Dollar-Startgebot-Groesster-Meteorit-vom-Mars-vor-Versteigerung-10487574.html",
-      "image_title": "Ein roter Stein"
+      "title": "Das Mercedes-Team der Formel 1 nutzt TeamViewer im Simulator",
+      "teaser": "Die Firma TeamViewer ist Sponsor des Mercedes-AMG Petronas F1 Teams und stellt Software bereit, um die IT auf der Rennstrecke mit einem Simulator zu verbinden.",
+      "url": "https://www.heise.de/news/Das-Mercedes-Team-der-Formel-1-nutzt-TeamViewer-im-Simulator-10487854.html",
+      "image_title": "Blick in den Mercedes-Simulator"
     },
     {
       "title": "Jamming in Ostsee: Erfolgreicher Test einer Laser-Verbindung zwischen Schiffen",
@@ -471,9 +469,9 @@
       "image_title": "Smartphone mit Stethoskop."
     },
     {
-      "title": "Roboterhund erklimmt senkrechte Wände durch \"Chimney Climbing\"",
-      "url": "https://www.heise.de/news/Roboterhund-erklimmt-senkrechte-Waende-durch-Chimney-Climbing-10487254.html",
-      "image_title": "Roboterhund stützt sich mit seinen Beinen zwischen zwei Wänden ab."
+      "title": "Zwei Millionen US-Dollar Startgebot: Größter Meteorit vom Mars vor Versteigerung",
+      "url": "https://www.heise.de/news/Zwei-Millionen-US-Dollar-Startgebot-Groesster-Meteorit-vom-Mars-vor-Versteigerung-10487574.html",
+      "image_title": "Ein roter Stein"
     },
     {
       "title": "Ray-Ban Meta-Brille versteht und spricht jetzt Deutsch",
@@ -481,14 +479,14 @@
       "image_title": "Nahaufnahme einer blonden Frau mit schwarzer Ray-Ban Meta-Brille."
     },
     {
+      "title": "Duell der Leichtgewichte: Meta und ByteDance entwickeln ultrakompakte VR-Brillen",
+      "url": "https://www.heise.de/news/Duell-der-Leichtgewichte-Meta-und-ByteDance-entwickeln-ultrakompakte-VR-Brillen-10487258.html",
+      "image_title": "Ein Mann trägt die ultrakompakte VR-Brille Bigscreen Beyond. Im Hintergrund eine Werkstatt."
+    },
+    {
       "title": "Google will ChromeOS und Android zusammenlegen",
       "url": "https://www.heise.de/news/Manager-verraet-Google-will-ChromeOS-und-Android-zusammenlegen-10486457.html",
       "image_title": "Handy mit Android-Schriftzug liegt auf Laptop-Tastatur"
-    },
-    {
-      "title": "Chrome für Android: Adressleiste lässt sich nach unten verschieben",
-      "url": "https://www.heise.de/news/Chrome-fuer-Android-Adressleiste-laesst-sich-nach-unten-verschieben-10487544.html",
-      "image_title": "Stilisierte Darstellung des Chrome-Browsers"
     },
     {
       "title": "Umgang mit Conni-Memes im Internet: Zweite Klarstellung des Carlsen-Verlags",
@@ -614,21 +612,20 @@
       "url": "https://www.heise.de/en/news/Liquid-Glass-Has-Apple-rolled-back-the-glassiness-too-quickly-10487003.html"
     },
     {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Kleine KI-Modelle für PC & Notebook",
-      "teaser": "KI boomt bisher in der Cloud – Datenschutz adé. Aber es kommen immer mehr kleine, lokale Modelle – was taugen die? Folge 2025/15 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Kleine-KI-Modelle-fuer-PC-Notebook-10464743.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
       "title": "Alles Muzak? Wie KI-Generatoren die Musikindustrie umkrempeln",
       "teaser": "KI-Generatoren wie Suno erzeugen Songs ohne Komponisten und Künstler. Musiker stehen vor der Frage: Was bleibt, wenn Maschinen ihre Songs produzieren?",
       "url": "https://www.heise.de/hintergrund/Alles-Muzak-Wie-KI-Generatoren-die-Musikindustrie-umkrempeln-10459858.html"
     },
     {
-      "title": "Bit-Rauschen: Intels übernächste Desktop-CPU soll ein Kracher werden",
-      "teaser": "Intel will 2026 mit vielen starken CPU-Kernen für Desktop-PCs punkten. Für Server planen AMD und Intel neue Prozessoren mit PCI Express 6.0.",
-      "url": "https://www.heise.de/news/Bit-Rauschen-Intels-uebernaechste-Desktop-CPU-soll-ein-Kracher-werden-10368244.html",
-      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+      "title": "Festplattentechnik: Wie die Hersteller immer mehr Bits in die Gehäuse quetschen",
+      "teaser": "Moderne Festplatten nutzen verschiedene Methoden, um immer kleinere Bits sicher zu speichern. Ein Überblick über aktuelle und kommende Techniken.",
+      "url": "https://www.heise.de/hintergrund/Festplattentechnik-Wie-die-Hersteller-immer-mehr-Bits-in-die-Gehaeuse-quetschen-10461808.html"
+    },
+    {
+      "title": "Bit-Rauschen, der Prozessor-Podcast: Kleine KI-Modelle für PC & Notebook",
+      "teaser": "KI boomt bisher in der Cloud – Datenschutz adé. Aber es kommen immer mehr kleine, lokale Modelle – was taugen die? Folge 2025/15 des Podcasts Bit-Rauschen.",
+      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Kleine-KI-Modelle-fuer-PC-Notebook-10464743.html",
+      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
     },
     {
       "title": "Mehl statt Laptop: Paketdienst zu Schadenersatz verurteilt",
@@ -713,16 +710,16 @@
       "image_title": "Kia XCeed 2026"
     },
     {
-      "title": "Sorgsam konstruiert, nachlässig eingerichtetElektroauto Kia EV3 im Test",
-      "teaser": "Das kleinste E-SUV von Kia fährt flott und komfortabel, lädt schneller als vermutet und ist fair eingepreist. Nur der Innenraum ist etwas arg schlicht geraten.",
-      "url": "https://www.heise.de/tests/Kia-EV3-im-Test-Sorgsam-konstruiert-nachlaessig-eingerichtet-10483319.html",
-      "image_title": "Kia EV3"
-    },
-    {
       "title": "Gewerkschaft und Management einigen sichSparkurs bei Ford nimmt Gestalt an",
       "teaser": "Ford Deutschland schrumpft, Arbeitsplätze fallen weg. Die Gewerkschaft hat sich nun mit der Geschäftsführung geeinigt, wer welche Kompromisse machen muss.",
       "url": "https://www.heise.de/news/Sparkurs-bei-Ford-Gewerkschaft-und-Management-einigen-sich-10484240.html",
       "image_title": "Ford Capri"
+    },
+    {
+      "title": "Gemeinsames Werk wird geschlossenVolkswagen und Saic beenden Produktion in China",
+      "teaser": "Saic und Volkswagen beenden die gemeinsame Produktion in Nanjing. Das Werk im Stadtzentrum ließe sich weder erweitern noch auf E-Mobilität umrüsten.",
+      "url": "https://www.heise.de/news/Volkswagen-und-Saic-Gemeinsames-Werk-wird-geschlossen-10484250.html",
+      "image_title": "US-Passat 2011"
     },
     {
       "title": "Steuerklärung abschaffen? So realistisch ist die Forderung wirklich",
@@ -760,26 +757,26 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Medizinischer Albtraum: Typhus-Bakterien werden unbesiegbar",
-      "teaser": "Typhus galt als besiegte Krankheit. Doch der Erreger entwickelt sich zum Superkeim, der Antibiotika trotzt. In Asien gibt es nun eine beunruhigende Entdeckung.",
-      "url": "https://www.heise.de/tp/features/Medizinischer-Albtraum-Typhus-Bakterien-werden-unbesiegbar-10488457.html"
+      "title": "Abtreibung bis zur Geburt? Brosius-Gersdorf weist Vorwürfe zurück – Papier gibt ihr Recht",
+      "teaser": "Die Juristin Brosius-Gersdorf wehrt sich gegen Vorwürfe. Medien unterstellen ihr, sie fordere Abtreibungen bis zur Geburt. Ein Blick in ein Thesenpapier schafft Aufklärung.",
+      "url": "https://www.heise.de/tp/features/Abtreibung-bis-zur-Geburt-Brosius-Gersdorf-weist-Vorwuerfe-zurueck-Papier-gibt-ihr-Recht-10487905.html"
     },
     {
-      "title": "Müllbranche warnt vor Batterie-Chaos im Restmüll",
-      "teaser": "Brandgefahr durch falsch entsorgte Batterien: Müllbranche schlägt Alarm und fordert Pfandsystem für Lithium-Akkus.",
-      "url": "https://www.heise.de/tp/features/Muellbranche-warnt-vor-Batterie-Chaos-im-Restmuell-10487010.html",
-      "image_title": "Wegwerfen von gebrauchten Batterien in Mülleimer"
+      "title": "Trumps 50-Tage-Ultimatum: Ein Schuss ins eigene Knie?",
+      "teaser": "Donald Trump setzt Russland eine Frist von 50 Tagen für eine Waffenruhe in der Ukraine. Doch der Plan könnte nach hinten losgehen. Ein Gastbeitrag",
+      "url": "https://www.heise.de/tp/features/Trumps-50-Tage-Ultimatum-Ein-Schuss-ins-eigene-Knie-10487971.html",
+      "image_title": "trump und Putin"
     },
     {
-      "title": "Freibad-Übergriffe: Versagen Medien bei der Wahrheit?",
-      "teaser": "Freibad-Skandal zeigt Probleme im Journalismus auf: Zitate aus dem Kontext gerissen, Nationalitäten genannt. Medien heizen Debatte an, statt aufzuklären.",
-      "url": "https://www.heise.de/tp/features/Freibad-Uebergriffe-Versagen-Medien-bei-der-Wahrheit-10485978.html",
-      "image_title": "Mann im Freibad mit erhitztem Kopf und angepinnter Syrienflagge"
+      "title": "Bringt Donald Trump uns den Atomkrieg?",
+      "teaser": "Laut Financial Times soll Trump Selenskyj zu Angriffen auf russische Städte ermutigt haben. Moskau reagiert alarmiert. Droht eine nukleare Eskalation in Europa?",
+      "url": "https://www.heise.de/tp/features/Bringt-Donald-Trump-uns-den-Atomkrieg-10488085.html",
+      "image_title": "US-Präsident Donald Trump lächelt im Weißen Haus."
     },
     {
-      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "Hostinger VPS im Test: Leistungsstarke virtuelle Server zum fairen Preis",
+      "teaser": "Virtuelle Private Server (VPS) sind flott, leicht zu bedienen – und doch oft nichts für Einsteiger. Kann Hostinger die Einstiegshürden senken?",
+      "url": "https://www.heise.de/download/specials/Hostinger-VPS-im-Test-Leistungsstarke-virtuelle-Server-zum-fairen-Preis-10395019"
     },
     {
       "title": "Desinfec't",
