@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-21T16:12:36",
+  "timestamp": "2025-07-21T17:12:35",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Chipfertiger Rapidus zeigt seinen ersten 2-Nanometer-Wafer",
+      "url": "https://www.heise.de/news/Chipfertiger-Rapidus-zeigt-seinen-ersten-2-Nanometer-Wafer-10495353.html"
+    },
     {
       "title": "Exploit für CrushFTP: Ältere Versionen können Admin-Zugriff gewähren",
       "url": "https://www.heise.de/news/CrushFTP-Aeltere-Versionen-koennen-unbefugten-Admin-Zugriff-gewaehren-10495005.html"
@@ -60,10 +64,6 @@
     {
       "title": "Klinikkonzern nach Hackerangriff: Möglicherweise Patientendaten entwendet",
       "url": "https://www.heise.de/news/Hacker-Angriff-auf-Kliniken-Moeglicherweise-Patientendaten-betroffen-10495015.html"
-    },
-    {
-      "title": "KI-Update kompakt: ChatGPT Agent, Meta vs. AI Act, Mathe-Olympiade, MLX",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-ChatGPT-Agent-Meta-vs-AI-Act-Mathe-Olympiade-MLX-10494349.html"
     },
     {
       "title": "AlertAnfangs keine Gegenwehr möglichErste Patches für kritische Sharepoint-Lücke \"ToolShell\" sind da",
@@ -187,19 +187,25 @@
       "url": "https://www.heise.de/news/Bundesgerichtshof-Parship-Abo-muss-nicht-jederzeit-kuendbar-sein-10493713.html"
     },
     {
+      "title": "Chipfertiger Rapidus zeigt seinen ersten 2-Nanometer-Wafer",
+      "teaser": "Knapp drei Jahre nach der Gründung belichtet Rapidus die ersten Wafer mit 2-Nanometer-Strukturen. Die Serienproduktion soll 2027 folgen.",
+      "url": "https://www.heise.de/news/Chipfertiger-Rapidus-zeigt-seinen-ersten-2-Nanometer-Wafer-10495353.html",
+      "image_title": "Bunter Silizium-Wafer auf grauem Untergrund"
+    },
+    {
       "title": "AlertExploit für CrushFTP: Ältere Versionen können Admin-Zugriff gewähren",
       "teaser": "Ein frischer Exploit zielt auf eine kritische Lücke in älteren Versionen der Datentransfer-Software CrushFTP. Seit Anfang Juli gibt es abgesicherte Ausgaben.",
       "url": "https://www.heise.de/news/CrushFTP-Aeltere-Versionen-koennen-unbefugten-Admin-Zugriff-gewaehren-10495005.html"
     },
     {
-      "title": "Interview: Diese Risiken birgt der Einsatz von Rasterfahndungsoftware",
-      "teaser": "Deutsche Polizeien wünschen sich Rasterfahndungssoftware oder nutzen sie schon. Wie riskant das ist, erklärt Surveillance-Experte Arthur Holland Michel.",
-      "url": "https://www.heise.de/hintergrund/Interview-Diese-Risiken-birgt-der-Einsatz-von-Rasterfahndungsoftware-10473992.html"
-    },
-    {
       "title": "So lassen sich moderne Ransomware-Attacken abwehren",
       "teaser": "In dieser Webcast-Aufzeichnung erfahren Sie, wie Angreifer bei aktuellen Ransomware-Angriffen vorgehen und wie Sie Ihr Unternehmen vor derartigen Attacken schützen können.",
       "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/moderne-ransomware-abwehren-so-schuetzen-sie-ihre-unternehmensdaten-effektiv-4943/?source=hbsad_ersatz"
+    },
+    {
+      "title": "Interview: Diese Risiken birgt der Einsatz von Rasterfahndungsoftware",
+      "teaser": "Deutsche Polizeien wünschen sich Rasterfahndungssoftware oder nutzen sie schon. Wie riskant das ist, erklärt Surveillance-Experte Arthur Holland Michel.",
+      "url": "https://www.heise.de/hintergrund/Interview-Diese-Risiken-birgt-der-Einsatz-von-Rasterfahndungsoftware-10473992.html"
     },
     {
       "title": "Microsoft: Techniker aus China betreuten Cloud des US-Verteidigungsministeriums",
@@ -227,12 +233,6 @@
       "teaser": "Nach ersten Zahlen wird der Konzern von Peugeot, Fiat, Chrysler und Opel Mitte 2025 statt eines Plus von 5,6 einen Verlust von 2,3 Milliarden Euro realisieren.",
       "url": "https://www.heise.de/news/Stellantis-macht-Milliardenverlust-im-ersten-Halbjahr-2025-10494841.html",
       "image_title": "Citroën ë-C3 Aircross"
-    },
-    {
-      "title": "Klinikkonzern nach Hackerangriff: Möglicherweise Patientendaten entwendet",
-      "teaser": "Nach einem Hacker-Angriff auf den Schweizer Klinikkonzern Ameos schließt das Unternehmen nicht aus, dass Patientendaten abhandengekommen sind.",
-      "url": "https://www.heise.de/news/Hacker-Angriff-auf-Kliniken-Moeglicherweise-Patientendaten-betroffen-10495015.html",
-      "image_title": "Die Zufahrt zum Ameos-Klinikum in Goslar, im Hintergrund das historische Klinikgebäude."
     },
     {
       "title": "Mehr Platz, schnellerer RechnerMac-Speicher clever freiräumen",
@@ -288,8 +288,8 @@
       "url": "https://www.heise.de/news/Influencer-sollen-300-Millionen-Euro-hinterzogen-haben-10487070.html"
     },
     {
-      "title": "20 Jahre unbemerkt: Programmierfehler sorgt für fehlende Lehrer",
-      "url": "https://www.heise.de/news/20-Jahre-unbemerkt-1440-Lehrerstellen-nur-virtuell-besetzt-10491072.html"
+      "title": "EU-Vorschlag: Kein Verbrenner mehr in neuen Firmen- und Mietwagen",
+      "url": "https://www.heise.de/news/EU-Vorschlag-Kein-Verbrenner-mehr-in-neuen-Firmen-und-Mietwagen-10493983.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -302,6 +302,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Klinikkonzern nach Hackerangriff: Möglicherweise Patientendaten entwendet",
+      "teaser": "Nach einem Hacker-Angriff auf den Schweizer Klinikkonzern Ameos schließt das Unternehmen nicht aus, dass Patientendaten abhandengekommen sind.",
+      "url": "https://www.heise.de/news/Hacker-Angriff-auf-Kliniken-Moeglicherweise-Patientendaten-betroffen-10495015.html",
+      "image_title": "Die Zufahrt zum Ameos-Klinikum in Goslar, im Hintergrund das historische Klinikgebäude."
     },
     {
       "title": "KI-Update kompakt: ChatGPT Agent, Meta vs. AI Act, Mathe-Olympiade, MLX",
@@ -371,15 +377,15 @@
       "image_title": "Zahlreiche Wassertropfen"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "Harley-Davidson-Elektromarke LiveWire stellt kompaktes E-Leichtkraftrad vor",
       "teaser": "Ein minimalistisches Leichtkraftrad mit Elektroantrieb in der Dimension einer Honda Monkey lanciert Harley-Davidsons Elektrosparte LiveWire. Export: ungewiss.",
       "url": "https://www.heise.de/news/Harley-Davidson-Elektromarke-LiveWire-stellt-kompaktes-E-Leichtkraftrad-vor-10494108.html",
       "image_title": "Livewire"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "CO₂-Emissionen von Containerschiffen sind gestiegen",
@@ -430,12 +436,6 @@
       "teaser": "Die Anzahl der Beschwerden über die Deutsche Post/DHL fällt im ersten Halbjahr höher aus als im Vorjahr. Erneut versucht die Post zu beschwichtigen.",
       "url": "https://www.heise.de/news/Deutsche-Post-Beschwerden-erreichen-neuen-Hoechststand-10493961.html",
       "image_title": "Briefkasten der Deutschen Post an Häuserwand"
-    },
-    {
-      "title": "Mut zahlt sich aus: Click Boom Flash # 42 \"Werbefotografie\"",
-      "teaser": "\"Es wird nie ein Lebenslauf empfohlen, sondern immer die Person\", sagt Daniel Gossmann über seine Erfahrungen in der Werbebranche.",
-      "url": "https://www.heise.de/news/Mut-zahlt-sich-aus-Click-Boom-Flash-42-Werbefotografie-10486161.html",
-      "image_title": "Model vor Skyline"
     },
     {
       "title": "AlertUpdateMicrosoft: Angriffe auf neue Sharepoint-Lücke – bislang kein Patch verfügbar",
@@ -604,9 +604,9 @@
       "url": "https://www.heise.de/en/news/ESA-develops-hydrogen-hypersonic-aircraft-with-Mach-5-10492521.html"
     },
     {
-      "title": "Drei Tintentank-Multifunktionsdrucker für Büro und Homeoffice im Test",
-      "teaser": "Tintentankmodelle sind begehrt, denn günstiger druckt kein Patronengerät. Wir testeten zwei Büro-Multifunktionsdrucker gegen Brothers T-Modell mit Tintentanks.",
-      "url": "https://www.heise.de/tests/Drei-Tintentank-Multifunktionsdrucker-fuer-Buero-und-Homeoffice-im-Test-10440583.html"
+      "title": "Dachflächen für Balkonkraftwerke nutzen",
+      "teaser": "Auch ohne Balkon oder ohne Lust, darauf Solarmodule anzubringen, besteht eine Chance auf ein Balkonkraftwerk, beispielsweise auf einem ungenutzten Flachdach.",
+      "url": "https://www.heise.de/ratgeber/Dachflaechen-fuer-Balkonkraftwerke-nutzen-10443197.html"
     },
     {
       "title": "Stromkosten senken mit Balkonkraftwerken: Was Sie jetzt wissen müssen",
@@ -614,9 +614,9 @@
       "url": "https://www.heise.de/ratgeber/Stromkosten-senken-mit-Balkonkraftwerken-Was-Sie-jetzt-wissen-muessen-10443169.html"
     },
     {
-      "title": "c't-Webinar: Die Necromancer-Challenge – spielerisch hacken lernen",
-      "teaser": "Tauchen Sie ein in die Welt des Hackings: Im c't-Webinar lernen Sie, wie man in einer digitalen Hacking-Schnitzeljagd den finsteren Necromancer besiegt.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Die-Necromancer-Challenge-spielerisch-hacken-lernen-10480120.html"
+      "title": "Solartisch selbst gebaut: PV-Anlage auf der Terrasse",
+      "teaser": "Nicht überall ist Platz für ein klassisches Balkonkraftwerk. Mit ein wenig Geschick lässt sich ein Solarpanel aber auch als Tischplatte nutzen.",
+      "url": "https://www.heise.de/ratgeber/Solartisch-selbst-gebaut-PV-Anlage-auf-der-Terrasse-10443209.html"
     },
     {
       "title": "Withings BeamO im Test: Auf Herz und Lunge hören",
@@ -659,21 +659,22 @@
       "url": "https://www.heise.de/ratgeber/Auf-Fototour-in-Transsilvanien-Mythen-und-Bilderbuchlandschaften-vor-der-Kamera-10489066.html"
     },
     {
+      "title": "Mut zahlt sich aus: Click Boom Flash # 42 \"Werbefotografie\"",
+      "teaser": "\"Es wird nie ein Lebenslauf empfohlen, sondern immer die Person\", sagt Daniel Gossmann über seine Erfahrungen in der Werbebranche.",
+      "url": "https://www.heise.de/news/Mut-zahlt-sich-aus-Click-Boom-Flash-42-Werbefotografie-10486161.html",
+      "image_title": "Model vor Skyline"
+    },
+    {
       "title": "Lichtspiele und Bickwinkel: Die Bilder der Woche 29",
       "teaser": "In dieser Woche verdichten sich die Bilder unserer Galeriefotografen durch Licht, Timing und Perspektive zu kleinen Meisterwerken des Alltags.",
       "url": "https://www.heise.de/news/Lichtspiele-und-Bickwinkel-Die-Bilder-der-Woche-29-10489571.html",
       "image_title": "zwei Fliegen in Nahaufnahme"
     },
     {
-      "title": "Profifotografen über die Schulter geschaut: So entstehen Foodfotos",
-      "teaser": "Zu Gast beim Foodfotografen Mathias Neubauer: Er erzählt, wie er ins Metier gekommen ist, das Licht setzt und mit dem Styling umgeht. Ein Einblick.",
-      "url": "https://www.heise.de/hintergrund/Profifotografen-ueber-die-Schulter-geschaut-So-entstehen-Foodfotos-10485602.html",
-      "image_title": ", Alle Reportagebilder: Tilo Gockel; alle Produktbilder: Mathias Neubauer"
-    },
-    {
-      "title": "Teure Edelkompaktkamera neu aufgelegt: Sony RX1R III mit 61 Megapixeln",
-      "teaser": "Sony präsentiert die RX1R III. Die neue Generation der Kompaktkamera bietet nun 61 Megapixel, KI-unterstützten Autofokus und einen stolzen Preis.",
-      "url": "https://www.heise.de/news/Teure-Edelkompaktkamera-neu-aufgelegt-Sony-RX1R-III-mit-61-Megapixeln-10489320.html"
+      "title": "Fotografie mit Smartphone und Kamera: Beide Systeme optimal einsetzen",
+      "teaser": "Smartphone oder Kamera? Wir zeigen, wie sich beide Systeme ideal ergänzen und wie sie je nach fotografischem Stil und Ziel optimal eingesetzt werden.",
+      "url": "https://www.heise.de/ratgeber/Fotografie-mit-Smartphone-und-Kamera-Beide-Systeme-optimal-einsetzen-10487735.html",
+      "image_title": ", AdobeStock/Bine"
     },
     {
       "title": "RatgeberWas der Einsatz von großen Sprachmodellen in Firmen kostet",
@@ -749,27 +750,26 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Leitfaden zur Umerziehung: Wie Die Linke den Rechtsstaat aushebelt",
-      "teaser": "Ein Parteileitfaden will Sexismus bekämpfen – und schafft heimlich ein System, das Grundrechte und die Unschuldsvermutung aushebelt.",
-      "url": "https://www.heise.de/tp/features/Leitfaden-zur-Umerziehung-Wie-Die-Linke-den-Rechtsstaat-aushebelt-10493408.html",
-      "image_title": "Wort \"woke\" auf weißen Papier vor blauem Hintergrund"
+      "title": "Israels Armee beginnt mit Offensive auf Deir al-Balah",
+      "teaser": "Generalstabschef Zamir plant Eroberung des gesamten Gazastreifens. UN warnen vor \"verheerenden Folgen\" für Zivilbevölkerung. Neue Zwangsvertreibungen drohen.",
+      "url": "https://www.heise.de/tp/features/Israels-Armee-beginnt-mit-Offensive-auf-Deir-al-Balah-10494338.html",
+      "image_title": "Gaza-Streifen"
     },
     {
-      "title": "Tattoo-Trouble: Kein Lohn bei selbstverschuldeter Krankheit",
-      "teaser": "Ein Tattoo sollte es sein – doch es kam anders. Die Mitarbeiterin eines Pflegedienstes erlitt eine Entzündung. Was dann folgte, könnte alle Arbeitnehmer betreffen.",
-      "url": "https://www.heise.de/tp/features/Tattoo-Trouble-Kein-Lohn-bei-selbstverschuldeter-Krankheit-10493912.html",
-      "image_title": "In einem Tatto-Studie wird ein Tattoo gestochen."
+      "title": "Chinas Weltraum-Tankstelle: Erfolg in 35.000 km Höhe",
+      "teaser": "Mit einem ehrgeizigen Test eröffnet Peking neue und bisher unerreichte Möglichkeiten bei der autonomen Satellitenwartung. Und wie reagieren die USA?",
+      "url": "https://www.heise.de/tp/features/Chinas-Weltraum-Tankstelle-Erfolg-in-35-000-km-Hoehe-10493872.html",
+      "image_title": "Zwei Satelliten in synchroner Umlaufbahn, wovon einer über eine Art Greifarm verfügt"
     },
     {
-      "title": "Pflichtdienst für Senioren: Wenn Experten am Leben vorbeidenken",
-      "teaser": "Forderungen nach Pflichtdienst für Ältere missachten deren lebenslange Beiträge für die Gesellschaft durch Steuern, Kindererziehung und Engagement.",
-      "url": "https://www.heise.de/tp/features/Pflichtdienst-fuer-Senioren-Wenn-Experten-am-Leben-vorbeidenken-10495136.html",
-      "image_title": "fröhlicher Seniorenbürger ist bereit, in der Werkstatt zu arbeiten."
+      "title": "Russlandpopanz statt Realismus: Westen verbaut sich Friedenschancen​",
+      "teaser": "Der Westen zeichnet ein verzerrtes Bild von Russland. Dies erschwert Verhandlungen zur Beendigung des Ukraine-Kriegs. Ein deutscher Ex-Diplomat erheben schwere Vorwürfe.​",
+      "url": "https://www.heise.de/tp/features/Russlandpopanz-statt-Realismus-Westen-verbaut-sich-Friedenschancen-10494502.html"
     },
     {
-      "title": "WordPress-Hosting: Anbieter im Vergleich",
-      "teaser": "WordPress ist heutzutage das wichtigste Content-Management-System im Internet. Wir nennen die Stärken, Schwächen und Besonderheiten einiger WordPress-Hoster.",
-      "url": "https://www.heise.de/download/specials/WordPress-Hosting-Anbieter-im-Vergleich-10458509"
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Desinfec't",
