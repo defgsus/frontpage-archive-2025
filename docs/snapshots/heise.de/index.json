@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-22T04:30:38",
+  "timestamp": "2025-07-22T05:16:28",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Schwere Sharepoint-Lücke: Schon am Wochenende 100 Organisationen kompomittiert",
+      "url": "https://www.heise.de/news/Schwere-Sharepoint-Luecke-Schon-am-Wochenende-100-Organisationen-kompomittiert-10495463.html"
+    },
     {
       "title": "Dienstag: Strommasten können Netzausbau beschleunigen, Tech-Konzerne wehren sich",
       "url": "https://www.heise.de/news/Dienstag-Strommasten-koennen-Netzausbau-beschleunigen-Tech-Konzerne-wehren-sich-10495435.html"
@@ -60,10 +64,6 @@
     {
       "title": "Interview: Diese Risiken birgt der Einsatz von Rasterfahndungsoftware",
       "url": "https://www.heise.de/hintergrund/Interview-Diese-Risiken-birgt-der-Einsatz-von-Rasterfahndungsoftware-10473992.html"
-    },
-    {
-      "title": "Microsoft: Techniker aus China betreuten Cloud des US-Verteidigungsministeriums",
-      "url": "https://www.heise.de/news/Microsoft-Techniker-aus-China-betreuten-Cloud-des-US-Verteidigungsministeriums-10494416.html"
     },
     {
       "title": "ChipfertigerRapidus zeigt seinen ersten 2-Nanometer-Wafer",
@@ -186,21 +186,27 @@
       "url": "https://www.heise.de/news/Bundesgerichtshof-Parship-Abo-muss-nicht-jederzeit-kuendbar-sein-10493713.html"
     },
     {
+      "title": "Schwere Sharepoint-Lücke: Schon am Wochenende 100 Organisationen kompomittiert",
+      "teaser": "Die Beseitigung der schweren Sharepoint-Sicherheitslücke ist im Gange und derweil wird analysiert, wer sie ausgenutzt hat. Die Zahl der Opfer steigt.",
+      "url": "https://www.heise.de/news/Schwere-Sharepoint-Luecke-Schon-am-Wochenende-100-Organisationen-kompomittiert-10495463.html",
+      "image_title": "Microsoft-Logo vor mehreren Glasfassaden"
+    },
+    {
       "title": "Dienstag: Strommasten können Netzausbau beschleunigen, Tech-Konzerne wehren sich",
       "teaser": "Studie zum Netzausbau + Social-Media-Konzerne gegen Steuerforderung + Techniker aus China im Pentagon + Microsofts Souveränitäts-Debakel + Zweifel an Starlink",
       "url": "https://www.heise.de/news/Dienstag-Strommasten-koennen-Netzausbau-beschleunigen-Tech-Konzerne-wehren-sich-10495435.html",
       "image_title": "Strommast von unten gesehen, dazu Text: DIENSTAG Netzausbau, Mehrwertsteuerstreit, US-Verteidigungsministerium, Microsoft & Starlink"
     },
     {
+      "title": "So lassen sich moderne Ransomware-Attacken abwehren",
+      "teaser": "In dieser Webcast-Aufzeichnung erfahren Sie, wie Angreifer bei aktuellen Ransomware-Angriffen vorgehen und wie Sie Ihr Unternehmen vor derartigen Attacken schützen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/moderne-ransomware-abwehren-so-schuetzen-sie-ihre-unternehmensdaten-effektiv-4943/?source=hbsad_ersatz"
+    },
+    {
       "title": "Gorilla Glass schwört Marktmanipulation ab",
       "teaser": "Corning, Hersteller von Gorilla Glass, wird seine Verträge 9 Jahre lang anders fassen. Das ist ein Erfolg für die Wettbewerbsaufsicht der EU-Kommission.",
       "url": "https://www.heise.de/news/Gorilla-Glass-schwoert-Marktmanipulation-ab-10495451.html",
       "image_title": "Das Berlaymont Gebäude in Brüssel, davor zwei wehende EU-Fahnen"
-    },
-    {
-      "title": "So lassen sich moderne Ransomware-Attacken abwehren",
-      "teaser": "In dieser Webcast-Aufzeichnung erfahren Sie, wie Angreifer bei aktuellen Ransomware-Angriffen vorgehen und wie Sie Ihr Unternehmen vor derartigen Attacken schützen können.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/moderne-ransomware-abwehren-so-schuetzen-sie-ihre-unternehmensdaten-effektiv-4943/?source=hbsad_ersatz"
     },
     {
       "title": "X als organisierte Bande: Strafrechtliche Ermittlungen in Frankreich",
@@ -229,11 +235,6 @@
       "title": "AlertExploit für CrushFTP: Ältere Versionen können Admin-Zugriff gewähren",
       "teaser": "Ein frischer Exploit zielt auf eine kritische Lücke in älteren Versionen der Datentransfer-Software CrushFTP. Seit Anfang Juli gibt es abgesicherte Ausgaben.",
       "url": "https://www.heise.de/news/CrushFTP-Aeltere-Versionen-koennen-unbefugten-Admin-Zugriff-gewaehren-10495005.html"
-    },
-    {
-      "title": "Interview: Diese Risiken birgt der Einsatz von Rasterfahndungsoftware",
-      "teaser": "Deutsche Polizeien wünschen sich Rasterfahndungssoftware oder nutzen sie schon. Wie riskant das ist, erklärt Surveillance-Experte Arthur Holland Michel.",
-      "url": "https://www.heise.de/hintergrund/Interview-Diese-Risiken-birgt-der-Einsatz-von-Rasterfahndungsoftware-10473992.html"
     },
     {
       "title": "Mehr Platz, schnellerer RechnerMac-Speicher clever freiräumen",
@@ -289,8 +290,8 @@
       "url": "https://www.heise.de/news/EU-Vorschlag-Kein-Verbrenner-mehr-in-neuen-Firmen-und-Mietwagen-10493983.html"
     },
     {
-      "title": "Influencer haben womöglich 300 Millionen Euro hinterzogen",
-      "url": "https://www.heise.de/news/Influencer-sollen-300-Millionen-Euro-hinterzogen-haben-10487070.html"
+      "title": "20 Jahre unbemerkt: Programmierfehler sorgt für fehlende Lehrer",
+      "url": "https://www.heise.de/news/20-Jahre-unbemerkt-1440-Lehrerstellen-nur-virtuell-besetzt-10491072.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -303,6 +304,11 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "Interview: Diese Risiken birgt der Einsatz von Rasterfahndungsoftware",
+      "teaser": "Deutsche Polizeien wünschen sich Rasterfahndungssoftware oder nutzen sie schon. Wie riskant das ist, erklärt Surveillance-Experte Arthur Holland Michel.",
+      "url": "https://www.heise.de/hintergrund/Interview-Diese-Risiken-birgt-der-Einsatz-von-Rasterfahndungsoftware-10473992.html"
     },
     {
       "title": "Endlich ein E-Scooter mit richtig großen Reifen: Egret X Ultra im Test",
@@ -372,15 +378,15 @@
       "image_title": "Mercedes Viano 2008"
     },
     {
+      "title": "So lassen sich moderne Ransomware-Attacken abwehren",
+      "teaser": "In dieser Webcast-Aufzeichnung erfahren Sie, wie Angreifer bei aktuellen Ransomware-Angriffen vorgehen und wie Sie Ihr Unternehmen vor derartigen Attacken schützen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/moderne-ransomware-abwehren-so-schuetzen-sie-ihre-unternehmensdaten-effektiv-4943/?source=hbsad_ersatz"
+    },
+    {
       "title": "iCloud-Hintertür: Britische Regierung sucht nach Ausweg im Konflikt mit Apple",
       "teaser": "Der \"UK Investigatory Powers Act\" sollte Apple und andere Nutzer von Kryptografie dazu zwingen, London Zugang zu sensiblen Daten zu geben. Nun gibt es Bewegung.",
       "url": "https://www.heise.de/news/Schnueffelgesetz-Macht-die-britische-Regierung-im-Streit-mit-Apple-Rueckzieher-10494140.html",
       "image_title": "iCloud-Symbol vor dunkler britischer Flagge"
-    },
-    {
-      "title": "KI-Agenten im Angriff: Das neue Gesicht des Social Engineering",
-      "teaser": "Wie verändert KI die Spielregeln bei Social-Engineering-Attacken? Im Live-Webcast am 21.8.2025 erfahren Sie, welche Risiken und Abwehrmöglichkeiten die neue Technologie mit sich bringt.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/ki-agenten-im-angriff-das-neue-gesicht-des-social-engineering-4950?source=hbsad-ersatz"
     },
     {
       "title": "c't-Webinar: Die Necromancer-Challenge – spielerisch hacken lernen",
@@ -432,12 +438,6 @@
       "teaser": "Die häufigsten Fehler bei der Arbeit mit User Stories: Oliver Winter und Tim Klein helfen mit ihrer langjährigen Erfahrung, User Stories zu meistern.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Die-fuenf-groessten-Fehler-bei-der-Arbeit-mit-User-Stories-10494040.html",
       "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "Nach IT-Ausfall: Alaska Airlines setzt stundenlang Flugbetrieb aus",
-      "teaser": "In der Nacht zum Montag konnten stundenlang keine Flugzeuge der Alaska Airlines starten, Grund waren Softwareprobleme. Die wurden inzwischen wohl behoben.",
-      "url": "https://www.heise.de/news/Nach-IT-Ausfall-Alaska-Airlines-setzt-stundenlang-Flugbetrieb-aus-10494034.html",
-      "image_title": "Zwei Personen an einem Flughafenfenster, im Hintergrund ein Flugzeug"
     },
     {
       "title": "AlertUpdateMicrosoft: Angriffe auf neue Sharepoint-Lücke – bislang kein Patch verfügbar",
@@ -607,20 +607,20 @@
       "url": "https://www.heise.de/en/news/Satellite-operator-SES-merges-with-Intelsat-10493849.html"
     },
     {
+      "title": "Dachflächen für Balkonkraftwerke nutzen",
+      "teaser": "Auch ohne Balkon oder ohne Lust, darauf Solarmodule anzubringen, besteht eine Chance auf ein Balkonkraftwerk, beispielsweise auf einem ungenutzten Flachdach.",
+      "url": "https://www.heise.de/ratgeber/Dachflaechen-fuer-Balkonkraftwerke-nutzen-10443197.html"
+    },
+    {
       "title": "Solarzäune: Was Sie für den Bau wissen müssen",
       "teaser": "Wenn man schon einen Zaun besitzt oder ohnehin einen solchen bauen möchte, dann kann er auch gleich Strom produzieren und Geld einbringen.",
       "url": "https://www.heise.de/ratgeber/Solarzaeune-Was-Sie-fuer-den-Bau-wissen-muessen-10443191.html",
       "image_title": "PV-Zaun"
     },
     {
-      "title": "Dachflächen für Balkonkraftwerke nutzen",
-      "teaser": "Auch ohne Balkon oder ohne Lust, darauf Solarmodule anzubringen, besteht eine Chance auf ein Balkonkraftwerk, beispielsweise auf einem ungenutzten Flachdach.",
-      "url": "https://www.heise.de/ratgeber/Dachflaechen-fuer-Balkonkraftwerke-nutzen-10443197.html"
-    },
-    {
-      "title": "Stromkosten senken mit Balkonkraftwerken: Was Sie jetzt wissen müssen",
-      "teaser": "Balkonkraftwerke rentieren sich schneller denn je. Wir geben Tipps zur Rechtslage, Komponentenauswahl, Installation und Speichersteuerung.",
-      "url": "https://www.heise.de/ratgeber/Stromkosten-senken-mit-Balkonkraftwerken-Was-Sie-jetzt-wissen-muessen-10443169.html"
+      "title": "Drei Tintentank-Multifunktionsdrucker für Büro und Homeoffice im Test",
+      "teaser": "Tintentankmodelle sind begehrt, denn günstiger druckt kein Patronengerät. Wir testeten zwei Büro-Multifunktionsdrucker gegen Brothers T-Modell mit Tintentanks.",
+      "url": "https://www.heise.de/tests/Drei-Tintentank-Multifunktionsdrucker-fuer-Buero-und-Homeoffice-im-Test-10440583.html"
     },
     {
       "title": "Withings BeamO im Test: Auf Herz und Lunge hören",
@@ -675,10 +675,10 @@
       "image_title": "zwei Fliegen in Nahaufnahme"
     },
     {
-      "title": "Profifotografen über die Schulter geschaut: So entstehen Foodfotos",
-      "teaser": "Zu Gast beim Foodfotografen Mathias Neubauer: Er erzählt, wie er ins Metier gekommen ist, das Licht setzt und mit dem Styling umgeht. Ein Einblick.",
-      "url": "https://www.heise.de/hintergrund/Profifotografen-ueber-die-Schulter-geschaut-So-entstehen-Foodfotos-10485602.html",
-      "image_title": ", Alle Reportagebilder: Tilo Gockel; alle Produktbilder: Mathias Neubauer"
+      "title": "Fotografie mit Smartphone und Kamera: Beide Systeme optimal einsetzen",
+      "teaser": "Smartphone oder Kamera? Wir zeigen, wie sich beide Systeme ideal ergänzen und wie sie je nach fotografischem Stil und Ziel optimal eingesetzt werden.",
+      "url": "https://www.heise.de/ratgeber/Fotografie-mit-Smartphone-und-Kamera-Beide-Systeme-optimal-einsetzen-10487735.html",
+      "image_title": ", AdobeStock/Bine"
     },
     {
       "title": "RatgeberWas der Einsatz von großen Sprachmodellen in Firmen kostet",
@@ -754,22 +754,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Von Masern bis Polio: Alte Geißeln kehren zurück",
-      "teaser": "Impfmüdigkeit und Desinformation lassen einst besiegt geglaubte Krankheiten wie Masern und Polio wieder aufflackern. Die WHO schlägt Alarm.",
-      "url": "https://www.heise.de/tp/features/Von-Masern-bis-Polio-Alte-Geisseln-kehren-zurueck-10491058.html",
-      "image_title": "Zelegte Spritze au Impfheft, daneben Viren"
+      "title": "Chinas Weltraum-Tankstelle: Erfolg in 35.000 km Höhe",
+      "teaser": "Mit einem ehrgeizigen Test eröffnet Peking neue und bisher unerreichte Möglichkeiten bei der autonomen Satellitenwartung. Und wie reagieren die USA?",
+      "url": "https://www.heise.de/tp/features/Chinas-Weltraum-Tankstelle-Erfolg-in-35-000-km-Hoehe-10493872.html",
+      "image_title": "Zwei Satelliten in synchroner Umlaufbahn, wovon einer über eine Art Greifarm verfügt"
     },
     {
-      "title": "Ausdauer-Experiment: Was passiert, wenn Hobbysportler die Tour de France fahren?",
-      "teaser": "Ein Amateur wagte das Experiment, die komplette Strecke der Tour de France zu fahren. Was er dabei über die Grenzen des menschlichen Körpers lernte. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Ausdauer-Experiment-Was-passiert-wenn-Hobbysportler-die-Tour-de-France-fahren-10487640.html",
-      "image_title": "Radfahrer als Gruppe"
+      "title": "Spektakulärer Fund: Archäologen entdecken Grab des ersten Maya-Königs von Caracol",
+      "teaser": "In der Mayastadt Caracol haben Forscher das Grab von König Te K'ab Chaak entdeckt. Entdeckung deutet auf überraschend frühe Kontakte zum mexikanischen Teotihuacan hin.",
+      "url": "https://www.heise.de/tp/features/Spektakulaerer-Fund-Archaeologen-entdecken-Grab-des-ersten-Maya-Koenigs-von-Caracol-10486610.html",
+      "image_title": "Ein Mayatempel im Dschungel"
     },
     {
-      "title": "Skandal um Brosius-Gersdorf: Wird das Verfassungsgericht zum politischen Spielball der Parteien",
-      "teaser": "Die Wahl dreier Verfassungsrichter wurde überraschend verschoben. Medien sprechen von einer Regierungskrise. Doch wer zieht im Hintergrund wirklich die Fäden?",
-      "url": "https://www.heise.de/tp/features/Skandal-um-Brosius-Gersdorf-Wird-das-Verfassungsgericht-zum-politischen-Spielball-der-Parteien-10494068.html",
-      "image_title": "Rot und Schwarz halten zerissenen Wahlzettel. Hintergrund: Verfassungsgericht"
+      "title": "Handelskrieg droht: USA und EU vor Entscheidung über Zölle",
+      "teaser": "Verhandlungen in der Endphase, doch Einigung nicht in Sicht. EU bereitet bereits scharfe Vergeltungsmaßnahmen vor. Kommt es zum Handelskrieg?",
+      "url": "https://www.heise.de/tp/features/Handelskrieg-droht-USA-und-EU-vor-Entscheidung-ueber-Zoelle-10494429.html",
+      "image_title": "EU und US-Flaggen-Container"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
