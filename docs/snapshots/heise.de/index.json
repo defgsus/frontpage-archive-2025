@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-23T14:12:59",
+  "timestamp": "2025-07-23T15:12:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bargeldlose Festivals: Verbraucherschützer mahnen Veranstalter ab",
+      "url": "https://www.heise.de/news/Bezahlchips-Verbraucherzentrale-mahnt-Festivalveranstalter-ab-und-klagt-10497561.html"
+    },
     {
       "title": "Mini-PC mit Ryzen 7 ab 290 Euro im Test: Nipogi AM06 Pro ist gut reparierbar",
       "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-mit-ryzen-7-ab-290-euro-im-test-nipogi-am06-pro-ist-gut-reparierbar/9zrjke4"
@@ -60,10 +64,6 @@
     {
       "title": "In habitabler Zone: Fünfter Exoplanet im spannenden Sternsystem L 98-59 entdeckt",
       "url": "https://www.heise.de/news/Hinweise-auf-mehr-Fuenfter-Exoplanet-im-spannenden-Sternsystem-L-98-59-entdeckt-10497230.html"
-    },
-    {
-      "title": "Framework im Test: Vom Desktop zur Web-App mit Wisej.NET",
-      "url": "https://www.heise.de/tests/Framework-im-Test-Vom-Desktop-zur-Web-App-mit-Wisej-NET-10376535.html"
     },
     {
       "title": "Fürs Militär? Größtes Bodeneffektfahrzeug seit Sowjetzeiten in China entdeckt",
@@ -184,20 +184,26 @@
       "url": "https://www.heise.de/hintergrund/Angriffe-auf-Microsoft-Sharepoint-Das-muessen-Admins-nach-dem-Patchen-tun-10496148.html"
     },
     {
+      "title": "Bargeldlose Festivals: Verbraucherschützer mahnen Veranstalter ab",
+      "teaser": "Viele Festivals sind bargeldlos: Besucher können nur mit Chip zahlen, den sie aufladen müssen. Das generiert Zusatzkosten, Restguthaben werden oft einbehalten.",
+      "url": "https://www.heise.de/news/Bezahlchips-Verbraucherzentrale-mahnt-Festivalveranstalter-ab-und-klagt-10497561.html",
+      "image_title": "Person filmt Festivalbühne"
+    },
+    {
       "title": "Mini-PC mit Ryzen 7 ab 290 Euro im Test: Nipogi AM06 Pro ist gut reparierbar",
       "teaser": "AMD Ryzen 7 ab 290 Euro: Der AM06 Pro ist für seine Hardware schon verdammt günstig. Ob dabei am falschen Eck gespart wurde, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-mit-ryzen-7-ab-290-euro-im-test-nipogi-am06-pro-ist-gut-reparierbar/9zrjke4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Konkrete Ansätze für mehr digitale Souveränität",
+      "teaser": "Digitale Souveränität sollte derzeit höchste Priorität genießen. Doch oft wird sie nicht ganzheitlich gedacht und falsch eingeschätzt. Hilfreich ist deshalb ein Souveränitätscheck für IT-Entscheider.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7029451633&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Northvolt-Pleite: Kieler Landtag bestellt Sonderbericht des Rechnungshofs",
       "teaser": "Hat die Landesregierung den Landtag umfassend genug über die Northvolt-Förderung informiert? Diese Frage ist nun ein Fall für den Landesrechnungshof.",
       "url": "https://www.heise.de/news/Northvolt-Pleite-Rechnungshof-soll-Foerderung-unter-die-Lupe-nehmen-10497524.html",
       "image_title": "Schleswig-Holsteins Wirtschaftsminister Claus Ruhe Madsen"
-    },
-    {
-      "title": "Konkrete Ansätze für mehr digitale Souveränität",
-      "teaser": "Digitale Souveränität sollte derzeit höchste Priorität genießen. Doch oft wird sie nicht ganzheitlich gedacht und falsch eingeschätzt. Hilfreich ist deshalb ein Souveränitätscheck für IT-Entscheider.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7029451633&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "KI-Update: Deepl Voice, Gemini 2.5, Bau neuer KI-Zentren, Veo 3, Anthropic",
@@ -226,12 +232,6 @@
       "title": "AlertChrome, Firefox & Thunderbird: Neue Versionen beheben Schwachstellen",
       "teaser": "Frische Browser- und Mailclient-Releases von Google und Mozilla beseitigen Lücken mit teils hohem Schweregrad.",
       "url": "https://www.heise.de/news/Chrome-Firefox-Thunderbird-Neue-Versionen-beheben-Schwachstellen-10497296.html"
-    },
-    {
-      "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
-      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
-      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-10490042.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "Mehr Platz, schnellerer RechnerMac-Speicher clever freiräumen",
@@ -302,6 +302,12 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
+      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-10490042.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
       "title": "In habitabler Zone: Fünfter Exoplanet im spannenden Sternsystem L 98-59 entdeckt",
       "teaser": "Der Stern L 98-59 ist nur 35 Jahre Lichtjahre entfernt, gefunden wurden dort schon mehrere interessante Exoplaneten. Nun kommt ein besonders erdähnlicher hinzu.",
       "url": "https://www.heise.de/news/Hinweise-auf-mehr-Fuenfter-Exoplanet-im-spannenden-Sternsystem-L-98-59-entdeckt-10497230.html",
@@ -369,15 +375,15 @@
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "programmier.bar: DDEV mit Stephan Hochdörfer",
       "teaser": "Wie sorgt das Entwicklungs-Tool DDEV dafür, dass Dev-Environments überall gleich funktionieren – selbst bei vielen Projekten und wechselnden Teams?",
       "url": "https://www.heise.de/blog/programmier-bar-DDEV-mit-Stephan-Hochdoerfer-10496815.html",
       "image_title": "programmier.bar: DDEV mit Stephan Hochdörfer"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Insolvenzverwalter: Potenzielle Investoren für Meyer Burger",
@@ -431,12 +437,6 @@
       "teaser": "Wenn man schon einen Zaun besitzt oder ohnehin einen solchen bauen möchte, dann kann er auch gleich Strom produzieren und Geld einbringen.",
       "url": "https://www.heise.de/ratgeber/Solarzaeune-Was-Sie-fuer-den-Bau-wissen-muessen-10443191.html",
       "image_title": "PV-Zaun"
-    },
-    {
-      "title": "Das Geschäft austrocknen: Großbritannien will Ransomwarezahlungen verbieten",
-      "teaser": "Staatlichen Stellen und Betreibern von kritischer Infrastruktur in Großbritannien soll es untersagt werden, Lösegeld nach Ransomwareangriffen zu bezahlen.",
-      "url": "https://www.heise.de/news/Ransomware-Grossbritannien-will-staatlichen-Stellen-Loesegeldzahlungen-verbieten-10496632.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
     },
     {
       "title": "Schwere Sharepoint-Lücke: Schon am Wochenende 100 Organisationen kompromittiert",
@@ -609,21 +609,20 @@
       "url": "https://www.heise.de/en/news/Serious-Sharepoint-gap-Already-100-organizations-compromised-over-the-weekend-10495472.html"
     },
     {
-      "title": "Fünf Top-Blow-Kühler ab 50 Millimeter Höhe bis 90 Euro im Vergleich",
-      "teaser": "Wenn kein Tower-Kühler für die CPU ins PC-Gehäuse passt, muss ein flacher Top-Blower ran. Fünf Exemplare ab 15 Euro zeigen, wie cool sie sind.",
-      "url": "https://www.heise.de/tests/Fuenf-Top-Blow-Kuehler-ab-50-Millimeter-Hoehe-bis-90-Euro-im-Vergleich-10435806.html"
-    },
-    {
-      "title": "Erfahrungsbericht: Billiger Mini-PC für den Umstieg auf Windows 11",
-      "teaser": "Für einen alten PC im Familienumfeld muss Windows-11-tauglicher Ersatz her. Wie schlägt sich ein billiger China-PC für unter 100 Euro, Windows 11 Pro inklusive?",
-      "url": "https://www.heise.de/tests/Erfahrungsbericht-Billiger-Mini-PC-fuer-den-Umstieg-auf-Windows-11-10473688.html",
-      "image_title": "Der Firebat T8 Plus, ein Mini-PC aus China, einmal von vorn und einmal von hinten fotografiert."
+      "title": "Schnelle kleine Datenzentrale: TerraMaster F4 SSD im Test",
+      "teaser": "TerraMasters Netzwerkspeicher F4 SSD soll Daten auf M.2-SSDs lagern, und zwar leise, flink und energiesparsam. Wir haben es überprüft.",
+      "url": "https://www.heise.de/tests/Schnelle-kleine-Datenzentrale-TerraMaster-F4-SSD-im-Test-10400091.html"
     },
     {
       "title": "Kommentar zu PasskeysEiner für alle – oder Microsoft gegen den Rest?",
       "teaser": "Passkeys sind sicher, doch durch Anbieterbindung eingeschränkt. Import/Export-Funktionen könnten das bald ändern, meint Jürgen Schmidt.",
       "url": "https://www.heise.de/meinung/Kommentar-zu-Passkeys-Einer-fuer-alle-oder-Microsoft-gegen-den-Rest-10493935.html",
       "image_title": ","
+    },
+    {
+      "title": "Trading-Abzocke: Wie Cyberkriminelle Anlagebetrug einfädeln",
+      "teaser": "Fake-Anlageplattformen sind im Internet allgegenwärtig und die Banden dahinter erbeuten Millionen. Wir zeigen deren Vorgehen und wie Sie sich schützen.",
+      "url": "https://www.heise.de/hintergrund/Trading-Abzocke-Wie-Cyberkriminelle-Anlagebetrug-einfaedeln-10418106.html"
     },
     {
       "title": "Withings BeamO im Test: Auf Herz und Lunge hören",
@@ -703,12 +702,6 @@
       "image_title": "Cadillac Vistiq"
     },
     {
-      "title": "Ein SUV, das weniger kostet als ein VW PoloCitroën C3 Aircross im Test",
-      "teaser": "Der Stellantis-Verbund schickt seine Marke Citroën auf die Spur von Dacia. Der C3 Aircross ist eines der billigsten SUVs auf dem Markt. Wie fährt es sich?",
-      "url": "https://www.heise.de/tests/Citroen-C3-Aircross-im-Test-Ein-SUV-das-weniger-kostet-als-ein-VW-Polo-10488325.html",
-      "image_title": "Citroën C3 Aircross"
-    },
-    {
       "title": "Mercedes-Rückruf wegen Airbag-FehlerRückruf für Mercedes-Vans mit Takata Airbags",
       "teaser": "Airbags von Takata sorgen für einen weiteren großen Rückruf. Dieses Mal trifft es rund 20 Jahre alte Mercedes-Modelle aus den Baureihen Viano und Vito.",
       "url": "https://www.heise.de/news/Mercedes-Rueckruf-Airbags-mit-Verletzungsgefahr-10494618.html",
@@ -719,6 +712,12 @@
       "teaser": "Mehrere Interessenten haben dem Insolvenzverwalter zufolge ihren Hut in den Ring geworfen, um den schwedischen Akkuhersteller zu retten.",
       "url": "https://www.heise.de/news/Mehrere-Angebote-fuer-Batteriehersteller-Northvolt-10493717.html",
       "image_title": "Northvolt Akkufabrik"
+    },
+    {
+      "title": "Neue Elektroautos von SubaruSubaru stellt E-Autos Uncharted, Solterra und E-Outback vor",
+      "teaser": "Sogar das Traditionsmodell Outback wird als Elektroauto ein umgelabeltes Toyota-Modell sein. Damit wird Subaru bald drei E-Autos auf Toyota-Basis anbieten.",
+      "url": "https://www.heise.de/news/Elektroauto-Subaru-stellt-Modelle-Uncharted-Solterra-und-E-Outback-vor-10492914.html",
+      "image_title": "Subaru E-Outback"
     },
     {
       "title": "Basiswissen zum Prompten: Das musst du über Rollenzuweisungen wissen",
@@ -756,21 +755,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Bundesverfassungsgericht: Wenn 630 Köche den Brei verderben",
-      "teaser": "Richterwahl am Bundesverfassungsgericht: Kandidatin scheitert überraschend. Politische Querelen blockieren Neubesetzung. Droht nun eine Verfassungskrise?",
-      "url": "https://www.heise.de/tp/features/Bundesverfassungsgericht-Wenn-630-Koeche-den-Brei-verderben-10495967.html",
-      "image_title": "Juristin Brosius-Gersdorf bei einer Anhörung im Bundestag"
+      "title": "Pflichtdienst für Senioren: Wenn Experten am Leben vorbeidenken",
+      "teaser": "Forderungen nach Pflichtdienst für Ältere missachten deren lebenslange Beiträge für die Gesellschaft durch Steuern, Kindererziehung und Engagement.",
+      "url": "https://www.heise.de/tp/features/Pflichtdienst-fuer-Senioren-Wenn-Experten-am-Leben-vorbeidenken-10495136.html",
+      "image_title": "fröhlicher Seniorenbürger ist bereit, in der Werkstatt zu arbeiten."
     },
     {
-      "title": "Bringt dieses ARD-Sommerinterview die AfD an die Macht?",
-      "teaser": "Protest bei ARD-Sommerinterviews mit Alice Weidel. Aktion wurde zum Eigentor. Ausgerechnet die Gegner der AfD könnten den Weg zur Macht ebnen. Ein Telepolis-Leitartikel.",
-      "url": "https://www.heise.de/tp/features/Bringt-dieses-ARD-Sommerinterview-die-AfD-an-die-Macht-10495481.html",
-      "image_title": "Alice Weidel und Markus Preiß"
+      "title": "Ukraine und Russland nehmen Friedensgespräche in Istanbul wieder auf",
+      "teaser": "Neue Verhandlungsrunde am Mittwoch geplant. US-Präsident Trump droht Russland mit \"harten\" Sanktionen, sollte es keinen Waffenstillstand geben.",
+      "url": "https://www.heise.de/tp/features/Ukraine-und-Russland-nehmen-Friedensgespraeche-in-Istanbul-wieder-auf-10495687.html",
+      "image_title": "Ukrainische und Russland-Fahne"
     },
     {
-      "title": "Militärmanöver Talisman Sabre: Der Westen zeigt China die Muskeln",
-      "teaser": "19 Staaten proben den den Krieg. 35.000 Soldaten senden ein Signal an China. Doch was steckt hinter dem Manöver – und welche Rolle spielt Australien?",
-      "url": "https://www.heise.de/tp/features/Militaermanoever-Talisman-Sabre-Der-Westen-zeigt-China-die-Muskeln-10495739.html"
+      "title": "Digitale Pubertät: Wie Smartphones die Jugend verändern",
+      "teaser": "Früher Handybesitz kann laut Studien die Psyche von Kindern langfristig schädigen. Experten fordern Schutzmaßnahmen.",
+      "url": "https://www.heise.de/tp/features/Digitale-Pubertaet-Wie-Smartphones-die-Jugend-veraendern-10494144.html",
+      "image_title": "Kind spielt mit dem Handy, liegt auf dem Bett."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
