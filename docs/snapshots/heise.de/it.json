@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-24T15:11:15",
+  "timestamp": "2025-07-24T16:12:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Brot und Spiele: Der ultimative C64 mit AMD-FPGA und 128 MByte Hauptspeicher?",
-      "teaser": "Der neue alte Commodore 64 Ultimate ist ab 255 Euro vorbestellbar und soll dank programmierbarer Schaltkreise ohne Software-Emulation auskommen.",
+      "title": "Softwareentwicklung: Echte Parallelität mit Python 3.13",
+      "teaser": "Multithreading bringt eine deutliche Leistungssteigerung bei der Ausführung auf Mehrkernprozessoren. Anwender müssen aber selbst für Thread-Sicherheit sorgen.",
+      "url": "https://www.heise.de/hintergrund/Softwareentwicklung-Echte-Parallelitaet-mit-Python-3-13-10476649.html"
+    },
+    {
+      "title": "Proton veröffentlicht datenschutzfreundlichen KI-Chatbot Lumo",
+      "teaser": "Der Schweizer Software-Anbieter Proton hat nun einen eigenen KI-Chatbot. Lumo schützt Nutzerdaten, verwendet verschiedene Sprachmodelle und ist quelloffen.",
+      "url": "https://www.heise.de/news/Proton-veroeffentlicht-datenschutzfreundlichen-KI-Chatbot-Lumo-10498983.html",
+      "image_title": "Startseite des Chatbots, dessen Maskottchen eine lila Katze ist"
+    },
+    {
+      "title": "Zucker, Brot und KabelpeitscheDer C64 kehrt zurück und kommt ohne Software-Emulation",
+      "teaser": "Der neue alte Commodore 64 Ultimate ist ab 255 Euro vorbestellbar und soll dank programmierbarer Schaltkreise ohne Emulation auskommen.",
       "url": "https://www.heise.de/news/Brot-und-Spiele-Der-ultimative-C64-mit-AMD-FPGA-und-128-MByte-Hauptspeicher-10498774.html",
       "image_title": "Der Commodore 64 Ultimate in drei Editionen"
     },
@@ -36,18 +47,6 @@
       "teaser": "Der Surface Laptop 7 ist mit Intels Lunar-Lake-Prozessoren und 5G-Mobilfunkmodul erhältlich. Die Preise sind allerdings gesalzen.",
       "url": "https://www.heise.de/news/Surface-Laptop-Microsoft-reicht-5G-Version-nach-10498867.html",
       "image_title": "Microsoft Surface Laptop aufgeklappt vor grauem Hintergrund"
-    },
-    {
-      "title": "AlertSonicwall SMA100: Drei Produkte von kritischer Lücke betroffen – jetzt updaten",
-      "teaser": "In den Fernzugriffslösungen SMA 210, 410 und 500v der Sonicwall SMA100er-Serie klafft eine Sicherheitslücke. Der Hersteller rät zum zügigen Update.",
-      "url": "https://www.heise.de/news/Sonicwall-SMA100-Drei-Produkte-von-kritischer-Luecke-betroffen-jetzt-updaten-10498686.html",
-      "image_title": "Server-Hardware"
-    },
-    {
-      "title": "Microsoft stellt M365 aus dem Store ein",
-      "teaser": "Manche Nutzer von Microsoft 365 stehen bald ohne Updates da: Wer die Apps aus dem Store bezieht, muss jetzt handeln und sie händisch neu installieren.",
-      "url": "https://www.heise.de/news/Microsoft-stellt-M365-aus-dem-Store-ein-10498833.html",
-      "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
     },
     {
       "title": "RatgeberFAQ: Git-Stolperfallen im Alltag vermeiden",
@@ -61,6 +60,18 @@
     {
       "title": "HintergrundSamba: Mehr Sicherheit mit Authentication Silos",
       "url": "https://www.heise.de/hintergrund/Samba-Mehr-Sicherheit-mit-Authentication-Silos-10475296.html"
+    },
+    {
+      "title": "AlertSonicwall SMA100: Drei Produkte von kritischer Lücke betroffen – jetzt updaten",
+      "teaser": "In den Fernzugriffslösungen SMA 210, 410 und 500v der Sonicwall SMA100er-Serie klafft eine Sicherheitslücke. Der Hersteller rät zum zügigen Update.",
+      "url": "https://www.heise.de/news/Sonicwall-SMA100-Drei-Produkte-von-kritischer-Luecke-betroffen-jetzt-updaten-10498686.html",
+      "image_title": "Server-Hardware"
+    },
+    {
+      "title": "Microsoft stellt M365 aus dem Store ein",
+      "teaser": "Manche Nutzer von Microsoft 365 stehen bald ohne Updates da: Wer die Apps aus dem Store bezieht, muss jetzt handeln und sie händisch neu installieren.",
+      "url": "https://www.heise.de/news/Microsoft-stellt-M365-aus-dem-Store-ein-10498833.html",
+      "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
     },
     {
       "title": "Mini-PC für nur 176 Euro: Aoostar N1 Pro im Test – klein, leise & zwei LAN-Ports",
@@ -136,18 +147,6 @@
       "teaser": "Der erste Teil der Serie stellt den Grundbaustein für künstliche neuronale Netze vor: das von biologischen Neuronen inspirierte künstliche Neuron.",
       "url": "https://www.heise.de/blog/Kuenstliche-Neuronale-Netze-im-Ueberblick-1-Das-kuenstliche-Neuron-10497910.html",
       "image_title": "Komplexes neuronales Netzwerk"
-    },
-    {
-      "title": "High-End-Prozessoren: AMD Ryzen Threadripper 9000 im Handel",
-      "teaser": "AMDs Threadripper-9000-Prozessoren für High-End-Desktops und Workstations sind da. Sie nutzen 24 bis 96 CPU-Kerne.",
-      "url": "https://www.heise.de/news/AMD-Ryzen-Threadripper-9000-kommen-in-Deutschland-und-Oesterreich-an-10498072.html",
-      "image_title": "Verpackung eines Ryzen Threadripper 9000 vor blauem Hintergrund"
-    },
-    {
-      "title": "iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage",
-      "teaser": "Lernen Sie, wie Sie ein hochverfügbares Proxmox VE-Clusters mit Ceph-Speicher einrichten und verwalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbares-Proxmox-VE-Cluster-mit-Ceph-Storage-10490064.html",
-      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
     },
     {
       "title": "NewsStarlink: Erstmals Zahlen zur – überraschend niedrigen – Kapazitätsgrenze",
