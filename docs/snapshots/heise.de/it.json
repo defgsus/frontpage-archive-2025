@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-25T12:20:29",
+  "timestamp": "2025-07-25T13:29:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,41 @@
   ],
   "articles": [
     {
+      "title": "Netzwerkpraxis: Fehlersuche mittels ICMP-Rückmeldungen – und Beispielen",
+      "teaser": "Wenn es im Netz knirscht, wo fangen Sie an mit der Fehlersuche? Unser Tipp: Tasten Sie Ihre Netzwerkpatienten mal nach ICMP-Symptomen ab.",
+      "url": "https://www.heise.de/ratgeber/Netzwerkpraxis-Fehlersuche-mittels-ICMP-Rueckmeldungen-und-Beispielen-10453020.html"
+    },
+    {
+      "title": "Blick ins Heft c’t 16/2025: Die faulen Tricks der Tech-Industrie",
+      "teaser": "Wir zeigen die Tücken der Enshittification von Hard- und Software, stellen DIY-Projekte für Solar und Katastrophenmessenger vor und testen Ki-Musikgeneratoren.",
+      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-16-2025-Die-faulen-Tricks-der-Tech-Industrie-10500090.html",
+      "image_title": "c't magazin 4-2024"
+    },
+    {
+      "title": "Podcast: Stimme geklaut – wie Deepfakes bereits genutzt werden",
+      "teaser": "Vera Bauers Stimme wirbt plötzlich für eine KI-App – gegen ihren Willen. In „They Talk Tech“ erzählt sie, wie KI Identitäten stiehlt.",
+      "url": "https://www.heise.de/news/Podcast-Stimme-geklaut-wie-Deepfakes-bereits-genutzt-werden-10499716.html"
+    },
+    {
+      "title": "Neu in .NET 9.0 [31]: Verbesserte Ausgabe bei Debug.Assert()",
+      "teaser": "Beim Fehlschlagen der übergebenen Bedingung zeigt .NET 9.0 diese in der Ausgabe komplett an.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-9-0-31-Verbesserte-Ausgabe-bei-Debug-Assert-10499888.html",
+      "image_title": "Verkehrsschild mit Aufschrift .NET"
+    },
+    {
+      "title": "RatgeberNetzwerkpraxis: Fehlersuche mittels ICMP-Rückmeldungen – und Beispielen",
+      "url": "https://www.heise.de/ratgeber/Netzwerkpraxis-Fehlersuche-mittels-ICMP-Rueckmeldungen-und-Beispielen-10453020.html"
+    },
+    {
+      "title": "HintergrundSo funktioniert Testmanagement mit dem Open-Source-Tool TestLink",
+      "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
+    },
+    {
+      "title": "RatgeberESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
+      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html",
+      "image_title": ","
+    },
+    {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-10490082.html",
@@ -38,7 +73,7 @@
       "image_title": "Gelenk eines ausgestreckten Arms mit sEMG-Armband vor dunklem Hintergrund."
     },
     {
-      "title": "RansomwareStrafverfolger beschlagnahmen Erpresser-Website Blacksuit",
+      "title": "Ransomware Blacksuit: Strafverfolger beschlagnahmen Erpresser-Website",
       "teaser": "\"Operation Checkmate\" legt Blacksuits Lösegeldverhandlungen zumindest vorerst auf Eis. Die womöglich verwandte Ransomware Chaos wütet derweil weiter.",
       "url": "https://www.heise.de/news/Ransomware-Blacksuit-Strafverfolger-beschlagnahmen-Erpresser-Website-10499696.html",
       "image_title": "This Domain has been seized steht auf Webseite"
@@ -48,19 +83,6 @@
       "teaser": "Nach einem Phishing-Angriff auf npm-Maintainer war das Paket is, das auf etwa 2,7 Millionen wöchentliche Downloads kommt, mit einem Malware-Loader infiziert.",
       "url": "https://www.heise.de/news/Beliebtes-JavaScript-Paket-is-Malware-durch-Supply-Chain-Angriff-10499614.html",
       "image_title": "Malware-Warnung und Code"
-    },
-    {
-      "title": "HintergrundSo funktioniert Testmanagement mit dem Open-Source-Tool TestLink",
-      "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
-    },
-    {
-      "title": "RatgeberESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
-      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundSoftware für Testmanagement in der Marktübersicht",
-      "url": "https://www.heise.de/hintergrund/Software-fuer-Testmanagement-in-der-Marktuebersicht-10491364.html"
     },
     {
       "title": "UpdateChatGPT Agent: Reasoning und Action-Modell kombiniert",
@@ -114,39 +136,14 @@
       "url": "https://www.heise.de/meinung/Kommentar-Who-you-gonna-call-10473658.html"
     },
     {
+      "title": "Software für Testmanagement in der Marktübersicht",
+      "teaser": "Testmanagementtools müssen sich in Build- und Deployment-Prozesse einfügen lassen und funktionale, nicht funktionale und sicherheitsrelevante Tests kombinieren.",
+      "url": "https://www.heise.de/hintergrund/Software-fuer-Testmanagement-in-der-Marktuebersicht-10491364.html"
+    },
+    {
       "title": "Produkt- und Prozess-Testing: Was gutes Testmanagement ausmacht",
       "teaser": "Konsequentes Testmanagement ist entscheidend für effizientes Testen. Agilität braucht dabei genauso viel Testmanagement wie klassische Projekte.",
       "url": "https://www.heise.de/hintergrund/Produkt-und-Prozess-Testing-Was-gutes-Testmanagement-ausmacht-10474464.html"
-    },
-    {
-      "title": "Intel gibt Magdeburg-Fab auf und stellt Foundry-Ende in den Raum",
-      "teaser": "In Deutschland wird doch kein modernes Intel-Halbleiterwerk entstehen. Für die gesamte Intel Foundry wird 14A ein kritischer Prozess.",
-      "url": "https://www.heise.de/news/Intel-gibt-Magdeburg-Fab-auf-und-stellt-Foundry-Ende-in-den-Raum-10499163.html",
-      "image_title": "Wafer mit Meteor-Lake-Dies"
-    },
-    {
-      "title": "UpdateStarlink weltweit ausgefallen, funktioniert nach zweieinhalb Stunden aber wieder",
-      "teaser": "Internetzugänge über Starlink funktionierten kurzzeitig nicht. Der Ausfall war offenbar global. Starlink schiebt es auf ein Software-Problem.",
-      "url": "https://www.heise.de/news/Starlink-weltweit-ausgefallen-10499135.html",
-      "image_title": "Starlink-Schüssel steht auf einem Holztisch; im Hintergrund eine demontierte Satellitenschüssel mit Aufschrift \"HughesNet\""
-    },
-    {
-      "title": "iOS 26, macOS Tahoe, Apple Intelligence: Wie sich Apples neue Systeme schlagen",
-      "teaser": "Frisches Design, mehr Intelligence, hilfreiche Funktionen – Apple stellt seine Betriebssysteme auf neue Beine. Was sich für Nutzer bald ändert.",
-      "url": "https://www.heise.de/hintergrund/iOS-26-macOS-Tahoe-Apple-Intelligence-Wie-sich-Apples-neue-Systeme-schlagen-10494292.html",
-      "image_title": ","
-    },
-    {
-      "title": "Feuerprobe für Liquid Glass: Public Beta von iOS, iPadOS und macOS 26 verfügbar",
-      "teaser": "Später als gewöhnlich bietet Apple öffentliche Vorabversionen seiner nächsten Systeme an. Das viel diskutierte neue Design stellt sich einem Millionenpublikum.",
-      "url": "https://www.heise.de/news/Feuerprobe-fuer-Liquid-Glass-Public-Beta-von-iOS-iPadOS-und-macOS-26-verfuegbar-10495595.html",
-      "image_title": "Apples neue Systeme auf iPhone, MacBook und iPad"
-    },
-    {
-      "title": "iPadOS 26 im Hands-on: Neustart für das iPad",
-      "teaser": "Apple bringt MacBook-Funktionen auf das Tablet, Nutzer können mit vielen Fenstern gleichzeitig arbeiten. Kann das iPad damit über sich hinauswachsen?",
-      "url": "https://www.heise.de/hintergrund/iPadOS-26-im-Hands-on-Neustart-fuer-das-iPad-10494315.html",
-      "image_title": "iPadOS 26 auf zwei iPads mit Tastatur"
     },
     {
       "title": "NewsFürs Militär? Größtes Bodeneffektfahrzeug seit Sowjetzeiten in China entdeckt",
