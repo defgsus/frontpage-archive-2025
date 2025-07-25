@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-25T08:14:58",
+  "timestamp": "2025-07-25T09:14:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,12 +26,48 @@
   ],
   "articles": [
     {
-      "title": "Künstliche IntelligenzVibe-Coding-Dienst Replit löscht Produktionsdatenbank",
+      "title": "Drei Fragen und Antworten: Welche Testmanagement-Tools lohnen sich?",
+      "teaser": "Software entwickeln und abschließend testen? Grundlegend falsch, erklärt Waldemar Klassen im Interview. Wir zeigen, wie es besser geht.",
+      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Was-macht-gutes-Testmanagement-aus-10499620.html",
+      "image_title": "Roboter mit Sprechblase"
+    },
+    {
+      "title": "Rückschritt und Enshittification: Darum wird Technik nicht stetig besser",
+      "teaser": "Neue Technikgenerationen sind nicht automatisch besser als ihre Vorgänger. Wer die Hintergründe analysiert, erkennt, dass oft Absicht dahinter steckt.",
+      "url": "https://www.heise.de/ratgeber/Rueckschritt-und-Enshittification-Darum-wird-Technik-nicht-stetig-besser-10448064.html"
+    },
+    {
+      "title": "Google Shopping: Preistracker, KI-Anprobe und Inspiration",
+      "teaser": "Kleidung per Fotoupload anprobieren und dann auch noch den besten Preis finden: Google erweitert seine Shopping-Funktionen.",
+      "url": "https://www.heise.de/news/Google-Shopping-Alert-und-virtuelle-KI-Anrpobe-10499529.html",
+      "image_title": "Handybildschirme zeigen den Wechsel des Outfits einer Frau."
+    },
+    {
+      "title": "Bitte ohne KI: Sourcecode-Editor Zed bietet Ausschalter für KI-Funktionen",
+      "teaser": "Auf Wunsch der Community kann man in dem \"schnellsten KI-Code-Editor\" ab sofort die KI-Unterstützung deaktivieren.",
+      "url": "https://www.heise.de/news/Bitte-ohne-KI-Sourcecode-Editor-Zed-bietet-Ausschalter-fuer-KI-Funktionen-10499307.html",
+      "image_title": "Eine Waage, auf der die Buchstaben AI und die Zeichnung eines menschlichen Gehirns liegen."
+    },
+    {
+      "title": "HintergrundSo funktioniert Testmanagement mit dem Open-Source-Tool TestLink",
+      "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
+    },
+    {
+      "title": "RatgeberESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
+      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundSoftware für Testmanagement in der Marktübersicht",
+      "url": "https://www.heise.de/hintergrund/Software-fuer-Testmanagement-in-der-Marktuebersicht-10491364.html"
+    },
+    {
+      "title": "Künstliche Intelligenz: Vibe-Coding-Dienst Replit löscht Produktionsdatenbank",
       "teaser": "Laut einem Replit-User hat der Dienst seine Produktionsdatenbank gelöscht, darüber falsche Aussagen getätigt und Anweisungen ignoriert. Der Hersteller reagiert.",
       "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-Vibe-Coding-Dienst-Replit-loescht-Produktionsdatenbank-10499478.html"
     },
     {
-      "title": "SoftwarearchitekturEvent-Driven, Teil 5: Was bei Events wichtig ist – und was nicht",
+      "title": "Event-Driven, Teil 5: Was bei Events wichtig ist – und was nicht",
       "teaser": "Reihenfolge, Idempotenz, Konsistenz: Worauf es in Event-getriebenen Systemen wirklich ankommt – und welche Missverständnisse häufig entstehen.",
       "url": "https://www.heise.de/blog/Event-Driven-Teil-5-Was-bei-Events-wichtig-ist-und-was-nicht-10453496.html",
       "image_title": "Roter Pfeil auf einem PC-Bildschirm, der nach rechts zeigt; umgeben von Gebäuden."
@@ -46,19 +82,6 @@
       "title": "Die neue Mac & i: AppleOS 26, Mac-Funktionen nachrüsten, Browser-Vergleich",
       "teaser": "Was bieten iOS/iPadOS/macOS 26? Wie kommt das neue Systemdesign an? Welche Browser, Festplatten und Kamera-Apps überzeugen im Test? Die neue Mac & i verrät es.",
       "url": "https://www.heise.de/news/Die-neue-Mac-i-AppleOS-26-Mac-Funktionen-nachruesten-Browser-Vergleich-10495517.html"
-    },
-    {
-      "title": "HintergrundSo funktioniert Testmanagement mit dem Open-Source-Tool TestLink",
-      "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
-    },
-    {
-      "title": "RatgeberESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
-      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundSoftware für Testmanagement in der Marktübersicht",
-      "url": "https://www.heise.de/hintergrund/Software-fuer-Testmanagement-in-der-Marktuebersicht-10491364.html"
     },
     {
       "title": "Kommentar: Who you gonna call?",
@@ -123,28 +146,6 @@
       "teaser": "In den Fernzugriffslösungen SMA 210, 410 und 500v der Sonicwall SMA100er-Serie klafft eine Sicherheitslücke. Der Hersteller rät zum zügigen Update.",
       "url": "https://www.heise.de/news/Sonicwall-SMA100-Drei-Produkte-von-kritischer-Luecke-betroffen-jetzt-updaten-10498686.html",
       "image_title": "Server-Hardware"
-    },
-    {
-      "title": "Microsoft stellt M365 aus dem Store ein",
-      "teaser": "Manche Nutzer von Microsoft 365 stehen bald ohne Updates da: Wer die Apps aus dem Store bezieht, muss jetzt handeln und sie händisch neu installieren.",
-      "url": "https://www.heise.de/news/Microsoft-stellt-M365-aus-dem-Store-ein-10498833.html",
-      "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
-    },
-    {
-      "title": "Mini-PC für nur 176 Euro: Aoostar N1 Pro im Test – klein, leise & zwei LAN-Ports",
-      "teaser": "Der Aoostar N1 Pro ist ein kleiner Office-Mini-PC für 176 Euro mit erstaunlich vielen Anschlüssen für die Größe. Wie er sich schlägt, zeigt unser Test.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-fuer-nur-176-euro-aoostar-n1-pro-im-test-klein-leise-und-zwei-lan-ports/psvk43h?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Comeback von Lumma und NoName057(16): Cybercrime-Zerschlagung misslungen",
-      "teaser": "Zwei Bedrohungen sind zurück. Und mit der Ransomware Interlock kommt laut Warnung von US-Behörden eine neue hinzu. Stehaufmännchen und Newcomer im Überblick.",
-      "url": "https://www.heise.de/news/Comeback-von-Lumma-und-NoName057-16-Cybercrime-Zerschlagung-misslungen-10498191.html"
-    },
-    {
-      "title": "AMD zu Mehrkosten von TSMCs US-Chips: \"Mehr als 5 %, aber weniger als 20 %\"",
-      "teaser": "Höhere Betriebskosten in TSMCs US-Halbleitwerk lassen die Herstellungskosten steigen. AMD-Chefin Lisa Su zeigt sich offen zum Thema.",
-      "url": "https://www.heise.de/news/AMD-zu-Mehrkosten-von-TSMCs-US-Chips-Mehr-als-5-aber-weniger-als-20-10498579.html",
-      "image_title": "Zwei Epyc-Prozessoren liegen auf einem Mainboard"
     },
     {
       "title": "NewsFürs Militär? Größtes Bodeneffektfahrzeug seit Sowjetzeiten in China entdeckt",
