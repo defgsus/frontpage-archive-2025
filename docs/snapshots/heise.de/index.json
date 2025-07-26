@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-26T06:14:30",
+  "timestamp": "2025-07-26T07:10:59",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Docker Image Security – Teil 1: Die größten Irrtümer über Image-Scanner",
+      "url": "https://www.heise.de/hintergrund/Docker-Image-Security-Teil-1-Die-groessten-Irrtuemer-ueber-Image-Scanner-10497655.html"
+    },
     {
       "title": "Fotografische Vielfalt – Die Bilder der Woche 30",
       "url": "https://www.heise.de/news/Fotografische-Vielfalt-Die-Bilder-der-Woche-30-10497516.html"
@@ -60,10 +64,6 @@
     {
       "title": "Gewinneinbruch bei Volkswagen",
       "url": "https://www.heise.de/news/Gewinneinbruch-bei-Volkswagen-10500478.html"
-    },
-    {
-      "title": "FAQ: Git-Stolperfallen im Alltag vermeiden",
-      "url": "https://www.heise.de/ratgeber/FAQ-Git-Stolperfallen-im-Alltag-vermeiden-10486505.html"
     },
     {
       "title": "Neue RechtslageÄmter mit digitalen Passfotos überlastet – vor allem auf dem Land",
@@ -185,19 +185,25 @@
       "image_title": "Back,To,School,Concept.,A,Metal,Robot,And,An,Electronic"
     },
     {
+      "title": "Docker Image Security – Teil 1: Die größten Irrtümer über Image-Scanner",
+      "teaser": "Image-Scanner wie Trivy und Grype sollen Container sicher machen. Doch sie liefern oft ungenaue Ergebnisse – mit riskanten Folgen für die IT-Sicherheit.",
+      "url": "https://www.heise.de/hintergrund/Docker-Image-Security-Teil-1-Die-groessten-Irrtuemer-ueber-Image-Scanner-10497655.html",
+      "image_title": "Entscheidung zwischen richtig oder falsch"
+    },
+    {
       "title": "Fotografische Vielfalt – Die Bilder der Woche 30",
       "teaser": "Zwischen stillen Naturbeobachtungen, urbanen Szenerien und eindrucksvollen Porträts entfalten die Bilder dieser Woche ihre ganz eigene visuelle Sprache.",
       "url": "https://www.heise.de/news/Fotografische-Vielfalt-Die-Bilder-der-Woche-30-10497516.html"
     },
     {
+      "title": "Konkrete Ansätze für mehr digitale Souveränität",
+      "teaser": "Digitale Souveränität sollte derzeit höchste Priorität genießen. Doch oft wird sie nicht ganzheitlich gedacht und falsch eingeschätzt. Hilfreich ist deshalb ein Souveränitätscheck für IT-Entscheider.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7029451633&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Lego-Alternativen: Wie günstige Klemmbausteine dem Marktführer Konkurrenz machen",
       "teaser": "Früher gab es nur Lego, heute haben Kunden die Wahl. Wir erklären, wie das Hobby erwachsen geworden ist und warum Lego-Fans auf andere Marken umsteigen.",
       "url": "https://www.heise.de/hintergrund/Lego-Alternativen-Wie-guenstige-Klemmbausteine-dem-Marktfuehrer-Konkurrenz-machen-10481576.html"
-    },
-    {
-      "title": "So entscheidend sind positive Erfahrungen für die Produktivität",
-      "teaser": "Digitale Arbeitsplätze steigern die Produktivität – wenn alles reibungslos läuft. Eine gute digitale Erfahrung für Mitarbeiter verbessert die Abläufe und sorgt für eine funktionierende Infrastruktur.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7024772081&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Kommentar: Schluss mit der zweigeteilten Welt bei Apple",
@@ -226,12 +232,6 @@
       "teaser": "Das zweite Quartal hat der VW-Konzern mit einem deutlichen Gewinneinbruch abgeschlossen. Probleme machen das Premium-Segment sowie die USA und China.",
       "url": "https://www.heise.de/news/Gewinneinbruch-bei-Volkswagen-10500478.html",
       "image_title": "Luftbild des alten VW-Werk in Wolfsburg"
-    },
-    {
-      "title": "FAQ: Git-Stolperfallen im Alltag vermeiden",
-      "teaser": "Git ist das populärste Versionskontrollsystem – viele Open-Source-Projekte nutzen es. Wir zeigen, wie Sie typische Fehler vermeiden und Git effektiv einsetzen.",
-      "url": "https://www.heise.de/ratgeber/FAQ-Git-Stolperfallen-im-Alltag-vermeiden-10486505.html",
-      "image_title": "Aufmacherbild FAQ mit Schriftzug FAQ"
     },
     {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
@@ -302,6 +302,12 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "FAQ: Git-Stolperfallen im Alltag vermeiden",
+      "teaser": "Git ist das populärste Versionskontrollsystem – viele Open-Source-Projekte nutzen es. Wir zeigen, wie Sie typische Fehler vermeiden und Git effektiv einsetzen.",
+      "url": "https://www.heise.de/ratgeber/FAQ-Git-Stolperfallen-im-Alltag-vermeiden-10486505.html",
+      "image_title": "Aufmacherbild FAQ mit Schriftzug FAQ"
+    },
+    {
       "title": "Wer braucht schon Plex? Jellyfin als Media-Server",
       "teaser": "Jellyfin ist die kostenlose Open-Source-Alternative zu Plex – flexibel, schön und überraschend einfach.",
       "url": "https://www.heise.de/news/Wer-braucht-schon-Plex-Jellyfin-als-Media-Server-10494662.html"
@@ -370,15 +376,15 @@
       "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
     },
     {
+      "title": "Die richtige Prozessarchitektur als Basis zur effizienten Verbesserung von SAP Prozessen",
+      "teaser": "SAP ECC läuft aus, die Migration steht bevor: Wie Sie mit der richtigen Prozessarchitektur Ihre SAP-Landschaft nachhaltig modernisieren, erfahren Sie im Live-Webcast am 14.8. um 11 Uhr.",
+      "url": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952/?source=hbsadersatz"
+    },
+    {
       "title": "Thirty Meter Telescope: Spanien bietet für Bau auf Kanaren 400 Millionen Euro",
       "teaser": "Weil die US-Regierung kein Geld geben will, steht das Thirty Meter Telescope auf Hawaii vor dem Aus. Spanien wirbt nun für einen Umzug nach La Palma – mit Geld.",
       "url": "https://www.heise.de/news/Fuer-400-Millionen-Euro-Spanien-will-Thirty-Meter-Telescope-nach-La-Palma-holen-10499959.html",
       "image_title": "Riesiges Teleskop auf einem grünen Berg"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Meta macht das Handgelenk zur Computerschnittstelle",
@@ -432,12 +438,6 @@
       "url": "https://www.heise.de/news/Weiterbildung-Qualifikation-im-Datenschutzmanagement-mit-Hochschulzertifikat-10474753.html"
     },
     {
-      "title": "Autonomes Straßen-Schienen-Fahrzeug soll Frachttransport revolutionieren",
-      "teaser": "Der Transport von Gütern auf der ersten Meile ist kostspielig. Ein hybrides Fahrzeug, das auf Straße und Schiene fahren kann, soll das ändern.",
-      "url": "https://www.heise.de/news/Autonomes-Strassen-Schienen-Fahrzeug-soll-Frachttransport-revolutionieren-10499756.html",
-      "image_title": "Truck fährt auf Schienen"
-    },
-    {
       "title": "UpdateStarlink weltweit ausgefallen, funktioniert nach zweieinhalb Stunden aber wieder",
       "url": "https://www.heise.de/news/Starlink-weltweit-ausgefallen-10499135.html",
       "image_title": "Starlink-Schüssel steht auf einem Holztisch; im Hintergrund eine demontierte Satellitenschüssel mit Aufschrift \"HughesNet\""
@@ -458,14 +458,14 @@
       "image_title": "Stirlingmotor am Fahrrad"
     },
     {
+      "title": "Autonomes Straßen-Schienen-Fahrzeug soll Frachttransport revolutionieren",
+      "url": "https://www.heise.de/news/Autonomes-Strassen-Schienen-Fahrzeug-soll-Frachttransport-revolutionieren-10499756.html",
+      "image_title": "Truck fährt auf Schienen"
+    },
+    {
       "title": "Supernova-Analyse weist auf veränderliche Dunkle Energie hin",
       "url": "https://www.heise.de/news/Supernova-Analyse-weist-auf-veraenderliche-Dunkle-Energie-hin-10498824.html",
       "image_title": "Bild einer Spiralgalaxie, daneben ein heller Punkt"
-    },
-    {
-      "title": "Rekordverdächtig: Humanoider Roboter Robotera L7 läuft 14,4 km/h schnell",
-      "url": "https://www.heise.de/news/Rekordverdaechtig-Humanoider-Roboter-Robotera-L7-laeuft-14-4-km-h-schnell-10499293.html",
-      "image_title": "Der L7-Roboter überholt auf einer Stadionlaufbahn eine Läuferin."
     },
     {
       "title": "Bargeldlose Festivals: Verbraucherschützer mahnen Veranstalter ab",
@@ -607,14 +607,15 @@
       "url": "https://www.heise.de/en/news/Artificial-intelligence-Vibe-coding-service-Replit-deletes-production-database-10499597.html"
     },
     {
-      "title": "Wer braucht schon Plex? Jellyfin als Media-Server",
-      "teaser": "Jellyfin ist die kostenlose Open-Source-Alternative zu Plex – flexibel, schön und überraschend einfach.",
-      "url": "https://www.heise.de/news/Wer-braucht-schon-Plex-Jellyfin-als-Media-Server-10494662.html"
-    },
-    {
       "title": "DJI zum E-Bike-Leistungsstreit“Keine klare Grundlage für 750 Watt”",
       "teaser": "Mit dem Avinox-Antrieb hat DJI die E-Bike-Industrie geschockt. Nun reagiert der Hersteller auf die Vorwürfe der Konkurrenz.",
       "url": "https://www.heise.de/news/DJI-zum-E-Bike-Leistungsstreit-Keine-klare-Grundlage-fuer-750-Watt-10499991.html"
+    },
+    {
+      "title": "Zucker, Brot und KabelpeitscheDer C64 kehrt zurück und kommt ohne Software-Emulation",
+      "teaser": "Der neue alte Commodore 64 Ultimate ist ab 255 Euro vorbestellbar und soll dank FPGA ohne Emulation auskommen.",
+      "url": "https://www.heise.de/news/Brot-und-Spiele-Der-ultimative-C64-mit-AMD-FPGA-und-128-MByte-Hauptspeicher-10498774.html",
+      "image_title": "Der Commodore 64 Ultimate in drei Editionen"
     },
     {
       "title": "Meilenstein für QuantencomputerMagische Zustände für fehlerfreies Rechnen",
@@ -753,27 +754,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Türkei überholt USA: YILDIRIM 100 könnte Patriot-Raketen überflüssig machen",
-      "teaser": "Neue Laser-Waffe blendet Drohnen und Raketen – für einen Bruchteil der Kosten eines Patriot-Schusses. Ist das ein Wendepunkt in der Luftabwehr?",
-      "url": "https://www.heise.de/tp/features/Tuerkei-ueberholt-USA-YILDIRIM-100-koennte-Patriot-Raketen-ueberfluessig-machen-10497693.html",
-      "image_title": "Der MIM-104 Patriot ist ein System von Boden zu Luft (SAM), das hauptsächlich von der US-Armee und mehreren alliierten Staaten eingesetzt wird."
+      "title": "Grönland im Visier: Trumps arktischer Traum und Russlands Warnung",
+      "teaser": "US-Präsident Trump will Grönland annektieren. Russland warnt vor militärischen Folgen. Aber: Unterstützt ausgerechnet Moskau hier Europas Interessen? Einschätzung.",
+      "url": "https://www.heise.de/tp/features/Groenland-im-Visier-Trumps-arktischer-Traum-und-Russlands-Warnung-10499155.html",
+      "image_title": "Eine amerikanische Flagge, die Grönland auf einer Weltkarte zeigt und die geopolitischen Beziehungen und potenziellen Interessen der USA in der Arktis unterstreicht."
     },
     {
-      "title": "Diplomatischer Paukenschlag: Paris erkennt Palästina an",
-      "teaser": "Frankreich erkennt Palästina an. Der Schritt erfolgt im September bei der UN. Analyse zu allen Hintergründen und Reaktionen.",
-      "url": "https://www.heise.de/tp/features/Diplomatischer-Paukenschlag-Paris-erkennt-Palaestina-an-10499235.html",
-      "image_title": "Man steht mit Palästina Flagge vor der Silhouette des Eiffelturms"
+      "title": "Urlaub, aber bitte echt",
+      "teaser": "Paris' Montmartre platzt aus allen Nähten. Übertourismus bedroht das Viertel und seine Bewohner. Was bedeutet das für unsere Art zu reisen?",
+      "url": "https://www.heise.de/tp/features/Urlaub-aber-bitte-echt-10500125.html",
+      "image_title": "Blick auf eine Jause mit Rosé-Wein vor dem Eifelturm"
     },
     {
-      "title": "Forschung: Pilze im Körper könnten Gehirn und Verhalten beeinflussen",
-      "teaser": "Wissenschaftler untersuchen, ob Pilze in unserem Körper Erkrankungen mitverursachen oder unser Verhalten steuern könnten. Die Forschung steht noch am Anfang.",
-      "url": "https://www.heise.de/tp/features/Forschung-Pilze-im-Koerper-koennten-Gehirn-und-Verhalten-beeinflussen-10497685.html",
-      "image_title": "Pilze"
+      "title": "Chinas Weg: Wie Beijing vom Vermittler zum Unterstützer Russlands wurde",
+      "teaser": "China zeigt beim EU-Gipfel in Beijing sein neues Selbstbewusstsein. Die Volksrepublik präsentiert sich im 50. Jahr der diplomatischen Beziehungen stärker denn je. Was uns eine Drohne verrät. Ein Telepolis-Leitartikel.",
+      "url": "https://www.heise.de/tp/features/Chinas-Weg-Wie-Beijing-vom-Vermittler-zum-Unterstuetzer-Russlands-wurde-10499985.html",
+      "image_title": "Drohne in russischen Farben mit chinesischen Legendenmarkern"
     },
     {
-      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "Saily im Test: Komfortable Urlaubs-eSIM mit Sicherheits-Funktionen",
+      "teaser": "Kein teures Roaming, keine lästige WLAN-Suche und kein schlechter Empfang: Saily will mit günstigen eSIM-Tarifen gängige Mobilfunk-Probleme auf Reisen lösen.",
+      "url": "https://www.heise.de/download/specials/Saily-im-Test-Komfortable-Urlaubs-eSIM-mit-Sicherheits-Funktionen-10495234"
     },
     {
       "title": "Desinfec't",
