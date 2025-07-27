@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-27T09:10:38",
+  "timestamp": "2025-07-27T10:10:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Micron: Strahlenfester Flash-Speicher für das All",
+      "url": "https://www.heise.de/news/Micron-Strahlenfester-Flash-Speicher-fuer-das-All-10500906.html"
+    },
     {
       "title": "ESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
       "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html"
@@ -60,10 +64,6 @@
     {
       "title": "Deutscher Heizungsmarkt: Schlechteste Verkaufszahlen seit 15 Jahren befürchtet",
       "url": "https://www.heise.de/news/Deutscher-Heizungsmarkt-Schlechteste-Verkaufszahlen-seit-15-Jahren-befuerchtet-10500768.html"
-    },
-    {
-      "title": "Meta: Keine politische Werbung mehr auf Instagram und Facebook und Co",
-      "url": "https://www.heise.de/news/Meta-Keine-politische-Werbung-mehr-auf-Instagram-und-Facebook-und-Co-10500720.html"
     },
     {
       "title": "Missing Linkfilm.com und die Pioniertage der Filmpublizistik im Internet",
@@ -190,21 +190,26 @@
       "url": "https://www.heise.de/news/Wer-braucht-schon-Plex-Jellyfin-als-Media-Server-10494662.html"
     },
     {
+      "title": "Micron: Strahlenfester Flash-Speicher für das All",
+      "teaser": "Üblicher Flash-Speicher leidet im Weltall unter extremen Temperaturschwankungen und Strahlung. Micron stellt besonderen Speicher für solche Einsätze vor.",
+      "url": "https://www.heise.de/news/Micron-Strahlenfester-Flash-Speicher-fuer-das-All-10500906.html"
+    },
+    {
       "title": "ESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
       "teaser": "Stopify erkennt laute Geräusche und pausiert automatisch Spotify, wenn es zu laut wird. Kehrt wieder Stille ein, wird die Wiedergabe automatisch fortgesetzt.",
       "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html",
       "image_title": ","
     },
     {
+      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
+      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "InfoDays: Software-Architektur mit Fokus auf Praxis",
       "teaser": "Ein neues Konferenzformat zeigt, wie Software-Architektur in echten Projekten funktioniert – mit Erfahrungsberichten von Fachleuten aus verschiedenen Rollen.",
       "url": "https://www.heise.de/news/InfoDays-Software-Architektur-mit-Fokus-auf-Praxis-10499818.html",
       "image_title": "InfoDays"
-    },
-    {
-      "title": "Security Operations Center neu gedacht",
-      "teaser": "SOCs stehen unter Dauerbelastung und Analysten hadern mit falschen Alarmen. Zeit für eine Neuausrichtung! Moderne SOC-Architekturen sind modular aufgebaut und lösen Aufgaben durch Spezialkomponenten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7028814436&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Solartisch selbst gebaut: PV-Anlage auf der Terrasse",
@@ -232,11 +237,6 @@
       "teaser": "Der Meta-Konzern will in der EU politische Werbung auf seinen Plattformen abschaffen. Als Grund nennt er eine EU-Verordnung.",
       "url": "https://www.heise.de/news/Meta-Keine-politische-Werbung-mehr-auf-Instagram-und-Facebook-und-Co-10500720.html",
       "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
-    },
-    {
-      "title": "BSI veröffentlicht Whitepaper zum Bias in der KI",
-      "teaser": "Wenn sich KI-Systeme nicht so verhalten, wie erwünscht, stecken oft Verzerrungen in den Daten dahinter. Das BSI erklärt, wie man den Bias im System erkennt.",
-      "url": "https://www.heise.de/news/BSI-veroeffentlicht-Whitepaper-zum-Bias-in-der-KI-10500716.html"
     },
     {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
@@ -287,12 +287,12 @@
       "image_title": "BMW M5 Touring"
     },
     {
-      "title": "Starlink: Erstmals Zahlen zur – überraschend niedrigen – Kapazitätsgrenze",
-      "url": "https://www.heise.de/news/Starlink-Erstmals-Zahlen-zur-ueberraschend-niedrigen-Kapazitaetsgrenze-10493957.html"
-    },
-    {
       "title": "DJI zum E-Bike-Leistungsstreit: “Keine klare Grundlage für 750 Watt”",
       "url": "https://www.heise.de/news/DJI-zum-E-Bike-Leistungsstreit-Keine-klare-Grundlage-fuer-750-Watt-10499991.html"
+    },
+    {
+      "title": "Starlink: Erstmals Zahlen zur – überraschend niedrigen – Kapazitätsgrenze",
+      "url": "https://www.heise.de/news/Starlink-Erstmals-Zahlen-zur-ueberraschend-niedrigen-Kapazitaetsgrenze-10493957.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -305,6 +305,11 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
+    },
+    {
+      "title": "BSI veröffentlicht Whitepaper zum Bias in der KI",
+      "teaser": "Wenn sich KI-Systeme nicht so verhalten, wie erwünscht, stecken oft Verzerrungen in den Daten dahinter. Das BSI erklärt, wie man den Bias im System erkennt.",
+      "url": "https://www.heise.de/news/BSI-veroeffentlicht-Whitepaper-zum-Bias-in-der-KI-10500716.html"
     },
     {
       "title": "Wie man gemeinsam live auf Twitch streamt",
@@ -375,14 +380,14 @@
       "image_title": "Roboter mit Sprechblase"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "Top 10: Der beste günstige Mini-PC mit Windows 11 für unter 300 Euro",
       "teaser": "Selbst günstige Mini-PCs bieten richtig gute Ausstattung. Wir haben über 80 Modelle getestet und zeigen die zehn besten vollwertigen Mini-Computer bis 300 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-guenstige-mini-pc-mit-windows-11-fuer-unter-300-euro/flxjgm9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "KI-Agenten im Angriff: Das neue Gesicht des Social Engineering",
-      "teaser": "Wie verändert KI die Spielregeln bei Social-Engineering-Attacken? Im Live-Webcast am 21.8.2025 erfahren Sie, welche Risiken und Abwehrmöglichkeiten die neue Technologie mit sich bringt.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/ki-agenten-im-angriff-das-neue-gesicht-des-social-engineering-4950?source=hbsad-ersatz"
     },
     {
       "title": "Digital Networks Act: Telco-CEOs machen Druck auf Brüssel",
@@ -434,12 +439,6 @@
       "teaser": "Wie man Wind und Wetter einfängt – Tipps für eindrucksvolle Aufnahmen an der Küste.",
       "url": "https://www.heise.de/ratgeber/Naturgewalten-im-Bild-Tipps-zum-Fotografieren-von-Riesenwellen-10485820.html",
       "image_title": "An seltenen Tagen erreichen die Wellen auf der Ostsee bei Oststurm eine Höhe von über drei Metern (ungebrochen). Dann können Sie mit Wellen rechnen, die sich an der Mole brechen, wie hier am Leuchtturm von Sassnitz auf Rügen., Alle Bilder: Bastian Werner"
-    },
-    {
-      "title": "Blick ins Heft c’t 16/2025: Die faulen Tricks der Tech-Industrie",
-      "teaser": "Wir zeigen die Tücken der Enshittification von Hard- und Software, stellen DIY-Projekte für Solar und Katastrophenmessenger vor und testen Ki-Musikgeneratoren.",
-      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-16-2025-Die-faulen-Tricks-der-Tech-Industrie-10500090.html",
-      "image_title": "c't magazin 4-2024"
     },
     {
       "title": "Zucker, Brot und Kabelpeitsche: Der C64 kehrt zurück",
@@ -609,14 +608,14 @@
       "url": "https://www.heise.de/en/news/Not-sovereign-Microsoft-cannot-guarantee-the-security-of-EU-data-10494789.html"
     },
     {
+      "title": "Micron: Strahlenfester Flash-Speicher für das All",
+      "teaser": "Üblicher Flash-Speicher leidet im Weltall unter extremen Temperaturschwankungen und Strahlung. Micron stellt besonderen Speicher für solche Einsätze vor.",
+      "url": "https://www.heise.de/news/Micron-Strahlenfester-Flash-Speicher-fuer-das-All-10500906.html"
+    },
+    {
       "title": "c't 3003Wer braucht schon Plex? Jellyfin als Media-Server",
       "teaser": "Jellyfin ist die kostenlose Open-Source-Alternative zu Plex – flexibel, schön und überraschend einfach.",
       "url": "https://www.heise.de/news/Wer-braucht-schon-Plex-Jellyfin-als-Media-Server-10494662.html"
-    },
-    {
-      "title": "Podcast: Stimme geklaut – wie Deepfakes bereits genutzt werden",
-      "teaser": "Vera Bauers Stimme wirbt plötzlich für eine KI-App – gegen ihren Willen. In „They Talk Tech“ erzählt sie, wie KI Identitäten stiehlt.",
-      "url": "https://www.heise.de/news/Podcast-Stimme-geklaut-wie-Deepfakes-bereits-genutzt-werden-10499716.html"
     },
     {
       "title": "Meilenstein für QuantencomputerMagische Zustände für fehlerfreies Rechnen",
@@ -648,14 +647,15 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-4-25-Zauberwuerfel-Trainer-10498328.html"
     },
     {
+      "title": "ESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
+      "teaser": "Stopify erkennt laute Geräusche und pausiert automatisch Spotify, wenn es zu laut wird. Kehrt wieder Stille ein, wird die Wiedergabe automatisch fortgesetzt.",
+      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html",
+      "image_title": ","
+    },
+    {
       "title": "OpenDrop: Automatisiertes Biologielabor für den Schreibtisch",
       "teaser": "OpenDrop ist ein Open Source Biologielabor für den Desktop. Damit wird die Automatisierung eines Labors auf dem Schreibtisch möglich.",
       "url": "https://www.heise.de/news/OpenDrop-Automatisiertes-Biologielabor-in-einzelnen-Tropfen-10496263.html"
-    },
-    {
-      "title": "Der praxisorentierte Einsteig in RISC-V: Make Special jetzt im heise Shop",
-      "teaser": "Bare-Metal-Programming auf RISC-V in Assembler kann so einfach sein. Das Bundle aus Heft und ESP32-C6 führt praktisch durch Programmierung und Debugging.",
-      "url": "https://www.heise.de/news/Der-praxisorentierte-Einsteig-in-RISC-V-Make-Special-jetzt-im-heise-Shop-10487967.html"
     },
     {
       "title": "Naturgewalten im Bild: Tipps zum Fotografieren von Riesenwellen",
@@ -753,22 +753,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Die Rentenkürzung ist sicher",
-      "teaser": "Politik durch die Hintertür: Was Ihnen die Rentenauskunft nicht sagt – wie ein kaum beachteter Hebel Ihre Altersvorsorge schmälert. Analyse und Kommentar.",
-      "url": "https://www.heise.de/tp/features/Die-Rentenkuerzung-ist-sicher-10500889.html",
-      "image_title": "KI-generierte Grafik zeigt eine gezeichnetes Blatt mit der Überschrift Rentenbescheid und eine Lupe. Im Hintergrund Häuser"
-    },
-    {
-      "title": "Zollstreit mit den USA: Jetzt lässt die EU die Muskeln spielen​ ​",
-      "teaser": "Die EU und die USA ringen um eine Lösung im Zollstreit. Ein Basiszoll von 15 Prozent auf EU-Exporte zeichnet sich ab. Zückt Brüssel die \"Bazooka\"?",
-      "url": "https://www.heise.de/tp/features/Zollstreit-mit-den-USA-Jetzt-laesst-die-EU-die-Muskeln-spielen-10500581.html",
-      "image_title": "Dünner Mann in lustiger Pose"
+      "title": "Lesen Sie noch diesen Artikel und gehen Sie dann bitte spazieren",
+      "teaser": "Bewegung ist die beste Medizin – das belegt jetzt die größte Studie ihrer Art. 204.325 Menschen wurden dafür untersucht. Das Ergebnis ist so simpel wie bedeutsam.",
+      "url": "https://www.heise.de/tp/features/Lesen-Sie-noch-diesen-Artikel-und-gehen-Sie-dann-bitte-spazieren-10498706.html",
+      "image_title": "Frau wandert über Deichkrone, daneben Schafe am Hang"
     },
     {
       "title": "Chipfabrik-Wende: Dresden statt Silicon Valley in Sachsen-Anhalt",
       "teaser": "Intel sagt Chipfabrik in Magdeburg ab. Dresdner Firma FMC plant stattdessen Milliardenprojekt. Kann das Unternehmen die Lücke füllen?",
       "url": "https://www.heise.de/tp/features/Chipfabrik-Wende-Dresden-statt-Silicon-Valley-in-Sachsen-Anhalt-10499805.html",
       "image_title": "Pick and Place Maschine greift Chips auf"
+    },
+    {
+      "title": "GAZA VERHUNGERT!",
+      "teaser": "Zwei Millionen Menschen kämpfen ums nackte Überleben. Die Welt darf nicht tatenlos zusehen, wenn Kinder auf der Suche nach Brot zusammenbrechen. Ein Appell.",
+      "url": "https://www.heise.de/tp/features/GAZA-VERHUNGERT-10500800.html",
+      "image_title": "weinende Kinder mit Schüsseln an einer Nahrungsmittelausgabe"
     },
     {
       "title": "WordPress-Hosting: Anbieter im Vergleich",
