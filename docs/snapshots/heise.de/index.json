@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-27T10:10:37",
+  "timestamp": "2025-07-27T11:08:27",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Exchange Migration – von Exchange OnPrem zu Exchange Online",
+      "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-von-Exchange-OnPrem-zu-Exchange-Online-10490114.html"
+    },
     {
       "title": "Micron: Strahlenfester Flash-Speicher für das All",
       "url": "https://www.heise.de/news/Micron-Strahlenfester-Flash-Speicher-fuer-das-All-10500906.html"
@@ -60,10 +64,6 @@
     {
       "title": "AEG Comfort 6000 im Test: Gute mobile Klimaanlage mit Home-Assistant-Integration",
       "url": "https://www.heise.de/bestenlisten/testbericht/aeg-comfort-6000-im-test-gute-mobile-klimaanlage-mit-home-assistant-integration/dx6wcw8"
-    },
-    {
-      "title": "Deutscher Heizungsmarkt: Schlechteste Verkaufszahlen seit 15 Jahren befürchtet",
-      "url": "https://www.heise.de/news/Deutscher-Heizungsmarkt-Schlechteste-Verkaufszahlen-seit-15-Jahren-befuerchtet-10500768.html"
     },
     {
       "title": "Missing Linkfilm.com und die Pioniertage der Filmpublizistik im Internet",
@@ -190,20 +190,26 @@
       "url": "https://www.heise.de/news/Wer-braucht-schon-Plex-Jellyfin-als-Media-Server-10494662.html"
     },
     {
+      "title": "iX-Workshop: Exchange Migration – von Exchange OnPrem zu Exchange Online",
+      "teaser": "So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.",
+      "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-von-Exchange-OnPrem-zu-Exchange-Online-10490114.html",
+      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
+    },
+    {
       "title": "Micron: Strahlenfester Flash-Speicher für das All",
       "teaser": "Üblicher Flash-Speicher leidet im Weltall unter extremen Temperaturschwankungen und Strahlung. Micron stellt besonderen Speicher für solche Einsätze vor.",
       "url": "https://www.heise.de/news/Micron-Strahlenfester-Flash-Speicher-fuer-das-All-10500906.html"
+    },
+    {
+      "title": "Konkrete Ansätze für mehr digitale Souveränität",
+      "teaser": "Digitale Souveränität sollte derzeit höchste Priorität genießen. Doch oft wird sie nicht ganzheitlich gedacht und falsch eingeschätzt. Hilfreich ist deshalb ein Souveränitätscheck für IT-Entscheider.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7029451633&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "ESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
       "teaser": "Stopify erkennt laute Geräusche und pausiert automatisch Spotify, wenn es zu laut wird. Kehrt wieder Stille ein, wird die Wiedergabe automatisch fortgesetzt.",
       "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html",
       "image_title": ","
-    },
-    {
-      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
-      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "InfoDays: Software-Architektur mit Fokus auf Praxis",
@@ -231,12 +237,6 @@
       "title": "AEG Comfort 6000 im Test: Gute mobile Klimaanlage mit Home-Assistant-Integration",
       "teaser": "Die mobile Klimaanlage AEG Comfort 6000 bietet neben der starken Kühlleistung von 9000 BTU/h einen Heiz- sowie Schlafmodus. Wie gut sie ist, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/aeg-comfort-6000-im-test-gute-mobile-klimaanlage-mit-home-assistant-integration/dx6wcw8?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Meta: Keine politische Werbung mehr auf Instagram und Facebook und Co",
-      "teaser": "Der Meta-Konzern will in der EU politische Werbung auf seinen Plattformen abschaffen. Als Grund nennt er eine EU-Verordnung.",
-      "url": "https://www.heise.de/news/Meta-Keine-politische-Werbung-mehr-auf-Instagram-und-Facebook-und-Co-10500720.html",
-      "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
     },
     {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
@@ -307,6 +307,12 @@
       "image_title": "heise+ 4 Monate mit 40 % Rabatt"
     },
     {
+      "title": "Meta: Keine politische Werbung mehr auf Instagram und Facebook und Co",
+      "teaser": "Der Meta-Konzern will in der EU politische Werbung auf seinen Plattformen abschaffen. Als Grund nennt er eine EU-Verordnung.",
+      "url": "https://www.heise.de/news/Meta-Keine-politische-Werbung-mehr-auf-Instagram-und-Facebook-und-Co-10500720.html",
+      "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
+    },
+    {
       "title": "BSI veröffentlicht Whitepaper zum Bias in der KI",
       "teaser": "Wenn sich KI-Systeme nicht so verhalten, wie erwünscht, stecken oft Verzerrungen in den Daten dahinter. Das BSI erklärt, wie man den Bias im System erkennt.",
       "url": "https://www.heise.de/news/BSI-veroeffentlicht-Whitepaper-zum-Bias-in-der-KI-10500716.html"
@@ -374,15 +380,15 @@
       "url": "https://www.heise.de/hintergrund/Lego-Alternativen-Wie-guenstige-Klemmbausteine-dem-Marktfuehrer-Konkurrenz-machen-10481576.html"
     },
     {
+      "title": "KI-Agenten im Angriff: Das neue Gesicht des Social Engineering",
+      "teaser": "Wie verändert KI die Spielregeln bei Social-Engineering-Attacken? Im Live-Webcast am 21.8.2025 erfahren Sie, welche Risiken und Abwehrmöglichkeiten die neue Technologie mit sich bringt.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/ki-agenten-im-angriff-das-neue-gesicht-des-social-engineering-4950?source=hbsad-ersatz"
+    },
+    {
       "title": "Drei Fragen und Antworten: Schluss mit \"erst regulieren und dann entwickeln\"",
       "teaser": "Souveränität trotz US-Software – GEMA International will den Spagat schaffen. Wir haben mit dem Anbieter über die Herausforderungen und Chancen gesprochen.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Schluss-mit-erst-regulieren-und-dann-entwickeln-10500262.html",
       "image_title": "Roboter mit Sprechblase"
-    },
-    {
-      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
-      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
     },
     {
       "title": "Top 10: Der beste günstige Mini-PC mit Windows 11 für unter 300 Euro",
@@ -433,12 +439,6 @@
       "title": "KI-Update: Trumps AI-Plan, Google, KI am Fraport, Chatbot mit Datenschutz",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-Trumps-AI-Plan-Google-KI-am-Fraport-Chatbot-mit-Datenschutz-10499413.html"
-    },
-    {
-      "title": "Naturgewalten im Bild: Tipps zum Fotografieren von Riesenwellen",
-      "teaser": "Wie man Wind und Wetter einfängt – Tipps für eindrucksvolle Aufnahmen an der Küste.",
-      "url": "https://www.heise.de/ratgeber/Naturgewalten-im-Bild-Tipps-zum-Fotografieren-von-Riesenwellen-10485820.html",
-      "image_title": "An seltenen Tagen erreichen die Wellen auf der Ostsee bei Oststurm eine Höhe von über drei Metern (ungebrochen). Dann können Sie mit Wellen rechnen, die sich an der Mole brechen, wie hier am Leuchtturm von Sassnitz auf Rügen., Alle Bilder: Bastian Werner"
     },
     {
       "title": "Zucker, Brot und Kabelpeitsche: Der C64 kehrt zurück",
@@ -608,20 +608,19 @@
       "url": "https://www.heise.de/en/news/Not-sovereign-Microsoft-cannot-guarantee-the-security-of-EU-data-10494789.html"
     },
     {
-      "title": "Micron: Strahlenfester Flash-Speicher für das All",
-      "teaser": "Üblicher Flash-Speicher leidet im Weltall unter extremen Temperaturschwankungen und Strahlung. Micron stellt besonderen Speicher für solche Einsätze vor.",
-      "url": "https://www.heise.de/news/Micron-Strahlenfester-Flash-Speicher-fuer-das-All-10500906.html"
-    },
-    {
       "title": "c't 3003Wer braucht schon Plex? Jellyfin als Media-Server",
       "teaser": "Jellyfin ist die kostenlose Open-Source-Alternative zu Plex – flexibel, schön und überraschend einfach.",
       "url": "https://www.heise.de/news/Wer-braucht-schon-Plex-Jellyfin-als-Media-Server-10494662.html"
     },
     {
-      "title": "Meilenstein für QuantencomputerMagische Zustände für fehlerfreies Rechnen",
-      "teaser": "Forscher haben magische Quantenzustände in einem Quantencomputer mit Fehlerkorrektur hergestellt – ein essenzieller Schritt.",
-      "url": "https://www.heise.de/news/Magische-Zustaende-fuer-fehlerfreies-Quantenrechnen-10500288.html",
-      "image_title": "QuEras Gemini Quantenrechner"
+      "title": "DJI zum E-Bike-Leistungsstreit“Keine klare Grundlage für 750 Watt”",
+      "teaser": "Mit dem Avinox-Antrieb hat DJI die E-Bike-Industrie geschockt. Nun reagiert der Hersteller auf die Vorwürfe der Konkurrenz.",
+      "url": "https://www.heise.de/news/DJI-zum-E-Bike-Leistungsstreit-Keine-klare-Grundlage-fuer-750-Watt-10499991.html"
+    },
+    {
+      "title": "Netzwerkpraxis: Fehlersuche mittels ICMP-Rückmeldungen – und Beispielen",
+      "teaser": "Wenn es im Netz knirscht, wo fangen Sie an mit der Fehlersuche? Unser Tipp: Tasten Sie Ihre Netzwerkpatienten mal nach ICMP-Symptomen ab.",
+      "url": "https://www.heise.de/ratgeber/Netzwerkpraxis-Fehlersuche-mittels-ICMP-Rueckmeldungen-und-Beispielen-10453020.html"
     },
     {
       "title": "Vom Text zum Bild: So funktioniert Stable Diffusion",
@@ -753,22 +752,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Lesen Sie noch diesen Artikel und gehen Sie dann bitte spazieren",
-      "teaser": "Bewegung ist die beste Medizin – das belegt jetzt die größte Studie ihrer Art. 204.325 Menschen wurden dafür untersucht. Das Ergebnis ist so simpel wie bedeutsam.",
-      "url": "https://www.heise.de/tp/features/Lesen-Sie-noch-diesen-Artikel-und-gehen-Sie-dann-bitte-spazieren-10498706.html",
-      "image_title": "Frau wandert über Deichkrone, daneben Schafe am Hang"
+      "title": "KI und Neurologie: Die Gedanken waren frei, jeder kann sie erraten",
+      "teaser": "Forscher können Gedanken bereits aus Hirnströmen nachverfolgen. Die Technik nutzt KI und spezielle EEG-Geräte. Was bedeutet das für die geistige Privatsphäre?",
+      "url": "https://www.heise.de/tp/features/KI-und-Neurologie-Die-Gedanken-waren-frei-jeder-kann-sie-erraten-10500623.html",
+      "image_title": "Silhouette eines Frauenkopfens, darin ein Schlüsselloch, Hand mit Schlüssel"
     },
     {
-      "title": "Chipfabrik-Wende: Dresden statt Silicon Valley in Sachsen-Anhalt",
-      "teaser": "Intel sagt Chipfabrik in Magdeburg ab. Dresdner Firma FMC plant stattdessen Milliardenprojekt. Kann das Unternehmen die Lücke füllen?",
-      "url": "https://www.heise.de/tp/features/Chipfabrik-Wende-Dresden-statt-Silicon-Valley-in-Sachsen-Anhalt-10499805.html",
-      "image_title": "Pick and Place Maschine greift Chips auf"
+      "title": "Ukraine 2025: Droht Selenskyj sein persönlicher Maidan?",
+      "teaser": "Massenprotest gegen Schwächung der Antikorruptionsbehörden. Demonstranten missachten Ausgangssperre. Steht die Ukraine vor einem Umsturz?",
+      "url": "https://www.heise.de/tp/features/Ukraine-2025-Droht-Selenskyj-sein-persoenlicher-Maidan-10500870.html",
+      "image_title": "Wolodymyr Selenskyj"
     },
     {
-      "title": "GAZA VERHUNGERT!",
-      "teaser": "Zwei Millionen Menschen kämpfen ums nackte Überleben. Die Welt darf nicht tatenlos zusehen, wenn Kinder auf der Suche nach Brot zusammenbrechen. Ein Appell.",
-      "url": "https://www.heise.de/tp/features/GAZA-VERHUNGERT-10500800.html",
-      "image_title": "weinende Kinder mit Schüsseln an einer Nahrungsmittelausgabe"
+      "title": "Chinas Weg: Wie Beijing vom Vermittler zum Unterstützer Russlands wurde",
+      "teaser": "China zeigt beim EU-Gipfel in Beijing sein neues Selbstbewusstsein. Die Volksrepublik präsentiert sich im 50. Jahr der diplomatischen Beziehungen stärker denn je. Was uns eine Drohne verrät. Ein Telepolis-Leitartikel.",
+      "url": "https://www.heise.de/tp/features/Chinas-Weg-Wie-Beijing-vom-Vermittler-zum-Unterstuetzer-Russlands-wurde-10499985.html",
+      "image_title": "Drohne in russischen Farben mit chinesischen Legendenmarkern"
     },
     {
       "title": "WordPress-Hosting: Anbieter im Vergleich",
