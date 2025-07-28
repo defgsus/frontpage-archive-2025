@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-28T08:16:59",
+  "timestamp": "2025-07-28T09:17:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,49 @@
   ],
   "articles": [
     {
+      "title": "Die Produktwerker: Designprinzipien für bessere Entscheidungen",
+      "teaser": "Designprinzipien helfen Teams, bessere Entscheidungen zu treffen, gerade wenn einmal niemand aus UX oder Produktmanagement dabei ist.",
+      "url": "https://www.heise.de/blog/Die-Produktwerker-Designprinzipien-fuer-bessere-Entscheidungen-10501308.html",
+      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
+    },
+    {
+      "title": "TI-Messenger im Gesundheitswesen: Wissenswertes für Versicherte",
+      "teaser": "Chatten mit Ärzten und Pflegepersonal – der TI-Messenger \"TIM\" soll sensible Gesundheitsdaten schützen und einen sicheren Datenaustausch ermöglichen.",
+      "url": "https://www.heise.de/hintergrund/TI-Messenger-im-Gesundheitswesen-Wissenswertes-fuer-Versicherte-10501229.html",
+      "image_title": "Älterer Mann am Smartphone"
+    },
+    {
+      "title": "Datenparallele Datentypen in C++26: Reduktion eines SIMD-Vektors",
+      "teaser": "C++ 26 bietet in der Standardbibliothek drei Funktionen, um einen SIMD-Vektor auf ein einzelnes Element zu reduzieren.",
+      "url": "https://www.heise.de/blog/Datenparallele-Datentypen-in-C-26-Reduktion-eines-SIMD-Vektors-10501243.html",
+      "image_title": "Holzwürfel mit dem Schriftzug C++"
+    },
+    {
+      "title": "AI6Tesla lässt Samsung Chips im Wert von 16,5 Milliarden US-Dollar herstellen",
+      "teaser": "Samsungs Chipsparte kann endlich wieder einen großen Auftrag verzeichnen. Tesla lässt dort den AI6-Prozessor fertigen.",
+      "url": "https://www.heise.de/news/Tesla-wechselt-von-Samsung-zu-TSMC-zurueck-zu-Samsung-10501426.html",
+      "image_title": "Silizium-Wafer in der Produktion"
+    },
+    {
+      "title": "HintergrundLiquid Glass: Apples neue Oberfläche für iOS 26, macOS 26 und Co. im Detail",
+      "url": "https://www.heise.de/hintergrund/Liquid-Glass-Apples-neue-Oberflaeche-fuer-iOS-26-macOS-26-und-Co-im-Detail-10487350.html",
+      "image_title": ", Apple"
+    },
+    {
+      "title": "HintergrundDezentrales Identitätsmanagement: Potenziale und Herausforderungen",
+      "url": "https://www.heise.de/hintergrund/Dezentrales-Identitaetsmanagement-Potenziale-und-Herausforderungen-10486340.html"
+    },
+    {
+      "title": "RatgeberNetzwerkpraxis: Fehlersuche mittels ICMP-Rückmeldungen – und Beispielen",
+      "url": "https://www.heise.de/ratgeber/Netzwerkpraxis-Fehlersuche-mittels-ICMP-Rueckmeldungen-und-Beispielen-10453020.html"
+    },
+    {
+      "title": "AlertSicherheitsupdates: Schadcode-Lücken in GPU-Treibern von Nvidia geschlossen",
+      "teaser": "Angreifer können Linux und Windows-Systeme mit Grafikkartentreibern oder der vGPU-Software von Nvidia attackieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Luecken-in-GPU-Treibern-von-Nvidia-geschlossen-10501190.html",
+      "image_title": "Time-to-Update-Taste auf einer Tastatur"
+    },
+    {
       "title": "c't-Workshop: Microsoft 365 im Griff",
       "teaser": "Erfahren Sie im Workshop, wie Sie Teams und andere Tools produktiv in Ihrem Team nutzen. Im Mittelpunkt steht die Zusammenarbeit, nicht die Technik.",
       "url": "https://www.heise.de/news/c-t-Workshop-Microsoft-365-im-Griff-10480840.html"
@@ -47,19 +90,6 @@
       "teaser": "Lernen Sie, wie Sie KI-gestützte Architekturen konzipieren, die skalierbar, sicher und wartbar sind - mit Fokus auf ML, GenKI, Datenstrategie und Compliance.",
       "url": "https://www.heise.de/news/iX-Workshop-Softwarearchitektur-fuer-KI-Systeme-skalierbare-Loesungen-entwickeln-10497206.html",
       "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
-    },
-    {
-      "title": "HintergrundLiquid Glass: Apples neue Oberfläche für iOS 26, macOS 26 und Co. im Detail",
-      "url": "https://www.heise.de/hintergrund/Liquid-Glass-Apples-neue-Oberflaeche-fuer-iOS-26-macOS-26-und-Co-im-Detail-10487350.html",
-      "image_title": ", Apple"
-    },
-    {
-      "title": "HintergrundDezentrales Identitätsmanagement: Potenziale und Herausforderungen",
-      "url": "https://www.heise.de/hintergrund/Dezentrales-Identitaetsmanagement-Potenziale-und-Herausforderungen-10486340.html"
-    },
-    {
-      "title": "RatgeberNetzwerkpraxis: Fehlersuche mittels ICMP-Rückmeldungen – und Beispielen",
-      "url": "https://www.heise.de/ratgeber/Netzwerkpraxis-Fehlersuche-mittels-ICMP-Rueckmeldungen-und-Beispielen-10453020.html"
     },
     {
       "title": "Drei Fragen und Antworten: Container und Open Source statt VMware – geht das?",
@@ -117,34 +147,6 @@
       "title": "Trotec PAC 2015 E im Test: Kompakte mobile Klimaanlage passt in jedes Zimmer",
       "teaser": "Die mobile Klimaanlage Trotec PAC 2015 E fällt durch ihr kompaktes Design auf. Ob sie trotz ihrer Größe auch die nötige Kühlleistung erbringt, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/trotec-pac-2015-e-im-test-kompakte-mobile-klimaanlage-passt-in-jedes-zimmer/dy56dv9?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Micron: Strahlenfester Flash-Speicher für das All",
-      "teaser": "Üblicher Flash-Speicher leidet im Weltall unter extremen Temperaturschwankungen und Strahlung. Micron stellt besonderen Speicher für solche Einsätze vor.",
-      "url": "https://www.heise.de/news/Micron-Strahlenfester-Flash-Speicher-fuer-das-All-10500906.html"
-    },
-    {
-      "title": "InfoDays: Software-Architektur mit Fokus auf Praxis",
-      "teaser": "Ein neues Konferenzformat zeigt, wie Software-Architektur in echten Projekten funktioniert – mit Erfahrungsberichten von Fachleuten aus verschiedenen Rollen.",
-      "url": "https://www.heise.de/news/InfoDays-Software-Architektur-mit-Fokus-auf-Praxis-10499818.html",
-      "image_title": "InfoDays"
-    },
-    {
-      "title": "Großbritannien: Pornhub und Co knicken bei Altersverifizierung ein",
-      "teaser": "Tausende Porno-Anbieter in Großbritannien haben sich verpflichtet, in all ihren Diensten Altersprüfungen einzuführen, freut sich die Regulierungsbehörde Ofcom.",
-      "url": "https://www.heise.de/news/Grossbritannien-Pornhub-und-Co-knicken-bei-Altersverifizierung-ein-10500822.html",
-      "image_title": "Mann schaut in einem abgedunkelten Raum pornografische Bilder auf einem Computerbildschirm an."
-    },
-    {
-      "title": "OLG-Urteil: Spieler können Verluste bei illegalem Online-Casino zurückfordern",
-      "teaser": "Verträge mit Anbietern von Online-Glücksspielen, die keine gültige deutsche Lizenz haben, sind oft nichtig, hat das Oberlandesgericht Brandenburg entschieden.",
-      "url": "https://www.heise.de/news/OLG-Urteil-Spieler-koennen-Verluste-bei-illegalem-Online-Casino-zurueckfordern-10500796.html",
-      "image_title": "Recht: Online-Glücksspiel"
-    },
-    {
-      "title": "BSI veröffentlicht Whitepaper zum Bias in der KI",
-      "teaser": "Wenn sich KI-Systeme nicht so verhalten, wie erwünscht, stecken oft Verzerrungen in den Daten dahinter. Das BSI erklärt, wie man den Bias im System erkennt.",
-      "url": "https://www.heise.de/news/BSI-veroeffentlicht-Whitepaper-zum-Bias-in-der-KI-10500716.html"
     },
     {
       "title": "NewsEventim: \"Ticket-Scalping\" inzwischen bei allen Veranstaltungen",
