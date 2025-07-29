@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-29T18:16:12",
+  "timestamp": "2025-07-29T19:13:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "IT-Einbruch bei Telecom-Konzern Orange",
+      "url": "https://www.heise.de/news/IT-Einbruch-bei-Telecom-Konzern-Orange-10503697.html"
+    },
     {
       "title": "Top 10: Die besten Smartphones im Test – Xiaomi ist Testsieger der Bestenliste",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smartphones-im-test-xiaomi-ist-testsieger-der-bestenliste/5qx1bd1"
@@ -60,10 +64,6 @@
     {
       "title": "Home Gym im Test: Speediance Gym Monster 2 will ein komplettes Fitness-Studio sein",
       "url": "https://www.heise.de/bestenlisten/testbericht/home-gym-im-test-speediance-gym-monster-2-ist-ein-komplettes-fitness-studio/trddppt"
-    },
-    {
-      "title": "Arzt-Software: CompuGroup Medical gewinnt Ausschreibung der Bundeswehr",
-      "url": "https://www.heise.de/news/Arzt-Software-CompuGroup-Medical-gewinnt-Ausschreibung-der-Bundeswehr-10503435.html"
     },
     {
       "title": "Study ModeOpenAI führt Lernmodus für ChatGPT ein",
@@ -187,20 +187,26 @@
       "image_title": "Europa, USA, Schild"
     },
     {
+      "title": "IT-Einbruch bei Telecom-Konzern Orange",
+      "teaser": "Orange ist Opfer eines IT-Angriffs, was Betriebsstörungen verursacht. Nähere Angaben verweigert der französische Netzbetreiber.",
+      "url": "https://www.heise.de/news/IT-Einbruch-bei-Telecom-Konzern-Orange-10503697.html",
+      "image_title": "Orange Würfel mit weißer Aufschrift \"orange\" steht im Hof eines Bürogebäudes mit viel Glas"
+    },
+    {
       "title": "Top 10: Die besten Smartphones im Test – Xiaomi ist Testsieger der Bestenliste",
       "teaser": "Xiaomi, Samsung, Apple & Co. liefern echte Technik-Highlights. Doch welche Handys gehören zur Spitzenklasse? Wir zeigen die besten Smartphones im Test.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smartphones-im-test-xiaomi-ist-testsieger-der-bestenliste/5qx1bd1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
+      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iOS 18.6 und macOS 15.6: Bugfixes und vereinfachtes Sideloading",
       "teaser": "Das jüngste Update beseitigt Hürden beim Download von iPhone-Apps außerhalb des offiziellen App Stores. Für alle Apple-Systeme gibt es wichtige Patches.",
       "url": "https://www.heise.de/news/iOS-18-6-ist-da-Apple-muss-Sideloading-in-der-EU-vereinfachen-10502227.html",
       "image_title": "Eine Hand hälte ein iPhone, darunter steht ein geöffnetes MacBook"
-    },
-    {
-      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
-      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Software auf Irrwegen: Wie Softwarehersteller ihre Nutzer vergraulen",
@@ -229,12 +235,6 @@
       "teaser": "CompuGroup Medical erhält einen Großauftrag zur Digitalisierung des Sanitätsdienstes der Bundeswehr und soll Software für Ärzte entwickeln.",
       "url": "https://www.heise.de/news/Arzt-Software-CompuGroup-Medical-gewinnt-Ausschreibung-der-Bundeswehr-10503435.html",
       "image_title": "Person in Weißkittel zeigt mit dem rechten Zeigefinger auf ein Kreuz. In der linken Hand ein elektronisches Tablet."
-    },
-    {
-      "title": "High-End-Webcam: 4K-Video mit 60 fps und Wechselfiltern",
-      "teaser": "Das Bild der Elgato Facecam 4K kann mit Wechselfiltern angepasst werden. Obendrein bietet sie 4K-Auflösung bei 60 fps.",
-      "url": "https://www.heise.de/news/Elgato-Facecam-4K-Webcam-mit-HDR-und-Wechselfiltern-10503316.html",
-      "image_title": "Elgato Webcam Facecam 4K auf Monotor mit Software"
     },
     {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
@@ -305,6 +305,12 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "High-End-Webcam: 4K-Video mit 60 fps und Wechselfiltern",
+      "teaser": "Das Bild der Elgato Facecam 4K kann mit Wechselfiltern angepasst werden. Obendrein bietet sie 4K-Auflösung bei 60 fps.",
+      "url": "https://www.heise.de/news/Elgato-Facecam-4K-Webcam-mit-HDR-und-Wechselfiltern-10503316.html",
+      "image_title": "Elgato Webcam Facecam 4K auf Monotor mit Software"
+    },
+    {
       "title": "Europäischer Cloud-Markt wächst – und US-Anbieter profitieren",
       "teaser": "Obwohl europäische Cloud-Anbieter wachsen, beherrschen US-Hyperscaler den hiesigen Markt. Souveränitäts-Diskussionen scheinen keinen Unterschied zu machen.",
       "url": "https://www.heise.de/news/Europaeischer-Cloud-Markt-waechst-und-US-Anbieter-profitieren-10503280.html",
@@ -373,15 +379,15 @@
       "url": "https://www.heise.de/ratgeber/Medizin-Digitalisierung-Kuenstliche-Intelligenz-sinnvoll-einsetzen-10463930.html"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "Arduino Nano R4: Kompakt, kompatibel, kraftvoll",
       "teaser": "Hohe Leistung des ARM-Cortex-M4 und Kompatibilität zum UNO R4 auf kleinstem Raum. Der Nano R4 ist verfügbar und zum klassischen AVR-Nano kompatibel.",
       "url": "https://www.heise.de/news/Arduino-Nano-R4-Kompakt-kompatibel-kraftvoll-10502972.html",
       "image_title": "Arduino Nano R4 Arduino Logo"
-    },
-    {
-      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
-      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "RWE setzt erstes Windkraftanlagen-Fundament für 1,6-GW-Nordseecluster",
@@ -435,12 +441,6 @@
       "teaser": "800 Millimeter aus der Hand? Nikon hat mit dem Z 6.3/800 ein Supertele fürs Fotografieren aus der Hand im Programm. Wie schlägt es sich auf Safari? Ein Test.",
       "url": "https://www.heise.de/tests/Praxistest-Mit-dem-Nikon-Z-6-3-800-Objektiv-auf-Safari-10485840.html",
       "image_title": ", Nikon"
-    },
-    {
-      "title": "Grafana 12.1 startet öffentliche Preview für Monitoring-Tool Grafana Advisor",
-      "teaser": "Die Neuerungen umfassen automatisierte Health Checks mit Grafana Advisor, eine neue Übersicht für Benachrichtigungsregeln und flexiblere Datenvisualisierungen.",
-      "url": "https://www.heise.de/news/Grafana-12-1-startet-oeffentliche-Preview-fuer-Monitoring-Tool-Grafana-Advisor-10502704.html",
-      "image_title": "Person vor Bildschirmen mit Datenvisualisierungen"
     },
     {
       "title": "AI6: Tesla lässt Samsung Chips im Wert von 16,5 Milliarden US-Dollar herstellen",
@@ -613,15 +613,15 @@
       "url": "https://www.heise.de/en/news/Tesla-switches-from-Samsung-to-TSMC-back-to-Samsung-10501487.html"
     },
     {
-      "title": "Retrokonsolen mittels Hardware-Modifikationen in die Gegenwart holen",
-      "teaser": "Dank Bluetooth- und HDMI-Modkits verbinden sich N64, PS2 & Co. mit kabellosen Controllern und modernen Fernsehern.",
-      "url": "https://www.heise.de/hintergrund/Retrokonsolen-mittels-Hardware-Modifikationen-in-die-Gegenwart-holen-10336127.html"
-    },
-    {
       "title": "Drohnenführerschein Amt besteht auf Zahlung trotz fehlendem Hinweis auf Kosten",
       "teaser": "Das LBA fordert Nutzer auf, für 2021 abgelegte Drohnenführerschein-Prüfungen zu zahlen. Die Rechtmäßigkeit ist zweifelhaft.",
       "url": "https://www.heise.de/news/Drohnenfuehrerschein-Amt-besteht-auf-Zahlung-trotz-fehlendem-Hinweis-auf-Kosten-10502624.html",
       "image_title": "Kostenbescheid vom Luftfahrbundesamt"
+    },
+    {
+      "title": "Retrokonsolen mittels Hardware-Modifikationen in die Gegenwart holen",
+      "teaser": "Dank Bluetooth- und HDMI-Modkits verbinden sich N64, PS2 & Co. mit kabellosen Controllern und modernen Fernsehern.",
+      "url": "https://www.heise.de/hintergrund/Retrokonsolen-mittels-Hardware-Modifikationen-in-die-Gegenwart-holen-10336127.html"
     },
     {
       "title": "Was die Hightech-Agenda der Bundesregierung für die Quantentechnologie bedeutet",
@@ -653,20 +653,15 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-4-25-Zauberwuerfel-Trainer-10498328.html"
     },
     {
+      "title": "ESP32-Projekt: Stopify – Spotify bei Lärm pausieren",
+      "teaser": "Stopify erkennt laute Geräusche und pausiert automatisch Spotify, wenn es zu laut wird. Kehrt wieder Stille ein, wird die Wiedergabe automatisch fortgesetzt.",
+      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Stopify-Spotify-bei-Laerm-pausieren-10492093.html",
+      "image_title": ","
+    },
+    {
       "title": "OpenDrop: Automatisiertes Biologielabor für den Schreibtisch",
       "teaser": "OpenDrop ist ein Open Source Biologielabor für den Desktop. Damit wird die Automatisierung eines Labors auf dem Schreibtisch möglich.",
       "url": "https://www.heise.de/news/OpenDrop-Automatisiertes-Biologielabor-in-einzelnen-Tropfen-10496263.html"
-    },
-    {
-      "title": "Der praxisorentierte Einsteig in RISC-V: Make Special jetzt im heise Shop",
-      "teaser": "Bare-Metal-Programming auf RISC-V in Assembler kann so einfach sein. Das Bundle aus Heft und ESP32-C6 führt praktisch durch Programmierung und Debugging.",
-      "url": "https://www.heise.de/news/Der-praxisorentierte-Einsteig-in-RISC-V-Make-Special-jetzt-im-heise-Shop-10487967.html"
-    },
-    {
-      "title": "Praxistest: Mit dem Nikon Z 6.3/800 Objektiv auf Safari",
-      "teaser": "800 Millimeter aus der Hand? Nikon hat mit dem Z 6.3/800 ein Supertele fürs Fotografieren aus der Hand im Programm. Wie schlägt es sich auf Safari? Ein Test.",
-      "url": "https://www.heise.de/tests/Praxistest-Mit-dem-Nikon-Z-6-3-800-Objektiv-auf-Safari-10485840.html",
-      "image_title": ", Nikon"
     },
     {
       "title": "Fotografische Vielfalt – Die Bilder der Woche 30",
@@ -683,6 +678,11 @@
       "teaser": "Wie man Wind und Wetter einfängt – Tipps für eindrucksvolle Aufnahmen an der Küste.",
       "url": "https://www.heise.de/ratgeber/Naturgewalten-im-Bild-Tipps-zum-Fotografieren-von-Riesenwellen-10485820.html",
       "image_title": "An seltenen Tagen erreichen die Wellen auf der Ostsee bei Oststurm eine Höhe von über drei Metern (ungebrochen). Dann können Sie mit Wellen rechnen, die sich an der Mole brechen, wie hier am Leuchtturm von Sassnitz auf Rügen., Alle Bilder: Bastian Werner"
+    },
+    {
+      "title": "Auf Fototour in Transsilvanien: Mythen und Bilderbuchlandschaften vor der Kamera",
+      "teaser": "Imposante Burgen, malerische Dörfer und atemberaubende Landschaften – eine Reise ins Herz Rumäniens ist besonders für Fotografen ein Erlebnis.",
+      "url": "https://www.heise.de/ratgeber/Auf-Fototour-in-Transsilvanien-Mythen-und-Bilderbuchlandschaften-vor-der-Kamera-10489066.html"
     },
     {
       "title": "Produkt- und Prozess-Testing: Was gutes Testmanagement ausmacht",
@@ -759,10 +759,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Von der Leyens große Täuschung: Warum die EU-Führung im Zollstreit versagt hat",
-      "teaser": "Europa zahlt Milliarden für globale Probleme. Die USA profitieren, die EU geht zu oft leer aus. Wohin führt dieser Kurs? Ein Telepolis-Leitartikel.",
-      "url": "https://www.heise.de/tp/features/Von-der-Leyens-grosse-Taeuschung-Warum-die-EU-Fuehrung-im-Zollstreit-versagt-hat-10501090.html",
-      "image_title": "Ursula, von der Leyen vor der EU Fahne, den Daumen gehoben"
+      "title": "Nach dem Zwölftage-Krieg: Warum ein Regimewechsel im Iran in weiter Ferne liegt",
+      "teaser": "Iran überstand Israels Angriff, doch die Region bleibt fragil. Das Regime verhinderte den Sturz, steht aber vor Krisen. Doch die größte Gefahr lauert im Inneren.",
+      "url": "https://www.heise.de/tp/features/Nach-dem-Zwoelftage-Krieg-Warum-ein-Regimewechsel-im-Iran-in-weiter-Ferne-liegt-10502867.html",
+      "image_title": "Eine Frau vor einer Wand mit Grafik"
     },
     {
       "title": "Palantir-Deal in Baden-Württemberg: Kontrolle erst nach dem Kauf",
@@ -771,10 +771,10 @@
       "image_title": "Ein Kampfjet hinter Palantir Logo"
     },
     {
-      "title": "Impfkampagne ein Flop? Studie deckt ernüchternde Zahlen auf",
-      "teaser": "Eine neue Studie zeigt: Die Covid-Impfkampagne rettete weniger Leben als gedacht. Bei unter 20-Jährigen waren es nur 0,01 Prozent. Eine aufklärende Einordnung.",
-      "url": "https://www.heise.de/tp/features/Impfkampagne-ein-Flop-Studie-deckt-ernuechternde-Zahlen-auf-10502598.html",
-      "image_title": "Kind bekommt Spritze und hält Teddybär die Augen zu"
+      "title": "Von der Leyens große Täuschung: Warum die EU-Führung im Zollstreit versagt hat",
+      "teaser": "Europa zahlt Milliarden für globale Probleme. Die USA profitieren, die EU geht zu oft leer aus. Wohin führt dieser Kurs? Ein Telepolis-Leitartikel.",
+      "url": "https://www.heise.de/tp/features/Von-der-Leyens-grosse-Taeuschung-Warum-die-EU-Fuehrung-im-Zollstreit-versagt-hat-10501090.html",
+      "image_title": "Ursula, von der Leyen vor der EU Fahne, den Daumen gehoben"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
