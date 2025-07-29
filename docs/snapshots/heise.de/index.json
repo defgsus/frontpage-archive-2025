@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-29T09:16:08",
+  "timestamp": "2025-07-29T10:12:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Jetzt in der Make 4/25: Lasersteuerung",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-4-25-Lasersteuerung-10501884.html"
+    },
+    {
+      "title": "Medizin-Digitalisierung: Künstliche Intelligenz sinnvoll einsetzen",
+      "url": "https://www.heise.de/ratgeber/Medizin-Digitalisierung-Kuenstliche-Intelligenz-sinnvoll-einsetzen-10463930.html"
+    },
+    {
+      "title": "Arduino Nano R4: Kompakt, kompatibel, kraftvoll",
+      "url": "https://www.heise.de/news/Arduino-Nano-R4-Kompakt-kompatibel-kraftvoll-10502972.html"
+    },
+    {
+      "title": "RWE setzt erstes Windkraftanlagen-Fundament für 1,6-GW-Nordseecluster",
+      "url": "https://www.heise.de/news/RWE-setzt-erstes-Windkraftanlagen-Fundament-fuer-1-6-GW-Nordseecluster-10502873.html"
+    },
+    {
       "title": "Microsoft-Forscher finden TCC-Lücke in Apples Spotlight: Datenleak droht",
       "url": "https://www.heise.de/news/Microsoft-Forscher-finden-TCC-Luecke-in-Apples-Spotlight-Datenleak-droht-10502735.html"
     },
@@ -48,22 +64,6 @@
     {
       "title": "GitHub Spark: Vibe Coding für KI-fähige Web-Apps mit Front- und Backend",
       "url": "https://www.heise.de/news/GitHub-Spark-Vibe-Coding-fuer-KI-faehige-Web-Apps-mit-Front-und-Backend-10502645.html"
-    },
-    {
-      "title": "Bericht: Apple wollte KI-Grundmodelle quelloffen stellen",
-      "url": "https://www.heise.de/news/Bericht-Apple-wollte-KI-Grundmodelle-quelloffen-stellen-10501774.html"
-    },
-    {
-      "title": "Gaming: Fast jedes PC-Spiel wird als Download gekauft",
-      "url": "https://www.heise.de/news/Gaming-Fast-jedes-PC-Spiel-wird-als-Download-gekauft-10502772.html"
-    },
-    {
-      "title": "Drohenführerschein: Amt besteht auf Zahlung trotz fehlendem Hinweis auf Kosten",
-      "url": "https://www.heise.de/news/Drohnenfuehrerschein-Amt-besteht-auf-Zahlung-trotz-fehlendem-Hinweis-auf-Kosten-10502624.html"
-    },
-    {
-      "title": "Praxistest: Mit dem Nikon Z 6.3/800 Objektiv auf Safari",
-      "url": "https://www.heise.de/tests/Praxistest-Mit-dem-Nikon-Z-6-3-800-Objektiv-auf-Safari-10485840.html"
     },
     {
       "title": "Drohnenführerschein Amt besteht auf Zahlung trotz fehlendem Hinweis auf Kosten",
@@ -96,14 +96,14 @@
       "image_title": "Tom Lehrer tritt an der UCLA auf"
     },
     {
-      "title": "Mobile-EntwicklungSMS war gestern: Wie RCS das Messaging revolutioniert",
-      "teaser": "Mehr Funktionen, Sicherheit und Interaktion – RCS als nächste Generation der mobilen Kommunikation eröffnet Entwicklern viele neue Möglichkeiten.",
+      "title": "SMS war gesternWie RCS das Messaging revolutioniert",
+      "teaser": "Mehr Funktionen, Sicherheit und Interaktion – RCS als nächste Generation der mobilen Kommunikation eröffnet viele neue Möglichkeiten.",
       "url": "https://www.heise.de/hintergrund/SMS-war-gestern-Wie-RCS-das-Messaging-revolutioniert-10502013.html",
       "image_title": "Frau tippt auf einem Smartphone eine Nachricht"
     },
     {
       "title": "Daten von Nutzerinnen betroffenDatenleck bei Männer-Bewertungs-App aus den USA",
-      "teaser": "Ein Cyberangriff auf eine App zur Hintergrundrecherche über Männer hat tausende Bilder und Dateien von Nutzerinnen offengelegt.",
+      "teaser": "Ein Datenleck auf eine App zur Hintergrundrecherche über Männer hat tausende Bilder und Dateien von Nutzerinnen offengelegt.",
       "url": "https://www.heise.de/news/Tea-Dating-Advice-Datenleck-bei-App-fuer-Frauen-die-sicheres-Dating-verspricht-10502162.html",
       "image_title": "Frau chattet am Smartphone"
     },
@@ -187,6 +187,32 @@
       "url": "https://www.heise.de/news/DJI-zum-E-Bike-Leistungsstreit-Keine-klare-Grundlage-fuer-750-Watt-10499991.html"
     },
     {
+      "title": "Jetzt in der Make 4/25: Lasersteuerung",
+      "teaser": "Mit diesem 3D-gedruckten Lasersystem findet man Dinge in der Werkstatt schnell wieder. Wie man es baut, programmiert und lenkt, erklären wir in der Make 4/25.",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-4-25-Lasersteuerung-10501884.html"
+    },
+    {
+      "title": "Medizin-Digitalisierung: Künstliche Intelligenz sinnvoll einsetzen",
+      "teaser": "KI kann die Diagnostik verbessern und Abläufe straffen. Das geht nur dann gut aus, wenn alle Akteure verantwortungsvoll mit Daten und Algorithmen umgehen.",
+      "url": "https://www.heise.de/ratgeber/Medizin-Digitalisierung-Kuenstliche-Intelligenz-sinnvoll-einsetzen-10463930.html"
+    },
+    {
+      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
+      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Arduino Nano R4: Kompakt, kompatibel, kraftvoll",
+      "teaser": "Hohe Leistung des ARM-Cortex-M4 und Kompatibilität zum UNO R4 auf kleinstem Raum. Der Nano R4 ist verfügbar und zum klassischen AVR-Nano kompatibel.",
+      "url": "https://www.heise.de/news/Arduino-Nano-R4-Kompakt-kompatibel-kraftvoll-10502972.html",
+      "image_title": "Arduino Nano R4 Arduino Logo"
+    },
+    {
+      "title": "RWE setzt erstes Windkraftanlagen-Fundament für 1,6-GW-Nordseecluster",
+      "teaser": "Der Bau des größten Offshore-Windkraftprojekts in der Nordsee hat begonnen. Das Fundament einer ersten Windkraftanlage ist errichtet – eins von insgesamt 104.",
+      "url": "https://www.heise.de/news/RWE-setzt-erstes-Windkraftanlagen-Fundament-fuer-1-6-GW-Nordseecluster-10502873.html"
+    },
+    {
       "title": "Microsoft-Forscher finden TCC-Lücke in Apples Spotlight: Datenleak droht",
       "teaser": "Mit dem Exploit \"Sploitlight\" sollen sich unter anderem via Apple Intelligence sensible Daten abgreifen lassen. Der Bug wurde behoben, betrifft auch das iPhone.",
       "url": "https://www.heise.de/news/Microsoft-Forscher-finden-TCC-Luecke-in-Apples-Spotlight-Datenleak-droht-10502735.html",
@@ -199,11 +225,6 @@
       "image_title": "Script mit Schrifzug \"JavaScript\""
     },
     {
-      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
-      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Mehr als die meisten benötigen: Smartphone-Tarife strotzen vor Datenvolumen",
       "teaser": "Mit Daten lockt man Mobilfunk-Kunden – ganz gleich, ob die vielen Gigabytes tatsächlich benötigt werden oder nicht. Das zeigt eine aktuelle Marktanalyse.",
       "url": "https://www.heise.de/news/Mehr-als-die-meisten-benoetigen-Smartphone-Tarife-strotzen-vor-Datenvolumen-10502823.html",
@@ -214,30 +235,6 @@
       "teaser": "Eine US-Sicherheitsbehörde warnt vor Attacken auf eine zwei Jahre alte Schwachstelle in der Druckermanagementsoftware PaperCut NG/MF.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-PaperCut-NG-MF-beobachtet-10502783.html",
       "image_title": "Patch-Button"
-    },
-    {
-      "title": "GitHub Spark: Vibe Coding für KI-fähige Web-Apps mit Front- und Backend",
-      "teaser": "GitHub stellt eine Entwicklungsumgebung auf KI-Basis vor, die full-stack KI-fähige Web-Apps erzeugt – auf Wunsch visuell und komplett ohne Coden.",
-      "url": "https://www.heise.de/news/GitHub-Spark-Vibe-Coding-fuer-KI-faehige-Web-Apps-mit-Front-und-Backend-10502645.html",
-      "image_title": "Roboter tippt sich an die Stirn"
-    },
-    {
-      "title": "Bericht: Apple wollte KI-Grundmodelle quelloffen stellen",
-      "teaser": "Metas Llama und Googles Gemma sind bereits quelloffen. Das hatte offenbar auch Apple vor, doch der Softwarechef sprach ein Machtwort.",
-      "url": "https://www.heise.de/news/Bericht-Apple-wollte-KI-Grundmodelle-quelloffen-stellen-10501774.html",
-      "image_title": "Apple Intelligence"
-    },
-    {
-      "title": "Gaming: Fast jedes PC-Spiel wird als Download gekauft",
-      "teaser": "7 von 10 Videospielen werden digital gekauft, berichtet der Branchenverband game. Vor allem auf dem PC ist die Digital-Dominanz erdrückend.",
-      "url": "https://www.heise.de/news/Gaming-Fast-jedes-PC-Spiel-wird-als-Download-gekauft-10502772.html",
-      "image_title": "Bunter Gaming-PC mit Lüftern"
-    },
-    {
-      "title": "Praxistest: Mit dem Nikon Z 6.3/800 Objektiv auf Safari",
-      "teaser": "800 Millimeter aus der Hand? Nikon hat mit dem Z 6.3/800 ein Supertele fürs Fotografieren aus der Hand im Programm. Wie schlägt es sich auf Safari? Ein Test.",
-      "url": "https://www.heise.de/tests/Praxistest-Mit-dem-Nikon-Z-6-3-800-Objektiv-auf-Safari-10485840.html",
-      "image_title": ", Nikon"
     },
     {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
@@ -308,6 +305,30 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "GitHub Spark: Vibe Coding für KI-fähige Web-Apps mit Front- und Backend",
+      "teaser": "GitHub stellt eine Entwicklungsumgebung auf KI-Basis vor, die full-stack KI-fähige Web-Apps erzeugt – auf Wunsch visuell und komplett ohne Coden.",
+      "url": "https://www.heise.de/news/GitHub-Spark-Vibe-Coding-fuer-KI-faehige-Web-Apps-mit-Front-und-Backend-10502645.html",
+      "image_title": "Roboter tippt sich an die Stirn"
+    },
+    {
+      "title": "Bericht: Apple wollte KI-Grundmodelle quelloffen stellen",
+      "teaser": "Metas Llama und Googles Gemma sind bereits quelloffen. Das hatte offenbar auch Apple vor, doch der Softwarechef sprach ein Machtwort.",
+      "url": "https://www.heise.de/news/Bericht-Apple-wollte-KI-Grundmodelle-quelloffen-stellen-10501774.html",
+      "image_title": "Apple Intelligence"
+    },
+    {
+      "title": "Gaming: Fast jedes PC-Spiel wird als Download gekauft",
+      "teaser": "7 von 10 Videospielen werden digital gekauft, berichtet der Branchenverband game. Vor allem auf dem PC ist die Digital-Dominanz erdrückend.",
+      "url": "https://www.heise.de/news/Gaming-Fast-jedes-PC-Spiel-wird-als-Download-gekauft-10502772.html",
+      "image_title": "Bunter Gaming-PC mit Lüftern"
+    },
+    {
+      "title": "Praxistest: Mit dem Nikon Z 6.3/800 Objektiv auf Safari",
+      "teaser": "800 Millimeter aus der Hand? Nikon hat mit dem Z 6.3/800 ein Supertele fürs Fotografieren aus der Hand im Programm. Wie schlägt es sich auf Safari? Ein Test.",
+      "url": "https://www.heise.de/tests/Praxistest-Mit-dem-Nikon-Z-6-3-800-Objektiv-auf-Safari-10485840.html",
+      "image_title": ", Nikon"
+    },
+    {
       "title": "Grafana 12.1 startet öffentliche Preview für Monitoring-Tool Grafana Advisor",
       "teaser": "Die Neuerungen umfassen automatisierte Health Checks mit Grafana Advisor, eine neue Übersicht für Benachrichtigungsregeln und flexiblere Datenvisualisierungen.",
       "url": "https://www.heise.de/news/Grafana-12-1-startet-oeffentliche-Preview-fuer-Monitoring-Tool-Grafana-Advisor-10502704.html",
@@ -361,6 +382,11 @@
       "image_title": "Opel Corsa-e"
     },
     {
+      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
+      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Verbraucherzentrale warnt: Jetzt kaufen, später zahlen führen in Schuldenfalle",
       "teaser": "Der Verbraucherzentrale Bundesverband mahnt den Schutz von Verbrauchern bei \"Buy now, pay later\"-Krediten an. Es gebe ein Überschuldungsrisiko.",
       "url": "https://www.heise.de/news/Verbraucherzentrale-warnt-Jetzt-kaufen-spaeter-zahlen-fuehren-in-Schuldenfalle-10502527.html",
@@ -383,11 +409,6 @@
       "teaser": "Schon der Anblick eines krank wirkenden Avatars in einem virtuellen Raum alarmiert das menschliche Immunsystem. Es wird also schon vor einer Infektion aktiv.",
       "url": "https://www.heise.de/news/VR-Kraenkliche-Avatare-aktivieren-echtes-Immunsystem-des-Menschen-10502505.html",
       "image_title": "4 Blutprobenröhrchen in einem Ständer, daneben eine Krankenschwester die zwei weitere Röhrchen in die Kamera hält"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "EU finanziert Dresdner Schulneubau für Mikroelektronik und Mechatronik",
@@ -423,29 +444,6 @@
       "image_title": "App-Store-Icon vor wolkigem Hintergrund"
     },
     {
-      "title": "Pakt für den Rechtsstaat: 210 Millionen Euro für die Digitalisierung der Justiz",
-      "teaser": "Die Regierung hat sich auf eine Neuauflage des Pakts für den Rechtsstaat mit 450 Millionen Euro geeinigt. Fast die Hälfte davon soll in Digitalprojekte fließen.",
-      "url": "https://www.heise.de/news/Pakt-fuer-den-Rechtsstaat-210-Millionen-Euro-fuer-die-Digitalisierung-der-Justiz-10502197.html"
-    },
-    {
-      "title": "Plastisch pinseln: iPad-App Feather im Test",
-      "teaser": "Sie malen gerne, wollen es aber dreidimensional? Mit der iPad-App Feather zeichnet man begehbare 3D-Welten.",
-      "url": "https://www.heise.de/tests/Plastisch-pinseln-iPad-App-Feather-im-Test-10486888.html",
-      "image_title": "Feather von Sketchsoft"
-    },
-    {
-      "title": "EU-Satelliteninternet: UK, Norwegen und Ukraine können sich IRIS2 anschließen",
-      "teaser": "EU-Raumfahrtkommissar Kubiliius hat europäische Drittstaaten eingeladen, bei dem als Starlink-Alternative gedachten Satellitennetzwerk IRIS2 voll einzusteigen.",
-      "url": "https://www.heise.de/news/EU-Satelliteninternet-UK-Norwegen-und-Ukraine-koennen-sich-IRIS2-anschliessen-10502150.html",
-      "image_title": "Ausschnitt der Weltkugel"
-    },
-    {
-      "title": "\"Antigravity\": Insta360 gründet Drohnenfirma",
-      "teaser": "Das für 360-Grad-Actioncams bekannte Unternehmen Insta360 hat den Launch seiner Tochter \"Antigravity\" verkündet, das eine neuen Art von Drohnen bringen soll.",
-      "url": "https://www.heise.de/news/Antigravity-Insta360-gruendet-Drohnenfirma-10501430.html",
-      "image_title": "Antigravity-Logo"
-    },
-    {
       "title": "AI6: Tesla lässt Samsung Chips im Wert von 16,5 Milliarden US-Dollar herstellen",
       "url": "https://www.heise.de/news/Tesla-wechselt-von-Samsung-zu-TSMC-zurueck-zu-Samsung-10501426.html",
       "image_title": "Silizium-Wafer in der Produktion"
@@ -466,14 +464,14 @@
       "image_title": "QuEras Gemini Quantenrechner"
     },
     {
+      "title": "EU-Satelliteninternet: UK, Norwegen und Ukraine können sich IRIS2 anschließen",
+      "url": "https://www.heise.de/news/EU-Satelliteninternet-UK-Norwegen-und-Ukraine-koennen-sich-IRIS2-anschliessen-10502150.html",
+      "image_title": "Ausschnitt der Weltkugel"
+    },
+    {
       "title": "Youtuber baut selbst gebauten, modernisierten Stirlingmotor in Fahrrad ein",
       "url": "https://www.heise.de/news/Youtuber-baut-Fahrrad-mit-selbstentwickeltem-Sterlingmotor-10497969.html",
       "image_title": "Stirlingmotor am Fahrrad"
-    },
-    {
-      "title": "KI-Modell Aeneas ergänzt fragmentierte lateinische Inschriften",
-      "url": "https://www.heise.de/news/KI-Modell-Aeneas-ergaenzt-fragmentierte-lateinische-Inschriften-10501510.html",
-      "image_title": "Fragment einer lateinischen Inschrift mit Ergänzungen"
     },
     {
       "title": "Satelliten-Navigation: Russland stationiert mehr Jammer in der Nähe zu Estland",
@@ -616,21 +614,22 @@
       "url": "https://www.heise.de/en/news/Tesla-switches-from-Samsung-to-TSMC-back-to-Samsung-10501487.html"
     },
     {
-      "title": "Was die Hightech-Agenda der Bundesregierung für die Quantentechnologie bedeutet",
-      "teaser": "Die Agenda des Forschungsministeriums soll Deutschland technisch nach vorne bringen. Experten sehen jedoch kritische Lücken bei einer Schlüsseltechnologie.",
-      "url": "https://www.heise.de/news/Was-die-Hightech-Agenda-der-Bundesregierung-fuer-die-Quantentechnologie-bedeutet-10501840.html",
-      "image_title": "Quantencomputer von QuiX Quantum"
+      "title": "Tape ist (noch) nicht tot2024 wurden LTO-Medien für 176 Exabyte ausgeliefert",
+      "teaser": "Für Langzeitarchivierung kommen in vielen Unternehmen immer noch Bandlaufwerke nach dem LTO-Standard zum Einsatz. Doch das Ende naht.",
+      "url": "https://www.heise.de/news/Tape-ist-noch-nicht-tot-2024-wurden-LTO-Medien-fuer-176-Exabyte-ausgeliefert-10500928.html",
+      "image_title": "Offene LTO-Kassette auf weißem Untergrund"
     },
     {
-      "title": "Retrokonsolen mittels Hardware-Modifikationen in die Gegenwart holen",
-      "teaser": "Dank Bluetooth- und HDMI-Modkits verbinden sich N64, PS2 & Co. mit kabellosen Controllern und modernen Fernsehern.",
-      "url": "https://www.heise.de/hintergrund/Retrokonsolen-mittels-Hardware-Modifikationen-in-die-Gegenwart-holen-10336127.html"
+      "title": "Drohnenführerschein Amt besteht auf Zahlung trotz fehlendem Hinweis auf Kosten",
+      "teaser": "Das LBA fordert Nutzer auf, für 2021 abgelegte Drohnenführerschein-Prüfungen zu zahlen. Die Rechtmäßigkeit ist zweifelhaft.",
+      "url": "https://www.heise.de/news/Drohnenfuehrerschein-Amt-besteht-auf-Zahlung-trotz-fehlendem-Hinweis-auf-Kosten-10502624.html",
+      "image_title": "Kostenbescheid vom Luftfahrbundesamt"
     },
     {
-      "title": "Windows sichern, reparieren und installieren mit nur einem USB-Laufwerk",
-      "teaser": "Einige Mausklicks, und schon bootet das c’t-Notfall-Windows vom selben USB-Datenträger, den Sie für c’t-WIMage eingerichtet haben.",
-      "url": "https://www.heise.de/ratgeber/Windows-sichern-reparieren-und-installieren-mit-nur-einem-USB-Laufwerk-10439195.html",
-      "image_title": "Rettungsboot de luxe"
+      "title": "\"Antigravity\": Insta360 gründet Drohnenfirma",
+      "teaser": "Das für 360-Grad-Actioncams bekannte Unternehmen Insta360 hat den Launch seiner Tochter \"Antigravity\" verkündet, das eine neuen Art von Drohnen bringen soll.",
+      "url": "https://www.heise.de/news/Antigravity-Insta360-gruendet-Drohnenfirma-10501430.html",
+      "image_title": "Antigravity-Logo"
     },
     {
       "title": "Großer SprungiPadOS 26 im Hands-on: Neustart für das iPad",
@@ -763,22 +762,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ukraine-Krieg: Russlands Drohnen-Revolution – von 200 pro Monat zu 200 pro Tag",
-      "teaser": "Die Drohne Geran-2 ist ein voll industrialisiertes Waffensystem. Was dahintersteckt, alarmiert den Westen. Eine Einschätzung",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Russlands-Drohnen-Revolution-von-200-pro-Monat-zu-200-pro-Tag-10500724.html",
-      "image_title": "Drei Geran-Drohnen im Himmel bei untergehender Sonne"
+      "title": "Rente erst mit 70? Ministerin Reiche will Lebensabend der Deutschen opfern",
+      "teaser": "Wirtschaftsministerin fordert höheres Renteneintrittsalter. Die CDU-Politikerin will die Lebensarbeitszeit der Deutschen deutlich verlängern. Doch wer würde profitieren?",
+      "url": "https://www.heise.de/tp/features/Rente-erst-mit-70-Ministerin-Reiche-will-Lebensabend-der-Deutschen-opfern-10502479.html",
+      "image_title": "Katherina Reiche"
     },
     {
-      "title": "Deutschland, aber banal",
-      "teaser": "Die Rückkehr der deutschen Tugenden ist keine gute Nachricht. Weder für den Fußball noch für die Nation – eine Bilanz der Frauen-Fußball-EM. Kommentar.",
-      "url": "https://www.heise.de/tp/features/Deutschland-aber-banal-10500988.html",
-      "image_title": "Junge Frau mit deutschem Fan-Schal betrachtet den Ball in ihrer Hand"
+      "title": "Die Rentenkürzung ist sicher",
+      "teaser": "Politik durch die Hintertür: Was Ihnen die Rentenauskunft nicht sagt – wie ein kaum beachteter Hebel Ihre Altersvorsorge schmälert. Analyse und Kommentar.",
+      "url": "https://www.heise.de/tp/features/Die-Rentenkuerzung-ist-sicher-10500889.html",
+      "image_title": "KI-generierte Grafik zeigt eine gezeichnetes Blatt mit der Überschrift Rentenbescheid und eine Lupe. Im Hintergrund Häuser"
     },
     {
-      "title": "Rente: Deutsche sollen länger und mehr arbeiten",
-      "teaser": "Wirtschaftsministerin Reiche will die Deutschen zu mehr Arbeit drängen. Arbeitgeber jubeln, Gewerkschaften warnen. Auch aus der CDU kommt Kritik.",
-      "url": "https://www.heise.de/tp/features/Rente-Deutsche-sollen-laenger-und-mehr-arbeiten-10500958.html",
-      "image_title": "Wartende Gruppe mit Arbeitsschutzhelmen und Signaljacken"
+      "title": "Eier-Phobie war Quatsch: Jahrzehntelange Fehlinformation aufgedeckt",
+      "teaser": "Eier galten lange als Cholesterin-Bösewichte. Neue Studie entlastet sie nun. Doch was steckt wirklich hinter dem jahrzehntelangen Irrglauben?",
+      "url": "https://www.heise.de/tp/features/Eier-Phobie-war-Quatsch-Jahrzehntelange-Fehlinformation-aufgedeckt-10502154.html",
+      "image_title": "Eier in Papphalterung, eines geöffnet, Eigelb und Eiweiß sichtbar"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
