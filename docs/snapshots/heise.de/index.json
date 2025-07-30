@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-30T18:15:14",
+  "timestamp": "2025-07-30T19:11:45",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Streamer sollen deutsche Filme und Serien kaufen müssen",
+      "url": "https://www.heise.de/news/Filmfoerderung-Regierung-macht-ernst-mit-Investitionspflicht-fuer-Netflix-Co-10504978.html"
+    },
     {
       "title": "Top 5: Der beste Insektenstichheiler im Test – Heat It, Beurer, Bite Away & Co.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-5-der-beste-insektenstichheiler-im-test-heat-it-beurer-bite-away-und-co/h832dqm"
@@ -60,10 +64,6 @@
     {
       "title": "Samsung beschleunigt One-UI-Entwicklung mit der Hilfe von Google",
       "url": "https://www.heise.de/news/Samsung-beschleunigt-One-UI-Entwicklung-mit-der-Hilfe-von-Google-10504655.html"
-    },
-    {
-      "title": "Umfrage: Zu viel ranzige Software in deutschen Firmen",
-      "url": "https://www.heise.de/news/IT-Modernisierung-Unternehmen-muessen-ihren-Legacy-Anwendungen-zu-Leibe-ruecken-10504678.html"
     },
     {
       "title": "AbschlussberichtRegulierer entlastet Telekom beim Glasfaser-Überbau",
@@ -188,19 +188,25 @@
       "image_title": "M-VAVE SMK-37 Pro auf Tisch"
     },
     {
+      "title": "Streamer sollen deutsche Filme und Serien kaufen müssen",
+      "teaser": "Auf mehr Filmförderung haben sich Kulturstaatsminister und Finanzminister geeinigt. Neu ist eine Investitionsauflage für Streaming-Anbieter.",
+      "url": "https://www.heise.de/news/Filmfoerderung-Regierung-macht-ernst-mit-Investitionspflicht-fuer-Netflix-Co-10504978.html",
+      "image_title": "Ein an der Wand hängender Flachbildfernseher zeigt Weiß; im Vordergrund die weiß besockten Füße eines liegenden Zuschauers"
+    },
+    {
       "title": "Top 5: Der beste Insektenstichheiler im Test – Heat It, Beurer, Bite Away & Co.",
       "teaser": "Stichheiler versprechen schnelle Linderung bei Mückenstichen durch Wärme. Wir zeigen, was die Geräte können und welche Modelle im Test am meisten überzeugen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-5-der-beste-insektenstichheiler-im-test-heat-it-beurer-bite-away-und-co/h832dqm?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "Telefónica Deutschland spürt die Abwanderung von 1&1",
-      "teaser": "Nach dem Weggang von 1&1 zur Konkurrenz sinkt bei Telefónica Deutschland der Umsatz – nur kurzfristig, verspricht das Unternehmen. Das Kerngeschäft laufe.",
-      "url": "https://www.heise.de/news/Telefonica-Deutschland-spuert-die-Abwanderung-von-1-1-10504928.html"
-    },
-    {
       "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
       "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Telefónica Deutschland spürt die Abwanderung von 1&1",
+      "teaser": "Nach dem Weggang von 1&1 zur Konkurrenz sinkt bei Telefónica Deutschland der Umsatz – nur kurzfristig, verspricht das Unternehmen. Das Kerngeschäft laufe.",
+      "url": "https://www.heise.de/news/Telefonica-Deutschland-spuert-die-Abwanderung-von-1-1-10504928.html"
     },
     {
       "title": "USA vs. Apple: iPhone-Konzern warnt vor juristisch erzwungenem Redesign",
@@ -228,12 +234,6 @@
       "title": "Solarstaffelei mobil und stationär im Garten montieren",
       "teaser": "Nicht immer findet sich am Gebäude ein passender Platz für PV-Module. Mit einer Solarstaffelei lässt sich das Balkonkraftwerk locker im Garten drapieren.",
       "url": "https://www.heise.de/ratgeber/Solarstaffelei-mobil-und-stationaer-im-Garten-montieren-10443227.html"
-    },
-    {
-      "title": "Samsung beschleunigt One-UI-Entwicklung mit der Hilfe von Google",
-      "teaser": "Samsung hat One UI 8 auf Basis von Android 16 sehr schnell für seine Foldables fertiggestellt. Grund für die rasante Entwicklung ist bei Google zu finden.",
-      "url": "https://www.heise.de/news/Samsung-beschleunigt-One-UI-Entwicklung-mit-der-Hilfe-von-Google-10504655.html",
-      "image_title": "Samsung Galaxy Z Fold 7 und Flip 7 aufgestellt"
     },
     {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
@@ -305,6 +305,12 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "Samsung beschleunigt One-UI-Entwicklung mit der Hilfe von Google",
+      "teaser": "Samsung hat One UI 8 auf Basis von Android 16 sehr schnell für seine Foldables fertiggestellt. Grund für die rasante Entwicklung ist bei Google zu finden.",
+      "url": "https://www.heise.de/news/Samsung-beschleunigt-One-UI-Entwicklung-mit-der-Hilfe-von-Google-10504655.html",
+      "image_title": "Samsung Galaxy Z Fold 7 und Flip 7 aufgestellt"
+    },
+    {
       "title": "NIS2: Kabinett überantwortet Bundestag offene Baustellen",
       "teaser": "Bei der NIS2-Umsetzung überlässt die Regierung strittige Fragen dem Bundestag, der erst im September wieder zusammentritt. Dann soll aber alles schnell gehen.",
       "url": "https://www.heise.de/news/NIS2-Kabinett-ueberantwortet-Bundestag-offene-Baustellen-10504696.html",
@@ -373,15 +379,15 @@
       "image_title": "Morelle E-Bike vor Wand mit angeschlossenem Ladegerät"
     },
     {
+      "title": "Die richtige Prozessarchitektur als Basis zur effizienten Verbesserung von SAP Prozessen",
+      "teaser": "SAP ECC läuft aus, die Migration steht bevor: Wie Sie mit der richtigen Prozessarchitektur Ihre SAP-Landschaft nachhaltig modernisieren, erfahren Sie im Live-Webcast am 14.8. um 11 Uhr.",
+      "url": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952/?source=hbsadersatz"
+    },
+    {
       "title": "JavaLand 2026: Vorträge für die Community-Konferenz im Europa-Park Rust gesucht",
       "teaser": "Im März 2026 findet die JavaLand-Konferenz im größten Freizeitpark Deutschlands statt. Der Call for Papers läuft bis zum 16. September 2025.",
       "url": "https://www.heise.de/news/JavaLand-2026-Vortraege-fuer-die-Community-Konferenz-im-Europa-Park-Rust-gesucht-10501844.html",
       "image_title": "JavaLand Banner"
-    },
-    {
-      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
-      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "EU-Recht: Was sich im Entwurf der NIS2-Richtlinienumsetzung verändert hat",
@@ -435,12 +441,6 @@
       "teaser": "Dells Cloudlösungen Elastic Cloud Storage und ObjectScale sind verwundbar. Nun haben die Entwickler eine Schwachstelle geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-auf-Dell-ECS-und-ObjectScale-zugreifen-10504024.html",
       "image_title": "Eine Updateaufforderung erinnert Admins"
-    },
-    {
-      "title": "Großbritannien: Altersverifikation wird umgangen, Petition gegen Gesetz wächst",
-      "teaser": "Mit dem Online Safety Act müssen auch Plattformen wie Reddit für eine Altersverifikation sorgen. Diese werden umgangen. Eine Petition hat viele Unterschriften.",
-      "url": "https://www.heise.de/news/Widerstand-gegen-Online-Safety-Act-in-Grossbritannien-waechst-10503964.html",
-      "image_title": "Schematische Darstellung des Kopfzes einer Person mit Strichen dran."
     },
     {
       "title": "SMS war gestern: Wie RCS das Messaging revolutioniert",
@@ -612,20 +612,27 @@
       "url": "https://www.heise.de/en/news/Artificial-intelligence-Vibe-coding-service-Replit-deletes-production-database-10499597.html"
     },
     {
+      "title": "Chromebook mit flottem ARM-Prozessor im Test: Lenovo Chromebook 14 Plus",
+      "teaser": "Chromebooks mit einem Plus im Namen warten mit mehr Funktionen auf. Das Chromebook 14 Plus von Lenovo macht da keine Ausnahme und bringt etliche KI-Funktionen.",
+      "url": "https://www.heise.de/tests/Chromebook-mit-flottem-ARM-Prozessor-im-Test-Lenovo-Chromebook-14-Plus-10463344.html"
+    },
+    {
       "title": "Windows sichern, reparieren und installieren mit nur einem USB-Laufwerk",
       "teaser": "Einige Mausklicks, und schon bootet das c’t-Notfall-Windows vom selben USB-Datenträger, den Sie für c’t-WIMage eingerichtet haben.",
       "url": "https://www.heise.de/ratgeber/Windows-sichern-reparieren-und-installieren-mit-nur-einem-USB-Laufwerk-10439195.html",
       "image_title": "Rettungsboot de luxe"
     },
     {
-      "title": "Chromebook mit flottem ARM-Prozessor im Test: Lenovo Chromebook 14 Plus",
-      "teaser": "Chromebooks mit einem Plus im Namen warten mit mehr Funktionen auf. Das Chromebook 14 Plus von Lenovo macht da keine Ausnahme und bringt etliche KI-Funktionen.",
-      "url": "https://www.heise.de/tests/Chromebook-mit-flottem-ARM-Prozessor-im-Test-Lenovo-Chromebook-14-Plus-10463344.html"
+      "title": "UpdateDrohnenführerschein Amt besteht auf Zahlung trotz fehlendem Hinweis auf Kosten",
+      "teaser": "Das LBA fordert Nutzer auf, für 2021 abgelegte Drohnenführerschein-Prüfungen zu zahlen. Die Rechtmäßigkeit ist zweifelhaft.",
+      "url": "https://www.heise.de/news/Drohnenfuehrerschein-Amt-besteht-auf-Zahlung-trotz-fehlendem-Hinweis-auf-Kosten-10502624.html",
+      "image_title": "Kostenbescheid vom Luftfahrbundesamt"
     },
     {
-      "title": "High-End-Desktop-Prozessoren Ryzen Threadripper 9980X und 9970X im Test",
-      "teaser": "AMD beschleunigt die Threadripper-CPUs durch Zen-5-Kerne, bessere Fertigung und schnelleres RAM. Wir prüfen, welche Software von 64 Kernen überhaupt profitiert.",
-      "url": "https://www.heise.de/tests/High-End-Desktop-Prozessoren-Ryzen-Threadripper-9980X-und-9970X-im-Test-10483293.html"
+      "title": "Großer SprungiPadOS 26 im Hands-on: Neustart für das iPad",
+      "teaser": "Apple bringt MacBook-Funktionen auf das Tablet, Nutzer können mit vielen Fenstern gleichzeitig arbeiten. Kann das iPad damit über sich hinauswachsen?",
+      "url": "https://www.heise.de/hintergrund/iPadOS-26-im-Hands-on-Neustart-fuer-das-iPad-10494315.html",
+      "image_title": "iPadOS 26 auf zwei iPads mit Tastatur"
     },
     {
       "title": "Vom Text zum Bild: So funktioniert Stable Diffusion",
@@ -638,12 +645,6 @@
       "teaser": "iPhone, iPad, Mac, Watch – jedes Apple-Gerät bekommt mit den Systemen im Herbst eine neue Bedienoberfläche. Was kann sie und was sagen Designer und Entwickler?",
       "url": "https://www.heise.de/hintergrund/Liquid-Glass-Apples-neue-Oberflaeche-fuer-iOS-26-macOS-26-und-Co-im-Detail-10487350.html",
       "image_title": ", Apple"
-    },
-    {
-      "title": "Plastisch pinseln: iPad-App Feather im Test",
-      "teaser": "Sie malen gerne, wollen es aber dreidimensional? Mit der iPad-App Feather zeichnet man begehbare 3D-Welten.",
-      "url": "https://www.heise.de/tests/Plastisch-pinseln-iPad-App-Feather-im-Test-10486888.html",
-      "image_title": "Feather von Sketchsoft"
     },
     {
       "title": "UpdateUmstellungAnker bringt UV-Drucker, gibt aber 3D-Druck auf",
@@ -759,22 +760,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Impfkampagne ein Flop? Studie deckt ernüchternde Zahlen auf",
-      "teaser": "Eine neue Studie zeigt: Die Covid-Impfkampagne rettete weniger Leben als gedacht. Bei unter 20-Jährigen waren es nur 0,01 Prozent. Eine aufklärende Einordnung.",
-      "url": "https://www.heise.de/tp/features/Impfkampagne-ein-Flop-Studie-deckt-ernuechternde-Zahlen-auf-10502598.html",
-      "image_title": "Kind bekommt Spritze und hält Teddybär die Augen zu"
+      "title": "Schweres Erdbeben vor Kamtschatka löst Tsunami-Alarm im Pazifik aus",
+      "teaser": "Ein Erdbeben vor Russlands Halbinsel Kamtschatka verursacht meterhohe Tsunamis und zwingt Millionen Menschen zur Evakuierung. Es war bis Deutschland messbar.",
+      "url": "https://www.heise.de/tp/features/Schweres-Erdbeben-vor-Kamtschatka-loest-Tsunami-Alarm-im-Pazifik-aus-10504094.html",
+      "image_title": "Petropawlowsk-Kamtschatski"
     },
     {
-      "title": "Hungersnot in Gaza: UN-gestützte Organisation sieht \"Worst-Case-Szenario\"",
-      "teaser": "UN-nahe Initiative meldet akute Hungersnot im Gazastreifen. Israel bestreitet Vorwürfe und setzt nach internationalem Druck auf umstrittene Luftabwürfe.",
-      "url": "https://www.heise.de/tp/features/Hungersnot-in-Gaza-UN-gestuetzte-Organisation-sieht-Worst-Case-Szenario-10503401.html",
-      "image_title": "Flüchtlingslager in Khan Yunis im Süden des Gazastreifens"
+      "title": "Eier-Phobie war Quatsch: Jahrzehntelange Fehlinformation aufgedeckt",
+      "teaser": "Eier galten lange als Cholesterin-Bösewichte. Neue Studie entlastet sie nun. Doch was steckt wirklich hinter dem jahrzehntelangen Irrglauben?",
+      "url": "https://www.heise.de/tp/features/Eier-Phobie-war-Quatsch-Jahrzehntelange-Fehlinformation-aufgedeckt-10502154.html",
+      "image_title": "Eier in Papphalterung, eines geöffnet, Eigelb und Eiweiß sichtbar"
     },
     {
-      "title": "EU-USA Handelsdeal: Wie die EU sich selbst sabotiert",
-      "teaser": "Die EU ist im Zollstreit mit den USA ziemlich untergegangen. Aber wäre wirklich mehr drin gewesen? Und was hat Software mit all dem zu tun? Ein Kommentar.",
-      "url": "https://www.heise.de/tp/features/EU-USA-Handelsdeal-Wie-die-EU-sich-selbst-sabotiert-10504290.html",
-      "image_title": "Zwei Container, die mit den Flaggen der USA und der EU bemalt sind, krachen ineinander"
+      "title": "Gegen das soziale Atom: Wie wir wieder zu Gemeinschaft finden",
+      "teaser": "Gemeinschaften stärken unser soziales Immunsystem. Vom Lieferwagen zur Lebensader: Warum Nähe unsere Rettung ist.",
+      "url": "https://www.heise.de/tp/features/Gegen-das-soziale-Atom-Wie-wir-wieder-zu-Gemeinschaft-finden-10504228.html"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
