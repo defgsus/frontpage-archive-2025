@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-30T08:15:46",
+  "timestamp": "2025-07-30T09:17:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Linux 6.16: Entspannt zu mehr Leistung",
+      "title": "Windows sichern, reparieren und installieren mit nur einem USB-Laufwerk",
+      "teaser": "Einige Mausklicks, und schon bootet das c’t-Notfall-Windows vom selben USB-Datenträger, den Sie für c’t-WIMage eingerichtet haben.",
+      "url": "https://www.heise.de/ratgeber/Windows-sichern-reparieren-und-installieren-mit-nur-einem-USB-Laufwerk-10439195.html",
+      "image_title": "Rettungsboot de luxe"
+    },
+    {
+      "title": "AlertSicherheitsupdates: Angreifer können auf Dell ECS und ObjectScale zugreifen",
+      "teaser": "Dells Cloudlösungen Elastic Cloud Storage und ObjectScale sind verwundbar. Nun haben die Entwickler eine Schwachstelle geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-auf-Dell-ECS-und-ObjectScale-zugreifen-10504024.html",
+      "image_title": "Eine Updateaufforderung erinnert Admins"
+    },
+    {
+      "title": "iOS 18.6, macOS 15.6 und Co.: Apple stopft zahlreiche Sicherheitslücken",
+      "teaser": "Apple hat Details zu den in seinen neuen Betriebssystemen gestopften Löchern veröffentlicht. Die Liste ist erneut lang.",
+      "url": "https://www.heise.de/news/iOS-18-6-macOS-15-6-und-Co-Apple-stopft-zahlreiche-Sicherheitsluecken-10504002.html",
+      "image_title": "Apple-Logo und geöffnetes Schloss"
+    },
+    {
+      "title": "Linux 6.16Entspannt zu mehr Leistung",
       "teaser": "Linux 6.16 steht im Zeichen der Optimierung und Leistungssteigerung. USB Audio Offloading, Intel TDX und einige weitere Features liefert der Kernel aber auch.",
       "url": "https://www.heise.de/news/Linux-6-16-Entspannt-zu-mehr-Leistung-10503711.html",
       "image_title": "Ein Pinguin putzt sich"
-    },
-    {
-      "title": "iX-Workshop: Windows Server absichern und härten",
-      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10494164.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Podcast \"Passwort\" Folge 37: DNSSEC, die DNS Security Extensions",
-      "teaser": "DNS ist ein Grundpfeiler des Internets – umso wichtiger, dass die Namensauflösung verlässliche Daten liefert. Wie DNSSEC dabei hilft, erklärt ein kundiger Gast.",
-      "url": "https://www.heise.de/news/Podcast-Passwort-Folge-37-DNSSEC-die-DNS-Security-Extensions-10498530.html",
-      "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "So ermöglichen Passkeys passwortlose Authentifizierung",
-      "teaser": "Passkeys ermöglichen sichere, benutzerfreundliche Logins ohne Passwörter. Wir zeigen, wie sie funktionieren und wie man sie sinnvoll in eigener Software nutzt.",
-      "url": "https://www.heise.de/ratgeber/So-ermoeglichen-Passkeys-passwortlose-Authentifizierung-10476770.html"
     },
     {
       "title": "RatgeberSo ermöglichen Passkeys passwortlose Authentifizierung",
@@ -60,6 +61,18 @@
       "title": "HintergrundPolarisierendes Glas: Das halten die Leser von Apples neuer Liquid-Glass-UI",
       "url": "https://www.heise.de/hintergrund/Polarisierendes-Glas-Das-halten-die-Leser-von-Apples-neuer-Liquid-Glass-UI-10487440.html",
       "image_title": ", Apple und Mac & i"
+    },
+    {
+      "title": "iX-Workshop: Windows Server absichern und härten",
+      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10494164.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Podcast \"Passwort\" Folge 37: DNSSEC, die DNS Security Extensions",
+      "teaser": "DNS ist ein Grundpfeiler des Internets – umso wichtiger, dass die Namensauflösung verlässliche Daten liefert. Wie DNSSEC dabei hilft, erklärt ein kundiger Gast.",
+      "url": "https://www.heise.de/news/Podcast-Passwort-Folge-37-DNSSEC-die-DNS-Security-Extensions-10498530.html",
+      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "Der letzte Termin: Die heise security Tour – Wissen schützt!",
@@ -136,18 +149,6 @@
       "teaser": "Erarbeiten Sie Ihre individuelle Cloud-Roadmap: interaktiv, praxisnah und strategisch – für mehr Kontrolle, Sicherheit und digitale Souveränität.",
       "url": "https://www.heise.de/news/iX-Workshop-Souveraene-Cloud-Strategien-fuer-digitale-Unabhaengigkeit-10494152.html",
       "image_title": "iX-Workshop IT-Governance planen und implementieren"
-    },
-    {
-      "title": "UpdateMicrosoft-Forscher finden TCC-Lücke in Apples Spotlight: Datenleak droht",
-      "teaser": "Mit dem Exploit \"Sploitlight\" sollen sich unter anderem via Apple Intelligence sensible Daten abgreifen lassen. Der Bug wurde behoben, betrifft auch das iPhone.",
-      "url": "https://www.heise.de/news/Microsoft-Forscher-finden-TCC-Luecke-in-Apples-Spotlight-Datenleak-droht-10502735.html",
-      "image_title": "macOS-Spotlight, hier bereits im kommenden macOS 26"
-    },
-    {
-      "title": "JavaScript: Reanimated 4 führt neue CSS-basierte Animations-API ein",
-      "teaser": "Reanimated 4 bringt eine CSS-Animations-API für React Native, überarbeitet Zustandsanimationen und passt Worklets sowie das Verhalten von Spring-Animationen an.",
-      "url": "https://www.heise.de/news/JavaScript-Reanimated-4-fuehrt-neue-CSS-basierte-Animations-API-ein-10502687.html",
-      "image_title": "Script mit Schrifzug \"JavaScript\""
     },
     {
       "title": "NewsiPhone 17 Pro: Verschiedene neue Kamera-Funktionen geleakt",
