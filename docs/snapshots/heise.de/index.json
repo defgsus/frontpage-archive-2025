@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-30T11:10:01",
+  "timestamp": "2025-07-30T12:21:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,30 @@
   ],
   "articles": [
     {
+      "title": "Exchange: Microsoft stellt Ordner-Migration von Version 2010 und älter ein",
+      "url": "https://www.heise.de/news/Exchange-Microsoft-stellt-Ordner-Migration-von-Version-2010-und-aelter-ein-10504515.html"
+    },
+    {
+      "title": "Micron stellt die erste PCIe-6.0-SSD vor, 245-TByte-SSD folgt",
+      "url": "https://www.heise.de/news/Micron-stellt-die-erste-PCIe-6-0-SSD-vor-245-TByte-SSD-folgt-10504507.html"
+    },
+    {
+      "title": "iX-Workshop: Wireshark für Netzwerkdiagnose und -sicherheit",
+      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-fuer-Netzwerkdiagnose-und-sicherheit-10494256.html"
+    },
+    {
+      "title": "Industrielle Kontrollsysteme: Updates schließen Schadcode-Schlupflöcher",
+      "url": "https://www.heise.de/news/Industrielle-Kontrollsysteme-Updates-schliessen-Schadcode-Schlupfloecher-10504485.html"
+    },
+    {
+      "title": "Retrokonsolen mittels Hardware-Modifikationen in die Gegenwart holen",
+      "url": "https://www.heise.de/hintergrund/Retrokonsolen-mittels-Hardware-Modifikationen-in-die-Gegenwart-holen-10336127.html"
+    },
+    {
+      "title": "Enshittification: Wenn gute Produkte und Webdienste verhunzt werden | c’t uplink",
+      "url": "https://www.heise.de/news/Enshittification-Wenn-gute-Produkte-und-Webdienste-verhunzt-werden-c-t-uplink-10498855.html"
+    },
+    {
       "title": "Pluribus: Apple-Serie von \"Breaking Bad\"-Macher mit Sci-Fi-Setting",
       "url": "https://www.heise.de/news/Pluribus-Apple-Serie-von-Breaking-Bad-Macher-mit-Sci-Fi-Setting-10501750.html"
     },
@@ -42,32 +66,8 @@
       "url": "https://www.heise.de/news/JavaLand-2026-Vortraege-fuer-die-Community-Konferenz-im-Europa-Park-Rust-gesucht-10501844.html"
     },
     {
-      "title": "EU-Recht: Was sich im Entwurf der NIS2-Richtlinie verändert hat",
-      "url": "https://www.heise.de/hintergrund/EU-Recht-Was-sich-im-Entwurf-der-NIS2-Richtlinie-veraendert-hat-10494056.html"
-    },
-    {
-      "title": "Baden-Württembergs Polizei darf wohl Software von Palantir vorrübergehend nutzen",
-      "url": "https://www.heise.de/news/Baden-Wuerttembergs-Polizei-darf-wohl-Software-von-Palantir-vorruebergehend-nutzen-10504196.html"
-    },
-    {
-      "title": "Warum Microsoft 365 trotz EU-Absolution nicht sicher ist",
-      "url": "https://www.heise.de/meinung/Warum-Microsoft-365-trotz-EU-Absolution-nicht-sicher-ist-10504154.html"
-    },
-    {
-      "title": "iCloud-Rechtsstreit um Speicherplatz: Richter gibt Apple recht",
-      "url": "https://www.heise.de/news/iCloud-Rechtsstreit-um-Speicherplatz-Richter-gibt-Apple-recht-10501768.html"
-    },
-    {
-      "title": "Nach Bugfix: Bitchat Mesh von Jack Dorsey nun im App Store",
-      "url": "https://www.heise.de/news/Nach-Bugfix-Bitchat-Mesh-von-Jack-Dorsey-nun-im-App-Store-10503058.html"
-    },
-    {
-      "title": "Vorsicht Developer: Apple stellt Jugendschutz-Rating um",
-      "url": "https://www.heise.de/news/Wichtig-fuer-Entwickler-Apple-ueberholt-Jugendschutz-Rating-System-10503121.html"
-    },
-    {
       "title": "DatenschutzWarum Microsoft 365 trotz EU-Absolution nicht sicher ist",
-      "teaser": "Kein Freifahrtschein – M365 mag bei der EU-Kommission jetzt erlaubt sein, aber am Grundproblem ändert das nichts, analysiert Dennis Kipker.",
+      "teaser": "M365 mag bei der EU-Kommission jetzt erlaubt sein, aber am Grundproblem ändert das nichts, analysiert Dennis Kipker.",
       "url": "https://www.heise.de/meinung/Warum-Microsoft-365-trotz-EU-Absolution-nicht-sicher-ist-10504154.html",
       "image_title": "Schild mit EU und USA Flagge"
     },
@@ -188,6 +188,45 @@
       "image_title": "Offene Festplatte von oben"
     },
     {
+      "title": "Exchange: Microsoft stellt Ordner-Migration von Version 2010 und älter ein",
+      "teaser": "Wer noch immer einen Exchange Server 2010 oder älter nutzt und auf Exchange Online umsteigen will, muss seine öffentlichen Ordner bis zum 1. Oktober migrieren.",
+      "url": "https://www.heise.de/news/Exchange-Microsoft-stellt-Ordner-Migration-von-Version-2010-und-aelter-ein-10504515.html",
+      "image_title": "Wolke, Exchange-Icon mit Hand"
+    },
+    {
+      "title": "Micron stellt die erste PCIe-6.0-SSD vor, 245-TByte-SSD folgt",
+      "teaser": "Die Micron 9650 kommt für Server mit PCI Express 6.0. Die Baureihe 6600 Ion erscheint mit besonders hoher Kapazität.",
+      "url": "https://www.heise.de/news/Micron-stellt-die-erste-PCIe-6-0-SSD-vor-245-TByte-SSD-folgt-10504507.html",
+      "image_title": "Drei Server-SSDs nebeneinander vor schwarzem Hintergrund"
+    },
+    {
+      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
+      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "iX-Workshop: Wireshark für Netzwerkdiagnose und -sicherheit",
+      "teaser": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-fuer-Netzwerkdiagnose-und-sicherheit-10494256.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "AlertIndustrielle Kontrollsysteme: Updates schließen Schadcode-Schlupflöcher",
+      "teaser": "Angreifer können mit industriellen Kontrollsystemen von Delta Electronics, National Instruments und Samsung ausgestattete kritische Infrastrukturen attackieren.",
+      "url": "https://www.heise.de/news/Industrielle-Kontrollsysteme-Updates-schliessen-Schadcode-Schlupfloecher-10504485.html",
+      "image_title": "Ein symbolisches Schild weist auf ein Update hin."
+    },
+    {
+      "title": "Retrokonsolen mittels Hardware-Modifikationen in die Gegenwart holen",
+      "teaser": "Dank Bluetooth- und HDMI-Modkits verbinden sich N64, PS2 & Co. mit kabellosen Controllern und modernen Fernsehern.",
+      "url": "https://www.heise.de/hintergrund/Retrokonsolen-mittels-Hardware-Modifikationen-in-die-Gegenwart-holen-10336127.html"
+    },
+    {
+      "title": "Enshittification: Wenn gute Produkte und Webdienste verhunzt werden | c’t uplink",
+      "teaser": "Obwohl Innovationen die IT-Branche prägen, werden vielfach einst tolle Apps und Dienste unbrauchbar. Was Enshittification befördert, ist Thema im c’t uplink.",
+      "url": "https://www.heise.de/news/Enshittification-Wenn-gute-Produkte-und-Webdienste-verhunzt-werden-c-t-uplink-10498855.html"
+    },
+    {
       "title": "Pluribus: Apple-Serie von \"Breaking Bad\"-Macher mit Sci-Fi-Setting",
       "teaser": "Nach \"Silo\" und bald \"Neuromancer\" kommt demnächst \"Pluribus\". In der Thrillerreihe von Vince Gilligan geht es um nicht weniger als die Zukunft des Planeten.",
       "url": "https://www.heise.de/news/Pluribus-Apple-Serie-von-Breaking-Bad-Macher-mit-Sci-Fi-Setting-10501750.html",
@@ -198,46 +237,6 @@
       "teaser": "Das kalifornische Start-up Morelle will ein E-Bike mit Schnellladetechnologie auf den Markt bringen. Innerhalb von 15 Minuten soll der Akku nachgeladen sein.",
       "url": "https://www.heise.de/news/Morelle-Start-up-will-E-Bike-binnen-15-Minuten-voll-laden-10504335.html",
       "image_title": "Morelle E-Bike vor Wand mit angeschlossenem Ladegerät"
-    },
-    {
-      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
-      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
-    },
-    {
-      "title": "JavaLand 2026: Vorträge für die Community-Konferenz im Europa-Park Rust gesucht",
-      "teaser": "Im März 2026 findet die JavaLand-Konferenz im größten Freizeitpark Deutschlands statt. Der Call for Papers läuft bis zum 16. September 2025.",
-      "url": "https://www.heise.de/news/JavaLand-2026-Vortraege-fuer-die-Community-Konferenz-im-Europa-Park-Rust-gesucht-10501844.html",
-      "image_title": "JavaLand Banner"
-    },
-    {
-      "title": "EU-Recht: Was sich im Entwurf der NIS2-Richtlinie verändert hat",
-      "teaser": "Wir schauen uns an, welche Inhalte sich im Vergleich zum alten Gesetzesentwurf der Ampelkoalition geändert haben und wie die Änderungen zu bewerten sind.",
-      "url": "https://www.heise.de/hintergrund/EU-Recht-Was-sich-im-Entwurf-der-NIS2-Richtlinie-veraendert-hat-10494056.html"
-    },
-    {
-      "title": "Baden-Württembergs Polizei darf wohl Software von Palantir vorrübergehend nutzen",
-      "teaser": "Baden-Württemberg einigt sich einem Bericht zufolge über den Einsatz der polizeilichen Datenanalysesoftware von Palantir. Beim Einsatz gibt es Auflagen.",
-      "url": "https://www.heise.de/news/Baden-Wuerttembergs-Polizei-darf-wohl-Software-von-Palantir-vorruebergehend-nutzen-10504196.html",
-      "image_title": "Ein Ausschnitt aus der Palantir-Webseite inklusive Logo"
-    },
-    {
-      "title": "iCloud-Rechtsstreit um Speicherplatz: Richter gibt Apple recht",
-      "teaser": "US-Sammelkläger wollten Geld von Apple, weil der Konzern kostenlosen Speicher nicht aufs iCloud+-Abo aufschlägt. Doch das wird wohl nichts.",
-      "url": "https://www.heise.de/news/iCloud-Rechtsstreit-um-Speicherplatz-Richter-gibt-Apple-recht-10501768.html",
-      "image_title": "iCloud-Logo"
-    },
-    {
-      "title": "Nach Bugfix: Bitchat Mesh von Jack Dorsey nun im App Store",
-      "teaser": "Bitchat Mesh, ein auf Bluetooth basierendes Kommunikationswerkzeug kann fürs iPhone geladen werden. Erst mit Update klappt die Verbindung zu Android.",
-      "url": "https://www.heise.de/news/Nach-Bugfix-Bitchat-Mesh-von-Jack-Dorsey-nun-im-App-Store-10503058.html",
-      "image_title": "Die Bitchat-App auf dem iPhone"
-    },
-    {
-      "title": "Vorsicht Developer: Apple stellt Jugendschutz-Rating um",
-      "teaser": "Im Rahmen der neuen \"Family Tools\" für eine schlauere Familienzuordnung überholt Apple sein Bewertungssystem. Entwickler müssen tätig werden.",
-      "url": "https://www.heise.de/news/Wichtig-fuer-Entwickler-Apple-ueberholt-Jugendschutz-Rating-System-10503121.html",
-      "image_title": "Neues Rating-System im App Store"
     },
     {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
@@ -309,6 +308,41 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "JavaLand 2026: Vorträge für die Community-Konferenz im Europa-Park Rust gesucht",
+      "teaser": "Im März 2026 findet die JavaLand-Konferenz im größten Freizeitpark Deutschlands statt. Der Call for Papers läuft bis zum 16. September 2025.",
+      "url": "https://www.heise.de/news/JavaLand-2026-Vortraege-fuer-die-Community-Konferenz-im-Europa-Park-Rust-gesucht-10501844.html",
+      "image_title": "JavaLand Banner"
+    },
+    {
+      "title": "EU-Recht: Was sich im Entwurf der NIS2-Richtlinie verändert hat",
+      "teaser": "Wir schauen uns an, welche Inhalte sich im Vergleich zum alten Gesetzesentwurf der Ampelkoalition geändert haben und wie die Änderungen zu bewerten sind.",
+      "url": "https://www.heise.de/hintergrund/EU-Recht-Was-sich-im-Entwurf-der-NIS2-Richtlinie-veraendert-hat-10494056.html"
+    },
+    {
+      "title": "Baden-Württembergs Polizei darf wohl Software von Palantir vorrübergehend nutzen",
+      "teaser": "Baden-Württemberg einigt sich einem Bericht zufolge über den Einsatz der polizeilichen Datenanalysesoftware von Palantir. Beim Einsatz gibt es Auflagen.",
+      "url": "https://www.heise.de/news/Baden-Wuerttembergs-Polizei-darf-wohl-Software-von-Palantir-vorruebergehend-nutzen-10504196.html",
+      "image_title": "Ein Ausschnitt aus der Palantir-Webseite inklusive Logo"
+    },
+    {
+      "title": "iCloud-Rechtsstreit um Speicherplatz: Richter gibt Apple recht",
+      "teaser": "US-Sammelkläger wollten Geld von Apple, weil der Konzern kostenlosen Speicher nicht aufs iCloud+-Abo aufschlägt. Doch das wird wohl nichts.",
+      "url": "https://www.heise.de/news/iCloud-Rechtsstreit-um-Speicherplatz-Richter-gibt-Apple-recht-10501768.html",
+      "image_title": "iCloud-Logo"
+    },
+    {
+      "title": "Nach Bugfix: Bitchat Mesh von Jack Dorsey nun im App Store",
+      "teaser": "Bitchat Mesh, ein auf Bluetooth basierendes Kommunikationswerkzeug kann fürs iPhone geladen werden. Erst mit Update klappt die Verbindung zu Android.",
+      "url": "https://www.heise.de/news/Nach-Bugfix-Bitchat-Mesh-von-Jack-Dorsey-nun-im-App-Store-10503058.html",
+      "image_title": "Die Bitchat-App auf dem iPhone"
+    },
+    {
+      "title": "Vorsicht Developer: Apple stellt Jugendschutz-Rating um",
+      "teaser": "Im Rahmen der neuen \"Family Tools\" für eine schlauere Familienzuordnung überholt Apple sein Bewertungssystem. Entwickler müssen tätig werden.",
+      "url": "https://www.heise.de/news/Wichtig-fuer-Entwickler-Apple-ueberholt-Jugendschutz-Rating-System-10503121.html",
+      "image_title": "Neues Rating-System im App Store"
+    },
+    {
       "title": "Initiative \"Berlin autofrei\" will bei Ablehnung Volksentscheid erzwingen",
       "teaser": "Die Bürgerinitiative für ein autofreies Berlin innerhalb des S-Bahn-Rings will im Falle einer Ablehnung durch das Landesparlament den Volksentscheid erzwingen.",
       "url": "https://www.heise.de/news/Initiative-Berlin-autofrei-will-bei-Ablehnung-Volksentscheid-erzwingen-10504076.html",
@@ -351,6 +385,11 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "Wegen Zöllen und zähem Geschäft in China erwartet Mercedes ein kleineres Plus",
       "teaser": "Zölle und China belasten bereinigte Marge: Mercedes berechnet für die Halbjahreszahlen nur mehr vier bis sechs Prozent vor Zinsen und Steuern bis Jahresende.",
       "url": "https://www.heise.de/news/Wegen-Zoellen-und-zaehem-Geschaeft-in-China-erwartet-Mercedes-ein-kleineres-Plus-10503937.html",
@@ -386,11 +425,6 @@
       "image_title": "Blick aus einem Wartebereich des Flughafens Barcelona, im Hintergrund ein startendes Flugzeug."
     },
     {
-      "title": "Die richtige Prozessarchitektur als Basis zur effizienten Verbesserung von SAP Prozessen",
-      "teaser": "SAP ECC läuft aus, die Migration steht bevor: Wie Sie mit der richtigen Prozessarchitektur Ihre SAP-Landschaft nachhaltig modernisieren, erfahren Sie im Live-Webcast am 14.8. um 11 Uhr.",
-      "url": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952/?source=hbsadersatz"
-    },
-    {
       "title": "Mittwoch: Cyberangriff auf Telco-Konzern Orange, Ankers Verzicht auf 3D-Drucker",
       "teaser": "IT-Einbruch ohne Datenverlust + Ankers UV- statt 3D-Druck + YouTube mit KI-Alterskontrolle + Gematik mit mehr Datenschutz + MIDI-Keyboard im Test + Bit-Rauschen",
       "url": "https://www.heise.de/news/Mittwoch-Cyberangriff-auf-Telco-Konzern-Orange-Ankers-Verzicht-auf-3D-Drucker-10503813.html",
@@ -413,40 +447,6 @@
       "teaser": "Anker hat den Vertrieb von 3D-Druckern eingestellt. Neu ins Sortiment kommt ein UV-Drucker für Reliefs.",
       "url": "https://www.heise.de/news/Anker-verkauft-keine-3D-Drucker-mehr-dafuer-UV-Drucker-10503761.html",
       "image_title": "3D-Drucker, der eine weißliche Skulptur druckt"
-    },
-    {
-      "title": "TI 2.0: Gematik setzt bei Gesundheits-Sicherheit auf Zero Trust, beauftragt EY",
-      "teaser": "Die Gematik will zusammen mit EY das Zero-Trust-Konzept für die TI 2.0 umsetzen. Das soll für mehr IT-Sicherheit im Gesundheitswesen sorgen.",
-      "url": "https://www.heise.de/news/Sicherheitskonzept-Gematik-beauftragt-EY-mit-Zero-Trust-Umsetzung-fuer-TI-2-0-10503701.html",
-      "image_title": "Person am Laptop, im Hintergrund Symbole aus dem Gesundheitswesen"
-    },
-    {
-      "title": "IT-Einbruch bei Telecom-Konzern Orange",
-      "teaser": "Orange ist Opfer eines IT-Angriffs, was Betriebsstörungen verursacht. Nähere Angaben verweigert der französische Netzbetreiber.",
-      "url": "https://www.heise.de/news/IT-Einbruch-bei-Telecom-Konzern-Orange-10503697.html",
-      "image_title": "Orange Würfel mit weißer Aufschrift \"orange\" steht im Hof eines Bürogebäudes mit viel Glas"
-    },
-    {
-      "title": "Top 10: Die besten Smartphones im Test – Xiaomi ist Testsieger der Bestenliste",
-      "teaser": "Xiaomi, Samsung, Apple & Co. liefern echte Technik-Highlights. Doch welche Handys gehören zur Spitzenklasse? Wir zeigen die besten Smartphones im Test.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smartphones-im-test-xiaomi-ist-testsieger-der-bestenliste/5qx1bd1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Afrinic: Regierung von Mauritius schreitet ein",
-      "teaser": "Nachdem die Afrinic-Vorstandswahl wegen Unregelmäßigkeiten annulliert wurde, hat die Regierung eine Untersuchung angekündigt. Auch die ICANN erhöht den Druck.",
-      "url": "https://www.heise.de/news/Afrinic-Regierung-von-Mauritius-schreitet-ein-10503609.html",
-      "image_title": "Server-Hardware"
-    },
-    {
-      "title": "Software auf Irrwegen: Wie Softwarehersteller ihre Nutzer vergraulen",
-      "teaser": "Was mancher Softwarehersteller seinen Kunden in Form von Updates, Lizenz- und Preiskapriolen vorsetzt, grenzt an Enshittification. Beispiele gibt es genug.",
-      "url": "https://www.heise.de/ratgeber/Software-auf-Irrwegen-Wie-Softwarehersteller-ihre-Nutzer-vergraulen-10463926.html"
-    },
-    {
-      "title": "Spamfilter in iOS 26: Republikaner rechnen mit Millionenverlusten",
-      "teaser": "Nachrichten unbekannter Sender blendet iOS 26 wahlweise aus. Ein Wahlkampfkomitee der Republikaner warnt, dadurch könnten Spenden massiv einbrechen.",
-      "url": "https://www.heise.de/news/US-Wahlkaempfer-fuerchten-Apples-aggressiven-Messaging-Filter-in-iOS-26-10503512.html",
-      "image_title": "Unbekannte Absender in Apples Nachrichten-App"
     },
     {
       "title": "SMS war gestern: Wie RCS das Messaging revolutioniert",
@@ -528,14 +528,14 @@
       "image_title": "Europa, USA, Schild"
     },
     {
+      "title": "Spamfilter in iOS 26: Republikaner rechnen mit Millionenverlusten",
+      "url": "https://www.heise.de/news/US-Wahlkaempfer-fuerchten-Apples-aggressiven-Messaging-Filter-in-iOS-26-10503512.html",
+      "image_title": "Unbekannte Absender in Apples Nachrichten-App"
+    },
+    {
       "title": "Grundrechte: Verfassungsbeschwerde wegen polizeilichem Handy-Auslesen",
       "url": "https://www.heise.de/news/Grundrechte-Verfassungsbeschwerde-wegen-polizeilichem-Handy-Auslesen-10503524.html",
       "image_title": "Person nutzt ein Smartphone und sitzt vor einem Computer. Daneben ist ein Stethoskop."
-    },
-    {
-      "title": "Bahn, Solarstrom, KI: Was sich im August ändert",
-      "url": "https://www.heise.de/news/Bahn-Solarstrom-KI-Was-sich-im-August-aendert-10501158.html",
-      "image_title": "Eine Frau und ein Mann montieren ein Solarpanel auf einem Dach"
     },
     {
       "title": "Google: Erdbeben-Frühwarnsystem hat in der Türkei nicht richtig funktioniert",
@@ -618,22 +618,21 @@
       "url": "https://www.heise.de/en/news/Artificial-intelligence-Vibe-coding-service-Replit-deletes-production-database-10499597.html"
     },
     {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: unterschätzte Smartphone-Modems",
-      "teaser": "Apple sieht das hauseigene 5G-Modem als große Errungenschaft. Wieso Modems so komplex und wichtig sind, klärt Folge 2025/16 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-unterschaetzte-Smartphone-Modems-10466453.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
+      "title": "Enshittification: Wenn gute Produkte und Webdienste verhunzt werden | c’t uplink",
+      "teaser": "Obwohl Innovationen die IT-Branche prägen, werden vielfach einst tolle Apps und Dienste unbrauchbar. Was Enshittification befördert, ist Thema im c’t uplink.",
+      "url": "https://www.heise.de/news/Enshittification-Wenn-gute-Produkte-und-Webdienste-verhunzt-werden-c-t-uplink-10498855.html"
+    },
+    {
+      "title": "Drohnenführerschein Amt besteht auf Zahlung trotz fehlendem Hinweis auf Kosten",
+      "teaser": "Das LBA fordert Nutzer auf, für 2021 abgelegte Drohnenführerschein-Prüfungen zu zahlen. Die Rechtmäßigkeit ist zweifelhaft.",
+      "url": "https://www.heise.de/news/Drohnenfuehrerschein-Amt-besteht-auf-Zahlung-trotz-fehlendem-Hinweis-auf-Kosten-10502624.html",
+      "image_title": "Kostenbescheid vom Luftfahrbundesamt"
     },
     {
       "title": "Windows sichern, reparieren und installieren mit nur einem USB-Laufwerk",
       "teaser": "Einige Mausklicks, und schon bootet das c’t-Notfall-Windows vom selben USB-Datenträger, den Sie für c’t-WIMage eingerichtet haben.",
       "url": "https://www.heise.de/ratgeber/Windows-sichern-reparieren-und-installieren-mit-nur-einem-USB-Laufwerk-10439195.html",
       "image_title": "Rettungsboot de luxe"
-    },
-    {
-      "title": "Was die Hightech-Agenda der Bundesregierung für die Quantentechnologie bedeutet",
-      "teaser": "Die Agenda des Forschungsministeriums soll Deutschland technisch nach vorne bringen. Experten sehen jedoch kritische Lücken bei einer Schlüsseltechnologie.",
-      "url": "https://www.heise.de/news/Was-die-Hightech-Agenda-der-Bundesregierung-fuer-die-Quantentechnologie-bedeutet-10501840.html",
-      "image_title": "Quantencomputer von QuiX Quantum"
     },
     {
       "title": "Großer SprungiPadOS 26 im Hands-on: Neustart für das iPad",
@@ -766,22 +765,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Teuer und ungesund: Wer zahlt für die Schäden durch Ackergifte?",
-      "teaser": "Pestizide machen Landwirte krank. Parkinson gilt nun als Berufskrankheit für Bauern. Doch wer die Kosten für die Gesundheitsschäden tragen soll, sorgt für heftigen Streit.",
-      "url": "https://www.heise.de/tp/features/Teuer-und-ungesund-Wer-zahlt-fuer-die-Schaeden-durch-Ackergifte-10501450.html",
-      "image_title": "Pestizid-Drucksprüher und zitternde Hand"
-    },
-    {
-      "title": "Deutsche Wirtschaft schrumpft trotz Wachstum in Eurozone",
-      "teaser": "Während die Eurozone im zweiten Quartal wuchs, ging Deutschlands BIP um 0,1 Prozent zurück. Der Handelskonflikt mit den USA belastet weiterhin die Konjunktur.",
-      "url": "https://www.heise.de/tp/features/Deutsche-Wirtschaft-schrumpft-trotz-Wachstum-in-Eurozone-10504319.html",
-      "image_title": "Deutsche Wirtschaft mit Pfeil nach unten als Symbolbild"
-    },
-    {
       "title": "Nach dem Zwölftage-Krieg: Warum ein Regimewechsel im Iran in weiter Ferne liegt",
       "teaser": "Iran überstand Israels Angriff, doch die Region bleibt fragil. Das Regime verhinderte den Sturz, steht aber vor Krisen. Doch die größte Gefahr lauert im Inneren.",
       "url": "https://www.heise.de/tp/features/Nach-dem-Zwoelftage-Krieg-Warum-ein-Regimewechsel-im-Iran-in-weiter-Ferne-liegt-10502867.html",
       "image_title": "Eine Frau vor einer Wand mit Grafik"
+    },
+    {
+      "title": "Hungersnot in Gaza: UN-gestützte Organisation sieht \"Worst-Case-Szenario\"",
+      "teaser": "UN-nahe Initiative meldet akute Hungersnot im Gazastreifen. Israel bestreitet Vorwürfe und setzt nach internationalem Druck auf umstrittene Luftabwürfe.",
+      "url": "https://www.heise.de/tp/features/Hungersnot-in-Gaza-UN-gestuetzte-Organisation-sieht-Worst-Case-Szenario-10503401.html",
+      "image_title": "Flüchtlingslager in Khan Yunis im Süden des Gazastreifens"
+    },
+    {
+      "title": "Neue Studie zu Covid-Impfkampagne: Wer waren die wahren Corona-Schwurbler?",
+      "teaser": "Eine neue Studie stellt die Corona-Impfkampagne auf den Prüfstand. Die Ergebnisse widersprechen vielen früheren Annahmen. Wer also hat damals wirklich \"geschwurbelt\"?",
+      "url": "https://www.heise.de/tp/features/Neue-Studie-zu-Covid-Impfkampagne-Wer-waren-die-wahren-Corona-Schwurbler-10503333.html",
+      "image_title": "Mutter mit Kind macht Ablehnende Geste zu Arzt mit Spritze"
     },
     {
       "title": "[Werbung] WordPress-Kosten: Was kostet eine WordPress-Website wirklich?",
