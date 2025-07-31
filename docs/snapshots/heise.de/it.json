@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-31T08:16:06",
+  "timestamp": "2025-07-31T09:16:59",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Microsofts Sharepoint-Lücken: Die Zero-Days, die vielleicht gar keine waren",
+      "teaser": "Die Angriffe auf Sharepoint-Server nutzten keine neuen sondern bekannte Lücken aus, für die es bereits Patches gab. Ob die geschützt hätten, ist jedoch offen.",
+      "url": "https://www.heise.de/news/Microsofts-Sharepoint-Luecken-Die-Zero-Days-die-vielleicht-gar-keine-waren-10505387.html",
+      "image_title": "Finger zeigt auf Sharepoint-Schriftzug"
+    },
+    {
+      "title": "AlertSchnell installieren: Apple fixt Zero-Day-Angriff in WebKit",
+      "teaser": "Google zufolge wurde eine WebKit-Lücke in Chrome bereits aktiv angegriffen. Apples Sicherheitshinweise enthalten dazu aber keine Angaben.",
+      "url": "https://www.heise.de/news/Schnell-installieren-Apple-fixt-Zero-Day-Angriff-in-WebKit-10505297.html",
+      "image_title": "Safari-Icon in Fehlfarben"
+    },
+    {
+      "title": "AlertUEFI-Sicherheitslücken machen All-in-One-PCs von Lenovo angreifbar",
+      "teaser": "Verschiedene All-in-One-PC-Modelle von Lenovo sind verwundbar. Die Beschreibung der Lücken legt ein Aushebeln von Secure Boot nahe.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-UEFI-Sicherheitsluecken-gefaehrden-All-in-One-PCs-von-Lenovo-10505157.html",
+      "image_title": "Ein symbolisches Schild erinnert daran, Updates zu installieren"
+    },
+    {
       "title": "Webinarserie: Professioneller Apple-Support, auch als Zertifikatsvorbereitung",
       "teaser": "Werden Sie zum Apple-Support-Profi: In vier Webinaren lernen Sie alle Feinheiten von macOS, iOS und iPadOS. Ideal auch zur Vorbereitung auf die Zertifizierung.",
       "url": "https://www.heise.de/news/Webinarserie-Professioneller-Apple-Support-auch-als-Zertifikatsvorbereitung-10502606.html"
-    },
-    {
-      "title": "Acer Swift Go 14 im Test: KI-Notebook mit AMD-Achtkerner",
-      "teaser": "AMD-Notebooks, die für Copilot+ taugen, waren bislang sehr teuer. Dank eines neuen Chips ändert sich das beim Acer Swift Go 14.",
-      "url": "https://www.heise.de/tests/Acer-Swift-Go-14-im-Test-KI-Notebook-mit-AMD-Achtkerner-10441951.html"
-    },
-    {
-      "title": "PHPLaravel Idea für lau: PhpStorm-Nutzer sparen sich das Extra-Plug-in",
-      "teaser": "Laravel Idea ist ab sofort kostenlos in PhpStorm verfügbar. Das Plug-in ergänzt die IDE um Laravel-Features wie Autovervollständigung und Blade-Support.",
-      "url": "https://www.heise.de/news/Laravel-Idea-fuer-lau-PhpStorm-Nutzer-sparen-sich-das-Extra-Plug-in-10505209.html",
-      "image_title": "Schweizer Taschenmesser aufgeklappt."
-    },
-    {
-      "title": "Machine LearningKünstliche Neuronale Netze im Überblick 2: Schichten und Feed-Forward-Netzwerke",
-      "teaser": "Der zweite Teil der Serie zeigt, wie mehrere Neuronen, die sich die Eingaben teilen und parallel Ausgaben erzeugen, die Schicht eines Neuronalen Netzes bilden.",
-      "url": "https://www.heise.de/blog/Kuenstliche-Neuronale-Netze-im-Ueberblick-2-Schichten-und-Feed-Forward-Netzwerke-10505167.html",
-      "image_title": "Komplexes neuronales Netzwerk"
     },
     {
       "title": "TestsAcer Swift Go 14 im Test: KI-Notebook mit AMD-Achtkerner",
@@ -59,6 +60,18 @@
     {
       "title": "HintergrundKohärentes Routing für optische Netze erklärt",
       "url": "https://www.heise.de/hintergrund/Kohaerentes-Routing-fuer-optische-Netze-erklaert-10480459.html"
+    },
+    {
+      "title": "Laravel-Boost für PhpStorm: Plug-in-Power ohne Aufpreis",
+      "teaser": "Laravel Idea ist ab sofort kostenlos in PhpStorm verfügbar. Das Plug-in ergänzt die IDE um Laravel-Features wie Autovervollständigung und Blade-Support.",
+      "url": "https://www.heise.de/news/Laravel-Idea-fuer-lau-PhpStorm-Nutzer-sparen-sich-das-Extra-Plug-in-10505209.html",
+      "image_title": "Schweizer Taschenmesser aufgeklappt."
+    },
+    {
+      "title": "Künstliche Neuronale Netze im Überblick 2: Schichten und Feed-Forward-Netzwerke",
+      "teaser": "Der zweite Teil der Serie zeigt, wie mehrere Neuronen, die sich die Eingaben teilen und parallel Ausgaben erzeugen, die Schicht eines Neuronalen Netzes bilden.",
+      "url": "https://www.heise.de/blog/Kuenstliche-Neuronale-Netze-im-Ueberblick-2-Schichten-und-Feed-Forward-Netzwerke-10505167.html",
+      "image_title": "Komplexes neuronales Netzwerk"
     },
     {
       "title": "Video Overviews: Google bringt KI-Visualisierungen in NotebookLM",
@@ -136,16 +149,6 @@
       "teaser": "Angreifer können mit industriellen Kontrollsystemen von Delta Electronics, National Instruments und Samsung ausgestattete kritische Infrastrukturen attackieren.",
       "url": "https://www.heise.de/news/Industrielle-Kontrollsysteme-Updates-schliessen-Schadcode-Schlupfloecher-10504485.html",
       "image_title": "Ein symbolisches Schild weist auf ein Update hin."
-    },
-    {
-      "title": "Chromebook mit flottem ARM-Prozessor im Test: Lenovo Chromebook 14 Plus",
-      "teaser": "Chromebooks mit einem Plus im Namen warten mit mehr Funktionen auf. Das Chromebook 14 Plus von Lenovo macht da keine Ausnahme und bringt etliche KI-Funktionen.",
-      "url": "https://www.heise.de/tests/Chromebook-mit-flottem-ARM-Prozessor-im-Test-Lenovo-Chromebook-14-Plus-10463344.html"
-    },
-    {
-      "title": "Enshittification: Wenn gute Produkte und Webdienste verhunzt werden | c’t uplink",
-      "teaser": "Obwohl Innovationen die IT-Branche prägen, werden vielfach einst tolle Apps und Dienste unbrauchbar. Was Enshittification befördert, ist Thema im c’t uplink.",
-      "url": "https://www.heise.de/news/Enshittification-Wenn-gute-Produkte-und-Webdienste-verhunzt-werden-c-t-uplink-10498855.html"
     },
     {
       "title": "UpdateNewsDrohnenführerschein: Amt besteht auf Zahlung trotz fehlendem Hinweis auf Kosten",
