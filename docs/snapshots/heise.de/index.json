@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-05T10:12:30",
+  "timestamp": "2025-08-05T11:10:36",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "CalyxOS: Android-Custom ROM pausiert Entwicklung für bis zu sechs Monate",
+      "url": "https://www.heise.de/news/CalyxOS-Android-Custom-ROM-mit-massiven-Problemen-10510039.html"
+    },
+    {
+      "title": "macOS: Backup-App für iCloud Drive und iCloud-Fotos",
+      "url": "https://www.heise.de/news/iCloud-Daten-Mac-App-sichert-Drive-und-Fotos-10508960.html"
+    },
     {
       "title": "Patchday: Kritische Schadcode-Lücke bedroht Android 16",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-16-10509617.html"
@@ -58,14 +66,6 @@
       "url": "https://www.heise.de/news/AVM-gibt-seinen-Namen-auf-10509753.html"
     },
     {
-      "title": "Dock für Mac mini M4 im klassischen Macintosh-Design und Screen",
-      "url": "https://www.heise.de/news/Dock-fuer-Mac-mini-M4-im-klassischen-Macintosh-Design-und-Screen-10508944.html"
-    },
-    {
-      "title": "LLMs im Unternehmen: Online-Konferenz zu Auswahl, Praxis und Security",
-      "url": "https://www.heise.de/news/LLMs-im-Unternehmen-Online-Konferenz-zu-Auswahl-Praxis-und-Security-10505289.html"
-    },
-    {
       "title": "Fritzboxen & Co.AVM gibt seinen Namen auf",
       "teaser": "Der inzwischen deutsch-luxemburgische Fritzbox-Hersteller ändert seinen Firmennamen. Mit \"FRITZ!\" soll die Marke im Vordergrund stehen.",
       "url": "https://www.heise.de/news/AVM-gibt-seinen-Namen-auf-10509753.html",
@@ -84,9 +84,9 @@
       "image_title": "Mond"
     },
     {
-      "title": "Wie weit kommen Elektroautos?21 E-Auto-Modelle im Langstrecken-Vergleich",
-      "teaser": "Elektroautos fahren mittlerweile auch große Distanzen ohne Ladestopp. Wir zeigen, wie weit aktuelle Langstrecken-Elektroautos wirklich kommen.",
-      "url": "https://www.heise.de/ratgeber/Wie-weit-Elektroautos-auf-der-Langstrecke-kommen-21-Modelle-im-Vergleich-10505199.html"
+      "title": "PC-ProzessorenÜber 50 Desktop-CPUs im Performance-, Effizienz- und Preis-Leistungs-Vergleich",
+      "teaser": "Die Rechenleistung und der Energiebedarf eines Prozessors hängen von vielen Faktoren ab. Wir haben Desktop-CPUs von 2017 bis 2025 im c’t-Labor durchgemessen.",
+      "url": "https://www.heise.de/tests/Ueber-50-Desktop-CPUs-im-Performance-Effizienz-und-Preis-Leistungs-Vergleich-10472577.html"
     },
     {
       "title": "AktienpaketTesla verpasst Chance, sich von Elon Musk zu trennen",
@@ -138,10 +138,9 @@
       "url": "https://www.heise.de/ratgeber/Stromleitungen-und-Rohre-finden-mit-Waermebildkameras-10460890.html"
     },
     {
-      "title": "PraxisanleitungImportierte Wärmepumpe selbst einbauen und in Betrieb nehmen",
-      "teaser": "Eine Monoblock-Wärmepumpe selbst anzuschließen, ist kein Hexenwerk. Anhand unseres importierten 5-kW-Geräts zeigen wir, wie es mit einfachen Mitteln gelingt.",
-      "url": "https://www.heise.de/ratgeber/Praxisanleitung-Importierte-Waermepumpe-selbst-einbauen-und-in-Betrieb-nehmen-10487564.html",
-      "image_title": ","
+      "title": "Wie weit kommen Elektroautos?21 E-Auto-Modelle im Langstrecken-Vergleich",
+      "teaser": "Elektroautos fahren mittlerweile auch große Distanzen ohne Ladestopp. Wir zeigen, wie weit aktuelle Langstrecken-Elektroautos wirklich kommen.",
+      "url": "https://www.heise.de/ratgeber/Wie-weit-Elektroautos-auf-der-Langstrecke-kommen-21-Modelle-im-Vergleich-10505199.html"
     },
     {
       "title": "Desktop-CPUsIntel legt 3,5 Jahre alte Prozessoren neu auf",
@@ -186,6 +185,23 @@
       "image_title": "Spotify-Logo auf iPhone, daneben liegen AirPods"
     },
     {
+      "title": "CalyxOS: Android-Custom ROM pausiert Entwicklung für bis zu sechs Monate",
+      "teaser": "Keine Patches, keine Updates für bis zu sechs Monate. Das Team des Google-freien Custom-ROMs CalyxOS steht vor massiven Problemen und setzt die Entwicklung aus.",
+      "url": "https://www.heise.de/news/CalyxOS-Android-Custom-ROM-mit-massiven-Problemen-10510039.html",
+      "image_title": "CalyxOS auf Smartphone"
+    },
+    {
+      "title": "macOS: Backup-App für iCloud Drive und iCloud-Fotos",
+      "teaser": "Wer Apples Speicherdienst nicht recht vertraut, kann die Daten auch händisch sichern. Parachute Backup hat sich darauf spezialisiert.",
+      "url": "https://www.heise.de/news/iCloud-Daten-Mac-App-sichert-Drive-und-Fotos-10508960.html",
+      "image_title": "Parachute Backup für iCloud"
+    },
+    {
+      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
+      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "AlertPatchday: Kritische Schadcode-Lücke bedroht Android 16",
       "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen im mobilen Betriebssystem Android.",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-16-10509617.html",
@@ -196,11 +212,6 @@
       "teaser": "Dieser iX-Workshop vermittelt Best Practices zum Auf- oder Ausbau einer effektiven und erfolgreichen IT-Strategie.",
       "url": "https://www.heise.de/news/iX-Workshop-Strategisches-IT-und-Technologie-Management-10501285.html",
       "image_title": "Strategisches IT-Management entwickeln und umsetzen (iX-Workshop)"
-    },
-    {
-      "title": "Security Operations Center neu gedacht",
-      "teaser": "SOCs stehen unter Dauerbelastung und Analysten hadern mit falschen Alarmen. Zeit für eine Neuausrichtung! Moderne SOC-Architekturen sind modular aufgebaut und lösen Aufgaben durch Spezialkomponenten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7028814436&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Wie man Zero Trust mit Windows-Bordmitteln umsetzen kann",
@@ -224,18 +235,6 @@
       "teaser": "Das neue Release der JetBrains-IDE bringt Vorab-Support für Java 25 und Maven 4, während die KI-Tools AI Assistant und Junie neue Funktionen erhalten.",
       "url": "https://www.heise.de/news/Entwicklungsumgebung-IntelliJ-IDEA-2025-2-bringt-Support-fuer-Java-25-10509675.html",
       "image_title": "Flugzeug-Symbol auf Milchschaum"
-    },
-    {
-      "title": "Citroën ë-C3 Aircross im Test: Preiswertes E-SUV mit reichlich Komfort",
-      "teaser": "Der vergleichsweise günstige Preis ist im ë-C3 Aircross sichtbar. Andererseits hat das E-SUV viel Platz, fährt komfortabel und stört nicht mit Firlefanz.",
-      "url": "https://www.heise.de/tests/Citroen-e-C3-Aircross-im-Test-Preiswertes-E-SUV-mit-reichlich-Komfort-10494782.html",
-      "image_title": "Citroën ë-C3 Aircross"
-    },
-    {
-      "title": "Dock für Mac mini M4 im klassischen Macintosh-Design und Screen",
-      "teaser": "Die Wokyis Retro Docking Station packt Apples kleinen Desktop in ein Achtzigerjahre-Gehäuse. Besonderheit ist das Display.",
-      "url": "https://www.heise.de/news/Dock-fuer-Mac-mini-M4-im-klassischen-Macintosh-Design-und-Screen-10508944.html",
-      "image_title": "Wokyis-Dock für Mac mini M4"
     },
     {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
@@ -306,6 +305,18 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "Citroën ë-C3 Aircross im Test: Preiswertes E-SUV mit reichlich Komfort",
+      "teaser": "Der vergleichsweise günstige Preis ist im ë-C3 Aircross sichtbar. Andererseits hat das E-SUV viel Platz, fährt komfortabel und stört nicht mit Firlefanz.",
+      "url": "https://www.heise.de/tests/Citroen-e-C3-Aircross-im-Test-Preiswertes-E-SUV-mit-reichlich-Komfort-10494782.html",
+      "image_title": "Citroën ë-C3 Aircross"
+    },
+    {
+      "title": "Dock für Mac mini M4 im klassischen Macintosh-Design und Screen",
+      "teaser": "Die Wokyis Retro Docking Station packt Apples kleinen Desktop in ein Achtzigerjahre-Gehäuse. Besonderheit ist das Display.",
+      "url": "https://www.heise.de/news/Dock-fuer-Mac-mini-M4-im-klassischen-Macintosh-Design-und-Screen-10508944.html",
+      "image_title": "Wokyis-Dock für Mac mini M4"
+    },
+    {
       "title": "LLMs im Unternehmen: Online-Konferenz zu Auswahl, Praxis und Security",
       "teaser": "Der Thementag am 29. Oktober gibt einen Überblick über aktuelle Entwicklungen und hilft, das passende LLM für den Einsatz im Unternehmen auszuwählen.",
       "url": "https://www.heise.de/news/LLMs-im-Unternehmen-Online-Konferenz-zu-Auswahl-Praxis-und-Security-10505289.html",
@@ -369,6 +380,11 @@
       "url": "https://www.heise.de/tests/Ueber-50-Desktop-CPUs-im-Performance-Effizienz-und-Preis-Leistungs-Vergleich-10472577.html"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "Gigabit-Empfang im Zug – Testfahrten gehen in nächste Phase",
       "teaser": "Sehr schnelles Internet ist auf Zugfahrten eher die Ausnahme. Damit sich das ändert, soll im Nordosten nun wieder ein fahrendes Labor rollen.",
       "url": "https://www.heise.de/news/Gigabit-Empfang-im-Zug-Testfahrten-gehen-in-naechste-Phase-10509475.html",
@@ -379,11 +395,6 @@
       "teaser": "Tesla-Chef erhält Aktienpaket + Robotaxi-Service für Europa + Von der Leyens SMS bleiben verschwunden + DSL-Abschaltung soll warten + Spotify erhöht die Preise",
       "url": "https://www.heise.de/news/Dienstag-Elon-Musk-macht-ein-Schnaeppchen-Lyft-und-Baidu-kooperieren-in-Europa-10509445.html",
       "image_title": "Ein Smartphone zeigt Logos von Tesla und SpaceX; hinter dem Handy ist Elon Musk zu sehen, dazu Text: DIENSTAG Elon Musk, Lyft-Baidu-Deal, \"Pfizergate\", Glasfaserausbau & Spotify"
-    },
-    {
-      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
-      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
     },
     {
       "title": "Gebühren für Handgepäck unzulässig? Verbraucherzentrale klagt",
@@ -430,17 +441,6 @@
       "teaser": "KI verbraucht viel Strom. Forscher haben eine einfache Methode gefunden, wie Verbraucher durch ihr Nutzerverhalten Emissionen einsparen können.",
       "url": "https://www.heise.de/news/KI-Chatverlauf-zuruecksetzen-senkt-CO-Ausstoss-10509213.html",
       "image_title": "Würfel mit Icons vor grünem Hintergrund"
-    },
-    {
-      "title": "\"Pfizergate\": Wichtige SMS von Ursula von der Leyen wurden gelöscht",
-      "teaser": "Die EU-Kommission hat zentrale SMS zwischen von der Leyen und Pfizer-Chef Bourla aus den Impfstoffverhandlungen gelöscht. Der Kabinettschef soll schuld sein.",
-      "url": "https://www.heise.de/news/Pfizergate-Die-verschwundenen-SMS-der-EU-Kommissionspraesidentin-10509151.html",
-      "image_title": "Ursula von der Leyen vor EU-Flaggen"
-    },
-    {
-      "title": "Albrecht DR 52 BA im Test: Günstiger & guter DAB+-Adapter für Stereoanlage",
-      "teaser": "UKW wird bald abgeschaltet – was tun mit dem geliebten Tuner? Mit dem DAB+-Adapter Albrecht DR52 kann man die Stereoanlage einfach auf Digitalradio umrüsten.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/albrecht-dr-52-ba-im-test-guenstiger-und-guter-dab-adapter-fuer-stereoanlage/n1swgg2?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Suchdeal: Apple warnt vor möglichem Verlust von Google-Milliarden",
@@ -512,9 +512,9 @@
       "image_title": "Booking.com"
     },
     {
-      "title": "US-Geschworenengericht: Tesla trägt Mitschuld an tödlichem Unfall mit Autopilot",
-      "url": "https://www.heise.de/news/US-Geschworenengericht-Tesla-traegt-Mitschuld-an-toedlichem-Unfall-mit-Autopilot-10507879.html",
-      "image_title": "Tesla-Logo auf rotem Auto"
+      "title": "\"Pfizergate\": Wichtige SMS von Ursula von der Leyen wurden gelöscht",
+      "url": "https://www.heise.de/news/Pfizergate-Die-verschwundenen-SMS-der-EU-Kommissionspraesidentin-10509151.html",
+      "image_title": "Ursula von der Leyen vor EU-Flaggen"
     },
     {
       "title": "Elektronische Patientenakte: Techniker Krankenkasse will Videoident zurück",
@@ -612,19 +612,19 @@
       "url": "https://www.heise.de/en/news/Microsoft-These-are-the-jobs-where-AI-is-used-the-most-10508045.html"
     },
     {
-      "title": "MCP: So erledigen KI-Sprachmodelle Ihre Aufgaben",
-      "teaser": "Durch das Model Context Protocol lassen ChatGPT & Co. ihren Worten Taten folgen und erledigen automatisiert fast beliebige Aufgaben für Sie.",
-      "url": "https://www.heise.de/ratgeber/MCP-So-erledigen-KI-Sprachmodelle-Ihre-Aufgaben-10454903.html"
-    },
-    {
-      "title": "Über 50 Desktop-CPUs im Performance-, Effizienz- und Preis-Leistungs-Vergleich",
-      "teaser": "Die Rechenleistung und der Energiebedarf eines Prozessors hängen von vielen Faktoren ab. Wir haben Desktop-CPUs von 2017 bis 2025 im c’t-Labor durchgemessen.",
-      "url": "https://www.heise.de/tests/Ueber-50-Desktop-CPUs-im-Performance-Effizienz-und-Preis-Leistungs-Vergleich-10472577.html"
-    },
-    {
       "title": "CPU-Wegweiser 2025: So finden Sie den passenden Desktopprozessor für Ihre Zwecke",
       "teaser": "Moderne CPUs werden immer schneller, aber auch komplexer. Wir helfen Ihnen, sich im Dickicht aus Hybrid-Kernen, Stapelcache und KI-Einheiten zurechtzufinden.",
       "url": "https://www.heise.de/tests/CPU-Wegweiser-2025-So-finden-Sie-den-passenden-Desktopprozessor-fuer-Ihre-Zwecke-10363008.html"
+    },
+    {
+      "title": "Web-Tipps: Wie Open Source ist ein Projekt?",
+      "teaser": "„Open Source“ ist nicht gleich offen. \"Is it really FOSS?\" zeigt, welche Software wirklich frei und offen ist – und welche Anbieter nur mit dem Begriff werben.",
+      "url": "https://www.heise.de/news/Web-Tipps-Wie-Open-Source-ist-ein-Projekt-10498298.html"
+    },
+    {
+      "title": "Vier Mähroboter im Test: Kein Kabel, kein Stress – und sicher für Igel & Co?",
+      "teaser": "Dank drahtloser Technik sind Mähroboter heutzutage schnell eingerichtet. Unsere vier Testgeräte sollen laut Hersteller sogar direkt aus dem Stand funktionieren.",
+      "url": "https://www.heise.de/tests/Vier-Maehroboter-im-Test-Kein-Kabel-kein-Stress-und-sicher-fuer-Igel-Co-10482409.html"
     },
     {
       "title": "Polarisierendes GlasDas halten Leser von Apples Bedienoberfläche Liquid Glass",
@@ -701,6 +701,18 @@
       "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
     },
     {
+      "title": "Wie Sie Abzocke an Ladesäulen vermeidenE-Auto ohne Vertrag günstig laden",
+      "teaser": "Große Betreiber wollen die Kunden in einen Vertrag nötigen, um ihre Position zu verbessern. Die wichtigste Alternative ist vorerst das Ad-hoc-Laden.",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-Wie-Sie-Abzocke-an-Ladesaeulen-vermeiden-10495116.html",
+      "image_title": "Volvo EX90 an einer Ladesäule"
+    },
+    {
+      "title": "Preiswertes E-SUV mit reichlich KomfortCitroën ë-C3 Aircross im Test",
+      "teaser": "Der vergleichsweise günstige Preis ist im ë-C3 Aircross sichtbar. Andererseits hat das E-SUV viel Platz, fährt komfortabel und stört nicht mit Firlefanz.",
+      "url": "https://www.heise.de/tests/Citroen-e-C3-Aircross-im-Test-Preiswertes-E-SUV-mit-reichlich-Komfort-10494782.html",
+      "image_title": "Citroën ë-C3 Aircross"
+    },
+    {
       "title": "Weitere Niederlage für Volkswagen vor dem EuGH Volkswagen-Abgasbetrug erneut vor Gericht",
       "teaser": "In Verfahren zu Schadenersatzklagen von Diesel-Käufern versucht Volkswagen, aus der Haftung zu kommen. Das oberste EU-Gericht spricht jetzt ein klares Urteil.",
       "url": "https://www.heise.de/news/Abgasbetrug-Weitere-Niederlage-fuer-Volkswagen-vor-dem-EuGH-10507435.html",
@@ -711,16 +723,6 @@
       "teaser": "Der Autozulieferer ZF Friedrichshafen machte im ersten Halbjahr einen Verlust von 195 Millionen Euro. Der Standort Saarbrücken soll eine Chance bekommen.",
       "url": "https://www.heise.de/news/Weiter-strikter-Sparkurs-bei-Autozulieferer-ZF-nach-195-Millionen-Euro-Verlust-10506968.html",
       "image_title": "Montage von Pkw-Hybridgetrieben bei ZF"
-    },
-    {
-      "title": "Zu viel Ausweichverkehr von der A8Bayerische Ortschaften planen Durchfahrverbote",
-      "teaser": "Bei Stau von der Autobahn auf Landstraßen auszuweichen ist übliche Praxis. Doch die Anlieger leiden unter dem Verkehr. Bayern darf daher nun Sperren einrichten.",
-      "url": "https://www.heise.de/news/Autobahnnahe-bayerische-Ortschaften-planen-Durchfahrverbote-nach-Vorbild-Tirols-10506670.html"
-    },
-    {
-      "title": "UpdateStrom aus der SäuleLadetarife für Elektroautos im Vergleich",
-      "teaser": "Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr.",
-      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html"
     },
     {
       "title": "Neuromorph: Warum die KI-Chips eines Dresdner Startups so besonders sind",
@@ -758,26 +760,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-dank-amd-ryzen-sogar-gaming/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Überhöhte Strompreise: Drei Milliarden Euro verschenkt",
-      "teaser": "Deutsche zahlten 2025 drei Milliarden Euro zu viel für Energie. Die meisten stecken in teuren Grundversorgungstarifen fest. Wer ist schuld an der Verschwendung?",
-      "url": "https://www.heise.de/tp/features/Ueberhoehte-Strompreise-Drei-Milliarden-Euro-verschenkt-10508379.html",
-      "image_title": "Strommstecker mit Kontakten als Eurozeichen"
+      "title": "USA: Boeing-Streik legt Rüstungswerke für Kampfjetproduktion lahm",
+      "teaser": "Gewerkschaftsmitglieder in Missouri und Illinois treten nach abgelehntem Tarifangebot in den Ausstand. Konzern aktiviert Notfallplan für Kampfjet-Produktion.",
+      "url": "https://www.heise.de/tp/features/USA-Boeing-Streik-legt-Ruestungswerke-fuer-Kampfjetproduktion-lahm-10508890.html",
+      "image_title": "Boeing-Logo auf Gebäude"
     },
     {
-      "title": "Digitale Identität: Von Pornos und Jugendschutz zum Iris-Scan",
-      "teaser": "Nach Frankreichs Porno-Sperrung: EU rät zur digitalen Identitäts-App. Was Künstliche Intelligenz damit zu tun hat und was ChatGPT-Gründer Altman verschweigt. Kritische Analyse.",
-      "url": "https://www.heise.de/tp/features/Digitale-Identitaet-Von-Pornos-und-Jugendschutz-zum-Iris-Scan-10508544.html",
-      "image_title": "Hand hält virtuellen Ausweis"
+      "title": "Zollkeule: Trumps Alleingang zunehmend irrational",
+      "teaser": "Trump stößt mögliche und tatsächliche Verbündete systematisch vor den Kopf. Kann es ihm gelingen, gleichzeitig gegen Russland und gegen China zu gewinnen?",
+      "url": "https://www.heise.de/tp/features/Zollkeule-Trumps-Alleingang-zunehmend-irrational-10507816.html",
+      "image_title": "Symbolbild: Absperrband mit dem Aufdruck 'Zölle' vor Containern"
     },
     {
-      "title": "US-Luftwaffe testet Raketenstufe für neues Atomwaffensystem",
-      "teaser": "US-Luftwaffe und Northrop Grumman haben die zweite Stufe der Sentinel-Interkontinentalrakete getestet. Sie soll ab 2029 die alternde Minuteman III ersetzen.",
-      "url": "https://www.heise.de/tp/features/US-Luftwaffe-testet-Raketenstufe-fuer-neues-Atomwaffensystem-10508534.html"
+      "title": "Brasiliens Oberster Gerichtshof ordnet Hausarrest für Ex-Präsident Bolsonaro an",
+      "teaser": "Gericht verschärft die Maßnahmen gegen Bolsonaro wegen Auflage-Verstößen. USA verurteilen die Entscheidung scharf und sprechen von \"Menschenrechtsverletzungen\".",
+      "url": "https://www.heise.de/tp/features/Brasiliens-Oberster-Gerichtshof-ordnet-Hausarrest-fuer-Ex-Praesident-Bolsonaro-an-10509789.html",
+      "image_title": "Brasiliens Ex-Präsident Jair Bolsonaro"
     },
     {
-      "title": "Vibe-Coding-Dienste im Vergleich: Apps entwickeln ohne Programmierkenntnisse",
-      "teaser": "Anhand einer kurzen Beschreibung generiert eine künstliche Intelligenz die passende Anwendung. Wie gut funktioniert das und wo unterscheiden sich die Dienste?",
-      "url": "https://www.heise.de/download/specials/Vibe-Coding-Dienste-im-Vergleich-Apps-entwickeln-ohne-Programmierkenntnisse-10467260"
+      "title": "Saily im Test: Komfortable Urlaubs-eSIM mit Sicherheits-Funktionen",
+      "teaser": "Kein teures Roaming, keine lästige WLAN-Suche und kein schlechter Empfang: Saily will mit günstigen eSIM-Tarifen gängige Mobilfunk-Probleme auf Reisen lösen.",
+      "url": "https://www.heise.de/download/specials/Saily-im-Test-Komfortable-Urlaubs-eSIM-mit-Sicherheits-Funktionen-10495234"
     },
     {
       "title": "Desinfec't",
