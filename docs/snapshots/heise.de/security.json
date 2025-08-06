@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-06T08:16:01",
+  "timestamp": "2025-08-06T09:18:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,19 +26,20 @@
   ],
   "articles": [
     {
+      "title": "AlertVorläufiges SicherheitsupdateAttacken auf Trend Micro Apex One Management Console beobachtet",
+      "teaser": "Die Entwickler von Trend Micro haben zwei kritische Sicherheitslücken in Apex One Management Console (On-Premise) mit einem vorläufigen Patch geschlossen.",
+      "url": "https://www.heise.de/news/Attacken-auf-Trend-Micro-Apex-One-Management-Console-beobachtet-10510935.html",
+      "image_title": "Ein symbolisches Schild warnt vor Malware."
+    },
+    {
       "title": "Warnungen von SicherheitsforschernSonicwall untersucht mögliche Attacken auf Firewalls",
       "teaser": "Verschiedene Sicherheitsforscher warnen vor Attacken auf Firewalls von Sonicwall. Vieles ist derzeit aber noch unklar.",
       "url": "https://www.heise.de/news/Sonicwall-untersucht-moegliche-Attacken-auf-Firewalls-10510272.html"
     },
     {
-      "title": "AlertNvidia Triton Inference ServerAngreifer können drei Sicherheitslücken kombinieren",
-      "teaser": "Die Entwickler von Nvidia haben mehrere Sicherheitslücken in Triton Inference Server geschlossen. Mehrere Schwachstellen gelten als kritisch.",
-      "url": "https://www.heise.de/news/Nvidia-Triton-Inference-Server-Angreifer-koennen-drei-Luecken-kombinieren-10509513.html"
-    },
-    {
-      "title": "AlertAttacken auf Trend Micro Apex One Management Console beobachtet",
-      "url": "https://www.heise.de/news/Attacken-auf-Trend-Micro-Apex-One-Management-Console-beobachtet-10510935.html",
-      "image_title": "Ein symbolisches Schild warnt vor Malware."
+      "title": "AlertExperience Manager: Adobe patcht 90 Tage nicht und bringt nun Notfallupdate",
+      "url": "https://www.heise.de/news/Experience-Manager-Adobe-patcht-90-Tage-nicht-und-bringt-nun-Notfallupdate-10511009.html",
+      "image_title": "Aufmacher Adobe Patchday"
     },
     {
       "title": "Auslegungssache 139: Von Bußgeld bis Kiss-Cam-Skandal",
@@ -70,16 +71,16 @@
       "url": "https://shop.heise.de/microsoft-entra-dangerous-defaults?wt_mc=intern.academy.security.web_entradd.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Sicherheitsalptraum MCP: Schädlicher Code und Datenverlust",
+      "title": "AlertExperience Manager: Adobe patcht 90 Tage nicht und bringt nun Notfallupdate",
+      "teaser": "Da Proof-of-Concept-Code im Umlauf ist, könnten Angriffe auf Adobe Experience Manager bevorstehen.",
+      "url": "https://www.heise.de/news/Experience-Manager-Adobe-patcht-90-Tage-nicht-und-bringt-nun-Notfallupdate-10511009.html",
+      "image_title": "Aufmacher Adobe Patchday"
+    },
+    {
+      "title": "Docker: Sicherheitsalptraum MCP – sechs Lücken identifiziert",
       "teaser": "Das weit verbreitete Model Context Protocol eröffnet eine Vielzahl von Angriffspunkten auf die Systeme der User. Docker hat eine Übersicht veröffentlicht.",
       "url": "https://www.heise.de/news/Sicherheitsalptraum-MCP-Schaedlicher-Code-und-Datenverlust-10510262.html",
       "image_title": "Tastatur mit Kartons und Weltkugel"
-    },
-    {
-      "title": "AlertAttacken auf Trend Micro Apex One Management Console beobachtet",
-      "teaser": "Die Entwickler von Trend Micro haben zwei kritische Sicherheitslücken in Apex One Management Console (On-Premise) mit einem vorläufigen Patch geschlossen.",
-      "url": "https://www.heise.de/news/Attacken-auf-Trend-Micro-Apex-One-Management-Console-beobachtet-10510935.html",
-      "image_title": "Ein symbolisches Schild warnt vor Malware."
     },
     {
       "title": "Mozilla: Phishing-Attacken auf Add-on-Entwickler beobachtet",
@@ -97,6 +98,11 @@
       "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen im mobilen Betriebssystem Android.",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-16-10509617.html",
       "image_title": "Aufmacher Android-Patchday"
+    },
+    {
+      "title": "AlertNvidia Triton Inference Server: Angreifer können drei Lücken kombinieren",
+      "teaser": "Die Entwickler von Nvidia haben mehrere Sicherheitslücken in Triton Inference Server geschlossen. Mehrere Schwachstellen gelten als kritisch.",
+      "url": "https://www.heise.de/news/Nvidia-Triton-Inference-Server-Angreifer-koennen-drei-Luecken-kombinieren-10509513.html"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
@@ -155,12 +161,6 @@
       "teaser": "Mit der Secure Future Initiative versprachen Microsofts Chefs, der Security oberste Priorität einzuräumen. \"Alles nur Security-Theater\", meint Jürgen Schmidt.",
       "url": "https://www.heise.de/meinung/Microsofts-Secure-Future-Initiative-Bullshit-10505985.html",
       "image_title": "Microsoft-Logo vor mehreren Glasfassaden"
-    },
-    {
-      "title": "Dropbox stellt seinen Passwortmanager ein",
-      "teaser": "Dropbox will sich stärker aufs Kernprodukt konzentrieren – und stellt deshalb seinen Dienst Passwords ein. Administratoren steht viel Arbeit ins Haus.",
-      "url": "https://www.heise.de/news/Dropbox-stellt-seinen-Passwortmanager-ein-10505949.html",
-      "image_title": "Schloss, Passwort, Tresore"
     },
     {
       "title": "Workshop | 19.08.2025Souveräne Cloud: Roadmap für eine sichere und resiliente IT",
