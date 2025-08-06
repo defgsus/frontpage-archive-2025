@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-06T02:58:15",
+  "timestamp": "2025-08-06T04:03:53",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "WhatsApps neue Warnung bei Gruppenchat-Einladungen soll Scams eindämmen",
+      "url": "https://www.heise.de/news/WhatsApps-neue-Warnung-bei-Gruppenchat-Einladungen-soll-Scams-eindaemmen-10510819.html"
+    },
     {
       "title": "Wegen China-Bann: AMD macht Betriebsminus trotz Rekordumsatz",
       "url": "https://www.heise.de/news/Wegen-China-Bann-AMD-macht-Betriebsminus-trotz-Rekordumsatz-10510781.html"
@@ -60,10 +64,6 @@
     {
       "title": "Schlaganfall-Reha mit Hightech: Deutsches Neuroimplantat erstmals eingesetzt",
       "url": "https://www.heise.de/news/Schlaganfall-Reha-mit-Hightech-Deutsches-Neuroimplantat-erstmals-eingesetzt-10510486.html"
-    },
-    {
-      "title": "Trotz Support-Ende: Windows-10-Installationen bleiben Mehrheit in Deutschland",
-      "url": "https://www.heise.de/news/Trotz-Support-Ende-Windows-10-Installationen-bleiben-Mehrheit-in-Deutschland-10510566.html"
     },
     {
       "title": "Open Weight ReasoningOpenAI veröffentlicht neue offene Modelle",
@@ -185,21 +185,27 @@
       "image_title": "Das Coretec-Implantat ist bereit zum Einsatz im Patienten."
     },
     {
+      "title": "WhatsApps neue Warnung bei Gruppenchat-Einladungen soll Scams eindämmen",
+      "teaser": "Bei Gruppenchat-Einladungen von unbekannten Personen wird WhatsApp künftig eine \"Sicherheitsübersicht\" zeigen. So sollen Betrugsversuche schnell erkannt werden.",
+      "url": "https://www.heise.de/news/WhatsApps-neue-Warnung-bei-Gruppenchat-Einladungen-soll-Scams-eindaemmen-10510819.html",
+      "image_title": "Finger zeigt auf Whatsapp-App auf dem Smartphone-Bildschirm"
+    },
+    {
       "title": "Wegen China-Bann: AMD macht Betriebsminus trotz Rekordumsatz",
       "teaser": "AMD schlägt knapp sein bisher bestes Umsatzquartal. Mit dabei: Rekordumsatz mit Ryzen-Prozessoren für Desktop-PCs und starke Epyc-Verkäufe.",
       "url": "https://www.heise.de/news/Wegen-China-Bann-AMD-macht-Betriebsminus-trotz-Rekordumsatz-10510781.html",
       "image_title": "Ryzen 9 9950X3D in einem Mainboard mit blauem und rotem Licht"
     },
     {
+      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
+      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Tödlicher Titanic-Tauchgang: Vernichtender Untersuchungsbericht",
       "teaser": "Auf dem Weg zur Titanic implodierte im Sommer 2023 das Kohlefaser-Tauchboot Titan. Eine Untersuchung lässt kein gutes Haar an den Betreibern.",
       "url": "https://www.heise.de/news/Toedlicher-Titanic-Tauchgang-Vernichtender-Untersuchungsbericht-10510777.html",
       "image_title": "Titan unter Wasser"
-    },
-    {
-      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
-      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Jede Wohnung einzeln? Kampf um \"Vollausbaurecht\" für Glasfaser",
@@ -231,12 +237,6 @@
       "image_title": "Ein junger Mann trägt grinsend eine VR-Brille und hält einen Controller in der Hand."
     },
     {
-      "title": "Neue NVMe-Spezifikationen für AI, Cloud, Enterprise und Client-Anwendungen",
-      "teaser": "Die Standardisierungsgruppe NVM Express stellt eine neue Version ihres NVMe-Standards vor. 2.3 bringt vor allem Feintuning.",
-      "url": "https://www.heise.de/news/Neue-NVMe-Spezifikationen-fuer-AI-Cloud-Enterprise-und-Client-Anwendungen-10509879.html",
-      "image_title": "Mehrere M.2-SSDs diagonal angeordnet nebeneinander"
-    },
-    {
       "title": "UV-Warner und Co.Wetterabhängige Automationen für den Sommer",
       "teaser": "Hohe Temperaturen und UV-Werte belasten unseren Körper. Das Smart Home macht heiße Sommertage über Automation verträglicher.",
       "url": "https://www.heise.de/ratgeber/Home-Assistant-Wetterabhaengige-Automationen-fuer-den-Sommer-einrichten-10491178.html",
@@ -260,24 +260,24 @@
       "image_title": "Bosch-Flaggen wehen an einem Unternehmensstandort im Wind."
     },
     {
-      "title": "Telefónica Deutschland spürt die Abwanderung von 1&1",
-      "url": "https://www.heise.de/news/Telefonica-Deutschland-spuert-die-Abwanderung-von-1-1-10504928.html"
-    },
-    {
       "title": "Belgisches Gericht ordnet Sperre der Open Library des Internet Archive an",
       "url": "https://www.heise.de/news/Belgisches-Gericht-ordnet-Sperre-der-Open-Library-des-Internet-Archive-an-10507895.html"
+    },
+    {
+      "title": "Telefónica Deutschland spürt die Abwanderung von 1&1",
+      "url": "https://www.heise.de/news/Telefonica-Deutschland-spuert-die-Abwanderung-von-1-1-10504928.html"
     },
     {
       "title": "Stromleitungen und Rohre finden mit Wärmebildkameras",
       "url": "https://www.heise.de/ratgeber/Stromleitungen-und-Rohre-finden-mit-Waermebildkameras-10460890.html"
     },
     {
-      "title": "Erfahrungsbericht: Billiger Mini-PC für den Umstieg auf Windows 11",
-      "url": "https://www.heise.de/tests/Erfahrungsbericht-Billiger-Mini-PC-fuer-den-Umstieg-auf-Windows-11-10473688.html"
+      "title": "Wie weit Elektroautos auf der Langstrecke kommen: 21 Modelle im Vergleich",
+      "url": "https://www.heise.de/ratgeber/Wie-weit-Elektroautos-auf-der-Langstrecke-kommen-21-Modelle-im-Vergleich-10505199.html"
     },
     {
-      "title": "Opel Corsa-e im Dauertest: Bewährt, aber mit Luft nach oben",
-      "url": "https://www.heise.de/tests/Opel-Corsa-e-im-Dauertest-Bewaehrt-aber-mit-Luft-nach-oben-10486274.html"
+      "title": "Selbsttest: Glukose-Sensor im Alltag ausprobiert",
+      "url": "https://www.heise.de/tests/Selbsttest-Glukose-Sensor-im-Alltag-ausprobiert-10456477.html"
     },
     {
       "title": "1&1 muss Pornhub und YouPorn sperren, sagt auch das Oberverwaltungsgericht",
@@ -303,6 +303,12 @@
       "teaser": "Länger lesen - dauerhaft sparen: Mit unserem Dauer-Spar-Abo sichern Sie sich langfristig bis zu 40 % Rabatt auf heise+. Lesen Sie alle Inhalte auf heise online und unsere digitalen heise-Magazine. Nur für kurze Zeit erhältlich!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=31479&wt_mc=intern.abo.plus.hp_2025_dauer-spar.ho_advt.ad1.ad1",
       "image_title": "heise+ Dauer-Spar-Aktion"
+    },
+    {
+      "title": "Neue NVMe-Spezifikationen für AI, Cloud, Enterprise und Client-Anwendungen",
+      "teaser": "Die Standardisierungsgruppe NVM Express stellt eine neue Version ihres NVMe-Standards vor. 2.3 bringt vor allem Feintuning.",
+      "url": "https://www.heise.de/news/Neue-NVMe-Spezifikationen-fuer-AI-Cloud-Enterprise-und-Client-Anwendungen-10509879.html",
+      "image_title": "Mehrere M.2-SSDs diagonal angeordnet nebeneinander"
     },
     {
       "title": "Galaxy A17: Erste Händler listen Samsungs Budget-Smartphone vor Ankündigung",
@@ -373,14 +379,14 @@
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-12-75-Milliarden-Kubikmeter-Wassereinsatz-in-Betrieben-10509653.html"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? Im Live-Webcast am 9.9. um 11 Uhr erfahren Sie, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
+      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
+    },
+    {
       "title": "Latein lernen und lesen mit der App Legentibus",
       "teaser": "Latein wird fast nicht mehr aktiv gesprochen, lebt in der Literatur aber weiter. Mit der App Legentibus soll es Spaß machen, lateinische Texte zu lesen.",
       "url": "https://www.heise.de/tests/Latein-lernen-und-lesen-mit-der-App-Legentibus-10497777.html"
-    },
-    {
-      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
-      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
     },
     {
       "title": "CalyxOS: Android-Custom ROM pausiert Entwicklung für bis zu sechs Monate",
@@ -436,30 +442,23 @@
       "image_title": "Citroën ë-C3 Aircross"
     },
     {
-      "title": "Dock für Mac mini M4 im klassischen Macintosh-Design und Screen",
-      "teaser": "Die Wokyis Retro Docking Station packt Apples kleinen Desktop in ein Achtzigerjahre-Gehäuse. Besonderheit ist das Display.",
-      "url": "https://www.heise.de/news/Dock-fuer-Mac-mini-M4-im-klassischen-Macintosh-Design-und-Screen-10508944.html",
-      "image_title": "Wokyis-Dock für Mac mini M4"
-    },
-    {
       "title": "Intel legt 3,5 Jahre alte Prozessoren neu auf",
       "url": "https://www.heise.de/news/Intel-legt-3-5-Jahre-alte-Prozessoren-neu-auf-10508936.html",
       "image_title": "Intel-Prozessor auf einem Mainboard angewinkelt"
     },
     {
-      "title": "Suchdeal: Apple warnt vor möglichem Verlust von Google-Milliarden",
-      "url": "https://www.heise.de/news/Suchdeal-Apple-warnt-vor-moeglichem-Verlust-von-Google-Milliarden-10508036.html",
-      "image_title": "Person nutzt auf einem iPhone die Google-Suche"
+      "title": "Dock für Mac mini M4 im klassischen Macintosh-Design und Screen",
+      "url": "https://www.heise.de/news/Dock-fuer-Mac-mini-M4-im-klassischen-Macintosh-Design-und-Screen-10508944.html",
+      "image_title": "Wokyis-Dock für Mac mini M4"
     },
     {
-      "title": "Private Chats bei Google auffindbar: OpenAI nimmt Funktion zurück",
-      "url": "https://www.heise.de/news/Private-Chats-bei-Google-auffindbar-OpenAI-nimmt-Funktion-zurueck-10508123.html",
-      "image_title": "Chatgpt,Chat,With,Ai,Or,Artificial,Intelligence.,Young,Businessman,Chatting"
+      "title": "Freies Web-Publishing: Ghost 6.0 ist da",
+      "url": "https://www.heise.de/news/Freies-Web-Publishing-Ghost-6-0-ist-da-10509081.html",
+      "image_title": "Saxophon-Spieler, Geister aus Code"
     },
     {
-      "title": "Microsoft: Das sind die Jobs, bei denen KI am stärksten zum Einsatz kommt",
-      "url": "https://www.heise.de/news/Microsoft-Das-sind-die-Jobs-bei-denen-KI-am-staerksten-zum-Einsatz-kommt-10507937.html",
-      "image_title": "Hand auf Tastatur"
+      "title": "Chinesisches 2-t-Schwerlast-eVTOL versorgt autonom Offshore-Bohrinsel",
+      "url": "https://www.heise.de/news/Chinesische-2-t-Schwerlast-eVTOL-versorgt-autonom-Offshore-Bohrinsel-10509539.html"
     },
     {
       "title": "Nie mehr Fensterputzen: Elektrische Felder halten Glasflächen sauber",
@@ -467,18 +466,19 @@
       "image_title": "Fenster an einem Hochhaus"
     },
     {
-      "title": "Transportabler 1,5-MW-Minireaktor soll US-Stützpunkte mit Strom versorgen",
-      "url": "https://www.heise.de/news/Atomreaktor-fuer-US-Armee-BWXT-arbeitet-an-1-5-MW-Minireaktor-als-Demonstrator-10506522.html",
-      "image_title": "Schematischer Pele-Minireaktor als Rendering"
+      "title": "Microsoft: Das sind die Jobs, bei denen KI am stärksten zum Einsatz kommt",
+      "url": "https://www.heise.de/news/Microsoft-Das-sind-die-Jobs-bei-denen-KI-am-staerksten-zum-Einsatz-kommt-10507937.html",
+      "image_title": "Hand auf Tastatur"
+    },
+    {
+      "title": "Fahrprofil im Visier: Wie Carsharing-Anbieter ihre Nutzer überwachen",
+      "url": "https://www.heise.de/news/Fahrprofil-im-Visier-Wie-Carsharing-Anbieter-ihre-Nutzer-ueberwachen-10509283.html",
+      "image_title": "Frau sitzt auf dem Fahrersitz mit geöffneter Tür und schaut auf ihr Smartphone"
     },
     {
       "title": "iPhone 17 Pro: Infos zu Spezialfarbe und großem Kamerarücken",
       "url": "https://www.heise.de/news/iPhone-17-Pro-Infos-zu-Spezialfarbe-und-grossem-Kameraruecken-10504429.html",
       "image_title": "iPhone 15 Pro-Kamera"
-    },
-    {
-      "title": "Vodafone: Wacken ist das Festival mit dem meisten Datenverkehr",
-      "url": "https://www.heise.de/news/Vodafone-Wacken-ist-das-Festival-mit-dem-meisten-Datenverkehr-10508032.html"
     },
     {
       "title": "Material 3 Expressive: Google verteilt Telefon-App mit neuem Design",
@@ -491,19 +491,14 @@
       "image_title": "Spotify-Logo auf iPhone, daneben liegen AirPods"
     },
     {
-      "title": "Megapixel – mega Bilder? Click Boom Flash # 43 \"Megapixel\"",
-      "url": "https://www.heise.de/news/Megapixel-mega-Bilder-Click-Boom-Flash-43-Megapixel-10504626.html",
-      "image_title": "Ein Mann fotografiert ein Gericht"
+      "title": "Laut Elon Musk: X hat das Vine-Archiv wiedergefunden",
+      "url": "https://www.heise.de/news/Laut-Elon-Musk-X-hat-das-Vine-Archiv-wiedergefunden-10509519.html",
+      "image_title": "Vine-App-Logo auf Handybildschirm"
     },
     {
-      "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im August 2025",
-      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-August-2025-10507333.html",
-      "image_title": "Screenshot zeigt eine Szene aus Alien: Earth"
-    },
-    {
-      "title": "Tim Cook: Steve Jobs' CEO-Amtszeit ist überholt",
-      "url": "https://www.heise.de/news/Tim-Cook-Steve-Jobs-CEO-Amtszeit-ist-ueberholt-10507711.html",
-      "image_title": "Apple-CEO Tim Cook"
+      "title": "Klappe – die Erste: Apple verklagt Kinokette \"Apple Cinemas\"",
+      "url": "https://www.heise.de/news/Verwechslungsgefahr-Apple-verklagt-US-Kinokette-Apple-Cinemas-10509321.html",
+      "image_title": "Apple-Logo auf einer Geräterückseite"
     },
     {
       "title": "Tesla verpasst Chance, sich von Elon Musk zu trennen",
@@ -511,9 +506,14 @@
       "image_title": "Tesla-Logo im Gegenlicht"
     },
     {
-      "title": "Mehr als 10.000 Hotels klagen gegen Booking.com",
-      "url": "https://www.heise.de/news/Mehr-als-10-000-Hotels-klagen-gegen-Booking-com-10508119.html",
-      "image_title": "Booking.com"
+      "title": "\"Pfizergate\": Wichtige SMS von Ursula von der Leyen wurden gelöscht",
+      "url": "https://www.heise.de/news/Pfizergate-Die-verschwundenen-SMS-der-EU-Kommissionspraesidentin-10509151.html",
+      "image_title": "Ursula von der Leyen vor EU-Flaggen"
+    },
+    {
+      "title": "Tim Cook: Steve Jobs' CEO-Amtszeit ist überholt",
+      "url": "https://www.heise.de/news/Tim-Cook-Steve-Jobs-CEO-Amtszeit-ist-ueberholt-10507711.html",
+      "image_title": "Apple-CEO Tim Cook"
     },
     {
       "title": "Elektronische Patientenakte: Techniker Krankenkasse will Videoident zurück",
@@ -526,23 +526,23 @@
       "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
     },
     {
-      "title": "Elektronische Fußfessel nach \"spanischem Modell\" soll bundesweit kommen",
-      "url": "https://www.heise.de/news/Elektronische-Fussfessel-Gesetzentwurf-soll-nach-der-Sommerpause-kommen-10507779.html",
-      "image_title": "Eine Frau hält eine Handfläche in die Kamera um symbolisch einen Angriff abzuwehren."
+      "title": "Risikomanagement und Resilienz in der IT-Sicherheit: IT-Sicherheitstag Dortmund",
+      "url": "https://www.heise.de/news/Risikomanagement-und-Resilienz-in-der-IT-Sicherheit-IT-Sicherheitstag-Dortmund-10505251.html"
+    },
+    {
+      "title": "Dienstag: Elon Musk macht ein Schnäppchen, Lyft und Baidu kooperieren in Europa",
+      "url": "https://www.heise.de/news/Dienstag-Elon-Musk-macht-ein-Schnaeppchen-Lyft-und-Baidu-kooperieren-in-Europa-10509445.html",
+      "image_title": "Ein Smartphone zeigt Logos von Tesla und SpaceX; hinter dem Handy ist Elon Musk zu sehen, dazu Text: DIENSTAG Elon Musk, Lyft-Baidu-Deal, \"Pfizergate\", Glasfaserausbau & Spotify"
+    },
+    {
+      "title": "Rheinland-Pfalz: Auf eine Informatik-Lehrkraft kommen 250 Schüler",
+      "url": "https://www.heise.de/news/Rheinland-Pfalz-Auf-eine-Informatik-Lehrkraft-kommen-250-Schueler-10509645.html",
+      "image_title": "Informatik wird Pflichtfach an Schweizer Gymnasien"
     },
     {
       "title": "UpdateDrohnenführerschein: Amt besteht auf Zahlung trotz fehlendem Hinweis auf Kosten",
       "url": "https://www.heise.de/news/Drohnenfuehrerschein-Amt-besteht-auf-Zahlung-trotz-fehlendem-Hinweis-auf-Kosten-10502624.html",
       "image_title": "Kostenbescheid vom Luftfahrbundesamt"
-    },
-    {
-      "title": "Faltbare Smartphones – nützliche Technik oder teure Spielerei? | c’t uplink",
-      "url": "https://www.heise.de/news/Faltbare-Smartphones-nuetzliche-Technik-oder-teure-Spielerei-c-t-uplink-10507621.html"
-    },
-    {
-      "title": "Montag: KI-Nutzung verschiedener Berufe, Google-Kehrtwende bei goo.gl-Kurzlinks",
-      "url": "https://www.heise.de/news/Montag-KI-Nutzung-verschiedener-Berufe-Google-Kehrtwende-bei-goo-gl-Kurzlinks-10508111.html",
-      "image_title": "Mensch mit Kopfhörer hält Notebook mit KI-Schriftzug in einer Hand; Montag: KI-Arbeitstätigkeiten, Kurzlink-Ausnahmen, Wegschau-Behörden, Rettungsboot-VR & Autopilot-Mitschuld"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -589,9 +589,9 @@
       "url": "https://www.heise.de/multimediadatei/Wikipedia-Kritik-KI-statt-Chef-Handy-Blitzer-heiseshow-10483191.html"
     },
     {
-      "title": "Apple Retail: conversions, closures, waiting for more German stores",
-      "url": "https://www.heise.de/en/news/Apple-Retail-conversions-closures-waiting-for-more-German-stores-10508766.html",
-      "image_title": "Apple Store in Frankfurt"
+      "title": "Electric car: How sustainable BMW wants to be with the upcoming iX3",
+      "url": "https://www.heise.de/en/news/Electric-car-How-sustainable-BMW-wants-to-be-with-the-upcoming-iX3-10508689.html",
+      "image_title": "BMW iX3 electric car"
     },
     {
       "title": "BGH rules against Sony: Cheat tools do not infringe copyright",
@@ -599,16 +599,16 @@
       "image_title": "Sony PSP console with cardboard box lying on table"
     },
     {
-      "title": "Microsofts Secure Future Initiative: \"Bullshit!\"",
-      "url": "https://www.heise.de/en/opinion/Microsofts-Secure-Future-Initiative-Bullshit-10506153.html"
+      "title": "AMD secretly releases Radeon RX 9060 to the market",
+      "url": "https://www.heise.de/en/news/AMD-secretly-releases-Radeon-RX-9060-to-the-market-10510251.html"
     },
     {
-      "title": "Private chats can be found on Google: OpenAI withdraws function",
-      "url": "https://www.heise.de/en/news/Private-chats-can-be-found-on-Google-OpenAI-withdraws-function-10508166.html"
+      "title": "iPad Foldable: Analyst sees postponement to 2027",
+      "url": "https://www.heise.de/en/news/iPad-Foldable-Analyst-sees-postponement-to-2027-10509658.html"
     },
     {
-      "title": "Microsoft: These are the jobs where AI is used the most",
-      "url": "https://www.heise.de/en/news/Microsoft-These-are-the-jobs-where-AI-is-used-the-most-10508045.html"
+      "title": "Changing of the guard: Anthropic new AI market leader among US companies",
+      "url": "https://www.heise.de/en/news/Changing-of-the-guard-Anthropic-new-AI-market-leader-among-US-companies-10507552.html"
     },
     {
       "title": "PC-ProzessorenÜber 50 Desktop-CPUs im Performance-, Effizienz- und Preis-Leistungs-Vergleich",
@@ -616,15 +616,15 @@
       "url": "https://www.heise.de/tests/Ueber-50-Desktop-CPUs-im-Performance-Effizienz-und-Preis-Leistungs-Vergleich-10472577.html"
     },
     {
+      "title": "CPU-Wegweiser 2025: So finden Sie den passenden Desktopprozessor für Ihre Zwecke",
+      "teaser": "Moderne CPUs werden immer schneller, aber auch komplexer. Wir helfen Ihnen, sich im Dickicht aus Hybrid-Kernen, Stapelcache und KI-Einheiten zurechtzufinden.",
+      "url": "https://www.heise.de/tests/CPU-Wegweiser-2025-So-finden-Sie-den-passenden-Desktopprozessor-fuer-Ihre-Zwecke-10363008.html"
+    },
+    {
       "title": "Neue NVMe-Spezifikationen für AI, Cloud, Enterprise und Client-Anwendungen",
       "teaser": "Die Standardisierungsgruppe NVM Express stellt eine neue Version ihres NVMe-Standards vor. 2.3 bringt vor allem Feintuning.",
       "url": "https://www.heise.de/news/Neue-NVMe-Spezifikationen-fuer-AI-Cloud-Enterprise-und-Client-Anwendungen-10509879.html",
       "image_title": "Mehrere M.2-SSDs diagonal angeordnet nebeneinander"
-    },
-    {
-      "title": "Web-Tipps: Wie Open Source ist ein Projekt?",
-      "teaser": "„Open Source“ ist nicht gleich offen. \"Is it really FOSS?\" zeigt, welche Software wirklich frei und offen ist – und welche Anbieter nur mit dem Begriff werben.",
-      "url": "https://www.heise.de/news/Web-Tipps-Wie-Open-Source-ist-ein-Projekt-10498298.html"
     },
     {
       "title": "Polarisierendes GlasDas halten Leser von Apples Bedienoberfläche Liquid Glass",
@@ -645,6 +645,12 @@
       "image_title": ", Apple"
     },
     {
+      "title": "Wie Sie animatronische Figuren einfach animieren",
+      "teaser": "Mit dem Editor \"Animatronic WorkBench\" lassen sich Bewegungen für animatronische Figuren programmieren und auf den Mikrocontroller übertragen, der sie steuert.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-animatronische-Figuren-einfach-animieren-10486640.html",
+      "image_title": ","
+    },
+    {
       "title": "Eigenbau-NASBilliges Gehäuse zum Selberdrucken",
       "teaser": "Ein findiger Tüftler entwirft ein NAS-Gehäuse mit dem 3D-Drucker. Die Baupläne und Anleitung stellt er kostenfrei zur Verfügung.",
       "url": "https://www.heise.de/news/NAS-per-DIY-Billiges-Gehaeuse-zum-Selberdrucken-10505799.html",
@@ -657,16 +663,16 @@
       "image_title": ","
     },
     {
-      "title": "UpdateUmstellungAnker bringt UV-Drucker, gibt aber 3D-Druck auf",
-      "teaser": "Anker hat den Vertrieb von 3D-Druckern eingestellt. Neu ins Sortiment kommt ein UV-Drucker für Reliefs.",
-      "url": "https://www.heise.de/news/Anker-verkauft-keine-3D-Drucker-mehr-dafuer-UV-Drucker-10503761.html",
-      "image_title": "3D-Drucker, der eine weißliche Skulptur druckt"
-    },
-    {
       "title": "Mit der Kamera durch Tirana: Architekturfotografie in Albaniens Hauptstadt",
       "teaser": "In Tirana gibt es für Architekturfotografen eine Fülle von Sehenswürdigkeiten, Gebäuden und Plätzen aus ganz unterschiedlichen Epochen zu entdecken.",
       "url": "https://www.heise.de/ratgeber/Mit-der-Kamera-durch-Tirana-Architekturfotografie-in-Albaniens-Hauptstadt-10494211.html",
       "image_title": "Tirana ist von Hügeln umgeben, die einen grünen Gürtel um die Stadt bilden. Im Vordergrund sind mehrstöckige Wohnhäuser zu sehen, die in vielen Gegenden das Stadtbild prägen., Alle Bilder: Alketa Misja"
+    },
+    {
+      "title": "Megapixel – mega Bilder? Click Boom Flash # 43 \"Megapixel\"",
+      "teaser": "\"Mehr als sechs Megapixel braucht man nicht\", war laut Redakteur Peter Nonhoff-Arps die gängige Meinung im Rückblick auf frühe Digitalkameras und deren Abzüge.",
+      "url": "https://www.heise.de/news/Megapixel-mega-Bilder-Click-Boom-Flash-43-Megapixel-10504626.html",
+      "image_title": "Ein Mann fotografiert ein Gericht"
     },
     {
       "title": "Zwischen Stille, Struktur und Sternen: Die Bilder der Woche 31",
@@ -678,12 +684,6 @@
       "teaser": "DJI steigt in den Markt der 360-Grad-Kameras ein. Die Osmo 360 beherrscht 8K-Videoaufnahmen mit bis zu 50 Bildern pro Sekunde.",
       "url": "https://www.heise.de/news/Rundumschlag-gegen-Insta360-DJIs-360-Grad-Kamera-mit-8K-Video-und-grossem-Sensor-10506272.html",
       "image_title": "Zwei Osmo 360"
-    },
-    {
-      "title": "PraxistestMit dem Nikon-Objektiv Z 6.3/800 auf Safari",
-      "teaser": "800 Millimeter aus der Hand? Nikon hat mit dem Z 6.3/800 ein Supertele fürs Fotografieren aus der Hand im Programm.",
-      "url": "https://www.heise.de/tests/Praxistest-Mit-dem-Nikon-Z-6-3-800-Objektiv-auf-Safari-10485840.html",
-      "image_title": ", Nikon"
     },
     {
       "title": "Produkt- und Prozess-Testing: Was gutes Testmanagement ausmacht",
@@ -699,12 +699,6 @@
       "title": "So funktioniert Testmanagement mit dem Open-Source-Tool TestLink",
       "teaser": "Das Testmanagementtool TestLink punktet mit seiner Flexibilität und Erweiterbarkeit. Wir zeigen an einem Beispiel, wie man damit Software testet.",
       "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
-    },
-    {
-      "title": "Wie Sie Abzocke an Ladesäulen vermeidenE-Auto ohne Vertrag günstig laden",
-      "teaser": "Große Betreiber wollen die Kunden in einen Vertrag nötigen, um ihre Position zu verbessern. Die wichtigste Alternative ist vorerst das Ad-hoc-Laden.",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-Wie-Sie-Abzocke-an-Ladesaeulen-vermeiden-10495116.html",
-      "image_title": "Volvo EX90 an einer Ladesäule"
     },
     {
       "title": "Lyft und Baidu kooperieren: Robotaxis in Deutschland ab 2026",
@@ -723,6 +717,12 @@
       "teaser": "Der vergleichsweise günstige Preis ist im ë-C3 Aircross sichtbar. Andererseits hat das E-SUV viel Platz, fährt komfortabel und stört nicht mit Firlefanz.",
       "url": "https://www.heise.de/tests/Citroen-e-C3-Aircross-im-Test-Preiswertes-E-SUV-mit-reichlich-Komfort-10494782.html",
       "image_title": "Citroën ë-C3 Aircross"
+    },
+    {
+      "title": "Weitere Niederlage für Volkswagen vor dem EuGH Volkswagen-Abgasbetrug erneut vor Gericht",
+      "teaser": "In Verfahren zu Schadenersatzklagen von Diesel-Käufern versucht Volkswagen, aus der Haftung zu kommen. Das oberste EU-Gericht spricht jetzt ein klares Urteil.",
+      "url": "https://www.heise.de/news/Abgasbetrug-Weitere-Niederlage-fuer-Volkswagen-vor-dem-EuGH-10507435.html",
+      "image_title": "VW TDI Spot USA"
     },
     {
       "title": "Neuromorph: Warum die KI-Chips eines Dresdner Startups so besonders sind",
@@ -766,15 +766,16 @@
       "image_title": "Brasiliens Ex-Präsident Jair Bolsonaro"
     },
     {
+      "title": "Kreml-Arroganz: Putin lacht über US-Ultimatum",
+      "teaser": "Moskau ignoriert die Forderungen aus Washington. Der Krieg soll weitergehen bis zum Sieg. Doch ein Besuch könnte alles ändern.",
+      "url": "https://www.heise.de/tp/features/Kreml-Arroganz-Putin-lacht-ueber-US-Ultimatum-10510625.html",
+      "image_title": "Portraits von Donald Trump und Wladimir Putin"
+    },
+    {
       "title": "Bahn scheitert vor Gericht: Mehrkosten für Stuttgart 21 bleiben am Konzern hängen",
       "teaser": "DB-Konzern muss milliardenschwere Mehrkosten des Bahnprojekts stemmen. Tübingens OB Palmer kritisiert: Am Ende haben trotzdem alle die Last zu tragen.",
       "url": "https://www.heise.de/tp/features/Bahn-scheitert-vor-Gericht-Mehrkosten-fuer-Stuttgart-21-bleiben-am-Konzern-haengen-10510362.html",
       "image_title": "Menschen auf einer Demonstration mit Transparent"
-    },
-    {
-      "title": "Promi-Appell an Bundeskanzler Merz: \"Lassen Sie Gaza nicht sterben!\"",
-      "teaser": "Künstler appellieren an Merz: Stopp der Rüstungsexporte nach Israel, Forderung nach Waffenstillstand. Wird der Kanzler antworten?",
-      "url": "https://www.heise.de/tp/features/Promi-Appell-an-Bundeskanzler-Merz-Lassen-Sie-Gaza-nicht-sterben-10510533.html"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
