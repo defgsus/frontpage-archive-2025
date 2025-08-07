@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-07T21:09:08",
+  "timestamp": "2025-08-07T22:11:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Urheberrecht: EuGH könnte deutsche Judikatur zu Hyperlinks umdrehen",
+      "url": "https://www.heise.de/news/Urheberrecht-BGH-fragt-EuGH-zu-Haftung-bei-Hyperlink-Content-Delivery-Networks-10513750.html"
+    },
     {
       "title": "Deutsche Länder wollen Zahlungen Erwachsener an Pornoseiten verhindern",
       "url": "https://www.heise.de/news/Medienanstalten-wollen-Pornhub-vom-Zahlungsverkehr-abschneiden-10513722.html"
@@ -60,10 +64,6 @@
     {
       "title": "macOS 13 Ventura vor dem Aus: Wohl keine weiteren Apple-Patches mehr",
       "url": "https://www.heise.de/news/macOS-13-Ventura-vor-dem-Aus-Wohl-keine-weitere-Apple-Patches-mehr-10513534.html"
-    },
-    {
-      "title": "Ecosia und Qwant starten Web-Suche über europäischen Index",
-      "url": "https://www.heise.de/news/Ecosia-und-Qwant-starten-Web-Suche-ueber-europaeischen-Index-10513424.html"
     },
     {
       "title": "LandesmedienanstaltenDeutsche Länder wollen Zahlungen Erwachsener an Pornoseiten verhindern",
@@ -187,20 +187,26 @@
       "image_title": "Werbebild für Disney-Serie The Bear"
     },
     {
+      "title": "Urheberrecht: EuGH könnte deutsche Judikatur zu Hyperlinks umdrehen",
+      "teaser": "Laut BGH-Rechtsprechung sind simple Hyperlinks auf Server Dritter keine \"öffentliche Zugänglichmachung\" der verlinkten Datei. Das könnte sich ändern.",
+      "url": "https://www.heise.de/news/Urheberrecht-BGH-fragt-EuGH-zu-Haftung-bei-Hyperlink-Content-Delivery-Networks-10513750.html",
+      "image_title": "Statue der Justizia in einem windschiefen Winkel"
+    },
+    {
       "title": "Top 10: Der beste Ventilator im Test – leise, stark, effizient & mit App",
       "teaser": "Wir zeigen die zehn besten Ventilatoren aus unseren Tests. Der Testsieger der Bestensite ist leise, sparsam, stark – und kostet nur 110 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ventilator-im-test-turmventilator-vs-standventilator/3vw0k3j?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Security Operations Center neu gedacht",
+      "teaser": "SOCs stehen unter Dauerbelastung und Analysten hadern mit falschen Alarmen. Zeit für eine Neuausrichtung! Moderne SOC-Architekturen sind modular aufgebaut und lösen Aufgaben durch Spezialkomponenten.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7028814436&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Mini-Gehirne im Weltall: Deutsche Forschung für Langzeitmissionen",
       "teaser": "Wie sich Schwerelosigkeit auf die zentrale Schaltstelle im Gehirn auswirkt, wollen Forscher im All anhand von Hippocampus-Organoiden ermitteln.",
       "url": "https://www.heise.de/news/Mini-Gehirne-im-Weltall-Deutsche-Forschung-fuer-Langzeitmissionen-10513624.html",
       "image_title": "Sonnenaufgang hinter der Erde"
-    },
-    {
-      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
-      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "GPT-5: OpenAI veröffentlicht neues Sprachmodell für ChatGPT",
@@ -230,12 +236,6 @@
       "teaser": "Die beiden europäischen Suchmaschinenanbieter nutzen für ihre Websuche schrittweise einen eigenen Suchmaschinenindex. Der soll auch der KI-Entwicklung dienen.",
       "url": "https://www.heise.de/news/Ecosia-und-Qwant-starten-Web-Suche-ueber-europaeischen-Index-10513424.html",
       "image_title": "Ecosia macht sich mit eigenem Suchindex unabhängig von US-Anbietern."
-    },
-    {
-      "title": "US-Batteriefirma Lyten will Northvolt übernehmen – Hoffnung für Heide",
-      "teaser": "Neue Hoffnung für die geplante Batteriefabrik in Schleswig-Holstein: Ein Unternehmen aus dem Silicon Valley interessiert sich für Northvolt in Heide.",
-      "url": "https://www.heise.de/news/US-Batteriefirma-Lyten-will-Northvolt-uebernehmen-Hoffnung-fuer-Heide-10513442.html",
-      "image_title": "Northvolt"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -302,6 +302,12 @@
       "teaser": "Länger lesen - dauerhaft sparen: Mit unserem Dauer-Spar-Abo sichern Sie sich langfristig bis zu 40 % Rabatt auf heise+. Lesen Sie alle Inhalte auf heise online und unsere digitalen heise-Magazine. Nur für kurze Zeit erhältlich!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=31479&wt_mc=intern.abo.plus.hp_2025_dauer-spar.ho_advt.ad1.ad1",
       "image_title": "heise+ Dauer-Spar-Aktion"
+    },
+    {
+      "title": "US-Batteriefirma Lyten will Northvolt übernehmen – Hoffnung für Heide",
+      "teaser": "Neue Hoffnung für die geplante Batteriefabrik in Schleswig-Holstein: Ein Unternehmen aus dem Silicon Valley interessiert sich für Northvolt in Heide.",
+      "url": "https://www.heise.de/news/US-Batteriefirma-Lyten-will-Northvolt-uebernehmen-Hoffnung-fuer-Heide-10513442.html",
+      "image_title": "Northvolt"
     },
     {
       "title": "Video: Künstliche Intelligenz in \"Star Trek\"",
@@ -372,15 +378,15 @@
       "image_title": "Person an einer Projektion eines KI-Übersetzers"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "macOS 15.7 kommt offenbar schnell",
       "teaser": "Entwickler haben kurzzeitig Zugriff auf einen Release Candidate von macOS 15.7 erhalten. Dabei ist macOS 15.6 noch ganz frisch.",
       "url": "https://www.heise.de/news/macOS-15-7-kommt-offenbar-schnell-10512273.html",
       "image_title": "macOS 15 Sequoia: Fenstermanagement"
-    },
-    {
-      "title": "KI-Agenten im Angriff: Das neue Gesicht des Social Engineering",
-      "teaser": "Wie verändert KI die Spielregeln bei Social-Engineering-Attacken? Im Live-Webcast am 21.8.2025 erfahren Sie, welche Risiken und Abwehrmöglichkeiten die neue Technologie mit sich bringt.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/ki-agenten-im-angriff-das-neue-gesicht-des-social-engineering-4950?source=hbsad-ersatz"
     },
     {
       "title": "Apple startet Nutzertest mit Chatbot für Supportanfragen",
@@ -434,12 +440,6 @@
       "teaser": "Admins, die Exchange in einer Hybridbereitstellung betreiben, sollten ihre Instanzen nach einer Anleitung von Microsoft vor möglichen Attacken schützen.",
       "url": "https://www.heise.de/news/Jetzt-absichern-Microsoft-Exchange-ist-im-hybriden-Betrieb-verwundbar-10512743.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "Toyota kappt Gewinnausblick wegen Milliardenbelastung durch US-Zölle",
-      "teaser": "Auch Toyota leidet unter den US-Zöllen, dazu kommen weitere Faktoren. Dass die Gewinnaussichten dennoch eher moderat fielen, überrascht Marktbeobachter daher.",
-      "url": "https://www.heise.de/news/US-Zoelle-der-starke-Yen-und-teures-Material-belasten-Toyotas-Gewinnausblick-10512600.html",
-      "image_title": "Elektroauto Toyota bz4x"
     },
     {
       "title": "iPhone 17 (Pro) und iOS 26: Apple-Event, Ankündigung und Release voraus",
@@ -611,21 +611,20 @@
       "url": "https://www.heise.de/en/news/BGH-rules-against-Sony-Cheat-tools-do-not-infringe-copyright-10505724.html"
     },
     {
-      "title": "Adafruit Fruit JamEinplatinencomputer mit Raspi-Mikrocontroller und HDMI-Buchse",
-      "teaser": "Das Adafruit Fruit Jam hat eine ungewöhnliche Ausstattung, etwa für Retro-Projekte: Es kombiniert Raspberry Pi 2350 und ESP32-C6.",
-      "url": "https://www.heise.de/news/Einplatinencomputer-mit-Raspi-Mikrocontroller-und-HDMI-Buchse-10513448.html",
-      "image_title": "Mikrocontrollerboard Adafruit Fruit Jam mit Raspberry Pi RP2350 und Espressif ESP32-C6"
-    },
-    {
       "title": "Video: Künstliche Intelligenz in \"Star Trek\"",
       "teaser": "Was uns Raumschiff Enterprise schon vor gut 60 Jahren über Chancen und Risiken Künstlicher Intelligenz beibrachte – und warum das heute aktueller ist denn je.",
       "url": "https://www.heise.de/news/Video-Kuenstliche-Intelligenz-in-Star-Trek-10512024.html"
     },
     {
-      "title": "UpdateLinux-Desktop GnomeZwischen Finanznöten und technischem Fortschritt",
-      "teaser": "Trotz prekärer Finanzlage organisierte die Gnome Stiftung ein Entwicklertreffen in Italien, um über die Zukunft des Projektes zu beraten.",
-      "url": "https://www.heise.de/news/Linux-Desktop-Gnome-Zwischen-Finanznoeten-und-technischem-Fortschritt-10512109.html",
-      "image_title": "Gruppenfoto von der GUADEC, über 100 Teilnehmende in einem Hörsaal"
+      "title": "Warum Windows-Werksinstallationen wertvoller sind als gedacht",
+      "teaser": "Das vorinstallierte Windows auf Ihrem neuen PC passt Ihnen nicht? Ersetzen Sie es! Das Werks-Windows sollten Sie trotzdem aufheben. Wir zeigen, warum und wie.",
+      "url": "https://www.heise.de/ratgeber/Warum-Windows-Werksinstallationen-wertvoller-sind-als-gedacht-10439259.html"
+    },
+    {
+      "title": "GPT-5: OpenAI veröffentlicht neues Sprachmodell für ChatGPT",
+      "teaser": "Das neue GPT-5 soll besser programmieren und Fachfragen mit weniger Halluzinationen beantworten. US-Firmen setzen es offenbar bereits in Risikobereichen ein.",
+      "url": "https://www.heise.de/news/GPT-5-OpenAI-veroeffentlicht-neues-Sprachmodell-fuer-ChatGPT-10513244.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
     },
     {
       "title": "Polarisierendes GlasDas halten Leser von Apples Bedienoberfläche Liquid Glass",
@@ -702,6 +701,12 @@
       "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
     },
     {
+      "title": "Trotz US-Zöllen, Yen-Kurs und MaterialkostenToyotas Ausblick vorsichtig optimistisch",
+      "teaser": "Auch Toyota leidet unter den US-Zöllen, dazu kommen weitere Faktoren. Dass die Gewinnaussichten dennoch eher moderat fielen, überrascht Marktbeobachter daher.",
+      "url": "https://www.heise.de/news/US-Zoelle-der-starke-Yen-und-teures-Material-belasten-Toyotas-Gewinnausblick-10512600.html",
+      "image_title": "Elektroauto Toyota bz4x"
+    },
+    {
       "title": "Erste Motorrad-Matrix-LEDYamaha Tracer 9 GT+ überarbeitet",
       "teaser": "Yamaha überarbeitet seinen Tourer Tracer 9 GT+. Eine seiner vielen technischen Neuerungen ist adaptives Matrix-LED-Licht – zum ersten mal an einem Motorrad.",
       "url": "https://www.heise.de/news/Yamaha-Tracer-9-GT-ueberarbeitet-Automatik-Assistenz-und-Matrix-LED-10510472.html",
@@ -717,12 +722,6 @@
       "teaser": "Das Angebot macht's: Mehr als 18 Prozent aller Neuzulassungen hatten im Juli einen Elektromotor und setzen den Boom bei Elektroautos fort.",
       "url": "https://www.heise.de/news/Fast-jeder-fuenfte-im-Juli-zugelassene-Neuwagen-faehrt-elektrisch-10510189.html",
       "image_title": "Fiat Grande Panda"
-    },
-    {
-      "title": "Angeblich fehlerhaft gelieferte Bremsen BMW und Continental vor Gericht",
-      "teaser": "Wegen angeblich fehlerhafter Bremsen ziehen BMW und sein Zulieferer Continental vor Gericht. Beide bestätigen, vor wenigen Tagen Klage eingereicht zu haben.",
-      "url": "https://www.heise.de/news/BMW-und-Continental-gehen-wegen-angeblich-fehlerhafter-Bremsen-vor-Gericht-10509765.html",
-      "image_title": "BMW i5 Bremse"
     },
     {
       "title": "Pro und Contra: Solltest du Booking.com noch nutzen?",
@@ -760,20 +759,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Trump droht mit 100-Prozent-Zöllen auf Chips",
-      "teaser": "US-Präsident Trump kündigt massive Zölle auf Halbleiterimporte an – mit Ausnahmen für Unternehmen mit US-Investitionen. Apple reagiert mit Zusagen.",
-      "url": "https://www.heise.de/tp/features/Trump-droht-mit-100-Prozent-Zoellen-auf-Chips-10512656.html"
+      "title": "Videospiele machen schlau: Neue Studie widerlegt alte Vorurteile",
+      "teaser": "Gaming fördern mitunter Intelligenz bei Kindern laut Studie. Forscher analysierten Daten von fast 10.000 Kindern. Doch was steckt hinter dem überraschenden Effekt?",
+      "url": "https://www.heise.de/tp/features/Videospiele-machen-schlau-Neue-Studie-widerlegt-alte-Vorurteile-10511620.html",
+      "image_title": "Kind beim gamen unter Bettdecke"
     },
     {
-      "title": "Dunkle Materie: Physiker entwickelt neue Theorien zu kosmischem Rätsel",
-      "teaser": "US-Forscher präsentiert zwei Ansätze zur Entstehung der rätselhaften Substanz. Seine Theorien basieren auf bekannten physikalischen Gesetzen statt auf exotischen Teilchen.",
-      "url": "https://www.heise.de/tp/features/Dunkle-Materie-Physiker-entwickelt-neue-Theorien-zu-kosmischem-Raetsel-10511393.html",
-      "image_title": "Illustration eines Schwarzen Lochs"
+      "title": "Medien: Apollo-News-Anwalt fordert \"Waffengleichheit\" vom ZDF",
+      "teaser": "Apollo-News klagt gegen ZDF. Streit um Falschmeldungen geht erneut vor Gericht. Wie transparent muss der öffentlich-rechtliche Rundfunk mit Fehlern umgehen?",
+      "url": "https://www.heise.de/tp/features/Medien-Apollo-News-Anwalt-fordert-Waffengleichheit-vom-ZDF-10511702.html",
+      "image_title": "ZDF-Logo an einer Gebäudemauer"
     },
     {
-      "title": "US-Luftwaffe testet Raketenstufe für neues Atomwaffensystem",
-      "teaser": "US-Luftwaffe und Northrop Grumman haben die zweite Stufe der Sentinel-Interkontinentalrakete getestet. Sie soll ab 2029 die alternde Minuteman III ersetzen.",
-      "url": "https://www.heise.de/tp/features/US-Luftwaffe-testet-Raketenstufe-fuer-neues-Atomwaffensystem-10508534.html"
+      "title": "Mit copy & paste bis zum Richterstuhl? Der Fall Brosius-Gersdorf eskaliert",
+      "teaser": "Neue Vorwürfe gegen SPD-Kandidatin fürs Verfassungsgericht: Plagiatsexperte sieht Hinweise auf Ghostwriting in Doktorarbeit. Brosius-Gersdorf weist alles zurück. Droht nun ein juristisches Nachspiel?",
+      "url": "https://www.heise.de/tp/features/Mit-copy-paste-bis-zum-Richterstuhl-Der-Fall-Brosius-Gersdorf-eskaliert-10509639.html",
+      "image_title": "Brosius-Gersdorf."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
