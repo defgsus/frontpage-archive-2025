@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-07T11:10:27",
+  "timestamp": "2025-08-07T12:22:11",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -26,26 +26,28 @@
   ],
   "articles": [
     {
+      "title": "KI mit Schuldgefühlen kooperativer machen?",
+      "teaser": "Ist es möglich, Künstlicher Intelligenz Schuldgefühle zu vermitteln und sie dadurch kooperativer zu machen? Ein Ansatz aus der Spieltheorie liefert Hinweise.",
+      "url": "https://www.heise.de/news/KI-mit-Gewissen-Software-Agenten-ueben-sich-in-Schuldgefuehlen-10513058.html",
+      "image_title": "Ein Roboter schneidet Filmmaterial"
+    },
+    {
+      "title": "Vera-C.-Rubin-Observatorium: Wie das Teleskop in Chile funktioniert",
+      "teaser": "Es ist die größte Digitalkamera der Welt: Das Rubin-Observatorium in Chile soll dem Geheimnis der Dunklen Energie und Dunklen Materie auf die Spur kommen.",
+      "url": "https://www.heise.de/hintergrund/Vera-C-Rubin-Observatorium-Wie-das-Teleskop-in-Chile-funktioniert-10457993.html",
+      "image_title": "Vera-C.-Rubin-Observatorium"
+    },
+    {
+      "title": "Stadt Chemnitz: KI-Übersetzer beschleunigen Verfahren und sparen Kosten",
+      "teaser": "Die Stadt Chemnitz setzt auf einen DSGVO-konformen KI-Simultanübersetzer, um leichter Sprachbarrieren zu überwinden. Die bisherige Bilanz ist positiv.",
+      "url": "https://www.heise.de/hintergrund/Stadt-Chemnitz-KI-Uebersetzer-beschleunigen-Verfahren-und-sparen-Kosten-10464466.html",
+      "image_title": "Person an einer Projektion eines KI-Übersetzers"
+    },
+    {
       "title": "Blick ins Heft: KI-Agenten arbeiten für Sie",
       "teaser": "KI-Agenten erledigen selbstständig Aufgaben, unser CPU-hilft bei der Prozessorwahl, es geht um Tücken und Kosten von Glasfaseranschlüssen und den Windows-Umzug.",
       "url": "https://www.heise.de/meinung/Blick-ins-Heft-KI-Agenten-arbeiten-fuer-Sie-10511604.html",
       "image_title": "c't magazin 17/2025"
-    },
-    {
-      "title": "Vorsicht Kunde: Regionetz GmbH liefert falsche Verbrauchswerte",
-      "teaser": "Wenn Verbrauchsdaten falsch berechnet werden, haben Stromkunden einen Anspruch auf Korrektur. In der Praxis ist das für Kunden mitunter ein zähes Geschäft.",
-      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Regionetz-GmbH-liefert-falsche-Verbrauchswerte-10473616.html"
-    },
-    {
-      "title": "Offshore-Windkraft: Rotordurchmesser weltgrößter Windturbine beträgt 310 m",
-      "teaser": "Es gibt bald einen neuen Spitzenreiter bei den Windkraftanlagen. Die Offshore-Windturbine von Dongfang Electric erreicht gigantische Ausmaße und leistet 26 MW.",
-      "url": "https://www.heise.de/news/Weltgroesstes-Offshore-Windkraftwerk-mit-26-MW-entsteht-in-China-10512757.html",
-      "image_title": "Rotorblatt einer Windturbine ist mit Gewichten belastet und biegt sich."
-    },
-    {
-      "title": "VerfassungsgerichtStaatstrojaner sind bei \"Alltagskriminalität\" tabu",
-      "teaser": "Die Polizei darf Staatstrojaner nicht einsetzen, wenn eine Tat mit Freiheitsstrafen von drei Jahren oder weniger geahndet wird.",
-      "url": "https://www.heise.de/news/Verfassungsgericht-Staatstrojaner-sind-bei-Alltagskriminalitaet-tabu-10512707.html"
     },
     {
       "title": "RatgeberVorsicht Kunde: Regionetz GmbH liefert falsche Verbrauchswerte",
@@ -60,6 +62,17 @@
       "title": "HintergrundVera-C.-Rubin-Observatorium: Wie das Teleskop in Chile funktioniert",
       "url": "https://www.heise.de/hintergrund/Vera-C-Rubin-Observatorium-Wie-das-Teleskop-in-Chile-funktioniert-10457993.html",
       "image_title": "Vera-C.-Rubin-Observatorium"
+    },
+    {
+      "title": "Offshore-Windkraft: Rotordurchmesser weltgrößter Windturbine beträgt 310 m",
+      "teaser": "Es gibt bald einen neuen Spitzenreiter bei den Windkraftanlagen. Die Offshore-Windturbine von Dongfang Electric erreicht gigantische Ausmaße und leistet 26 MW.",
+      "url": "https://www.heise.de/news/Weltgroesstes-Offshore-Windkraftwerk-mit-26-MW-entsteht-in-China-10512757.html",
+      "image_title": "Rotorblatt einer Windturbine ist mit Gewichten belastet und biegt sich."
+    },
+    {
+      "title": "Verfassungsgericht: Staatstrojaner sind bei \"Alltagskriminalität\" tabu",
+      "teaser": "Die Polizei darf Staatstrojaner laut Bundesverfassungsgericht nicht einsetzen, wenn eine Tat mit Höchstfreiheitsstrafe von 3 Jahren oder weniger geahndet wird.",
+      "url": "https://www.heise.de/news/Verfassungsgericht-Staatstrojaner-sind-bei-Alltagskriminalitaet-tabu-10512707.html"
     },
     {
       "title": "Pilotprojekt: Munition aus dem Zweiten Weltkrieg wird in Wismarer Bucht geborgen",
@@ -135,17 +148,6 @@
       "teaser": "Der Bitkom hat Eltern befragt, wie sie die Smartphone- und Social-Media-Nutzung ihrer Kinder einschätzen und regeln. Mit den Kindern wachsen die Freiheiten.",
       "url": "https://www.heise.de/news/Social-Media-Handyverbote-Sehr-viel-mehr-offene-Fragen-als-Antworten-10509823.html",
       "image_title": "Junge tippt unter einer Bettdecke lächelnd am Smartphone"
-    },
-    {
-      "title": "Zahlen, bitte! 12,75 Milliarden Kubikmeter Wassereinsatz in Betrieben",
-      "teaser": "Zwar ist der Wasserverbrauch in Deutschlands Wirtschaft rückläufig – KI-Rechenzentren könnten jedoch in Gebieten mit Wasserknappheit zu Problemen führen.",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-12-75-Milliarden-Kubikmeter-Wassereinsatz-in-Betrieben-10509653.html"
-    },
-    {
-      "title": "Rheinland-Pfalz: Auf eine Informatik-Lehrkraft kommen 250 Schüler",
-      "teaser": "Informatik soll zum Pflichtfach werden. Trotz einer Steigerung bei den Nachwuchslehrkräften gibt es weiterhin wenige mit diesem Schwerpunkt in Rheinland-Pfalz.",
-      "url": "https://www.heise.de/news/Rheinland-Pfalz-Auf-eine-Informatik-Lehrkraft-kommen-250-Schueler-10509645.html",
-      "image_title": "Informatik wird Pflichtfach an Schweizer Gymnasien"
     },
     {
       "title": "NewsFritzboxen & Co.: AVM gibt seinen Namen auf",
