@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-08T08:15:24",
+  "timestamp": "2025-08-08T09:16:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,15 +26,16 @@
   ],
   "articles": [
     {
+      "title": "UntersuchungAttacken auf Sonicwall-Firewalls wohl über Lücke aus 2024",
+      "teaser": "Es gibt neue Erkenntnisse bei Attacken auf Sonicwall-Firewalls. Offensichtlich nutzen Angreifer keine Zero-Day-Sicherheitslücke aus.",
+      "url": "https://www.heise.de/news/Untersuchung-Attacken-auf-Sonicwall-Firewalls-wohl-ueber-Luecke-aus-2024-10514044.html",
+      "image_title": "Malware-Zeichen"
+    },
+    {
       "title": "AlertUpdateJetzt absichern!Microsoft Exchange ist im hybriden Betrieb verwundbar",
       "teaser": "Admins, die Exchange in einer Hybridbereitstellung betreiben, sollten ihre Instanzen vor möglichen Attacken schützen.",
       "url": "https://www.heise.de/news/Jetzt-absichern-Microsoft-Exchange-ist-im-hybriden-Betrieb-verwundbar-10512743.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "AlertDell-NotebooksKritische Lücken machen Sicherheitskomponente zum Risiko",
-      "teaser": "Die \"ReVault\"-Lückensammlung macht zahlreiche Dell-Laptopmodelle angreifbar. Die Updates sollte man spätestens jetzt einspielen.",
-      "url": "https://www.heise.de/news/Dell-ControlVault-Kritische-Luecken-machen-Sicherheitskomponente-zum-Risiko-10511387.html"
     },
     {
       "title": "AlertSicherheitslücken: Angreifer können IBM Tivoli Monitoring crashen lassen",
@@ -111,6 +112,11 @@
       "image_title": "Ein sich füllender Updatebalken."
     },
     {
+      "title": "AlertDell-Notebooks: Kritische Lücken machen Sicherheitskomponente zum Risiko",
+      "teaser": "Die \"ReVault\"-Lückensammlung macht zahlreiche Dell-Laptopmodelle angreifbar. Die schon länger verfügbaren Updates sollte man spätestens jetzt einspielen.",
+      "url": "https://www.heise.de/news/Dell-ControlVault-Kritische-Luecken-machen-Sicherheitskomponente-zum-Risiko-10511387.html"
+    },
+    {
       "title": "iX-Workshop: Linux-Server absichern – effektiv und umfassend",
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-vor-Angriffen-wirksam-schuetzen-10501293.html",
@@ -155,11 +161,6 @@
       "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen im mobilen Betriebssystem Android.",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-16-10509617.html",
       "image_title": "Aufmacher Android-Patchday"
-    },
-    {
-      "title": "AlertNvidia Triton Inference Server: Angreifer können drei Lücken kombinieren",
-      "teaser": "Die Entwickler von Nvidia haben mehrere Sicherheitslücken in Triton Inference Server geschlossen. Mehrere Schwachstellen gelten als kritisch.",
-      "url": "https://www.heise.de/news/Nvidia-Triton-Inference-Server-Angreifer-koennen-drei-Luecken-kombinieren-10509513.html"
     },
     {
       "title": "Workshop | 19.08.2025Souveräne Cloud: Roadmap für eine sichere und resiliente IT",
