@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-08T04:03:28",
+  "timestamp": "2025-08-08T05:21:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,17 @@
   ],
   "articles": [
     {
+      "title": "20 Jahre Proxmox VE: Version 9.0 bringt Neues bei Storage, SDN-Networks und HA",
+      "teaser": "Proxmox VE 9.0 ist da, bietet Snapshots für Thick-Provisioned LVM Shared Storage und eine \"Fabrics\"-Funktion für den SDN-Stack.",
+      "url": "https://www.heise.de/news/20-Jahre-Proxmox-VE-Version-9-0-bringt-Neues-bei-Storage-SDN-Networks-und-HA-10513492.html",
+      "image_title": "Ein Screenshot von Proxmox"
+    },
+    {
+      "title": "Webhooks in Kubernetes erstellen",
+      "teaser": "Webhooks sind ein leistungsstarker Erweiterungsmechanismus in Kubernetes und ermöglichen es, den Funktionsumfang des Kubernetes-API-Servers zu erweitern.",
+      "url": "https://www.heise.de/ratgeber/Webhooks-in-Kubernetes-erstellen-10506116.html"
+    },
+    {
       "title": "GPT-5: OpenAI veröffentlicht neues Sprachmodell für ChatGPT",
       "teaser": "Das neue GPT-5 soll besser programmieren und Fachfragen mit weniger Halluzinationen beantworten. US-Firmen setzen es offenbar bereits in Risikobereichen ein.",
       "url": "https://www.heise.de/news/GPT-5-OpenAI-veroeffentlicht-neues-Sprachmodell-fuer-ChatGPT-10513244.html",
@@ -38,16 +49,8 @@
       "image_title": "Drei VR-Brillenprototypen auf einem Tisch."
     },
     {
-      "title": "Wohl keine weiteren Apple-Patches mehrmacOS 13 Ventura vor dem Aus",
-      "teaser": "Apple scheint für macOS 13 keine Sicherheits-Updates mehr zu planen. Nutzer sollten upgraden oder zumindest den Browser wechseln.",
-      "url": "https://www.heise.de/news/macOS-13-Ventura-vor-dem-Aus-Wohl-keine-weitere-Apple-Patches-mehr-10513534.html",
-      "image_title": "Sep,16th,2020,:,A,Woman,Holding,An,Apple,Macbook"
-    },
-    {
-      "title": "Ecosia und Qwant starten Web-Suche über europäischen Index",
-      "teaser": "Die beiden europäischen Suchmaschinenanbieter nutzen für ihre Websuche schrittweise einen eigenen Suchmaschinenindex. Der soll auch der KI-Entwicklung dienen.",
-      "url": "https://www.heise.de/news/Ecosia-und-Qwant-starten-Web-Suche-ueber-europaeischen-Index-10513424.html",
-      "image_title": "Ecosia macht sich mit eigenem Suchindex unabhängig von US-Anbietern."
+      "title": "RatgeberWebhooks in Kubernetes erstellen",
+      "url": "https://www.heise.de/ratgeber/Webhooks-in-Kubernetes-erstellen-10506116.html"
     },
     {
       "title": "HintergrundSecurity: Mit Threat-informed Defense gegen Sicherheitsbedrohungen verteidigen",
@@ -60,8 +63,16 @@
       "image_title": "Mac mit Festplatte"
     },
     {
-      "title": "RatgeberTechnik in Gamingmäusen: Wirklich nützlich oder Marketing?",
-      "url": "https://www.heise.de/ratgeber/Technik-in-Gamingmaeusen-Wirklich-nuetzlich-oder-Marketing-10451995.html"
+      "title": "macOS 13 Ventura vor dem Aus: Wohl keine weiteren Apple-Patches mehr",
+      "teaser": "Apple scheint für macOS 13 keine Sicherheits-Updates mehr zu planen. Nutzer sollten – falls möglich – upgraden oder zumindest den Browser wechseln.",
+      "url": "https://www.heise.de/news/macOS-13-Ventura-vor-dem-Aus-Wohl-keine-weitere-Apple-Patches-mehr-10513534.html",
+      "image_title": "Sep,16th,2020,:,A,Woman,Holding,An,Apple,Macbook"
+    },
+    {
+      "title": "Ecosia und Qwant starten Web-Suche über europäischen Index",
+      "teaser": "Die beiden europäischen Suchmaschinenanbieter nutzen für ihre Websuche schrittweise einen eigenen Suchmaschinenindex. Der soll auch der KI-Entwicklung dienen.",
+      "url": "https://www.heise.de/news/Ecosia-und-Qwant-starten-Web-Suche-ueber-europaeischen-Index-10513424.html",
+      "image_title": "Ecosia macht sich mit eigenem Suchindex unabhängig von US-Anbietern."
     },
     {
       "title": "Einplatinencomputer mit Raspi-Mikrocontroller und HDMI-Buchse",
@@ -139,18 +150,6 @@
       "teaser": "Finnland führt beim DSI-Ranking, Deutschland schneidet durch die Bank gut ab. Mit der Erhebung will Nextcloud die tatsächliche Verbreitung souveräner IT zeigen.",
       "url": "https://www.heise.de/news/Digitale-Souveraenitaet-Deutschland-weltweit-Platz-zwei-10512711.html",
       "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
-    },
-    {
-      "title": "Fast ein Lexikon: Apple-Experte über 50 Jahre Produkte aus Cupertino",
-      "teaser": "Im kommenden Frühjahr erscheint ein neues Mammutwerk über Apple. Der langjährige Firmenbeobachter David Pogue ist der Autor.",
-      "url": "https://www.heise.de/news/Fast-ein-Lexikon-Apple-Experte-ueber-50-Jahre-Produkte-aus-Cupertino-10510296.html",
-      "image_title": "Cover von \"Apple – The First 50 Years\""
-    },
-    {
-      "title": "AlertJetzt absichern! Microsoft Exchange ist im hybriden Betrieb verwundbar",
-      "teaser": "Admins, die Exchange in einer Hybridbereitstellung betreiben, sollten ihre Instanzen nach einer Anleitung von Microsoft vor möglichen Attacken schützen.",
-      "url": "https://www.heise.de/news/Jetzt-absichern-Microsoft-Exchange-ist-im-hybriden-Betrieb-verwundbar-10512743.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
     },
     {
       "title": "NewsFritzboxen & Co.: AVM gibt seinen Namen auf",
