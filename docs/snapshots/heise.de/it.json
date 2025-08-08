@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-08T06:18:06",
+  "timestamp": "2025-08-08T07:17:31",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,26 @@
   ],
   "articles": [
     {
-      "title": "c’t-Workshop: Systeme absichern mit SELinux",
+      "title": "GPT-OSS: Einblick in die offenen Modelle von OpenAI",
+      "teaser": "OpenAI hat zum ersten Mal die Gewichte eines neuen Modells offengelegt. GPT-OSS setzt vor allem auf Effizienz und bringt einen neuen Ansatz beim Prompting.",
+      "url": "https://www.heise.de/hintergrund/GPT-OSS-Einblick-in-die-offenen-Modelle-von-OpenAI-10513296.html",
+      "image_title": "Businessman,Holding,Digital,Chatbot,Are,Assistant,Conversation,For,Provide,Access"
+    },
+    {
+      "title": "Windows auf einen neuen Computer umziehen",
+      "teaser": "Mit einigen Tricks und c’t-Werkzeugen übertragen Sie die vertraute Windows-Installation komplett auf einen neuen PC. Einige Haken gibt es dennoch.",
+      "url": "https://www.heise.de/ratgeber/Windows-auf-einen-neuen-Computer-umziehen-10439199.html"
+    },
+    {
+      "title": "Microsoft integriert ChatGPT-5 in sein Ökosystem",
+      "teaser": "Für Endkunden, Unternehmen und Entwickler: Microsoft integriert OpenAIs neues KI-Modell ChatGPT-5 tief in sein Ökosystem.",
+      "url": "https://www.heise.de/news/Microsoft-integriert-ChatGPT-5-in-sein-Oekosystem-10513882.html",
+      "image_title": "Microsoft Copilot mit ChatGPT-5"
+    },
+    {
+      "title": "Linux-Systeme absichern mit SELinux: der große c’t-Workshop",
       "teaser": "Mit der Kernel-Erweiterung SELinux sichern Admins Linux-Systeme umfassend ab. Der Workshop zeigt, wie man SELinux konfiguriert und richtig nutzt.",
       "url": "https://www.heise.de/news/c-t-Workshop-Systeme-absichern-mit-SELinux-10510035.html"
-    },
-    {
-      "title": "20 Jahre Proxmox VE: Version 9.0 bringt Neues bei Storage, SDN-Networks und HA",
-      "teaser": "Proxmox VE 9.0 ist da, bietet Snapshots für Thick-Provisioned LVM Shared Storage und eine \"Fabrics\"-Funktion für den SDN-Stack.",
-      "url": "https://www.heise.de/news/20-Jahre-Proxmox-VE-Version-9-0-bringt-Neues-bei-Storage-SDN-Networks-und-HA-10513492.html",
-      "image_title": "Ein Screenshot von Proxmox"
-    },
-    {
-      "title": "Webhooks in Kubernetes erstellen",
-      "teaser": "Webhooks sind ein leistungsstarker Erweiterungsmechanismus in Kubernetes und ermöglichen es, den Funktionsumfang des Kubernetes-API-Servers zu erweitern.",
-      "url": "https://www.heise.de/ratgeber/Webhooks-in-Kubernetes-erstellen-10506116.html"
-    },
-    {
-      "title": "GPT-5: OpenAI veröffentlicht neues Sprachmodell für ChatGPT",
-      "teaser": "Das neue GPT-5 soll besser programmieren und Fachfragen mit weniger Halluzinationen beantworten. US-Firmen setzen es offenbar bereits in Risikobereichen ein.",
-      "url": "https://www.heise.de/news/GPT-5-OpenAI-veroeffentlicht-neues-Sprachmodell-fuer-ChatGPT-10513244.html",
-      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
     },
     {
       "title": "RatgeberWebhooks in Kubernetes erstellen",
@@ -60,6 +60,18 @@
       "title": "TestsMobile Speicherriesen: Festplatten fürs Mac-Backup und Archiv im Test",
       "url": "https://www.heise.de/tests/Mobile-Speicherriesen-Festplatten-fuers-Mac-Backup-und-Archiv-10501014.html",
       "image_title": "Mac mit Festplatte"
+    },
+    {
+      "title": "20 Jahre Proxmox VE: Version 9.0 bringt Neues bei Storage, SDN-Networks und HA",
+      "teaser": "Proxmox VE 9.0 ist da, bietet Snapshots für Thick-Provisioned LVM Shared Storage und eine \"Fabrics\"-Funktion für den SDN-Stack.",
+      "url": "https://www.heise.de/news/20-Jahre-Proxmox-VE-Version-9-0-bringt-Neues-bei-Storage-SDN-Networks-und-HA-10513492.html",
+      "image_title": "Ein Screenshot von Proxmox"
+    },
+    {
+      "title": "GPT-5: OpenAI veröffentlicht neues Sprachmodell für ChatGPT",
+      "teaser": "Das neue GPT-5 soll besser programmieren und Fachfragen mit weniger Halluzinationen beantworten. US-Firmen setzen es offenbar bereits in Risikobereichen ein.",
+      "url": "https://www.heise.de/news/GPT-5-OpenAI-veroeffentlicht-neues-Sprachmodell-fuer-ChatGPT-10513244.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
     },
     {
       "title": "Metas neue VR-Prototypen setzen Maßstäbe bei Pixeldichte und Sichtfeld",
@@ -137,18 +149,6 @@
       "teaser": "Entwickler haben kurzzeitig Zugriff auf einen Release Candidate von macOS 15.7 erhalten. Dabei ist macOS 15.6 noch ganz frisch.",
       "url": "https://www.heise.de/news/macOS-15-7-kommt-offenbar-schnell-10512273.html",
       "image_title": "macOS 15 Sequoia: Fenstermanagement"
-    },
-    {
-      "title": "Blick ins Heft: KI-Agenten arbeiten für Sie",
-      "teaser": "KI-Agenten erledigen selbstständig Aufgaben, unser CPU-hilft bei der Prozessorwahl, es geht um Tücken und Kosten von Glasfaseranschlüssen und den Windows-Umzug.",
-      "url": "https://www.heise.de/meinung/Blick-ins-Heft-KI-Agenten-arbeiten-fuer-Sie-10511604.html",
-      "image_title": "c't magazin 17/2025"
-    },
-    {
-      "title": "Agile Leadership Conference 2025: Praxisnahe Workshops für Führungskräfte",
-      "teaser": "Die Konferenz bietet Führungskräften fünf Online-Workshops zu Leadership, OKR, Female Empowerment und mehr – zwischen dem 1. und 10. Dezember 2025.",
-      "url": "https://www.heise.de/news/Agile-Leadership-Conference-2025-Praxisnahe-Workshops-fuer-Fuehrungskraefte-10510464.html",
-      "image_title": "Agile Leadership Conference 2025"
     },
     {
       "title": "NewsFritzboxen & Co.: AVM gibt seinen Namen auf",
