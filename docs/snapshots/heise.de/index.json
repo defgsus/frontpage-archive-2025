@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-09T11:08:23",
+  "timestamp": "2025-08-09T12:18:17",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Der am breitesten gestreute Index der Welt: Wie der MSCI ACWI IMI abschneidet",
+      "url": "https://www.heise.de/ratgeber/Der-breitgestreuteste-Index-der-Welt-Wie-der-MSCI-ACWI-IMI-abschneidet-10358954.html"
+    },
     {
       "title": "CLC-Konferenz 2025: Keynote zu Souveränität und digitaler Resilienz",
       "url": "https://www.heise.de/news/CLC-Konferenz-2025-Keynote-zu-Souveraenitaet-und-digitaler-Resilienz-10513458.html"
@@ -60,10 +64,6 @@
     {
       "title": "Developer Snapshots: Kleinere News der Woche",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10512556.html"
-    },
-    {
-      "title": "Alten Wechselrichter tauschen: Das müssen Sie wissen",
-      "url": "https://www.heise.de/ratgeber/Alten-Wechselrichter-tauschen-Das-muessen-Sie-wissen-10513019.html"
     },
     {
       "title": "Windows 10 ESUMicrosoft zwingt Anwender zum Account trotz Lizenzkauf",
@@ -185,20 +185,26 @@
       "url": "https://www.heise.de/news/Photovoltaik-an-originellen-und-ungenutzten-Stellen-aufbauen-c-t-uplink-10513708.html"
     },
     {
+      "title": "Der am breitesten gestreute Index der Welt: Wie der MSCI ACWI IMI abschneidet",
+      "teaser": "Der MSCI ACWI IMI deckt weltweit mehr Unternehmen als alle anderen Indizes ab. Das soll die Rolle der US-Wirtschaft reduzieren – ohne große Renditeeinbußen.",
+      "url": "https://www.heise.de/ratgeber/Der-breitgestreuteste-Index-der-Welt-Wie-der-MSCI-ACWI-IMI-abschneidet-10358954.html",
+      "image_title": "Mann, der Geld in Unternehmen aus verschiedenen Ländern investiert"
+    },
+    {
       "title": "CLC-Konferenz 2025: Keynote zu Souveränität und digitaler Resilienz",
       "teaser": "Die CLC 2025 bringt IT-Profis zusammen – zu den wichtigsten Trends von Platform Engineering, DevOps und KI bis zu digitaler Souveränität.",
       "url": "https://www.heise.de/news/CLC-Konferenz-2025-Keynote-zu-Souveraenitaet-und-digitaler-Resilienz-10513458.html",
       "image_title": "CLC 2025: Programm veröffentlicht"
     },
     {
+      "title": "KI-basierte Attacken: Abwehrstrategien für KMUs",
+      "teaser": "Cyberangriffe und daraus entstehende Schäden für den deutschen Mittelstand nehmen zu. KI verschärft die Gefahr, kann aber auch als mächtiges Werkzeug zur Verteidigung dienen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7004425368&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Die Stimme von \"Houston, we´ve had a problem\" ist verstummt",
       "teaser": "Mit 97 Jahren ist NASA-Astronaut Jim Lovell gestorben. Seine Raumfahrt-Karriere ist eine Geschichte des Scheiterns und Weitermachens – und von viel Glück.",
       "url": "https://www.heise.de/news/Die-Stimme-von-Houston-we-ve-had-a-problem-ist-verstummt-10515511.html"
-    },
-    {
-      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
-      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Sam Altman besorgt: Menschen könnten Leben nach KI-Empfehlungen ausrichten",
@@ -226,12 +232,6 @@
       "teaser": "All on Board erweitert seine VR-Brettspielplattform um \"Aye, Dark Overlord!\" und neue Social-Features für einfachere Spielplanung und bessere Lerntools.",
       "url": "https://www.heise.de/news/Brettspiele-in-Virtual-Reality-All-on-Board-kuendigt-neue-Lizenztitel-an-10515165.html",
       "image_title": "Drei virtuelle Avatare sitzen an einem Esszimmertisch und spielen ein Brettspiel"
-    },
-    {
-      "title": "Developer Snapshots: Kleinere News der Woche",
-      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Node.js, VS Code, PyCharm, PSF, Qt, Stackable, CUDA, Microsoft und cmake.",
-      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10512556.html",
-      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -301,6 +301,12 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Node.js, VS Code, PyCharm, PSF, Qt, Stackable, CUDA, Microsoft und cmake.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10512556.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
       "title": "Alten Wechselrichter tauschen: Das müssen Sie wissen",
       "teaser": "Die PV-Module haben das Lebensende längst nicht erreicht, die Leistungselektronik muckert jedoch vor sich hin: Wann ein Wechsel ansteht und wie er funktioniert.",
       "url": "https://www.heise.de/ratgeber/Alten-Wechselrichter-tauschen-Das-muessen-Sie-wissen-10513019.html"
@@ -368,15 +374,15 @@
       "url": "https://www.heise.de/news/Fintiv-verklagt-Apple-wegen-angeblichem-Technologie-Diebstahl-bei-Apple-Pay-10515001.html"
     },
     {
+      "title": "Moderne IT trotz „Legacy“-Hardware – so geht’s!",
+      "teaser": "Vorhandene Hardware möglichst lange nutzen, Kosten senken, die IT-Abteilung entlasten und trotzdem volle Kontrolle behalten – wie Sie das erreichen können, erfahren Sie im Live-Webcast am 2.9. um 11 Uhr.",
+      "url": "https://business-services.heise.de/software/betriebssysteme/beitrag/moderne-it-trotz-legacy-hardware-so-gehts-4958/?source=hbsad_ersatz"
+    },
+    {
       "title": "Buchungsportale: Wenn Kassenpatienten unfreiwillig zu Selbstzahlern werden",
       "teaser": "Buchungsportale sollen Terminvergaben beim Arzt erleichtern, doch manche Softwarefunktion steht in der Kritik. Die ist auch bei der Bundesregierung angekommen.",
       "url": "https://www.heise.de/news/Buchungsportale-Wenn-Kassenpatienten-unfreiwillig-zu-Selbstzahlern-werden-10514963.html",
       "image_title": "Blonde Ärztin im weißen Kittel gibt Patientin ihre Krankenkassenkarte."
-    },
-    {
-      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
-      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
     },
     {
       "title": "Tesla stellt hauseigenes KI-Projekt Dojo ein",
@@ -427,11 +433,6 @@
       "title": "Vorsicht Kunde: Regionetz GmbH liefert falsche Verbrauchswerte",
       "teaser": "Wenn Verbrauchsdaten falsch berechnet werden, haben Stromkunden einen Anspruch auf Korrektur. In der Praxis ist das für Kunden mitunter ein zähes Geschäft.",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Regionetz-GmbH-liefert-falsche-Verbrauchswerte-10473616.html"
-    },
-    {
-      "title": "Komet oder künstlicher Ursprung? Neue Daten zu 3I/ATLAS befeuern Debatte",
-      "teaser": "Ein Besucher aus einem anderen Sonnensystem durchquert unsere kosmische Nachbarschaft. Doch Daten zeigen, dass mit dem Objekt etwas nicht zu stimmen scheint.",
-      "url": "https://www.heise.de/news/Komet-oder-kuenstlicher-Ursprung-Neue-Daten-zu-3I-ATLAS-befeuern-Debatte-10514762.html"
     },
     {
       "title": "UpdateLibreOffice 25.8: Viele neue PDF-2.0-Features",
@@ -603,26 +604,20 @@
       "url": "https://www.heise.de/en/news/Media-authorities-want-to-cut-Pornhub-off-from-payment-transactions-10513727.html"
     },
     {
+      "title": "Linux-tauglich: RISC-V-Einplatinencomputer für unter 40 Euro",
+      "teaser": "Eine abgespeckte Version des StarFive Vision Five 2 mit RISC-V-Vierkerner ist ab 20 US-Dollar netto zu haben. Bei der Software hakelt es weiter.",
+      "url": "https://www.heise.de/news/RISC-V-Einplatinencomputer-fuer-unter-40-Euro-10514884.html",
+      "image_title": "Einplatinencomputer StarFive VisionFive 2 mit dem RISC-V-SoC JH7110"
+    },
+    {
       "title": "Linux: Debian 13 kommt als Trixie",
       "teaser": "Am Wochenende soll das nächste Debian-Release erscheinen. Version Nummer 13 heißt \"Trixie\" und läuft nicht mehr auf 32-Bit-Architekturen.",
       "url": "https://www.heise.de/news/Linux-Debian-13-kommt-als-Trixie-10515203.html"
     },
     {
-      "title": "c’t uplinkPhotovoltaik an originellen und ungenutzten Stellen aufbauen",
-      "teaser": "In diesem c’t uplink: kreative Möglichkeiten für PV-Anlagen, etwa am Garagentor, als Solartisch oder ein Balkonkraftwerk auf dem Dach eines Mehrfamilienhauses.",
-      "url": "https://www.heise.de/news/Photovoltaik-an-originellen-und-ungenutzten-Stellen-aufbauen-c-t-uplink-10513708.html"
-    },
-    {
-      "title": "GPT-5OpenAI veröffentlicht neues Sprachmodell für ChatGPT",
-      "teaser": "Das neue GPT-5 soll besser programmieren und Fachfragen mit weniger Halluzinationen beantworten.",
-      "url": "https://www.heise.de/news/GPT-5-OpenAI-veroeffentlicht-neues-Sprachmodell-fuer-ChatGPT-10513244.html",
-      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
-    },
-    {
-      "title": "Mit und ohne OCRiPhone als Scanner: 9 Apps im Test",
-      "teaser": "Mit seiner Kamera eignet sich das iPhone gut, um Dokumente in hoher Auflösung abzulichten. Mit der richtigen App wird aus dem Foto ein durchsuchbares PDF.",
-      "url": "https://www.heise.de/tests/Das-iPhone-als-Scanner-Neun-Apps-im-Test-10500998.html",
-      "image_title": ", Shisu_ka, stock.adobe.com"
+      "title": "Let’s Encrypt hat OCSP-Server abgeschaltet",
+      "teaser": "Zertifikate kann man bei Let’s Encrypt nicht mehr per OCSP prüfen. Wer von Problemen erfahren will, muss stattdessen Widerrufslisten konsultieren.",
+      "url": "https://www.heise.de/news/Let-s-Encrypt-hat-OCSP-Server-abgeschaltet-10514864.html"
     },
     {
       "title": "Verzockt mit OutsourcingWie Apple von China (zu) abhängig wurde",
@@ -635,6 +630,12 @@
       "teaser": "Externe Festplatten eignen sich prima als langjähriger Speicher – das Gigabyte ist unschlagbar günstig. Wir testen sechs kompakte USB-HDs ab 4 Terabyte am Mac.",
       "url": "https://www.heise.de/tests/Mobile-Speicherriesen-Festplatten-fuers-Mac-Backup-und-Archiv-10501014.html",
       "image_title": "Mac mit Festplatte"
+    },
+    {
+      "title": "Großer SprungiPadOS 26 im Hands-on: Neustart für das iPad",
+      "teaser": "Apple bringt MacBook-Funktionen auf das Tablet, Nutzer können mit vielen Fenstern gleichzeitig arbeiten. Kann das iPad damit über sich hinauswachsen?",
+      "url": "https://www.heise.de/hintergrund/iPadOS-26-im-Hands-on-Neustart-fuer-das-iPad-10494315.html",
+      "image_title": "iPadOS 26 auf zwei iPads mit Tastatur"
     },
     {
       "title": "Adafruit Fruit JamEinplatinencomputer mit Raspi-Mikrocontroller und HDMI-Buchse",
@@ -751,26 +752,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Rätselhafte Steinwerkzeuge auf Sulawesi: Unbekannte Menschenart besiedelte Indonesien vor 1,5 Millionen Jahren",
-      "teaser": "Werkzeuge sind 800.000 Jahre älter sind als bekannte Funde. Wer sie herstellte, bleibt ungeklärt.",
-      "url": "https://www.heise.de/tp/features/Raetselhafte-Steinwerkzeuge-auf-Sulawesi-Unbekannte-Menschenart-besiedelte-Indonesien-vor-1-5-10512945.html",
-      "image_title": "Karte des Untersuchungsgebiets bei Sulawesi"
-    },
-    {
       "title": "US-Luftwaffe kauft Tesla Cybertrucks als Raketenziele",
       "teaser": "US-Militär plant Kauf von Tesla Cybertrucks – nicht für den Einsatz, sondern als Zielscheiben für Präzisionsmunition. Grund sind Befürchtungen über künftige Gegner.",
       "url": "https://www.heise.de/tp/features/US-Luftwaffe-kauft-Tesla-Cybertrucks-als-Raketenziele-10512767.html",
       "image_title": "Ein Cybertruck auf einem Hügel"
     },
     {
-      "title": "\"Der Weiße Hai\": Das Böse in uns",
-      "teaser": "Spielbergs legendärer Film kehrt ins Kino zurück. Ein gigantisch guter Film – wieder hochaktuell und sehr unbequem. Der Schrecken kommt nicht nur aus dem Wasser.",
-      "url": "https://www.heise.de/tp/features/Der-Weisse-Hai-Das-Boese-in-uns-10513088.html"
+      "title": "Merz zieht die Reißleine: Waffenlieferungen an Israel gestoppt",
+      "teaser": "Merz reagiert auf geplante israelische Offensive: Deutschland stoppt Waffenlieferungen für den Einsatz in Gaza. Die Entscheidung könnte weitreichende Folgen haben.",
+      "url": "https://www.heise.de/tp/features/Merz-zieht-die-Reissleine-Waffenlieferungen-an-Israel-gestoppt-10514653.html",
+      "image_title": "Bundeskanzler Friedrich Merz (CDU) vor blauem Grund"
     },
     {
-      "title": "Beste eSIM-Tarife für Brasilien (Reise & Urlaub)",
-      "teaser": "Wenn man mit deutschem Vertrag im brasilianischen Mobilnetz surft, können schnell hohe Zusatzkosten entstehen. Mit eSIMs lassen sich solche Gebühren vermeiden.",
-      "url": "https://www.heise.de/download/specials/Beste-eSIM-Tarife-fuer-Brasilien-Reise-Urlaub-10497950"
+      "title": "Raketenartillerie: Europas sicherheitspolitisches Paradox – Milliarden für fremde Systeme",
+      "teaser": "Europa investiert Milliarden in US- und israelische Systeme – und macht sich damit abhängig von Drittstaaten. Bleibt am Ende keine andere Wahl? Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Raketenartillerie-Europas-sicherheitspolitisches-Paradox-Milliarden-fuer-fremde-Systeme-10514437.html",
+      "image_title": "Selbstfahrende Lafette schießt Rakete ab"
+    },
+    {
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Desinfec't",
