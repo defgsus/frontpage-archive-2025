@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-10T07:09:24",
+  "timestamp": "2025-08-10T08:13:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Windows Server absichern und härten",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10503190.html"
+    },
     {
       "title": "Missing Link: Zehn Jahre Landesverrat – Blogger im Zentrum einer Staatsaffäre",
       "url": "https://www.heise.de/news/Missing-Link-Zehn-Jahre-Landesverrat-Blogger-im-Zentrum-einer-Staatsaffaere-10514570.html"
@@ -60,10 +64,6 @@
     {
       "title": "Nedis Luftqualitätsmonitor: Günstiges CO₂-Messgerät mit Hygrometer im Test",
       "url": "https://www.heise.de/bestenlisten/testbericht/nedis-luftqualitaetsmonitor-guenstiges-co-messgeraet-mit-hygrometer-im-test/beynk07"
-    },
-    {
-      "title": "Der breitestgestreute Index der Welt: Wie der MSCI ACWI IMI abschneidet",
-      "url": "https://www.heise.de/ratgeber/Der-breitgestreuteste-Index-der-Welt-Wie-der-MSCI-ACWI-IMI-abschneidet-10358954.html"
     },
     {
       "title": "LinuxDebian 13 kommt als Trixie",
@@ -183,20 +183,26 @@
       "url": "https://www.heise.de/news/Photovoltaik-an-originellen-und-ungenutzten-Stellen-aufbauen-c-t-uplink-10513708.html"
     },
     {
+      "title": "iX-Workshop: Windows Server absichern und härten",
+      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10503190.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
       "title": "Missing Link: Zehn Jahre Landesverrat – Blogger im Zentrum einer Staatsaffäre",
       "teaser": "Sie enttarnten Geheimdienstpläne und wurden gejagt. Ein Blick auf den Kampf um das Fundament der Pressefreiheit und Staatsgeheimnisse mit zehn Jahren Abstand.",
       "url": "https://www.heise.de/news/Missing-Link-Zehn-Jahre-Landesverrat-Blogger-im-Zentrum-einer-Staatsaffaere-10514570.html"
+    },
+    {
+      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
+      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Vom Sofa in die Natur: 16 Outdoor-Apps, die zum Bewegen motivieren",
       "teaser": "Bewegung tut gut! Doch wie motiviert man sich und die Kinder, nach draußen zu gehen und die Welt zu erkunden? 16 Apps, mit denen Ausflüge spannender werden.",
       "url": "https://www.heise.de/ratgeber/Vom-Sofa-in-die-Natur-16-Outdoor-Apps-die-zum-Bewegen-motivieren-10456655.html",
       "image_title": "Frühling, Sonne, Wald"
-    },
-    {
-      "title": "Security Operations Center neu gedacht",
-      "teaser": "SOCs stehen unter Dauerbelastung und Analysten hadern mit falschen Alarmen. Zeit für eine Neuausrichtung! Moderne SOC-Architekturen sind modular aufgebaut und lösen Aufgaben durch Spezialkomponenten.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7028814436&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 7: Die besten Poolroboter mit und ohne App für kleine und große Pools",
@@ -222,12 +228,6 @@
       "title": "Von ISS abgedockt: \"Crew 10\"-Besatzung ist zurück zur Erde unterwegs",
       "teaser": "Rund eine Woche nach der Ankunft ihrer Ablöse-Crew haben sich vier Raumfahrer von der ISS auf den Weg zurück zur Erde gemacht.",
       "url": "https://www.heise.de/news/Vier-Raumfahrer-von-der-ISS-abgedockt-10515598.html"
-    },
-    {
-      "title": "Cyberangriff: Kundendaten von Air France und KLM entwendet",
-      "teaser": "Die Fluggesellschaft KLM warnt: Von einem Drittanbieter wurden persönliche Daten ihrer Kunden und denen von Air France entwendet.",
-      "url": "https://www.heise.de/news/Cyberangriff-Kundendaten-von-Air-France-und-KLM-entwendet-10515579.html",
-      "image_title": "Das Air France-KLM-Logo auf einem Flugzeug."
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -297,6 +297,12 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "Cyberangriff: Kundendaten von Air France und KLM entwendet",
+      "teaser": "Die Fluggesellschaft KLM warnt: Von einem Drittanbieter wurden persönliche Daten ihrer Kunden und denen von Air France entwendet.",
+      "url": "https://www.heise.de/news/Cyberangriff-Kundendaten-von-Air-France-und-KLM-entwendet-10515579.html",
+      "image_title": "Das Air France-KLM-Logo auf einem Flugzeug."
+    },
+    {
       "title": "Nedis Luftqualitätsmonitor: Günstiges CO₂-Messgerät mit Hygrometer im Test",
       "teaser": "Neben CO₂ erfasst der smarte Raumluftsensor von Nedis außerdem Temperatur und Luftfeuchte. Der Test zeigt, wie gut er in der Praxis funktioniert.",
       "url": "https://www.heise.de/bestenlisten/testbericht/nedis-luftqualitaetsmonitor-guenstiges-co-messgeraet-mit-hygrometer-im-test/beynk07?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -364,15 +370,15 @@
       "url": "https://www.techstage.de/bestenliste/testsieger-die-beste-elektrische-sup-pumpe-mit-und-ohne-akku-im-test/g8zmcvx?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "Wachstum bei United Internet – Investitionen drücken aufs Ergebnis",
       "teaser": "Der Internet-Konzern United Internet profitiert vom Wachstum bei kostenpflichtigen Kundenverträgen und höheren Umsätzen. Der Netzausbau schmälert die Gewinne.",
       "url": "https://www.heise.de/news/Wachstum-bei-United-Internet-Investitionen-druecken-aufs-Ergebnis-10515061.html",
       "image_title": "Blick auf den Hauptsitz von United Internet in Montabaur."
-    },
-    {
-      "title": "Wie sieht die Zukunft der Videokonferenzen aus?",
-      "teaser": "Videokonferenzen gehören für die meisten Angestellten zum täglichen Alltag. Welche Trends, Techniken und Innovationen Sie im Auge behalten sollten, erfahren Sie in unserem aktuellen Themenspecial mit HP Poly.",
-      "url": "https://it-kenner.heise.de/zukunft-der-videokonferenzen//?source=hbsadersatz"
     },
     {
       "title": "Dobrindt will mehr digitale Ermittlungsbefugnisse: CCC & Co. protestieren massiv",
@@ -424,12 +430,6 @@
       "teaser": "Dojo sollte Videodaten verarbeiten und die Fahrassistenten in Tesla-Fahrzeugen verbessern. Jetzt verkündete CEO Elon Musk einen Strategiewechsel.",
       "url": "https://www.heise.de/news/Tesla-stellt-hauseigenes-KI-Projekt-Dojo-ein-10514918.html",
       "image_title": "Tesla-Logo auf rotem Auto"
-    },
-    {
-      "title": "Varjo zeigt Kampfjet-Simulator mit Mixed-Reality-Cockpit",
-      "teaser": "Der finnische VR-Brillenhersteller Varjo wirbt mit einem aufwendigen Mixed-Reality-Flugsimulator um Kunden aus dem Verteidigungssektor.",
-      "url": "https://www.heise.de/news/Varjo-zeigt-Kampfjet-Simulator-mit-Mixed-Reality-Cockpit-10514477.html",
-      "image_title": "Ein Mann sitzt mit Varjo XR-4 in der Cockpitreplik eines Kampfjets."
     },
     {
       "title": "Let’s Encrypt hat OCSP-Server abgeschaltet",
@@ -484,9 +484,9 @@
       "image_title": "Werbebild für Disney-Serie The Bear"
     },
     {
-      "title": "Metas neue VR-Prototypen setzen Maßstäbe bei Pixeldichte und Sichtfeld",
-      "url": "https://www.heise.de/news/Metas-neue-VR-Prototypen-setzen-Massstaebe-bei-Aufloesung-und-Sichtfeld-10513598.html",
-      "image_title": "Drei VR-Brillenprototypen auf einem Tisch."
+      "title": "Varjo zeigt Kampfjet-Simulator mit Mixed-Reality-Cockpit",
+      "url": "https://www.heise.de/news/Varjo-zeigt-Kampfjet-Simulator-mit-Mixed-Reality-Cockpit-10514477.html",
+      "image_title": "Ein Mann sitzt mit Varjo XR-4 in der Cockpitreplik eines Kampfjets."
     },
     {
       "title": "Warum Pedelec-Unfälle so oft tödlich enden",
@@ -599,6 +599,12 @@
       "url": "https://www.heise.de/en/news/Autonomous-driving-Co-German-car-companies-push-for-open-source-10510906.html"
     },
     {
+      "title": "Linux-tauglich: RISC-V-Einplatinencomputer für unter 40 Euro",
+      "teaser": "Eine abgespeckte Version des StarFive Vision Five 2 mit RISC-V-Vierkerner ist ab 20 US-Dollar netto zu haben. Bei der Software hakelt es weiter.",
+      "url": "https://www.heise.de/news/RISC-V-Einplatinencomputer-fuer-unter-40-Euro-10514884.html",
+      "image_title": "Einplatinencomputer StarFive VisionFive 2 mit dem RISC-V-SoC JH7110"
+    },
+    {
       "title": "c’t uplinkPhotovoltaik an originellen und ungenutzten Stellen aufbauen",
       "teaser": "In diesem c’t uplink: kreative Möglichkeiten für PV-Anlagen, etwa am Garagentor, als Solartisch oder ein Balkonkraftwerk auf dem Dach eines Mehrfamilienhauses.",
       "url": "https://www.heise.de/news/Photovoltaik-an-originellen-und-ungenutzten-Stellen-aufbauen-c-t-uplink-10513708.html"
@@ -607,12 +613,6 @@
       "title": "LinuxDebian 13 kommt als Trixie",
       "teaser": "Am Wochenende soll das nächste Debian-Release erscheinen. Version Nummer 13 heißt \"Trixie\" und läuft nicht mehr auf 32-Bit-Architekturen.",
       "url": "https://www.heise.de/news/Linux-Debian-13-kommt-als-Trixie-10515203.html"
-    },
-    {
-      "title": "Linux-tauglich: RISC-V-Einplatinencomputer für unter 40 Euro",
-      "teaser": "Eine abgespeckte Version des StarFive Vision Five 2 mit RISC-V-Vierkerner ist ab 20 US-Dollar netto zu haben. Bei der Software hakelt es weiter.",
-      "url": "https://www.heise.de/news/RISC-V-Einplatinencomputer-fuer-unter-40-Euro-10514884.html",
-      "image_title": "Einplatinencomputer StarFive VisionFive 2 mit dem RISC-V-SoC JH7110"
     },
     {
       "title": "Mit und ohne OCRiPhone als Scanner: 9 Apps im Test",
@@ -746,22 +746,20 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Medienförderung: Bundesregierung will Schlusspunkt setzen",
-      "teaser": "Der neue Kulturstaatsminister Wolfram Weimer stoppt Claudia Roths Projekte. 20 Institutionen betroffen, darunter Correctiv. Was steckt hinter dem Kurswechsel?",
-      "url": "https://www.heise.de/tp/features/Medienfoerderung-Bundesregierung-will-Schlusspunkt-setzen-10514756.html",
-      "image_title": "Ein Stift, der ausradiert."
+      "title": "Chinesische Forscher entdecken ausgedehnte Lebensgemeinschaften in extremer Meerestiefe",
+      "teaser": "Das Tauchboot \"Fendouzhe\" entdeckte das bisher tiefste bekannte Ökosystem. Die Funde stellen bisherige Annahmen über Energiequellen in der Tiefsee in Frage.",
+      "url": "https://www.heise.de/tp/features/Chinesische-Forscher-entdecken-ausgedehnte-Lebensgemeinschaften-in-extremer-Meerestiefe-10508680.html",
+      "image_title": "Tiefseelebensformen wie Würmer und andere Kleinlebewesen"
     },
     {
-      "title": "Italien erteilt Baugenehmigung für weltgrößte Hängebrücke nach Sizilien",
-      "teaser": "Nach jahrzehntelangen Diskussionen genehmigt Rom das Großprojekt. Verkehrsminister verspricht Aufschwung für den Süden. Finanzierung über Rüstungstöpfe.",
-      "url": "https://www.heise.de/tp/features/Italien-erteilt-Baugenehmigung-fuer-weltgroesste-Haengebruecke-nach-Sizilien-10512715.html",
-      "image_title": "Computerillustration der geplanten Brücke über die Straße von Messina"
+      "title": "Trump als Putins Friedensbote? Der Rest-Westen muss sich einer neuen Realität stellen",
+      "teaser": "Trump als Putins Friedensbote? Der Westen steht vor einer erschreckenden Realität. Die Ukraine kämpft ums Überleben. Doch was plant der US-Präsident wirklich?",
+      "url": "https://www.heise.de/tp/features/Trump-als-Putins-Friedensbote-Der-Rest-Westen-muss-sich-einer-neuen-Realitaet-stellen-10515594.html"
     },
     {
-      "title": "Trump-Putin-Gipfel in Alaska: Gebietstausch soll Ukraine-Krieg beenden",
-      "teaser": "Putin und Trump treffen sich am 15. August in Alaska. Der Ukraine-Krieg steht ganz oben auf der Agenda. Ein möglichst Abkommen könnte die Landkarte neu zeichnen.",
-      "url": "https://www.heise.de/tp/features/Trump-Putin-Gipfel-in-Alaska-Gebietstausch-soll-Ukraine-Krieg-beenden-10515460.html",
-      "image_title": "Trump und Putin auf Bildschirmen"
+      "title": "\"Der Weiße Hai\": Das Böse in uns",
+      "teaser": "Spielbergs legendärer Film kehrt ins Kino zurück. Ein gigantisch guter Film – wieder hochaktuell und sehr unbequem. Der Schrecken kommt nicht nur aus dem Wasser.",
+      "url": "https://www.heise.de/tp/features/Der-Weisse-Hai-Das-Boese-in-uns-10513088.html"
     },
     {
       "title": "Saily im Test: Komfortable Urlaubs-eSIM mit Sicherheits-Funktionen",
