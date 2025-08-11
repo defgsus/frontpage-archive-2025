@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-11T07:17:10",
+  "timestamp": "2025-08-11T08:16:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,9 +26,10 @@
   ],
   "articles": [
     {
-      "title": "Verschlüsselung im WebLet’s Encrypt hat OCSP-Server abgeschaltet",
-      "teaser": "Zertifikate kann man bei Let’s Encrypt nicht mehr per OCSP prüfen. Wer von Problemen erfahren will, muss stattdessen Widerrufslisten konsultieren.",
-      "url": "https://www.heise.de/news/Let-s-Encrypt-hat-OCSP-Server-abgeschaltet-10514864.html"
+      "title": "AlertWinRARSicherheitslücke wird bereits angegriffen",
+      "teaser": "Eine Sicherheitslücke in WinRAR ermöglicht das Ausführen von Schadcode. Sie wird bereits in freier Wildbahn angegriffen.",
+      "url": "https://www.heise.de/news/WinRAR-Sicherheitsluecke-wird-bereits-angegriffen-10516078.html",
+      "image_title": "Achtung-Schild neben WinRAR-Logo auf Matrix-Regen-Hintergrund"
     },
     {
       "title": "Nächste WocheSicheres Windows-Netz mit Tiering und PAWs",
@@ -37,7 +38,7 @@
       "image_title": "Tiering-Illustration"
     },
     {
-      "title": "AlertWinRAR: Sicherheitslücke wird bereits angegriffen",
+      "title": "AlertWinRARSicherheitslücke wird bereits angegriffen",
       "url": "https://www.heise.de/news/WinRAR-Sicherheitsluecke-wird-bereits-angegriffen-10516078.html",
       "image_title": "Achtung-Schild neben WinRAR-Logo auf Matrix-Regen-Hintergrund"
     },
@@ -71,10 +72,10 @@
       "url": "https://shop.heise.de/microsoft-entra-dangerous-defaults?wt_mc=intern.academy.security.web_entradd.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertWinRAR: Sicherheitslücke wird bereits angegriffen",
-      "teaser": "Eine Sicherheitslücke in WinRAR ermöglicht das Ausführen von Schadcode. Sie wird bereits in freier Wildbahn angegriffen.",
-      "url": "https://www.heise.de/news/WinRAR-Sicherheitsluecke-wird-bereits-angegriffen-10516078.html",
-      "image_title": "Achtung-Schild neben WinRAR-Logo auf Matrix-Regen-Hintergrund"
+      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
+      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10508231.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "iX-Workshop: Windows Server absichern und härten",
@@ -93,6 +94,11 @@
       "teaser": "Hardware-Fehler in allen Intel-Prozessoren und eine Methode, mit KI Schwachstellen statt nur False-Positives zu finden, wurden auf der Black Hat gezeigt.",
       "url": "https://www.heise.de/news/Black-Hat-KI-als-Schwachstellen-Scout-und-Luecke-in-Spectre-Schutz-10515135.html",
       "image_title": "Referentin Nicole Perlroth auf der Black Hat 2025"
+    },
+    {
+      "title": "Let’s Encrypt hat OCSP-Server abgeschaltet",
+      "teaser": "Zertifikate kann man bei Let’s Encrypt nicht mehr per OCSP prüfen. Wer von Problemen erfahren will, muss stattdessen Widerrufslisten konsultieren.",
+      "url": "https://www.heise.de/news/Let-s-Encrypt-hat-OCSP-Server-abgeschaltet-10514864.html"
     },
     {
       "title": "Untersuchung: Attacken auf Sonicwall-Firewalls wohl über Lücke aus 2024",
@@ -158,15 +164,9 @@
       "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
-      "title": "AlertExperience Manager: Adobe patcht 90 Tage nicht und bringt nun Notfallupdate",
-      "teaser": "Da Proof-of-Concept-Code im Umlauf ist, könnten Angriffe auf Adobe Experience Manager bevorstehen.",
-      "url": "https://www.heise.de/news/Experience-Manager-Adobe-patcht-90-Tage-nicht-und-bringt-nun-Notfallupdate-10511009.html",
-      "image_title": "Aufmacher Adobe Patchday"
-    },
-    {
-      "title": "Workshop | 19.08.2025Souveräne Cloud: Roadmap für eine sichere und resiliente IT",
-      "teaser": "Im Workshop lernen technische Entscheider, Cloud-Souveränität zu verstehen und eine zukunftssichere IT-Strategie zu entwickeln.",
-      "url": "https://heise-academy.de/Workshops/souveraene-cloud?wt_mc=intern.academy.ix.ws_souveraenecloud.security_buehne_2.teaser.teaser"
+      "title": "Workshop | 3. – 5.9.2025Angriffsziel lokales Active Directory: Effiziente Absicherung",
+      "teaser": "Dieser Workshop lehrt, Active Directory gegen Angriffe wie Ransomware durch Einblick in Angriffsmethoden zu schützen.",
+      "url": "https://heise-academy.de/Workshops/angriff-activedirectory?wt_mc=intern.academy.ix.ws_activedirectory.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Online-Konferenz am 10. und 11. SeptembersecIT digital 2025",
@@ -208,17 +208,16 @@
       "url": "https://www.heise.de/news/Deplatziertes-Vertrauen-Ueber-den-TeleMessage-Skandal-10376207.html"
     },
     {
-      "title": "Techniker Krankenkasse will Videoident zurück",
-      "url": "https://www.heise.de/news/Elektronische-Patientenakte-Techniker-Krankenkasse-will-Videoident-zurueck-10508227.html",
-      "image_title": "Eine Person steht auf einem Tablet. Dahinter steht eine Person mit Stethoskop."
-    },
-    {
       "title": "Staatstrojaner sind bei \"Alltagskriminalität\" tabu",
       "url": "https://www.heise.de/news/Verfassungsgericht-Staatstrojaner-sind-bei-Alltagskriminalitaet-tabu-10512707.html"
     },
     {
       "title": "Let’s Encrypt hat OCSP-Server abgeschaltet",
       "url": "https://www.heise.de/news/Let-s-Encrypt-hat-OCSP-Server-abgeschaltet-10514864.html"
+    },
+    {
+      "title": "Microsoft Exchange ist im hybriden Betrieb verwundbar",
+      "url": "https://www.heise.de/news/Jetzt-absichern-Microsoft-Exchange-ist-im-hybriden-Betrieb-verwundbar-10512743.html"
     }
   ]
 }
