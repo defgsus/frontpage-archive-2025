@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-13T08:14:39",
+  "timestamp": "2025-08-13T09:13:27",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,17 @@
   ],
   "articles": [
     {
+      "title": "c't-WIMage",
+      "teaser": "Unser Skript c’t-WIMage erzeugt mit wenigen Mausklicks Abbilder Ihrer Windows-Installationen. Die Images lassen sich auf quasi beliebiger Hardware wiederherstellen.",
+      "url": "https://www.heise.de/hintergrund/c-t-WIMage-3863074.html",
+      "image_title": "c't-WIMage"
+    },
+    {
+      "title": "Webseiten mit Playwright un Python scrapen",
+      "teaser": "Daten auf dynamischen Webseiten lassen sich mit Programmen zum Fernsteuern des Browsers wie dem Playwright-Modul für Python schnell und komfortabel erfassen.",
+      "url": "https://www.heise.de/ratgeber/Webseiten-mit-Playwright-un-Python-scrapen-10511227.html"
+    },
+    {
       "title": "iX-Workshop: Active Directory Hardening – Vom Audit zur sicheren Umgebung",
       "teaser": "Lernen in einer Übungsumgebung: Sicherheitsrisiken in der Windows-Active-Directory-Infrastruktur erkennen und beheben, um die IT vor Cyberangriffen zu schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-Hardening-Vom-Audit-zur-sicheren-Umgebung-10508279.html",
@@ -36,18 +47,6 @@
       "teaser": "Die in WinRAR 7.13 geschlossene Sicherheitslücke wurde unabhängig von zwei unterschiedlichen Gruppen angegriffen.",
       "url": "https://www.heise.de/news/WinRAR-Sicherheitsluecke-von-zwei-unterschiedlichen-Gruppen-attackiert-10519941.html",
       "image_title": "Achtung-Schild neben WinRAR-Logo auf Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "Bis zu 40 Prozent weniger Overhead: Go 1.25 mit neuem Garbage Collector",
-      "teaser": "Der neue, experimentelle Garbage Collector soll den Overhead deutlich reduzieren. Weitere Updates gibt es auch für Tools, Libraries, Runtime und Compiler.",
-      "url": "https://www.heise.de/news/Bis-zu-40-Prozent-weniger-Overhead-Go-1-25-mit-neuem-Garbage-Collector-10519891.html",
-      "image_title": "Weltraumschrott über der Erde"
-    },
-    {
-      "title": "CodequalitätGoogles KI-Assistent Jules: Neuer Gegenleser prüft den generierten Code",
-      "teaser": "Die Critic-Augmented Generation prüft alle Vorschläge des KI-Assistenten für die Softwareentwicklung, um subtile Fehler und Lücken im Code aufzuspüren.",
-      "url": "https://www.heise.de/news/Peer-Review-fuer-Google-Jules-KI-Assistent-schaut-KI-Assistenten-auf-die-Finger-10519724.html",
-      "image_title": "Roboter an der Schultafel"
     },
     {
       "title": "RatgeberWie man Kali Linux unter Apple Silicon virtualisiert",
@@ -61,6 +60,18 @@
       "title": "RatgeberPraktische Mac-Tools: 16 Werkzeuge für ein besseres macOS",
       "url": "https://www.heise.de/ratgeber/Praktische-Mac-Tools-16-Werkzeuge-fuer-ein-besseres-macOS-10509375.html",
       "image_title": ","
+    },
+    {
+      "title": "Bis zu 40 Prozent weniger Overhead: Go 1.25 mit neuem Garbage Collector",
+      "teaser": "Der neue, experimentelle Garbage Collector soll den Overhead deutlich reduzieren. Weitere Updates gibt es auch für Tools, Libraries, Runtime und Compiler.",
+      "url": "https://www.heise.de/news/Bis-zu-40-Prozent-weniger-Overhead-Go-1-25-mit-neuem-Garbage-Collector-10519891.html",
+      "image_title": "Weltraumschrott über der Erde"
+    },
+    {
+      "title": "Googles KI-Assistent Jules: Neuer Gegenleser prüft den generierten Code",
+      "teaser": "Die Critic-Augmented Generation prüft alle Vorschläge des KI-Assistenten für die Softwareentwicklung, um subtile Fehler und Lücken im Code aufzuspüren.",
+      "url": "https://www.heise.de/news/Peer-Review-fuer-Google-Jules-KI-Assistent-schaut-KI-Assistenten-auf-die-Finger-10519724.html",
+      "image_title": "Roboter an der Schultafel"
     },
     {
       "title": "Alert\"Citrix Bleed 2\": Aktuelle Angriffswarnungen",
@@ -127,12 +138,6 @@
       "image_title": "Elon Musk"
     },
     {
-      "title": "c't-WIMage",
-      "teaser": "Unser Skript c’t-WIMage erzeugt mit wenigen Mausklicks Abbilder Ihrer Windows-Installationen. Die Images lassen sich auf quasi beliebiger Hardware wiederherstellen.",
-      "url": "https://www.heise.de/hintergrund/c-t-WIMage-3863074.html",
-      "image_title": "c't-WIMage"
-    },
-    {
       "title": "Ohne Open Source keine digitale Souveränität, warnt die OSBA",
       "teaser": "Die neue Regierung sei in ihren ersten 100 Tagen die versprochene Förderung von Open Source nicht angegangen, kritisiert die Open Source Business Alliance.",
       "url": "https://www.heise.de/news/Ohne-Open-Source-keine-digitale-Souveraenitaet-warnt-die-OSBA-10518428.html",
@@ -143,12 +148,6 @@
       "teaser": "Mit Microsofts Login authentifizieren sich Unternehmensnutzer inzwischen an etlichen Stellen. Jedoch lässt sich das ziemlich einfach zum Phishing missbrauchen.",
       "url": "https://www.heise.de/news/Def-Con-34-Phishing-as-a-Service-mit-Microsoft-10518817.html",
       "image_title": "Fadenkreuz vor rotem Hintergrund"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails startet Test der 7er-Version",
-      "teaser": "Die Maintainer des anonymisierenden Linux Tails haben einen ersten Release Candidate der Version 7.0 zum Testen herausgegeben.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-startet-Test-der-7er-Version-10518623.html",
-      "image_title": "Tails 7.0rc1-Desktop auf Notebook"
     },
     {
       "title": "News Perseiden-Nächte: Sternschnuppen-Schauer erreicht Höhepunkt",
