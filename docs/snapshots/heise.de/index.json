@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-13T02:43:29",
+  "timestamp": "2025-08-13T03:44:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Perplexity bietet Google 34,5 Milliarden US-Dollar für Chrome-Browser",
+      "url": "https://www.heise.de/news/Perplexity-bietet-Google-34-5-Milliarden-US-Dollar-fuer-Chrome-Browser-10519628.html"
+    },
     {
       "title": "McDonald's Japan: Pokémon-Aktion führt zu weggeschmissenem Essen",
       "url": "https://www.heise.de/news/Pokemon-Sammelkarten-Schwarzhaendler-stuerzen-sich-auf-Happy-Meals-10519590.html"
@@ -60,10 +64,6 @@
     {
       "title": "Gericht: Gastwirt muss sich bei Bewertungen auch mal abservieren lassen",
       "url": "https://www.heise.de/news/Schlechte-Gastro-Bewertung-Kein-Fall-fuer-die-Persoenlichkeitsrechtspolizei-10519345.html"
-    },
-    {
-      "title": "Der Kampf eines US-Makers gegen Trumps Zölle",
-      "url": "https://www.heise.de/news/Ein-Maker-und-Hersteller-von-Bananen-Tastaturen-kaempft-gegen-Trumps-Zoelle-10514902.html"
     },
     {
       "title": "Def Con 34So einfach wird Microsofts Login-Seite zum Phishing-Service",
@@ -188,21 +188,27 @@
       "url": "https://www.heise.de/news/libarchive-Sicherheitsluecke-entpuppt-sich-als-kritisch-10516447.html"
     },
     {
+      "title": "Perplexity bietet Google 34,5 Milliarden US-Dollar für Chrome-Browser",
+      "teaser": "Ein US-Gericht könnte Google demnächst zum Verkauf von Chrome zwingen. Das KI-Start-up Perplexity legt aus heiterem Himmel bereits ein Milliarden-Angebot vor.",
+      "url": "https://www.heise.de/news/Perplexity-bietet-Google-34-5-Milliarden-US-Dollar-fuer-Chrome-Browser-10519628.html",
+      "image_title": "Chrome-Logo auf Bildschirm eines Laptops"
+    },
+    {
       "title": "McDonald's Japan: Pokémon-Aktion führt zu weggeschmissenem Essen",
       "teaser": "Mit Pokémon-Beigaben wollte McDonald's in Japan junge Kunden begeistern. Die Aktion ist nach hinten losgegangen.",
       "url": "https://www.heise.de/news/Pokemon-Sammelkarten-Schwarzhaendler-stuerzen-sich-auf-Happy-Meals-10519590.html",
       "image_title": "McDonald's-Werbesujet zeigt 9 verschiedene Pokémon-Plastikmodelle"
     },
     {
+      "title": "Firmen-Security in Zeiten von Trump, Putin & Co.",
+      "teaser": "Eine echte Sicherheit für Unternehmen und Behörden ist derzeit nur mit digitaler Souveränität möglich. Denn wer auf nicht-europäische Infrastrukturen setzt, riskiert staatliche Datenzugriffe.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7034195658&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Lieferdienste: Prosus darf sich Just Eat Takeaway unter Auflagen einverleiben",
       "teaser": "Prosus darf Just Eat übernehmen, muss sich aber aus einem Konkurrenten weitgehend zurückziehen. Das soll den Wettbewerb schützen.",
       "url": "https://www.heise.de/news/Lieferdienste-Prosus-darf-sich-Just-Eat-Takeaway-unter-Auflagen-einverleiben-10519526.html",
       "image_title": "Ein Fahrradkurier liefert in Berlin Lebensmittel für den Lieferdienst Gorillas aus."
-    },
-    {
-      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
-      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Stablecoin Terra: CEO Do Kwon trifft Vereinbarung mit US-Justiz",
@@ -232,12 +238,6 @@
       "url": "https://www.heise.de/tests/Was-mobile-Klimaanlagen-leisten-Drei-Kuehl-Geraete-im-Praxistest-9749900.html"
     },
     {
-      "title": "Per Update: Moto Tag erhält Ultrabreitband-Support",
-      "teaser": "Google kündigte im Mai an, dass Motorolas Moto Tag das UWB-Update (Ultrabreitband) für die Nahbereichssuche erhalten würde. Monate später wird es nun verteilt.",
-      "url": "https://www.heise.de/news/Per-Update-Moto-Tag-erhaelt-Ultrabreitband-Support-10519293.html",
-      "image_title": "Motorola Moto Tag"
-    },
-    {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
       "teaser": "Mobiles Internet ist außerhalb der EU ohne lokale SIM-Karte richtig teuer. Günstige eSIMs lassen sich sogar schon vor dem Urlaub buchen.",
       "url": "https://www.heise.de/ratgeber/Guenstiges-Internet-im-Urlaub-Mit-eSIM-weltweit-sorglos-surfen-10373903.html",
@@ -255,29 +255,29 @@
       "image_title": "Frühling, Sonne, Wald"
     },
     {
-      "title": "Fritzboxen & Co.: AVM gibt seinen Namen auf",
-      "url": "https://www.heise.de/news/AVM-gibt-seinen-Namen-auf-10509753.html",
-      "image_title": "Fritz-Logo vor blauem Hintergrund"
+      "title": "Perseiden-Nächte: Sternschnuppen-Schauer erreicht Höhepunkt",
+      "url": "https://www.heise.de/news/Perseiden-Naechte-Sternschnuppen-Schauer-erreicht-Hoehepunkt-10516084.html",
+      "image_title": "Der Komet Tsuchinshan-Atlas über Flagstaff in Arizona"
+    },
+    {
+      "title": "Australische 100-kW-Laserwaffe wehrt 20 Drohnen pro Minute ab",
+      "url": "https://www.heise.de/news/Australische-100-kW-Laserwaffe-wehrt-20-Drohnen-pro-Minute-ab-10516272.html"
     },
     {
       "title": "Tödlicher Titanic-Tauchgang: Vernichtender Untersuchungsbericht",
       "url": "https://www.heise.de/news/Toedlicher-Titanic-Tauchgang-Vernichtender-Untersuchungsbericht-10510777.html"
     },
     {
-      "title": "Perseiden-Nächte: Sternschnuppen-Schauer erreicht Höhepunkt",
-      "url": "https://www.heise.de/news/Perseiden-Naechte-Sternschnuppen-Schauer-erreicht-Hoehepunkt-10516084.html"
-    },
-    {
       "title": "Wie weit Elektroautos auf der Langstrecke kommen: 21 Modelle im Vergleich",
       "url": "https://www.heise.de/ratgeber/Wie-weit-Elektroautos-auf-der-Langstrecke-kommen-21-Modelle-im-Vergleich-10505199.html"
     },
     {
-      "title": "Über 50 Desktop-CPUs im Performance-, Effizienz- und Preis-Leistungs-Vergleich",
-      "url": "https://www.heise.de/tests/Ueber-50-Desktop-CPUs-im-Performance-Effizienz-und-Preis-Leistungs-Vergleich-10472577.html"
-    },
-    {
       "title": "Vier Mähroboter im Test: Kein Kabel, kein Stress – und sicher für Igel & Co?",
       "url": "https://www.heise.de/tests/Vier-Maehroboter-im-Test-Kein-Kabel-kein-Stress-und-sicher-fuer-Igel-Co-10482409.html"
+    },
+    {
+      "title": "Alten Wechselrichter tauschen: Das müssen Sie wissen",
+      "url": "https://www.heise.de/ratgeber/Alten-Wechselrichter-tauschen-Das-muessen-Sie-wissen-10513019.html"
     },
     {
       "title": "c't-WIMage",
@@ -303,6 +303,12 @@
       "teaser": "Länger lesen - dauerhaft sparen: Mit unserem Dauer-Spar-Abo sichern Sie sich langfristig bis zu 40 % Rabatt auf heise+. Lesen Sie alle Inhalte auf heise online und unsere digitalen heise-Magazine. Nur für kurze Zeit erhältlich!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=31479&wt_mc=intern.abo.plus.hp_2025_dauer-spar.ho_advt.ad1.ad1",
       "image_title": "heise+ Dauer-Spar-Aktion"
+    },
+    {
+      "title": "Per Update: Moto Tag erhält Ultrabreitband-Support",
+      "teaser": "Google kündigte im Mai an, dass Motorolas Moto Tag das UWB-Update (Ultrabreitband) für die Nahbereichssuche erhalten würde. Monate später wird es nun verteilt.",
+      "url": "https://www.heise.de/news/Per-Update-Moto-Tag-erhaelt-Ultrabreitband-Support-10519293.html",
+      "image_title": "Motorola Moto Tag"
     },
     {
       "title": "Gericht: Gastwirt muss sich bei Bewertungen auch mal abservieren lassen",
@@ -372,15 +378,15 @@
       "image_title": "Säule vor Nachthimmel"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "Anonymisierendes Linux: Tails startet Test der 7er-Version",
       "teaser": "Die Maintainer des anonymisierenden Linux Tails haben einen ersten Release Candidate der Version 7.0 zum Testen herausgegeben.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-startet-Test-der-7er-Version-10518623.html",
       "image_title": "Tails 7.0rc1-Desktop auf Notebook"
-    },
-    {
-      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
-      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Lernen Sie am 19.8.2025 um 11 Uhr, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
     },
     {
       "title": "iX-Workshop: Mastering Azure – Administration der Azure Cloud Services",
@@ -435,23 +441,23 @@
       "image_title": "Sushi Tabi – Versionen"
     },
     {
-      "title": "secIT Digital: Wenn Mitarbeiter Angreifer unachtsamerweise ins Firmennetz lassen",
-      "teaser": "Einmal nicht aufgepasst und einen Mailanhang geöffnet, schon infiziert Schadcode Firmen-PCs. Auf der secIT gibt es Gegenmaßnahmen. Dabei kann auch KI helfen.",
-      "url": "https://www.heise.de/news/secIT-Digital-Wenn-Mitarbeiter-Angreifer-unachtsamerweise-ins-Firmennetz-lassen-10516022.html"
+      "title": "Tresorschlösser von SecuRam – so einfach haben es Panzerknacker",
+      "url": "https://www.heise.de/news/Tresorschloesser-von-SecuRam-so-einfach-haben-es-Panzerknacker-10517836.html",
+      "image_title": "Safe, Datenschutz, Tresor"
+    },
+    {
+      "title": "BND-Dilemma: Geheimdienst kann keine KI-Übersetzer nutzen",
+      "url": "https://www.heise.de/news/Uebersetzungsproblem-Masse-an-abgehoertem-Material-ueberfordert-den-BND-10517381.html",
+      "image_title": "Logo des Bundesnachrichtendienstes"
+    },
+    {
+      "title": "So kann ein Angreifer die Whatsapp-Verschlüsselung herabstufen",
+      "url": "https://www.heise.de/hintergrund/So-kann-ein-Angreifer-die-Whatsapp-Verschluesselung-herabstufen-10516515.html",
+      "image_title": "Finger zeigt auf Whatsapp-Icon auf einem Smartphone-Bildschirm"
     },
     {
       "title": "Biometrie per WLAN: Signalstörungen erlauben Personenerkennung und Überwachung",
       "url": "https://www.heise.de/news/Biometrie-per-WLAN-Signalstoerungen-erlauben-Personenerkennung-und-Ueberwachung-10515620.html"
-    },
-    {
-      "title": "GPT-5 wird Teil von iOS 26, bestätigt Apple",
-      "url": "https://www.heise.de/news/GPT-5-wird-Teil-von-iOS-26-bestaetigt-Apple-10515817.html",
-      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
-    },
-    {
-      "title": "Bitcoin-Coup nach Jahren enthüllt: Heute 14,5 Milliarden US-Dollar wert",
-      "url": "https://www.heise.de/news/Neuer-Rekord-Diebstahl-Bitcoin-Beute-ist-heute-14-5-Milliarden-US-Dollar-wert-10515843.html",
-      "image_title": "Bitcoin-Münzen"
     },
     {
       "title": "TUM: Roboter mauert klimaoptimierte Wände",
@@ -459,38 +465,33 @@
       "image_title": "Roboter vor einer gemauerten Wand."
     },
     {
-      "title": "Chinesische Forscher lösen Tunnelknallproblem bei Hochgeschwindigkeitszügen",
-      "url": "https://www.heise.de/news/Hochgeschwindigkeitszuege-Poroeser-Puffer-reduziert-Tunnelknall-10513878.html",
-      "image_title": "Magnetschwebebahn, Hochgeschwindigkeitszug und Flugzeug"
+      "title": "Abhören von Mobiltelefonen mit Radartechnik und KI möglich",
+      "url": "https://www.heise.de/news/Verraeterische-Vibrationen-Handy-Gespraeche-abhoeren-mit-Radar-und-KI-10518089.html",
+      "image_title": "Woman,Talk,On,Mobile,Phone,,A,Closeup,Shoot,Of,A"
     },
     {
-      "title": "Alpha Centauri: Exoplanet in habitabler Zone womöglich wiedergefunden",
-      "url": "https://www.heise.de/news/Astronomie-Womoeglich-zweite-Aufnahme-des-Exoplaneten-bei-Alpha-Centauri-A-10516643.html",
-      "image_title": "Aufnahme von Alpha Centauri, der beiden Sterne und die des mutmaßlichen Exoplaneten"
+      "title": "Lasertag überall und jederzeit: Mixed Reality eröffnet neue Möglichkeiten",
+      "url": "https://www.heise.de/news/Lasertag-ueberall-und-jederzeit-Mixed-Reality-eroeffnet-neue-Moeglichkeiten-10517589.html",
+      "image_title": "Ego-Perspektive: Spieler zielt mit Laserpistole auf anderen Spieler hinter einem Baum."
     },
     {
-      "title": "Google Fotos: Der neue Editor ist da – zuerst für Android",
-      "url": "https://www.heise.de/news/Google-Fotos-Der-neue-Editor-ist-da-zuerst-fuer-Android-10516405.html",
-      "image_title": "Google Photos Logo auf dem Smartphone"
+      "title": "GPT-5 wird Teil von iOS 26, bestätigt Apple",
+      "url": "https://www.heise.de/news/GPT-5-wird-Teil-von-iOS-26-bestaetigt-Apple-10515817.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
     },
     {
-      "title": "Microsoft Lens: Aus für mobilen PDF-Scanner",
-      "url": "https://www.heise.de/news/Microsoft-Lens-Aus-fuer-mobilen-PDF-Scanner-10516178.html",
-      "image_title": "Microsoft Lens im Google Play Store"
+      "title": "AirTags: Details zu zweiter Generation – und Verbillligung der ersten",
+      "url": "https://www.heise.de/news/Warten-auf-neue-AirTags-Was-die-neuen-koennen-sollen-aktuelle-verbilligt-10515823.html",
+      "image_title": "AirTags: Unverändert seit 2021 auf dem Markt"
     },
     {
-      "title": "Erneut Bericht über iPhone-17-Preiserhöhung",
-      "url": "https://www.heise.de/news/Erneut-Bericht-ueber-iPhone-17-Preiserhoehung-10515793.html",
-      "image_title": "iPhone mit einer Rolle Dollar-Scheine"
+      "title": "\"Civilization 7\": Take-Two hofft nach schwachem Launch auf Aufholjagd",
+      "url": "https://www.heise.de/news/Civilization-7-Take-Two-hofft-nach-schwachem-Launch-auf-Aufholjagd-10517896.html",
+      "image_title": "Screenshot aus Civ 7"
     },
     {
-      "title": "Google TV verdient angeblich nicht genug Geld und verliert Zuschauer an Amazon",
-      "url": "https://www.heise.de/news/Google-TV-verdient-angeblich-nicht-genug-Geld-und-verliert-Zuschauer-an-Amazon-10515958.html",
-      "image_title": "Fernbedienung, auf der gerade ein Knopf gedrückt wird"
-    },
-    {
-      "title": "\"Battlefield 6\"-Beta übertrifft Steam-Rekord von \"Call of Duty\"",
-      "url": "https://www.heise.de/news/Steam-Beta-von-Battlefield-6-schlaegt-erfolgreichstes-Call-of-Duty-10516140.html",
+      "title": "Secure Boot in \"Battlefield 6\": EA betreibt Erwartungsmanagement",
+      "url": "https://www.heise.de/news/Anti-Cheat-in-Battlefield-6-Secure-Boot-ist-kein-Wundermittel-10517930.html",
       "image_title": "Screenshot aus Battlefield 6"
     },
     {
@@ -499,32 +500,34 @@
       "image_title": "AirPods Pro 2 mit Lanyard."
     },
     {
-      "title": "Fiat Grande Panda Elektro im Test: Schlichte Basis im Designer-Kleidchen",
-      "url": "https://www.heise.de/tests/Fiat-Grande-Panda-Elektro-im-Test-Schlichte-Basis-im-Designer-Kleidchen-10513260.html"
-    },
-    {
-      "title": "KI-Chips für China: AMD und Nvidia beteiligen US-Regierung an den Einnahmen",
-      "url": "https://www.heise.de/news/KI-Chips-fuer-China-AMD-und-Nvidia-beteiligen-US-Regierung-an-den-Einnahmen-10516004.html",
-      "image_title": "Nvidia-Logo auf Grafikkarte"
-    },
-    {
       "title": "Solar-Förderung: Ministerin Reiche sorgt für Aufruhr",
       "url": "https://www.heise.de/news/Aufruhr-um-Foerderung-fuer-Solaranlagen-10517595.html",
       "image_title": "Eine Frau und ein Mann montieren ein Solarpanel auf einem Dach"
     },
     {
-      "title": "Missing Link: Zehn Jahre Landesverrat – Blogger im Zentrum einer Staatsaffäre",
-      "url": "https://www.heise.de/news/Missing-Link-Zehn-Jahre-Landesverrat-Blogger-im-Zentrum-einer-Staatsaffaere-10514570.html"
+      "title": "\"Model-T-Moment\": Ford kündigt für 2027 E-Autos auf eigener Basis an",
+      "url": "https://www.heise.de/news/Model-T-Moment-Ford-kuendigt-fuer-2027-E-Autos-auf-eigener-Basis-an-10518155.html",
+      "image_title": "Doug Field Fordwerk Louisville"
     },
     {
-      "title": "Palantir wehrt sich: Datenabfluss \"technisch ausgeschlossen\"",
-      "url": "https://www.heise.de/news/Palantir-wehrt-sich-Datenabfluss-technisch-ausgeschlossen-10515761.html",
-      "image_title": "Palantir Logo"
+      "title": "Trump lobt Intel-Chef, Aktie steigt",
+      "url": "https://www.heise.de/news/Trump-lobt-Intel-Chef-Aktie-steigt-10517722.html",
+      "image_title": "Porträt eines bebrillten, asiatisch aussehenden Mannes in einem Amzug"
     },
     {
-      "title": "1&1 muss Pornhub und YouPorn sperren, sagt auch das Oberverwaltungsgericht",
-      "url": "https://www.heise.de/news/Oberverwaltungsgericht-1-1-muss-Pornhub-und-YouPorn-sperren-10507637.html",
-      "image_title": "Blick auf Pornhub"
+      "title": "BSI-Präsidentin: Digitale Souveränität für Deutschland vorerst unerreichbar",
+      "url": "https://www.heise.de/news/BSI-Praesidentin-Digitale-Souveraenitaet-fuer-Deutschland-vorerst-unerreichbar-10517756.html",
+      "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
+    },
+    {
+      "title": "Altersverifizierung für Wikipedia? Beschwerde in Großbritannien abgewiesen",
+      "url": "https://www.heise.de/news/Altersverifizierung-fuer-Wikipedia-Beschwerde-in-Grossbritannien-abgewiesen-10517806.html",
+      "image_title": "Wikipedia-Schriftzug auf einem Smartphone"
+    },
+    {
+      "title": "Nach wetterbedingten Problemen: Amazon bringt weitere Kuiper-Satelliten ins All",
+      "url": "https://www.heise.de/news/Nach-wetterbedingten-Problemen-Amazon-bringt-weitere-Kuiper-Satelliten-ins-All-10517678.html",
+      "image_title": "Künstlerische Darstellung eines Teils der Erdkugel mit vielen Satelliten; im Hintergrund ein Sonnenuntergang"
     },
     {
       "title": "Tausende strömen zum früheren Wohnort des \"Drachenlords\"",
@@ -532,12 +535,13 @@
       "image_title": "\"Drachenlord\" in einem Musikvideo"
     },
     {
-      "title": "Die Stimme von \"Houston, we’ve had a problem\" ist verstummt",
-      "url": "https://www.heise.de/news/Die-Stimme-von-Houston-we-ve-had-a-problem-ist-verstummt-10515511.html"
+      "title": "Dienstag: Rumble will deutsche Cloud-Firma, Rückschlüsse trotz Verschlüsselung",
+      "url": "https://www.heise.de/news/Dienstag-Rumble-will-deutsche-Cloud-Firma-Rueckschluesse-trotz-Verschluesselung-10517718.html",
+      "image_title": "Ende-zu-Ende-Verschlüsselung, dazu Text: DIENSTAG Rumble, Ende-zu-Ende-Verschlüsselung, Solar-Förderung, Project Kuiper & Deutsche Bahn"
     },
     {
-      "title": "Canon repariert R50, Superzoom für mehr Spiegellose – Fotonews der Woche 32/2025",
-      "url": "https://www.heise.de/news/Canon-repariert-R50-Superzoom-fuer-mehr-Spiegellose-Fotonews-der-Woche-32-2025-10515626.html"
+      "title": "Exoskelette als Alltagshilfe",
+      "url": "https://www.heise.de/news/Exoskelette-als-Alltagshilfe-10516677.html"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -584,42 +588,41 @@
       "url": "https://www.heise.de/multimediadatei/DSL-forever-offene-OpenAI-Modelle-FRITZ-heiseshow-10513656.html"
     },
     {
-      "title": "Intel CEO Lip-Bu Tan responds to calls for his resignation",
-      "url": "https://www.heise.de/en/news/Intel-CEO-Lip-Bu-Tan-responds-to-calls-for-his-resignation-10515178.html",
-      "image_title": "Portrait of Intel's boss Lip-Bu Tan"
-    },
-    {
       "title": "RISC-V single-board computer for less than 40 euros",
       "url": "https://www.heise.de/en/news/RISC-V-single-board-computer-for-less-than-40-euros-10515044.html",
       "image_title": "StarFive VisionFive 2 single-board computer with the RISC-V SoC JH7110"
     },
     {
-      "title": "AI industry fears largest ever class action copyright lawsuit in the US",
-      "url": "https://www.heise.de/en/news/AI-industry-fears-largest-ever-class-action-copyright-lawsuit-in-the-US-10515798.html"
+      "title": "Intel CEO Lip-Bu Tan responds to calls for his resignation",
+      "url": "https://www.heise.de/en/news/Intel-CEO-Lip-Bu-Tan-responds-to-calls-for-his-resignation-10515178.html",
+      "image_title": "Portrait of Intel's boss Lip-Bu Tan"
     },
     {
-      "title": "GPT-5 will be part of iOS 26, Apple confirms",
-      "url": "https://www.heise.de/en/news/GPT-5-will-be-part-of-iOS-26-Apple-confirms-10516750.html"
+      "title": "SAP Patchday: Critical vulnerabilities allow malicious code to be injected",
+      "url": "https://www.heise.de/en/news/SAP-Patchday-Critical-vulnerabilities-allow-malicious-code-to-be-injected-10517891.html"
     },
     {
-      "title": "Softbank: 1,000 AI agents replace 1 job",
-      "url": "https://www.heise.de/en/news/Softbank-1-000-AI-agents-replace-1-job-10490309.html"
+      "title": "Trump praises Intel boss, share price rises",
+      "url": "https://www.heise.de/en/news/Trump-praises-Intel-boss-share-price-rises-10517727.html"
     },
     {
-      "title": "Wero: Der europäische Bezahldienst unter der Lupe",
-      "teaser": "Das im Juli 2024 für Zahlungen zwischen Privatleuten gestartete Smartphone-Wallet Wero soll in Kürze für den Zahlungsverkehr im Handel verfügbar sein.",
-      "url": "https://www.heise.de/hintergrund/Wero-Der-europaeische-Bezahldienst-unter-der-Lupe-10418146.html"
-    },
-    {
-      "title": "c't-WIMage",
-      "teaser": "Unser Skript c’t-WIMage erzeugt mit wenigen Mausklicks Abbilder Ihrer Windows-Installationen. Die Images lassen sich auf quasi beliebiger Hardware wiederherstellen.",
-      "url": "https://www.heise.de/hintergrund/c-t-WIMage-3863074.html",
-      "image_title": "c't-WIMage"
+      "title": "Digital sovereignty: Germany in second place worldwide",
+      "url": "https://www.heise.de/en/news/Digital-sovereignty-Germany-in-second-place-worldwide-10512879.html"
     },
     {
       "title": "EU-Ranking: Deutschland schneidet bei digitaler Verwaltung weiter desaströs ab",
       "teaser": "Trotz Investitionen in Milliardenhöhe landet die Bundesrepublik in Sachen E-Government nur auf Rang 21 von 27. Doch in anderen Sektoren sieht es besser aus.",
       "url": "https://www.heise.de/news/Digitale-Verwaltung-Deutschland-im-EU-Vergleich-weiterhin-abgehaengt-10519214.html"
+    },
+    {
+      "title": "LinuxDebian 13 kommt als Trixie",
+      "teaser": "Am Wochenende soll das nächste Debian-Release erscheinen. Version Nummer 13 heißt \"Trixie\" und läuft nicht mehr auf 32-Bit-Architekturen.",
+      "url": "https://www.heise.de/news/Linux-Debian-13-kommt-als-Trixie-10515203.html"
+    },
+    {
+      "title": "Insta360 Link 2: 4K-Webcam mit Gimbal im Test",
+      "teaser": "Die Webcam Link 2 vom Actioncam-Hersteller Insta360 überträgt Bilder in 4K-Auflösung und verfolgt Gesichter mit einem Gimbal – und das ohne externe Software.",
+      "url": "https://www.heise.de/tests/Insta360-Link-2-mit-4K-Webcam-mit-Gimbal-im-Test-10508886.html"
     },
     {
       "title": "Mit und ohne OCRiPhone als Scanner: 9 Apps im Test",
@@ -640,11 +643,6 @@
       "image_title": "Apple-Boss Tim Cook"
     },
     {
-      "title": "Exoskelette als Alltagshilfe",
-      "teaser": "Exoskelette fördern die Beweglichkeit bei Handicap, Erkrankung oder Unfall. Maßgeschneiderte Modelle aus dem 3D-Drucker helfen dabei, den Alltag zu meistern.",
-      "url": "https://www.heise.de/news/Exoskelette-als-Alltagshilfe-10516677.html"
-    },
-    {
       "title": "Den richtigen Klebstoff verwenden – eine Übersicht",
       "teaser": "Die Wahl des richtigen Klebstoffes kann viel Frust ersparen. Unsere Übersicht gibt Auskunft über verschiedene Typen und Funktionsweisen.",
       "url": "https://www.heise.de/ratgeber/Den-richtigen-Klebstoff-verwenden-eine-Uebersicht-10495194.html",
@@ -656,10 +654,21 @@
       "url": "https://www.heise.de/news/Ein-Maker-und-Hersteller-von-Bananen-Tastaturen-kaempft-gegen-Trumps-Zoelle-10514902.html"
     },
     {
+      "title": "Linux-tauglich: RISC-V-Einplatinencomputer für unter 40 Euro",
+      "teaser": "Eine abgespeckte Version des StarFive Vision Five 2 mit RISC-V-Vierkerner ist ab 20 US-Dollar netto zu haben. Bei der Software hakelt es weiter.",
+      "url": "https://www.heise.de/news/RISC-V-Einplatinencomputer-fuer-unter-40-Euro-10514884.html",
+      "image_title": "Einplatinencomputer StarFive VisionFive 2 mit dem RISC-V-SoC JH7110"
+    },
+    {
       "title": "Wildblumen märchenhaft fotografieren – so gehts",
       "teaser": "So meistern Sie fünf häufige Hürden auf dem Weg zum floralen Traummotiv.",
       "url": "https://www.heise.de/ratgeber/Wildblumen-maerchenhaft-fotografieren-so-gehts-10507212.html",
       "image_title": "Eine Wiese wie im Märchen zu fotografieren, war komplizierter als gedacht. Ein Overlay aus separat aufgenommenen Lichtkreisen unterstreicht die Stimmung., Alle Bilder: Judy Hohmann"
+    },
+    {
+      "title": "Canon repariert R50, Superzoom für mehr Spiegellose – Fotonews der Woche 32/2025",
+      "teaser": "Das Einstellrad von manchen R50 kann klemmen oder abfallen, Abhilfe ist einfach. Tamron bietet sein 18-300mm nun auch für Canon und Nikon an.",
+      "url": "https://www.heise.de/news/Canon-repariert-R50-Superzoom-fuer-mehr-Spiegellose-Fotonews-der-Woche-32-2025-10515626.html"
     },
     {
       "title": "Licht, Leben und Linien: Die Bilder der Woche 32",
@@ -672,12 +681,6 @@
       "teaser": "In Tirana gibt es für Architekturfotografen eine Fülle von Sehenswürdigkeiten, Gebäuden und Plätzen aus ganz unterschiedlichen Epochen zu entdecken.",
       "url": "https://www.heise.de/ratgeber/Mit-der-Kamera-durch-Tirana-Architekturfotografie-in-Albaniens-Hauptstadt-10494211.html",
       "image_title": "Tirana ist von Hügeln umgeben, die einen grünen Gürtel um die Stadt bilden. Im Vordergrund sind mehrstöckige Wohnhäuser zu sehen, die in vielen Gegenden das Stadtbild prägen., Alle Bilder: Alketa Misja"
-    },
-    {
-      "title": "Megapixel – mega Bilder? Click Boom Flash # 43 \"Megapixel\"",
-      "teaser": "\"Mehr als sechs Megapixel braucht man nicht\", war laut Redakteur Peter Nonhoff-Arps die gängige Meinung im Rückblick auf frühe Digitalkameras und deren Abzüge.",
-      "url": "https://www.heise.de/news/Megapixel-mega-Bilder-Click-Boom-Flash-43-Megapixel-10504626.html",
-      "image_title": "Ein Mann fotografiert ein Gericht"
     },
     {
       "title": "Produkt- und Prozess-Testing: Was gutes Testmanagement ausmacht",
@@ -695,16 +698,15 @@
       "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
     },
     {
-      "title": "\"Model-T-Moment\"Ford konkretisiert E-Auto-Basis",
-      "teaser": "Ford will das E-Auto und seine Produktion neu erfinden, um endlich in die schwarzen Zahlen zu kommen. Ab 2027 sollen die Autos auf einer neuen Basis entstehen.",
-      "url": "https://www.heise.de/news/Model-T-Moment-Ford-kuendigt-fuer-2027-E-Autos-auf-eigener-Basis-an-10518155.html",
-      "image_title": "Doug Field Fordwerk Louisville"
-    },
-    {
       "title": "Auf welche Fallstricke Sie achten müssenGebrauchte Elektroautos: Schwachpunkt Batterie?",
       "teaser": "Immer mehr elektrische Gebrauchte kommen auf den Markt. Welche möglichen Fehler sollte der Interessent beachten, die für Elektroautos typisch sind?",
       "url": "https://www.heise.de/hintergrund/Gebrauchte-Elektroautos-Auf-welche-Fallstricke-Sie-achten-muessen-10497410.html",
       "image_title": "VW e-Up"
+    },
+    {
+      "title": "Schlichte Basis im Designer-KleidchenElektroauto Fiat Grande Panda Elektro im Test",
+      "teaser": "Der Fiat Grande Panda Elektro ist ein Auto, das mit Design den Unterschied sucht, den seine Stellantis-Plattform nicht hergibt.",
+      "url": "https://www.heise.de/tests/Fiat-Grande-Panda-Elektro-im-Test-Schlichte-Basis-im-Designer-Kleidchen-10513260.html"
     },
     {
       "title": "Tesla stellt hauseigenes KI-Projekt Dojo ein",
@@ -754,22 +756,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Indien: Strategische Milliarden-Waffendeals mit den USA auf der Kippe",
-      "teaser": "Geopolitik: Nach Trumps Strafzöllen sucht Indien verstärkt Nähe zu Russland und China – Analyse der strategischen Folgen. Eine Einordnung.",
-      "url": "https://www.heise.de/tp/features/Indien-Strategische-Milliarden-Waffendeals-mit-den-USA-auf-der-Kippe-10517840.html",
-      "image_title": "Donald Trump und Narendra Modi bei einem Treffen 2020"
+      "title": "Künstliche Intelligenz verändert Arbeitswelt: Droht die permanente Überforderung?",
+      "teaser": "Google-Manager fordern von Programmierern mehr KI-Einsatz. Ein Essayist sieht den Beginn einer Entwicklung, die Beschäftigte unter Dauerstress setzen könnte.",
+      "url": "https://www.heise.de/tp/features/Kuenstliche-Intelligenz-veraendert-Arbeitswelt-Droht-die-permanente-Ueberforderung-10518289.html",
+      "image_title": "zwei roboter blicken in unterschiedliche Richtungen"
     },
     {
-      "title": "Herculaneums Geheimnis: Steht uns eine zweite Renaissance bevor?",
-      "teaser": "Herculaneums Papyri bergen antike Weisheit. Verkohlte Schriftrollen werden dank Technik wieder lesbar. Wie das funktioniert und was bisher entschlüsselt wurde.",
-      "url": "https://www.heise.de/tp/features/Herculaneums-Geheimnis-Steht-uns-eine-zweite-Renaissance-bevor-10515803.html",
-      "image_title": "Villa dei Papiri in Herculaneum"
+      "title": "iPhone 17 Preisschock: Das müssen Apple-Fans 2025 zahlen",
+      "teaser": "Apple-Fans müssen 2025 tiefer in die Tasche greifen. Das iPhone 17 könnte bis zu 100 Dollar teurer werden. Doch es gibt einen Hoffnungsschimmer.",
+      "url": "https://www.heise.de/tp/features/iPhone-17-Preisschock-Das-muessen-Apple-Fans-2025-zahlen-10518749.html",
+      "image_title": "Display eines iPhones von im Hintergrund, das Modell ist nicht erkennbar"
     },
     {
-      "title": "Batterie-Riese CATL schließt wichtige Lithium-Mine",
-      "teaser": "Der weltgrößte Hersteller von Elektroauto-Batterien CATL hat eine bedeutende Lithium-Mine in China vorübergehend stillgelegt. Die Gründe und möglichen Folgen für den Markt.",
-      "url": "https://www.heise.de/tp/features/Batterie-Riese-CATL-schliesst-wichtige-Lithium-Mine-10515915.html",
-      "image_title": "CATL Qilin Battery wird auf der 17. Pekinger Automobilausstellung (Auto China 2024) gezeigt. CATL ist ein chinesischer Batteriehersteller und Technologieunternehmen."
+      "title": "Herrenlose Damenfahrräder sind das kleinste Problem in den Medien",
+      "teaser": "Frauke Brosius-Gersdorf und die Pressefreiheit, ein verschwiegener SWR-Hintergrund – und die Streitfrage, welche Sprache \"gendergerecht\" ist. Kommentar.",
+      "url": "https://www.heise.de/tp/features/Herrenlose-Damenfahrraeder-sind-das-kleinste-Problem-in-den-Medien-10518556.html",
+      "image_title": "KI generierte Grafik zeigt ein Fahrrad, einen Bildschirm, eine Zeitung mit dem Titel \"News\" und ein Mikrophon. Zu sehen ist außerdem ein großes Fragezeiohen."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
