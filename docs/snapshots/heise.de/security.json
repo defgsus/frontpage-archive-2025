@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-14T11:09:44",
+  "timestamp": "2025-08-14T12:21:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,19 +26,19 @@
   ],
   "articles": [
     {
+      "title": "Ex-Admin des Darknet-Marktplatzes warnt: BreachForums ist eine Polizei-Falle",
+      "teaser": "Der anonyme Administrator bestätigt in mehreren Nachrichten, dass das Forum seit der letzten Razzia von Ermittlern kontrolliert werde. Es ging prompt vom Netz.",
+      "url": "https://www.heise.de/news/Ex-Admin-des-Darknet-Marktplatzes-warnt-BreachForums-ist-eine-Polizei-Falle-10522549.html"
+    },
+    {
       "title": "Darknet-AngebotZehntausende Ausweis-Scans in italienischen Hotels geklaut",
       "teaser": "Vor allem hochpreisige Hotels standen im Fokus eines Datenklaus. Betroffen sind auch Deutsche, deren Ausweise kopiert wurden.",
       "url": "https://www.heise.de/news/Darknet-Angebot-Zehntausende-Ausweis-Scans-in-italienischen-Hotels-geklaut-10521928.html"
     },
     {
-      "title": "AlertPatchday MicrosoftAngreifer können sich zum Domänen-Admin machen",
-      "teaser": "Am Patchday im August sind wichtige Sicherheitsupdates für unter anderem Exchange Server, Office und Windows erschienen.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-koennen-sich-zum-Domaenen-Admin-machen-10519706.html"
-    },
-    {
-      "title": "AlertNvidia: Updates gegen hochriskante Lücken in KI-Software",
-      "url": "https://www.heise.de/news/Nvidia-stopft-Sicherheitsluecken-in-KI-Software-10524310.html",
-      "image_title": "Nvidia-Logo auf Grafikkarte"
+      "title": "AlertFoxit PDF Reader leakt nach möglichen Attacken Informationen",
+      "url": "https://www.heise.de/news/Foxit-PDF-Reader-Praeparierte-PDFs-koennen-Schadcode-auf-PCs-schleusen-10524778.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "So kann ein Angreifer die Whatsapp-Verschlüsselung herabstufen",
@@ -71,6 +71,24 @@
       "url": "https://shop.heise.de/microsoft-entra-dangerous-defaults?wt_mc=intern.academy.security.web_entradd.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "Cyber Resilience Act: Initiative der Eclipse Foundation hilft bei Compliance",
+      "teaser": "Das OCCTET-Projekt soll kleinen und mittleren Unternehmen dabei helfen, die Compliance ihrer Open-Source-Software mit dem Cyber Resilience Act herzustellen.",
+      "url": "https://www.heise.de/news/Cyber-Resilience-Act-Initiative-der-Eclipse-Foundation-hilft-bei-Compliance-10525852.html",
+      "image_title": "Symbolbild Europäische Union und IT"
+    },
+    {
+      "title": "AlertFoxit PDF Reader leakt nach möglichen Attacken Informationen",
+      "teaser": "Sicherheitsupdates für Foxit PDF Reader und Editor schließen mehrere Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Foxit-PDF-Reader-Praeparierte-PDFs-koennen-Schadcode-auf-PCs-schleusen-10524778.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "Microsoft: Windows-11-Updates für August über WSUS schlagen fehl",
+      "teaser": "Microsoft räumt Probleme mit den Windows-11-Updates im August ein, die über Windows Server Update Services (WSUS) verteilt werden. Eine Lösung ist in Arbeit.",
+      "url": "https://www.heise.de/news/Microsoft-Windows-11-Updates-fuer-August-ueber-WSUS-schlagen-fehl-10525929.html",
+      "image_title": "Windows Updates sind fehlgeschlagen"
+    },
+    {
       "title": "NGINX erhält native ACME-Integration",
       "teaser": "NGINX unterstützt jetzt nativ das ACME-Protokoll zur automatischen Verwaltung von SSL/TLS-Zertifikaten. Das Modul ist Teil der Open-Source- und Plus-Versionen.",
       "url": "https://www.heise.de/news/NGINX-erhaelt-native-ACME-Integration-10525828.html",
@@ -87,11 +105,6 @@
       "teaser": "Die GitLab-Entwickler haben insgesamt zwölf Sicherheitslücken geschlossen. Angreifer können Systeme kompromittieren.",
       "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-GitLab-Servern-verankern-10523017.html",
       "image_title": "Ein symbolischer Updateknopf erinnert ans Patchen."
-    },
-    {
-      "title": "Ex-Admin des Darknet-Marktplatzes warnt: BreachForums ist eine Polizei-Falle",
-      "teaser": "Der anonyme Administrator bestätigt in mehreren Nachrichten, dass das Forum seit der letzten Razzia von Ermittlern kontrolliert werde. Es ging prompt vom Netz.",
-      "url": "https://www.heise.de/news/Ex-Admin-des-Darknet-Marktplatzes-warnt-BreachForums-ist-eine-Polizei-Falle-10522549.html"
     },
     {
       "title": "AlertPatchday Adobe: Schadcode-Lücken bedrohen InDesign, Photoshop & Co.",
@@ -150,17 +163,6 @@
       "teaser": "Der Podcast nimmt einen aktuellen, geschickten Angriff gegen \"Proxy-Contracts\" zum Anlass, sich die Vor- und Nachteile von Code auf der Blockchain anzusehen.",
       "url": "https://www.heise.de/news/Passwort-Folge-38-Schlaue-Hacks-von-schlauen-Vertraegen-10511855.html",
       "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "c't-Webinar: Gamified Hacking – Lernen durch Spielen",
-      "teaser": "Tauchen Sie ein in die Welt des Hackens: In einer digitalen Gruft sammeln Sie versteckte Flaggen und lernen dabei systematisch Angriffsmethoden kennen.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Gamified-Hacking-Lernen-durch-Spielen-10511061.html"
-    },
-    {
-      "title": "Def Con 33: So einfach wird Microsofts Login-Seite zum Phishing-Service",
-      "teaser": "Mit Microsofts Login authentifizieren sich Unternehmensnutzer inzwischen an etlichen Stellen. Jedoch lässt sich das ziemlich einfach zum Phishing missbrauchen.",
-      "url": "https://www.heise.de/news/Def-Con-34-Phishing-as-a-Service-mit-Microsoft-10518817.html",
-      "image_title": "Fadenkreuz vor rotem Hintergrund"
     },
     {
       "title": "Workshop | 3. – 5.9.2025Angriffsziel lokales Active Directory: Effiziente Absicherung",
