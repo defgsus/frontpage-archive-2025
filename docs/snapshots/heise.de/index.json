@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-15T14:10:16",
+  "timestamp": "2025-08-15T15:10:28",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "VirtualBox 7.2: Erstmals für Windows on ARM",
+      "url": "https://www.heise.de/news/VirtualBox-7-2-Erstmals-fuer-Windows-on-ARM-10538222.html"
+    },
+    {
+      "title": "Neue PC-Spiele im September 2025: \"Silent Hill f\" dabei",
+      "url": "https://www.heise.de/news/Neue-PC-Spiele-im-September-2025-Borderlands-4-und-Silent-Hill-f-10538115.html"
+    },
+    {
+      "title": "Schwachstellenforschung: Zero Day Initiative feiert 20. Geburtstag",
+      "url": "https://www.heise.de/news/Schwachstellenforschung-Zero-Day-Initiative-feiert-20-Geburtstag-10538210.html"
+    },
     {
       "title": "Anthbot Genie 3000 im Test: Mähroboter mit RTK und vier Kameras für große Gärten",
       "url": "https://www.heise.de/bestenlisten/testbericht/anthbot-genie-3000-im-test-maehroboter-mit-rtk-und-vier-kameras-fuer-grosse-gaerten/t6b5qk8"
@@ -52,18 +64,6 @@
     {
       "title": "Künstliche Intelligenz: Wie aus Sprachmodellen Agenten werden",
       "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Wie-aus-Sprachmodellen-Agenten-werden-10473469.html"
-    },
-    {
-      "title": "Kamera reinigen: iPhone erkennt künftig Tatschfinger",
-      "url": "https://www.heise.de/news/Kamera-reinigen-iPhone-erkennt-kuenftig-Tatschfinger-10521908.html"
-    },
-    {
-      "title": "iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
-      "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-10508412.html"
-    },
-    {
-      "title": "Ubuntu 25.10 läuft nicht auf vorhandenen RISC-V-Rechnern",
-      "url": "https://www.heise.de/news/RISC-V-und-Linux-Ubuntu-25-10-erzwingt-nagelneue-Prozessoren-10537964.html"
     },
     {
       "title": "\"End-to-End-Betrug\" mit FestplattenSeagate findet Fälscherwerkstatt in Asien",
@@ -186,6 +186,29 @@
       "image_title": "Die Rückseite der Apple Watch"
     },
     {
+      "title": "VirtualBox 7.2: Erstmals für Windows on ARM",
+      "teaser": "VirtualBox erhält erneut eine überarbeitete GUI und funktioniert erstmals auf Windows on ARM. Jedoch bleiben einige Bugs aus der vorigen Version bestehen.",
+      "url": "https://www.heise.de/news/VirtualBox-7-2-Erstmals-fuer-Windows-on-ARM-10538222.html",
+      "image_title": "GUI von VirtualBox 7.2"
+    },
+    {
+      "title": "Neue PC-Spiele im September 2025: \"Silent Hill f\" dabei",
+      "teaser": "Im September erscheint unter anderem das Horror-Survivalspiel \"Silent Hill f\". Außerdem geht der Loot-Shooter \"Borderlands 4\" an den Start.",
+      "url": "https://www.heise.de/news/Neue-PC-Spiele-im-September-2025-Borderlands-4-und-Silent-Hill-f-10538115.html",
+      "image_title": "Spielevorschau September 2025 Borderlands 4"
+    },
+    {
+      "title": "Die neue Welt der Virtualisierung",
+      "teaser": "Bei der Frage, auf welche Virtualisierungssoftware für gemanagte Services Unternehmen setzen sollten, sind verschiedene Ansätze denkbar. Wir geben einen Überblick.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7055877038&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Schwachstellenforschung: Zero Day Initiative feiert 20. Geburtstag",
+      "teaser": "Zehntausende Sicherheitsexperten verkaufen ihre Exploits an die Zero Day Initiative. Diese feiert nun Geburtstag.",
+      "url": "https://www.heise.de/news/Schwachstellenforschung-Zero-Day-Initiative-feiert-20-Geburtstag-10538210.html",
+      "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
+    },
+    {
       "title": "Anthbot Genie 3000 im Test: Mähroboter mit RTK und vier Kameras für große Gärten",
       "teaser": "Der Genie 3000 von Anthbot ist ein RTK-Mähroboter, der für einen vergleichsweise niedrigen Preis einiges zu bieten hat. Doch überzeugt er auch in der Praxis?",
       "url": "https://www.heise.de/bestenlisten/testbericht/anthbot-genie-3000-im-test-maehroboter-mit-rtk-und-vier-kameras-fuer-grosse-gaerten/t6b5qk8?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -194,11 +217,6 @@
       "title": "Wärme aus Haus und Wohnung bekommen: Wie Sie es clever und automatisch umsetzen",
       "teaser": "Es ist gar nicht so einfach, mit richtigen Lüftungsroutinen die Temperatur im Haus niedrig zu halten. Clevere Automatisierungen helfen hier enorm.",
       "url": "https://www.heise.de/ratgeber/Waerme-aus-Haus-und-Wohnung-bekommen-Wie-Sie-es-clever-und-automatisch-umsetzen-10509311.html"
-    },
-    {
-      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
-      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Chipfertigung in Deutschland: ESMC-Chef Dr. Christian Koitzsch im Interview",
@@ -217,22 +235,6 @@
       "teaser": "Virtuelles Minigolf, echte Freundschaften: \"Walkabout Mini Golf VR\" verbindet Spieler weltweit und schafft eine lebendige Community.",
       "url": "https://www.heise.de/hintergrund/Mehr-als-nur-Minigolf-Wie-ein-VR-Spiel-Familien-und-Freunde-zusammenbringt-10537936.html",
       "image_title": "Der Blick von einem Berg, auf dem mehrere Minigolfbahnen zu sehen sind."
-    },
-    {
-      "title": "KI-Update kompakt: unfreundliches GPT-5, Meta, KI-Mutterinstinkte, Krebsvorsorge",
-      "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-unfreundliches-GPT-5-Meta-KI-Mutterinstinkte-Krebsvorsorge-10535624.html"
-    },
-    {
-      "title": "Künstliche Intelligenz: Wie aus Sprachmodellen Agenten werden",
-      "teaser": "Große Sprachmodelle sollen künftig nicht nur Fragen beantworten. KI-Agenten sollen selbstständig Entscheidungen treffen und Problemlösungsstrategien entwickeln.",
-      "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Wie-aus-Sprachmodellen-Agenten-werden-10473469.html"
-    },
-    {
-      "title": "Kamera reinigen: iPhone erkennt künftig Tatschfinger",
-      "teaser": "Im Alltag kommt es vor, dass einer der zwei bis drei rückwärtigen Kamerasensoren von Apple-Handys dreckig wird. Künftig wird man hiervor gewarnt.",
-      "url": "https://www.heise.de/news/Kamera-reinigen-iPhone-erkennt-kuenftig-Tatschfinger-10521908.html",
-      "image_title": "iPhone 15 Pro-Kamera"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -302,6 +304,22 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "KI-Update kompakt: unfreundliches GPT-5, Meta, KI-Mutterinstinkte, Krebsvorsorge",
+      "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-unfreundliches-GPT-5-Meta-KI-Mutterinstinkte-Krebsvorsorge-10535624.html"
+    },
+    {
+      "title": "Künstliche Intelligenz: Wie aus Sprachmodellen Agenten werden",
+      "teaser": "Große Sprachmodelle sollen künftig nicht nur Fragen beantworten. KI-Agenten sollen selbstständig Entscheidungen treffen und Problemlösungsstrategien entwickeln.",
+      "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Wie-aus-Sprachmodellen-Agenten-werden-10473469.html"
+    },
+    {
+      "title": "Kamera reinigen: iPhone erkennt künftig Tatschfinger",
+      "teaser": "Im Alltag kommt es vor, dass einer der zwei bis drei rückwärtigen Kamerasensoren von Apple-Handys dreckig wird. Künftig wird man hiervor gewarnt.",
+      "url": "https://www.heise.de/news/Kamera-reinigen-iPhone-erkennt-kuenftig-Tatschfinger-10521908.html",
+      "image_title": "iPhone 15 Pro-Kamera"
+    },
+    {
       "title": "iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
       "teaser": "Lernen Sie hands-on, wie Sie Schwachstellen in der API-Implementierung vermeiden und Angriffe abwehren.",
       "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-10508412.html",
@@ -357,6 +375,11 @@
       "url": "https://www.heise.de/hintergrund/Kimi-K2-neues-Open-Weight-Sprachmodell-vorgestellt-10516256.html"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "Ryzen vs. Core: Fast jeder dritte Desktop-Prozessor stammt von AMD",
       "teaser": "AMDs CPU-Baureihe Ryzen 9000 zeigt sich besonders erfolgreich. Konsolen helfen AMD, Intel Marktanteile abzuknöpfen.",
       "url": "https://www.heise.de/news/Ryzen-vs-Core-Fast-jeder-dritte-Desktop-Prozessor-stammt-von-AMD-10535677.html",
@@ -373,11 +396,6 @@
       "teaser": "Scam-Ads mit Namen Prominenter in sozialen Medien bringen Opfer um ihr Geld. Meta reagiert nur langsam auf Meldungen.",
       "url": "https://www.heise.de/news/Betruegerische-Werbung-Facebook-loescht-nur-langsam-10535616.html",
       "image_title": "Scam-Ads auf \"Matrix-Hintergrund\" mit Achtung-Schild"
-    },
-    {
-      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
-      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? Im Live-Webcast am 9.9. um 11 Uhr erfahren Sie, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
-      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
     },
     {
       "title": "Playstation VR2 auf PC: Entwickler schalten PS5-exklusive Features frei",
@@ -418,23 +436,6 @@
       "teaser": "Angreifer können Firewalls von Cisco ins Visier nehmen und diese unter anderem via DoS-Attacke aus dem Verkehr ziehen.",
       "url": "https://www.heise.de/news/Sicherheitspatches-Cisco-schliesst-Angriffspunkte-in-Firewalls-10531093.html",
       "image_title": "Cisco viele Patches"
-    },
-    {
-      "title": "KI Navigator #12: Ist das Kunst oder kann das KI-Bild weg?",
-      "teaser": "KI kann beeindruckende Bilder erstellen und ist ein hilfreiches Werkzeug im Schaffensprozess. Aber für wirkliche Kunst fehlt etwas, meint Verena Barth.",
-      "url": "https://www.heise.de/hintergrund/KI-Navigator-12-Ist-das-Kunst-oder-kann-das-KI-Bild-weg-10522629.html",
-      "image_title": "Kompass im Sternenhimmel"
-    },
-    {
-      "title": "IT-Sicherheitsvorfall bei Infoniqa – Ausmaß noch unbekannt",
-      "teaser": "Infoniqa, unter anderem Anbieter von Software zur Lohnabrechnung oder für HR, wurde Opfer eines Cyberangriffs. Es kam zu Störungen der Dienste.",
-      "url": "https://www.heise.de/news/IT-Sicherheitsvorfall-bei-Infoniqa-Ausmass-noch-unbekannt-10531133.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette ATTACK"
-    },
-    {
-      "title": "Erfahrungsbericht zum Abnehmen mit smarten Gadgets: Wie Technik helfen kann",
-      "teaser": "Smartwatch & Co. sollen zu mehr Bewegung und gesundem Lebensstil motivieren. Doch wie sehr helfen solche Tracker im Alltag? Ein persönlicher Erfahrungsbericht.",
-      "url": "https://www.heise.de/ratgeber/Erfahrungsbericht-zum-Abnehmen-mit-smarten-Gadgets-Wie-Technik-helfen-kann-10456609.html"
     },
     {
       "title": "US-Behörden tracken angeblich heimlich KI-Server",
@@ -603,10 +604,10 @@
       "url": "https://www.heise.de/en/news/Softbank-1-000-AI-agents-replace-1-job-10490309.html"
     },
     {
-      "title": "Vorsicht, Kunde: Warten auf die Einspeisevergütung",
-      "teaser": "Probleme bei der Einspeisevergütung für Solaranlagen gibt es oft. Wir geben Tipps, wie man Ansprüche durchsetzt und berechnen Verzugszinsen bei Verzögerungen.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Warten-auf-die-Einspeiseverguetung-10530866.html",
-      "image_title": "Ein Arbeiter hantiert an Solarpanelen auf einem Schrägdach"
+      "title": "Ubuntu 25.10 läuft nicht auf vorhandenen RISC-V-Rechnern",
+      "teaser": "Das im Oktober erwartete Ubuntu 25.10 Questing Quokka kommt zwar auch in RISC-V-Ausführung, aber nur für bisher nicht lieferbare Chips mit RVA23-Technik.",
+      "url": "https://www.heise.de/news/RISC-V-und-Linux-Ubuntu-25-10-erzwingt-nagelneue-Prozessoren-10537964.html",
+      "image_title": "RISC-V-Chip auf einem Einplatinencomputer"
     },
     {
       "title": "Heimkino im Vergleich\"Königreich der Himmel\" als Stream, Blu-ray und UHD",
@@ -666,15 +667,15 @@
       "image_title": "Ein Kodak-Firmenschild"
     },
     {
+      "title": "Wildblumen märchenhaft fotografieren – so gehts",
+      "teaser": "So meistern Sie fünf häufige Hürden auf dem Weg zum floralen Traummotiv.",
+      "url": "https://www.heise.de/ratgeber/Wildblumen-maerchenhaft-fotografieren-so-gehts-10507212.html",
+      "image_title": "Eine Wiese wie im Märchen zu fotografieren, war komplizierter als gedacht. Ein Overlay aus separat aufgenommenen Lichtkreisen unterstreicht die Stimmung., Alle Bilder: Judy Hohmann"
+    },
+    {
       "title": "Canon repariert R50, Superzoom für mehr Spiegellose – Fotonews der Woche 32/2025",
       "teaser": "Das Einstellrad von manchen R50 kann klemmen oder abfallen, Abhilfe ist einfach. Tamron bietet sein 18-300mm nun auch für Canon und Nikon an.",
       "url": "https://www.heise.de/news/Canon-repariert-R50-Superzoom-fuer-mehr-Spiegellose-Fotonews-der-Woche-32-2025-10515626.html"
-    },
-    {
-      "title": "Licht, Leben und Linien: Die Bilder der Woche 32",
-      "teaser": "In dieser Woche fangen unsere Galeriefotografen flüchtige Momente, starke Kontraste und Details ein und verwandeln sie in eindrucksvolle bildhafte Erzählungen.",
-      "url": "https://www.heise.de/news/Licht-Leben-und-Linien-Die-Bilder-der-Woche-32-10511958.html",
-      "image_title": "Hippo-Familie"
     },
     {
       "title": "Produkt- und Prozess-Testing: Was gutes Testmanagement ausmacht",
@@ -751,22 +752,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Pulverfass Republik Srpska: Dodiks Kampf gegen Schmidts Ordnung",
-      "teaser": "Der Serbenführer Milorad Dodik kämpft gegen die Macht des Hohen EU-Repräsentanten. Geopolitische Spannungen nehmen zu. Droht eine Eskalation?",
-      "url": "https://www.heise.de/tp/features/Pulverfass-Republik-Srpska-Dodiks-Kampf-gegen-Schmidts-Ordnung-10526089.html",
-      "image_title": "Grenzschild in Bosnien-Herzegowina"
+      "title": "Muslimbrüder-Panik in Frankreich: Politik zwischen Feindbild und Doppelmoral",
+      "teaser": "Während Paris Katar hofiert, wird die Angst vor islamistischen Netzwerken politisch aufgeladen – oft losgelöst von der Realität. Hintergrund. (Teil 2)",
+      "url": "https://www.heise.de/tp/features/Muslimbrueder-Panik-in-Frankreich-Politik-zwischen-Feindbild-und-Doppelmoral-10530820.html",
+      "image_title": "Demonstranten in Paris 2016 gegen die Regierung von Abdel Fattah el-Sisi in Ägypten."
     },
     {
-      "title": "Von der Badewanne zum Kochtopf: Mittelmeer erreicht Rekordtemperaturen",
-      "teaser": "Das Mittelmeer heizt sich auf. Wissenschaftler warnen vor drastischen Folgen für Ökosysteme und Klima. Wie sieht die Zukunft des Urlaubsziels aus?",
-      "url": "https://www.heise.de/tp/features/Von-der-Badewanne-zum-Kochtopf-Mittelmeer-erreicht-Rekordtemperaturen-10521609.html",
-      "image_title": "Nizza und das Meer in der Sonne"
+      "title": "Von Monopoly bis Catan: Wie Brettspiele unsere Wirtschaftssicht prägen",
+      "teaser": "Brettspiele boomen trotz digitaler Konkurrenz. Sie lehren teils völlig unterschiedliche Wirtschaftsmodelle. Ein Überblick über die Entwicklung.",
+      "url": "https://www.heise.de/tp/features/Von-Monopoly-bis-Catan-Wie-Brettspiele-unsere-Wirtschaftssicht-praegen-10520279.html",
+      "image_title": "Eine person mit Rohstoffkarten auf der Hand"
     },
     {
-      "title": "Von Srebrenica nach Gaza: Die Doppelmoral bei Gräueltaten",
-      "teaser": "In den USA und Europa hat man eine Reihe von Massakern als Genozide anerkannt. Andere jedoch nicht. Über die Logik einseitiger Empörung. (Teil 3 und Schluss)",
-      "url": "https://www.heise.de/tp/features/Von-Srebrenica-nach-Gaza-Die-Doppelmoral-bei-Graeueltaten-10517057.html",
-      "image_title": "Luftaufnahmen von Grabsteinen im Gedenkzentrum Potocari, Srebrenica. Friedhof für die Opfer des Völkermords von 1995."
+      "title": "Studie: Vegetarische Ernährung reduziert Krebsrisiko deutlich",
+      "teaser": "Langzeitstudie mit fast 80.000 Teilnehmern zeigt deutliche Schutzwirkung bei Magen- und Lymphdrüsenkrebs. Welche Erkenntnisse sich für unsere Ernährung ableiten lassen.",
+      "url": "https://www.heise.de/tp/features/Studie-Vegetarische-Ernaehrung-reduziert-Krebsrisiko-deutlich-10528130.html",
+      "image_title": "Eine Schale mit Obst und Gemüse"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
