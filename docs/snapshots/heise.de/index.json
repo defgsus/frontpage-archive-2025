@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-17T14:08:28",
+  "timestamp": "2025-08-17T15:09:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ohne mechanische Verbindung: Virtuelles Kuppeln von Zügen per Ultrabreitband",
+      "url": "https://www.heise.de/news/Ohne-mechanische-Verbindung-Virtuelles-Kuppeln-von-Zuegen-per-Ultrabreitband-10538807.html"
+    },
     {
       "title": "Xiaomi Watch S4 im Test: Günstige Sport-Smartwatch ist ein Geheimtipp",
       "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-watch-s4-im-test-guenstige-sport-smartwatch-ist-ein-geheimtipp/lctmwl5"
@@ -60,10 +64,6 @@
     {
       "title": "Jetzt patchen! Attacken auf Fortinet-IT-Sicherheitslösungen können bevorstehen",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Fortinet-IT-Sicherheitsloesungen-koennen-bevorstehen-10538724.html"
-    },
-    {
-      "title": "Speichermangel bei Grafikkarten analysiert: 8 versus 16 GByte im Vergleich",
-      "url": "https://www.heise.de/tests/Speichermangel-bei-Grafikkarten-RTX-5060-Ti-und-RX-9060-XT-mit-8-und-16-GByte-10493304.html"
     },
     {
       "title": "Missing LinkÖPNV: Warum deutsche Zustände nicht \"normal\" sind",
@@ -183,19 +183,25 @@
       "url": "https://www.heise.de/news/KI-Agenten-Sprachmodelle-bedienen-eigenstaendig-Software-c-t-uplink-10530901.html"
     },
     {
+      "title": "Ohne mechanische Verbindung: Virtuelles Kuppeln von Zügen per Ultrabreitband",
+      "teaser": "Das DLR hat ein Funksystem für den Bahnsektor auf Basis von Ultrabreitband-Technologie getestet. Es soll das virtuelle Verknüpfen von Zugverbänden ermöglichen.",
+      "url": "https://www.heise.de/news/Ohne-mechanische-Verbindung-Virtuelles-Kuppeln-von-Zuegen-per-Ultrabreitband-10538807.html",
+      "image_title": "Viele Eisenbahnschienen vor Sonnenuntergang"
+    },
+    {
       "title": "Xiaomi Watch S4 im Test: Günstige Sport-Smartwatch ist ein Geheimtipp",
       "teaser": "Die Xiaomi Watch S4 kostet nur einen Bruchteil einer Apple Watch – und überrascht dennoch mit Funktionen, die sonst vor allem in teuren Sportuhren stecken.",
       "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-watch-s4-im-test-guenstige-sport-smartwatch-ist-ein-geheimtipp/lctmwl5?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Firmen-Security in Zeiten von Trump, Putin & Co.",
+      "teaser": "Eine echte Sicherheit für Unternehmen und Behörden ist derzeit nur mit digitaler Souveränität möglich. Denn wer auf nicht-europäische Infrastrukturen setzt, riskiert staatliche Datenzugriffe.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7034195658&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Foto-Sync-Speicher selber bauen mit Raspi und Syncthing",
       "teaser": "Keine Zeit und keine Lust, nur für ein paar Handyfotos eine eigene Nextcloud einzurichten? Mit Syncthing und einem egal wie alten Raspi gehts im Handumdrehen.",
       "url": "https://www.heise.de/ratgeber/Foto-Sync-Speicher-selber-bauen-mit-Raspi-und-Syncthing-10489968.html"
-    },
-    {
-      "title": "Die neue Welt der Virtualisierung",
-      "teaser": "Bei der Frage, auf welche Virtualisierungssoftware für gemanagte Services Unternehmen setzen sollten, sind verschiedene Ansätze denkbar. Wir geben einen Überblick.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7055877038&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Pfiatdi, Tschüss, Ade: Mit Dialekt-App die Sprache erforschen",
@@ -221,12 +227,6 @@
       "title": "AlertPlex-Mediaserver: Entwickler raten zu zügigem Sicherheitsupdate",
       "teaser": "Derzeit schreiben die Plex-Entwickler Nutzer an und weisen auf einen Sicherheitspatch hin. Die Art der Lücke ist noch unbekannt.",
       "url": "https://www.heise.de/news/Plex-Mediaserver-Entwickler-raten-zu-zuegigem-Sicherheitsupdate-10538755.html"
-    },
-    {
-      "title": "Satellitendaten: DLR weist hohe Hitzebelastung in deutschen Großstädten nach",
-      "teaser": "Forscher haben die Oberflächentemperatur für über 70 Großstädte hierzulande in den Sommermonaten von über zehn Jahren ermittelt und Hitzeinseln identifiziert.",
-      "url": "https://www.heise.de/news/Satellitendaten-DLR-weist-hohe-Hitzebelastung-in-deutschen-Grossstaedten-nach-10538728.html",
-      "image_title": "Glühender Himmel, verdorrter Erdboden"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -296,6 +296,12 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "Satellitendaten: DLR weist hohe Hitzebelastung in deutschen Großstädten nach",
+      "teaser": "Forscher haben die Oberflächentemperatur für über 70 Großstädte hierzulande in den Sommermonaten von über zehn Jahren ermittelt und Hitzeinseln identifiziert.",
+      "url": "https://www.heise.de/news/Satellitendaten-DLR-weist-hohe-Hitzebelastung-in-deutschen-Grossstaedten-nach-10538728.html",
+      "image_title": "Glühender Himmel, verdorrter Erdboden"
+    },
+    {
       "title": "AlertJetzt patchen! Attacken auf Fortinet-IT-Sicherheitslösungen können bevorstehen",
       "teaser": "Weil Exploitcode in Umlauf ist, liegen Attacken auf FortiSIEM und FortiWeb-Firewalls nahe. Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Fortinet-IT-Sicherheitsloesungen-koennen-bevorstehen-10538724.html"
@@ -360,15 +366,15 @@
       "image_title": "KI-Suchmaschinen & Generative Engine Optimierung (GEO)"
     },
     {
+      "title": "KI-Agenten im Angriff: Das neue Gesicht des Social Engineering",
+      "teaser": "Wie verändert KI die Spielregeln bei Social-Engineering-Attacken? Im Live-Webcast am 21.8.2025 erfahren Sie, welche Risiken und Abwehrmöglichkeiten die neue Technologie mit sich bringt.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/ki-agenten-im-angriff-das-neue-gesicht-des-social-engineering-4950?source=hbsad-ersatz"
+    },
+    {
       "title": "Metas KI-Chatbot-Richtlinien: US-Senator will Untersuchung starten",
       "teaser": "Nach Bekanntwerden von Metas Richtlinie für KI-Chatbots will der erste US-Senator eine offizielle Ermittlung und verlangt das Sichern von Beweismitteln.",
       "url": "https://www.heise.de/news/Metas-KI-Chatbot-Richtlinien-US-Senator-will-Untersuchung-starten-10538520.html",
       "image_title": "Smartphone mit den Apps von Facebook, Facebook-Messenger, Instragm, WhatsApp und Oculus vor dem Meta-Logo"
-    },
-    {
-      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
-      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
     },
     {
       "title": "Dutzende Rathauschefs für neue Autokennzeichen",
@@ -419,12 +425,6 @@
       "teaser": "In Peking beweisen humanoide Roboter ihr Können im Laufen, Kampfsport und in anderen Disziplinen. Dabei liegen Staunen und Schmunzeln manchmal nah beieinander.",
       "url": "https://www.heise.de/news/Sprinten-Kaempfen-Siegen-Startschuss-der-World-Humanoid-Robot-Games-in-China-10538292.html",
       "image_title": "Sprintender Roboter. Die humanoide Maschine von Unitree erreichte bei den Spielen Gold über 1500 Meter."
-    },
-    {
-      "title": "Wie Sie animatronische Figuren einfach animieren",
-      "teaser": "Mit dem Editor \"Animatronic WorkBench\" lassen sich Bewegungen für animatronische Figuren programmieren und auf den Mikrocontroller übertragen, der sie steuert.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-animatronische-Figuren-einfach-animieren-10486640.html",
-      "image_title": ","
     },
     {
       "title": "Support-Aus für Windows-10- und 11-Versionen",
@@ -599,14 +599,14 @@
       "image_title": "Stapel von Festplatten auf einem Tisch, teilweise im Karton"
     },
     {
-      "title": "c't 3003Warum GPT-5 so polarisiert",
-      "teaser": "GPT-5 sollte alle anderen OpenAI-Sprachmodelle in ChatGPT ersetzen. Das Resultat enttäuscht.",
-      "url": "https://www.heise.de/news/Warum-GPT-5-so-polarisiert-10530890.html"
-    },
-    {
       "title": "c’t uplinkKI-Agenten: Sprachmodelle bedienen Software",
       "teaser": "Sprachmodelle steuern mithilfe des Model Context Protocol selbstständig Websites.",
       "url": "https://www.heise.de/news/KI-Agenten-Sprachmodelle-bedienen-eigenstaendig-Software-c-t-uplink-10530901.html"
+    },
+    {
+      "title": "c't-Webinar: E-Auto – Technik, Alltag, Kaufentscheidung",
+      "teaser": "Das c’t-Webinar erklärt die Funktionsweise verschiedener Antriebe und gibt praxiserprobte Tipps für Alltag und Fahrzeugwahl.",
+      "url": "https://www.heise.de/news/c-t-Webinar-E-Auto-Technik-Alltag-Kaufentscheidung-10512474.html"
     },
     {
       "title": "Spiel-VerderberWarum Gaming auf dem Mac so ein Problem ist",
@@ -741,22 +741,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "KI bedroht Jobs: Entlassungen bei TikTok und neue Chancen für Beschäftigte",
-      "teaser": "150 Entlassungen bei TikTok und Studien zu Jobverlusten: Wie KI Arbeit bedroht – und gleichzeitig neue Aufgaben schafft.",
-      "url": "https://www.heise.de/tp/features/KI-bedroht-Jobs-Entlassungen-bei-TikTok-und-neue-Chancen-fuer-Beschaeftigte-10538746.html",
-      "image_title": "Grafik symbolisiert KI vs menschliche Konkurrenz im Job"
+      "title": "Parasitärer Wurm könnte Entwicklung neuer Schmerzmittel vorantreiben",
+      "teaser": "Ein Parasit blockiert Schmerzrezeptoren, um unentdeckt in die Haut einzudringen. Erkenntnisse könnten Alternativen zu Opioid-Behandlungen ermöglichen.",
+      "url": "https://www.heise.de/tp/features/Parasitaerer-Wurm-koennte-Entwicklung-neuer-Schmerzmittel-vorantreiben-10537982.html",
+      "image_title": "Ein Parasitärer Wurm der Art Schistosomiasis"
     },
     {
-      "title": "Europa außen vor: Wie die USA und Russland über unsere Zukunft verhandeln",
-      "teaser": "Die EU setzt auf Moral, doch am Verhandlungstisch zählt Macht. Warum Europa zunehmend nur noch Zuschauer ist. Ein Telepolis-Leitartikel.",
-      "url": "https://www.heise.de/tp/features/Europa-aussen-vor-Wie-die-USA-und-Russland-ueber-unsere-Zukunft-verhandeln-10538712.html",
-      "image_title": "EU-Flagge vor regenbeschlagener Scheibe."
+      "title": "Boethius: Wie der klügste Mann seiner Zeit den Kopf verlor",
+      "teaser": "Boethius galt als klügster Mann seiner Zeit. Doch 524 wurde der Philosoph hingerichtet. Was führte zu seinem dramatischen Sturz?",
+      "url": "https://www.heise.de/tp/features/Boethius-Wie-der-kluegste-Mann-seiner-Zeit-den-Kopf-verlor-10518548.html",
+      "image_title": "Boethis unterweist seine Studenten, Darstellung aus dem Jahr 1385"
     },
     {
-      "title": "Kurswechsel in der Ukraine-Politik: Europäische Spitzenpolitiker bereiten Kompromisse vor",
-      "teaser": "Vor Alaska-Gipfel: Es gilt vorsichtiger Optimismus – solange die Hauptbeteiligten sich nicht selbst im Weg stehen. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Kurswechsel-in-der-Ukraine-Politik-Europaeische-Spitzenpolitiker-bereiten-Kompromisse-vor-10534362.html",
-      "image_title": "Selenskyj und Merz an einem Rednerpult"
+      "title": "Trump hofiert Putin – und schwächt damit die Unterstützung für die Ukraine",
+      "teaser": "Trumps Nähe zu Putin irritiert den Westen – und lässt Zweifel an der künftigen US-Unterstützung für die Ukraine aufkommen.",
+      "url": "https://www.heise.de/tp/features/Trump-hofiert-Putin-und-schwaecht-damit-die-Unterstuetzung-fuer-die-Ukraine-10538432.html",
+      "image_title": "Putin und Trump sitzen am Tisch und verhandeln."
     },
     {
       "title": "Saily im Test: Komfortable Urlaubs-eSIM mit Sicherheits-Funktionen",
