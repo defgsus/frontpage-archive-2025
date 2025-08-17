@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-17T11:08:04",
+  "timestamp": "2025-08-17T12:18:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,20 +26,18 @@
   ],
   "articles": [
     {
-      "title": "Das Ende von Windows 10Support-Aus für Windows-10- und 11-Versionen",
-      "teaser": "Microsoft erinnert daran, dass in 60 respektive 90 Tagen die Unterstützung für einige Windows-Versionen endet. Admins sollten updaten.",
-      "url": "https://www.heise.de/news/Microsoft-erinnert-an-Support-Ende-fuer-Windows-10-und-11-Versionen-10531085.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+      "title": "AlertSoftwareschwachstelleBIOS-Sicherheitsupdate schließt Schadcodelücke in HP-PCs",
+      "teaser": "Angreifer können zahlreiche PC-Modelle von HP attackieren und kompromittieren. Attacken sind aber nicht ohne Weiteres möglich.",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdate-schliesst-Schadcodeluecke-in-HP-PCs-10538781.html"
     },
     {
-      "title": "Betrügerische WerbungMeta unterbindet nur zögerlich",
-      "teaser": "Scam-Ads mit Namen Prominenter in sozialen Medien bringen Opfer um ihr Geld. Meta reagiert nur langsam auf Meldungen.",
-      "url": "https://www.heise.de/news/Betruegerische-Werbung-Facebook-loescht-nur-langsam-10535616.html",
-      "image_title": "Scam-Ads auf \"Matrix-Hintergrund\" mit Achtung-Schild"
-    },
-    {
-      "title": "AlertPlex-Mediaserver: Entwickler raten zu zügigem Sicherheitsupdate",
+      "title": "AlertPlex-MediaserverEntwickler raten zu zügigem Sicherheitsupdate",
+      "teaser": "Derzeit schreiben die Plex-Entwickler Nutzer an und weisen auf einen Sicherheitspatch hin. Die Art der Lücke ist noch unbekannt.",
       "url": "https://www.heise.de/news/Plex-Mediaserver-Entwickler-raten-zu-zuegigem-Sicherheitsupdate-10538755.html"
+    },
+    {
+      "title": "AlertSoftwareschwachstelleBIOS-Sicherheitsupdate schließt Schadcodelücke in HP-PCs",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdate-schliesst-Schadcodeluecke-in-HP-PCs-10538781.html"
     },
     {
       "title": "So kann ein Angreifer die Whatsapp-Verschlüsselung herabstufen",
@@ -72,11 +70,6 @@
       "url": "https://shop.heise.de/microsoft-entra-dangerous-defaults?wt_mc=intern.academy.security.web_entradd.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertPlex-Mediaserver: Entwickler raten zu zügigem Sicherheitsupdate",
-      "teaser": "Derzeit schreiben die Plex-Entwickler Nutzer an und weisen auf einen Sicherheitspatch hin. Die Art der Lücke ist noch unbekannt.",
-      "url": "https://www.heise.de/news/Plex-Mediaserver-Entwickler-raten-zu-zuegigem-Sicherheitsupdate-10538755.html"
-    },
-    {
       "title": "AlertJetzt patchen! Attacken auf Fortinet-IT-Sicherheitslösungen können bevorstehen",
       "teaser": "Weil Exploitcode in Umlauf ist, liegen Attacken auf FortiSIEM und FortiWeb-Firewalls nahe. Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Fortinet-IT-Sicherheitsloesungen-koennen-bevorstehen-10538724.html"
@@ -99,6 +92,12 @@
       "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
     },
     {
+      "title": "Betrügerische Werbung: Meta unterbindet nur zögerlich",
+      "teaser": "Scam-Ads mit Namen Prominenter in sozialen Medien bringen Opfer um ihr Geld. Meta reagiert nur langsam auf Meldungen.",
+      "url": "https://www.heise.de/news/Betruegerische-Werbung-Facebook-loescht-nur-langsam-10535616.html",
+      "image_title": "Scam-Ads auf \"Matrix-Hintergrund\" mit Achtung-Schild"
+    },
+    {
       "title": "AlertSicherheitspatches: Cisco schließt Angriffspunkte in Firewalls",
       "teaser": "Angreifer können Firewalls von Cisco ins Visier nehmen und diese unter anderem via DoS-Attacke aus dem Verkehr ziehen.",
       "url": "https://www.heise.de/news/Sicherheitspatches-Cisco-schliesst-Angriffspunkte-in-Firewalls-10531093.html",
@@ -109,6 +108,12 @@
       "teaser": "Infoniqa, unter anderem Anbieter von Software zur Lohnabrechnung oder für HR, wurde Opfer eines Cyberangriffs. Es kam zu Störungen der Dienste.",
       "url": "https://www.heise.de/news/IT-Sicherheitsvorfall-bei-Infoniqa-Ausmass-noch-unbekannt-10531133.html",
       "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette ATTACK"
+    },
+    {
+      "title": "Support-Aus für Windows-10- und 11-Versionen",
+      "teaser": "Microsoft erinnert daran, dass in 60 respektive 90 Tagen die Unterstützung für einige Windows-Versionen endet. Admins sollten updaten.",
+      "url": "https://www.heise.de/news/Microsoft-erinnert-an-Support-Ende-fuer-Windows-10-und-11-Versionen-10531085.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
       "title": "Leichtgewichtiges Kryptografieverfahren für IoT-Geräte von NIST standardisiert",
@@ -157,11 +162,6 @@
       "teaser": "Die GitLab-Entwickler haben insgesamt zwölf Sicherheitslücken geschlossen. Angreifer können Systeme kompromittieren.",
       "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-GitLab-Servern-verankern-10523017.html",
       "image_title": "Ein symbolischer Updateknopf erinnert ans Patchen."
-    },
-    {
-      "title": "Ex-Admin des Darknet-Marktplatzes warnt: BreachForums ist eine Polizei-Falle",
-      "teaser": "Der anonyme Administrator bestätigt in mehreren Nachrichten, dass das Forum seit der letzten Razzia von Ermittlern kontrolliert werde. Es ging prompt vom Netz.",
-      "url": "https://www.heise.de/news/Ex-Admin-des-Darknet-Marktplatzes-warnt-BreachForums-ist-eine-Polizei-Falle-10522549.html"
     },
     {
       "title": "Workshop | 3. – 5.9.2025Angriffsziel lokales Active Directory: Effiziente Absicherung",
