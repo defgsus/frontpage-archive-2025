@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-18T15:11:30",
+  "timestamp": "2025-08-18T16:13:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,26 @@
   ],
   "articles": [
     {
+      "title": "Mit Raspi und SyncthingFoto-Sync-Speicher selber bauen mit Raspi und Syncthing",
+      "teaser": "Keine Zeit und keine Lust, nur für ein paar Handyfotos eine eigene Nextcloud einzurichten? Mit Syncthing und einem egal wie alten Raspi gehts im Handumdrehen.",
+      "url": "https://www.heise.de/ratgeber/Foto-Sync-Speicher-selber-bauen-mit-Raspi-und-Syncthing-10489968.html"
+    },
+    {
+      "title": "KI-Systeme bevorzugen eigene Texte: Studie warnt vor \"Anti-Human-Bias\"",
+      "teaser": "Wissenschaftler haben nachgewiesen, dass Large Language Models Inhalte anderer KI-Systeme bevorzugen. Was Menschen daraus lernen können.",
+      "url": "https://www.heise.de/news/KI-Systeme-bevorzugen-eigene-Texte-Studie-warnt-vor-Anti-Human-Bias-10544419.html",
+      "image_title": "Abstraktes Bild von einer Künstliche Intelligenz. Zu sehen ist eine helle Maske mit verschiedenen Schichten."
+    },
+    {
       "title": "Live-Webinar: Professioneller Support für Apple-Geräte",
       "teaser": "Im neuen vierteiligen Mac & i-Webinar lernen Sie macOS, iOS und iPadOS so gut kennen, dass Sie zuverlässigen und souveränen Support dafür leisten können.",
       "url": "https://www.heise.de/news/Live-Webinar-Professioneller-Support-fuer-Apple-Geraete-10544337.html"
     },
     {
-      "title": "Supercomputer-Patente: Deutscher Hersteller Partec geht gegen Nvidia vor",
+      "title": "Supercomputer-PatenteDeutscher Hersteller Partec geht gegen Nvidia vor",
       "teaser": "Partec wirft Nvidia bei den DGX-Systemen Patentverstöße vor. Zudem eröffnet Partec kartellrechtliche Fragen.",
       "url": "https://www.heise.de/news/Deutscher-Supercomputer-Hersteller-verklagt-Nvidia-10541977.html",
       "image_title": "Nvidias DGX Superpod vor schwarzem Hintergrund"
-    },
-    {
-      "title": "Workday: Datenleck beim HR-Software-Anbieter",
-      "teaser": "Bei einem IT-Vorfall beim Cloud-Dienst Workday, der HR- und Finanzen für Unternehmen organisiert, haben Kriminelle Zugriff erlangt.",
-      "url": "https://www.heise.de/news/Workday-Datenleck-beim-HR-Software-Anbieter-10540931.html",
-      "image_title": "Ein gläsernes Bürogebäude mit dem Logo des Unternehmens Workday."
-    },
-    {
-      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
-      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-10516110.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "RatgeberWindows-Alternative: Linux Mint als pragmatische Distribution für Einsteiger",
@@ -61,6 +60,18 @@
       "title": "RatgeberAtari-Emulator auf ESP32-Basis bauen mit passenden Joysticks und Controller",
       "url": "https://www.heise.de/ratgeber/Atari-Emulator-auf-ESP32-Basis-bauen-mit-passenden-Joysticks-und-Controller-10474612.html",
       "image_title": ","
+    },
+    {
+      "title": "Workday: Datenleck beim HR-Software-Anbieter",
+      "teaser": "Bei einem IT-Vorfall beim Cloud-Dienst Workday, der HR- und Finanzen für Unternehmen organisiert, haben Kriminelle Zugriff erlangt.",
+      "url": "https://www.heise.de/news/Workday-Datenleck-beim-HR-Software-Anbieter-10540931.html",
+      "image_title": "Ein gläsernes Bürogebäude mit dem Logo des Unternehmens Workday."
+    },
+    {
+      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-10516110.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "Microsoft-Insider-Vorschauen: Snipping-Tool kann Fenster-Videos aufnehmen",
@@ -137,17 +148,6 @@
       "teaser": "Aktualisierte Fassungen der Firebird-Datenbank stopfen DoS-Lücken und ein Leck, das unter Umständen Zugriff auf verschlüsselte Daten erlaubt.",
       "url": "https://www.heise.de/news/Firebird-Datenbank-DoS-Schwachstellen-und-potenziell-unbefugte-Zugriffe-10539106.html",
       "image_title": "Finger tippt auf Update-Button"
-    },
-    {
-      "title": "Horizons by heise: Ideen, Impulse und Innovationen für die digitale Zukunft",
-      "teaser": "Am 2. September in Hannover: Impulse, Ideen & Innovationen zu KI, Datenstrategie und Zukunft der Arbeit – live erleben und mitdiskutieren.",
-      "url": "https://www.heise.de/news/Horizons-by-heise-Ideen-Impulse-und-Innovationen-fuer-die-digitale-Zukunft-10518247.html"
-    },
-    {
-      "title": "Krisensicher auch bei Blackout: Funknetz wird ausgebaut",
-      "teaser": "Wie das 450-MHz-Netz kritische Infrastrukturen schützt. Und warum gerade abgelegene Regionen von der neuen Technologie profitieren könnten.",
-      "url": "https://www.heise.de/news/Krisensicher-auch-bei-Blackout-Funknetz-wird-ausgebaut-10539000.html",
-      "image_title": "Mast einer Überlandstromleitung mit stilisiertem Hintergrund und den sichtbaren Worten \"Cyber Attack\"."
     },
     {
       "title": "NewsProton zieht sich langsam aus der Schweiz zurück",
