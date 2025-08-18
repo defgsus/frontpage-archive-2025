@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-18T16:12:56",
+  "timestamp": "2025-08-18T17:11:25",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "Schutzlos im Netz? So riskant ist der digitale Alltag von Kindern",
+      "url": "https://www.heise.de/news/Schutzlos-im-Netz-So-riskant-ist-der-digitale-Alltag-von-Kindern-10544544.html"
+    },
+    {
+      "title": "Wirtschaftsinstitut: IT-Fachkräfte sind in Deutschland deutlich weniger gefragt",
+      "url": "https://www.heise.de/news/Wirtschaftsinstitut-IT-Fachkraefte-sind-in-Deutschland-deutlich-weniger-gefragt-10544518.html"
+    },
+    {
+      "title": "Intel verkauft Server-Topmodell mit 128 Kernen zum halben Preis",
+      "url": "https://www.heise.de/news/Intel-verkauft-Server-Topmodell-mit-128-Kernen-zum-halben-Preis-10544467.html"
+    },
     {
       "title": "Foto-Sync-Speicher selber bauen mit Raspi und Syncthing",
       "url": "https://www.heise.de/ratgeber/Foto-Sync-Speicher-selber-bauen-mit-Raspi-und-Syncthing-10489968.html"
@@ -52,18 +64,6 @@
     {
       "title": "Summer-School erfindet Alltagsprodukte neu",
       "url": "https://www.heise.de/news/Summer-School-erfindet-Alltagsprodukte-neu-10539058.html"
-    },
-    {
-      "title": "Supercomputer-Patente: Deutscher Hersteller Partec geht gegen Nvidia vor",
-      "url": "https://www.heise.de/news/Deutscher-Supercomputer-Hersteller-verklagt-Nvidia-10541977.html"
-    },
-    {
-      "title": "Galaxy Buds 3 FE: Samsungs neue \"Fan Edition\"-Ohrstöpsel kosten 150 Euro",
-      "url": "https://www.heise.de/news/Galaxy-Buds-3-FE-Samsungs-neue-Fan-Edition-Ohrstoepsel-kosten-150-Euro-10539684.html"
-    },
-    {
-      "title": "Pünktlichkeit der Bahn verschlechtert sich im Juli deutlich",
-      "url": "https://www.heise.de/news/Puenktlichkeit-der-Bahn-verschlechtert-sich-im-Juli-deutlich-10542013.html"
     },
     {
       "title": "Hohe Ausgaben, kaum NutzenPhishing-Training ist fast immer herausgeschmissenes Geld",
@@ -184,6 +184,29 @@
       "image_title": "Glühender Himmel, verdorrter Erdboden"
     },
     {
+      "title": "Schutzlos im Netz? So riskant ist der digitale Alltag von Kindern",
+      "teaser": "BSI und Polizei beleuchten Risiken im digitalen Familienalltag. Über ein Drittel der Eltern berichtet über Cybermobbing und unangemessene Inhalte wie Pornos.",
+      "url": "https://www.heise.de/news/Schutzlos-im-Netz-So-riskant-ist-der-digitale-Alltag-von-Kindern-10544544.html",
+      "image_title": "Kinder auf einer Bank, alle gucken auf ihr Smartphone"
+    },
+    {
+      "title": "Wirtschaftsinstitut: IT-Fachkräfte sind in Deutschland deutlich weniger gefragt",
+      "teaser": "Die durchschnittliche Zahl offener Stellen in IT-Berufen hat sich 2024 gegenüber 2023 um 26 Prozent reduziert. Gerade Experten mit Uni-Abschluss sind betroffen.",
+      "url": "https://www.heise.de/news/Wirtschaftsinstitut-IT-Fachkraefte-sind-in-Deutschland-deutlich-weniger-gefragt-10544518.html",
+      "image_title": "Ein Techniker installiert neue Hardware in einem Server-Rack."
+    },
+    {
+      "title": "Firmen-Security in Zeiten von Trump, Putin & Co.",
+      "teaser": "Eine echte Sicherheit für Unternehmen und Behörden ist derzeit nur mit digitaler Souveränität möglich. Denn wer auf nicht-europäische Infrastrukturen setzt, riskiert staatliche Datenzugriffe.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7034195658&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Intel verkauft Server-Topmodell mit 128 Kernen zum halben Preis",
+      "teaser": "Zum Jahresanfang verringerte Intel bereits die Preisempfehlungen für Server-CPUs. Händler unterbinden sie noch erheblich.",
+      "url": "https://www.heise.de/news/Intel-verkauft-Server-Topmodell-mit-128-Kernen-zum-halben-Preis-10544467.html",
+      "image_title": "Intel-Xeon-Prozessor von vorn und hinten nebeneinander vor blauem Hintergrund"
+    },
+    {
       "title": "Foto-Sync-Speicher selber bauen mit Raspi und Syncthing",
       "teaser": "Keine Zeit und keine Lust, nur für ein paar Handyfotos eine eigene Nextcloud einzurichten? Mit Syncthing und einem egal wie alten Raspi gehts im Handumdrehen.",
       "url": "https://www.heise.de/ratgeber/Foto-Sync-Speicher-selber-bauen-mit-Raspi-und-Syncthing-10489968.html"
@@ -193,11 +216,6 @@
       "teaser": "Wissenschaftler haben nachgewiesen, dass Large Language Models Inhalte anderer KI-Systeme bevorzugen. Was Menschen daraus lernen können.",
       "url": "https://www.heise.de/news/KI-Systeme-bevorzugen-eigene-Texte-Studie-warnt-vor-Anti-Human-Bias-10544419.html",
       "image_title": "Abstraktes Bild von einer Künstliche Intelligenz. Zu sehen ist eine helle Maske mit verschiedenen Schichten."
-    },
-    {
-      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
-      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Canyon \"Citylite:On\": Stadtrad mit Bosch-Mittelmotor und Riemenantrieb",
@@ -214,24 +232,6 @@
       "title": "Albrecht DR 55 Mini im Test: DAB+-Adapter fürs Auto mit FM-Transmitter für 65 €",
       "teaser": "Kompakt, preiswert und unkompliziert: Der Albrecht DR 55 rüstet Fahrzeuge mit DAB+ und Bluetooth nach, ein FM-Transmitter ist ebenfalls integriert.",
       "url": "https://www.heise.de/bestenlisten/testbericht/albrecht-dr-55-mini-im-test-dab-adapter-fuers-auto-mit-fm-transmitter-fuer-65-euro/27lsq6p?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Summer-School erfindet Alltagsprodukte neu",
-      "teaser": "Die Hochschule Bielefeld zeigte beim Summer-School-Event, wie man Alltagsgegenstände für nachhaltige Produktionsprozesse gestaltet.",
-      "url": "https://www.heise.de/news/Summer-School-erfindet-Alltagsprodukte-neu-10539058.html",
-      "image_title": "Ein Tisch mit elektronischen Komponenten"
-    },
-    {
-      "title": "Galaxy Buds 3 FE: Samsungs neue \"Fan Edition\"-Ohrstöpsel kosten 150 Euro",
-      "teaser": "Samsung hat neue Ohrstöpsel der FE-Reihe vorgestellt. Die Galaxy Buds 3 FE dürften es zum Start schwer haben.",
-      "url": "https://www.heise.de/news/Galaxy-Buds-3-FE-Samsungs-neue-Fan-Edition-Ohrstoepsel-kosten-150-Euro-10539684.html",
-      "image_title": "Samsung Galaxy Buds 3 FE im geöffneten Case"
-    },
-    {
-      "title": "Pünktlichkeit der Bahn verschlechtert sich im Juli deutlich",
-      "teaser": "Von ihrem Pünktlichkeitsziel für 2025 ist die Bahn deutlich entfernt. Auch im Juli fuhren die Züge im Fernverkehr den Ansprüchen hinterher.",
-      "url": "https://www.heise.de/news/Puenktlichkeit-der-Bahn-verschlechtert-sich-im-Juli-deutlich-10542013.html",
-      "image_title": "Ein Zug der DB von der Seite"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -285,8 +285,8 @@
       "url": "https://www.heise.de/hintergrund/OePNV-Warum-deutsche-Zustaende-nicht-normal-sind-10538584.html"
     },
     {
-      "title": "Solar-Förderung: Ministerin Reiche sorgt für Aufruhr",
-      "url": "https://www.heise.de/news/Aufruhr-um-Foerderung-fuer-Solaranlagen-10517595.html"
+      "title": "Bezahlen in Echtzeit: ING führt Paypal-Konkurrent Wero ein",
+      "url": "https://www.heise.de/news/Bezahlen-in-Echtzeit-ING-fuehrt-Paypal-Konkurrent-Wero-ein-10519658.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -299,6 +299,24 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Dauer-Spar-Aktion"
+    },
+    {
+      "title": "Summer-School erfindet Alltagsprodukte neu",
+      "teaser": "Die Hochschule Bielefeld zeigte beim Summer-School-Event, wie man Alltagsgegenstände für nachhaltige Produktionsprozesse gestaltet.",
+      "url": "https://www.heise.de/news/Summer-School-erfindet-Alltagsprodukte-neu-10539058.html",
+      "image_title": "Ein Tisch mit elektronischen Komponenten"
+    },
+    {
+      "title": "Galaxy Buds 3 FE: Samsungs neue \"Fan Edition\"-Ohrstöpsel kosten 150 Euro",
+      "teaser": "Samsung hat neue Ohrstöpsel der FE-Reihe vorgestellt. Die Galaxy Buds 3 FE dürften es zum Start schwer haben.",
+      "url": "https://www.heise.de/news/Galaxy-Buds-3-FE-Samsungs-neue-Fan-Edition-Ohrstoepsel-kosten-150-Euro-10539684.html",
+      "image_title": "Samsung Galaxy Buds 3 FE im geöffneten Case"
+    },
+    {
+      "title": "Pünktlichkeit der Bahn verschlechtert sich im Juli deutlich",
+      "teaser": "Von ihrem Pünktlichkeitsziel für 2025 ist die Bahn deutlich entfernt. Auch im Juli fuhren die Züge im Fernverkehr den Ansprüchen hinterher.",
+      "url": "https://www.heise.de/news/Puenktlichkeit-der-Bahn-verschlechtert-sich-im-Juli-deutlich-10542013.html",
+      "image_title": "Ein Zug der DB von der Seite"
     },
     {
       "title": "KI-Update kompakt: Stromnetze, o3 vs. GPT-5, Claude, KI-Buzzwords, FrOSCon",
@@ -359,6 +377,11 @@
       "image_title": "Emojis über Laptoptastatur"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "Die Produktwerker: Produktmanagement in den USA im Vergleich zu Europa",
       "teaser": "Produktmanagement in den USA: Christoph Steinlehner und Tim Klein sprechen über Unterschiede, Learnings und Chancen für europäische Produktmenschen.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Produktmanagement-in-den-USA-im-Vergleich-zu-Europa-10539114.html",
@@ -375,11 +398,6 @@
       "teaser": "Künstliche Intelligenz ist längst Alltag – doch was genau ist damit gemeint? Dieser Beitrag klärt Begriffe und legt das Fundament für ein besseres Verständnis.",
       "url": "https://www.heise.de/blog/KI-Ueberblick-1-Was-hinter-dem-Begriff-Kuenstliche-Intelligenz-wirklich-steckt-10505545.html",
       "image_title": "Businesswoman,On,Blurred,Background,Using,Digital,3d,Projection,Of,A"
-    },
-    {
-      "title": "Die richtige Prozessarchitektur als Basis zur effizienten Verbesserung von SAP Prozessen",
-      "teaser": "SAP ECC läuft aus, die Migration steht bevor: Wie Sie mit der richtigen Prozessarchitektur Ihre SAP-Landschaft nachhaltig modernisieren, erfahren Sie in diesem Webcast.",
-      "url": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952/?source=hbsadersatz"
     },
     {
       "title": "Deutsche Bürokratie und Finanzierung größte Hürden für Start-ups",
@@ -419,23 +437,6 @@
       "teaser": "Die Initiative \"Berlin autofrei\" will den Autoverkehr beschränken. Die Linken stimmen zu, fordern aber zuvor einen günstigen ÖPNV zu schaffen.",
       "url": "https://www.heise.de/news/Berlin-Stadtverkehr-ohne-Autos-muss-bezahlbar-bleiben-fordert-die-Linke-10539324.html",
       "image_title": "S-Bahn Berlin mit einem Zug der Baureihe ET 481/482"
-    },
-    {
-      "title": "Apple Watch: Echtes Redesign erst nächstes Jahr?",
-      "teaser": "Der Look der Apple-Computeruhr ist seit Start vor 10 Jahren weitgehend gleich geblieben. Nun gibt es neue Gerüchte über äußere Veränderungen – aber erst später.",
-      "url": "https://www.heise.de/news/Apple-Watch-Echtes-Redesign-erst-naechstes-Jahr-10538536.html",
-      "image_title": "Eine Apple Watch liegt auf dem Tisch und zeigt das Ziffernblatt"
-    },
-    {
-      "title": "Überblick kuriose PV-Anlagen: Von Blumenkübeln, Solarblumen und Pflastersteinen",
-      "teaser": "Kurios, praktisch, visionär? Photovoltaik steckt heute überall – vom Blumenkübel bis zum Pflasterstein. Eine Einordnung der Liste der Kuriositäten.",
-      "url": "https://www.heise.de/ratgeber/Ueberblick-kuriose-PV-Anlagen-Von-Blumenkuebeln-Solarblumen-und-Pflastersteinen-10362932.html"
-    },
-    {
-      "title": "Anthropics Claude bricht bei Gefahren Gespräche ab",
-      "teaser": "\"Claude hat den Chat verlassen\" – Anthropics KI-Chatbot kann Gespräche dauerhaft beenden. Des eigenen Wohles wegen.",
-      "url": "https://www.heise.de/news/Anthropics-Claude-bricht-bei-Gefahren-Gespraeche-ab-10539200.html",
-      "image_title": "Ai,Music,Composer,Or,Generator,With,3d,Rendering,Robot,With"
     },
     {
       "title": "Microsoft bittet Großkunden zur Kasse: Keine neuen Volumenlizenzen ab November",
@@ -606,14 +607,15 @@
       "image_title": "Fahne mit dem Pinguin Tux, das Linux-Maskottchen, auf weißem Grund, weht vor einem stilisierten grüner Hügel und blauen Himmel 3D-generierte Illustration."
     },
     {
-      "title": "c't-Webinar: E-Auto – Technik, Alltag, Kaufentscheidung",
-      "teaser": "Das c’t-Webinar erklärt die Funktionsweise verschiedener Antriebe und gibt praxiserprobte Tipps für Alltag und Fahrzeugwahl.",
-      "url": "https://www.heise.de/news/c-t-Webinar-E-Auto-Technik-Alltag-Kaufentscheidung-10512474.html"
-    },
-    {
       "title": "NVR zum Selbsthosten: Frigate erkennt nun Autokennzeichen und Gesichter",
       "teaser": "Neben neuer Objekterkennung gibt es reichlich neue Features. Unter der Haube haben die Entwickler zudem an der Soft- und Hardwareunterstützung gearbeitet.",
       "url": "https://www.heise.de/news/NVR-zum-Selbsthosten-Frigate-erkennt-nun-Autokennzeichen-und-Gesichter-10539288.html"
+    },
+    {
+      "title": "Textsatz mit LaTeX: Tipps und Tricks für lange Texte",
+      "teaser": "Ob Bericht, Abschlussarbeit oder das eigene Buch: Bei langen Texten spielt LaTeX seine wahren Stärken aus. Wir zeigen Ihnen, wie es geht.",
+      "url": "https://www.heise.de/ratgeber/Textsatz-mit-LaTeX-Tipps-und-Tricks-fuer-lange-Texte-10489465.html",
+      "image_title": "Ein Mann vor einem Computer programmiert LaTeX"
     },
     {
       "title": "Spiel-VerderberWarum Gaming auf dem Mac so ein Problem ist",
@@ -634,6 +636,12 @@
       "image_title": ","
     },
     {
+      "title": "Atari-Emulator auf ESP32-Basis bauen mit passenden Joysticks und Controller",
+      "teaser": "Mit einem ESP32, ein paar elektronischen Bauteilen und Kabeln lässt sich günstig ein Atari-800-Heimcomputer bauen, auf dem alte Spiele und Anwendungen laufen.",
+      "url": "https://www.heise.de/ratgeber/Atari-Emulator-auf-ESP32-Basis-bauen-mit-passenden-Joysticks-und-Controller-10474612.html",
+      "image_title": ","
+    },
+    {
       "title": "Update-UmstellungUbuntu 25.10 läuft nicht auf vorhandenen RISC-V-Rechnern",
       "teaser": "Ubuntu 25.10 Questing Quokka kommt zwar auch in RISC-V-Ausführung, aber nur für bisher nicht lieferbare Chips mit RVA23-Technik.",
       "url": "https://www.heise.de/news/RISC-V-und-Linux-Ubuntu-25-10-erzwingt-nagelneue-Prozessoren-10537964.html",
@@ -644,11 +652,6 @@
       "teaser": "Diese Laservorrichtung lässt sich per App steuern, programmieren und an der Decke montieren. So kann sie helfen, in der Werkstatt schnell etwas wiederzufinden.",
       "url": "https://www.heise.de/ratgeber/Bastelprojekt-Bauteile-mit-einem-App-gesteuerten-Laserpointer-finden-10478135.html",
       "image_title": ", Generiert mit ChatGPT"
-    },
-    {
-      "title": "UpdateChromatose: Kraftvoller Video-Synthesizer für iOS",
-      "teaser": "Mit Chromatose gibt es erstmals eine kraftvolle und einfach zu bedienende Video-Synthesizer-App, mit der sich direkt auf dem iPhone Visuals erzeugen lassen.",
-      "url": "https://www.heise.de/news/Chromatose-Kraftvoller-Video-Synthesizer-fuer-iOS-10527308.html"
     },
     {
       "title": "Portfolio: Urbane Fotografie von Jörg Nicht",
@@ -748,22 +751,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Killer-Roboter stoppen: Wissenschaftler warnen vor autonomen Waffen",
-      "teaser": "Wissenschaftler warnen vor autonomen Waffen. Sie sehen Parallelen zum Atomwettrüsten. Doch was macht Killer-Roboter so gefährlich?",
-      "url": "https://www.heise.de/tp/features/Killer-Roboter-stoppen-Wissenschaftler-warnen-vor-autonomen-Waffen-10538954.html",
-      "image_title": "Schloss Cecilienhof"
+      "title": "Schloss Burgk: Thüringens verborgene Mischung aus Geschichte und Spionage",
+      "teaser": "Ein Schloss wie kein anderes: Mittelalter trifft DDR-Agentenfilm – und noch heute gibt es Geheimnisse zu entdecken.",
+      "url": "https://www.heise.de/tp/features/Schloss-Burgk-Thueringens-verborgene-Mischung-aus-Geschichte-und-Spionage-10538716.html",
+      "image_title": "Majestätisch: Schloss Burgk wurde im Mittelalter erbaut, diente in der DDR als Filmkulisse und beherbergt heute ein Museum."
     },
     {
-      "title": "Ukraine-Showdown: Europa kämpft gegen Trumps schnellen Deal mit Putin",
-      "teaser": "Krisengipfel um die Ukraine: Europa stemmt sich gegen Trumps Blitz-Deal mit Putin – und stärkt Selenskyj den Rücken.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Showdown-Europa-kaempft-gegen-Trumps-schnellen-Deal-mit-Putin-10538791.html",
-      "image_title": "Der ukrainische Präsident Wolodymyr Zelensky, der französische Präsident Emmanuel Macron und der britische Premierminister Keir Starmer gehen durch das Zentrum von Kiew."
+      "title": "USA planen Golden Dome: Raketenabwehrschild könnte über 800 Milliarden Dollar kosten",
+      "teaser": "Die USA planen das Abwehrsystem \"Golden Dome\". Schon jetzt warnen Experten vor explodierenden Kosten und unklarer Strategie.",
+      "url": "https://www.heise.de/tp/features/USA-planen-Golden-Dome-Raketenabwehrschild-koennte-ueber-800-Milliarden-Dollar-kosten-10538870.html",
+      "image_title": "Unzählige Satelliten schwirren um die Erde herum"
     },
     {
-      "title": "SpaceX bereitet zehnten Starship-Testflug dieses Wochenende vor",
-      "teaser": "Nach mehreren Fehlschlägen in diesem Jahr erhält die Riesenrakete von Elon Musk die Startfreigabe. Der Test soll am 24. August stattfinden.",
-      "url": "https://www.heise.de/tp/features/SpaceX-bereitet-zehnten-Starship-Testflug-dieses-Wochenende-vor-10539656.html",
-      "image_title": "Zwei Raketen in dramatischem Licht"
+      "title": "Roboter-Spiele in Beijing: Wie China die USA im KI- und Technologie-Wettlauf herausfordert",
+      "teaser": "Bei den Roboter-Spielen in Beijing zeigt China technologische Stärke – und setzt die USA im globalen Rennen um KI und Zukunftstechnologien unter Druck.",
+      "url": "https://www.heise.de/tp/features/Roboter-Spiele-in-Beijing-Wie-China-die-USA-im-KI-und-Technologie-Wettlauf-herausfordert-10538578.html",
+      "image_title": "Eine Cyborg-Läuferin rennt."
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
