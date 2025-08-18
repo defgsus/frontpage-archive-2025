@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-18T11:09:56",
+  "timestamp": "2025-08-18T12:20:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,42 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Wie Angreifer vorgehen – Pentesting mit Open-Source-Tools",
+      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-10516110.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "Microsoft-Insider-Vorschauen: Snipping-Tool kann Fenster-Videos aufnehmen",
+      "teaser": "Microsoft hat neue Windows-Vorschauen in den Insider-Kanälen veröffentlicht. Sie bringen neue Funktionen fürs Snipping-Tool und KI-Features.",
+      "url": "https://www.heise.de/news/Microsoft-Insider-Vorschauen-Snipping-Tool-kann-Fenster-Videos-aufnehmen-10539553.html",
+      "image_title": "Windows-Snipping-Tool kann Fenster aufnehmen"
+    },
+    {
+      "title": "JetBrains Rider 2025.2: KI-Coding-Agent Junie läuft schneller und nutzt MCP",
+      "teaser": "Rider, ReSharper und die .NET-Tools haben Updates erhalten – mit neuen KI-Features, dem Out-of-Process-Modus und verbesserter Performance.",
+      "url": "https://www.heise.de/news/JetBrains-Rider-2025-2-KI-Coding-Agent-Junie-laeuft-schneller-und-nutzt-MCP-10539662.html",
+      "image_title": "Ein Werkzeugkasten hägt an der Wand"
+    },
+    {
       "title": "Die Produktwerker: Produktmanagement in den USA im Vergleich zu Europa",
       "teaser": "Produktmanagement in den USA: Christoph Steinlehner und Tim Klein sprechen über Unterschiede, Learnings und Chancen für europäische Produktmenschen.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Produktmanagement-in-den-USA-im-Vergleich-zu-Europa-10539114.html",
       "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
+    },
+    {
+      "title": "RatgeberWindows-Alternative: Linux Mint als pragmatische Distribution für Einsteiger",
+      "url": "https://www.heise.de/ratgeber/Windows-Alternative-Linux-Mint-als-pragmatische-Distribution-fuer-Einsteiger-10499041.html",
+      "image_title": "Fahne mit dem Pinguin Tux, das Linux-Maskottchen, auf weißem Grund, weht vor einem stilisierten grüner Hügel und blauen Himmel 3D-generierte Illustration."
+    },
+    {
+      "title": "HintergrundMit Java funktional programmieren",
+      "url": "https://www.heise.de/hintergrund/Mit-Java-funktional-programmieren-10514614.html"
+    },
+    {
+      "title": "RatgeberAtari-Emulator auf ESP32-Basis bauen mit passenden Joysticks und Controller",
+      "url": "https://www.heise.de/ratgeber/Atari-Emulator-auf-ESP32-Basis-bauen-mit-passenden-Joysticks-und-Controller-10474612.html",
+      "image_title": ","
     },
     {
       "title": "KI-Überblick 1: Was hinter dem Begriff \"Künstliche Intelligenz\" wirklich steckt",
@@ -47,20 +79,6 @@
       "teaser": "Im AMI Aptio- und AptioV-BIOS haben IT-Forscher eine Sicherheitslücke entdeckt, die die Ausweitung der Rechte im System ermöglicht.",
       "url": "https://www.heise.de/news/AMI-Aptio-BIOS-Rechteausweitung-ermoeglicht-Firmware-Manipulation-10539415.html",
       "image_title": "Achtung-Zeichen in Orange auf blauem Hintergrund"
-    },
-    {
-      "title": "RatgeberWindows-Alternative: Linux Mint als pragmatische Distribution für Einsteiger",
-      "url": "https://www.heise.de/ratgeber/Windows-Alternative-Linux-Mint-als-pragmatische-Distribution-fuer-Einsteiger-10499041.html",
-      "image_title": "Fahne mit dem Pinguin Tux, das Linux-Maskottchen, auf weißem Grund, weht vor einem stilisierten grüner Hügel und blauen Himmel 3D-generierte Illustration."
-    },
-    {
-      "title": "HintergrundMit Java funktional programmieren",
-      "url": "https://www.heise.de/hintergrund/Mit-Java-funktional-programmieren-10514614.html"
-    },
-    {
-      "title": "RatgeberAtari-Emulator auf ESP32-Basis bauen mit passenden Joysticks und Controller",
-      "url": "https://www.heise.de/ratgeber/Atari-Emulator-auf-ESP32-Basis-bauen-mit-passenden-Joysticks-und-Controller-10474612.html",
-      "image_title": ","
     },
     {
       "title": "NVR zum Selbsthosten: Frigate erkennt nun Autokennzeichen und Gesichter",
@@ -129,22 +147,6 @@
       "title": "AlertBIOS-Sicherheitsupdate schließt Schadcodelücke in HP-PCs",
       "teaser": "Angreifer können zahlreiche PC-Modelle von HP attackieren und kompromittieren. Attacken sind aber nicht ohne Weiteres möglich.",
       "url": "https://www.heise.de/news/BIOS-Sicherheitsupdate-schliesst-Schadcodeluecke-in-HP-PCs-10538781.html"
-    },
-    {
-      "title": "AlertPlex-Mediaserver: Entwickler raten zu zügigem Sicherheitsupdate",
-      "teaser": "Derzeit schreiben die Plex-Entwickler Nutzer an und weisen auf einen Sicherheitspatch hin. Die Art der Lücke ist noch unbekannt.",
-      "url": "https://www.heise.de/news/Plex-Mediaserver-Entwickler-raten-zu-zuegigem-Sicherheitsupdate-10538755.html"
-    },
-    {
-      "title": "AlertJetzt patchen! Attacken auf Fortinet-IT-Sicherheitslösungen können bevorstehen",
-      "teaser": "Weil Exploitcode in Umlauf ist, liegen Attacken auf FortiSIEM und FortiWeb-Firewalls nahe. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Fortinet-IT-Sicherheitsloesungen-koennen-bevorstehen-10538724.html"
-    },
-    {
-      "title": "iX-Workshop: Wireshark für Netzwerkdiagnose und -sicherheit",
-      "teaser": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
-      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-fuer-Netzwerkdiagnose-und-sicherheit-10508454.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "NewsProton zieht sich langsam aus der Schweiz zurück",
