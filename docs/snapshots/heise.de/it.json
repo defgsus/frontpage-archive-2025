@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-19T11:08:31",
+  "timestamp": "2025-08-19T12:19:15",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,28 @@
   ],
   "articles": [
     {
+      "title": "AlertAngriffe auf N-able N-central laufen, mehr als 1000 Systeme ungepatcht",
+      "teaser": "Noch mehr als tausend Instanzen von des RMM N-able N-central sind für kritische Lücken anfällig. Die werden bereits attackiert.",
+      "url": "https://www.heise.de/news/Angriffe-auf-N-able-N-central-laufen-mehr-als-1000-Systeme-ungepatcht-10547498.html",
+      "image_title": "Person arbeitet an einem Schreibtisch mit zwei Monitoren, auf denen komplexe Software- und Netzwerkdiagramme angezeigt werden."
+    },
+    {
+      "title": "iX-Workshop: Mit Kubernetes zur effizienten Container-Orchestrierung",
+      "teaser": "Von der Automatisierung bis zur Wartung – ein praxisorientierter Einstieg in die Container-Orchestrierung mit Kubernetes.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Kubernetes-zur-effizienten-Container-Orchestrierung-10516156.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "Mac Pro: M4 Ultra doch noch im Anmarsch?",
+      "teaser": "Einem Code-Leak zufolge arbeitet Apple weiterhin an einer Ultra-Variante des aktuellen M4-SoC. Dieser soll für ein neues Mac-Pro-Modell vorgesehen sein.",
+      "url": "https://www.heise.de/news/Mac-Pro-M4-Ultra-doch-noch-im-Anmarsch-10544285.html",
+      "image_title": "Apple Mac Pro"
+    },
+    {
       "title": "Coding mit Python: Über 80 Prozent nutzen ChatGPT",
       "teaser": "Die beliebtesten KI-Helfer unter Python-Entwicklern sind OpenAI ChatGPT und GitHub Copilot. Das zeigt eine neue Umfrage mit mehr als 25.000 Teilnehmenden.",
       "url": "https://www.heise.de/news/Coding-mit-Python-Ueber-80-Prozent-nutzen-ChatGPT-10547408.html",
       "image_title": "KI-Symbolbild"
-    },
-    {
-      "title": "US-Staatsanwalt untersucht KI-Chatbots von Meta und Character.ai",
-      "teaser": "KI-Chatbots können vor allem Heranwachsenden schaden, das meint ein Staatsanwalt aus Texas. Er hat Untersuchungen eingeleitet.",
-      "url": "https://www.heise.de/news/US-Staatsanwalt-untersucht-KI-Chatbots-von-Meta-und-Character-ai-10544772.html",
-      "image_title": "Junge mit Smartphone vor mehreren virtuellen Anzeigen"
-    },
-    {
-      "title": "Allianz-Tocher Life: Daten vom Einbruch nun bei Have-I-Been-Pwned",
-      "teaser": "Im Juli haben Kriminelle Zugriff auf IT der US-Tochterfirma Life der Allianz erlangt. Die dabei gezockten Daten sind nun bei HIBP.",
-      "url": "https://www.heise.de/news/Allianz-Tocher-Life-Daten-vom-Einbruch-nun-bei-Have-I-Been-Pwned-10547264.html"
-    },
-    {
-      "title": "Live-Webinar: Wie iOS 26 & Co. das Apple Gerätemanagement verändern",
-      "teaser": "Von Declarative Device Management bis ManagedApp Framework – erfahren Sie, was Apple Betriebssystem-Updates für das Mobile Device Management bedeuten.",
-      "url": "https://www.heise.de/news/Live-Webinar-Wie-iOS-26-Co-das-Apple-Geraetemanagement-veraendern-10503865.html"
     },
     {
       "title": "RatgebermacOS statt Windows: So können Sie mit macOS loslegen",
@@ -59,6 +61,22 @@
     {
       "title": "HintergrundMit Java funktional programmieren",
       "url": "https://www.heise.de/hintergrund/Mit-Java-funktional-programmieren-10514614.html"
+    },
+    {
+      "title": "US-Staatsanwalt untersucht KI-Chatbots von Meta und Character.ai",
+      "teaser": "KI-Chatbots können vor allem Heranwachsenden schaden, das meint ein Staatsanwalt aus Texas. Er hat Untersuchungen eingeleitet.",
+      "url": "https://www.heise.de/news/US-Staatsanwalt-untersucht-KI-Chatbots-von-Meta-und-Character-ai-10544772.html",
+      "image_title": "Junge mit Smartphone vor mehreren virtuellen Anzeigen"
+    },
+    {
+      "title": "Allianz-Tochter Life: Daten vom Einbruch nun bei Have-I-Been-Pwned",
+      "teaser": "Im Juli haben Kriminelle Zugriff auf IT der US-Tochterfirma Life der Allianz erlangt. Die dabei gezockten Daten sind nun bei HIBP.",
+      "url": "https://www.heise.de/news/Allianz-Tocher-Life-Daten-vom-Einbruch-nun-bei-Have-I-Been-Pwned-10547264.html"
+    },
+    {
+      "title": "Live-Webinar: Wie iOS 26 & Co. das Apple Gerätemanagement verändern",
+      "teaser": "Von Declarative Device Management bis ManagedApp Framework – erfahren Sie, was Apple Betriebssystem-Updates für das Mobile Device Management bedeuten.",
+      "url": "https://www.heise.de/news/Live-Webinar-Wie-iOS-26-Co-das-Apple-Geraetemanagement-veraendern-10503865.html"
     },
     {
       "title": "AlertSicherheitspatch: HCL BigFix SaaS Remediate kann crashen",
@@ -129,23 +147,6 @@
       "teaser": "Der Onlineshop vidaXL meldet einen Einbruch in Server mit Kundendaten. Daten können abgeflossen sein, die authentischeres Phishing ermöglichen.",
       "url": "https://www.heise.de/news/Datenleck-bei-Onlineshop-vidaXL-10544561.html",
       "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
-    },
-    {
-      "title": "Intel verkauft Server-Topmodell mit 128 Kernen zum halben Preis",
-      "teaser": "Zum Jahresanfang verringerte Intel bereits die Preisempfehlungen für Server-CPUs. Händler unterbieten sie noch erheblich.",
-      "url": "https://www.heise.de/news/Intel-verkauft-Server-Topmodell-mit-128-Kernen-zum-halben-Preis-10544467.html",
-      "image_title": "Intel-Xeon-Prozessor von vorn und hinten nebeneinander vor blauem Hintergrund"
-    },
-    {
-      "title": "KI-Systeme bevorzugen eigene Texte: Studie warnt vor \"Anti-Human-Bias\"",
-      "teaser": "Wissenschaftler haben nachgewiesen, dass Large Language Models Inhalte anderer KI-Systeme bevorzugen. Was Menschen daraus lernen können.",
-      "url": "https://www.heise.de/news/KI-Systeme-bevorzugen-eigene-Texte-Studie-warnt-vor-Anti-Human-Bias-10544419.html",
-      "image_title": "Abstraktes Bild von einer Künstliche Intelligenz. Zu sehen ist eine helle Maske mit verschiedenen Schichten."
-    },
-    {
-      "title": "Live-Webinar: Professioneller Support für Apple-Geräte",
-      "teaser": "Im neuen vierteiligen Mac & i-Webinar lernen Sie macOS, iOS und iPadOS so gut kennen, dass Sie zuverlässigen und souveränen Support dafür leisten können.",
-      "url": "https://www.heise.de/news/Live-Webinar-Professioneller-Support-fuer-Apple-Geraete-10544337.html"
     },
     {
       "title": "NewsProton zieht sich langsam aus der Schweiz zurück",
