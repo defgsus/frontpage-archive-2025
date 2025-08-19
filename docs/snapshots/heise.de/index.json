@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-19T20:11:05",
+  "timestamp": "2025-08-19T21:08:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Stable Diffusion: Neue Erweiterung bringt KI-Bilder in LibreOffice",
+      "url": "https://www.heise.de/news/Stable-Diffusion-Neue-Erweiterung-bringt-KI-Bilder-in-LibreOffice-10550263.html"
+    },
     {
       "title": "\"Zero Parades\": ZA/UM stellt inoffiziellen Nachfolger von \"Disco Elysium\" vor",
       "url": "https://www.heise.de/news/Zero-Parades-ZA-UM-stellt-inoffiziellen-Nachfolger-von-Disco-Elysium-vor-10550247.html"
@@ -60,10 +64,6 @@
     {
       "title": "Lebensmittel: Haltbarkeitsvorgaben gelten nicht bei Online-Bestellungen",
       "url": "https://www.heise.de/news/Lebensmittel-Haltbarkeitsvorgaben-gelten-nicht-bei-Online-Bestellungen-10550016.html"
-    },
-    {
-      "title": "Mini-Gaming-PC Zotac ZBox Magnus One im Test: Intel Ultra 7 & RTX 5070",
-      "url": "https://www.heise.de/bestenlisten/testbericht/mini-gaming-pc-zotac-zbox-magnus-one-im-test-intel-ultra-7-und-rtx-5070/s8gpckq"
     },
     {
       "title": "Umstellung auf digitale FotosDer Personalausweis wird teurer",
@@ -185,21 +185,27 @@
       "image_title": "Raspberry Pi mit einem aufgeschnallten Display auf grauem Untergrund"
     },
     {
+      "title": "Stable Diffusion: Neue Erweiterung bringt KI-Bilder in LibreOffice",
+      "teaser": "Eine neue Erweiterung bringt Bilderzeugung mittels Stable Diffusion in LibreOffice. Dank Freiwilliger ist das gebührenfrei.",
+      "url": "https://www.heise.de/news/Stable-Diffusion-Neue-Erweiterung-bringt-KI-Bilder-in-LibreOffice-10550263.html",
+      "image_title": "Das LibreOffice-Logo wird auf einem Laptop-Display angezeigt."
+    },
+    {
       "title": "\"Zero Parades\": ZA/UM stellt inoffiziellen Nachfolger von \"Disco Elysium\" vor",
       "teaser": "Mit \"Zero Parades\" will ZA/UM offensichtlich an den Erfolg von \"Disco Elysium\" anknüpfen. Doch die Kreativköpfe haben das Studio längst verlassen.",
       "url": "https://www.heise.de/news/Zero-Parades-ZA-UM-stellt-inoffiziellen-Nachfolger-von-Disco-Elysium-vor-10550247.html",
       "image_title": "Screenshot aus Zero Parades"
     },
     {
+      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
+      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Prime Video: Erster Trailer zu Staffel 2 von \"Fallout\" veröffentlicht",
       "teaser": "Zur Gamescom-Eröffnung hat Amazon einen ersten Trailer zur zweiten Staffel von \"Fallout\" veröffentlicht. Zu sehen ist Staffel 2 ab Dezember.",
       "url": "https://www.heise.de/news/Fallout-Amazon-veroeffentlicht-Trailer-zu-Staffel-2-10544748.html",
       "image_title": "Szene aus Staffel 2 von Fallout"
-    },
-    {
-      "title": "Firmen-Security in Zeiten von Trump, Putin & Co.",
-      "teaser": "Eine echte Sicherheit für Unternehmen und Behörden ist derzeit nur mit digitaler Souveränität möglich. Denn wer auf nicht-europäische Infrastrukturen setzt, riskiert staatliche Datenzugriffe.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7034195658&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Das beste E-Bike für Damen & Herren – bequeme Tiefeinsteiger im Test",
@@ -227,12 +233,6 @@
       "teaser": "Ab dem 25. August bekommen Käufer von Intels CPUs und GPUs \"Battlefield 6\". Schon ein 120-Euro-Prozessor erhält die Dreingabe.",
       "url": "https://www.heise.de/news/Intel-legt-Bundle-mit-Battlefield-6-auf-10550054.html",
       "image_title": "Intel Core Ultra 200S im Mainboard"
-    },
-    {
-      "title": "Portfolio: Urbane Fotografie von Jörg Nicht",
-      "teaser": "Mit klaren Kompositionen und feinen Farben erzählt Joerg Nicht in seinen Bildern vom urbanen Leben. Er beweist, dass gute Fotografie nicht laut sein muss.",
-      "url": "https://www.heise.de/hintergrund/Portfolio-Urbane-Fotografie-von-Joerg-Nicht-10522651.html",
-      "image_title": "Berlin – die Mischung aus dem parkenden VW-Bus und einem blühenden Kirschbaum ergibt ein wunderbares Spiel der Farben., Alle Bilder: Joerg Nicht"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -300,6 +300,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Dauer-Spar-Aktion"
+    },
+    {
+      "title": "Portfolio: Urbane Fotografie von Jörg Nicht",
+      "teaser": "Mit klaren Kompositionen und feinen Farben erzählt Joerg Nicht in seinen Bildern vom urbanen Leben. Er beweist, dass gute Fotografie nicht laut sein muss.",
+      "url": "https://www.heise.de/hintergrund/Portfolio-Urbane-Fotografie-von-Joerg-Nicht-10522651.html",
+      "image_title": "Berlin – die Mischung aus dem parkenden VW-Bus und einem blühenden Kirschbaum ergibt ein wunderbares Spiel der Farben., Alle Bilder: Joerg Nicht"
     },
     {
       "title": "Lebensmittel: Haltbarkeitsvorgaben gelten nicht bei Online-Bestellungen",
@@ -372,15 +378,15 @@
       "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
+      "title": "Die richtige Prozessarchitektur als Basis zur effizienten Verbesserung von SAP Prozessen",
+      "teaser": "SAP ECC läuft aus, die Migration steht bevor: Wie Sie mit der richtigen Prozessarchitektur Ihre SAP-Landschaft nachhaltig modernisieren, erfahren Sie in diesem Webcast.",
+      "url": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952/?source=hbsadersatz"
+    },
+    {
       "title": "GeForce Now bekommt RTX-5080-Äquivalent und neue AMD Ryzen Threadripper",
       "teaser": "Die Ultimate-Klasse von Nvidias GeForce Now bekommt ein großes Hardware-Upgrade. Nutzer können bald selbst Spiele installieren.",
       "url": "https://www.heise.de/news/GeForce-Now-bekommt-RTX-5080-Aequivalent-und-neue-AMD-Ryzen-Threadripper-10547366.html",
       "image_title": "Podeste mit verschiedenen Spielplattformen"
-    },
-    {
-      "title": "So optimieren Sie den Einsatz von High-Performance-GPUs",
-      "teaser": "Hochleistungs-GPUs sind unverzichtbar, wenn es um anspruchsvolle Aufgaben geht. Doch erst im Zusammenspiel mit ebenso leistungsfähigen CPUs können sie ihre volle Performance entfalten.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/so-optimieren-sie-den-einsatz-von-high-performance-gpus/?source=hbsadersatz"
     },
     {
       "title": "Mac Pro: M4 Ultra doch noch im Anmarsch?",
@@ -433,11 +439,6 @@
       "teaser": "Neben einem neuen adaptiven Modus zur Akkusparsamkeit reicht Apple in iOS 26 eine weitere neue Batteriefunktion nach. Nutzer bekommen nun explizite Hinweise.",
       "url": "https://www.heise.de/news/Verbesserte-Akkunutzung-iOS-26-gibt-Hinweise-an-Nutzer-10544876.html",
       "image_title": "iPhone mit Batterie-Widget"
-    },
-    {
-      "title": "AlertTrend Micro Apex One: Finaler Fix für Fehler veröffentlicht",
-      "teaser": "Trend Micro hat für eine bereits angegriffene kritische Sicherheitslücke in Apex One Management Console (On-Premises) einen finalen Patch veröffentlicht.",
-      "url": "https://www.heise.de/news/Trend-Micro-Apex-One-Finaler-Fix-fuer-Fehler-veroeffentlicht-10544967.html"
     },
     {
       "title": "Verbesserung von nur 1,7 Prozent: Phishing-Training fast immer wirkungslos",
@@ -605,21 +606,21 @@
       "url": "https://www.heise.de/en/background/Public-transport-Why-German-conditions-are-not-normal-10538614.html"
     },
     {
-      "title": "Format-Analyse: So unterscheidet sich Dolby-Atmos-Ton für Kino, Disc und Stream",
-      "teaser": "Das Atmos-Format besteht aus vielen Untervarianten für einzelne Ausspielkanäle. Wir erklären im Detail, worauf Produzenten und Konsumenten achten sollten.",
-      "url": "https://www.heise.de/hintergrund/Format-Analyse-So-unterscheidet-sich-Dolby-Atmos-Ton-fuer-Kino-Disc-und-Stream-10493188.html"
-    },
-    {
-      "title": "Textsatz mit LaTeX: Tipps und Tricks für lange Texte",
-      "teaser": "Ob Bericht, Abschlussarbeit oder das eigene Buch: Bei langen Texten spielt LaTeX seine wahren Stärken aus. Wir zeigen Ihnen, wie es geht.",
-      "url": "https://www.heise.de/ratgeber/Textsatz-mit-LaTeX-Tipps-und-Tricks-fuer-lange-Texte-10489465.html",
-      "image_title": "Ein Mann vor einem Computer programmiert LaTeX"
+      "title": "Umstellung auf digitale FotosDer Personalausweis wird teurer",
+      "teaser": "Die Bundesregierung will die Gebühr für den Perso erhöhen. Eine Rolle spielt dabei auch die Umstellung auf digitale Passfotos.",
+      "url": "https://www.heise.de/news/Der-Personalausweis-wird-teurer-10539445.html"
     },
     {
       "title": "Windows-AlternativeLinux Mint als pragmatische Distribution für Einsteiger",
       "teaser": "Linux ist heute so einsteigerfreundlich wie nie zuvor. Trotzdem muss man sich hier und da umgewöhnen. Unser Tipp: Mit Linux Mint gelingt der Umstieg.",
       "url": "https://www.heise.de/ratgeber/Windows-Alternative-Linux-Mint-als-pragmatische-Distribution-fuer-Einsteiger-10499041.html",
       "image_title": "Fahne mit dem Pinguin Tux, das Linux-Maskottchen, auf weißem Grund, weht vor einem stilisierten grüner Hügel und blauen Himmel 3D-generierte Illustration."
+    },
+    {
+      "title": "Textsatz mit LaTeX: Tipps und Tricks für lange Texte",
+      "teaser": "Ob Bericht, Abschlussarbeit oder das eigene Buch: Bei langen Texten spielt LaTeX seine wahren Stärken aus. Wir zeigen Ihnen, wie es geht.",
+      "url": "https://www.heise.de/ratgeber/Textsatz-mit-LaTeX-Tipps-und-Tricks-fuer-lange-Texte-10489465.html",
+      "image_title": "Ein Mann vor einem Computer programmiert LaTeX"
     },
     {
       "title": "Spiel-VerderberWarum Gaming auf dem Mac so ein Problem ist",
@@ -640,6 +641,12 @@
       "image_title": "Mac mit Festplatte"
     },
     {
+      "title": "Mit ControllerAtari-Emulator auf ESP32-Basis bauen",
+      "teaser": "Mit einem ESP32, ein paar elektronischen Bauteilen und Kabeln lässt sich günstig ein Atari-800-Heimcomputer bauen.",
+      "url": "https://www.heise.de/ratgeber/Atari-Emulator-auf-ESP32-Basis-bauen-mit-passenden-Joysticks-und-Controller-10474612.html",
+      "image_title": ","
+    },
+    {
       "title": "Update-UmstellungUbuntu 25.10 läuft nicht auf vorhandenen RISC-V-Rechnern",
       "teaser": "Ubuntu 25.10 Questing Quokka kommt zwar auch in RISC-V-Ausführung, aber nur für bisher nicht lieferbare Chips mit RVA23-Technik.",
       "url": "https://www.heise.de/news/RISC-V-und-Linux-Ubuntu-25-10-erzwingt-nagelneue-Prozessoren-10537964.html",
@@ -650,11 +657,6 @@
       "teaser": "Diese Laservorrichtung lässt sich per App steuern, programmieren und an der Decke montieren. So kann sie helfen, in der Werkstatt schnell etwas wiederzufinden.",
       "url": "https://www.heise.de/ratgeber/Bastelprojekt-Bauteile-mit-einem-App-gesteuerten-Laserpointer-finden-10478135.html",
       "image_title": ", Generiert mit ChatGPT"
-    },
-    {
-      "title": "UpdateChromatose: Kraftvoller Video-Synthesizer für iOS",
-      "teaser": "Mit Chromatose gibt es erstmals eine kraftvolle und einfach zu bedienende Video-Synthesizer-App, mit der sich direkt auf dem iPhone Visuals erzeugen lassen.",
-      "url": "https://www.heise.de/news/Chromatose-Kraftvoller-Video-Synthesizer-fuer-iOS-10527308.html"
     },
     {
       "title": "Portfolio: Urbane Fotografie von Jörg Nicht",
@@ -759,16 +761,16 @@
       "image_title": "Ein Produktcontainer im Verschiffungshafen, der unter chinesischer Flagge fährt, wird für den Import- und Exporthandel aus China eingesetzt."
     },
     {
-      "title": "China exportiert wieder mehr seltene Erden",
-      "teaser": "Exporte erholen sich wieder nach Handelsstreit mit den USA. Zugleich warnt Beijing westliche Unternehmen vor Hortung. Ein Überblick.",
-      "url": "https://www.heise.de/tp/features/China-exportiert-wieder-mehr-seltene-Erden-10539449.html",
-      "image_title": "Batterien auf eienm Fließband"
+      "title": "Giftanschläge auf Bäume in Hessen: Immer mehr alte Eichen und Platanen sterben durch Glyphosat",
+      "teaser": "In Hessen häufen sich Giftanschläge auf alte Bäume: Eichen, Platanen und Linden werden mit Glyphosat vergiftet – Polizei tappt im Dunkeln.",
+      "url": "https://www.heise.de/tp/features/Giftanschlaege-auf-Baeume-in-Hessen-Immer-mehr-alte-Eichen-und-Platanen-sterben-durch-Glyphosat-10538940.html",
+      "image_title": "Grüne große Laubeichen im Park"
     },
     {
-      "title": "Rundfunkbeitrag-Reform vor dem Aus: Länder blockieren neues Finanzierungsmodell",
-      "teaser": "Die geplante Reform der Rundfunkfinanzierung steckt fest: Mehrere Länder stellen sich quer – das neue Modell droht noch vor dem Start zu scheitern.",
-      "url": "https://www.heise.de/tp/features/Rundfunkbeitrag-Reform-vor-dem-Aus-Laender-blockieren-neues-Finanzierungsmodell-10539745.html",
-      "image_title": "\"Der Rundfunkbeitrag. Wir sind für Sie da\". Aufschrift auf einer Glastür in Köln."
+      "title": "China plant größtes Teleskop der Nordhalbkugel – geheimnisvolles Projekt in Tibet",
+      "teaser": "China baut still an einem gigantischen Teleskop. Mit 14,5 Metern Spiegelgröße wäre es eines der mächtigsten Himmelsaugen der Welt.",
+      "url": "https://www.heise.de/tp/features/China-plant-groesstes-Teleskop-der-Nordhalbkugel-geheimnisvolles-Projekt-in-Tibet-10538880.html",
+      "image_title": "Eine gotische Kathedrale (120 m hoch) wurde gegen ein moderne Riesenteleskop (80 m hoch) fotomontiert."
     },
     {
       "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2025 im Vergleich",
