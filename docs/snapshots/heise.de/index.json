@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-21T06:20:41",
+  "timestamp": "2025-08-21T07:13:57",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "\"Rust wird Pythons Performance-Copilot\"",
+      "url": "https://www.heise.de/news/Rust-wird-Pythons-Performance-Copilot-10560070.html"
+    },
+    {
+      "title": "\"Keeper\" von Double Fine: \"Schräg, aber entspannt\"",
+      "url": "https://www.heise.de/news/Keeper-von-Double-Fine-Schraeg-aber-entspannt-10559856.html"
+    },
+    {
+      "title": "GPT-5 im Agenten-Test",
+      "url": "https://www.heise.de/hintergrund/GPT-5-im-Agenten-im-Test-10552971.html"
+    },
     {
       "title": "Risikomanagement und Resilienz in der IT-Sicherheit: IT-Sicherheitstag Dortmund",
       "url": "https://www.heise.de/news/Risikomanagement-und-Resilienz-in-der-IT-Sicherheit-IT-Sicherheitstag-Dortmund-10518127.html"
@@ -52,18 +64,6 @@
     {
       "title": "Porsche dreht Akku-Tochter Cellforce den Saft ab",
       "url": "https://www.heise.de/news/Porsche-dreht-Akku-Tochter-Cellforce-den-Saft-ab-10559958.html"
-    },
-    {
-      "title": "Neue Tricks mit QR-Codes",
-      "url": "https://www.heise.de/news/Neue-Tricks-mit-QR-Codes-10559942.html"
-    },
-    {
-      "title": "Aus für den Google Assistant: Gemini kommt ab Oktober ins Smart-Home",
-      "url": "https://www.heise.de/news/Google-Assistant-zieht-aus-Gemini-kommt-ins-Smart-Home-10559916.html"
-    },
-    {
-      "title": "Zwischen Indiana Jones und Lara Croft: VR-Abenteuer \"Reach\" kommt im Oktober",
-      "url": "https://www.heise.de/news/Zwischen-Indiana-Jones-und-Lara-Croft-VR-Abenteuer-Reach-kommt-im-Oktober-10544715.html"
     },
     {
       "title": "Pixel 10, 10 Pro und XLGoogle-Smartphones mit \"Pixelsnap\" und Android 16",
@@ -208,6 +208,28 @@
       "image_title": "Rötlich leuchtendes Warndreieck"
     },
     {
+      "title": "\"Rust wird Pythons Performance-Copilot\"",
+      "teaser": "Die Studie State of Python 2025 hebt einen Aspekt hervor: Rust gewinnt zunehmend an Bedeutung in der Python-Welt, gerade, wenn es um Geschwindigkeit geht.",
+      "url": "https://www.heise.de/news/Rust-wird-Pythons-Performance-Copilot-10560070.html",
+      "image_title": "Krabbe mit Python"
+    },
+    {
+      "title": "\"Keeper\" von Double Fine: \"Schräg, aber entspannt\"",
+      "teaser": "Ein Leuchtturm, der auf vier Beinen durch eine Fantasy-Welt kraxelt: Die Idee für \"Keeper\" kam dem Entwicklungschef beim Wandern während der Coronapandemie.",
+      "url": "https://www.heise.de/news/Keeper-von-Double-Fine-Schraeg-aber-entspannt-10559856.html",
+      "image_title": "Screenshot aus \"Keeper\""
+    },
+    {
+      "title": "Betriebssystem und Treiber updaten – ohne WSUS",
+      "teaser": "Durch die Abkündigung des Windows Server Update Services (WSUS) müssen Admins neue Lösungen für die Treiberverwaltung finden. Als Alternative bietet sich ein Aagon-Modul mit dem Namen „CAWUM“ an.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7044192373&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "GPT-5 im Agenten-Test",
+      "teaser": "OpenAI verspricht für GPT-5 eine bessere Leistung in agentischen KI-Workflows. Wir haben getestet, wie es sich im Vergleich schlägt – und was das kostet.",
+      "url": "https://www.heise.de/hintergrund/GPT-5-im-Agenten-im-Test-10552971.html"
+    },
+    {
       "title": "Risikomanagement und Resilienz in der IT-Sicherheit: IT-Sicherheitstag Dortmund",
       "teaser": "Am 16. September bietet die eintägige Konferenz an der FH Dortmund wieder spannende Inhalte für Forschung und Wirtschaft: Von Hacking bis LLM-Angriffen.",
       "url": "https://www.heise.de/news/Risikomanagement-und-Resilienz-in-der-IT-Sicherheit-IT-Sicherheitstag-Dortmund-10518127.html"
@@ -217,11 +239,6 @@
       "teaser": "Vor dem Kauf lohnt der Kostenvergleich zwischen Neu- und Gebrauchtwagen. Wir zeigen, wie groß die Unterschiede bei Familienautos ausfallen können.",
       "url": "https://www.heise.de/ratgeber/Elektroautos-fuer-Familien-Neu-und-Gebrauchtwagen-bis-50-000-Euro-im-Vergleich-10456415.html",
       "image_title": "Skoda Enyaq"
-    },
-    {
-      "title": "Firmen-Security in Zeiten von Trump, Putin & Co.",
-      "teaser": "Eine echte Sicherheit für Unternehmen und Behörden ist derzeit nur mit digitaler Souveränität möglich. Denn wer auf nicht-europäische Infrastrukturen setzt, riskiert staatliche Datenzugriffe.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7034195658&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Automatisierte Notrufe halten Leitstellen auf Trab",
@@ -239,24 +256,6 @@
       "title": "#heiseshow: Showrooming, Handyverbot an Schulen, Googles KI-Übersichten",
       "teaser": "In der #heiseshow: Einzelhandel kämpft gegen Beratungsmissbrauch, Handyverbote an Schulen im Fokus und Googles KI bedroht Website-Traffic.",
       "url": "https://www.heise.de/news/heiseshow-Showrooming-Handyverbot-an-Schulen-Googles-KI-Uebersichten-10559815.html"
-    },
-    {
-      "title": "Amazons künftige Fire-Tablets wohl mit Android statt eigenem Betriebssystem",
-      "teaser": "Nächstes Jahr soll Amazon ein Tablet mit Android statt eigenem Fire OS bringen. Der Wechsel des Betriebssystems soll neue Kunden locken, aber der Preis steigt.",
-      "url": "https://www.heise.de/news/Amazons-kuenftige-Fire-Tablets-wohl-mit-Android-statt-eigenem-Betriebssystem-10560016.html",
-      "image_title": "Amazon Fire Max 11 mit Prime Video im Schoß eines Nutzers"
-    },
-    {
-      "title": "Porsche dreht Akku-Tochter Cellforce den Saft ab",
-      "teaser": "Kahlschlag bei Cellforce: Autohersteller Porsche zieht sich aus der Herstellung von Hochleistungs-Traktionsakkumulatoren für Fahrzeuge zurück.",
-      "url": "https://www.heise.de/news/Porsche-dreht-Akku-Tochter-Cellforce-den-Saft-ab-10559958.html",
-      "image_title": "Porsche Auspuff"
-    },
-    {
-      "title": "Neue Tricks mit QR-Codes",
-      "teaser": "QR-Codes sind beliebte Vehikel für Verbrecher, Hyperlinks an Sicherheitssystemen vorbei zum Opfer zu schleusen. Der Einfallsreichtum ist groß.",
-      "url": "https://www.heise.de/news/Neue-Tricks-mit-QR-Codes-10559942.html",
-      "image_title": "Leuchtender QR-Code schwebt vor einem Hintergrund aus Nullen und Einsern"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -325,6 +324,24 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "Amazons künftige Fire-Tablets wohl mit Android statt eigenem Betriebssystem",
+      "teaser": "Nächstes Jahr soll Amazon ein Tablet mit Android statt eigenem Fire OS bringen. Der Wechsel des Betriebssystems soll neue Kunden locken, aber der Preis steigt.",
+      "url": "https://www.heise.de/news/Amazons-kuenftige-Fire-Tablets-wohl-mit-Android-statt-eigenem-Betriebssystem-10560016.html",
+      "image_title": "Amazon Fire Max 11 mit Prime Video im Schoß eines Nutzers"
+    },
+    {
+      "title": "Porsche dreht Akku-Tochter Cellforce den Saft ab",
+      "teaser": "Kahlschlag bei Cellforce: Autohersteller Porsche zieht sich aus der Herstellung von Hochleistungs-Traktionsakkumulatoren für Fahrzeuge zurück.",
+      "url": "https://www.heise.de/news/Porsche-dreht-Akku-Tochter-Cellforce-den-Saft-ab-10559958.html",
+      "image_title": "Porsche Auspuff"
+    },
+    {
+      "title": "Neue Tricks mit QR-Codes",
+      "teaser": "QR-Codes sind beliebte Vehikel für Verbrecher, Hyperlinks an Sicherheitssystemen vorbei zum Opfer zu schleusen. Der Einfallsreichtum ist groß.",
+      "url": "https://www.heise.de/news/Neue-Tricks-mit-QR-Codes-10559942.html",
+      "image_title": "Leuchtender QR-Code schwebt vor einem Hintergrund aus Nullen und Einsern"
+    },
+    {
       "title": "Aus für den Google Assistant: Gemini kommt ab Oktober ins Smart-Home",
       "teaser": "Google läutet das Ende des Google Assistant im Smart-Home ein. Ab Oktober soll \"Gemini for Home\" auf Nest-Geräten landen.",
       "url": "https://www.heise.de/news/Google-Assistant-zieht-aus-Gemini-kommt-ins-Smart-Home-10559916.html",
@@ -380,6 +397,11 @@
       "url": "https://www.heise.de/ratgeber/Zauberwuerfel-mit-leuchtenden-Loesungsvorschlaegen-im-Eigenbau-10492165.html"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Erfahren Sie in einem Webcast, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "Asus' ROG Matrix Platinum GeForce RTX 5090 erinnert an Radeon HD 4870",
       "teaser": "Asus will die schnellste GeForce RTX 5090 auflegen. Die ROG Matrix Platinum erinnert an alte Modelle wie die Radeon HD 4870.",
       "url": "https://www.heise.de/news/Asus-ROG-Matrix-Platinum-GeForce-RTX-5090-erinnert-an-Radeon-HD-4870-10559719.html",
@@ -396,11 +418,6 @@
       "teaser": "Mit Positron veröffentlicht Posit eine neue, kostenlose IDE für Data Science. Nutzer können mit Python und R arbeiten. Sie löst RStudio explizit nicht ab.",
       "url": "https://www.heise.de/news/Posit-stellt-Positron-vor-Neue-IDE-fuer-Data-Science-mit-Python-und-R-10557812.html",
       "image_title": "Dashboard Posit Positron IDE"
-    },
-    {
-      "title": "Die richtige Prozessarchitektur als Basis zur effizienten Verbesserung von SAP Prozessen",
-      "teaser": "SAP ECC läuft aus, die Migration steht bevor: Wie Sie mit der richtigen Prozessarchitektur Ihre SAP-Landschaft nachhaltig modernisieren, erfahren Sie in diesem Webcast.",
-      "url": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952/?source=hbsadersatz"
     },
     {
       "title": "Balkonkraftwerk günstig wie nie: Die besten Angebote – ab 330 Euro",
@@ -441,23 +458,6 @@
       "image_title": "Roboter mit der Hand am Mund, um ihn herum ganz viele digitale Schriftzüge mit dem Wort \"Data\""
     },
     {
-      "title": "CLC 2025-Konferenz: Impulse für Developer Experience und Platform Engineering",
-      "teaser": "Praxisrelevantes Know-how von KI-getriebenen Plattformen über Developer Experience bis hin zu Security, Observability und effektiven Delivery-Strategien.",
-      "url": "https://www.heise.de/news/CLC-2025-Konferenz-Impulse-fuer-Developer-Experience-und-Platform-Engineering-10512941.html",
-      "image_title": "CLC 2025: Programm veröffentlicht"
-    },
-    {
-      "title": "Austauschen statt wegwerfen: Powerbanks mit Wechselakkus im Test",
-      "teaser": "Streikt die Powerbank, landet sie meist im Schrott. Nachhaltiger gehts mit einer leicht zu öffnenden Powerbank für 18650-Akkus.",
-      "url": "https://www.heise.de/tests/Austauschen-statt-wegwerfen-Powerbanks-mit-Wechselakkus-im-Test-10486350.html"
-    },
-    {
-      "title": "S/2025 U 1: Ein weiterer kleiner Mond des Uranus entdeckt",
-      "teaser": "Mehr Monde als der Uranus haben im Sonnensystem nur der Jupiter und der Saturn. Nun ist ein weiterer dazugekommen, die Gesamtzahl steigt damit auf jetzt 29.",
-      "url": "https://www.heise.de/news/Mit-dem-Weltraumteleskop-James-Webb-Weiterer-kleiner-Mond-des-Uranus-entdeckt-10551203.html",
-      "image_title": "Aufnahme des Uranus mit einer Reihe von beschrifteten Monden"
-    },
-    {
       "title": "Windows-Update: August-Patches mit Nebenwirkungen",
       "url": "https://www.heise.de/news/Windows-Update-Neue-Probleme-aufgetreten-alte-geloest-10544743.html",
       "image_title": "Windows Updates verfügbar: Herunterladen"
@@ -483,8 +483,9 @@
       "image_title": "Aufnahme einer Galaxie mit einem markierten Lichtpunkt und der BEschriftung Earendel"
     },
     {
-      "title": "Kommentar: Handyverbote in Schulen",
-      "url": "https://www.heise.de/meinung/Kommentar-Handyverbote-in-Schulen-10492864.html"
+      "title": "S/2025 U 1: Ein weiterer kleiner Mond des Uranus entdeckt",
+      "url": "https://www.heise.de/news/Mit-dem-Weltraumteleskop-James-Webb-Weiterer-kleiner-Mond-des-Uranus-entdeckt-10551203.html",
+      "image_title": "Aufnahme des Uranus mit einer Reihe von beschrifteten Monden"
     },
     {
       "title": "Model 3: Tesla bietet erstmals Blinkerhebel zum Nachrüsten an",
@@ -627,20 +628,19 @@
       "url": "https://www.heise.de/en/news/Darknet-offer-Tens-of-thousands-of-ID-scans-stolen-from-Italian-hotels-10522177.html"
     },
     {
+      "title": "Umstellung auf digitale FotosDer Personalausweis wird teurer",
+      "teaser": "Die Bundesregierung will die Gebühr für den Perso erhöhen. Eine Rolle spielt dabei auch die Umstellung auf digitale Passfotos.",
+      "url": "https://www.heise.de/news/Der-Personalausweis-wird-teurer-10539445.html"
+    },
+    {
       "title": "Wie Sie von Windows auf ChromeOS umsteigen",
       "teaser": "Chromebooks sind günstig und leistungsfähig. Mit den richtigen Kniffen holt man aus ihnen fast genauso viel heraus wie aus einem herkömmlichen Notebook.",
       "url": "https://www.heise.de/ratgeber/Wie-Sie-von-Windows-auf-ChromeOS-umsteigen-10499029.html"
     },
     {
-      "title": "Samsung SSD 9100 Pro8 TByte mit PCIe 5.0 auf 80 Millimeter Länge",
-      "teaser": "Eine der schnellsten M.2-SSDs bekommt ein Kapazitätsupdate: Die Samsung 9100 Pro ist ab dem 2. September auch mit 8 TByte erhältlich.",
-      "url": "https://www.heise.de/news/Samsung-SSD-9100-Pro-8-TByte-mit-PCIe-5-0-auf-80-Millimeter-Laenge-10547414.html",
-      "image_title": "Samsung-SSD im M.2-Slot eines Mainboards"
-    },
-    {
-      "title": "RatgebermacOS statt Windows: So können Sie mit macOS loslegen",
-      "teaser": "Auf Apple umsteigen heißt: Geld ausgeben und sich umgewöhnen. Wir zeigen, wie Sie günstig zu einem Mac kommen und was er besser als Windows macht.",
-      "url": "https://www.heise.de/ratgeber/macOS-statt-Windows-So-koennen-Sie-mit-macOS-loslegen-10498995.html"
+      "title": "Alternativen für Microsoft-müde Windows-Nutzer",
+      "teaser": "Wird der eigene PC wegen des Support-Endes von Windows 10 Elektroschrott, liegt der Griff nach Microsoft-Alternativen nahe. Wir sichten sie für Ihren Umstieg.",
+      "url": "https://www.heise.de/ratgeber/Alternativen-fuer-Microsoft-muede-Windows-Nutzer-10454820.html"
     },
     {
       "title": "Spiel-VerderberWarum Gaming auf dem Mac so ein Problem ist",
@@ -773,16 +773,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Gewerkschaften warnen: Militarisierung greift auf Krankenhäuser und Gesundheit über",
-      "teaser": "Ärzte und Beschäftigte sehen die enge Verzahnung von Militär und Gesundheit als Gefahr für Versorgung und Frieden.",
-      "url": "https://www.heise.de/tp/features/Gewerkschaften-warnen-Militarisierung-greift-auf-Krankenhaeuser-und-Gesundheit-ueber-10544930.html",
-      "image_title": "Pillenkapsel mit Care-Symbol verwandelt sich in Gewehrkugel"
+      "title": "Maut-Skandal: Ex-Verkehrsminister Scheuer wegen Falschaussage vor Gericht",
+      "teaser": "Die gescheiterte Pkw-Maut kostete Steuerzahler Millionen – nun ermittelt die Justiz gegen Ex-Minister Scheuer.",
+      "url": "https://www.heise.de/tp/features/Maut-Skandal-Ex-Verkehrsminister-Scheuer-wegen-Falschaussage-vor-Gericht-10551313.html",
+      "image_title": "Ex-Bundesverkehrsminister Andreas Scheuer (CSU) in Anzug"
     },
     {
-      "title": "Rundfunkbeitrag-Reform vor dem Aus: Länder blockieren neues Finanzierungsmodell",
-      "teaser": "Die geplante Reform der Rundfunkfinanzierung steckt fest: Mehrere Länder stellen sich quer – das neue Modell droht noch vor dem Start zu scheitern.",
-      "url": "https://www.heise.de/tp/features/Rundfunkbeitrag-Reform-vor-dem-Aus-Laender-blockieren-neues-Finanzierungsmodell-10539745.html",
-      "image_title": "\"Der Rundfunkbeitrag. Wir sind für Sie da\". Aufschrift auf einer Glastür in Köln."
+      "title": "Protestcamp-Verbot in Köln: Wenn Kriegsgegner zum Sicherheitsrisiko werden",
+      "teaser": "Verwaltungsgericht Köln bestätigt polizeiliche Verfügung: Das Protestcamp \"Rheinmetall entwaffnen\" ist verboten. Doch muss eine Demokratie nicht Protest aushalten?",
+      "url": "https://www.heise.de/tp/features/Protestcamp-Verbot-in-Koeln-Wenn-Kriegsgegner-zum-Sicherheitsrisiko-werden-10552523.html",
+      "image_title": "Ein Panzerlauf"
     },
     {
       "title": "Studie: So verlagert China Produktion und Märkte nach Asien, Afrika und Lateinamerika",
