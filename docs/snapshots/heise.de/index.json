@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-21T02:23:49",
+  "timestamp": "2025-08-21T03:34:31",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Amazons künftige Fire-Tablets wohl mit Android statt eigenem Betriebssystem",
+      "url": "https://www.heise.de/news/Amazons-kuenftige-Fire-Tablets-wohl-mit-Android-statt-eigenem-Betriebssystem-10560016.html"
+    },
     {
       "title": "Porsche dreht Akku-Tochter Cellforce den Saft ab",
       "url": "https://www.heise.de/news/Porsche-dreht-Akku-Tochter-Cellforce-den-Saft-ab-10559958.html"
@@ -60,10 +64,6 @@
     {
       "title": "So gelingt der Wechsel von Spotify: Musik-Streaming im Vergleich",
       "url": "https://www.heise.de/ratgeber/So-gelingt-der-Wechsel-von-Spotify-Musik-Streaming-im-Vergleich-10537078.html"
-    },
-    {
-      "title": "Neutrinos erstmals mit tragbarem Detektor in einem Atomkraftwerk gemessen",
-      "url": "https://www.heise.de/news/Neutrinos-erstmals-mit-tragbarem-Detektor-in-einem-Atomkraftwerk-gemessen-10559797.html"
     },
     {
       "title": "Pixel 10, 10 Pro und XLGoogle-Smartphones mit \"Pixelsnap\" und Android 16",
@@ -208,21 +208,27 @@
       "image_title": "Verkäufer zeigt Frau Fernseher in einem Elektronikgeschäft"
     },
     {
+      "title": "Amazons künftige Fire-Tablets wohl mit Android statt eigenem Betriebssystem",
+      "teaser": "Nächstes Jahr soll Amazon ein Tablet mit Android statt eigenem Fire OS bringen. Der Wechsel des Betriebssystems soll neue Kunden locken, aber der Preis steigt.",
+      "url": "https://www.heise.de/news/Amazons-kuenftige-Fire-Tablets-wohl-mit-Android-statt-eigenem-Betriebssystem-10560016.html",
+      "image_title": "Amazon Fire Max 11 mit Prime Video im Schoß eines Nutzers"
+    },
+    {
       "title": "Porsche dreht Akku-Tochter Cellforce den Saft ab",
       "teaser": "Kahlschlag bei Cellforce: Autohersteller Porsche zieht sich aus der Herstellung von Hochleistungs-Traktionsakkumulatoren für Fahrzeuge zurück.",
       "url": "https://www.heise.de/news/Porsche-dreht-Akku-Tochter-Cellforce-den-Saft-ab-10559958.html",
       "image_title": "Porsche Auspuff"
     },
     {
+      "title": "Firmen-Security in Zeiten von Trump, Putin & Co.",
+      "teaser": "Eine echte Sicherheit für Unternehmen und Behörden ist derzeit nur mit digitaler Souveränität möglich. Denn wer auf nicht-europäische Infrastrukturen setzt, riskiert staatliche Datenzugriffe.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7034195658&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Neue Tricks mit QR-Codes",
       "teaser": "QR-Codes sind beliebte Vehikel für Verbrecher, Hyperlinks an Sicherheitssystemen vorbei zum Opfer zu schleusen. Der Einfallsreichtum ist groß.",
       "url": "https://www.heise.de/news/Neue-Tricks-mit-QR-Codes-10559942.html",
       "image_title": "Leuchtender QR-Code schwebt vor einem Hintergrund aus Nullen und Einsern"
-    },
-    {
-      "title": "Die neue Welt der Virtualisierung",
-      "teaser": "Bei der Frage, auf welche Virtualisierungssoftware für gemanagte Services Unternehmen setzen sollten, sind verschiedene Ansätze denkbar. Wir geben einen Überblick.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7055877038&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Aus für den Google Assistant: Gemini kommt ab Oktober ins Smart-Home",
@@ -254,12 +260,6 @@
       "image_title": "Screenshot aus \"Anno 117\""
     },
     {
-      "title": "Abhängigkeiten bei der Bundeswehr: Scharfe Kritik an Deal mit Google-Cloud",
-      "teaser": "Der Beschluss der Bundeswehr, auf Cloud-Dienste von Google zu setzen, kommt bei Sicherheitspolitikern nicht gut an: Deutschland könne politisch erpresst werden.",
-      "url": "https://www.heise.de/news/Abhaengigkeiten-bei-der-Bundeswehr-Scharfe-Kritik-an-Deal-mit-Google-Cloud-10559860.html",
-      "image_title": "Schulter eines Soldaten der Bundeswehr im gefleckten Tarnanzug mit Schulterklappe und Deutschlandflagge auf dem Oberarm."
-    },
-    {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
       "teaser": "Mobiles Internet ist außerhalb der EU ohne lokale SIM-Karte richtig teuer. Günstige eSIMs lassen sich sogar schon vor dem Urlaub buchen.",
       "url": "https://www.heise.de/ratgeber/Guenstiges-Internet-im-Urlaub-Mit-eSIM-weltweit-sorglos-surfen-10373903.html",
@@ -281,12 +281,12 @@
       "url": "https://www.heise.de/hintergrund/OePNV-Warum-deutsche-Zustaende-nicht-normal-sind-10538584.html"
     },
     {
-      "title": "Proton zieht sich langsam aus der Schweiz zurück",
-      "url": "https://www.heise.de/news/Ueberwachung-Proton-verlagert-Teile-seiner-Infrastruktur-aus-der-Schweiz-10538647.html"
-    },
-    {
       "title": "Beratung im Laden, online gekauft: Der Einzelhandel geht gegen \"Showrooming\" vor",
       "url": "https://www.heise.de/news/Beratung-im-Laden-online-gekauft-Der-Einzelhandel-geht-gegen-Showrooming-vor-10544301.html"
+    },
+    {
+      "title": "Proton zieht sich langsam aus der Schweiz zurück",
+      "url": "https://www.heise.de/news/Ueberwachung-Proton-verlagert-Teile-seiner-Infrastruktur-aus-der-Schweiz-10538647.html"
     },
     {
       "title": "Praktische Mac-Tools: 16 Werkzeuge für ein besseres macOS",
@@ -324,6 +324,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Dauer-Spar-Aktion"
+    },
+    {
+      "title": "Abhängigkeiten bei der Bundeswehr: Scharfe Kritik an Deal mit Google-Cloud",
+      "teaser": "Der Beschluss der Bundeswehr, auf Cloud-Dienste von Google zu setzen, kommt bei Sicherheitspolitikern nicht gut an: Deutschland könne politisch erpresst werden.",
+      "url": "https://www.heise.de/news/Abhaengigkeiten-bei-der-Bundeswehr-Scharfe-Kritik-an-Deal-mit-Google-Cloud-10559860.html",
+      "image_title": "Schulter eines Soldaten der Bundeswehr im gefleckten Tarnanzug mit Schulterklappe und Deutschlandflagge auf dem Oberarm."
     },
     {
       "title": "So gelingt der Wechsel von Spotify: Musik-Streaming im Vergleich",
@@ -391,15 +397,15 @@
       "url": "https://www.heise.de/tests/TCL-65C7K-Kontraststarkes-LCD-TV-mit-Mini-LEDs-fuer-helle-Umgebungen-10489667.html"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "Maker Faire Hannover: Die coolste Messe für Tüftler",
       "teaser": "Über 230 Stände, Live-Shows & Workshops – am 23./24. August wird das HCC in Hannover zum Mekka der Maker-Szene.",
       "url": "https://www.heise.de/news/Maker-Faire-Hannover-Die-coolste-Messe-fuer-Tueftler-10553832.html",
       "image_title": "Makey begrüßt die Besucher am Eingang zur Messe"
-    },
-    {
-      "title": "Die richtige Prozessarchitektur als Basis zur effizienten Verbesserung von SAP Prozessen",
-      "teaser": "SAP ECC läuft aus, die Migration steht bevor: Wie Sie mit der richtigen Prozessarchitektur Ihre SAP-Landschaft nachhaltig modernisieren, erfahren Sie in diesem Webcast.",
-      "url": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
@@ -454,25 +460,24 @@
       "image_title": "Tim Cook und der indische Staatschef Modi"
     },
     {
-      "title": "AlertCommvault: Hochriskante Lücke ermöglicht Einschleusen von Schadcode",
-      "teaser": "In der Backup-Software Commvault können Angreifer Sicherheitslücken missbrauchen, um etwa Schadcode einzuschleusen. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Commvault-Hochriskante-Luecke-ermoeglicht-Einschleusen-von-Schadcode-10550629.html",
-      "image_title": "The,Abstract,Image,Of,Inside,Of,Hard,Disk,Drive,On"
-    },
-    {
       "title": "Windows-Update: August-Patches mit Nebenwirkungen",
       "url": "https://www.heise.de/news/Windows-Update-Neue-Probleme-aufgetreten-alte-geloest-10544743.html",
       "image_title": "Windows Updates verfügbar: Herunterladen"
     },
     {
-      "title": "Verbesserung von nur 1,7 Prozent: Phishing-Training fast immer wirkungslos",
-      "url": "https://www.heise.de/news/Verbesserung-von-nur-1-7-Prozent-Phishing-Training-fast-immer-wirkungslos-10539174.html",
-      "image_title": "Frau sitzt vor Büchern und Laptop"
+      "title": "Rekord-Botnet abgeschaltet: 22-Jähriger aus Oregon beschuldigt",
+      "url": "https://www.heise.de/news/Rekord-Botnet-abgeschaltet-22-Jaehriger-aus-Oregon-beschuldigt-10550417.html",
+      "image_title": "Hand auf Computertatastatur in dunklem Zimmer"
     },
     {
-      "title": "Workday: Datenleck beim HR-Software-Anbieter",
-      "url": "https://www.heise.de/news/Workday-Datenleck-beim-HR-Software-Anbieter-10540931.html",
-      "image_title": "Ein gläsernes Bürogebäude mit dem Logo des Unternehmens Workday."
+      "title": "Stable Diffusion: Neue Erweiterung bringt KI-Bilder in LibreOffice",
+      "url": "https://www.heise.de/news/Stable-Diffusion-Neue-Erweiterung-bringt-KI-Bilder-in-LibreOffice-10550263.html",
+      "image_title": "Das LibreOffice-Logo wird auf einem Laptop-Display angezeigt."
+    },
+    {
+      "title": "Patente: China wird unabhängiger vom Rest der Welt, Innovation verlangsamt sich",
+      "url": "https://www.heise.de/news/Innovation-China-wird-bei-Patenten-immer-unabhaengiger-vom-Rest-der-Welt-10547300.html",
+      "image_title": "Skyline einer chinesischen Stadt"
     },
     {
       "title": "Astronomie: \"Am weitesten von uns entfernter Stern\" ist womöglich gar kein Stern",
@@ -480,13 +485,8 @@
       "image_title": "Aufnahme einer Galaxie mit einem markierten Lichtpunkt und der BEschriftung Earendel"
     },
     {
-      "title": "Teilchen hinter Dunkler Materie? Mit einem Trick wohl Spur von Axionen gefunden",
-      "url": "https://www.heise.de/news/Teilchen-hinter-Dunkler-Materie-Mit-einem-Trick-wohl-Spur-von-Axionen-gefunden-10539588.html",
-      "image_title": "Künstlerische Darstellung eines leuchtenden Schwarzen Lochs"
-    },
-    {
-      "title": "Zahlen, bitte! 74 Minuten – Die krumme Abspieldauer der Audio-CD",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-74-Minuten-Die-krumme-Abspieldauer-der-Audio-CD-10544856.html"
+      "title": "Kommentar: Handyverbote in Schulen",
+      "url": "https://www.heise.de/meinung/Kommentar-Handyverbote-in-Schulen-10492864.html"
     },
     {
       "title": "Model 3: Tesla bietet erstmals Blinkerhebel zum Nachrüsten an",
@@ -494,29 +494,29 @@
       "image_title": "Blinkerhebel im Tesla Model 3"
     },
     {
-      "title": "iCloud-Hintertür: US-Geheimdienstchefin erklärt Einigung mit Großbritannien",
-      "url": "https://www.heise.de/news/US-Geheimdienstchefin-Grossbritannien-will-doch-keine-Hintertuer-fuer-Apple-User-10544840.html",
-      "image_title": "Apple-Logo"
-    },
-    {
-      "title": "Canyon \"Citylite:On\": Stadtrad mit Bosch-Mittelmotor und Riemenantrieb",
-      "url": "https://www.heise.de/news/Canyon-Citylite-On-Stadtrad-mit-Bosch-Mittelmotor-und-Riemenantrieb-10543105.html",
-      "image_title": "Canyon Citylite:on E-Bike in Fahrt"
-    },
-    {
-      "title": "Metas erste Smart Glasses mit Display werden günstiger als gedacht",
-      "url": "https://www.heise.de/news/Metas-erste-Smart-Glasses-mit-Display-werden-guenstiger-als-gedacht-10539052.html",
-      "image_title": "Ein Gang mit Bildern an der Wand mit einem AR-Overlay, das einen Chatverlauf zeigt."
-    },
-    {
       "title": "Spotify Basic-Tarif: Günstiger als Premium, aber nur für Bestandskunden",
       "url": "https://www.heise.de/news/Spotify-Basic-Tarif-Guenstiger-als-Premium-aber-nur-fuer-Bestandskunden-10531465.html",
       "image_title": "Spotify-Logo auf iPhone, daneben liegen AirPods"
     },
     {
-      "title": "GeForce Now bekommt RTX-5080-Äquivalent und neue AMD Ryzen Threadripper",
-      "url": "https://www.heise.de/news/GeForce-Now-bekommt-RTX-5080-Aequivalent-und-neue-AMD-Ryzen-Threadripper-10547366.html",
-      "image_title": "Podeste mit verschiedenen Spielplattformen"
+      "title": "Statt kontroversem \"FineWoven\": Apple plant angeblich neues Hüllenmaterial",
+      "url": "https://www.heise.de/news/Statt-kontroversem-FineWoven-Apple-plant-angeblich-neues-Huellenmaterial-10550584.html",
+      "image_title": "Apple-FineWoven-Hüllen"
+    },
+    {
+      "title": "Opel: Ausgeflippte Computer-Spielereien mit Corsa-Nachfolger",
+      "url": "https://www.heise.de/news/Opel-Ausgeflippte-Computer-Spielereien-mit-Corsa-Nachfolger-10548659.html",
+      "image_title": "Opel Corsa GSE Vision Gran Turismo"
+    },
+    {
+      "title": "USA: Zugangsprovider müssen Filesharer nicht auf Zuruf verraten",
+      "url": "https://www.heise.de/news/USA-Zugangsprovider-muessen-Filesharer-nicht-auf-Zuruf-verraten-10550339.html",
+      "image_title": "Statue der Justizia"
+    },
+    {
+      "title": "\"Zero Parades\": ZA/UM stellt inoffiziellen Nachfolger von \"Disco Elysium\" vor",
+      "url": "https://www.heise.de/news/Zero-Parades-ZA-UM-stellt-inoffiziellen-Nachfolger-von-Disco-Elysium-vor-10550247.html",
+      "image_title": "Screenshot aus Zero Parades"
     },
     {
       "title": "Wirtschaftsinstitut: IT-Fachkräfte sind in Deutschland deutlich weniger gefragt",
@@ -524,14 +524,19 @@
       "image_title": "Ein Techniker installiert neue Hardware in einem Server-Rack."
     },
     {
+      "title": "\"Trump liebt die Idee\": US-Regierung will auch Anteile an TSMC, Samsung & Co.",
+      "url": "https://www.heise.de/news/Trump-liebt-die-Idee-US-Regierung-will-auch-Anteile-an-TSMC-Samsung-Co-10550387.html",
+      "image_title": "Ein Wafer in einer Produktionsanlage"
+    },
+    {
       "title": "Portugal erteilt Lizenz für Betrieb eines Raketenstartplatzes auf den Azoren",
       "url": "https://www.heise.de/news/Portugal-erteilt-Lizenz-fuer-Betrieb-eines-Raketenstartplatzes-auf-den-Azoren-10544848.html",
       "image_title": "Startende Rakete von einer grünen Wiese, im Hintergrund der Ozean."
     },
     {
-      "title": "Marokko zerrt deutsche Zeitungen wegen Spyware-Berichten vor den BGH",
-      "url": "https://www.heise.de/news/Marokko-zieht-gegen-deutsche-Spyware-Berichterstattung-vor-BGH-10544635.html",
-      "image_title": "2 Hände bedienen im Halbdunkel ein Handy"
+      "title": "Wegen Metas ungezügelter KI-Chatbots gibt Neil Young Facebook und Instagram auf",
+      "url": "https://www.heise.de/news/Wegen-Metas-ungezuegelter-KI-Chatbots-gibt-Neil-Young-Facebook-und-Instagram-auf-10550357.html",
+      "image_title": "Neil Young mit Hut, Sonnenbrille und Mundharmonika"
     },
     {
       "title": "Zahlen oder tracken lassen: Nächster Trippelschritt zum EuGH",
@@ -539,29 +544,23 @@
       "image_title": "Zeitungen auf einem Laptop"
     },
     {
-      "title": "Solche Grässlichkeiten erlaubt Meta seinen KI-Chatbots",
-      "url": "https://www.heise.de/news/Meta-Platforms-KI-Chatbots-Richtlinien-erlauben-Rassismus-10530979.html",
-      "image_title": "Rosa Schlapfen mit Facebook-Schriftzug und -Logo"
+      "title": "Mehr Schutz gefordert nach Cyber-Attacke auf Berlins Justizsenatorin",
+      "url": "https://www.heise.de/news/Mehr-Schutz-gefordert-nach-Cyber-Attacke-auf-Berlins-Justizsenatorin-10550391.html",
+      "image_title": "Verschwommene Hände an Tastatur"
     },
     {
-      "title": "1&1 muss Pornhub und YouPorn sperren, sagt auch das Oberverwaltungsgericht",
-      "url": "https://www.heise.de/news/Oberverwaltungsgericht-1-1-muss-Pornhub-und-YouPorn-sperren-10507637.html",
-      "image_title": "Blick auf Pornhub"
+      "title": "Zahlen, bitte! 74 Minuten – Die krumme Abspieldauer der Audio-CD",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-74-Minuten-Die-krumme-Abspieldauer-der-Audio-CD-10544856.html"
     },
     {
-      "title": "Üble Nachrede: Wahlmaschinenhersteller erhält Millionen von US-Kabelsender",
-      "url": "https://www.heise.de/news/Ueble-Nachrede-Wahlmaschinenhersteller-erhaelt-Millionen-von-US-Kabelsender-10544645.html",
-      "image_title": "Eine Hand hält einen weißen Zettel über eine Wahlurne"
+      "title": "Marokko zerrt deutsche Zeitungen wegen Spyware-Berichten vor den BGH",
+      "url": "https://www.heise.de/news/Marokko-zieht-gegen-deutsche-Spyware-Berichterstattung-vor-BGH-10544635.html",
+      "image_title": "2 Hände bedienen im Halbdunkel ein Handy"
     },
     {
-      "title": "Ohne mechanische Verbindung: Virtuelles Kuppeln von Zügen per Ultrabreitband",
-      "url": "https://www.heise.de/news/Ohne-mechanische-Verbindung-Virtuelles-Kuppeln-von-Zuegen-per-Ultrabreitband-10538807.html",
-      "image_title": "Viele Eisenbahnschienen vor Sonnenuntergang"
-    },
-    {
-      "title": "Dutzende Rathauschefs für neue Autokennzeichen",
-      "url": "https://www.heise.de/news/Identitaet-von-Kommunen-Buergermeister-fuer-neue-KfZ-Kennzeichen-10538508.html",
-      "image_title": "License,Plate,With,A,Car,Key"
+      "title": "Mittwoch: Musikerprotest gegen KI-Chatbots, Spiele-Neuheiten zur Gamescom 2025",
+      "url": "https://www.heise.de/news/Mittwoch-Musikerprotest-gegen-KI-Chatbots-Spiele-Neuheiten-zur-Gamescom-2025-10550381.html",
+      "image_title": "Frau mit Handy ärgert sich; Mittwoch: Chatbot-Protest, Gamescom-Spiele, Filesharer-Schutz, Corsa-Rennmaschine, LibreOffice-KI & Fallout-Trailer"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -618,8 +617,8 @@
       "image_title": "Cockpit view from a fighter plane flying in low sun accompanied by other aircraft."
     },
     {
-      "title": "Workday: Data leak at HR software provider",
-      "url": "https://www.heise.de/en/news/Workday-Data-leak-at-HR-software-provider-10543622.html"
+      "title": "Gamescom 2025: The most important games at the opening show",
+      "url": "https://www.heise.de/en/news/Gamescom-2025-The-most-important-games-at-the-opening-show-10550372.html"
     },
     {
       "title": "Surveillance: Proton relocates parts of its infrastructure from Switzerland",
@@ -630,20 +629,20 @@
       "url": "https://www.heise.de/en/news/Darknet-offer-Tens-of-thousands-of-ID-scans-stolen-from-Italian-hotels-10522177.html"
     },
     {
-      "title": "RatgebermacOS statt Windows: So können Sie mit macOS loslegen",
-      "teaser": "Auf Apple umsteigen heißt: Geld ausgeben und sich umgewöhnen. Wir zeigen, wie Sie günstig zu einem Mac kommen und was er besser als Windows macht.",
-      "url": "https://www.heise.de/ratgeber/macOS-statt-Windows-So-koennen-Sie-mit-macOS-loslegen-10498995.html"
-    },
-    {
       "title": "Samsung SSD 9100 Pro8 TByte mit PCIe 5.0 auf 80 Millimeter Länge",
       "teaser": "Eine der schnellsten M.2-SSDs bekommt ein Kapazitätsupdate: Die Samsung 9100 Pro ist ab dem 2. September auch mit 8 TByte erhältlich.",
       "url": "https://www.heise.de/news/Samsung-SSD-9100-Pro-8-TByte-mit-PCIe-5-0-auf-80-Millimeter-Laenge-10547414.html",
       "image_title": "Samsung-SSD im M.2-Slot eines Mainboards"
     },
     {
-      "title": "Format-Analyse: So unterscheidet sich Dolby-Atmos-Ton für Kino, Disc und Stream",
-      "teaser": "Das Atmos-Format besteht aus vielen Untervarianten für einzelne Ausspielkanäle. Wir erklären im Detail, worauf Produzenten und Konsumenten achten sollten.",
-      "url": "https://www.heise.de/hintergrund/Format-Analyse-So-unterscheidet-sich-Dolby-Atmos-Ton-fuer-Kino-Disc-und-Stream-10493188.html"
+      "title": "Umstellung auf digitale FotosDer Personalausweis wird teurer",
+      "teaser": "Die Bundesregierung will die Gebühr für den Perso erhöhen. Eine Rolle spielt dabei auch die Umstellung auf digitale Passfotos.",
+      "url": "https://www.heise.de/news/Der-Personalausweis-wird-teurer-10539445.html"
+    },
+    {
+      "title": "Off-Grid-Messenger mit Meshfunktion: Meshtastic-Solarrouter im Eigenbau",
+      "teaser": "Mit einem solarbetriebenen Meshtastic-Node hält man im Katastrophenfall die Kommunikation aufrecht. So geht der Eigenbau für wenig Geld.",
+      "url": "https://www.heise.de/ratgeber/Off-Grid-Messenger-mit-Meshfunktion-Meshtastic-Solarrouter-im-Eigenbau-10477080.html"
     },
     {
       "title": "Spiel-VerderberWarum Gaming auf dem Mac so ein Problem ist",
@@ -717,12 +716,6 @@
       "url": "https://www.heise.de/hintergrund/So-funktioniert-Testmanagement-mit-dem-Open-Source-Tool-TestLink-10492125.html"
     },
     {
-      "title": "Opel zeigt Corsa GSE Vision Gran TurismoAusgeflippte Computer-Spielereien mit Corsa-Nachfolger",
-      "teaser": "Opel präsentiert zur IAA den Corsa GSE Vision Gran Turismo: einen 588 kW starken E-Renner mit Hinweisen auf die nächste Generation.",
-      "url": "https://www.heise.de/news/Opel-Ausgeflippte-Computer-Spielereien-mit-Corsa-Nachfolger-10548659.html",
-      "image_title": "Opel Corsa GSE Vision Gran Turismo"
-    },
-    {
       "title": "Verkehrssenatorin will sich der Debatte stellenTempo-30-Zonen in Berlin",
       "teaser": "In Berlin ist eine Debatte um die Aufhebung von einigen Tempo-30-Beschränkungen entbrannt. Die Verkehrssenatorin gibt sich gelassen.",
       "url": "https://www.heise.de/news/Tempo-30-in-Berlin-Verkehrssenatorin-will-sich-der-Debatte-stellen-10544882.html",
@@ -739,6 +732,12 @@
       "teaser": "Die Initiative \"Berlin autofrei\" will den Autoverkehr beschränken. Die Linken stimmen zu, fordern aber zuvor einen günstigen ÖPNV zu schaffen.",
       "url": "https://www.heise.de/news/Berlin-Stadtverkehr-ohne-Autos-muss-bezahlbar-bleiben-fordert-die-Linke-10539324.html",
       "image_title": "S-Bahn Berlin mit einem Zug der Baureihe ET 481/482"
+    },
+    {
+      "title": "StraßenverkehrDutzende Rathauschefs für neue Autokennzeichen",
+      "teaser": "Autokennzeichen sind Aushängeschilder von Städten. Doch nicht alle haben ein eigenes. Viele Bürgermeister wollen das ändern.",
+      "url": "https://www.heise.de/news/Identitaet-von-Kommunen-Buergermeister-fuer-neue-KfZ-Kennzeichen-10538508.html",
+      "image_title": "License,Plate,With,A,Car,Key"
     },
     {
       "title": "Kommentar: Verkehrsminister Schnieder hat keinen Plan für die Bahn",
@@ -776,22 +775,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "China testet Mondlandefähre: Startet Peking vor den USA ins nächste Raumfahrt-Zeitalter?",
+      "teaser": "Mit dem erfolgreichen Test der Mondlandefähre rückt Chinas bemannte Mission näher – Experten sehen die NASA im Wettlauf zunehmend im Rückstand.",
+      "url": "https://www.heise.de/tp/features/China-testet-Mondlandefaehre-Startet-Peking-vor-den-USA-ins-naechste-Raumfahrt-Zeitalter-10547354.html",
+      "image_title": "Eine Mondlandefähre an einem Seil"
+    },
+    {
       "title": "Sorbit und Maltit: Die versteckten Dickmacher in Süßigkeiten",
       "teaser": "Zuckerersatz wie Sorbit und Maltit in Süßigkeiten bergen Risiken: Bereits geringe Mengen können bei Empfindlichen Nebenwirkungen auslösen.",
       "url": "https://www.heise.de/tp/features/Sorbit-und-Maltit-Die-versteckten-Dickmacher-in-Suessigkeiten-10544794.html",
       "image_title": "Schilder: Zuckerwürfel mit drehenden Pfeilen auf blauem Hintergrund und Darm mit Pfeil nach unten auf rotem Hintergrund. Davor ein Plastikfläschchen"
     },
     {
-      "title": "Durchbruch beim Plastikrecycling: Forscher zerlegen Kunststoff mit LED-Licht",
-      "teaser": "Plastikabfall könnte bald klimafreundlich recycelt werden: Forscher zeigen, wie sich Kunststoffe mit Licht zerlegen und wieder neu zusammensetzen lassen.",
-      "url": "https://www.heise.de/tp/features/Durchbruch-beim-Plastikrecycling-Forscher-zerlegen-Kunststoff-mit-LED-Licht-10547555.html",
-      "image_title": "Lichteinwirkung spaltet stabile chemische Bindungen in der Polymerkette auf, wodurch die ursprünglichen Bausteine wiedergewonnen werden können."
-    },
-    {
-      "title": "China plant größtes Teleskop der Nordhalbkugel – geheimnisvolles Projekt in Tibet",
-      "teaser": "China baut still an einem gigantischen Teleskop. Mit 14,5 Metern Spiegelgröße wäre es eines der mächtigsten Himmelsaugen der Welt.",
-      "url": "https://www.heise.de/tp/features/China-plant-groesstes-Teleskop-der-Nordhalbkugel-geheimnisvolles-Projekt-in-Tibet-10538880.html",
-      "image_title": "Eine gotische Kathedrale (120 m hoch) wurde gegen ein moderne Riesenteleskop (80 m hoch) fotomontiert."
+      "title": "Von Heine bis Einstein: Wie jüdische Persönlichkeiten Deutschlands Geschichte und Kultur prägten",
+      "teaser": "Von Heine, Rathenau und Einstein bis Hans Rosenthal: Warum die Geschichte jüdischer Erfolge in Deutschland so präsent war – und zugleich unsichtbar blieb. (Teil 3 unnd Schluss)",
+      "url": "https://www.heise.de/tp/features/Von-Heine-bis-Einstein-Wie-juedische-Persoenlichkeiten-Deutschlands-Geschichte-und-Kultur-praegten-10544727.html",
+      "image_title": "Hans Rosenthal bei Dalli-Dalli"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
