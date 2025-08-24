@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-24T11:07:12",
+  "timestamp": "2025-08-24T12:17:11",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Massenspeicherberatung: Festplatten als Datenlager",
+      "url": "https://www.heise.de/ratgeber/Massenspeicherberatung-Festplatten-als-Datenlager-10436445.html"
+    },
     {
       "title": "c't-Webinar: Wärmepumpentechnik für Einsteiger",
       "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-fuer-Einsteiger-10550791.html"
@@ -60,10 +64,6 @@
     {
       "title": "Top 10: Der beste Raumluftsensor fürs Smart Home im Test",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-raumluftsensor-fuers-smart-home-im-test/h3jrv81"
-    },
-    {
-      "title": "Tesla: Unfallberichte zu autonomem Fahren unter der Lupe",
-      "url": "https://www.heise.de/news/US-Behoerde-prueft-Tesla-meldet-Unfaelle-mit-Autopilot-zu-langsam-10590667.html"
     },
     {
       "title": "Missing LinkWas die AR-Brille Orion einzigartig macht",
@@ -207,19 +207,24 @@
       "url": "https://www.heise.de/news/c-t-3003-Darum-ist-KI-wirklich-gefaehrlich-10585252.html"
     },
     {
+      "title": "Massenspeicherberatung: Festplatten als Datenlager",
+      "teaser": "In vielen Bereichen haben flotte SSDs den lahmen Festplatten den Rang abgelaufen. Doch es bleiben Nischen – und daran wird sich so schnell auch nichts ändern.",
+      "url": "https://www.heise.de/ratgeber/Massenspeicherberatung-Festplatten-als-Datenlager-10436445.html"
+    },
+    {
       "title": "c't-Webinar: Wärmepumpentechnik für Einsteiger",
       "teaser": "Lernen Sie im herstellerunabhängigen Webinar, worauf es bei der Effizienz von Wärmepumpen ankommt und wie Sie diese Technik mit Photovoltaik kombinieren können.",
       "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-fuer-Einsteiger-10550791.html"
     },
     {
-      "title": "SSD-Ausfälle durch Windows-Update: Silicon Motion nicht betroffen",
-      "teaser": "In der vergangenen Woche gab es Berichte über SSD-Ausfälle durch das letzte Windows-Update. SSDs mit Silicon-Motion-Controllern sollen nicht betroffen sein.",
-      "url": "https://www.heise.de/news/SSD-Ausfaelle-durch-Windows-Update-Silicon-Motion-nicht-betroffen-10590766.html"
-    },
-    {
       "title": "Die neue Welt der Virtualisierung",
       "teaser": "Bei der Frage, auf welche Virtualisierungssoftware für gemanagte Services Unternehmen setzen sollten, sind verschiedene Ansätze denkbar. Wir geben einen Überblick.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7055877038&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "SSD-Ausfälle durch Windows-Update: Silicon Motion nicht betroffen",
+      "teaser": "In der vergangenen Woche gab es Berichte über SSD-Ausfälle durch das letzte Windows-Update. SSDs mit Silicon-Motion-Controllern sollen nicht betroffen sein.",
+      "url": "https://www.heise.de/news/SSD-Ausfaelle-durch-Windows-Update-Silicon-Motion-nicht-betroffen-10590766.html"
     },
     {
       "title": "GPT-5 im Agenten-Test",
@@ -249,11 +254,6 @@
       "teaser": "Meta entfernte eine App aus dem Horizon Store, die Sideloading-Beschränkungen umging. Ein Signal, dass Meta die Kontrolle nicht aus der Hand gibt.",
       "url": "https://www.heise.de/hintergrund/Wie-offen-ist-Metas-VR-Plattform-fuer-Sideloading-10590147.html",
       "image_title": "Meta Quest 3S mit Touch Plus Controllern liegt auf einem hölzernen Tisch."
-    },
-    {
-      "title": "Top 10: Der beste Raumluftsensor fürs Smart Home im Test",
-      "teaser": "Smarte Luftgütesensoren messen Feuchtigkeit, Temperatur, CO2, CO, VOC, Ozon, Feinstaub, Radon und mehr. Damit hat man Schadstoffe und Schimmelgefahr im Blick.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-raumluftsensor-fuers-smart-home-im-test/h3jrv81?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Außerhalb der EUInternet-Flatrate im Urlaub: Per eSIM weltweit sorglos surfen",
@@ -322,6 +322,11 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "Top 10: Der beste Raumluftsensor fürs Smart Home im Test",
+      "teaser": "Smarte Luftgütesensoren messen Feuchtigkeit, Temperatur, CO2, CO, VOC, Ozon, Feinstaub, Radon und mehr. Damit hat man Schadstoffe und Schimmelgefahr im Blick.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-raumluftsensor-fuers-smart-home-im-test/h3jrv81?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "Tesla: Unfallberichte zu autonomem Fahren unter der Lupe",
       "teaser": "Die US-Autosicherheitsbehörde beklagt, Tesla habe sie wiederholt viel zu spät über Crashs mit selbstfahrenden Autos informiert.",
       "url": "https://www.heise.de/news/US-Behoerde-prueft-Tesla-meldet-Unfaelle-mit-Autopilot-zu-langsam-10590667.html",
@@ -388,15 +393,15 @@
       "url": "https://www.heise.de/news/Zwischen-Farbenrausch-und-Formgefuehl-Die-Bilder-der-Woche-34-10552359.html"
     },
     {
+      "title": "KI-Workloads: Warum es nicht immer GPUs braucht",
+      "teaser": "Viele KI-Workloads profitieren von der Parallelverarbeitung und der großen Speicherbandbreite spezialisierter KI-Beschleuniger (GPUs). Das trifft jedoch nicht auf alle KI-Aufgaben zu!",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/ki-workloads-warum-es-nicht-immer-gpus-braucht/?source=hbsadersatz"
+    },
+    {
       "title": "Touch-Browser: Das taugen Alternativen zu Apples Safari auf iPhone und iPad",
       "teaser": "Auf Apples Handys und Tablets dürfen EU-Bürger einen Standardbrowser auswählen. Wir vergleichen 10 der Surf-Apps und klären, welche sich lohnen.",
       "url": "https://www.heise.de/tests/Touch-Browser-Das-taugen-Alternativen-zu-Apples-Safari-auf-iPhone-und-iPad-10516811.html",
       "image_title": "Browsen auf dem iPhone"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Top 7: Das beste leichte E-Bike im Test – Testsieger wiegt nur 13,5 kg",
@@ -448,11 +453,6 @@
       "teaser": "Im Datenschutzstreit zwischen BfDI und Bundespresseamt ist ein Ende nicht in Sicht. Die Behörde geht in Revision – um \"Rechtsunsicherheiten zu beenden\".",
       "url": "https://www.heise.de/news/Rechtsstreit-um-Facebook-Fanpage-der-Bundesregierung-geht-weiter-10590155.html",
       "image_title": "Screenshot der Facebook-Seite der Bundesregierung"
-    },
-    {
-      "title": "Open-Ear-Kopfhörer Shokz Opendots One im Test: leicht, bequem und schick",
-      "teaser": "Die Shokz Opendots One vereinen minimalistisches Clip-Design mit solider Technik. Ob die Open-Ear-Kopfhörer überzeugen, zeigt unser Testbericht.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/open-ear-kopfhoerer-shokz-opendots-one-im-test-leicht-bequem-und-schick/c7dmrlb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "AlertPasswort-Manager: Datenklau durch Browser-Erweiterungen",
@@ -621,14 +621,14 @@
       "url": "https://www.heise.de/en/news/AI-assistant-Microsoft-s-Copilot-falsified-access-logs-for-months-10578970.html"
     },
     {
-      "title": "Gamescom 2025Die besten Indie-Spiele der nächsten Monate",
-      "teaser": "Deutlich mehr Raum als in den Vorjahren haben die Indie-Games auf der Gamescom erobert.",
-      "url": "https://www.heise.de/news/Ein-bunter-Strauss-an-Spielen-die-Indie-Games-der-naechsten-Monate-10590333.html"
+      "title": "c’t uplink zum Windows-10-EndemacOS, Chrome OS und Linux als Alternative?",
+      "teaser": "Wie gut sich macOS, Chrome OS und Linux als Windows-Alternativen eignen, darüber diskutieren wir im c’t uplink.",
+      "url": "https://www.heise.de/news/Windows-10-Ende-taugen-macOS-Chrome-OS-und-Linux-als-Alternative-c-t-uplink-10574045.html"
     },
     {
-      "title": "c't 3003Darum ist KI wirklich gefährlich",
-      "teaser": "Immer mehr Menschen lagern ihr Denken auf Dienste wie ChatGPT aus. Das kann unser Denken verändern.",
-      "url": "https://www.heise.de/news/c-t-3003-Darum-ist-KI-wirklich-gefaehrlich-10585252.html"
+      "title": "c't-Webinar: Wärmepumpentechnik für Einsteiger",
+      "teaser": "Lernen Sie im herstellerunabhängigen Webinar, worauf es bei der Effizienz von Wärmepumpen ankommt und wie Sie diese Technik mit Photovoltaik kombinieren können.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-fuer-Einsteiger-10550791.html"
     },
     {
       "title": "WissensmanagerObsidian jetzt mit Datenbank-Funktion",
@@ -642,16 +642,16 @@
       "image_title": ","
     },
     {
+      "title": "Laden an jedem sonnigen OrtNeun USB-Solarpanels im Test",
+      "teaser": "Auch fernab der Zivilisation: Wer seine mobilen Geräte unterwegs laden möchte, kann tragbare Solarpanels mit USB-Ausgang nutzen. Wir testen mehrere Modelle.",
+      "url": "https://www.heise.de/tests/Laden-an-jedem-sonnigen-Ort-Neun-USB-Solarpanels-im-Test-10544536.html",
+      "image_title": "Laden geht auch unterwegs"
+    },
+    {
       "title": "Neun gegen Apples Safari Das taugen Browser-Alternativen auf iPhone und iPad",
       "teaser": "Auf Apples Handys und Tablets dürfen EU-Bürger einen Standardbrowser auswählen. Wir vergleichen 10 der Surf-Apps und klären, welche sich lohnen.",
       "url": "https://www.heise.de/tests/Touch-Browser-Das-taugen-Alternativen-zu-Apples-Safari-auf-iPhone-und-iPad-10516811.html",
       "image_title": "Browsen auf dem iPhone"
-    },
-    {
-      "title": "Beziehungshelfer: Networking-App Dextr im Test",
-      "teaser": "Das Adressbuch Dextr verknüpft Kontakte und visualisiert sie als Netzwerk. Wir haben die iOS- und iPadOS-App getestet",
-      "url": "https://www.heise.de/tests/Beziehungshelfer-Networking-App-Dextr-im-Test-10544532.html",
-      "image_title": "Social Graph in Dextr"
     },
     {
       "title": "Roboterwettbewerbe im Überblick: Regeln, Technik und Aufbau für Einsteiger",
@@ -764,21 +764,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Muss die Ukraine den Donbas opfern, um Frieden zu bekommen?",
-      "teaser": "Russlands Präsident Putin hat bei einem Gipfel mit Trump seine Bedingungen für ein Kriegsende genannt. Die Ukraine soll schmerzhafte Zugeständnisse machen.",
-      "url": "https://www.heise.de/tp/features/Muss-die-Ukraine-den-Donbas-opfern-um-Frieden-zu-bekommen-10576772.html",
-      "image_title": "Ein Mann auf einem Fahrrad"
+      "title": "Auf chinesische Hardware optimiert: DeepSeek stellt neues KI-Modell vor",
+      "teaser": "Das chinesische Start-up präsentiert eine verbesserte Version seines Flaggschiff-Modells. Die Entwicklung erfolgt vor dem Hintergrund verschärfter US-Exportbeschränkungen.",
+      "url": "https://www.heise.de/tp/features/Auf-chinesische-Hardware-optimiert-DeepSeek-stellt-neues-KI-Modell-vor-10578917.html",
+      "image_title": "Logo von Deepseek"
     },
     {
-      "title": "Ukraine-Krieg: Die Flamingo – Rakete mit Eskalationspotenzial",
-      "teaser": "Neue ukrainische Langstreckenwaffe elektrisiert Militärexperten. Beeindruckende Daten, brisante Zweifel. Zwischen Ingenieurskunst und Bluff – Analyse und Einschätzung.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Die-Flamingo-Rakete-mit-Eskalationspotenzial-10590742.html",
-      "image_title": "KI-generierte Grafik zeigt einen grauen Marschflugkörper mit roter Spitze, der steil in einen dunklen Himmel aufsteigt, während hinter ihm eine wuchtige, orange lodernde Rauch- und Feuerwolke zurückbleibt."
+      "title": "Recht auf Reparatur kommt – warum viele Geräte außen vor bleiben",
+      "teaser": "Das EU-Recht auf Reparatur gilt ab 2026. Erfahre, welche Elektrogeräte betroffen sind, welche Ausnahmen gelten – und was das für Verbraucher bedeutet.",
+      "url": "https://www.heise.de/tp/features/Recht-auf-Reparatur-kommt-warum-viele-Geraete-aussen-vor-bleiben-10557096.html",
+      "image_title": "Gelbe Recycling-Tonne vor Strahlen und roter Balken mit Bügeleisen, Handy und Mixer"
     },
     {
-      "title": "Lothar III: Der überraschende Aufstieg eines Sachsen zum Kaiser",
-      "teaser": "Als Herzog von Sachsen war Lothar III. ein mächtiger Mann. Niemand ahnte, dass er König und Kaiser werden würde. Doch seine Gegner schmiedeten bereits finstere Pläne.",
-      "url": "https://www.heise.de/tp/features/Lothar-III-Der-ueberraschende-Aufstieg-eines-Sachsen-zum-Kaiser-10542001.html"
+      "title": "Erstmals sichtbar: So nistet sich ein menschlicher Embryo in die Gebärmutter ein",
+      "teaser": "Forscher filmen erstmals in Echtzeit die Embryo-Einnistung in die Gebärmutter. Die neuen Erkenntnisse liefern wichtige Ansätze für Fruchtbarkeit und IVF.",
+      "url": "https://www.heise.de/tp/features/Erstmals-sichtbar-So-nistet-sich-ein-menschlicher-Embryo-in-die-Gebaermutter-ein-10543921.html",
+      "image_title": "Einnistung eines Embryos in die Gebärmutter Echtzeit-Aufnahmen"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
