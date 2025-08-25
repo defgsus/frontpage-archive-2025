@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-25T09:12:26",
+  "timestamp": "2025-08-25T10:12:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,47 @@
   ],
   "articles": [
     {
+      "title": "Backstage und Co.: Übersicht Interne Entwicklerplattformen",
+      "teaser": "Vorkonfigurierte Entwicklerplattformen dienen als Selbstbedienungsportal, das Entwickler entlasten und die Qualität ihrer Arbeit sichern soll.",
+      "url": "https://www.heise.de/hintergrund/Backstage-und-Co-Uebersicht-Interne-Entwicklerplattformen-10514774.html"
+    },
+    {
+      "title": "Go-Modul für Brute-Force-Angriffe auf SSH stiehlt die gefundenen Zugänge",
+      "teaser": "Ein schädliches Go-Modul tarnt sich als Brute-Force-Tool für SSH, stiehlt die gefundenen Zugangsdaten aber heimlich und übermittelt sie per Telegram.",
+      "url": "https://www.heise.de/news/Go-Modul-fuer-Brute-Force-Angriffe-auf-SSH-stiehlt-die-gefundenen-Zugaenge-10599723.html",
+      "image_title": "Logo von Telegram auf einem Smartphone, das auf einer rot leuchtenden Tastatur liegt"
+    },
+    {
+      "title": "NRW: Datenschutzbeauftragte warnt zum Schulbeginn vor unbedachter iPad-Nutzung",
+      "teaser": "Die Landesbeauftragte für Datenschutz NRW warnt vor uneingeschränkter Nutzung von Apples iCloud auf Schul-iPads. Sie empfiehlt datenschutzkonforme Alternativen.",
+      "url": "https://www.heise.de/news/NRW-Datenschutzbeauftragte-warnt-zum-Schulbeginn-vor-unbedachter-iPad-Nutzung-10599019.html",
+      "image_title": "Schüler mit iPads"
+    },
+    {
+      "title": "AlertWebhosting-Software cPanel: Updates schließen Sicherheitslücke",
+      "teaser": "Die Verwaltungssoftware cPanel und WHM für Webhosting schließt mit neuen Versionen mindestens eine Sicherheitslücke, die als hochriskant gilt.",
+      "url": "https://www.heise.de/news/Webhosting-Software-cPanel-Updates-schliessen-Sicherheitsluecke-10599503.html",
+      "image_title": "Update-taste"
+    },
+    {
+      "title": "HintergrundDeveloper-Plattformen systematisch bewerten",
+      "url": "https://www.heise.de/hintergrund/Developer-Plattformen-systematisch-bewerten-10511891.html"
+    },
+    {
+      "title": "RatgeberUltrabreite Monitore mit den richtigen Tools optimal nutzen",
+      "url": "https://www.heise.de/ratgeber/Ultrabreite-Monitore-mit-den-richtigen-Tools-optimal-nutzen-10503077.html"
+    },
+    {
+      "title": "RatgeberObsidian: Wie man Notizen als Website veröffentlicht",
+      "url": "https://www.heise.de/ratgeber/Obsidian-Wie-man-Notizen-als-Website-veroeffentlicht-10578823.html"
+    },
+    {
+      "title": "AlertSchwachstellen in IT-Sicherheitslösung IBM QRadar SIEM geschlossen",
+      "teaser": "Angreifer können an zwei Sicherheitslücken in IBM QRadar SIEM ansetzen. Ein Update repariert die Anwendung.",
+      "url": "https://www.heise.de/news/Schwachstellen-in-IT-Sicherheitsloesung-IBM-QRadar-SIEM-geschlossen-10601143.html",
+      "image_title": "Eine symbolische Update-Sprechblase neben einem PC-Arbeitsplatz."
+    },
+    {
       "title": "Immer wieder Abgänge: Nächster Apple-KI-Experte geht zu Meta",
       "teaser": "Eigentlich hatte Mark Zuckerberg beschlossen, für sein KI-Team nicht mehr ganz so aggressiv zu rekrutieren. Doch nun kommt ein weiterer Apple-Neuzugang.",
       "url": "https://www.heise.de/news/Immer-wieder-Abgaenge-Naechster-Apple-KI-Experte-geht-zu-Meta-10590245.html",
@@ -48,18 +89,6 @@
       "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-10539128.html",
       "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "HintergrundDeveloper-Plattformen systematisch bewerten",
-      "url": "https://www.heise.de/hintergrund/Developer-Plattformen-systematisch-bewerten-10511891.html"
-    },
-    {
-      "title": "RatgeberUltrabreite Monitore mit den richtigen Tools optimal nutzen",
-      "url": "https://www.heise.de/ratgeber/Ultrabreite-Monitore-mit-den-richtigen-Tools-optimal-nutzen-10503077.html"
-    },
-    {
-      "title": "RatgeberObsidian: Wie man Notizen als Website veröffentlicht",
-      "url": "https://www.heise.de/ratgeber/Obsidian-Wie-man-Notizen-als-Website-veroeffentlicht-10578823.html"
     },
     {
       "title": "71 Prozent nutzen das Festnetz noch – vor allem auf dem Land beliebt",
@@ -117,34 +146,6 @@
       "teaser": "Eine umfassende Befragung von IT-Sicherheitsexperten zeigt: Interne Bedrohungen gelten inzwischen als größte Security-Herausforderung. KI spielt zentrale Rolle.",
       "url": "https://www.heise.de/news/Studie-Insider-Bedrohungen-durch-KI-sind-gefaehrlicher-als-externe-Cyberangriffe-10590799.html",
       "image_title": "Person arbeitet an einem Schreibtisch mit zwei Monitoren, auf denen komplexe Software- und Netzwerkdiagramme angezeigt werden."
-    },
-    {
-      "title": "SSD-Ausfälle durch Windows-Update: Silicon Motion nicht betroffen",
-      "teaser": "In der vergangenen Woche gab es Berichte über SSD-Ausfälle durch das letzte Windows-Update. SSDs mit Silicon-Motion-Controllern sollen nicht betroffen sein.",
-      "url": "https://www.heise.de/news/SSD-Ausfaelle-durch-Windows-Update-Silicon-Motion-nicht-betroffen-10590766.html"
-    },
-    {
-      "title": "iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
-      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
-      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-10516230.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "Missing Link: Metas große AR-Wette – was die AR-Brille Orion einzigartig macht",
-      "teaser": "Metas AR-Brille Orion ist ein wahnwitziges Stück Technik, das zehn Jahre in Entwicklung war und Milliarden verschlang. Bei genauerem Hinsehen zeigt sich warum.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Metas-grosse-AR-Wette-was-die-AR-Brille-Orion-einzigartig-macht-10511252.html",
-      "image_title": "Kopf eines Mannes mit Orion-Brille vor blauem Hintergrund."
-    },
-    {
-      "title": "Top 10: Der beste Raumluftsensor fürs Smart Home im Test",
-      "teaser": "Smarte Luftgütesensoren messen Feuchtigkeit, Temperatur, CO2, CO, VOC, Ozon, Feinstaub, Radon und mehr. Damit hat man Schadstoffe und Schimmelgefahr im Blick.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-raumluftsensor-fuers-smart-home-im-test/h3jrv81?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Meta kauft für 10 Milliarden bei Google ein",
-      "teaser": "Metas eigene Rechenzentren reichen Mark Zuckerberg nicht aus. Um KI-Dienste schneller an den Start zu bringen, will er Milliarden bei Google ausgeben.",
-      "url": "https://www.heise.de/news/Google-und-Meta-ruecken-bei-KI-zusammen-10590647.html",
-      "image_title": "Meta-Logo und Kopf eines weiblichen Roboters"
     },
     {
       "title": "NewsGamescom 2025: Die Tops und Flops der Spielemesse",
