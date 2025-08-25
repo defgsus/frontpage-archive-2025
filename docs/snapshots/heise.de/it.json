@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-25T11:08:44",
+  "timestamp": "2025-08-25T12:19:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Backstage und Co.: Übersicht Interne Entwicklerplattformen",
-      "teaser": "Vorkonfigurierte Entwicklerplattformen dienen als Selbstbedienungsportal, das Entwickler entlasten und die Qualität ihrer Arbeit sichern soll.",
-      "url": "https://www.heise.de/hintergrund/Backstage-und-Co-Uebersicht-Interne-Entwicklerplattformen-10514774.html"
+      "title": "iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
+      "teaser": "Lernen Sie hands-on, wie Sie Schwachstellen in der API-Implementierung vermeiden und Angriffe abwehren.",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-10539124.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
+      "title": "Hochkapazitivie PC-SSDs: SK Hynix stellt 2-Tbit-Speicherchips mit 321 Lagen vor",
+      "teaser": "SK Hynix neuester Speicherbaustein kommt mit QLC-Technik auf 2 Tbit Kapazität. Die Chips könnten SSDs mit mehr Speicher ermöglichen.",
+      "url": "https://www.heise.de/news/Hochkapazitivie-PC-SSDs-SK-Hynix-stellt-2-Tbit-Speicherchips-mit-321-Lagen-vor-10607466.html",
+      "image_title": "Zwei Speicherchips auf einem bunt beleuchteten Wafer"
+    },
+    {
+      "title": "Botnet-Kampagne \"Gayfemboy\" auch in Deutschland aktiv",
+      "teaser": "IT-Forscher von Fortinet beobachten ein IoT-Botnet, das auf \"Mirai\" basiert und \"Gayfemboy\" genannt wird. Es versteckt sich gut.",
+      "url": "https://www.heise.de/news/Mirai-basierte-Botnet-Kampagne-Gayfemboy-auch-in-Deutschland-aktiv-10607344.html",
+      "image_title": "Futuristische Datenmatrix"
     },
     {
       "title": "Go-Modul für Brute-Force-Angriffe auf SSH stiehlt die gefundenen Zugänge",
       "teaser": "Ein schädliches Go-Modul tarnt sich als Brute-Force-Tool für SSH, stiehlt die gefundenen Zugangsdaten aber heimlich und übermittelt sie per Telegram.",
       "url": "https://www.heise.de/news/Go-Modul-fuer-Brute-Force-Angriffe-auf-SSH-stiehlt-die-gefundenen-Zugaenge-10599723.html",
       "image_title": "Logo von Telegram auf einem Smartphone, das auf einer rot leuchtenden Tastatur liegt"
-    },
-    {
-      "title": "NRW: Datenschutzbeauftragte warnt zum Schulbeginn vor unbedachter iPad-Nutzung",
-      "teaser": "Die Landesbeauftragte für Datenschutz NRW warnt vor uneingeschränkter Nutzung von Apples iCloud auf Schul-iPads. Sie empfiehlt datenschutzkonforme Alternativen.",
-      "url": "https://www.heise.de/news/NRW-Datenschutzbeauftragte-warnt-zum-Schulbeginn-vor-unbedachter-iPad-Nutzung-10599019.html",
-      "image_title": "Schüler mit iPads"
-    },
-    {
-      "title": "AlertWebhosting-Software cPanel: Updates schließen Sicherheitslücke",
-      "teaser": "Die Verwaltungssoftware cPanel und WHM für Webhosting schließt mit neuen Versionen mindestens eine Sicherheitslücke, die als hochriskant gilt.",
-      "url": "https://www.heise.de/news/Webhosting-Software-cPanel-Updates-schliessen-Sicherheitsluecke-10599503.html",
-      "image_title": "Update-taste"
     },
     {
       "title": "HintergrundDeveloper-Plattformen systematisch bewerten",
@@ -59,6 +60,18 @@
     {
       "title": "RatgeberObsidian: Wie man Notizen als Website veröffentlicht",
       "url": "https://www.heise.de/ratgeber/Obsidian-Wie-man-Notizen-als-Website-veroeffentlicht-10578823.html"
+    },
+    {
+      "title": "NRW: Datenschutzbeauftragte warnt zum Schulbeginn vor unbedachter iPad-Nutzung",
+      "teaser": "Die Landesbeauftragte für Datenschutz NRW warnt vor uneingeschränkter Nutzung von Apples iCloud auf Schul-iPads. Sie empfiehlt datenschutzkonforme Alternativen.",
+      "url": "https://www.heise.de/news/NRW-Datenschutzbeauftragte-warnt-zum-Schulbeginn-vor-unbedachter-iPad-Nutzung-10599019.html",
+      "image_title": "Schüler mit iPads"
+    },
+    {
+      "title": "AlertWebhosting-Software cPanel: Updates schließen Sicherheitslücke",
+      "teaser": "Die Verwaltungssoftware cPanel und WHM für Webhosting schließt mit neuen Versionen mindestens eine Sicherheitslücke, die als hochriskant gilt.",
+      "url": "https://www.heise.de/news/Webhosting-Software-cPanel-Updates-schliessen-Sicherheitsluecke-10599503.html",
+      "image_title": "Update-taste"
     },
     {
       "title": "AlertSchwachstellen in IT-Sicherheitslösung IBM QRadar SIEM geschlossen",
@@ -135,17 +148,6 @@
       "teaser": "Die aktuelle Preview-Version für Windows-Insider lässt Nutzer Android-Apps auf dem PC mit Windows 11 fortsetzen. Zunächst ist das aber auf Spotify beschränkt.",
       "url": "https://www.heise.de/news/Microsoft-erlaubt-bald-das-Fortsetzen-von-Android-Apps-auf-Windows-11-10590944.html",
       "image_title": "Nutzer mit Handy am Notebook"
-    },
-    {
-      "title": "Warum Microsoft mit Windows 95 den modernen PC definierte",
-      "teaser": "Vor dreißig Jahren hatte Microsoft starke Konkurrenz und reagierte mit Werbung. Doch auch technisch war Windows 95 besser als sein heutiger Ruf.",
-      "url": "https://www.heise.de/hintergrund/Warum-Microsoft-mit-Windows-95-den-modernen-PC-definierte-10590863.html"
-    },
-    {
-      "title": "Studie: Insider-Bedrohungen durch KI sind gefährlicher als externe Cyberangriffe",
-      "teaser": "Eine umfassende Befragung von IT-Sicherheitsexperten zeigt: Interne Bedrohungen gelten inzwischen als größte Security-Herausforderung. KI spielt zentrale Rolle.",
-      "url": "https://www.heise.de/news/Studie-Insider-Bedrohungen-durch-KI-sind-gefaehrlicher-als-externe-Cyberangriffe-10590799.html",
-      "image_title": "Person arbeitet an einem Schreibtisch mit zwei Monitoren, auf denen komplexe Software- und Netzwerkdiagramme angezeigt werden."
     },
     {
       "title": "NewsGamescom 2025: Die Tops und Flops der Spielemesse",
