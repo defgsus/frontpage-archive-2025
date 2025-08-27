@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T06:14:52",
+  "timestamp": "2025-08-27T07:09:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,20 +26,21 @@
   ],
   "articles": [
     {
-      "title": "Google Play Store77 Malware-Apps mit 19 Millionen Installationen entdeckt",
-      "teaser": "IT-Sicherheitsforscher haben zahlreiche Android-Malware-Pakete im Play Store entdeckt. Sie wurden 19 Millionen Mal installiert.",
-      "url": "https://www.heise.de/news/77-Malware-Apps-in-Google-Play-Store-kommen-auf-19-Millionen-Installationen-10621578.html"
+      "title": "AlertCitrix Bleed 3?Angreifer nutzen neue schwere Sicherheitslücken bereits aus",
+      "teaser": "Angreifer attackieren verwundbare NetScaler ADC und Gateway, melden Hersteller Citrix die CISA. Admins sollten sich sputen.",
+      "url": "https://www.heise.de/news/Citrix-Bleed-3-Angreifer-nutzen-neue-schwere-Sicherheitsluecken-bereits-aus-10622355.html",
+      "image_title": "rot schimmerndes warndreieck"
     },
     {
-      "title": "Mirai-Botnet-Kampagne\"Gayfemboy\" auch in Deutschland aktiv",
-      "teaser": "IT-Forscher von Fortinet beobachten ein IoT-Botnet, das auf \"Mirai\" basiert und \"Gayfemboy\" genannt wird. Es versteckt sich gut.",
-      "url": "https://www.heise.de/news/Mirai-basierte-Botnet-Kampagne-Gayfemboy-auch-in-Deutschland-aktiv-10607344.html",
-      "image_title": "Futuristische Datenmatrix"
-    },
-    {
-      "title": "AlertGoogle Chrome: Update schließt kritische Sicherheitslücke",
+      "title": "AlertGoogle ChromeKritische Sicherheitslücke in Webbrowser",
+      "teaser": "Im Webbrowser Chrome haben die Entwickler eine kritische Sicherheitslücke entdeckt. Ein Update stopft sie.",
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-10622339.html",
       "image_title": "Verzerrtes Chrome-Logo und Achtung-Schild vor Matrix-Zeichenregen-Hintergrund"
+    },
+    {
+      "title": "AlertCitrix Bleed 3?Angreifer nutzen neue schwere Sicherheitslücken bereits aus",
+      "url": "https://www.heise.de/news/Citrix-Bleed-3-Angreifer-nutzen-neue-schwere-Sicherheitsluecken-bereits-aus-10622355.html",
+      "image_title": "rot schimmerndes warndreieck"
     },
     {
       "title": "Auslegungssache 141: Datenschutz für Websites",
@@ -71,16 +72,21 @@
       "url": "https://shop.heise.de/microsoft-entra-dangerous-defaults?wt_mc=intern.academy.security.web_entradd.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertGoogle Chrome: Update schließt kritische Sicherheitslücke",
-      "teaser": "Im Webbrowser Chrome haben die Entwickler eine kritische Sicherheitslücke entdeckt. Ein Update stopft sie.",
-      "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-10622339.html",
-      "image_title": "Verzerrtes Chrome-Logo und Achtung-Schild vor Matrix-Zeichenregen-Hintergrund"
+      "title": "\"Passwort\" Folge 39: Vielfältiges Versagen in Redmond und andere News",
+      "teaser": "Microsofts Kommunikationsstrategie verärgert die Hosts, Let's Encrypt drückt derweil mächtig aufs Tempo. Und: Phishing-Schulungen bringen meist nicht viel.",
+      "url": "https://www.heise.de/news/Passwort-Folge-39-Vielfaeltiges-Versagen-in-Redmond-und-andere-News-10589942.html",
+      "image_title": "Bild vom heise-Security-Podcast"
     },
     {
       "title": "US-Regierung steigt bei Intel ein: Krypto-Funktionen weiter vertrauenswürdig?",
       "teaser": "Der Einstieg der US-Regierung bei Intel unterminiert Funktionen wie Confidential Computing und \"souveräne Cloud\".",
       "url": "https://www.heise.de/news/Intel-Chips-USA-inside-10622136.html",
       "image_title": "Pforte am Intel-Hauptsitz in Santa Clara"
+    },
+    {
+      "title": "Google Play Store: 77 Malware-Apps mit 19 Millionen Installationen entdeckt",
+      "teaser": "IT-Sicherheitsforscher haben zahlreiche Android-Malware-Pakete im Play Store entdeckt. Sie wurden 19 Millionen Mal installiert.",
+      "url": "https://www.heise.de/news/77-Malware-Apps-in-Google-Play-Store-kommen-auf-19-Millionen-Installationen-10621578.html"
     },
     {
       "title": "iX-Workshop: Wireshark für Netzwerkdiagnose und -sicherheit",
@@ -128,6 +134,12 @@
       "url": "https://www.heise.de/news/Android-Google-verbietet-anonyme-Apps-10617479.html"
     },
     {
+      "title": "Botnet-Kampagne \"Gayfemboy\" auch in Deutschland aktiv",
+      "teaser": "IT-Forscher von Fortinet beobachten ein IoT-Botnet, das auf \"Mirai\" basiert und \"Gayfemboy\" genannt wird. Es versteckt sich gut.",
+      "url": "https://www.heise.de/news/Mirai-basierte-Botnet-Kampagne-Gayfemboy-auch-in-Deutschland-aktiv-10607344.html",
+      "image_title": "Futuristische Datenmatrix"
+    },
+    {
       "title": "Go-Modul für Brute-Force-Angriffe auf SSH stiehlt die gefundenen Zugänge",
       "teaser": "Ein schädliches Go-Modul tarnt sich als Brute-Force-Tool für SSH, stiehlt die gefundenen Zugangsdaten aber heimlich und übermittelt sie per Telegram.",
       "url": "https://www.heise.de/news/Go-Modul-fuer-Brute-Force-Angriffe-auf-SSH-stiehlt-die-gefundenen-Zugaenge-10599723.html",
@@ -150,18 +162,6 @@
       "teaser": "Das Landeskriminalamt Niedersachsen warnt vor einer Phishing-Masche, die mit einem herkömmlichen Brief beginnt.",
       "url": "https://www.heise.de/news/Phishing-Gefaelschte-Anwaltschreiben-versprechen-Krypto-Gutschriften-10591022.html",
       "image_title": "Kreditkarten am Angelhaken"
-    },
-    {
-      "title": "\"Operation Serengeti 2.0\": Koordinierte Aktion gegen Cybercrime in ganz Afrika",
-      "teaser": "In 18 afrikanischen Staaten sind Behörden über Wochen gegen Cyberkriminelle vorgegangen, 1209 Personen wurden festgenommen. Opfer kommen auch aus Deutschland.",
-      "url": "https://www.heise.de/news/Operation-Serengeti-2-0-Koordinierte-Aktion-gegen-Cybercrime-in-ganz-Afrika-10590960.html",
-      "image_title": "Interpol-Logo"
-    },
-    {
-      "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
-      "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-10516222.html",
-      "image_title": "Penetrationstests: Methodik, Ausschreibung und Auswertung"
     },
     {
       "title": "Workshop | 9. – 10.9.2025Windows 11 im Unternehmen absichern",
