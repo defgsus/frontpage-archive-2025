@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-27T07:09:45",
+  "timestamp": "2025-08-27T08:13:24",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,31 @@
   ],
   "articles": [
     {
+      "title": "Jenseits des Hypes: Wie Künstliche Intelligenz wirklich funktioniert",
+      "teaser": "Wer versteht, wie KI Entscheidungen trifft, kann Ergebnisse besser einschätzen. Dieser Beitrag erklärt auf einfache Weise die Prinzipien der modernen KI.",
+      "url": "https://www.heise.de/blog/Jenseits-des-Hypes-Wie-Kuenstliche-Intelligenz-wirklich-funktioniert-10590422.html",
+      "image_title": "Roboter mit Werkzeug in den Händen"
+    },
+    {
+      "title": "KYAML: Kubernetes 1.34 bekommt neues Datenformat",
+      "teaser": "Ein neuer YAML-Dialekt namens KYAML soll Kubernetes-Konfigurationsfehler vermeiden und vollständig abwärtskompatibel sein. Er kommt mit Kubernetes 1.34.",
+      "url": "https://www.heise.de/hintergrund/KYAML-Kubernetes-1-34-bekommt-neues-Datenformat-10544631.html"
+    },
+    {
+      "title": "iX-Workshop Cyber Deception: Angreifer mit Honeypots gezielt in die Falle locken",
+      "teaser": "Lernen Sie, wie Sie Honeypots in Netzwerken und Clouds einrichten, um Angreifer zu täuschen und Ihre IT effektiv zu schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Cyber-Deception-Angreifer-mit-Honeypots-gezielt-in-die-Falle-locken-10539158.html",
+      "image_title": "Active Directory Hardening - Vom Audit zur sicheren Umgebung"
+    },
+    {
       "title": "Warum CRUD für Märchen und Unternehmen gleichermaßen ungeeignet ist",
       "teaser": "Ein Märchen in CRUD zeigt, wie Fachsprache und Technik kollidieren, weil sich nicht alles über Create, Read, Updated und Delete abbilden lässt.",
       "url": "https://www.heise.de/blog/Warum-CRUD-fuer-Maerchen-und-Unternehmen-gleichermassen-ungeeignet-ist-10515489.html",
       "image_title": "Rauchendes Buch"
     },
     {
-      "title": "\"Passwort\" Folge 39: Vielfältiges Versagen in Redmond und andere News",
-      "teaser": "Microsofts Kommunikationsstrategie verärgert die Hosts, Let's Encrypt drückt derweil mächtig aufs Tempo. Und: Phishing-Schulungen bringen meist nicht viel.",
-      "url": "https://www.heise.de/news/Passwort-Folge-39-Vielfaeltiges-Versagen-in-Redmond-und-andere-News-10589942.html",
-      "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "IT-Sicherheit: Mit KI Schwachstellen finden und ausnutzen",
-      "teaser": "Zugriff auf ein LLM und etwas Python-Code: Mehr braucht es nicht, um mit dem Model Context Protocol KI-Agenten zu bauen, die Schwachstellen in Servern finden.",
-      "url": "https://www.heise.de/ratgeber/IT-Sicherheit-Mit-KI-Schwachstellen-finden-und-ausnutzen-10517021.html"
-    },
-    {
-      "title": "AlertCitrix Bleed 3?Angreifer nutzen neue schwere Sicherheitslücken bereits aus",
-      "teaser": "Angreifer attackieren verwundbare NetScaler ADC und Gateway, melden Hersteller Citrix die CISA. Admins sollten sich sputen.",
-      "url": "https://www.heise.de/news/Citrix-Bleed-3-Angreifer-nutzen-neue-schwere-Sicherheitsluecken-bereits-aus-10622355.html",
-      "image_title": "rot schimmerndes warndreieck"
+      "title": "HintergrundKYAML: Kubernetes 1.34 bekommt neues Datenformat",
+      "url": "https://www.heise.de/hintergrund/KYAML-Kubernetes-1-34-bekommt-neues-Datenformat-10544631.html"
     },
     {
       "title": "RatgeberIT-Sicherheit: Mit KI Schwachstellen finden und ausnutzen",
@@ -58,8 +62,16 @@
       "image_title": ","
     },
     {
-      "title": "RatgeberUngestört surfen mit Smartphone und Tablet",
-      "url": "https://www.heise.de/ratgeber/Ungestoert-surfen-mit-Smartphone-und-Tablet-10501700.html"
+      "title": "\"Passwort\" Folge 39: Vielfältiges Versagen in Redmond und andere News",
+      "teaser": "Microsofts Kommunikationsstrategie verärgert die Hosts, Let's Encrypt drückt derweil mächtig aufs Tempo. Und: Phishing-Schulungen bringen meist nicht viel.",
+      "url": "https://www.heise.de/news/Passwort-Folge-39-Vielfaeltiges-Versagen-in-Redmond-und-andere-News-10589942.html",
+      "image_title": "Bild vom heise-Security-Podcast"
+    },
+    {
+      "title": "AlertCitrix Bleed 3? Angreifer nutzen neue schwere Sicherheitslücken bereits aus",
+      "teaser": "Angreifer attackieren verwundbare Geräte des Typs NetScaler ADC und Gateway, melden Hersteller Citrix und die US-Behörde CISA. Admins sollten sich sputen.",
+      "url": "https://www.heise.de/news/Citrix-Bleed-3-Angreifer-nutzen-neue-schwere-Sicherheitsluecken-bereits-aus-10622355.html",
+      "image_title": "rot schimmerndes warndreieck"
     },
     {
       "title": "programmier.bar: CTO-Special mit Emil Sjölander von Figma",
@@ -84,6 +96,11 @@
       "teaser": "Im Webbrowser Chrome haben die Entwickler eine kritische Sicherheitslücke entdeckt. Ein Update stopft sie.",
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-10622339.html",
       "image_title": "Verzerrtes Chrome-Logo und Achtung-Schild vor Matrix-Zeichenregen-Hintergrund"
+    },
+    {
+      "title": "Ungestört surfen mit Smartphone und Tablet",
+      "teaser": "Mit den passenden Browsern, Erweiterungen und Apps werden Sie Werbung und Tracker auf Android und iOS nachhaltig los.",
+      "url": "https://www.heise.de/ratgeber/Ungestoert-surfen-mit-Smartphone-und-Tablet-10501700.html"
     },
     {
       "title": "Wie Sie nervige Werbung und Tracking auf dem Desktop ausradieren",
@@ -128,24 +145,6 @@
       "teaser": "Nach Kritik an GPT-5 zeigt sich: Bessere Leistung bedeutet nicht immer zufriedenere Nutzer. Für die Entwickler von KI-Modellen ist das aber ein großes Problem.",
       "url": "https://www.heise.de/news/GPT-5-Blindtest-zeigt-das-eigentliche-Problem-hinter-dem-neuen-Spitzenmodell-10621946.html",
       "image_title": "ChatGPT-App auf einem Smartphone"
-    },
-    {
-      "title": "Mobilfunkmasten beseitigt: Funkstille in Bad Wildbad – Digital Detox ungewollt",
-      "teaser": "Schier eine ganze Stadt stürzt ins Funkloch: Warum es in Bad Wildbad seit Monaten kaum noch Handyempfang gibt. Alle Nutzer von O2 und Vodafone sind betroffen.",
-      "url": "https://www.heise.de/news/Mobilfunkmasten-beseitigt-Funkstille-in-Bad-Wildbad-Digital-Detox-ungewollt-10621988.html",
-      "image_title": "Farbverändertes Negativ eines Mobilfunkmastes mit mehreren Antennen"
-    },
-    {
-      "title": "\"Nano Banana\": Google erweitert seine Bildberarbeitungsfunktion in Gemini",
-      "teaser": "Google Gemini 2.5 Flash Image verbessert KI-Bildbearbeitung mit konsistenten Personendarstellungen und weiteren Optionen.",
-      "url": "https://www.heise.de/news/Nano-Banana-Google-erweitert-seine-Bildberarbeitungsfunktion-in-Gemini-10621974.html",
-      "image_title": "Frau mit Locken und Golden Retriever"
-    },
-    {
-      "title": "Nvidias Jetson AGX Thor kostet als Dev-Kit 3499 US-Dollar",
-      "teaser": "Bastler können ihre Roboter mit neuer Nvidia-Hardware antreiben. Der Jetson AGX Thor nutzt einen 14-Kern-Prozessor mit moderner Blackwell-GPU.",
-      "url": "https://www.heise.de/news/Nvidias-Jetson-AGX-Thor-kostet-als-Dev-Kit-3499-US-Dollar-10621936.html",
-      "image_title": "Renderbild eines Nvidia-Thor-Prozessor, der an einem Gehäuse lehnt"
     },
     {
       "title": "NewsNach Einmalzahlung: Hunderttausende inaktive BundID-Konten sind gelöscht",
