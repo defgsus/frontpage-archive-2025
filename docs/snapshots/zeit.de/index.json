@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-29T18:13:39",
+  "timestamp": "2025-08-29T19:07:32",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -104,11 +110,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Raubkunst: Die geraubte Contessa überm Sofa",
-      "teaser": "Irrer Fall: Ein bedeutendes verschollenes Gemälde taucht wieder auf – auf einem Foto in einer argentinischen Immobilienanzeige. Die Spur führt zu einem Naziverbrecher.",
-      "url": "https://www.zeit.de/kultur/kunst/2025-08/raubkunst-argentinien-ghislandi-immobilienanzeige-contessa-colleoni-hermann-goering",
-      "image_url": "https://img.zeit.de/kultur/2025-08/raubkunst-argentinien-ghislandi-immobilienanzeige-contessa-colleoni-hermann-goering-bild-2/wide__1000x562",
-      "image_title": "Raubkunst: Contessa Colleoni"
+      "title": "Z+ (abopflichtiger Inhalt); Toulon: Hach, schön! Aber was hat Europa davon? Und die Ukraine?",
+      "teaser": "Friedrich Merz und Emmanuel Macron wollen eine neue Ära einläuten. Doch bei aller Harmonie zwischen den beiden sind die großen Aufgaben nur schwer zu lösen.",
+      "url": "https://www.zeit.de/politik/ausland/2025-08/toulon-friedrich-merz-emmanuel-macron-ministerrat-ukraine",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-08/deutsch-franzoesische-aussenpolitik-ukraine-friedrich-merz-emmanuel-macron-bild/wide__1000x562",
+      "image_title": "Toulon: Bundeskanzler Friedrich Merz (r,CDU) und Frankreichs Präsident Emmanuel Macron begrüßen sich beim deutsch-französischen Regierungstreffen zur Wirtschafts- und Sicherheitspolitik. Das erste Mal während der Kanzlerschaft von Friedrich Merz kommen die Regierungen beider Länder zu einer Tagung des deutsch-französischen Ministerrats zusammen. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fraktionsklausur in Würzburg: Ich bin jetzt kein Beziehungsexperte, sagt Jens Spahn",
@@ -118,11 +124,25 @@
       "image_title": "Fraktionsklausur in Würzburg: Chairman of Germany's Social Democratic Party (SPD) parliamentary group Matthias Miersch (C), parliamentary group leader of the Bavarian conservative Christian Social Union (CSU) party Alexander Hoffmann (R), and parliamentary group leader of Germany's Christian Democratic Union (CDU) Jens Spahn walk on the Alte Main Bruecke bridge prior to a two-day closed-door meeting of the executive committee of the parliamentary groups of Germany's Christian Democratic Union CDU, the Christian Social Union CSU and Social Democratic Party SPD in Wuerzburg, Germany on August 28, 2025. The executive committees of the CDU/CSU and SPD coalition factions meet at Hotel Rebstock in Wuerzburg for a two-day retreat to discuss upcoming political projects."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Michel Friedman: \"Die größte Gefahr sind gleichgültige Demokraten in der Mitte\"",
-      "teaser": "Die Welt, das Land, diese Haltungslosigkeit: Es ist zum Verzweifeln, sagt Michel Friedman. Er erklärt seinen Blick auf die Deutschen, die Wehrpflicht und Friedrich Merz.",
-      "url": "https://www.zeit.de/kultur/2025-08/michel-friedman-mensch-demokratie-erinnerungskultur-gaza-friedrich-merz",
-      "image_url": "https://img.zeit.de/kultur/2025-08/michel-friedman-mensch-demokratie-erinnerungskultur-gaza-friedrich-merz-bild/super__430x286",
-      "image_title": "Michel Friedman: \"Die größte Gefahr sind gleichgültige Demokraten in der Mitte\""
+      "title": "Z+ (abopflichtiger Inhalt); Raubkunst: Die geraubte Contessa überm Sofa",
+      "teaser": "Irrer Fall: Ein bedeutendes verschollenes Gemälde taucht wieder auf – auf einem Foto in einer argentinischen Immobilienanzeige. Die Spur führt zu einem Naziverbrecher.",
+      "url": "https://www.zeit.de/kultur/kunst/2025-08/raubkunst-argentinien-ghislandi-immobilienanzeige-contessa-colleoni-hermann-goering",
+      "image_url": "https://img.zeit.de/kultur/2025-08/raubkunst-argentinien-ghislandi-immobilienanzeige-contessa-colleoni-hermann-goering-bild-2/super__430x286",
+      "image_title": "Raubkunst: Contessa Colleoni"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Julia Roberts: Noch zarter, noch härter",
+      "teaser": "In Venedig gelingt Julia Roberts ein eindrucksvolles Comeback: In dem MeToo-Thriller \"After the Hunt\" begibt sich ihre Figur auf eine faszinierende Höllenfahrt.",
+      "url": "https://www.zeit.de/kultur/film/2025-08/julia-roberts-after-the-hunt-venedig-luca-guadagnino-film",
+      "image_url": "https://img.zeit.de/kultur/film/2025-08/julia-roberts-after-the-hunt-venedig-luca-guadagnino-film-bild-2/wide__892x501",
+      "image_title": "Julia Roberts: Nicht nur der Rote Teppich vor dem Premierenkino am Lido, auch ihr neuer Film \"After the Hunt\" bietet Julia Roberts einen Laufsteg"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Beziehungszufriedenheit: \"Paare, die sich online kennenlernten, sind im Schnitt unzufriedener\"",
+      "teaser": "Das sagt Forscherin Marta Kowal. Für ihre Studie analysierte sie Daten von mehr als 6.000 vergebenen Menschen. Und beobachtete einen neuen Datingtrend: Cold Intimacy.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-08/beziehungszufriedenheit-liebesbeziehung-psychologie-studie-online-dating",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-08/beziehungszufriedenheit-liebesbeziehung-psychologie-studie-online-dating-bild/super__430x286",
+      "image_title": "Beziehungszufriedenheit: \"Paare, die sich online kennenlernten, sind im Schnitt unzufriedener\""
     },
     {
       "title": "Lage in der Ukraine: Masse, Timing und Kalkül",
@@ -132,18 +152,11 @@
       "image_title": "Lage in der Ukraine: Smoke rises from the Unecha oil pumping station during a fire, in Unechsky district, Bryansk region, Russia, August 21, 2025 in this night vision still image obtained from social media video. YouTube @MAGYARBIRDS via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. IMAGE BLURRED AT SOURCE. Verification Notes: Reuters was able to locate the footage from structures, compound layout, road layout and water body which matched satellite imagery. Date of footage was verified by Ukrainian official confirmation of a strike and Russian governor saying there was an attack in the area. NASA's FIRMS (NASA’s Global fire tracking map) detected thermal activity in the area on Thursday (August 21). Coordinates for reference: 52.767694454981765, 32.93586876844291"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehungszufriedenheit: \"Paare, die sich online kennenlernten, sind im Schnitt unzufriedener\"",
-      "teaser": "Das sagt Forscherin Marta Kowal. Für ihre Studie analysierte sie Daten von mehr als 6.000 vergebenen Menschen. Und beobachtete einen neuen Datingtrend: Cold Intimacy.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-08/beziehungszufriedenheit-liebesbeziehung-psychologie-studie-online-dating",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-08/beziehungszufriedenheit-liebesbeziehung-psychologie-studie-online-dating-bild/wide__892x501",
-      "image_title": "Beziehungszufriedenheit: \"Paare, die sich online kennenlernten, sind im Schnitt unzufriedener\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krisenvorsorge: Stilvoll preppen",
-      "teaser": "Unsere Autorin besitzt einen Wasserfilter und eine Powerbank. Geht die Welt unter, muss das reichen. Denn das ganze andere Prepperzeug findet sie ästhetisch bedenklich.",
-      "url": "https://www.zeit.de/2025/37/krisenvorsorge-marketing-prepping-notfall-vorrat",
-      "image_url": "https://img.zeit.de/2025/37/krisenvorsorge-marketing-prepping-notfall-vorrat-teaser/wide__892x501",
-      "image_title": "Krisenvorsorge: Prepping-Produkte sind nicht besonders ästhetisch."
+      "title": "Z+ (abopflichtiger Inhalt); Michel Friedman: \"Die größte Gefahr sind gleichgültige Demokraten in der Mitte\"",
+      "teaser": "Die Welt, das Land, diese Haltungslosigkeit: Es ist zum Verzweifeln, sagt Michel Friedman. Er erklärt seinen Blick auf die Deutschen, die Wehrpflicht und Friedrich Merz.",
+      "url": "https://www.zeit.de/kultur/2025-08/michel-friedman-mensch-demokratie-erinnerungskultur-gaza-friedrich-merz",
+      "image_url": "https://img.zeit.de/kultur/2025-08/michel-friedman-mensch-demokratie-erinnerungskultur-gaza-friedrich-merz-bild/wide__892x501",
+      "image_title": "Michel Friedman: \"Die größte Gefahr sind gleichgültige Demokraten in der Mitte\""
     },
     {
       "title": "Pflichtjahr für Rentner: Das Pflichtjahr für Babyboomer ist eine Chance für alle",
@@ -153,25 +166,32 @@
       "image_title": "Sollten alle Älteren einen sozialen Dienst ableisten? Zumindest, wenn sie es können, fordert der Ökonom Marcel Fratzscher und argumentiert mit Solidarität."
     },
     {
-      "title": "Ministerrat in Toulon: Merz und Macron beenden Atomstreit und drohen Putin",
-      "teaser": "Deutschland und Frankreich haben ihren langen Streit zur Atomkraft weitgehend beigelegt. Der Ukraine sicherten beide Länder weitere Hilfe bei der Luftverteidigung zu.",
-      "url": "https://www.zeit.de/politik/ausland/2025-08/ministerrat-in-toulon-friedrich-merz-emmanuel-macron",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-08/ministerrat-merz-macron-beenden-atomstreit-bild/super__430x286",
-      "image_title": "Ministerrat in Toulon: Der französische Präsident Emmanuel Macron (rechts) und der deutsche Bundeskanzler Friedrich Merz (links) geben sich vor einer deutsch-französischen Kabinettssitzung in Toulon, Südostfrankreich, am 29. August 2025 die Hand."
+      "title": "Z+ (abopflichtiger Inhalt); Erfolgreiche Familien • Z+ Empfehlung: Drei Kinder, alle erfolgreich – was haben die Eltern richtig gemacht?",
+      "teaser": "Eine Familie, drei Geschwister, alle machen als Erwachsene Karriere. Gibt es eine Erfolgsformel? Susan Dominus hat nach dem Geheimnis erfolgreicher Familien gesucht.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2025-08/erfolgreiche-familien-eltern-kinder-einfluss-susan-dominus",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-08/erfolgreiche-familien-eltern-kinder-einfluss-susan-dominus-bild/super__430x286",
+      "image_title": "Erfolgreiche Familien • Z+ Empfehlung: Drei Kinder, alle erfolgreich – was haben die Eltern richtig gemacht?"
     },
     {
-      "title": "US-Regierung: USA entziehen palästinensischen Vertretern Visa vor UN-Vollversammlung",
-      "teaser": "Kurz vor der Vollversammlung der UN in New York verweigert die US-Regierung palästinensischen Vertretern ihre Visa. Sie würden \"Friedensaussichten\" untergraben, hieß es.",
-      "url": "https://www.zeit.de/politik/ausland/2025-08/un-vollversammlung-usa-entziehen-palaestinensischen-vertretern-visa",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-08/usa-verweigern-vor-un-vollversammlung-visa-fuer-palaestinensische-vertreter-bild/super__430x286",
-      "image_title": "US-Regierung: Mitglieder der Generalversammlung treffen sich am 28. November 2023 in New York City zur 39. Plenarsitzung im Hauptquartier der Vereinten Nationen. Die Mitglieder der Generalversammlung hielten eine Sitzung ab, um über einen Resolutionsentwurf zum Krieg zwischen Israel und der Hamas zu debattieren und abzustimmen, einen Tag nachdem der Präsident der 78. Sitzung der Generalversammlung, Dennis Francis, eine dauerhafte Waffenruhe, die Freilassung aller Geiseln und die Lieferung humanitärer Hilfe an die Palästinenser im Gazastreifen gefordert hatte."
+      "title": "Krieg in der Ukraine: EU-Staaten erwägen Ausbildung von ukrainischen Soldaten in der Ukraine",
+      "teaser": "Kaja Kallas zufolge könnte die EU künftig bei der Ausbildung von Soldaten in der Ukraine helfen. Dies könne Teil einer westlichen Sicherheitsgarantie sein.",
+      "url": "https://www.zeit.de/politik/ausland/2025-08/ukraine-soldaten-ausbildung-mission-eu-aussenbeauftragte-kaja-kallas-sicherheitsgarantien",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-08/ukraine-soldaten-ausbildung-mission-eu-aussenbeauftragte-kaja-kallas-sicherheitsgarantien-bild/super__430x286",
+      "image_title": "Krieg in der Ukraine: Die Hohe Vertreterin der EU für Außen- und Sicherheitspolitik, Kaja Kallas (Mitte links), und der dänische Verteidigungsminister Troels Lund Poulsen (Mitte rechts) posieren für das Gruppenfoto mit den Teilnehmern eines informellen Treffens der EU-Verteidigungsminister am 29. August 2025 in Kopenhagen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elternhaus und Schule • Z+ Empfehlung: \"Darum kümmern Sie sich, oder?\"",
-      "teaser": "Lehrer werden immer mehr in der Erziehung von Schülern gefordert, was eigentlich Aufgabe der Eltern ist. Es entstehen viele Konflikte – und die müssen Schulen klug lösen.",
-      "url": "https://www.zeit.de/familie/2025-08/elternhaus-schule-lehrer-kinder-kooperation",
-      "image_url": "https://img.zeit.de/familie/2025-07/elternhaus-schule-lehrer-kinder/super__430x286",
-      "image_title": "Elternhaus und Schule • Z+ Empfehlung: \"Darum kümmern Sie sich, oder?\""
+      "title": "Frankreich: Macron will auch bei verlorener Vertrauensfrage Bayrous im Amt bleiben",
+      "teaser": "Frankreichs Premierminister François Bayrou will angesichts seiner drastischen Sparpläne die Vertrauensfrage stellen. Der Präsident schließt einen Rücktritt aus.",
+      "url": "https://www.zeit.de/politik/ausland/2025-08/frankreich-emmanuel-macron-ruecktritt-vertrauensfrage-fran-ois-bayrou",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-08/macron-premierminister-francois-bayrou-bild/super__430x286",
+      "image_title": "Frankreich: Der französische Präsident Emmanuel Macron und Premierminister Francois Bayrou nehmen an einem Treffen mit gewählten Vertretern Neukaledoniens und Staatsvertretern teil, die ein historisches Abkommen geschlossen haben, das die Schaffung eines „Staates Neukaledonien” innerhalb der Französischen Republik ermöglicht, im Élysée-Palast in Paris, Frankreich, am 12. Juli 2025."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hamburger Stadtderby: Über 100 Jahre Rivalität",
+      "teaser": "Am Freitag spielen der Hamburger SV und St. Pauli endlich wieder in der Bundesliga gegeneinander. Wir zeigen die wichtigsten Zahlen zum Derby.",
+      "url": "https://www.zeit.de/2025/36/hamburger-stadtderby-hsv-st-pauli-fussballbundesliga",
+      "image_url": "https://img.zeit.de/2025/36/hamburger-stadtderby-hsv-st-pauli-fussballbundesliga-teaser/wide__892x501",
+      "image_title": "Hamburger Stadtderby: Über 100 Jahre Rivalität"
     },
     {
       "title": "Arbeitsmarkt: Keine Panik, es geht aufwärts!",
@@ -279,11 +299,11 @@
       "image_title": "Elektrotrucker: \"Es gibt keinen Grund mehr, einen Diesel-Lkw zu fahren\""
     },
     {
-      "title": "Bundestagsvizepräsident: Bodo Ramelow plädiert für neue Nationalhymne",
-      "teaser": "Eine neue Hymne müsse Ost und West näher zusammenbringen, sagt Bundestagsvizepräsident Bodo Ramelow. Er fordert zudem eine Abstimmung über die Bundesflagge.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-08/bodo-ramelow-nationalhymne-flagge-abstimmung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-08/bodo-ramelow-nationalhymne-flagge-abstimmung-bild/super__430x286",
-      "image_title": "Bundestagsvizepräsident: Der Thüringer Ministerpräsident Bodo Ramelow nimmt am 26. September 2024 an der konstituierenden Sitzung des neu gewählten Landtags in Erfurt teil, nachdem am 1. September 2024 Landtagswahlen stattgefunden hatten."
+      "title": "Grundsteuer: Warum müssen wir auf einmal so viel mehr zahlen?",
+      "teaser": "Über eine Reichensteuer streitet das Land heftiger als über die Grundsteuer, die alle trifft. Auch Mieter. Es wird Zeit, zu ermitteln, was deren Reform gebracht hat.",
+      "url": "https://www.zeit.de/2025/37/grundsteuer-reform-einnahmen-steuerpolitik-kommune",
+      "image_url": "https://img.zeit.de/2025/37/leise-abgeschoepft-bild-2/super__430x286",
+      "image_title": "Grundsteuer: Die Grundsteuer ist eine der wenigen kommunalen Geldquellen ++++++++++<br /> x"
     },
     {
       "title": "Russische Besatzung: \"Hoffnung ist Selbstbetrug\"",
@@ -291,20 +311,6 @@
       "url": "https://www.zeit.de/politik/2025-08/russische-besatzung-ukraine-wladimir-putin-bevoelkerung",
       "image_url": "https://img.zeit.de/politik/ausland/2025-08/russische-besatzung-ukraine-wladimir-putin-bevoelkerung-bild/square__500x500",
       "image_title": "Russische Besatzung: RUSSIA, ZAPOROZHYE REGION - APRIL 7, 2025: A view of Central Beach in the town of Berdyansk in spring. Alexander Polegenko/TASS PUBLICATIONxINxGERxAUTxONLY 79688607"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Richtig reisen: Hauptsache Italien",
-      "teaser": "Reisen bildet, deswegen halten Elten es für wichtig, dass Kinder reisen. Aber was, wenn die Jugendlichen den ganzen Tag nur zufrieden im Hotel abhängen?",
-      "url": "https://www.zeit.de/zeit-magazin/2025/37/richtig-reisen-entspannung-kultur-pruefers-toechter",
-      "image_url": "https://img.zeit.de/zeit-magazin/2025-08/richtig-reisen-entspannung-kultur-pruefers/super__430x286",
-      "image_title": "Richtig reisen: Hauptsache Italien"
-    },
-    {
-      "title": "Ozeanversauerung: Wenn der Klimawandel zu Zahnproblemen bei Haien führt",
-      "teaser": "Beißt der Hai kraftvoll zu, verliert er schon mal einen Zahn. Kein Ding, die wachsen nach. Doch weil die Meere saurer werden, könnten selbst Haie Zahnprobleme kriegen.",
-      "url": "https://www.zeit.de/wissen/umwelt/2025-08/ozeanversauerung-zahnschmerzen-haie-meer-tiere",
-      "image_url": "https://img.zeit.de/wissen/2025-08/ozeanversauerung-zahnschmerzen-haie-meer-tiere-bild/super__430x286",
-      "image_title": "Ozeanversauerung: A great white shark, Carcharodon carcharias, off Guadalupe Island, Mexico."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); T Phone 3: Reden hilft. Manchmal",
@@ -321,11 +327,11 @@
       "image_title": "Diese Woche in der ZEIT: Sind die Linken selber schuld?"
     },
     {
-      "title": "Aachener Friedenspreis 2025: Preisträger des Aachener Friedenspreises darf nicht einreisen",
-      "teaser": "Dem internationalen Träger des Friedenspreises wurde ein Einreisevisum für Deutschland verweigert. Der Friedenspreis-Verein kritisiert die Entscheidung.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-08/aachener-friedenspreis-preistraeger-iran-einreiseverbot-deutschland",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-08/aachener-friedenspreis-preistraeger-iran-einreiseverbot-deutschland-bild/super__430x286",
-      "image_title": "Aachener Friedenspreis 2025: Der Dom in Aachen am 22. März 2023"
+      "title": "Bundestagsvizepräsident: Bodo Ramelow plädiert für neue Nationalhymne",
+      "teaser": "Eine neue Hymne müsse Ost und West näher zusammenbringen, sagt Bundestagsvizepräsident Bodo Ramelow. Er fordert zudem eine Abstimmung über die Bundesflagge.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-08/bodo-ramelow-nationalhymne-flagge-abstimmung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-08/bodo-ramelow-nationalhymne-flagge-abstimmung-bild/super__430x286",
+      "image_title": "Bundestagsvizepräsident: Der Thüringer Ministerpräsident Bodo Ramelow nimmt am 26. September 2024 an der konstituierenden Sitzung des neu gewählten Landtags in Erfurt teil, nachdem am 1. September 2024 Landtagswahlen stattgefunden hatten."
     },
     {
       "title": "Bürokratieabbau: Bundesregierung will das Lieferkettengesetz entschärfen",
@@ -335,11 +341,18 @@
       "image_title": "Bürokratieabbau: Mitarbeiter arbeiten in der Verpackungsanlage für aromatisierte Milch der Molkerei AmulFed in Gandhinagar, Indien, am 07. August 2025."
     },
     {
-      "title": "Hurrikan Katrina: Rette dich selbst, sonst tut es niemand",
-      "teaser": "Vor 20 Jahren verwüstete Hurrikan Katrina New Orleans. Die Katastrophe traf vor allem Arme und Schwarze, sie hielt den USA den Spiegel vor. Hat das Land daraus gelernt?",
-      "url": "https://www.zeit.de/politik/ausland/2025-08/hurrikan-katrina-20-jahre-soziale-ungleichheit-katastrophenschutz-new-orleans",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-08/hurrikan-katrina-20-jahre-soziale-ungleichheit-katastrophenschutz-new-orleans-bild-1/wide__892x501",
-      "image_title": "Hurrikan Katrina: Mr. Robert Green at his “Make It Right Home” in the Lowe 9th Ward of New Orleans, Louisiana on August 20, 2025. Hurricane Katrina -Anniversary 2025 - Reportage - Annie Flanagan"
+      "title": "Z+ (abopflichtiger Inhalt); Krisenvorsorge: Stilvoll preppen",
+      "teaser": "Unsere Autorin besitzt einen Wasserfilter und eine Powerbank. Geht die Welt unter, muss das reichen. Denn das ganze andere Prepperzeug findet sie ästhetisch bedenklich.",
+      "url": "https://www.zeit.de/2025/37/krisenvorsorge-marketing-prepping-notfall-vorrat",
+      "image_url": "https://img.zeit.de/2025/37/krisenvorsorge-marketing-prepping-notfall-vorrat-teaser/super__430x286",
+      "image_title": "Krisenvorsorge: Prepping-Produkte sind nicht besonders ästhetisch."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Darmmikrobiom: Können bestimmte Darmbakterien uns schlank machen?",
+      "teaser": "Manche Bakterien lassen Fettpolster schmelzen, legt eine neue Studie nahe. Andere sollen das Herz schützen. Eine Adipositasexpertin erklärt, wie das möglich ist.",
+      "url": "https://www.zeit.de/gesundheit/2025-08/darmmikrobiom-bakterien-uebergewicht-herzgesundheit-rima-chakaroun",
+      "image_url": "https://img.zeit.de/gesundheit/2025-08/darmmikrobiom-bakterien-uebergewicht-herzgesundheit-rima-chakaroun-bild/wide__892x501",
+      "image_title": "Darmmikrobiom: Close up of a man's belly hanging over belt, illustration."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Christiane Nüsslein-Volhard: \"An einen Schöpfergott glaube ich schon gar nicht\"",
@@ -433,13 +446,6 @@
       "image_title": "ZEIT Podcast-Tour 2025: Der Interviewpodcast \"Alles gesagt?\" live in Leipzig und in Hamburg"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Halloumi-Sandwich: Hat hier jemand Brotjob gesagt?",
-      "teaser": "Steinfrüchte sind schnell konserviert, sogar im Backofen, wie diese Aprikosen. Zusammen mit gebratenem Halloumi auf getoastetem Brot wird daraus ein leckeres Mittagessen.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-06/halloumi-sandwich-gebratene-aprikosenmarmelade-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/2025-05/halloumi-sandwich-teaser/wide__892x501",
-      "image_title": "Halloumi-Sandwich: Georgina Haydens Halloumi-Sandwich mit gebratener Aprikosenmarmelade"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Erfolgreiche Familien • Z+ Empfehlung: Drei Kinder, alle erfolgreich – was haben die Eltern richtig gemacht?",
       "teaser": "Eine Familie, drei Geschwister, alle machen als Erwachsene Karriere. Gibt es eine Erfolgsformel? Susan Dominus hat nach dem Geheimnis erfolgreicher Familien gesucht.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2025-08/erfolgreiche-familien-eltern-kinder-einfluss-susan-dominus",
@@ -512,9 +518,11 @@
       "image_title": "Elternhaus und Schule • Z+ Empfehlung: \"Darum kümmern Sie sich, oder?\""
     },
     {
-      "title": "Krieg in der Ukraine: EU-Staaten erwägen Ausbildung von ukrainischen Soldaten in der Ukraine",
-      "teaser": "Kaja Kallas zufolge könnte die EU künftig bei der Ausbildung von Soldaten in der Ukraine helfen. Dies könne Teil einer westlichen Sicherheitsgarantie sein.",
-      "url": "https://www.zeit.de/politik/ausland/2025-08/ukraine-soldaten-ausbildung-mission-eu-aussenbeauftragte-kaja-kallas-sicherheitsgarantien"
+      "title": "US-Regierung: USA entziehen palästinensischen Vertretern Visa vor UN-Vollversammlung",
+      "teaser": "Kurz vor der Vollversammlung der UN in New York verweigert die US-Regierung palästinensischen Vertretern ihre Visa. Sie würden \"Friedensaussichten\" untergraben, hieß es.",
+      "url": "https://www.zeit.de/politik/ausland/2025-08/un-vollversammlung-usa-entziehen-palaestinensischen-vertretern-visa",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-08/usa-verweigern-vor-un-vollversammlung-visa-fuer-palaestinensische-vertreter-bild/wide__892x501",
+      "image_title": "US-Regierung: Mitglieder der Generalversammlung treffen sich am 28. November 2023 in New York City zur 39. Plenarsitzung im Hauptquartier der Vereinten Nationen. Die Mitglieder der Generalversammlung hielten eine Sitzung ab, um über einen Resolutionsentwurf zum Krieg zwischen Israel und der Hamas zu debattieren und abzustimmen, einen Tag nachdem der Präsident der 78. Sitzung der Generalversammlung, Dennis Francis, eine dauerhafte Waffenruhe, die Freilassung aller Geiseln und die Lieferung humanitärer Hilfe an die Palästinenser im Gazastreifen gefordert hatte."
     },
     {
       "title": "Verlagsangebot: Quiz: Sweet Home Chicago",
@@ -524,11 +532,11 @@
       "image_title": "Quiz: Sweet Home Chicago"
     },
     {
-      "title": "Doppelte Staatsbürgerschaft: Bundesinnenministerium begrüßt Vorschlag zu Doppelstaatler-Erfassung",
-      "teaser": "NRW fordert, in der Kriminalstatistik auch doppelte Staatsbürgerschaften zu erfassen. Bundesinnenminister Dobrindt findet das \"sinnvoll\", aus Niedersachsen kommt Kritik.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-08/doppelte-staatsbuergerschaft-nrw-vorschlag-kriminalerfassung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-08/kriminalstatistik-doppelte-staatsbuergerschaften-bei-verdaechtigen-opfern-bild/super__430x286",
-      "image_title": "Doppelte Staatsbürgerschaft: Herbert Reul (CDU), NRW-Innenminister, äußert sich im Landtag zu einer Razzia gegen eine Hamas-Unterstützergruppe in Duisburg am 16. Mai 2025"
+      "title": "Ministerrat in Toulon: Merz und Macron beenden Atomstreit und drohen Putin",
+      "teaser": "Deutschland und Frankreich haben ihren langen Streit zur Atomkraft weitgehend beigelegt. Der Ukraine sicherten beide Länder weitere Hilfe bei der Luftverteidigung zu.",
+      "url": "https://www.zeit.de/politik/ausland/2025-08/ministerrat-in-toulon-friedrich-merz-emmanuel-macron",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-08/ministerrat-merz-macron-beenden-atomstreit-bild/super__430x286",
+      "image_title": "Ministerrat in Toulon: Der französische Präsident Emmanuel Macron (rechts) und der deutsche Bundeskanzler Friedrich Merz (links) geben sich vor einer deutsch-französischen Kabinettssitzung in Toulon, Südostfrankreich, am 29. August 2025 die Hand."
     },
     {
       "title": "\"Irma. Das Kind aus Srebrenica\": Folge 1 : Er drückt ihr sein Baby in die Hand – dann wird er abgeführt",
@@ -580,11 +588,11 @@
       "image_title": "In drei Wochen zu besseren Fotos"
     },
     {
-      "title": "Grundsteuer: Warum müssen wir auf einmal so viel mehr zahlen?",
-      "teaser": "Über eine Reichensteuer streitet das Land heftiger als über die Grundsteuer, die alle trifft. Auch Mieter. Es wird Zeit, zu ermitteln, was deren Reform gebracht hat.",
-      "url": "https://www.zeit.de/2025/37/grundsteuer-reform-einnahmen-steuerpolitik-kommune",
-      "image_url": "https://img.zeit.de/2025/37/leise-abgeschoepft-bild-2/super__430x286",
-      "image_title": "Grundsteuer: Die Grundsteuer ist eine der wenigen kommunalen Geldquellen ++++++++++<br /> x"
+      "title": "Zahlungsdienstleister: PayPal will Händlern nach Störung ihr Geld auszahlen",
+      "teaser": "Nach dem PayPal-Ausfall will das Unternehmen die betroffenen Händler nun entschädigen. Der Verbraucherzentrale Bundesverband fordert europäische Alternativen zu PayPal.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2025-08/zahlungsdienstleister-paypal-auszahlungen-haendler-milliardenhoehe",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2025-08/zahlungsdienstleister-paypal-auszahlungen-haendler-milliardenhoehe-bild/super__430x286",
+      "image_title": "Zahlungsdienstleister: PayPal will Händlern nach Störung ihr Geld auszahlen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); PayPal-Störungen: Ist PayPal noch sicher?",
@@ -720,11 +728,11 @@
       "image_title": "Neue US-Zollregeln: Zahlreiche Pakete fahren auf Förderbändern durch das neu eröffnete Paketzentrum. Die Deutsche Post DHL hat auf dem ehemaligen Opelgelände ein neues Paketzentrum eröffnet. Mit einer Sortierkapazität von bis zu 50.000 Sendungen pro Stunde im Zielzustand geht in Bochum eines der leistungsfähigsten Paketzentren Europas ans Netz. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Migration: Mindestens 49 Menschen vor der Küste Mauretaniens ertrunken",
-      "teaser": "Sie waren auf dem Weg von Gambia nach Europa, als das Boot mit Migranten kenterte. Die Küstenwache hat 49 Leichen geborgen. Weitere Tote werden befürchtet.",
-      "url": "https://www.zeit.de/gesellschaft/2025-08/migration-boot-tote-mauretanien",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-08/tote-untergang-fluechtlingsboot-kueste-mauretaniens-bild/super__430x286",
-      "image_title": "Migration: Ein Hemd eines Migranten, der bei einem Schiffsunglück vor der Küste Mauretaniens ums Leben kam, liegt am 24. Juli 2024 an einem Strand außerhalb von Nouakchott."
+      "title": "Aachener Friedenspreis 2025: Preisträger des Aachener Friedenspreises darf nicht einreisen",
+      "teaser": "Dem internationalen Träger des Friedenspreises wurde ein Einreisevisum für Deutschland verweigert. Der Friedenspreis-Verein kritisiert die Entscheidung.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-08/aachener-friedenspreis-preistraeger-iran-einreiseverbot-deutschland",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-08/aachener-friedenspreis-preistraeger-iran-einreiseverbot-deutschland-bild/super__430x286",
+      "image_title": "Aachener Friedenspreis 2025: Der Dom in Aachen am 22. März 2023"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kulturkampf: Woke ist nicht tot",
@@ -754,18 +762,18 @@
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-06/wochenmarkt-illustration-cluster-square/square__500x500"
     },
     {
+      "title": "Ozeanversauerung: Wenn der Klimawandel zu Zahnproblemen bei Haien führt",
+      "teaser": "Beißt der Hai kraftvoll zu, verliert er schon mal einen Zahn. Kein Ding, die wachsen nach. Doch weil die Meere saurer werden, könnten selbst Haie Zahnprobleme kriegen.",
+      "url": "https://www.zeit.de/wissen/umwelt/2025-08/ozeanversauerung-zahnschmerzen-haie-meer-tiere",
+      "image_url": "https://img.zeit.de/wissen/2025-08/ozeanversauerung-zahnschmerzen-haie-meer-tiere-bild/wide__892x501",
+      "image_title": "Ozeanversauerung: A great white shark, Carcharodon carcharias, off Guadalupe Island, Mexico."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Pflanzenarten: Es gibt mehr giftige als essbare Pflanzen. Stimmt's?",
       "teaser": "Darf ich das essen? Wie viele der geschätzt 400.000 weltweit bekannten Pflanzenarten genießbar sind.",
       "url": "https://www.zeit.de/2025/37/pflanzenarten-essbar-gift-mensch-biologie",
-      "image_url": "https://img.zeit.de/2025/37/es-gibt-mehr-giftige-als-essbare-pflanzen-bild-2/wide__892x501",
+      "image_url": "https://img.zeit.de/2025/37/es-gibt-mehr-giftige-als-essbare-pflanzen-bild-2/super__430x286",
       "image_title": "Pflanzenarten: In der Realität deckt die Menschheit ihren pflanzlichen Nahrungsbedarf nur mit 150 bis 200 kommerziell angebauten Arten."
-    },
-    {
-      "title": "Invasive Schlangenart: US-Forscher nutzen Roboterkaninchen zur Jagd auf Tigerpythons",
-      "teaser": "In Florida breitet sich die Dunkle Tigerpython immer weiter aus – und frisst heimische Arten. Umgerüstete Spielzeugkaninchen sollen bei der Jagd auf die Tiere helfen.",
-      "url": "https://www.zeit.de/wissen/2025-08/usa-roboter-kaninchen-schlangenjagd-tigerpython",
-      "image_url": "https://img.zeit.de/wissen/2025-08/usa-roboter-kaninchen-schlangenjagd-tigerpython-bild/super__430x286",
-      "image_title": "Invasive Schlangenart: Python Hunting Robot Rabbits This undated photo provided by the South Florida Water Management District shows a robotic rabbit in the Florida Everglades. Officials in Florida are experimenting with ways to capture invasive Burmese pythons in the Florida Everglades using robotic rabbits."
     },
     {
       "title": "Anzeige: Mit dem ZEIT-Bus die Welt entdecken",
@@ -824,18 +832,18 @@
       "image_title": "Endometriose • Z+ Empfehlung: Warum Endometriose so schmerzhaft ist"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Darmmikrobiom: Können bestimmte Darmbakterien uns schlank machen?",
-      "teaser": "Manche Bakterien lassen Fettpolster schmelzen, legt eine neue Studie nahe. Andere sollen das Herz schützen. Eine Adipositasexpertin erklärt, wie das möglich ist.",
-      "url": "https://www.zeit.de/gesundheit/2025-08/darmmikrobiom-bakterien-uebergewicht-herzgesundheit-rima-chakaroun",
-      "image_url": "https://img.zeit.de/gesundheit/2025-08/darmmikrobiom-bakterien-uebergewicht-herzgesundheit-rima-chakaroun-bild/super__430x286",
-      "image_title": "Darmmikrobiom: Close up of a man's belly hanging over belt, illustration."
-    },
-    {
       "title": "Kliniken in Deutschland: Drei von vier Krankenhäusern machen Verluste",
       "teaser": "Die Krise der Kliniken in Deutschland vergrößert sich: Im vergangenen Jahr haben laut Studie viele Einrichtungen im Minus gewirtschaftet, vor allem öffentliche Kliniken.",
       "url": "https://www.zeit.de/gesundheit/2025-08/krankenhaeuser-verlust-kliniken",
       "image_url": "https://img.zeit.de/gesellschaft/2025-08/krankenhaeuser-verlust-kliniken-bild/super__430x286",
       "image_title": "Kliniken in Deutschland: Personal der Universitätsmedizin Greifswald, aufgenommen am Rande einer Pressekonferenz des Klinikum Karlsburg und Universitätsmedizin Greifswald am 21.08.2025."
+    },
+    {
+      "title": "Mecklenburg-Vorpommern: Inzwischen zehn Kinder und zwei Erwachsene an Ehec erkrankt",
+      "teaser": "In Mecklenburg-Vorpommern sind ungewöhnlich viele Menschen an Ehec erkrankt. Die Infektionsquelle ist noch unklar. Das Bakterium kann zu Nierenversagen führen.",
+      "url": "https://www.zeit.de/gesundheit/2025-08/ehec-nierenversagen-mecklenburg-vorpommern-erkrankt",
+      "image_url": "https://img.zeit.de/gesundheit/2025-08/ehec-nierenversagen-mecklenburg-vorpommern-erkrankt-bild/super__430x286",
+      "image_title": "Mecklenburg-Vorpommern: Prof. Alexander Mellmann, EHEC-Experte, Facharzt für Mikrobiologe und Hygiene am Universitätsklinikum Münster untersucht am 22.04.2021 in Münster Proben verschiedener Keime, die auf Petrischalen kultiviert werden. Mellmann leitet das Nationale Konsiliarlabor für das HUS-Syndrom, der schwersten Erkrankungsform des Darmskeims, und pflegt eine der weltweit größten Sammlungen an EHEC-Erregerstämmen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Plan D: Mama, bin ich ein Klotz an deinem Bein?",
@@ -922,11 +930,11 @@
       "image_title": "Restaurierung der Macarena: Die Macarena von Sevilla vor ihrem Besuch bei »Doktor Jungfrau« (oben) und danach"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erfolgreiche Familien • Z+ Empfehlung: Drei Kinder, alle erfolgreich – was haben die Eltern richtig gemacht?",
-      "teaser": "Eine Familie, drei Geschwister, alle machen als Erwachsene Karriere. Gibt es eine Erfolgsformel? Susan Dominus hat nach dem Geheimnis erfolgreicher Familien gesucht.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-08/erfolgreiche-familien-eltern-kinder-einfluss-susan-dominus",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-08/erfolgreiche-familien-eltern-kinder-einfluss-susan-dominus-bild/super__430x286",
-      "image_title": "Erfolgreiche Familien • Z+ Empfehlung: Drei Kinder, alle erfolgreich – was haben die Eltern richtig gemacht?"
+      "title": "Z+ (abopflichtiger Inhalt); Altmark: Die Altmark brachte mich nach Cannes",
+      "teaser": "Das Drehbuch von \"In die Sonne schauen\" hat Mascha Schilinski in Sachsen-Anhalt entwickelt. Der Hof, auf dem sie zu Gast war, wurde später zum Motiv in ihrem Film.",
+      "url": "https://www.zeit.de/2025/34/altmark-mascha-schilinski-in-die-sonne-schauen-film-cannes",
+      "image_url": "https://img.zeit.de/2025/34/die-altmark-brachte-mich-nach-cannes-bild-2/super__430x286",
+      "image_title": "Altmark: Das Drehbuch von \"In die Sonne schauen\" hat Mascha Schilinski in der Altmark entwickelt. Der Hof, auf dem sie zu Gast war, wurde später zum Drehmotiv. (Filmstill) ++++++++++<br /> Gegen die Schwerkräfte ankämpfen: Angelika (Lena Urzendowsky) lebt mit ihrer Familie in den 1980er Jahren auf dem altmärkischen Hof. Filmbild \"In die Sonne schauen\" Ein Film von Mascha Schilinski Drama / Deutschland 2025 / 149 Minuten / FSK 16 Kinostart: 28.08.2025"
     },
     {
       "title": "Neu: Buchstabensalat: Wortgeflecht",
@@ -971,18 +979,18 @@
       "image_title": "Einfach – mittel – schwer: Sudoku für Einsteiger"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Halloumi-Sandwich: Hat hier jemand Brotjob gesagt?",
+      "teaser": "Steinfrüchte sind schnell konserviert, sogar im Backofen, wie diese Aprikosen. Zusammen mit gebratenem Halloumi auf getoastetem Brot wird daraus ein leckeres Mittagessen.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-06/halloumi-sandwich-gebratene-aprikosenmarmelade-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/2025-05/halloumi-sandwich-teaser/wide__892x501",
+      "image_title": "Halloumi-Sandwich: Georgina Haydens Halloumi-Sandwich mit gebratener Aprikosenmarmelade"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Linsensalat mit gelben Tomaten: Tomaten-Festspiele auf dem Teller",
       "teaser": "An heißen Augusttagen gibt es die besten Tomaten des Jahres. Wie ein Besuch in Bayreuth: ein Erlebnis! Auch optisch: schwarze Belugalinsen, gelbe Tomaten, ein Fest.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-08/tabbouleh-gelbe-tomaten-linsensalat-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-08/abbouleh-gelbe-tomaten-linsensalat-rezept-bild/wide__892x501",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-08/abbouleh-gelbe-tomaten-linsensalat-rezept-bild/super__430x286",
       "image_title": "Linsensalat mit gelben Tomaten: Tomaten-Festspiele auf dem Teller"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Vilshofen an der Donau: Auf ein Bier ins Bürgstüberl",
-      "teaser": "Das niederbayerische Vilshofen wird bei Touristen immer beliebter. Nur zu einer Wirtin verirren sie sich selten. Dabei ist ihr Biergarten ein ganz besonderer Ort.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-08/vilshofen-donau-biergarten-sommer-getraenk-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-08/vilshofen-donau-biergarten-sommer-getraenk-wochenmarkt-bild/super__430x286",
-      "image_title": "Vilshofen an der Donau: Auf ein Bier ins Bürgstüberl"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pochierte Pfirsiche mit Rosé-Granita: Die Kraft der Kristalle",
@@ -1034,11 +1042,11 @@
       "image_title": "Alina Kuhl"
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
+      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
       "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Bundesliga-Vorschau: Das Spiel der Saison gleich am zweiten Spieltag",
@@ -1069,36 +1077,36 @@
       "image_title": "Hamburg-Eppendorf: Prächtige Altbauten und eine gediegene Atmosphäre - so läßt es sich in Hamburg Eppendorf leben, oder nicht?"
     },
     {
-      "title": "Friedland: Mädchen vor Zug gestoßen? Mann kommt in Psychiatrie",
-      "url": "https://www.zeit.de/news/2025-08/29/maedchen-vor-zug-geschubst-mann-kommt-in-psychiatrie"
+      "title": "Konservative Kleinpartei: Machtkampf in der Werteunion – Verlässt Maaßen die Partei?",
+      "url": "https://www.zeit.de/news/2025-08/29/machtkampf-in-der-werteunion-verlaesst-maassen-die-partei"
     },
     {
-      "title": "Krieg in der Ukraine: Selenskyj warnt vor neuer russischer Großoffensive",
-      "url": "https://www.zeit.de/news/2025-08/29/selenskyj-warnt-vor-neuer-russischer-grossoffensive"
+      "title": "2. Fußball-Bundesliga: Viele Chancen, keine Tore: Nürnberg holt ersten Punkt",
+      "url": "https://www.zeit.de/news/2025-08/29/viele-chancen-keine-tore-nuernberg-holt-ersten-punkt"
     },
     {
-      "title": "Orchester: Merkel und Scholz besuchen Berliner Philharmonie",
-      "url": "https://www.zeit.de/news/2025-08/29/was-gibt-es-neues-fuer-klassikfans"
+      "title": "2. Fußball-Bundesliga: Elversberg springt auf Rang zwei und verschärft Hertha-Krise",
+      "url": "https://www.zeit.de/news/2025-08/29/elversberg-springt-auf-rang-zwei-und-verschaerft-hertha-krise"
     },
     {
-      "title": "Auffahrunfall: Autofahrer bei Unfall bei Köln auf A1 getötet",
+      "title": "An Stauende: Autofahrer stirbt bei Auffahrunfall auf A1 bei Köln",
       "url": "https://www.zeit.de/news/2025-08/29/autofahrer-bei-unfall-bei-koeln-auf-a1-getoetet"
     },
     {
-      "title": "Leute: Umweltminister Schneider bestätigt Haartransplantation",
-      "url": "https://www.zeit.de/news/2025-08/29/umweltminister-schneider-bestaetigt-haartransplantation"
+      "title": "Landtagswahlen: SPD-Co-Chefin Kleemann erneut für Landtagswahl nominiert",
+      "url": "https://www.zeit.de/news/2025-08/29/spd-co-chefin-kleemann-erneut-fuer-landtagswahl-nominiert"
     },
     {
-      "title": "Lies eröffnet Fest: Niedersachsen feiern Landestag in Osnabrück",
-      "url": "https://www.zeit.de/news/2025-08/29/niedersachsen-feiern-landestag-in-osnabrueck"
+      "title": "Unfall in Landeshauptstadt: 78-Jährige nach Stadtbahn-Unfall in Lebensgefahr",
+      "url": "https://www.zeit.de/news/2025-08/29/78-jaehrige-nach-stadtbahn-unfall-in-lebensgefahr"
     },
     {
-      "title": "Getränke: Hütt-Brauerei vor Schließung - kein Nachfolger in Sicht",
-      "url": "https://www.zeit.de/news/2025-08/29/huett-brauerei-vor-schliessung-kein-nachfolger-in-sicht"
+      "title": "Notfälle: Wiesbadener Stadtteile zeitweise ohne Strom",
+      "url": "https://www.zeit.de/news/2025-08/29/wiesbadener-stadtteile-zeitweise-ohne-strom"
     },
     {
-      "title": "Dublin-Zentren: Nur wenige Migranten in zuständige EU-Länder überstellt",
-      "url": "https://www.zeit.de/news/2025-08/29/nur-wenige-migranten-in-zustaendige-eu-laender-ueberstellt"
+      "title": "Fußball-Bundesliga: Polizei vor Hamburger Stadtderby: Keine Ausschreitungen",
+      "url": "https://www.zeit.de/news/2025-08/29/polizei-vor-hamburger-stadtderby-keine-ausschreitungen"
     }
   ]
 }
