@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-29T06:15:10",
+  "timestamp": "2025-08-29T07:10:17",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Der große Waschmaschinen-Guide: Was smart tatsächlich spart",
+      "url": "https://www.heise.de/ratgeber/Der-grosse-Waschmaschinen-Guide-Was-smart-tatsaechlich-spart-10510318.html"
+    },
     {
       "title": "Die wichtigsten Neuerungen von Java 25: Schneller Startup mit Stable Values",
       "url": "https://www.heise.de/blog/Die-wichtigsten-Neuerungen-von-Java-25-Schneller-Startup-mit-Stable-Values-10530625.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Account-geloescht-Office-Lizenzen-futsch-10623641.html"
     },
     {
-      "title": "Samsung integriert die Microsoft-KI Copilot in neue Smart-TV und -Monitore",
-      "url": "https://www.heise.de/news/Samsung-integriert-die-Microsoft-KI-Copilot-in-neue-Smart-TV-und-Monitore-10625177.html"
-    },
-    {
       "title": "AutoindustrieAus für Verbrenner bis 2030/35 kaum noch umsetzbar",
       "teaser": "Hersteller und Zulieferer der europäischen Autobranche halten die Emissionsziele wegen der Umstände für unerreichbar.",
       "url": "https://www.heise.de/news/Autoindustrie-Aus-fuer-Verbrenner-bis-2030-35-kaum-noch-umsetzbar-10625043.html",
@@ -94,16 +94,15 @@
       "image_title": "BMW XM"
     },
     {
-      "title": "QuanteninternetKlassische Netzwerktechnik überträgt Quanteninformation",
-      "teaser": "Ein Quanteninternet soll Quantencomputer verbinden. Teile davon könnten mit herkömmlicher Netzwerktechnik vereinbar sein.",
-      "url": "https://www.heise.de/news/Quanteninternet-Klassische-Netzwerktechnik-uebertraegt-Quanteninformation-10624753.html",
-      "image_title": "Symbolbild Quanteninternet"
+      "title": "Vorsicht, KundeAccount gelöscht, Office-Lizenzen futsch",
+      "teaser": "Softwarelizenzen sind oft an ein Online-Konto gebunden. Wer dieses löscht, verliert unter Umständen die Lizenz. Wir geben Tipps.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Account-geloescht-Office-Lizenzen-futsch-10623641.html"
     },
     {
-      "title": "FTC-Vowurf gegn GoogleGmail benachteiligt angeblich Wahlkampf-Mails der Republikaner",
-      "teaser": "Der FTC-Chef erhebt einen altbekannten Vorwurf gegen Google, Gmail soll Wahlkampf-Mails der Republikaner benachteiligen.",
-      "url": "https://www.heise.de/news/FTC-an-Google-Gmail-benachteiligt-angeblich-Wahlkampf-Mails-der-Republikaner-10625193.html",
-      "image_title": "Das Gmail-Logo auf einem Smartphone, hier mit 5590 Benachrichtigungen"
+      "title": "Trump-RegierungUSA beenden Zollfreiheit für Pakete aus aller Welt",
+      "teaser": "Jahrelang konnten Amerikaner Waren im Wert unter 800 Dollar zollfrei aus dem Ausland bekommen. Jetzt geht das nicht mehr.",
+      "url": "https://www.heise.de/news/USA-beenden-Zollfreiheit-fuer-Pakete-aus-aller-Welt-10625231.html",
+      "image_title": "Paket vor Tür"
     },
     {
       "title": "Rokid GlassesSmarte Brille mit Projektion und Kamera im Vorabtest",
@@ -145,21 +144,22 @@
       "url": "https://www.heise.de/ratgeber/So-gelingt-der-Wechsel-von-Spotify-Musik-Streaming-im-Vergleich-10537078.html"
     },
     {
+      "title": "QuanteninternetKlassische Netzwerktechnik überträgt Quanteninformation",
+      "teaser": "Ein Quanteninternet soll Quantencomputer verbinden. Teile davon könnten mit herkömmlicher Netzwerktechnik vereinbar sein.",
+      "url": "https://www.heise.de/news/Quanteninternet-Klassische-Netzwerktechnik-uebertraegt-Quanteninformation-10624753.html",
+      "image_title": "Symbolbild Quanteninternet"
+    },
+    {
       "title": "KommentarNur in Deutschland ist die Klimaanlage etwas Schlechtes",
       "teaser": "Klimaanlage? Geht ja gar nicht! Wärmepumpe? Super. Clemens Gleich kommentiert die seltsame deutsche Tugendwahrnehmung.",
       "url": "https://www.heise.de/meinung/Kommentar-Deutschland-schadet-sich-mit-der-Feindschaft-zur-Klimaanlage-selbst-10621992.html",
       "image_title": "Klimakompressor Nibe"
     },
     {
-      "title": "Wi-Fi 7 per USBFritz kündigt Fritz-WLAN-Stick 6700 und neue Fritzboxen an",
-      "teaser": "Der Berliner Hersteller Fritz zeigt zur IFA-Messe die Fritzbox 6690 Pro, Fritzbox 6825 4G und den Fritz-WLAN-Stick 6700.",
-      "url": "https://www.heise.de/news/Fritz-kuendigt-WLAN-Stick-mit-Wi-Fi-7-und-zwei-neue-Fritzboxen-an-10624507.html",
-      "image_title": "Fritz-WLAN-Stick vor blauem Hintergrund"
-    },
-    {
-      "title": "Cc und Bcc verwechseltE-Mail-Panne trifft nun wohl englische Missbrauchsopfer",
-      "teaser": "In England soll es für Missbrauchsopfer der Kirche eine Wiedergutmachung geben. Informationen kamen per E-Mail. Dabei gab es eine Panne.",
-      "url": "https://www.heise.de/news/Cc-statt-Bcc-Datenpanne-um-Aufarbeitung-von-Missbrauch-in-englischer-Kirche-10624853.html"
+      "title": "FTC-Vowurf gegn GoogleGmail benachteiligt angeblich Wahlkampf-Mails der Republikaner",
+      "teaser": "Der FTC-Chef erhebt einen altbekannten Vorwurf gegen Google, Gmail soll Wahlkampf-Mails der Republikaner benachteiligen.",
+      "url": "https://www.heise.de/news/FTC-an-Google-Gmail-benachteiligt-angeblich-Wahlkampf-Mails-der-Republikaner-10625193.html",
+      "image_title": "Das Gmail-Logo auf einem Smartphone, hier mit 5590 Benachrichtigungen"
     },
     {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
@@ -168,10 +168,10 @@
       "image_title": "Skoda Enyaq"
     },
     {
-      "title": "Whistleblower-BeschwerdeDOGE soll Daten zu allen Menschen in den USA in die Cloud kopiert haben",
-      "teaser": "In der US-Sozialkasse haben Angestellte von DOGE laut einer Whistleblower-Beschwerde eine hochsensible Datenbank in die Cloud kopiert.",
-      "url": "https://www.heise.de/news/Whistleblower-DOGE-hat-Daten-zu-allen-Menschen-in-den-USA-in-die-Cloud-kopiert-10622689.html",
-      "image_title": "Digitall verzerrte US-Flagge"
+      "title": "Wi-Fi 7 per USBFritz kündigt Fritz-WLAN-Stick 6700 und neue Fritzboxen an",
+      "teaser": "Der Berliner Hersteller Fritz zeigt zur IFA-Messe die Fritzbox 6690 Pro, Fritzbox 6825 4G und den Fritz-WLAN-Stick 6700.",
+      "url": "https://www.heise.de/news/Fritz-kuendigt-WLAN-Stick-mit-Wi-Fi-7-und-zwei-neue-Fritzboxen-an-10624507.html",
+      "image_title": "Fritz-WLAN-Stick vor blauem Hintergrund"
     },
     {
       "title": "Handelsstreit EU–USATrumps Zölle setzen deutsche Industrie unter Druck",
@@ -179,10 +179,15 @@
       "url": "https://www.heise.de/news/EU-US-Beziehungen-Zwischen-Zoellen-und-Zensurvorwuerfen-10623444.html"
     },
     {
-      "title": "SicherheitsproblemDeutsche Banken blockierten offenbar Paypal-Zahlungen",
-      "teaser": "Die Süddeutsche Zeitung berichtet, dass Deutsche Banken Zahlungen an Paypal gestoppt hatten. Auslöser war ein Sicherheitsproblem.",
-      "url": "https://www.heise.de/news/Paypal-Deutsche-Banken-blockierten-offenbar-Zahlungen-von-Milliarden-Euro-10622747.html",
-      "image_title": "Smartwatch mit aktiver Google-Wallet-Zahlung mit Paypal"
+      "title": "Cc und Bcc verwechseltE-Mail-Panne trifft nun wohl englische Missbrauchsopfer",
+      "teaser": "In England soll es für Missbrauchsopfer der Kirche eine Wiedergutmachung geben. Informationen kamen per E-Mail. Dabei gab es eine Panne.",
+      "url": "https://www.heise.de/news/Cc-statt-Bcc-Datenpanne-um-Aufarbeitung-von-Missbrauch-in-englischer-Kirche-10624853.html"
+    },
+    {
+      "title": "Der große Waschmaschinen-Guide: Was smart tatsächlich spart",
+      "teaser": "Smarte Waschmaschinen versprechen hohe Ersparnisse und mehr Komfort. Wir zeigen, wie die Hersteller das mit Sensoren, Dosierautomatik und KI erreichen wollen.",
+      "url": "https://www.heise.de/ratgeber/Der-grosse-Waschmaschinen-Guide-Was-smart-tatsaechlich-spart-10510318.html",
+      "image_title": "Waschmaschinen mit unterschiedlichen Preisen in einem Fachgeschäft"
     },
     {
       "title": "Die wichtigsten Neuerungen von Java 25: Schneller Startup mit Stable Values",
@@ -191,20 +196,14 @@
       "image_title": "Kaffeebohnen"
     },
     {
-      "title": "heise security Webinar: So verändert KI die IT-Sicherheit",
-      "teaser": "Hier geht es nicht um tolle KI-Security-Tools, sondern vor allem darum, ob und wie man KI in Unternehmen überhaupt sicher einsetzen kann.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-So-veraendert-KI-die-IT-Sicherheit-10624545.html"
-    },
-    {
       "title": "So schützen Sie mobile Geräte auf einer Reise",
       "teaser": "Außerhalb des üblichen Umfelds, zum Beispiel auf Reisen, sind mobile Geräte mit neuen Angriffsvektoren konfrontiert. Diverse Ansätze können helfen, die Risiken bei der Nutzung im Ausland zu senken.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6948696370&iu=%2F6514%2FClicktracking"
     },
     {
-      "title": "USA beenden Zollfreiheit für Pakete aus aller Welt",
-      "teaser": "Jahrelang konnten Amerikaner Waren im Wert unter 800 Dollar zollfrei aus dem Ausland bekommen. Jetzt geht das nicht mehr.",
-      "url": "https://www.heise.de/news/USA-beenden-Zollfreiheit-fuer-Pakete-aus-aller-Welt-10625231.html",
-      "image_title": "Paket vor Tür"
+      "title": "heise security Webinar: So verändert KI die IT-Sicherheit",
+      "teaser": "Hier geht es nicht um tolle KI-Security-Tools, sondern vor allem darum, ob und wie man KI in Unternehmen überhaupt sicher einsetzen kann.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-So-veraendert-KI-die-IT-Sicherheit-10624545.html"
     },
     {
       "title": "Wissenschaftsminister Mohrs wirbt in Boston um Forscher",
@@ -230,9 +229,10 @@
       "image_title": "Hand mit Fäden, die so aussieht, als ob sie eine Marionette steuert; Freitag: Wikipedia-Manipulation, Fernseher-Copilot, Quanten-Hybrid-Internet, PHEV-Ende & Verbraucherschutz-Podcast"
     },
     {
-      "title": "Vorsicht, Kunde: Account gelöscht, Office-Lizenzen futsch",
-      "teaser": "Softwarelizenzen sind oft an ein Online-Konto gebunden. Wer dieses löscht, verliert unter Umständen die Lizenz. Wir klären die Rechtslage und geben Tipps.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Account-geloescht-Office-Lizenzen-futsch-10623641.html"
+      "title": "Samsung integriert die Microsoft-KI Copilot in neue Smart-TV und -Monitore",
+      "teaser": "Die Microsoft-KI soll Samsung-Nutzern auf Zuruf mehr Informationen zum gezeigten TV-Content liefern können. Copilot landet zunächst auf den Geräten von 2025.",
+      "url": "https://www.heise.de/news/Samsung-integriert-die-Microsoft-KI-Copilot-in-neue-Smart-TV-und-Monitore-10625177.html",
+      "image_title": "Samsung Smart-TV Benutzeroberfläche mit Microsofts Copilot"
     },
     {
       "title": "Repowering der PV-AnlageWorauf Sie beim Modultausch achten müssen",
@@ -286,8 +286,8 @@
       "url": "https://www.heise.de/news/Untersuchung-HVO100-Kraftstoff-klimaschaedlicher-als-Diesel-10591006.html"
     },
     {
-      "title": "Riesenrakete Starship: Beim zehnten Testflug wieder alle Aufgaben absolviert",
-      "url": "https://www.heise.de/news/Riesenrakete-Starship-Beim-zehnten-Testflug-laeuft-wieder-alles-nach-Plan-10622301.html"
+      "title": "Plug-in-Hybride: Das Ende naht",
+      "url": "https://www.heise.de/hintergrund/Plug-in-Hybride-Das-Ende-naht-10624002.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -300,12 +300,6 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Dauer-Spar-Aktion"
-    },
-    {
-      "title": "Samsung integriert die Microsoft-KI Copilot in neue Smart-TV und -Monitore",
-      "teaser": "Die Microsoft-KI soll Samsung-Nutzern auf Zuruf mehr Informationen zum gezeigten TV-Content liefern können. Copilot landet zunächst auf den Geräten von 2025.",
-      "url": "https://www.heise.de/news/Samsung-integriert-die-Microsoft-KI-Copilot-in-neue-Smart-TV-und-Monitore-10625177.html",
-      "image_title": "Samsung Smart-TV Benutzeroberfläche mit Microsofts Copilot"
     },
     {
       "title": "Top 10: Die beste Smartwatch mit EKG im Test – Testsieger misst Blutdruck",
@@ -376,15 +370,15 @@
       "image_title": "Frau hält Smartphone, aus dem Symbole wie ein weißes Kreuz kommen."
     },
     {
-      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
-      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
-    },
-    {
       "title": "Skylo kündigt Satellitentelefonie für Mobiltelefone an",
       "teaser": "Das US-Startup Skylo hat angekündigt, Satellitensprachanrufe direkt aufs Smartphone kommerziell verfügbar zu machen.",
       "url": "https://www.heise.de/news/Skylo-will-Satellitensprachanrufe-kommerziell-verfuegbar-machen-10624473.html",
       "image_title": "Visualisiertes Satellitennetzwerk"
+    },
+    {
+      "title": "Hybrides UEM: Flexibilität trifft Kontrolle",
+      "teaser": "Ein hybrides UEM vereint eine Cloud- und On-Premises-Verwaltung in einer Oberfläche. So wird die Komplexität reduziert und eine flexible, zentrale Geräteverwaltung ermöglicht. In diesem Webcast erfahren Sie, welche Vorteile diese Kombination für die IT-Sicherheit und die tägliche Arbeit bringt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/hybrides-uem-flexibilitaet-trifft-kontrolle-4929?source=hbsad-ersatz"
     },
     {
       "title": "Open-Source-Dilemma auch in der EU: Viele sehen Vorteile, zu wenige tragen bei",
@@ -438,6 +432,17 @@
       "image_title": "Ein Bauarbeiter macht Büroarbeit. Daneben ein Helm."
     },
     {
+      "title": "Nvidia: Umsatzrekorde genügen den Anlegern nicht",
+      "teaser": "Trotz Versprechungen der US-Regierung darf Nvidia keine H20-GPUs nach China verkaufen. Der Firma geht es trotzdem prächtig.",
+      "url": "https://www.heise.de/news/Nvidia-waechst-auch-ohne-offizielle-China-Lieferungen-10624156.html",
+      "image_title": "Nackte Nvidia-GPU auf einem Ständer"
+    },
+    {
+      "title": "Whistleblower: DOGE hat Daten zu allen Menschen in den USA in die Cloud kopiert",
+      "url": "https://www.heise.de/news/Whistleblower-DOGE-hat-Daten-zu-allen-Menschen-in-den-USA-in-die-Cloud-kopiert-10622689.html",
+      "image_title": "Digitall verzerrte US-Flagge"
+    },
+    {
       "title": "Windows: MS Word speichert jetzt automatisch in die Cloud",
       "url": "https://www.heise.de/news/Windows-MS-Word-speichert-jetzt-automatisch-in-die-Cloud-10623681.html",
       "image_title": "Offener Laptop, davor hält eine Hand ein Smartphone; beide Bildschirme zeigen symbolisch die Microsoft-Cloud"
@@ -446,11 +451,6 @@
       "title": "Weltweite Warnung vor Cyberangriffen Chinas auf Telekommunikationsinfrastruktur",
       "url": "https://www.heise.de/news/Weltweite-Warnung-vor-Cyberangriffen-Chinas-auf-Telekommunikationsinfrastruktur-10623746.html",
       "image_title": "Netzwerkgeräte, im Vordergrund eine chinesische Flagge"
-    },
-    {
-      "title": "Rokid Glasses lösen Kickstarter-Hype aus und feiern Premiere auf der IFA",
-      "url": "https://www.heise.de/news/Rokid-Glasses-loesen-Kickstarter-Hype-aus-und-feiern-Premiere-auf-der-IFA-10623581.html",
-      "image_title": "Ein junger Mann trägt eine schwarze Smart-Brille beim Spaziergang durch die Innenstadt."
     },
     {
       "title": "\"Spektakulär klares Bild\" zeigt erstmals Babyplaneten beim Freiräumen des Orbits",
@@ -468,6 +468,11 @@
       "image_title": "Grafik mit verschiedenen Zahlen und Buchstaben, eine Sequenz ist umkringelt, daneben das Wort \"Wow!\""
     },
     {
+      "title": "Rokid Glasses lösen Kickstarter-Hype aus und feiern Premiere auf der IFA",
+      "url": "https://www.heise.de/news/Rokid-Glasses-loesen-Kickstarter-Hype-aus-und-feiern-Premiere-auf-der-IFA-10623581.html",
+      "image_title": "Ein junger Mann trägt eine schwarze Smart-Brille beim Spaziergang durch die Innenstadt."
+    },
+    {
       "title": "iOS 26: Wann ist mit dem Release von Apples großem iPhone-Update zu rechnen?",
       "url": "https://www.heise.de/news/iOS-26-Wann-ist-mit-dem-Release-von-Apples-grossem-iPhone-Update-zu-rechnen-10343608.html",
       "image_title": "iOS mit Icons"
@@ -476,11 +481,6 @@
       "title": "Tot 2.0: Kleiner Texteditor für die Mac-Menüleiste bekommt Update",
       "url": "https://www.heise.de/news/Tot-2-0-Kleiner-Texteditor-fuer-die-Mac-Menueleiste-bekommt-Update-10621663.html",
       "image_title": "Tot 2.0 für macOS"
-    },
-    {
-      "title": "Symptome wie bei Trunkenheit: Forscher untersuchen Effekte von Mixed Reality",
-      "url": "https://www.heise.de/hintergrund/Symptome-wie-bei-Trunkenheit-Forscher-untersuchen-Effekte-von-Mixed-Reality-10617214.html",
-      "image_title": "Nahaufnahme eines Mannes mit Quest-3S-Headset. Auf der Vorderseite sind sechs Sensoren zu sehen."
     },
     {
       "title": "Vorstellung VW T-Roc: Weiterhin konservativ erfolgreich?",
@@ -503,14 +503,14 @@
       "image_title": "VW Tiguan"
     },
     {
+      "title": "Riesenrakete Starship: Beim zehnten Testflug wieder alle Aufgaben absolviert",
+      "url": "https://www.heise.de/news/Riesenrakete-Starship-Beim-zehnten-Testflug-laeuft-wieder-alles-nach-Plan-10622301.html",
+      "image_title": "Startende Rakete"
+    },
+    {
       "title": "Apples neuer Gesundheitsdienst: Was \"Health+\" können soll",
       "url": "https://www.heise.de/news/Apples-neuer-Gesundheitsdienst-Was-Health-koennen-soll-10621426.html",
       "image_title": "Apple-Health-App auf iPad und iPhone"
-    },
-    {
-      "title": "Zalando geht gegen Serien-Rücksender vor",
-      "url": "https://www.heise.de/news/Online-Bestellungen-Zalando-straft-masslose-Ruecksender-ab-10343590.html",
-      "image_title": "Frankfurt,,Hesse,,Germany,-,October,01,,2014:,Packages,With,The"
     },
     {
       "title": "Persönlichkeitsrecht: Synchronstimme ist vor KI-Nachahmung geschützt",
@@ -607,20 +607,20 @@
       "url": "https://www.heise.de/en/news/77-malware-apps-in-Google-Play-Store-reach-19-million-installations-10621684.html"
     },
     {
-      "title": "Für Mini-PCsNvidia nennt Details zum starken Kombiprozessor GB10",
-      "teaser": "Auf der Fachkonferenz Hot Chips hat Nvidia technische Details zum mit Mediatek entwickelten Kombiprozessor GB10 offengelegt.",
-      "url": "https://www.heise.de/news/Nvidia-veroeffentlicht-Details-zum-starken-Kombiprozessor-GB10-10622361.html",
-      "image_title": "Nackter Nvidia-Prozessor auf einem Mainboard"
+      "title": "Googles KI-SmartphonesPixel 10, 10 Pro und 10 Pro XL im Test",
+      "teaser": "Längere Laufzeiten und spektakulärer Zoom: Die Google Pixel 10 zeigen sich im Test deutlich verbessert.",
+      "url": "https://www.heise.de/tests/Googles-KI-Smartphones-Pixel-10-10-Pro-und-10-Pro-XL-im-Test-10542329.html"
     },
     {
-      "title": "OSINT-Tool: Mit theHarvester mehr Informationen zu einer Domain herausfinden",
-      "teaser": "Das OSINT-Tool theHarvester greift auf Suchmaschinen und OSINT-Dienste zu, um über eine Domain alle verfügbaren Informationen zusammenzusammeln.",
-      "url": "https://www.heise.de/ratgeber/OSINT-Tool-Mit-theHarvester-mehr-Informationen-zu-einer-Domain-herausfinden-10512119.html"
+      "title": "Rokid GlassesSmarte Brille mit Projektion und Kamera im Vorabtest",
+      "teaser": "c't konnte Rokids Brille vorab ausprobieren. Sie nimmt unter anderem Fotos und Videos auf, lässt sich als Übersetzer, Navi und Teleprompter nutzen.",
+      "url": "https://www.heise.de/tests/Rokid-Glasses-Smarte-Brille-mit-Projektion-und-Kamera-im-Vorabtest-10622486.html"
     },
     {
-      "title": "Vorsicht, Kunde: Account gelöscht, Office-Lizenzen futsch",
-      "teaser": "Softwarelizenzen sind oft an ein Online-Konto gebunden. Wer dieses löscht, verliert unter Umständen die Lizenz. Wir klären die Rechtslage und geben Tipps.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Account-geloescht-Office-Lizenzen-futsch-10623641.html"
+      "title": "QuanteninternetKlassische Netzwerktechnik überträgt Quanteninformation",
+      "teaser": "Ein Quanteninternet soll Quantencomputer verbinden. Teile davon könnten mit herkömmlicher Netzwerktechnik vereinbar sein.",
+      "url": "https://www.heise.de/news/Quanteninternet-Klassische-Netzwerktechnik-uebertraegt-Quanteninformation-10624753.html",
+      "image_title": "Symbolbild Quanteninternet"
     },
     {
       "title": "Laden an jedem sonnigen OrtNeun USB-Solarpanels im Test",
@@ -754,22 +754,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/testsieger-der-beste-dab-adapter-digitalradio-fuer-stereoanlage-nachruesten/gb91m1s?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "OnlyFans: Das digitale Bordell des 21. Jahrhunderts?",
-      "teaser": "OnlyFans ist die Erfolgsgeschichte der Plattformökonomie. Der Erotik-Dienst macht Milliardenumsätze mit nur 50 Mitarbeitern. Doch zu welchem Preis?",
-      "url": "https://www.heise.de/tp/features/OnlyFans-Das-digitale-Bordell-des-21-Jahrhunderts-10622865.html",
-      "image_title": "Onlyfans Logo über Dollarscheinen"
+      "title": "Mercedes in der Krise: Zölle, China und Klimaziele",
+      "teaser": "Sinkende Absatzzahlen, Abhängigkeit von Asien und unrealistische EU-Vorgaben: Der Autobauer Mercedes muss gleich an mehreren Fronten kämpfen.",
+      "url": "https://www.heise.de/tp/features/Mercedes-in-der-Krise-Zoelle-China-und-Klimaziele-10624915.html",
+      "image_title": "Gelber Mercedes-Benz Sportwagen im Straßenverkehr mit Palmen im Hintergrund"
     },
     {
-      "title": "Rentenreport: Gute Bilanz, große Baustellen",
-      "teaser": "Trotz solider Finanzen gerät die Rente durch den demografischen Wandel zunehmend unter Druck. Reformen sind unumgänglich.",
-      "url": "https://www.heise.de/tp/features/Rentenreport-Gute-Bilanz-grosse-Baustellen-10624691.html",
-      "image_title": "Glückliches Rentnerpaar zu Hause – Rentenreport 2024 zeigt stabile Rente mit Reformbedarf"
+      "title": "IfW warnt: Dürren lähmen Europas Wasserstraßen langfristig",
+      "teaser": "Wenn Flüsse versiegen: Niedrigwasser zwingt Unternehmen zu dauerhafter Umstellung der Logistik – mit drastischen Folgen für die Wirtschaft.",
+      "url": "https://www.heise.de/tp/features/IfW-warnt-Duerren-laehmen-Europas-Wasserstrassen-langfristig-10624403.html",
+      "image_title": "Binnenfrachter können bei niedrigen Pegelständen kaum noch fahren."
     },
     {
-      "title": "Nvidia enttäuscht trotz Rekordumsatz: China-Geschäft bricht ein",
-      "teaser": "Der Chipriese meldet 46,7 Milliarden Dollar Quartalsumsatz, doch die Wachstumsprognose fällt verhaltener aus. Exportbeschränkungen lassen China-Verkäufe kollabieren.",
-      "url": "https://www.heise.de/tp/features/Nvidia-enttaeuscht-trotz-Rekordumsatz-China-Geschaeft-bricht-ein-10624835.html",
-      "image_title": "Nvidia Aktiensymbolbild"
+      "title": "Von der Energiewende zum Netzausbau-Desaster",
+      "teaser": "Die Energiewende bringt Probleme für Stromnetzbetreiber. Der Netzausbau hält nicht mit der wachsenden Erzeugung Schritt – mit Folgen für Verbraucher.",
+      "url": "https://www.heise.de/tp/features/Von-der-Energiewende-zum-Netzausbau-Desaster-10622618.html",
+      "image_title": "BRD-Karte mit Stromnetzbetreibern und zwei Isolatoren"
     },
     {
       "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
