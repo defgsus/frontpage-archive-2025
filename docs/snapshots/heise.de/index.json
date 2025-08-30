@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-30T07:08:01",
+  "timestamp": "2025-08-30T08:11:29",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-10539300.html"
+    },
     {
       "title": "Developer Snapshots: Kleinere News der Woche",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10625263.html"
@@ -60,10 +64,6 @@
     {
       "title": "Windows 11 bekommt besseren Bluetooth-Klang",
       "url": "https://www.heise.de/news/Windows-11-Microsoft-will-den-Bluetooth-Klang-verbessern-10626455.html"
-    },
-    {
-      "title": "Strafverfolgung: Fast alle Meldungen ans BKA erfolgen durch \"Trusted Flaggers\"",
-      "url": "https://www.heise.de/news/Strafverfolgung-Fast-alle-Meldungen-ans-BKA-erfolgen-durch-Trusted-Flaggers-10626332.html"
     },
     {
       "title": "Strafverfolgung im NetzFast alle Meldungen ans BKA durch \"Trusted Flaggers\"",
@@ -184,21 +184,27 @@
       "url": "https://www.heise.de/news/heiseshow-Windows-95-USA-vs-EU-Notrufchaos-10623465.html"
     },
     {
+      "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-10539300.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
       "title": "Developer Snapshots: Kleinere News der Woche",
       "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Node.js, GitHub, Uno Platform, Trustify, Kotlin, Python, Jupyter, WinUI, Pascal u.a.",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10625263.html",
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
     },
     {
+      "title": "Firmen-Security in Zeiten von Trump, Putin & Co.",
+      "teaser": "Eine echte Sicherheit für Unternehmen und Behörden ist derzeit nur mit digitaler Souveränität möglich. Denn wer auf nicht-europäische Infrastrukturen setzt, riskiert staatliche Datenzugriffe.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7034195658&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Über den Chat hinaus: Mit LLMs echte Nutzerprobleme lösen",
       "teaser": "Neben Chat-Interfaces gibt es weitere Interaktionsmöglichkeiten mit LLMs, die Developer in ihre Anwendungen integrieren und so Mehrwert für User bieten können.",
       "url": "https://www.heise.de/hintergrund/Ueber-den-Chat-hinaus-Mit-LLMs-echte-Nutzerprobleme-loesen-10625314.html",
       "image_title": "Ein Netz mit Datenpunkten. Auf einen Datenpunkt zeigt ein Finger einer Hand."
-    },
-    {
-      "title": "So schützen Sie mobile Geräte auf einer Reise",
-      "teaser": "Außerhalb des üblichen Umfelds, zum Beispiel auf Reisen, sind mobile Geräte mit neuen Angriffsvektoren konfrontiert. Diverse Ansätze können helfen, die Risiken bei der Nutzung im Ausland zu senken.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6948696370&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Zwischen Schatten, Tropfen und Porträts: Die Bilder der Woche 35",
@@ -227,11 +233,6 @@
       "title": "Top 10: Der beste Ventilator im Test – Shark & Xiaomi vor Dyson",
       "teaser": "Wir zeigen die zehn besten Ventilatoren aus unseren Tests. Der Testsieger der Bestenliste ist leise, sparsam, stark – und kostet nur 90 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ventilator-im-test-shark-und-xiaomi-vor-dyson/3vw0k3j?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Glasfaser: Debatte über Ausbauregeln für die Hausverkabelung",
-      "teaser": "Gebäudeeigentümer sollen an den Ausgaben für Wohnungsanschlüsse mit Glasfaser beteiligt werden, fordern Verbraucherzentralen. Sie ergreifen Partei für Mieter.",
-      "url": "https://www.heise.de/news/Verbraucherschuetzer-Kosten-fuer-Inhaus-Glasfaser-Ausbau-fair-verteilen-10626461.html"
     },
     {
       "title": "Smart waschenDer große Waschmaschinen-Guide: Was smart tatsächlich spart",
@@ -302,6 +303,11 @@
       "image_title": "heise+ Dauer-Spar-Aktion"
     },
     {
+      "title": "Glasfaser: Debatte über Ausbauregeln für die Hausverkabelung",
+      "teaser": "Gebäudeeigentümer sollen an den Ausgaben für Wohnungsanschlüsse mit Glasfaser beteiligt werden, fordern Verbraucherzentralen. Sie ergreifen Partei für Mieter.",
+      "url": "https://www.heise.de/news/Verbraucherschuetzer-Kosten-fuer-Inhaus-Glasfaser-Ausbau-fair-verteilen-10626461.html"
+    },
+    {
       "title": "Windows 11 bekommt besseren Bluetooth-Klang",
       "teaser": "Der Qualitätsabbruch in Sprach-Chats über Bluetooth-Headsets soll ein Ende haben. Microsoft will Bluetooth LE Audio in Windows 11 salonfähig machen.",
       "url": "https://www.heise.de/news/Windows-11-Microsoft-will-den-Bluetooth-Klang-verbessern-10626455.html",
@@ -370,15 +376,15 @@
       "image_title": "Screenshot zeigt eine Szene aus Lilo&Stitch"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "AirPods Pro 3: Angeblich Ladecase mit Touch geplant",
       "teaser": "Nutzer hoffen, dass Apple bald mit neuen ANC-Stöpseln auf den Markt kommt. Aus Asien kommen nun neue Detail zur Hardware.",
       "url": "https://www.heise.de/news/AirPods-Pro-3-Angeblich-Ladecase-mit-Touch-geplant-10624669.html",
       "image_title": "AirPods-Nutzerin"
-    },
-    {
-      "title": "Warum Unternehmen auf KI-PCs setzen sollten",
-      "teaser": "Mit dem Ende des Windows-10-Supports wird der Umstieg auf Win 11 – und damit auch auf neue PC-Hardware – für viele Unternehmen unausweichlich. Dieses TechTarget-Whitepaper erläutert, was dabei zu beachten ist.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/warum-unternehmen-auf-ki-pcs-setzen-sollten/?source=hbsadersatz"
     },
     {
       "title": "Android: Google verpasst der Telefon-App iPhone-ähnliche \"Kontaktposter\"",
@@ -431,12 +437,6 @@
       "teaser": "Der iPhone-Hersteller ist beim Musikstreaming nach wie vor hinter Spotify platziert. Zwei neue Maßnahmen sollen Kunden weglocken.",
       "url": "https://www.heise.de/news/Apple-Music-Marketing-Radio-bei-TuneIn-Tool-fuer-den-Spotify-Export-10624076.html",
       "image_title": "Apple,Music,Application,Page,In,Apple,Appstore.,Apple,Music,App"
-    },
-    {
-      "title": "Aktienmanipulation: 15 Jahre Haft für südkoreanischen Tech-Milliardär gefordert",
-      "teaser": "Der Gründer des südkoreanischen Tech-Unternehmens Kakao soll für eine weitreichende Aktienmanipulation verantwortlich sein. Das Gerichtsverfahren endet bald.",
-      "url": "https://www.heise.de/news/Kakao-Talk-Anklage-fordert-15-Jahre-Haft-fuer-Firmengruender-und-Tech-Milliardaer-10625625.html",
-      "image_title": "Gelbes Logo von KakaoTalk auf einem Smartphone, im Hintergrund die südkoreanische Flagge"
     },
     {
       "title": "Argentinien: Mutmaßliche NS-Raubkunst in Immobilenanzeige im Internet entdeckt",
@@ -618,9 +618,9 @@
       "image_title": "Bauvorschlag Mini-ITX-Gamer 2025"
     },
     {
-      "title": "Vorsicht, KundeAccount gelöscht, Office-Lizenzen futsch",
-      "teaser": "Softwarelizenzen sind oft an ein Online-Konto gebunden. Wer dieses löscht, verliert unter Umständen die Lizenz. Wir geben Tipps.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Account-geloescht-Office-Lizenzen-futsch-10623641.html"
+      "title": "c't 3003Diese Betriebssysteme müsst ihr sehen",
+      "teaser": "Linux, Windows, macOS? Langweilig! Wer mutig ist, installiert TempleOS, Red Star OS oder Kolibri OS. Letzteres passt in 1,4 MB.",
+      "url": "https://www.heise.de/news/c-t-3003-Diese-Betriebssysteme-muesst-ihr-sehen-10625477.html"
     },
     {
       "title": "Laden an jedem sonnigen OrtNeun USB-Solarpanels im Test",
@@ -754,10 +754,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/testsieger-der-beste-dab-adapter-digitalradio-fuer-stereoanlage-nachruesten/gb91m1s?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Glasnost, Perestroika und ein frischer Wind aus Moskau",
-      "teaser": "Er veränderte die Welt – und hinterließ offene Fragen. Zum dritten Todestag von Michail Gorbatschow: Was bleibt? Ein Kommentar.",
-      "url": "https://www.heise.de/tp/features/Glasnost-Perestroika-und-ein-frischer-Wind-aus-Moskau-10626092.html",
-      "image_title": "Der letzte sowjetische Staatspräsident, Michail Gorbatschow, 1990 in Washington."
+      "title": "Ukraine-Krieg: Condor gegen Skyranger – Panzerduell um die Zukunft der Luftverteidigung",
+      "teaser": "Milliarden gegen Flexibilität: Skyranger und Condor stehen für zwei Wege der Drohnenabwehr – und für die Frage, wie Armeen künftig rechnen. Analyse.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Condor-gegen-Skyranger-Panzerduell-um-die-Zukunft-der-Luftverteidigung-10625899.html",
+      "image_title": "KI-generierte Grafik zeigt zwei moderne Militärfahrzeuge – links ein Radpanzer, rechts ein Kettenpanzer – die sich gegenüberstehen, während über ihnen eine Formation von Drohnen am Himmel schwebt."
     },
     {
       "title": "Von der Energiewende zum Netzausbau-Desaster",
