@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-31T13:16:26",
+  "timestamp": "2025-08-31T14:07:48",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -125,9 +131,11 @@
       "image_title": "Jahrestag \"Wir schaffen das\": Deutschland Oesterreich Bayern, Fluechtlinge an der Grenze, Neuhaus (D) - Schaerding (A), Inn - Bruecke, Fluss; engl. European Union, EU, transit camp, migration, migrants, immigrants, refugee crisis, immigration politics, displaced persons, rush of asylum seekers, flight, fleeing, German-Austrian border region; Bridge river Inn 10/2015"
     },
     {
-      "title": "ZDF-Sommerinterview: Merz und Söder schließen Steuererhöhungen aus",
-      "teaser": "Kanzler Friedrich Merz hat Forderungen der SPD nach Steuererhöhungen eine Absage erteilt. Bayerns Ministerpräsident Söder forderte stattdessen, Steuern zu senken.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-08/zdf-sommerinterview-soeder-merz-gegen-steuerhoehungen"
+      "title": "ZDF-Sommerinterview: Friedrich Merz und Markus Söder schließen Steuererhöhungen aus",
+      "teaser": "Friedrich Merz hat Forderungen der SPD nach Steuererhöhungen eine Absage erteilt. Der Bundeskanzler stellt sich auf einen noch lange andauernden Krieg in der Ukraine ein.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-08/zdf-sommerinterview-soeder-merz-gegen-steuerhoehungen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-08/zdf-sommerinterview-soeder-merz-gegen-steuerhoehungen-bild-2/super__430x286",
+      "image_title": "ZDF-Sommerinterview: Friedrich Merz und Markus Söder schließen Steuererhöhungen aus"
     },
     {
       "title": "Liveblog:Krieg gegen die Ukraine: Selenskyj kündigt Angriffe tief im russischen Landesinneren an",
@@ -137,13 +145,6 @@
       "image_title": "Krieg gegen die Ukraine: VIENNA, AUSTRIA - JUNE 16: Ukrainian President Volodymyr Zelensky addresses the media prior to a meeting with Austria's Chancellor Christian Stocker at Federal Chancellery Vienna on June 16, 2025 in Vienna, Austria. Zelensky, who is in Vienna for the first time since Russia's invasion of Ukraine in 2022, is meeting with Austrian government leaders. (Photo by Christian Bruna/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); NS-Raubkunst: Jäger der verlorenen Schätze. Ostdeutschland-Edition",
-      "teaser": "Sie suchen nach Nazigold oder dem Bernsteinzimmer. In Sachsen fahren Männer dafür schweres Gerät auf – und hoffen, groß rauszukommen. Woher nehmen sie ihren Optimismus?",
-      "url": "https://www.zeit.de/2025/37/ns-raubkunst-schatzsuche-bergwerk-bohrung",
-      "image_url": "https://img.zeit.de/2025/37/jaeger-der-verlorenen-schaetze-bild-5/wide__892x501",
-      "image_title": "NS-Raubkunst: Jäger der verlorenen Schätze. Ostdeutschland-Edition"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Wissenschaftliche Mitarbeiterin: \"Mein jetziger Partner verdient doppelt so viel wie ich\"",
       "teaser": "Maja, 38, verdient als wissenschaftliche Mitarbeiterin 5.700 Euro. Sie hat drei Kinder, ist alleinerziehend und arbeitet Vollzeit. Monatlich legt sie 1.000 Euro zurück.",
       "url": "https://www.zeit.de/arbeit/2025-08/wissenschaftliche-mitarbeiterin-einkommen-haushalt-eigentumswohnung-kontoauszug",
@@ -151,25 +152,18 @@
       "image_title": "Wissenschaftliche Mitarbeiterin: \"Mein jetziger Partner verdient doppelt so viel wie ich\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Reisen: Sommerferien, sie können so grausam sein",
-      "teaser": "Der Urlaub war toll. Nur der Massentourismus, der tote Wald und das Brackwasser haben gestört. Eine ehrliche Abrechnung nach der Ferienzeit – mit uns selbst.",
-      "url": "https://www.zeit.de/kultur/2025-08/reisen-massentourismus-klimawandel-umweltverschmutzung-urlaub",
-      "image_url": "https://img.zeit.de/kultur/2025-08/reisen-massentourismus-klimawandel-umweltverschmutzung-urlaub-bild/super__430x286",
-      "image_title": "Reisen: Sommerferien, sie können so grausam sein"
+      "title": "Z+ (abopflichtiger Inhalt); NS-Raubkunst: Jäger der verlorenen Schätze. Ostdeutschland-Edition",
+      "teaser": "Sie suchen nach Nazigold oder dem Bernsteinzimmer. In Sachsen fahren Männer dafür schweres Gerät auf – und hoffen, groß rauszukommen. Woher nehmen sie ihren Optimismus?",
+      "url": "https://www.zeit.de/2025/37/ns-raubkunst-schatzsuche-bergwerk-bohrung",
+      "image_url": "https://img.zeit.de/2025/37/jaeger-der-verlorenen-schaetze-bild-5/wide__892x501",
+      "image_title": "NS-Raubkunst: Jäger der verlorenen Schätze. Ostdeutschland-Edition"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Selbst entdecken: Auf eigene Gefahr ist vielleicht doch besser",
-      "teaser": "Statt Sachen selbst auszuprobieren, verlassen sich Leute heute auf Bewertungen von Orten und Produkten im Netz. Das schützt angeblich vor Flops. Was für ein Denkfehler!",
-      "url": "https://www.zeit.de/kultur/2025-08/selbst-entdecken-orte-produkte-nutzer-bewertungen-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/kultur/2025-08/selbst-entdecken-orte-produkte-nutzer-bewertungen-kuenstliche-intelligenz-bild/wide__892x501",
-      "image_title": "Selbst entdecken: A group of people take refuge from the heatwave with a hose-pipe shower in their garden pond, Streatham, London."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehungszufriedenheit • Z+ Empfehlung : \"Paare, die sich online kennenlernten, sind im Schnitt unzufriedener\"",
-      "teaser": "Das sagt Forscherin Marta Kowal. Für ihre Studie analysierte sie Daten von mehr als 6.000 vergebenen Menschen. Und beobachtete einen neuen Datingtrend: Cold Intimacy.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2025-08/beziehungszufriedenheit-liebesbeziehung-psychologie-studie-online-dating",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2025-08/beziehungszufriedenheit-liebesbeziehung-psychologie-studie-online-dating-bild/super__430x286",
-      "image_title": "Beziehungszufriedenheit • Z+ Empfehlung: \"Paare, die sich online kennenlernten, sind im Schnitt unzufriedener\""
+      "title": "Z+ (abopflichtiger Inhalt); Plan D • Z+ Empfehlung: \"Ich war die mit Kind, die es nicht geschafft hat\"",
+      "teaser": "Es ist unglaublich anstrengend, ein Kind alleine großzuziehen. Drei Frauen aus drei Generationen sprechen darüber, warum es manchmal aber auch besser so ist.",
+      "url": "https://www.zeit.de/familie/2025-07/alleinerziehende-muetter-kinder-generationen-plan-d",
+      "image_url": "https://img.zeit.de/familie/2025-08/alleinerziehende-muetter-kinder-generationen-plan-d-bild/super__430x286",
+      "image_title": "Plan D • Z+ Empfehlung: \"Ich war die mit Kind, die es nicht geschafft hat\""
     },
     {
       "title": "Reform des Bürgergelds: SPD signalisiert Kompromissbereitschaft beim Bürgergeld",
@@ -242,11 +236,11 @@
       "image_title": "Ehrenamt im Alter: Eine Rentnerin hilft im Textilunterricht einer Grundschule. ++++++++++<br /> A pensioner helps primary school pupils voluntarily during textile class, on the occasion of the project win3, three generations in the classroom, of Pro Senectute, in Schliern, Switzerland, on June 24, 2015. (Christian Beutler/Keystone/laif) Eine Rentnerin hilft Pirmarschuelern freiwillig beim Textilunterricht, anlaesslich des Projektes win3, drei Generationen im Klassenzimmer, von Pro Senectute, in Schliern, am 24. Juni 2015. (Christian Beutler/Keystone/laif)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Norbert F. Schneider • Z+ Empfehlung: \"Die Eltern entmündigen ihre Kinder\"",
-      "teaser": "Eltern machen sich das Leben unnötig kompliziert, sagt der Familienforscher Norbert F. Schneider. Sie sollten ihre Servicementalität aufgeben – zum Besten des Kindes.",
-      "url": "https://www.zeit.de/familie/2025-08/norbert-f-schneider-eltern-kinder-erziehung-familie",
-      "image_url": "https://img.zeit.de/familie/2025-08/norbert-schneider-mut-tut-gut-kinder-mikromanagement-eltern-erschoepfung-bild-3/super__430x286",
-      "image_title": "Norbert F. Schneider • Z+ Empfehlung: \"Die Eltern entmündigen ihre Kinder\""
+      "title": "Z+ (abopflichtiger Inhalt); Präsidentschaftswahlen in Kamerun: Irgendwann ist auch mal gut",
+      "teaser": "Kameruns Präsident Paul Biya ist der älteste Staatschef der Welt. Mit 92 tritt er für eine achte Amtszeit an. Doch die Jugend hat genug von der Herrschaft alter Männer.",
+      "url": "https://www.zeit.de/2025/37/praesidentschaftswahlen-kamerun-paul-biya-adeline-tsopgni",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-08/praesidentschaftswahlen-kamerun-paul-biya-adeline-tsopgni-bild3/wide__892x501",
+      "image_title": "Präsidentschaftswahlen in Kamerun: Die junge Aktivistin Adeline Tsopgni will ins Parlament einziehen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gletscherschmelze: Abschiedsgrüße von ganz oben",
@@ -361,10 +355,17 @@
       "image_title": "Arbeitsweg: Pendlerpauschale: gerecht oder umweltschädlich?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Selbst entdecken: Auf eigene Gefahr ist vielleicht doch besser",
+      "teaser": "Statt Sachen selbst auszuprobieren, verlassen sich Leute heute auf Bewertungen von Orten und Produkten im Netz. Das schützt angeblich vor Flops. Was für ein Denkfehler!",
+      "url": "https://www.zeit.de/kultur/2025-08/selbst-entdecken-orte-produkte-nutzer-bewertungen-kuenstliche-intelligenz",
+      "image_url": "https://img.zeit.de/kultur/2025-08/selbst-entdecken-orte-produkte-nutzer-bewertungen-kuenstliche-intelligenz-bild/wide__892x501",
+      "image_title": "Selbst entdecken: A group of people take refuge from the heatwave with a hose-pipe shower in their garden pond, Streatham, London."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Finanzlage der Kommunen: Wenn der Stadt das Geld fürs Schwimmbad fehlt",
       "teaser": "Eine Kleinstadt ist so verschuldet, dass sie ihr Freibad geschlossen hat. Nun könnten engagierte Bürgerinnen und Bürger es erhalten. Ist das ein Happy End?",
       "url": "https://www.zeit.de/wirtschaft/2025-08/finanzlage-kommunen-bad-iburg-schwimmbad-schliessung",
-      "image_url": "https://img.zeit.de/wirtschaft/2025-08/finanzlage-kommunen-bad-iburg-schwimmbad-schliessung-bild-3/wide__892x501",
+      "image_url": "https://img.zeit.de/wirtschaft/2025-08/finanzlage-kommunen-bad-iburg-schwimmbad-schliessung-bild-3/super__430x286",
       "image_title": "Finanzlage der Kommunen: Wenn der Stadt das Geld fürs Schwimmbad fehlt"
     },
     {
@@ -431,11 +432,11 @@
       "image_title": "Diese Woche in der ZEIT: Sind die Linken selber schuld?"
     },
     {
-      "title": "Wissenspodcast: ChatGPT oder Mensch: Wer ist empathischer?",
-      "teaser": "Chatbots sind sehr gut darin, Mitgefühl zu formulieren, zeigen Studien. Sie schneiden sogar besser ab als Fachleute. Nun werden sie zu Therapeuten ausgebildet. Gruselig?",
-      "url": "https://www.zeit.de/wissen/2025-08/ki-chatgpt-mensch-empathie-studie-wissen-podcast",
-      "image_url": "https://img.zeit.de/wissen/2025-08/chatgpt-chatbot-empathie-mitgefuehl/super__430x286",
-      "image_title": "ChatGPT Chatbot Empathie Mitgefühl"
+      "title": "Podcast \"English, please!\": \"Darf ich Ihren Revolver in die Hand nehmen?\"",
+      "teaser": "Auch 100 Jahre nach der Eröffnung suchen Menschen auf der Route 66 das Abenteuer. Im ZEIT-Sprachen-Podcast sprechen wir über besten Reiseziele von Connemara bis Arizona.",
+      "url": "https://www.zeit.de/wissen/2025-08/route-66-reisen-usa-englisch-podcast",
+      "image_url": "https://img.zeit.de/wissen/2024-05/raubkunst-kolonialzeit-grossbritannien-englisch-podcast-bild/super__430x286",
+      "image_title": "Podcast \"English, please!\": Die Hosts von \"English, please!\""
     },
     {
       "title": "ZEIT Podcast-Tour 2025: Der Interviewpodcast \"Alles gesagt?\" live in Leipzig und in Hamburg",
@@ -462,16 +463,16 @@
       "url": "https://www.zeit.de/politik/deutschland/2025-08/links-sein-vorurteile-politische-linke-debatte"
     },
     {
-      "title": "USA: Polizei von Chicago darf nicht mit Nationalgarde zusammenarbeiten",
-      "teaser": "Donald Trump will Nationalgarde und Bundesbeamte zur Verbrechensbekämpfung nach Chicago schicken. Der Bürgermeister hat der Polizei die Zusammenarbeit mit ihnen verboten.",
-      "url": "https://www.zeit.de/politik/ausland/2025-08/chicago-verbietet-kooperation-polizei-nationalgarde-bundesbeamte-ice",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-08/chicago-polizei-bild/super__430x286",
-      "image_title": "USA: Polizisten in Chicago dürfen im Falle einer Entsendung der Nationalgarde nicht mit den Soldaten zusammenarbeiten."
-    },
-    {
       "title": "Sozialstaat: Sozialverband nennt Merz' Kürzungspläne \"gesellschaftlich gefährlich\"",
       "teaser": "Nachdem der Bundeskanzler Änderungen beim Bürgergeld angemahnt hat, kritisiert der Sozialverband Deutschland: Merz zerstöre das Fundament des Zusammenhalts.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-08/merz-sozialreformen-sozialverband"
+      "url": "https://www.zeit.de/politik/deutschland/2025-08/merz-sozialreformen-sozialverband",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-08/friedrich-merz-bild/super__430x286",
+      "image_title": "Sozialstaat: The leader of Germany's Christian Democratic Union (CDU) and designated chancellor Friedrich Merz looks on during a session at the Bundestag (lower house of parliament) in Berlin on May 6, 2025 before a vote to elect the country's next chancellor. Germany's far-right AfD on May 6 called for a fresh general election after a shock vote in parliament saw conservative leader Merz miss a majority to become chancellor. Merz had expected to win a majority of at least 316 of the 630 votes in the lower house of parliament. But he won the backing of only 310 MPs, with 307 voting against him. (Photo by Tobias SCHWARZ / AFP) (Photo by TOBIAS SCHWARZ/AFP via Getty Images)"
+    },
+    {
+      "title": "USA: Polizei von Chicago darf nicht mit Nationalgarde zusammenarbeiten",
+      "teaser": "Donald Trump will Nationalgarde und Bundesbeamte zur Verbrechensbekämpfung nach Chicago schicken. Der Bürgermeister hat der Polizei die Zusammenarbeit mit ihnen verboten.",
+      "url": "https://www.zeit.de/politik/ausland/2025-08/chicago-verbietet-kooperation-polizei-nationalgarde-bundesbeamte-ice"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wissenschaftliche Mitarbeiterin: \"Mein jetziger Partner verdient doppelt so viel wie ich\"",
@@ -629,13 +630,6 @@
       "image_title": "Elternliebe: Nichts hat mich so reifen lassen wie die Kinder"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Plan D: \"Ich war die mit Kind, die es nicht geschafft hat\"",
-      "teaser": "Es ist unglaublich anstrengend, ein Kind alleine großzuziehen. Drei Frauen aus drei Generationen sprechen darüber, warum es manchmal aber auch besser so ist.",
-      "url": "https://www.zeit.de/familie/2025-07/alleinerziehende-muetter-kinder-generationen-plan-d",
-      "image_url": "https://img.zeit.de/familie/2025-08/alleinerziehende-muetter-kinder-generationen-plan-d-bild/super__430x286",
-      "image_title": "Plan D: \"Ich war die mit Kind, die es nicht geschafft hat\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Mütter: Wenn sich die Freiheit jahrelang hintanstellen musste",
       "teaser": "Frauen, vor allem Mütter um die 50, sehnen sich oft nach Ausbruch – aus ihrer Ehe, aus dem Kümmern. Was hilft: immer wieder ein bisschen ausbrechen. So früh es geht.",
       "url": "https://www.zeit.de/familie/2025-08/muetter-50-jahre-familie-ehe-freiheit",
@@ -643,11 +637,11 @@
       "image_title": "Mütter: Wenn sich die Freiheit jahrelang hintanstellen musste"
     },
     {
-      "title": "Podcast \"English, please!\": \"Darf ich Ihren Revolver in die Hand nehmen?\"",
-      "teaser": "Auch 100 Jahre nach der Eröffnung suchen Menschen auf der Route 66 das Abenteuer. Im ZEIT-Sprachen-Podcast sprechen wir über besten Reiseziele von Connemara bis Arizona.",
-      "url": "https://www.zeit.de/wissen/2025-08/route-66-reisen-usa-englisch-podcast",
-      "image_url": "https://img.zeit.de/wissen/2024-05/raubkunst-kolonialzeit-grossbritannien-englisch-podcast-bild/super__320x213",
-      "image_title": "Podcast \"English, please!\": Die Hosts von \"English, please!\""
+      "title": "Wissenspodcast: ChatGPT oder Mensch: Wer ist empathischer?",
+      "teaser": "Chatbots sind sehr gut darin, Mitgefühl zu formulieren, zeigen Studien. Sie schneiden sogar besser ab als Fachleute. Nun werden sie zu Therapeuten ausgebildet. Gruselig?",
+      "url": "https://www.zeit.de/wissen/2025-08/ki-chatgpt-mensch-empathie-studie-wissen-podcast",
+      "image_url": "https://img.zeit.de/wissen/2025-08/chatgpt-chatbot-empathie-mitgefuehl/super__320x213",
+      "image_title": "ChatGPT Chatbot Empathie Mitgefühl"
     },
     {
       "title": "Geschichtspodcast: \"Rule Britannia\": Queen Victoria, das Empire und der Imperialismus",
@@ -1041,11 +1035,11 @@
       "image_title": "Alina Kuhl"
     },
     {
-      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
       "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "url": "https://studiengaenge.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
+      "image_title": "Welcher Studiengang passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bergsport: Darauf sollten Sie beim Wandern achten",
@@ -1076,36 +1070,36 @@
       "image_title": "Hamburg-Eppendorf: Prächtige Altbauten und eine gediegene Atmosphäre - so läßt es sich in Hamburg Eppendorf leben, oder nicht?"
     },
     {
-      "title": "Vandalismus: Hakenkreuze auf Rasen von Fußballplatz",
-      "url": "https://www.zeit.de/news/2025-08/31/hakenkreuze-auf-rasen-von-fussballplatz"
+      "title": "2. Fußball-Bundesliga: Nächste Leihe: Diop kommt aus Frankreich nach Nürnberg",
+      "url": "https://www.zeit.de/news/2025-08/31/naechste-leihe-diop-kommt-aus-frankreich-nach-nuernberg"
     },
     {
-      "title": "Verkehrsunfall: Auto überschlägt sich auf A19 – Frau schwer verletzt",
-      "url": "https://www.zeit.de/news/2025-08/31/auto-ueberschlaegt-sich-auf-a19-frau-schwer-verletzt"
+      "title": "2. Fußball-Bundesliga: Klose und der \"Club\": Neue Kräfte, aber weiter viel Arbeit",
+      "url": "https://www.zeit.de/news/2025-08/31/klose-und-der-club-neue-kraefte-aber-weiter-viel-arbeit"
     },
     {
-      "title": "Pferderennen: Englischer Überraschungssieg bei der Goldenen Peitsche",
-      "url": "https://www.zeit.de/news/2025-08/31/englischer-ueberraschungssieg-bei-der-goldenen-peitsche"
+      "title": "2. Fußball-Bundesliga: Dynamo vergibt zu viele Chancen und verliert gegen Schalke",
+      "url": "https://www.zeit.de/news/2025-08/31/dynamo-vergibt-zu-viele-chance-und-verliert-gegen-schalke"
     },
     {
-      "title": "Nationalmannschaft: Basketball-Trainer Mumbru aus dem Krankenhaus entlassen",
-      "url": "https://www.zeit.de/news/2025-08/31/basketball-trainer-mumbru-aus-dem-krankenhaus-entlassen"
+      "title": "Sozialreformen: Kiziltepe kontert Merz: Sozialstaat sichert Zusammenhalt",
+      "url": "https://www.zeit.de/news/2025-08/31/kiziltepe-kontert-merz-sozialstaat-sichert-zusammenhalt"
     },
     {
-      "title": "Tiergarten: Israelische Flagge an Konrad-Adenauer-Stiftung angezündet",
-      "url": "https://www.zeit.de/news/2025-08/31/israelische-flagge-an-konrad-adenauer-stiftung-angezuendet"
+      "title": "Freilichttheater: Open-Air-Saison in Waren endet mit Zuschauerplus",
+      "url": "https://www.zeit.de/news/2025-08/31/open-air-saison-in-waren-endet-mit-zuschauerplus"
     },
     {
-      "title": "Europameisterschaft: Werth scheitert am 10. Einzel-Gold bei Dressur-EM",
-      "url": "https://www.zeit.de/news/2025-08/31/werth-scheitert-am-10-einzel-gold-bei-dressur-em"
+      "title": "2. Fußball-Bundesliga: Irres Torspektakel: Fürth schlägt Magdeburg mit 5:4",
+      "url": "https://www.zeit.de/news/2025-08/31/irres-torspektakel-fuerth-schlaegt-magdeburg-mit-5-4"
     },
     {
-      "title": "Ermittlungen laufen: Verletzte bei mutmaßlichem Autorennen",
-      "url": "https://www.zeit.de/news/2025-08/31/verletzte-bei-mutmasslichem-autorennen"
+      "title": "Kriminalität: Toter in Hamburger Shisha-Bar - Mordkommission ermittelt",
+      "url": "https://www.zeit.de/news/2025-08/31/leiche-in-hamburger-bar-entdeckt"
     },
     {
-      "title": "Motorradunfall: 60-Jähriger stirbt bei Motorradunfall in Wandlitz",
-      "url": "https://www.zeit.de/news/2025-08/31/60-jaehriger-stirbt-bei-motorradunfall-in-wandlitz"
+      "title": "Brauerei: Oettinger-Arbeitskampf: Schlichtungsangebot der Gewerkschaft",
+      "url": "https://www.zeit.de/news/2025-08/31/oettinger-arbeitskampf-schlichtungsangebot-der-gewerkschaft"
     }
   ]
 }
