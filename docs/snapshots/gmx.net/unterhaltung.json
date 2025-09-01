@@ -1,300 +1,1043 @@
 {
-  "timestamp": "2025-09-01T10:11:56",
+  "timestamp": "2025-09-01T11:08:27",
   "url": "https://www.gmx.net/magazine/unterhaltung/",
   "response": {
-    "status": 200
+    "status": 503
   },
   "scripts": [
     {
+      "type": "module",
+      "src": "https://dl.gmx.net/account-avatar/account-avatar.esm.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": null,
-      "src": "https://s.uicdn.com/t/prod/iq/mam/mango/daq.js",
+      "src": "https://s.uicdn.com/t/prod/iq/mam/purple/daq.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://dl.gmx.net/tcf/live/v1/js/tcf-api.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://img.ui-portal.de/pos-cdn/tracklib/4.7.3/tracklib.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://js.ui-portal.de/homepage/res/live/1.92/gmx/js/piNctTracking.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://dl.gmx.net/uim/connector/live/v2/service.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://dl.gmx.net/uim/live/config_homepage.js",
       "id": null,
       "text": null
     },
     {
       "type": "module",
-      "src": "https://s.uicdn.com/uimag/7.7929.0/assets/_sn_/modules/mod-multisearch/multisearch.js",
+      "src": "https://js.ui-portal.de/homepage/res/live/1.92/gmx/page.bundle.js",
       "id": null,
       "text": null
     },
     {
       "type": "module",
-      "src": "https://s.uicdn.com/uimag/7.7929.0/assets/_sn_/modules/mod-navigation/navigation.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://s.uicdn.com/uimag/7.7929.0/assets/_sn_/js/entry.js",
+      "src": "https://js.ui-portal.de/homepage/res/live/1.92/gmx/chunk-vendors.bundle.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Kronprinzessin Victoria gibt Einblicke in ihren Sommer mit der Familie",
-      "url": "https://www.gmx.net/magazine/unterhaltung/adel/schweden-royals/kronprinzessin-victoria-einblicke-sommer-familie-41334560",
-      "image_url": "https://i0.gmx.net/image/562/41334562,pd=1,f=responsive169-w950/kronprinzessin-victoria-prinz-daniel-15-jahren-ver.jpg"
+      "title": "\"Ich sehe die 'Tagesschau' jetzt wesentlich kritischer\"",
+      "url": "https://www.gmx.net/magazine/news/tagesschau-wesentlich-kritischer-41297200",
+      "image_url": "https://i0.gmx.net/image/678/41335678,pd=5,h=300,w=530/alexander-teske.jpg",
+      "image_title": "Alexander Teske"
+    },
+    {
+      "title": "Flugzeug mit von der Leyen an Bord wird Ziel von GPS-StÃ¶rung",
+      "url": "https://www.gmx.net/magazine/politik/flugzeug-leyen-bord-ziel-gps-stoerung-41335592",
+      "image_url": "https://i0.gmx.net/image/626/41335626,pd=5,h=300,w=530.jpg"
+    },
+    {
+      "title": "Trainer-Beben in Leverkusen: Ten Hag nach nur zwei Spieltagen gefeuert",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/trainer-beben-leverkusen-ten-hag-spieltagen-gefeuert-41335474",
+      "image_url": "https://i0.gmx.net/image/674/41335674,pd=2,h=300,w=530.jpg"
+    },
+    {
+      "title": "Mario Basler, warum macht man bei \"Deutschlands dÃ¼mmster Promi\" mit?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/mario-basler-deutschlands-duemmster-promi-41328558",
+      "image_url": "https://i0.gmx.net/image/660/41328660,pd=1,h=300,w=530/mario-basler.jpg",
+      "image_title": "Mario Basler"
+    },
+    {
+      "title": "Virgin-Australia-Flug wird fÃ¼r Passagiere zum Albtraum",
+      "url": "https://www.gmx.net/magazine/panorama/toiletten-unbenutzbar-virgin-passagiere-pinkelten-flaschen-41335126",
+      "image_url": "https://i0.gmx.net/image/324/41335324,pd=1,h=300,w=530/virgin-australia-flieger-flughafen-brisbane-archiv.jpg",
+      "image_title": "Ein Virgin-Australia-Flieger startet vom Flughafen Brisbane (Archivbild)"
+    },
+    {
+      "title": "Katja Burkard zeigt ihr Hochzeitsoutfit",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/katja-burkard-zeigt-hochzeitsoutfit-41335176"
+    },
+    {
+      "title": "Putin und Modi halten bei Gipfeltreffen Ã¼berraschend HÃ¤ndchen",
+      "url": "https://www.gmx.net/magazine/politik/videos/putin-modi-halten-gipfeltreffen-ueberraschend-haendchen-41335460"
+    },
+    {
+      "title": "Mehr als 800 Tote nach Erdbeben in Afghanistan",
+      "url": "https://www.gmx.net/magazine/panorama/zahl-toten-erdbeben-afghanistan-800-gestiegen-41334418"
+    },
+    {
+      "title": "\"Die Leute von der Shiloh Ranch\"-Schauspieler Randy Boone ist tot",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/leute-shiloh-ranch-schauspieler-randy-boone-tot-41334896"
+    },
+    {
+      "title": "Katja Burkard zeigt ihr Hochzeitsoutfit",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/katja-burkard-zeigt-hochzeitsoutfit-41335176"
+    },
+    {
+      "title": "Putin und Modi halten bei Gipfeltreffen Ã¼berraschend HÃ¤ndchen",
+      "url": "https://www.gmx.net/magazine/politik/videos/putin-modi-halten-gipfeltreffen-ueberraschend-haendchen-41335460"
+    },
+    {
+      "title": "Mehr als 800 Tote nach Erdbeben in Afghanistan",
+      "url": "https://www.gmx.net/magazine/panorama/zahl-toten-erdbeben-afghanistan-800-gestiegen-41334418"
+    },
+    {
+      "title": "\"Die Leute von der Shiloh Ranch\"-Schauspieler Randy Boone ist tot",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/leute-shiloh-ranch-schauspieler-randy-boone-tot-41334896"
+    },
+    {
+      "title": "Putin und Modi halten bei Gipfeltreffen Ã¼berraschend HÃ¤ndchen",
+      "url": "https://www.gmx.net/magazine/politik/videos/putin-modi-halten-gipfeltreffen-ueberraschend-haendchen-41335460"
+    },
+    {
+      "title": "Mehr als 800 Tote nach Erdbeben in Afghanistan",
+      "url": "https://www.gmx.net/magazine/panorama/zahl-toten-erdbeben-afghanistan-800-gestiegen-41334418"
+    },
+    {
+      "title": "\"Die Leute von der Shiloh Ranch\"-Schauspieler Randy Boone ist tot",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/leute-shiloh-ranch-schauspieler-randy-boone-tot-41334896"
+    },
+    {
+      "title": "Lastwagen kippt um: Massive Verkehrsprobleme auf der A3 bei Bad Honnef",
+      "url": "https://www.gmx.net/magazine/panorama/videos/lastwagen-kippt-massive-verkehrsprobleme-a3-bad-honnef-41335342"
     },
     {
       "title": "Katja Burkard zeigt ihr Hochzeitsoutfit",
       "url": "https://www.gmx.net/magazine/unterhaltung/stars/katja-burkard-zeigt-hochzeitsoutfit-41335176",
-      "image_url": "https://i0.gmx.net/image/178/41335178,pd=1,f=responsive169-w450/hans-mahr-katja-burkard-1998-paar-toechter.jpg"
+      "image_url": "https://i0.gmx.net/image/178/41335178,pd=1,h=170,w=300/hans-mahr-katja-burkard-1998-paar-toechter.jpg",
+      "image_title": "Hans Mahr und Katja Burkard sind seit 1998 ein Paar und haben zwei TÃ¶chter."
     },
     {
-      "title": "Cate Blanchett flattert in Venedig über den roten Teppich",
-      "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/vogelfedernkleid-cate-blanchett-flattert-venedig-roten-teppich-41335326",
-      "image_url": "https://i0.gmx.net/image/466/41335466,pd=3,f=responsive169-w450/cate-blanchett.jpg"
+      "title": "Nie wieder TrÃ¤nenvergieÃen beim Zwiebelschneiden: So klappt es!",
+      "url": "https://www.gmx.net/magazine/ratgeber/videos/essen-trinken/traenenvergiessen-zwiebelschneiden-klappt-39506142",
+      "image_url": "https://i0.gmx.net/image/144/39506144,pd=2,h=170,w=300/6-ultimative-tipps-zwiebeln-schneiden-weinen.jpg",
+      "image_title": "6 ultimative Tipps: Zwiebeln schneiden ohne Weinen"
     },
     {
-      "title": "\"Nicht hart genug\": Das bereut Robin Wright bei Erziehung ihrer Kinder",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/hart-bereut-robin-wright-erziehung-kinder-41335366",
-      "image_url": "https://i0.gmx.net/image/368/41335368,pd=1,f=responsive169-w450/robin-wright-bereut.jpg"
+      "title": "Mann nach Vorfall an russischem Konsulat in Sydney festgenommen",
+      "url": "https://www.gmx.net/magazine/panorama/videos/vorfall-russischem-konsulat-sydney-festgenommen-41334958",
+      "image_url": "https://i0.gmx.net/image/960/41334960,pd=1,h=170,w=300/vorfall-russischem-konsulat-sydney-festgenommen.jpg",
+      "image_title": "Mann nach Vorfall an russischem Konsulat in Sydney festgenommen"
     },
     {
-      "title": "\"Die Leute von der Shiloh Ranch\"-Schauspieler Randy Boone ist tot",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/leute-shiloh-ranch-schauspieler-randy-boone-tot-41334896",
-      "image_url": "https://i0.gmx.net/image/898/41334898,pd=1,f=responsive169-w450/randy-boone-1942-2025-leute-shiloh-ranch.jpg"
+      "title": "\"Sie hat mich gerettet\": Dieter Hallervorden mit emotionaler Beichte",
+      "url": "https://www.gmx.net/magazine/unterhaltung/videos/stars/gerettet-dieter-hallervorden-emotionaler-beichte-41334398"
+    },
+    {
+      "title": "KÃ¶nigin Camilla als Jugendliche wohl sexuell belÃ¤stigt worden",
+      "url": "https://www.gmx.net/magazine/unterhaltung/adel/britische-royals/koenigin-camilla-jugendliche-sexuell-belaestigt-worden-41334498"
+    },
+    {
+      "title": "New Yorks Ex-BÃ¼rgermeister Giuliani in Klinik eingeliefert",
+      "url": "https://www.gmx.net/magazine/politik/videos/us-politik/new-yorks-ex-buergermeister-giuliani-klinik-eingeliefert-41334764"
+    },
+    {
+      "title": "Thailands Palast gibt Gesundheitsupdate zu Prinzessin Bha",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/jahren-koma-thailand-gesundheitsupdate-prinzessin-bha-41334514"
+    },
+    {
+      "title": "Dobrindt bei \"Miosga\": \"Mit dem Kopf durch die Wand geht nicht mehr\"",
+      "url": "https://www.gmx.net/magazine/politik/politische-talkshows/dobrindt-miosga-kopf-wand-41334350",
+      "image_url": "https://i0.gmx.net/image/376/41334376,pd=3,h=170,w=300/alexander-dobrindt-csu-miosga.jpg",
+      "image_title": "Alexander Dobrindt (CSU) bei Miosga"
+    },
+    {
+      "title": "Hamburg: Suche nach im Wasser Vermissten endet erfolglos",
+      "url": "https://www.gmx.net/magazine/panorama/videos/hamburg-suche-wasser-vermissten-endet-erfolglos-41334544",
+      "image_url": "https://i0.gmx.net/image/542/41334542,pd=1,h=170,w=300/notfaelle-tag-hamburg-suche-wasser-vermissten-ende.jpg",
+      "image_title": "Drei NotfÃ¤lle an einem Tag in Hamburg: Suche nach im Wasser Vermissten endet erfolglos"
+    },
+    {
+      "title": "Lastwagen kippt um: Massive Verkehrsprobleme auf der A3 bei Bad Honnef",
+      "url": "https://www.gmx.net/magazine/panorama/videos/lastwagen-kippt-massive-verkehrsprobleme-a3-bad-honnef-41335342",
+      "image_url": "https://i0.gmx.net/image/340/41335340,pd=1,h=170,w=300/lastwagen-kippt-massive-verkehrsprobleme-a3-bad-ho.jpg",
+      "image_title": "Lastwagen kippt um: Massive Verkehrsprobleme auf der A3 bei Bad Honnef"
+    },
+    {
+      "title": "Nie wieder TrÃ¤nenvergieÃen beim Zwiebelschneiden: So klappt es!",
+      "url": "https://www.gmx.net/magazine/ratgeber/videos/essen-trinken/traenenvergiessen-zwiebelschneiden-klappt-39506142",
+      "image_url": "https://i0.gmx.net/image/144/39506144,pd=2,h=170,w=300/6-ultimative-tipps-zwiebeln-schneiden-weinen.jpg",
+      "image_title": "6 ultimative Tipps: Zwiebeln schneiden ohne Weinen"
+    },
+    {
+      "title": "Mann nach Vorfall an russischem Konsulat in Sydney festgenommen",
+      "url": "https://www.gmx.net/magazine/panorama/videos/vorfall-russischem-konsulat-sydney-festgenommen-41334958"
+    },
+    {
+      "title": "\"Sie hat mich gerettet\": Dieter Hallervorden mit emotionaler Beichte",
+      "url": "https://www.gmx.net/magazine/unterhaltung/videos/stars/gerettet-dieter-hallervorden-emotionaler-beichte-41334398"
+    },
+    {
+      "title": "KÃ¶nigin Camilla als Jugendliche wohl sexuell belÃ¤stigt worden",
+      "url": "https://www.gmx.net/magazine/unterhaltung/adel/britische-royals/koenigin-camilla-jugendliche-sexuell-belaestigt-worden-41334498"
+    },
+    {
+      "title": "New Yorks Ex-BÃ¼rgermeister Giuliani in Klinik eingeliefert",
+      "url": "https://www.gmx.net/magazine/politik/videos/us-politik/new-yorks-ex-buergermeister-giuliani-klinik-eingeliefert-41334764"
     },
     {
       "title": "Thailands Palast gibt Gesundheitsupdate zu Prinzessin Bha",
       "url": "https://www.gmx.net/magazine/unterhaltung/stars/jahren-koma-thailand-gesundheitsupdate-prinzessin-bha-41334514",
-      "image_url": "https://i0.gmx.net/image/516/41334516,pd=1,f=responsive169-w450/thailands-prinzessin-bajrakitiyabha-krankenhaus.jpg"
+      "image_url": "https://i0.gmx.net/image/516/41334516,pd=1,h=170,w=300/thailands-prinzessin-bajrakitiyabha-krankenhaus.jpg",
+      "image_title": "Thailands Prinzessin Bajrakitiyabha im Krankenhaus"
     },
     {
-      "title": "Dieter Hallervorden: So rettete ihn seine Frau vor dem Suizid",
-      "url": "https://www.gmx.net/magazine/unterhaltung/stars/dieter-hallervorden-rettete-suizid-41334802",
-      "image_url": "https://i0.gmx.net/image/804/41334804,pd=1,f=responsive169-w450/dieter-hallervorden-christiane-zander-2022-verheir.jpg"
+      "title": "Lastwagen kippt um: Massive Verkehrsprobleme auf der A3 bei Bad Honnef",
+      "url": "https://www.gmx.net/magazine/panorama/videos/lastwagen-kippt-massive-verkehrsprobleme-a3-bad-honnef-41335342",
+      "image_url": "https://i0.gmx.net/image/340/41335340,pd=1,h=170,w=300/lastwagen-kippt-massive-verkehrsprobleme-a3-bad-ho.jpg",
+      "image_title": "Lastwagen kippt um: Massive Verkehrsprobleme auf der A3 bei Bad Honnef"
+    },
+    {
+      "title": "Nie wieder TrÃ¤nenvergieÃen beim Zwiebelschneiden: So klappt es!",
+      "url": "https://www.gmx.net/magazine/ratgeber/videos/essen-trinken/traenenvergiessen-zwiebelschneiden-klappt-39506142"
+    },
+    {
+      "title": "Mann nach Vorfall an russischem Konsulat in Sydney festgenommen",
+      "url": "https://www.gmx.net/magazine/panorama/videos/vorfall-russischem-konsulat-sydney-festgenommen-41334958"
+    },
+    {
+      "title": "\"Sie hat mich gerettet\": Dieter Hallervorden mit emotionaler Beichte",
+      "url": "https://www.gmx.net/magazine/unterhaltung/videos/stars/gerettet-dieter-hallervorden-emotionaler-beichte-41334398"
+    },
+    {
+      "title": "KÃ¶nigin Camilla als Jugendliche wohl sexuell belÃ¤stigt worden",
+      "url": "https://www.gmx.net/magazine/unterhaltung/adel/britische-royals/koenigin-camilla-jugendliche-sexuell-belaestigt-worden-41334498"
+    },
+    {
+      "title": "New Yorks Ex-BÃ¼rgermeister Giuliani in Klinik eingeliefert",
+      "url": "https://www.gmx.net/magazine/politik/videos/us-politik/new-yorks-ex-buergermeister-giuliani-klinik-eingeliefert-41334764",
+      "image_url": "https://i0.gmx.net/image/762/41334762,pd=1,h=170,w=300/autounfall-new-yorks-ex-buergermeister-giuliani-kl.jpg",
+      "image_title": "Autounfall: New Yorks Ex-BÃ¼rgermeister Giuliani in Klinik"
+    },
+    {
+      "title": "Katja Burkard zeigt ihr Hochzeitsoutfit",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/katja-burkard-zeigt-hochzeitsoutfit-41335176",
+      "image_url": "https://i0.gmx.net/image/178/41335178,pd=1,h=170,w=300/hans-mahr-katja-burkard-1998-paar-toechter.jpg",
+      "image_title": "Hans Mahr und Katja Burkard sind seit 1998 ein Paar und haben zwei TÃ¶chter."
+    },
+    {
+      "title": "Putin und Modi halten bei Gipfeltreffen Ã¼berraschend HÃ¤ndchen",
+      "url": "https://www.gmx.net/magazine/politik/videos/putin-modi-halten-gipfeltreffen-ueberraschend-haendchen-41335460"
+    },
+    {
+      "title": "Mehr als 800 Tote nach Erdbeben in Afghanistan",
+      "url": "https://www.gmx.net/magazine/panorama/zahl-toten-erdbeben-afghanistan-800-gestiegen-41334418"
+    },
+    {
+      "title": "\"Die Leute von der Shiloh Ranch\"-Schauspieler Randy Boone ist tot",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/leute-shiloh-ranch-schauspieler-randy-boone-tot-41334896"
+    },
+    {
+      "title": "Lastwagen kippt um: Massive Verkehrsprobleme auf der A3 bei Bad Honnef",
+      "url": "https://www.gmx.net/magazine/panorama/videos/lastwagen-kippt-massive-verkehrsprobleme-a3-bad-honnef-41335342"
+    },
+    {
+      "title": "Struff chancenlos gegen Djokovic bei den US Open",
+      "url": "https://www.gmx.net/magazine/sport/tennis/struff-chancenlos-djokovic-us-open-41334102",
+      "image_url": "https://i0.gmx.net/image/300/41334300,pd=2,h=170,w=300/us-open-atp-tour.jpg",
+      "image_title": "US Open - ATP-Tour"
+    },
+    {
+      "title": "Krebsexperten fordern hÃ¶here Tabaksteuer",
+      "url": "https://www.gmx.net/magazine/gesundheit/videos/krebsexperten-hoehere-tabaksteuer-41334370",
+      "image_url": "https://i0.gmx.net/image/372/41334372,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Dobrindt bei \"Miosga\": \"Mit dem Kopf durch die Wand geht nicht mehr\"",
+      "url": "https://www.gmx.net/magazine/politik/politische-talkshows/dobrindt-miosga-kopf-wand-41334350",
+      "image_url": "https://i0.gmx.net/image/376/41334376,pd=3,h=170,w=300/alexander-dobrindt-csu-miosga.jpg",
+      "image_title": "Alexander Dobrindt (CSU) bei Miosga"
+    },
+    {
+      "title": "Hamburg: Suche nach im Wasser Vermissten endet erfolglos",
+      "url": "https://www.gmx.net/magazine/panorama/videos/hamburg-suche-wasser-vermissten-endet-erfolglos-41334544",
+      "image_url": "https://i0.gmx.net/image/542/41334542,pd=1,h=170,w=300/notfaelle-tag-hamburg-suche-wasser-vermissten-ende.jpg",
+      "image_title": "Drei NotfÃ¤lle an einem Tag in Hamburg: Suche nach im Wasser Vermissten endet erfolglos"
+    },
+    {
+      "title": "Thailands Palast gibt Gesundheitsupdate zu Prinzessin Bha",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/jahren-koma-thailand-gesundheitsupdate-prinzessin-bha-41334514",
+      "image_url": "https://i0.gmx.net/image/516/41334516,pd=1,h=170,w=300/thailands-prinzessin-bajrakitiyabha-krankenhaus.jpg",
+      "image_title": "Thailands Prinzessin Bajrakitiyabha im Krankenhaus"
+    },
+    {
+      "title": "Dobrindt bei \"Miosga\": \"Mit dem Kopf durch die Wand geht nicht mehr\"",
+      "url": "https://www.gmx.net/magazine/politik/politische-talkshows/dobrindt-miosga-kopf-wand-41334350",
+      "image_url": "https://i0.gmx.net/image/376/41334376,pd=3,h=170,w=300/alexander-dobrindt-csu-miosga.jpg",
+      "image_title": "Alexander Dobrindt (CSU) bei Miosga"
+    },
+    {
+      "title": "Mann nach Vorfall an russischem Konsulat in Sydney festgenommen",
+      "url": "https://www.gmx.net/magazine/panorama/videos/vorfall-russischem-konsulat-sydney-festgenommen-41334958",
+      "image_url": "https://i0.gmx.net/image/960/41334960,pd=1,h=170,w=300/vorfall-russischem-konsulat-sydney-festgenommen.jpg",
+      "image_title": "Mann nach Vorfall an russischem Konsulat in Sydney festgenommen"
     },
     {
       "title": "\"Sie hat mich gerettet\": Dieter Hallervorden mit emotionaler Beichte",
       "url": "https://www.gmx.net/magazine/unterhaltung/videos/stars/gerettet-dieter-hallervorden-emotionaler-beichte-41334398",
-      "image_url": "https://i0.gmx.net/image/400/41334400,pd=2,f=responsive169-w450.jpg"
+      "image_url": "https://i0.gmx.net/image/400/41334400,pd=2,h=170,w=300.jpg"
     },
     {
-      "title": "Niederländische Royals: Stylischer Auftritt bei Formel 1 in Zandvoort",
-      "url": "https://www.gmx.net/magazine/unterhaltung/adel/niederlaendische-royals-stylischer-auftritt-formel-1-zandvoort-41335500",
-      "image_url": "https://i0.gmx.net/image/502/41335502,pd=1,f=responsive169-w450/koenig-willem-alexander-koenigin-maxima-toechtern-.jpg"
+      "title": "Nach Merz-Aussage: Linke gegen Wehrpflicht fÃ¼r Frauen",
+      "url": "https://www.gmx.net/magazine/politik/videos/inland/merz-aussage-linke-wehrpflicht-frauen-41334092",
+      "image_url": "https://i0.gmx.net/image/094/41334094,pd=2,h=170,w=300.jpg"
     },
     {
-      "title": "Königin Camilla als Jugendliche wohl sexuell belästigt worden",
-      "url": "https://www.gmx.net/magazine/unterhaltung/adel/britische-royals/koenigin-camilla-jugendliche-sexuell-belaestigt-worden-41334498",
-      "image_url": "https://i0.gmx.net/image/620/41334620,pd=1,f=responsive169-w450/koenigin-camilla.jpg"
+      "title": "BÃ¤r scheitert an widerspenstiger HÃ¤ngematte",
+      "url": "https://www.gmx.net/magazine/wissen/videos/tiere/baer-scheitert-widerspenstiger-haengematte-41334462",
+      "image_url": "https://i0.gmx.net/image/994/41334994,pd=1,h=170,w=300/widerspenstige-haengematte-baer-veranstaltet-spekt.jpg",
+      "image_title": "Widerspenstige HÃ¤ngematte: BÃ¤r veranstaltet Spektakel in Garten"
     },
     {
-      "title": "\"Unmöglicher Tag\": Prinzessin Dianas Bruder bringt Blumen an ihr Grab",
-      "url": "https://www.gmx.net/magazine/unterhaltung/adel/britische-royals/unmoeglicher-tag-prinzessin-dianas-bruder-bringt-blumen-grab-41333766",
-      "image_url": "https://i0.gmx.net/image/768/41333768,pd=1,f=responsive169-w450/dianas-juengerer-bruder-charles-spencer-soehne-pri.jpg"
+      "title": "Teures Armband wird weggeschmissen â Schuld daran ist die Katze",
+      "url": "https://www.gmx.net/magazine/panorama/videos/teures-armband-weggeschmissen-schuld-katze-41334484",
+      "image_url": "https://i0.gmx.net/image/480/41334480,pd=2,h=170,w=300/teures-armband-landet-muell-katze-sorgt-teures-mis.jpg",
+      "image_title": "Teures Armband landet im MÃ¼ll: Katze sorgt fÃ¼r teures Missgeschick"
     },
     {
-      "title": "Kate und William in Griechenland? Das Geheimnis um ihren Urlaub",
-      "url": "https://www.gmx.net/magazine/unterhaltung/adel/britische-royals/kate-william-griechenland-geheimnis-urlaub-41332638",
-      "image_url": "https://i0.gmx.net/image/640/41332640,pd=1,f=responsive169-w450/prinz-william-prinzessin-kate-sohn-prinz-george.jpg"
+      "title": "Moskau kÃ¼ndigt Herbstoffensive in der Ukraine an",
+      "url": "https://www.gmx.net/magazine/politik/videos/russland-krieg-ukraine/moskau-kuendigt-herbstoffensive-ukraine-41333448",
+      "image_url": "https://i0.gmx.net/image/964/41334964,pd=1,h=170,w=300/friedensverhandlungen-moskau-kuendigt-herbstoffens.jpg",
+      "image_title": "Statt Friedensverhandlungen: Moskau kÃ¼ndigt Herbstoffensive in der Ukraine an"
     },
     {
-      "title": "Glanzvolle Hochzeit im Fürstenhaus Liechtenstein",
-      "url": "https://www.gmx.net/magazine/unterhaltung/adel/glanzvolle-hochzeit-fuerstenhaus-liechtenstein-41331140",
-      "image_url": "https://i0.gmx.net/image/142/41331142,pd=1,f=responsive169-w450/hochzeit-prinzessin-marie-caroline-liechtenstein.jpg"
+      "title": "Mango-Smoothie fliegt Influencerin um die Ohren",
+      "url": "https://www.gmx.net/magazine/panorama/videos/mango-smoothie-fliegt-influencerin-ohren-41333464",
+      "image_url": "https://i0.gmx.net/image/948/41334948,pd=1,h=170,w=300/explosion-kueche-mango-smoothie-fliegt-influenceri.jpg",
+      "image_title": "Explosion in der KÃ¼che: Mango-Smoothie fliegt Influencerin um die Ohren"
     },
     {
-      "title": "Mario Basler, warum macht man bei \"Deutschlands dümmster Promi\" mit?",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/mario-basler-deutschlands-duemmster-promi-41328558",
-      "image_url": "https://i0.gmx.net/image/660/41328660,pd=1,f=responsive169-w450/mario-basler.jpg"
+      "title": "SÃ¶der fordert \"harte Reformen\" beim Sozialstaat â Bas widerspricht dem Kanzler",
+      "teaser": "Der Sozialstaat soll im Zuge eines \"Herbsts der Reformen\" generalÃ¼berholt werden. Zumindest, wenn es nach der Union geht. CSU-Chef SÃ¶der will dabei auch nicht vor deutlichen LeistungskÃ¼rzungen zurÃ¼ckschrecken.",
+      "url": "https://www.gmx.net/magazine/politik/inland/soeder-harte-reformen-sozialstaat-41334218",
+      "image_url": "https://i0.gmx.net/image/220/41334220,pd=4,h=360,w=630/markus-soeder.jpg",
+      "image_title": "Markus SÃ¶der"
     },
     {
-      "title": "\"Die Promi Padel WM\": Diese Promis liefern sich ein Match",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/promi-padel-wm-promis-liefern-match-41335262",
-      "image_url": "https://i0.gmx.net/image/264/41335264,pd=1,f=responsive169-w450/younes-zarou-li-mischa-zverev-padel-wm.jpg"
+      "title": "Gouverneur: Trump plant \"Invasion mit US-Truppen\" in Chicago",
+      "url": "https://www.gmx.net/magazine/politik/us-politik/gouverneur-pritzker-trump-plant-invasion-us-truppen-chicago-41334902",
+      "image_url": "https://i0.gmx.net/image/974/41334974,pd=4,h=170,w=300.jpg"
     },
     {
-      "title": "Amira Aly über Job mit Christian Düren: \"Natürlich diskutiert man mal\"",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/amira-aly-job-christian-dueren-natuerlich-diskutiert-41335094",
-      "image_url": "https://i0.gmx.net/image/096/41335096,pd=1,f=responsive169-w450/amira-aly-christian-dueren-feiern-moderationsdebue.jpg"
+      "title": "Politik \"komplett atemlos\": Nouripour fordert Reform des deutschen Wahlkalenders",
+      "url": "https://www.gmx.net/magazine/politik/inland/politik-komplett-atemlos-nouripour-reform-deutschen-wahlkalenders-41334716",
+      "image_url": "https://i0.gmx.net/image/720/41334720,pd=4,h=170,w=300.jpg"
     },
     {
-      "title": "Christian Düren: \"Alessia Herren wird nie für den Nobelpreis nominiert werden\"",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/deutschlands-duemmster-promi-christian-dueren-alessia-herren-nobelpreis-nominiert-41334806",
-      "image_url": "https://i0.gmx.net/image/878/41334878,pd=2,f=responsive169-w450.jpg"
+      "title": "Kritik an Israel: 200 tote Journalisten in Gaza â RSF fordert Konsequenzen",
+      "url": "https://www.gmx.net/magazine/politik/nahostkonflikt/kritik-israel-200-tote-journalisten-gaza-rsf-konsequenzen-41328328",
+      "image_url": "https://i0.gmx.net/image/788/41328788,pd=2,h=170,w=300/gedenken-al-jazeera-journalist-anas-al-sharif.jpg",
+      "image_title": "Gedenken an Al-Jazeera-Journalist Anas Al-Sharif"
     },
     {
-      "title": "Das passiert heute in den Soaps",
-      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/passiert-soaps-41334850",
-      "image_url": "https://i0.gmx.net/image/852/41334852,pd=1,f=responsive169-w450/sturm-liebe-henry-l-maxi-treffen-wunschbrunnen-auf.jpg"
+      "title": "Fratzscher fordert \"Boomer-Soli\" und Generationenvertrag, \"der nicht spaltet\"",
+      "url": "https://www.gmx.net/magazine/politik/inland/fratzscher-boomer-soli-generationenvertrag-41335062",
+      "image_url": "https://i0.gmx.net/image/356/41335356,pd=2,h=170,w=300.jpg"
     },
     {
-      "title": "Andrea Sawatzki: Fragen zu meinem Alter haben mich verletzt",
-      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/andrea-sawatzki-fragen-alter-verletzt-41333166",
-      "image_url": "https://i0.gmx.net/image/252/41335252,pd=2,f=responsive169-w450.jpg"
+      "title": "Spahn und Miersch offen fÃ¼r Nutzung russischen VermÃ¶gens",
+      "url": "https://www.gmx.net/magazine/politik/videos/russland-krieg-ukraine/spahn-miersch-offen-russischen-vermoegens-41335420",
+      "image_url": "https://i0.gmx.net/image/418/41335418,pd=1,h=170,w=300/russisches-vermoegen-spahn-miersch-offen.jpg",
+      "image_title": "Russisches VermÃ¶gen: Spahn und Miersch offen fÃ¼r Nutzung"
     },
     {
-      "title": "Dieter Hallervorden wird 90: Die TV-Highlights seiner Geburtstagwoche",
-      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/dieter-hallervorden-90-tv-highlights-geburtstagwoche-41335486",
-      "image_url": "https://i0.gmx.net/image/488/41335488,pd=1,f=responsive169-w450/dieter-hallervorden-motorboot-privatinsel-nordfran.jpg"
+      "title": "Was steht in den Sternen? Was verrÃ¤t Ihr Horoskop?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/horoskop/",
+      "image_url": "https://i0.gmx.net/image/278/34340278,pd=3,h=170,w=300.jpg"
     },
     {
-      "title": "\"Sturm der Liebe\" im Jubiläumsjahr: Sommerpause vorbei!",
-      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/sturm-liebe-jubilaeumsjahr-sommerpause-41335372",
-      "image_url": "https://i0.gmx.net/image/374/41335374,pd=1,f=responsive169-w450/naechste-traumpaar-johanna-graen-anthony-paul-l-fr.jpg"
+      "title": "Spielen Sie hier das Original. Jetzt tippen!",
+      "url": "https://lotto.gmx.de/lotto-6-aus-49?partnerId=1GMHOMHPMD&advertisementId=4000000000000000LOTTO6AU4900010NI1234567891",
+      "image_url": "https://i0.gmx.net/image/886/38528886,pd=5,h=170,w=300.jpg"
     },
     {
-      "title": "Monster auf der Leinwand – und in der Wirklichkeit?",
-      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/monster-leinwand-wirklichkeit-41334572",
-      "image_url": "https://i0.gmx.net/image/574/41334574,pd=1,f=responsive169-w450/filmszene-the-wizard-of-the-kremlin.jpg"
+      "title": "Hier finden Sie alle Nachrichten aus Ihrer Region.",
+      "url": "https://www.gmx.net/magazine/regio/",
+      "image_url": "https://i0.gmx.net/image/556/38420556,pd=3,h=170,w=300/nachrichten-bundesland.png",
+      "image_title": "Hier finden Sie alle Nachrichten aus Ihrem Bundesland"
     },
     {
-      "title": "Jude Law: Keine Angst vor Putin",
-      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/jude-law-angst-putin-41332860",
-      "image_url": "https://i0.gmx.net/image/864/41332864,pd=2,f=responsive169-w450/internationale-filmfestspiele-venedig.jpg"
+      "title": "Ihre tÃ¤gliche Millionen-Chance und das kostenlos!",
+      "url": "https://millionenklick.gmx.net/?itp_name=hp.int.service.box",
+      "image_url": "https://i0.gmx.net/image/972/40827972,pd=2,h=170,w=300.jpg"
     },
     {
-      "title": "Sänger Van Morrison wird 80 und macht sein eigenes Ding",
-      "url": "https://www.gmx.net/magazine/unterhaltung/musik/saenger-van-morrison-80-ding-41331802",
-      "image_url": "https://i0.gmx.net/image/804/41331804,pd=1,f=responsive169-w450/saenger-van-morrison-80-ding.jpg"
+      "title": "Kostenloser Service fÃ¼r Ihre Reiseplanung - europaweit",
+      "url": "https://www.gmx.net/magazine/reise/routenplaner/",
+      "image_url": "https://i0.gmx.net/image/270/34340270,pd=4,h=170,w=300.jpg"
     },
     {
-      "title": "Coldplay müssen zwei Wembley-Konzerte verschieben",
-      "url": "https://www.gmx.net/magazine/unterhaltung/musik/coldplay-wembley-konzerte-verschieben-41330842",
-      "image_url": "https://i0.gmx.net/image/844/41330844,pd=1,f=responsive169-w450/chris-martin-coldplay-auftritt-wembley-stadion-wen.jpg"
+      "title": "Kronprinzessin Victoria gibt Einblicke in ihren Sommer mit der Familie",
+      "teaser": "Bevor sie ihr Offiziersstudium fortsetzt, konnte sich die schwedische Kronprinzessin Victoria im Kreise ihrer Familie entspannen. Der Palast hat einige Aufnahmen verÃ¶ffentlicht, die Einblick in den royalen Sommer geben.",
+      "url": "https://www.gmx.net/magazine/unterhaltung/adel/schweden-royals/kronprinzessin-victoria-einblicke-sommer-familie-41334560",
+      "image_url": "https://i0.gmx.net/image/562/41334562,pd=1,h=360,w=630/kronprinzessin-victoria-prinz-daniel-15-jahren-ver.jpg",
+      "image_title": "Kronprinzessin Victoria und Prinz Daniel sind seit 15 Jahren verheiratet und haben zwei Kinder."
     },
     {
-      "title": "Helge Schneider wird 70 - und macht weiter Quatsch und Musik",
-      "url": "https://www.gmx.net/magazine/unterhaltung/musik/helge-schneider-70-quatsch-musik-41329584",
-      "image_url": "https://i0.gmx.net/image/586/41329586,pd=1,f=responsive169-w450/helge-schneider-the-klimperclown.jpg"
-    },
-    {
-      "title": "Sabrina Carpenter treibt ihr Erfolgsrezept auf die Spitze",
-      "url": "https://www.gmx.net/magazine/unterhaltung/musik/sabrina-carpenter-treibt-erfolgsrezept-spitze-41329282",
-      "image_url": "https://i0.gmx.net/image/284/41329284,pd=1,f=responsive169-w450/bisschen-provokation-sabrina-carpenter-albumcover-.jpg"
-    },
-    {
-      "title": "Chiemsee Reggae Summer ist zurück: Das sind die ersten Acts",
-      "url": "https://www.gmx.net/magazine/unterhaltung/musik/chiemsee-reggae-summer-zurueck-acts-41328398",
-      "image_url": "https://i0.gmx.net/image/400/41328400,pd=1,f=responsive169-w450/langer-wartezeit-chiemsee-naechstes-jahr-reggae-fe.jpg"
-    },
-    {
-      "title": "Streamer stirbt während Livestream - Drake übernimmt Beerdigungskosten",
-      "url": "https://www.gmx.net/magazine/unterhaltung/internet/streamer-stirbt-waehrend-livestream-drake-uebernimmt-beerdigungskosten-41311806",
-      "image_url": "https://i0.gmx.net/image/026/41312026,pd=2,f=responsive169-w450/drake.jpg"
-    },
-    {
-      "title": "Vergessener Plüschhund Jack wird zum Internetstar",
-      "url": "https://www.gmx.net/magazine/unterhaltung/internet/vergessener-plueschhund-jack-internetstar-41303056",
-      "image_url": "https://i0.gmx.net/image/038/41303038,pd=4,f=responsive169-w450/plueschhund-jack-australien.jpg"
-    },
-    {
-      "title": "Das Internet ist ein Parasitenzüchter",
-      "url": "https://www.gmx.net/magazine/unterhaltung/internet/anja-ruetzel-rantet-internet-parasitenzuechter-41277948",
-      "image_url": "https://i0.gmx.net/image/040/41278040,pd=3,f=responsive169-w450/foto-twitchers-papaplatte-verleihung-1live-krone-b.jpg"
-    },
-    {
-      "title": "MontanaBlack sagt Gamescom-Auftritt ab",
-      "url": "https://www.gmx.net/magazine/unterhaltung/videos/internet/montanablack-gamescom-auftritt-41274792",
-      "image_url": "https://i0.gmx.net/image/794/41274794,pd=6,f=responsive169-w450/montanablack-gamescom-auftritt.jpg"
-    },
-    {
-      "title": "YouTube-Star MrBeast plant echte \"Hungerspiele\"",
-      "url": "https://www.gmx.net/magazine/unterhaltung/videos/internet/youtube-star-mrbeast-plant-echte-hungerspiele-41267692",
-      "image_url": "https://i0.gmx.net/image/694/41267694,pd=1,f=responsive169-w450/mrbeast-plant-echte-hungerspiele-toedliche-fallen.jpg"
-    },
-    {
-      "title": "Gamescom: Das waren die Highlights der Opening Night Live",
-      "url": "https://www.gmx.net/magazine/unterhaltung/gaming/gamescom-highlights-opening-night-live-41295684",
-      "image_url": "https://i0.gmx.net/image/686/41295686,pd=1,f=responsive169-w450/20-august-gamescom-opening-night-live-onl-feierten.jpg"
-    },
-    {
-      "title": "Welche Creatorinnen und Creatoren sind auf der Gamescom 2025?",
-      "url": "https://www.gmx.net/magazine/unterhaltung/videos/gaming/creatorinnen-creatoren-gamescom-2025-41290204",
-      "image_url": "https://i0.gmx.net/image/206/41290206,pd=1,f=responsive169-w450.jpg"
-    },
-    {
-      "title": "Gamescom 2025: Gaming-Messe geht auf Rekordjagd",
-      "url": "https://www.gmx.net/magazine/unterhaltung/gaming/gamescom-2025-gaming-messe-rekordjagd-41221744",
-      "image_url": "https://i0.gmx.net/image/746/41221746,pd=1,f=responsive169-w450/august-gamescom.jpg"
-    },
-    {
-      "title": "Warum gibt es keine anderen Nintendo-Charaktere in \"Mario Kart World\"?",
-      "url": "https://www.gmx.net/magazine/unterhaltung/videos/gaming/nintendo-charaktere-mario-kart-world-41162698",
-      "image_url": "https://i0.gmx.net/image/700/41162700,pd=1,f=responsive169-w450.jpg"
-    },
-    {
-      "title": "Paradies für \"World of Warcraft\"-Fans",
-      "url": "https://www.gmx.net/magazine/unterhaltung/videos/gaming/paradies-world-of-warcraft-fans-41111160",
-      "image_url": "https://i0.gmx.net/image/162/41111162,pd=1,f=responsive169-w450/world-of-warcraft-highlights-gamescom-2025.jpg"
-    },
-    {
-      "title": "Annie Ernaux wird 85: Chronistin des weiblichen Lebens",
-      "url": "https://www.gmx.net/magazine/unterhaltung/kultur/annie-ernaux-85-chronistin-weiblichen-lebens-41334260",
-      "image_url": "https://i0.gmx.net/image/262/41334262,pd=1,f=responsive169-w450/literaturnobelpreistraegerin-annie-ernaux.jpg"
-    },
-    {
-      "title": "Berliner Buchstabenmuseum nur noch wenige Wochen offen",
-      "url": "https://www.gmx.net/magazine/unterhaltung/kultur/berliner-buchstabenmuseum-wochen-offen-41331824",
-      "image_url": "https://i0.gmx.net/image/826/41331826,pd=1,f=responsive169-w450/buchstabenmuseum-schliessung.jpg"
-    },
-    {
-      "title": "Die \"singende Herrentorte\" wird 70",
-      "url": "https://www.gmx.net/magazine/unterhaltung/kultur/helge-schneider-singende-herrentorte-70-35024824",
-      "image_url": "https://i0.gmx.net/image/740/35024740,pd=6,f=responsive169-w450/helge-schneider.jpg"
-    },
-    {
-      "title": "\"Genie und Weltklassiker\": Rodion Schtschedrin gestorben",
-      "url": "https://www.gmx.net/magazine/unterhaltung/kultur/bolschoi-theater-russischer-komponist-schtschedrin-tot-41326048",
-      "image_url": "https://i0.gmx.net/image/350/41326350,pd=1,f=responsive169-w450/rodion-schtschedrin.jpg"
-    },
-    {
-      "title": "Diskussionsthema - wie immer: der Bierpreis",
-      "url": "https://www.gmx.net/magazine/unterhaltung/videos/kultur/diskussionsthema-bierpreis-41324764",
-      "image_url": "https://i0.gmx.net/image/766/41324766,pd=2,f=responsive169-w450/bunte-vorfreude-oktoberfest.jpg"
+      "title": "Cate Blanchett flattert in Venedig Ã¼ber den roten Teppich",
+      "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/vogelfedernkleid-cate-blanchett-flattert-venedig-roten-teppich-41335326",
+      "image_url": "https://i0.gmx.net/image/466/41335466,pd=5,h=170,w=300/cate-blanchett.jpg",
+      "image_title": "Cate Blanchett"
     },
     {
       "title": "Georgina Rodriguez zeigt in Venedig stolz ihren Verlobungsring",
       "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/georgina-rodriguez-zeigt-venedig-stolz-verlobungsring-41334930",
-      "image_url": "https://i0.gmx.net/image/932/41334932,pd=1,f=responsive169-w450/haende-hoehe-georgina-rodriguez-lenkte-blicke-fing.jpg"
+      "image_url": "https://i0.gmx.net/image/932/41334932,pd=1,h=170,w=300/haende-hoehe-georgina-rodriguez-lenkte-blicke-fing.jpg",
+      "image_title": "HÃ¤nde in die HÃ¶he: Georgina Rodriguez lenkte die Blicke auf ihre Finger."
     },
     {
-      "title": "Palina Rojinski: \"Die schönsten Komplimente kommen von anderen Frauen\"",
-      "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/palina-rojinski-schoensten-komplimente-frauen-41335136",
-      "image_url": "https://i0.gmx.net/image/138/41335138,pd=1,f=responsive169-w450/palina-rojinski-posiert-selbstbewusst-lingerie-kol.jpg"
+      "title": "Endlich fix: Harald Juhnke wird mit Platz in Berlin geehrt",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/endlich-fix-harald-juhnke-platz-berlin-41335720",
+      "image_url": "https://i0.gmx.net/image/722/41335722,pd=1,h=170,w=300/harald-juhnke-spree-sinatra-unvergessen-berlin-eri.jpg",
+      "image_title": "Harald Juhnke ist als \"Spree-Sinatra\" unvergessen. Berlin erinnert ab 1. September mit einem ..."
     },
     {
-      "title": "Fashion-Ausblick: Diese Teile gehören in die Herbstgarderobe",
-      "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/fashion-ausblick-gehoeren-herbstgarderobe-41333784",
-      "image_url": "https://i0.gmx.net/image/786/41333786,pd=1,f=responsive169-w450/sogenannte-slouchy-boots-herbst-hellen-strickpulli.jpg"
+      "title": "Sky du Mont: \"Ich mÃ¶chte selbst bestimmen, wann ich gehe\"",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/sky-mont-moechte-bestimmen-gehe-41334940",
+      "image_url": "https://i0.gmx.net/image/996/41334996,pd=2,h=170,w=300/sky-mont.jpg",
+      "image_title": "Sky Du Mont"
     },
     {
-      "title": "Prinzessin Dianas Nichten setzen auf Transparenz",
-      "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/glamour-venedig-prinzessin-dianas-nichten-bezaubern-partnerlook-41333414",
-      "image_url": "https://i0.gmx.net/image/416/41333416,pd=1,f=responsive169-w450/lady-amelia-lady-eliza-spencer-roten-teppich-vened.jpg"
+      "title": "Sebastian StrÃ¶bel und Friederike Linke: Neuer LÃ¼beck-Krimi fÃ¼r RTL",
+      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/sebastian-stroebel-friederike-linke-luebeck-krimi-rtl-41335628",
+      "image_url": "https://i0.gmx.net/image/630/41335630,pd=1,h=170,w=300/sebastian-stroebel-friederike-linke-hauptrollen-rt.jpg",
+      "image_title": "Sebastian StrÃ¶bel und Friederike Linke spielen die Hauptrollen im RTL-Film \"Einsatz Seeler - Ein ..."
     },
     {
-      "title": "Stilsicher in Venedig: Mads Mikkelsen mit Ehefrau bei Premiere",
-      "url": "https://www.gmx.net/magazine/unterhaltung/lifestyle/stilsicher-venedig-mads-mikkelsen-ehefrau-premiere-41333024",
-      "image_url": "https://i0.gmx.net/image/026/41333026,pd=1,f=responsive169-w450/25-jahren-verheiratet-hanne-jacobsen-mads-mikkelse.jpg"
+      "title": "Transferposse: Jackson-Wechsel nun doch wieder mÃ¶glich",
+      "teaser": "Nur noch bis heute Abend haben die meisten europÃ¤ischen Klubs Zeit, Spieler fÃ¼r die bereits laufende Saisons abzugeben oder neu zu verpflichten. Wer schlÃ¤gt nochmal auf dem Transfermarkt zu? Der Deadline-Day im Liveticker.",
+      "url": "https://www.gmx.net/magazine/sport/fussball/transferticker/deadline-day-jackson-wechsel-fc-bayern-moeglich-41037596",
+      "image_url": "https://i0.gmx.net/image/720/41314720,pd=2,h=360,w=630/nicolas-jackson.jpg",
+      "image_title": "Nicolas Jackson"
     },
     {
-      "title": "Nachrichten sind langweilig und dröge? Es kommt auf den Blickwinkel an",
+      "title": "Luis SuÃ¡rez sorgt mal wieder fÃ¼r Eklat",
+      "url": "https://www.gmx.net/magazine/sport/fussball/international/luis-suarez-sorgt-finalpleite-mls-eklat-41334812",
+      "image_url": "https://i0.gmx.net/image/100/41335100,pd=1,h=170,w=300/seattle-sounders-inter-miami.jpg",
+      "image_title": "Seattle Sounders - Inter Miami"
+    },
+    {
+      "title": "Einer tickt wie Schumacher, der andere nicht",
+      "url": "https://www.gmx.net/magazine/sport/formel-1/wm-duell-norris-piastri-tickt-schumacher-41334520",
+      "image_url": "https://i0.gmx.net/image/532/41334532,pd=1,h=170,w=300/lando-norris-oscar-piastri.jpg",
+      "image_title": "Lando Norris (links) und Oscar Piastri"
+    },
+    {
+      "title": "Bayern im Pokal nach KÃ¶ln - Top-Duell Frankfurt gegen BVB",
+      "url": "https://www.gmx.net/magazine/sport/fussball/dfb-pokal/bayern-pokal-koeln-top-duell-frankfurt-bvb-41333828",
+      "image_url": "https://i0.gmx.net/image/830/41333830,pd=2,h=170,w=300/arminia-bielefeld-vfb-stuttgart.jpg",
+      "image_title": "Arminia Bielefeld - VfB Stuttgart"
+    },
+    {
+      "title": "Liverpool gewinnt Topspiel dank Geniestreich",
+      "url": "https://www.gmx.net/magazine/sport/fussball/international/liverpool-gewinnt-topspiel-geniestreich-41333818",
+      "image_url": "https://i0.gmx.net/image/820/41333820,pd=2,h=170,w=300/fc-liverpool-fc-arsenal.jpg",
+      "image_title": "FC Liverpool - FC Arsenal"
+    },
+    {
+      "title": "Nach KrÃ¤mpfen: Wirtz bei Nationalteam eingetroffen",
+      "url": "https://www.gmx.net/magazine/sport/fussball/nationalmannschaft/kraempfen-wirtz-nationalteam-eingetroffen-41335736",
+      "image_url": "https://i0.gmx.net/image/738/41335738,pd=1,h=170,w=300/florian-wirtz.jpg",
+      "image_title": "Florian Wirtz"
+    },
+    {
+      "title": "Ballast loswerden: Diese Sternzeichen sollten mal wieder ausmisten",
+      "url": "https://www.gmx.net/magazine/unterhaltung/sternzeichen/sternzeichen-altem-ballast-befreien-41046372"
+    },
+    {
+      "title": "Herbst 2025: Diese Sternzeichen erleben groÃe GlÃ¼cksmomente",
+      "url": "https://www.gmx.net/magazine/unterhaltung/sternzeichen/sternzeichen-erleben-goldenen-herbst-2025-41268600"
+    },
+    {
+      "title": "\"Die Sprache verschwindet\": Bruce Willis lebt nicht mehr zu Hause",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/sprache-verschwindet-bruce-willis-lebt-hause-41321434"
+    },
+    {
+      "title": "Patrice Aminati hat neue Therapie gegen Krebserkrankung begonnen",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/patrice-aminati-therapie-krebserkrankung-41321466"
+    },
+    {
+      "title": "Heidi Klum und Tochter Leni glÃ¤nzen in Korsettkleidern",
+      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/heidi-klum-tochter-leni-glaenzen-korsettkleidern-wette-41321294"
+    },
+    {
+      "title": "Warum viele Touristen in Japan ihre leeren GepÃ¤ckstÃ¼cke stehen lassen",
+      "url": "https://www.gmx.net/magazine/reise/touristen-koffer-japan-zurueck-41322798"
+    },
+    {
+      "title": "Diese Sternzeichen neigen zum Fremdgehen",
+      "url": "https://www.gmx.net/magazine/unterhaltung/sternzeichen/sternzeichen-anfaelligsten-untreue-41088826"
+    },
+    {
+      "title": "Diese Sternzeichen sind besonders extrovertiert",
+      "url": "https://www.gmx.net/magazine/unterhaltung/sternzeichen/extrovertierte-sternzeichen-blicke-41179464"
+    },
+    {
+      "title": "Welche ErnÃ¤hrungsweise passt zu welchem Sternzeichen?",
+      "url": "https://www.gmx.net/magazine/unterhaltung/sternzeichen/sternzeichen-ernaehrung-greift-veganen-optionen-40993522"
+    },
+    {
+      "title": "Lotto sucht gleich zwei Millionengewinner im selben Bundesland",
+      "url": "https://www.gmx.net/magazine/panorama/lotto/lottomillionaere-selben-bundesland-gesucht-41312474"
+    },
+    {
+      "title": "Mit diesen Tipps blÃ¼ht die Begonie auf",
+      "url": "https://www.gmx.net/magazine/ratgeber/haus-garten/begonie-pflegen-tipps-blueht-41190742"
+    },
+    {
+      "title": "Die 100 besten Filme des 21. Jahrhunderts â laut der \"New York Times\"",
+      "url": "https://www.gmx.net/magazine/unterhaltung/filme-serien-kino/100-besten-filme-21-jahrhunderts-new-york-times-41279552"
+    },
+    {
+      "title": "Der giftigste Garten der Welt liegt in England â und kann sogar besucht werden",
+      "url": "https://www.gmx.net/magazine/reise/giftigste-garten-welt-england-besucht-41315748"
+    },
+    {
+      "title": "Totale Mondfinsternis macht Maismond zum Blutmond",
+      "url": "https://www.gmx.net/magazine/wissen/weltraum/totale-mondfinsternis-september-heisst-roter-maismond-41315080"
+    },
+    {
+      "title": "Mats Hummels und seine Freundin feiern im VIP-Bereich",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/mats-hummels-feiert-techno-festival-promis-41315530"
+    },
+    {
+      "title": "Tagesgeldkonto",
+      "teaser": "Ãber 2,5% Zinsen pro Jahr mit einem Tagesgeldkonto sichern.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/tagesgeldkonto/?mc=85000314",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Geldanlage/Tagesgeld-Vergleich/gmx_hp-modul_tagesgeld.jpg",
+      "image_title": "Tagesgeldkonto: Mann mit anwachsendem MÃ¼nzstapel"
+    },
+    {
+      "title": "Girokonto",
+      "teaser": "Kostenloses Girokonto mit 75 â¬ Startguthaben sichern!",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/konto-und-karte/girokonto/?mc=85000001",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Konto-und-Karte/Girokonto-Vergleich/gmx_hp-modul_girokonto.jpg",
+      "image_title": "Girokontovergleich: Mann beim Geldabheben am Automat"
+    },
+    {
+      "title": "Kreditkarte",
+      "teaser": "Die besten kostenlosen Kreditkarten im Vergleich. Willkommensbonus sichern!",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/konto-und-karte/kreditkarte/?mc=85000002",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Konto-und-Karte/Kreditkarten-Vergleich/gmx_hp-modul_kreditkarte.jpg",
+      "image_title": "Paar mit Kreditkarte und Laptop"
+    },
+    {
+      "title": "Depot",
+      "teaser": "Ein kostenloses Depot beim Online-Broker oder ein Wertpapierdepot bei der Hausbank? Hier Konditionen vergleichen.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/depot/?mc=85000003",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/GMX/Finanzen/Geldanlage/Depot-Vergleich/gmx_hp-modul_depot.jpg",
+      "image_title": "Depotvergleich: Aktienkurse auf Bildschirm und Laptop"
+    },
+    {
+      "title": "WEB.Cent Kreditkarte",
+      "teaser": "0 â¬ JahresgebÃ¼hr, 0,5 % Cashback auf jeden Ihrer EinkÃ¤ufe + Reiseversicherungen â jetzt Willkommens-Cashback sichern!",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/webcentcard_gmx/webcent_kreditkarte_gmx/#.hp.vergleichswelt",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/gmxnet/WEB.Cent Kreditkarte/gmx_hp-modul.jpg"
+    },
+    {
+      "title": "Fremdsprachen lernen",
+      "teaser": "Jetzt eine neue Sprache fÃ¼r Ihren Urlaub lernen! Aus 19 verschiedenen Sprachen den besten Anbieter im Vergleich finden.",
+      "url": "https://www.gmx.net/vergleichswelt/bildung/fremdsprachen/?mc=85500012",
+      "image_url": "https://img.ui-portal.de/Vergleichswelt/gmxnet/Bildung/Fremdsprachen/Frau_Paris.jpg",
+      "image_title": "Frau steht vor dem Eifelturm in Paris"
+    },
+    {
+      "title": "Ãber 2,5% Zinsen pro Jahr mit einem Tagesgeldkonto sichern.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/tagesgeldkonto/?mc=85000315"
+    },
+    {
+      "title": "Kostenloses Girokonto mit 75 â¬ Startguthaben sichern.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/konto-und-karte/girokonto/?mc=85000007"
+    },
+    {
+      "title": "Jetzt eine neue Sprache fÃ¼r Ihren Urlaub lernen!",
+      "url": "https://www.gmx.net/vergleichswelt/bildung/fremdsprachen/?mc=85500009"
+    },
+    {
+      "title": "Kostenlose Kreditkarte und Willkommensbonus sichern.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/konto-und-karte/kreditkarte/?mc=85000380"
+    },
+    {
+      "title": "Cashback fÃ¼r jeden Einkauf + 0 â¬ JahresgebÃ¼hr",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/webcentcard_gmx/webcent_kreditkarte_gmx/#.hp.vergleichswelt.top"
+    },
+    {
+      "title": "Holen Sie an einer Fernschule Ihr Abitur nach.",
+      "url": "https://www.gmx.net/vergleichswelt/bildung/abitur/?mc=85500010"
+    },
+    {
+      "title": "Depots bei Online-Brokern und Banken vergleichen. Oft mit Neukundenbonus!",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/depot/?mc=85000008"
+    },
+    {
+      "title": "Machen Sie den Bachelor und starten Sie Ihre Karriere!",
+      "url": "https://www.gmx.net/vergleichswelt/bildung/bachelor/?mc=85500011"
+    },
+    {
+      "title": "Planbarer VermÃ¶gensaufbau. Garantierter Zinssatz fÃ¼r feste Laufzeiten.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/geldanlage/festgeld/?mc=85000427"
+    },
+    {
+      "title": "Ratenkredite vergleichen und unverbindlich berechnen.",
+      "url": "https://www.gmx.net/vergleichswelt/finanzen/kredite-und-finanzierung/ratenkredit/?mc=85000429"
+    },
+    {
+      "title": "Ãber 1,5 Millionen Menschen in Pakistan von Ãberflutungen betroffen",
+      "teaser": "Von den Ãberschwemmungen im Nordosten Pakistans sind Regierungsangaben zufolge rund 1,5 Millionen Menschen betroffen. In der diesjÃ¤hrigen Monsunsaison kamen bereits mehr als 800 Menschen ums Leben.",
+      "url": "https://www.gmx.net/magazine/panorama/videos/15-millionen-menschen-pakistan-ueberflutungen-betroffen-41335490",
+      "image_url": "https://i0.gmx.net/image/492/41335492,pd=2,h=360,w=630/pakistan-katastrophale-ueberschwemmungen.jpg",
+      "image_title": "Pakistan: Katastrophale ÃberschwemmungenÂ"
+    },
+    {
+      "title": "SÃ¼dkorea ruft Katastrophenfall wegen DÃ¼rre aus",
+      "url": "https://www.gmx.net/magazine/panorama/videos/suedkorea-ruft-katastrophenfall-duerre-41335152",
+      "image_url": "https://i0.gmx.net/image/154/41335154,pd=1,h=170,w=300/suedkorea-katastrophenfall-duerre.jpg",
+      "image_title": "SÃ¼dkorea: Katastrophenfall wegen DÃ¼rre"
+    },
+    {
+      "title": "SojasoÃen-Fische aus Plastik in SÃ¼daustralien verboten",
+      "url": "https://www.gmx.net/magazine/panorama/sojasossen-fische-plastik-suedaustralien-verboten-41335236",
+      "image_url": "https://i0.gmx.net/image/238/41335238,pd=1,h=170,w=300/sojasossen-behaelter-fischform.jpg",
+      "image_title": "SojasoÃen-BehÃ¤lter in Fischform"
+    },
+    {
+      "title": "Drei Motorradfahrer nach Frontalkollision schwer verletzt",
+      "url": "https://www.gmx.net/magazine/panorama/videos/motorradfahrer-frontalkollision-schwer-verletzt-41334830",
+      "image_url": "https://i0.gmx.net/image/828/41334828,pd=1,h=170,w=300/unterfranken-verletzte-motorradfahrer-frontalkolli.jpg",
+      "image_title": "Unterfranken: Drei verletzte Motorradfahrer nach Frontalkollision"
+    },
+    {
+      "title": "Mann aus Pennsylvania kÃ¤mpft um seine Achterbahn im eigenen Garten",
+      "url": "https://www.gmx.net/magazine/panorama/videos/pennsylvania-kaempft-achterbahn-garten-41334774",
+      "image_url": "https://i0.gmx.net/image/770/41334770,pd=2,h=170,w=300/spassbremsen-rathaus-pennsylvania-kaempft-achterba.jpg",
+      "image_title": "SpaÃbremsen im Rathaus: Mann aus Pennsylvania kÃ¤mpft um Achterbahn im Garten"
+    },
+    {
+      "title": "Autofahrer durchbricht Schranke â dann kommt ein Zug",
+      "url": "https://www.gmx.net/magazine/panorama/videos/autofahrer-durchbricht-schranke-zug-41334666",
+      "image_url": "https://i0.gmx.net/image/650/41334650,pd=2,h=170,w=300/schranke-durchbrochen-autofahrer-ueberlebt-heftige.jpg",
+      "image_title": "Schranke durchbrochen: Autofahrer Ã¼berlebt heftigen Zug-Crash"
+    },
+    {
+      "title": "Party Casino",
+      "teaser": "Rocke im August zusammen mit der PartyschildkrÃ¶te den neuen Monatskalender! Schnapp dir jeden Tag tolle Gewinne und Boni! Starte noch heute!",
+      "url": "https://games.gmx.net/casino-spiele/kalender_partyschildkroete?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Jackpotde/Kalender_Specials/August_Partyschildkroete/960x540_Homepagemodul.jpg",
+      "image_title": "PartyschildkrÃ¶te steht vor Jackpot Slot Machine mit Casino Chips"
+    },
+    {
+      "title": "Super Duper Moorhuhn",
+      "teaser": "Gehe auf die groÃe Jackpot-Jagd mit dem Kult-Federvieh! Das Moorhuhn begleitet dich dabei und hilft dir dabei, den Jackpot zu knacken!",
+      "url": "https://games.gmx.net/casino-spiele/super-duper-moorhuhn?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Jackpotde/Moorhuhn-Teaser-Test_960x540.jpg",
+      "image_title": "Super Duper Moorhuhn Slot Maschine"
+    },
+    {
+      "title": "Mary Vegas",
+      "teaser": "Tolle Jackpots, zahlreiche Events, tolle Community-Features und jede Menge bekannter und beliebter Slot-Machines! Spiele in der schillernden Las-Vegas-Welt!",
+      "url": "https://games.gmx.net/casino-spiele/mary-vegas?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Jackpotde/MaryVegas/MaryVegas_HP.jpg",
+      "image_title": "Gezeichnete Frau im Abendkleid steht vor Casinos und einer Slotmachine"
+    },
+    {
+      "title": "Moorhuhn-Shooter",
+      "teaser": "Das beliebte Moorhuhn fliegt in die nÃ¤chste Runde - und das kann sich fÃ¼r dich nun richtig lohnen! Jedes abgeschossene VÃ¶gelchen verwandelt sich direkt in Gewinne!",
+      "url": "https://games.gmx.net/casino-spiele/moorhuhn-shooter?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Jackpotde/Moorhuhn Shooter/Moorhuhnshooter_teaser_960x540.jpg",
+      "image_title": "Moorhuhn Shooter Teaser Grafik das Moorhuhn fliegt vor einer Jackpot Slot Machine"
+    },
+    {
+      "title": "Lady Popular",
+      "teaser": "Gestalte deinen Style, gewinne Fashion-Battles und finde die groÃe Liebe â in Lady Popular erwartet dich dein ganz persÃ¶nliches Mode-MÃ¤rchen. Starte noch heute!",
+      "url": "https://games.gmx.net/simulation/lady-popular?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/XsSoftware/LadyPopular/neu_ab_2025/Homepagemodul/960x540.jpg",
+      "image_title": "Fashion Arena Lady Popular Zwei Frauen in schicken Kleidern"
+    },
+    {
+      "title": "Sommer-SpaÃ mit dem Moorhuhn",
+      "teaser": "Schnapp dir deine Sonnenbrille und stÃ¼rz dich mit dem Moorhuhn in ein sommerliches Slot-Abenteuer voller SpaÃ, Spannung und Gewinnchancen! Jetzt drehen und abrÃ¤umen!",
+      "url": "https://games.gmx.net/casino-spiele/sommer-moorhuhn?mc=05577051",
+      "image_url": "https://img.ui-portal.de/games/spiele/Jackpotde/Moorhuhn/Saisonales_Moorhuhn/2025/Sommer_Moorhuhn/1x1_960x540_Homepagemodul.jpg",
+      "image_title": "Sommer Moorhuhn im Pool mit einem Cocktails und ganz vielen Casino Chips."
+    },
+    {
+      "title": "TÃ¤glich neue Belohnungen erwarten dich im August!",
+      "url": "https://games.gmx.net/casino-spiele/kalender_partyschildkroete?mc=01551356"
+    },
+    {
+      "title": "Knacke zusammen mit dem Moorhuhn den Sommer-Jackpot!",
+      "url": "https://games.gmx.net/casino-spiele/sommer-moorhuhn?mc=01551356"
+    },
+    {
+      "title": "Gestalte jetzt dein Traumleben voller Glamour und Stil!",
+      "url": "https://games.gmx.net/simulation/lady-popular?mc=01551356"
+    },
+    {
+      "title": "Zusammen mit dem Moorhuhn knackst du den Jackpot!",
+      "url": "https://games.gmx.net/casino-spiele/golden-ei-of-moorhuhn/?mc=01551356"
+    },
+    {
+      "title": "FrÃ¼hling beim GÃ¤rtner-Kult-Game Wurzelimperium 2!",
+      "url": "https://games.gmx.net/simulation/wurzelimperium-2/?mc=01551356"
+    },
+    {
+      "title": "Teste dein Wissen und knacke dabei den Jackpot!",
+      "url": "https://games.gmx.net/casino-spiele/wer-wird-millionaer?mc=01551356"
+    },
+    {
+      "title": "Strategie und Geschick beweisen in Iron Order 1919!",
+      "url": "https://games.gmx.net/strategie/iron-order?mc=01551356"
+    },
+    {
+      "title": "Hol dir jetzt das kostenlose Bonus-Paket in Zoo 2!",
+      "url": "https://games.gmx.net/simulation/zoo-2-animal-park/?mc=01551356"
+    },
+    {
+      "title": "Leite deinen eigenen Bauernhof ganz nach deinen WÃ¼nschen!",
+      "url": "https://games.gmx.net/strategie/farmerama?mc=01551356"
+    },
+    {
+      "title": "Kombinieren Sie die SÃ¼Ãigkeiten!",
+      "url": "https://games.gmx.net/minigames/candy-fiesta"
+    },
+    {
+      "title": "Wie Sie Pizza vom Vortag wieder aufwÃ¤rmen â und sie noch schmeckt",
+      "url": "https://www.gmx.net/magazine/ratgeber/videos/essen-trinken/pizza-vortag-aufwaermen-schmeckt-40493620",
+      "image_url": "https://i0.gmx.net/image/622/40493622,pd=2,h=170,w=300/pizza-vortag-genuss.jpg",
+      "image_title": "So wird Pizza vom Vortag wieder zum Genuss"
+    },
+    {
+      "title": "Deshalb sollten Sie einen Schwamm in den KÃ¼hlschrank legen",
+      "url": "https://www.gmx.net/magazine/ratgeber/videos/haus-garten/schwamm-kuehlschrank-41320528",
+      "image_url": "https://i0.gmx.net/image/530/41320530,pd=3,h=170,w=300/einfacher-trick-schwamm-kuehlschrank.jpg",
+      "image_title": "Ein einfacher Trick: Warum Sie einen Schwamm im KÃ¼hlschrank brauchen"
+    },
+    {
+      "title": "Dank dieser Falttechnik fÃ¤llt der Wrap nicht mehr stÃ¤ndig auseinander",
+      "url": "https://www.gmx.net/magazine/ratgeber/videos/essen-trinken/wraps-richtig-falten-fallen-staendig-auseinander-38900638",
+      "image_url": "https://i0.gmx.net/image/640/38900640,pd=3,h=170,w=300/schritt-schritt-erklaert-wraps-richtig-falten.jpg",
+      "image_title": "Schritt fÃ¼r Schritt erklÃ¤rt: Wraps richtig falten"
+    },
+    {
+      "title": "Bei fleckigem Silberbesteck sind Spezialreiniger unnÃ¶tig",
+      "url": "https://www.gmx.net/magazine/ratgeber/videos/haus-garten/fleckigem-silberbesteck-spezialreiniger-unnoetig-39753542",
+      "image_url": "https://i0.gmx.net/image/544/39753544,pd=3,h=170,w=300/silberbesteck-besteckschublade.jpg",
+      "image_title": "Silberbesteck in einer Besteckschublade"
+    },
+    {
+      "title": "MÃ¤dchen wissen weniger Ã¼ber Wirtschaft als Jungen - Forscher warnen vor Folgen",
+      "teaser": "Eine Untersuchung zeigt: Schon in der Schule wissen MÃ¤dchen weniger Ã¼ber Geld als Jungen. Die Forscherinnen warnen vor den Folgen.",
+      "url": "https://www.gmx.net/magazine/ratgeber/kind-familie/maedchen-wissen-wirtschaft-jungen-forscher-warnen-folgen-41325482",
+      "image_url": "https://i0.gmx.net/image/568/41335568,pd=1,h=360,w=630/schule.jpg",
+      "image_title": "Schule"
+    },
+    {
+      "title": "Zwiebelmettwurst wegen Ehec-Gefahr zurÃ¼ckgerufen",
+      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/zwiebelmettwurst-ehec-gefahr-zurueckgerufen-41319470",
+      "image_url": "https://i0.gmx.net/image/298/41335298,pd=1,h=170,w=300/wursttheke.jpg",
+      "image_title": "Mann an Wursttheke"
+    },
+    {
+      "title": "Das ist neu im September",
+      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/spotify-preise-warntag-geld-azubis-september-41311956",
+      "image_url": "https://i0.gmx.net/image/854/41327854,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Kein nerviges Abziehen mehr: So bekommen Sie Trauben in Sekunden vom Stiel",
+      "url": "https://www.gmx.net/magazine/ratgeber/haus-garten/bekommen-trauben-sekunden-stiel-40304864",
+      "image_url": "https://i0.gmx.net/image/048/41335048,pd=3,h=170,w=300/weintraube.jpg",
+      "image_title": "Frau zieht eine Weintraube ab"
+    },
+    {
+      "title": "Wie Sie jetzt den Grundstein fÃ¼r einen prachtvollen Garten im FrÃ¼hjahr legen",
+      "url": "https://www.gmx.net/magazine/ratgeber/haus-garten/grundstein-prachtvollen-garten-fruehjahr-41257446",
+      "image_url": "https://i0.gmx.net/image/400/41257400,pd=2,h=170,w=300/blaetter.jpg",
+      "image_title": "BlÃ¤tter"
+    },
+    {
+      "title": "VerbraucherschÃ¼tzer verklagen Hersteller Mondelez â und fordern neue Gesetze",
+      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/verbraucherschuetzer-verklagen-mondelez-gesetze-41334294",
+      "image_url": "https://i0.gmx.net/image/566/41334566,pd=9,h=170,w=300/milka-schokolade-supermarkt.jpg",
+      "image_title": "Milka Schokolade im Supermarkt"
+    },
+    {
+      "title": "Sieht harmlos auf, bis er das Maul Ã¶ffnet: der Mittelmeer-DrÃ¼ckerfischÂ",
+      "teaser": "Etwa 40 DrÃ¼ckerfisch-Arten schwimmen in den Meeren dieser Welt. Auch im Mittelmeer gibt es eine Art. Die Fische mit dem starken Kiefer und groÃen ZÃ¤hnen werden immer wieder mit Angriffen in Verbindung gebracht.",
+      "url": "https://www.gmx.net/magazine/wissen/tiere/harmlos-maul-oeffnet-mittelmeer-drueckerfisch-41312206",
+      "image_url": "https://i0.gmx.net/image/458/41312458,pd=2,h=360,w=630/mittelmeer-drueckerfisch.jpg",
+      "image_title": "Mittelmeer-DrÃ¼ckerfisch"
+    },
+    {
+      "title": "Totale Mondfinsternis nÃ¤chsten Sonntag hat einen Haken",
+      "url": "https://www.gmx.net/magazine/wissen/weltraum/totale-mondfinsternis-naechsten-sonntag-haken-41332376",
+      "image_url": "https://i0.gmx.net/image/378/41332378,pd=2,h=170,w=300/totale-mondfinsternis.jpg",
+      "image_title": "Totale Mondfinsternis"
+    },
+    {
+      "title": "Roboter hat einen Aussetzer und bekommt einen \"Trotzanfall\"",
+      "url": "https://www.gmx.net/magazine/wissen/videos/wissenschaft-technik/roboter-aussetzer-bekommt-trotzanfall-41334474",
+      "image_url": "https://i0.gmx.net/image/492/41334492,pd=1,h=170,w=300.png"
+    },
+    {
+      "title": "BÃ¤r scheitert an widerspenstiger HÃ¤ngematte",
+      "url": "https://www.gmx.net/magazine/wissen/videos/tiere/baer-scheitert-widerspenstiger-haengematte-41334462",
+      "image_url": "https://i0.gmx.net/image/994/41334994,pd=1,h=170,w=300/widerspenstige-haengematte-baer-veranstaltet-spekt.jpg",
+      "image_title": "Widerspenstige HÃ¤ngematte: BÃ¤r veranstaltet Spektakel in Garten"
+    },
+    {
+      "title": "Letzte Chance, sie zu sehen: Bald macht sich dieser Vogel auf seine groÃe Reise",
+      "url": "https://www.gmx.net/magazine/wissen/tiere/schwalben-grosse-reise-41324656",
+      "image_url": "https://i0.gmx.net/image/674/41324674,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Welche WÃ¼nsche des Brautpaars man bei der Hochzeit unbedingt beachten sollte",
+      "url": "https://www.gmx.net/magazine/liebe-partnerschaft/wuensche-brautpaars-beachten-41190592",
+      "image_url": "https://i0.gmx.net/image/744/41190744,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "So wird das nix mit dem Klassenerhalt",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/nix-klassenerhalt-41330182",
+      "image_url": "https://i0.gmx.net/image/196/41330196,pd=2,h=170,w=300/merlin-polzin.jpg",
+      "image_title": "Merlin Polzin"
+    },
+    {
+      "title": "Zu hohe Miete fÃ¼r mÃ¶blierte Wohnung? So kÃ¶nnen Sie sich wehren",
+      "url": "https://www.gmx.net/magazine/ratgeber/finanzen-verbraucher/hohe-miete-moeblierte-wohnung-wehren-41324470",
+      "image_url": "https://i0.gmx.net/image/624/41324624,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Familiennachzug und KriminalitÃ¤t: CDU suggeriert Zusammenhang, den es nicht gibt",
+      "url": "https://www.gmx.net/magazine/politik/familiennachzug-kriminalitaet-cdu-suggeriert-zusammenhang-41315932",
+      "image_url": "https://i0.gmx.net/image/370/41316370,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Gute Influencer: Ja, es gibt sie!",
+      "url": "https://www.gmx.net/magazine/digital/influencer-urteilen-41312920",
+      "image_url": "https://i0.gmx.net/image/138/41313138,pd=3,h=170,w=300/creatorin-arbeit.jpg",
+      "image_title": "Content-Creatorin bei der Arbeit"
+    },
+    {
+      "title": "Ein RÃ¼ckschlag fÃ¼r Bayern MÃ¼nchen und die Bundesliga",
+      "url": "https://www.gmx.net/magazine/sport/fussball/bundesliga/woltemade-abgang-rueckschlag-bayern-muenchen-bundesliga-41327910",
+      "image_url": "https://i0.gmx.net/image/978/41327978,pd=2,h=170,w=300/nick-woltemade.jpg",
+      "image_title": "Nick Woltemade"
+    },
+    {
+      "title": "Sommer-Sale: GroÃer Abverkauf mit Angeboten mit bis zu 72% Rabatt auf MÃ¶bel, Garten und Einrichtung",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/poco/poco_shop/#.hp.int.produktbox.poco",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2025/gmx_poco_hpt_m.jpg"
+    },
+    {
+      "title": "Lauft nicht, rennt: Pop Mart Labubu Sammelfiguren bei otto",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/otto/otto_onlineshop/#.hp.int.produktbox.otto",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2025/gmx_otto_labubu_hpt_s.jpg"
+    },
+    {
+      "title": "Sommer-Sale: Angebote bis 72%-Rabatt",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/poco/poco_shop/#.hp.int.produktbox.poco",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2025/gmx_poco_hpt_s.jpg"
+    },
+    {
+      "title": "Haushalt, KÃ¼che und Alltag: bis zu 75 % Rabatt im Sale",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/sallysshop/sallysshop/#.hp.int.produktbox.sallyswelt",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2024/gmx_sallys_hpt_s.jpg"
+    },
+    {
+      "title": "LoungemÃ¶bel, Lampen und SpielgerÃ¤te - alles fÃ¼r Ihren Garten",
+      "url": "https://vorteile.gmx.net/webcent/sammeln/shops/tchibo/tchibo_onlineshop/#.hp.int.produktbox.tchibo",
+      "image_url": "https://img.ui-portal.de/eigenwerbung/WEB.Cent/Deals/2025/gmx_tchibo_garten_hpt_s.jpg"
+    },
+    {
+      "title": "500 Tage Blockade in Al-Fashir â Kinder schweben in Lebensgefahr",
+      "url": "https://www.gmx.net/magazine/unicef/500-tage-blockade-al-fashir-kinder-schweben-lebensgefahr-41318912",
+      "image_url": "https://i0.gmx.net/image/274/41324274,pd=4,h=170,w=300/mutter-baby-arm-kleinkindern.jpg",
+      "image_title": "Eine Mutter mit Baby auf dem Arm und zwei Kleinkindern neben sich"
+    },
+    {
+      "title": "\"Jedes einzelne Kind ist es wert\": TV-Investorin mit neuer Mission",
+      "url": "https://www.gmx.net/magazine/unterhaltung/tv-shows/hoehle-loewen/einzelne-kind-wert-dagmar-woehrl-mission-41296252",
+      "image_url": "https://i0.gmx.net/image/550/41296550,pd=3,h=170,w=300/dagmar-woehrl-unicef-botschafterin.jpg",
+      "image_title": "Dagmar WÃ¶hrl wird UNICEF-Botschafterin"
+    },
+    {
+      "title": "KÃ¼hne Polio-Impfaktion im Gazastreifen: 603.000 Kinder geschÃ¼tzt",
+      "url": "https://www.gmx.net/magazine/unicef/humanitaere-hilfe-gazastreifen-leben-rettet-41292222",
+      "image_url": "https://i0.gmx.net/image/392/41292392,pd=4,h=170,w=300/unicef-cap-gruppe-kindern-high-five.jpg",
+      "image_title": "Ein Mann mit UNICEF Cap gibt einer Gruppe Kindern ein High Five."
+    },
+    {
+      "title": "UNICEF warnt vor humanitÃ¤rer Katastrophe im Sudan",
+      "url": "https://www.gmx.net/magazine/unicef/unicef-warnt-humanitaerer-katastrophe-sudan-41259458",
+      "image_url": "https://i0.gmx.net/image/772/41259772,pd=7,h=170,w=300/kind-oberarmumfang-gemessen-grad-mangelernaehrung-.jpg",
+      "image_title": "Einem Kind wird der Oberarmumfang gemessen, um den Grad der MangelernÃ¤hrung festzustellen"
+    },
+    {
+      "title": "UNICEF: ZerstÃ¶rung, Hunger und Traumata prÃ¤gen Kindheit in Gaza",
+      "url": "https://www.gmx.net/magazine/unicef/unicef-zerstoerung-hunger-traumata-praegen-kindheit-gaza-41224190",
+      "image_url": "https://i0.gmx.net/image/344/41224344,pd=4,h=170,w=300/kinder-warten-verteilstelle-essen.jpg",
+      "image_title": "Kinder warten an einer Verteilstelle auf Essen"
+    },
+    {
+      "title": "Nachrichten sind langweilig und drÃ¶ge? Es kommt auf den Blickwinkel an",
       "url": "https://www.gmx.net/magazine/unterhaltung/comic/aktuelle-karikaturen-18584042",
-      "image_url": "https://i0.gmx.net/image/436/41333436,pd=1,f=responsive169-w450.jpg"
+      "image_url": "https://i0.gmx.net/image/436/41333436,pd=1,h=170,w=300.jpg"
     },
     {
-      "title": "Comics des Künstlers Andreas Brandt alias Sebby",
+      "title": "Comics des KÃ¼nstlers Andreas Brandt alias Sebby",
       "url": "https://www.gmx.net/magazine/unterhaltung/comic/comicserie-zeiten-kuenstlers-andreas-brandt-alias-sebby-38828512",
-      "image_url": "https://i0.gmx.net/image/498/41261498,pd=2,f=responsive169-w450.jpg"
+      "image_url": "https://i0.gmx.net/image/498/41261498,pd=2,h=170,w=300.jpg"
     },
     {
-      "title": "Comics des Künstlers Uli Stein",
+      "title": "Comics des KÃ¼nstlers Uli Stein",
       "url": "https://www.gmx.net/magazine/unterhaltung/comic/comics-kuenstlers-uli-stein-erwin-martha-maeuse-co-38828510",
-      "image_url": "https://i0.gmx.net/image/534/41261534,pd=2,f=responsive169-w450.jpg"
+      "image_url": "https://i0.gmx.net/image/534/41261534,pd=2,h=170,w=300.jpg"
     },
     {
-      "title": "Comics der norddeutschen Künstlerin Dorthe Landschulz",
+      "title": "Comics der norddeutschen KÃ¼nstlerin Dorthe Landschulz",
       "url": "https://www.gmx.net/magazine/unterhaltung/comic/comicserie-tag-tier-kuenstlerin-dorthe-landschulz-36570022",
-      "image_url": "https://i0.gmx.net/image/554/41282554,pd=1,f=responsive169-w450.jpg"
+      "image_url": "https://i0.gmx.net/image/554/41282554,pd=1,h=170,w=300.jpg"
     },
     {
-      "title": "Comics des Künstlers Ralph Ruthe",
+      "title": "Comics des KÃ¼nstlers Ralph Ruthe",
       "url": "https://www.gmx.net/magazine/unterhaltung/comic/comicserie-shit-happens-kuenstlers-ralph-ruthe-36570020",
-      "image_url": "https://i0.gmx.net/image/804/41171804,pd=1,f=responsive169-w450.jpg"
+      "image_url": "https://i0.gmx.net/image/804/41171804,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Studie: Firmen informieren vor Ausbildung zu wenig",
+      "url": "https://www.gmx.net/magazine/wirtschaft/studie-firmen-informieren-ausbildung-41335350",
+      "image_url": "https://i0.gmx.net/image/352/41335352,pd=1,h=170,w=300/auszubildende.jpg",
+      "image_title": "Auszubildende"
+    },
+    {
+      "title": "SchÃ¤umender Umsatz trotz Krisen â aber Export bremst",
+      "url": "https://www.gmx.net/magazine/wirtschaft/schaeumender-umsatz-trotz-krisen-export-bremst-41334344",
+      "image_url": "https://i0.gmx.net/image/346/41334346,pd=1,h=170,w=300/kosmetikbranche.jpg",
+      "image_title": "Kosmetikbranche"
+    },
+    {
+      "title": "Mehrzahl der BeschÃ¤ftigten lehnt lÃ¤ngere Arbeitszeiten ab",
+      "url": "https://www.gmx.net/magazine/wirtschaft/mehrzahl-beschaeftigten-lehnt-laengere-arbeitszeiten-41334266",
+      "image_url": "https://i0.gmx.net/image/268/41334268,pd=1,h=170,w=300/arbeitszeiterfassung.jpg",
+      "image_title": "Arbeitszeiterfassung"
+    },
+    {
+      "title": "Nach Zoll-Gerichtsurteil: USA verhandeln mit LÃ¤ndern weiter",
+      "url": "https://www.gmx.net/magazine/wirtschaft/zoll-gerichtsurteil-usa-verhandeln-laendern-41333528",
+      "image_url": "https://i0.gmx.net/image/530/41333530,pd=1,h=170,w=300/containerschiff.jpg",
+      "image_title": "Containerschiff"
+    },
+    {
+      "title": "Xi empfÃ¤ngt Putin und Kim bei Gipfel in China",
+      "url": "https://www.gmx.net/magazine/wirtschaft/videos/xi-empfaengt-putin-kim-gipfel-china-41332664",
+      "image_url": "https://i0.gmx.net/image/666/41332666,pd=1,h=170,w=300.jpg"
+    },
+    {
+      "title": "Wie Ihr Feedback uns erreicht â und wie wir damit arbeiten",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/feedback-erreicht-redaktion-35644470",
+      "image_url": "https://i0.gmx.net/image/260/36072260,pd=5,h=170,w=300/grafische-darstellung-illustriert-leser-feedback-r.png",
+      "image_title": "Grafische Darstellung, die illustriert, wie Leser Feedback an die Redaktion geben."
+    },
+    {
+      "title": "Ihre Meinung, Ihre Geschichte, Ihr Beitrag â unsere Leserformate",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/meinung-geschichte-beitrag-leserformate-40690900",
+      "image_url": "https://i0.gmx.net/image/802/40769802,pd=2,h=170,w=300/grafische-darstellung-zusammenarbeit-redaktion-les.png",
+      "image_title": "Grafische Darstellung, die die Zusammenarbeit der Redaktion mit ihren Lesern illustriert."
+    },
+    {
+      "title": "Seltene Fake-Werbung auf unseren Seiten - was Sie dann tun kÃ¶nnen",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/seltene-fake-werbung--39357646",
+      "image_url": "https://i0.gmx.net/image/228/39423228,pd=4,h=170,w=300.png"
+    },
+    {
+      "title": "Warum wir unsere Kommentarfunktion (vorerst) deaktiviert haben",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/kommentarfunktion-vorerst-deaktiviert-39374522",
+      "image_url": "https://i0.gmx.net/image/080/36082080,pd=5,h=170,w=300.png"
+    },
+    {
+      "title": "So war der Lesertag in unserer Redaktion",
+      "url": "https://www.gmx.net/magazine/so-arbeitet-die-redaktion/lesertag-redaktion-40453778",
+      "image_url": "https://i0.gmx.net/image/594/40471594,pd=3,h=170,w=300.jpg"
+    },
+    {
+      "title": "Hilfe & Kontakt",
+      "teaser": "Hilfestellung & Anleitung zu Ihrem GMX E-Mail Konto",
+      "url": "https://hilfe.gmx.net/",
+      "image_url": "https://i0.gmx.net/image/518/34288518,pd=2.svg"
+    },
+    {
+      "title": "Kundencenter",
+      "teaser": "Ihre Daten und Sicherheits-Einstellungen verwalten",
+      "url": "https://account.gmx.net/#.pc_page.homepage.index.footer_2.kundencenter",
+      "image_url": "https://i0.gmx.net/image/512/34288512,pd=2.svg"
+    },
+    {
+      "title": "Passwort vergessen",
+      "teaser": "Ihr Passwort zurÃ¼cksetzen und ein neues anlegen",
+      "url": "https://passwort.gmx.net/",
+      "image_url": "https://i0.gmx.net/image/522/34288522,pd=2.svg"
+    },
+    {
+      "title": "PrivatsphÃ¤re",
+      "teaser": "Alle Informationen zum Datenschutz bei GMX",
+      "url": "https://www.gmx.net/datenschutz/#.pc_page.homepage.index.footer_4.datenschutz",
+      "image_url": "https://i0.gmx.net/image/524/34288524,pd=2.svg"
+    },
+    {
+      "title": "Putin und Modi halten bei Gipfeltreffen Ã¼berraschend HÃ¤ndchen",
+      "url": "https://www.gmx.net/magazine/politik/videos/putin-modi-halten-gipfeltreffen-ueberraschend-haendchen-41335460",
+      "image_url": "https://i0.gmx.net/image/462/41335462,pd=2,h=170,w=300.jpg"
+    },
+    {
+      "title": "Mehr als 800 Tote nach Erdbeben in Afghanistan",
+      "url": "https://www.gmx.net/magazine/panorama/zahl-toten-erdbeben-afghanistan-800-gestiegen-41334418"
+    },
+    {
+      "title": "\"Die Leute von der Shiloh Ranch\"-Schauspieler Randy Boone ist tot",
+      "url": "https://www.gmx.net/magazine/unterhaltung/stars/leute-shiloh-ranch-schauspieler-randy-boone-tot-41334896"
+    },
+    {
+      "title": "Lastwagen kippt um: Massive Verkehrsprobleme auf der A3 bei Bad Honnef",
+      "url": "https://www.gmx.net/magazine/panorama/videos/lastwagen-kippt-massive-verkehrsprobleme-a3-bad-honnef-41335342"
+    },
+    {
+      "title": "Nie wieder TrÃ¤nenvergieÃen beim Zwiebelschneiden: So klappt es!",
+      "url": "https://www.gmx.net/magazine/ratgeber/videos/essen-trinken/traenenvergiessen-zwiebelschneiden-klappt-39506142"
     }
   ]
 }
