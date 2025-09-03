@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-03T06:14:30",
+  "timestamp": "2025-09-03T07:09:30",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,11 +26,23 @@
   ],
   "articles": [
     {
-      "title": "Java 25: Neue Features – nicht so bekannt, aber wichtig",
+      "title": "So rechnen Sie selbst auf einem Quantencomputer",
+      "url": "https://www.heise.de/ratgeber/So-rechnen-Sie-selbst-auf-einem-Quantencomputer-10514870.html"
+    },
+    {
+      "title": "programmier.bar: Cloud-Exit mit Andreas Lehr",
+      "url": "https://www.heise.de/blog/programmier-bar-Cloud-Exit-mit-Andreas-Lehr-10628613.html"
+    },
+    {
+      "title": "Datenleck durch Salesloft: Cloudflare, Palo Alto, Zscaler betroffen",
+      "url": "https://www.heise.de/news/Datenleck-durch-Salesloft-Cloudflare-Palo-Alto-Zscaler-betroffen-10629836.html"
+    },
+    {
+      "title": "Die nicht ganz so bekannten neuen Features von Java 25",
       "url": "https://www.heise.de/blog/Java-25-Neue-Features-nicht-so-bekannt-aber-wichtig-10530723.html"
     },
     {
-      "title": "Java 25 kommt: Jetzt noch Frühbucherticket für die betterCode() Java sichern",
+      "title": "Keynote von Adam Bien zu 30 Jahren Java auf der betterCode() Java",
       "url": "https://www.heise.de/news/Java-25-kommt-Jetzt-noch-Fruehbucherticket-fuer-die-betterCode-Java-sichern-10560048.html"
     },
     {
@@ -54,18 +66,6 @@
       "url": "https://www.heise.de/news/Mittwoch-Google-entgeht-Aufspaltung-durch-Auflagen-Millionenstrafe-fuer-Disney-10629794.html"
     },
     {
-      "title": "Youtube-Videos für Kinder bescheren Disney Datenschutzstrafe",
-      "url": "https://www.heise.de/news/Youtube-Videos-fuer-Kinder-bescheren-Disney-Datenschutzstrafe-10629760.html"
-    },
-    {
-      "title": "Google muss Suchdaten mit Konkurrenz teilen, darf Chrome und Android behalten",
-      "url": "https://www.heise.de/news/Google-muss-Suchdaten-mit-Konkurrenz-teilen-darf-Chrome-und-Android-behalten-10629784.html"
-    },
-    {
-      "title": "Call of Duty kommt ins Kino",
-      "url": "https://www.heise.de/news/Call-of-Duty-kommt-ins-Kino-10629704.html"
-    },
-    {
       "title": "FestkörperbatterienBASF und chinesischer Partner erreichen Durchbruch",
       "teaser": "Festkörperbatterien für E-Autos rücken näher: BASF und Welion haben einen wichtigen Schritt in Richtung Serienproduktion erreicht.",
       "url": "https://www.heise.de/news/BASF-und-chinesischer-Partner-erreichen-Durchbruch-bei-Festkoerperbatterien-10629173.html"
@@ -77,7 +77,7 @@
       "image_title": "Bauvorschlag Mini-ITX-Gamer 2025"
     },
     {
-      "title": "Chrome und Android darf bleibenGoogle muss Suchdaten mit Konkurrenz teilen",
+      "title": "Chrome und Android dürfen bleibenGoogle muss Suchdaten mit Konkurrenz teilen",
       "teaser": "Im Monopolprozess wegen Googles Suchmaschinengeschäft hat der Richter ein Urteil gefällt. Der Datenkonzern entgeht der Aufspaltung.",
       "url": "https://www.heise.de/news/Google-muss-Suchdaten-mit-Konkurrenz-teilen-darf-Chrome-und-Android-behalten-10629784.html",
       "image_title": "Google-Icon auf Bildschirm"
@@ -186,20 +186,38 @@
       "url": "https://www.heise.de/news/Heimautomatisierung-ESPHome-Luecke-erlaubt-volle-Kompromittierung-10628487.html"
     },
     {
-      "title": "Java 25: Neue Features – nicht so bekannt, aber wichtig",
+      "title": "So rechnen Sie selbst auf einem Quantencomputer",
+      "teaser": "Mit dem auf Python basierenden Open-Source-Framework Qiskit können Sie bereits heute kostenlos auf echten Quantencomputern rechnen. Wir zeigen, wie es geht.",
+      "url": "https://www.heise.de/ratgeber/So-rechnen-Sie-selbst-auf-einem-Quantencomputer-10514870.html",
+      "image_title": "Eine Python, die mit Atomen auf einem Abakus rechnet"
+    },
+    {
+      "title": "programmier.bar: Cloud-Exit mit Andreas Lehr",
+      "teaser": "Raus aus der Cloud: Wann lohnt sich der Schritt zurück zur eigenen Infrastruktur wirklich? Die programmier.bar diskutiert Chancen und Grenzen des Cloud-Exits.",
+      "url": "https://www.heise.de/blog/programmier-bar-Cloud-Exit-mit-Andreas-Lehr-10628613.html",
+      "image_title": "programmier.bar: Cloud Exit mit Andreas Lehr"
+    },
+    {
+      "title": "So schützen Sie mobile Geräte auf einer Reise",
+      "teaser": "Außerhalb des üblichen Umfelds, zum Beispiel auf Reisen, sind mobile Geräte mit neuen Angriffsvektoren konfrontiert. Diverse Ansätze können helfen, die Risiken bei der Nutzung im Ausland zu senken.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6948696370&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Datenleck durch Salesloft: Cloudflare, Palo Alto, Zscaler betroffen",
+      "teaser": "Viele Unternehmen sind von der Salesloft-Drift-Schwachstelle betroffen. Auch große und namhafte wie Cloudflare, Palo Alto und Zscaler.",
+      "url": "https://www.heise.de/news/Datenleck-durch-Salesloft-Cloudflare-Palo-Alto-Zscaler-betroffen-10629836.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
+      "title": "Die nicht ganz so bekannten neuen Features von Java 25",
       "teaser": "Die Veröffentlichung des OpenJDK 25 mit 18 Java Enhancement Proposals steht kurz bevor. Es ist auch einiges unter der Haube passiert.",
       "url": "https://www.heise.de/blog/Java-25-Neue-Features-nicht-so-bekannt-aber-wichtig-10530723.html"
     },
     {
-      "title": "Java 25 kommt: Jetzt noch Frühbucherticket für die betterCode() Java sichern",
+      "title": "Keynote von Adam Bien zu 30 Jahren Java auf der betterCode() Java",
       "teaser": "Der Thementag zeigt die wesentlichen Neuerungen des für September geplanten neuen Java 25, das auch als LTS-Release verfügbar sein wird.",
       "url": "https://www.heise.de/news/Java-25-kommt-Jetzt-noch-Fruehbucherticket-fuer-die-betterCode-Java-sichern-10560048.html",
       "image_title": "Kaffeetasse, betterCode() Java"
-    },
-    {
-      "title": "Produktivitätskiller im Admin-Alltag stoppen",
-      "teaser": "So schützen Sie mobile Geräte auf einer Reise – diese Überschrift gehört raus!",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7073688200&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Heim-NAS bis 300 Euro: Fünf Netzwerkspeicher für Einsteiger",
@@ -217,24 +235,6 @@
       "teaser": "Um mehr als 40 Prozent erneuerbarer Energie bis 2030 zu erreichen, muss es in der EU mehr Windräder geben. Laut Windindustrieverband geht der Ausbau zu langsam.",
       "url": "https://www.heise.de/news/Windkraftausbau-in-Europa-hinter-Erwartungen-10629804.html",
       "image_title": "Windrad"
-    },
-    {
-      "title": "Mittwoch: Google entgeht Aufspaltung durch Auflagen, Millionenstrafe für Disney",
-      "teaser": "Suchdaten für Google-Konkurrenz + Strafe für YouTube-Altersangaben + Call of Duty als Kinofilm + Cyberangriff auf Jaguar Land Rover + Mondfinsternis am Sonntag",
-      "url": "https://www.heise.de/news/Mittwoch-Google-entgeht-Aufspaltung-durch-Auflagen-Millionenstrafe-fuer-Disney-10629794.html",
-      "image_title": "Laptop mit Chome-Logo auf dem Bildschirm; Mittwoch: Google-Sanktionen, Disney-Datenschutzstrafe, Call-of-Duty-Film, Jaguar-Störungen & Mondfinsternis-Termin"
-    },
-    {
-      "title": "Youtube-Videos für Kinder bescheren Disney Datenschutzstrafe",
-      "teaser": "Weil Mickey-Mouse-Videos nicht als \"für Kinder\" gekennzeichnet waren, muss Disney Millionen zahlen. Das soll Youtube zu Altersprüfungen drängen.",
-      "url": "https://www.heise.de/news/Youtube-Videos-fuer-Kinder-bescheren-Disney-Datenschutzstrafe-10629760.html",
-      "image_title": "Kinder am Smartphone"
-    },
-    {
-      "title": "Call of Duty kommt ins Kino",
-      "teaser": "Paramount und Microsoft sind sich einig: Das Filmstudio soll aus dem Egoshooter \"Call of Duty\" einen Live-Action-Kinofilm spinnen.",
-      "url": "https://www.heise.de/news/Call-of-Duty-kommt-ins-Kino-10629704.html",
-      "image_title": "Riesige Werbeplakate for \"Call of Duty Black Ops\" am Timesquare in New York City"
     },
     {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
@@ -304,6 +304,24 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Mittwoch: Google entgeht Aufspaltung durch Auflagen, Millionenstrafe für Disney",
+      "teaser": "Suchdaten für Google-Konkurrenz + Strafe für YouTube-Altersangaben + Call of Duty als Kinofilm + Cyberangriff auf Jaguar Land Rover + Mondfinsternis am Sonntag",
+      "url": "https://www.heise.de/news/Mittwoch-Google-entgeht-Aufspaltung-durch-Auflagen-Millionenstrafe-fuer-Disney-10629794.html",
+      "image_title": "Laptop mit Chome-Logo auf dem Bildschirm; Mittwoch: Google-Sanktionen, Disney-Datenschutzstrafe, Call-of-Duty-Film, Jaguar-Störungen & Mondfinsternis-Termin"
+    },
+    {
+      "title": "Youtube-Videos für Kinder bescheren Disney Datenschutzstrafe",
+      "teaser": "Weil Mickey-Mouse-Videos nicht als \"für Kinder\" gekennzeichnet waren, muss Disney Millionen zahlen. Das soll Youtube zu Altersprüfungen drängen.",
+      "url": "https://www.heise.de/news/Youtube-Videos-fuer-Kinder-bescheren-Disney-Datenschutzstrafe-10629760.html",
+      "image_title": "Kinder am Smartphone"
+    },
+    {
+      "title": "Call of Duty kommt ins Kino",
+      "teaser": "Paramount und Microsoft sind sich einig: Das Filmstudio soll aus dem Egoshooter \"Call of Duty\" einen Live-Action-Kinofilm spinnen.",
+      "url": "https://www.heise.de/news/Call-of-Duty-kommt-ins-Kino-10629704.html",
+      "image_title": "Riesige Werbeplakate for \"Call of Duty Black Ops\" am Timesquare in New York City"
+    },
+    {
       "title": "Top 5: Die besten Fensterputzroboter im Test – Ecovacs ist Testsieger",
       "teaser": "Fensterputzroboter versprechen saubere Scheiben ohne Mühe. Wir zeigen, welche Modelle überzeugen und worauf beim Kauf zu achten ist.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-5-die-besten-fensterputzroboter-im-test-ecovacs-ist-testsieger/rwq727q?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -360,6 +378,11 @@
       "image_title": "Apple Store Berlin, Rosenthaler Straße"
     },
     {
+      "title": "Die richtige Prozessarchitektur als Basis zur effizienten Verbesserung von SAP Prozessen",
+      "teaser": "SAP ECC läuft aus, die Migration steht bevor: Wie Sie mit der richtigen Prozessarchitektur Ihre SAP-Landschaft nachhaltig modernisieren, erfahren Sie in diesem Webcast.",
+      "url": "https://business-services.heise.de/it-management/enterprise-resource-planning-erp/beitrag/die-richtige-prozessarchitektur-als-basis-zur-effizienten-verbesserung-von-sap-prozessen-4952/?source=hbsadersatz"
+    },
+    {
       "title": "Chrome – und dann lange nix: Google erstmals mit über 70 Prozent Browser-Anteil",
       "teaser": "Desktop-Nutzer verwenden vor allem Chrome. Deutschland bleibt eine Ausnahme, obwohl auch hier Googles Browser die Nummer Eins ist.",
       "url": "https://www.heise.de/news/Absolute-Dominanz-Chrome-erstmals-bei-ueber-70-Prozent-Browser-Anteil-10629358.html",
@@ -375,11 +398,6 @@
       "teaser": "Wer wissenschaftlich arbeitet, möchte die Ergebnisse auch publizieren. Das machen sich Betrüger zunutze. Dank KI soll der Betrug schneller auffindbar sein.",
       "url": "https://www.heise.de/news/Forschung-KI-findet-mehr-als-1000-fragwuerdige-Wissenschaftsmagazine-10629181.html",
       "image_title": "Pipette über Reagenzgläsern"
-    },
-    {
-      "title": "Offene Ökosysteme – ist Open Source die Zukunft von KI?",
-      "teaser": "Proprietäre KI-Modelle sind leistungsfähig, haben jedoch Schwächen bei Nachvollziehbarkeit, Datenschutz und Anpassbarkeit. Offene Ökosysteme könnten für mehr Transparenz, Sicherheit und Flexibilität sorgen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/offene-oekosysteme-ist-open-source-die-zukunft-von-ki/?source=hbsadersatz"
     },
     {
       "title": "O2: Apple-Watch-Nutzer hängen in der eSIM-Warteschlange fest",
@@ -420,24 +438,6 @@
       "teaser": "Mit einer Schirmherrschaft setzt Karsten Wildberger ein Zeichen für den Open-Source-Wettbewerb. Bis Ende des Monats werden die besten Projekte gesucht.",
       "url": "https://www.heise.de/news/Digitalminister-setzt-sich-ein-Open-Source-Wettbewerb-fuer-bessere-Verwaltung-10629067.html",
       "image_title": "Reichstaggebäude in Berlin"
-    },
-    {
-      "title": "iX-Intensiv-Workshop: VMware vSphere 7 und 8 einrichten und administrieren",
-      "teaser": "Lernen Sie an fünf Tagen mit vielen praktischen Übungen, wie Sie VMware vSphere 7 und 8 installieren, konfigurieren und administrieren.",
-      "url": "https://www.heise.de/news/iX-Intensiv-Workshop-VMware-vSphere-7-und-8-einrichten-und-administrieren-10607376.html",
-      "image_title": "Intensivkurs: Administration von VMware vSphere"
-    },
-    {
-      "title": "KI-Stethoskop soll Herzkrankheiten in 15 Sekunden erkennen können",
-      "teaser": "Forscher stellen ein KI-Stethoskop vor, das Herzerkrankungen doppelt bis dreimal so häufig erkennen soll wie Kardiologen.",
-      "url": "https://www.heise.de/news/KI-Stethoskop-soll-Herzkrankheiten-in-15-Sekunden-erkennen-koennen-10623541.html",
-      "image_title": "Stethoskop mit einer Stadt dahinter"
-    },
-    {
-      "title": "DRAM: SK Hynix setzt sich vom einstigen Weltmarktführer ab",
-      "teaser": "SK Hynix ist mittlerweile mit gutem Abstand der größte DRAM-Hersteller der Welt. Die Firma wächst schneller als Samsungs Speichersparte.",
-      "url": "https://www.heise.de/news/DRAM-SK-Hynix-setzt-sich-vom-einstigen-Weltmarktfuehrer-ab-10629033.html",
-      "image_title": "Hand hält Speicherriegel wie Spielkarten"
     },
     {
       "title": "Nach GPS-Störung bei von der Leyen: EU setzt auf Verschlüsselung gegen Spoofing",
@@ -609,6 +609,11 @@
       "url": "https://www.heise.de/en/news/At-a-child-friendly-time-Total-lunar-eclipse-on-Sunday-evening-10629014.html"
     },
     {
+      "title": "Sechs Fensterputzroboter von 80 bis 500 Euro im Test",
+      "teaser": "Saubere Fenster in wenigen Minuten ohne Handarbeit: Unser Test von Fensterputz-Bots zeigt, was an diesem Versprechen dran ist.",
+      "url": "https://www.heise.de/tests/Sechs-Fensterputzroboter-von-80-bis-500-Euro-im-Test-10318287.html"
+    },
+    {
       "title": "Vorhandene Windows-10-Installationen unter Linux virtualisieren",
       "teaser": "Mit dem Support-Ende von Windows 10 ist ein Umstieg unvermeidlich. Für Notfälle richten Sie sich Ihr altes Windows als virtuelle Maschine unter Linux ein.",
       "url": "https://www.heise.de/ratgeber/Vorhandene-Windows-10-Installationen-unter-Linux-virtualisieren-10501662.html"
@@ -617,11 +622,6 @@
       "title": "So lebt Ihre Windows-Installation unter Linux weiter",
       "teaser": "Nach dem Umstieg auf Linux ist es praktisch, bei Bedarf noch auf das vertraute Windows zugreifen zu können. Das geht überraschend bequem.",
       "url": "https://www.heise.de/ratgeber/So-lebt-Ihre-Windows-Installation-unter-Linux-weiter-10501652.html"
-    },
-    {
-      "title": "Sechs Fensterputzroboter von 80 bis 500 Euro im Test",
-      "teaser": "Saubere Fenster in wenigen Minuten ohne Handarbeit: Unser Test von Fensterputz-Bots zeigt, was an diesem Versprechen dran ist.",
-      "url": "https://www.heise.de/tests/Sechs-Fensterputzroboter-von-80-bis-500-Euro-im-Test-10318287.html"
     },
     {
       "title": "Die Schritt-für-Schritt-AnleitungSSD im Mac mini M4 aufrüsten, so geht's",
@@ -659,11 +659,6 @@
       "image_title": ","
     },
     {
-      "title": "Totale Mondfinsternis 2025: So fangen Sie den Blutmond mit der Kamera ein",
-      "teaser": "Die totale Mondfinsternis gibt es 2025 zur besten Sendezeit, lange aufbleiben muss niemand. Aber man muss schnell sein und einen guten Spot finden.",
-      "url": "https://www.heise.de/ratgeber/Totale-Mondfinsternis-2025-So-fangen-Sie-den-Blutmond-mit-der-Kamera-ein-10549909.html"
-    },
-    {
       "title": "Viltrox verstärkt die L-Mount-Allianz: Neuer Partner für Leica und Co.",
       "teaser": "Der chinesische Objektivhersteller Viltrox ist der L-Mount-Allianz beigetreten. Damit erweitert sich das Bündnis um einen zehnten Partner.",
       "url": "https://www.heise.de/news/Viltrox-verstaerkt-die-L-Mount-Allianz-Neuer-Partner-fuer-Leica-und-Co-10628028.html"
@@ -679,6 +674,11 @@
       "teaser": "\"Wer seriös ein Gerät verkauft, wird nichts dagegen haben\", sagt Christine Bruns über das Testen von gebrauchten Kameras vor dem Kauf.",
       "url": "https://www.heise.de/news/Zwischen-Gluecksgriff-und-Fehlkauf-Click-Boom-Flash-45-Foto-Gebrauchtmarkt-10625385.html",
       "image_title": "Alte Kameras an einem Marktstand"
+    },
+    {
+      "title": "Fotonews der Woche 36/2025Nikons Luxus-Zoom und getunte Hasselblad",
+      "teaser": "Die neue Hasselblad ist günstiger als ihr Vorgänger, Nikons Standard-Zoom nicht annähernd. Und: Update für Z6III.",
+      "url": "https://www.heise.de/news/Nikons-Luxus-Zoom-und-getunte-Hasselblad-Fotonews-der-Woche-36-2025-10625972.html"
     },
     {
       "title": "Platform EngineeringDeveloper-Plattformen systematisch bewerten",
@@ -754,16 +754,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/testsieger-der-beste-dab-adapter-digitalradio-fuer-stereoanlage-nachruesten/gb91m1s?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Roboter denken voraus: Spieltheorie verhindert tödliche Unfälle",
-      "teaser": "Forscher entwickeln ein Computerprogramm, das Roboter menschenfreundlicher macht. Mit Hilfe der Spieltheorie sollen sie sicherer mit uns interagieren.",
-      "url": "https://www.heise.de/tp/features/Roboter-denken-voraus-Spieltheorie-verhindert-toedliche-Unfaelle-10627452.html",
-      "image_title": "Ingenieur programmiert einen Roboter in der Fabrik."
-    },
-    {
       "title": "Ohne ukrainische Teile: Russland plant ersten Start der Sojus-5-Rakete für Dezember",
       "teaser": "Roskosmos kündigt Erstflug der neuen Mittelklasse-Rakete vom Kosmodrom Baikonur an. Das Projekt soll Russlands Abhängigkeit von ukrainischer Technologie beenden.",
       "url": "https://www.heise.de/tp/features/Ohne-ukrainische-Teile-Russland-plant-ersten-Start-der-Sojus-5-Rakete-fuer-Dezember-10621621.html",
       "image_title": "Eine Zenit-Rakete beim Start in Baikonur"
+    },
+    {
+      "title": "Show, Wurst, Empörung: So verblöden wir die Demokratie",
+      "teaser": "Mit \"fetischhaftem Wurstgefresse\" und \"Geh mit Gott\" liefern sich Habeck und Söder einen medialen Schlagabtausch, der von den eigentlichen Problemen ablenkt.",
+      "url": "https://www.heise.de/tp/features/Show-Wurst-Empoerung-So-verbloeden-wir-die-Demokratie-10627083.html",
+      "image_title": "Großaufnahme von Robert Habeck bei der Kieler Woche, 2022"
     },
     {
       "title": "3 Millionen Arbeitslose – Kommt jetzt der soziale Absturz?",
