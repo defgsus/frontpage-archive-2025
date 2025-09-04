@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-04T02:13:21",
+  "timestamp": "2025-09-04T03:20:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Serientäter bekennen sich zu IT-Angriff auf Jaguar Land Rover",
+      "url": "https://www.heise.de/news/Serientaeter-bekennen-sich-zu-IT-Angriff-auf-Jaguar-Land-Rover-10631395.html"
+    },
     {
       "title": "Sammelklage: 288 Millionen US-Verbraucher gegen Amazon.com",
       "url": "https://www.heise.de/news/Preisklauseln-fuer-Marketplace-Amazon-com-muss-sich-US-Klage-stellen-10631343.html"
@@ -60,10 +64,6 @@
     {
       "title": "Elektronische Patientenakte: Kliniken werden Pflichtstart im Jahr 2025 verfehlen",
       "url": "https://www.heise.de/news/Elektronische-Patientenakte-Kliniken-werden-Pflichtstart-im-Jahr-2025-verfehlen-10630320.html"
-    },
-    {
-      "title": "DSpi: Der 3D-gedruckte Raspberry-Handheld",
-      "url": "https://www.heise.de/news/DSpi-Der-3D-gedruckte-Raspberry-Handheld-10630823.html"
     },
     {
       "title": "IFAMonitore mit 5K-Auflösung auf 27 Zoll",
@@ -186,20 +186,26 @@
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
+      "title": "Serientäter bekennen sich zu IT-Angriff auf Jaguar Land Rover",
+      "teaser": "Drei britische Verbrecherbanden haben sich offenbar zusammengetan. Sie prahlen mit der IT-Attacke auf Jaguar Land Rover.",
+      "url": "https://www.heise.de/news/Serientaeter-bekennen-sich-zu-IT-Angriff-auf-Jaguar-Land-Rover-10631395.html",
+      "image_title": "Cartoon-Illustration eines in leichtem Wind hängenden Union Jack auf einer Fahnenstange"
+    },
+    {
       "title": "Sammelklage: 288 Millionen US-Verbraucher gegen Amazon.com",
       "teaser": "Verkäufer auf Amazon.com müssen allerlei Preisklauseln beachten. Das störe Wettbewerb und schade Verbrauchern, sagt eine nun zugelassene Massenklage.",
       "url": "https://www.heise.de/news/Preisklauseln-fuer-Marketplace-Amazon-com-muss-sich-US-Klage-stellen-10631343.html",
       "image_title": "Detailaufnahme eines Amazon-Pakets. Auf dem orangen Klebeneband steht neben dem Amazon-Logo \"Spend less. Smile more.\""
     },
     {
+      "title": "So schützen Sie mobile Geräte auf einer Reise",
+      "teaser": "Außerhalb des üblichen Umfelds, zum Beispiel auf Reisen, sind mobile Geräte mit neuen Angriffsvektoren konfrontiert. Diverse Ansätze können helfen, die Risiken bei der Nutzung im Ausland zu senken.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=6948696370&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Der beste E-Scooter im Test – Segway Ninebot vor Xiaomi & Egret",
       "teaser": "Segway, Xiaomi, Soflow oder Streetbooster? Wir haben gut 90 E-Scooter getestet und zeigen die zehn besten elektrischen Tretroller.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Praxisnahes Informatikstudium an der FH Dortmund",
-      "teaser": "Leben Informatik-Studenten in einem Elfenbeinturm? Mitnichten! An der FH Dortmund haben 80 Prozent der Abschlussarbeiten von Prof. Dr. Gabriele Kunau einen praktischen Unternehmensbezug.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7072121462&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Pixel Drop: Google verpasst seinen Pixel-Smartphones Material 3 Expressive",
@@ -230,12 +236,6 @@
       "url": "https://www.heise.de/ratgeber/Ungestoert-surfen-mit-Smartphone-und-Tablet-10501700.html"
     },
     {
-      "title": "Lieferkettengesetz wird gelockert – Entlastung für Firmen",
-      "teaser": "Die Bundesregierung lockert das deutsche Lieferkettengesetz, um Bürokratie abzubauen. Arbeitgeber zeigen sich aber enttäuscht – Menschenrechtsvertreter auch.",
-      "url": "https://www.heise.de/news/Lieferkettengesetz-wird-gelockert-Entlastung-fuer-Firmen-10631169.html",
-      "image_title": "Eine stilisierte Weltkarte mit Flugzeugen und Schiffen, die Lieferketten symbolisieren."
-    },
-    {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
       "teaser": "Vor dem Kauf eines Familien-Elektroautos lohnt der Kostenvergleich zwischen Neu- und Gebrauchtwagen. Denn nicht immer ist ein Neuwagen dramatisch teurer.",
       "url": "https://www.heise.de/ratgeber/Elektroautos-fuer-Familien-Neu-und-Gebrauchtwagen-bis-50-000-Euro-im-Vergleich-10456415.html",
@@ -258,20 +258,21 @@
       "image_title": "Rot gefärbter Vollmond"
     },
     {
-      "title": "Paypal: Deutsche Banken blockierten offenbar Zahlungen von Milliarden Euro",
-      "url": "https://www.heise.de/news/Paypal-Deutsche-Banken-blockierten-offenbar-Zahlungen-von-Milliarden-Euro-10622747.html"
+      "title": "Plug-in-Hybride: Das Ende naht",
+      "url": "https://www.heise.de/hintergrund/Plug-in-Hybride-Das-Ende-naht-10624002.html"
     },
     {
       "title": "Neues Retourenmodell: Amazon bietet Nachlass statt Rücksendung",
       "url": "https://www.heise.de/news/Neues-Retourenmodell-Amazon-bietet-Nachlass-statt-Ruecksendung-10623549.html"
     },
     {
-      "title": "Googles KI-Smartphones Pixel 10, 10 Pro und 10 Pro XL im Test",
-      "url": "https://www.heise.de/tests/Googles-KI-Smartphones-Pixel-10-10-Pro-und-10-Pro-XL-im-Test-10542329.html"
+      "title": "Bauvorschlag: Schneller Gaming-PC im Mini-ITX-Format",
+      "url": "https://www.heise.de/ratgeber/Bauvorschlag-Schneller-Gaming-PC-im-Mini-ITX-Format-10435842.html",
+      "image_title": "Bauvorschlag Mini-ITX-Gamer 2025"
     },
     {
-      "title": "Bauvorschlag: Schneller Gaming-PC im Mini-ITX-Format",
-      "url": "https://www.heise.de/ratgeber/Bauvorschlag-Schneller-Gaming-PC-im-Mini-ITX-Format-10435842.html"
+      "title": "Googles KI-Smartphones Pixel 10, 10 Pro und 10 Pro XL im Test",
+      "url": "https://www.heise.de/tests/Googles-KI-Smartphones-Pixel-10-10-Pro-und-10-Pro-XL-im-Test-10542329.html"
     },
     {
       "title": "\"Nano Banana\" ausprobiert: Die beste kostenlose KI-Bildbearbeitung von Google",
@@ -301,6 +302,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 12 Wochen mit 50 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=31914&wt_mc=intern.abo.plus.hp_2025_sommer.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Lieferkettengesetz wird gelockert – Entlastung für Firmen",
+      "teaser": "Die Bundesregierung lockert das deutsche Lieferkettengesetz, um Bürokratie abzubauen. Arbeitgeber zeigen sich aber enttäuscht – Menschenrechtsvertreter auch.",
+      "url": "https://www.heise.de/news/Lieferkettengesetz-wird-gelockert-Entlastung-fuer-Firmen-10631169.html",
+      "image_title": "Eine stilisierte Weltkarte mit Flugzeugen und Schiffen, die Lieferketten symbolisieren."
     },
     {
       "title": "Elektronische Patientenakte: Kliniken werden Pflichtstart im Jahr 2025 verfehlen",
@@ -370,15 +377,15 @@
       "url": "https://www.heise.de/ratgeber/Hoerspiel-Player-fuer-Kinder-Galakto-Player-auseinandergebaut-10496194.html"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "Einstufung als VLOP: EU-Gericht weist Zalandos Einspruch zurück",
       "teaser": "Das EU-Gericht hat die Klage von Zalando gegen die Einstufung als sehr große Online-Plattform nach dem DSA abgewiesen. Der Händler will weiterkämpfen.",
       "url": "https://www.heise.de/news/Einstufung-als-VLOP-EU-Gericht-weist-Zalandos-Einspruch-zurueck-10630543.html",
       "image_title": "Zalando-Kartons"
-    },
-    {
-      "title": "Hybrides UEM: Flexibilität trifft Kontrolle",
-      "teaser": "Ein hybrides UEM vereint eine Cloud- und On-Premises-Verwaltung in einer Oberfläche. So wird die Komplexität reduziert und eine flexible, zentrale Geräteverwaltung ermöglicht. In diesem Webcast erfahren Sie, welche Vorteile diese Kombination für die IT-Sicherheit und die tägliche Arbeit bringt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/hybrides-uem-flexibilitaet-trifft-kontrolle-4929?source=hbsad-ersatz"
     },
     {
       "title": "UpdateHomeserver der Matrix Foundation wieder online",
@@ -433,24 +440,18 @@
       "image_title": "Geöffnetes Zahlenschloss"
     },
     {
-      "title": "Zehn Jahre Apple Pencil: Ein Stylus, den Steve Jobs nie wollte?",
-      "teaser": "Apple feiert zusammen mit der iPhone-Vorstellung in der kommenden Woche Jubiläum für seinen iPad-Eingabestift. Die Verkaufsstrategie ist und bleibt mysteriös.",
-      "url": "https://www.heise.de/news/Zehn-Jahre-Apple-Pencil-Ein-Stylus-den-Steve-Jobs-nie-wollte-10629618.html",
-      "image_title": "iPad Pro M2 mit Pencil 2 und Hover-Funktion."
+      "title": "Monkey Island: Gold-Master ist 35 geworden",
+      "url": "https://www.heise.de/news/Monkey-Island-Gold-Master-ist-35-geworden-10629953.html",
+      "image_title": "Monkey-Island-Startsequenz mit GOlden-Master-Floppies"
     },
     {
-      "title": "EU-Kommission: Von der Leyens Signal-Client löscht Nachrichten automatisch",
-      "url": "https://www.heise.de/news/Signal-Messenger-Von-der-Leyen-hat-Auto-Delete-fuer-Nachrichten-voreingestellt-10628216.html",
-      "image_title": "Ursula von der Leyen sitzt an einem Tisch, darhinter sind Fahnenstangen mit EU-Fahnen zu sehen"
+      "title": "Analyse: KI-Chatbot Grok nach Elon Musks \"Korrekturen\" immer konservativer",
+      "url": "https://www.heise.de/news/Analyse-KI-Chatbot-Grok-nach-Elon-Musks-Korrekturen-immer-konservativer-10629800.html",
+      "image_title": "Das Logo von Grok auf einem Smartphone"
     },
     {
       "title": "AlertHeimautomatisierung: ESPHome-Lücke erlaubt volle Kompromittierung",
       "url": "https://www.heise.de/news/Heimautomatisierung-ESPHome-Luecke-erlaubt-volle-Kompromittierung-10628487.html"
-    },
-    {
-      "title": "Nach GPS-Störung bei von der Leyen: EU setzt auf Verschlüsselung gegen Spoofing",
-      "url": "https://www.heise.de/news/Nach-GPS-Stoerung-bei-von-der-Leyen-EU-setzt-auf-Verschluesselung-gegen-Spoofing-10628720.html",
-      "image_title": "Galileo-Satelliten im Erdorbit"
     },
     {
       "title": "Für Suche nach zweiter Erde: Rechteckiges Weltraumteleskop viel besser geeignet",
@@ -458,23 +459,19 @@
       "image_title": "Visualisierung eines dreieckigen Weltraumteleskops mit einem extrem langen Hauptspiegel"
     },
     {
-      "title": "Schwarze Löcher: Dunkle Materie könnte Planeten wie Jupiter von innen zerstören",
-      "url": "https://www.heise.de/news/Studie-Dunkle-Materie-koennte-Planeten-wie-Jupiter-von-innen-zerstoeren-10628561.html",
-      "image_title": "Der Jupiter"
+      "title": "26 Megawatt: China nimmt weltweit leistungsstärkste Windkraftanlage in Betrieb",
+      "url": "https://www.heise.de/news/26-Megawatt-China-nimmt-weltweit-leistungsstaerkste-Windkraftanlage-in-Betrieb-10630015.html",
+      "image_title": "Mit einem Kran werden die riesigen Rotorblätter einer Windkraftanlage installiert."
     },
     {
-      "title": "Zahlen, bitte! DIN 1451 – Die Schriftart, die jeder kennt, der unterwegs ist",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-DIN-1451-Die-Schriftart-die-Jeder-kennt-der-unterwegs-ist-10628704.html"
+      "title": "Forschung: KI findet mehr als 1000 \"fragwürdige\" Wissenschaftsmagazine",
+      "url": "https://www.heise.de/news/Forschung-KI-findet-mehr-als-1000-fragwuerdige-Wissenschaftsmagazine-10629181.html",
+      "image_title": "Pipette über Reagenzgläsern"
     },
     {
-      "title": "Pariser Museum Louvre gibt Nintendo 3DS auf",
-      "url": "https://www.heise.de/news/Nintendo-3DS-zu-alt-fuers-Museum-10628381.html",
-      "image_title": "Werbesujet mit Nintendo 3DS und Mona Lisa"
-    },
-    {
-      "title": "iOS 18.7 in Sicht: Update kommt wohl noch vor iOS 26",
-      "url": "https://www.heise.de/news/iPhone-Kommt-vor-iOS-26-noch-ein-iOS-18-7-10627642.html",
-      "image_title": "iOS-18-Übersicht"
+      "title": "iPhone 12: Sendeleistungsanpassung erreicht nach Frankreich alle EU-Länder",
+      "url": "https://www.heise.de/news/iPhone-12-Sendeleistungsanpassung-erreicht-nach-Frankreich-alle-EU-Laender-10629418.html",
+      "image_title": "iPhone 12 5G"
     },
     {
       "title": "Bericht: Einsteiger-Stromer von Hyundai bekommt offenbar CarPlay Ultra",
@@ -482,19 +479,24 @@
       "image_title": "CarPlay Ultra im Aston Martin"
     },
     {
+      "title": "AlertPatchday: Kritische Schadcode-Lücke bedroht Android 15 und 16",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-15-und-16-10629856.html",
+      "image_title": "Aufmacher Android-Patchday"
+    },
+    {
+      "title": "Vorstellung Audi Concept C: Auf die Studie folgt das Serienmodell",
+      "url": "https://www.heise.de/news/Vorstellung-Audi-Concept-C-Auf-den-Spuren-des-Audi-TT-10629888.html",
+      "image_title": "Audi Concept C"
+    },
+    {
       "title": "c't Fotografie-Wettbewerb \"Käfer und Insekten\": Das sind die Gewinner",
       "url": "https://www.heise.de/news/c-t-Fotografie-Wettbewerb-Kaefer-und-Insekten-Das-sind-die-Gewinner-10627860.html",
       "image_title": "Makro einer Libelle"
     },
     {
-      "title": "Vorstellung BYD Seal 6 DM-i Touring: Warum die Chinesen nun auf PHEV setzen",
-      "url": "https://www.heise.de/news/Vorstellung-BYD-Seal-6-DM-i-Touring-Warum-die-Chinesen-nun-auf-PHEV-setzen-10629377.html",
-      "image_title": "BYD Seal 6 DM-i Touring"
-    },
-    {
-      "title": "UpdateTiefkühlfach repariert AirPods Max – kurzzeitig",
-      "url": "https://www.heise.de/news/Tiefkuehlfach-repariert-AirPods-Max-kurzzeitig-10623707.html",
-      "image_title": "Nutzerin mit AirPods Max"
+      "title": "Call of Duty kommt ins Kino",
+      "url": "https://www.heise.de/news/Call-of-Duty-kommt-ins-Kino-10629704.html",
+      "image_title": "Riesige Werbeplakate for \"Call of Duty Black Ops\" am Timesquare in New York City"
     },
     {
       "title": "Paypal-Probleme noch immer nicht ausgestanden",
@@ -502,14 +504,14 @@
       "image_title": "Smartwatch mit aktiver Google-Wallet-Zahlung mit Paypal"
     },
     {
-      "title": "Kfz-Versicherung wird 2026 nur für einige Autofahrer teurer",
-      "url": "https://www.heise.de/news/Kfz-Versicherung-wird-2026-nur-fuer-einige-Autofahrer-teurer-10628525.html",
-      "image_title": "VW Golf Variant"
+      "title": "IT-Angriff auf Jaguar Land Rover: Produktion und Verkauf gestört",
+      "url": "https://www.heise.de/news/IT-Angriff-auf-Jaguar-Land-Rover-Produktion-und-Verkauf-gestoert-10629646.html",
+      "image_title": "Jaguar E-Type"
     },
     {
-      "title": "Weitere Kryptowährung der Trump-Familie: Heftiger Kursverlust für $WLFI",
-      "url": "https://www.heise.de/news/Weitere-Kryptowaehrung-der-Trump-Familie-Heftiger-Kursverlust-fuer-WLFI-10628415.html",
-      "image_title": "Rote Handelskurve, die nach unten zeigt"
+      "title": "Influencer im Visier der Finanzämter",
+      "url": "https://www.heise.de/news/Influencer-im-Visier-der-Finanzaemter-10629810.html",
+      "image_title": "Young,Woman,Making,Photo,Or,Video,Content,For,Social,Media"
     },
     {
       "title": "Fernmeldegeheimnis gilt bei privater E-Mail-Nutzung durch Mitarbeiter nicht mehr",
@@ -522,24 +524,23 @@
       "image_title": "Reichstaggebäude in Berlin"
     },
     {
-      "title": "Rechtsstreit mit Epic Games: Apple hält App-Store-Urteil für zu weitreichend",
-      "url": "https://www.heise.de/news/Rechtsstreit-mit-Epic-Games-Apple-haelt-App-Store-Urteil-fuer-zu-weitreichend-10626851.html",
-      "image_title": "Icons von App Store und Epic Games Store"
+      "title": "EU-Kommission: Von der Leyens Signal-Client löscht Nachrichten automatisch",
+      "url": "https://www.heise.de/news/Signal-Messenger-Von-der-Leyen-hat-Auto-Delete-fuer-Nachrichten-voreingestellt-10628216.html",
+      "image_title": "Ursula von der Leyen sitzt an einem Tisch, darhinter sind Fahnenstangen mit EU-Fahnen zu sehen"
     },
     {
-      "title": "Girocard auf Rekordkurs – kontaktlos boomt",
-      "url": "https://www.heise.de/news/Girocard-auf-Rekordkurs-kontaktlos-boomt-10628399.html",
-      "image_title": "Versen,,Germany,-,July,9.,2022:,Closeup,Of,Interbank,Network"
+      "title": "Mittwoch: Google entgeht Aufspaltung durch Auflagen, Millionenstrafe für Disney",
+      "url": "https://www.heise.de/news/Mittwoch-Google-entgeht-Aufspaltung-durch-Auflagen-Millionenstrafe-fuer-Disney-10629794.html",
+      "image_title": "Laptop mit Chome-Logo auf dem Bildschirm; Mittwoch: Google-Sanktionen, Disney-Datenschutzstrafe, Call-of-Duty-Film, Jaguar-Störungen & Mondfinsternis-Termin"
     },
     {
-      "title": "Tennisbälle aus dem 3D-Drucker sind nachhaltiger",
-      "url": "https://www.heise.de/news/Tennisbaelle-aus-dem-3D-Drucker-sind-nachhaltiger-10628131.html",
-      "image_title": "Viele Prototypen auf dem Weg zu einem klassisch aussehenden Tennisball"
+      "title": "Windkraftausbau in Europa hinter Erwartungen",
+      "url": "https://www.heise.de/news/Windkraftausbau-in-Europa-hinter-Erwartungen-10629804.html",
+      "image_title": "Windrad"
     },
     {
-      "title": "El Salvador schützt seine Bitcoin-Reserven vor künftigen Gefahren",
-      "url": "https://www.heise.de/news/El-Salvador-schuetzt-seine-Bitcoin-Reserven-vor-kuenftigen-Gefahren-10628277.html",
-      "image_title": "Bitcoins,And,New,Virtual,Money,Concept.gold,Bitcoins,With,Candle,Stick"
+      "title": "Zahlen, bitte! DIN 1451 – Die Schriftart, die jeder kennt, der unterwegs ist",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-DIN-1451-Die-Schriftart-die-Jeder-kennt-der-unterwegs-ist-10628704.html"
     },
     {
       "title": "Freelancer-Studie 2025Was IT-Freiberufler verlangen können",
@@ -586,42 +587,42 @@
       "url": "https://www.heise.de/news/heiseshow-Windows-95-USA-vs-EU-Notrufchaos-10623465.html"
     },
     {
-      "title": "\"Reanimal\": Atmospheric co-op platformer",
-      "url": "https://www.heise.de/en/news/Reanimal-Atmospheric-co-op-platformer-10617257.html"
+      "title": "Brutal crash of the VMware Explore",
+      "url": "https://www.heise.de/en/news/Brutal-crash-of-the-VMware-Explore-10627937.html",
+      "image_title": "Participants of VMware Explore 2025"
+    },
+    {
+      "title": "Matrix main server down, millions of users affected",
+      "url": "https://www.heise.de/en/news/Matrix-main-server-down-millions-of-users-affected-10630524.html",
+      "image_title": "Futuristic data matrix"
     },
     {
       "title": "Zero-click attack on Apple devices via WhatsApp",
-      "url": "https://www.heise.de/en/news/Zero-click-attack-on-Apple-devices-via-WhatsApp-10626688.html",
-      "image_title": "Finger points to Whatsapp app on the smartphone screen"
+      "url": "https://www.heise.de/en/news/Zero-click-attack-on-Apple-devices-via-WhatsApp-10626688.html"
     },
     {
-      "title": "TSMC allegedly increases chip prices",
-      "url": "https://www.heise.de/en/news/TSMC-allegedly-increases-chip-prices-10628178.html"
+      "title": "Android 16: Google distributes Pixel update with Material 3 Expressive",
+      "url": "https://www.heise.de/en/news/Android-16-Google-distributes-Pixel-update-with-Material-3-Expressive-10631292.html"
     },
     {
-      "title": "iPhone: Will there be an iOS 18.7 before iOS 26?",
-      "url": "https://www.heise.de/en/news/iPhone-Will-there-be-an-iOS-18-7-before-iOS-26-10628062.html"
+      "title": "Apertus: Switzerland presents first open and multilingual AI model",
+      "url": "https://www.heise.de/en/news/Apertus-Switzerland-presents-first-open-and-multilingual-AI-model-10629547.html"
     },
     {
-      "title": "At a child-friendly time: Total lunar eclipse on Sunday evening",
-      "url": "https://www.heise.de/en/news/At-a-child-friendly-time-Total-lunar-eclipse-on-Sunday-evening-10629014.html"
+      "title": "reMarkable Paper Pro MoveHandliches E-Ink-Tablet im Test",
+      "teaser": "Das Paper Pro Move ist das erste kompakte Tablet von reMarkable. Es bietet ein farbstarkes E-Ink-Display und gutes Schreibgefühl.",
+      "url": "https://www.heise.de/tests/reMarkable-Paper-Pro-Move-Handliches-E-Ink-Tablet-im-Test-10521856.html"
     },
     {
-      "title": "QuantensprungSo rechnen Sie selbst auf einem Quantencomputer",
-      "teaser": "Mit dem auf Python basierenden Open-Source-Framework Qiskit können Sie kostenlos auf echten Quantencomputern rechnen.",
-      "url": "https://www.heise.de/ratgeber/So-rechnen-Sie-selbst-auf-einem-Quantencomputer-10514870.html",
-      "image_title": "Eine Python, die mit Atomen auf einem Abakus rechnet"
+      "title": "So lebt Ihre Windows-Installation unter Linux weiter",
+      "teaser": "Nach dem Umstieg auf Linux ist es praktisch, bei Bedarf noch auf das vertraute Windows zugreifen zu können. Das geht überraschend bequem.",
+      "url": "https://www.heise.de/ratgeber/So-lebt-Ihre-Windows-Installation-unter-Linux-weiter-10501652.html"
     },
     {
       "title": "Jubiläum30 Jahre eBay: Alles begann mit einem defekten Laserpointer",
       "teaser": "30 Jahre sind für Internetunternehmen ein stolzes Alter. Mit eBay wurde seit 1995 das Ersteigern und Verkaufen im Netz zur Selbstverständlichkeit.",
       "url": "https://www.heise.de/hintergrund/30-Jahre-eBay-Von-der-Verkaufsseite-zum-weltweiten-Riesenmarktplatz-10629942.html",
       "image_title": "Symbolbild zu 30 Jahre eBay"
-    },
-    {
-      "title": "So lebt Ihre Windows-Installation unter Linux weiter",
-      "teaser": "Nach dem Umstieg auf Linux ist es praktisch, bei Bedarf noch auf das vertraute Windows zugreifen zu können. Das geht überraschend bequem.",
-      "url": "https://www.heise.de/ratgeber/So-lebt-Ihre-Windows-Installation-unter-Linux-weiter-10501652.html"
     },
     {
       "title": "Die Schritt-für-Schritt-AnleitungSSD im Mac mini M4 aufrüsten, so geht's",
@@ -647,15 +648,15 @@
       "url": "https://www.heise.de/news/DevBoard-Ultra-Wideband-fuer-Position-und-Tracking-10629554.html"
     },
     {
+      "title": "Tennisbälle aus dem 3D-Drucker sind nachhaltiger",
+      "teaser": "Noé Chouraqui, Student der Central Saint Martins, hat wettbewerbsfähige nachhaltige Tennisbälle entwickelt. Sie entstehen im 3D-Druck aus recycelbarem Filament.",
+      "url": "https://www.heise.de/news/Tennisbaelle-aus-dem-3D-Drucker-sind-nachhaltiger-10628131.html",
+      "image_title": "Viele Prototypen auf dem Weg zu einem klassisch aussehenden Tennisball"
+    },
+    {
       "title": "Hörspiel-Player für Kinder: Galakto Player auseinandergebaut",
       "teaser": "Unter den Hörspiel-Playern für Kinder bietet der Galakto Player ein paar Vorteile gegenüber seinen Mitbewerbern.",
       "url": "https://www.heise.de/ratgeber/Hoerspiel-Player-fuer-Kinder-Galakto-Player-auseinandergebaut-10496194.html"
-    },
-    {
-      "title": "Dateisystem Bcachefs bleibt Teil des Linux-Kernels",
-      "teaser": "Bcachefs bleibt nach Zank jetzt wohl im Kernel, wird aber nicht weiterentwickelt – das ermöglicht störungsfreie Updates, solange Nutzer nicht fremdgehen.",
-      "url": "https://www.heise.de/news/Bcachefs-Dateisystem-verbleibt-offenbar-stagnierend-in-Linux-10626600.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
     },
     {
       "title": "DxO PhotoLab 9: intelligente Masken und verbesserter iPhone-Workflow",
@@ -695,16 +696,16 @@
       "url": "https://www.heise.de/hintergrund/Kratix-kubriX-und-OpenChoreo-Developer-Plattformen-fuer-Kubernetes-im-Vergleich-10513140.html"
     },
     {
-      "title": "Auf den Spuren des Audi TTVorstellung Audi Concept C",
-      "teaser": "Die Marke Audi hat sich ein neues Design verordnet, mit dem die Marke wieder anders wahrgenommen werden soll.",
-      "url": "https://www.heise.de/news/Vorstellung-Audi-Concept-C-Auf-den-Spuren-des-Audi-TT-10629888.html",
-      "image_title": "Audi Concept C"
+      "title": "Warum die Chinesen nun auf PHEV setzenVorstellung BYD Seal 6 DM-i Touring",
+      "teaser": "Ausgerechnet der chinesische Autohersteller BYD macht sich auf den Weg, seinen Marktanteil in Europa mit einem Plug-in-Hybrid im Kombi-Format zu erhöhen.",
+      "url": "https://www.heise.de/news/Vorstellung-BYD-Seal-6-DM-i-Touring-Warum-die-Chinesen-nun-auf-PHEV-setzen-10629377.html",
+      "image_title": "BYD Seal 6 DM-i Touring"
     },
     {
-      "title": "Produktion und Verkauf gestörtIT-Angriff auf Jaguar Land Rover",
-      "teaser": "Jaguar Land Rover hat nach einem Angriff seine IT-Systeme heruntergefahren. Damit stocken Produktion wie Vertrieb.",
-      "url": "https://www.heise.de/news/IT-Angriff-auf-Jaguar-Land-Rover-Produktion-und-Verkauf-gestoert-10629646.html",
-      "image_title": "Jaguar E-Type"
+      "title": "Regionalklasse Kfz-Versicherung wird 2026 nur für einige Autofahrer teurer",
+      "teaser": "Ändert sich die Regionalklasse der Kfz-Versicherung, kann diese teurer werden. 2026 betrifft das aber nur einige Regionen.",
+      "url": "https://www.heise.de/news/Kfz-Versicherung-wird-2026-nur-fuer-einige-Autofahrer-teurer-10628525.html",
+      "image_title": "VW Golf Variant"
     },
     {
       "title": "Rund 15 Modellprojekte für autonomes Fahren in Deutschland",
@@ -760,16 +761,16 @@
       "image_title": "Maiskolben vor manipuliertem Genom. Verbotschild mit Marienkäfer"
     },
     {
-      "title": "Gleichheit in Gefahr? Philosophen fordern radikales Umdenken",
-      "teaser": "Zwei renommierte Philosophen warnen: Soziale Ungleichheit und Ressentiments spalten unsere Gesellschaft. Braucht es ein radikales Umdenken?",
-      "url": "https://www.heise.de/tp/features/Gleichheit-in-Gefahr-Philosophen-fordern-radikales-Umdenken-10629137.html",
-      "image_title": "KI-generierte Grafik zeigt eine Stadtszene mit scharfem Kontrast: links gläserne Hochhäuser und eine weiße Luxusjacht im Hafen, rechts eine Bankreihe mit Menschen in schlichten Kleidern und Plastiktüten, getrennt durch eine Promenade"
+      "title": "3 Millionen Arbeitslose – Kommt jetzt der soziale Absturz?",
+      "teaser": "Schönreden statt Kurswechsel: Hinter der Arbeitsmarkt-Misere steckt eine jahrelange Produktivitätskrise. Droht Deutschland der Absturz? Gastbeitrag.",
+      "url": "https://www.heise.de/tp/features/3-Millionen-Arbeitslose-Kommt-jetzt-der-soziale-Absturz-10627678.html",
+      "image_title": "KI-generierte Illustration zeigt einen Mann im Schattenriss mit gebeugtem Kopf vor einem steilen Abhang. Dazu gibt es einen dicken roten Pfeil, der nach unter weist - mit einem Fragezeichen."
     },
     {
-      "title": "Der Fall Nord Stream: Falsche Freunde unter sich",
-      "teaser": "Ukrainer sollen Nord Stream 2 gesprengt haben. Die Auftraggeber könnten in Kiew sitzen. Welche Folgen hat das für die Beziehungen zwischen Kiew, Washington und Berlin?",
-      "url": "https://www.heise.de/tp/features/Der-Fall-Nord-Stream-Falsche-Freunde-unter-sich-10629151.html",
-      "image_title": "Symbolbild der Nordstream-Pipeline"
+      "title": "Aufbaustrategie: Zwei würdige Siedler-Erben stehen in den Startlöchern",
+      "teaser": "Während Ubisoft mit der Siedler-Reihe strauchelt, entwickeln deutsche Programmierer zwei geistige Nachfolger. Gibt es neue Hoffnung am Aufbau-Himmel?",
+      "url": "https://www.heise.de/tp/features/Aufbaustrategie-Zwei-wuerdige-Siedler-Erben-stehen-in-den-Startloechern-10629037.html",
+      "image_title": "Aufbaustrategiespiel"
     },
     {
       "title": "Die große heise \"Back to School\"-Aktion",
