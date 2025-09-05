@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-05T09:10:30",
+  "timestamp": "2025-09-05T10:10:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,14 +26,62 @@
   ],
   "articles": [
     {
+      "title": "Microsoft stellt Rust-Repository für die Windows-Treiberentwicklung vor",
+      "teaser": "Windows-Treiber in Rust programmieren – Microsoft zieht Zwischenbilanz und stellt ein spezielles Repository mit Rust-Tools vor.",
+      "url": "https://www.heise.de/news/Microsoft-stellt-Rust-Repository-fuer-die-Windows-Treiberentwicklung-vor-10633912.html",
+      "image_title": "Krabbe vor Monitor"
+    },
+    {
+      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
+      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-10607386.html",
+      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
+    },
+    {
+      "title": "CA in der Kritik: Zertifikate für 1.1.1.1 bringen Cloudflare auf die Palme",
+      "teaser": "Zwar bestand keine Gefahr für die meisten Internetnutzer, der CDN-Riese ist dennoch wenig amüsiert. Und übt deutliche Selbstkritik.",
+      "url": "https://www.heise.de/news/CA-in-der-Kritik-Zertifikate-fuer-1-1-1-1-bringen-Cloudflare-auf-die-Palme-10633312.html",
+      "image_title": "\"https\" in einer Suchleiste eines Browser"
+    },
+    {
+      "title": "SAP: 20 Milliarden Euro für die Souveränität",
+      "teaser": "Mit den Erweiterungen des Sovereign-Cloud-Angebots unterstützt SAP verschiedene Bereitstellungsmodelle – einschließlich Betrieb in lokalen Rechenzentren.",
+      "url": "https://www.heise.de/news/SAP-20-Milliarden-Euro-fuer-die-Souveraenitaet-10634104.html",
+      "image_title": "Wolken mit Pfeilen, blauer Hintergrund"
+    },
+    {
+      "title": "HintergrundDatacenter Interconnects: Was beim Verbinden von Rechenzentren zu beachten ist",
+      "url": "https://www.heise.de/hintergrund/Datacenter-Interconnects-Was-beim-Verbinden-von-Rechenzentren-zu-beachten-ist-10623806.html"
+    },
+    {
+      "title": "RatgeberVorsicht Kunde: EWR korrigiert vertauschte Zählernummern nicht",
+      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-EWR-korrigiert-vertauschte-Zaehlernummern-nicht-10473632.html"
+    },
+    {
+      "title": "RatgeberChatGPT: Wie KI-Objekterkennung mit Prompting funktioniert",
+      "url": "https://www.heise.de/ratgeber/ChatGPT-Wie-KI-Objekterkennung-mit-Prompting-funktioniert-10455436.html"
+    },
+    {
+      "title": "FreeBSD-Policy: KI-generierter Quellcode ? Nein, Danke!",
+      "teaser": "Das FreeBSD Core Team hat LLM-basierten Quellcode-Beiträgen eine klare Absage erteilt. Es folgt damit anderen Open-Source-Projekten.",
+      "url": "https://www.heise.de/news/FreeBSD-Policy-KI-generierter-Quellcode-Nein-Danke-10633928.html",
+      "image_title": "FreeBSD-Schriftzug vor 0ern und 1ern"
+    },
+    {
+      "title": "Retro-Trend: Facebook holt das Anstupsen wieder hervor",
+      "teaser": "Vor 20 Jahren war es eine beliebte Interaktion: In den USA will Facebook offenbar das Anstupsen wieder in den Fokus rücken. Doch stupsen die Nutzer noch zurück?",
+      "url": "https://www.heise.de/news/Retro-Trend-Facebook-holt-das-Anstupsen-wieder-hervor-10633968.html",
+      "image_title": "Lupe auf Facebook in einem Browser"
+    },
+    {
       "title": "Microsoft erzwingt mehr Multifaktorauthentifizierung",
       "teaser": "Microsoft aktualisiert die Pläne für \"Phase 2\" der erzwungenen Multifaktorauthentifizierung für Azure. Am 1.10. sind mehr Dienste fällig.",
       "url": "https://www.heise.de/news/Microsoft-erzwingt-mehr-Multifaktorauthentifizierung-10633932.html",
       "image_title": "Leuchtender Fingerabdruck"
     },
     {
-      "title": "Apple-KeynoteBei diesen Produkten muss man noch zittern",
-      "teaser": "Am Dienstag steigt Apples diesjährige iPhone-Präsentation. Neben Handys werden mindestens neue Computeruhren erwartet.",
+      "title": "Apple-Keynote: Bei diesen Produkten muss man noch zittern",
+      "teaser": "Am Dienstag steigt Apples diesjährige iPhone-Präsentation. Neben Handys werden mindestens neue Computeruhren erwartet. Doch was ist mit anderen Produkten?",
       "url": "https://www.heise.de/news/Apple-Keynote-Bei-diesen-Produkten-muss-man-noch-zittern-10632576.html",
       "image_title": "Tim Cook mit iPads"
     },
@@ -48,18 +96,6 @@
       "teaser": "Sicherheitsupdates schließen Lücken in unter anderem Nvidias KI-Plattformen DGX und HGX.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Nvidia-KI-und-Netzwerktechnik-als-Einfallstor-fuer-Angreifer-10633280.html",
       "image_title": "Ein symbolischer Updatebalken"
-    },
-    {
-      "title": "HintergrundDatacenter Interconnects: Was beim Verbinden von Rechenzentren zu beachten ist",
-      "url": "https://www.heise.de/hintergrund/Datacenter-Interconnects-Was-beim-Verbinden-von-Rechenzentren-zu-beachten-ist-10623806.html"
-    },
-    {
-      "title": "RatgeberVorsicht Kunde: EWR korrigiert vertauschte Zählernummern nicht",
-      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-EWR-korrigiert-vertauschte-Zaehlernummern-nicht-10473632.html"
-    },
-    {
-      "title": "RatgeberChatGPT: Wie KI-Objekterkennung mit Prompting funktioniert",
-      "url": "https://www.heise.de/ratgeber/ChatGPT-Wie-KI-Objekterkennung-mit-Prompting-funktioniert-10455436.html"
     },
     {
       "title": "Risikomanagement und Resilienz in der IT-Sicherheit: IT-Sicherheitstag Dortmund",
@@ -113,42 +149,6 @@
       "teaser": "Angebliche Personalvermittler haben Beschäftigten der Kryptobranche neue Jobs angeboten, diese dann aber bestohlen. Das ist wohl eine nordkoreanische Kampagne.",
       "url": "https://www.heise.de/news/Wie-Nordkorea-Kryptowaehrung-mit-vermeintlichen-Stellenangeboten-ergaunert-10633077.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "Microsoft Office ohne Teams soll EU-Strafe verhindern",
-      "teaser": "Microsoft kommt wohl um eine EU-Wettbewerbsstrafe herum. Office 365 soll ohne Teams ein bisschen weniger kosten.",
-      "url": "https://www.heise.de/news/Microsoft-Office-ohne-Teams-soll-EU-Strafe-verhindern-10632970.html",
-      "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
-    },
-    {
-      "title": "Datenschutz: Rekordstrafen gegen Google & Shein wegen Cookies und Inbox-Werbung",
-      "teaser": "Google muss in Frankreich 325 Millionen, der Onlinehändler Shein 150 Millionen Euro zahlen. Beide haben keine ausreichende Zustimmung für Cookies eingeholt.",
-      "url": "https://www.heise.de/news/Datenschutz-Rekordstrafen-gegen-Google-Shein-wegen-Cookies-und-Inbox-Werbung-10632895.html",
-      "image_title": "Nahaufnahme eines Smartphones, auf dem Gmail geöffnet ist"
-    },
-    {
-      "title": "UpdateLinux Mint 22.2 \"Zara\" ist erschienen",
-      "teaser": "Linux Mint 22.2 frischt die enthaltene Software auf, nimmt die Fingerabdrücke seiner Nutzer ab und stülpt Libadwaita-Programmen die eigene Optik über.",
-      "url": "https://www.heise.de/news/Linux-Mint-22-2-Zara-ist-erschienen-10632731.html",
-      "image_title": "Linux Mint 2.22 Desktop auf Notebook auf Tisch"
-    },
-    {
-      "title": "Trittbrettfahrer per Vibe Coding: Sicherheitsmeldungen verraten wichtige Details",
-      "teaser": "Taktiken, Techniken und Prozeduren der Angreifergruppen lassen sich mit LLMs leicht nachahmen – perfekt für Attacken unter falscher Flagge. KI baut die Malware.",
-      "url": "https://www.heise.de/news/Vibe-Malware-Ermutigen-detaillierte-Sicherheitsmeldungen-KI-Nachahmungen-10632628.html",
-      "image_title": "Laptop mit Code-Zeilen"
-    },
-    {
-      "title": "KI-Leak: Apple will 2026 angeblich eine Antwort auf alles haben",
-      "teaser": "Siri wird zur Antwortmaschine: Apple plant angeblich eine KI-gestützte Websuche und sucht hierfür die Kooperation mit Google.",
-      "url": "https://www.heise.de/news/KI-Leak-Apple-will-2026-angeblich-eine-Antwort-auf-alles-haben-10632700.html",
-      "image_title": "Apples Siri"
-    },
-    {
-      "title": "Dia und Arc: Atlassian kauft The Browser Company",
-      "teaser": "Die australische Softwarefirma Atlassian hat das KI-Start-up und Entwickler der Browser Arc und Dia, The Browser Company, übernommen.",
-      "url": "https://www.heise.de/news/Atlassian-uebernimmt-The-Browser-Company-fuer-610-Millionen-US-Dollar-10632666.html",
-      "image_title": "Dia Logo"
     },
     {
       "title": "NewsZur kinderfreundlichen Uhrzeit: Totale Mondfinsternis am Sonntagabend",
