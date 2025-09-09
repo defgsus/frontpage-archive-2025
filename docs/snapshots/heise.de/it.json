@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-09T11:08:40",
+  "timestamp": "2025-09-09T12:20:15",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Bestie statt for-Schleife: KI entwickelt Programmiersprache im Gen-Z-Slang",
-      "teaser": "Ein Entwickler aus Australien hat Claude Code drei Monate in Dauerschleife laufen lassen, um einen GenZ-Compiler zu entwickeln. Das Ergebnis nennt er Cursed.",
+      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-10627714.html",
+      "image_title": "iX-Workshop: Advanced Kubernetes Security"
+    },
+    {
+      "title": "Wie man eine eigene Platform-as-a-Service-Umgebung mit Coolify hosted",
+      "teaser": "Coolify macht jeden Server zur Plattform, die mit wenig Einrichtungsaufwand Software ausführt – nützlich für Heimserverbetreiber und Entwicklerteams.",
+      "url": "https://www.heise.de/ratgeber/Wie-man-eine-eigene-Platform-as-a-Service-Umgebung-mit-Coolify-hosted-10449808.html"
+    },
+    {
+      "title": "Bestie statt for-SchleifeKI entwickelt Programmiersprache im Gen-Z-Slang",
+      "teaser": "Ein Entwickler aus Australien hat Claude Code drei Monate in Dauerschleife laufen lassen, um einen GenZ-Compiler zu entwickeln.",
       "url": "https://www.heise.de/news/Bestie-statt-for-Schleife-KI-entwickelt-Programmiersprache-im-Gen-Z-Slang-10637836.html",
       "image_title": "Screenshot der Website der Programmiersprache Cursed"
     },
@@ -36,18 +47,6 @@
       "teaser": "Ein neues Headset, ein neuer Markenname und eine neue Zielgruppe: Valve bastelt an einer VR-Brille, die den XR-Markt erneut aufmischen könnte.",
       "url": "https://www.heise.de/hintergrund/Steam-Frame-Valves-naechste-VR-Brille-darf-sich-keine-Kompromisse-erlauben-10637772.html",
       "image_title": "Eine dunkle VR-Brille auf schwarzem Hintergrund"
-    },
-    {
-      "title": "OpenAI Paper: Halluzinationen offenbar unumgänglich",
-      "teaser": "Große Sprachmodelle und KI-Chatbots, die nicht halluzinieren? Das hält selbst OpenAI für unmöglich. Aber es gibt einen Ausweg.",
-      "url": "https://www.heise.de/news/OpenAI-Paper-Halluzinationen-offenbar-unumgaenglich-10637744.html",
-      "image_title": "Das Logo von OpenAI an einer Glasfassade"
-    },
-    {
-      "title": "SSD-Probleme unter Windows: Alte Firmware soll schuld sein",
-      "teaser": "SSD-Probleme unter Windows 11 sollen dann aufgetreten sein, wenn der Hersteller eine nicht finale Firmware-Version aufgespielt hat.",
-      "url": "https://www.heise.de/news/SSD-Probleme-unter-Windows-Alte-Firmware-soll-schuld-sein-10637702.html",
-      "image_title": "Zahlreiche M.2-SSDs diagonal nebeneinander angeordnet"
     },
     {
       "title": "RatgeberAnleitung: Docker startet virtuelle Maschinen mit Linux, macOS und Windows",
@@ -62,6 +61,18 @@
       "title": "RatgeberFAQ: Alles über DSL-Anschlüsse",
       "url": "https://www.heise.de/ratgeber/FAQ-Alles-ueber-DSL-Anschluesse-10498454.html",
       "image_title": "Ein schwarzer Router von TP-Link"
+    },
+    {
+      "title": "OpenAI Paper: Halluzinationen offenbar unumgänglich",
+      "teaser": "Große Sprachmodelle und KI-Chatbots, die nicht halluzinieren? Das hält selbst OpenAI für unmöglich. Aber es gibt einen Ausweg.",
+      "url": "https://www.heise.de/news/OpenAI-Paper-Halluzinationen-offenbar-unumgaenglich-10637744.html",
+      "image_title": "Das Logo von OpenAI an einer Glasfassade"
+    },
+    {
+      "title": "SSD-Probleme unter Windows: Alte Firmware soll schuld sein",
+      "teaser": "SSD-Probleme unter Windows 11 sollen dann aufgetreten sein, wenn der Hersteller eine nicht finale Firmware-Version aufgespielt hat.",
+      "url": "https://www.heise.de/news/SSD-Probleme-unter-Windows-Alte-Firmware-soll-schuld-sein-10637702.html",
+      "image_title": "Zahlreiche M.2-SSDs diagonal nebeneinander angeordnet"
     },
     {
       "title": "enterJS Web Security Day: Frühbucherrabatt bis 18. September",
@@ -139,18 +150,6 @@
       "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-10627696.html",
       "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
-    },
-    {
-      "title": "\"Single point of failure\": 400 Wissenschaftler gegen Chatkontrolle",
-      "teaser": "Forscher aus 33 Ländern protestieren gegen die massenhafte Überwachung auf Endgeräten. Sie bringe wenig und gefährde die Sicherheit aller, mahnen sie.",
-      "url": "https://www.heise.de/news/400-Wissenschaftler-sprechen-sich-gegen-Chatkontrolle-aus-10636986.html",
-      "image_title": "EU-Fahnen vor dem Gebäude des Europäischen Parlaments in Brüssel."
-    },
-    {
-      "title": "AlertGroßer Angriff auf node.js",
-      "teaser": "Über Spearphishing ist ein Kryptowährungsdieb in das npm-Konto eines fleißigen Entwicklers gelangt. node.js-Pakete mit Milliarden Downloads sind betroffen.",
-      "url": "https://www.heise.de/news/Grosser-Angriff-auf-node-js-10637088.html",
-      "image_title": "Matrixdisplay zeigt \"A problem has to your comput\" in nächtlicher Umgebung"
     },
     {
       "title": "NewsDaikin verlagert Wärmepumpen-Produktion und Jobs von Deutschland nach Tschechien",
