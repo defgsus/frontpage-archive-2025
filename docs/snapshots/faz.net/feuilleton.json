@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-09T09:11:23",
+  "timestamp": "2025-09-09T10:11:09",
   "url": "https://www.faz.net/aktuell/feuilleton/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "Comic „Glückskind“ von Flix: Ein Vater, ein Kind, ein Waschbär",
+      "teaser": "Phil Glück ist alleinerziehender Vater. Oder ist nicht vielmehr Josie seine alleinerziehende Tochter? Und wer ist Rocco bei alledem? Woche für Woche erzählt Flix von ihnen in einer neuen „Glückskind“-Folge.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/comic-glueckskind-von-flix-ein-vater-ein-kind-ein-waschbaer-16569567.html"
+    },
+    {
       "title": "Bayreuth Baroque: Was für ein Schabernack!",
       "teaser": "Umwerfender Gesang und komische Regie: Max Emanuel Cenčić erweckt beim Festival Bayreuth Baroque die Oper „Pompeo Magno“ von Francesco Cavalli zu prallem Leben.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/oper/pompeo-magno-bei-bayreuth-baroque-accg-110675870.html"
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/oper/pompeo-magno-bei-bayreuth-baroque-accg-110675870.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/3175376292/1.10675872/16x9/venezianisches-matratzenduett.jpg",
+      "image_title": "Venezianisches Matratzenduett: Sophie Junker und Valer Sabadus"
     },
     {
       "title": "FAZ+Klassengesellschaft: „Moralische Überzeugungen sind zu einem Lebensstil geworden“",
@@ -90,13 +97,6 @@
       "image_title": "Dana Schutz in ihrem Atelier, umgeben von Metaphern künstlerischer Autonomie"
     },
     {
-      "title": "Streit in der Familie: Rupert Murdoch regelt Nachfolge seines Medienimperiums",
-      "teaser": "Mit 94 Jahren entscheidet der Multimilliardär: Der konservativere seiner Söhne soll künftig das Sagen über Fox News & Co. haben. Drei andere Kinder lassen sich aus der Familienstiftung herauskaufen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/murdoch-regelt-die-nachfolge-fox-news-geht-an-den-konservativen-sohn-accg-110676969.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/wirtschaft/2648915849/1.10676984/16x9/rupert-murdoch-steht-2016.jpg",
-      "image_title": "Rupert Murdoch steht 2016 zwischen seinen Söhnen Lachlan (l.) und James."
-    },
-    {
       "title": "KI wird fehlerhafter: Wenn der Chatbot schnell falsch liegt",
       "teaser": "Chatbots verbreiten immer mehr politische Falschinformationen, zeigt eine Untersuchung der Firma Newsguard. Anthropic schneidet mit Claude am besten ab, Perplexity liegt oft daneben. Wer auf KI vertraut, sollte gewarnt sein.",
       "url": "https://www.faz.net/aktuell/feuilleton/ki-analyse-chatbots-verbreiten-immer-mehr-falschinformationen-110676383.html",
@@ -104,7 +104,7 @@
       "image_title": "Michael Hanfeld"
     },
     {
-      "title": "„Kulturkampf von rechts“: Wer hat Angst vor der AfD?",
+      "title": "FAZ+„Kulturkampf von rechts“: Wer hat Angst vor der AfD?",
       "teaser": "Der Intendant des Senftenberger Theaters muss angeblich aus Angst vor der AfD gehen. In Wahrheit entpuppt sich der rechte Kulturkampf als Nebelkerze. Und wirft die Frage auf, wie groß der Druck von rechts gerade wirklich ist.",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/kulturkampf-von-rechts-mythos-oder-realitaet-110676281.html",
       "image_url": "https://media0.faz.net/ppmedia/w100/redaktion/4095410404/1.4532378/format_jsonld_1x1/hq/autorenportraet-strauss-simon.jpg",
@@ -198,6 +198,13 @@
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/buecher-podcast/auf-venedig-habe-ich-keine-lust-valentin-groebner-ueber-reisen-zum-vergnuegen-110636662.html"
     },
     {
+      "title": "Streit in der Familie: Rupert Murdoch regelt Nachfolge seines Medienimperiums",
+      "teaser": "Mit 94 Jahren entscheidet der Multimilliardär: Der konservativere seiner Söhne soll künftig das Sagen über Fox News & Co. haben. Drei andere Kinder lassen sich aus der Familienstiftung herauskaufen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/murdoch-regelt-die-nachfolge-fox-news-geht-an-den-konservativen-sohn-accg-110676969.html",
+      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/wirtschaft/2648915849/1.10676984/16x9/rupert-murdoch-steht-2016.jpg",
+      "image_title": "Rupert Murdoch steht 2016 zwischen seinen Söhnen Lachlan (l.) und James."
+    },
+    {
       "title": "Kunstauktion in Bern: Freunde fürs Leben",
       "teaser": "Die Galerie Kornfeld in Bern versteigert Werke der Brüder Giacometti, von Munch und Monet. Wieder stammen die eindrucksvollsten Lose aus der Sammlung ihres verstorbenen früheren Leiters Eberhard W. Kornfeld.",
       "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/mit-giacometti-jahresauktion-bei-kornfeld-in-bern-accg-110672798.html",
@@ -205,16 +212,9 @@
       "image_title": "Taxe 1,75 Millionen Franken: Alberto Giacomettis „Buste sur socle“ in farbig gefasstem Gips, um 1957, aus der Sammlung Eberhard W. Kornfeld"
     },
     {
-      "title": "Roman von Paul Theroux: George Orwell in jungen Jahren",
-      "teaser": "Paul Theroux erzählt in „Burma Sahib“ vom berühmten Schriftsteller als jungem Kolonialbeamten: Was erlebte Eric Blair im fernen Asien, und was nahm er davon in sein Werk auf, das er unter dem Namen George Orwell veröffentlichte?",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/paul-theroux-roman-ueber-den-jungen-george-orwell-110676102.html",
-      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/4105647115/1.10676099/16x9/george-orwell-in-burma.jpg",
-      "image_title": "George Orwell in Burma"
-    },
-    {
       "title": "FAZ+Hype um Bestseller-Autorin: Wer hat Angst vor Caroline Wahl?",
       "teaser": "„Amateurhaft und naiv“: Während Kritiker den neuen Roman „Die Assistentin“ der Bestsellerautorin Caroline Wahl mit Samthandschuhen anfassen, laufen Fans im Netz Sturm. Viele sind entsetzt.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/caroline-wahls-neuer-roman-die-assistentin-veraergert-fans-accg-110668127.html",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/caroline-wahls-neuer-roman-warum-polarisiert-die-assistentin-so-sehr-accg-110668127.html",
       "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/4226508711/1.10668112/16x9/caroline-wahl-freut-sich-ueber.jpg",
       "image_title": "Caroline Wahl freut sich über die Verfilmung ihres Romans „22 Bahnen“."
     },
@@ -260,10 +260,17 @@
       "image_title": "„Wir sind wie Schwestern, Seelenschwestern“: Semiya Şimşek und Gamze Kubaşık (Töchter der NSU-Opfer Enver Şimşek und Mehmet Kubaşık) vor ihrer Lesung am 30. August 2025 hinter dem Gebäude des Dokumentationszentrums zum NSU-Komplex in Chemnitz"
     },
     {
+      "title": "Roman von Paul Theroux: George Orwell in jungen Jahren",
+      "teaser": "Paul Theroux erzählt in „Burma Sahib“ vom berühmten Schriftsteller als jungem Kolonialbeamten: Was erlebte Eric Blair im fernen Asien, und was nahm er davon in sein Werk auf, das er unter dem Namen George Orwell veröffentlichte?",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/paul-theroux-roman-ueber-den-jungen-george-orwell-110676102.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/4105647115/1.10676099/21x9/george-orwell-in-burma.jpg",
+      "image_title": "George Orwell in Burma"
+    },
+    {
       "title": "Hermann-Göring-Biographie: Je tiefer er in Hitlers Gunst sank, desto stärker wurde seine Neigung zum Exzess",
       "teaser": "Zur Geburtstagsfeier gab es 280 Flaschen Wein und Champagner, dazu 85 Flaschen Cognac und 500 Zigarren: Andreas Molitor legt eine gut gearbeitete Biographie Hermann Görings vor.",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/andreas-molitors-biographie-ueber-hermann-goering-accg-110672428.html",
-      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/782525841/1.10671837/21x9/hermann-goering-spricht.jpg",
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/782525841/1.10671837/16x9/hermann-goering-spricht.jpg",
       "image_title": "Hermann Göring spricht während seiner Gefangenschaft mit seinem Anwalt Otto Stahmer, aufgenommen 1946"
     },
     {
@@ -271,12 +278,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/katharina-volckmer-ueber-ihr-leben-als-expat-in-grossbritannien-accg-110671597.html",
       "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/1254474164/1.10671587/16x9/katharina-volckmer-2014-bei.jpg",
       "image_title": "Katharina Volckmer 2014 bei der offiziellen 'Degree Ceremony' in Oxford, als ihr die Doktorwürde verliehen wurde, links ihr Lebensgefährte Maurizio Zatti"
-    },
-    {
-      "title": "Frankfurter Anthologie: Mahmoud Darwish: „In Jerusalem“",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-anthologie/mahmoud-darwish-in-der-frankfurter-anthologie-110672303.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/feuilleton/buecher/frankfurter-anthologie/4091845448/1.10672342/16x9/125d2ffa-8a35-11f0-82b6.jpg"
     },
     {
       "title": "Serie zu Tierleben in Europa: Wenn der Sperber durch den Jägerzaun taucht",
@@ -370,17 +371,18 @@
       "image_title": "Bloß nicht verlaufen! „Carp City“ ist im Moritz Verlag erschienen."
     },
     {
-      "title": "Comic „Glückskind“ von Flix: Ein Vater, ein Kind, ein Waschbär",
-      "teaser": "1517 Bilder",
-      "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/comic-glueckskind-von-flix-ein-vater-ein-kind-ein-waschbaer-16569567.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/1348684276/1.10675645/16x9/comic-flix-glueckskind-506.jpg"
-    },
-    {
       "title": "FAZ+Kolumne „Vor dem Gesetz“: Wie geheim sollen Rechtsanwälte sein?",
       "teaser": "Medien wollen oft schon während der Ermittlung die Namen der Anwälte kennen, während die Verteidigung meist eher an Anonymität interessiert ist. Die Frage wird wahrscheinlich höchstrichterlich geklärt werden müssen.",
       "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/wie-geheim-sollen-rechtsanwaelte-sein-accg-110670428.html",
       "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/gesellschaft/1152246719/1.10529859/16x9/die-anklagte-mit-ihrem-anwalt.jpg",
       "image_title": "Die Anklagte mit ihrem Anwalt: Sie muss sich vor Gericht wegen gefährlicher und vorsätzlicher Körperverletzung sowie Bedrohung verantworten."
+    },
+    {
+      "title": "Kolumne Geschmackssache: Die Mutter der Hochgenusskompagnie",
+      "teaser": "Douce Steiner ist nicht nur die beste Köchin Deutschlands, sondern auch vollkommen mit sich im Reinen. Und das schmeckt man in ihrem Restaurant „Hirschen“ im Markgräflerland.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/geschmackssache/markgraeflerland-spitzenkoechin-douce-steiner-accg-110669895.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/3657032024/1.10669890/16x9/die-schaetze-der-weltmeere.jpg",
+      "image_title": "Die Schätze der Weltmeere, serviert im Markgräflerland: Douce Steiners Küche hat noch nie Grenzen gekannt."
     },
     {
       "title": "Abschluss nach 30 Jahren: Wie man mit Comics philosophieren kann",
@@ -404,11 +406,10 @@
       "image_title": "Walter Abresch in seinem Element - und inmitten seiner Sammlung."
     },
     {
-      "title": "Frankfurter Anthologie: Bertolt Brecht: „Aber das niedrige Gras“",
+      "title": "Frankfurter Anthologie: Mahmoud Darwish: „In Jerusalem“",
       "teaser": "Podcast",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-anthologie/bertolt-brecht-in-der-frankfurter-anthologie-110661121.html",
-      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/feuilleton/buecher/frankfurter-anthologie/2526857337/1.9355370/16x9/bertolt-brecht-aufgenommen.jpg",
-      "image_title": "Bertolt Brecht (aufgenommen 1927)"
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-anthologie/mahmoud-darwish-in-der-frankfurter-anthologie-110672303.html",
+      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/feuilleton/buecher/frankfurter-anthologie/4091845448/1.10672342/16x9/125d2ffa-8a35-11f0-82b6.jpg"
     }
   ]
 }
