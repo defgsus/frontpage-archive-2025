@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-10T07:09:45",
+  "timestamp": "2025-09-10T08:14:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,28 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-10627726.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "AlertPatchday Adobe: Lücken in Acrobat & Co. können Schadcode auf PCs lassen",
+      "teaser": "Angreifer können unter anderem Adobe Acrobat, ColdFusion und Premiere Pro attackieren. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Luecken-in-Acrobat-Co-koennen-Schadcode-auf-PCs-lassen-10639095.html",
+      "image_title": "Aufmacher Adobe Patchday"
+    },
+    {
+      "title": "Warum viele Teams mit Monolithen besser fahren als mit Micro-Frontends",
+      "teaser": "Der Hype um Micro-Frontends kühlt ab. Insbesondere für kleine Webentwicklungsteams können Monolithen eine geeignetere Softwarearchitektur sein.",
+      "url": "https://www.heise.de/hintergrund/Warum-viele-Teams-mit-Monolithen-besser-fahren-als-mit-Micro-Frontends-10638116.html",
+      "image_title": "Hindukusch"
+    },
+    {
       "title": "\"Passwort\" Folge 40: Probleme mit Widerrufen, Verbindungsabbrüchen und anderem",
       "teaser": "Eine pickepackevolle Folge, gefüllt unter anderem mit kundigem Exploitbau unter Linux, einem HTTP2-DoS und millionenfachen Zertifikatsrückrufen von Microsoft.",
       "url": "https://www.heise.de/news/Passwort-Folge-40-Probleme-mit-Widerrufen-Verbindungsabbruechen-und-anderem-10632694.html",
       "image_title": "Bild vom heise-Security-Podcast"
-    },
-    {
-      "title": "Anleitung: Docker startet virtuelle Maschinen mit Linux, macOS und Windows",
-      "teaser": "Docker macht es möglich: macOS, Linux und Windows als VM in Container verpacken, sodass macOS unter Windows startet und ARM-Windows auf dem Raspi 5 läuft.",
-      "url": "https://www.heise.de/ratgeber/Anleitung-Docker-startet-virtuelle-Maschinen-mit-Linux-macOS-und-Windows-10560140.html"
-    },
-    {
-      "title": "AlertPatchday Microsoft: Schadcode-Schlupflöcher in Office und Windows geschlossen",
-      "teaser": "Damit Angreifer Sicherheitslücken nicht ausnutzen können, müssen Admins sicherstellen, dass Windows Update aktiv ist: Es gibt wichtige Sicherheitspatches.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Schadcode-Schlupfloecher-in-Office-und-Windows-geschlossen-10639037.html"
-    },
-    {
-      "title": "Kommentar: KI frisst Junior-Stellen – und unsere Zukunft?",
-      "teaser": "Unternehmen sparen Junior-Stellen ein und hoffen auf KI – doch ohne Nachwuchs gibt es keine Senior Developer von morgen. Ein riskantes Spiel.",
-      "url": "https://www.heise.de/meinung/Kommentar-KI-frisst-Junior-Stellen-und-unsere-Zukunft-10636341.html",
-      "image_title": "Eine Person sitzt in gebeugter Haltung vor einem Laptop."
     },
     {
       "title": "HintergrundRückblick: Maker Faire Hannover 2025 – ein Festival der Kreativität",
@@ -60,6 +62,17 @@
       "title": "TestsZwei Mini-PCs mit ARM- und x86-Prozessoren im Vergleich",
       "url": "https://www.heise.de/tests/Zwei-Mini-PCs-mit-ARM-und-x86-Prozessoren-im-Vergleich-10520545.html",
       "image_title": "Zwei Mini-PCs auf hellblauem Hintergrund"
+    },
+    {
+      "title": "AlertPatchday Microsoft: Azure, Office, Windows & Co. sind angreifbar",
+      "teaser": "Damit Angreifer Sicherheitslücken nicht ausnutzen können, müssen Admins sicherstellen, dass Windows Update aktiv ist: Es gibt wichtige Sicherheitspatches.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Schadcode-Schlupfloecher-in-Office-und-Windows-geschlossen-10639037.html"
+    },
+    {
+      "title": "Kommentar: KI frisst Junior-Stellen – und unsere Zukunft?",
+      "teaser": "Unternehmen sparen Junior-Stellen ein und hoffen auf KI – doch ohne Nachwuchs gibt es keine Senior Developer von morgen. Ein riskantes Spiel.",
+      "url": "https://www.heise.de/meinung/Kommentar-KI-frisst-Junior-Stellen-und-unsere-Zukunft-10636341.html",
+      "image_title": "Eine Person sitzt in gebeugter Haltung vor einem Laptop."
     },
     {
       "title": "Zukunftsfähige Krankenhaus-IT: Digitalisierung, Sicherheit und Cloud",
@@ -134,18 +147,6 @@
       "title": "Apple Mac Mini M4 im Test: Mini-PC mit viel Power, Top-Qualität & fairem Preis",
       "teaser": "Der Apple Mac Mini M4 hat sich für seine starke Leistung und Effizienz einen Namen gemacht. Wie gut der Mini-PC tatsächlich ist, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/apple-mac-mini-m4-im-test-mini-pc-mit-viel-power-top-qualitaet-und-fairem-preis/rgdzyxq?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "SAP-Patchday September 2025 behebt mehr als zwanzig Lücken – vier HotNews",
-      "teaser": "SAP Netweaver stolpert über unsichere Deserialisierung und Dateioperationen. Vier Lücken haben höchste Priorität, eine mit kritischer Höchstwertung.",
-      "url": "https://www.heise.de/news/SAP-Patchday-September-2025-behebt-mehr-als-zwanzig-Luecken-vier-HotNews-10638105.html",
-      "image_title": "Patchday SAP"
-    },
-    {
-      "title": "Lip-Bu Tan baut Intels Führungsriege um",
-      "teaser": "Intels zwischenzeitliche Chefin MJ geht. Ein ARM-Mann übernimmt die Serversparte und in Anlehnung an AMD entsteht ein Semi-Custom-Team.",
-      "url": "https://www.heise.de/news/Lip-Bu-Tan-baut-Intels-Fuehrungsriege-um-10638156.html",
-      "image_title": "Intel Core Ultra 200S im Mainboard"
     },
     {
       "title": "NewsVorstellung Skoda Epiq: Kleiner wird kein E-Auto der Marke",
