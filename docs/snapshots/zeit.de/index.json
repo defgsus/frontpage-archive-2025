@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-12T18:12:44",
+  "timestamp": "2025-09-12T19:07:17",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -104,18 +116,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Regierungssturz in Frankreich: Droht jetzt die nächste Eurokrise?",
-      "teaser": "Frankreich ist hoch verschuldet und es fehlt eine Regierung, die das ändert. Nun könnte die Kreditwürdigkeit herabgestuft werden. Das hat auch Folgen für Deutschland.",
-      "url": "https://www.zeit.de/wirtschaft/2025-09/regierungssturz-frankreich-finanzmarkt-staatsfinanzen-eurozone",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-09/regierungssturz-frankreich-finanzmarkt-staatsfinanzen-eurozone-bild/wide__1000x562",
-      "image_title": "Regierungssturz in Frankreich: Droht jetzt die nächste Eurokrise?"
-    },
-    {
-      "title": "Tötung von rechtem Influencer: Gouverneur bestätigt Festnahme von mutmaßlichem Kirk-Attentäter",
-      "teaser": "Ein 22-Jähriger aus Utah soll Charlie Kirk getötet haben. Der Verdächtige wurde festgenommen. Die Behörden gehen davon aus, dass er allein gehandelt hat.",
-      "url": "https://www.zeit.de/gesellschaft/2025-09/trump-gibt-nach-kirk-attentat-festnahme-von-verdaechtigem-bekannt",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-09/trump-gibt-nach-kirk-attentat-festnahme-von-verdaechtigem-bekannt-bild/super__430x287",
-      "image_title": "Tötung von rechtem Influencer: Der Gouverneur von Utah, Spencer Cox (C), spricht während einer Pressekonferenz vor dem Doterra Auditorium der Utah Valley University einen Tag, nachdem der Jugendaktivist und Influencer Charlie Kirk während einer öffentlichen Veranstaltung in Orem, Utah, am 12. September 2025 erschossen wurde."
+      "title": "Z+ (abopflichtiger Inhalt); Charlie Kirk: \"Hey Faschist! Fang das!\"",
+      "teaser": "22 Jahre alt, von seiner Familie den Behörden gemeldet, wütend über die Ansichten seines Opfers: Was über den mutmaßlichen Mörder von Charlie Kirk bekannt ist.",
+      "url": "https://www.zeit.de/politik/ausland/2025-09/charlie-kirk-mutmasslicher-taeter-attentat",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-09/charlie-kirk-mutmasslicher-taeter-attentat-bild/wide__1000x562",
+      "image_title": "Charlie Kirk: \"Hey Faschist! Fang das!\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Charlie Kirk: Und wir sind live dabei",
@@ -125,11 +130,11 @@
       "image_title": "Charlie Kirk: Und wir sind live dabei"
     },
     {
-      "title": "Klimapolitik: EU verschiebt Entscheidung über Klimaziel für 2040",
-      "teaser": "Eigentlich wollten die EU-Umweltminister kommende Woche das Klimaziel für 2040 beschließen. Jetzt soll darüber erst im Oktober bei einem EU-Gipfel beraten werden.",
-      "url": "https://www.zeit.de/politik/ausland/2025-09/eu-verschiebung-entscheidung-klimaziel-2040",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-09/eu-verschiebung-entscheidung-klimaziel-2040-bild/super__430x287",
-      "image_title": "Klimapolitik: Tarps meant to reflect sunlight cover a portion of the ice grotto near the Rhone Glacier on August 21, 2025 near Gletsch, Switzerland."
+      "title": "Krieg in der Ukraine: Nato verstärkt ihre Ostflanke",
+      "teaser": "Als Reaktion auf die Luftraumverletzungen in Polen haben die Nato-Staaten Maßnahmen zum Schutz der Ostflanke beschlossen. Die Bundeswehr beteiligt sich mit weiteren Jets.",
+      "url": "https://www.zeit.de/politik/2025-09/nato-ostflanke-verstaerkung",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-09/nato-ostflanke-verstaerkung-bild/super__430x287",
+      "image_title": "Krieg in der Ukraine: Vier Tornados fliegen in Formation neben und hinter einem Transportflugzeug vom Typ C-130J über den Flugplatz Jagel während der Luftwaffenübung Significance of National Air Power 2025 (SNAP 2025). Die Luftwaffe präsentiert im Rahmen einer Übung ihre fliegenden Waffensysteme für die Lehrgangsteilnehmenden der Führungsakademie der Bundeswehr, um deren Verständnis für luftwaffenspezifische Fähigkeiten zu fördern. Beteiligt sind Tornado, Eurofighter, A400M, C-130J, CH53, LUH sowie Objektschutzkräfte. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bundespräsidentenwahl: Ein Gerücht wie das jüngste Gericht",
@@ -139,20 +144,6 @@
       "image_title": "Bundespräsidentenwahl: Ein Gerücht wie das jüngste Gericht"
     },
     {
-      "title": "Basketball-Europameisterschaft: Deutschland steht im Finale der Basketball-EM",
-      "teaser": "Deutschland darf weiter auf den EM-Titel im Basketball hoffen. Im Halbfinale besiegte die Nationalmannschaft das Team aus Finnland.",
-      "url": "https://www.zeit.de/sport/2025-09/deutschland-steht-im-finale-der-basketball-em",
-      "image_url": "https://img.zeit.de/sport/2025-09/deutschland-finnland-basketball-em-finale-bild/super__430x287",
-      "image_title": "Basketball-Europameisterschaft: Basketball - FIBA EuroBasket 2025 - Semi Finals - Germany v Finland - Xiaomi Arena, Riga, Latvia - September 12, 2025 Germany's Dennis Schroder in action with Finland's Miro Little REUTERS/Ints Kalnins"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kündigung wegen Eigenbedarf: Sorry, mein Au-pair braucht die Wohnung!",
-      "teaser": "Kündigungen wegen Eigenbedarf sind ein unterschätztes Risiko für Mieter. Eines, das steigt. Was man sich gefallen lassen muss – und was nicht.",
-      "url": "https://www.zeit.de/2025/39/kuendigung-eigenbedarf-vermieter-risiko-wohnen-mieterschutz",
-      "image_url": "https://img.zeit.de/2025/39/sorry-mein-au-pair-braucht-die-wohnung-bild-1/wide__892x502",
-      "image_title": "Kündigung wegen Eigenbedarf: Eigenbedarf ist ein breiter Begriff, er umfasst auch Schwager und Pflegekraft"
-    },
-    {
       "title": "Vermögensverteilung: Dann ändern Sie doch etwas, Herr Spahn",
       "teaser": "Endlich erkennt auch die CDU, dass Vermögen in Deutschland ungerecht verteilt sind. Will die Partei das wirklich ändern, kommt sie um eines nicht herum.",
       "url": "https://www.zeit.de/wirtschaft/2025-09/vermoegensverteilung-jens-spahn-armut-erbschaftssteuer-cdu-csu",
@@ -160,11 +151,25 @@
       "image_title": "Vermögensverteilung: BOCHOLT, GERMANY - SEPTEMBER 04: Markus Soeder, leader of Bavarian Christian Social Union (CSU), and ens Spahn, the head of the Bundestag faction of the Christian Democrats Union (CDU), attend a CDU election campaign event ahead of North Rhine-Westphalia local elections on September 04, 2025 in Bocholt, Germany. Voters in the state will go to the polls on September 14th to elect new mayors and other local government officials. While the CDU is ahead by a wide margin in polls, the far-right Alternative for Germany (AfD) is expected to gain considerably compared to the last elections in 2020. (Photo by Hesham Elsherif/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Waldorfschule: \"Auf der Waldorfschule bin ich zu einem Macher geworden\"",
-      "teaser": "Sie sind Anwälte, Unternehmensberater oder Ärzte – und waren Waldorfschüler. Acht Menschen erzählen, wie sehr die Schule sie geprägt hat. Im Guten wie im Schlechten.",
-      "url": "https://www.zeit.de/arbeit/2025-09/waldorfschule-karriere-praegung-paedagogik-arbeitsplatz",
-      "image_url": "https://img.zeit.de/arbeit/2025-09/waldorfschule-karriere-praegung-paedagogik-arbeitsplatz-bild/super__430x287",
-      "image_title": "Waldorfschule: \"Auf der Waldorfschule bin ich zu einem Macher geworden\""
+      "title": "Basketball-EM: Sie sind noch nicht fertig",
+      "teaser": "Nach ihrem Sieg gegen Finnland können die deutschen Basketball-Weltmeister nun auch Europameister werden. Das Erstaunlichste daran? Es erstaunt niemanden.",
+      "url": "https://www.zeit.de/sport/2025-09/basketball-em-halbfinale-deutschland-finnland",
+      "image_url": "https://img.zeit.de/sport/2025-09/basketball-em-halbfinale-deutschland-finnland-isaac-bonga-bild/super__430x287",
+      "image_title": "Basketball-EM: Isaac Bonga bei Deutschlands Sieg im EM-Halbfinale gegen Finnland"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kündigung wegen Eigenbedarf: Sorry, mein Au-pair braucht die Wohnung!",
+      "teaser": "Kündigungen wegen Eigenbedarf sind ein unterschätztes Risiko für Mieter. Eines, das steigt. Was man sich gefallen lassen muss – und was nicht.",
+      "url": "https://www.zeit.de/2025/39/kuendigung-eigenbedarf-vermieter-risiko-wohnen-mieterschutz",
+      "image_url": "https://img.zeit.de/2025/39/sorry-mein-au-pair-braucht-die-wohnung-bild-1/super__430x287",
+      "image_title": "Kündigung wegen Eigenbedarf: Eigenbedarf ist ein breiter Begriff, er umfasst auch Schwager und Pflegekraft"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kinderkuren: \"Jedes zweite Verschickungskind zeigt später depressive Symptome\"",
+      "teaser": "Die Psychologin Ilona Yim erlebte als Kind an der Nordsee auf Kur Gewaltmärsche und Strafen. Nun erforscht sie die Folgen, die Millionen von Kindern von damals teilen.",
+      "url": "https://www.zeit.de/2025/39/kinderkuren-verschickungskinder-psychologie-ilona-yim",
+      "image_url": "https://img.zeit.de/2025/39/warum-habt-ihr-mich-verschickt-bild-1/wide__892x502",
+      "image_title": "Kinderkuren: Hat selbst ein Heim erlebt: Psychologin Yim"
     },
     {
       "title": "Initiative gegen Diskriminierung: Was sie sonst für sich behielten",
@@ -172,6 +177,20 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-09/diskriminierung-gymnasium-buchen-initiative",
       "image_url": "https://img.zeit.de/gesellschaft/2025-09/diskriminierung-gymnasium-buchen-initiative-bild/super__430x287",
       "image_title": "Initiative gegen Diskriminierung: Was sie sonst für sich behielten"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Badeunfall • Z+ - Empfehlung: \"Sie verschwinden einfach. Sie sterben leise\"",
+      "teaser": "Eine Frau sucht ihre Brille im Wasser – und ertrinkt. 240 Menschen sind 2025 in deutschen Gewässern gestorben. Warum lässt sich das nicht verhindern?",
+      "url": "https://www.zeit.de/hamburg/2025-09/baden-unfall-ertrinken-rettung-massnahmen",
+      "image_url": "https://img.zeit.de/hamburg/2025-09/baden-unfall-ertrinken-rettung-massnahmen-bild/super__430x287",
+      "image_title": "Badeunfall • Z+ - Empfehlung: Eine Frau ist am Sonntagabend in der Hamburger Alster ums Leben gekommen. Sie war an einem Ruderclub auf der Uhlenhorst unter einen Steg geraten und nicht wieder aufgetaucht. Gegen 19.20 Uhr zogen die Retter eine Frau aus der Alster, bei der sofort mit der Reanimation begonnen wurde. Doch ohne Erfolg. Nach etwa zehn Minuten wurde ldie Wiederbelebung eingestellt. Der Notarzt konnte nur noch ihren Tod feststellen, hieß es vonseiten der Feuerwehr."
+    },
+    {
+      "title": "Infektionskrankheit: WHO meldet Verdopplung von Cholera-Toten im vergangenen Jahr",
+      "teaser": "2024 ist die Zahl der Cholera-Ausbrüche stark gestiegen. Auch sind erheblich mehr Menschen an der Krankheit gestorben. Die WHO spricht von alarmierenden Fallzahlen.",
+      "url": "https://www.zeit.de/gesundheit/2025-09/infektionskrankheit-cholera-who-meldet-steigende-zahl",
+      "image_url": "https://img.zeit.de/gesundheit/2025-09/mehr-cholera-faelle-weltweit-bild/super__430x287",
+      "image_title": "Infektionskrankheit: A doctor visits a cholera patient at an isolation unit outside the Bashayer Hospital, south of Khartoum on May 31, 2025."
     },
     {
       "title": "Ausgabe 37/2025: Welten bummeln. Willkommen im Wochenende.",
@@ -223,18 +242,11 @@
       "image_title": "Internetbetrug: Ein Herz für Spam"
     },
     {
-      "title": "Digitalpodcast: Was, wenn Trump den Schalter umlegt?",
-      "teaser": "Im Büro haben wir Windows, unterwegs das iPhone: Donald Trump nutzt Europas digitale Abhängigkeit von den USA als Druckmittel. Wie kommen wir da raus? Der Digitalpodcast",
-      "url": "https://www.zeit.de/digital/2025-09/digitale-souveraenitaet-deutschland-abhaengigkeit-usa-technologie-digitalpodcast",
-      "image_url": "https://img.zeit.de/digital/2025-09/digital-podcast-donald-trump-digitiale-souveraentitaet/super__430x287",
-      "image_title": "Digitalpodcast: Symbolbild"
-    },
-    {
-      "title": "Abwerben von Wissenschaftlern: Kommt zu uns!",
-      "teaser": "Auf einer Konferenz in Boston wirbt die deutsche Wissenschaft um wechselwillige US-Forscher. Mit Erfolg? Unser Autor Christoph Drösser ist als Beobachter dabei.",
-      "url": "https://www.zeit.de/2025/39/abwerben-wissenschaftler-usa-boston-fachkraefte",
-      "image_url": "https://img.zeit.de/2025/39/kommt-zu-uns-bild-2/super__430x287",
-      "image_title": "Abwerben von Wissenschaftlern: HR"
+      "title": "Regierungssturz in Frankreich: Droht jetzt die nächste Eurokrise?",
+      "teaser": "Frankreich ist hoch verschuldet und es fehlt eine Regierung, die das ändert. Nun könnte die Kreditwürdigkeit herabgestuft werden. Das hat auch Folgen für Deutschland.",
+      "url": "https://www.zeit.de/wirtschaft/2025-09/regierungssturz-frankreich-finanzmarkt-staatsfinanzen-eurozone",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-09/regierungssturz-frankreich-finanzmarkt-staatsfinanzen-eurozone-bild/super__430x287",
+      "image_title": "Regierungssturz in Frankreich: Droht jetzt die nächste Eurokrise?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Norbert F. Schneider : \"Die Eltern entmündigen ihre Kinder\"",
@@ -328,18 +340,18 @@
       "image_title": "Teilzeitarbeit: Symbolbild work-life-balance"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Star Birds\": Kurzurlaub im All",
+      "title": "\"Star Birds\": Kurzurlaub im All",
       "teaser": "Das Spiel \"Dorfromantik\" war vor vier Jahren ein riesiger Überraschungshit. Jetzt legen die Macher nach. \"Star Birds\" sieht schön aus, wirkt aber noch nicht ganz fertig.",
       "url": "https://www.zeit.de/digital/games/2025-09/star-birds-computerspiel-gaming-indie-game",
       "image_url": "https://img.zeit.de/digital/games/2025-09/star-birds-01/square__500x500",
       "image_title": "\"Star Birds\": Kurzurlaub im All"
     },
     {
-      "title": "\"Hunter\" in der Neuköllner Oper: \"Wir zähmen den Ball\"",
-      "teaser": "Wohin führt uns die Jagd nach der Perfektion? Die Neuköllner Oper in Berlin eröffnet die Saison mit \"Hunter\", einem spektakulären Stück modernen Musiktheaters.",
-      "url": "https://www.zeit.de/kultur/2025-09/hunter-neukoellner-oper-berlin-musiktheater",
-      "image_url": "https://img.zeit.de/kultur/2025-09/oper-neukoelln-hunter-inszenierung-bild-3/super__430x287",
-      "image_title": "\"Hunter\" in der Neuköllner Oper: \"Wir zähmen den Ball\""
+      "title": "Z+ (abopflichtiger Inhalt); Drogen: \"Die Alkoholdiktatur wird fallen\"",
+      "teaser": "Gernot Rücker war Notfallmediziner auf dem Fusion Festival. Warum wir den Rausch brauchen, weshalb er LSD sofort legalisieren würde und wie man ohne Drogen high wird.",
+      "url": "https://www.zeit.de/campus/2025/04/die-alkoholdiktatur-wird-fallen",
+      "image_url": "https://img.zeit.de/campus/2025/04/die-alkoholdiktatur-wird-fallen-bild-1/super__430x287",
+      "image_title": "Drogen: \"Die Alkoholdiktatur wird fallen\""
     },
     {
       "title": "Bundeshymne zur Einbürgerung: Wenn ich singen muss, werde ich kein Österreicher",
@@ -356,11 +368,11 @@
       "image_title": "\"Der Wettermacher\" von Peter Weber: Philipp Theisohn"
     },
     {
-      "title": "Jutta Bauer: Sie war die Königin der Farben",
-      "teaser": "Jutta Bauer schuf mutige Bücher wie \"Opas Engel\" und \"Schreimutter\" – nun ist die Hamburger Illustratorin im Alter von 70 Jahren unerwartet gestorben. Eine Würdigung.",
-      "url": "https://www.zeit.de/hamburg/2025-09/jutta-bauer-illustratorin-kinderbuchautorin-gestorben-hamburg",
-      "image_url": "https://img.zeit.de/hamburg/2025-09/jutta-bauer-illustratorin-kinderbuchautorin-gestorben-hamburg-portrait/super__430x287",
-      "image_title": "Jutta Bauer: Jutta Bauer"
+      "title": "Hamburg-Podcast \"Elbvertiefung\": Verliert die Mobilitätswende an Tempo?",
+      "teaser": "Bis 2030 wollte Hamburg den Autoverkehr deutlich reduzieren. Das stieß auf Widerstand – sogar beim Bürgermeister. Was bedeutet sein Parkplatzmoratorium für die Stadt?",
+      "url": "https://www.zeit.de/hamburg/2025-09/verkehr-reduktion-peter-tschentscher-hamburg-podcast-elbvertiefung-erhobene-haende-hautton-2-1",
+      "image_url": "https://img.zeit.de/hamburg/2025-09/verkehr-reduktion-peter-tschentscher-hamburg-podcast-elbvertiefung-erhobene-haende-hautton-2-1-bild/super__430x287",
+      "image_title": "Hamburg-Podcast \"Elbvertiefung\": Autos und Lastwagen stauen sich auf der Autobahn A7 in Richtung Norden vor dem Elbtunnel. Vor Beginn der Reisewelle zu Ostern warnt der ADAC die Autofahrer vor Behinderungen auf den Autobahnen. (zu dpa «ADAC rechnet mit Staus im Oster-Reiseverkehr - auch in Hamburg»)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kürbissuppe: Die wirklich beste Kürbissuppe der Welt",
@@ -439,18 +451,16 @@
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-06/wochenmarkt-illustration-cluster-square/square__500x500"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Deutscher Fernsehpreis: Wie krank ist das deutsche Fernsehen?",
-      "teaser": "Der Deutsche Fernsehpreis wurde verliehen, und die Gala schaffte das Kunststück, richtig schlechtes Fernsehen zu sein. Immerhin ein paar gute, richtige Gewinner gab es.",
-      "url": "https://www.zeit.de/kultur/film/2025-09/deutscher-fernsehpreis-gala-otto-waalkes-krank-berlin",
-      "image_url": "https://img.zeit.de/kultur/film/2025-09/deutscher-fernsehpreis-barbara-schoeneberger/super__430x287",
-      "image_title": "Deutscher Fernsehpreis: Wer hat sich das bitte ausgedacht? Barbara Schöneberger bei der Eröffnung des Deutschen Fernsehpreises in Köln"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Kommunikation mit Kindern • Z+ Empfehlung: Wohlfühlpädagogik? Nur für Kinder bis zwei Jahre",
       "teaser": "Nein, ich erziehe meine vier Kinder nicht bedürfnisorientiert, sondern konsequent. Damit stehe ich ziemlich allein da. Doch im Job werden sie davon später profitieren.",
       "url": "https://www.zeit.de/arbeit/2025-09/kommunikation-kinder-erziehung-konsequenz-trend-usa",
-      "image_url": "https://img.zeit.de/autoren/R/Caroline_Rosales/caroline-rosales/square__46x46",
-      "image_title": "Caroline Rosales"
+      "image_url": "https://img.zeit.de/arbeit/2025-09/caroline-rosales-erziehung-trend-babysprache-augenhoehe/super__430x287",
+      "image_title": "Kommunikation mit Kindern • Z+ Empfehlung: Wohlfühlpädagogik? Nur für Kinder bis zwei Jahre"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Deutscher Fernsehpreis: Wie krank ist das deutsche Fernsehen?",
+      "teaser": "Der Deutsche Fernsehpreis wurde verliehen, und die Gala schaffte das Kunststück, richtig schlechtes Fernsehen zu sein. Immerhin ein paar gute, richtige Gewinner gab es.",
+      "url": "https://www.zeit.de/kultur/film/2025-09/deutscher-fernsehpreis-gala-otto-waalkes-krank-berlin"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Unterhaltungsliteratur • Das Beste aus Z+: Was der Fall Caroline Wahl über die Literaturkritik sagt",
@@ -482,14 +492,14 @@
       "image_title": "Arm und Reich: Unions-Fraktionsvorsitzender Jens Spahn (CDU) hält die Vermögensverteilung in Deutschland für ungerecht."
     },
     {
+      "title": "Tötung von rechtem Influencer: Gouverneur bestätigt Festnahme von mutmaßlichem Kirk-Attentäter",
+      "teaser": "Ein 22-Jähriger aus Utah soll Charlie Kirk getötet haben. Der Verdächtige wurde festgenommen. Die Behörden gehen davon aus, dass er allein gehandelt hat.",
+      "url": "https://www.zeit.de/gesellschaft/2025-09/trump-gibt-nach-kirk-attentat-festnahme-von-verdaechtigem-bekannt"
+    },
+    {
       "title": "Verbrennerverbot: Die Autoindustrie hat ein letztes Entgegenkommen verdient",
       "teaser": "Eine kleine Lockerung des Verbrenneraus hat wenig Auswirkung auf das Klima. Aber es würde der Autoindustrie Luft verschaffen – zum letzten Mal.",
       "url": "https://www.zeit.de/wirtschaft/2025-09/verbrennerverbot-2035-eu-autos-klimaschutz-kompromiss"
-    },
-    {
-      "title": "Prozess gegen Jair Bolsonaro: Gericht verurteilt Brasiliens Ex-Präsident zu mehr als 27 Jahren Haft",
-      "teaser": "Jair Bolsonaro muss wegen eines Putschversuchs für fast drei Jahrzehnte ins Gefängnis. Seine Anwälte wollen gegen das Urteil vorgehen. Die USA drohen mit Konsequenzen.",
-      "url": "https://www.zeit.de/politik/ausland/2025-09/brasilien-prozess-jair-bolsonaro-richter-oberstes-gericht-verurteilung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kriegsgewalt gegen Frauen: \"Ich bin nicht nur ein Opfer, ich bin auch eine Waffe\"",
@@ -513,11 +523,11 @@
       "image_title": "Freunde der ZEIT: 7 Sehnsuchtsorte in Frankreich"
     },
     {
-      "title": "Nahostkonflikt: UN-Vollversammlung beschließt Erklärung zur Zweistaatenlösung",
-      "teaser": "Die UN-Generalversammlung hat mit großer Mehrheit für eine Erklärung gestimmt, in der eine Zweistaatenlösung gefordert wird. Auch Deutschland votierte dafür.",
-      "url": "https://www.zeit.de/politik/ausland/2025-09/un-vollversammlung-nahostkonflikt-zweistaatenloesung",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-09/un-vollversammlung-nahostkonflikt-zweistaatenloesung-bild/wide__892x502",
-      "image_title": "Nahostkonflikt: Palestinian Ambassador to the UN Riyad Mansour (2nd-L) speaks during a General Assembly meeting to vote on two states solution to the Palestinian question at United Nations headquarters (UN) on September 12, 2025 in New York City."
+      "title": "Liveblog:Krieg gegen die Ukraine: Nato kündigt Verstärkung der Ostflanke an",
+      "teaser": "Nach den russischen Luftraumverletzungen verlagert die Nato mehr Ressourcen an ihre Ostflanke. Großbritannien kündigt zudem neue Sanktionen an. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-09/ukraine-krieg-news-liveblog-bild-11/wide__892x502",
+      "image_title": "Krieg gegen die Ukraine: NATO Secretary General Mark Rutte speaks during a press conference on the violation of Polish airspace by Russian drones, at the NATO headquarters in Brussels on September 12, 2025."
     },
     {
       "title": "Verlagsangebot: Die richtige Ernährung kann so schön und einfach sein",
@@ -541,11 +551,11 @@
       "image_title": "Diese Woche in der ZEIT: Es läuft nicht mehr"
     },
     {
-      "title": "Verbrennerverbot: Die Autoindustrie hat ein letztes Entgegenkommen verdient",
-      "teaser": "Eine kleine Lockerung des Verbrenneraus hat wenig Auswirkung auf das Klima. Aber es würde der Autoindustrie Luft verschaffen – zum letzten Mal.",
-      "url": "https://www.zeit.de/wirtschaft/2025-09/verbrennerverbot-2035-eu-autos-klimaschutz-kompromiss",
-      "image_url": "https://img.zeit.de/mobilitaet/2025-09/verbrennerverbot-2035-eu-autos-klimaschutz-kompromiss-bild/wide__892x502",
-      "image_title": "Verbrennerverbot: Die Autoindustrie hat ein letztes Entgegenkommen verdient"
+      "title": "Sorgen der Jugend : Die Ängste der Jugend sind unser aller Verantwortung",
+      "teaser": "Klimawandel, soziale Spaltung, psychische Belastung: Viele junge Menschen in Deutschland fühlen sich nicht gesehen. Wer ihre Zukunft sichern will, muss jetzt handeln.",
+      "url": "https://www.zeit.de/wirtschaft/2025-09/sorgen-jugend-trendstudie-klimawandel-demokratie-pessimismus",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-09/sorgen-jugend-trendstudie-klimawandel-demokratie-pessimismus-bild/wide__892x502",
+      "image_title": "Keine andere Generation hatte in Deutschland so viele Krisen gleichzeitig wie die heutige Jugend."
     },
     {
       "title": "Verlagsangebot: Besseres Englisch mit unserem \"ZEIT für Englisch\"-Newsletter",
@@ -555,11 +565,11 @@
       "image_title": "Besseres Englisch mit unserem \"ZEIT für Englisch\"-Newsletter"
     },
     {
-      "title": "Arm und Reich: Spahn will ungerechte Vermögensverteilung in Deutschland ändern",
-      "teaser": "CDU-Politiker Jens Spahn kritisiert, dass steigende Immobilienpreise und Aktienkurse vor allem Vermögenden nützen. Er stellt eine Reform der Erbschaftsteuer in Aussicht.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-09/jens-spahn-vermoegensverteilung-deutschland-ungerecht-maybritt-illner",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-09/spahn-vermoegensverteilung-bild/super__430x287",
-      "image_title": "Arm und Reich: Unions-Fraktionsvorsitzender Jens Spahn (CDU) hält die Vermögensverteilung in Deutschland für ungerecht."
+      "title": "Verbrennerverbot: Die Autoindustrie hat ein letztes Entgegenkommen verdient",
+      "teaser": "Eine kleine Lockerung des Verbrenneraus hat wenig Auswirkung auf das Klima. Aber es würde der Autoindustrie Luft verschaffen – zum letzten Mal.",
+      "url": "https://www.zeit.de/wirtschaft/2025-09/verbrennerverbot-2035-eu-autos-klimaschutz-kompromiss",
+      "image_url": "https://img.zeit.de/mobilitaet/2025-09/verbrennerverbot-2035-eu-autos-klimaschutz-kompromiss-bild/super__430x287",
+      "image_title": "Verbrennerverbot: Die Autoindustrie hat ein letztes Entgegenkommen verdient"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kinderdepots: So legt man für die Kinder ein Vermögen an",
@@ -583,18 +593,18 @@
       "image_title": "Können wir aus der Geschichte lernen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Singletasking: Multitasking ist auch nur ein Mythos",
-      "teaser": "Multitasking, das klingt nach effizienter Arbeit und besonderem Talent. Doch das Gegenteil ist der Fall. Denn Experten wissen schon lange, was wirklich produktiv macht.",
-      "url": "https://www.zeit.de/arbeit/2025-08/singletasking-konzentration-produktivitaet-gehirn-multitasking-faq",
-      "image_url": "https://img.zeit.de/arbeit/2025-09/singletasking-konzentration-produktivitaet-gehirn-multitasking-faq-bild/wide__892x502",
-      "image_title": "Singletasking: Multitasking ist auch nur ein Mythos"
+      "title": "Z+ (abopflichtiger Inhalt); Waldorfschule: \"Auf der Waldorfschule bin ich zu einem Macher geworden\"",
+      "teaser": "Sie sind Anwälte, Unternehmensberater oder Ärzte – und waren Waldorfschüler. Acht Menschen erzählen, wie sehr die Schule sie geprägt hat. Im Guten wie im Schlechten.",
+      "url": "https://www.zeit.de/arbeit/2025-09/waldorfschule-karriere-praegung-paedagogik-arbeitsplatz",
+      "image_url": "https://img.zeit.de/arbeit/2025-09/waldorfschule-karriere-praegung-paedagogik-arbeitsplatz-bild/wide__892x502",
+      "image_title": "Waldorfschule: \"Auf der Waldorfschule bin ich zu einem Macher geworden\""
     },
     {
-      "title": "Vanessa Selter: \"Ich bin schon ein ziemlicher Natur-Nerd\"",
-      "teaser": "Vanessa Selter arbeitet als Rangerin im Nationalpark und zählt Kormorane, Biber und Adler. Aber manchmal, erzählt sie im Podcast, entdeckt sie im Schilf auch ein Zelt.",
-      "url": "https://www.zeit.de/arbeit/2025-09/vanessa-selter-rangerin-naturpark-tiere-komorane",
-      "image_url": "https://img.zeit.de/arbeit/2025-09/ranger-vanessa-selter-arbeit-podcast-bild/super__430x287",
-      "image_title": "Vanessa Selter: Vanessa Selter"
+      "title": "Gehaltserhöhung: Jetzt ist ein guter Zeitpunkt, um mehr Gehalt zu verhandeln",
+      "teaser": "Die Lage auf dem Arbeitsmarkt ist schlecht, aber das ist kein Grund für falsche Bescheidenheit. Verhandeln Sie Ihr Gehalt lieber jetzt, bevor es nächstes Jahr alle tun.",
+      "url": "https://www.zeit.de/arbeit/2025-09/gehaltserhoehung-krise-argumente-zeitpunkt-strategie",
+      "image_url": "https://img.zeit.de/arbeit/2025-09/gehaltserhoehung-krise-argumente-zeitpunkt-strategie-bild-2/super__430x287",
+      "image_title": "Gehaltserhöhung: Photo illustration by Emily Simms"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kinder und Jugendliche: Mein schwierigstes Kind – und was ihm geholfen hat",
@@ -616,6 +626,13 @@
       "url": "https://www.zeit.de/familie/2025-08/beziehung-eltern-erwachsene-kinder-auszug-generation",
       "image_url": "https://img.zeit.de/familie/2025-07/beziehung-eltern-erwachsene-kinder-auszug/super__430x287",
       "image_title": "Beziehung zu den Eltern: Bleib doch noch ein bisschen, mein Kind"
+    },
+    {
+      "title": "Digitalpodcast: Was, wenn Trump den Schalter umlegt?",
+      "teaser": "Im Büro haben wir Windows, unterwegs das iPhone: Donald Trump nutzt Europas digitale Abhängigkeit von den USA als Druckmittel. Wie kommen wir da raus? Der Digitalpodcast",
+      "url": "https://www.zeit.de/digital/2025-09/digitale-souveraenitaet-deutschland-abhaengigkeit-usa-technologie-digitalpodcast",
+      "image_url": "https://img.zeit.de/digital/2025-09/digital-podcast-donald-trump-digitiale-souveraentitaet/super__320x213",
+      "image_title": "Digitalpodcast: Symbolbild"
     },
     {
       "title": "Sozialreformen : \"Die Sozialpolitiker haben die letzten 100 Jahre geschlafen\"",
@@ -646,25 +663,18 @@
       "image_title": "Politische Gewalt in den USA: SEATTLE, WASHINGTON - SEPTEMBER 10: Attendees hold candles during a candlelight vigil and prayer event for Turning Point USA Founder Charlie Kirk on September 10, 2025 in Seattle, Washington. Kirk was shot dead while speaking at Utah Valley University earlier in the day."
     },
     {
+      "title": "Vanessa Selter: \"Ich bin schon ein ziemlicher Natur-Nerd\"",
+      "teaser": "Vanessa Selter arbeitet als Rangerin im Nationalpark und zählt Kormorane, Biber und Adler. Aber manchmal, erzählt sie im Podcast, entdeckt sie im Schilf auch ein Zelt.",
+      "url": "https://www.zeit.de/arbeit/2025-09/vanessa-selter-rangerin-naturpark-tiere-komorane",
+      "image_url": "https://img.zeit.de/arbeit/2025-09/ranger-vanessa-selter-arbeit-podcast-bild/super__320x213",
+      "image_title": "Vanessa Selter: Vanessa Selter"
+    },
+    {
       "title": "\"Verbrechen\"-Podcast: Der Überlebende des Familienmassakers",
       "teaser": "Ein Vater tötet seine Frau und die sechs Kinder – danach sich selbst. Nur der Sohn Karl überlebt. Doch wie geht das Leben des Jungen nach dieser Katastrophe weiter?",
       "url": "https://www.zeit.de/gesellschaft/2025-09/familienmord-familienvater-grossfamilie-oesterreich-1956-sohn-verbrechen-podcast",
       "image_url": "https://img.zeit.de/gesellschaft/2025-09/familienmord-familienvater-grossfamilie-oesterreich-1956-sohn-verbrechen-podcast-bild/super__320x213",
       "image_title": "\"Verbrechen\"-Podcast: Der Überlebende des Familienmassakers"
-    },
-    {
-      "title": "Poesie: Was hilft gegen Einsamkeit, Clara Lösel?",
-      "teaser": "Ihr Lehramtsstudium hat Clara Lösel abgeschlossen, trotzdem wurde sie lieber Dichterin als Deutschlehrerin. Warum dieser Job weniger verstaubt ist, als er klingt.",
-      "url": "https://www.zeit.de/kultur/literatur/2025-09/poesie-lehrerin-bildung-podcast",
-      "image_url": "https://img.zeit.de/kultur/literatur/2025-09/poesie-lehrerin-bildung-podcast-bild/super__320x213",
-      "image_title": "Poesie: Clara Lösel."
-    },
-    {
-      "title": "Johannes Vogel: Ist der Liberalismus tot, Johannes Vogel?",
-      "teaser": "Im Podcast \"Ehrlich jetzt?\" philosophiert der ehemalige FDP-Bundestagsabgeordnete Johannes Vogel über die Zukunft der Liberalen.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-09/johannes-vogel-politikpodcast-ehrlich-jetzt",
-      "image_url": "https://img.zeit.de/politik/2025-09/johannes-vogel-politikpodcast-ehrlich-jetzt-aufmacherfoto/super__320x213",
-      "image_title": "Johannes Vogel: Ist der Liberalismus tot, Johannes Vogel?"
     },
     {
       "title": "Volkswagen: Machtkampf im Vorstand der Porsche SE",
@@ -695,18 +705,18 @@
       "image_title": "Autoindustrie: Gernot Döllner, Vorstandsvorsitzender der Audi AG, präsentiert während einer Pressekonferenz vor Beginn der Internationalen Automobil-Ausstellung (IAA Mobility) die Studie Audi Concept C. Audi-Chef Gernot Döllner hält die erneute Debatte um ein Aufweichen des Verbrenner-Aus 2035 für wenig hilfreich. (zu dpa: «Audi-Chef: Debatte um Verbrenner-Aus ist «kontraproduktiv»») +++ dpa-Bildfunk +++ 07/09/2025"
     },
     {
+      "title": "Tötung von rechtem Influencer: Gouverneur bestätigt Festnahme von mutmaßlichem Kirk-Attentäter",
+      "teaser": "Ein 22-Jähriger aus Utah soll Charlie Kirk getötet haben. Der Verdächtige wurde festgenommen. Die Behörden gehen davon aus, dass er allein gehandelt hat.",
+      "url": "https://www.zeit.de/gesellschaft/2025-09/trump-gibt-nach-kirk-attentat-festnahme-von-verdaechtigem-bekannt",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-09/trump-gibt-nach-kirk-attentat-festnahme-von-verdaechtigem-bekannt-bild/super__430x287",
+      "image_title": "Tötung von rechtem Influencer: Der Gouverneur von Utah, Spencer Cox (C), spricht während einer Pressekonferenz vor dem Doterra Auditorium der Utah Valley University einen Tag, nachdem der Jugendaktivist und Influencer Charlie Kirk während einer öffentlichen Veranstaltung in Orem, Utah, am 12. September 2025 erschossen wurde."
+    },
+    {
       "title": "Evangelische Kirche: Früherer EKD-Ratsvorsitzender Manfred Kock ist tot",
       "teaser": "Er setzte sich für die Ökumene ein: Der frühere Ratsvorsitzende der Evangelischen Kirche, Manfred Kock, ist im Alter von 88 Jahren gestorben.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-09/ekd-ratsvorsitzender-manfred-kock-ist-tot",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-09/tod-manfred-kock-bild/super__430x287",
       "image_title": "Evangelische Kirche: Manfred Kock am Donnerstag, den 04.09.2003 in der Kapelle der EKD in Hannover."
-    },
-    {
-      "title": "Migration: Zahl der irregulären Grenzübertritte sinkt in der EU weiter",
-      "teaser": "Bis Ende August ist die Zahl irregulärer Grenzübertritte in die EU in diesem Jahr um 21 Prozent zurückgegangen. Die meisten der Menschen kamen über das Mittelmeer.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-09/eu-grenuebergaenge-rueckgang",
-      "image_url": "https://img.zeit.de/politik/2025-09/eu-grenuebergaenge-rueckgang-bild/super__430x287",
-      "image_title": "Migration: Beschreibung Fahrzeuge der Border Police fahren während des Besuchs der deutschen Innenministerin Faeser an der bulgarisch-türkischen Grenze entlang. Im Mittelpunkt der Gespräche stehen die Umsetzung des neuen gemeinsamen europäischen Asylsystems, der Einsatz von Frontex beim Schutz der EU-Außengrenzen und der Beitritt zum Schengenraum. Service +++ dpa-Bildfunk +++ Aufnahmedatum 15.04.2024"
     },
     {
       "title": "\"Irma. Das Kind aus Srebrenica\": Folge 1 : Er drückt ihr sein Baby in die Hand – dann wird er abgeführt",
@@ -744,10 +754,17 @@
       "image_title": "Irma. Das Kind aus Srebrenica: Folge 5: Einer von 8.000"
     },
     {
+      "title": "\"Hunter\" in der Neuköllner Oper: \"Wir zähmen den Ball\"",
+      "teaser": "Wohin führt uns die Jagd nach der Perfektion? Die Neuköllner Oper in Berlin eröffnet die Saison mit \"Hunter\", einem spektakulären Stück modernen Musiktheaters.",
+      "url": "https://www.zeit.de/kultur/2025-09/hunter-neukoellner-oper-berlin-musiktheater",
+      "image_url": "https://img.zeit.de/kultur/2025-09/oper-neukoelln-hunter-inszenierung-bild-3/wide__892x502",
+      "image_title": "\"Hunter\" in der Neuköllner Oper: \"Wir zähmen den Ball\""
+    },
+    {
       "title": "\"Play\" von Ed Sheeran: Kein Popstar kalkuliert besser als er",
       "teaser": "Das neue Album von Ed Sheeran enthält zwei große Versprechen und auch wieder jene großen Event-Popsongs, mit denen er berühmt wurde. Macht er es sich damit zu einfach?",
       "url": "https://www.zeit.de/kultur/musik/2025-09/ed-sheeran-play-album-pop-musik",
-      "image_url": "https://img.zeit.de/kultur/musik/2025-09/ed-sheeran/wide__892x502",
+      "image_url": "https://img.zeit.de/kultur/musik/2025-09/ed-sheeran/super__430x287",
       "image_title": "\"Play\" von Ed Sheeran: Er will die ewige Liebe, er will den Fun, und er will auch wieder Millionenstreams: Ed Sheeran, abgebildet in freudiger Erwartung seines neuen Albums \"Play\""
     },
     {
@@ -758,18 +775,11 @@
       "image_title": "ESC 2026: A man holds an Israeli flag as people watch the 2025 Eurovision Song Contest finals being screened at a community center in Tel Aviv, Israel, early on May 18, 2025."
     },
     {
-      "title": "Art Week in Berlin: Eine Hochzeit im Bahnhof",
-      "teaser": "In Berlin eröffnet die Art Week. Und gleich zu Beginn werden Adam und Eva zu Vögeln.",
-      "url": "https://www.zeit.de/2025/39/art-week-berlin-oper-adam-eva-hochzeit",
-      "image_url": "https://img.zeit.de/2025/39/eine-hochzeit-im-bahnhof-bild-2/super__430x287",
-      "image_title": "Art Week in Berlin: Dieses Bild als Teaser / Print Motiv gerne auf Artikelebene verbauen. ++++++++++<br /> Petrit Halilaj für Monopol"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Kinderkuren: \"Jedes zweite Verschickungskind zeigt später depressive Symptome\"",
-      "teaser": "Die Psychologin Ilona Yim erlebte als Kind an der Nordsee auf Kur Gewaltmärsche und Strafen. Nun erforscht sie die Folgen, die Millionen von Kindern von damals teilen.",
-      "url": "https://www.zeit.de/2025/39/kinderkuren-verschickungskinder-psychologie-ilona-yim",
-      "image_url": "https://img.zeit.de/2025/39/warum-habt-ihr-mich-verschickt-bild-1/wide__892x502",
-      "image_title": "Kinderkuren: Hat selbst ein Heim erlebt: Psychologin Yim"
+      "title": "Abwerben von Wissenschaftlern: Kommt zu uns!",
+      "teaser": "Auf einer Konferenz in Boston wirbt die deutsche Wissenschaft um wechselwillige US-Forscher. Mit Erfolg? Unser Autor Christoph Drösser ist als Beobachter dabei.",
+      "url": "https://www.zeit.de/2025/39/abwerben-wissenschaftler-usa-boston-fachkraefte",
+      "image_url": "https://img.zeit.de/2025/39/kommt-zu-uns-bild-2/wide__892x502",
+      "image_title": "Abwerben von Wissenschaftlern: HR"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Außerirdisches Leben: Haben auf diesem Stein Außerirdische gelebt?",
@@ -1038,11 +1048,18 @@
       "image_title": "Koranexegese: Friedlicher Freitag vor der Mevlidi Halil Moschee in Sanliurfa. Die Stadt liegt im Südosten der Türkei, nahe der Grenze zu Syrien"
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
+      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
       "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
+    },
+    {
+      "title": "Poesie: Was hilft gegen Einsamkeit, Clara Lösel?",
+      "teaser": "Ihr Lehramtsstudium hat Clara Lösel abgeschlossen, trotzdem wurde sie lieber Dichterin als Deutschlehrerin. Warum dieser Job weniger verstaubt ist, als er klingt.",
+      "url": "https://www.zeit.de/kultur/literatur/2025-09/poesie-lehrerin-bildung-podcast",
+      "image_url": "https://img.zeit.de/kultur/literatur/2025-09/poesie-lehrerin-bildung-podcast-bild/super__430x287",
+      "image_title": "Poesie: Clara Lösel."
     },
     {
       "title": "Studium: Anteil ausländischer Studierender an deutschen Hochschulen wächst",
@@ -1052,71 +1069,64 @@
       "image_title": "Studium: Anteil ausländischer Studierender an deutschen Hochschulen wächst"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sex und Konsens: Fühlt sich das gut an?",
-      "teaser": "Guter Sex gelingt nicht über starre Regeln, sondern Konsens, meint Pädagog:in Joris Kern. Wie man über Vorlieben und Grenzen spricht – und wie der achtsame Flirt gelingt.",
-      "url": "https://www.zeit.de/campus/2025-09/konsens-sex-kommunikation-beziehung-partner",
-      "image_url": "https://img.zeit.de/campus/2025-09/konsens-campus/super__430x287",
-      "image_title": "Sex und Konsens: Fühlt sich das gut an?"
+      "title": "Basketball-Europameisterschaft: Deutschland steht im Finale der Basketball-EM",
+      "teaser": "Deutschland darf weiter auf den EM-Titel im Basketball hoffen. Im Halbfinale besiegte die Nationalmannschaft das Team aus Finnland.",
+      "url": "https://www.zeit.de/sport/2025-09/deutschland-steht-im-finale-der-basketball-em",
+      "image_url": "https://img.zeit.de/sport/2025-09/deutschland-finnland-basketball-em-finale-bild/wide__892x502",
+      "image_title": "Basketball-Europameisterschaft: Basketball - FIBA EuroBasket 2025 - Semi Finals - Germany v Finland - Xiaomi Arena, Riga, Latvia - September 12, 2025 Germany's Dennis Schroder in action with Finland's Miro Little REUTERS/Ints Kalnins"
     },
     {
       "title": "Bundesligavorschau: Mit Dänen wird jetzt gespielt",
       "teaser": "Kasper Hjulmand soll Leverkusen beruhigen, Christian Eriksen Wolfsburg leitwolfen. Die Liga wird dänischer. Und der HSV will nur nicht untergehen. Alles zum 3. Spieltag",
       "url": "https://www.zeit.de/sport/2025-09/bundesliga-vorschau-bayer-leverkusen-kasper-hjulmand-daenemark-gxe",
-      "image_url": "https://img.zeit.de/sport/2025-09/bundesliga-vorschau-leverkusen/wide__892x502",
+      "image_url": "https://img.zeit.de/sport/2025-09/bundesliga-vorschau-leverkusen/super__430x287",
       "image_title": "Bundesligavorschau: LEVERKUSEN, GERMANY - SEPTEMBER 10: Kaspar Hjulmand of Leverkusen looks on during a training session at the Ulrich-Haberland-Stadion on September 10, 2025 in Leverkusen, Germany. (Photo by Jörg Schüler/Bayer 04 Leverkusen via Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Trainingsapp Strava: Wenn das Training zum Wettkampf wird",
-      "teaser": "Die Trainingsapp Strava kann jede einsame Radtour, Laufrunde oder Schwimmeinheit in einen Wettkampf verwandeln. Doch der ständige Vergleich kann auch Folgen haben.",
-      "url": "https://www.zeit.de/sport/2025-09/trainingsapp-strava-radfahren-schwimmen-digital-wettkampf",
-      "image_url": "https://img.zeit.de/sport/2025-09/trainingsapp-strava-radfahren-schwimmen-digital-wettkampf-2/super__430x287",
-      "image_title": "Trainingsapp Strava: Wenn das Training zum Wettkampf wird"
+      "title": "Jutta Bauer: Sie war die Königin der Farben",
+      "teaser": "Jutta Bauer schuf mutige Bücher wie \"Opas Engel\" und \"Schreimutter\" – nun ist die Hamburger Illustratorin im Alter von 70 Jahren unerwartet gestorben. Eine Würdigung.",
+      "url": "https://www.zeit.de/hamburg/2025-09/jutta-bauer-illustratorin-kinderbuchautorin-gestorben-hamburg",
+      "image_url": "https://img.zeit.de/hamburg/2025-09/jutta-bauer-illustratorin-kinderbuchautorin-gestorben-hamburg-portrait/wide__892x502",
+      "image_title": "Jutta Bauer: Jutta Bauer"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Inlineskating in Hamburg: \"Der älteste Teilnehmer sagte mit 89: Inlineskaten ist wie Fliegen\"",
       "teaser": "In der Hamburger Inline-Skating Schule in Lokstedt können Senioren zusammen mit ihren Enkeln herumflitzen. Vorher müssen sie lernen, wie man richtig hinfällt.",
       "url": "https://www.zeit.de/hamburg/2025-09/hamburger-sportvereine-trainerin-inline-skating-katharina-burdorf",
-      "image_url": "https://img.zeit.de/hamburg/2025-09/hamburger-sportvereine-trainerin-inline-skating-katharina-burdorf-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/hamburg/2025-09/hamburger-sportvereine-trainerin-inline-skating-katharina-burdorf-bild/super__430x287",
       "image_title": "Inlineskating in Hamburg: Inline Skating"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Badeunfall: \"Sie verschwinden einfach. Sie sterben leise\"",
-      "teaser": "Eine Frau sucht ihre Brille im Wasser – und ertrinkt. 240 Menschen sind 2025 in deutschen Gewässern gestorben. Warum lässt sich das nicht verhindern?",
-      "url": "https://www.zeit.de/hamburg/2025-09/baden-unfall-ertrinken-rettung-massnahmen",
-      "image_url": "https://img.zeit.de/hamburg/2025-09/baden-unfall-ertrinken-rettung-massnahmen-bild/super__430x287",
-      "image_title": "Badeunfall: Eine Frau ist am Sonntagabend in der Hamburger Alster ums Leben gekommen. Sie war an einem Ruderclub auf der Uhlenhorst unter einen Steg geraten und nicht wieder aufgetaucht. Gegen 19.20 Uhr zogen die Retter eine Frau aus der Alster, bei der sofort mit der Reanimation begonnen wurde. Doch ohne Erfolg. Nach etwa zehn Minuten wurde ldie Wiederbelebung eingestellt. Der Notarzt konnte nur noch ihren Tod feststellen, hieß es vonseiten der Feuerwehr."
+      "title": "Debatte: Bosbach löscht Post über erschossenen US-Aktivisten Kirk",
+      "url": "https://www.zeit.de/news/2025-09/12/bosbach-loescht-post-ueber-erschossenen-us-aktivisten-kirk"
     },
     {
-      "title": "Suche: Geflohener Strafgefangener festgenommen",
-      "url": "https://www.zeit.de/news/2025-09/12/geflohener-strafgefangener-festgenommen"
+      "title": "Schwarzarbeit: 100 Einsatzkräfte kontrollieren Läden und Lokale in Ahlhorn",
+      "url": "https://www.zeit.de/news/2025-09/12/100-einsatzkraefte-kontrollieren-laeden-und-lokale-in-ahlhorn"
     },
     {
-      "title": "Fotografie: Bilder des Tages",
-      "url": "https://www.zeit.de/news/2025-09/12/bilder-des-tages"
+      "title": "Kriminalität: Verletzte bei Gruppen-Schlägerei am Humboldt-Forum",
+      "url": "https://www.zeit.de/news/2025-09/12/verletzte-bei-gruppen-schlaegerei-am-humboldt-forum"
     },
     {
-      "title": "Vermisstenfall: Polizei sucht Zehnjährigen aus Genthin",
-      "url": "https://www.zeit.de/news/2025-09/12/polizei-sucht-zehnjaehrigen-aus-genthin"
+      "title": "Handball-Bundesliga: Melsungen verlängert mit Nationalspieler Kastening bis 2029",
+      "url": "https://www.zeit.de/news/2025-09/12/melsungen-verlaengert-mit-nationalspieler-kastening-bis-2029"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Nächste Niederlage für Bochum - 0:1 in Paderborn",
+      "url": "https://www.zeit.de/news/2025-09/12/naechste-niederlage-fuer-bochum-0-1-in-paderborn"
+    },
+    {
+      "title": "2. Bundesliga: Arminia nach Sieg gegen Magdeburg Tabellenzweiter",
+      "url": "https://www.zeit.de/news/2025-09/12/arminia-nach-sieg-gegen-magdeburg-tabellenzweiter"
+    },
+    {
+      "title": "Kriminalität: Vierzehn Gräber auf Friedhof in Wolfstein zerstört",
+      "url": "https://www.zeit.de/news/2025-09/12/vierzehn-graeber-auf-friedhof-in-wolfstein-zerstoert"
     },
     {
       "title": "Brandanschlag: Nach tagelangem Stromausfall: Ermittlungen gehen weiter",
       "url": "https://www.zeit.de/news/2025-09/12/nach-dem-stromausfall-in-berlin-ermittlungen-dauern-an"
-    },
-    {
-      "title": "Unfall: Autofahrer überhört Martinshorn von Rettungswagen - Crash",
-      "url": "https://www.zeit.de/news/2025-09/12/autofahrer-ueberhoert-martinshorn-von-rettungswagen-crash"
-    },
-    {
-      "title": "Verkehr: Zwei Tote nach Auffahrunfall auf A7",
-      "url": "https://www.zeit.de/news/2025-09/12/zwei-tote-nach-auffahrunfall-auf-a7"
-    },
-    {
-      "title": "Nachgeholte Titelentscheidung: Nach Unfall-Drama: Außenseiter holt Keirin-Titel",
-      "url": "https://www.zeit.de/news/2025-09/12/nach-unfall-drama-aussenseiter-holt-keirin-titel"
-    },
-    {
-      "title": "Russische Drohnen über Polen: Nato reagiert mit Militäroperation auf russische Drohnen",
-      "url": "https://www.zeit.de/news/2025-09/12/nato-reagiert-auf-russische-luftraumverletzungen"
     }
   ]
 }
