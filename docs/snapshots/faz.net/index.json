@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-12T14:09:05",
+  "timestamp": "2025-09-12T15:09:19",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -74,21 +80,14 @@
   ],
   "articles": [
     {
+      "title": "USA unter Trump: Utahs Gouverneur: „Wir haben ihn“ – Tatverdächtiger beschriftete die Kugeln",
+      "teaser": "Ermittler geben bei Pressekonferenz Details zum Fall Charlie Kirk bekannt +++ US-Präsident entsendet Nationalgarde auch nach Memphis +++ Trump gibt nach Kirk-Attentat Festnahme von Verdächtigem bekannt +++ Alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-mordverdaechtiger-im-fall-kirk-ist-22-jahre-alt-19444916.html"
+    },
+    {
       "title": "Trump nach Festnahme: „Ich hoffe, dass er die Todesstrafe erhält“",
       "teaser": "Zwei Tage nach dem Attentat auf Charlie Kirk haben die Sicherheitsbehörden den mutmaßlichen Täter gefasst. „Mit einem hohen Maß an Gewissheit haben wir ihn“, sagt Präsident Trump.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/usa-donald-hofft-nach-festnahme-von-mutmasslichem-kirk-attentaeter-auf-todesstrafe-110683341.html",
-      "image_url": "https://media1.faz.net/ppmedia/w1200/aktuell/politik/916774777/1.10683433/16x9/donald-trump-am-donnerstag-auf.jpg",
-      "image_title": "Donald Trump am Donnerstag auf dem Rasen vor dem Weißen Haus."
-    },
-    {
-      "title": "USA unter Trump: Trump entsendet Nationalgarde auch nach Memphis",
-      "teaser": "Trump gibt nach Kirk-Attentat Festnahme von Verdächtigem bekannt +++ FBI hatte mit Fotos nach Tatverdächtigem gesucht +++ Trump bezeichnet Bolsonaro-Verurteilung als „sehr überraschend“ +++ Alle Neuigkeiten im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-entsendet-nationalgarde-auch-nach-memphis-19444916.html"
-    },
-    {
-      "title": "FAZ+Politische Kultur in USA: Das nächste Opfer im Stammeskrieg",
-      "teaser": "Das Attentatsopfer Charlie Kirk stand selbst für einen Diskurs, in dem alles erlaubt ist. Niemand ist in Sicht, der den Verfall der politischen Kultur aufhalten könnte – oder wollte.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/attentat-auf-charlie-kirk-stammeskrieg-in-usa-fordert-naechstes-opfer-110680517.html"
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/usa-donald-trump-hofft-nach-festnahme-von-mutmasslichem-kirk-attentaeter-auf-todesstrafe-110683341.html"
     },
     {
       "title": "Krieg in der Ukraine: Auswärtiges Amt bestellt russischen Botschafter ein",
@@ -124,7 +123,7 @@
     {
       "title": "FAZ+Ausladung von Shani: „Eine Schande für unser Land“",
       "teaser": "Belgische Politiker reagieren scharf auf die Ausladung des israelischen Dirigenten Lahav Shani. Im Zentrum der Kritik: die flämische Ministerin für Kultur.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/kritik-in-belgien-an-ausladung-shanis-schande-fuer-unser-land-110683467.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/lahav-shani-belgische-politiker-kritisieren-ausladung-des-israelischen-dirigenten-scharf-110683467.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/feuilleton/102060610/1.10683466/16x9/shani-dirigiert-das-rotterdam.jpg",
       "image_title": "Shani dirigiert das Rotterdam Philharmonic Orchestra auf dem Enescu Festival 2025 in Bukarest."
     },
@@ -136,6 +135,13 @@
       "image_title": "Ein Polizist in Schwerin"
     },
     {
+      "title": "FAZ+Abgewiesene Asylbewerber: Das Innenministerium zieht zurück",
+      "teaser": "Die Zurückweisung dreier Asylsuchender an der polnischen Grenze waren rechtswidrig, entschied im Juni ein Gericht. Die Bundesregierung verzichtet nun wohl auf eine Klärung im Hauptsacheverfahren.",
+      "url": "https://www.faz.net/aktuell/politik/inland/zurueckweisungen-das-bundesinnenministerium-zieht-zurueck-110683333.html",
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/politik/inland/583731324/1.10683343/16x9/polizisten-begleiten-eine.jpg",
+      "image_title": "Polizisten begleiten eine Gruppe Migranten im Grenzgebiet zu Polen in der Nähe der Stadt Forst."
+    },
+    {
       "title": "Fraktur: Hochhackig durch New York",
       "teaser": "Zu Baerbocks Selbstinszenierung sollte man sich als üblicher Verdächtiger besser nicht äußern. Denn auch anerkennendes Pfeifen könnte missverstanden werden.",
       "url": "https://www.faz.net/aktuell/politik/fraktur/fraktur-baerbocks-selbstinszenierung-in-new-york-accg-110682861.html",
@@ -143,24 +149,18 @@
       "image_title": "Märchenhafte Selbstinszenierung: Doch auch anerkennende Äußerungen sind riskant."
     },
     {
-      "title": "Verdacht gegen Beamte: „Das hat mit den Werten der Polizei nichts zu tun“",
-      "teaser": "Brennpunktpolizisten sollen in Düsseldorf Geld von Verdächtigen gestohlen und sie unrechtmäßig festgenommen haben. Innenminister Reul ist entsetzt und verspricht konsequente Aufklärung.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/polizisten-in-duesseldorf-sollen-verdaechtige-bestohlen-haben-110682944.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/politik/4223614404/1.10682981/16x9/der-nordrhein-westfaelische.jpg",
-      "image_title": "Der nordrhein-westfälische Innen­minister Herbert Reul (CDU) spricht von gravierenden Vorwürfen."
-    },
-    {
-      "title": "Finanzstabilität: Europas Kleinbanken brauchen einfachere Regeln, um stark zu bleiben",
-      "url": "https://www.faz.net/aktuell/wirtschaft/bafin-und-bundesbank-europas-kleinbanken-brauchen-einfachere-regeln-110681115.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/420217456/1.10094477/16x9/der-finanzplatz-frankfurt.jpg",
-      "image_title": "Der Finanzplatz Frankfurt entstand vor mehreren Jahrhunderten in der Altstadt. Heute prägt ihn eine wachsende Zahl von Hochhäusern. Frankfurts Skyline ist in Deutschland einzigartig."
-    },
-    {
       "title": "FAZ+Tagebuch entdeckt: Wie ein einfacher Soldat den Ersten Weltkrieg erlebte",
       "teaser": "Carl Müller aus Oberursel war als Soldat im Ersten Weltkrieg. Er notierte, was er in Frankreich erlebte. Lange wusste niemand davon. Dann kam der Hobbyhistoriker Rolf Rehberg.",
       "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/tagebuch-entdeckt-wie-ein-soldat-aus-oberursel-den-ersten-weltkrieg-erlebte-accg-110672073.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/3053049867/1.10673614/16x9/sammelalbum-der-soldat-carl.jpg",
       "image_title": "Sammelalbum: Der Soldat Carl Müller schrieb Tagebuch, hob Fotos und Briefe auf. Mithilfe der Dokumente verfasste er 1920 in einer weiteren Kladde seine Erinnerungen – schwer lesbar in Sütterlinschrift."
+    },
+    {
+      "title": "Nuklearwaffen im 2. Weltkrieg: Warum wurde im Hitlerreich keine Atombombe gebaut?",
+      "teaser": "Konnten die deutschen Physiker keine Nuklearwaffe bauen, oder wollten sie es nicht? Und welche Rolle spielte Werner Heisenberg? Der amerikanische Historiker Mark Walker hat sein Standardwerk über das deutsche Uranprojekts erweitert.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/das-neue-buch-hitlers-atombombe-des-historikers-mark-walker-110677278.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/1427225535/1.10677276/16x9/nachbildung-des-kernreaktors.jpg",
+      "image_title": "Nachbildung des Kernreaktors im Atomkeller-Museum in Haigerloch, wo sich deutsche Atomphysiker mit Versuchen zur Energiegewinnung aus Kernspaltung beschäftigten."
     },
     {
       "title": "Vor der NRW-Kommunalwahl: Auch die Sondergießkanne wird die AfD nicht aufhalten",
@@ -198,6 +198,13 @@
       "image_title": "Christian Kamp"
     },
     {
+      "title": "Tarifkonflikt bei Lufthansa: Piloten ohne Maß",
+      "teaser": "Die hohe betriebliche Altersvorsorge für Piloten der Lufthansa-Kernmarke ist der Vereinigung Cockpit nicht hoch genug. Mit einem möglichen Streik riskiert sie Unmut von Passagieren und von Piloten anderer Lufthansa-Marken.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-kommentar-piloten-ohne-mass-110683524.html",
+      "image_url": "https://media1.faz.net/ppmedia/w100/redaktion/2691694841/1.3013551/format_jsonld_1x1/autorenportraet-kotowski-timo.jpg",
+      "image_title": "Timo Kotowski"
+    },
+    {
       "title": "Palasthotel-Debakel: Auf die lange Bank geschoben",
       "teaser": "Die Sanierung des Wiesbadener Palasthotels verzögert sich erneut. Partei-Taktik und Finanzprobleme verschärfen die Krise um das marode Gebäude.",
       "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/wiesbadens-palasthotel-millionen-sanierung-weiter-vertagt-110683694.html",
@@ -226,21 +233,14 @@
       "image_title": "Heike Göbel"
     },
     {
-      "title": "FAZ+Staatsfinanzen in der Krise: Was Europas Schulden gefährlich macht",
-      "teaser": "In Europa ist es immer leichter, neue Schulden zu machen als Haushalte zu konsolidieren. Doch wenn am Ende die Europäische Zentralbank einspringen müsste, wären die Folgen gravierend.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/europaeische-staatsfinanzen-was-europas-schulden-gefaehrlich-macht-110680928.html",
-      "image_url": "https://media1.faz.net/ppmedia/w100/2592865900/1.10019199/format_jsonld_1x1/werner-mussler-wmu.jpg",
-      "image_title": "Werner Mussler, Brüssel"
-    },
-    {
       "title": "Liveblog Trump-Zölle: Swatch antwortet auf US-Zölle mit „39-Prozent-Uhr“",
       "teaser": "Unternehmen spricht von einem „riesigen Erfolg“– wird Verkauf bei Zolleinigung einstellen +++ Trump will die Zölle für Käufer von russischem Öl ausweiten, wenn die EU mitzieht +++ alle Neuigkeiten im Liveblog",
       "url": "https://www.faz.net/aktuell/wirtschaft/trumps-us-zoelle-im-liveticker-swatch-antwortet-auf-us-zoelle-mit-39-prozent-uhr-faz-110405237.html"
     },
     {
-      "title": "Wegen Aufnahmeritual: Bundeswehr ermittelt gegen Panzergrenadiere",
-      "teaser": "Bei einem Aufnahmeritual sollen junge Soldaten mit Eiern und Wasserbomben beworfen worden sein. Laut Verteidigungsministerium wurden „umfassende Maßnahmen“ zur Untersuchung eingeleitet.",
-      "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-ermittelt-gegen-panzergrenadiere-wegen-aufnahmeritual-110683290.html"
+      "title": "In Baden-Württemberg: 18-Jähriger fährt Kind tot – Haftbefehl erlassen",
+      "teaser": "Im Hohenlohekreis soll ein 18-Jähriger einen Zwölfjährigen mit dem Auto verfolgt und tödlich verletzt haben. Nun kommt der Deutsche in Untersuchungshaft.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/niedernhall-in-baden-wuerttemberg-18-jaehriger-faehrt-zwoelfjaehrigen-nach-streit-tot-accg-110682495.html"
     },
     {
       "title": "Messflüge über Berlin: Warum Flugzeuge Deutschland nachts mit Lasern scannen",
@@ -274,21 +274,21 @@
     {
       "title": "FAZ+KI-Kurse: Die besten KI-Kurse für Einsteiger und Führungskräfte",
       "teaser": "Künstliche Intelligenz ist zu einem entscheidenden Erfolgsfaktor für Unternehmen und Gehaltsfaktor für Arbeitnehmer geworden. Wir zeigen die besten KI-Kurse für Einsteiger und Führungskräfte.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/die-besten-ki-kurse-fuer-einsteiger-und-fuehrungskraefte-110677533.html",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/kuenstliche-intelligenz-das-sind-die-besten-ki-kurse-fuer-einsteiger-und-fuehrungskraefte-110677533.html",
       "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/1487495652/1.10677749/16x9/auch-im-zeitalter-der.jpg",
       "image_title": "Auch im Zeitalter der Künstlichen Intelligenz sind Eigeninitiative und kontinuierliche Weiterbildung entscheidend für den Erfolg im Beruf."
     },
     {
       "title": "FAZ+KI-Kurse: Die besten KI-Kurse für Einsteiger und Führungskräfte",
       "teaser": "Künstliche Intelligenz ist zu einem entscheidenden Erfolgsfaktor für Unternehmen und Gehaltsfaktor für Arbeitnehmer geworden. Wir zeigen die besten KI-Kurse für Einsteiger und Führungskräfte.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/die-besten-ki-kurse-fuer-einsteiger-und-fuehrungskraefte-110677533.html"
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/kuenstliche-intelligenz-das-sind-die-besten-ki-kurse-fuer-einsteiger-und-fuehrungskraefte-110677533.html"
     },
     {
-      "title": "Plattenbaukunst in Potsdam: Wo die neuen Menschen wohnten",
-      "teaser": "Im Potsdamer Kunsthaus Minsk widmet sich eine Ausstellung dem Plattenbau im Wandel der Zeit. Die Arbeiten vorwiegend ostdeutscher Künstler beschäftigen sich mit sozialer Utopie und Prägung, aber auch mit Verfall und Verlust.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/potsdams-minsk-widmet-sich-der-wohnkultur-des-plattenbaus-110679510.html",
-      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/4150976285/1.10679502/16x9/sind-hier-noch-kleine-zeichen.jpg",
-      "image_title": "Sind hier noch kleine Zeichen von Hoffnung zu finden? Harald Metzkes „Aufbau von Marzahn“ aus dem Jahr 1984"
+      "title": "Sportart Treppenlauf: Die Trittbeste",
+      "teaser": "An diesem Samstag startet Monica Carl bei einem Wettkampf in Österreich: 3600 Stufen, 700 Höhenmeter. Sie gehört zu den besten Treppen­läuferinnen der Welt. Wie macht sie das?",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/monica-carl-gehoert-zu-den-besten-treppen-laeuferinnen-der-welt-110682950.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/1793324434/1.10682949/16x9/ganz-oben-im-oktober-2024.jpg",
+      "image_title": "Ganz oben: Im Oktober 2024 gewann Monica Carl den Treppenlauf auf das Empire State Building vor Yuko Tateishi (Japan, rechts) und Landsfrau Verena Schmitz."
     },
     {
       "title": "Ataman im EM-Halbfinale: Der türkische Basketball-Provokateur",
@@ -312,11 +312,11 @@
       "image_title": "Ansage vor Kampfflugzeugen: Regierungschef Donald Tusk"
     },
     {
-      "title": "FAZ+App für Offline-Treffen: Weshalb viele Singles müde vom Online-Dating sind",
-      "teaser": "Wer im Internet nach der Liebe sucht, muss sich auch auf Enttäuschungen einstellen. Zwei Frankfurter haben eine App für echte Begegnungen entwickelt. Besonders die Generation 55+ entdeckt darin neue soziale Möglichkeiten.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/online-dating-burnout-wie-sich-singles-vor-enttaeuschungen-schuetzen-accg-110678162.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/2995475150/1.10678960/16x9/online-dating-burn-out-viele.jpg",
-      "image_title": "„Online-Dating-Burn-out“: Viele Menschen haben das Schreiben auf Online-Plattformen satt und wollen sich im echten Leben kennenlernen."
+      "title": "FAZ+„Friendflation“: Wieso Freunde so teuer geworden sind",
+      "teaser": "Ein Abend auf der Gokart-Bahn, ein Tag im Wellness-Bad, ein Wochenende in London: Wer Freunde treffen will, muss immer mehr Geld ausgeben. Das hat gute Gründe – und lässt sich leicht ändern.",
+      "url": "https://www.faz.net/aktuell/finanzen/friendflation-wieso-freunde-so-teuer-geworden-sind-110672374.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/1002877954/1.10672366/16x9/das-duerfte-etwas-kosten-ein.jpg",
+      "image_title": "Das dürfte etwas kosten: ein Freundeskreis auf hoher See"
     },
     {
       "title": "FAZ+Kolumne „Richtig essen“: Low Carb ist bei Bluthochdruck eine schlechte Wahl",
@@ -326,29 +326,37 @@
       "image_title": "Prof. Dr. med. Andreas Michalsen arbeitet als Internist, Ernährungsmediziner und Fastenarzt in Berlin."
     },
     {
+      "title": "Attentat auf Charlie Kirk: Trump verkündet Festnahme von Verdächtigem",
+      "teaser": "Video",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/attentat-auf-charlie-kirk-trump-verkuendet-festnahme-von-verdaechtigem-110683961.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/politik/916774777/1.10683433/21x9/donald-trump-am-donnerstag-auf.jpg",
+      "image_title": "Donald Trump am Donnerstag auf dem Rasen vor dem Weißen Haus"
+    },
+    {
+      "title": "Treffen mit Kriegsveteranen: Prinz Harry trifft überraschend in Kiew ein",
+      "teaser": "Video",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ueberraschender-besuch-prinz-harry-trifft-kriegsveteranen-in-kiew-110683831.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/gesellschaft/32834004/1.10682370/16x9/prinz-harry-hier-am-10.jpg",
+      "image_title": "Prinz Harry, hier am 10. September noch in London beim Besuch des Centre for Blast Injury Studies"
+    },
+    {
       "title": "Stimmungstest in NRW: Das bevölkerungsreichste Bundesland wählt",
       "teaser": "Video",
       "url": "https://www.faz.net/aktuell/politik/inland/kommunalwahlen-in-nrw-stimmungstest-fuer-schwarz-rot-im-bund-110683131.html",
-      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/politik/4192185846/1.10683220/21x9/d251519c-8981-11f0-a7ca.jpg"
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/politik/4192185846/1.10683220/16x9/d251519c-8981-11f0-a7ca.jpg"
     },
     {
-      "title": "Nahe der NATO-Grenze: Russland und Belarus beginnen Großmanöver",
-      "teaser": "Video",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nahe-der-nato-grenze-russland-und-belarus-beginnen-grossmanoever-110682734.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/2305634319/1.10682737/16x9/f4365952-8fb6-11f0-b2c1.jpg"
-    },
-    {
-      "title": "Wegen Putschversuch: Historisches Urteil für Bolsonaro",
-      "teaser": "Video",
-      "url": "https://www.faz.net/aktuell/politik/ausland/27-jahre-haft-fuer-bolsonaro-wegen-putschversuch-110682504.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/politik/2920502755/1.10682194/16x9/der-oberste-gerichtshof.jpg",
-      "image_title": "Der Oberste Gerichtshof Brasiliens hat den ehemaligen Präsidenten Jair Bolsonaro am Donnerstag zu 27 Jahren und drei Monaten Gefängnis verurteilt."
+      "title": "FAZ+F.A.Z. Wissen – der Podcast: Gewöhnt KI uns das kritische Denken ab?",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/f-a-z-wissen-der-podcast/sollte-ki-an-universitaeten-und-schulen-verboten-werden-faz-podcast-110683556.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/1798317665/1.10683837/21x9/beim-erlernen-der.jpg",
+      "image_title": "Beim Erlernen der Grundrechenarten dürfen Schüler keine Taschenrechner benutzten – sollte man ihnen KI beim Üben von Textverständnis verbieten?"
     },
     {
       "title": "FAZ+Digitalwirtschaft-Podcast: Digitale Transformation: Alle reden darüber – aber was ist das genau?",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/f-a-z-digitalwirtschaft/digitale-transformation-alle-reden-darueber-aber-was-ist-das-genau-thomas-hess-110683744.html",
-      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/wirtschaft/2384496036/1.10540900/21x9/kuenstliche-intelligenz-ist.jpg",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/wirtschaft/2384496036/1.10540900/16x9/kuenstliche-intelligenz-ist.jpg",
       "image_title": "Künstliche Intelligenz ist ein zentraler Teil der Transformation."
     },
     {
@@ -359,17 +367,25 @@
       "image_title": "Ein Mann hält ein Bild von Ekrem Imamoglu bei einem Protest in Istanbul."
     },
     {
-      "title": "FAZ+F.A.Z. Podcast für Deutschland: Attentat auf rechten Aktivisten Kirk: Alarmierende Serie politischer Gewalt",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/charlie-kirk-erschossen-politische-gewalt-in-den-usa-eskaliert-110681585.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/4293498849/1.10681587/16x9/kopie-von-af3072e0-8eba-11f0.jpg"
+      "title": "Afghanistan: Taliban verweigern UN-Mitarbeiterinnen Zugang zu ihren Büros",
+      "teaser": "Sicherheitskräfte blockieren Frauen den Zugang zu UN-Institutionen in Kabul. Auch die Hilfe im Erdbebengebiet verläuft schleppend, Frauen werden kaum versorgt.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/taliban-verweigern-un-mitarbeiterinnen-zugang-zu-ihren-bueros-110683583.html",
+      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/1800975490/1.10683580/16x9/frauen-sitzen-anfang-september.jpg",
+      "image_title": "Frauen sitzen Anfang September 2025 vor einem vom Erdbeben zerstörten Haus in der Provinz Nangahar."
     },
     {
       "title": "Trotz Aufnahmezusage: Pakistan nimmt 661 Afghanen fest",
       "teaser": "Pakistan erhöht den Druck auf Deutschland, endlich die Afghanen mit Aufnahmezusagen auszufliegen. Nun wurde bekannt, dass fast 700 Afghanen in Abschiebhaft genommen wurden.",
       "url": "https://www.faz.net/aktuell/politik/afghanen-festgenommen-110683474.html",
-      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/politik/3540959163/1.10683530/21x9/afghanen-aus-dem.jpg",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/politik/3540959163/1.10683530/16x9/afghanen-aus-dem.jpg",
       "image_title": "Afghanen aus dem Bundesaufnahmeprogrammen, die gerade in einem Gästehaus festgenommen wurden in Islamabad"
+    },
+    {
+      "title": "Wegen Aufnahmeritual: Bundeswehr ermittelt gegen Panzergrenadiere",
+      "teaser": "Bei einem Aufnahmeritual sollen junge Soldaten mit Eiern und Wasserbomben beworfen worden sein. Laut Verteidigungsministerium wurden „umfassende Maßnahmen“ zur Untersuchung eingeleitet.",
+      "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-ermittelt-gegen-panzergrenadiere-wegen-aufnahmeritual-110683290.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/politik/2791732855/1.10683330/16x9/rekruten-der-marienberger.jpg",
+      "image_title": "Rekruten der Marienberger Jäger des Panzergrenadierbataillon 371 in Pockau-Lengefeld im Jahr 2022"
     },
     {
       "title": "FAZ+Kommunalwahlen in NRW: Der Kampf um die Adenauerallee",
@@ -379,17 +395,24 @@
       "image_title": "Gesperrt: Die fahrradfreundliche Adenauerallee sorgt in Bonn für erhitzte Debatten."
     },
     {
-      "title": "FAZ+Pakistanischer Armeesprecher: „Deutschland hatte genug Zeit, um die Afghanen aufzunehmen“",
-      "teaser": "Der Drei-Sterne-General und Sprecher des pakistanischen Militärs, Ahmed Sharif Chaudhry, über das deutsche Aufnahmeprogramm, ein Mittagessen mit Trump und die Terrorvorwürfe Indiens.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/deutschland-hatte-genug-zeit-die-afghanen-aufzunehmen-accg-110680659.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/1507101325/1.10653113/16x9/im-august-2021-besteigen.jpg",
-      "image_title": "Im August 2021 besteigen Afghanen in Kabul einen Bus, der sie zu einem Evakuierungsflug der Bundeswehr bringt."
+      "title": "FAZ+Robert Aumann: Der Ökonom der Konflikte",
+      "teaser": "Der Nobelpreisträger Robert Aumann musste als Kind mit seinen Eltern aus Frankfurt vor den Nazis fliehen. Jetzt kam er zum Nobelpreisträgertreffen nach Lindau. Wie blickt der 95-Jährige auf sein Fach und die Konflikte in der Welt?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/robert-aumann-der-oekonom-der-konflikte-110674611.html",
+      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/3607664418/1.10674608/16x9/robert-aumann-in-lindau.jpg",
+      "image_title": "Robert Aumann in Lindau"
+    },
+    {
+      "title": "FAZ+DAZN-Deutschland-Chefin: „Die Preiserhöhungen waren keine Willkür“",
+      "teaser": "DAZN dominiert immer mehr das Sport-Streaming. Im Interview spricht Deutschland-Chefin Alice Mascia über den Streit mit der DFL, das Engagement von Eigentümer Blavatnik – und ein potentiell „existentielles Problem für Ligen und Vereine.“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dazn-deutschlandchefin-mascia-die-preiserhoehungen-waren-keine-willkuer-110679286.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/3650141734/1.10679284/16x9/die-italienerin-ist-seit-rund.jpg",
+      "image_title": "Die Italienerin ist seit rund 20 Jahren im Mediengeschäft."
     },
     {
       "title": "FAZ+Reform der Sozialversicherungen: „Im System ist noch viel Musik, ohne dass man den Rotstift ansetzen muss“",
       "teaser": "Ulla Schmidt hat als Gesundheitsministerin in angespannten Zeiten unpopuläre Reformen wie die Praxisgebühr umgesetzt. Wie hat sie das gemacht – und was rät sie der Gesundheitsministerin heute?",
       "url": "https://www.faz.net/aktuell/wirtschaft/ulla-schmidt-ueber-unpopulaere-reformen-ich-wurde-beschimpft-und-bedroht-accg-110679428.html",
-      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/4185262237/1.10679426/16x9/ursula-schmidt-war-zwischen.jpg",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/4185262237/1.10679426/16x9/ursula-schmidt-war-zwischen.jpg",
       "image_title": "Ursula Schmidt war zwischen 2001 und 2009 unter Gerhard Schröder (SPD) und Angela Merkel (CDU) Bundesgesundheitsministerin."
     },
     {
@@ -398,19 +421,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-piloten-stimmen-ueber-moeglichen-streik-ab-accg-110683076.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/wirtschaft/309718273/1.10683084/16x9/piloten-des-lufthansa-konzern.jpg",
       "image_title": "Piloten des Lufthansa-Konzern bei Streikmaßnahmen am Frankfurter Flughafen im vergangenen Jahr."
-    },
-    {
-      "title": "Autogipfel in Brüssel: Von der Leyen will Klarheit zum Verbrenner-Aus bis Jahresende",
-      "teaser": "Die EU-Kommissionspräsidentin zögert, die strikten Klimaziele für die Autobranche aufzuweichen. Sie setzt darauf, dass eine Initiative für kleine Elektroautos dem Markt neuen Schwung verleiht.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/autogipfel-in-bruessel-von-der-leyen-will-klarheit-zum-verbrenner-aus-bis-jahresende-110683401.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/wirtschaft/2900638078/1.10683486/16x9/eu-kommissionspraesidentin.jpg",
-      "image_title": "EU-Kommissionspräsidentin Ursula von der Leyen hat sich mit europäischen Autoherstellern gestroffen und sich erneut zur E-Mobilität bekannt."
-    },
-    {
-      "title": "FAZ+Soziale Sicherung: So sollte das Rentensystem stabilisiert werden",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/soziale-sicherung-wie-das-rentensystem-stabilisiert-werden-sollte-accg-110675855.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/politik/1700568856/1.10675850/16x9/in-der-rentnerrepublik-fast.jpg",
-      "image_title": "In der Rentnerrepublik: Fast jeder Vierte im Land ist über 65 Jahre alt."
     },
     {
       "title": "FAZ+Digitales Wissen: Datenkompetenz: Deutschland im europäischen Vergleich abgehängt",
@@ -434,11 +444,18 @@
       "image_title": "Die Digitalisierung der Bestellprozesse sorgt dafür, dass Klassiker wie dieser Krautsalat weiterhin pünktlich auf den Tisch kommen."
     },
     {
-      "title": "FAZ+„Friendflation“: Wieso Freunde so teuer geworden sind",
-      "teaser": "Ein Abend auf der Gokart-Bahn, ein Tag im Wellness-Bad, ein Wochenende in London: Wer Freunde treffen will, muss immer mehr Geld ausgeben. Das hat gute Gründe – und lässt sich leicht ändern.",
-      "url": "https://www.faz.net/aktuell/finanzen/friendflation-wieso-freunde-so-teuer-geworden-sind-110672374.html",
-      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/1002877954/1.10672366/21x9/das-duerfte-etwas-kosten-ein.jpg",
-      "image_title": "Das dürfte etwas kosten: ein Freundeskreis auf hoher See"
+      "title": "Autogipfel in Brüssel: Von der Leyen will Klarheit zum Verbrenner-Aus bis Jahresende",
+      "teaser": "Die EU-Kommissionspräsidentin zögert, die strikten Klimaziele für die Autobranche aufzuweichen. Sie setzt darauf, dass eine Initiative für kleine Elektroautos dem Markt neuen Schwung verleiht.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/autogipfel-in-bruessel-von-der-leyen-will-klarheit-zum-verbrenner-aus-bis-jahresende-110683401.html",
+      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/wirtschaft/2900638078/1.10683486/21x9/eu-kommissionspraesidentin.jpg",
+      "image_title": "EU-Kommissionspräsidentin Ursula von der Leyen hat sich mit europäischen Autoherstellern gestroffen und sich erneut zur E-Mobilität bekannt."
+    },
+    {
+      "title": "FAZ+Tarifkonflikt: Was die Lufthansa-Piloten verlangen",
+      "teaser": "Im Streit über Regelungen zur betrieblichen Altersvorsorge stehen sich Konzern und Vereinigung Cockpit unversöhntlich gegenüber. In Lufthansa-Kreisen ist von „Extremforderungen“ die Rede, die Gewerkschaft rügt eine Blockadehaltung.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-piloten-stimmen-ueber-moeglichen-streik-ab-accg-110683076.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/wirtschaft/309718273/1.10683084/16x9/piloten-des-lufthansa-konzern.jpg",
+      "image_title": "Piloten des Lufthansa-Konzern bei Streikmaßnahmen am Frankfurter Flughafen im vergangenen Jahr."
     },
     {
       "title": "FAZ+Längst nicht autonom: Ohne Rohstoffimporte keine E-Autos aus Europa",
@@ -448,17 +465,16 @@
       "image_title": "Kein Problem beim Stahl: Deutschland ist der größte Produzent in der EU."
     },
     {
-      "title": "FAZ+Nationalmannschaft: Über allem schwebt der alte Neuer",
-      "teaser": "Die Lage beim Nationalteam ist aufgewühlt. Dass in der allgemeinen Ratlosigkeit die Möglichkeit eines Neuer-Comebacks Schlagzeilen macht, sollte niemanden überraschen. Nagelsmann muss sich damit beschäftigen.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/manuel-neuer-schlagzeilen-ueber-rueckkehr-ins-nationalteam-110682445.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/sport/462338542/1.10682499/16x9/kann-sich-wohl-eine-rueckkehr.jpg",
-      "image_title": "Kann sich wohl eine Rückkehr ins deutsche Tor vorstellen: Manuel Neuer"
+      "title": "Finanzstabilität: Europas Kleinbanken brauchen einfachere Regeln, um stark zu bleiben",
+      "url": "https://www.faz.net/aktuell/wirtschaft/bafin-und-bundesbank-europas-kleinbanken-brauchen-einfachere-regeln-110681115.html",
+      "image_url": "https://media1.faz.net/ppmedia/w1200/aktuell/420217456/1.10094477/16x9/der-finanzplatz-frankfurt.jpg",
+      "image_title": "Der Finanzplatz Frankfurt entstand vor mehreren Jahrhunderten in der Altstadt. Heute prägt ihn eine wachsende Zahl von Hochhäusern. Frankfurts Skyline ist in Deutschland einzigartig."
     },
     {
       "title": "FAZ+Hilfe bei der Fondssuche: Die besten ETF für die ganze Welt",
       "teaser": "Die Auswahl an Indexfonds ist riesig. Hier kommen vier günstige ETF für jede Region.",
       "url": "https://www.faz.net/aktuell/finanzen/pro-finanzen/hilfe-bei-der-fondssuche-die-besten-etf-fuer-die-ganze-welt-accg-110670045.html",
-      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/finanzen/pro-finanzen/1922837350/1.10675954/16x9/global-investieren-und.jpg",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/finanzen/pro-finanzen/1922837350/1.10675954/16x9/global-investieren-und.jpg",
       "image_title": "Global investieren – und trotzdem nie den Überblick verlieren."
     },
     {
@@ -476,17 +492,17 @@
       "image_title": "Testlauf in einer neuen Munitionsfabrik von Rheinmetall im niedersächsischen Ort Unterlüß"
     },
     {
-      "title": "Scherbaums Börse: Der leise Rivale macht Nvidia Konkurrenz",
-      "teaser": "Ein Milliardenauftrag rückt Broadcom ins Zentrum des KI-Booms. Analysten sehen Aufholpotential gegenüber Nvidia.",
-      "url": "https://www.faz.net/aktuell/finanzen/broadcom-macht-nvidia-konkurrenz-im-zentrum-des-ki-booms-accg-110681317.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/feuilleton/4192831491/1.10681314/16x9/die-zentrale-von-broadcom-in.jpg",
-      "image_title": "Die Zentrale von Broadcom in St. Jose in Kalifornien"
+      "title": "Plattenbaukunst in Potsdam: Wo die neuen Menschen wohnten",
+      "teaser": "Im Potsdamer Kunsthaus Minsk widmet sich eine Ausstellung dem Plattenbau im Wandel der Zeit. Die Arbeiten vorwiegend ostdeutscher Künstler beschäftigen sich mit sozialer Utopie und Prägung, aber auch mit Verfall und Verlust.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/plattenbaukunst-in-potsdam-wo-die-neuen-menschen-wohnten-110679510.html",
+      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/4150976285/1.10679502/16x9/sind-hier-noch-kleine-zeichen.jpg",
+      "image_title": "Sind hier noch kleine Zeichen von Hoffnung zu finden? Harald Metzkes „Aufbau von Marzahn“ aus dem Jahr 1984"
     },
     {
       "title": "Musikfest Berlin: Vertrieben aus dem Paradiesgarten der Musik",
       "teaser": "Der RIAS-Kammerchor konfrontiert beim Musikfest Arvo Pärt mit Palestrina. Der harte Vergleich führt zu einem klaren Ergebnis.",
       "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/rias-kammerchor-beim-musikfest-berlin-110683431.html",
-      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/3005732872/1.10683430/16x9/der-rias-kammerchor-in-der.jpg",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/3005732872/1.10683430/16x9/der-rias-kammerchor-in-der.jpg",
       "image_title": "Der RIAS-Kammerchor in der Berliner Philharmonie"
     },
     {
@@ -502,13 +518,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/b-movie-honey-don-t-von-ethan-coen-accg-110679225.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/feuilleton/2321503337/1.10679224/16x9/honey-gespielt-von-margaret.jpg",
       "image_title": "Honey, gespielt von Margaret Qualley, vereint Film-Noir-Klischees: Sie ist verführende Femme fatale und Detektiv in einer Person."
-    },
-    {
-      "title": "Nach Ausladung in Belgien: Solidarität mit Shani",
-      "teaser": "Nach der antisemitisch motivierten Ausladung der Münchener Philharmoniker in Belgien solidarisieren sich das Musikfest Berlin und das Théâtre des Champs-Elysées in Paris mit dem jüdischen Dirigenten Lahav Shani.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/solidaritaet-mit-lahav-shani-muenchner-philharmonikern-bei-musikfest-berlin-accg-110682379.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/feuilleton/2304675323/1.10680902/16x9/lahav-shani-erfaehrt.jpg",
-      "image_title": "Lahav Shani erfährt Solidarität aus Berlin und Paris."
     },
     {
       "title": "FAZ+Kolumne „Uni Live“: Wenn das eigene Studium nicht instagrammable ist",
@@ -532,16 +541,23 @@
       "image_title": "Universitätsabsolventen treffen auf einen sich verändernden Arbeitsmarkt."
     },
     {
+      "title": "FAZ+Nationalmannschaft: Über allem schwebt der alte Neuer",
+      "teaser": "Die Lage beim Nationalteam ist aufgewühlt. Dass in der allgemeinen Ratlosigkeit die Möglichkeit eines Neuer-Comebacks Schlagzeilen macht, sollte niemanden überraschen. Nagelsmann muss sich damit beschäftigen.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/manuel-neuer-schlagzeilen-ueber-rueckkehr-ins-nationalteam-110682445.html",
+      "image_url": "https://media1.faz.net/ppmedia/w1200/aktuell/sport/462338542/1.10682499/16x9/kann-sich-wohl-eine-rueckkehr.jpg",
+      "image_title": "Kann sich wohl eine Rückkehr ins deutsche Tor vorstellen: Manuel Neuer"
+    },
+    {
       "title": "Eintracht-Frauen: So wird das nichts mit den Europapokalnächten",
       "teaser": "Nach der 1:2-Niederlage gegen Real ist die Champions League-Qualifikation in Gefahr. Beim Rückspiel in Madrid wollen die Eintracht-Frauen anders auftreten.",
       "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frauen-so-wird-das-nichts-mit-den-europapokalnaechten-110683528.html",
-      "image_url": "https://media1.faz.net/ppmedia/w1200/aktuell/sport/584688043/1.10683527/16x9/enttaeuschung-bei-laura.jpg",
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/sport/584688043/1.10683527/16x9/enttaeuschung-bei-laura.jpg",
       "image_title": "Enttäuschung bei Laura Freigang: Eintracht Frankfurt verliert mit 1:2 gegen Real Madrid."
     },
     {
       "title": "FAZ+Radsportmäzen Adams: Israels Sonderbotschafter im Krieg",
       "teaser": "Das Team Israel-Premier Tech ist bei der Vuelta Fokus des Protests. Sylvan Adams, der Finanzier des Radrennstalls und Verbündeter Benjamin Netanjahus, sieht sich auf einer Mission.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/radsportmaezen-adams-israels-sonderbotschafter-im-krieg-und-bei-der-vuelta-110683046.html",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/proteste-bei-der-vuelta-gegen-sylvan-adams-auswirkungen-des-gaza-kriegs-im-sport-110683046.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/1928924631/1.10683048/16x9/heisses-pflaster-die-proteste.jpg",
       "image_title": "Heißes Pflaster: Die Proteste begleiten die Vuelta und besonders das Team Israel - Premier Tech die gesamte Rundfahrt über."
     },
@@ -553,17 +569,17 @@
       "image_title": "Neue Heimat: Nick Woltemade spielt jetzt in Newcastle."
     },
     {
-      "title": "FAZ+Henni Nachtsheim: „Eintracht und ich, das ist irgendwie was drüber“",
-      "teaser": "Der Unterhaltungskünstler Henni Nachtsheim, als Komödiant von „Badesalz“ bekannt, spricht über seine große Liebe Eintracht, seine Warnung an die Ultras und sein Fußballwissen, das er vielen voraus hat.",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/henni-nachtsheim-von-badesalz-ueber-seine-liebe-zu-eintracht-frankfurt-accg-110670310.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/2746392602/1.10670309/16x9/ein-leben-mit-der-eintracht.jpg",
-      "image_title": "Ein Leben mit der Eintracht: Henni Nachtsheim, Komödiant von „Badesalz“, Musiker und Buchautor."
+      "title": "Verdacht gegen Beamte: „Das hat mit den Werten der Polizei nichts zu tun“",
+      "teaser": "Brennpunktpolizisten sollen in Düsseldorf Geld von Verdächtigen gestohlen und sie unrechtmäßig festgenommen haben. Innenminister Reul ist entsetzt und verspricht konsequente Aufklärung.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/polizisten-in-duesseldorf-sollen-verdaechtige-bestohlen-haben-110682944.html",
+      "image_url": "https://media1.faz.net/ppmedia/w1200/aktuell/politik/4223614404/1.10682981/16x9/der-nordrhein-westfaelische.jpg",
+      "image_title": "Der nordrhein-westfälische Innen­minister Herbert Reul (CDU) spricht von gravierenden Vorwürfen."
     },
     {
       "title": "Aus Gericht entkommen: Geflohener Häftling nach fast zwei Monaten in Brüssel gefasst",
       "teaser": "Im Juli flieht ein Häftling aus dem Düsseldorfer Amtsgericht und überwindet einen hohen Sicherheitszaun. Nun ist der 26 Jahre alte Mann in Brüssel festgenommen worden.",
       "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/in-duesseldorf-geflohener-haeftling-in-bruessel-gefasst-110683692.html",
-      "image_url": "https://media1.faz.net/ppmedia/w1200/aktuell/gesellschaft/1194071462/1.10683741/16x9/der-26-jaehrige-rumaene-sollte.jpg",
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/gesellschaft/1194071462/1.10683741/16x9/der-26-jaehrige-rumaene-sollte.jpg",
       "image_title": "Der 26-jährige Rumäne sollte aufgrund eines österreichischen Auslieferungsersuchens beim Amtsgericht in Düsseldorf vorgeführt werden."
     },
     {
@@ -581,13 +597,6 @@
       "image_title": "Die Japanerin Kane Tanaka war mit 119 Jahren die älteste Asiatin der Geschichte. Sie verstarb 2022."
     },
     {
-      "title": "Während Welt-Tournee: Bad Bunny meidet US-Bühnen aus Sorge vor Abschiebungen",
-      "teaser": "Der Sänger aus Puerto Rico will keine Konzerte auf dem amerikanischen Festland geben – weil er nicht will, dass die Einwanderungsbehörde ICE bei seinen Konzerten auftaucht.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/bad-bunny-meidet-buehnen-in-den-usa-aus-sorge-vor-abschiebungen-accg-110682746.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/feuilleton/3586808892/1.10682789/16x9/ist-lieber-vorsichtig-bad.jpg",
-      "image_title": "Ist lieber vorsichtig: Bad Bunny"
-    },
-    {
       "title": "Was wird aus Modehaus?: Armani soll verkauft werden oder an die Börse",
       "teaser": "Der verstorbene Modeschöpfer ermöglicht in seinem Testament einen Verkauf an LVMH, L’Oréal oder Essilor-Luxottica. Das letzte Wort haben die Erben.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/armani-soll-verkauft-werden-oder-an-die-boerse-wer-das-letzte-wort-hat-accg-110682757.html",
@@ -602,11 +611,25 @@
       "image_title": "Jugendstilistin: Marion Dierschke sitzt in der von ihren Eltern aufgebauten Galerie an der Mittelstraße in Bad Nauheim, sie schneidert viel selbst"
     },
     {
+      "title": "Umstrittene Software: Nur die CDU will Palantir weiter nutzen",
+      "teaser": "Hessen setzt seit 2017 eine Sicherheits-Software des US-Unternehmens Palantir ein. Jetzt streitet der Landtag über die weitere Nutzung.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessischer-landtag-streitet-ueber-palantir-software-110682800.html",
+      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/gesellschaft/751991192/1.10683952/16x9/palantir-gruender-peter-thiel.jpg",
+      "image_title": "Palantir-Gründer Peter Thiel sorgt als Trump-Anhänger und Demokratieverächter für Schlagzeilen."
+    },
+    {
       "title": "„Theater Lakritz“ in Darmstadt: Wie ein Kindertheater trotz widriger Umstände feiert",
       "teaser": "Es kommt mehr Publikum, die Anerkennung wächst – aber das Geld fehlt: Das Kindertheater Lakritz in Darmstadt macht seit 25 Jahren Programm.",
       "url": "https://www.faz.net/aktuell/rhein-main/kultur/darmstadt-wie-das-kindertheater-lakritz-trotz-widriger-umstaende-feiert-accg-110681335.html",
-      "image_url": "https://media0.faz.net/ppmedia/w1200/aktuell/3948309065/1.10681334/16x9/viel-erfolg-wenig-geld-bjoern.jpg",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/3948309065/1.10681334/16x9/viel-erfolg-wenig-geld-bjoern.jpg",
       "image_title": "VIel Erfolg, wenig Geld: Björn und Julia Lehn vom Theater Lakritz in ihrem Stammhaus, dem Darmstäödter Theater Mollerhaus"
+    },
+    {
+      "title": "Liveticker Hessen & Frankfurt: 27 Verdächtige sollen Gas- und Stromzähler manipuliert haben",
+      "teaser": "Baugewerbe in Hessen mit den meisten Insolvenzen +++ Bus fährt gegen mehrere Autos: 300.000 Euro Schaden in Gießen +++ Mordermittlungen in Marburg +++ Schüsse im Wettbüro werden Thema bei „Aktenzeichen XY“ +++ Liveblog für Frankfurt und Hessen",
+      "url": "https://www.faz.net/aktuell/rhein-main/gruppe-soll-gas-und-stromzaehler-manipuliert-haben-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/gesellschaft/177083559/1.10683940/16x9/die-staatsanwaltschaft.jpg",
+      "image_title": "Die Staatsanwaltschaft Wiesbaden und das Hessische Landeskriminalamt (HLKA) ermitteln gegen 27 Personen, die systematisch Strom- und Gaszähler manipuliert haben sollen."
     },
     {
       "title": "Wiesbaden: Zukunft von Palasthotel bleibt ungewiss",
@@ -616,18 +639,11 @@
       "image_title": "Verkaufen oder sanieren? Um die Zukunft des Palasthotels in Wiesbaden wird in der Stadtpolitik weiter gestritten."
     },
     {
-      "title": "Tag des offenen Denkmals: Ein Herz für die kleinen Baudenkmäler",
-      "teaser": "Der Architekt Werner Völler hat an großen Bauten in Frankfurt mitgewirkt – von der Commerzbank bis zur Messehalle 3. Jetzt engagiert er sich für den Denkmalschutz. Nicht jedes Gebäude müsse erhalten werden, findet er.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-architekt-engagiert-sich-beim-tag-des-offenen-denkmals-accg-110681647.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/3829452044/1.10681639/16x9/sinn-fuer-die-qualitaeten.jpg",
-      "image_title": "Sinn für die Qualitäten alter Bauten: Werner Völler, ehrenamtlicher Ortskurator der Deutschen Stiftung Denkmalschutz, im originalgetreu sanierten Atelier des Malers Wilhelm Steinhausen"
-    },
-    {
-      "title": "Liveticker Hessen & Frankfurt: Baugewerbe in Hessen mit den meisten Insolvenzen",
-      "teaser": "Bus fährt gegen mehrere Autos: 300.000 Euro Schaden in Gießen +++ Mordermittlungen in Marburg +++ Schüsse im Wettbüro werden Thema bei „Aktenzeichen XY“ +++ Stromausfall in Neu-Isenburg +++ Hadamar: Häftling flieht aus Klinik +++ Liveblog für Frankfurt und Hessen",
-      "url": "https://www.faz.net/aktuell/rhein-main/baugewerbe-in-hessen-mit-den-meisten-insolvenzen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/wirtschaft/3962428388/1.10682920/16x9/im-wohnungsbau-stockt-es-weil.jpg",
-      "image_title": "Im Wohnungsbau stockt es, weil zu viele Unternehmen Insolvenz anmelden."
+      "title": "Fünf am Freitag: Eine spannende Woche in München",
+      "teaser": "Heute kommen alle fünf aus München. Es ist eben IAA. Nächste Woche gibt es hier wieder gemischte Platte.",
+      "url": "https://www.faz.net/aktuell/technik-motor/fuenf-am-freitag-eine-spannende-woche-in-muenchen-110682508.html",
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/3089811001/1.10674301/16x9/die-iaa-will-nicht-nur-eine.jpg",
+      "image_title": "Die IAA will nicht nur eine Automesse sein."
     },
     {
       "title": "FAZ+Zu Besuch bei Garmin: Zielführung aktiviert",
@@ -635,13 +651,6 @@
       "url": "https://www.faz.net/aktuell/technik-motor/digital/garmin-macht-mehr-als-sportuhren-ein-besuch-am-stammsitz-accg-110658763.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/4197060604/1.10658760/16x9/eine-sonarbasierte-boje-hilft.jpg",
       "image_title": "Eine sonarbasierte Boje hilft Tauchern."
-    },
-    {
-      "title": "Liveticker zur IAA 2025: Das Auto im Spannungsfeld",
-      "teaser": "Politiker gegen das Verbrennerverbot +++ Merz fordert Technologieoffenheit statt übermäßiger Regulierung +++ IAA bleibt in München +++ Renault stellt Clio in sechster Generation vor +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/liveticker-iaa-2025-das-auto-im-spannungsfeld-faz-110650636.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/wirtschaft/2297984432/1.10678344/16x9/die-hersteller-setzen-auf.jpg",
-      "image_title": "Die Hersteller setzen auf Elektroautos."
     },
     {
       "title": "FAZ+Ernährungssicherheit: Ernten sind kaum noch vorhersehbar",
@@ -680,7 +689,7 @@
     {
       "title": "Neues Umspannwerk: Flächenfraß für Öko-Strom",
       "teaser": "In der Wetterau soll auf umgerechnet 43 Fußballfeldern ein neues Umspannwerk entstehen. Solarausbau und neue Windräder stressen das Netz – aber geht es wirklich nicht kleiner?",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/umspannwerk-bei-reichelsheim-flaechenfrass-fuer-oeko-strom-110676687.html",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/umspannwerk-bei-reichelsheim-ist-flaechenfrass-fuer-oeko-strom-geht-es-nicht-kleiner-110676687.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/wirtschaft/370101905/1.10677780/16x9/zubau-solaranlagen-auf.jpg",
       "image_title": "Zubau: Solaranlagen auf Einfamilienhäusern gibt es auch in der Wetterau vermehrt"
     },
