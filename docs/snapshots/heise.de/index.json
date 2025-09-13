@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-13T15:07:41",
+  "timestamp": "2025-09-13T16:09:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Verbrenner-Aus: Von der Leyen will CO2-Reduktion und Technologieneutralität",
+      "url": "https://www.heise.de/news/Verbrenner-Aus-Von-der-Leyen-will-CO2-Reduktion-und-Technologieneutralitaet-10643646.html"
+    },
     {
       "title": "Angespielt: Das ARTE-Adventure \"Gloomy Eyes\" ist ein spielbarer Tim-Burton-Film",
       "url": "https://www.heise.de/tests/Angespielt-Das-ARTE-Adventure-Gloomy-Eyes-ist-ein-spielbarer-Tim-Burton-Film-10643412.html"
@@ -60,10 +64,6 @@
     {
       "title": "iX-Workshop: RAG-Systeme effizient evaluieren und optimieren",
       "url": "https://www.heise.de/news/iX-Workshop-RAG-Systeme-effizient-evaluieren-und-optimieren-10627813.html"
-    },
-    {
-      "title": "Tag des Programmierers: Lustiges und Schrecken aus dem Developer-Alltag gesucht",
-      "url": "https://www.heise.de/news/Tag-des-Programmierers-Lustiges-und-Schrecken-aus-dem-Developer-Alltag-gesucht-10642226.html"
     },
     {
       "title": "Core i5-110Intel legt fünf Jahre alten Prozessor neu auf",
@@ -207,20 +207,26 @@
       "url": "https://www.heise.de/news/Mehr-Frames-fast-ohne-Nachteile-10642785.html"
     },
     {
+      "title": "Verbrenner-Aus: Von der Leyen will CO2-Reduktion und Technologieneutralität",
+      "teaser": "EVP-Chef Weber verspricht ein rasches Aus vom Verbrenner-Aus. Kommissionspräsidentin von der Leyen ist zögerlicher: \"Es kann kein 'Business as usual' geben.\"",
+      "url": "https://www.heise.de/news/Verbrenner-Aus-Von-der-Leyen-will-CO2-Reduktion-und-Technologieneutralitaet-10643646.html",
+      "image_title": "Auspuff"
+    },
+    {
       "title": "Angespielt: Das ARTE-Adventure \"Gloomy Eyes\" ist ein spielbarer Tim-Burton-Film",
       "teaser": "Das Cozy-Horror-Abenteuer \"Gloomy Eyes\" verbindet märchenhafte Erzählung mit morbider Ästhetik und setzt dabei auf Atmosphäre statt Anspruch.",
       "url": "https://www.heise.de/tests/Angespielt-Das-ARTE-Adventure-Gloomy-Eyes-ist-ein-spielbarer-Tim-Burton-Film-10643412.html",
       "image_title": "Zwei Kinder im Comicstil blicken auf den Nachthimmel."
     },
     {
-      "title": "Ottocast Play2Video Pro im Test: Wireless-Carplay-Adapter mit Youtube & Netflix",
-      "teaser": "Youtube oder Netflix im Auto? Mit dem Ottocast Play2Video Pro lässt sich nicht nur das Smartphone kabellos verbinden, sondern direkt im Fahrzeug streamen.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/ottocast-play2video-pro-im-test-wireless-carplay-adapter-mit-youtube-und-netflix/mg2vjwh?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Produktivitätskiller im Admin-Alltag stoppen",
       "teaser": "So schützen Sie mobile Geräte auf einer Reise",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7073688200&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Ottocast Play2Video Pro im Test: Wireless-Carplay-Adapter mit Youtube & Netflix",
+      "teaser": "Youtube oder Netflix im Auto? Mit dem Ottocast Play2Video Pro lässt sich nicht nur das Smartphone kabellos verbinden, sondern direkt im Fahrzeug streamen.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/ottocast-play2video-pro-im-test-wireless-carplay-adapter-mit-youtube-und-netflix/mg2vjwh?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Heim-NAS bis 300 Euro: Fünf Netzwerkspeicher für Einsteiger",
@@ -248,12 +254,6 @@
       "teaser": "An der eigenen Wallbox lassen sich dynamische Strompreisrabatte automatisch nutzen. Der Preisvorteil kann groß sein.",
       "url": "https://www.heise.de/hintergrund/Elektroautos-Rabatte-auf-den-Strompreis-an-der-Wallbox-automatisch-nutzen-10495140.html",
       "image_title": "Wallboxen"
-    },
-    {
-      "title": "iX-Workshop: RAG-Systeme effizient evaluieren und optimieren",
-      "teaser": "Lernen Sie, RAG-Systeme professionell zu analysieren und gezielt zu optimieren – mit praxiserprobten Techniken und echten Anwendungsfällen.",
-      "url": "https://www.heise.de/news/iX-Workshop-RAG-Systeme-effizient-evaluieren-und-optimieren-10627813.html",
-      "image_title": "iX-Workshop IT-Governance planen und implementieren"
     },
     {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
@@ -322,6 +322,12 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "iX-Workshop: RAG-Systeme effizient evaluieren und optimieren",
+      "teaser": "Lernen Sie, RAG-Systeme professionell zu analysieren und gezielt zu optimieren – mit praxiserprobten Techniken und echten Anwendungsfällen.",
+      "url": "https://www.heise.de/news/iX-Workshop-RAG-Systeme-effizient-evaluieren-und-optimieren-10627813.html",
+      "image_title": "iX-Workshop IT-Governance planen und implementieren"
+    },
+    {
       "title": "Tag des Programmierers: Lustiges und Schrecken aus dem Developer-Alltag gesucht",
       "teaser": "Codebasis kurz vor Kundentermin verschwunden? Falschen Code eingecheckt? Zum Gedenktag suchen wir Shocking Shorts aus der Softwareentwicklung.",
       "url": "https://www.heise.de/news/Tag-des-Programmierers-Lustiges-und-Schrecken-aus-dem-Developer-Alltag-gesucht-10642226.html"
@@ -388,14 +394,14 @@
       "image_title": "Jugendliche mit Smartphones"
     },
     {
-      "title": "Switchbot Lock Ultra Vision im Test: Erstes Smart Lock mit Gesichtserkennung",
-      "teaser": "Die Hände voll, die Tür zu – kein Problem: Das Switchbot Lock Ultra macht per Gesichtserkennung den Weg frei. Was es sonst noch bietet, zeigt der Test.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/switchbot-lock-ultra-vision-im-test-erstes-smart-lock-mit-gesichtserkennung/zpm9625?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
       "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Erfahren Sie in einem Webcast, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
       "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
+      "title": "Switchbot Lock Ultra Vision im Test: Erstes Smart Lock mit Gesichtserkennung",
+      "teaser": "Die Hände voll, die Tür zu – kein Problem: Das Switchbot Lock Ultra macht per Gesichtserkennung den Weg frei. Was es sonst noch bietet, zeigt der Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/switchbot-lock-ultra-vision-im-test-erstes-smart-lock-mit-gesichtserkennung/zpm9625?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Vorbestellstart beim iPhone: Das sind die Gewinner und Verlierer",
@@ -447,12 +453,6 @@
       "title": "Pilotprojekt in Hessen: Der Anfang vom Ende der Steuererklärung",
       "teaser": "Keine Lust auf die Steuererklärung? Ein Projekt Hessens zeigt: Viele Arbeitnehmer und Rentner müssen vielleicht künftig nie wieder Elster-Formulare durchackern.",
       "url": "https://www.heise.de/hintergrund/Pilotprojekt-in-Hessen-Der-Anfang-vom-Ende-der-Steuererklaerung-10628819.html"
-    },
-    {
-      "title": "Multipass: Tesla schaut bei Ladesäulen künftig über den Tellerrand",
-      "teaser": "Tesla will seinen Kunden die Nutzung von Ladesäulen anderer Anbieter erleichtern. Die große Frage beim Multipass ist, zu welchen Preisen das möglich sein wird.",
-      "url": "https://www.heise.de/news/Multipass-Tesla-schaut-bei-Ladesaeulen-kuenftig-ueber-den-Tellerrand-10642715.html",
-      "image_title": "Tesla-Logo auf Auto"
     },
     {
       "title": "Vorsicht, Kunde: Fallstricke beim Glasfaseranschluss",
@@ -523,9 +523,9 @@
       "image_title": "Hand mit Handy beleuchtet einen Stromzähler"
     },
     {
-      "title": "Oracle-Gründer Larry Ellison reichster Mensch der Welt",
-      "url": "https://www.heise.de/news/Oracle-Gruender-Larry-Ellison-reichster-Mensch-der-Welt-10640440.html",
-      "image_title": "Donald Trump verkündet Projekt Stargate im Beisein von Larry Ellison (Oracle), Masayoshi Son (SoftBank) und Sam Altman (OpenAI)."
+      "title": "Multipass: Tesla schaut bei Ladesäulen künftig über den Tellerrand",
+      "url": "https://www.heise.de/news/Multipass-Tesla-schaut-bei-Ladesaeulen-kuenftig-ueber-den-Tellerrand-10642715.html",
+      "image_title": "Tesla-Logo auf Auto"
     },
     {
       "title": "\"Unbestechlich\": Albanien soll als erstes Land eine KI als Ministerin bekommen",
@@ -629,14 +629,15 @@
       "url": "https://www.heise.de/tests/Wer-blinzelt-verliert-Die-Dollar-Trilogie-im-Triell-zwischen-Streams-und-UHDs-10640917.html"
     },
     {
-      "title": "c’t uplinkSicher und privat surfen: Werbebanner und -tracker blockieren",
-      "teaser": "Aufdringliche Werbung stört beim Surfen. Unter der Oberfläche lauert ­zusätzlich ein riesiger Überwachungsapparat. Wir zeigen, was man dagegen tun kann.",
-      "url": "https://www.heise.de/news/Sicher-und-privat-surfen-Werbebanner-und-tracker-blockieren-c-t-uplink-10642132.html"
-    },
-    {
       "title": "Intel Arc Pro B50 im Test: Mit 16 GByte an die Spitze",
       "teaser": "Intels Workstation-Grafikkarte Arc Pro B50 lockt mit vergleichsweise großem Grafikspeicher. Der hilft speziell bei Aufgaben wie KI-Inferencing.",
       "url": "https://www.heise.de/tests/Intel-Arc-Pro-B50-im-Test-Mit-16-GByte-an-die-Spitze-10569834.html"
+    },
+    {
+      "title": "Deutsche Telekom lässt umziehenden Kunden beim Internetanschluss hängen",
+      "teaser": "Bei einem Umzug muss der Internetprovider seine bisherigen Leistungen am neuen Wohnort erbringen oder Kunden aus dem Vertrag entlassen. Das klappt nicht immer.",
+      "url": "https://www.heise.de/ratgeber/Deutsche-Telekom-laesst-umziehenden-Kunden-beim-Internetanschluss-haengen-10641466.html",
+      "image_title": ","
     },
     {
       "title": "Die große FAQeSIM in iPhone und iPad: Was Sie wissen sollten, welche Stolpersteine es gibt",
@@ -768,27 +769,25 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Die unterschätzte Macht der deutschen Sprache",
-      "teaser": "Deutsch ist nach Russisch Europas meistgesprochene Muttersprache. Millionen lernen sie weltweit – nicht aus Romantik, sondern Kalkül. Wer profitiert von diesem stillen Aufstieg?",
-      "url": "https://www.heise.de/tp/features/Die-unterschaetzte-Macht-der-deutschen-Sprache-10642725.html",
-      "image_title": "Moin Moin-Aufschrift in einem Fenster."
+      "title": "Ruhe bewahren! Wie Sie Wespen ohne Panik vertreiben",
+      "teaser": "Sie sind neugierig, hungrig, lästig. Wespen im Garten oder im Haus können nerven. In freier Natur haben ihren Platz im Ökosystem. Wer einige Tipps beherzigt, kann gut mit ihnen leben.",
+      "url": "https://www.heise.de/tp/features/Ruhe-bewahren-Wie-Sie-Wespen-ohne-Panik-vertreiben-10642324.html"
     },
     {
-      "title": "Trump will EU zu Strafzöllen gegen China und Indien zwingen",
-      "teaser": "Trump fordert von der EU drastische Strafzölle auf Importe aus China und Indien. Doch die Forderung bringt Europa in ein Dilemma.",
-      "url": "https://www.heise.de/tp/features/Trump-will-EU-zu-Strafzoellen-gegen-China-und-Indien-zwingen-10643112.html",
-      "image_title": "US-Präsident Donald Trump will die EU zwingen, Zölle gegen China und Indien zu verhängen."
+      "title": "Die Dramatisierungsmaschine: Deutschlands Medien im Alarmmodus",
+      "teaser": "Russisches Routinemanöver oder ein Angriff auf Nato-Gebiet? Suggestivfragen im Deutschlandfunk, Kriegsgeheul und mediale Eskalation.",
+      "url": "https://www.heise.de/tp/features/Die-Dramatisierungsmaschine-Deutschlands-Medien-im-Alarmmodus-10643484.html"
     },
     {
-      "title": "Übergewicht bei Kindern: Die stille Epidemie wächst schlagartig",
-      "teaser": "Unicef schlägt Alarm: Weltweit gibt es erstmals mehr übergewichtige als unterernährte Kinder – mit fatalen Folgen für die Gesundheit.",
-      "url": "https://www.heise.de/tp/features/Uebergewicht-bei-Kindern-Die-stille-Epidemie-waechst-schlagartig-10642537.html",
-      "image_title": "Ein Junge sitzt auf der Couch und isst Kartoffelchips. Übergewicht ist bei dieser Ernährung vorprogrammiert."
+      "title": "Die Stimme von Hind Rajab wird gehört – weltweit",
+      "teaser": "Der Film „The Voice of Hind Rajab“ hat Menschen aus aller Welt berührt. Aber was kann Kunst bewirken? Wie geschehen Veränderungen und werden bemerkbar?",
+      "url": "https://www.heise.de/tp/features/Die-Stimme-von-Hind-Rajab-wird-gehoert-weltweit-10641496.html",
+      "image_title": "Ein Man blickt betroffen auf."
     },
     {
-      "title": "Saily im Test: Komfortable Urlaubs-eSIM mit Sicherheits-Funktionen",
-      "teaser": "Kein teures Roaming, keine lästige WLAN-Suche und kein schlechter Empfang: Saily will mit günstigen eSIM-Tarifen gängige Mobilfunk-Probleme auf Reisen lösen.",
-      "url": "https://www.heise.de/download/specials/Saily-im-Test-Komfortable-Urlaubs-eSIM-mit-Sicherheits-Funktionen-10495234"
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Desinfec't",
