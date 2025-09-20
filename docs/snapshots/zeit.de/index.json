@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-20T00:43:36",
+  "timestamp": "2025-09-20T02:12:00",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -153,18 +159,18 @@
       "image_title": "Streit um Video-App: Donald Trump spricht von Einigung mit China über TikTok"
     },
     {
+      "title": "USA: Donald Trump meldet drei Tote bei Angriff auf mutmaßliches Drogenboot",
+      "teaser": "Das US-Militär hat erneut ein Boot südlich der USA angegriffen. Laut dem US-Präsidenten wurden dabei drei Menschen getötet. Er sprach von \"Drogenterroristen\".",
+      "url": "https://www.zeit.de/politik/ausland/2025-09/donald-trump-usa-drogen-boot-abschuss",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-09/donald-trump-usa-drogen-boot-abschuss-bild/super__430x287",
+      "image_title": "USA: US-Präsident Donald Trump meldet mit einem Video auf Truth Social, dass die USA ein weiteres Boot mit \"Drogenterroristen\" angegriffen zu haben."
+    },
+    {
       "title": "Einstellung von \"Jimmy Kimmel Live\": US-Republikaner Ted Cruz wirft FCC-Chef Mafiamethoden vor",
       "teaser": "Ted Cruz kritisiert das Vorgehen der US-Medienaufsicht gegen \"Jimmy Kimmel Live\". Sendern wegen ihrer Inhalte mit Lizenzentzug zu drohen, sei \"verdammt gefährlich\".",
       "url": "https://www.zeit.de/politik/ausland/2025-09/ted-cruz-kritik-fcc-brendan-carr-jimmy-kimmel-sendelizenz",
       "image_url": "https://img.zeit.de/politik/ausland/2025-09/ted-cruz-fcc-bild/super__430x287",
       "image_title": "Einstellung von \"Jimmy Kimmel Live\": Republikaner Ted Cruz hat den Leiter der FCC davor gewarnt, Sendern aufgrund ihrer Inhalte die Sendelizenzen zu entziehen."
-    },
-    {
-      "title": "Bafög: Bundesforschungsministerin kündigt umfassende Bafög-Reform an",
-      "teaser": "Das Bafög-Verfahren sei bürokratisch und kompliziert, sagt Dorothee Bär. Die Forschungsministerin will Studierenden den Zugang zu staatlicher Unterstützung erleichtern.",
-      "url": "https://www.zeit.de/campus/2025-09/bafoeg-reform-bundesforschungsministerin-dorothee-baer-digitaler-einfacher",
-      "image_url": "https://img.zeit.de/campus/2025-09/bafoeg-reform-dorothee-baer-bild/super__430x287",
-      "image_title": "Bafög: Im Audimax der Ludwig-Maximilians-Universität in München: Viele Bafög-Berechtige beantragen die Unterstützung wegen zu hoher Hürden nicht."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Antisemitismus: Judenhass im Schaufenster",
@@ -174,11 +180,11 @@
       "image_title": "Antisemitismus: Ein antisemitsches Plakat im Fenster eines Ladenlokals in der Duburger Straße in Flensburg."
     },
     {
-      "title": "Palästinensische Autonomiebehörde: Wie Israel die Palästinenser politisch schwächt",
-      "teaser": "Während etliche Staaten Palästina anerkennen wollen, greift Israel mit neuer Schärfe die Palästinensische Autonomiebehörde an – auch mit Unterstützung der USA.",
-      "url": "https://www.zeit.de/politik/ausland/2025-09/palaestinensische-autonomiebehoerde-anerkennung-angriffe-israel-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-09/palaestinensische-autonomiebehoerde-anerkennung-angriffe-israel-usa-bild-02/super__430x287",
-      "image_title": "Palästinensische Autonomiebehörde: NEW YORK, NEW YORK - SEPTEMBER 26: Mahmoud Abbas, President of the State of Palestine, approaches the podium during the United Nations General Assembly (UNGA) at the United Nations headquarters on September 26, 2024 in New York City. Global leaders convened for the General Assembly as the world continues to experience major wars in Gaza, Ukraine and, Sudan along with a threat of a larger conflict in the Middle East. (Photo by Stephanie Keith/Getty Images)"
+      "title": "Bafög: Bundesforschungsministerin kündigt umfassende Bafög-Reform an",
+      "teaser": "Das Bafög-Verfahren sei bürokratisch und kompliziert, sagt Dorothee Bär. Die Forschungsministerin will Studierenden den Zugang zu staatlicher Unterstützung erleichtern.",
+      "url": "https://www.zeit.de/campus/2025-09/bafoeg-reform-bundesforschungsministerin-dorothee-baer-digitaler-einfacher",
+      "image_url": "https://img.zeit.de/campus/2025-09/bafoeg-reform-dorothee-baer-bild/super__430x287",
+      "image_title": "Bafög: Im Audimax der Ludwig-Maximilians-Universität in München: Viele Bafög-Berechtige beantragen die Unterstützung wegen zu hoher Hürden nicht."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Karl-Erivan Haub: Und wenn er noch lebt?",
@@ -186,13 +192,6 @@
       "url": "https://www.zeit.de/2025/40/karl-erivan-haub-tengelmann-chef-verschollen-sicherheitskamera",
       "image_url": "https://img.zeit.de/2025/40/titelthema-tatort-alpen-bild-1/super__430x287",
       "image_title": "Karl-Erivan Haub: Und wenn er noch lebt?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Familienbett: Wie, der Kleine schläft immer noch bei Euch?!?",
-      "teaser": "Das Familienbett ist umstritten, auch Kinderärzte raten davon ab. Begründete Vorsicht oder überkommene Angst? Wie man auf die Bedürfnisse aller Beteiligten eingeht.",
-      "url": "https://www.zeit.de/familie/2025-09/familienbett-bedsharing-co-sleeping-eltern-kinder",
-      "image_url": "https://img.zeit.de/familie/2025-09/familienbett-bedsharing-co-sleeping-eltern/super__430x287",
-      "image_title": "Familienbett: Wie, der Kleine schläft immer noch bei Euch?!?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sexualität im Alltag: \"Sex ist magisch, wenn man Arbeit investiert hat\"",
@@ -251,13 +250,6 @@
       "image_title": "Pazifismus im Angriffskrieg: KYIV, UKRAINE - APRIL 13: Assault rifles lie on the table in military recruit tent at Kyiv Unbroken Half Marathon 2025 on April 13, 2025 in Kyiv, Ukraine. Kyiv Half Marathon is a large-scale running event that has been gathering athletes and running enthusiasts from all over Ukraine and the world since 2011. 50% of the proceeds will be donated to purchase equipment for the Hospitallers Medical Battalion, which has been participating in the Russo-Ukrainian war since 2014. (Photo by Serhii Mykhalchuk/Global Images Ukraine via Getty Images)"
     },
     {
-      "title": "Fußballbundesliga, 4. Spieltag – Freitag: St. Pauli verzeichnet gegen Stuttgart erste Niederlage der Saison",
-      "teaser": "Im Freitagsspiel der Fußballbundesliga hat der VfB Stuttgart gegen die Gäste aus St. Pauli gewonnen. Die Tore für die Schwaben fielen kurz vor und nach der Pause.",
-      "url": "https://www.zeit.de/sport/2025-09/bundelsiga-2025-vierter-spieltag-stuttgart-st-pauli",
-      "image_url": "https://img.zeit.de/sport/2025-09/fussball-bundesliga-stuttgart-st-pauli/super__430x287",
-      "image_title": "Fußballbundesliga, 4. Spieltag – Freitag: Bilal El Khannouss (Mitte) jubelt nach seinem Tor zum 2:0 für den VfB Stuttgart gegen St. Pauli mit seinen Mitspielern Maximilian Mittelstädt (links) und Ermedin Demirović."
-    },
-    {
       "title": "Fußball: Jérôme Boateng verkündet Karriereende",
       "teaser": "Jérôme Boateng hört auf. Der Weltmeister von 2014 hat auf Instagram das Ende seiner Karriere als Profifußballer bekannt gegeben.",
       "url": "https://www.zeit.de/sport/2025-09/fussball-jerome-boateng-karriereende",
@@ -270,13 +262,6 @@
       "url": "https://www.zeit.de/arbeit/2025-09/ueberlastung-haftanstalten-gefaengnisse-belegung-gewalt-jva-gxe",
       "image_url": "https://img.zeit.de/arbeit/2025-09/ueberlastung-haftanstalten-gefaengnisse-belegung-gewalt-jva-gxe-bild-15/super__430x287",
       "image_title": "Überlastete Haftanstalten: Reportage JVA Ravensburg / DE. Im Bild: Insassen X und Y in ihrer Zelle."
-    },
-    {
-      "title": "Terrormiliz Islamischer Staat: US-Militär tötet ranghohes IS-Mitglied in Syrien",
-      "teaser": "In Syrien hat die von den USA angeführte Anti-IS-Koalition ein IS-Mitglied getötet. Omar Abdul Kader soll in die Planung von Anschlägen involviert gewesen sein.",
-      "url": "https://www.zeit.de/politik/ausland/2025-09/syrien-is-mitglied-toetung-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-09/syrien-is-mitglied-toetung-bild/super__430x287",
-      "image_title": "Terrormiliz Islamischer Staat: A former career airman who once served at Special Operations Command at MacDill Air Force Base is facing possible prison time for mishandling classified documents. (Howard Altman/Tampa Bay Times/TNS/ABACAPRESS.COM - NO FILM, NO VIDEO, NO TV, NO DOCUMENTARYNo Use NC WEB LN."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Reeperbahn-Festival: Todescoole Bands",
@@ -456,14 +441,14 @@
       "image_title": "Ukrainekrieg: Russian Air Force MiG-31 fighter jets fly in formation during the Victory Day parade above Red Square in Moscow Russian Air Force MiG-31 fighter jets fly in formation during the Victory Day parade, marking the 73rd anniversary of the victory over Nazi Germany in World War Two, above Red Square in Moscow, Russia May 9, 2018. REUTERS/Sergei Karpukhin"
     },
     {
-      "title": "USA: US-Senat bestätigt 48 Trump-Kandidaten auf einen Schlag",
-      "teaser": "Auf Vorschlag von US-Präsident Trump werden etliche Diplomaten- und Militärposten neu besetzt. Fox-Moderatorin Kimberly Guilfoyle wird Botschafterin in Griechenland.",
-      "url": "https://www.zeit.de/politik/ausland/2025-09/usa-senat-blockabstimmung-militaer-diplomaten-guilfoyle-gingrich"
-    },
-    {
       "title": "Aussagen über Charlie Kirk: ZDF-Intendant nimmt Hayali und Theveßen nach Anfeindungen in Schutz",
       "teaser": "Die Journalisten Dunja Hayali und Elmar Theveßen werden nach Aussagen über Charlie Kirk angefeindet. In einer Fernsehratssitzung solidarisiert sich der ZDF-Intendant.",
       "url": "https://www.zeit.de/kultur/film/2025-09/dunja-hayali-elmar-thevessen-anfeindungen-zdf-intendant-schutz"
+    },
+    {
+      "title": "ZDF-\"Politbarometer\": AfD erreicht Höchstwert und liegt erstmals mit der Union gleichauf",
+      "teaser": "Im \"Politbarometer\" des ZDF kommt die AfD auf 26 Prozent und liegt damit gleichauf mit der CDU/CSU. Trotz des Höchstwerts begrüßt eine Mehrheit die Brandmauer.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-09/zdf-politbarometer-umfrage-bundestagswahl-afd-union-gleichauf"
     },
     {
       "title": "ZDF-\"Politbarometer\": AfD erreicht Höchstwert und liegt erstmals mit der Union gleichauf",
@@ -504,11 +489,11 @@
       "image_title": "Freunde der ZEIT: Fünf idyllische Küstenwanderwege am Mittelmeer"
     },
     {
-      "title": "Debatte über Sozialleistungen: CDU-Sozialflügel mahnt zu Reformen ohne \"Kettensäge\"",
-      "teaser": "CDU-Politiker Dennis Radtke hält die Aussagen von Bundeskanzler Merz zu Sozialeinsparungen für \"Alarmismus\". Die Bundesregierung müsse Vertrauen zurückgewinnen.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-09/cdu-dennis-radtke-forderung-reform-ohne-kettensaege",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-09/dennis-radtke-cda-kritik-bundesregierung/wide__892x502",
-      "image_title": "Debatte über Sozialleistungen: Dennis Radtke, Landesvorsitzender der CDA Nordrhein-Westfalen, spricht bei der Betriebsrätekonferenz der Christlich-Demokratischen Arbeitnehmerschaft (CDA) Deutschland."
+      "title": "H-1B-Visum: Donald Trump erhöht Visa-Gebühren für Fachkräfte auf 100.000 Dollar",
+      "teaser": "\"Bilden Sie Amerikaner aus\", sagt US-Handelsminister Howard Lutnick. Ein Arbeitsvisum für ausländische Fachkräfte soll Unternehmen jährlich hohe Summen kosten.",
+      "url": "https://www.zeit.de/politik/ausland/2025-09/usa-arbeit-visum-fachkraefte-ausland-100000-dollar-donald-trump",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-09/trump-fachkraeftevisum-gold-card-einwanderung/wide__892x502",
+      "image_title": "H-1B-Visum: President Donald Trump, seated, and Commerce Secretary Howard Lutnick listen to questions from reporters in the Oval Office of the White House, Friday, Sept. 19, 2025, in Washington. (AP Photo/Alex Brandon)"
     },
     {
       "title": "Verlagsangebot: Karriereboost: 10 Skills für Ihren beruflichen Vorsprung",
@@ -518,11 +503,11 @@
       "image_title": "Karriereboost: 10 Skills für Ihren beruflichen Vorsprung"
     },
     {
-      "title": "Ukrainekrieg: Estland meldet Eindringen russischer Kampfflugzeuge in Luftraum",
-      "teaser": "Zwölf Minuten lang flogen russische Kampfjets über estnisches Staatsgebiet. Das russische Verteidigungsministerium bestreitet eine Verletzung von Estlands Luftraums.",
-      "url": "https://www.zeit.de/politik/ausland/2025-09/estland-russland-eindringen-russland-kampfflugzeuge",
-      "image_url": "https://img.zeit.de/politik/2025-09/estland-russland-eindringen-russland-kampfflugzeuge-bild/super__430x287",
-      "image_title": "Ukrainekrieg: Russian Air Force MiG-31 fighter jets fly in formation during the Victory Day parade above Red Square in Moscow Russian Air Force MiG-31 fighter jets fly in formation during the Victory Day parade, marking the 73rd anniversary of the victory over Nazi Germany in World War Two, above Red Square in Moscow, Russia May 9, 2018. REUTERS/Sergei Karpukhin"
+      "title": "Debatte über Sozialleistungen: CDU-Sozialflügel mahnt zu Reformen ohne \"Kettensäge\"",
+      "teaser": "CDU-Politiker Dennis Radtke hält die Aussagen von Bundeskanzler Merz zu Sozialeinsparungen für \"Alarmismus\". Die Bundesregierung müsse Vertrauen zurückgewinnen.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-09/cdu-dennis-radtke-forderung-reform-ohne-kettensaege",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-09/dennis-radtke-cda-kritik-bundesregierung/super__430x287",
+      "image_title": "Debatte über Sozialleistungen: Dennis Radtke, Landesvorsitzender der CDA Nordrhein-Westfalen, spricht bei der Betriebsrätekonferenz der Christlich-Demokratischen Arbeitnehmerschaft (CDA) Deutschland."
     },
     {
       "title": "Katherina Reiche: Die schmerzfreie Ministerin",
@@ -588,18 +573,18 @@
       "image_title": "Vergleich von Familie und Team: We are family – ach, wirklich?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Familienbett: Wie, der Kleine schläft immer noch bei Euch?!?",
+      "teaser": "Das Familienbett ist umstritten, auch Kinderärzte raten davon ab. Begründete Vorsicht oder überkommene Angst? Wie man auf die Bedürfnisse aller Beteiligten eingeht.",
+      "url": "https://www.zeit.de/familie/2025-09/familienbett-bedsharing-co-sleeping-eltern-kinder",
+      "image_url": "https://img.zeit.de/familie/2025-09/familienbett-bedsharing-co-sleeping-eltern/super__430x287",
+      "image_title": "Familienbett: Wie, der Kleine schläft immer noch bei Euch?!?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sauberkeit in Klassenzimmern: Für Schüler sind 25 Cent heute wahrscheinlich kein Geld mehr",
       "teaser": "Nach dem Unterricht siehts in Klassenzimmern oft aus wie im Saustall. Ewald Arenz fragt sich, warum das seinen Schülerinnen und Schülern so egal ist.",
       "url": "https://www.zeit.de/familie/2025-09/sauberkeit-klassenzimmer-schuelerinnen-muell-reinigungskraefte",
       "image_url": "https://img.zeit.de/familie/2025-09/sauberkeit-klassenzimmer-schuelerinnen-muell-reinigungskraefte-bild/super__430x287",
       "image_title": "Sauberkeit in Klassenzimmern: Für Schüler sind 25 Cent heute wahrscheinlich kein Geld mehr"
-    },
-    {
-      "title": "Familienrat: \"Eltern sollten niemals fragen: Warum hast du das gemacht?\"",
-      "teaser": "Wenn das Kind fies zu anderen ist, kämpfen auch Eltern oft mit Enttäuschung, Entsetzen oder Scham. Dennoch ist das eine sehr gute Chance, mehr über das Kind zu erfahren.",
-      "url": "https://www.zeit.de/familie/2025-09/kind-mieses-verhalten-eltern-familien-gxe",
-      "image_url": "https://img.zeit.de/familie/2025-09/kind-mieses-verhalten-eltern/super__430x287",
-      "image_title": "Familienrat: \"Eltern sollten niemals fragen: Warum hast du das gemacht?\""
     },
     {
       "title": "Hamburg-Podcast \"Elbvertiefung\": Kriegswaffen, Militärmanöver, Spionagedrohnen: Hamburg rüstet auf",
@@ -1034,11 +1019,11 @@
       "image_title": "Bafög: Studierende müssen Steuerbescheide, Versicherungsnachweise und detaillierte Einkommensangaben ihrer Eltern vorlegen – ein bürokratischer Marathon, der viele überfordert."
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
       "url": "https://studiengaenge.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Entlastung für Vermieter: Ein Herz für Vermieter!",
@@ -1055,18 +1040,18 @@
       "image_title": "Bezahlbarer Wohnraum: Am frühen Abend des 24. März 2020 strahlt Licht aus den Fenstern eines Wohnhauses in Tornesch bei Hamburg. Aufgrund der strengen Beschränkungen, die die Behörden zum Schutz vor der Ausbreitung des Coronavirus verhängt haben, darunter die vorübergehende Schließung von Restaurants und Bars, bleiben die meisten Menschen in Deutschland derzeit abends zu Hause."
     },
     {
+      "title": "Fußballbundesliga, 4. Spieltag – Freitag: St. Pauli verzeichnet gegen Stuttgart erste Niederlage der Saison",
+      "teaser": "Im Freitagsspiel der Fußballbundesliga hat der VfB Stuttgart gegen die Gäste aus St. Pauli gewonnen. Die Tore für die Schwaben fielen kurz vor und nach der Pause.",
+      "url": "https://www.zeit.de/sport/2025-09/bundelsiga-2025-vierter-spieltag-stuttgart-st-pauli",
+      "image_url": "https://img.zeit.de/sport/2025-09/fussball-bundesliga-stuttgart-st-pauli/wide__892x502",
+      "image_title": "Fußballbundesliga, 4. Spieltag – Freitag: Bilal El Khannouss (Mitte) jubelt nach seinem Tor zum 2:0 für den VfB Stuttgart gegen St. Pauli mit seinen Mitspielern Maximilian Mittelstädt (links) und Ermedin Demirović."
+    },
+    {
       "title": "Olympische Winterspiele 2014: Deutsche Biathleten erhalten nachträglich Gold für Olympia in Sotschi",
       "teaser": "Elf Jahre nach den Olympischen Winterspielen in Sotschi ist offiziell entschieden: Die deutsche Biathlonstaffel löst die disqualifizierten Russen ab und bekommt Gold.",
       "url": "https://www.zeit.de/sport/2025-09/olympia-2014-sotschi-gold-biathlon",
-      "image_url": "https://img.zeit.de/sport/2025-09/olympia-2014-sotschi-gold-biathlon-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/sport/2025-09/olympia-2014-sotschi-gold-biathlon-bild/super__430x287",
       "image_title": "Olympische Winterspiele 2014: Deutsche Biathlon-Staffel von Sotschi 2014 Die Silbermadaillengewinner in der Staffel im Biathlon bei den Olympischen Spielen in Sotschi, Simon Schempp (l-r), Erik Lesser, Arnd Peiffer and Daniel Boehm präsentieren ihre Medaillen im Cross-country Ski & Biathlon Zentrum. Die deutschen Biathleten Lesser, Böhm, Peiffer und Schempp werden nach dem Dopingfall im russischen Team nachträglich Olympiasieger. (zu dpa: «Offiziell: Biathlon-Staffel erhält Olympia-Gold von Sotschi») +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bundesliga-Vorschau: Manche kennen ihn nur noch aus der Vogue",
-      "teaser": "Timo Werner könnte erstmals seit ewig wieder in einem Bundesligakader stehen. Noch mehr Verwirrung um Hoffenheim. Und Köln hat jetzt Neymar. Alles zum Fußball-Wochenende",
-      "url": "https://www.zeit.de/sport/2025-09/bundesliga-vorschau-timo-werner-said-el-mala",
-      "image_url": "https://img.zeit.de/sport/2025-09/bundesliga-timo-werner-rb-leipzig/super__430x287",
-      "image_title": "Bundesliga-Vorschau: Leipzig, 16.09.2025, Red Bull Trainingszentrum am Cottaweg, Akademie, Fussball, Rasenballsport Leipzig, Training RB Leipzig, Im Bild: Timo Werner"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Krankenschwester vor Gericht: In Haft würde sie das Sorgerecht für ihr Kind verlieren, sagte sie",
@@ -1083,36 +1068,36 @@
       "image_title": "Ausstellung über Hamburger Clubs: Molotow"
     },
     {
-      "title": "Kampfjets über der Ostsee: Russland will estnischen Luftraum nicht verletzt haben",
-      "url": "https://www.zeit.de/news/2025-09/20/russland-will-estnischen-luftraum-nicht-verletzt-haben"
+      "title": "Autobahn-Lückenschluss: Start des Riederwaldtunnel-Baus in Frankfurt rückt näher",
+      "url": "https://www.zeit.de/news/2025-09/20/start-des-riederwaldtunnel-baus-in-frankfurt-rueckt-naeher"
     },
     {
-      "title": "Video-App: Trump: Chinesischer Staatschef stimmte Tiktok-Deal zu",
-      "url": "https://www.zeit.de/news/2025-09/20/trump-chinesischer-staatschef-stimmte-tiktok-deal-zu"
+      "title": "Sportfachhandel: Intersport stemmt sich gegen Konsumflaute",
+      "url": "https://www.zeit.de/news/2025-09/20/intersport-stemmt-sich-gegen-konsumflaute"
     },
     {
-      "title": "US-Einwanderung: Trump verfügt Gebühr von 100.000 Dollar für Visa-Kategorie",
-      "url": "https://www.zeit.de/news/2025-09/20/trump-verfuegt-gebuehr-von-100-000-dollar-fuer-visa-kategorie"
+      "title": "Bahnverkehr: Großprojekt Hochrheinbahn startet - Sperrung ab 2026",
+      "url": "https://www.zeit.de/news/2025-09/20/grossprojekt-hochrheinbahn-startet-sperrung-ab-2026"
     },
     {
-      "title": "Länder-Initiative: CDU-Gesundheitspolitikerin: Rauchverbot im Auto wäre Placebo",
-      "url": "https://www.zeit.de/news/2025-09/20/cdu-gesundheitspolitikerin-rauchverbot-im-auto-waere-placebo"
+      "title": "Deutsche Bahn: Wer übernimmt bei der Bahn? Ein Kandidat steht bereits fest",
+      "url": "https://www.zeit.de/news/2025-09/20/wer-uebernimmt-bei-der-bahn-ein-kandidat-steht-bereits-fest"
     },
     {
-      "title": "Kino: Kultfilm \"Mädchen in Uniform\" wird neu verfilmt",
-      "url": "https://www.zeit.de/news/2025-09/20/kultfilm-maedchen-in-uniform-wird-neu-verfilmt"
+      "title": "Bestattungsgesetz: Urne in die Mülltonne? Bestatter warnen vor Liberalisierung",
+      "url": "https://www.zeit.de/news/2025-09/20/urne-in-die-muelltonne-bestatter-warnen-vor-liberalisierung"
     },
     {
-      "title": "Luftraum-Verletzungen: EVP-Chef: Wir brauchen starke europäische Luftverteidigung",
-      "url": "https://www.zeit.de/news/2025-09/20/evp-chef-wir-brauchen-starke-europaeische-luftverteidigung"
+      "title": "Pilzsaison: 20 Prozent der bayerischen Großpilzarten sind gefährdet",
+      "url": "https://www.zeit.de/news/2025-09/20/20-prozent-der-bayerischen-grosspilzarten-sind-gefaehrdet"
     },
     {
-      "title": "US-Präsident gegen die Medien: Trump sieht in negativer Berichterstattung über ihn \"Betrug\"",
-      "url": "https://www.zeit.de/news/2025-09/20/trump-sieht-in-negativer-berichterstattung-ueber-ihn-betrug"
+      "title": "Freibadbilanz: Regen trübt Freibadsaison: Deutlich weniger Badegäste",
+      "url": "https://www.zeit.de/news/2025-09/20/regen-truebt-freibadsaison-deutlich-weniger-badegaeste"
     },
     {
-      "title": "Rhein-Neckar-Kreis: Betonmischer kippt um - Landstraße lange blockiert",
-      "url": "https://www.zeit.de/news/2025-09/20/betonmischer-kippt-um-landstrasse-lange-blockiert"
+      "title": "Justiz: Amtsgerichte sollen ab 2026 mehr Zivilverfahren übernehmen",
+      "url": "https://www.zeit.de/news/2025-09/20/amtsgerichte-sollen-ab-2026-mehr-zivilverfahren-uebernehmen"
     }
   ]
 }
