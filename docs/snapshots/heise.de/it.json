@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-22T10:11:48",
+  "timestamp": "2025-09-22T11:08:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,41 @@
   ],
   "articles": [
     {
+      "title": "Pimax kündigt Launch von drei neuen Micro-OLED-VR-Brillen an",
+      "teaser": "Pimax bringt drei neue VR-Brillen auf den Markt. Eine Kombination aus Pancake-Linsen und Micro-OLEDs soll für scharfe Bilder mit weitem Sichtfeld sorgen.",
+      "url": "https://www.heise.de/news/Pimax-kuendigt-Launch-von-drei-neuen-Micro-OLED-VR-Brillen-an-10665820.html",
+      "image_title": "Zwei VR-Brillen mit leuchtendem V auf dunklem Hintergrund."
+    },
+    {
+      "title": "Dimensity 9500: Der wohl stärkste Snapdragon-Gegner für Android-Smartphones",
+      "teaser": "Mediateks neues Mobilprozessor-Topmodell ist die erste CPU mit ARMs neuen Lumex-Kernen. Erste Smartphones kommen bald.",
+      "url": "https://www.heise.de/news/Dimensity-9500-Der-wohl-staerkste-Snapdragon-Gegner-fuer-Android-Smartphones-10665726.html",
+      "image_title": "Handy liegt seitlich hochkant auf einer grauen Oberfläche"
+    },
+    {
+      "title": "Afghanistan: Taliban schalten Internet über Glasfaser in vielen Provinzen ab",
+      "teaser": "In Afghanistan haben die herrschenden Taliban in zahlreichen Provinzen die Internetverbindungen über Glasfaser gekappt. Kritik gibt es auch aus der Wirtschaft.",
+      "url": "https://www.heise.de/news/Afghanistan-Taliban-kappen-zahlreichen-Provinzen-das-Internet-ueber-Glasfaser-10665552.html",
+      "image_title": "Flache Häuser zwischen Bäumen, Staubwolke und Berge im Hintergrund"
+    },
+    {
       "title": "Programmiersprache C++26: Sicherheitsverbesserungen in der Kernsprache",
       "teaser": "Neben Contracts hat C++26 einige weitere Neuerungen zu bieten, die der Security dienen. Sie verhindern beispielsweise fehlende Initialisierungen.",
       "url": "https://www.heise.de/blog/Programmiersprache-C-26-Sicherheitsverbesserungen-in-der-Kernsprache-10664052.html",
       "image_title": "Holzwürfel mit dem Schriftzug C++"
+    },
+    {
+      "title": "HintergrundBit-Rauschen: Intel will CPU-Kerne zu \"Supercores\" kombinieren",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Intel-will-CPU-Kerne-zu-Supercores-kombinieren-10520359.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "HintergrundWireshark: Zertifikat für Netzwerkanalyse vorgestellt",
+      "url": "https://www.heise.de/hintergrund/Wireshark-Zertifikat-fuer-Netzwerkanalyse-vorgestellt-10506792.html"
+    },
+    {
+      "title": "RatgeberSeedream 4.0: Wie noch bessere KI-Bilder als mit Gemini gelingen",
+      "url": "https://www.heise.de/ratgeber/Seedream-4-0-Wie-noch-bessere-KI-Bilder-als-mit-Gemini-gelingen-10642743.html"
     },
     {
       "title": "AlertSicherheitslücken: Root-Attacken auf IBM AIX/VIOS möglich",
@@ -47,25 +78,6 @@
       "teaser": "Erarbeiten Sie Ihre individuelle Cloud-Roadmap: interaktiv, praxisnah und strategisch – für mehr Kontrolle, Sicherheit und digitale Souveränität.",
       "url": "https://www.heise.de/news/iX-Workshop-Souveraene-Cloud-Strategien-fuer-digitale-Unabhaengigkeit-10643994.html",
       "image_title": "iX-Workshop IT-Governance planen und implementieren"
-    },
-    {
-      "title": "HintergrundBit-Rauschen: Intel will CPU-Kerne zu \"Supercores\" kombinieren",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Intel-will-CPU-Kerne-zu-Supercores-kombinieren-10520359.html",
-      "image_title": "Aufmacher Kolumne Bit-Rauschen"
-    },
-    {
-      "title": "HintergrundWireshark: Zertifikat für Netzwerkanalyse vorgestellt",
-      "url": "https://www.heise.de/hintergrund/Wireshark-Zertifikat-fuer-Netzwerkanalyse-vorgestellt-10506792.html"
-    },
-    {
-      "title": "RatgeberSeedream 4.0: Wie noch bessere KI-Bilder als mit Gemini gelingen",
-      "url": "https://www.heise.de/ratgeber/Seedream-4-0-Wie-noch-bessere-KI-Bilder-als-mit-Gemini-gelingen-10642743.html"
-    },
-    {
-      "title": "Afghanistan: Taliban kappen zahlreichen Provinzen das Internet über Glasfaser",
-      "teaser": "In Afghanistan haben die herrschenden Taliban in zahlreichen Provinzen die Internetverbindungen über Glasfaser gekappt. Kritik gibt es auch aus der Wirtschaft.",
-      "url": "https://www.heise.de/news/Afghanistan-Taliban-kappen-zahlreichen-Provinzen-das-Internet-ueber-Glasfaser-10665552.html",
-      "image_title": "Flache Häuser zwischen Bäumen, Staubwolke und Berge im Hintergrund"
     },
     {
       "title": "Nach Cyberangriff weiter Warteschlangen an Flughäfen",
@@ -135,18 +147,6 @@
       "title": "Solakon One im Test: Balkonkraftwerk mit Speicher und Home-Assistant-Integration",
       "teaser": "BKW-Hersteller Solakon setzt mit dem One auf einen eigenen Speicher. Wir haben die neue Lösung getestet und zeigen, wie man sie in Home Assistant integriert.",
       "url": "https://www.heise.de/bestenlisten/testbericht/solakon-one-im-test-balkonkraftwerk-mit-speicher-und-home-assistant-integration/dxrvjzj?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "iX-Praxisworkshop: IT-Systeme mit Ansible deployen und automatisieren",
-      "teaser": "Lernen Sie, wie Sie mit Ansible Linux-Systeme zentral konﬁgurieren und verwalten sowie Anwendungen automatisiert bereitstellen können.",
-      "url": "https://www.heise.de/news/iX-Praxisworkshop-IT-Systeme-mit-Ansible-deployen-und-automatisieren-10651569.html",
-      "image_title": "Online-Workshop: Systemdeployment, System-Management und Automatisierung mit Ansible"
-    },
-    {
-      "title": "UpdateCyberattacke auf Dienstleister behindert Flughäfen in Europa",
-      "teaser": "Ein europaweiter Dienstleister für Check-in und Boarding an Flughäfen ist Opfer eines Cyberangriffs geworden. Auch der Flughafen BER ist betroffen.",
-      "url": "https://www.heise.de/news/Cyberangriff-behindert-europaeische-Flughaefen-auch-BER-betroffen-10663553.html",
-      "image_title": "Berliner Flughafen BER"
     },
     {
       "title": "MeinungKommentar: Der Verbrenner wird schneller sterben, als viele glauben",
