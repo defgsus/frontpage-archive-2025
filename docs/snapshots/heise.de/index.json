@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-23T19:07:37",
+  "timestamp": "2025-09-23T20:10:35",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mobilfunk-Server mit 100.000 SIM-Karten in New York beschlagnahmt",
+      "url": "https://www.heise.de/news/Mobilfunk-Server-mit-100-000-SIM-Karten-in-New-York-beschlagnahmt-10668021.html"
+    },
     {
       "title": "Balkonkraftwerk & Amortisation: Gewinn maximieren mit der richtigen Auswahl",
       "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-amortisation-gewinn-maximieren-mit-der-richtigen-auswahl/hd1g1td"
@@ -60,10 +64,6 @@
     {
       "title": "Wasm 3 bringt 64-Bit-Adressraum und Garbage Collection",
       "url": "https://www.heise.de/news/Wasm-3-bringt-64-Bit-Adressraum-und-Garbage-Collection-10667514.html"
-    },
-    {
-      "title": "Gnome 49 frischt Apps auf und deaktiviert X11-Session",
-      "url": "https://www.heise.de/news/Gnome-49-frischt-Apps-auf-und-deaktiviert-X11-Session-10667428.html"
     },
     {
       "title": "Umstellung auf Open SourceSchleswig-Holsteins Digitalminister räumt Probleme ein",
@@ -187,19 +187,25 @@
       "image_title": "Screenshot aus Palworld Palfarm"
     },
     {
+      "title": "Mobilfunk-Server mit 100.000 SIM-Karten in New York beschlagnahmt",
+      "teaser": "Rund um das New Yorker Hauptquartier der UNO wurden 300 SIM-Karten-Server und 100.000 SIM-Karten entdeckt. Deren Zweck ist undeutlich.",
+      "url": "https://www.heise.de/news/Mobilfunk-Server-mit-100-000-SIM-Karten-in-New-York-beschlagnahmt-10668021.html",
+      "image_title": "UN-Gebäude in New York, im Vordergrund Flaggen der Staaten Guyana bis Kenia (in alphabetischer Reihenfolge)"
+    },
+    {
       "title": "Balkonkraftwerk & Amortisation: Gewinn maximieren mit der richtigen Auswahl",
       "teaser": "Dass sich ein Balkonkraftwerk schnell rechnet, steht außer Frage. Doch unter welchen Bedingungen erzielt es langfristig den höchsten Gewinn? Wir klären auf.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-amortisation-gewinn-maximieren-mit-der-richtigen-auswahl/hd1g1td?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Systemnahe Softwareentwicklung bei FRITZ!",
+      "teaser": "Die Embedded-Software-Entwicklung bei FRITZ! (früher: AVM) ist ein spannender Balanceakt zwischen Verantwortung, Problemlösung und dem ständigen Ringen um Qualität. Neue Mitarbeiter werden gesucht!",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7072139888&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "OLG: Störerhaftung bleibt zulässig – Google muss Phishing-Anzeigen stoppen",
       "teaser": "Google stieß mit der Ansicht, der Digital Service Act (DSA) lasse keine Prüfungspflicht für ähnliche Markenverstöße zu, beim OLG Düsseldorf auf taube Ohren.",
       "url": "https://www.heise.de/news/OLG-Stoererhaftung-bleibt-zulaessig-Google-muss-Phishing-Anzeigen-stoppen-10667882.html"
-    },
-    {
-      "title": "Produktivitätskiller im Admin-Alltag stoppen",
-      "teaser": "Admins können meist erst dann reagieren, wenn ein Schaden entstanden ist. Moderne Lösungen überwachen die IT-Landschaft, erkennen Anomalien und liefern Hinweise, bevor der User ein Problem meldet.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7073688200&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Allgemeine Geschäftsbedingungen: Verlinkt heißt nicht immer vereinbart",
@@ -229,12 +235,6 @@
       "teaser": "Apple, Google, Microsoft und Booking müssen der EU-Kommission offenlegen, wie sie Nutzer vor Betrug schützen. Folgen die nächsten Verfahren gegen Tech-Riesen?",
       "url": "https://www.heise.de/news/EU-Kommission-verlangt-Auskunft-von-US-Tech-Riesen-zu-Betrug-10667690.html",
       "image_title": "Handy in einer Hand, darum viele rote Warnsymbole"
-    },
-    {
-      "title": "\"Starshot\": Arbeit an Nano-Raumschiffen für Flug zu Alpha Centauri eingestellt",
-      "teaser": "2016 hat Stephen Hawking für ein Projekt geworben, das kleine Raumschiffe in wenigen Jahrzehnten zu einem anderen Stern schicken sollte. Daraus wird nichts.",
-      "url": "https://www.heise.de/news/Starshot-Arbeit-an-Nano-Raumschiffen-fuer-Flug-zu-Alpha-Centauri-eingestellt-10667602.html",
-      "image_title": "Riesiges, halbdurchsichtiges Segel im Weltraum"
     },
     {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
@@ -301,6 +301,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 12 Wochen mit 50 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=31914&wt_mc=intern.abo.plus.hp_2025_sommer.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "\"Starshot\": Arbeit an Nano-Raumschiffen für Flug zu Alpha Centauri eingestellt",
+      "teaser": "2016 hat Stephen Hawking für ein Projekt geworben, das kleine Raumschiffe in wenigen Jahrzehnten zu einem anderen Stern schicken sollte. Daraus wird nichts.",
+      "url": "https://www.heise.de/news/Starshot-Arbeit-an-Nano-Raumschiffen-fuer-Flug-zu-Alpha-Centauri-eingestellt-10667602.html",
+      "image_title": "Riesiges, halbdurchsichtiges Segel im Weltraum"
     },
     {
       "title": "c’t-Story: Waltraud siegt",
@@ -371,15 +377,15 @@
       "image_title": "Volvo EX90"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "Merkur: \"Streifender Zusammenstoß\" soll ungewöhnlichen Aufbau erklären",
       "teaser": "Der innerste Planet des Sonnensystems hat einen ungewöhnlich hohen Eisengehalt, eine Erklärung steht bislang aus. Nun gibt es eine neue Theorie",
       "url": "https://www.heise.de/news/Merkur-Streifender-Zusammenstoss-soll-ungewoehnlichen-Aufbau-erklaeren-10666958.html",
       "image_title": "Von Kratern übersäter Himmelskörper"
-    },
-    {
-      "title": "KI-Inferenz optimieren: Wie leistungsfähige Hardware Kosten und Platz spart",
-      "teaser": "Durch die Wahl der richtigen Hardware lassen sich die Kosten für KI-Inferenz-Umgebungen signifikant senken und zudem Platz im Rechenzentrum sparen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/ki-inferenz-optimieren-wie-leistungsfaehige-hardware-kosten-und-platz-spart/?source=hbsadersatz"
     },
     {
       "title": "c't webdev 2025: Between AI and Basics",
@@ -433,12 +439,6 @@
       "teaser": "Bislang bekommen externe USB-Geräte Zugriff auf iPhone-Inhalte, sobald das Gerät entsperrt wird. Mit iOS 26 lässt sich das feiner bestimmen.",
       "url": "https://www.heise.de/news/USB-Geraete-am-iPhone-Apple-verbessert-Sicherheitsfunktion-10666006.html",
       "image_title": "iOS 26 und USB-C-Kabel"
-    },
-    {
-      "title": "Alte Pappe und Presslehm sparen Beton und CO₂",
-      "teaser": "Bauen mit Zement und Beton ist CO₂-aufwendig. Pappe und Presslehm kann den Baustoff mitunter ökologisch ersetzen.",
-      "url": "https://www.heise.de/news/Alte-Kartonage-als-Baumaterial-kann-CO-einsparen-10667020.html",
-      "image_title": "Papp- und Carbonrollen mit Stampflehm"
     },
     {
       "title": "Großbritannien schließt Milliardenvertrag mit Palantir",
@@ -606,20 +606,20 @@
       "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
     },
     {
-      "title": "Linux-DesktopGnome 49 frischt Apps auf und deaktiviert X11-Session",
-      "teaser": "Das Gnome-Projekt hat Version 49 veröffentlicht. Die Entwickler bescheren neue Apps und schalten bei X11 langsam das Licht aus.",
-      "url": "https://www.heise.de/news/Gnome-49-frischt-Apps-auf-und-deaktiviert-X11-Session-10667428.html",
-      "image_title": "Screenshot aus Gnome 49"
-    },
-    {
-      "title": "Schweizer Sprachmodell Apertus: So sieht EU-konforme, transparente KI aus",
-      "teaser": "Vielsprachigkeit, Transparenz, Respekt vor geistigem Eigentum: Das offene große Sprachmodell aus Schweizer KI-Schmieden verinnerlicht europäische Werte.",
-      "url": "https://www.heise.de/hintergrund/Schweizer-Sprachmodell-Apertus-So-sieht-EU-konforme-transparente-KI-aus-10638501.html"
+      "title": "Fritzbox wechseln mit Assistent",
+      "teaser": "Ich scheitere daran, die Konfiguration einer alten Fritzbox auf eine neue zu übertragen, weil die Firmwareversionen nicht übereinstimmen. Gibt es da Abhilfe?",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-wechseln-mit-Assistent-10667998.html"
     },
     {
       "title": "Spielen mit Linux: SteamOS für den Desktop-Gaming-PC ausprobiert",
       "teaser": "Seit SteamOS mehr Hardware unterstützt, lässt sich Valves Linux-Distribution prinzipiell auf normalen PCs und Notebooks nutzen. Aber ist das sinnvoll?",
       "url": "https://www.heise.de/ratgeber/Spielen-mit-Linux-SteamOS-fuer-den-Desktop-Gaming-PC-ausprobiert-10482591.html"
+    },
+    {
+      "title": "Linux-DesktopGnome 49 frischt Apps auf und deaktiviert X11-Session",
+      "teaser": "Das Gnome-Projekt hat Version 49 veröffentlicht. Die Entwickler bescheren neue Apps und schalten bei X11 langsam das Licht aus.",
+      "url": "https://www.heise.de/news/Gnome-49-frischt-Apps-auf-und-deaktiviert-X11-Session-10667428.html",
+      "image_title": "Screenshot aus Gnome 49"
     },
     {
       "title": "Apple-Apps in iOS 26 und macOS 26: Die wichtigsten Tipps zu den Neuerungen",
@@ -737,21 +737,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wer zahlt die 65 Milliarden für die Ukraine – EU oder USA?",
-      "teaser": "Der Finanzbedarf der Ukraine bis 2027 ist höher als gedacht. Nun stellt sich die Frage, ob die EU oder die USA den Löwenanteil übernehmen.",
-      "url": "https://www.heise.de/tp/features/Wer-zahlt-die-65-Milliarden-fuer-die-Ukraine-EU-oder-USA-10666729.html",
-      "image_title": "Die wichtigsten Symbole der Ukraine - ukrainische Flagge und der Tempel der ukrainisch-orthodoxen Kirche - St. Sophia von Kiew"
+      "title": "Handwerk stirbt aus: Wissen geht unwiederbringlich verloren",
+      "teaser": "Vom Schuhmacher bis zum Schneider – in vielen Handwerksberufen fehlt der Nachwuchs. Warum das ein Problem für die Nachhaltigkeit ist.",
+      "url": "https://www.heise.de/tp/features/Handwerk-stirbt-aus-Wissen-geht-unwiederbringlich-verloren-10667402.html",
+      "image_title": "Junge Handwerkerin mit dickem Filzstoff bei der Arbeit"
     },
     {
-      "title": "Warum sich Politiker über den öffentlich-rechtlichen Rundfunk beklagen dürfen",
-      "teaser": "Politiker äußern sich zur Causa Julia Ruhs beim NDR. Ist das unzulässige Einmischung? Ein Kommentar.",
-      "url": "https://www.heise.de/tp/features/Warum-sich-Politiker-ueber-den-oeffentlich-rechtlichen-Rundfunk-beklagen-duerfen-10666837.html"
+      "title": "Globaler Süden: Die vergessenen 85 Prozent der Welt",
+      "teaser": "Über 1.300 Wissenschaftler fordern in einem Appell mehr mediale Aufmerksamkeit für die Länder, in denen die große Mehrheit der Weltbevölkerung lebt.",
+      "url": "https://www.heise.de/tp/features/Globaler-Sueden-Die-vergessenen-85-Prozent-der-Welt-10665590.html",
+      "image_title": "Erdkugel mit dunkler Südhalbkugel und Erdkugel mit beleuchteter Südhalbkugel"
     },
     {
-      "title": "Krankenkassen-Beiträge: Warum immer mehr Deutsche auswandern",
-      "teaser": "Vorschläge wie Selbstbeteiligung oder Basistarif sollen Beiträge begrenzen. Doch ein Blick ins Ausland zeigt: Es gibt Licht und Schatten.",
-      "url": "https://www.heise.de/tp/features/Krankenkassen-Beitraege-Warum-immer-mehr-Deutsche-auswandern-10662760.html",
-      "image_title": "Rollkoffer mit Aufkleber \"Rotes Kreuz\""
+      "title": "Laserwaffen gegen Drohnen – lohnt sich die Milliardeninvestition?",
+      "teaser": "Die israelische Laserwaffe Iron Beam verspricht Drohnenabwehr für fünf Dollar pro Schuss, doch Wetter und Kosten begrenzen den Nutzen.",
+      "url": "https://www.heise.de/tp/features/Laserwaffen-gegen-Drohnen-lohnt-sich-die-Milliardeninvestition-10663728.html",
+      "image_title": "Eine KI-generierte Grafik zeigt ein Laserabwehrsystem in einer Wüstenlandschaft, das rote Strahlen auf drei Drohnen abfeuert, die in Explosionen zerbersten."
     },
     {
       "title": "Platzt die KI-Blase? Diese 4 Warnsignale musst du kennen",
