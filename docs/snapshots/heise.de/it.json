@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-23T18:14:41",
+  "timestamp": "2025-09-23T19:07:41",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,24 +26,24 @@
   ],
   "articles": [
     {
-      "title": "Doppelte Mails im Ausgangsordner",
-      "teaser": "Thunderbird legt bei meinem Exchange-Account neuerdings gesendete Mails doppelt in meinen Ausgangsordner, früher nicht. Woran liegt das?",
-      "url": "https://www.heise.de/ratgeber/Doppelte-Mails-im-Ausgangsordner-10626982.html"
+      "title": "Apple-Benutzerkonto lässt sich nicht erstellen",
+      "teaser": "Wenn ich ein neues Apple-Benutzerkonto erstellen will, bekomme ich immer die Fehlermeldung, der Account könne \"zurzeit nicht erstellt werden.\" Was bedeutet das?",
+      "url": "https://www.heise.de/ratgeber/Apple-Benutzerkonto-laesst-sich-nicht-erstellen-10668010.html"
     },
     {
-      "title": "Schreibweisen von Variablen",
-      "teaser": "Programmieranfänger stoßen auf verschiedene Variablen-Schreibweisen wie camelCase oder GROSSBUCHSTABEN. Sind das relevante Unterschiede?",
-      "url": "https://www.heise.de/ratgeber/Schreibweisen-von-Variablen-10626978.html"
+      "title": "Synology BeeStation vor Verkauf löschen",
+      "teaser": "Ich habe meine Synology BeeStation zurückgesetzt, weil ich sie weiterverkaufen möchte. Kann der Käufer noch Daten von den eingebauten Festplatten auslesen?",
+      "url": "https://www.heise.de/ratgeber/Synology-BeeStation-vor-Verkauf-loeschen-10668006.html"
     },
     {
-      "title": "Wi-Fi 7: Höchstgeschwindigkeit 23 oder 46 Gbit/s?",
-      "teaser": "Viele WLAN-Hersteller werben mit 23 Gbit/s für Wi-Fi 7, manche sogar mit 46 Gbit/s, doch wie hoch ist die maximale Datenrate wirklich?",
-      "url": "https://www.heise.de/ratgeber/Wi-Fi-7-Hoechstgeschwindigkeit-23-oder-46-Gbit-s-10626970.html"
+      "title": "Obsidian auf Qnap-NAS",
+      "teaser": "Kann ich, statt des kostenpflichtigen Diensts von Obsidian, den Synchronisierungsdienst meines NAS nutzen, um Notizen über mehrere Geräte zu synchronisieren?",
+      "url": "https://www.heise.de/ratgeber/Obsidian-auf-Qnap-NAS-10668002.html"
     },
     {
-      "title": "Umstellung auf Open SourceSchleswig-Holsteins Digitalminister räumt Probleme ein",
-      "teaser": "Bei der Migration auf freie Software laufe manches nicht so reibungslos wie gewünscht, entschuldigt sich Digitalisierungsminister Schrödter.",
-      "url": "https://www.heise.de/news/Open-Source-Umstellung-Schleswig-Holsteins-Digitalminister-raeumt-Probleme-ein-10667810.html"
+      "title": "Fritzbox wechseln mit Assistent",
+      "teaser": "Ich scheitere daran, die Konfiguration einer alten Fritzbox auf eine neue zu übertragen, weil die Firmwareversionen nicht übereinstimmen. Gibt es da Abhilfe?",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-wechseln-mit-Assistent-10667998.html"
     },
     {
       "title": "TestsMaskenball: DxO PhotoLab 9 für macOS im Test",
@@ -62,6 +62,26 @@
       "title": "Balkonkraftwerk & Amortisation: Gewinn maximieren mit der richtigen Auswahl",
       "teaser": "Dass sich ein Balkonkraftwerk schnell rechnet, steht außer Frage. Doch unter welchen Bedingungen erzielt es langfristig den höchsten Gewinn? Wir klären auf.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-amortisation-gewinn-maximieren-mit-der-richtigen-auswahl/hd1g1td?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Doppelte Mails im Ausgangsordner",
+      "teaser": "Thunderbird legt bei meinem Exchange-Account neuerdings gesendete Mails doppelt in meinen Ausgangsordner, früher nicht. Woran liegt das?",
+      "url": "https://www.heise.de/ratgeber/Doppelte-Mails-im-Ausgangsordner-10626982.html"
+    },
+    {
+      "title": "Schreibweisen von Variablen",
+      "teaser": "Programmieranfänger stoßen auf verschiedene Variablen-Schreibweisen wie camelCase oder GROSSBUCHSTABEN. Sind das relevante Unterschiede?",
+      "url": "https://www.heise.de/ratgeber/Schreibweisen-von-Variablen-10626978.html"
+    },
+    {
+      "title": "Wi-Fi 7: Höchstgeschwindigkeit 23 oder 46 Gbit/s?",
+      "teaser": "Viele WLAN-Hersteller werben mit 23 Gbit/s für Wi-Fi 7, manche sogar mit 46 Gbit/s, doch wie hoch ist die maximale Datenrate wirklich?",
+      "url": "https://www.heise.de/ratgeber/Wi-Fi-7-Hoechstgeschwindigkeit-23-oder-46-Gbit-s-10626970.html"
+    },
+    {
+      "title": "Open-Source-Umstellung: Schleswig-Holsteins Digitalminister räumt Probleme ein",
+      "teaser": "Bei der Migration auf freie Software laufe manches nicht so reibungslos wie gewünscht, entschuldigt sich Digitalisierungsminister Schrödter bei Mitarbeitern.",
+      "url": "https://www.heise.de/news/Open-Source-Umstellung-Schleswig-Holsteins-Digitalminister-raeumt-Probleme-ein-10667810.html"
     },
     {
       "title": "Ausgemustert: Apple blockiert Downgrades von iOS 26 auf iOS 18",
@@ -119,29 +139,6 @@
       "teaser": "Mit einer Kombination verschiedener Manipulationstechniken ließ das OpenAI-LLM sich austricksen und plauderte private Daten aus. Was wusste Sam Altman darüber?",
       "url": "https://www.heise.de/news/ShadowLeak-ChatGPT-verriet-Angreifern-persoenliche-Daten-aus-E-Mails-10667170.html",
       "image_title": "Das Logo von OpenAI an einer Glasfassade"
-    },
-    {
-      "title": "Platzt die KI-Blase? Zuckerberg hält das für möglich",
-      "teaser": "Lieber das Risiko eingehen, ein paar hundert Milliarden falsch zu investieren, als Superintelligenz zu verpassen – sagt Mark Zuckerberg.",
-      "url": "https://www.heise.de/news/Mark-Zuckerberg-haelt-Platzen-der-KI-Blase-fuer-moeglich-10667274.html",
-      "image_title": "Zuckerberg bei der Connect."
-    },
-    {
-      "title": "c't webdev 2025: Between AI and Basics",
-      "teaser": "The frontend developer conference covers the whole spectrum between the newest developer tools and the fundamental knowledge of web development.",
-      "url": "https://www.heise.de/news/c-t-webdev-2025-Between-AI-and-Basics-10665834.html"
-    },
-    {
-      "title": "Siemens und Maschinenbauer entwickeln gemeinsam KI für die Industrie",
-      "teaser": "Siemens will seine Position im Bereich der industriellen KI mit einer Allianz aus dem europäischen Maschinenbau verbessern.",
-      "url": "https://www.heise.de/news/Siemens-startet-Allianz-fuer-industrielle-KI-10667250.html",
-      "image_title": "Siemens"
-    },
-    {
-      "title": "AlertVier Jahre langes Hin und Her zwischen Sicherheitsforscher und Vasion Print",
-      "teaser": "Vasion Print war oder ist sogar noch verwundbar. Ob bereits alle Schwachstellen geschlossen sind, ist auf den ersten Blick nicht erkennbar.",
-      "url": "https://www.heise.de/news/Vier-Jahre-langes-Hin-und-Her-zwischen-Sicherheitsforscher-und-Vasion-Print-10667194.html",
-      "image_title": "Warndreieck"
     },
     {
       "title": "News Paketabgabe bei Nachbarn: Verbraucherschützer verklagen die Deutsche Post",
