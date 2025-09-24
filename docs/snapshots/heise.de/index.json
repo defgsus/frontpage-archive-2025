@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24T02:16:10",
+  "timestamp": "2025-09-24T03:24:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Elektroautos können bei Blackouts Mobilfunkstationen mit Strom versorgen",
+      "url": "https://www.heise.de/news/Elektroautos-koennen-bei-Blackouts-Mobilfunkstationen-mit-Strom-versorgen-10668120.html"
+    },
     {
       "title": "Mobilfunk-Server mit 100.000 SIM-Karten in New York beschlagnahmt",
       "url": "https://www.heise.de/news/Mobilfunk-Server-mit-100-000-SIM-Karten-in-New-York-beschlagnahmt-10668021.html"
@@ -60,10 +64,6 @@
     {
       "title": "Dark Project Alu81a Terra Nova im Test: Mechanische Tastatur mit Alugussgehäuse",
       "url": "https://www.heise.de/bestenlisten/testbericht/dark-project-alu81a-terra-nova-im-test-mechanische-tastatur-mit-alugussgehaeuse/2fhtcd2"
-    },
-    {
-      "title": "Wasm 3 bringt 64-Bit-Adressraum und Garbage Collection",
-      "url": "https://www.heise.de/news/Wasm-3-bringt-64-Bit-Adressraum-und-Garbage-Collection-10667514.html"
     },
     {
       "title": "UpdateUNO in New YorkMobilfunk-Server mit 100.000 SIM-Karten beschlagnahmt",
@@ -187,19 +187,25 @@
       "image_title": "Samsung Galaxy S24 und 24 Plus liegen übereinander"
     },
     {
+      "title": "Elektroautos können bei Blackouts Mobilfunkstationen mit Strom versorgen",
+      "teaser": "Renault und A1 zeigen, dass E-Autos im Notfall als Batteriespeicher für Mobilfunkstationen dienen können. Das soll die kritische Infrastruktur absichern.",
+      "url": "https://www.heise.de/news/Elektroautos-koennen-bei-Blackouts-Mobilfunkstationen-mit-Strom-versorgen-10668120.html",
+      "image_title": "Elektroauto mit Ladekabel neben Mobilfunkmast"
+    },
+    {
       "title": "Balkonkraftwerk & Amortisation: Gewinn maximieren mit der richtigen Auswahl",
       "teaser": "Dass sich ein Balkonkraftwerk schnell rechnet, steht außer Frage. Doch unter welchen Bedingungen erzielt es langfristig den höchsten Gewinn? Wir klären auf.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-amortisation-gewinn-maximieren-mit-der-richtigen-auswahl/hd1g1td?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "OLG: Störerhaftung bleibt zulässig – Google muss Phishing-Anzeigen stoppen",
-      "teaser": "Google stieß mit der Ansicht, der Digital Service Act (DSA) lasse keine Prüfungspflicht für ähnliche Markenverstöße zu, beim OLG Düsseldorf auf taube Ohren.",
-      "url": "https://www.heise.de/news/OLG-Stoererhaftung-bleibt-zulaessig-Google-muss-Phishing-Anzeigen-stoppen-10667882.html"
-    },
-    {
       "title": "Produktivitätskiller im Admin-Alltag stoppen",
       "teaser": "Admins können meist erst dann reagieren, wenn ein Schaden entstanden ist. Moderne Lösungen überwachen die IT-Landschaft, erkennen Anomalien und liefern Hinweise, bevor der User ein Problem meldet.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7073688200&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "OLG: Störerhaftung bleibt zulässig – Google muss Phishing-Anzeigen stoppen",
+      "teaser": "Google stieß mit der Ansicht, der Digital Service Act (DSA) lasse keine Prüfungspflicht für ähnliche Markenverstöße zu, beim OLG Düsseldorf auf taube Ohren.",
+      "url": "https://www.heise.de/news/OLG-Stoererhaftung-bleibt-zulaessig-Google-muss-Phishing-Anzeigen-stoppen-10667882.html"
     },
     {
       "title": "Allgemeine Geschäftsbedingungen: Verlinkt heißt nicht immer vereinbart",
@@ -231,12 +237,6 @@
       "image_title": "Handy in einer Hand, darum viele rote Warnsymbole"
     },
     {
-      "title": "\"Starshot\": Arbeit an Nano-Raumschiffen für Flug zu Alpha Centauri eingestellt",
-      "teaser": "2016 hat Stephen Hawking für ein Projekt geworben, das kleine Raumschiffe in wenigen Jahrzehnten zu einem anderen Stern schicken sollte. Daraus wird nichts.",
-      "url": "https://www.heise.de/news/Starshot-Arbeit-an-Nano-Raumschiffen-fuer-Flug-zu-Alpha-Centauri-eingestellt-10667602.html",
-      "image_title": "Riesiges, halbdurchsichtiges Segel im Weltraum"
-    },
-    {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
       "teaser": "Vor dem Kauf eines Familien-Elektroautos lohnt der Kostenvergleich zwischen Neu- und Gebrauchtwagen. Denn nicht immer ist ein Neuwagen dramatisch teurer.",
       "url": "https://www.heise.de/ratgeber/Elektroautos-fuer-Familien-Neu-und-Gebrauchtwagen-bis-50-000-Euro-im-Vergleich-10456415.html",
@@ -253,29 +253,30 @@
       "url": "https://www.heise.de/ratgeber/Qwen-Image-Edit-Bilder-mit-KI-bearbeiten-ohne-Google-und-Beschraenkungen-10614317.html"
     },
     {
-      "title": "USB-Display für 6 Euro zeigt PC-Daten an",
-      "url": "https://www.heise.de/news/Display-im-USB-Stick-Format-zeigt-PC-Daten-an-10661929.html",
-      "image_title": "USB-Display vor weißem Hintergrund"
+      "title": "Kommentar: Der Verbrenner wird schneller sterben, als viele glauben",
+      "url": "https://www.heise.de/meinung/Kommentar-Der-Verbrenner-wird-schneller-sterben-als-viele-glauben-10652454.html",
+      "image_title": "BMW Sechszylinder"
     },
     {
-      "title": "Kommentar: Der Verbrenner wird schneller sterben, als viele glauben",
-      "url": "https://www.heise.de/meinung/Kommentar-Der-Verbrenner-wird-schneller-sterben-als-viele-glauben-10652454.html"
+      "title": "USB-Display für 6 Euro zeigt PC-Daten an",
+      "url": "https://www.heise.de/news/Display-im-USB-Stick-Format-zeigt-PC-Daten-an-10661929.html"
     },
     {
       "title": "Paketabgabe bei Nachbarn: Verbraucherschützer verklagen die Deutsche Post",
       "url": "https://www.heise.de/news/Paketabgabe-bei-Nachbarn-Verbraucherschuetzer-verklagen-die-Deutsche-Post-10663653.html"
     },
     {
+      "title": "iPhone 17, 17 Pro, 17 Pro Max und Air im Test",
+      "url": "https://www.heise.de/tests/iPhone-17-17-Pro-17-Pro-Max-und-Air-im-Test-10663319.html",
+      "image_title": ","
+    },
+    {
       "title": "iOS und iPadOS 26 in Action: 23 Tipps für die neuen Apple-Systeme",
       "url": "https://www.heise.de/ratgeber/iOS-und-iPadOS-26-in-Action-23-Tipps-fuer-die-neuen-Apple-Systeme-10646549.html"
     },
     {
-      "title": "iPhone 17, 17 Pro, 17 Pro Max und Air im Test",
-      "url": "https://www.heise.de/tests/iPhone-17-17-Pro-17-Pro-Max-und-Air-im-Test-10663319.html"
-    },
-    {
-      "title": "macOS 26 Tahoe ausreizen: 20 Tipps für Apples neues System",
-      "url": "https://www.heise.de/ratgeber/macOS-26-Tahoe-auszreizen-20-Tipps-fuer-Apples-neues-System-10646553.html"
+      "title": "So richten Sie lokale LLMs gratis als Schreibhilfe für Geschichten und Co. ein",
+      "url": "https://www.heise.de/ratgeber/So-richten-Sie-lokale-KI-gratis-als-Schreibhilfe-fuer-Geschichten-und-Co-ein-10661260.html"
     },
     {
       "title": "Kommentar: Der Verbrenner wird schneller sterben, als viele glauben",
@@ -301,6 +302,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 12 Wochen mit 50 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=31914&wt_mc=intern.abo.plus.hp_2025_sommer.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "\"Starshot\": Arbeit an Nano-Raumschiffen für Flug zu Alpha Centauri eingestellt",
+      "teaser": "2016 hat Stephen Hawking für ein Projekt geworben, das kleine Raumschiffe in wenigen Jahrzehnten zu einem anderen Stern schicken sollte. Daraus wird nichts.",
+      "url": "https://www.heise.de/news/Starshot-Arbeit-an-Nano-Raumschiffen-fuer-Flug-zu-Alpha-Centauri-eingestellt-10667602.html",
+      "image_title": "Riesiges, halbdurchsichtiges Segel im Weltraum"
     },
     {
       "title": "c’t-Story: Waltraud siegt",
@@ -371,15 +378,15 @@
       "image_title": "Volvo EX90"
     },
     {
+      "title": "Offene Ökosysteme – ist Open Source die Zukunft von KI?",
+      "teaser": "Proprietäre KI-Modelle sind leistungsfähig, haben jedoch Schwächen bei Nachvollziehbarkeit, Datenschutz und Anpassbarkeit. Offene Ökosysteme könnten für mehr Transparenz, Sicherheit und Flexibilität sorgen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/offene-oekosysteme-ist-open-source-die-zukunft-von-ki/?source=hbsadersatz"
+    },
+    {
       "title": "Merkur: \"Streifender Zusammenstoß\" soll ungewöhnlichen Aufbau erklären",
       "teaser": "Der innerste Planet des Sonnensystems hat einen ungewöhnlich hohen Eisengehalt, eine Erklärung steht bislang aus. Nun gibt es eine neue Theorie",
       "url": "https://www.heise.de/news/Merkur-Streifender-Zusammenstoss-soll-ungewoehnlichen-Aufbau-erklaeren-10666958.html",
       "image_title": "Von Kratern übersäter Himmelskörper"
-    },
-    {
-      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
-      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? In einem Webcast können Sie erfahren, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
-      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
     },
     {
       "title": "c't webdev 2025: Between AI and Basics",
@@ -435,25 +442,19 @@
       "image_title": "iOS 26 und USB-C-Kabel"
     },
     {
-      "title": "Alte Pappe und Presslehm sparen Beton und CO₂",
-      "teaser": "Bauen mit Zement und Beton ist CO₂-aufwendig. Pappe und Presslehm kann den Baustoff mitunter ökologisch ersetzen.",
-      "url": "https://www.heise.de/news/Alte-Kartonage-als-Baumaterial-kann-CO-einsparen-10667020.html",
-      "image_title": "Papp- und Carbonrollen mit Stampflehm"
-    },
-    {
-      "title": "Großbritannien schließt Milliardenvertrag mit Palantir",
-      "url": "https://www.heise.de/news/Grossbritannien-schliesst-Milliardenvertrag-mit-Palantir-10663844.html",
-      "image_title": "Palantir Logo"
-    },
-    {
-      "title": "Bundesverfassungsgericht lehnt Beschwerde im Fall Modern Solution ab",
-      "url": "https://www.heise.de/news/Bundesverfassungsgericht-lehnt-Beschwerde-im-Fall-Modern-Solution-ab-10663649.html",
-      "image_title": "Ein Mann in einem Anzug drückt mit seinem Zeigefinder auf ein virtuelles eGovernment-Icon."
-    },
-    {
       "title": "Apple scheitert mit DMA-Notbremse: iPhone muss kompatibler werden",
       "url": "https://www.heise.de/news/Apple-scheitert-mit-DMA-Notbremse-iPhone-muss-kompatibler-werden-10666537.html",
       "image_title": "iPhone liegt auf einem Tisch"
+    },
+    {
+      "title": "Fast alle Quellen erfunden: 10.000 Dollar Strafe für US-Anwalt nach KI-Nutzung",
+      "url": "https://www.heise.de/news/Fast-alle-Quellen-erfunden-10-000-Dollar-Strafe-fuer-US-Anwalt-nach-KI-Nutzung-10666803.html",
+      "image_title": "Ein Hammer auf einem Tisch, daneben ein digitaler Computerchip mit den Buchstaben \"AI\""
+    },
+    {
+      "title": "Interview zum Einsatz von Palantir-Software: Politik unterschätzt Risiken massiv",
+      "url": "https://www.heise.de/hintergrund/Polizeiliche-Datenanalyse-Je-invasiver-die-Technik-desto-hoeher-die-Huerden-10666114.html",
+      "image_title": "Vernetztes Auge, das Überwachung darstellen soll"
     },
     {
       "title": "In der Luft explodierter Komet hat wohl Clovis-Kultur und Megafauna ausgelöscht",
@@ -461,23 +462,14 @@
       "image_title": "Künstlerische Darstellung eines verglühenden Meteors über der Erde"
     },
     {
-      "title": "Robo Falcon 2.0: Roboterfalke startet wie ein Raubvogel",
-      "url": "https://www.heise.de/news/Robo-Falcon-2-0-Roboterfalke-startet-wie-ein-Raubvogel-10664064.html",
-      "image_title": "Phasen eines Flügelschlages beim Robo Falcon 2.0"
+      "title": "Sicherheitsexperten der NASA zweifeln an Mondlandung 2027",
+      "url": "https://www.heise.de/news/Sicherheitsexperten-der-NASA-zweifeln-an-Mondlandung-2027-10666739.html",
+      "image_title": "Erdaufgang über dem Mondhorizont"
     },
     {
-      "title": "Super-Eliza oder Soziopath? Über die Gefahren der KI-Anthropomorphisierung",
-      "url": "https://www.heise.de/hintergrund/Super-Eliza-oder-Soziopath-Ueber-die-Gefahren-der-KI-Anthropomorphisierung-10660876.html",
-      "image_title": "Frau in einem dunklen Raum auf dem Bett mit leuchtendem Smartphone. Frau sieht unglücklich aus."
-    },
-    {
-      "title": "Kaum Luft im iPhone Air",
-      "url": "https://www.heise.de/news/Kaum-Luft-im-iPhone-Air-10663900.html"
-    },
-    {
-      "title": "Australien: Todesfälle nach stundenlangem Notruf-Ausfall wegen Firewall-Upgrade",
-      "url": "https://www.heise.de/news/Australien-Todesfaelle-nach-stundenlangem-Notruf-Ausfall-wegen-Firewall-Upgrade-10663982.html",
-      "image_title": "Mehrere rote Schilder mit dem Wort \"Emergency\""
+      "title": "Alte Pappe und Presslehm sparen Beton und CO₂",
+      "url": "https://www.heise.de/news/Alte-Kartonage-als-Baumaterial-kann-CO-einsparen-10667020.html",
+      "image_title": "Papp- und Carbonrollen mit Stampflehm"
     },
     {
       "title": "Akku sparen: Diese neuen Funktionen kommen mit iOS 26",
@@ -485,9 +477,24 @@
       "image_title": "Das iPhone Air in allen vier Farben"
     },
     {
-      "title": "HomePod OS 26: Diese Neuerungen stecken in Apples neuer Firmware",
-      "url": "https://www.heise.de/news/HomePod-OS-26-Diese-Neuerungen-stecken-in-Apples-neuer-Firmware-10663884.html",
-      "image_title": "Apple HomePod 2"
+      "title": "Dimensity 9500: Der wohl stärkste Snapdragon-Gegner für Android-Smartphones",
+      "url": "https://www.heise.de/news/Dimensity-9500-Der-wohl-staerkste-Snapdragon-Gegner-fuer-Android-Smartphones-10665726.html",
+      "image_title": "Handy liegt seitlich hochkant auf einer grauen Oberfläche"
+    },
+    {
+      "title": "Venu 4: Garmins neue Lifestyle-Smartwatch mit Taschenlampe und Logging-Funktion",
+      "url": "https://www.heise.de/news/Venu-4-Garmins-neue-Lifestyle-Smartwatch-mit-Taschenlampe-und-Logging-Funktion-10664723.html",
+      "image_title": "Garmin Venu 4 in zwei Farben"
+    },
+    {
+      "title": "\"Palworld: Palfarm\": Pocketpair greift nach Pokémon auch \"Animal Crossing\" an",
+      "url": "https://www.heise.de/news/Palworld-Palfarm-Pocketpair-greift-nach-Pokemon-auch-Animal-Crossing-an-10666940.html",
+      "image_title": "Screenshot aus Palworld Palfarm"
+    },
+    {
+      "title": "Hideo Kojima zeigt Trailer zu Horrorspiel \"OD Knock\"",
+      "url": "https://www.heise.de/news/Hideo-Kojima-zeigt-Trailer-zu-Horrorspiel-OD-Knock-10666813.html",
+      "image_title": "Screenshot aus OD Trailer zeigt ängstliche Frau"
     },
     {
       "title": "Micro-OLED und Pancake-Linsen: Pimax stellt drei neue VR-Brillen vor",
@@ -495,19 +502,9 @@
       "image_title": "Zwei VR-Brillen mit leuchtendem V auf dunklem Hintergrund."
     },
     {
-      "title": "\"Silent Hill f\" angespielt: Das Horror-Comeback des Jahres",
-      "url": "https://www.heise.de/tests/Silent-Hill-f-angespielt-Das-Horror-Comeback-des-Jahres-10665534.html",
-      "image_title": "Eine junge japanische Schülerin in Schuluniform und kurzen Haaren."
-    },
-    {
       "title": "Schnellstes Serienauto: BYD Yangwang U9 Xtreme holt sich Rekord",
       "url": "https://www.heise.de/news/BYD-Yangwang-U9-Xtreme-Elektrisches-Hypercar-knackt-Geschwindigkeitsrekord-10665776.html",
       "image_title": "BYD Yangwang U9 Xtreme auf einer Rennstrecke"
-    },
-    {
-      "title": "Bundesnetzagentur: Private Speicher sollen am Energiemarkt teilnehmen",
-      "url": "https://www.heise.de/news/Bundesnetzagentur-Private-Speicher-sollen-am-Energiemarkt-teilnehmen-10663542.html",
-      "image_title": "Strommasten in Bremen"
     },
     {
       "title": "DB Navigator soll bei der Deutschen Bahn eine neue Heimat bekommen",
@@ -515,31 +512,39 @@
       "image_title": "Bahnhofsuhr"
     },
     {
+      "title": "Bundesnetzagentur: Private Speicher sollen am Energiemarkt teilnehmen",
+      "url": "https://www.heise.de/news/Bundesnetzagentur-Private-Speicher-sollen-am-Energiemarkt-teilnehmen-10663542.html",
+      "image_title": "Strommasten in Bremen"
+    },
+    {
       "title": "Neues Paket: EU verhängt erstmals Sanktionen im Kryptosektor gegen Russland",
       "url": "https://www.heise.de/news/Neues-Paket-EU-verhaengt-erstmals-Sanktionen-im-Kryptosektor-gegen-Russland-10665704.html",
       "image_title": "Von der Leyen vor EU-Flagge"
     },
     {
-      "title": "Gesichtsdaten an Forscher weitergegeben? IT-Sicherheitsexperte verklagt das BKA",
-      "url": "https://www.heise.de/news/Biometrische-Tests-mit-Polizei-Echtdaten-IT-Sicherheitsexperte-verklagt-das-BKA-10663880.html",
-      "image_title": "Halbes Gesicht einer weißen Frau, darüber gelegt symbolische Rasterung"
+      "title": "Bundesverfassungsgericht lehnt Beschwerde im Fall Modern Solution ab",
+      "url": "https://www.heise.de/news/Bundesverfassungsgericht-lehnt-Beschwerde-im-Fall-Modern-Solution-ab-10663649.html",
+      "image_title": "Ein Mann in einem Anzug drückt mit seinem Zeigefinder auf ein virtuelles eGovernment-Icon."
     },
     {
-      "title": "Google droht doch noch Zerschlagung – Werbegeschäft vor Gericht",
-      "url": "https://www.heise.de/news/Google-droht-doch-noch-Zerschlagung-Werbegeschaeft-vor-Gericht-10666312.html"
+      "title": "Weißes Haus nennt weitere Details zu Tiktok-Vereinbarung",
+      "url": "https://www.heise.de/news/Tiktok-USA-soll-separaten-Algorithmus-und-andere-Eigentuemer-bekommen-10666651.html",
+      "image_title": "Ein Smartphone auf einer Tastatur, im Display mit dem TikTok-Schriftzug spiegelt sich die US-Flagge"
     },
     {
-      "title": "Montag: iPhone Air überrascht im Teardown, Großbritannien investiert in Palantir",
-      "url": "https://www.heise.de/news/Montag-iPhone-Air-ueberrascht-im-Teardown-Grossbritannien-investiert-in-Palantir-10663962.html",
-      "image_title": "Hand hebt iPhone Air vom TIsch; Montag: iPhone-Innereien, Palantir-Aufträge, Nachbar-Pakete, Batteriespeicher-Nutzung & US-Arbeitsvisum"
+      "title": "Dienstag: US-Mondlandung wackelt, Notruf-Ausfall kostet Menschenleben",
+      "url": "https://www.heise.de/news/Dienstag-US-Mondlandung-wackelt-Notruf-Ausfall-kostet-Menschenleben-10666753.html",
+      "image_title": "Vollmondansicht, dazu Text: \"Dienstag - Mondflug 2027 wackelt, US-Tiktok wird anders, Junge in Social Media gefangen, Firewall sabotiert Notruf\""
     },
     {
-      "title": "Drohne mit 1-Zoll-Sensor und sezierte Leicas – die Fotonews der Woche 38/2025",
-      "url": "https://www.heise.de/news/Drohne-mit-1-Zoll-Sensor-und-sezierte-Leicas-die-Fotonews-der-Woche-38-2025-10663864.html"
+      "title": "Energiewende auf dem Balkon",
+      "url": "https://www.heise.de/news/Energiewende-auf-dem-Balkon-10666286.html",
+      "image_title": "Symbolbild eines traditionellen Giebeldach-Hauses mit Balkon."
     },
     {
-      "title": "Interne Chats der DB: \"Zug fällt zur Verbesserung der Statistik aus\"",
-      "url": "https://www.heise.de/news/Interne-Chats-der-DB-Zug-faellt-zur-Verbesserung-der-Statistik-aus-10663039.html"
+      "title": "Jugendstudie zur Social-Media-Nutzung: Gerne weniger, nur wie?",
+      "url": "https://www.heise.de/hintergrund/Jugendstudie-zur-Social-Media-Nutzung-Gerne-weniger-nur-wie-10652478.html",
+      "image_title": "Smartphone mit verschiedenen Hologrammen"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Berater in Deutschland",
@@ -590,20 +595,26 @@
       "image_title": "Palantir Logo"
     },
     {
-      "title": "New NPM attack: Self-replicating malware infects dozens of packages",
-      "url": "https://www.heise.de/en/news/New-NPM-attack-Self-replicating-malware-infects-dozens-of-packages-10652404.html"
+      "title": "Venu 4: Garmin's new lifestyle smartwatch with flashlight and logging function",
+      "url": "https://www.heise.de/en/news/Venu-4-Garmin-s-new-lifestyle-smartwatch-with-flashlight-and-logging-function-10665505.html",
+      "image_title": "Garmin Venu 4 in two colors"
     },
     {
-      "title": "Palantir under pressure – European alternatives come into focus",
-      "url": "https://www.heise.de/en/background/Palantir-under-pressure-European-alternatives-come-into-focus-10646928.html"
+      "title": "AI helps call center employees to speak without an accent in real time",
+      "url": "https://www.heise.de/en/news/AI-helps-call-center-employees-to-speak-without-an-accent-in-real-time-10301340.html"
     },
     {
-      "title": "Austria's armed forces switch to LibreOffice",
-      "url": "https://www.heise.de/en/news/Austria-s-armed-forces-switch-to-LibreOffice-10660761.html"
+      "title": "Mark Zuckerberg considers \"bursting of the AI bubble\" possible",
+      "url": "https://www.heise.de/en/news/Mark-Zuckerberg-considers-bursting-of-the-AI-bubble-possible-10667421.html"
     },
     {
-      "title": "YouTube auto-dubbing: Robotic translation annoys users and cannot be turned off",
-      "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
+      "title": "One UI 8: Samsung distributes Android 16 for Galaxy S24 and other devices",
+      "url": "https://www.heise.de/en/news/One-UI-8-Samsung-distributes-Android-16-for-Galaxy-S24-and-other-devices-10667013.html"
+    },
+    {
+      "title": "360-Grad-ActionkameraGoPro Max 2 im Test",
+      "teaser": "Die Actionkamera GoPro Max 2 nimmt 8K-Videos in 360-Grad-Ansicht auf und richtet sie sich an Videoprofis.",
+      "url": "https://www.heise.de/tests/GoPro-Max-2-im-Test-360-Grad-Actionkamera-10661353.html"
     },
     {
       "title": "Spielen mit Linux: SteamOS für den Desktop-Gaming-PC ausprobiert",
@@ -611,14 +622,15 @@
       "url": "https://www.heise.de/ratgeber/Spielen-mit-Linux-SteamOS-fuer-den-Desktop-Gaming-PC-ausprobiert-10482591.html"
     },
     {
-      "title": "Fritzbox wechseln mit Assistent",
-      "teaser": "Ich scheitere daran, die Konfiguration einer alten Fritzbox auf eine neue zu übertragen, weil die Firmwareversionen nicht übereinstimmen. Gibt es da Abhilfe?",
-      "url": "https://www.heise.de/ratgeber/Fritzbox-wechseln-mit-Assistent-10667998.html"
-    },
-    {
       "title": "Modulare 4K-Actioncam: DJI Osmo Nano im Test",
       "teaser": "Die Actionkamera DJI Osmo Nano wiegt nur etwas mehr als 50 Gramm und filmt in 4K-Auflösung. So lässt sie sich an Hemd, Mütze oder Hundehalsband clippen.",
       "url": "https://www.heise.de/tests/Modulare-4K-Actioncam-DJI-Osmo-Nano-im-Test-10630739.html"
+    },
+    {
+      "title": "20 TippsmacOS 26 Tahoe ausreizen",
+      "teaser": "Der Mac bekommt einen integrierten Clipboard-Manager, Spotlight wird mächtiger, das Kontrollzentrum lässt sich individualisieren usw.",
+      "url": "https://www.heise.de/ratgeber/macOS-26-Tahoe-auszreizen-20-Tipps-fuer-Apples-neues-System-10646553.html",
+      "image_title": "macOS 26 Tahoe Wallpaper auf einem MacBook Pro"
     },
     {
       "title": "Apple-Apps in iOS 26 und macOS 26: Die wichtigsten Tipps zu den Neuerungen",
@@ -633,18 +645,6 @@
       "image_title": ", Heise Medien"
     },
     {
-      "title": "iPadOS 26: Apples neues iPad-Fenstersystem optimal nutzen",
-      "teaser": "Ein neues Fenstersystem macht iPads flexibler und Macs ähnlicher denn je, verlangt jedoch Umgewöhnung. Wichtige Tipps für Multitasking und Fensterverwaltung.",
-      "url": "https://www.heise.de/ratgeber/iPadOS-26-So-nutzen-Sie-das-neue-Fenstersystem-auf-Apple-Tablet-10646557.html",
-      "image_title": "Fenster unter iPadOS 26"
-    },
-    {
-      "title": "Energiewende auf dem Balkon",
-      "teaser": "Die TH Köln fördert im Projekt „DIY Energiewende“ mit dem Kölner Mehrgenerationenhaus über 17 Balkonkraftwerke und Energiespar-Challenges zur Energiegewinnung.",
-      "url": "https://www.heise.de/news/Energiewende-auf-dem-Balkon-10666286.html",
-      "image_title": "Symbolbild eines traditionellen Giebeldach-Hauses mit Balkon."
-    },
-    {
       "title": "Wärmepumpe ins Smart Home integrieren mit HeishaMon",
       "teaser": "Die Aquarea-Serie von Panasonic lässt sich mit dem HeishaMon-Board noch besser steuern und ins Smart Home integrieren. So geht's.",
       "url": "https://www.heise.de/ratgeber/Waermepumpe-ins-Smart-Home-integrieren-mit-HeishaMon-10641158.html",
@@ -656,16 +656,21 @@
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-5-25-Energie-im-Griff-10660834.html"
     },
     {
+      "title": "Bauanleitung für einen mobilen Photovoltaik-Anhänger",
+      "teaser": "Auf dem Campingplatz, off the road, auf dem Festival oder zu Hause auf dem Stellplatz – mit unserem PV-Anhänger hat man den Sonnenstrom immer dabei.",
+      "url": "https://www.heise.de/ratgeber/Bauanleitung-fuer-einen-mobilen-Photovoltaik-Anhaenger-10636558.html",
+      "image_title": ","
+    },
+    {
       "title": "CFexpress Typ B: Biwin hat die erste zertifizierte VPG800-Speicherkarte",
       "teaser": "Der chinesische Hersteller Biwin hat die erste CFexpress-Typ-B-Speicherkarte mit VPG800-Zertifizierung. Sie ist für RAW-Videoaufnahmen in hohen Auflösungen.",
       "url": "https://www.heise.de/news/CFexpress-Typ-B-Biwin-hat-die-erste-zertifizierte-VPG800-Speicherkarte-10666260.html",
       "image_title": "Speicherkarte liegt auf dem Objektiv einer Kamera"
     },
     {
-      "title": "Fotografie: Architektur sehen lernen mit den richtigen Grundlagen und Techniken",
-      "teaser": "Architekturfotografie erfordert ein gutes Auge für Perspektive, Licht und Linien – mit der richtigen Herangehensweise erschaffen Sie eindrucksvolle Bilder.",
-      "url": "https://www.heise.de/ratgeber/Fotografie-Architektur-sehen-lernen-mit-den-richtigen-Grundlagen-und-Techniken-10662545.html",
-      "image_title": "Durch die Symmetrie des Bildes und die Spiegelung kommen die beiden Türme der Oberbaumbrücke über der Spree in Berlin besonders gut zur Geltung. Das Gelb der vorbeifahrenden U-Bahn ist ein schöner Kontrast zu dem markanten Rot der Ziegel., Marcel Wiest"
+      "title": "Drohne mit 1-Zoll-Sensor und sezierte Leicas – die Fotonews der Woche 38/2025",
+      "teaser": "DJIs Mini 5 Pro setzt Maßstäbe – ist aber vielleicht zu schwer. Excire aktualisiert sein Lightroom-Plugin, und wieder gibt es eine besondere Leica-Auktion.",
+      "url": "https://www.heise.de/news/Drohne-mit-1-Zoll-Sensor-und-sezierte-Leicas-die-Fotonews-der-Woche-38-2025-10663864.html"
     },
     {
       "title": "Natur, leuchtende Kontraste und urbane Dramaturgie: Die Bilder der Woche 38",
@@ -736,22 +741,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Google: Bedrohung für Demokratie und Wahrheit?",
-      "teaser": "Kulturstaatsminister Wolfram Weimer sieht in Googles Marktmacht eine Gefahr für die Demokratie und plant eine Digitalabgabe für Tech-Giganten.",
-      "url": "https://www.heise.de/tp/features/Google-Bedrohung-fuer-Demokratie-und-Wahrheit-10665648.html",
-      "image_title": "Würfel mit Google-Logo werden zersägt"
+      "title": "Globaler Süden: Die vergessenen 85 Prozent der Welt",
+      "teaser": "Über 1.300 Wissenschaftler fordern in einem Appell mehr mediale Aufmerksamkeit für die Länder, in denen die große Mehrheit der Weltbevölkerung lebt.",
+      "url": "https://www.heise.de/tp/features/Globaler-Sueden-Die-vergessenen-85-Prozent-der-Welt-10665590.html",
+      "image_title": "Erdkugel mit dunkler Südhalbkugel und Erdkugel mit beleuchteter Südhalbkugel"
     },
     {
-      "title": "Immer mehr Experten fragen: Wann platzt die KI-Blase?",
-      "teaser": "Während KI-Chatbots Beziehungen ersetzen und Firmen Milliarden einsammeln, wachsen die Zweifel: Ist die Technik wirklich so revolutionär?",
-      "url": "https://www.heise.de/tp/features/Immer-mehr-Experten-fragen-Wann-platzt-die-KI-Blase-10662639.html",
-      "image_title": "Nadel piekst in Luftballon mit KI-Aufdruck. Im Hintergrund Dollar-Zeichen"
+      "title": "Wer zahlt die 65 Milliarden für die Ukraine – EU oder USA?",
+      "teaser": "Der Finanzbedarf der Ukraine bis 2027 ist höher als gedacht. Nun stellt sich die Frage, ob die EU oder die USA den Löwenanteil übernehmen.",
+      "url": "https://www.heise.de/tp/features/Wer-zahlt-die-65-Milliarden-fuer-die-Ukraine-EU-oder-USA-10666729.html",
+      "image_title": "Die wichtigsten Symbole der Ukraine - ukrainische Flagge und der Tempel der ukrainisch-orthodoxen Kirche - St. Sophia von Kiew"
     },
     {
-      "title": "Das Ende des Klimaoptimismus …",
-      "teaser": "… und wie daraus die dunkle Aufklärung des Silicon Valley erwächst. Guillaume Paoli zerlegt die Ideologie des Fortschritts. (Teil 2 und Schluss)",
-      "url": "https://www.heise.de/tp/features/Das-Ende-des-Klimaoptimismus-10663734.html",
-      "image_title": "KI-generierte Grafik zeigt eine schwarze Gestalt über einer Stadt mit kalifornischem orangenen Himmel"
+      "title": "Drogenkrieg als Vorwand: Plant Washington einen Regimewechsel in Venezuela?",
+      "teaser": "Schwere Vorwürfe aus Washington: Die USA beschuldigen Venezuela, einer der weltweit größten Drogenschmuggler zu sein – doch die Beweise sind dünn.",
+      "url": "https://www.heise.de/tp/features/Drogenkrieg-als-Vorwand-Plant-Washington-einen-Regimewechsel-in-Venezuela-10665584.html",
+      "image_title": "Riss zwischen den Flaggen Amerikas und Venezuelas."
     },
     {
       "title": "Platzt die KI-Blase? Diese 4 Warnsignale musst du kennen",
