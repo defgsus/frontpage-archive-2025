@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24T05:10:04",
+  "timestamp": "2025-09-24T06:14:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,11 +26,31 @@
   ],
   "articles": [
     {
+      "title": "programmier.bar: CTO-Special mit Moritz Buhl von Buhl Data",
+      "url": "https://www.heise.de/blog/programmier-bar-CTO-Special-mit-Moritz-Buhl-von-Buhl-Data-10667296.html"
+    },
+    {
+      "title": "iX-Workshop: Aufgaben eines Informationssicherheitsbeauftragten",
+      "url": "https://www.heise.de/news/iX-Workshop-Aufgaben-eines-Informationssicherheitsbeauftragten-10644025.html"
+    },
+    {
+      "title": "Nach npm-Großangriff: Github verschärft Sicherheitsmaßnahmen",
+      "url": "https://www.heise.de/news/Nach-npm-Grossangriff-Github-verschaerft-Sicherheitsmassnahmen-10668152.html"
+    },
+    {
+      "title": "PV-Wirtschaftlichkeit 2025: Was das Ende der festen Einspeisevergütung bedeutet",
+      "url": "https://www.heise.de/hintergrund/PV-Wirtschaftlichkeit-2025-Was-das-Ende-der-festen-Einspeiseverguetung-bedeutet-10650945.html"
+    },
+    {
+      "title": "Elektromotorrad LiveWire S2 Alpinista im Test: Leise Revolution",
+      "url": "https://www.heise.de/tests/Elektromotorrad-LiveWire-S2-Alpinista-im-Test-Leise-Revolution-10666412.html"
+    },
+    {
       "title": "Ziel 100 Millionen Kunden: Revolut investiert Milliarden",
       "url": "https://www.heise.de/news/Ziel-100-Millionen-Kunden-Revolut-investiert-Milliarden-10668144.html"
     },
     {
-      "title": "Hi-Fi-Marken Bowers & Wilkins, Denon und Marantz unter Harman-Dach",
+      "title": "Audiomarkt im Umbruch: Harman sichert sich Hi-Fi-Marken",
       "url": "https://www.heise.de/news/Hi-Fi-Marken-Bowers-Wilkins-Denon-und-Marantz-unter-Harman-Dach-10668088.html"
     },
     {
@@ -44,26 +64,6 @@
     {
       "title": "Elektroautos können bei Blackouts Mobilfunkstationen mit Strom versorgen",
       "url": "https://www.heise.de/news/Elektroautos-koennen-bei-Blackouts-Mobilfunkstationen-mit-Strom-versorgen-10668120.html"
-    },
-    {
-      "title": "Mobilfunk-Server mit 100.000 SIM-Karten in New York beschlagnahmt",
-      "url": "https://www.heise.de/news/Mobilfunk-Server-mit-100-000-SIM-Karten-in-New-York-beschlagnahmt-10668021.html"
-    },
-    {
-      "title": "Balkonkraftwerk & Amortisation: Gewinn maximieren mit der richtigen Auswahl",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-amortisation-gewinn-maximieren-mit-der-richtigen-auswahl/hd1g1td"
-    },
-    {
-      "title": "OLG: Störerhaftung bleibt zulässig – Google muss Phishing-Anzeigen stoppen",
-      "url": "https://www.heise.de/news/OLG-Stoererhaftung-bleibt-zulaessig-Google-muss-Phishing-Anzeigen-stoppen-10667882.html"
-    },
-    {
-      "title": "Open-Source-Umstellung: Schleswig-Holsteins Digitalminister räumt Probleme ein",
-      "url": "https://www.heise.de/news/Open-Source-Umstellung-Schleswig-Holsteins-Digitalminister-raeumt-Probleme-ein-10667810.html"
-    },
-    {
-      "title": "Allgemeine Geschäftsbedingungen: Verlinkt heißt nicht immer vereinbart",
-      "url": "https://www.heise.de/hintergrund/Allgemeine-Geschaeftsbedingungen-Verlinkt-heisst-nicht-immer-vereinbart-10496958.html"
     },
     {
       "title": "UpdateUNO in New YorkMobilfunk-Server mit 100.000 SIM-Karten beschlagnahmt",
@@ -187,55 +187,57 @@
       "image_title": "Samsung Galaxy S24 und 24 Plus liegen übereinander"
     },
     {
+      "title": "programmier.bar: CTO-Special mit Moritz Buhl von Buhl Data",
+      "teaser": "Deutsches Familienunternehmen als Tech-Pionier? Moritz Buhl erzählt, wie er Buhl Data mit seiner Steuer-Software führt – zwischen Tradition und Innovation.",
+      "url": "https://www.heise.de/blog/programmier-bar-CTO-Special-mit-Moritz-Buhl-von-Buhl-Data-10667296.html",
+      "image_title": "programmier.bar: Moritz Buhl von Buhl Data"
+    },
+    {
+      "title": "iX-Workshop: Aufgaben eines Informationssicherheitsbeauftragten",
+      "teaser": "Sich mit der Rolle des Informationssicherheitsbeauftragten vertraut machen: die Anforderungen verstehen und die notwendigen Kompetenzen erwerben.",
+      "url": "https://www.heise.de/news/iX-Workshop-Aufgaben-eines-Informationssicherheitsbeauftragten-10644025.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
+    },
+    {
+      "title": "Fünf Gründe für eine Servermodernisierung",
+      "teaser": "Unternehmen sparen mit der Erneuerung ihrer Server-Landschaft bares Geld – wenn sie die richtigen Investitionsentscheidungen treffen. Wir nennen fünf gute Gründe für einen „Tech-Refresh“.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084305514&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Nach npm-Großangriff: Github verschärft Sicherheitsmaßnahmen",
+      "teaser": "Nach dem Shai-Hulud-Wurm verschärft GitHub die npm-Sicherheit: 2FA wird Pflicht, Token werden begrenzt und Trusted Publishing ausgebaut.",
+      "url": "https://www.heise.de/news/Nach-npm-Grossangriff-Github-verschaerft-Sicherheitsmassnahmen-10668152.html",
+      "image_title": "Github-Logo an Gebäudewand"
+    },
+    {
+      "title": "PV-Wirtschaftlichkeit 2025: Was das Ende der festen Einspeisevergütung bedeutet",
+      "teaser": "Fixe Einspeisevergütung adieu: Für die Wirtschaftlichkeitsrechnung von PV-Anlagen ergeben sich neue Spielregeln. Im Fokus stehen Eigenverbrauch und Speicher.",
+      "url": "https://www.heise.de/hintergrund/PV-Wirtschaftlichkeit-2025-Was-das-Ende-der-festen-Einspeiseverguetung-bedeutet-10650945.html",
+      "image_title": "Sparschwein hinter Taschenrechner"
+    },
+    {
+      "title": "Elektromotorrad LiveWire S2 Alpinista im Test: Leise Revolution",
+      "teaser": "Ein Klasse-2-Motorrad mit der Beschleunigung einer Rennmaschine? Mutet extrem an, ist aber voll alltagstauglich – wenn rund 140 km Reichweite genügen.",
+      "url": "https://www.heise.de/tests/Elektromotorrad-LiveWire-S2-Alpinista-im-Test-Leise-Revolution-10666412.html",
+      "image_title": "LiveWire S2 Alpinista"
+    },
+    {
       "title": "Ziel 100 Millionen Kunden: Revolut investiert Milliarden",
       "teaser": "Die britische Digitalbank will mit Milliardensummen tiefer in den globalen Bankenmarkt vordringen. Auch in Deutschland wird investiert.",
       "url": "https://www.heise.de/news/Ziel-100-Millionen-Kunden-Revolut-investiert-Milliarden-10668144.html",
       "image_title": "Revolut-App"
     },
     {
-      "title": "Hi-Fi-Marken Bowers & Wilkins, Denon und Marantz unter Harman-Dach",
+      "title": "Audiomarkt im Umbruch: Harman sichert sich Hi-Fi-Marken",
       "teaser": "Bowers & Wilkins, Denon und Marantz gehören nun zu der Samsung-Tochter Harman. Die Übernahme soll Identität und Design-Philosophie der Marken bewahren.",
       "url": "https://www.heise.de/news/Hi-Fi-Marken-Bowers-Wilkins-Denon-und-Marantz-unter-Harman-Dach-10668088.html",
       "image_title": "Audio-Verstärker"
-    },
-    {
-      "title": "Produktivitätskiller im Admin-Alltag stoppen",
-      "teaser": "Admins können meist erst dann reagieren, wenn ein Schaden entstanden ist. Moderne Lösungen überwachen die IT-Landschaft, erkennen Anomalien und liefern Hinweise, bevor der User ein Problem meldet.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7073688200&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Mittwoch: Razzien rund um UNO-Zentrale, E-Auto als Powerbank für Mobilfunkmast",
       "teaser": "SIM-Server & -Karten beschlagnahmt + E-Auto versorgt Mobilfunkstation + USA reduzieren Verbraucherschutz + Mercedes GLC EQ ab 2026 + Palworlds Farming-Spinoff",
       "url": "https://www.heise.de/news/Mittwoch-Razzien-rund-um-UNO-Zentrale-E-Auto-als-Powerbank-fuer-Mobilfunkmast-10668138.html",
       "image_title": "Mehrere SIM-Karten auf einem Haufen; Mittwoch: SIM-Razzien, Notstrom-Elektroauto, US-Verbraucherschutz, E-Mercedes-Neuheit & Palworld-Spinoff"
-    },
-    {
-      "title": "Apple Card und Toyota entkommen US-Verbraucherschutz",
-      "teaser": "Die US-Behörde für Verbraucherschutz im Finanzbereich ist bei Republikanern unbeliebt. Sie muss ihre Arbeit deutlich reduzieren. Konzerne profitieren.",
-      "url": "https://www.heise.de/news/Apple-Card-und-Toyota-entkommen-US-Verbraucherschutz-10668108.html",
-      "image_title": "Handschlag"
-    },
-    {
-      "title": "Elektroautos können bei Blackouts Mobilfunkstationen mit Strom versorgen",
-      "teaser": "Renault und A1 zeigen, dass E-Autos im Notfall als Batteriespeicher für Mobilfunkstationen dienen können. Das soll die kritische Infrastruktur absichern.",
-      "url": "https://www.heise.de/news/Elektroautos-koennen-bei-Blackouts-Mobilfunkstationen-mit-Strom-versorgen-10668120.html",
-      "image_title": "Elektroauto mit Ladekabel neben Mobilfunkmast"
-    },
-    {
-      "title": "Balkonkraftwerk & Amortisation: Gewinn maximieren mit der richtigen Auswahl",
-      "teaser": "Dass sich ein Balkonkraftwerk schnell rechnet, steht außer Frage. Doch unter welchen Bedingungen erzielt es langfristig den höchsten Gewinn? Wir klären auf.",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-amortisation-gewinn-maximieren-mit-der-richtigen-auswahl/hd1g1td?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "OLG: Störerhaftung bleibt zulässig – Google muss Phishing-Anzeigen stoppen",
-      "teaser": "Google stieß mit der Ansicht, der Digital Service Act (DSA) lasse keine Prüfungspflicht für ähnliche Markenverstöße zu, beim OLG Düsseldorf auf taube Ohren.",
-      "url": "https://www.heise.de/news/OLG-Stoererhaftung-bleibt-zulaessig-Google-muss-Phishing-Anzeigen-stoppen-10667882.html"
-    },
-    {
-      "title": "Allgemeine Geschäftsbedingungen: Verlinkt heißt nicht immer vereinbart",
-      "teaser": "Ob ein Onlinegeschäft einem Kunden im Nachhinein Freude oder Ärger macht, hängt bisweilen davon ab, wie der Anbieter es mit seinen AGB hält.",
-      "url": "https://www.heise.de/hintergrund/Allgemeine-Geschaeftsbedingungen-Verlinkt-heisst-nicht-immer-vereinbart-10496958.html",
-      "image_title": "Recht: Allgemeine Geschäftsbedingungen"
     },
     {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
@@ -305,6 +307,34 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Apple Card und Toyota entkommen US-Verbraucherschutz",
+      "teaser": "Die US-Behörde für Verbraucherschutz im Finanzbereich ist bei Republikanern unbeliebt. Sie muss ihre Arbeit deutlich reduzieren. Konzerne profitieren.",
+      "url": "https://www.heise.de/news/Apple-Card-und-Toyota-entkommen-US-Verbraucherschutz-10668108.html",
+      "image_title": "Handschlag"
+    },
+    {
+      "title": "Elektroautos können bei Blackouts Mobilfunkstationen mit Strom versorgen",
+      "teaser": "Renault und A1 zeigen, dass E-Autos im Notfall als Batteriespeicher für Mobilfunkstationen dienen können. Das soll die kritische Infrastruktur absichern.",
+      "url": "https://www.heise.de/news/Elektroautos-koennen-bei-Blackouts-Mobilfunkstationen-mit-Strom-versorgen-10668120.html",
+      "image_title": "Elektroauto mit Ladekabel neben Mobilfunkmast"
+    },
+    {
+      "title": "Balkonkraftwerk & Amortisation: Gewinn maximieren mit der richtigen Auswahl",
+      "teaser": "Dass sich ein Balkonkraftwerk schnell rechnet, steht außer Frage. Doch unter welchen Bedingungen erzielt es langfristig den höchsten Gewinn? Wir klären auf.",
+      "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-amortisation-gewinn-maximieren-mit-der-richtigen-auswahl/hd1g1td?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "OLG: Störerhaftung bleibt zulässig – Google muss Phishing-Anzeigen stoppen",
+      "teaser": "Google stieß mit der Ansicht, der Digital Service Act (DSA) lasse keine Prüfungspflicht für ähnliche Markenverstöße zu, beim OLG Düsseldorf auf taube Ohren.",
+      "url": "https://www.heise.de/news/OLG-Stoererhaftung-bleibt-zulaessig-Google-muss-Phishing-Anzeigen-stoppen-10667882.html"
+    },
+    {
+      "title": "Allgemeine Geschäftsbedingungen: Verlinkt heißt nicht immer vereinbart",
+      "teaser": "Ob ein Onlinegeschäft einem Kunden im Nachhinein Freude oder Ärger macht, hängt bisweilen davon ab, wie der Anbieter es mit seinen AGB hält.",
+      "url": "https://www.heise.de/hintergrund/Allgemeine-Geschaeftsbedingungen-Verlinkt-heisst-nicht-immer-vereinbart-10496958.html",
+      "image_title": "Recht: Allgemeine Geschäftsbedingungen"
+    },
+    {
       "title": "Jobs im öffentlichen Dienst sprechen auch ITler zunehmend an",
       "teaser": "Die Unsicherheit am Arbeitsmarkt macht laut einer Umfrage Jobs im Staatsdienst wieder attraktiver. Ebenso würde die Mehrheit gerne mehr Teilzeit arbeiten.",
       "url": "https://www.heise.de/news/Jobs-im-oeffentlichen-Dienst-sprechen-auch-ITler-zunehmend-an-10667801.html",
@@ -351,6 +381,11 @@
       "url": "https://www.heise.de/news/DoS-Attacken-auf-IBM-SPSS-Analytic-Server-moeglich-10667190.html"
     },
     {
+      "title": "KI ohne Hype: Business GPT in der Praxis",
+      "teaser": "Welchen Mehrwert schafft künstliche Intelligenz in Unternehmen? In einem Webcast sprechen wir darüber, was von der KI-Euphorie übriggeblieben ist – und betrachten ganz nüchtern die KI-Möglichkeiten von Firmen und Behörden.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ki-ohne-hype-business-gpt-in-der-praxis-4977//?source=hbsad-ersatz"
+    },
+    {
       "title": "Windows 11: Microsoft bestätigt Probleme bei Blu-ray- und DVD-Programmen",
       "teaser": "Die letzten Windows-11-Updates enthalten Fehler, die die Wiedergabe von DRM-Inhalten stört. Microsoft bestätigt das Problem.",
       "url": "https://www.heise.de/news/Windows-11-25H2-Fehlerhafte-Wiedergabe-ueber-Blu-ray-und-DVD-Programme-10667482.html",
@@ -373,15 +408,15 @@
       "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
     },
     {
+      "title": "Modulare 4K-Actioncam: DJI Osmo Nano im Test",
+      "teaser": "Die Actionkamera DJI Osmo Nano wiegt nur etwas mehr als 50 Gramm und filmt in 4K-Auflösung. So lässt sie sich an Hemd, Mütze oder Hundehalsband clippen.",
+      "url": "https://www.heise.de/tests/Modulare-4K-Actioncam-DJI-Osmo-Nano-im-Test-10630739.html"
+    },
+    {
       "title": "Doppelte Videoaufnahme nur für iPhone 17 & Air: So geht's auch bei älterem Gerät",
       "teaser": "Apple erlaubt bereits seit Jahren gleichzeitige Aufnahmen von zwei Kameras. Nun kommt die Funktion auch in die Kamera-App – aber nur bei neuen iPhones. Was tun?",
       "url": "https://www.heise.de/news/iPhone-Video-Doppelaufnahme-von-Apple-nur-fuer-2025er-Geraete-Apps-helfen-10665990.html",
       "image_title": "Dual-Capture-Video auf dem iPhone Air"
-    },
-    {
-      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
-      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
     },
     {
       "title": "ShadowLeak: ChatGPT verriet Angreifern persönliche Daten aus E-Mails",
@@ -405,41 +440,6 @@
       "teaser": "In Deutschland wird der Volvo EX90 seit 2024 verkauft – und bekommt schon jetzt ein umfassendes Upgrade der Technik.",
       "url": "https://www.heise.de/news/Volvo-EX90-Update-Mehr-Spannung-schnellere-Taktung-10667360.html",
       "image_title": "Volvo EX90"
-    },
-    {
-      "title": "Merkur: \"Streifender Zusammenstoß\" soll ungewöhnlichen Aufbau erklären",
-      "teaser": "Der innerste Planet des Sonnensystems hat einen ungewöhnlich hohen Eisengehalt, eine Erklärung steht bislang aus. Nun gibt es eine neue Theorie",
-      "url": "https://www.heise.de/news/Merkur-Streifender-Zusammenstoss-soll-ungewoehnlichen-Aufbau-erklaeren-10666958.html",
-      "image_title": "Von Kratern übersäter Himmelskörper"
-    },
-    {
-      "title": "c't webdev 2025: Between AI and Basics",
-      "teaser": "The frontend developer conference covers the whole spectrum between the newest developer tools and the fundamental knowledge of web development.",
-      "url": "https://www.heise.de/news/c-t-webdev-2025-Between-AI-and-Basics-10665834.html"
-    },
-    {
-      "title": "Wärmepumpe ins Smart Home integrieren mit HeishaMon",
-      "teaser": "Die Aquarea-Serie von Panasonic lässt sich mit dem HeishaMon-Board noch besser steuern und ins Smart Home integrieren. So geht's.",
-      "url": "https://www.heise.de/ratgeber/Waermepumpe-ins-Smart-Home-integrieren-mit-HeishaMon-10641158.html",
-      "image_title": ","
-    },
-    {
-      "title": "Siemens und Maschinenbauer entwickeln gemeinsam KI für die Industrie",
-      "teaser": "Siemens will seine Position im Bereich der industriellen KI mit einer Allianz aus dem europäischen Maschinenbau verbessern.",
-      "url": "https://www.heise.de/news/Siemens-startet-Allianz-fuer-industrielle-KI-10667250.html",
-      "image_title": "Siemens"
-    },
-    {
-      "title": "AlertVier Jahre langes Hin und Her zwischen Sicherheitsforscher und Vasion Print",
-      "teaser": "Vasion Print war oder ist sogar noch verwundbar. Ob bereits alle Schwachstellen geschlossen sind, ist auf den ersten Blick nicht erkennbar.",
-      "url": "https://www.heise.de/news/Vier-Jahre-langes-Hin-und-Her-zwischen-Sicherheitsforscher-und-Vasion-Print-10667194.html",
-      "image_title": "Warndreieck"
-    },
-    {
-      "title": "TechWoven: Apples neues Funktionsgewebe unter der Lupe",
-      "teaser": "Apples neues Lederersatzmaterial widersteht Flecken und Kratzern besser als dessen Vorgänger. Allerdings ist der Spaß womöglich von kurzer Dauer.",
-      "url": "https://www.heise.de/news/TechWoven-Apples-neues-Funktionsgewebe-unter-der-Lupe-10666440.html",
-      "image_title": "TechWoven im Detail"
     },
     {
       "title": "Apple scheitert mit DMA-Notbremse: iPhone muss kompatibler werden",
@@ -467,9 +467,14 @@
       "image_title": "Erdaufgang über dem Mondhorizont"
     },
     {
-      "title": "Alte Pappe und Presslehm sparen Beton und CO₂",
-      "url": "https://www.heise.de/news/Alte-Kartonage-als-Baumaterial-kann-CO-einsparen-10667020.html",
-      "image_title": "Papp- und Carbonrollen mit Stampflehm"
+      "title": "Merkur: \"Streifender Zusammenstoß\" soll ungewöhnlichen Aufbau erklären",
+      "url": "https://www.heise.de/news/Merkur-Streifender-Zusammenstoss-soll-ungewoehnlichen-Aufbau-erklaeren-10666958.html",
+      "image_title": "Von Kratern übersäter Himmelskörper"
+    },
+    {
+      "title": "TechWoven: Apples neues Funktionsgewebe unter der Lupe",
+      "url": "https://www.heise.de/news/TechWoven-Apples-neues-Funktionsgewebe-unter-der-Lupe-10666440.html",
+      "image_title": "TechWoven im Detail"
     },
     {
       "title": "UpdateUSB-Absicherung: Apple gibt iPhone-Nutzern mehr Möglichkeiten",
@@ -480,11 +485,6 @@
       "title": "Akku sparen: Diese neuen Funktionen kommen mit iOS 26",
       "url": "https://www.heise.de/news/Akku-sparen-Diese-neuen-Funktionen-kommen-mit-iOS-26-10650240.html",
       "image_title": "Das iPhone Air in allen vier Farben"
-    },
-    {
-      "title": "Dimensity 9500: Der wohl stärkste Snapdragon-Gegner für Android-Smartphones",
-      "url": "https://www.heise.de/news/Dimensity-9500-Der-wohl-staerkste-Snapdragon-Gegner-fuer-Android-Smartphones-10665726.html",
-      "image_title": "Handy liegt seitlich hochkant auf einer grauen Oberfläche"
     },
     {
       "title": "\"Palworld: Palfarm\": Pocketpair greift nach Pokémon auch \"Animal Crossing\" an",
@@ -512,9 +512,9 @@
       "image_title": "Bahnhofsuhr"
     },
     {
-      "title": "Bundesnetzagentur: Private Speicher sollen am Energiemarkt teilnehmen",
-      "url": "https://www.heise.de/news/Bundesnetzagentur-Private-Speicher-sollen-am-Energiemarkt-teilnehmen-10663542.html",
-      "image_title": "Strommasten in Bremen"
+      "title": "Siemens und Maschinenbauer entwickeln gemeinsam KI für die Industrie",
+      "url": "https://www.heise.de/news/Siemens-startet-Allianz-fuer-industrielle-KI-10667250.html",
+      "image_title": "Siemens"
     },
     {
       "title": "Neues Paket: EU verhängt erstmals Sanktionen im Kryptosektor gegen Russland",
@@ -537,14 +537,14 @@
       "image_title": "Vollmondansicht, dazu Text: \"Dienstag - Mondflug 2027 wackelt, US-Tiktok wird anders, Junge in Social Media gefangen, Firewall sabotiert Notruf\""
     },
     {
+      "title": "Bundesnetzagentur: Private Speicher sollen am Energiemarkt teilnehmen",
+      "url": "https://www.heise.de/news/Bundesnetzagentur-Private-Speicher-sollen-am-Energiemarkt-teilnehmen-10663542.html",
+      "image_title": "Strommasten in Bremen"
+    },
+    {
       "title": "Energiewende auf dem Balkon",
       "url": "https://www.heise.de/news/Energiewende-auf-dem-Balkon-10666286.html",
       "image_title": "Symbolbild eines traditionellen Giebeldach-Hauses mit Balkon."
-    },
-    {
-      "title": "Jugendstudie zur Social-Media-Nutzung: Gerne weniger, nur wie?",
-      "url": "https://www.heise.de/hintergrund/Jugendstudie-zur-Social-Media-Nutzung-Gerne-weniger-nur-wie-10652478.html",
-      "image_title": "Smartphone mit verschiedenen Hologrammen"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Berater in Deutschland",
@@ -612,11 +612,6 @@
       "url": "https://www.heise.de/en/news/One-UI-8-Samsung-distributes-Android-16-for-Galaxy-S24-and-other-devices-10667013.html"
     },
     {
-      "title": "Fritzbox wechseln mit Assistent",
-      "teaser": "Ich scheitere daran, die Konfiguration einer alten Fritzbox auf eine neue zu übertragen, weil die Firmwareversionen nicht übereinstimmen. Gibt es da Abhilfe?",
-      "url": "https://www.heise.de/ratgeber/Fritzbox-wechseln-mit-Assistent-10667998.html"
-    },
-    {
       "title": "Linux-DesktopGnome 49 frischt Apps auf und deaktiviert X11-Session",
       "teaser": "Das Gnome-Projekt hat Version 49 veröffentlicht. Die Entwickler bescheren neue Apps und schalten bei X11 langsam das Licht aus.",
       "url": "https://www.heise.de/news/Gnome-49-frischt-Apps-auf-und-deaktiviert-X11-Session-10667428.html",
@@ -626,6 +621,11 @@
       "title": "Spielen mit Linux: SteamOS für den Desktop-Gaming-PC ausprobiert",
       "teaser": "Seit SteamOS mehr Hardware unterstützt, lässt sich Valves Linux-Distribution prinzipiell auf normalen PCs und Notebooks nutzen. Aber ist das sinnvoll?",
       "url": "https://www.heise.de/ratgeber/Spielen-mit-Linux-SteamOS-fuer-den-Desktop-Gaming-PC-ausprobiert-10482591.html"
+    },
+    {
+      "title": "Fritzbox wechseln mit Assistent",
+      "teaser": "Ich scheitere daran, die Konfiguration einer alten Fritzbox auf eine neue zu übertragen, weil die Firmwareversionen nicht übereinstimmen. Gibt es da Abhilfe?",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-wechseln-mit-Assistent-10667998.html"
     },
     {
       "title": "20 TippsmacOS 26 Tahoe ausreizen",
@@ -743,21 +743,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Warum sich Politiker über den öffentlich-rechtlichen Rundfunk beklagen dürfen",
-      "teaser": "Politiker äußern sich zur Causa Julia Ruhs beim NDR. Ist das unzulässige Einmischung? Ein Kommentar.",
-      "url": "https://www.heise.de/tp/features/Warum-sich-Politiker-ueber-den-oeffentlich-rechtlichen-Rundfunk-beklagen-duerfen-10666837.html"
+      "title": "Handwerk stirbt aus: Wissen geht unwiederbringlich verloren",
+      "teaser": "Vom Schuhmacher bis zum Schneider – in vielen Handwerksberufen fehlt der Nachwuchs. Warum das ein Problem für die Nachhaltigkeit ist.",
+      "url": "https://www.heise.de/tp/features/Handwerk-stirbt-aus-Wissen-geht-unwiederbringlich-verloren-10667402.html",
+      "image_title": "Junge Handwerkerin mit dickem Filzstoff bei der Arbeit"
+    },
+    {
+      "title": "Ihr Garten im Winter: Ordnung wird überbewertet",
+      "teaser": "Auch im Winter gibt es im Garten einiges zu tun. Man kann für die Tierwelt sorgen, Rosen und Obstgewächse schneiden und neu pflanzen. Doch im Grunde gibt es nur eine Regel.",
+      "url": "https://www.heise.de/tp/features/Ihr-Garten-im-Winter-Ordnung-wird-ueberbewertet-10655951.html",
+      "image_title": "winterlicher, schneebedeckter Garten mit Bank"
     },
     {
       "title": "Studie warnt: Künstliche Intelligenz verleitet Menschen zu unehrlichem Verhalten",
       "teaser": "Wenn Menschen Aufgaben an KI delegieren, lügen sie häufiger, zeigt eine neue Studie mit über 8.000 Teilnehmern. Auch KI-Systeme folgen oft unethischen Befehlen.",
       "url": "https://www.heise.de/tp/features/Studie-warnt-Kuenstliche-Intelligenz-verleitet-Menschen-zu-unehrlichem-Verhalten-10666687.html",
       "image_title": "KI als Marionette: Delegation von Aufgaben macht unehrlich"
-    },
-    {
-      "title": "Wenn sich Altkleider nicht mehr verwerten lassen",
-      "teaser": "Immer mehr Altkleider landen auf Mülldeponien statt im Second-Hand-Handel. Die EU plant drastische Maßnahmen, um das Problem in den Griff zu bekommen.",
-      "url": "https://www.heise.de/tp/features/Wenn-sich-Altkleider-nicht-mehr-verwerten-lassen-10662866.html",
-      "image_title": "Recycling-Symbol mit Socke als Pfeil und Socke mit Grenzlinienach Afrika"
     },
     {
       "title": "Platzt die KI-Blase? Diese 4 Warnsignale musst du kennen",
@@ -775,9 +776,9 @@
       "url": "https://t3n.de/news/wenn-maschinen-luegen-entlarven-deep-learning-gegen-fake-rezensionen-1708893/"
     },
     {
-      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "Datenlöschdienste im Vergleich: Persönliche Daten im Internet löschen",
+      "teaser": "Wenn persönliche Daten im Netz landen, können Werbeflut, Betrugsversuche und Identitätsdiebstahl die Folge sein. Datenlöschdienste wollen diese Probleme lösen.",
+      "url": "https://www.heise.de/download/specials/Datenloeschdienste-im-Vergleich-Persoenliche-Daten-im-Internet-loeschen-10511315"
     },
     {
       "title": "Desinfec't",
