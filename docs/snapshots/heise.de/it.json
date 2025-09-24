@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-24T11:08:02",
+  "timestamp": "2025-09-24T12:19:22",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,43 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: KI für eigene Daten: RAG in der Praxis mit LangChain.js",
+      "teaser": "Erfahren Sie, wie Sie mit Retrieval Augmented Generation (RAG) und LangChain.js maßgeschneiderte KI-Lösungen entwickeln und implementieren können.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-fuer-eigene-Daten-RAG-in-der-Praxis-mit-LangChain-js-10644029.html",
+      "image_title": "iX-Workshop IT-Governance planen und implementieren"
+    },
+    {
+      "title": "Bit-Rauschen: Intel will CPU-Kerne zu \"Supercores\" kombinieren",
+      "teaser": "Intel plant, CPU-Kerne zusammenzuschalten. Die Trump-Regierung blockiert US-Technik für Chipwerke in China. Und Medion hat einen neuen alten Besitzer.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Intel-will-CPU-Kerne-zu-Supercores-kombinieren-10520359.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "Neues Pico-2-Board mit voller GPIO-Freiheit",
+      "teaser": "Olimex veröffentlicht ein Breadboard-freundliches Pico-2-Board mit allen 48 GPIOs, USB-C und 16 MB Flash.",
+      "url": "https://www.heise.de/news/Neues-Pico-2-Board-mit-voller-GPIO-Freiheit-10669122.html",
+      "image_title": "Das Board ist ein langer Riegel. In der Mitte sitzt der PICO-Chip. Unten ist eine USB-C-Buchse zu sehen."
+    },
+    {
+      "title": "AlertSicherheitspatch für SolarWinds Web Help Desk abermals repariert",
+      "teaser": "Offensichtlich bekommen die SolarWinds-Entwickler eine Sicherheitslücke in Web Help Desk nicht in den Griff. Klappt es jetzt?",
+      "url": "https://www.heise.de/news/Sicherheitspatch-fuer-SolarWinds-Web-Help-Desk-abermals-repariert-10668445.html",
+      "image_title": "Ein symbolischer Updateknopf."
+    },
+    {
+      "title": "HintergrundKurz erklärt: Confidential Computing und wie es funktioniert",
+      "url": "https://www.heise.de/hintergrund/Kurz-erklaert-Confidential-Computing-und-wie-es-funktioniert-10639577.html"
+    },
+    {
+      "title": "TestsMaskenball: DxO PhotoLab 9 für macOS im Test",
+      "url": "https://www.heise.de/tests/Maskenball-DxO-PhotoLab-9-fuer-macOS-im-Test-10666683.html",
+      "image_title": "PhotoLab 9"
+    },
+    {
+      "title": "TestsWas Java 25 bringt: Deferred Immutability und weitere Funktionen",
+      "url": "https://www.heise.de/tests/Was-Java-25-bringt-Deferred-Immutability-und-weitere-Funktionen-10633202.html"
+    },
+    {
       "title": "Ab sofort erhältlich: Mit Desinfec’t 2025/26 Trojaner erledigen und Daten retten",
       "teaser": "Malwarekampagnen werden immer ausgeklügelter, und plötzlich ist Windows infiziert. Zeit für den Einsatz des brandneuen Sicherheitstools Desinfec’t 2025/26.",
       "url": "https://www.heise.de/news/Ab-sofort-erhaeltlich-Mit-Desinfec-t-2025-26-Trojaner-erledigen-und-Daten-retten-10661449.html"
@@ -46,19 +83,6 @@
       "teaser": "Apple aktualisiert den lexikalischen Bestand auf Macs und reicht mit macOS 26 neue Sprachen nach. Ein Überblick.",
       "url": "https://www.heise.de/news/Woerterbuecher-in-macOS-26-Das-aendert-sich-in-Tahoe-10667586.html",
       "image_title": "Lexikon in macOS 26"
-    },
-    {
-      "title": "HintergrundKurz erklärt: Confidential Computing und wie es funktioniert",
-      "url": "https://www.heise.de/hintergrund/Kurz-erklaert-Confidential-Computing-und-wie-es-funktioniert-10639577.html"
-    },
-    {
-      "title": "TestsMaskenball: DxO PhotoLab 9 für macOS im Test",
-      "url": "https://www.heise.de/tests/Maskenball-DxO-PhotoLab-9-fuer-macOS-im-Test-10666683.html",
-      "image_title": "PhotoLab 9"
-    },
-    {
-      "title": "TestsWas Java 25 bringt: Deferred Immutability und weitere Funktionen",
-      "url": "https://www.heise.de/tests/Was-Java-25-bringt-Deferred-Immutability-und-weitere-Funktionen-10633202.html"
     },
     {
       "title": "Tipp: Passwort bei kaputter Mac-Tastatur eingeben",
@@ -120,26 +144,6 @@
       "title": "Apple-Benutzerkonto lässt sich nicht erstellen",
       "teaser": "Wenn ich ein neues Apple-Benutzerkonto erstellen will, bekomme ich immer die Fehlermeldung, der Account könne \"zurzeit nicht erstellt werden.\" Was bedeutet das?",
       "url": "https://www.heise.de/ratgeber/Apple-Benutzerkonto-laesst-sich-nicht-erstellen-10668010.html"
-    },
-    {
-      "title": "Synology BeeStation vor Verkauf löschen",
-      "teaser": "Ich habe meine Synology BeeStation zurückgesetzt, weil ich sie weiterverkaufen möchte. Kann der Käufer noch Daten von den eingebauten Festplatten auslesen?",
-      "url": "https://www.heise.de/ratgeber/Synology-BeeStation-vor-Verkauf-loeschen-10668006.html"
-    },
-    {
-      "title": "Obsidian auf Qnap-NAS",
-      "teaser": "Kann ich, statt des kostenpflichtigen Diensts von Obsidian, den Synchronisierungsdienst meines NAS nutzen, um Notizen über mehrere Geräte zu synchronisieren?",
-      "url": "https://www.heise.de/ratgeber/Obsidian-auf-Qnap-NAS-10668002.html"
-    },
-    {
-      "title": "Fritzbox wechseln mit Assistent",
-      "teaser": "Ich scheitere daran, die Konfiguration einer alten Fritzbox auf eine neue zu übertragen, weil die Firmwareversionen nicht übereinstimmen. Gibt es da Abhilfe?",
-      "url": "https://www.heise.de/ratgeber/Fritzbox-wechseln-mit-Assistent-10667998.html"
-    },
-    {
-      "title": "Balkonkraftwerk & Amortisation: Gewinn maximieren mit der richtigen Auswahl",
-      "teaser": "Dass sich ein Balkonkraftwerk schnell rechnet, steht außer Frage. Doch unter welchen Bedingungen erzielt es langfristig den höchsten Gewinn? Wir klären auf.",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-und-amortisation-gewinn-maximieren-mit-der-richtigen-auswahl/hd1g1td?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "News Paketabgabe bei Nachbarn: Verbraucherschützer verklagen die Deutsche Post",
