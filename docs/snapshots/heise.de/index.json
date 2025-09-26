@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T05:09:55",
+  "timestamp": "2025-09-26T06:15:04",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10644085.html"
+    },
+    {
+      "title": "Künstliche Intelligenz: Agentic AI aus Securitysicht – Angriffe und Verteidigung",
+      "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Agentic-AI-aus-Securitysicht-Angriffe-und-Verteidigung-10638083.html"
+    },
     {
       "title": "Volle Breitseite: \"Master & Commander\" im Heimkinotest von Stream bis 4K-Disc",
       "url": "https://www.heise.de/tests/Volle-Breitseite-Master-Commander-im-Heimkinotest-von-Stream-bis-4K-Disc-10670838.html"
@@ -56,14 +64,6 @@
     {
       "title": "SEC: \"RadioShack-Käufer betrieben ein Ponzi-Schema\"",
       "url": "https://www.heise.de/news/SEC-RadioShack-Kaeufer-betrieben-ein-Ponzi-Schema-10671242.html"
-    },
-    {
-      "title": "Lass Dich für 15 Cent abhören! App (ver)kauft Telefonaufnahmen für KI-Training",
-      "url": "https://www.heise.de/news/Fuer-KI-Training-US-App-zahlt-Geld-fuer-abgehoerte-Telefonate-10671294.html"
-    },
-    {
-      "title": "Amazon.com zahlt Rekordstrafe für untergeschobene Prime-Abos",
-      "url": "https://www.heise.de/news/Amazon-com-zahlt-Rekordstrafe-fuer-untergeschobene-Prime-Abos-10671246.html"
     },
     {
       "title": "MicrosoftWindows-10-Sicherheitsupdates in Europa kostenlos",
@@ -187,20 +187,31 @@
       "url": "https://www.heise.de/news/heiseshow-Flughafen-Attacken-KI-Blase-Elektroauto-Ladepunkte-10669698.html"
     },
     {
+      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
+      "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10644085.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+    },
+    {
+      "title": "Künstliche Intelligenz: Agentic AI aus Securitysicht – Angriffe und Verteidigung",
+      "teaser": "Effektiver LLM-Schutz erfordert die Härtung & Isolierung aller Komponenten, sichere Schnittstellen, strenge Sitzungsverwaltung sowie präventive Design-Patterns.",
+      "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Agentic-AI-aus-Securitysicht-Angriffe-und-Verteidigung-10638083.html"
+    },
+    {
+      "title": "Kleine Räume, große Ideen",
+      "teaser": "Hybride Zusammenarbeit ist Alltag. Große Konferenzräume verlieren an Bedeutung, kleine Meetingräume werden bevorzugt. Doch oft fehlt genau dort die passende Technik. Innovative Lösungen sind gefragt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7008613419&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Volle Breitseite: \"Master & Commander\" im Heimkinotest von Stream bis 4K-Disc",
       "teaser": "Peter Weirs Film gilt als eines der authentischsten Seefahrerabenteuer. Die neue UHD lockt mit 4K und bombastischem Ton – wenn auch die Atmos-Spur schwächelt.",
       "url": "https://www.heise.de/tests/Volle-Breitseite-Master-Commander-im-Heimkinotest-von-Stream-bis-4K-Disc-10670838.html"
     },
     {
       "title": "Kommentar: Drei unbequeme Wahrheiten - und wie das E-Auto helfen kann",
-      "teaser": "Die Energiewende ist ein globales Projekt, und der batterieelektrische Antrieb ein wesentlicher Baustein, ohne den es nicht gehen wird, mein Martin Franz",
+      "teaser": "Die Energiewende ist ein globales Projekt, und der batterieelektrische Antrieb ein wesentlicher Baustein, ohne den es nicht gehen wird, meint Martin Franz",
       "url": "https://www.heise.de/meinung/Kommentar-Drei-unbequeme-Wahrheiten-und-wie-das-E-Auto-helfen-kann-10668233.html",
       "image_title": "Hyundai Ioniq 5"
-    },
-    {
-      "title": "Kleine Räume, große Ideen",
-      "teaser": "Hybride Zusammenarbeit ist Alltag. Große Konferenzräume verlieren an Bedeutung, kleine Meetingräume werden bevorzugt. Doch oft fehlt genau dort die passende Technik. Innovative Lösungen sind gefragt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7008613419&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Humain zeigt 14-Zoll-Notebook Horizon Pro mit KI-Bedienoberfläche",
@@ -224,18 +235,6 @@
       "teaser": "Unlautere Prime-Methoden + Abhören für KI gegen Geld + Schneeballsystem der RadioShack-Käufer + Updates für Windows 10 weiter gratis + Verbraucherschutz-Podcast",
       "url": "https://www.heise.de/news/Freitag-Rekordstrafe-fuer-Amazon-wegen-Prime-Abos-App-bezahlt-fuer-Abhoerung-10671330.html",
       "image_title": "Person sitzt auf Sofa mit Tablet im Schoß; Freitag: Prime-Rekordstrafe, Neon-Abhören, RadioShack-Betrügereien, Windows-10-Updates & Verbraucherschutz-Podcast"
-    },
-    {
-      "title": "Vorsicht Kunde: Kein Zugriff aufs Online-Kundenkonto",
-      "teaser": "Probleme beim Zugriff auf Online-Kundenkonten sind nicht selten. Dabei haben Verbraucher einen Rechtsanspruch auf Einsicht ihrer Dokumente.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Kein-Zugriff-aufs-Online-Kundenkonto-10642585.html",
-      "image_title": "Hände am Handy, um ein Passwort zurückzusetzen"
-    },
-    {
-      "title": "SEC: \"RadioShack-Käufer betrieben ein Ponzi-Schema\"",
-      "teaser": "Die US-Börsenaufsicht wirft den Käufern der insolventen US-Elektronikkette RadioShack vor, ein millionenschweres Schneeballsystem betrieben zu haben.",
-      "url": "https://www.heise.de/news/SEC-RadioShack-Kaeufer-betrieben-ein-Ponzi-Schema-10671242.html",
-      "image_title": "Eine frühere Filiale von RadioShack"
     },
     {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
@@ -304,6 +303,18 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Vorsicht Kunde: Kein Zugriff aufs Online-Kundenkonto",
+      "teaser": "Probleme beim Zugriff auf Online-Kundenkonten sind nicht selten. Dabei haben Verbraucher einen Rechtsanspruch auf Einsicht ihrer Dokumente.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Kein-Zugriff-aufs-Online-Kundenkonto-10642585.html",
+      "image_title": "Hände am Handy, um ein Passwort zurückzusetzen"
+    },
+    {
+      "title": "SEC: \"RadioShack-Käufer betrieben ein Ponzi-Schema\"",
+      "teaser": "Die US-Börsenaufsicht wirft den Käufern der insolventen US-Elektronikkette RadioShack vor, ein millionenschweres Schneeballsystem betrieben zu haben.",
+      "url": "https://www.heise.de/news/SEC-RadioShack-Kaeufer-betrieben-ein-Ponzi-Schema-10671242.html",
+      "image_title": "Eine frühere Filiale von RadioShack"
+    },
+    {
       "title": "Lass Dich für 15 Cent abhören! App (ver)kauft Telefonaufnahmen für KI-Training",
       "teaser": "15 bis 30 Cent pro Minute zahlt die Neon App dafür, dass sie Telefongespräche mitschneidet. Die Aufnahmen sollen für KI-Training weiterverkauft werden.",
       "url": "https://www.heise.de/news/Fuer-KI-Training-US-App-zahlt-Geld-fuer-abgehoerte-Telefonate-10671294.html",
@@ -365,6 +376,11 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/engwe-engine-pro-30-boost-im-test-klapprad-e-bike-mit-federung-gps-und-90-nm/7m6cedd?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? In einem Webcast können Sie erfahren, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
+      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
+    },
+    {
       "title": "Teleneurologie: Telemedizin-Arbeitsplätze sollen Versorgung auf dem Land sichern",
       "teaser": "Die neurologische Versorgung soll sich mithilfe von Telemedizin-Arbeitsplätzen in Hausarztpraxen in Brandenburg und Mecklenburg-Vorpommern verbessern.",
       "url": "https://www.heise.de/news/Teleneurologie-Telemedizin-Arbeitsplaetze-sollen-Versorgung-auf-dem-Land-sichern-10669796.html"
@@ -374,11 +390,6 @@
       "teaser": "Neun europäische Banken, darunter DekaBank, entwickeln Euro-Stablecoin als Antwort auf US-Dominanz im digitalen Zahlungsverkehr.",
       "url": "https://www.heise.de/news/Kryptowaehrung-Neun-fuehrende-europaeische-Banken-entwickeln-Euro-Stablecoin-10670858.html",
       "image_title": "Zerbrechende Bitcoin-Münze"
-    },
-    {
-      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
-      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Erfahren Sie in einem Webcast, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
     },
     {
       "title": "Spotify geht gegen KI-Spam vor",
@@ -426,18 +437,6 @@
       "image_title": "Qualcomm-CEO Amaon vor 6G Logo"
     },
     {
-      "title": "MCP-Unterstützung: Erste Anzeichen für iOS-Einbau in Apple Intelligence",
-      "teaser": "Mit dem Model Context Protocol lassen sich KI-Systeme leicht verbinden. Das soll demnächst beim iPhone möglich werden.",
-      "url": "https://www.heise.de/news/KI-fuer-iOS-MCP-fuer-Apple-Intelligence-im-Anflug-10669187.html",
-      "image_title": "Apple-Intelligence-Icon mit Farbverlauf"
-    },
-    {
-      "title": "FS-5000-Geigerzähler für Maker und Neugierige",
-      "teaser": "FS-5000 ist ein günstiger Geigerzähler für Experimente und Umweltmonitoring. Dank alternativer Open-Source-Firmware auch mit guter Bedienung.",
-      "url": "https://www.heise.de/news/FS-5000-Geigerzaehler-fuer-Maker-und-Neugierige-10669355.html",
-      "image_title": "Geönneter Geigerzähler"
-    },
-    {
       "title": "Audiomarkt im Umbruch: Harman sichert sich Hi-Fi-Marken",
       "url": "https://www.heise.de/news/Hi-Fi-Marken-Bowers-Wilkins-Denon-und-Marantz-unter-Harman-Dach-10668088.html",
       "image_title": "Audio-Verstärker"
@@ -453,6 +452,11 @@
       "image_title": "Github-Logo an Gebäudewand"
     },
     {
+      "title": "UpdateFS-5000-Geigerzähler für Maker und Neugierige",
+      "url": "https://www.heise.de/news/FS-5000-Geigerzaehler-fuer-Maker-und-Neugierige-10669355.html",
+      "image_title": "Geönneter Geigerzähler"
+    },
+    {
       "title": "\"Starshot\": Arbeit an Nano-Raumschiffen für Flug zu Alpha Centauri eingestellt",
       "url": "https://www.heise.de/news/Starshot-Arbeit-an-Nano-Raumschiffen-fuer-Flug-zu-Alpha-Centauri-eingestellt-10667602.html",
       "image_title": "Riesiges, halbdurchsichtiges Segel im Weltraum"
@@ -461,11 +465,6 @@
       "title": "In der Luft explodierter Komet hat wohl Clovis-Kultur und Megafauna ausgelöscht",
       "url": "https://www.heise.de/news/In-der-Luft-explodierter-Komet-hat-wohl-Clovis-Kultur-und-Megafauna-ausgeloescht-10664316.html",
       "image_title": "Künstlerische Darstellung eines verglühenden Meteors über der Erde"
-    },
-    {
-      "title": "KI revolutioniert Medizin: OpenAI-Chef Altman sieht große Chancen",
-      "url": "https://www.heise.de/news/OpenAI-Chef-Altman-KI-als-Chance-fuer-Aerzte-und-Patienten-10669865.html",
-      "image_title": "Sam Altman"
     },
     {
       "title": "UpdateApple: Digitalgesetz DMA der EU gehört abgeschafft",
@@ -617,9 +616,9 @@
       "image_title": "Raspberry Pi 500+ im Tastaturgehäuse mit mechanischen Switches"
     },
     {
-      "title": "Wie der EU-Gerichtshof die DSGVO nachschärft",
-      "teaser": "Der Europäische Gerichtshof hat im September 2025 die DSGVO angepasst. Im Fokus: das US-Datentransferabkommen, Pseudonymisierung und Unterlassungsansprüche.",
-      "url": "https://www.heise.de/hintergrund/Wie-der-EU-Gerichtshof-die-DSGVO-nachschaerft-10631133.html"
+      "title": "Volle Breitseite: \"Master & Commander\" im Heimkinotest von Stream bis 4K-Disc",
+      "teaser": "Peter Weirs Film gilt als eines der authentischsten Seefahrerabenteuer. Die neue UHD lockt mit 4K und bombastischem Ton – wenn auch die Atmos-Spur schwächelt.",
+      "url": "https://www.heise.de/tests/Volle-Breitseite-Master-Commander-im-Heimkinotest-von-Stream-bis-4K-Disc-10670838.html"
     },
     {
       "title": "AirPods Pro 3 im TestMit frischem Klang und ANC",
@@ -674,9 +673,10 @@
       "image_title": "Speicherkarte liegt auf dem Objektiv einer Kamera"
     },
     {
-      "title": "Drohne mit 1-Zoll-Sensor und sezierte Leicas – die Fotonews der Woche 38/2025",
-      "teaser": "DJIs Mini 5 Pro setzt Maßstäbe – ist aber vielleicht zu schwer. Excire aktualisiert sein Lightroom-Plugin, und wieder gibt es eine besondere Leica-Auktion.",
-      "url": "https://www.heise.de/news/Drohne-mit-1-Zoll-Sensor-und-sezierte-Leicas-die-Fotonews-der-Woche-38-2025-10663864.html"
+      "title": "Fotografie: Architektur sehen lernen mit den richtigen Grundlagen und Techniken",
+      "teaser": "Architekturfotografie erfordert ein gutes Auge für Perspektive, Licht und Linien – mit der richtigen Herangehensweise erschaffen Sie eindrucksvolle Bilder.",
+      "url": "https://www.heise.de/ratgeber/Fotografie-Architektur-sehen-lernen-mit-den-richtigen-Grundlagen-und-Techniken-10662545.html",
+      "image_title": "Durch die Symmetrie des Bildes und die Spiegelung kommen die beiden Türme der Oberbaumbrücke über der Spree in Berlin besonders gut zur Geltung. Das Gelb der vorbeifahrenden U-Bahn ist ein schöner Kontrast zu dem markanten Rot der Ziegel., Marcel Wiest"
     },
     {
       "title": "Platform EngineeringDeveloper-Plattformen systematisch bewerten",
@@ -738,22 +738,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Erdgas: 60 Prozent Preissprung im Sommer 2026 möglich",
-      "teaser": "Trotz aktuell niedriger Preise wetten Händler auf einen drastischen Anstieg der Erdgaspreise im Sommer 2026 – aus Angst vor Versorgungsengpässen.",
-      "url": "https://www.heise.de/tp/features/Erdgas-60-Prozent-Preissprung-im-Sommer-2026-moeglich-10667320.html",
-      "image_title": "Kugelförmige Gasspeicher"
-    },
-    {
-      "title": "Ukraine-Krieg: Wie Bodenkampfroboter die Frontlinien verändern",
-      "teaser": "Von der ukrainischen Vatag bis zu Chinas VU-T10 — KI, Hybridantriebe und Modularität treiben die Militarisierung des Bodens voran. Eine Einschätzung.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Wie-Bodenkampfroboter-die-Frontlinien-veraendern-10667150.html",
-      "image_title": "Ki-generierte Grafik zeigt ein großes, dunkles, achträdriges Kampffahrzeug mit Kanone in einer kargen, zerstörten Landschaft, während darüber eine Drohne am Himmel fliegt."
+      "title": "Alkohol: Der Mensch als Nachfahre chronischer Trinker",
+      "teaser": "Erstmals haben Forscher bewiesen, dass Schimpansen regelmäßig Alkohol verzehren. Auch andere Tiere tun das. Aber was hat das mit uns Menschen zu tun?",
+      "url": "https://www.heise.de/tp/features/Alkohol-Der-Mensch-als-Nachfahre-chronischer-Trinker-10666220.html",
+      "image_title": "Ein Schimpanse sitzt auf einem Ast vor üppigem Blattwerk und lässt sich eine Frucht schmecken"
     },
     {
       "title": "Porsche bremst beim E-Auto – Verbrenner feiern Comeback",
       "teaser": "Trotz vollmundiger Versprechen rudert Porsche bei der Elektromobilität zurück. Schuld sind Kundenwünsche und Preisdruck.",
       "url": "https://www.heise.de/tp/features/Porsche-bremst-beim-E-Auto-Verbrenner-feiern-Comeback-10670017.html",
       "image_title": "Blick auf einen Sportwagen von Porsche"
+    },
+    {
+      "title": "Wer brachte die Demokratie nach Nordamerika?",
+      "teaser": "Europäische Siedler hielten indigene Kulturen für rückständig. Tatsächlich lebten viele Völker nach Prinzipien, die wir heute demokratisch nennen. Nur die Sieger schrieben die Geschichtsbücher.",
+      "url": "https://www.heise.de/tp/features/Wer-brachte-die-Demokratie-nach-Nordamerika-10668315.html"
     },
     {
       "title": "Deal zwischen OpenAI und SAP: Echte digitale Souveränität sieht anders aus",
