@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-26T02:17:08",
+  "timestamp": "2025-09-26T03:25:49",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "SEC: \"RadioShack-Käufer betrieben ein Ponzi-Schema\"",
+      "url": "https://www.heise.de/news/SEC-RadioShack-Kaeufer-betrieben-ein-Ponzi-Schema-10671242.html"
+    },
     {
       "title": "Lass Dich für 15 Cent abhören! App (ver)kauft Telefonaufnahmen für KI-Training",
       "url": "https://www.heise.de/news/Fuer-KI-Training-US-App-zahlt-Geld-fuer-abgehoerte-Telefonate-10671294.html"
@@ -60,10 +64,6 @@
     {
       "title": "software-architektur.tv: Monorepos bei Uber: 👍 oder 👎?",
       "url": "https://www.heise.de/news/software-architektur-tv-Monorepos-bei-Uber-oder-10667444.html"
-    },
-    {
-      "title": "Pure Storage: Neue Technik für Datenreduktion und verbesserte Cyber-Resilienz",
-      "url": "https://www.heise.de/news/Pure-Storage-Neue-Technik-fuer-Datenreduktion-und-verbesserte-Cyber-Resilienz-10671052.html"
     },
     {
       "title": "MicrosoftWindows-10-Sicherheitsupdates in Europa kostenlos",
@@ -187,21 +187,27 @@
       "url": "https://www.heise.de/news/heiseshow-Flughafen-Attacken-KI-Blase-Elektroauto-Ladepunkte-10669698.html"
     },
     {
+      "title": "SEC: \"RadioShack-Käufer betrieben ein Ponzi-Schema\"",
+      "teaser": "Die US-Börsenaufsicht wirft den Käufern der insolventen US-Elektronikkette RadioShack vor, ein millionenschweres Schneeballsystem betrieben zu haben.",
+      "url": "https://www.heise.de/news/SEC-RadioShack-Kaeufer-betrieben-ein-Ponzi-Schema-10671242.html",
+      "image_title": "Eine frühere Filiale von RadioShack"
+    },
+    {
       "title": "Lass Dich für 15 Cent abhören! App (ver)kauft Telefonaufnahmen für KI-Training",
       "teaser": "15 bis 30 Cent pro Minute zahlt die Neon App dafür, dass sie Telefongespräche mitschneidet. Die Aufnahmen sollen für KI-Training weiterverkauft werden.",
       "url": "https://www.heise.de/news/Fuer-KI-Training-US-App-zahlt-Geld-fuer-abgehoerte-Telefonate-10671294.html",
       "image_title": "Weißer Mann mit Bart spricht an einem Handy"
     },
     {
+      "title": "Kleine Räume, große Ideen",
+      "teaser": "Hybride Zusammenarbeit ist Alltag. Große Konferenzräume verlieren an Bedeutung, kleine Meetingräume werden bevorzugt. Doch oft fehlt genau dort die passende Technik. Innovative Lösungen sind gefragt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7008613419&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Amazon.com zahlt Rekordstrafe für untergeschobene Prime-Abos",
       "teaser": "Seit Jahren drängt Amazon.com mit unschönen Methoden Prime-Abos auf und erschwert deren Kündigung. Jetzt setzt es eine US-Strafe von einem halben Tagesumsatz.",
       "url": "https://www.heise.de/news/Amazon-com-zahlt-Rekordstrafe-fuer-untergeschobene-Prime-Abos-10671246.html",
       "image_title": "Gutscheinkarte für Amazon"
-    },
-    {
-      "title": "Kleine Räume, große Ideen",
-      "teaser": "Hybride Zusammenarbeit ist Alltag. Große Konferenzräume verlieren an Bedeutung, kleine Meetingräume werden bevorzugt. Doch oft fehlt genau dort die passende Technik. Innovative Lösungen sind gefragt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7008613419&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Die beste mechanische Tastatur für Gaming im Test – Testsieger Keychron",
@@ -229,11 +235,6 @@
       "title": "Wie der EU-Gerichtshof die DSGVO nachschärft",
       "teaser": "Der Europäische Gerichtshof hat im September 2025 die DSGVO angepasst. Im Fokus: das US-Datentransferabkommen, Pseudonymisierung und Unterlassungsansprüche.",
       "url": "https://www.heise.de/hintergrund/Wie-der-EU-Gerichtshof-die-DSGVO-nachschaerft-10631133.html"
-    },
-    {
-      "title": "software-architektur.tv: Monorepos bei Uber: 👍 oder 👎?",
-      "teaser": "Wo liegen die Vor- und Nachteile von Monorepos? Eberhard Wolff geht dieser Frage nach – anhand der Erfahrungen, die Uber mit Monorepos gesammelt hat.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Monorepos-bei-Uber-oder-10667444.html"
     },
     {
       "title": "Neu- und Gebrauchtwagen bis 50.000 EuroElektroautos für Familien im Vergleich",
@@ -265,17 +266,17 @@
       "url": "https://www.heise.de/news/Paketabgabe-bei-Nachbarn-Verbraucherschuetzer-verklagen-die-Deutsche-Post-10663653.html"
     },
     {
-      "title": "iPhone 17, 17 Pro, 17 Pro Max und Air im Test",
-      "url": "https://www.heise.de/tests/iPhone-17-17-Pro-17-Pro-Max-und-Air-im-Test-10663319.html",
-      "image_title": ","
-    },
-    {
       "title": "So richten Sie lokale LLMs gratis als Schreibhilfe für Geschichten und Co. ein",
-      "url": "https://www.heise.de/ratgeber/So-richten-Sie-lokale-KI-gratis-als-Schreibhilfe-fuer-Geschichten-und-Co-ein-10661260.html"
+      "url": "https://www.heise.de/ratgeber/So-richten-Sie-lokale-KI-gratis-als-Schreibhilfe-fuer-Geschichten-und-Co-ein-10661260.html",
+      "image_title": "KI generiertes Bild zu einer Cyberpunk-Geschichte: Mann im Laborkittel stürzt aus Hochhaus."
     },
     {
-      "title": "macOS 26 Tahoe ausreizen: 20 Tipps für Apples neues System",
-      "url": "https://www.heise.de/ratgeber/macOS-26-Tahoe-auszreizen-20-Tipps-fuer-Apples-neues-System-10646553.html"
+      "title": "iPhone 17, 17 Pro, 17 Pro Max und Air im Test",
+      "url": "https://www.heise.de/tests/iPhone-17-17-Pro-17-Pro-Max-und-Air-im-Test-10663319.html"
+    },
+    {
+      "title": "PV-Wirtschaftlichkeit 2025: Was das Ende der festen Einspeisevergütung bedeutet",
+      "url": "https://www.heise.de/hintergrund/PV-Wirtschaftlichkeit-2025-Was-das-Ende-der-festen-Einspeiseverguetung-bedeutet-10650945.html"
     },
     {
       "title": "Kommentar: Der Verbrenner wird schneller sterben, als viele glauben",
@@ -301,6 +302,11 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 12 Wochen mit 50 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=31914&wt_mc=intern.abo.plus.hp_2025_sommer.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "software-architektur.tv: Monorepos bei Uber: 👍 oder 👎?",
+      "teaser": "Wo liegen die Vor- und Nachteile von Monorepos? Eberhard Wolff geht dieser Frage nach – anhand der Erfahrungen, die Uber mit Monorepos gesammelt hat.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Monorepos-bei-Uber-oder-10667444.html"
     },
     {
       "title": "Pure Storage: Neue Technik für Datenreduktion und verbesserte Cyber-Resilienz",
@@ -370,15 +376,15 @@
       "image_title": "Schematische Darstellung einer Person. Drum herum Symbole, die eine Gentherapie andeuten."
     },
     {
+      "title": "So optimieren Sie den Einsatz von High-Performance-GPUs",
+      "teaser": "Hochleistungs-GPUs sind unverzichtbar, wenn es um anspruchsvolle Aufgaben geht. Doch erst im Zusammenspiel mit ebenso leistungsfähigen CPUs können sie ihre volle Performance entfalten.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/so-optimieren-sie-den-einsatz-von-high-performance-gpus/?source=hbsadersatz"
+    },
+    {
       "title": "6G: Erste vorkommerzielle Geräte laut Qualcomm-CEO nicht vor 2028",
       "teaser": "Laut Qualcomm ist der nächste Mobilfunkstandard 6G noch Jahre entfernt. Erste nichtkommerzielle Geräte sollen frühestens 2028 verfügbar sein.",
       "url": "https://www.heise.de/news/Qualcomm-Erste-vorkommerzielle-6G-Geraete-kommen-fruehestenes-2028-10670413.html",
       "image_title": "Qualcomm-CEO Amaon vor 6G Logo"
-    },
-    {
-      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
-      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? In einem Webcast können Sie erfahren, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
-      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
     },
     {
       "title": "MCP-Unterstützung: Erste Anzeichen für iOS-Einbau in Apple Intelligence",
@@ -431,24 +437,19 @@
       "url": "https://www.heise.de/hintergrund/Alibabas-LLM-Qwen3-auf-dem-naechsten-Level-10669987.html"
     },
     {
-      "title": "Keine digitale Souveränität ohne europäisches Geld für Rust, Python und Maven",
-      "teaser": "Open-Source-Projekte suchen nach Geld – hier ergibt sich für die EU eine große Chance auf steigenden Einfluss und digitale Souveränität, meint Wolf Hosbach.",
-      "url": "https://www.heise.de/meinung/Keine-digitale-Souveraenitaet-ohne-europaeisches-Geld-fuer-Rust-Python-und-Maven-10668971.html",
-      "image_title": "Hand mit Glaskugel, die ein Euro-Zeichen enthält"
-    },
-    {
       "title": "Audiomarkt im Umbruch: Harman sichert sich Hi-Fi-Marken",
       "url": "https://www.heise.de/news/Hi-Fi-Marken-Bowers-Wilkins-Denon-und-Marantz-unter-Harman-Dach-10668088.html",
       "image_title": "Audio-Verstärker"
     },
     {
-      "title": "Open-Source-Umstellung: Schleswig-Holsteins Digitalminister räumt Probleme ein",
-      "url": "https://www.heise.de/news/Open-Source-Umstellung-Schleswig-Holsteins-Digitalminister-raeumt-Probleme-ein-10667810.html"
+      "title": "Alle profitieren, kaum jemand trägt bei: Open-Source-Projekte rufen um Hilfe",
+      "url": "https://www.heise.de/news/Rust-Python-und-Maven-suchen-neue-Geldquellen-10668963.html",
+      "image_title": "Ein Hüpfspiel wurde mit bunter Kreide auf den Boden gemalt. In den Hüpfkästchen befinden sich keine Zahlen, sondern Dollarzeichen."
     },
     {
-      "title": "Ausgemustert: Apple blockiert Downgrades von iOS 26 auf iOS 18",
-      "url": "https://www.heise.de/news/Ausgemustert-Apple-blockiert-Downgrades-von-iOS-26-auf-iOS-18-10667779.html",
-      "image_title": "Installation von iOS auf einem iPhone"
+      "title": "Nach npm-Großangriff: Github verschärft Sicherheitsmaßnahmen",
+      "url": "https://www.heise.de/news/Nach-npm-Grossangriff-Github-verschaerft-Sicherheitsmassnahmen-10668152.html",
+      "image_title": "Github-Logo an Gebäudewand"
     },
     {
       "title": "\"Starshot\": Arbeit an Nano-Raumschiffen für Flug zu Alpha Centauri eingestellt",
@@ -461,34 +462,29 @@
       "image_title": "Künstlerische Darstellung eines verglühenden Meteors über der Erde"
     },
     {
-      "title": "Merkur: \"Streifender Zusammenstoß\" soll ungewöhnlichen Aufbau erklären",
-      "url": "https://www.heise.de/news/Merkur-Streifender-Zusammenstoss-soll-ungewoehnlichen-Aufbau-erklaeren-10666958.html",
-      "image_title": "Von Kratern übersäter Himmelskörper"
+      "title": "KI revolutioniert Medizin: OpenAI-Chef Altman sieht große Chancen",
+      "url": "https://www.heise.de/news/OpenAI-Chef-Altman-KI-als-Chance-fuer-Aerzte-und-Patienten-10669865.html",
+      "image_title": "Sam Altman"
     },
     {
-      "title": "Xiaomi 15T und 15T Pro: Neue Oberklasse mit \"Walkie-Talkie\"-Funktion",
-      "url": "https://www.heise.de/news/Xiaomi-15T-und-15T-Pro-Neue-Oberklasse-mit-Walkie-Talkie-Funktion-10666238.html",
-      "image_title": "Xiaomi 15T Pro vorn vorn in der Hand"
+      "title": "UpdateApple: Digitalgesetz DMA der EU gehört abgeschafft",
+      "url": "https://www.heise.de/news/Apple-Digitalgesetz-DMA-der-EU-gehoert-abgeschafft-10670105.html",
+      "image_title": "Europa-Flagge und ein iPhone mit Apple-Logo"
     },
     {
-      "title": "One UI 8: Samsung verteilt Android 16 für Galaxy S24 und weitere Geräte",
-      "url": "https://www.heise.de/news/One-UI-8-Samsung-verteilt-Android-16-fuer-Galaxy-S24-und-weitere-Geraete-10666878.html",
-      "image_title": "Samsung Galaxy S24 und 24 Plus liegen übereinander"
+      "title": "Für Windows on ARM: Snapdragon X2 kommt mit 18 CPU-Kernen",
+      "url": "https://www.heise.de/news/Snapdragon-X2-Qualcomm-stellt-zweite-Generation-seines-Notebook-Prozessors-vor-10668515.html",
+      "image_title": "Schaubild eines Qualcomm-Prozessors"
     },
     {
-      "title": "iPhone 17 Pro: Kritik an scharfen Kanten und mangelnder Kratzfestigkeit",
-      "url": "https://www.heise.de/news/iPhone-17-Pro-Kritik-an-scharfen-Kanten-und-mangelnder-Kratzfestigkeit-10663888.html",
-      "image_title": "iPhone 17 Pro mit MagSafe-Abdrücken"
+      "title": "\"Mobitracker\": Kein Ortungsdienst, sondern Abofalle",
+      "url": "https://www.heise.de/news/Mobitracker-Kein-Ortungsdienst-sondern-Abofalle-10669943.html",
+      "image_title": "Fraut tippt auf Laptoptastatur"
     },
     {
-      "title": "Nikons Foto-Authentifizierung ausgehebelt: KI-Hundepilot als echt validiert",
-      "url": "https://www.heise.de/news/Nikon-kaempft-mit-Sicherheitsproblemen-bei-Foto-Authentifizierung-10667270.html",
-      "image_title": "Nikon-Kamera auf einer steinigen Oberfläche von oben"
-    },
-    {
-      "title": "Mercedes GLC EQ: Mehr Technik, mehr Erfolg?",
-      "url": "https://www.heise.de/news/Mercedes-GLC-EQ-im-Detail-Welche-Technik-den-Erfolg-bringen-soll-10666936.html",
-      "image_title": "Mercedes GLC EQ"
+      "title": "Microsoft bringt \"Flight Simulator 2024\" auf die Playstation 5",
+      "url": "https://www.heise.de/news/Microsoft-bringt-Flight-Simulator-2024-auf-die-Playstation-5-10669947.html",
+      "image_title": "Helikopter auf Screenshot aus Microsoft Flight Simulator 2024"
     },
     {
       "title": "Spotify bringt Djay-Integration zurück",
@@ -496,48 +492,52 @@
       "image_title": "Mann mit Kopfhörern"
     },
     {
-      "title": "Lidl-Plus-App: Das Sammeln persönlicher Daten hat keinen Preis",
-      "url": "https://www.heise.de/news/Lidl-Plus-App-Das-Sammeln-persoenlicher-Daten-hat-keinen-Preis-10667822.html",
-      "image_title": "Lidl-Markt von außen"
+      "title": "Mercedes GLC EQ: Mehr Technik, mehr Erfolg?",
+      "url": "https://www.heise.de/news/Mercedes-GLC-EQ-im-Detail-Welche-Technik-den-Erfolg-bringen-soll-10666936.html",
+      "image_title": "Mercedes GLC EQ"
     },
     {
-      "title": "Jobs im öffentlichen Dienst sprechen auch ITler zunehmend an",
-      "url": "https://www.heise.de/news/Jobs-im-oeffentlichen-Dienst-sprechen-auch-ITler-zunehmend-an-10667801.html",
-      "image_title": "Ein Mann sitzt in entspannter Haltung am Schreibtisch vor seinem Laptop."
+      "title": "Estonia Defence Week: Estland wehrt sich smart",
+      "url": "https://www.heise.de/news/Estonia-Defence-Week-Estland-wehrt-sich-smart-10668148.html",
+      "image_title": "Drone Wall für Estland"
     },
     {
-      "title": "Schnellstes Serienauto: BYD Yangwang U9 Xtreme holt sich Rekord",
-      "url": "https://www.heise.de/news/BYD-Yangwang-U9-Xtreme-Elektrisches-Hypercar-knackt-Geschwindigkeitsrekord-10665776.html",
-      "image_title": "BYD Yangwang U9 Xtreme auf einer Rennstrecke"
+      "title": "München: Wirbel um Glasfaserkooperation von Telekom, M-net und Stadtwerken",
+      "url": "https://www.heise.de/news/Muenchen-Wirbel-um-Glasfaserkooperation-von-Telekom-M-net-und-Stadtwerken-10669708.html"
+    },
+    {
+      "title": "Tödliches Feuer in Batterie-Fabrik: Lange Haft für Firmenchefs",
+      "url": "https://www.heise.de/news/Toedliches-Feuer-in-Batterie-Fabrik-Lange-Haft-fuer-Firmenchefs-10669834.html",
+      "image_title": "Blaulicht"
     },
     {
       "title": "Verfassungsbeschwerde gegen DNA-Probe zur künftigen Strafverfolgung erfolgreich",
       "url": "https://www.heise.de/news/Verfassungsbeschwerde-gegen-DNA-Probe-zur-kuenftigen-Strafverfolgung-erfolgreich-10669732.html"
     },
     {
-      "title": "25 Prozent weniger Bürokratiekosten: Digitalminister will Staat modernisieren",
-      "url": "https://www.heise.de/news/25-Prozent-weniger-Buerokratiekosten-Digitalminister-will-Staat-modernisieren-10668977.html",
-      "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
+      "title": "Google lässt wegen Covid-19 und US-Wahlen gesperrte Kanäle zurück zu YouTube",
+      "url": "https://www.heise.de/news/Google-laesst-wegen-Covid-19-und-US-Wahlen-gesperrte-Kanaele-zurueck-zu-YouTube-10669885.html",
+      "image_title": "Person hält durchsichtiges Display mit YouTube-Logo zwischen symbolisierten Streams"
     },
     {
-      "title": "Metas neues Lobby-Team gegen 1000 KI-Gesetze der USA",
-      "url": "https://www.heise.de/news/Metas-neues-Lobby-Team-gegen-1000-KI-Gesetze-der-USA-10668243.html",
-      "image_title": "Meta-Logo auf Schild vor der Zentrale"
+      "title": "Wie KI-Zusammenfassungen zivilgesellschaftliche Vielfalt einschränken",
+      "url": "https://www.heise.de/hintergrund/Wie-KI-Zusammenfassungen-zivilgesellschaftliche-Vielfalt-einschraenken-10668166.html",
+      "image_title": "Bunt leuchtendes Neon-Zeochen von Google"
     },
     {
-      "title": "Mittwoch: Razzien rund um UNO-Zentrale, E-Auto als Powerbank für Mobilfunkmast",
-      "url": "https://www.heise.de/news/Mittwoch-Razzien-rund-um-UNO-Zentrale-E-Auto-als-Powerbank-fuer-Mobilfunkmast-10668138.html",
-      "image_title": "Mehrere SIM-Karten auf einem Haufen; Mittwoch: SIM-Razzien, Notstrom-Elektroauto, US-Verbraucherschutz, E-Mercedes-Neuheit & Palworld-Spinoff"
-    },
-    {
-      "title": "Mehrere große Drohnen legen Flughafen Kopenhagen stundenlang lahm",
-      "url": "https://www.heise.de/news/Drohnensichtungen-Flughafen-in-Kopenhagen-stundenlang-gesperrt-10666968.html",
-      "image_title": "Ein Flugzeug am Flughafen Kopenhagen"
+      "title": "Donnerstag: YouTube offen für Fakenews, russische Kampfdrohne mit West-Technik",
+      "url": "https://www.heise.de/news/Donnerstag-YouTube-offen-fuer-Fakenews-russische-Kampfdrohne-mit-West-Technik-10669899.html",
+      "image_title": "Frau am Tisch mit Tablet vor Kamera; Donnertag: YouTube-Freiheit, Chip-Exporte, Notebook-Snapdragon, Smartphone-Snapdragon, Anthropic-Copilot & #heiseshow"
     },
     {
       "title": "Bundesnetzagentur: Private Speicher sollen am Energiemarkt teilnehmen",
       "url": "https://www.heise.de/news/Bundesnetzagentur-Private-Speicher-sollen-am-Energiemarkt-teilnehmen-10663542.html",
       "image_title": "Strommasten in Bremen"
+    },
+    {
+      "title": "Mehrere große Drohnen legen Flughafen Kopenhagen stundenlang lahm",
+      "url": "https://www.heise.de/news/Drohnensichtungen-Flughafen-in-Kopenhagen-stundenlang-gesperrt-10666968.html",
+      "image_title": "Ein Flugzeug am Flughafen Kopenhagen"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Berater in Deutschland",
@@ -583,37 +583,26 @@
       "url": "https://www.heise.de/multimediadatei/Wero-vs-Euro-Nvidia-Intel-Deal-40-Jahre-Super-Mario-heiseshow-10661198.html"
     },
     {
+      "title": "Cyberattack on airports: Problems continue at BER and one arrest",
+      "url": "https://www.heise.de/en/news/Cyberattack-on-airports-Problems-continue-at-BER-and-one-arrest-10669689.html",
+      "image_title": "Berlin Airport BER"
+    },
+    {
       "title": "One UI 8: Samsung distributes Android 16 for Galaxy S24 and other devices",
       "url": "https://www.heise.de/en/news/One-UI-8-Samsung-distributes-Android-16-for-Galaxy-S24-and-other-devices-10667013.html",
       "image_title": "Samsung Galaxy S24 and 24 Plus lie on top of each other"
     },
     {
+      "title": "Intel is said to have knocked on Apple's door",
+      "url": "https://www.heise.de/en/news/Intel-is-said-to-have-knocked-on-Apple-s-door-10670897.html"
+    },
+    {
+      "title": "Russian jet kamikaze drone with Raspberry Pi 4",
+      "url": "https://www.heise.de/en/news/Russian-jet-kamikaze-drone-with-Raspberry-Pi-4-10669801.html"
+    },
+    {
       "title": "UK signs billion-dollar contract with Palantir",
-      "url": "https://www.heise.de/en/news/UK-signs-billion-dollar-contract-with-Palantir-10663855.html",
-      "image_title": "Palantir Logo"
-    },
-    {
-      "title": "Mark Zuckerberg considers \"bursting of the AI bubble\" possible",
-      "url": "https://www.heise.de/en/news/Mark-Zuckerberg-considers-bursting-of-the-AI-bubble-possible-10667421.html"
-    },
-    {
-      "title": "New NPM attack: Self-replicating malware infects dozens of packages",
-      "url": "https://www.heise.de/en/news/New-NPM-attack-Self-replicating-malware-infects-dozens-of-packages-10652404.html"
-    },
-    {
-      "title": "AI helps call center employees to speak without an accent in real time",
-      "url": "https://www.heise.de/en/news/AI-helps-call-center-employees-to-speak-without-an-accent-in-real-time-10301340.html"
-    },
-    {
-      "title": "Anker Soundcore A30 gestestet: die ersten Sleepbuds mit ANC",
-      "teaser": "Die Soundcore Sleep A30 sollen ihre Besitzer mit Klangteppich, Schnarchmaskierung und KI-Zauber besser schlafen lassen.",
-      "url": "https://www.heise.de/tests/Anker-Soundcore-A30-gestestet-die-ersten-Sleepbuds-mit-ANC-10502092.html"
-    },
-    {
-      "title": "Geran-3 Russische Jet-Kamikazedrohne mit Raspberry Pi 4",
-      "teaser": "Der ukrainische Militärnachrichtendienst findet einen Raspberry Pi 4 in der russischen Drohne Geran-3 mit chinesischem Triebwerk.",
-      "url": "https://www.heise.de/news/Russische-Jet-Kamikazedrohne-mit-Raspberry-Pi-4-10669722.html",
-      "image_title": "Russische Drohne vom Typ Geran-3 nach Absturz in der Ukraine."
+      "url": "https://www.heise.de/en/news/UK-signs-billion-dollar-contract-with-Palantir-10663855.html"
     },
     {
       "title": "Estonia Defence WeekEstland wehrt sich smart",
@@ -622,9 +611,16 @@
       "image_title": "Drone Wall für Estland"
     },
     {
-      "title": "iOS und iPadOS 26 in ActionTipps für die neuen Apple-Systeme",
-      "teaser": "Apples 26er-Systeme sind da. Wir zeigen, wie sie mit Liquid Glass, flexiblem Sperrbildschirm und Widgets in CarPlay umgehen.",
-      "url": "https://www.heise.de/ratgeber/iOS-und-iPadOS-26-in-Action-23-Tipps-fuer-die-neuen-Apple-Systeme-10646549.html"
+      "title": "Mit Tastatur und SSDRaspberry Pi 500+ im Test",
+      "teaser": "Mit bunt leuchtender Tastatur, eingebauter SSD und 16 GByte RAM, unter der Haube steckt ein Raspberry Pi 5.",
+      "url": "https://www.heise.de/tests/Raspberry-Pi-500-mit-beleuchteter-mechanischer-Tastatur-und-SSD-im-Test-10657090.html",
+      "image_title": "Raspberry Pi 500+ im Tastaturgehäuse mit mechanischen Switches"
+    },
+    {
+      "title": "Geran-3 Russische Jet-Kamikazedrohne mit Raspberry Pi 4",
+      "teaser": "Der ukrainische Militärnachrichtendienst findet einen Raspberry Pi 4 in der russischen Drohne Geran-3 mit chinesischem Triebwerk.",
+      "url": "https://www.heise.de/news/Russische-Jet-Kamikazedrohne-mit-Raspberry-Pi-4-10669722.html",
+      "image_title": "Russische Drohne vom Typ Geran-3 nach Absturz in der Ukraine."
     },
     {
       "title": "AirPods Pro 3 im TestMit frischem Klang und ANC",
@@ -633,10 +629,15 @@
       "image_title": ", Heise Medien"
     },
     {
-      "title": "Apple-Apps in iOS 26 und macOS 26: Die wichtigsten Tipps zu den Neuerungen",
-      "teaser": "Apples neue Systeme ergänzen hilfreiche Funktionen in Telefon, Nachrichten, Kamera, Erinnerungen, Safari, Dateien & Co. 19 Tipps für iPhone, iPad und Mac.",
-      "url": "https://www.heise.de/ratgeber/Apple-Apps-in-iOS-26-und-macOS-26-Die-besten-Tipps-zu-den-neuen-Systemen-10652679.html",
-      "image_title": "Tipps für Apple-Apps in den neuen Systemen"
+      "title": "iOS und iPadOS 26 in ActionTipps für die neuen Apple-Systeme",
+      "teaser": "Apples 26er-Systeme sind da. Wir zeigen, wie sie mit Liquid Glass, flexiblem Sperrbildschirm und Widgets in CarPlay umgehen.",
+      "url": "https://www.heise.de/ratgeber/iOS-und-iPadOS-26-in-Action-23-Tipps-fuer-die-neuen-Apple-Systeme-10646549.html"
+    },
+    {
+      "title": "Schneller, smarter, SatellitApple Watch Ultra 3, Series 11 und SE 3 im Test",
+      "teaser": "Drei erhalten 5G-Mobilfunk, zwei warnen vor Bluthochdruck und eine ruft per Satellit um Hilfe. Was taugt Apples neue Smartwatch-Kollektion?",
+      "url": "https://www.heise.de/tests/Apple-Watch-Ultra-3-Series-11-und-SE-3-im-Test-Schneller-smarter-Satellit-10666298.html",
+      "image_title": "Apple Watch Ultra 3, Series 11 und SE 3"
     },
     {
       "title": "Neues Pico-2-Board mit voller GPIO-Freiheit",
@@ -656,16 +657,16 @@
       "image_title": "Raspberry Pi mit SSD auf weißem Untergrund"
     },
     {
+      "title": "KI-Hundepilot als echt validiertNikons Foto-Authentifizierung ausgehebelt",
+      "teaser": "Eine Lücke in der Authentifizierung der Z6 III hat Nikon zu einem drastischen Schritt gezwungen: Der Service wurde vorübergehend ausgesetzt.",
+      "url": "https://www.heise.de/news/Nikon-kaempft-mit-Sicherheitsproblemen-bei-Foto-Authentifizierung-10667270.html",
+      "image_title": "Nikon-Kamera auf einer steinigen Oberfläche von oben"
+    },
+    {
       "title": "CFexpress Typ B: Biwin hat die erste zertifizierte VPG800-Speicherkarte",
       "teaser": "Der chinesische Hersteller Biwin hat die erste CFexpress-Typ-B-Speicherkarte mit VPG800-Zertifizierung. Sie ist für RAW-Videoaufnahmen in hohen Auflösungen.",
       "url": "https://www.heise.de/news/CFexpress-Typ-B-Biwin-hat-die-erste-zertifizierte-VPG800-Speicherkarte-10666260.html",
       "image_title": "Speicherkarte liegt auf dem Objektiv einer Kamera"
-    },
-    {
-      "title": "Fotografie: Architektur sehen lernen mit den richtigen Grundlagen und Techniken",
-      "teaser": "Architekturfotografie erfordert ein gutes Auge für Perspektive, Licht und Linien – mit der richtigen Herangehensweise erschaffen Sie eindrucksvolle Bilder.",
-      "url": "https://www.heise.de/ratgeber/Fotografie-Architektur-sehen-lernen-mit-den-richtigen-Grundlagen-und-Techniken-10662545.html",
-      "image_title": "Durch die Symmetrie des Bildes und die Spiegelung kommen die beiden Türme der Oberbaumbrücke über der Spree in Berlin besonders gut zur Geltung. Das Gelb der vorbeifahrenden U-Bahn ist ein schöner Kontrast zu dem markanten Rot der Ziegel., Marcel Wiest"
     },
     {
       "title": "Drohne mit 1-Zoll-Sensor und sezierte Leicas – die Fotonews der Woche 38/2025",
@@ -737,22 +738,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Alkohol: Der Mensch als Nachfahre chronischer Trinker",
-      "teaser": "Erstmals haben Forscher bewiesen, dass Schimpansen regelmäßig Alkohol verzehren. Auch andere Tiere tun das. Aber was hat das mit uns Menschen zu tun?",
-      "url": "https://www.heise.de/tp/features/Alkohol-Der-Mensch-als-Nachfahre-chronischer-Trinker-10666220.html",
-      "image_title": "Ein Schimpanse sitzt auf einem Ast vor üppigem Blattwerk und lässt sich eine Frucht schmecken"
+      "title": "Rente in Deutschland: Umlageverfahren schlägt Kapitaldeckung",
+      "teaser": "Beiträge und Auszahlungen der Deutschen Rentenversicherung sind weit umfänglicher als die meisten ahnen. Warum wird Geld nicht angelegt, um Renten aus Zinsen zu bestreiten?",
+      "url": "https://www.heise.de/tp/features/Rente-in-Deutschland-Umlageverfahren-schlaegt-Kapitaldeckung-10666340.html",
+      "image_title": "Hinweisschild \"Deutsche Renterversicherung\" am Hauptsitz der DRV in Berlin"
     },
     {
-      "title": "Rheinmetall & Co.: Trumps Russland-Ansage lässt Rüstungsaktien steigen",
-      "teaser": "US-Präsident Donald Trump fordert Nato-Verbündete auf, russische Flugzeuge abzuschießen, die ihren Luftraum verletzen. Die Folge: Rüstungsaktien steigen weltweit.",
-      "url": "https://www.heise.de/tp/features/Rheinmetall-Co-Trumps-Russland-Ansage-laesst-Ruestungsaktien-steigen-10669363.html",
-      "image_title": "Rüstungsaktien wie Rheinmetall steigen nach Trump-Äußerungen."
+      "title": "F-126-Fiasko: Wenn Deutschlands Marine zum Milliardengrab wird",
+      "teaser": "Milliarden versenkt, Vertrauen verspielt, Kontrolle abgeschafft. Im Zeitenwende-Rausch triumphieren Rheinmetall und TKMS. Die nächste Rüstungspanne ist programmiert.",
+      "url": "https://www.heise.de/tp/features/F-126-Fiasko-Wenn-Deutschlands-Marine-zum-Milliardengrab-wird-10670269.html",
+      "image_title": "Schiff mit Sparkasse mit Bundeswehr-Logo als Aufbauten"
     },
     {
-      "title": "Trumps neue Linie: Russlands Niederlage ist nur noch eine Frage der Zeit",
-      "teaser": "US-Präsident Trump überrascht mit Kehrtwende: Er glaubt nun, dass die Ukraine den Krieg gewinnen kann – doch es bleiben Zweifel.",
-      "url": "https://www.heise.de/tp/features/Trumps-neue-Linie-Russlands-Niederlage-ist-nur-noch-eine-Frage-der-Zeit-10669846.html",
-      "image_title": "Donald Trump bei einer Pressekonferenz zu einer Nato-Tagung"
+      "title": "Ukraine-Krieg: Wie Bodenkampfroboter die Frontlinien verändern",
+      "teaser": "Von der ukrainischen Vatag bis zu Chinas VU-T10 — KI, Hybridantriebe und Modularität treiben die Militarisierung des Bodens voran. Eine Einschätzung.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Wie-Bodenkampfroboter-die-Frontlinien-veraendern-10667150.html",
+      "image_title": "Ki-generierte Grafik zeigt ein großes, dunkles, achträdriges Kampffahrzeug mit Kanone in einer kargen, zerstörten Landschaft, während darüber eine Drohne am Himmel fliegt."
     },
     {
       "title": "Deal zwischen OpenAI und SAP: Echte digitale Souveränität sieht anders aus",
