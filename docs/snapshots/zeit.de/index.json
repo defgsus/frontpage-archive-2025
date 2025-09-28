@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-28T13:14:49",
+  "timestamp": "2025-09-28T14:07:05",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -104,7 +110,7 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geiseln im Gazastreifen: Sie fehlen. Seit 721 Tagen.",
+      "title": "Geiseln im Gazastreifen: Sie fehlen. Seit 721 Tagen.",
       "teaser": "Sieben Deutsche sind noch als Geiseln im Gazastreifen, in der Gewalt der Hamas. Hier erzählen ihre Familien von den schlimmsten Momenten – und den schönsten.",
       "url": "https://www.zeit.de/zeit-magazin/2025/41/geiseln-gazastreifen-deutsche-nahostkonflikt-angehoerige",
       "image_url": "https://img.zeit.de/zeit-magazin/2025/41/sie-fehlen-bild-1/wide__1000x562",
@@ -112,7 +118,7 @@
     },
     {
       "title": "Pflegereform: Koalition erwägt offenbar Streichung von Pflegegrad 1",
-      "teaser": "Die Finanzierung der Pflegeversicherung ist angesichts der Haushaltslage schwierig. Die Bundesregierung prüft laut einem Medienbericht, den Pflegegrad 1 abzuschaffen.",
+      "teaser": "Die Bundesregierung prüft laut einem Medienbericht, mit der Pflegereform den Pflegegrad 1 abzuschaffen. Opposition, Sozialverbände und auch die SPD kritisieren das.",
       "url": "https://www.zeit.de/politik/deutschland/2025-09/pflegegrad-pflegestufe-1-abschaffung-streichung-pflegereform",
       "image_url": "https://img.zeit.de/politik/deutschland/2025-09/pflegegrad-1-abschaffung/super__430x287",
       "image_title": "Pflegereform: Gelsenkirchen, 10.4.24"
@@ -293,13 +299,6 @@
       "image_title": "China: Weltweit höchste Brücke in China eröffnet"
     },
     {
-      "title": "Flughafen Berlin Brandenburg: IT-System nach Hackerangriff am BER weiterhin beschädigt",
-      "teaser": "Fluggäste am BER müssen sich weiterhin auf Verspätungen und Ausfälle einstellen. Infolge des Cyberangriffs könnte die Reparatur des IT-Systems noch mehrere Tage andauern.",
-      "url": "https://www.zeit.de/mobilitaet/2025-09/flughafen-ber-berlin-brandenburg-cyberangriff-it-system-ausfaelle-verspaetungen",
-      "image_url": "https://img.zeit.de/mobilitaet/2025-09/flughafen-ber-cyberangriff/super__430x287",
-      "image_title": "Flughafen Berlin Brandenburg: Menschen stehen am Flughafen BER und schauen auf die Abflugtafel. Der Flughafen-Dienstleister Collins Aerospace war am Freitag vergangener Woche Opfer eines Cyberangriffs geworden. Betroffen davon waren mehrere Flughäfen in Europa, darunter auch der BER. Das System für die Passagier- und Gepäckabfertigung funktioniert rund eine Woche nach der Cyberattacke noch nicht. Aufnahmedatum 28.09.2025"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Extrem-Radtour: Quäl mich!",
       "teaser": "816 Kilometer durch Andalusien. Unser Autor hat an einer berüchtigten Extrem-Radtour teilgenommen und festgestellt: Das Glück kommt, wenn man so richtig am Ende ist.",
       "url": "https://www.zeit.de/2025/41/extrem-radtour-andalusien-fitness-herausforderung-glueck",
@@ -307,11 +306,18 @@
       "image_title": "Extrem-Radtour: Cabo de Gata-Níjar Natural Park, Almería ++++++++++<br /> Badlands 2025"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Georges de la Tour: Im Dunklen seiner Bilderhöhlen",
-      "teaser": "Die Kunst des großen französischen Barockmalers Georges de la Tour wirkt bis heute grundstürzend. Sie ist nun in einer großartigen Ausstellung in Paris zu sehen.",
-      "url": "https://www.zeit.de/2025/41/georges-de-la-tour-kunst-barock-bedeutung-hoehle",
-      "image_url": "https://img.zeit.de/2025/41/hoehlenforschung-bild-1/super__430x287",
-      "image_title": "Georges de la Tour: Was sieht sie da nur? »Die reuige Magdalena«, 1635–1640"
+      "title": "Cranach-Triegel-Altar: Vatikan bestätigt Umzug des umstrittenen Naumburger Altars",
+      "teaser": "Weil ein zerstörtes Altarbild wiederhergestellt wurde, droht dem Naumburger Dom der Verlust des Weltkulturerbetitels. Deshalb wird der Altar jetzt nach Rom verlegt.",
+      "url": "https://www.zeit.de/gesellschaft/2025-09/naumburger-dom-altar-unesco-weltkulturerbe-rom",
+      "image_url": "https://img.zeit.de/kultur/kunst/2025-09/naumburger-dom-altar-triegel-unesco/super__430x287",
+      "image_title": "Cranach-Triegel-Altar: Vatikan bestätigt Umzug des umstrittenen Naumburger Altars"
+    },
+    {
+      "title": "Flughafen Berlin Brandenburg: IT-System nach Hackerangriff am BER weiterhin beschädigt",
+      "teaser": "Fluggäste am BER müssen sich weiterhin auf Verspätungen und Ausfälle einstellen. Infolge des Cyberangriffs könnte die Reparatur des IT-Systems noch mehrere Tage andauern.",
+      "url": "https://www.zeit.de/mobilitaet/2025-09/flughafen-ber-berlin-brandenburg-cyberangriff-it-system-ausfaelle-verspaetungen",
+      "image_url": "https://img.zeit.de/mobilitaet/2025-09/flughafen-ber-cyberangriff/super__430x287",
+      "image_title": "Flughafen Berlin Brandenburg: Menschen stehen am Flughafen BER und schauen auf die Abflugtafel. Der Flughafen-Dienstleister Collins Aerospace war am Freitag vergangener Woche Opfer eines Cyberangriffs geworden. Betroffen davon waren mehrere Flughäfen in Europa, darunter auch der BER. Das System für die Passagier- und Gepäckabfertigung funktioniert rund eine Woche nach der Cyberattacke noch nicht. Aufnahmedatum 28.09.2025"
     },
     {
       "title": "Lieferservice: Warum Sie Lieferdienste kritisch sehen",
@@ -438,14 +444,14 @@
       "image_title": "USA: Mitglieder der Nationalgarde von West Virginia patrouillieren am Lincoln Memorial, wenige Wochen nachdem US-Präsident Donald Trump eine verstärkte Präsenz von Bundespolizeikräften zur Unterstützung der Verbrechensbekämpfung angeordnet hatte, in Washington, D.C., USA, am 23. September 2025."
     },
     {
-      "title": "Klimaziele: Der Plan des Westens geht nicht auf",
-      "teaser": "Ökologische Modernisierung ohne Wachstumseinbußen: Das haben die Industrieländer lange versucht – und sind gescheitert. Warum das zu Verdrängung führt statt zum Umdenken.",
-      "url": "https://www.zeit.de/wissen/umwelt/2025-09/klimaziele-2050-3-grad-industrielaender-emissionen"
+      "title": "Gazademo in Berlin: Sie eint ein Vorwurf",
+      "teaser": "So viele Menschen wie noch nie protestierten in Berlin für Solidarität mit Gaza. Aktivisten, Betroffene und fröhliche Familien: Doch manchmal verrutschen die Töne.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-09/gaza-demo-berlin-nahost-die-linke-solidaritaet"
     },
     {
-      "title": "Kundgebung für Gaza: Zehntausende protestieren gegen Krieg in Gaza",
-      "teaser": "Am Großen Stern in Berlin haben mindestens 60.000 Menschen gegen Israels Vorgehen in Gaza protestiert – mehr als je zuvor. Auch in Düsseldorf demonstrierten Tausende.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-09/berlin-demo-all-eyes-on-gaza-israel-krieg"
+      "title": "Pflegereform: Koalition erwägt offenbar Streichung von Pflegegrad 1",
+      "teaser": "Die Bundesregierung prüft laut einem Medienbericht, mit der Pflegereform den Pflegegrad 1 abzuschaffen. Opposition, Sozialverbände und auch die SPD kritisieren das.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-09/pflegegrad-pflegestufe-1-abschaffung-streichung-pflegereform"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stephen Breyer: \"Jeder Richter ist sich des aktuellen politischen Klimas bewusst\"",
@@ -469,11 +475,11 @@
       "image_title": "Freunde der ZEIT: 9 sturm­erprobte Bücher für den Herbst"
     },
     {
-      "title": "Liveblog:Krieg in Gaza: Israel setzt Bodenoffensive in Gaza-Stadt fort",
-      "teaser": "Laut Augenzeugen sind Panzer in die Nähe des Zentrums von Gaza-Stadt vorgedrungen. Hilfsorganisationen können nach eigenen Angaben Verletzte nicht erreichen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2025-08/krieg-in-gaza-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-09/gaza-israel-panzer/wide__892x502",
-      "image_title": "Krieg in Gaza: An Israeli tank manoeuvres in Gaza, as seen from the Israeli side of the border, September 28, 2025."
+      "title": "Nordrhein-Westfalen: Bei NRW-Stichwahlen mit AfD-Chancen zeichnet sich hohe Beteiligung ab",
+      "teaser": "In mehreren Städten in NRW finden Stichwahlen um das Amt des Bürgermeisters statt. In einigen Städten haben es Kandidaten der AfD in die entscheidende Runde geschafft.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-09/nrw-stichwahlen-2025-buergermeister",
+      "image_url": "https://img.zeit.de/politik/2025-09/nrw-stichwahlen-uneinheitliches-bild-bei-wahlbeteiligung-bild/wide__892x502",
+      "image_title": "Nordrhein-Westfalen: Stichwahlen nach der Kommunalwahl in NRW - Duisburg In einem Wahllokal sitzen bei der Stimmabgabe zur Oberbürgermeister-Stichwahl zwei Personen in den Wahlkabinen, eine Frau hat ihre Tochter in einem Kinderwagen dabei. Die Stichwahlen nach der Kommunalwahl in Nordrhein-Westfalen entscheiden über die neuen Oberbürgermeister. +++ dpa-Bildfunk +++ 28.09.2025"
     },
     {
       "title": "Verlagsangebot: Die richtige Ernährung kann so schön und einfach sein",
@@ -483,11 +489,11 @@
       "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Iran: Iran kündigt \"entschlossene\" Reaktion auf UN-Sanktionen an",
-      "teaser": "Die Vereinten Nationen haben ihre Strafmaßnahmen gegen den Iran und sein Atomprogramm wieder in Kraft gesetzt. Das Land ruft andere auf, sich nicht daran zu halten.",
-      "url": "https://www.zeit.de/politik/ausland/2025-09/iran-un-atomprogramm-sanktionen-reaktion",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-09/iran-un-atomprogramm-sanktionen-reaktion-2/super__430x287",
-      "image_title": "Iran: An Iranian man rides his motorcycle past a Shahed drone in Tehran's Bahrestan Square on September 27, 2025, as part of an exhibit to mark the \"Sacred Defense Week\" commemorating the 1980-88 Iran-Iraq war."
+      "title": "Liveblog:Krieg in Gaza: Israel setzt Bodenoffensive in Gaza-Stadt fort",
+      "teaser": "Laut Augenzeugen sind Panzer in die Nähe des Zentrums von Gaza-Stadt vorgedrungen. Hilfsorganisationen können nach eigenen Angaben Verletzte nicht erreichen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2025-08/krieg-in-gaza-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-09/gaza-israel-panzer/super__430x287",
+      "image_title": "Krieg in Gaza: An Israeli tank manoeuvres in Gaza, as seen from the Israeli side of the border, September 28, 2025."
     },
     {
       "title": "Diese Woche in der ZEIT: Was darf man noch senden?",
@@ -623,18 +629,18 @@
       "image_title": "Jimmy Kimmel: Mitarbeiter der Show rollen die Jimmy-Kimmel-Plakate am 23. September 2025 wieder aus."
     },
     {
-      "title": "Andritz: Diese Aktie ist eine Cash-Kuh aus der Steiermark",
-      "teaser": "Der österreichische Anlagenbauer Andritz sitzt auf einem dicken Auftragspolster, ist sehr solide finanziert und schüttet ordentliche Dividenden aus. Dafür ist die Aktie ziemlich preiswert.",
-      "url": "https://www.wiwo.de/finanzen/boerse/andritz-diese-aktie-ist-eine-cash-kuh-aus-der-steiermark/100154939.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/diese-aktie-ist-eine-cash-kuh-aus-der-steiermark/30485438/1-format10640.jpg%253Fformat%253Dformat10640/super__430x287",
-      "image_title": "Diese Aktie ist eine Cash-Kuh aus der Steiermark"
+      "title": "Glasfaserausbau: Durchsichtige Kabel, undurchsichtige Motive",
+      "teaser": "Der umstrittene Telekommunikationsausrüster Huawei spricht bei Digitalminister Karsten Wildberger vor. Im Gepäck: ein transparentes Kabel mit Aufregerpotenzial.",
+      "url": "https://www.wiwo.de/unternehmen/dienstleister/huawei-und-der-glasfaserausbau-durchsichtige-kabel-undurchsichtige-motive/100157794.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/durchsichtige-kabel-undurchsichtige-motive/30485434/1-format10640.jpg%253Fformat%253Dformat10640/super__430x287",
+      "image_title": "Durchsichtige Kabel, undurchsichtige Motive"
     },
     {
-      "title": "Internationaler Handel: Diese Grafiken zeigen, wie die EU Russlands Krieg finanziert",
-      "teaser": "Trotz Sanktionen kauft Europa nach wie vor bei Russland ein. US-Präsident Donald Trump fordert die Union auf, Energiekäufe einzustellen. Aus gutem Grund, wie Daten zeigen.",
-      "url": "https://www.wiwo.de/politik/europa/internationaler-handel-diese-grafiken-zeigen-wie-die-eu-russlands-krieg-finanziert/100157681.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/diese-grafiken-zeigen-wie-die-eu-russlands-krieg-finanziert/30485264/2-format10640.jpg%253Fformat%253Dformat10640/super__430x287",
-      "image_title": "Diese Grafiken zeigen, wie die EU Russlands Krieg finanziert"
+      "title": "Altersvorsorge im Check: Diese Lebensversicherungen bieten Kunden die besten Chancen",
+      "teaser": "Die Altersvorsorgeklassiker werfen häufig kaum noch Zinsen ab. Unser ­exklusives Rating zeigt, welche ­Anbieter für ihre Kunden mehr herausholen können.",
+      "url": "https://www.wiwo.de/finanzen/vorsorge/altersvorsorge-im-check-diese-lebensversicherungen-bieten-kunden-die-besten-chancen/100157942.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/diese-lebensversicherungen-bieten-kunden-die-besten-chancen/30483952/1-format10640.jpg%253Fformat%253Dformat10640/super__430x287",
+      "image_title": "Diese Lebensversicherungen bieten Kunden die besten Chancen"
     },
     {
       "title": "Automobilindustrie: Autoindustrie fordert Verlängerung der Kfz-Steuerbefreiung für E-Autos",
@@ -651,18 +657,18 @@
       "image_title": "Dreame: Produziert Dreame bald mehr als Rasenmäherroboter und Staubsauger?"
     },
     {
-      "title": "Cranach-Triegel-Altar: Vatikan bestätigt Umzug des umstrittenen Naumburger Altars",
-      "teaser": "Weil ein zerstörtes Altarbild wiederhergestellt wurde, droht dem Naumburger Dom der Verlust Weltkulturerbe-Titels. Deshalb wird der Altar jetzt nach Rom verlegt.",
-      "url": "https://www.zeit.de/gesellschaft/2025-09/naumburger-dom-altar-unesco-weltkulturerbe-rom",
-      "image_url": "https://img.zeit.de/kultur/kunst/2025-09/naumburger-dom-altar-triegel-unesco/super__430x287",
-      "image_title": "Cranach-Triegel-Altar: Vatikan bestätigt Umzug des umstrittenen Naumburger Altars"
-    },
-    {
       "title": "Indien: Zahlreiche Menschen sterben bei Massenpanik in Indien",
       "teaser": "In der indischen Stadt Karur sind nach einem Auftritt des Schauspielers und Politikers Joseph Vijay Chandrasekhar mindestens 39 Menschen tot. Es gibt viele Verletzte.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2025-09/indien-massenpanik-tote-verletzte-karur-joseph-vijay-chandrasekhar",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-09/indien-karur-massengedraenge-schauspieler-politiker-joseph-vijay-chandrasekhar-bild/super__430x287",
       "image_title": "Indien: Tausende Menschen sammeln sich, um sich eine Rede des in der Region populären Schauspielers und Politikers Joseph Vijay Chandrasekhar (Vijay) in Karur am 27. September 2025 anzuhören"
+    },
+    {
+      "title": "Verschwendung: Landwirtschaftsminister mahnt zu weniger Lebensmittelverschwendung",
+      "teaser": "Etwa elf Millionen Tonnen Lebensmittel werden laut dem Landwirtschaftsministerium jährlich im Hausmüll entsorgt. Der Minister ruft zum Sparen von Ressourcen auf.",
+      "url": "https://www.zeit.de/gesellschaft/2025-09/landwirtschaftsministerium-alois-rainer-lebensmittel-verschwendung-muell",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2025-09/muell-lebensmittel-verschwendung/super__430x287",
+      "image_title": "Verschwendung: Landwirtschaftsminister mahnt zu weniger Lebensmittelverschwendung"
     },
     {
       "title": "\"Irma. Das Kind aus Srebrenica\": Folge 1 : Er drückt ihr sein Baby in die Hand – dann wird er abgeführt",
@@ -700,10 +706,17 @@
       "image_title": "Irma. Das Kind aus Srebrenica: Folge 5: Einer von 8.000"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Georges de la Tour: Im Dunklen seiner Bilderhöhlen",
+      "teaser": "Die Kunst des großen französischen Barockmalers Georges de la Tour wirkt bis heute grundstürzend. Sie ist nun in einer großartigen Ausstellung in Paris zu sehen.",
+      "url": "https://www.zeit.de/2025/41/georges-de-la-tour-kunst-barock-bedeutung-hoehle",
+      "image_url": "https://img.zeit.de/2025/41/hoehlenforschung-bild-1/wide__892x502",
+      "image_title": "Georges de la Tour: Was sieht sie da nur? »Die reuige Magdalena«, 1635–1640"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Jan Böhmermann: Ach, die Welt!",
       "teaser": "Im HKW eröffnet Jan Böhmermann seine vorab viel zu viel diskutierte Ausstellung. Also hin und gefragt: warum gleich noch mal die Aufregung?",
       "url": "https://www.zeit.de/kultur/kunst/2025-09/jan-boehmermann-ausstellung-die-moeglichkeit-der-unvernunft-hkw",
-      "image_url": "https://img.zeit.de/kultur/2025-09/jan-boehmermann-ausstellung-die-moeglichkeit-der-unvernunft-hkw-bild-3/wide__892x502",
+      "image_url": "https://img.zeit.de/kultur/2025-09/jan-boehmermann-ausstellung-die-moeglichkeit-der-unvernunft-hkw-bild-3/super__430x287",
       "image_title": "Jan Böhmermann: Der halbe Kopf einer aufblasbaren Freiheitsstatue, das Kunstwerk „Status of Liberty“ liegt in dem Gewässer vor dem Haus der Kulturen der Welt. Böhmermanns Ausstellung „Die Möglichkeit der Unvernunft“, die er gemeinsam mit den Machern des ZDF Magazin Royale macht, startet heute. +++ dpa-Bildfunk +++"
     },
     {
@@ -712,13 +725,6 @@
       "url": "https://www.zeit.de/kultur/literatur/2025-09/georg-stefan-troller-journalist-dokumentarfilmer-tot-paris",
       "image_url": "https://img.zeit.de/kultur/literatur/2025-09/georg-stefan-troller-journalist-dokumentarfilmer-tot-paris-bild-2/super__430x287",
       "image_title": "Georg Stefan Troller: Die Frage \"Wer bist du eigentlich?\" reicht für ein Lebenswerk"
-    },
-    {
-      "title": "Georg Stefan Troller: Journalist und Filmemacher Georg Stefan Troller ist tot",
-      "teaser": "Er war an der Befreiung des KZ Dachau beteiligt, später arbeitete er als Autor, Regisseur und Filmemacher. Nun ist Georg Stefan Troller gestorben.",
-      "url": "https://www.zeit.de/kultur/2025-09/journalist-autor-regisseur-georg-stefan-troller-tot",
-      "image_url": "https://img.zeit.de/kultur/2025-09/georg-stefan-troller-filmemacher-und-journalist-mit-102-jahren-gestorben-bild/super__430x287",
-      "image_title": "Georg Stefan Troller: GEORG STEFAN TROLLER hat das Frankreichbild der Nachkriegsdeutschen entscheidend geprägt, er hat ihnen das 'savoir vivre' schmackhaft gemacht, er hat ihnen Glanz und Elend von Paris gezeigt, interessante Menschen aus Kultur, Politik und Gesellschaft an der Seine vorgestellt. Der Themenabend zum 80. Geburtstag von Georg Stefan Troller soll eine Hommage an diesen wichtigen Vermittler zwischen Frankreich und Deutschland sein. 1. Januar 2001"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Porta Nigra: Totes Holz lieferte den entscheidenen Hinweis",
@@ -1006,11 +1012,11 @@
       "image_title": "Lebensabschnitte: Die glücklichste Zeit des Lebens? Sicher nicht die Zwanziger!"
     },
     {
-      "title": "Verlagsangebot : Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Grüne-Jugend-Aussteiger: Sind Parteien zu starr, um als junger Mensch etwas zu bewegen?",
@@ -1055,36 +1061,36 @@
       "image_title": "Demonstration gegen Oper: Blick auf das Baakenhöft-Gelände mit den Lagerhallen Schuppen 29, dem Speditionsgebäude Kakaospeicher Baakenhöft und dem Wohnhaus Lighthouse Zero in der HafenCity. Hier soll nach einer Vereinbarung zwischen dem Hamburger Senat und der Kühne-Stiftung ein neues Opernhaus entstehen."
     },
     {
-      "title": "Cannstatter Volksfest: Etwas weniger Besucher am ersten Wasen-Wochenende",
-      "url": "https://www.zeit.de/news/2025-09/28/etwas-weniger-besucher-am-ersten-wasen-wochenende"
+      "title": "Zusammenstoß mit Wohnmobil: Radfahrerin bei Unfall lebensgefährlich verletzt - Mahnwache",
+      "url": "https://www.zeit.de/news/2025-09/28/radfahrerin-bei-unfall-lebensgefaehrlich-verletzt-mahnwache"
     },
     {
-      "title": "Landkreis Greiz: Autofahrer stirbt bei Frontalzusammenstoß auf Bundesstraße",
-      "url": "https://www.zeit.de/news/2025-09/28/autofahrer-stirbt-bei-frontalzusammenstoss-auf-bundesstrasse"
+      "title": "Fußball-Bundesliga: Rückschlag für Leverkusen: Stürmer Schick fällt vorerst aus",
+      "url": "https://www.zeit.de/news/2025-09/28/rueckschlag-fuer-leverkusen-stuermer-schick-faellt-vorerst-aus"
     },
     {
-      "title": "Fußball-Bundesliga: Kleindienst schließt verfrühtes Comeback aus",
-      "url": "https://www.zeit.de/news/2025-09/28/kleindienst-schliesst-verfruehtes-comeback-aus"
+      "title": "Lichtkunstfestival: 86.000 Gäste bestaunen Lichtkunst in Chemnitz",
+      "url": "https://www.zeit.de/news/2025-09/28/86-000-gaeste-bestaunen-lichtkunst-in-chemnitz"
     },
     {
-      "title": "Kriminalität: Betrunkener greift Polizeibeamte an",
-      "url": "https://www.zeit.de/news/2025-09/28/betrunkener-greift-polizeibeamte-an"
+      "title": "Basketball-Star: \"Wir Kinder vom Prinzenpark\" - Schröder hat viel zu erzählen",
+      "url": "https://www.zeit.de/news/2025-09/28/wir-kinder-vom-prinzenpark-schroeder-hat-viel-zu-erzaehlen"
     },
     {
-      "title": "Bundesinnenministerium: Dobrindt schickt Beamte zu Taliban – Grüne und Linke warnen",
-      "url": "https://www.zeit.de/news/2025-09/28/dobrindt-schickt-beamte-zu-taliban-gruene-und-linke-warnen"
+      "title": "Frau in Lebensgefahr: Junger Autofahrer verletzt drei Menschen und läuft weg",
+      "url": "https://www.zeit.de/news/2025-09/28/junger-autofahrer-verletzt-drei-menschen-und-laeuft-weg"
     },
     {
-      "title": "Kriminalität: Illegales Rennen in Wiesbaden – Polizei stoppt zwei Fahrer",
-      "url": "https://www.zeit.de/news/2025-09/28/illegales-rennen-in-wiesbaden-polizei-stoppt-zwei-fahrer"
+      "title": "Geschichte: Auszeichnung für Mainzer Schloss – Erinnerung an Demokratie",
+      "url": "https://www.zeit.de/news/2025-09/28/auszeichnung-fuer-mainzer-schloss-erinnerung-an-demokratie"
     },
     {
-      "title": "Zusammenstoß mit Auto: Radfahrer bei Unfall in Bramsche schwer verletzt",
-      "url": "https://www.zeit.de/news/2025-09/28/radfahrer-bei-unfall-in-bramsche-schwer-verletzt"
+      "title": "Spur der Verwüstung: Mann randaliert und pöbelt in Magdeburger Innenstadt",
+      "url": "https://www.zeit.de/news/2025-09/28/mann-randaliert-und-poebelt-in-magdeburger-innenstadt"
     },
     {
-      "title": "Oktoberfest: Nach Überfüllung: Was tut die Wiesn für die Sicherheit?",
-      "url": "https://www.zeit.de/news/2025-09/28/nach-ueberfuellung-was-tut-die-wiesn-fuer-die-sicherheit"
+      "title": "Nato-Länder: Drohnenalarm vor dänischem EU-Gipfel - Bundeswehr im Einsatz",
+      "url": "https://www.zeit.de/news/2025-09/28/wieder-drohnensichtungen-an-daenischen-militaerbasen"
     }
   ]
 }
