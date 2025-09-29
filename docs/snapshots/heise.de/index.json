@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-29T19:07:41",
+  "timestamp": "2025-09-29T20:10:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "US-Regierung nimmt Chinas Technologiesektor ins Visier",
+      "url": "https://www.heise.de/news/US-Regierung-nimmt-Chinas-Technologiesektor-ins-Visier-10678871.html"
+    },
     {
       "title": "Elektronische Patientenakte: So funktioniert die ePA für Versicherte",
       "url": "https://www.heise.de/ratgeber/Elektronische-Patientenakte-So-funktioniert-die-ePA-App-fuer-Versicherte-10367620.html"
@@ -60,10 +64,6 @@
     {
       "title": "Vivo X200 Pro im Test: Der Geheimtipp unter den Flagship-Smartphones",
       "url": "https://www.heise.de/bestenlisten/testbericht/vivo-x200-pro-im-test-der-geheimtipp-unter-den-flagship-smartphones/2mmrz2n"
-    },
-    {
-      "title": "Konsortium kauft Electronic Arts für 55 Milliarden US-Dollar",
-      "url": "https://www.heise.de/news/Konsortium-kauft-Electronic-Arts-fuer-55-Milliarden-US-Dollar-10677005.html"
     },
     {
       "title": "Mit Saudi-Arabien und Trump-SchwiegersohnKonsortium kauft Electronic Arts für 55 Milliarden US-Dollar",
@@ -183,20 +183,26 @@
       "image_title": "Miniaturisierter Globus und Container mit Paketen auf einer Computertastatur"
     },
     {
+      "title": "US-Regierung nimmt Chinas Technologiesektor ins Visier",
+      "teaser": "Washington erweitert eine schwarze Handelsliste. Hunderten chinesischen Unternehmen drohen Sanktionen. Das dürfte die laufenden Handelsgespräche belasten.",
+      "url": "https://www.heise.de/news/US-Regierung-nimmt-Chinas-Technologiesektor-ins-Visier-10678871.html",
+      "image_title": "Handelskrieg mit den USA: China schwingt die \"Rohstoff-Keule\""
+    },
+    {
       "title": "UpdateElektronische Patientenakte: So funktioniert die ePA für Versicherte",
       "teaser": "Die elektronische Patientenakte soll befüllt werden. Wie Sie sich selbst einen Überblick in Ihrer App verschaffen können.",
       "url": "https://www.heise.de/ratgeber/Elektronische-Patientenakte-So-funktioniert-die-ePA-App-fuer-Versicherte-10367620.html",
       "image_title": "Frau sitzt mit einem Smartphone in der Hand an einem Tisch. Auf dem Tisch befinden sich Bücher und eine Tasse."
     },
     {
+      "title": "Wie smartes Wohnen komfortabel wurde – ein Jubiläum",
+      "teaser": "Vom Pionier zum Spitzenreiter bei den Smart-Home-Systemen – Homematic IP feiert zehn Jahre Innovationen. Einfachheit und Sicherheit stehen bei Heizung, Haustür oder dem ganzen Gebäude im Fokus.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092575235&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Der beste Offroad-E-Scooter – Segway Ninebot Max G3 D ist Testsieger",
       "teaser": "Wer mit dem E-Scooter über Bordstein, Wald und Wiese pflügt, benötigt eine gute Federung und robuste Verarbeitung. Wir zeigen die besten Offroad-E-Scooter.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-offroad-e-scooter-segway-ninebot-max-g3-d-ist-testsieger/mtwzmjq?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Wegen KI – Rechenzentren müssen neu gedacht werden",
-      "teaser": "Einst klassische Serverräumen, jetzt spezialisierte Hochleistungscluster – künstliche Intelligenz hat die Regeln der Rechenzentrumsplanung verändert. Unternehmen brauchen dafür jetzt neue Strategien.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7080533019&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Chip-Gesetz: EU-Staaten fordern Strategiewechsel für Halbleiter-Führerschaft",
@@ -224,12 +230,6 @@
       "teaser": "Das chinesische Start-up DeepSeek hat sein experimentelles KI-Modell V3.2-Exp vorgestellt und die API-Preise um mehr als 50 Prozent gesenkt.",
       "url": "https://www.heise.de/news/DeepSeek-senkt-API-Preise-um-50-Prozent-und-stellt-V3-2-Exp-vor-10678696.html",
       "image_title": "Handybildschirm mit DeepSeeks Logo"
-    },
-    {
-      "title": "TSMC widerspricht Intel-Gerüchten",
-      "teaser": "Erneute Gerüchte über eine Partnerschaft mit TSMC ließen Intels Aktie steigen. TSMC dementiert ein weiteres Mal.",
-      "url": "https://www.heise.de/news/TSMC-widerspricht-Intel-Geruechten-10677855.html",
-      "image_title": "Chipstrukturen auf Silizium-Wafer"
     },
     {
       "title": "Das kosten Hyundai Inster und Mini CooperElektro-Kleinwagen im Vergleich",
@@ -296,6 +296,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "TSMC widerspricht Intel-Gerüchten",
+      "teaser": "Erneute Gerüchte über eine Partnerschaft mit TSMC ließen Intels Aktie steigen. TSMC dementiert ein weiteres Mal.",
+      "url": "https://www.heise.de/news/TSMC-widerspricht-Intel-Geruechten-10677855.html",
+      "image_title": "Chipstrukturen auf Silizium-Wafer"
     },
     {
       "title": "Vivo X200 Pro im Test: Der Geheimtipp unter den Flagship-Smartphones",
@@ -367,15 +373,15 @@
       "image_title": "Laptop mit Windows 11"
     },
     {
+      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
+      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
+    },
+    {
       "title": "Die Produktwerker: Ist Vibe Coding relevant für die Produktentwicklung?",
       "teaser": "Vibe Coding verändert die Produktentwicklung. Ben Sufiani und Tim Klein diskutieren Chancen, Grenzen und neue Möglichkeiten für Produktteams.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Ist-Vibe-Coding-relevant-fuer-die-Produktentwicklung-10674327.html",
       "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "Nachhaltige IT – gut für den Planeten und für Unternehmen",
-      "teaser": "Die Digitalisierung verbraucht große Mengen an Rohstoffen und Energie. Das hat negative Auswirkungen auf Umwelt, Klima - und Kosten. Doch dem lässt sich gegensteuern!",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/nachhaltige-it-gut-fuer-den-planeten-und-fuer-unternehmen/?source=hbsadersatz"
     },
     {
       "title": "Anti-Leak-E-Mail: US-Arbeitsmarktaufsicht zieht Vorwürfe gegen Apple zurück",
@@ -430,12 +436,6 @@
       "teaser": "OpenAI hat eine neue Sicherheitsmaßnahme für ChatGPT eingeführt. Ein spezielles KI-Modell soll heikle Themen behandeln.",
       "url": "https://www.heise.de/news/ChatGPT-wechselt-Modell-bei-sensiblen-Themen-10673909.html",
       "image_title": "Chatgpt,Chat,With,Ai,Or,Artificial,Intelligence.,Young,Businessman,Chatting"
-    },
-    {
-      "title": "\"Hades 2\" angespielt: Noch eine Stufe besser",
-      "teaser": "Supergiant Games legt noch einen drauf: Das Hack'n Slash \"Hades 2\" ist größer, schöner und abwechslungsreicher als der preisgekrönte Vorgänger.",
-      "url": "https://www.heise.de/tests/Hades-2-angespielt-Goetterdaemmerung-10674027.html",
-      "image_title": "Screenshot aus Hades 2"
     },
     {
       "title": "Microsoft bestätigt kostenlose Windows-10-Sicherheitsupdates",
@@ -604,9 +604,9 @@
       "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
     },
     {
-      "title": "25 Jahre Radeon-Grafikkarten",
-      "teaser": "ATI war einer der größten Grafikchiphersteller der 2D-Ära. Mit der Radeon begann der Aufstieg vom Windows-Desktop über den Spiele-PC bis ins KI-Rechenzentrum.",
-      "url": "https://www.heise.de/hintergrund/25-Jahre-Radeon-Grafikkarten-10636395.html"
+      "title": "Snapdragon X2 Elite ExtremeErste Benchmarks vom flotten Notebook-18-Kerner",
+      "teaser": "Qualcomms Snapdragon-X2-Generation besteht anfangs aus drei Elite-Modellen. Das Topmodell zeigt in ersten Benchmarks viel Leistung.",
+      "url": "https://www.heise.de/news/Snapdragon-X2-Elite-Extreme-Erste-Benchmarks-vom-flotten-Notebook-18-Kerner-10671326.html"
     },
     {
       "title": "c't-Webinar: E-Auto-Mythen auf dem Prüfstand",
@@ -693,6 +693,12 @@
       "url": "https://www.heise.de/hintergrund/Kratix-kubriX-und-OpenChoreo-Developer-Plattformen-fuer-Kubernetes-im-Vergleich-10513140.html"
     },
     {
+      "title": "Überzeugender Riese mit teilelektrischem AntriebSkoda Kodiaq iV im Test",
+      "teaser": "Erstmals gibt es die Chance, den Skoda Kodiaq streckenweise auch elektrisch zu nutzen. Wie schlägt sich das SUV mit Plug-in-Hybrid im Test?",
+      "url": "https://www.heise.de/tests/Skoda-Kodiaq-iV-im-Test-Ueberzeugender-Riese-mit-teilelektrischem-Antrieb-10670916.html",
+      "image_title": "Skoda Kodiaq"
+    },
+    {
       "title": "937 Millionen Euro KartellstrafeAbsprachen unter italienischen Tankstellen",
       "teaser": "Die Kartellbehörde Italiens verhängt wegen Absprachen beim Spritpreis hohe Strafen. Sechs Ölkonzerne sollen über den Biospritanteil Preise manipuliert haben.",
       "url": "https://www.heise.de/news/937-Millionen-Euro-Strafe-gegen-italienische-Tankstellen-wegen-Kartell-10671678.html"
@@ -707,12 +713,6 @@
       "title": "Krise in der AutoindustrieZulieferer Bosch will etwa 13.000 weitere Stellen abbauen",
       "teaser": "Bosch plante bereits einen großen Stellenabbau – doch das reicht offenbar nicht, um die Sparziele zu erreichen.",
       "url": "https://www.heise.de/news/Krise-in-der-Autoindustrie-Bosch-streicht-13-000-Jobs-10671130.html"
-    },
-    {
-      "title": "CO₂-Ausstoß soll bis 2035 stärker sinkenChina setzt sich neue Klimaziele",
-      "teaser": "Chinas Präsident Xi Jinping will den CO₂-Ausstoß bis 2035 stärker als bislang vorgesehen senken. Es gibt Zweifel daran, ob das gelingt.",
-      "url": "https://www.heise.de/news/China-setzt-sich-neue-Klimaziele-10669981.html",
-      "image_title": "Hand auf PV-Modulen"
     },
     {
       "title": "Top 10: Balkonkraftwerk mit Speicher im Test – nachrüsten oder im Set",
@@ -735,22 +735,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "500 Jahre alte Täuschung: Warum Afrika auf Karten kleiner wirkt",
-      "teaser": "Afrika wird in der Mercator-Projektion geschrumpft, weil das die geringere Bedeutung des kolonialisierten Erdteils repräsentieren soll. Lässt sich der Fehler beheben?",
-      "url": "https://www.heise.de/tp/features/500-Jahre-alte-Taeuschung-Warum-Afrika-auf-Karten-kleiner-wirkt-10634120.html",
-      "image_title": "Karte der Welt in der Mercator-Projektion. Afrika mit Vergleichsgrößen"
+      "title": "Jeremy Corbyn gründet neue Partei: Die Rückkehr des Geächteten",
+      "teaser": "Der Ex-Labour-Chef gründet eine neue Partei links von Labour. Wird er die britische Politik erneut aufmischen? Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Jeremy-Corbyn-gruendet-neue-Partei-Die-Rueckkehr-des-Geaechteten-10674871.html",
+      "image_title": "Jeremy Corbyn"
     },
     {
-      "title": "Das Ende der ISS: Startschuss für US-Privatunternehmen",
-      "teaser": "Das Ende der ISS rückt immer näher. Schon wird der Absturz geplant. Doch wie machen die USA weiter im Orbit?",
-      "url": "https://www.heise.de/tp/features/Das-Ende-der-ISS-Startschuss-fuer-US-Privatunternehmen-10671925.html",
-      "image_title": "Die ISS schwebt im All"
+      "title": "3:1 gegen Correctiv – wenn Gerichte Fußball spielen",
+      "teaser": "Von Linksextremismus-Urteilen über Correctiv-Prozesse bis zum Nasenbohren – was die Medienwelt in Atem hält. Kolumne.",
+      "url": "https://www.heise.de/tp/features/3-1-gegen-Correctiv-wenn-Gerichte-Fussball-spielen-10673256.html",
+      "image_title": "Bild zeigt Hände, die ein Smartphone halten oder dort hineintippen und ein verschwommenes Frauengesicht im Profil"
     },
     {
-      "title": "Der Mann, der Paris erfand",
-      "teaser": "Romy. Sartre. Brando – Georg Stefan Troller kannte sie alle. Der letzte Zeuge des 20. Jahrhunderts ist gegangen.",
-      "url": "https://www.heise.de/tp/features/Der-Mann-der-Paris-erfand-10672983.html",
-      "image_title": "Auf dem KI-generierten Bild zu sehen sind: Romy Schneider, Marlon Brando und Jean-Paul Sartre mit einem nostalgisch gefärbtem Hintergrund"
+      "title": "US-Präsident gegen Meinungsfreiheit: \"Er hört nicht auf, und das ist keine Comedy\"",
+      "teaser": "Politische Satire war immer Prüfstein der Freiheit. Nun macht Trump sie im Fall Jimmy Kimmel zur Feindin. Das Idol der Rechten zerstört ein Fundament.",
+      "url": "https://www.heise.de/tp/features/US-Praesident-gegen-Meinungsfreiheit-Er-hoert-nicht-auf-und-das-ist-keine-Comedy-10672858.html",
+      "image_title": "Großaufnahme Donald Trump"
     },
     {
       "title": "Firmenfeier mit Tücken: Wenn Arbeits– und Privatleben kollidieren",
