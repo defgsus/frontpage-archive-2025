@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-29T14:09:58",
+  "timestamp": "2025-09-29T15:10:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "TSMC widerspricht Intel-Gerüchten",
+      "url": "https://www.heise.de/news/TSMC-widerspricht-Intel-Geruechten-10677855.html"
+    },
     {
       "title": "Vivo X200 Pro im Test: Der Geheimtipp unter den Flagship-Smartphones",
       "url": "https://www.heise.de/bestenlisten/testbericht/vivo-x200-pro-im-test-der-geheimtipp-unter-den-flagship-smartphones/2mmrz2n"
@@ -60,10 +64,6 @@
     {
       "title": "Emotionale KI-Beziehungen: Wenn Nutzer ungewollt Chatbot-Partner finden",
       "url": "https://www.heise.de/news/Emotionale-KI-Beziehungen-Wenn-Nutzer-ungewollt-Chatbot-Partner-finden-10675296.html"
-    },
-    {
-      "title": "Postgres 18: Dreimal schnellere asynchrone Abfragen und virtuelle Spalten",
-      "url": "https://www.heise.de/news/Postgres-18-Dreimal-schnellere-asynchrone-Abfragen-und-virtuelle-Spalten-10675065.html"
     },
     {
       "title": "Mit Saudi-Arabien und Trump-SchwiegersohnKonsortium kauft Electronic Arts für 55 Milliarden US-Dollar",
@@ -128,9 +128,9 @@
       "url": "https://www.heise.de/tests/Vier-Tastaturen-im-Test-Kompakt-kabellos-und-mechanisch-unterwegs-10362976.html"
     },
     {
-      "title": "MicrosoftWindows 10 weist auf Verlängerung für Sicherheitsupdates hin",
-      "teaser": "Über Windows Update weisen manche PCs mit Windows 10 auf den verlängerten Supportzeitraum nach dem 14. Oktober 2025 hin.",
-      "url": "https://www.heise.de/news/Windows-10-weist-auf-Verlaengerung-fuer-Sicherheitsupdates-hin-10673747.html"
+      "title": "Snapdragon X2 Elite ExtremeErste Benchmarks vom flotten Notebook-18-Kerner",
+      "teaser": "Qualcomms Snapdragon-X2-Generation besteht anfangs aus drei Elite-Modellen. Das Topmodell zeigt in ersten Benchmarks viel Leistung.",
+      "url": "https://www.heise.de/news/Snapdragon-X2-Elite-Extreme-Erste-Benchmarks-vom-flotten-Notebook-18-Kerner-10671326.html"
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -148,10 +148,9 @@
       "url": "https://www.heise.de/hintergrund/30-Jahre-PlayStation-Sony-uebernimmt-das-Steuer-10185544.html"
     },
     {
-      "title": "Audi Q3 Sportback e-Hybrid im FahrberichtSo fährt Audis PHEV mit DC-Lader",
-      "teaser": "Audi versieht den gerade vorgestellten Q3 nun auch mit einem Plug-in-Hybridantrieb. Er macht fast alles besser als sein Vorgänger.",
-      "url": "https://www.heise.de/tests/Audi-Q3-Sportback-e-Hybrid-im-Fahrbericht-PHEV-mit-DC-Lader-10674637.html",
-      "image_title": "Audi Q3 Sportback"
+      "title": "MicrosoftWindows 10 weist auf Verlängerung für Sicherheitsupdates hin",
+      "teaser": "Über Windows Update weisen manche PCs mit Windows 10 auf den verlängerten Supportzeitraum nach dem 14. Oktober 2025 hin.",
+      "url": "https://www.heise.de/news/Windows-10-weist-auf-Verlaengerung-fuer-Sicherheitsupdates-hin-10673747.html"
     },
     {
       "title": "BayernSiemens baut Fabrik für Zugbatterien",
@@ -184,9 +183,20 @@
       "image_title": "Miniaturisierter Globus und Container mit Paketen auf einer Computertastatur"
     },
     {
+      "title": "TSMC widerspricht Intel-Gerüchten",
+      "teaser": "Erneute Gerüchte über eine Partnerschaft mit TSMC ließen Intels Aktie steigen. TSMC dementiert ein weiteres Mal.",
+      "url": "https://www.heise.de/news/TSMC-widerspricht-Intel-Geruechten-10677855.html",
+      "image_title": "Chipstrukturen auf Silizium-Wafer"
+    },
+    {
       "title": "Vivo X200 Pro im Test: Der Geheimtipp unter den Flagship-Smartphones",
       "teaser": "Starker Telezoom, helles OLED-Display, kräftiger Akku und starker Antrieb: Das Vivo X200 Pro sieht schick aus und wirkt souverän. Überzeugt es im Test?",
       "url": "https://www.heise.de/bestenlisten/testbericht/vivo-x200-pro-im-test-der-geheimtipp-unter-den-flagship-smartphones/2mmrz2n?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Hybrides UEM – der Schlüssel zu moderner IT-Sicherheit",
+      "teaser": "Eine heterogene IT-Landschaft effizient und sicher zu verwalten, ist herausfordernd. Aber es ist machbar mit hybriden UEM-Plattformen, mit denen sich Richtlinien zentral umsetzen lassen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7091827877&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Starkes Wachstum: Deutschlands Rechenzentren drohen, zum Flaschenhals zu werden",
@@ -195,20 +205,10 @@
       "image_title": "Ein Trendchart, im Hintergrund eine Sanduhr, in dem sich ein Rechenzentrum befindet"
     },
     {
-      "title": "Wegen KI – Rechenzentren müssen neu gedacht werden",
-      "teaser": "Einst klassische Serverräumen, jetzt spezialisierte Hochleistungscluster – künstliche Intelligenz hat die Regeln der Rechenzentrumsplanung verändert. Unternehmen brauchen dafür jetzt neue Strategien.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7080533019&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "KI-Update kompakt: Parloa, Meta Vibes, Wissensarbeit, KI-Regulierung",
       "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-Parloa-Meta-Vibes-Wissensarbeit-KI-Regulierung-10674757.html",
       "image_title": "Aufmacherbild KI-Update"
-    },
-    {
-      "title": "Snapdragon X2 Elite Extreme: Erste Benchmarks vom flotten Notebook-18-Kerner",
-      "teaser": "Qualcomms Snapdragon-X2-Generation besteht anfangs aus drei Elite-Modellen. Das Topmodell mit Extreme-Namenszusatz zeigt in ersten Benchmarks viel Leistung.",
-      "url": "https://www.heise.de/news/Snapdragon-X2-Elite-Extreme-Erste-Benchmarks-vom-flotten-Notebook-18-Kerner-10671326.html"
     },
     {
       "title": "Drohnenfotografie: Leitfaden für Einsteiger und rechtliche Grundlagen",
@@ -365,21 +365,27 @@
       "image_title": "Laubbläser in Aktion"
     },
     {
+      "title": "Audi Q3 Sportback e-Hybrid im Fahrbericht: PHEV mit DC-Lader",
+      "teaser": "Audi versieht den gerade vorgestellten Q3 nun auch mit einem Plug-in-Hybridantrieb. Eine erste Fahrt zeigt, dass er fast alles besser macht als sein Vorgänger.",
+      "url": "https://www.heise.de/tests/Audi-Q3-Sportback-e-Hybrid-im-Fahrbericht-PHEV-mit-DC-Lader-10674637.html",
+      "image_title": "Audi Q3 Sportback"
+    },
+    {
       "title": "HMS Singray G2: Neue Industrie-AR-Brille will Hololens 2 beerben",
       "teaser": "Die neue AR-Brille von HMS bietet 6‑DoF‑Tracking, CAD-Integration und einen Hot-Swap-Akku für den Unternehmenseinsatz.",
       "url": "https://www.heise.de/news/HMS-Singray-G2-Neue-Industrie-AR-Brille-will-Hololens-2-beerben-10674021.html",
       "image_title": "Eine grau-weiße VR-Brille mit roten Design-Elementen."
     },
     {
+      "title": "Sicherheit im Edge Computing – was Unternehmen jetzt tun müssen",
+      "teaser": "Mit der zunehmenden Verbreitung von IoT-Geräten, vernetzten Maschinen und dezentraler Datenerfassung wächst die Angriffsfläche am Edge. Unternehmen müssen ihre Sicherheitsmaßnahmen und -strategien anpassen!",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/security/sicherheit-im-edge-computing-was-unternehmen-jetzt-tun-muessen/?source=hbsadersatz"
+    },
+    {
       "title": "iPhone in visionOS 26: Deutlich bequemere Nutzung",
       "teaser": "Wer gleichzeitig iPhone und Vision Pro nutzt, musste das Headset bislang absetzen. visionOS 26 behebt das Problem.",
       "url": "https://www.heise.de/news/Bessere-iPhone-Unterstuetzung-in-visionOS-26-10672378.html",
       "image_title": "visionOS 26"
-    },
-    {
-      "title": "Wie KI den Energieverbrauch explodieren lässt – und was Abhilfe schafft",
-      "teaser": "Entwicklung, Training und Nutzung von KI-Anwendungen erfordern enorme Mengen an Energie. Wie sich Ressourcenverbrauch - und Kosten - in Grenzen halten lassen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/wie-ki-den-energieverbrauch-explodieren-laesst-und-was-abhilfe-schafft/?source=hbsadersatz"
     },
     {
       "title": "ChatGPT wechselt Modell bei sensiblen Themen",
@@ -430,12 +436,6 @@
       "title": "Opera Air ausprobiert: Der achtsame Browser macht Nutzer gelassener",
       "teaser": "Surfen ohne Stress: Opera Air entspannt mit binauralen Beats, lockert verspannte Körper und erinnert an Pausen. Wir haben durchgeatmet und den Browser getestet.",
       "url": "https://www.heise.de/tests/Opera-Air-ausprobiert-Der-achtsame-Browser-macht-Nutzer-gelassener-10670277.html"
-    },
-    {
-      "title": "Apple-Intelligence-Bug: Apple erläutert, was bei iPhone-17-Problemen zu tun ist",
-      "teaser": "Vereinzelt gelingt es Nutzern von Apples neuesten Handys nicht, das KI-System zu installieren. Apple ist das bekannt. Es gibt ein erstes Troubleshooting.",
-      "url": "https://www.heise.de/news/Apple-Intelligence-Bug-Apple-erlaeutert-was-bei-iPhone-17-Problemen-zu-tun-ist-10673237.html",
-      "image_title": "Logo und Icon von Apple Intelligence"
     },
     {
       "title": "Microsoft bestätigt kostenlose Windows-10-Sicherheitsupdates",
@@ -614,9 +614,9 @@
       "url": "https://www.heise.de/hintergrund/25-Jahre-Radeon-Grafikkarten-10636395.html"
     },
     {
-      "title": "c't-Webinar: E-Auto-Mythen auf dem Prüfstand",
-      "teaser": "Vebrenner eintauschen gegen ein Elektrofahrzeug? Im Webinar erfahren Sie, worauf es beim Kauf ankommt – von Technik bis Alltagstauglichkeit.",
-      "url": "https://www.heise.de/news/c-t-Webinar-E-Auto-Mythen-auf-dem-Pruefstand-10669913.html"
+      "title": "Snapdragon X2 Elite ExtremeErste Benchmarks vom flotten Notebook-18-Kerner",
+      "teaser": "Qualcomms Snapdragon-X2-Generation besteht anfangs aus drei Elite-Modellen. Das Topmodell zeigt in ersten Benchmarks viel Leistung.",
+      "url": "https://www.heise.de/news/Snapdragon-X2-Elite-Extreme-Erste-Benchmarks-vom-flotten-Notebook-18-Kerner-10671326.html"
     },
     {
       "title": "UpdateApples Smartphones von 2025iPhone 17, 17 Pro, 17 Pro Max und Air im Test",
@@ -637,11 +637,6 @@
       "image_title": "Fenster unter iPadOS 26"
     },
     {
-      "title": "Klein, günstig, leicht: Frästisch im Systainer selbst bauen",
-      "teaser": "Unser DIY-Frästisch ist in einen Kunststoff-Werkzeugkoffer inklusive Zubehörschublade eingebaut und erweitert die heimische Holzwerkstatt platzsparend.",
-      "url": "https://www.heise.de/ratgeber/Klein-guenstig-leicht-Fraestisch-im-Systainer-selbst-bauen-10631103.html"
-    },
-    {
       "title": "Kompaktes Internet-Radio bauen mit ESP32 im Kassettengehäuse",
       "teaser": "Mit der yoRadio-Firmware lässt sich aus ein paar Standardkomponenten schnell ein kompaktes Internetradio bauen – das sogar in das Gehäuse einer Kassette passt.",
       "url": "https://www.heise.de/ratgeber/Kompaktes-Internet-Radio-bauen-mit-ESP32-im-Kassettengehaeuse-10634268.html",
@@ -652,6 +647,11 @@
       "teaser": "Olimex veröffentlicht ein Breadboard-freundliches Pico-2-Board mit allen 48 GPIOs, USB-C und 16 MB Flash.",
       "url": "https://www.heise.de/news/Neues-Pico-2-Board-mit-voller-GPIO-Freiheit-10669122.html",
       "image_title": "Das Board ist ein langer Riegel. In der Mitte sitzt der PICO-Chip. Unten ist eine USB-C-Buchse zu sehen."
+    },
+    {
+      "title": "Bastelprojekt: Genaue Bewegungsabläufe für Roboter programmieren",
+      "teaser": "Wie programmiert man einen Arm, damit er präzise Punkte im Raum ansteuert? Wir erklären anschaulich, wie inverse Kinematik für coole Roboter funktioniert.",
+      "url": "https://www.heise.de/ratgeber/Bastelprojekt-Genaue-Bewegungsablaeufe-fuer-Roboter-programmieren-10624897.html"
     },
     {
       "title": "Fotografie: Historische Meilensteine im Objektivbau",
@@ -736,37 +736,37 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Bosch und Lufthansa: Tausende Jobs vor dem Aus",
-      "teaser": "Bosch und Lufthansa kündigen massiven Stellenabbau an. Die Maßnahmen zeigen das Ausmaß der strukturellen Probleme deutscher Industrieunternehmen.",
-      "url": "https://www.heise.de/tp/features/Bosch-und-Lufthansa-Tausende-Jobs-vor-dem-Aus-10674717.html",
-      "image_title": "Leere kabine eines lufthansa Flugzeugs"
+      "title": "Piräus-Skandal: Wie E-Bikes und Kleidung am Zoll vorbeischlüpfen",
+      "teaser": "Schmuggel im großen Stil: Chinesische Kriminelle sollen systematisch Zölle und Steuern in Millionenhöhe hinterzogen haben.",
+      "url": "https://www.heise.de/tp/features/Piraeus-Skandal-Wie-E-Bikes-und-Kleidung-am-Zoll-vorbeischluepfen-10670536.html",
+      "image_title": "Dossenöffner in China-Farben und Dose mit Zoll- und EU-Aufdruck"
     },
     {
-      "title": "Wenn Kühe in den öffentlichen Dienst wechseln: Eine radikale Idee für die Zukunft der Landwirtschaft",
-      "teaser": "Wir bezahlen das Essen mehrfach. An der Kasse, über Steuern – und mit zerstörten Böden. Wie lange kann das so weitergehen? Ein Vorschlag.",
-      "url": "https://www.heise.de/tp/features/Wenn-Kuehe-in-den-oeffentlichen-Dienst-wechseln-Eine-radikale-Idee-fuer-die-Zukunft-der-10673085.html",
-      "image_title": "Fleckvieh-Kühe auf einer Weide unter blauen Himmel mit Schäfchenwolken"
+      "title": "Jeremy Corbyn gründet neue Partei: Die Rückkehr des Geächteten",
+      "teaser": "Der Ex-Labour-Chef gründet eine neue Partei links von Labour. Wird er die britische Politik erneut aufmischen? Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Jeremy-Corbyn-gruendet-neue-Partei-Die-Rueckkehr-des-Geaechteten-10674871.html",
+      "image_title": "Jeremy Corbyn"
     },
     {
-      "title": "Ukraine-Krieg: Die deutsche Drohne, die das Schlachtfeld neu erfindet",
-      "teaser": "Ein Mockup im Allgäu, gefeiert wie ein iPhone-Launch. CA-1 Europa verspricht Tempo, Stealth und KI-Pilot. Doch hält sie mehr als große Worte? Einschätzung.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Die-deutsche-Drohne-die-das-Schlachtfeld-neu-erfindet-10672914.html",
-      "image_title": "Ki-generierte Illustration zeigt eine futuristische Kampfdrohne mit ausgefahrenem Fahrwerk und geöffnetem Waffenschacht, die über einer sonnigen Landschaft mit Feldern fliegt, während am Boden Rauch- und Feuerwolken von Explosionen aufsteigen."
+      "title": "Peter Thiel warnt: Der Antichrist will Künstliche Intelligenz regulieren",
+      "teaser": "Mit religiösen Endzeitvisionen warnt Tech-Investor Peter Thiel vor KI-Regulierung: Wer die Technologie zügelt, bereitet dem Antichristen den Weg.",
+      "url": "https://www.heise.de/tp/features/Peter-Thiel-warnt-Der-Antichrist-will-Kuenstliche-Intelligenz-regulieren-10672896.html",
+      "image_title": "Peter Thiel bei einem Vortrag"
     },
     {
-      "title": "Warum staatliche und private Raumfahrt in Europa endlich abheben müssen",
-      "teaser": "Die europäische Raumfahrt im Umbruch: In einem kaum überschaubaren Geflecht ringen private und staatliche Akteure um Aufträge und suchen Geschäftsmodelle. Europa muss seinen Platz noch finden. Könnten Startups wie Isar Aerospace den Weg weisen?",
-      "url": "https://t3n.de/news/startrampe-europa-raumfahrt-abheben-1689864/"
+      "title": "Firmenfeier mit Tücken: Wenn Arbeits– und Privatleben kollidieren",
+      "teaser": "Die Beziehung zu engen Kollegen gleicht in vielerlei Hinsicht einer Ehe. Im Büroalltag ist das überwiegend wunderbar, findet unsere Kolumnistin. Doch wehe, Arbeits- und Lebenspartner begegnen sich!",
+      "url": "https://t3n.de/magazin/arbeit-privatleben-kollidieren-253739/"
     },
     {
-      "title": "Deal zwischen OpenAI und SAP: Echte digitale Souveränität sieht anders aus",
-      "teaser": "Der Enterprise-Software-Konzern SAP will deutschen Behörden mit OpenAI und Microsoft einen KI-Turbo verpassen. Das torpediert echte Initiativen zur digitalen Souveränität Europas.",
-      "url": "https://t3n.de/news/deal-zwischen-openai-und-sap-echte-digitale-souveraenitaet-sieht-anders-aus-1709363/"
+      "title": "Hat der Black Friday an Glanz verloren? Was Kunden wollen und Händler tun können",
+      "teaser": "Längst ist der Black Friday nicht mehr nur ein Tag, sondern ein wochenlanges Spektakel aus Rabatten und Werbedruck. Doch mehrere aktuelle Studien zeigen: Konsument:innen gehen kritischer und strategischer an die Rabattschlacht heran.",
+      "url": "https://t3n.de/news/hat-der-black-friday-seinen-glanz-verloren-was-kunden-erwarten-und-haendler-jetzt-tun-koennen-1709778/"
     },
     {
-      "title": "Boomer gehen, Nachfolger fehlen: Deutschland braucht beweglichere Arbeitsregeln",
-      "teaser": "Fachkräfte fehlen oft dort, wo sie am meisten gebraucht werden. Der deutschen Wirtschaft entstehen dadurch jedes Jahr Milliardenverluste. Wie KI und neue Arbeitsregeln das ändern könnten – und warum das jetzt entscheidend ist.",
-      "url": "https://t3n.de/news/babyboomer-gehen-nachfolger-fehlen-deutschland-braucht-beweglichere-arbeitsregeln-jetzt-1701549/"
+      "title": "KI statt Gespräch mit dem Chef: So nutzen Angestellte ChatGPT bei der Arbeit",
+      "teaser": "Empathie ist eine Fähigkeit, die oft allein dem Menschen zugeschrieben wird. Laut einer Studie fühlen sich Angestellte aber tatsächlich durch ChatGPT besser unterstützt als durch die eigenen Vorgesetzten.",
+      "url": "https://t3n.de/news/ki-statt-gespraech-mit-dem-chef-so-nutzen-angestellte-chatgpt-an-der-arbeit-1709737/"
     },
     {
       "title": "[Werbung] 10 Cybersecurity-Alternativen für Ihr Unternehmen",
