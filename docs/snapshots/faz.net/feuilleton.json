@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-30T19:07:44",
+  "timestamp": "2025-09-30T20:10:41",
   "url": "https://www.faz.net/aktuell/feuilleton/",
   "response": {
     "status": 200
@@ -50,9 +50,23 @@
   ],
   "articles": [
     {
+      "title": "Maler Anders Zorn in Hamburg: Der schwedische Weltmann",
+      "teaser": "Die Hamburger Kunsthalle zeigt den schwedischen Maler Anders Zorn als einstigen Superstar, der aber auch heute noch mit seinen Porträts überzeugt.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/maler-anders-zorn-in-hamburg-weltmann-tief-in-schweden-verwurzelt-110709094.html"
+    },
+    {
+      "title": "Syberberg zeigt „Nachtgesang“: Wie Gergiev doch bis an die Peene kam",
+      "teaser": "Deutsche Uraufführung in Moskau: Hans-Jürgen Syberberg zeigt seinen Film „Nachtgesang“ über die Toten von Demmin. Die Veranstaltung verbindet Trauerarbeit, Versöhnungsgeste und kulturelles Gedächtnis.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/syberberg-zeigt-nachtgesang-ueber-die-toten-von-demmin-110708767.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/639725426/1.10710110/16x9/der-deutsche-regisseur-hans.jpg",
+      "image_title": "Der deutsche Regisseur Hans-Jürgen Syberberg"
+    },
+    {
       "title": "Theater in Berlin: Mit Witz und Chuzpe durch Kafkas Gerichtswelt",
       "teaser": "Talmudisches Tingeltangel: Starregisseur Barrie Kosky inszeniert Kafkas Werk und Leben als musikalische Revue samt jüdischem Traditions-Medley am Berliner Ensemble.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/barrie-kosky-inszeniert-kafka-witz-musik-und-juedische-tiefe-110708994.html"
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/barrie-kosky-inszeniert-kafka-witz-musik-und-juedische-tiefe-110708994.html",
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/1862943906/1.10709589/16x9/abenteuerliches-amuesement.jpg",
+      "image_title": "Abenteuerliches Amüsement: Szene aus „K“"
     },
     {
       "title": "Buchbranche: Sebastian Guggolz führt künftig den Börsenverein",
@@ -81,20 +95,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/kuendigung-von-ulrike-guerot-bestaetigt-glatt-kein-justizirrtum-110710683.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/feuilleton/2791953463/1.10485156/16x9/zur-urteilsverkuendung.jpg",
       "image_title": "Zur Urteilsverkündung erschien sie nicht: Die Politikwissenschaftlerin Ulrike Guérot wird nach der Entscheidung des Landesarbeitsgerichts NRW nicht an die Universität Bonn zurückkehren."
-    },
-    {
-      "title": "Knappes Votum: Scheitert die Reform des ÖRR an Sachsen?",
-      "teaser": "Der Kulturausschuss des Landtags von Sachsen hat empfohlen, dem neuen Medienstaatsvertrag zuzustimmen. Votiert das Parlament anders, ist die Reform von ARD und ZDF dahin.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/kulturausschuss-des-saechsischen-landtags-empfiehlt-knapp-medienstaatsvertrag-anzunehmen-110711082.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/politik/4186062177/1.10711349/16x9/hier-duerfte-sich-entscheiden.jpg",
-      "image_title": "Hier dürfte sich entscheiden, ob der neue Medienstaatsvertrag in Kraft treten kann: der sächsische Landtag."
-    },
-    {
-      "title": "FAZ+Akrobatik und Sinnlichkeit: „Poledance stärkt dein Körpergefühl ebenso wie dein Selbstwertgefühl“",
-      "teaser": "Kopfüber ins Vergnügen: Poledance – das ist Technik, Kraft und Beweglichkeit. Die Mischung aus Akrobatik und Sinnlichkeit fasziniert auch die Schriftstellerin Nora Bossong. Ein Gespräch.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/poledance-der-sport-an-der-stange-der-einst-aus-dem-rotlichtmilieu-kam-accg-110686479.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/2118163274/1.10697535/16x9/poledance-macht-stark-und.jpg",
-      "image_title": "Poledance macht stark – und breite Schultern. Dzida: „Das Kreuz wird wirklich breit. Aber du lernst auch, stolz darauf zu sein. Durch Poledance wird dein Körpergefühl ebenso gestärkt wie dein Selbstwertgefühl.“"
     },
     {
       "title": "22 Millionen Dollar gezahlt: Youtube kapituliert vor Trump",
@@ -198,18 +198,18 @@
       "url": "https://www.faz.net/podcasts/f-a-z-buecher-podcast/die-assistentin-von-caroline-wahl-welche-rolle-spielen-anwaelte-in-verlagen-110682864.html"
     },
     {
-      "title": "FAZ+Wachstum der Bürokratie: Aus den Volksparteien werden zunehmend Staatsparteien",
-      "teaser": "Hinter dem unaufhaltsamen Wachstum der Bürokratie verbirgt sich eine stille Krise: Union und SPD entfremden sich von ihrem gesellschaftlichen Umfeld und nähern sich dem Staatsapparat an. Genau in diese Lücke stößt die AfD.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/die-parteien-haben-sich-von-der-gesellschaft-entfremdet-accg-110708820.html",
-      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/4282038845/1.10708865/16x9/steter-blick-auf-den-staat-und.jpg",
-      "image_title": "Steter Blick auf den Staat und seine Institutionen: Friedrich Merz, Lars Klingbeil, Alexander Dobrindt, Johann Wadephul und Boris Pistorius bei ihrer Ernennung durch Bundespräsident Frank-Walter Steinmeier."
+      "title": "Knappes Votum: Scheitert die Reform des ÖRR an Sachsen?",
+      "teaser": "Der Kulturausschuss des Landtags von Sachsen hat empfohlen, dem neuen Medienstaatsvertrag zuzustimmen. Votiert das Parlament anders, ist die Reform von ARD und ZDF dahin.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/kulturausschuss-des-saechsischen-landtags-empfiehlt-knapp-medienstaatsvertrag-anzunehmen-110711082.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/politik/4186062177/1.10711349/16x9/hier-duerfte-sich-entscheiden.jpg",
+      "image_title": "Hier dürfte sich entscheiden, ob der neue Medienstaatsvertrag in Kraft treten kann: der sächsische Landtag."
     },
     {
-      "title": "TV-Kritik: Hart aber fair: Sollte TikTok einfach verboten werden?",
-      "teaser": "Soziale Medien sind für die zunehmende Einsamkeit und Depressivität vieler Menschen mitverantwortlich. Die Gäste bei „Hart aber fair“ wagten sich an die Verbotsfrage heran, diskutierten schließlich aber am Thema vorbei.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/hart-aber-fair-in-der-tv-kritik-sollte-tiktok-einfach-verboten-werden-110709780.html",
-      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/3481884377/1.10709788/16x9/moderator-louis-klamroth-und.jpg",
-      "image_title": "Moderator Louis Klamroth und seine Gäste bei „Hart aber fair“: Lehrer Nicolas Schmelzer, Rechtsanwalt Chan-jo Jun, Journalistin Petra Gerster, CDU-Politikerin Kristina Schröder und TikToker Levi Penell (v.l.n.r.)."
+      "title": "FAZ+Akrobatik und Sinnlichkeit: „Poledance stärkt dein Körpergefühl ebenso wie dein Selbstwertgefühl“",
+      "teaser": "Kopfüber ins Vergnügen: Poledance – das ist Technik, Kraft und Beweglichkeit. Die Mischung aus Akrobatik und Sinnlichkeit fasziniert auch die Schriftstellerin Nora Bossong. Ein Gespräch.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/poledance-der-sport-an-der-stange-der-einst-aus-dem-rotlichtmilieu-kam-accg-110686479.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/2118163274/1.10697535/16x9/poledance-macht-stark-und.jpg",
+      "image_title": "Poledance macht stark – und breite Schultern. Dzida: „Das Kreuz wird wirklich breit. Aber du lernst auch, stolz darauf zu sein. Durch Poledance wird dein Körpergefühl ebenso gestärkt wie dein Selbstwertgefühl.“"
     },
     {
       "title": "FAZ+„Unvernunft“-Schau in Berlin: Böhmermanns Nabelschau",
@@ -240,10 +240,17 @@
       "image_title": "Bundeswehrsoldaten des Panzergrenadierbataillons 401 während einer Übung (Archivfoto)"
     },
     {
+      "title": "FAZ+Wachstum der Bürokratie: Aus den Volksparteien werden zunehmend Staatsparteien",
+      "teaser": "Hinter dem unaufhaltsamen Wachstum der Bürokratie verbirgt sich eine stille Krise: Union und SPD entfremden sich von ihrem gesellschaftlichen Umfeld und nähern sich dem Staatsapparat an. Genau in diese Lücke stößt die AfD.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/die-parteien-haben-sich-von-der-gesellschaft-entfremdet-accg-110708820.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/4282038845/1.10708865/21x9/steter-blick-auf-den-staat-und.jpg",
+      "image_title": "Steter Blick auf den Staat und seine Institutionen: Friedrich Merz, Lars Klingbeil, Alexander Dobrindt, Johann Wadephul und Boris Pistorius bei ihrer Ernennung durch Bundespräsident Frank-Walter Steinmeier."
+    },
+    {
       "title": "Nach Eklat: Kundgebung nach Friedman-Ausladung auf Markt Klütz",
       "teaser": "500 Menschen diskutieren bei einer Demo auf den Klützer Markt leidenschaftlich. Es geht um die Ausladung des Publizisten Michel Friedman, um die Freiheit der Kunst und über das Bild von Klütz nach außen.",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/kundgebung-nach-friedman-ausladung-auf-markt-kluetz-110709769.html",
-      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/feuilleton/3199938057/1.10709773/21x9/michel-friedman-auf-der.jpg",
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/feuilleton/3199938057/1.10709773/16x9/michel-friedman-auf-der.jpg",
       "image_title": "Michel Friedman auf der Kundgebung auf dem Markt von Klütz, zu der die Autorenvereinigung Pen Berlin aufgerufen hatte."
     },
     {
@@ -252,13 +259,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/umweltagentur-stellt-ihren-bericht-zur-lage-der-umwelt-vor-110709110.html",
       "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/gesellschaft/767092971/1.10709469/16x9/ein-alter-baum-speichert-viel.jpg",
       "image_title": "Ein alter Baum speichert viel CO2, tut der Artenvielfalt gut und schließlich auch dem Menschen: So sehen die „naturbasierten Lösungen“ im Kampf gegen den Klimawandel aus."
-    },
-    {
-      "title": "Affäre um Magazin „Klar“: Der NDR-Rundfunkrat teilt kräftig aus",
-      "teaser": "Der NDR-Rundfunkrat weist eine Programmbeschwerde gegen das Magazin „Klar“ zurück. Doch er kritisiert die Sendung auch, ebenso die Politik und die Verantwortlichen im Sender. Wie das dort weitergeht, wird spannend.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ndr-rundfunkrat-weist-beschwerde-gegen-klar-zurueck-und-teilt-aus-110709133.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/gesellschaft/320955036/1.10709436/16x9/der-vorsitzende-des-ndr.jpg",
-      "image_title": "Der Vorsitzende des NDR-Rundfunkrats, Nico Fickinger."
     },
     {
       "title": "Geschichte des Reisens: Touristen sind immer nur die anderen",
@@ -292,8 +292,8 @@
       "title": "Parlament beschließt: Keine Handys mehr an Schulen in Dänemark",
       "teaser": "Dänemark hat die Klassenzimmer durchdigitalisiert. Nun sagt der Bildungsminister, Kinder sollten sich wieder auf das Wesentliche konzentrieren – ohne Handys.",
       "url": "https://www.faz.net/aktuell/politik/ausland/keine-handys-mehr-an-schulen-in-daenemark-accg-110710075.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/feuilleton/307978839/1.10710079/16x9/kuerzlich-hatte-auch-schweden.jpg",
-      "image_title": "Kürzlich hatte auch Schweden ein vollständiges Handyverbot vom kommenden Schuljahr an für Kinder bis zum sechzehnten Lebensjahr beschlossen."
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/feuilleton/307978839/1.10710079/16x9/geuebt-mit-dem-smartphone-aber.jpg",
+      "image_title": "Geübt mit dem Smartphone, aber auch im Umgang mit Geld?"
     },
     {
       "title": "FAZ+„aka Charlie Sheen“ bei Netflix: Von Kopf bis Fuß auf Chaos eingestellt",
