@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-01T21:08:34",
+  "timestamp": "2025-10-01T22:08:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Verfassungsbeschwerde gegen Auswertung der Fake-App AN0M unzulässig",
+      "url": "https://www.heise.de/news/Verfassungsbeschwerde-gegen-Auswertung-der-Fake-App-AN0M-unzulaessig-10699563.html"
+    },
     {
       "title": "US-Petition fordert gebührenfreie Sicherheitsupdates für Windows 10",
       "url": "https://www.heise.de/news/US-Petition-fordert-gebuehrenfreie-Sicherheitsupdates-fuer-Windows-10-10699547.html"
@@ -60,10 +64,6 @@
     {
       "title": "Hofer Filmtage zeigen immersive XR-Projekte: \"Nährboden für neue Erzählformen\"",
       "url": "https://www.heise.de/news/Hofer-Filmtage-zeigen-immersive-XR-Projekte-Naehrboden-fuer-neue-Erzaehlformen-10699147.html"
-    },
-    {
-      "title": "Fotografie: Historische Meilensteine im Objektivbau",
-      "url": "https://www.heise.de/ratgeber/Fotografie-Historische-Meilensteine-im-Objektivbau-10663004.html"
     },
     {
       "title": "Fritzbox, Fritz-Repeater und FritzfonVier neue Fritz-Produkte erscheinen",
@@ -188,21 +188,27 @@
       "image_title": "Nord-Ostsee-Kanal in Kiel"
     },
     {
+      "title": "Verfassungsbeschwerde gegen Auswertung der Fake-App AN0M unzulässig",
+      "teaser": "Das deutsche Bundesverfassungsgericht prüft die Auswertung doch-nicht-verschlüsselter Kommunikation nicht. Denn im Zweifel handelten die USA verfassungskonform.",
+      "url": "https://www.heise.de/news/Verfassungsbeschwerde-gegen-Auswertung-der-Fake-App-AN0M-unzulaessig-10699563.html",
+      "image_title": "Handy mit AN0M-Logo, dahinter eine Rauchwolke, rundherum roter Rahmen"
+    },
+    {
       "title": "US-Petition fordert gebührenfreie Sicherheitsupdates für Windows 10",
       "teaser": "Noch nie wurden so viele Computer von Sicherheitsupdates abgeschnitten wie durch das Windows-10-Ende, warnen Verbraucherschützer. Der Müllberg wäre gigantisch.",
       "url": "https://www.heise.de/news/US-Petition-fordert-gebuehrenfreie-Sicherheitsupdates-fuer-Windows-10-10699547.html",
       "image_title": "Ein überquellener Coloniakübel"
     },
     {
+      "title": "Fünf Gründe für eine Servermodernisierung",
+      "teaser": "Unternehmen sparen mit der Erneuerung ihrer Server-Landschaft bares Geld – wenn sie die richtigen Investitionsentscheidungen treffen. Wir nennen fünf gute Gründe für einen „Tech-Refresh“.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084305514&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "2 Milliarden Euro sollen weltweit erstes Fusionskraftwerk nach Deutschland holen",
       "teaser": "Das Bundeskabinett will Deutschland auf den Weg zum Fusionskraftwerk bringen. Bis 2029 sollen über 2 Milliarden Euro in einschlägige Forschung fließen.",
       "url": "https://www.heise.de/news/Bundesregierung-Erstes-Fusionskraftwerk-der-Welt-soll-in-Deutschland-stehen-10699492.html",
       "image_title": "Dreifachsteckerleiste an der Wand, davor liegt ein nicht eingestecktes Kabel"
-    },
-    {
-      "title": "Fünf Gründe für eine Servermodernisierung",
-      "teaser": "Unternehmen sparen mit der Erneuerung ihrer Server-Landschaft bares Geld – wenn sie die richtigen Investitionsentscheidungen treffen. Wir nennen fünf gute Gründe für einen „Tech-Refresh“.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084305514&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Das beste Smartphone bis 400 Euro im Test – sogar mit Periskop-Telelinse",
@@ -231,12 +237,6 @@
       "title": "Hofer Filmtage zeigen immersive XR-Projekte: \"Nährboden für neue Erzählformen\"",
       "teaser": "Ein immersiver Appell für den Naturschutz, eine Maus am Rande des Burn-out und ein geteiltes deutsches Dorf: Die Hofer Filmtage zeigen fünf XR-Film-Projekte.",
       "url": "https://www.heise.de/news/Hofer-Filmtage-zeigen-immersive-XR-Projekte-Naehrboden-fuer-neue-Erzaehlformen-10699147.html"
-    },
-    {
-      "title": "Fotografie: Historische Meilensteine im Objektivbau",
-      "teaser": "Die Entwicklungsgeschichte des Objektivbaus verlief anfangs gemächlich. Um die Wende zum 20. Jahrhundert entstanden drei wegweisende optische Konstruktionen.",
-      "url": "https://www.heise.de/ratgeber/Fotografie-Historische-Meilensteine-im-Objektivbau-10663004.html",
-      "image_title": ", Alle Bilder: Bernd Kieckhöfel"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Chefs in Deutschland",
@@ -287,8 +287,8 @@
       "url": "https://www.heise.de/news/Autogipfel-am-9-Oktober-soll-Steuerbefreiung-fuer-E-Autos-klaeren-10673114.html"
     },
     {
-      "title": "Microsoft: Windows-10-Sicherheitsupdates in Europa kostenlos",
-      "url": "https://www.heise.de/news/Microsoft-Windows-10-Sicherheitsupdates-in-Europa-kostenlos-10670908.html"
+      "title": "WhatsApp-Konkurrent Signal droht mit Rückzug aus Europa",
+      "url": "https://www.heise.de/news/Chefin-der-Signal-App-droht-mit-Rueckzug-aus-Europa-10688792.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -301,6 +301,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Fotografie: Historische Meilensteine im Objektivbau",
+      "teaser": "Die Entwicklungsgeschichte des Objektivbaus verlief anfangs gemächlich. Um die Wende zum 20. Jahrhundert entstanden drei wegweisende optische Konstruktionen.",
+      "url": "https://www.heise.de/ratgeber/Fotografie-Historische-Meilensteine-im-Objektivbau-10663004.html",
+      "image_title": ", Alle Bilder: Bernd Kieckhöfel"
     },
     {
       "title": "Tesla Cybertruck: Zu gefährlich für deutsche Straßen",
@@ -371,15 +377,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-Luecke-bedroht-NAS-Modelle-von-Western-Digital-10696726.html"
     },
     {
+      "title": "Warum ist digitale Souveränität wichtig? Und warum nicht gleich Autonomie oder Autarkie?",
+      "teaser": "Wer kontrolliert die Cloud-Daten wirklich? Welche Zugriffsmöglichkeiten haben ausländische Behörden? Ein Webcast gibt konkrete Empfehlungen, um Abhängigkeiten zu reduzieren – und differenziert zwischen Autarkie, Autonomie und Souveränität.",
+      "url": "https://business-services.heise.de/it-management/digitalisierung/beitrag/digitale-souveraenitaet-schluessel-zur-strategischen-unabhaengigkeit-4965/?source=hbsad-ersatz"
+    },
+    {
       "title": "Okta: Digitale Identität für KI-Agenten",
       "teaser": "Auch beim Identitätsmanagement sind KI-Agenten inzwischen ein Thema. Spezialist Okta legt dazu Produkte vor.",
       "url": "https://www.heise.de/news/Okta-Digitale-Identitaet-fuer-KI-Agenten-10693671.html",
       "image_title": "Okta-Manager bei Präsentation auf Bühne"
-    },
-    {
-      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
-      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? In einem Webcast können Sie erfahren, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
-      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
     },
     {
       "title": "iX-Workshop: Microsoft Teams sicher und effizient administrieren",
@@ -431,12 +437,6 @@
       "teaser": "Peloton verspricht grundlegend neue Geräte, KI-gestütztes Personal Coaching und erweiterte Wellness-Inhalte. Parallel steigen die Abopreise für Neukunden.",
       "url": "https://www.heise.de/news/Peloton-bringt-Fitnessgeraete-mit-KI-Anbindung-10688716.html",
       "image_title": "Fitnessgeräte"
-    },
-    {
-      "title": "Modellnummern entfleucht: US-Regulierer FCC leakt drei neue Apple-Produktreihen",
-      "teaser": "Neue Vision Pro, MacBook Pro M5 und iPad Pro M5 im Anflug: Das zumindest hat nun die US-Kommunikationsaufsicht in ihrer Datenbank.",
-      "url": "https://www.heise.de/news/FCC-Leak-US-Kommunikationsaufsicht-verraet-drei-bislang-unbekannte-Apple-Geraete-10693225.html",
-      "image_title": "Eingang der FCC"
     },
     {
       "title": "Schiff spioniert kritische Infrastruktur in europäischen Gewässern aus",
@@ -607,9 +607,9 @@
       "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
     },
     {
-      "title": "Glasfaser-Inhouse-VerkabelungSo vermeiden Sie das Monopol im Treppenhaus",
-      "teaser": "Baut ein Anbieter das Glasfaserhausnetz, dann gehört es ihm. Eine eigene Glasfaserverteilung im Haus sichert die Wahlfreiheit.",
-      "url": "https://www.heise.de/hintergrund/Glasfaser-Inhouse-Verkabelung-So-vermeiden-Sie-das-Monopol-im-Treppenhaus-10636012.html"
+      "title": "Windows 11 auf angeblich inkompatibler Hardware installieren",
+      "teaser": "Viele der Anforderungen für Windows 11 können Sie mit Registry-Tricks umgehen, die von Microsoft selbst stammen. Wir zeigen, wie das aktuell funktioniert.",
+      "url": "https://www.heise.de/ratgeber/Windows-11-auf-angeblich-inkompatibler-Hardware-installieren-10573858.html"
     },
     {
       "title": "Kostenlose UpdatesWie Sie Windows 10 ein weiteres Jahr Updates verschaffen",
@@ -617,9 +617,9 @@
       "url": "https://www.heise.de/ratgeber/Wie-Sie-Windows-10-ein-weiteres-Jahr-Updates-verschaffen-10573864.html"
     },
     {
-      "title": "Windows 11 auf angeblich inkompatibler Hardware installieren",
-      "teaser": "Viele der Anforderungen für Windows 11 können Sie mit Registry-Tricks umgehen, die von Microsoft selbst stammen. Wir zeigen, wie das aktuell funktioniert.",
-      "url": "https://www.heise.de/ratgeber/Windows-11-auf-angeblich-inkompatibler-Hardware-installieren-10573858.html"
+      "title": "Datenschutzvorfall: Identitätsdaten bei Schufa-Tochter Bonify abgeflossen",
+      "teaser": "Bei der Schufa-Tochter Forteil, die den Bonitätsauskunftsdienst Bonify betreibt, haben unbekannte Täter Identitätsdaten gestohlen und erpressen das Unternehmen.",
+      "url": "https://www.heise.de/news/Datenschutzvorfall-Identitaetsdaten-bei-Schufa-Tochter-Bonify-abgeflossen-10689766.html"
     },
     {
       "title": "UpdateApples Smartphones von 2025iPhone 17, 17 Pro, 17 Pro Max und Air im Test",
@@ -736,10 +736,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Blamage für Trump: US-Zölle machen China nur stärker",
-      "teaser": "Trotz US-Strafzöllen wächst Chinas Handelsüberschuss weiter. Wie Peking den Exportsektor anpasst und die Binnennachfrage stärkt.",
-      "url": "https://www.heise.de/tp/features/Blamage-fuer-Trump-US-Zoelle-machen-China-nur-staerker-10672086.html",
-      "image_title": "Zwei Container bemalt mit den Flaggen der USA und Chinas quetschen eine Weltkugel zwischen sich."
+      "title": "Matrixorganisation: Das perfekte Rezept für Chaos und Frust",
+      "teaser": "Mit mehreren Chefs, langwierigen Entscheidungsprozessen und Reibereien zwischen Vorgesetzten kann die Matrixorganisation Mitarbeiter zermürben.",
+      "url": "https://www.heise.de/tp/features/Matrixorganisation-Das-perfekte-Rezept-fuer-Chaos-und-Frust-10672390.html",
+      "image_title": "Radkurier auf einem rot-grün-blauem Schachbrett"
     },
     {
       "title": "Kippt Tschechien jetzt ins Putin-Lager?",
@@ -748,10 +748,10 @@
       "image_title": "Der frühere tschechische Premierminister Andrej Babis könnte wieder an die Macht gelangen und die Ukraine-Hilfen stoppen."
     },
     {
-      "title": "Rentenlücke bei Frauen: Warum Altersarmut oft weiblich ist",
-      "teaser": "Geringe Löhne, Teilzeitarbeit, Kindererziehung: Die Ursachen für die Rentenlücke bei Frauen sind vielfältig – die Folgen oft dramatisch.",
-      "url": "https://www.heise.de/tp/features/Rentenluecke-bei-Frauen-Warum-Altersarmut-oft-weiblich-ist-10699256.html",
-      "image_title": "Eine Rentnerin schaut mit bangem Blick auf den Briefkasten"
+      "title": "China eröffnet weltweit höchste Verkehrsbrücke",
+      "teaser": "China eröffnet die höchste Brücke der Welt. Sie führt 625 Meter über dem Fluss entlang. Doch die Kosten werfen Fragen auf.",
+      "url": "https://www.heise.de/tp/features/China-eroeffnet-weltweit-hoechste-Verkehrsbruecke-10676211.html",
+      "image_title": "Die Huajiang-Schlucht-Brücke"
     },
     {
       "title": "Unterschätzter Hebel: So erhöhst du die Qualität eingehender Bewerbungen",
