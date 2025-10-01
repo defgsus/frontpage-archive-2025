@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-01T19:07:37",
+  "timestamp": "2025-10-01T20:11:26",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "US-Petition fordert gebührenfreie Sicherheitsupdates für Windows 10",
+      "url": "https://www.heise.de/news/US-Petition-fordert-gebuehrenfreie-Sicherheitsupdates-fuer-Windows-10-10699547.html"
+    },
     {
       "title": "2 Milliarden Euro sollen weltweit erstes Fusionskraftwerk nach Deutschland holen",
       "url": "https://www.heise.de/news/Bundesregierung-Erstes-Fusionskraftwerk-der-Welt-soll-in-Deutschland-stehen-10699492.html"
@@ -60,10 +64,6 @@
     {
       "title": "Fotografie: Historische Meilensteine im Objektivbau",
       "url": "https://www.heise.de/ratgeber/Fotografie-Historische-Meilensteine-im-Objektivbau-10663004.html"
-    },
-    {
-      "title": "UltraFine evo 32U990A: LGs 6K-Monitor mit Thunderbolt 5 kommt im Oktober",
-      "url": "https://www.heise.de/news/UltraFine-evo-32U990A-LGs-6K-Monitor-mit-Thunderbolt-5-kommt-im-Oktober-10699173.html"
     },
     {
       "title": "Fritzbox, Fritz-Repeater und FritzfonVier neue Fritz-Produkte erscheinen",
@@ -188,20 +188,26 @@
       "image_title": "Nord-Ostsee-Kanal in Kiel"
     },
     {
+      "title": "US-Petition fordert gebührenfreie Sicherheitsupdates für Windows 10",
+      "teaser": "Noch nie wurden so viele Computer von Sicherheitsupdates abgeschnitten wie durch das Windows-10-Ende, warnen Verbraucherschützer. Der Müllberg wäre gigantisch.",
+      "url": "https://www.heise.de/news/US-Petition-fordert-gebuehrenfreie-Sicherheitsupdates-fuer-Windows-10-10699547.html",
+      "image_title": "Ein überquellener Coloniakübel"
+    },
+    {
       "title": "2 Milliarden Euro sollen weltweit erstes Fusionskraftwerk nach Deutschland holen",
       "teaser": "Das Bundeskabinett will Deutschland auf den Weg zum Fusionskraftwerk bringen. Bis 2029 sollen über 2 Milliarden Euro in einschlägige Forschung fließen.",
       "url": "https://www.heise.de/news/Bundesregierung-Erstes-Fusionskraftwerk-der-Welt-soll-in-Deutschland-stehen-10699492.html",
       "image_title": "Dreifachsteckerleiste an der Wand, davor liegt ein nicht eingestecktes Kabel"
     },
     {
+      "title": "Fünf Gründe für eine Servermodernisierung",
+      "teaser": "Unternehmen sparen mit der Erneuerung ihrer Server-Landschaft bares Geld – wenn sie die richtigen Investitionsentscheidungen treffen. Wir nennen fünf gute Gründe für einen „Tech-Refresh“.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084305514&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Das beste Smartphone bis 400 Euro im Test – sogar mit Periskop-Telelinse",
       "teaser": "Eine Telelinse, starke OLED-Displays mit 120 Hertz oder flotte Chips gibt es bereits für wenig Geld. Wir zeigen die besten Smartphones bis 400 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-bis-400-euro-im-test-sogar-mit-periskop-telelinse/22wwybb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Zukunftssichere Netzwerke für den Service Provider-Anschluss",
-      "teaser": "Damit man hohe Bandbreiten auch wirklich nutzen kann, braucht es mehr als einen leistungsfähigen Service Provider. Gefragt ist eine Plattform, die Netzwerktechnik und Videosicherheit kombiniert.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084822001&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Raspberry Pi machen die Speicherpreise zu schaffen",
@@ -231,12 +237,6 @@
       "teaser": "Die Entwicklungsgeschichte des Objektivbaus verlief anfangs gemächlich. Um die Wende zum 20. Jahrhundert entstanden drei wegweisende optische Konstruktionen.",
       "url": "https://www.heise.de/ratgeber/Fotografie-Historische-Meilensteine-im-Objektivbau-10663004.html",
       "image_title": ", Alle Bilder: Bernd Kieckhöfel"
-    },
-    {
-      "title": "Tesla Cybertruck: Zu gefährlich für deutsche Straßen",
-      "teaser": "Das Bundesverkehrsministerium hat eine Anfrage der US-Streitkräfte abgelehnt, Teslas Cybertruck in Deutschland zuzulassen. Grund sind Sicherheitsmängel.",
-      "url": "https://www.heise.de/news/Cybertruck-bleibt-in-Deutschland-verboten-auch-fuer-US-Militaer-10693029.html",
-      "image_title": "Tesla Cybertruck, dahinter Sonnenuntergang"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Chefs in Deutschland",
@@ -301,6 +301,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Tesla Cybertruck: Zu gefährlich für deutsche Straßen",
+      "teaser": "Das Bundesverkehrsministerium hat eine Anfrage der US-Streitkräfte abgelehnt, Teslas Cybertruck in Deutschland zuzulassen. Grund sind Sicherheitsmängel.",
+      "url": "https://www.heise.de/news/Cybertruck-bleibt-in-Deutschland-verboten-auch-fuer-US-Militaer-10693029.html",
+      "image_title": "Tesla Cybertruck, dahinter Sonnenuntergang"
     },
     {
       "title": "Heybike Galaxy C im Test: E-Bike mit 80-Nm-Mittelmotor, Nabenschaltung & Blinker",
@@ -371,15 +377,15 @@
       "image_title": "Okta-Manager bei Präsentation auf Bühne"
     },
     {
+      "title": "Sicherheit im Edge Computing – was Unternehmen jetzt tun müssen",
+      "teaser": "Mit der zunehmenden Verbreitung von IoT-Geräten, vernetzten Maschinen und dezentraler Datenerfassung wächst die Angriffsfläche am Edge. Unternehmen müssen ihre Sicherheitsmaßnahmen und -strategien anpassen!",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/security/sicherheit-im-edge-computing-was-unternehmen-jetzt-tun-muessen/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Microsoft Teams sicher und effizient administrieren",
       "teaser": "Lernen Sie, wie Sie mit Microsoft Teams eine sichere und effiziente Arbeitsumgebung einrichten, verwalten und an die Bedürfnisse des Unternehmens anpassen.",
       "url": "https://www.heise.de/news/iX-Workshop-Microsoft-Teams-sicher-und-effizient-administrieren-10665902.html",
       "image_title": "Microsoft 365 Copilot für IT-Administratoren"
-    },
-    {
-      "title": "Sicherheit im Edge Computing – was Unternehmen jetzt tun müssen",
-      "teaser": "Mit der zunehmenden Verbreitung von IoT-Geräten, vernetzten Maschinen und dezentraler Datenerfassung wächst die Angriffsfläche am Edge. Unternehmen müssen ihre Sicherheitsmaßnahmen und -strategien anpassen!",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/security/sicherheit-im-edge-computing-was-unternehmen-jetzt-tun-muessen/?source=hbsadersatz"
     },
     {
       "title": "UpdateLadetarife für Elektroautos im Vergleich",
@@ -431,12 +437,6 @@
       "teaser": "Neue Vision Pro, MacBook Pro M5 und iPad Pro M5 im Anflug: Das zumindest hat nun die US-Kommunikationsaufsicht in ihrer Datenbank.",
       "url": "https://www.heise.de/news/FCC-Leak-US-Kommunikationsaufsicht-verraet-drei-bislang-unbekannte-Apple-Geraete-10693225.html",
       "image_title": "Eingang der FCC"
-    },
-    {
-      "title": "Bundesregierung verabschiedet \"Modernisierungsagenda\"",
-      "teaser": "Bei seiner Klausurtagung hat das schwarz-rote Bundeskabinett einen Plan zur Modernisierung des Staates verabschiedet – mit einigen offenen Punkten.",
-      "url": "https://www.heise.de/news/Bundesregierung-verabschiedet-Modernisierungsagenda-10692439.html",
-      "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
     },
     {
       "title": "Schiff spioniert kritische Infrastruktur in europäischen Gewässern aus",
@@ -607,19 +607,19 @@
       "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
     },
     {
-      "title": "Kostenlose UpdatesWie Sie Windows 10 ein weiteres Jahr Updates verschaffen",
-      "teaser": "Das Supportende von Windows 10 drückt? Mit der Supportverlängerung ESU verlängern Sie die Updateversorgung erst mal um ein Jahr.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-Windows-10-ein-weiteres-Jahr-Updates-verschaffen-10573864.html"
-    },
-    {
       "title": "Nach Ende von Nova Launcher: Fünf alternative Android-Launcher im Vergleich",
       "teaser": "Android-Launcher ändern das Aussehen, die Bedienung und den Funktionsumfang des Smartphones. Wir haben fünf der alternativen Bedienoberflächen getestet.",
       "url": "https://www.heise.de/tests/Nach-Ende-von-Nova-Launcher-Fuenf-alternative-Android-Launcher-im-Vergleich-10640532.html"
     },
     {
-      "title": "Glasfaser-Inhouse-VerkabelungSo vermeiden Sie das Monopol im Treppenhaus",
-      "teaser": "Baut ein Anbieter das Glasfaserhausnetz, dann gehört es ihm. Eine eigene Glasfaserverteilung im Haus sichert die Wahlfreiheit.",
-      "url": "https://www.heise.de/hintergrund/Glasfaser-Inhouse-Verkabelung-So-vermeiden-Sie-das-Monopol-im-Treppenhaus-10636012.html"
+      "title": "Windows 11 auf angeblich inkompatibler Hardware installieren",
+      "teaser": "Viele der Anforderungen für Windows 11 können Sie mit Registry-Tricks umgehen, die von Microsoft selbst stammen. Wir zeigen, wie das aktuell funktioniert.",
+      "url": "https://www.heise.de/ratgeber/Windows-11-auf-angeblich-inkompatibler-Hardware-installieren-10573858.html"
+    },
+    {
+      "title": "Kostenlose UpdatesWie Sie Windows 10 ein weiteres Jahr Updates verschaffen",
+      "teaser": "Das Supportende von Windows 10 drückt? Mit der Supportverlängerung ESU verlängern Sie die Updateversorgung erst mal um ein Jahr.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-Windows-10-ein-weiteres-Jahr-Updates-verschaffen-10573864.html"
     },
     {
       "title": "UpdateApples Smartphones von 2025iPhone 17, 17 Pro, 17 Pro Max und Air im Test",
@@ -736,10 +736,10 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wird Chicago zum Trainingsgelände des US-Militärs?",
-      "teaser": "US-Kriegsminister Hegseth kündigt Ende aller Gleichstellungsprogramme an. Trump schlägt vor, Städte als Übungsgelände zu nutzen. Militärs reagieren mit Schweigen.",
-      "url": "https://www.heise.de/tp/features/Wird-Chicago-zum-Trainingsgelaende-des-US-Militaers-10689036.html",
-      "image_title": "Pete Heghseth"
+      "title": "Quantencomputer: Neuer Rekord mit 6.100-Qubit-Array",
+      "teaser": "Forscher entwickeln Quantencomputer-Array mit 6.100 Qubits. Der Durchbruch in Skalierung und Stabilität ebnet Weg für praxistaugliche Quantencomputer.",
+      "url": "https://www.heise.de/tp/features/Quantencomputer-Neuer-Rekord-mit-6-100-Qubit-Array-10676928.html",
+      "image_title": "Die Revolution der Informationsverarbeitung durch Quantencomputer wird anhand eines Prozessors veranschaulicht, der von Menschenhand berührt wurde."
     },
     {
       "title": "Blamage für Trump: US-Zölle machen China nur stärker",
@@ -748,10 +748,10 @@
       "image_title": "Zwei Container bemalt mit den Flaggen der USA und Chinas quetschen eine Weltkugel zwischen sich."
     },
     {
-      "title": "Zwischen Russland und Westen: Moldau bleibt gespalten",
-      "teaser": "Pro-EU-Partei siegt knapp. Opposition kritisiert Wahlausschlüsse. Warum das Land weiter zwischen Ost und West zerrissen bleibt. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Zwischen-Russland-und-Westen-Moldau-bleibt-gespalten-10680676.html",
-      "image_title": "Wahlbüro in Moldau, eine Frau an einer Urne"
+      "title": "Kaffee: Wachmacher, dennoch kein Wundermittel",
+      "teaser": "Kaffee ist nicht nur lecker, sondern kann in Maßen auch gesund sein. Doch Anbau und Zubereitung bergen einige Tücken.",
+      "url": "https://www.heise.de/tp/features/Kaffee-Wachmacher-dennoch-kein-Wundermittel-10689647.html",
+      "image_title": "Drei Kaffe-Tassen mit Aufdrucken für Röstung, Fair-Trade und Gesundheit"
     },
     {
       "title": "Unterschätzter Hebel: So erhöhst du die Qualität eingehender Bewerbungen",
