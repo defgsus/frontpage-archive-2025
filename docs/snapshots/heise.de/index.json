@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02T02:14:18",
+  "timestamp": "2025-10-02T03:22:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Amazon überarbeitet seinen Cloud-Gaming-Dienst Luna und setzt auf Partyspiele",
+      "url": "https://www.heise.de/news/Amazon-ueberarbeitet-seinen-Cloud-Gaming-Dienst-Luna-und-setzt-auf-Partyspiele-10699583.html"
+    },
     {
       "title": "Verfassungsbeschwerde gegen Auswertung der Fake-App AN0M unzulässig",
       "url": "https://www.heise.de/news/Verfassungsbeschwerde-gegen-Auswertung-der-Fake-App-AN0M-unzulaessig-10699563.html"
@@ -60,10 +64,6 @@
     {
       "title": "Großbritannien fordert erneut Apple-Hintertür – diesmal nur für britische Nutzer",
       "url": "https://www.heise.de/news/Grossbritannien-fordert-erneut-Apple-Hintertuer-diesmal-nur-fuer-britische-Nutzer-10699264.html"
-    },
-    {
-      "title": "Hofer Filmtage zeigen immersive XR-Projekte: \"Nährboden für neue Erzählformen\"",
-      "url": "https://www.heise.de/news/Hofer-Filmtage-zeigen-immersive-XR-Projekte-Naehrboden-fuer-neue-Erzaehlformen-10699147.html"
     },
     {
       "title": "Fritzbox, Fritz-Repeater und FritzfonVier neue Fritz-Produkte erscheinen",
@@ -188,21 +188,27 @@
       "image_title": "Nord-Ostsee-Kanal in Kiel"
     },
     {
+      "title": "Amazon überarbeitet seinen Cloud-Gaming-Dienst Luna und setzt auf Partyspiele",
+      "teaser": "Das Prime-Angebot von Amazon wird erweitert. Luna bekommt ein neues Design und mehr Partyspiele, etwa mit Snoop Dogg. Für gemeinsames Spielen kommt GameNight.",
+      "url": "https://www.heise.de/news/Amazon-ueberarbeitet-seinen-Cloud-Gaming-Dienst-Luna-und-setzt-auf-Partyspiele-10699583.html",
+      "image_title": "Amazon Luna Redesign"
+    },
+    {
       "title": "Verfassungsbeschwerde gegen Auswertung der Fake-App AN0M unzulässig",
       "teaser": "Das deutsche Bundesverfassungsgericht prüft die Auswertung doch-nicht-verschlüsselter Kommunikation nicht. Denn im Zweifel handelten die USA verfassungskonform.",
       "url": "https://www.heise.de/news/Verfassungsbeschwerde-gegen-Auswertung-der-Fake-App-AN0M-unzulaessig-10699563.html",
       "image_title": "Handy mit AN0M-Logo, dahinter eine Rauchwolke, rundherum roter Rahmen"
     },
     {
+      "title": "Zukunftssichere Netzwerke für den Service Provider-Anschluss",
+      "teaser": "Damit man hohe Bandbreiten auch wirklich nutzen kann, braucht es mehr als einen leistungsfähigen Service Provider. Gefragt ist eine Plattform, die Netzwerktechnik und Videosicherheit kombiniert.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084822001&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "US-Petition fordert gebührenfreie Sicherheitsupdates für Windows 10",
       "teaser": "Noch nie wurden so viele Computer von Sicherheitsupdates abgeschnitten wie durch das Windows-10-Ende, warnen Verbraucherschützer. Der Müllberg wäre gigantisch.",
       "url": "https://www.heise.de/news/US-Petition-fordert-gebuehrenfreie-Sicherheitsupdates-fuer-Windows-10-10699547.html",
       "image_title": "Ein überquellener Coloniakübel"
-    },
-    {
-      "title": "Hybrides UEM – der Schlüssel zu moderner IT-Sicherheit",
-      "teaser": "Eine heterogene IT-Landschaft effizient und sicher zu verwalten, ist herausfordernd. Aber es ist machbar mit hybriden UEM-Plattformen, mit denen sich Richtlinien zentral umsetzen lassen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7091827877&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "2 Milliarden Euro sollen weltweit erstes Fusionskraftwerk nach Deutschland holen",
@@ -232,11 +238,6 @@
       "teaser": "Das britische Innenministerium hat Apple im September erneut aufgefordert, eine Hintertür in iCloud einzubauen – diesmal allerdings nur für UK-Nutzer.",
       "url": "https://www.heise.de/news/Grossbritannien-fordert-erneut-Apple-Hintertuer-diesmal-nur-fuer-britische-Nutzer-10699264.html",
       "image_title": "Flagge Großbritanniens auf einer Europakarte"
-    },
-    {
-      "title": "Hofer Filmtage zeigen immersive XR-Projekte: \"Nährboden für neue Erzählformen\"",
-      "teaser": "Ein immersiver Appell für den Naturschutz, eine Maus am Rande des Burn-out und ein geteiltes deutsches Dorf: Die Hofer Filmtage zeigen fünf XR-Film-Projekte.",
-      "url": "https://www.heise.de/news/Hofer-Filmtage-zeigen-immersive-XR-Projekte-Naehrboden-fuer-neue-Erzaehlformen-10699147.html"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Chefs in Deutschland",
@@ -275,8 +276,8 @@
       "url": "https://www.heise.de/meinung/Kommentar-Drei-unbequeme-Wahrheiten-und-wie-das-E-Auto-helfen-kann-10668233.html"
     },
     {
-      "title": "So richten Sie lokale LLMs gratis als Schreibhilfe für Geschichten und Co. ein",
-      "url": "https://www.heise.de/ratgeber/So-richten-Sie-lokale-KI-gratis-als-Schreibhilfe-fuer-Geschichten-und-Co-ein-10661260.html"
+      "title": "Smart Home: Waschmaschinen in Home Assistant einbinden und smart machen",
+      "url": "https://www.heise.de/ratgeber/Smart-Home-Waschmaschinen-in-Home-Assistant-einbinden-und-smart-machen-10671983.html"
     },
     {
       "title": "\"Technologieoffenheit\": Merz will Verbrennerverbot in der EU kippen",
@@ -301,6 +302,11 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Hofer Filmtage zeigen immersive XR-Projekte: \"Nährboden für neue Erzählformen\"",
+      "teaser": "Ein immersiver Appell für den Naturschutz, eine Maus am Rande des Burn-out und ein geteiltes deutsches Dorf: Die Hofer Filmtage zeigen fünf XR-Film-Projekte.",
+      "url": "https://www.heise.de/news/Hofer-Filmtage-zeigen-immersive-XR-Projekte-Naehrboden-fuer-neue-Erzaehlformen-10699147.html"
     },
     {
       "title": "Fotografie: Historische Meilensteine im Objektivbau",
@@ -372,14 +378,14 @@
       "image_title": "Verpackung des iPad Pro"
     },
     {
+      "title": "Nachhaltige IT – gut für den Planeten und für Unternehmen",
+      "teaser": "Die Digitalisierung verbraucht große Mengen an Rohstoffen und Energie. Das hat negative Auswirkungen auf Umwelt, Klima - und Kosten. Doch dem lässt sich gegensteuern!",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/nachhaltige-it-gut-fuer-den-planeten-und-fuer-unternehmen/?source=hbsadersatz"
+    },
+    {
       "title": "AlertSicherheitsupdate: Schadcode-Lücke bedroht NAS-Modelle von Western Digital",
       "teaser": "Angreifer können bestimmte Netzwerkspeicher von Western Digital mit My Cloud OS attackieren.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Schadcode-Luecke-bedroht-NAS-Modelle-von-Western-Digital-10696726.html"
-    },
-    {
-      "title": "Wie sieht die Zukunft der Videokonferenzen aus?",
-      "teaser": "Videokonferenzen gehören für die meisten Angestellten zum täglichen Alltag. Welche Trends, Techniken und Innovationen Sie im Auge behalten sollten, erfahren Sie in unserem aktuellen Themenspecial mit HP Poly.",
-      "url": "https://it-kenner.heise.de/zukunft-der-videokonferenzen//?source=hbsadersatz"
     },
     {
       "title": "Okta: Digitale Identität für KI-Agenten",
@@ -433,59 +439,9 @@
       "image_title": "Shalbatana Vallis auf dem Mars"
     },
     {
-      "title": "Peloton bringt Fitnessgeräte mit KI-Anbindung",
-      "teaser": "Peloton verspricht grundlegend neue Geräte, KI-gestütztes Personal Coaching und erweiterte Wellness-Inhalte. Parallel steigen die Abopreise für Neukunden.",
-      "url": "https://www.heise.de/news/Peloton-bringt-Fitnessgeraete-mit-KI-Anbindung-10688716.html",
-      "image_title": "Fitnessgeräte"
-    },
-    {
-      "title": "Schiff spioniert kritische Infrastruktur in europäischen Gewässern aus",
-      "url": "https://www.heise.de/news/Russisches-Spionageschiff-kartiert-europaeische-Unterseekabel-10674775.html",
-      "image_title": "Die britische Fregatte HMS Somerset udn das russische Schiff Yantar"
-    },
-    {
-      "title": "Windows 10 weist auf Verlängerung für Sicherheitsupdates hin",
-      "url": "https://www.heise.de/news/Windows-10-weist-auf-Verlaengerung-fuer-Sicherheitsupdates-hin-10673747.html"
-    },
-    {
-      "title": "Update\"Totale Internetblockade\": Ganz Afghanistan seit Montag komplett offline",
-      "url": "https://www.heise.de/news/Totale-Internetblockade-Ganz-Afghanistan-seit-Montag-komplett-offline-10679014.html",
-      "image_title": "Flache Häuser zwischen Bäumen, Staubwolke und Berge im Hintergrund"
-    },
-    {
-      "title": "Bidirektionales Laden: Wie ein Elektroauto (endlich) Geld verdient",
-      "url": "https://www.heise.de/hintergrund/Bidirektionales-Laden-Wie-ein-Elektroauto-endlich-Geld-verdient-10679066.html",
-      "image_title": "BMW iX3"
-    },
-    {
-      "title": "Analyse: Möglicher Asteroideneinschlag in den Mond ließe sich noch verhindern",
-      "url": "https://www.heise.de/news/Analyse-Moeglicher-Asteroideneinschlag-in-den-Mond-liesse-sich-noch-verhindern-10673616.html",
-      "image_title": "Rendering eines Gesteinsbrockens im All, im Hintergrund die Erde"
-    },
-    {
-      "title": "Simulation: Radioteleskope auf dem Mond könnten Rätsel der Dunklen Materie lösen",
-      "url": "https://www.heise.de/news/Simulation-Radioteleskope-auf-dem-Mond-koennten-Raetsel-der-Dunklen-Materie-loesen-10680712.html",
-      "image_title": "Der Mond, dahinter groß die Erde"
-    },
-    {
-      "title": "Abhör-App Neon verriet alles: Offline",
-      "url": "https://www.heise.de/news/Abhoer-App-Neon-verriet-alles-Offline-10678978.html",
-      "image_title": "Eien Frau greift sich an die Stirn"
-    },
-    {
-      "title": "Kommentar zu macOS 26 Tahoe: Halt an, Apple, ich möchte aussteigen",
-      "url": "https://www.heise.de/meinung/Kommentar-zu-macOS-26-Tahoe-Halt-an-Apple-ich-moechte-aussteigen-10663892.html",
-      "image_title": "macOS 26 mit \"Clear Look\"-Widgets"
-    },
-    {
-      "title": "Apples erste Bugfix-Welle für 26er-Betriebssysteme ist da",
-      "url": "https://www.heise.de/news/Erste-Bugfix-Updates-fuer-iOS-26-macOS-26-Co-10678900.html",
-      "image_title": "\"Liquid Glass\"-Design in iOS 26"
-    },
-    {
-      "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im Oktober 2025",
-      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-Oktober-2025-10672501.html",
-      "image_title": "Screenshot zeigt eine Szene aus The Witcher"
+      "title": "iPhone Air mit eSIM bereitet europäischen Netzbetreibern Sorgen",
+      "url": "https://www.heise.de/news/Nur-mit-eSIM-iPhone-Air-treibt-europaeische-Mobilfunker-um-10688492.html",
+      "image_title": "Die Kamera des iPhone Air"
     },
     {
       "title": "Galaxy-Ring: Träger verpasst Flug und muss in die Notaufnahme",
@@ -493,14 +449,51 @@
       "image_title": "Samsung Galaxy Ring am Finger"
     },
     {
-      "title": "DirectX: 30 Jahre Windows-Gaming von DOOM95 bis Raytracing",
-      "url": "https://www.heise.de/hintergrund/DirectX-30-Jahre-Windows-Gaming-von-DOOM95-bis-zu-Raytracing-10674907.html",
-      "image_title": "Alter Computermonitor auf einem Schreibtisch"
+      "title": "AlertApple-Geräten droht Ungemach wegen Schriftarten-Bug, Update hilft",
+      "url": "https://www.heise.de/news/Apple-Geraeten-droht-Ungemach-wegen-Schriftarten-Bug-Update-hilft-10688684.html",
+      "image_title": "Das Apple-Logo über einer gläsernen Etagere"
     },
     {
-      "title": "US-Regierung nimmt Chinas Technologiesektor ins Visier",
-      "url": "https://www.heise.de/news/US-Regierung-nimmt-Chinas-Technologiesektor-ins-Visier-10678871.html",
-      "image_title": "Handelskrieg mit den USA: China schwingt die \"Rohstoff-Keule\""
+      "title": "Bidirektionales Laden: Wie ein Elektroauto (endlich) Geld verdient",
+      "url": "https://www.heise.de/hintergrund/Bidirektionales-Laden-Wie-ein-Elektroauto-endlich-Geld-verdient-10679066.html",
+      "image_title": "BMW iX3"
+    },
+    {
+      "title": "Digitale Forensik in Gaza: Wie Satelliten militärische Strategien aufdecken",
+      "url": "https://www.heise.de/hintergrund/Digitale-Forensik-in-Gaza-Wie-Satelliten-militaerische-Strategien-aufdecken-10652498.html"
+    },
+    {
+      "title": "Sora 2: OpenAIs neue Video-KI kommt mit Ton und eigener Social-App",
+      "url": "https://www.heise.de/news/Video-KI-Sora-2-OpenAI-kombiniert-Modell-mit-Social-App-und-Audio-Generierung-10688916.html"
+    },
+    {
+      "title": "Abhör-App Neon verriet alles: Offline",
+      "url": "https://www.heise.de/news/Abhoer-App-Neon-verriet-alles-Offline-10678978.html",
+      "image_title": "Eien Frau greift sich an die Stirn"
+    },
+    {
+      "title": "Kindle Scribe Colorsoft: Amazons erstes E-Ink-Tablet mit Stift in Farbe",
+      "url": "https://www.heise.de/news/Kindle-Scribe-Colorsoft-Amazons-erstes-E-Ink-Tablet-mit-Stift-in-Farbe-10684635.html"
+    },
+    {
+      "title": "Afghanistan weiter komplett offline: Dramatische Warnung der Vereinten Nationen",
+      "url": "https://www.heise.de/news/Afghanistan-weiter-komplett-offline-Dramatische-Warnung-der-Vereinten-Nationen-10688804.html",
+      "image_title": "Flache Häuser zwischen Bäumen, Staubwolke und Berge im Hintergrund"
+    },
+    {
+      "title": "Daniel Ek tritt als Spotify-CEO zurück",
+      "url": "https://www.heise.de/news/Spotify-Daniel-Ek-gibt-CEO-Posten-ab-10687075.html",
+      "image_title": "Spotify-Gründer Daniel Ek"
+    },
+    {
+      "title": "UpdateFire TV Stick 4K Select: Amazon stellt 4K-Player mit neuem OS vor",
+      "url": "https://www.heise.de/news/Amazon-Fire-TV-4K-Player-fuer-Einsteiger-mit-neuem-Betriebssystem-10684523.html",
+      "image_title": "Amazon-Manager auf Bühne"
+    },
+    {
+      "title": "UpdateEcho Dot Max, Echo Studio und Echo Show vorgestellt",
+      "url": "https://www.heise.de/news/Echo-Dot-Max-Echo-Studio-und-Echo-Show-vorgestellt-10683115.html",
+      "image_title": "Echo-Lautsprecher auf Tisch"
     },
     {
       "title": "Hyundai Tucson: Neue Motoren, höherer Verbrauch",
@@ -508,9 +501,13 @@
       "image_title": "Hyundai Tucson"
     },
     {
-      "title": "Siemens baut Fabrik für Zugbatterien",
-      "url": "https://www.heise.de/news/Siemens-baut-Fabrik-fuer-Zugbatterien-10674915.html",
-      "image_title": "Batterieelektrischer Regionalzug Mireo Plus B von Siemens"
+      "title": "Güterverkehr: Autonomer Elektro-Truck überschreitet selbstständig Grenze",
+      "url": "https://www.heise.de/news/Gueterverkehr-Autonomer-Elektro-Truck-ueberschreitet-selbststaendig-Grenze-10689922.html",
+      "image_title": "Autonomer Truck vor Gebäude"
+    },
+    {
+      "title": "Google stellt klar: Sideloading auf Android bleibt erhalten",
+      "url": "https://www.heise.de/news/Google-stellt-klar-Sideloading-auf-Android-bleibt-erhalten-10688904.html"
     },
     {
       "title": "Wem gehört ein Open-Source-Projekt? – RubyGems droht die Spaltung",
@@ -518,28 +515,27 @@
       "image_title": "Gleisanlagen in Maschen im Gegenlicht"
     },
     {
+      "title": "Staatsvertrag: Alle Provider sollen rechtswidrige Glücksspiele sperren müssen",
+      "url": "https://www.heise.de/news/Staatsvertrag-Alle-Provider-sollen-rechtswidrige-Gluecksspiele-sperren-muessen-10688440.html"
+    },
+    {
       "title": "Trumps EU-Botschafter verlangt Änderung von EU-Regeln",
       "url": "https://www.heise.de/news/Trumps-EU-Botschafter-verlangt-Aenderung-von-EU-Regeln-10674031.html",
       "image_title": "Andrew Puzder"
     },
     {
-      "title": "Volksabstimmung: 50,39 Prozent der Schweizer stimmen für E-ID",
-      "url": "https://www.heise.de/news/Schweiz-Hauchduenne-Mehrheit-fuer-E-ID-10673380.html",
-      "image_title": "Schweiz-Flagge als Hologramm"
+      "title": "Mittwoch: Windows 11 25H2 verfügbar, Googles Einblicke gegen Wettbewerbskritik",
+      "url": "https://www.heise.de/news/Mittwoch-Windows-11-25H2-verfuegbar-Googles-Einblicke-gegen-Wettbewerbskritik-10688766.html",
+      "image_title": "Laptop mit Windows 11; Mittwoch: Herbst-Update, Google-Offenheit, Update-Dringlichkeit, Alexa+-Details & Thief-VR"
     },
     {
       "title": "Zahlen, bitte! TON 618: Riesiges Schwarzes Loch mit 66 Milliarden Sonnenmassen",
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-TON-618-Riesiges-Schwarzes-Loch-mit-66-Milliarden-Sonnenmassen-10679152.html"
     },
     {
-      "title": "\"Darknet Diaries Deutsch\": Der Mann, der WannaCry stoppte",
-      "url": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Der-Mann-der-WannaCry-stoppte-10662349.html",
-      "image_title": "Aufmacherbild Darknet Diaries Deutsch"
-    },
-    {
-      "title": "Dienstag: Washington erweitert schwarze Liste, Spionageschiff sorgt für Unruhe",
-      "url": "https://www.heise.de/news/Dienstag-Washington-erweitert-schwarze-Liste-Spionageschiff-sorgt-fuer-Unruhe-10678940.html",
-      "image_title": "Tasten einer Tastatur mit den Flagge der USA und Chinas, dazu Text: DIENSTAG Handelskrieg, Spionageschiff Yantar, Electronic Arts, Windows 10 & E-Patientenakte"
+      "title": "Peloton bringt Fitnessgeräte mit KI-Anbindung",
+      "url": "https://www.heise.de/news/Peloton-bringt-Fitnessgeraete-mit-KI-Anbindung-10688716.html",
+      "image_title": "Fitnessgeräte"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Berater in Deutschland",
@@ -585,26 +581,25 @@
       "url": "https://www.heise.de/multimediadatei/Flughafen-Attacken-KI-Blase-Elektroauto-Ladepunkte-heiseshow-10671178.html"
     },
     {
-      "title": "Chat control & Kutcher: Ombudsman criticizes secrecy",
-      "url": "https://www.heise.de/en/news/Chat-control-Kutcher-Ombudsman-criticizes-secrecy-9805435.html",
-      "image_title": "Blurred hands on keyboard"
-    },
-    {
-      "title": "ADAC 2025 winter tyre test: Hands off cheap tyres",
-      "url": "https://www.heise.de/en/guide/ADAC-2025-winter-tyre-test-Hands-off-cheap-tyres-10669240.html",
-      "image_title": "ADAC winter tyre test 2025"
-    },
-    {
       "title": "Windows 10 indicates extension for security updates",
       "url": "https://www.heise.de/en/news/Windows-10-indicates-extension-for-security-updates-10674318.html"
     },
     {
-      "title": "iPhone 17: How Apple's shops combat the stain problem",
-      "url": "https://www.heise.de/en/news/iPhone-17-How-Apple-s-shops-combat-the-stain-problem-10684327.html"
+      "title": "Austria's armed forces switch to LibreOffice",
+      "url": "https://www.heise.de/en/news/Austria-s-armed-forces-switch-to-LibreOffice-10660761.html",
+      "image_title": "2 soldiers climbing a rock face"
     },
     {
-      "title": "YouTube auto-dubbing: Robotic translation annoys users and cannot be turned off",
-      "url": "https://www.heise.de/en/news/YouTube-auto-dubbing-Robotic-translation-annoys-users-and-cannot-be-turned-off-10315551.html"
+      "title": "ADAC 2025 winter tyre test: Hands off cheap tyres",
+      "url": "https://www.heise.de/en/guide/ADAC-2025-winter-tyre-test-Hands-off-cheap-tyres-10669240.html"
+    },
+    {
+      "title": "Xiaomi 17 Pro and Pro Max: high-end models with rear display, massive batteries",
+      "url": "https://www.heise.de/en/news/Xiaomi-17-Pro-and-Pro-Max-high-end-models-with-rear-display-massive-batteries-10671529.html"
+    },
+    {
+      "title": "Microsoft releases Windows 11 25H2: Major autumn update as a small download",
+      "url": "https://www.heise.de/en/news/Microsoft-releases-Windows-11-25H2-Major-autumn-update-as-a-small-download-10688761.html"
     },
     {
       "title": "Datenschutzvorfall: Identitätsdaten bei Schufa-Tochter Bonify abgeflossen",
@@ -612,9 +607,9 @@
       "url": "https://www.heise.de/news/Datenschutzvorfall-Identitaetsdaten-bei-Schufa-Tochter-Bonify-abgeflossen-10689766.html"
     },
     {
-      "title": "MiSTER Pi im Test: FPGA-Retrogaming in günstig",
-      "teaser": "Entwickler investieren viel Mühe, um SNES & Co. akkurat in einem FPGA nachzubilden. Dank MiSTER Pi bezahlt man für dieses Retro-Erlebnis nun deutlich weniger.",
-      "url": "https://www.heise.de/tests/MiSTER-Pi-im-Test-FPGA-Retrogaming-in-guenstig-10468124.html"
+      "title": "Nach Ende von Nova Launcher: Fünf alternative Android-Launcher im Vergleich",
+      "teaser": "Android-Launcher ändern das Aussehen, die Bedienung und den Funktionsumfang des Smartphones. Wir haben fünf der alternativen Bedienoberflächen getestet.",
+      "url": "https://www.heise.de/tests/Nach-Ende-von-Nova-Launcher-Fuenf-alternative-Android-Launcher-im-Vergleich-10640532.html"
     },
     {
       "title": "Glasfaser-Inhouse-VerkabelungSo vermeiden Sie das Monopol im Treppenhaus",
@@ -645,16 +640,15 @@
       "url": "https://www.heise.de/news/Forschungspreis-Wissen-der-Vielen-wuerdigt-wissenschaftliche-Leistungen-10675312.html"
     },
     {
+      "title": "Klein, günstig, leicht: Frästisch im Systainer selbst bauen",
+      "teaser": "Unser DIY-Frästisch ist in einen Kunststoff-Werkzeugkoffer inklusive Zubehörschublade eingebaut und erweitert die heimische Holzwerkstatt platzsparend.",
+      "url": "https://www.heise.de/ratgeber/Klein-guenstig-leicht-Fraestisch-im-Systainer-selbst-bauen-10631103.html"
+    },
+    {
       "title": "Kompaktes Internet-Radio bauen mit ESP32 im Kassettengehäuse",
       "teaser": "Mit der yoRadio-Firmware lässt sich aus ein paar Standardkomponenten schnell ein kompaktes Internetradio bauen – das sogar in das Gehäuse einer Kassette passt.",
       "url": "https://www.heise.de/ratgeber/Kompaktes-Internet-Radio-bauen-mit-ESP32-im-Kassettengehaeuse-10634268.html",
       "image_title": ","
-    },
-    {
-      "title": "UpdateFS-5000-Geigerzähler für Maker und Neugierige",
-      "teaser": "FS-5000 ist ein günstiger Geigerzähler für Experimente und Umweltmonitoring. Dank alternativer Open-Source-Firmware auch mit guter Bedienung.",
-      "url": "https://www.heise.de/news/FS-5000-Geigerzaehler-fuer-Maker-und-Neugierige-10669355.html",
-      "image_title": "Geönneter Geigerzähler"
     },
     {
       "title": "Sony stellt neues Makro-Objektiv aus der G-Master-Serie vor",
@@ -737,22 +731,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Argentinien: US-Shutdown gefährdet Milliardenhilfe für Präsident Milei",
-      "teaser": "Argentiniens Wirtschaft taumelt am Abgrund. Rettung versprach ein US-Hilfspaket. Doch der Shutdown in Washington könnte den Deal platzen lassen.",
-      "url": "https://www.heise.de/tp/features/Argentinien-US-Shutdown-gefaehrdet-Milliardenhilfe-fuer-Praesident-Milei-10695051.html",
-      "image_title": "Der argentinische Präsident Javier Milei wird wohl von den USA im Stich gelassen."
+      "title": "Forscher analysieren Potenzial von Perowskit-Solarzellen",
+      "teaser": "Perowskit-Tripel-Solarzellen versprechen Rekord-Wirkungsgrade von über 49 Prozent. Doch es gibt noch Hürden auf dem Weg zur Marktreife.",
+      "url": "https://www.heise.de/tp/features/Forscher-analysieren-Potenzial-von-Perowskit-Solarzellen-10679506.html",
+      "image_title": "Perowskit/Perowskit/Silizium-Dreifach-Solarzellen (PSTJSCs) entwickeln sich zu einer vielversprechenden Strategie, um die Effizienzgrenzen herkömmlicher Silizium-Solarzellen zu überschreiten."
     },
     {
-      "title": "Zwischen Russland und Westen: Moldau bleibt gespalten",
-      "teaser": "Pro-EU-Partei siegt knapp. Opposition kritisiert Wahlausschlüsse. Warum das Land weiter zwischen Ost und West zerrissen bleibt. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Zwischen-Russland-und-Westen-Moldau-bleibt-gespalten-10680676.html",
-      "image_title": "Wahlbüro in Moldau, eine Frau an einer Urne"
+      "title": "Überholt Huawei bald Nvidia bei KI-Chips?",
+      "teaser": "Trotz technologischer Hürden: Huawei setzt auf innovative Chip-Vernetzung, um Nvidia im KI-Wettlauf die Stirn zu bieten.",
+      "url": "https://www.heise.de/tp/features/Ueberholt-Huawei-bald-Nvidia-bei-KI-Chips-10678803.html",
+      "image_title": "Abstrakter digitaler Hintergrund mit KI-Buchstaben und Netzwerkverbindungen in blauer Farbe."
     },
     {
-      "title": "500 Jahre alte Täuschung: Warum Afrika auf Karten kleiner wirkt",
-      "teaser": "Afrika wird in der Mercator-Projektion geschrumpft, weil das die geringere Bedeutung des kolonialisierten Erdteils repräsentieren soll. Lässt sich der Fehler beheben?",
-      "url": "https://www.heise.de/tp/features/500-Jahre-alte-Taeuschung-Warum-Afrika-auf-Karten-kleiner-wirkt-10634120.html",
-      "image_title": "Karte der Welt in der Mercator-Projektion. Afrika mit Vergleichsgrößen"
+      "title": "Mathematisch bewiesen: KI-Halluzinationen sind nicht zu verhindern",
+      "teaser": "Neue mathematische Analyse zeigt: KI-Halluzinationen sind unvermeidbar – es sei denn, Systeme sagen öfter \"Ich weiß es nicht\".",
+      "url": "https://www.heise.de/tp/features/Mathematisch-bewiesen-KI-Halluzinationen-sind-nicht-zu-verhindern-10669149.html",
+      "image_title": "Ein Roboter guckt verträumt ins Leere und daddelt mit Platinen"
     },
     {
       "title": "Unterschätzter Hebel: So erhöhst du die Qualität eingehender Bewerbungen",
