@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T08:11:34",
+  "timestamp": "2025-10-04T09:08:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "KI-Analyse für Aktien-Diskussionen auf Reddit: Anleitung zum Nachbauen",
+      "url": "https://www.heise.de/ratgeber/KI-Analyse-fuer-Aktien-Diskussionen-auf-Reddit-Anleitung-zum-Nachbauen-10482697.html"
+    },
     {
       "title": "iX-Workshop: IT-Recht für Admins – Wege zur gesetzeskonformen IT-Praxis",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Recht-fuer-Admins-Wege-zur-gesetzeskonformen-IT-Praxis-10666062.html"
@@ -60,10 +64,6 @@
     {
       "title": "ICE-Tracking-App: Apple beugt sich dem Druck der Staatsanwaltschaft",
       "url": "https://www.heise.de/news/ICE-Tracking-App-Apple-beugt-sich-dem-Druck-der-Staatsanwaltschaft-10711762.html"
-    },
-    {
-      "title": "Geht wirklich: Photoshop unter Linux",
-      "url": "https://www.heise.de/news/Geht-wirklich-Photoshop-unter-Linux-10710828.html"
     },
     {
       "title": "1,1 Millionen NutzerICE-Tracking-App: Apple beugt sich dem Druck der Staatsanwaltschaft",
@@ -185,21 +185,27 @@
       "url": "https://www.heise.de/news/Geht-wirklich-Photoshop-unter-Linux-10710828.html"
     },
     {
+      "title": "KI-Analyse für Aktien-Diskussionen auf Reddit: Anleitung zum Nachbauen",
+      "teaser": "Mit Python lassen sich populäre Aktien in r/wallstreetbets aufspüren. Wir zeigen, wie Sie einen Aktien-Crawler um eine KI erweitern, die Diskussionen auswertet.",
+      "url": "https://www.heise.de/ratgeber/KI-Analyse-fuer-Aktien-Diskussionen-auf-Reddit-Anleitung-zum-Nachbauen-10482697.html",
+      "image_title": "KI in Androidengestalt vor symbolischen Aktiencharts und Raketen-Symbolen."
+    },
+    {
       "title": "iX-Workshop: IT-Recht für Admins – Wege zur gesetzeskonformen IT-Praxis",
       "teaser": "CRA, NIS-2 und AI Act: Wie Unternehmen ihre IT rechtssicher betreiben können – praxisorientierte Einblicke aus dem Alltag von Systemadministratoren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Recht-fuer-Admins-Wege-zur-gesetzeskonformen-IT-Praxis-10666062.html",
       "image_title": "ix-Tagesworkshop IT-Recht für Administrator:innen"
     },
     {
+      "title": "Zukunftssichere Netzwerke für den Service Provider-Anschluss",
+      "teaser": "Damit man hohe Bandbreiten auch wirklich nutzen kann, braucht es mehr als einen leistungsfähigen Service Provider. Gefragt ist eine Plattform, die Netzwerktechnik und Videosicherheit kombiniert.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084822001&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Developer Snapshots: Kleinere News der Woche",
       "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Visual Studio, Agent Framework, CMake, ShellBrowser, Databricks, Docker, Keycloak und Apache Pinot.",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10699661.html",
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
-    },
-    {
-      "title": "Wie smartes Wohnen komfortabel wurde – ein Jubiläum",
-      "teaser": "Vom Pionier zum Spitzenreiter bei den Smart-Home-Systemen – Homematic IP feiert zehn Jahre Innovationen. Einfachheit und Sicherheit stehen bei Heizung, Haustür oder dem ganzen Gebäude im Fokus.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092575235&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Windows 11 auf angeblich inkompatibler Hardware installieren",
@@ -227,11 +233,6 @@
       "title": "Balkonkraftwerk mit und ohne Speicher: Dank Herbst-Rabatt besonders günstig",
       "teaser": "Immer häufiger greifen Anwender zu einem Balkonkraftwerk mit Speicher, da es langfristig mehr Gewinn bietet. Wir zeigen die besten Angebote.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/balkonkraftwerk-mit-und-ohne-speicher-dank-herbst-rabatt-besonders-guenstig/xl8fc44?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Günstiger und flotter Mini-PC: Chuwi UBox CWI604 mit Ryzen 5 & USB4 im Test",
-      "teaser": "Die Chuwi UBox CWI604 bietet neben solider Mittelklasse-Leistung einige Oberklasse-Features: USB4, zweimal 2,5-GBit/s-LAN – das ist für 310 Euro stark.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/guenstiger-und-flotter-mini-pc-chuwi-ubox-cwi604-mit-ryzen-5-und-usb4-im-test/xf3262c?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -296,6 +297,11 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Günstiger und flotter Mini-PC: Chuwi UBox CWI604 mit Ryzen 5 & USB4 im Test",
+      "teaser": "Die Chuwi UBox CWI604 bietet neben solider Mittelklasse-Leistung einige Oberklasse-Features: USB4, zweimal 2,5-GBit/s-LAN – das ist für 310 Euro stark.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/guenstiger-und-flotter-mini-pc-chuwi-ubox-cwi604-mit-ryzen-5-und-usb4-im-test/xf3262c?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Drohnensichtungen über Kiel: Russische Schattenflotte unter Verdacht",
@@ -367,14 +373,14 @@
       "image_title": "Person tippt am Laptop."
     },
     {
+      "title": "Warum Sie jetzt Ihre Server modernisieren sollten",
+      "teaser": "Veraltete Technologien können die Produktivität hemmen, die Sicherheit gefährden und die Kosten in die Höhe treiben. In einem Webcast erfahren Sie, wie Sie mit einem „Technologie-Refresh“ Ihr Unternehmen modernisieren können.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-sie-jetzt-ihre-server-modernisieren-sollten-4968/?source=nat_teas"
+    },
+    {
       "title": "Strom und Wärme gleichzeitig erzeugen: Für wen PVT-Module interessant sind",
       "teaser": "PVT-Module liefern Strom und Wärme vom Dach – interessant für alle, die eine Wärmepumpe ohne Bohrung oder Außeninstallation betreiben wollen.",
       "url": "https://www.heise.de/ratgeber/Strom-und-Waerme-gleichzeitig-erzeugen-Fuer-wen-PVT-Module-interessant-sind-10359144.html"
-    },
-    {
-      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
-      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? In einem Webcast können Sie erfahren, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
-      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
     },
     {
       "title": "Linux: Torvalds wirft Bcachefs-Dateisystem aus dem Kernel",
@@ -429,11 +435,6 @@
       "teaser": "Bei bestimmten Ohrenformen scheinen Apples brandneue ANC-Stöpsel Irritationen hervorzurufen – teilweise auch blutige. Ist der neue Pulsmesser schuld?",
       "url": "https://www.heise.de/news/AirPods-Pro-3-Macht-der-Pulssensor-zu-viel-Druck-aufs-Ohr-10702515.html",
       "image_title": "AirPods Pro 3: Herausgestellt ist der Herzfrequenzsensor"
-    },
-    {
-      "title": "Top 10: Das beste City-E-Bike im Test – Mittelmotor schon ab 799 Euro",
-      "teaser": "Wir haben etwa 55 City-E-Bikes getestet – mit Fokus auf Ausstattung und Preis-Leistung. Hier kommen die zehn besten Pedelecs für die Stadt.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-city-e-bike-im-test-mittelmotor-schon-ab-799-euro/syrrc15?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Athena1 wird Europas erster Rüstungs-Prozessor",
@@ -603,9 +604,9 @@
       "url": "https://www.heise.de/en/news/Austria-s-armed-forces-switch-to-LibreOffice-10660761.html"
     },
     {
-      "title": "c’t uplinkEinbrecher abschrecken mit Kameras: Technik & Risiken",
-      "teaser": "Netzwerkkameras haben ein Grundstück im Blick und melden Auffälligkeiten per App – so die Theorie. Doch hilft Videoüberwachung wirklich gegen Einbrecher?",
-      "url": "https://www.heise.de/news/Einbrecher-abschrecken-mit-Kameras-Technik-Risiken-c-t-uplink-10699496.html"
+      "title": "Server-SSDs getestet: Robust, langlebig, massive Kapazitäten",
+      "teaser": "In SSDs für Server stecken ähnliche Komponenten wie in denen für Notebooks und PCs. Dennoch ist bei Server-SSDs vieles anders – wie ein Beispiel zeigt.",
+      "url": "https://www.heise.de/tests/Server-SSDs-getestet-Robust-langlebig-massive-Kapazitaeten-10511996.html"
     },
     {
       "title": "Microsoft 365Neues Abo für Privatnutzer mit Copilot",
@@ -614,9 +615,9 @@
       "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
     },
     {
-      "title": "c't 3003Geht wirklich: Photoshop unter Linux",
-      "teaser": "Linux auf dem Desktop wird immer beliebter, aber zwei große Hürden gibts noch: Adobe-Software und Microsoft Office. WinBoat holt beides auf den Linux-Desktop.",
-      "url": "https://www.heise.de/news/Geht-wirklich-Photoshop-unter-Linux-10710828.html"
+      "title": "c't-Webinar: Wärmepumpen – Chancen, Grenzen, Kosten",
+      "teaser": "Fossile Brennstoffe haben ausgedient. Erfahren Sie im c’t-Webinar, wie Wärmepumpen funktionieren und ob sie für Ihr Zuhause geeignet sind.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpen-Chancen-Grenzen-Kosten-10673606.html"
     },
     {
       "title": "Fünf Jahre Macs mit Apple SiliconDer Siegeszug der M-Chips",
@@ -734,22 +735,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Kippt Tschechien jetzt ins Putin-Lager?",
-      "teaser": "Tschechiens wichtiges Munitionsprogramm für die Ukraine steht nach den Wahlen auf der Kippe. Die Folgen könnten dramatisch sein.",
-      "url": "https://www.heise.de/tp/features/Kippt-Tschechien-jetzt-ins-Putin-Lager-10690960.html",
-      "image_title": "Der frühere tschechische Premierminister Andrej Babis könnte wieder an die Macht gelangen und die Ukraine-Hilfen stoppen."
+      "title": "Stabwechsel bei Telepolis: Bernd Müller folgt auf Harald Neuber",
+      "teaser": "Bernd Müller übernimmt die Chefredaktion von Telepolis. Er plant, den Kurs seines Vorgängers fortzusetzen, aber auch neue Akzente zu setzen.",
+      "url": "https://www.heise.de/tp/features/Stabwechsel-bei-Telepolis-Bernd-Mueller-folgt-auf-Harald-Neuber-10705450.html",
+      "image_title": "Porträt von Bernd Müller"
     },
     {
-      "title": "Ausgemustert für den Krieg: Die seltsame Chronologie der Tomahawk-Lieferung",
-      "teaser": "Eine seltsame Chronologie legt nahe, dass die Lieferung der Tomahawk-Marschflugkörper an die Ukraine bereits vor den Alaska-Friedensgesprächen vorbereitet wurde.",
-      "url": "https://www.heise.de/tp/features/Ausgemustert-fuer-den-Krieg-Die-seltsame-Chronologie-der-Tomahawk-Lieferung-10702723.html",
-      "image_title": "Tomahawk-Marschflugkörper auf Ukraine-Flagge mit Reichweiten auf Russland-Flagge"
+      "title": "\"Nicht mit unseren Händen\": Wie Italiens Hafenarbeiter die Kriegslogistik blockieren",
+      "teaser": "Italiens Hafenarbeiter verweigern das Verladen von Waffen. Sie nutzen ihre Macht an globalen Knotenpunkten. Doch der Staat schlägt zurück.",
+      "url": "https://www.heise.de/tp/features/Nicht-mit-unseren-Haenden-Wie-Italiens-Hafenarbeiter-die-Kriegslogistik-blockieren-10708011.html",
+      "image_title": "Der Containerport von Genua"
     },
     {
-      "title": "Ann-Kathrin Kaufhold: Eine Verfassungsrichterin für den politischen Aktivismus",
-      "teaser": "Mit Ann-Katrin Kaufhold hat der Bundestag eine Verfassungsrichterin gewählt, die politische Ziele mit Hilfe von Gerichten und Zentralbanken durchsetzen will. Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Ann-Kathrin-Kaufhold-Eine-Verfassungsrichterin-fuer-den-politischen-Aktivismus-10680958.html",
-      "image_title": "Gewaltenteilung-Tortendiagramm mit übergriffiger Hand aus dem Judikative-Sektor und von Außen mit EZB-Logo"
+      "title": "Trump liefert Zieldaten: Ukraine darf Russlands Energieanlagen angreifen",
+      "teaser": "Geheimdienstdaten und neue Waffen aus den USA sollen Kiew in die Lage versetzen, Russlands Energieinfrastruktur im Hinterland anzugreifen.",
+      "url": "https://www.heise.de/tp/features/Trump-liefert-Zieldaten-Ukraine-darf-Russlands-Energieanlagen-angreifen-10708553.html",
+      "image_title": "Drei Tomahawk-Marschflugkörper. 3D-Rendering."
     },
     {
       "title": "Gemini gegen Alexa Plus: Amazon könnte Spitzenplatz im Smarthome verlieren",
