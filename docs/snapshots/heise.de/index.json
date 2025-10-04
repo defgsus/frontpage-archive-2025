@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T15:08:05",
+  "timestamp": "2025-10-04T16:10:03",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Cariad: VW-Tochter stellt eigene Software-Entwicklung weitgehend ein",
+      "url": "https://www.heise.de/news/Cariad-VW-Tochter-stellt-eigene-Software-Entwicklung-weitgehend-ein-10711997.html"
+    },
     {
       "title": "Betrieb am Flughafen BER läuft trotz Beeinträchtigungen nach Cyberattacke stabil",
       "url": "https://www.heise.de/news/Betrieb-am-Flughafen-BER-laeuft-trotz-Beeintraechtigungen-nach-Cyberattacke-stabil-10711991.html"
@@ -62,14 +66,10 @@
       "url": "https://www.heise.de/news/Nordex-7-MW-Windturbine-soll-extremer-Kaelte-trotzen-koennen-10711858.html"
     },
     {
-      "title": "KI-Analyse für Aktien-Diskussionen auf Reddit: Anleitung zum Nachbauen",
-      "url": "https://www.heise.de/ratgeber/KI-Analyse-fuer-Aktien-Diskussionen-auf-Reddit-Anleitung-zum-Nachbauen-10482697.html"
-    },
-    {
-      "title": "1,1 Millionen NutzerICE-Tracking-App: Apple beugt sich dem Druck der Staatsanwaltschaft",
-      "teaser": "Apple hat die App ICEBlock, mit der Nutzer Standorte von Einwanderungsbeamten melden konnten, aus dem App Store entfernt.",
-      "url": "https://www.heise.de/news/ICE-Tracking-App-Apple-beugt-sich-dem-Druck-der-Staatsanwaltschaft-10711762.html",
-      "image_title": "Polizei, USA, Blaulicht"
+      "title": "Raumfrachter \"Arc\"Raumschiff soll Fracht an jeden Ort der Welt liefern",
+      "teaser": "Inversions Raumfrachter sollen militärische Güter im All lagern und in kürzester Zeit weltweit ausliefern – das Projekt wirft weltraumpolitische Fragen auf.",
+      "url": "https://www.heise.de/news/Inversion-Raumfrachter-soll-jeden-Ort-der-Welt-in-60-Minuten-erreichen-10711766.html",
+      "image_title": "Grafik zeigt, wie ein Arc-Raumfrachter die Erdatmosphäre durchbricht"
     },
     {
       "title": "Glasfaser-Hausnetz in EigenregieSo vermeiden Sie das Monopol im Treppenhaus",
@@ -88,10 +88,10 @@
       "url": "https://www.heise.de/ratgeber/Wie-Sie-Windows-10-ein-weiteres-Jahr-Updates-verschaffen-10573864.html"
     },
     {
-      "title": "Raumfrachter \"Arc\"Raumschiff soll Fracht an jeden Ort der Welt liefern",
-      "teaser": "Inversions Raumfrachter sollen militärische Güter im All lagern und in kürzester Zeit weltweit ausliefern – das Projekt wirft weltraumpolitische Fragen auf.",
-      "url": "https://www.heise.de/news/Inversion-Raumfrachter-soll-jeden-Ort-der-Welt-in-60-Minuten-erreichen-10711766.html",
-      "image_title": "Grafik zeigt, wie ein Arc-Raumfrachter die Erdatmosphäre durchbricht"
+      "title": "1,1 Millionen NutzerICE-Tracking-App: Apple beugt sich dem Druck der Staatsanwaltschaft",
+      "teaser": "Apple hat die App ICEBlock, mit der Nutzer Standorte von Einwanderungsbeamten melden konnten, aus dem App Store entfernt.",
+      "url": "https://www.heise.de/news/ICE-Tracking-App-Apple-beugt-sich-dem-Druck-der-Staatsanwaltschaft-10711762.html",
+      "image_title": "Polizei, USA, Blaulicht"
     },
     {
       "title": "Überwachung am ArbeitsplatzKameras im Betrieb: Arbeiter erhält 15.000 Euro Entschädigung",
@@ -185,20 +185,26 @@
       "url": "https://www.heise.de/news/Geht-wirklich-Photoshop-unter-Linux-10710828.html"
     },
     {
+      "title": "Cariad: VW-Tochter stellt eigene Software-Entwicklung weitgehend ein",
+      "teaser": "Die umstrittene Softwaretochter Cariad existiert bei Volkswagen zwar weiter, fungiert aber nur noch als Integrator von Code von Partnern wie Rivian und Xpeng.",
+      "url": "https://www.heise.de/news/Cariad-VW-Tochter-stellt-eigene-Software-Entwicklung-weitgehend-ein-10711997.html",
+      "image_title": "Volkswagen in Wolfsburg"
+    },
+    {
       "title": "Betrieb am Flughafen BER läuft trotz Beeinträchtigungen nach Cyberattacke stabil",
       "teaser": "Nach dem Hackerangriff auf ein IT-System arbeitet der Flughafen BER über das lange Wochenende noch nicht im Normalbetrieb. Was Fluggäste beachten müssen.",
       "url": "https://www.heise.de/news/Betrieb-am-Flughafen-BER-laeuft-trotz-Beeintraechtigungen-nach-Cyberattacke-stabil-10711991.html",
       "image_title": "Logo des Berliner Flughafen BER"
     },
     {
+      "title": "Digitales Vertrauen aufbauen und Cyber-Risiken senken",
+      "teaser": "Ob bei Cloud-Sicherheit, KI-Ethik oder Datenschutz – der Aufbau von digitalem Vertrauen ist nicht nur ein Schlagwort, sondern eine stetige Aufgabe. Ein globaler Berufsverband dient als Wegbereiter.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7077467230&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Mähroboter ohne RTK und Lidar: Terramow V1000 im Test – erstaunlich gut",
       "teaser": "Der Terramow V1000 setzt nur auf drei Kameras – reicht das zur zuverlässigen Navigation? Unser Testbericht klärt auf.",
       "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-ohne-rtk-und-lidar-terramow-v1000-im-test-erstaunlich-gut/y8yfj1z?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Starke Marken werden digital souverän",
-      "teaser": "Beim Wunsch nach Sicherheit und Kontrolle über die eigenen Daten und Systeme vertrauen renommierte Unternehmen den Lösungen von Schwarz Digits. Wie und was genau getan wurde, haben sie aufgeschrieben.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7098811084&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Studie: Potenziell gefährliche KI-generierte Proteine werden nicht immer erkannt",
@@ -227,12 +233,6 @@
       "title": "Desinfec’t 2025/26: Jetzt Windows-PCs von Viren befreien",
       "teaser": "Die neue Version des c’t-Sicherheitstools bringt Virenscanner von ClamAV, ESET, IKARUS und WithSecure mit. Sie können damit sogar Ihre Daten retten.",
       "url": "https://www.heise.de/news/Desinfec-t-2025-26-Jetzt-Windows-PCs-von-Viren-befreien-10673532.html"
-    },
-    {
-      "title": "Nordex: 7-MW-Windturbine soll extremer Kälte trotzen können",
-      "teaser": "Eine Windkraftanlage von Nordex soll extremer Kälte standhalten, ohne dabei an Leistungsfähigkeit einzubüßen. Eine spezielle Enteisungsanlage mache das möglich.",
-      "url": "https://www.heise.de/news/Nordex-7-MW-Windturbine-soll-extremer-Kaelte-trotzen-koennen-10711858.html",
-      "image_title": "Windkraftanlage von Nordex im kanadischen Wald."
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -275,16 +275,17 @@
       "url": "https://www.heise.de/hintergrund/Glasfaser-Inhouse-Verkabelung-So-vermeiden-Sie-das-Monopol-im-Treppenhaus-10636012.html"
     },
     {
-      "title": "\"Technologieoffenheit\": Merz will Verbrennerverbot in der EU kippen",
-      "url": "https://www.heise.de/news/Technologieoffenheit-Merz-will-Verbrennerverbot-in-der-EU-kippen-10673029.html"
-    },
-    {
       "title": "WhatsApp-Konkurrent Signal droht mit Rückzug aus Europa",
-      "url": "https://www.heise.de/news/Chefin-der-Signal-App-droht-mit-Rueckzug-aus-Europa-10688792.html"
+      "url": "https://www.heise.de/news/Chefin-der-Signal-App-droht-mit-Rueckzug-aus-Europa-10688792.html",
+      "image_title": "Finger über Signal-App mit vier Benachrichtigungen"
     },
     {
       "title": "Tesla Cybertruck: Zu gefährlich für deutsche Straßen",
       "url": "https://www.heise.de/news/Cybertruck-bleibt-in-Deutschland-verboten-auch-fuer-US-Militaer-10693029.html"
+    },
+    {
+      "title": "Kfz-Steuerbefreiung für neue E-Autos steht auf der Kippe",
+      "url": "https://www.heise.de/news/Autogipfel-am-9-Oktober-soll-Steuerbefreiung-fuer-E-Autos-klaeren-10673114.html"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -297,6 +298,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Nordex: 7-MW-Windturbine soll extremer Kälte trotzen können",
+      "teaser": "Eine Windkraftanlage von Nordex soll extremer Kälte standhalten, ohne dabei an Leistungsfähigkeit einzubüßen. Eine spezielle Enteisungsanlage mache das möglich.",
+      "url": "https://www.heise.de/news/Nordex-7-MW-Windturbine-soll-extremer-Kaelte-trotzen-koennen-10711858.html",
+      "image_title": "Windkraftanlage von Nordex im kanadischen Wald."
     },
     {
       "title": "KI-Analyse für Aktien-Diskussionen auf Reddit: Anleitung zum Nachbauen",
@@ -367,15 +374,15 @@
       "image_title": "heise+ Update Volker Zota"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? In einem Webcast können Sie erfahren, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
+      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
+    },
+    {
       "title": "Meta integriert KI-Chats in Empfehlungen auf Facebook und Instagram",
       "teaser": "Meta bindet ab 16. Dezember 2025 KI-Gespräche in seine Empfehlungen ein. Auch Chats und Sprachbefehle steuern dann den Feed. Sensible Daten sollen tabu bleiben.",
       "url": "https://www.heise.de/news/Meta-integriert-KI-Chats-in-Empfehlungen-auf-Facebook-und-Instagram-10711699.html",
       "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
-    },
-    {
-      "title": "Supercomputing: Exascale ist nicht das Ende!",
-      "teaser": "Mit „El Capitan“, „Frontier“ und „Aurora“ gibt es aktuell drei Supercomputer im Exascale-Bereich. Die Chancen stehen gut, dass weitere hinzukommen, denn die Leistungssteigerungen im HPC-Bereich sind beeindruckend.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/supercomputing-exascale-ist-nicht-das-ende/?source=hbsadersatz"
     },
     {
       "title": "Wie man die besten KI-Bildmodelle mit Plug-ins direkt in Photoshop einsetzt",
@@ -426,12 +433,6 @@
       "teaser": "Nach Zank und Stilllegung fliegt Bcachefs überraschend schnell bei Linux raus, da es jetzt einen Nachrüstweg gibt. Der birgt allerdings Tücken.",
       "url": "https://www.heise.de/hintergrund/Linux-Torvalds-wirft-Bcachefs-Dateisystem-aus-dem-Kernel-10711269.html",
       "image_title": "Pinguin, gerade aus dem Wasser auf einen Felsen gehüpft, streckt seine Flügel aus"
-    },
-    {
-      "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
-      "teaser": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-10666042.html",
-      "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
     },
     {
       "title": "Athena1 wird Europas erster Rüstungs-Prozessor",
@@ -608,14 +609,15 @@
       "url": "https://www.heise.de/news/Einbrecher-abschrecken-mit-Kameras-Technik-Risiken-c-t-uplink-10699496.html"
     },
     {
-      "title": "Server-SSDs getestet: Robust, langlebig, massive Kapazitäten",
-      "teaser": "In SSDs für Server stecken ähnliche Komponenten wie in denen für Notebooks und PCs. Dennoch ist bei Server-SSDs vieles anders – wie ein Beispiel zeigt.",
-      "url": "https://www.heise.de/tests/Server-SSDs-getestet-Robust-langlebig-massive-Kapazitaeten-10511996.html"
+      "title": "Microsoft 365Neues Abo für Privatnutzer mit Copilot",
+      "teaser": "Microsoft fügt den Abomodellen Personal und Family eine neue Stufe mit Copilot-Assistenten hinzu und streicht das separate Copilot-Pro-Abo.",
+      "url": "https://www.heise.de/news/Microsoft-365-Neue-Abostufe-fuer-Privatnutzer-10711273.html",
+      "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
     },
     {
-      "title": "c't 3003Geht wirklich: Photoshop unter Linux",
-      "teaser": "Linux auf dem Desktop wird immer beliebter, aber zwei große Hürden gibts noch: Adobe-Software und Microsoft Office. WinBoat holt beides auf den Linux-Desktop.",
-      "url": "https://www.heise.de/news/Geht-wirklich-Photoshop-unter-Linux-10710828.html"
+      "title": "c't-Webinar: Wärmepumpen – Chancen, Grenzen, Kosten",
+      "teaser": "Fossile Brennstoffe haben ausgedient. Erfahren Sie im c’t-Webinar, wie Wärmepumpen funktionieren und ob sie für Ihr Zuhause geeignet sind.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpen-Chancen-Grenzen-Kosten-10673606.html"
     },
     {
       "title": "Fünf Jahre Macs mit Apple SiliconDer Siegeszug der M-Chips",
@@ -733,15 +735,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Gaza-Flotilla abgefangen: Israels Blockade bleibt ungebrochen",
-      "teaser": "Israels Marine stoppt die Gaza-Hilfsflotille in internationalen Gewässern. Boote mit Aktivisten und Parlamentarien wurden abgefangen. Vorwurf der Piraterie steht im Raum.",
-      "url": "https://www.heise.de/tp/features/Gaza-Flotilla-abgefangen-Israels-Blockade-bleibt-ungebrochen-10702549.html",
-      "image_title": "Mehrere Segelschiffe auf offenem Meer"
+      "title": "Drohnen legen Flughafen München lahm – Betrieb läuft wieder",
+      "teaser": "Nach nächtlichen Drohnensichtungen am Münchner Flughafen läuft der Flugbetrieb seit dem frühen Freitagmorgen wieder regulär.",
+      "url": "https://www.heise.de/tp/features/Drohnen-legen-Flughafen-Muenchen-lahm-Betrieb-laeuft-wieder-10711633.html",
+      "image_title": "Eine kleine Drohne ist am Flughafen in unmittelbarer Nähe zu Flugzeugen."
     },
     {
-      "title": "Chinas fliegende Windturbinen durchbrechen die Megawatt-Grenze",
-      "teaser": "Chinas fliegendes Megawatt-Kraftwerk S1500 hat alle Tests bestanden. Die Kombination aus Zeppelin und Windturbine könnte die Energieversorgung revolutionieren.",
-      "url": "https://www.heise.de/tp/features/Chinas-fliegende-Windturbinen-durchbrechen-die-Megawatt-Grenze-10699418.html"
+      "title": "Trump liefert Zieldaten: Ukraine darf Russlands Energieanlagen angreifen",
+      "teaser": "Geheimdienstdaten und neue Waffen aus den USA sollen Kiew in die Lage versetzen, Russlands Energieinfrastruktur im Hinterland anzugreifen.",
+      "url": "https://www.heise.de/tp/features/Trump-liefert-Zieldaten-Ukraine-darf-Russlands-Energieanlagen-angreifen-10708553.html",
+      "image_title": "Drei Tomahawk-Marschflugkörper. 3D-Rendering."
     },
     {
       "title": "Altersvorsorge: Jede fünfte Person im Ruhestand lebt von maximal 1.400 Euro",
@@ -765,9 +768,9 @@
       "url": "https://t3n.de/news/unterschaetzter-hebel-so-erhoehst-du-die-qualitaet-eingehender-bewerbungen-1710003/"
     },
     {
-      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
-      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
-      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
+      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Desinfec't",
