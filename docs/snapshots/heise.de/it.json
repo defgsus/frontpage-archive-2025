@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-06T08:14:25",
+  "timestamp": "2025-10-06T09:13:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,43 @@
   ],
   "articles": [
     {
-      "title": "Russland: Riesiges Interesse an KI-generierten Videos gefallener Soldaten",
-      "teaser": "Eine Russin generiert gegen Bezahlung mit KI-Hilfe Clips gefallener Soldaten, die in den Himmel aufsteigen. Das Interesse daran ist riesig, die Warteliste lang.",
+      "title": "Die Produktwerker: KI-Einfluss auf Produktentwicklung durch Context Engineering",
+      "teaser": "Context Engineering verändert den Einfluss von KI auf Produktentwicklung massiv. Björn Schotte und Tim Klein sprechen über die Folgen.",
+      "url": "https://www.heise.de/blog/Die-Produktwerker-KI-Einfluss-auf-Produktentwicklung-durch-Context-Engineering-10714974.html",
+      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
+    },
+    {
+      "title": "Chatkontrolle: WhatsApp und Threema äußern sich verhaltener als Signal",
+      "teaser": "Nach Signals Drohung mit EU-Rückzug äußern sich WhatsApp und Threema zurückhaltender zur Chatkontrolle. Beide sehen die Ende-zu-Ende-Verschlüsselung gefährdet.",
+      "url": "https://www.heise.de/news/Datenschutz-unter-Beschuss-Messengerdienste-reagieren-auf-EU-Chatkontrolle-10715694.html",
+      "image_title": "App-Symbole von Signal und WhatsApp"
+    },
+    {
+      "title": "AlertSpiele-Engine Unity: Lücke bedroht Android, Linux, macOS und Windows",
+      "teaser": "Unity steckt in zahlreichen populären Spielen für Mobilgeräte und Desktop. Eine gravierende Lücke ermöglicht Angreifern, Schadcode auszuführen.",
+      "url": "https://www.heise.de/news/Spiele-Engine-Unity-Luecke-bedroht-Android-Linux-macOS-und-Windows-10713427.html",
+      "image_title": "Security Alert"
+    },
+    {
+      "title": "RusslandRiesiges Interesse an KI-generierten Videos gefallener Soldaten",
+      "teaser": "Eine Russin generiert gegen Bezahlung mit KI-Hilfe Clips gefallener Soldaten, die in den Himmel aufsteigen. Das Interesse ist riesig.",
       "url": "https://www.heise.de/news/Russland-Riesiges-Interesse-an-KI-generierten-Videos-gefallener-Soldaten-10714520.html",
       "image_title": "Schatten von Soldaten vor russischer und ukrainischer Flagge"
+    },
+    {
+      "title": "RatgeberKaufberatung: Das passende Oszilloskop für Anfänger oder Profis finden",
+      "url": "https://www.heise.de/ratgeber/Kaufberatung-Das-passende-Oszilloskop-fuer-Anfaenger-oder-Profis-finden-10635748.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundBit-Rauschen: Nvidia-Geldspritze für Intel",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Nvidia-Geldspritze-fuer-Intel-10520371.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "RatgeberZwei moderne Oszilloskope im Vergleich: Tektronix MSO 24 und Batronix Magnova",
+      "url": "https://www.heise.de/ratgeber/Zwei-moderne-Oszilloskope-im-Vergleich-Tektronix-MSO-24-und-Batronix-Magnova-10634370.html",
+      "image_title": ","
     },
     {
       "title": "c't-Workshop: Moderne DHCP-Services implementieren mit Kea",
@@ -47,21 +80,6 @@
       "teaser": "Von \"LLM as Judge\" bis \"Few-Shot Learning\": Eine Erklärung gängiger KI-Buzzwords, was dahintersteckt – und was nur nach Innovation klingt.",
       "url": "https://www.heise.de/blog/KI-Ueberblick-8-Buzzwords-entzaubert-was-hinter-den-Schlagworten-steckt-10505833.html",
       "image_title": "Bot mit Hand am Kopf"
-    },
-    {
-      "title": "RatgeberKaufberatung: Das passende Oszilloskop für Anfänger oder Profis finden",
-      "url": "https://www.heise.de/ratgeber/Kaufberatung-Das-passende-Oszilloskop-fuer-Anfaenger-oder-Profis-finden-10635748.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundBit-Rauschen: Nvidia-Geldspritze für Intel",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Nvidia-Geldspritze-fuer-Intel-10520371.html",
-      "image_title": "Aufmacher Kolumne Bit-Rauschen"
-    },
-    {
-      "title": "RatgeberZwei moderne Oszilloskope im Vergleich: Tektronix MSO 24 und Batronix Magnova",
-      "url": "https://www.heise.de/ratgeber/Zwei-moderne-Oszilloskope-im-Vergleich-Tektronix-MSO-24-und-Batronix-Magnova-10634370.html",
-      "image_title": ","
     },
     {
       "title": "Durch die 5G-Netze rauschen so viele Daten wie noch nie",
@@ -129,24 +147,6 @@
       "title": "Bitcoin erreicht neues Allzeithoch über 125.000 US-Dollar",
       "teaser": "Der Bitcoin ist erstmals über die Marke von 125.000 US-Dollar gestiegen. Institutionelle Investoren und politische Unsicherheiten befeuern den Kurs.",
       "url": "https://www.heise.de/news/Bitcoin-steigt-auf-Rekordhoch-erstmals-ueber-125-000-Dollar-10712112.html"
-    },
-    {
-      "title": "Attacke auf Red-Hat-GitLab-Instanz, Kundendaten kopiert",
-      "teaser": "Beim Softwarehersteller Red Hat kam es zu einem IT-Sicherheitsvorfall. Die Angreifer geben an, 570 GB an Daten kopiert zu haben.",
-      "url": "https://www.heise.de/news/Angreifer-kopierten-Kundendaten-von-Red-Hat-GitLab-Instanz-10712086.html",
-      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
-    },
-    {
-      "title": "Spinnenroboter \"Charlotte\" soll Häuser in 24 Stunden drucken, auch auf dem Mond",
-      "teaser": "Crest Robotics und Earthbuilt Technology haben einen spinnenartigen Bauroboter vorgestellt, der Gebäude aus Sand und Erde drucken soll – auf der Erde und im All",
-      "url": "https://www.heise.de/news/Bauroboter-Charlotte-Spinnenmaschine-soll-Haeuser-und-Mondbasen-drucken-10712065.html",
-      "image_title": "Künstlerische Darstellung eines 3D-druckenden Spinnenroboters auf dem Mond."
-    },
-    {
-      "title": "Netzagenturchef: \"Schränken Meinungsfreiheit nicht ein\"",
-      "teaser": "Klaus Müller kontert die Kritik aus den USA: Die europäische Tech-Regulierung bedrohe laut dem Netzagenturchef nicht die Freiheit, sondern solle sie schützen.",
-      "url": "https://www.heise.de/news/Netzagenturchef-Schraenken-Meinungsfreiheit-nicht-ein-10712082.html",
-      "image_title": "Klaus Müller, Präsident der Bundesnetzagentur, spricht auf einer Veranstaltung."
     },
     {
       "title": "NewsKameras im Betrieb: Arbeiter erhält 15.000 Euro Entschädigung für Überwachung",
