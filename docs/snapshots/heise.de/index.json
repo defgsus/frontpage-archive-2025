@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T20:10:28",
+  "timestamp": "2025-10-07T21:08:22",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Biologisch abbaubare Leiterplatte aus Cellulose",
+      "url": "https://www.heise.de/news/Biologisch-abbaubare-Leiterplatte-aus-Cellulose-10733802.html"
+    },
     {
       "title": "Schleswig-Holstein: Verwaltung m E-Mail-Migration auf Open Source fertig",
       "url": "https://www.heise.de/news/Schleswig-Holsteins-E-Mail-Systeme-auf-Open-Source-umgestellt-10733720.html"
@@ -60,10 +64,6 @@
     {
       "title": "Chatkontrolle: Immer mehr Warnungen vor dem Aufweichen sicherer Verschlüsselung",
       "url": "https://www.heise.de/news/Chatkontrolle-Immer-mehr-Warnungen-vor-dem-Aufweichen-sicherer-Verschluesselung-10733582.html"
-    },
-    {
-      "title": "Server-SSDs getestet: Robust, langlebig, massive Kapazitäten",
-      "url": "https://www.heise.de/tests/Server-SSDs-getestet-Robust-langlebig-massive-Kapazitaeten-10511996.html"
     },
     {
       "title": "EU-ÜberwachungspläneSpahn: \"Anlasslose Chatkontrolle wird es mit uns nicht geben\"",
@@ -186,20 +186,26 @@
       "image_title": "Dacia Hipster"
     },
     {
+      "title": "Biologisch abbaubare Leiterplatte aus Cellulose",
+      "teaser": "Bislang kaum genutzte Cellulosereste können nach \"Hornifizierung\" in harte Leiterplatten gepresst werden. Ganz wasserfest dürfen sie nicht sein.",
+      "url": "https://www.heise.de/news/Biologisch-abbaubare-Leiterplatte-aus-Cellulose-10733802.html",
+      "image_title": "Großteils biologisch abbaubare Holzmaus, geöffnet"
+    },
+    {
       "title": "Schleswig-Holstein: Verwaltung m E-Mail-Migration auf Open Source fertig",
       "teaser": "Die Landesverwaltung Schleswig-Holsteins hat den Umstieg ihres Mailsystems von Microsoft Exchange und Outlook auf Open-Source-Lösungen vollzogen.",
       "url": "https://www.heise.de/news/Schleswig-Holsteins-E-Mail-Systeme-auf-Open-Source-umgestellt-10733720.html",
       "image_title": "Eine Kette wird gesprengt"
     },
     {
+      "title": "Innovative UCC-Lösungen für macOS und iOS",
+      "teaser": "Mit dem neuen Release von STARFACE 10 profitieren Cloud-Nutzer von innovativen KI-gestützten Funktionen. Außerdem integriert sich die UCC-Plattform nun auch in macOS- und iOS-Umgebungen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7101908383&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Endlich wieder Fernseher-Schnäppchen: 65\" QLED für 499 €, 55\" OLED für 829 €",
       "teaser": "In der Schwemme der Prime-Schnäppchen haben wir spannende TV-Angebote gefunden. Alle wichtigen Marken sind mit Bestpreis-Angeboten vertreten.",
       "url": "https://www.heise.de/bestenlisten/deals/endlich-wieder-fernseher-schnaeppchen-65-qled-fuer-499-euro-55-oled-fuer-829-euro/dn1dwp6?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Hybrides UEM – der Schlüssel zu moderner IT-Sicherheit",
-      "teaser": "Eine heterogene IT-Landschaft effizient und sicher zu verwalten, ist herausfordernd. Aber es ist machbar mit hybriden UEM-Plattformen, mit denen sich Richtlinien zentral umsetzen lassen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7091827877&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "VPS Next: Smart Glasses mit Eye-Tracking für anspruchsvolle Einsatzfelder",
@@ -229,12 +235,6 @@
       "title": "Filmkritik \"Tron: Ares\": Einmal Transforminator mit Pixels bitte!",
       "teaser": "Wenn böse Menschen KI missbrauchen, muss der Algorithmus nur auf sein Gewissen hören – dann wird alles gut. Tron: Ares spiegelt den Zeitgeist im Silicon Valley.",
       "url": "https://www.heise.de/meinung/Filmkritik-Tron-Ares-Einmal-Transforminator-mit-Pixels-bitte-10726016.html"
-    },
-    {
-      "title": "Chatkontrolle: Immer mehr Warnungen vor dem Aufweichen sicherer Verschlüsselung",
-      "teaser": "Nach Bürgerrechtsorganisationen machen IT-Verbände, der Kinderschutzbund und Pressevereinigungen gegen die geplante Durchleuchtung privater Kommunikation mobil.",
-      "url": "https://www.heise.de/news/Chatkontrolle-Immer-mehr-Warnungen-vor-dem-Aufweichen-sicherer-Verschluesselung-10733582.html",
-      "image_title": "Ein Smartphone mit geöffneter Messaging-App in einer menschlichen Hand, auf dem Bildschirm ist verschwommen ein Chat zu sehen."
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -301,6 +301,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Chatkontrolle: Immer mehr Warnungen vor dem Aufweichen sicherer Verschlüsselung",
+      "teaser": "Nach Bürgerrechtsorganisationen machen IT-Verbände, der Kinderschutzbund und Pressevereinigungen gegen die geplante Durchleuchtung privater Kommunikation mobil.",
+      "url": "https://www.heise.de/news/Chatkontrolle-Immer-mehr-Warnungen-vor-dem-Aufweichen-sicherer-Verschluesselung-10733582.html",
+      "image_title": "Ein Smartphone mit geöffneter Messaging-App in einer menschlichen Hand, auf dem Bildschirm ist verschwommen ein Chat zu sehen."
     },
     {
       "title": "Server-SSDs getestet: Robust, langlebig, massive Kapazitäten",
@@ -372,15 +378,15 @@
       "image_title": "Windkraftanlagen hinter Solarpaneelen in der Landschaft"
     },
     {
+      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
+      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
+    },
+    {
       "title": "Zahlen, bitte! Die Lochkarte: 80 Zeichen wegweisend in die EDV",
       "teaser": "Herman Holleriths Lochkarten-Maschine führte nicht nur in das EDV-Zeitalter, sondern war auch der Grundstein für IBM und den abgeleiteten 80-Zeichen-Standard.",
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Die-Lochkarte-80-Zeichen-wegweisend-in-die-EDV-10730377.html",
       "image_title": "Zahlen, bitte! Die Lochkarte: Mit 80 Zeichen wegweisend in die EDV"
-    },
-    {
-      "title": "Digitale Souveränität: Schluss mit dem Buzzword-Bingo!",
-      "teaser": "Alle reden über digitale Souveränität, aber wie geht es praktisch weiter? Ein Webcast erklärt, welche Abstufungen für welche Anwendungsfälle sinnvoll sind, und hilft bei der Frage: Wie mache ich konkret weiter?",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/digitale-souveraenitaet-weg-vom-buzzword-bingo-hin-zur-umsetzung-4979?source=hbsadersatz"
     },
     {
       "title": "KI-Assistent zum Programmieren: Features planen und entwickeln mit Traycer",
@@ -434,12 +440,6 @@
       "teaser": "Wenn der Mond sich der Erde nähert, erscheint er besonders groß. Jetzt ist es wieder so weit, aber spielt das Wetter mit?",
       "url": "https://www.heise.de/news/Supermond-Sternschnuppen-und-Wolken-am-Abendhimmel-10729417.html",
       "image_title": "Amateur,Astronomer,Looking,At,The,Evening,Skies,,Observing,Planets,,Stars,"
-    },
-    {
-      "title": "Microsofts KI-Assistent Dragon Copilot in deutschen Kliniken verfügbar",
-      "teaser": "Nach erfolgreicher Pilotphase in fünf deutschen Kliniken startet Dragon Copilot. Die KI soll das Personal entlasten und mehr Zeit für Patienten schaffen.",
-      "url": "https://www.heise.de/news/Microsofts-KI-Assistent-Dragon-Copilot-in-deutschen-Kliniken-verfuegbar-10671358.html",
-      "image_title": "Tele,Medicine,Concept,medical,Doctor,Online,Communicating,The,Patient,On,Vr, Telemedizin, Online-Arzt, Medizin"
     },
     {
       "title": "Cariad: VW-Tochter stellt eigene Software-Entwicklung weitgehend ein",
@@ -620,9 +620,10 @@
       "url": "https://www.heise.de/hintergrund/Smartphone-reparieren-So-teuer-sind-die-Ersatzteile-bei-Apple-Samsung-Co-10520220.html"
     },
     {
-      "title": "Videoschnitt-App mit KI-Werkzeug: Premiere Pro auf dem iPhone im Test",
-      "teaser": "Nutzer von Adobe Premiere Pro können ihre Clips nun auch auf dem iPhone bearbeiten – mit KI-Werkzeugen und unendlich vielen Spuren. Wir haben die App getestet.",
-      "url": "https://www.heise.de/tests/Videoschnitt-App-mit-KI-Werkzeug-Premiere-Pro-auf-dem-iPhone-im-Test-10678787.html"
+      "title": "Sichere VerschlüsselungSignal sichert seine Chats gegen Quantencomputer",
+      "teaser": "Signal ergänzt sein Double-Ratchet-Verfahren, sodass auch zukünftige Quantencomputer die Kommunikation nicht knacken können.",
+      "url": "https://www.heise.de/news/Signal-sichert-seine-Chats-gegen-Quantencomputer-10717838.html",
+      "image_title": "Signal läuft auf einem Handy vor einem Display"
     },
     {
       "title": "Fünf Jahre Macs mit Apple SiliconDer Siegeszug der M-Chips",
@@ -661,11 +662,6 @@
       "image_title": ","
     },
     {
-      "title": "Fotolocations auf Teneriffa: ein Paradies für Landschaftsfotografen",
-      "teaser": "Teneriffa gilt als Touristeninsel, deren Strände von Urlaubern überfüllt sind. Die größte Kanareninsel bietet jedoch eine Fülle an eindrucksvollen Motiven.",
-      "url": "https://www.heise.de/ratgeber/Fotolocations-auf-Teneriffa-ein-Paradies-fuer-Landschaftsfotografen-10725866.html"
-    },
-    {
       "title": "Fotografien voller Tiefe, Stimmung und Ausdruck: Die Bilder der Woche 40",
       "teaser": "Fotografien voller Ausdruckskraft, die Stimmungen spürbar, Emotionen sichtbar und Perspektiven deutlich machen.",
       "url": "https://www.heise.de/news/Fotografien-voller-Tiefe-Stimmung-und-Ausdruck-Die-Bilder-der-Woche-40-10690248.html"
@@ -681,6 +677,11 @@
       "teaser": "Sony erweitert sein E-Mount-Objektivsortiment mit dem FE 100 mm F2.8 Macro GM OSS um ein leistungsstarkes Makroobjektiv.",
       "url": "https://www.heise.de/news/Sony-stellt-neues-Makro-Objektiv-aus-der-G-Master-Serie-vor-10688825.html",
       "image_title": "Sony Kamera"
+    },
+    {
+      "title": "DxO FilmPack 8: analoge Zeitreise für Digitalfotos",
+      "teaser": "DxO FilmPack 8 versieht Fotos mit analogem Filmlook, im Time-Warp-Modus intuitiv über eine Zeitleiste und in Adobe Photoshop als nativ eingebundene Palette.",
+      "url": "https://www.heise.de/news/DxO-FilmPack-8-analoge-Zeitreise-fuer-Digitalfotos-10661319.html"
     },
     {
       "title": "Platform EngineeringDeveloper-Plattformen systematisch bewerten",
@@ -740,22 +741,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Trotz Exportbeschränkungen: Huawei verbaut (noch) Chips von TSMC und Samsung",
+      "teaser": "Huawei nutzt Chips von TSMC und Samsung trotz US-Sanktionen. Analysten fanden Bauteile in KI-Prozessoren. Es könnten die letzten derartigen Funde sein.",
+      "url": "https://www.heise.de/tp/features/Trotz-Exportbeschraenkungen-Huawei-verbaut-noch-Chips-von-TSMC-und-Samsung-10720762.html",
+      "image_title": "Aufnahme eines Ascend910-Chips von Huawei"
+    },
+    {
       "title": "Älteste menschliche Siedlung der Arabischen Halbinsel entdeckt",
       "teaser": "Archäologen finden 11.000 Jahre alte Steinstrukturen in Saudi-Arabien. Die Ausgrabungen bei Tabuk liefern neue Erkenntnisse über frühe Zivilisationen in der Region.",
       "url": "https://www.heise.de/tp/features/Aelteste-menschliche-Siedlung-der-Arabischen-Halbinsel-entdeckt-10688022.html",
       "image_title": "Eine archäologische Ausgrabungsstätte"
     },
     {
-      "title": "Benötigt Deutschland neue Gasspeicher?",
-      "teaser": "Deutschlands größter Gasspeicher in Rehden ist fast leer. Neue Kavernenspeicher könnten helfen, LNG-Gas effizient zu speichern.",
-      "url": "https://www.heise.de/tp/features/Benoetigt-Deutschland-neue-Gasspeicher-10704607.html",
-      "image_title": "Schaubild Poren- und Kavernenspeicher"
-    },
-    {
-      "title": "Machtpoker um Bagram: Wenn US-Interessen auf chinesische Dominanz treffen",
-      "teaser": "US-Präsident Trump kokettiert mit Aussagen zur ehemaligen US-Basis in Afghanistan. Was hat der Schachzug mit China und den US-Wirtschaftsinteressen zu tun? Eine Analyse.",
-      "url": "https://www.heise.de/tp/features/Machtpoker-um-Bagram-Wenn-US-Interessen-auf-chinesische-Dominanz-treffen-10690904.html",
-      "image_title": "Eine Stadt in der Wüste mit Militärpräsenz"
+      "title": "Russland: Wenn das Benzin knapp wird",
+      "teaser": "Benzinmangel in Russland. Von Stillständen in russischen Raffinerien, Exportverboten und der Streichung von Einfuhrzöllen auf Benzin aus dem Ausland.",
+      "url": "https://www.heise.de/tp/features/Russland-Wenn-das-Benzin-knapp-wird-10718397.html",
+      "image_title": "Zapfsäule an einer Tankstelle"
     },
     {
       "title": "Diebstahl an SB-Kassen: Diese Tricks nutzen moderne Systeme gegen Betrüger",
