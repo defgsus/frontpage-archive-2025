@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T13:22:13",
+  "timestamp": "2025-10-07T14:11:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,31 @@
   ],
   "articles": [
     {
-      "title": "Raspi-Konkurrenz: Qualcomm schluckt Arduino und stellt Einplatinencomputer vor",
+      "title": "Machine-Learning-Dienste der Hyperscaler – ein Überblick",
+      "teaser": "Amazon, Google und Microsoft bieten mit spezialisierten Cloud-Plattformen ein breites Portfolio an Werkzeugen für Machine Learning und generative KI.",
+      "url": "https://www.heise.de/tests/Machine-Learning-Dienste-der-Hyperscaler-ein-Ueberblick-10673488.html"
+    },
+    {
+      "title": "10. Deutscher Interoperabilitätstag: Sorgt KI für das Ende von Standards?",
+      "teaser": "Darüber, welchen Einfluss KI auf die Dokumentation und Interoperabilitätsstandards hat, diskutierten die Teilnehmer auf dem Deutschen Interoperabilitätstag.",
+      "url": "https://www.heise.de/news/10-Deutscher-Interoperabilitaetstag-Wie-wirkt-sich-KI-auf-Standards-aus-10731001.html",
+      "image_title": "Dr. Carina N. Vorisek von der Charité"
+    },
+    {
+      "title": "Das passiert, wenn der KI-Betreiber die Sicherheit vernachlässigt",
+      "teaser": "Verträge, Rechnungen und weitere sensible Daten erreichten uns via E-Mail. Die Quelle: eine österreichische KI-Firma, die demnach bei der Sicherheit schlampte.",
+      "url": "https://www.heise.de/news/Sensible-Unternehmensdaten-ueber-Sicherheitsprobleme-bei-KI-Firma-kompromittiert-10731728.html",
+      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
+    },
+    {
+      "title": "Ab 39 Euro: Qualcomm kauft Arduino und stellt Raspi-Konkurrenten vor",
       "teaser": "Der Einplatinencomputer Arduino Uno Q bekommt einen Qualcomm-Prozessor. Er ermöglicht ähnliche Projekte wie ein Raspberry Pi.",
       "url": "https://www.heise.de/news/Raspi-Konkurrenz-Qualcomm-schluckt-Arduino-und-stellt-Einplatinencomputer-vor-10733137.html",
       "image_title": "Arduino Uno Q vor weiß-grauem Hintergrund"
     },
     {
-      "title": "Insider-VorschauenMicrosoft erschwert Windows-Einrichtung ohne Microsoft-Konto",
-      "teaser": "Microsoft verbaut die Einrichtung mit lokalem Konto in den jüngsten Windows-Insider-Vorschauen. Es gibt aber auch neue Funktionen.",
-      "url": "https://www.heise.de/news/Windows-Insider-Vorschauen-verbauen-Einrichtung-mit-lokalem-Konto-10733102.html",
-      "image_title": "KI wählt ein Objekt in einem Bild aus"
-    },
-    {
-      "title": "iX-Workshop: Deep Dive in die OpenAI API – KI in eigene Anwendungen integrieren",
-      "teaser": "Erfahren Sie, wie Sie die OpenAI API nutzen können, um KI-Funktionen in Ihre Projekte zu integrieren und innovative Lösungen zu entwickeln.",
-      "url": "https://www.heise.de/news/iX-Workshop-Deep-Dive-in-die-OpenAI-API-KI-in-eigene-Anwendungen-integrieren-10673997.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
-    },
-    {
-      "title": "Mit OSINT-Tools Sherlock und Maigret nach Nutzernamen suchen",
-      "teaser": "Die OSINT-Tools mit den einprägsamen Namen Sherlock und Maigret helfen Pentestern beim Aufspüren von Benutzernamen auf sozialen Medien.",
-      "url": "https://www.heise.de/ratgeber/Mit-OSINT-Tools-Sherlock-und-Maigret-nach-Nutzernamen-suchen-10638459.html"
+      "title": "TestsMachine-Learning-Dienste der Hyperscaler – ein Überblick",
+      "url": "https://www.heise.de/tests/Machine-Learning-Dienste-der-Hyperscaler-ein-Ueberblick-10673488.html"
     },
     {
       "title": "RatgeberMit OSINT-Tools Sherlock und Maigret nach Nutzernamen suchen",
@@ -57,8 +61,16 @@
       "url": "https://www.heise.de/hintergrund/Autorisierungskonzepte-fuer-Software-Von-ABAC-bis-Zanzibar-10635552.html"
     },
     {
-      "title": "TestsIm Test: Kompakte Drucker-Scanner-Kombi für den Schreibtisch",
-      "url": "https://www.heise.de/tests/Im-Test-Kompakte-Drucker-Scanner-Kombi-fuer-den-Schreibtisch-10632214.html"
+      "title": "Microsoft erschwert Windows-Einrichtung ohne Microsoft-Konto",
+      "teaser": "Microsoft verbaut die Einrichtung mit lokalem Konto in den jüngsten Windows-Insider-Vorschauen. Es gibt aber auch neue Funktionen.",
+      "url": "https://www.heise.de/news/Windows-Insider-Vorschauen-verbauen-Einrichtung-mit-lokalem-Konto-10733102.html",
+      "image_title": "KI wählt ein Objekt in einem Bild aus"
+    },
+    {
+      "title": "iX-Workshop: Deep Dive in die OpenAI API – KI in eigene Anwendungen integrieren",
+      "teaser": "Erfahren Sie, wie Sie die OpenAI API nutzen können, um KI-Funktionen in Ihre Projekte zu integrieren und innovative Lösungen zu entwickeln.",
+      "url": "https://www.heise.de/news/iX-Workshop-Deep-Dive-in-die-OpenAI-API-KI-in-eigene-Anwendungen-integrieren-10673997.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
       "title": "Chatkontrolle: Warum der Streit in der Bundesregierung nur ein Zwischenstopp ist",
@@ -135,17 +147,6 @@
       "title": "iLLM-A*: KI beschleunigt Pfadplanung um Faktor 1000",
       "teaser": "Ein neuer Algorithmus soll die Pfadplanung auf großen Karten um den Faktor 1000 beschleunigen, mit Potenzial für Robotik, Logistik und KI-basierte Simulationen",
       "url": "https://www.heise.de/hintergrund/iLLM-A-Hybrid-KI-soll-Pfadplanung-um-Faktor-1000-beschleunigen-10726050.html"
-    },
-    {
-      "title": "Amazon Prime Deal Days 2025Die besten Angebote im Preis-Check",
-      "teaser": "Amazon startet im Oktober 2025 erneut die Prime Deal Days: Zwei Tage exklusive Rabatte für Prime-Mitglieder – doch nicht jedes Angebot ist auch ein Schnäppchen.",
-      "url": "https://www.heise.de/bestenlisten/ratgeber/amazon-prime-deal-days-2025-die-besten-angebote-im-preis-check/mw4r2x6?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Kartellverfahren: Oberster Gerichtshof der USA lässt Teradata-Klage gegen SAP zu",
-      "teaser": "In dem Rechtsstreit geht es unter anderem um die Anschuldigung, dass SAP durch die Bündelung von HANA und S/4HANA gegen das US-Wettbewerbsrecht verstößt.",
-      "url": "https://www.heise.de/news/Kartellverfahren-Oberster-Gerichtshof-der-USA-laesst-Teradata-Klage-gegen-SAP-zu-10726184.html",
-      "image_title": "Gebäude mit SAP-Logos"
     },
     {
       "title": "NewsCariad: VW-Tochter stellt eigene Software-Entwicklung weitgehend ein",
