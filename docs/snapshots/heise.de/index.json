@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T15:10:48",
+  "timestamp": "2025-10-07T16:11:56",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,30 @@
   ],
   "articles": [
     {
+      "title": "Redis: Kritische Codeschmuggel-Lücke in Datenbank",
+      "url": "https://www.heise.de/news/Redis-Kritische-Codeschmuggel-Luecke-in-Datenbank-10733632.html"
+    },
+    {
+      "title": "Filmkritik \"Tron: Ares\": Einmal Transforminator mit Pixels bitte!",
+      "url": "https://www.heise.de/meinung/Filmkritik-Tron-Ares-Einmal-Transforminator-mit-Pixels-bitte-10726016.html"
+    },
+    {
+      "title": "Chatkontrolle: Immer mehr Warnungen vor dem Aufweichen sicherer Verschlüsselung",
+      "url": "https://www.heise.de/news/Chatkontrolle-Immer-mehr-Warnungen-vor-dem-Aufweichen-sicherer-Verschluesselung-10733582.html"
+    },
+    {
+      "title": "Server-SSDs getestet: Robust, langlebig, massive Kapazitäten",
+      "url": "https://www.heise.de/tests/Server-SSDs-getestet-Robust-langlebig-massive-Kapazitaeten-10511996.html"
+    },
+    {
+      "title": "Jammertest: 360 Experten testen Satellitennavigation unter Störfeuer",
+      "url": "https://www.heise.de/news/ESA-testet-GNSS-Resilienz-beim-Jammertest-in-der-Arktis-10733512.html"
+    },
+    {
+      "title": "macOS 26 Tahoe: Menüleiste verwirrt mit doppelter Konfigurierbarkeit",
+      "url": "https://www.heise.de/news/macOS-26-Tahoe-Menueleiste-verwirrt-mit-doppelter-Konfigurierbarkeit-10712412.html"
+    },
+    {
       "title": "Maker Bits: Software, Hardware und Infos für Maker",
       "url": "https://www.heise.de/news/Maker-Bits-Software-Hardware-und-Infos-fuer-Maker-10733429.html"
     },
@@ -40,30 +64,6 @@
     {
       "title": "10. Deutscher Interoperabilitätstag: Sorgt KI für das Ende von Standards?",
       "url": "https://www.heise.de/news/10-Deutscher-Interoperabilitaetstag-Wie-wirkt-sich-KI-auf-Standards-aus-10731001.html"
-    },
-    {
-      "title": "Das passiert, wenn der KI-Betreiber die Sicherheit vernachlässigt",
-      "url": "https://www.heise.de/news/Sensible-Unternehmensdaten-ueber-Sicherheitsprobleme-bei-KI-Firma-kompromittiert-10731728.html"
-    },
-    {
-      "title": "Ab 39 Euro: Qualcomm kauft Arduino und stellt Raspi-Konkurrenten vor",
-      "url": "https://www.heise.de/news/Raspi-Konkurrenz-Qualcomm-schluckt-Arduino-und-stellt-Einplatinencomputer-vor-10733137.html"
-    },
-    {
-      "title": "Fotografie: Historische Meilensteine im Objektivbau",
-      "url": "https://www.heise.de/ratgeber/Fotografie-Historische-Meilensteine-im-Objektivbau-10663004.html"
-    },
-    {
-      "title": "Deutsche Telekom ermöglich nahtlosen eSIM-wechsel zwischen iOS und Android",
-      "url": "https://www.heise.de/news/Deutsche-Telekom-ermoeglich-nahtlosen-eSIM-wechsel-zwischen-iOS-und-Android-10733359.html"
-    },
-    {
-      "title": "Microsoft erschwert Windows-Einrichtung ohne Microsoft-Konto",
-      "url": "https://www.heise.de/news/Windows-Insider-Vorschauen-verbauen-Einrichtung-mit-lokalem-Konto-10733102.html"
-    },
-    {
-      "title": "Android: Google-System-Update für Oktober bringt Neuerungen",
-      "url": "https://www.heise.de/news/Android-Play-System-Update-erweitert-Nacktbild-Erkennung-in-Messages-um-Videos-10733123.html"
     },
     {
       "title": "Ab 39 EuroQualcomm kauft Arduino und stellt Raspi-Konkurrenten vor",
@@ -186,6 +186,45 @@
       "image_title": "Dacia Hipster"
     },
     {
+      "title": "AlertRedis: Kritische Codeschmuggel-Lücke in Datenbank",
+      "teaser": "Die Entwickler der Datenbank Redis haben eine aktualisierte Version veröffentlicht, die eine kritische Sicherheitslücke stopft.",
+      "url": "https://www.heise.de/news/Redis-Kritische-Codeschmuggel-Luecke-in-Datenbank-10733632.html",
+      "image_title": "Leuchtendes Warndreieck auf blauem Hintergrund"
+    },
+    {
+      "title": "Filmkritik \"Tron: Ares\": Einmal Transforminator mit Pixels bitte!",
+      "teaser": "Wenn böse Menschen KI missbrauchen, muss der Algorithmus nur auf sein Gewissen hören – dann wird alles gut. Tron: Ares spiegelt den Zeitgeist im Silicon Valley.",
+      "url": "https://www.heise.de/meinung/Filmkritik-Tron-Ares-Einmal-Transforminator-mit-Pixels-bitte-10726016.html"
+    },
+    {
+      "title": "Smartes Heizen – Freude am Sparen",
+      "teaser": "Intelligent gesteuerte Heizkörperthermostate sorgen für die Wohlfühltemperatur in jedem Raum und senken dabei den Energieverbrauch. Möglich macht das eine smarte Automatisierung mit zwei Grundregeln.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092032808&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Chatkontrolle: Immer mehr Warnungen vor dem Aufweichen sicherer Verschlüsselung",
+      "teaser": "Nach Bürgerrechtsorganisationen machen IT-Verbände, der Kinderschutzbund und Pressevereinigungen gegen die geplante Durchleuchtung privater Kommunikation mobil.",
+      "url": "https://www.heise.de/news/Chatkontrolle-Immer-mehr-Warnungen-vor-dem-Aufweichen-sicherer-Verschluesselung-10733582.html",
+      "image_title": "Ein Smartphone mit geöffneter Messaging-App in einer menschlichen Hand, auf dem Bildschirm ist verschwommen ein Chat zu sehen."
+    },
+    {
+      "title": "Server-SSDs getestet: Robust, langlebig, massive Kapazitäten",
+      "teaser": "In SSDs für Server stecken ähnliche Komponenten wie in denen für Notebooks und PCs. Dennoch ist bei Server-SSDs vieles anders – wie ein Beispiel zeigt.",
+      "url": "https://www.heise.de/tests/Server-SSDs-getestet-Robust-langlebig-massive-Kapazitaeten-10511996.html"
+    },
+    {
+      "title": "Jammertest: 360 Experten testen Satellitennavigation unter Störfeuer",
+      "teaser": "Beim weltweit größten Feldtest für Satellitennavigation untersucht die ESA mit 360 Teilnehmern, wie Galileo und GPS auf Jamming und Spoofing reagieren.",
+      "url": "https://www.heise.de/news/ESA-testet-GNSS-Resilienz-beim-Jammertest-in-der-Arktis-10733512.html",
+      "image_title": "Ein ESA-Fahrzeug beim Jammertest in Norwegen"
+    },
+    {
+      "title": "macOS 26 Tahoe: Menüleiste verwirrt mit doppelter Konfigurierbarkeit",
+      "teaser": "Künftig kann man in der Menubar von macOS mehr als nur ein Kontrollzentrum packen. Beim Umstieg sorgt das für Sucherei.",
+      "url": "https://www.heise.de/news/macOS-26-Tahoe-Menueleiste-verwirrt-mit-doppelter-Konfigurierbarkeit-10712412.html",
+      "image_title": "Neue Menüleiste in macOS 26"
+    },
+    {
       "title": "Maker Bits: Software, Hardware und Infos für Maker",
       "teaser": "Oft finden wir bei der Recherche auch Beifang in Form von kleinen Tools, neuer Hard- und Software sowie spannenden Themen. Hier eine kleine Auswahl.",
       "url": "https://www.heise.de/news/Maker-Bits-Software-Hardware-und-Infos-fuer-Maker-10733429.html"
@@ -195,46 +234,6 @@
       "teaser": "Bei Apple stehen in den kommenden Jahren größere Veränderungen in der Chefetage an. Tim Cook bleibt zwar noch länger, doch die Nachfolgersuche wird realer.",
       "url": "https://www.heise.de/news/Apples-naechster-CEO-Spekulationen-um-die-Nachfolge-vom-Tim-Cook-10712408.html",
       "image_title": "John Ternus bei der iPhone-17-Keynote"
-    },
-    {
-      "title": "Fünf Gründe für eine Servermodernisierung",
-      "teaser": "Unternehmen sparen mit der Erneuerung ihrer Server-Landschaft bares Geld – wenn sie die richtigen Investitionsentscheidungen treffen. Wir nennen fünf gute Gründe für einen „Tech-Refresh“.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084305514&iu=%2F6514%2FClicktracking"
-    },
-    {
-      "title": "Wischsauger Mova M50 Ultra im Test: Kommt dank verstellbaren Griffs unter Möbel",
-      "teaser": "Mit einem verstellbaren Griff erleichtert der Wischsauger Mova M50 Ultra das Erreichen schwer zugänglicher Stellen und erweist sich im Einsatz als flexibel.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/wischsauger-mova-m50-ultra-im-test-kommt-dank-verstellbaren-griffs-unter-moebel/q1rmx13?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "10. Deutscher Interoperabilitätstag: Sorgt KI für das Ende von Standards?",
-      "teaser": "Darüber, welchen Einfluss KI auf die Dokumentation und Interoperabilitätsstandards hat, diskutierten die Teilnehmer auf dem Deutschen Interoperabilitätstag.",
-      "url": "https://www.heise.de/news/10-Deutscher-Interoperabilitaetstag-Wie-wirkt-sich-KI-auf-Standards-aus-10731001.html",
-      "image_title": "Dr. Carina N. Vorisek von der Charité"
-    },
-    {
-      "title": "Fotografie: Historische Meilensteine im Objektivbau",
-      "teaser": "Die Entwicklungsgeschichte des Objektivbaus verlief anfangs gemächlich. Um die Wende zum 20. Jahrhundert entstanden drei wegweisende optische Konstruktionen.",
-      "url": "https://www.heise.de/ratgeber/Fotografie-Historische-Meilensteine-im-Objektivbau-10663004.html",
-      "image_title": ", Alle Bilder: Bernd Kieckhöfel"
-    },
-    {
-      "title": "Deutsche Telekom ermöglich nahtlosen eSIM-wechsel zwischen iOS und Android",
-      "teaser": "Der eSIM-Transfer zwischen Android und iOS gilt als eher umständlich. Die Deutsche Telekom führt als erster Netzbetreiber in Europa einen nahtlosen Wechsel ein.",
-      "url": "https://www.heise.de/news/Deutsche-Telekom-ermoeglich-nahtlosen-eSIM-wechsel-zwischen-iOS-und-Android-10733359.html",
-      "image_title": "Grafik deutet eSIM-Wechsel zwischen iPhone und Android-Smartphone an"
-    },
-    {
-      "title": "Android: Google-System-Update für Oktober bringt Neuerungen",
-      "teaser": "Googles Oktober-Update der Systemdienste bringt einige Neuerungen mit sich. Unter anderem wird die Nacktbild-Erkennung in Messages erweitert.",
-      "url": "https://www.heise.de/news/Android-Play-System-Update-erweitert-Nacktbild-Erkennung-in-Messages-um-Videos-10733123.html",
-      "image_title": "Play Store auf Smartphone"
-    },
-    {
-      "title": "iX-Workshop: Deep Dive in die OpenAI API – KI in eigene Anwendungen integrieren",
-      "teaser": "Erfahren Sie, wie Sie die OpenAI API nutzen können, um KI-Funktionen in Ihre Projekte zu integrieren und innovative Lösungen zu entwickeln.",
-      "url": "https://www.heise.de/news/iX-Workshop-Deep-Dive-in-die-OpenAI-API-KI-in-eigene-Anwendungen-integrieren-10673997.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -303,6 +302,41 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Wischsauger Mova M50 Ultra im Test: Kommt dank verstellbaren Griffs unter Möbel",
+      "teaser": "Mit einem verstellbaren Griff erleichtert der Wischsauger Mova M50 Ultra das Erreichen schwer zugänglicher Stellen und erweist sich im Einsatz als flexibel.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/wischsauger-mova-m50-ultra-im-test-kommt-dank-verstellbaren-griffs-unter-moebel/q1rmx13?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "10. Deutscher Interoperabilitätstag: Sorgt KI für das Ende von Standards?",
+      "teaser": "Darüber, welchen Einfluss KI auf die Dokumentation und Interoperabilitätsstandards hat, diskutierten die Teilnehmer auf dem Deutschen Interoperabilitätstag.",
+      "url": "https://www.heise.de/news/10-Deutscher-Interoperabilitaetstag-Wie-wirkt-sich-KI-auf-Standards-aus-10731001.html",
+      "image_title": "Dr. Carina N. Vorisek von der Charité"
+    },
+    {
+      "title": "Fotografie: Historische Meilensteine im Objektivbau",
+      "teaser": "Die Entwicklungsgeschichte des Objektivbaus verlief anfangs gemächlich. Um die Wende zum 20. Jahrhundert entstanden drei wegweisende optische Konstruktionen.",
+      "url": "https://www.heise.de/ratgeber/Fotografie-Historische-Meilensteine-im-Objektivbau-10663004.html",
+      "image_title": ", Alle Bilder: Bernd Kieckhöfel"
+    },
+    {
+      "title": "Deutsche Telekom ermöglich nahtlosen eSIM-wechsel zwischen iOS und Android",
+      "teaser": "Der eSIM-Transfer zwischen Android und iOS gilt als eher umständlich. Die Deutsche Telekom führt als erster Netzbetreiber in Europa einen nahtlosen Wechsel ein.",
+      "url": "https://www.heise.de/news/Deutsche-Telekom-ermoeglich-nahtlosen-eSIM-wechsel-zwischen-iOS-und-Android-10733359.html",
+      "image_title": "Grafik deutet eSIM-Wechsel zwischen iPhone und Android-Smartphone an"
+    },
+    {
+      "title": "Android: Google-System-Update für Oktober bringt Neuerungen",
+      "teaser": "Googles Oktober-Update der Systemdienste bringt einige Neuerungen mit sich. Unter anderem wird die Nacktbild-Erkennung in Messages erweitert.",
+      "url": "https://www.heise.de/news/Android-Play-System-Update-erweitert-Nacktbild-Erkennung-in-Messages-um-Videos-10733123.html",
+      "image_title": "Play Store auf Smartphone"
+    },
+    {
+      "title": "iX-Workshop: Deep Dive in die OpenAI API – KI in eigene Anwendungen integrieren",
+      "teaser": "Erfahren Sie, wie Sie die OpenAI API nutzen können, um KI-Funktionen in Ihre Projekte zu integrieren und innovative Lösungen zu entwickeln.",
+      "url": "https://www.heise.de/news/iX-Workshop-Deep-Dive-in-die-OpenAI-API-KI-in-eigene-Anwendungen-integrieren-10673997.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+    },
+    {
       "title": "Erstmals erzeugen Wind- und Solaranlagen mehr Strom als Kohlekraftwerke",
       "teaser": "Sauberer Strom gewinnt weiter an Bedeutung. Erstmals haben Wind und Sonne Kohle als Energieträger überholt.",
       "url": "https://www.heise.de/news/Erstmals-erzeugen-Wind-und-Solaranlagen-mehr-Strom-als-Kohlekraftwerke-10733141.html",
@@ -344,6 +378,11 @@
       "image_title": ","
     },
     {
+      "title": "Warum ist digitale Souveränität wichtig? Und warum nicht gleich Autonomie oder Autarkie?",
+      "teaser": "Wer kontrolliert die Cloud-Daten wirklich? Welche Zugriffsmöglichkeiten haben ausländische Behörden? Ein Webcast gibt konkrete Empfehlungen, um Abhängigkeiten zu reduzieren – und differenziert zwischen Autarkie, Autonomie und Souveränität.",
+      "url": "https://business-services.heise.de/it-management/digitalisierung/beitrag/digitale-souveraenitaet-schluessel-zur-strategischen-unabhaengigkeit-4965/?source=hbsad-ersatz"
+    },
+    {
       "title": "Microsoft Outlook: Zur Sicherheit keine SVG-Anzeige mehr",
       "teaser": "Ein Einfallstor für Malware ist das Vektorgrafikformat SVG. Microsoft zieht dem Format in Outlook daher den Stecker – etwas.",
       "url": "https://www.heise.de/news/Microsoft-Outlook-Zur-Sicherheit-keine-SVG-Anzeige-mehr-10729201.html",
@@ -380,11 +419,6 @@
       "image_title": "Die neue Wecker-Anzeige in iOS 26.1 beta 2"
     },
     {
-      "title": "So schützen Sie Ihre Anwendungen vor bösen Bots",
-      "teaser": "Bösartige Bots ahmen mit KI-Unterstützung menschliches Verhalten nach und versuchen, klassische Abwehrmaßnahmen auszutricksen. In einem Webcast erfahren Sie, wie Sie selbst KI nutzen können, um Bot-Angriffe in Echtzeit abzuwehren und Sicherheitsrisiken zu reduzieren.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/bad-bots-im-visier-echtzeit-schutz-vor-den-haeufigsten-angriffen-4970/?source=hbsad-ersatz"
-    },
-    {
       "title": "Videoschnitt-App mit KI-Werkzeug: Premiere Pro auf dem iPhone im Test",
       "teaser": "Nutzer von Adobe Premiere Pro können ihre Clips nun auch auf dem iPhone bearbeiten – mit KI-Werkzeugen und unendlich vielen Spuren. Wir haben die App getestet.",
       "url": "https://www.heise.de/tests/Videoschnitt-App-mit-KI-Werkzeug-Premiere-Pro-auf-dem-iPhone-im-Test-10678787.html"
@@ -405,41 +439,6 @@
       "teaser": "OpenAI bringt Apps in ChatGPT und will damit nichts Geringeres als das neue Internet sein. Das geht jedoch nur mit Entwicklern.",
       "url": "https://www.heise.de/news/OpenAI-Dev-Days-Ein-Oekosystem-rund-um-ChatGPT-10726270.html",
       "image_title": "Sam Altman bei den Dev Days."
-    },
-    {
-      "title": "Japanisches Start-up will Schmerzen zwischen Menschen übertragbar machen",
-      "teaser": "Ein EEG-System soll individuelles Schmerzempfinden anhand von Gehirnaktivitäten messbar und zwischen Menschen übertragbar machen.",
-      "url": "https://www.heise.de/news/Japanisches-Start-up-will-Schmerzen-zwischen-Menschen-uebertragbar-machen-10726278.html",
-      "image_title": "Zwei junge Frauen sitzen nebeneinander, eine davon trägt ein Hirnwellenmessgerät auf dem Kopf."
-    },
-    {
-      "title": "Bungie gibt \"Marathon\" eine neue Chance",
-      "teaser": "Nach schlechtem Feedback hatte Bungie seinen Shooter \"Marathon\" im Sommer auf unbestimmte Zeit verschoben. Nun soll ein neuer Test stattfinden.",
-      "url": "https://www.heise.de/news/Bungie-gibt-Marathon-eine-neue-Chance-10726260.html",
-      "image_title": "Screenshot aus Marathon"
-    },
-    {
-      "title": "Humanoider Roboter \"Oli\" sammelt vollständig autonom Tennisbälle ein",
-      "teaser": "Der humanoide Roboter LimX Oli kann selbstständig Tennisbälle erkennen und aufsammeln. Wie er das macht, entscheidet der Roboter selbst.",
-      "url": "https://www.heise.de/news/Humanoider-Roboter-Oli-sammelt-vollstaendig-autonom-Tennisbaelle-ein-10726256.html",
-      "image_title": "LimX Oli sammelt Tennisbälle ein."
-    },
-    {
-      "title": "Smartphone reparieren: So teuer sind die Ersatzteile bei Apple, Samsung & Co.",
-      "teaser": "Die EU zwingt Smartphonehersteller, Ersatzteile an Endkunden zu verkaufen, macht aber keine Vorgaben zum Preis. Manche Hersteller nutzen das aus.",
-      "url": "https://www.heise.de/hintergrund/Smartphone-reparieren-So-teuer-sind-die-Ersatzteile-bei-Apple-Samsung-Co-10520220.html"
-    },
-    {
-      "title": "Staatsfonds beteiligt? DLC für \"Assassin's Creed Mirage\" spielt in Saudi-Arabien",
-      "teaser": "Zwei Jahre nach dem Release bekommt \"Assassin's Creed Mirage\" einen neuen, kostenlosen DLC. \"Valley of Memory\" spielt in Saudi-Arabien.",
-      "url": "https://www.heise.de/news/Staatsfonds-beteiligt-DLC-fuer-Assassin-s-Creed-Mirage-spielt-in-Saudi-Arabien-10726248.html",
-      "image_title": "Werbebild für Saudi-Arabien-Erweiterung für AC Mirage"
-    },
-    {
-      "title": "Software Testing: Wie KI die Anforderungen in Softwaretests verbessert",
-      "teaser": "In dieser Episode spricht Richard Seidl mit den Requirements-Experten Andreas Günther und Breno Pinheiro über die Anwendung von KI im Anforderungsmanagement.",
-      "url": "https://www.heise.de/blog/Software-Testing-Wie-KI-die-Anforderungen-in-Softwaretests-verbessert-10726230.html",
-      "image_title": "Software Testing: Mit KI mehr Qualität bei Anforderungen"
     },
     {
       "title": "Cariad: VW-Tochter stellt eigene Software-Entwicklung weitgehend ein",
@@ -610,20 +609,20 @@
       "url": "https://www.heise.de/en/news/iPad-Pro-M5-What-hasn-t-been-leaked-yet-10722956.html"
     },
     {
+      "title": "Smartphone reparieren: So teuer sind die Ersatzteile bei Apple, Samsung & Co.",
+      "teaser": "Die EU zwingt Smartphonehersteller, Ersatzteile an Endkunden zu verkaufen, macht aber keine Vorgaben zum Preis. Manche Hersteller nutzen das aus.",
+      "url": "https://www.heise.de/hintergrund/Smartphone-reparieren-So-teuer-sind-die-Ersatzteile-bei-Apple-Samsung-Co-10520220.html"
+    },
+    {
       "title": "Sichere VerschlüsselungSignal sichert seine Chats gegen Quantencomputer",
       "teaser": "Signal ergänzt sein Double-Ratchet-Verfahren, sodass auch zukünftige Quantencomputer die Kommunikation nicht knacken können.",
       "url": "https://www.heise.de/news/Signal-sichert-seine-Chats-gegen-Quantencomputer-10717838.html",
       "image_title": "Signal läuft auf einem Handy vor einem Display"
     },
     {
-      "title": "Smartphone reparieren: So teuer sind die Ersatzteile bei Apple, Samsung & Co.",
-      "teaser": "Die EU zwingt Smartphonehersteller, Ersatzteile an Endkunden zu verkaufen, macht aber keine Vorgaben zum Preis. Manche Hersteller nutzen das aus.",
-      "url": "https://www.heise.de/hintergrund/Smartphone-reparieren-So-teuer-sind-die-Ersatzteile-bei-Apple-Samsung-Co-10520220.html"
-    },
-    {
-      "title": "Videoschnitt-App mit KI-Werkzeug: Premiere Pro auf dem iPhone im Test",
-      "teaser": "Nutzer von Adobe Premiere Pro können ihre Clips nun auch auf dem iPhone bearbeiten – mit KI-Werkzeugen und unendlich vielen Spuren. Wir haben die App getestet.",
-      "url": "https://www.heise.de/tests/Videoschnitt-App-mit-KI-Werkzeug-Premiere-Pro-auf-dem-iPhone-im-Test-10678787.html"
+      "title": "Mit OSINT-Tools Sherlock und Maigret nach Nutzernamen suchen",
+      "teaser": "Die OSINT-Tools mit den einprägsamen Namen Sherlock und Maigret helfen Pentestern beim Aufspüren von Benutzernamen auf sozialen Medien.",
+      "url": "https://www.heise.de/ratgeber/Mit-OSINT-Tools-Sherlock-und-Maigret-nach-Nutzernamen-suchen-10638459.html"
     },
     {
       "title": "Fünf Jahre Macs mit Apple SiliconDer Siegeszug der M-Chips",
@@ -741,22 +740,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Die Rente mit 73 ist nur noch eine Frage der Zeit",
-      "teaser": "Berater der Bundesregierung empfehlen eine Kopplung des Renteneintrittsalters an die steigende Lebenserwartung. Gewerkschaften und Sozialverbände warnen.",
-      "url": "https://www.heise.de/tp/features/Die-Rente-mit-73-ist-nur-noch-eine-Frage-der-Zeit-10733367.html",
-      "image_title": "Ein Mann steht mit über 70 Jahren noch an einer Fräßmaschine."
+      "title": "THTR-300: Das deutsche Atomkraftwerk, das zum Alptraum wurde",
+      "teaser": "Steuerzahler müssen für Rückbau des störanfälligen Thorium-Reaktors aufkommen: Betreibergesellschaft ist insolvent und entzieht sich der Verantwortung.",
+      "url": "https://www.heise.de/tp/features/THTR-300-Das-deutsche-Atomkraftwerk-das-zum-Alptraum-wurde-10692397.html",
+      "image_title": "Bundesadler auf Eurozeichen und Abrissbirne mit AKW-Mauer"
     },
     {
-      "title": "Mehr als nur Exportgeschäft: Wie Atomtechnik Russland Verbündete sichert",
-      "teaser": "Russlands Nuklearexporte schaffen langfristige Partnerschaften mit Ländern des Globalen Südens und unterlaufen westliche Sanktionen.",
-      "url": "https://www.heise.de/tp/features/Mehr-als-nur-Exportgeschaeft-Wie-Atomtechnik-Russland-Verbuendete-sichert-10711850.html",
-      "image_title": "Russisches Atomkraftwerk im Bau"
+      "title": "Machtpoker um Bagram: Wenn US-Interessen auf chinesische Dominanz treffen",
+      "teaser": "US-Präsident Trump kokettiert mit Aussagen zur ehemaligen US-Basis in Afghanistan. Was hat der Schachzug mit China und den US-Wirtschaftsinteressen zu tun? Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Machtpoker-um-Bagram-Wenn-US-Interessen-auf-chinesische-Dominanz-treffen-10690904.html",
+      "image_title": "Eine Stadt in der Wüste mit Militärpräsenz"
     },
     {
-      "title": "Benötigt Deutschland neue Gasspeicher?",
-      "teaser": "Deutschlands größter Gasspeicher in Rehden ist fast leer. Neue Kavernenspeicher könnten helfen, LNG-Gas effizient zu speichern.",
-      "url": "https://www.heise.de/tp/features/Benoetigt-Deutschland-neue-Gasspeicher-10704607.html",
-      "image_title": "Schaubild Poren- und Kavernenspeicher"
+      "title": "China fährt elektrisch voraus, Deutschland bleibt im Rückspiegel",
+      "teaser": "Der Automarkt in China wünscht abgasfreie E-Mobile, die deutschen Käufer sonore Verbrenner. Unsere Marken müssen sich anpassen, wenn sie überleben wollen.",
+      "url": "https://www.heise.de/tp/features/China-faehrt-elektrisch-voraus-Deutschland-bleibt-im-Rueckspiegel-10732392.html",
+      "image_title": "Audi-Stand auf einer Messe in China"
     },
     {
       "title": "Diebstahl an SB-Kassen: Diese Tricks nutzen moderne Systeme gegen Betrüger",
