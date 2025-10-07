@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-07T14:11:05",
+  "timestamp": "2025-10-07T15:10:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Akkus und Batterien: Ladestände von smarten Geräten in Home Assistant verwalten",
+      "teaser": "Viele Geräte im Smart Home benötigen Batterien oder Akkus. Mit Home Assistant muss man sich nie wieder um niedrige Ladestände Sorgen machen.",
+      "url": "https://www.heise.de/ratgeber/Akkus-und-Batterien-Ladestaende-von-smarten-Geraeten-in-Home-Assistant-verwalten-10622763.html"
+    },
+    {
       "title": "Machine-Learning-Dienste der Hyperscaler – ein Überblick",
       "teaser": "Amazon, Google und Microsoft bieten mit spezialisierten Cloud-Plattformen ein breites Portfolio an Werkzeugen für Machine Learning und generative KI.",
       "url": "https://www.heise.de/tests/Machine-Learning-Dienste-der-Hyperscaler-ein-Ueberblick-10673488.html"
@@ -37,16 +42,14 @@
       "image_title": "Dr. Carina N. Vorisek von der Charité"
     },
     {
-      "title": "Das passiert, wenn der KI-Betreiber die Sicherheit vernachlässigt",
-      "teaser": "Verträge, Rechnungen und weitere sensible Daten erreichten uns via E-Mail. Die Quelle: eine österreichische KI-Firma, die demnach bei der Sicherheit schlampte.",
+      "title": "InvestigationDas passiert, wenn der KI-Betreiber die Sicherheit vernachlässigt",
+      "teaser": "Verträge und Rechnungen erreichten uns via Mail. Die Quelle: eine KI-Firma aus Österreich, die demnach bei der Sicherheit schlampte.",
       "url": "https://www.heise.de/news/Sensible-Unternehmensdaten-ueber-Sicherheitsprobleme-bei-KI-Firma-kompromittiert-10731728.html",
       "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
     },
     {
-      "title": "Ab 39 Euro: Qualcomm kauft Arduino und stellt Raspi-Konkurrenten vor",
-      "teaser": "Der Einplatinencomputer Arduino Uno Q bekommt einen Qualcomm-Prozessor. Er ermöglicht ähnliche Projekte wie ein Raspberry Pi.",
-      "url": "https://www.heise.de/news/Raspi-Konkurrenz-Qualcomm-schluckt-Arduino-und-stellt-Einplatinencomputer-vor-10733137.html",
-      "image_title": "Arduino Uno Q vor weiß-grauem Hintergrund"
+      "title": "RatgeberAkkus und Batterien: Ladestände von smarten Geräten in Home Assistant verwalten",
+      "url": "https://www.heise.de/ratgeber/Akkus-und-Batterien-Ladestaende-von-smarten-Geraeten-in-Home-Assistant-verwalten-10622763.html"
     },
     {
       "title": "TestsMachine-Learning-Dienste der Hyperscaler – ein Überblick",
@@ -57,8 +60,10 @@
       "url": "https://www.heise.de/ratgeber/Mit-OSINT-Tools-Sherlock-und-Maigret-nach-Nutzernamen-suchen-10638459.html"
     },
     {
-      "title": "HintergrundAutorisierungskonzepte für Software: Von ABAC bis Zanzibar",
-      "url": "https://www.heise.de/hintergrund/Autorisierungskonzepte-fuer-Software-Von-ABAC-bis-Zanzibar-10635552.html"
+      "title": "Ab 39 Euro: Qualcomm kauft Arduino und stellt Raspi-Konkurrenten vor",
+      "teaser": "Der Einplatinencomputer Arduino Uno Q bekommt einen Qualcomm-Prozessor. Er ermöglicht ähnliche Projekte wie ein Raspberry Pi.",
+      "url": "https://www.heise.de/news/Raspi-Konkurrenz-Qualcomm-schluckt-Arduino-und-stellt-Einplatinencomputer-vor-10733137.html",
+      "image_title": "Arduino Uno Q vor weiß-grauem Hintergrund"
     },
     {
       "title": "Microsoft erschwert Windows-Einrichtung ohne Microsoft-Konto",
@@ -89,6 +94,11 @@
       "teaser": "Ein Einfallstor für Malware ist das Vektorgrafikformat SVG. Microsoft zieht dem Format in Outlook daher den Stecker – etwas.",
       "url": "https://www.heise.de/news/Microsoft-Outlook-Zur-Sicherheit-keine-SVG-Anzeige-mehr-10729201.html",
       "image_title": "Fenster \"Microsoft Office Home\". Eine Lupe vergrößert das Logo für Outlook. Daneben die Logos für OneDrive, Word, Excel und Powerpoint."
+    },
+    {
+      "title": "Autorisierungskonzepte für Software: Von ABAC bis Zanzibar",
+      "teaser": "Wer darf was in einer Software? Autorisierung ist zentral für die Sicherheit von Software und Entwickler können zwischen unterschiedlichen Ansätzen wählen.",
+      "url": "https://www.heise.de/hintergrund/Autorisierungskonzepte-fuer-Software-Von-ABAC-bis-Zanzibar-10635552.html"
     },
     {
       "title": "Microsofts KI-Assistent Dragon Copilot in deutschen Kliniken verfügbar",
@@ -136,17 +146,6 @@
       "teaser": "In dieser Episode spricht Richard Seidl mit den Requirements-Experten Andreas Günther und Breno Pinheiro über die Anwendung von KI im Anforderungsmanagement.",
       "url": "https://www.heise.de/blog/Software-Testing-Wie-KI-die-Anforderungen-in-Softwaretests-verbessert-10726230.html",
       "image_title": "Software Testing: Mit KI mehr Qualität bei Anforderungen"
-    },
-    {
-      "title": "iX-Workshop: Windows 11 im Unternehmen absichern",
-      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-11-im-Unternehmen-absichern-10673438.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "iLLM-A*: KI beschleunigt Pfadplanung um Faktor 1000",
-      "teaser": "Ein neuer Algorithmus soll die Pfadplanung auf großen Karten um den Faktor 1000 beschleunigen, mit Potenzial für Robotik, Logistik und KI-basierte Simulationen",
-      "url": "https://www.heise.de/hintergrund/iLLM-A-Hybrid-KI-soll-Pfadplanung-um-Faktor-1000-beschleunigen-10726050.html"
     },
     {
       "title": "NewsCariad: VW-Tochter stellt eigene Software-Entwicklung weitgehend ein",
