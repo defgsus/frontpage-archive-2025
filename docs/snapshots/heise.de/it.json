@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T14:10:45",
+  "timestamp": "2025-10-08T15:10:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,30 @@
   ],
   "articles": [
     {
+      "title": "Zwischenstand bei der Migration zu Open Source in Schleswig-Holstein",
+      "teaser": "Bei der Umstellung auf quelloffene Software in Schleswig-Holstein knarzt es. Das hat aber überraschend wenig mit Open Source zu tun.",
+      "url": "https://www.heise.de/hintergrund/Zwischenstand-bei-der-Migration-zu-Open-Source-in-Schleswig-Holstein-10672370.html"
+    },
+    {
+      "title": "WLAN im Zug: Wo steht Deutschland im internationalen Vergleich?",
+      "teaser": "Wie gut ist das WLAN in deutschen Zügen wirklich? Eine internationale Analyse vergleicht die Performance und zeigt, wo Deutschland steht.",
+      "url": "https://www.heise.de/news/WLAN-im-Zug-Wo-steht-Deutschland-im-internationalen-Vergleich-10746414.html"
+    },
+    {
+      "title": "Antennagate: 20 Bytes Code lösten iPhone-4-Skandal aus",
+      "teaser": "Ein Software-Ingenieur hat entschlüsselt, wie Apple 2010 das iPhone-4-Antennenproblem löste: Eine winzige Änderung in einer Tabelle machte den Unterschied.",
+      "url": "https://www.heise.de/news/Antennagate-20-Bytes-Code-loesten-iPhone-4-Skandal-aus-10745703.html",
+      "image_title": "Steve Jobs während der Pressekonferenz zum Antennagate"
+    },
+    {
       "title": "Open Source: Neue React Foundation unter dem Dach der Linux Foundation",
       "teaser": "Die Linux Foundation hat die neue React Foundation angekündigt, die für React und verwandte Projekte zuständig sein wird.",
       "url": "https://www.heise.de/news/Open-Source-Neue-React-Foundation-unter-dem-Dach-der-Linux-Foundation-10745508.html",
       "image_title": "Zwei Hände halten in einem Grasfeld eine fiktive Weltkugel"
     },
     {
-      "title": "Ciso: Neuer Router für verteilte KI-Workloads",
-      "teaser": "Mit seinem neuen Router 8223 und dem Netzwerkprozessor Silicon One P200 will Cisco den Bau skalierbarer KI-Netzwerke über mehrere RZ hinweg erleichtern.",
-      "url": "https://www.heise.de/news/Ciso-Neuer-Router-fuer-verteilte-KI-Workloads-10740187.html"
-    },
-    {
-      "title": "Windows 10 SupportverlängerungRegistrierung auf ersten Rechnern möglich",
-      "teaser": "Nach Hinweisen auf eine \"in Kürze\" verfügbare Registrierung zur Supportverlängerung bieten erste Windows-10-Rechner einen Link an.",
-      "url": "https://www.heise.de/news/Windows-10-Registrierung-fuer-Supportverlaengerung-auf-ersten-Rechnern-moeglich-10742529.html",
-      "image_title": "Windows-Taste auf Tastatur"
-    },
-    {
-      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
-      "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
-      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10673444.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+      "title": "HintergrundZwischenstand bei der Migration zu Open Source in Schleswig-Holstein",
+      "url": "https://www.heise.de/hintergrund/Zwischenstand-bei-der-Migration-zu-Open-Source-in-Schleswig-Holstein-10672370.html"
     },
     {
       "title": "HintergrundBessere Sicherheitstests mit Fuzzing – Schwachstellen suchen und finden",
@@ -58,14 +61,26 @@
       "url": "https://www.heise.de/tests/Smarter-surfen-Sieben-Browser-mit-KI-Funktionen-im-Vergleich-10665754.html"
     },
     {
-      "title": "RatgeberSafari pimpen: Mit Erweiterungen für Mac, iPhone und iPad",
-      "url": "https://www.heise.de/ratgeber/Safari-pimpen-Mit-Erweiterungen-fuer-Mac-iPhone-und-iPad-10678830.html",
-      "image_title": "Safari-Erweiterungen"
-    },
-    {
       "title": "Mini-PC-Schnäppchen: Top-Angebote für Minisforum, Lenovo, MSI & Co.",
       "teaser": "Zu den Prime Deal Days lockt Amazon mit Rabatten auf Mini-PCs. Doch handelt es sich dabei auch um gute Deals? Wir überprüfen die Angebote.",
       "url": "https://www.heise.de/bestenlisten/deals/mini-pc-schnaeppchen-top-angebote-fuer-minisforum-lenovo-msi-und-co/33bg2ef?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Cisco: Neuer Router für verteilte KI-Workloads",
+      "teaser": "Mit seinem neuen Router 8223 und dem Netzwerkprozessor Silicon One P200 will Cisco den Bau skalierbarer KI-Netzwerke über mehrere RZ hinweg erleichtern.",
+      "url": "https://www.heise.de/news/Ciso-Neuer-Router-fuer-verteilte-KI-Workloads-10740187.html"
+    },
+    {
+      "title": "Windows 10: Registrierung für Supportverlängerung auf ersten Rechnern möglich",
+      "teaser": "Nach Hinweisen auf eine \"in Kürze\" verfügbare Registrierung zur Supportverlängerung bieten erste Windows-10-Rechner einen Link an.",
+      "url": "https://www.heise.de/news/Windows-10-Registrierung-fuer-Supportverlaengerung-auf-ersten-Rechnern-moeglich-10742529.html",
+      "image_title": "Windows-Taste auf Tastatur"
+    },
+    {
+      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
+      "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10673444.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
       "title": "Mähroboter: Top-Modelle zum Ende der Saison besonders günstig",
@@ -128,23 +143,6 @@
       "teaser": "Die japanische Brauerei Asahi gehört zu den größten der Welt. Nach einer Cyberattacke kam sie mit der Produktion nicht mehr nach. Die Lage soll sich bessern.",
       "url": "https://www.heise.de/news/Cyberattacke-auf-Brauereikonzern-Asahi-Japan-geht-das-Bier-aus-10736540.html",
       "image_title": "Asahi-Bierdosen"
-    },
-    {
-      "title": "Google deutet neues Smart-Display an",
-      "teaser": "Google hat seine Smart-Displays noch nicht aufgegeben. Ein neuer Nest-Hub soll kommen, sagt der Chief-Product-Officer für Google Home.",
-      "url": "https://www.heise.de/news/Google-deutet-neues-Smart-Display-an-10734844.html",
-      "image_title": "Bild vom Google Nest Hub"
-    },
-    {
-      "title": "c't-Webinar: MCP verstehen und KI-Agenten im Alltag nutzen",
-      "teaser": "Das Model Context Protocol macht Sprachmodelle handlungsfähig. Das Webinar zeigt das Potenzial und die Risiken der Technik.",
-      "url": "https://www.heise.de/news/c-t-Webinar-KI-Agenten-verstehen-10714171.html"
-    },
-    {
-      "title": "Tipp: Laufwerke übersichtlicher im Finder am Mac zeigen",
-      "teaser": "Über die Darstellungsoptionen lässt sich der Finder so einstellen, dass er das Startvolume stets vor allen anderen Volumes zeigt – das ist oft praktisch.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Laufwerke-uebersichtlicher-im-Finder-am-Mac-zeigen-7124147.html",
-      "image_title": "Finder-Icon am Mac"
     },
     {
       "title": "NewsStudie Dacia Hipster: Klein, billig, massentauglich?",
