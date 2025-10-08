@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-08T02:14:58",
+  "timestamp": "2025-10-08T03:23:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Streaming: Kalifornien verbietet überlaute Werbung",
+      "url": "https://www.heise.de/news/Streaming-Kalifornien-verbietet-ueberlaute-Werbung-10733850.html"
+    },
     {
       "title": "Googles AI Mode kommt nach Deutschland",
       "url": "https://www.heise.de/news/Googles-AI-Mode-kommt-nach-Deutschland-10727672.html"
@@ -60,10 +64,6 @@
     {
       "title": "Redis: Kritische Codeschmuggel-Lücke in Datenbank",
       "url": "https://www.heise.de/news/Redis-Kritische-Codeschmuggel-Luecke-in-Datenbank-10733632.html"
-    },
-    {
-      "title": "Filmkritik \"Tron: Ares\": Einmal Transforminator mit Pixels bitte!",
-      "url": "https://www.heise.de/meinung/Filmkritik-Tron-Ares-Einmal-Transforminator-mit-Pixels-bitte-10726016.html"
     },
     {
       "title": "EU-ÜberwachungspläneSpahn: \"Anlasslose Chatkontrolle wird es mit uns nicht geben\"",
@@ -186,20 +186,26 @@
       "image_title": "Dacia Hipster"
     },
     {
+      "title": "Streaming: Kalifornien verbietet überlaute Werbung",
+      "teaser": "Im US-Fernsehen sind laute Werbespots verboten. Kalifornien zieht das für Videostreaming nach.",
+      "url": "https://www.heise.de/news/Streaming-Kalifornien-verbietet-ueberlaute-Werbung-10733850.html",
+      "image_title": "Eine Erwachsenenhand hält die Füße eines Säuglings"
+    },
+    {
       "title": "Googles AI Mode kommt nach Deutschland",
       "teaser": "In der Google-Suche gibt es künftig den AI Mode zur Auswahl. Er ist deutlich umfassender als die KI-Übersichten oder Linklisten.",
       "url": "https://www.heise.de/news/Googles-AI-Mode-kommt-nach-Deutschland-10727672.html"
     },
     {
-      "title": "Biologisch abbaubare Leiterplatte aus Cellulose",
-      "teaser": "Bislang kaum genutzte Cellulosereste können nach \"Hornifizierung\" in harte Leiterplatten gepresst werden. Ganz wasserfest dürften sie nicht sein.",
-      "url": "https://www.heise.de/news/Biologisch-abbaubare-Leiterplatte-aus-Cellulose-10733802.html",
-      "image_title": "Großteils biologisch abbaubare Holzmaus, geöffnet"
-    },
-    {
       "title": "Fünf Gründe für eine Servermodernisierung",
       "teaser": "Unternehmen sparen mit der Erneuerung ihrer Server-Landschaft bares Geld – wenn sie die richtigen Investitionsentscheidungen treffen. Wir nennen fünf gute Gründe für einen „Tech-Refresh“.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7084305514&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Biologisch abbaubare Leiterplatte aus Cellulose",
+      "teaser": "Bislang kaum genutzte Cellulosereste können nach \"Hornifizierung\" in harte Leiterplatten gepresst werden. Ganz wasserfest dürfen sie nicht sein.",
+      "url": "https://www.heise.de/news/Biologisch-abbaubare-Leiterplatte-aus-Cellulose-10733802.html",
+      "image_title": "Großteils biologisch abbaubare Holzmaus, geöffnet"
     },
     {
       "title": "Schleswig-Holstein: Verwaltung mit E-Mail-Migration auf Open Source fertig",
@@ -229,12 +235,6 @@
       "teaser": "Telefónica Deutschland löst den Vertrag mit Markus Haas vorzeitig auf und sucht einen neuen CEO. Der Chef des spanischen Mutterkonzerns hat andere Pläne.",
       "url": "https://www.heise.de/news/Markus-Haas-muss-gehen-Telefonica-Deutschland-sucht-neuen-CEO-10733645.html",
       "image_title": "Markus Haas mit O2 im Hintergrund"
-    },
-    {
-      "title": "AlertRedis: Kritische Codeschmuggel-Lücke in Datenbank",
-      "teaser": "Die Entwickler der Datenbank Redis haben eine aktualisierte Version veröffentlicht, die eine kritische Sicherheitslücke stopft.",
-      "url": "https://www.heise.de/news/Redis-Kritische-Codeschmuggel-Luecke-in-Datenbank-10733632.html",
-      "image_title": "Leuchtendes Warndreieck auf blauem Hintergrund"
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -270,12 +270,12 @@
       "url": "https://www.heise.de/ratgeber/Wie-Sie-Windows-10-ein-weiteres-Jahr-Updates-verschaffen-10573864.html"
     },
     {
-      "title": "Glasfaser-Inhouse-Verkabelung: So vermeiden Sie das Monopol im Treppenhaus",
-      "url": "https://www.heise.de/hintergrund/Glasfaser-Inhouse-Verkabelung-So-vermeiden-Sie-das-Monopol-im-Treppenhaus-10636012.html"
-    },
-    {
       "title": "Windows 11 auf angeblich inkompatibler Hardware installieren",
       "url": "https://www.heise.de/ratgeber/Windows-11-auf-angeblich-inkompatibler-Hardware-installieren-10573858.html"
+    },
+    {
+      "title": "Glasfaser-Inhouse-Verkabelung: So vermeiden Sie das Monopol im Treppenhaus",
+      "url": "https://www.heise.de/hintergrund/Glasfaser-Inhouse-Verkabelung-So-vermeiden-Sie-das-Monopol-im-Treppenhaus-10636012.html"
     },
     {
       "title": "BGH: Handy-Raub zwecks Datensichtung ist kein Diebstahl",
@@ -301,6 +301,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "AlertRedis: Kritische Codeschmuggel-Lücke in Datenbank",
+      "teaser": "Die Entwickler der Datenbank Redis haben eine aktualisierte Version veröffentlicht, die eine kritische Sicherheitslücke stopft.",
+      "url": "https://www.heise.de/news/Redis-Kritische-Codeschmuggel-Luecke-in-Datenbank-10733632.html",
+      "image_title": "Leuchtendes Warndreieck auf blauem Hintergrund"
     },
     {
       "title": "Filmkritik \"Tron: Ares\": Einmal Transforminator mit Pixels bitte!",
@@ -371,15 +377,15 @@
       "image_title": "Play Store auf Smartphone"
     },
     {
+      "title": "Wie sieht die Zukunft der Videokonferenzen aus?",
+      "teaser": "Videokonferenzen gehören für die meisten Angestellten zum täglichen Alltag. Welche Trends, Techniken und Innovationen Sie im Auge behalten sollten, erfahren Sie in unserem aktuellen Themenspecial mit HP Poly.",
+      "url": "https://it-kenner.heise.de/zukunft-der-videokonferenzen//?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Deep Dive in die OpenAI API – KI in eigene Anwendungen integrieren",
       "teaser": "Erfahren Sie, wie Sie die OpenAI API nutzen können, um KI-Funktionen in Ihre Projekte zu integrieren und innovative Lösungen zu entwickeln.",
       "url": "https://www.heise.de/news/iX-Workshop-Deep-Dive-in-die-OpenAI-API-KI-in-eigene-Anwendungen-integrieren-10673997.html",
       "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
-    },
-    {
-      "title": "Wie sieht die Zukunft der Videokonferenzen aus?",
-      "teaser": "Videokonferenzen gehören für die meisten Angestellten zum täglichen Alltag. Welche Trends, Techniken und Innovationen Sie im Auge behalten sollten, erfahren Sie in unserem aktuellen Themenspecial mit HP Poly.",
-      "url": "https://it-kenner.heise.de/zukunft-der-videokonferenzen//?source=hbsadersatz"
     },
     {
       "title": "Erstmals erzeugen Wind- und Solaranlagen mehr Strom als Kohlekraftwerke",
@@ -435,15 +441,9 @@
       "image_title": "Fenster \"Microsoft Office Home\". Eine Lupe vergrößert das Logo für Outlook. Daneben die Logos für OneDrive, Word, Excel und Powerpoint."
     },
     {
-      "title": "ARD und ZDF übertragen 60 Spiele der Fußball-WM 2026",
-      "teaser": "Alle Deutschland-Spiele der Fußball-WM 2026 werden bei öffentlich-rechtlichen Sendern zu sehen sein – solange sich die Nationalmannschaft qualifiziert.",
-      "url": "https://www.heise.de/news/ARD-und-ZDF-uebertragen-60-Spiele-der-Fussball-WM-2026-10729875.html",
-      "image_title": "Männer blicken auf Fernseher, auf dem Fußball läuft"
-    },
-    {
-      "title": "Cariad: VW-Tochter stellt eigene Software-Entwicklung weitgehend ein",
-      "url": "https://www.heise.de/news/Cariad-VW-Tochter-stellt-eigene-Software-Entwicklung-weitgehend-ein-10711997.html",
-      "image_title": "Volkswagen in Wolfsburg"
+      "title": "KI-Müll: Beratungsfirma Deloitte gibt Australien Geld zurück",
+      "url": "https://www.heise.de/news/KI-Muell-Consulter-gibt-Australien-Geld-zurueck-10726094.html",
+      "image_title": "Digitales Schild warnt \"GPT-4 Ahead\""
     },
     {
       "title": "Elster überholt erstmals kommerzielle Steuersoftware",
@@ -456,29 +456,28 @@
       "image_title": "Signal läuft auf einem Handy vor einem Display"
     },
     {
-      "title": "Neuartiger Fallschirm nutzt Kirigami-Technik für unterschiedliche Eigenschaften",
-      "url": "https://www.heise.de/news/Neuartiger-Fallschirm-nutzt-Kirigami-Technik-fuer-unterschiedliche-Eigenschaften-10711894.html",
-      "image_title": "Kirigami-Fallschirm"
-    },
-    {
       "title": "Interstellarer Komet 3I/ATLAS: Jetzt sind die Weltraumsonden dran",
       "url": "https://www.heise.de/news/Interstellarer-Komet-3I-ATLAS-Jetzt-sind-die-Weltraumsonden-dran-10718840.html",
       "image_title": "Hell leuchtender Komet zwischen verschiedenen Sternen"
     },
     {
-      "title": "Spinnenroboter \"Charlotte\" soll Häuser in 24 Stunden drucken, auch auf dem Mond",
-      "url": "https://www.heise.de/news/Bauroboter-Charlotte-Spinnenmaschine-soll-Haeuser-und-Mondbasen-drucken-10712065.html",
-      "image_title": "Künstlerische Darstellung eines 3D-druckenden Spinnenroboters auf dem Mond."
+      "title": "iLLM-A*: KI beschleunigt Pfadplanung um Faktor 1000",
+      "url": "https://www.heise.de/hintergrund/iLLM-A-Hybrid-KI-soll-Pfadplanung-um-Faktor-1000-beschleunigen-10726050.html"
     },
     {
-      "title": "Jetzt auch Google: Konzern geht gegen ICE-Tracking-Apps vor",
-      "url": "https://www.heise.de/news/Jetzt-auch-Google-Konzern-geht-gegen-ICE-Tracking-Apps-vor-10712218.html",
-      "image_title": "Portland,,Or,,Usa,-,Apr,21,,2021:,Google,Play,Store"
+      "title": "Humanoider Roboter \"Oli\" sammelt vollständig autonom Tennisbälle ein",
+      "url": "https://www.heise.de/news/Humanoider-Roboter-Oli-sammelt-vollstaendig-autonom-Tennisbaelle-ein-10726256.html",
+      "image_title": "LimX Oli sammelt Tennisbälle ein."
     },
     {
-      "title": "Bilder von Tesla-Prototyp für abgespecktes Modell Y aufgetaucht",
-      "url": "https://www.heise.de/news/Bilder-von-Tesla-Prototyp-fuer-abgespecktes-Modell-Y-aufgetaucht-10712264.html",
-      "image_title": "Tesla-Logo auf rotem Auto"
+      "title": "rabbitOS 2 bringt kartenbasiertes Interface und Vibe-Coding",
+      "url": "https://www.heise.de/news/Kleiner-Neuanfang-Rabbit-R1-erhaelt-mit-rabbitOS-2-umfassendes-Update-10725870.html",
+      "image_title": "rabbitOS 2"
+    },
+    {
+      "title": "Schlappe vorm Supreme Court: Google muss Änderungen am Play Store vorbereiten",
+      "url": "https://www.heise.de/news/Schlappe-vorm-Supreme-Court-Google-muss-Aenderungen-am-Play-Store-vorbereiten-10726156.html",
+      "image_title": "Play Store von Google auf einem Smartphone"
     },
     {
       "title": "Geheiminfos zum iPhone 16e in US-Datenbank publiziert",
@@ -486,27 +485,23 @@
       "image_title": "iPhone 16e"
     },
     {
-      "title": "Missing Link: High-Tech und Hunde – Ermittlungen gegen Streaming-Piraten",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-High-Tech-und-Hunde-Ermittlungen-gegen-Streaming-Piraten-10711904.html"
+      "title": "Bungie gibt \"Marathon\" eine neue Chance",
+      "url": "https://www.heise.de/news/Bungie-gibt-Marathon-eine-neue-Chance-10726260.html",
+      "image_title": "Screenshot aus Marathon"
     },
     {
-      "title": "Russland: Riesiges Interesse an KI-generierten Videos gefallener Soldaten",
-      "url": "https://www.heise.de/news/Russland-Riesiges-Interesse-an-KI-generierten-Videos-gefallener-Soldaten-10714520.html",
-      "image_title": "Schatten von Soldaten vor russischer und ukrainischer Flagge"
+      "title": "Brasilien: Millionengewinne mit Gisele Bündchen-Deepfakes",
+      "url": "https://www.heise.de/news/Brasilien-Millionengewinne-mit-Gisele-Buendchen-Deepfakes-10726064.html",
+      "image_title": "Deepfake-Schriftzug vor Handy in Menschenhand"
     },
     {
-      "title": "Investoren lehnen Musks Milliarden-Vergütungspaket bei Tesla ab",
-      "url": "https://www.heise.de/news/Tesla-Investoren-gegen-Musks-Milliarden-Paket-Verwaltungsrat-in-der-Kritik-10711723.html",
-      "image_title": "Elon Musk"
+      "title": "Japanisches Start-up will Schmerzen zwischen Menschen übertragbar machen",
+      "url": "https://www.heise.de/news/Japanisches-Start-up-will-Schmerzen-zwischen-Menschen-uebertragbar-machen-10726278.html",
+      "image_title": "Zwei junge Frauen sitzen nebeneinander, eine davon trägt ein Hirnwellenmessgerät auf dem Kopf."
     },
     {
       "title": "Viertelstundentakt bei Strombörse gestartet",
       "url": "https://www.heise.de/news/Viertelstundentakt-bei-Stromboerse-gestartet-10721514.html"
-    },
-    {
-      "title": "Börse begeistert: OpenAI kauft AMD-GPUs für Milliarden US-Dollar",
-      "url": "https://www.heise.de/news/OpenAI-will-Millionen-AMD-Beschleuniger-kaufen-10724092.html",
-      "image_title": "Renderbild eines nackten AMD-Chips auf einer Platine"
     },
     {
       "title": "Bericht: Blackout in Spanien und Portugal folgte auf ungewöhnliche Schwankungen",
@@ -514,14 +509,19 @@
       "image_title": "Strommasten in Wilhelmshaven"
     },
     {
+      "title": "Cariad: VW-Tochter stellt eigene Software-Entwicklung weitgehend ein",
+      "url": "https://www.heise.de/news/Cariad-VW-Tochter-stellt-eigene-Software-Entwicklung-weitgehend-ein-10711997.html",
+      "image_title": "Volkswagen in Wolfsburg"
+    },
+    {
+      "title": "Cyber-Freibeuter: US-Abgeordnete wollen mit Kaperbriefen im Netz zurückschlagen",
+      "url": "https://www.heise.de/news/Cyber-Freibeuter-US-Abgeordnete-wollen-mit-Kaperbriefen-im-Netz-zurueckschlagen-10725982.html",
+      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
       "title": "Chatkontrolle: WhatsApp und Threema äußern sich verhaltener als Signal",
       "url": "https://www.heise.de/news/Datenschutz-unter-Beschuss-Messengerdienste-reagieren-auf-EU-Chatkontrolle-10715694.html",
       "image_title": "App-Symbole von Signal und WhatsApp"
-    },
-    {
-      "title": "Deutsches Ja zu Chatkontrolle? CCC & Co. warnen vor Grundrechtsgefährdung",
-      "url": "https://www.heise.de/news/Deutsches-Ja-zu-Chatkontrolle-CCC-Co-warnen-vor-Grundrechtsgefaehrdung-10712007.html",
-      "image_title": "Mann textet eine Nachricht auf einem Smartphone"
     },
     {
       "title": "FAIR: Bei Meta im KI-Team grummelt es",
@@ -534,9 +534,9 @@
       "image_title": "Raspi"
     },
     {
-      "title": "Montag: Neues und günstigeres Tesla Model Y, Kölner KI-Firma vor US-Börsengang",
-      "url": "https://www.heise.de/news/Montag-Neues-und-guenstigeres-Tesla-Model-Y-Koelner-KI-Firma-vor-US-Boersengang-10712430.html",
-      "image_title": "Tesla-Logo auf rotem Auto; Montag: Tesla-Billigmodell, DeepL-Börsengang, VW-Softwarestrategie, Kirigami-Fallschirm & Streaming-Piraten"
+      "title": "Dienstag: BGH klärt Diebstahls-Grenze, EU-Aufsichtsbehörde will mehr Befugnisse",
+      "url": "https://www.heise.de/news/Dienstag-BGH-klaert-Diebstahls-Grenze-EU-Aufsichtsbehoerde-will-mehr-Befugnisse-10726082.html",
+      "image_title": "Schild an einer Polizeiwache, dazu Text: DIENSTAG Handy-Raub, EU-Kapitalmarkt, Cyber-Freibeuter, Stromhandel & Blackout"
     },
     {
       "title": "Anatomie zum Anfassen: Portal für druckbare 3D-Anatomiemodelle",
@@ -587,41 +587,41 @@
       "url": "https://www.heise.de/multimediadatei/Signal-Rueckzug-Verbrennerverbot-E-ID-in-der-Schweiz-heiseshow-10711389.html"
     },
     {
+      "title": "iOS 26.1 Beta 2: Apple complicates the accidental turning off of alarms",
+      "url": "https://www.heise.de/en/news/iOS-26-1-Beta-2-Apple-complicates-the-accidental-turning-off-of-alarms-10729442.html",
+      "image_title": "The new alarm clock display in iOS 26.1 beta 2"
+    },
+    {
       "title": "Cariad: VW subsidiary largely discontinues its own software development",
       "url": "https://www.heise.de/en/news/Cariad-VW-subsidiary-largely-discontinues-its-own-software-development-10712012.html",
       "image_title": "Volkswagen in Wolfsburg"
     },
     {
       "title": "Interstellar comet 3I/ATLAS: Now it's the space probes' turn",
-      "url": "https://www.heise.de/en/news/Interstellar-comet-3I-ATLAS-Now-it-s-the-space-probes-turn-10722441.html",
-      "image_title": "Brightly shining comet between different stars"
+      "url": "https://www.heise.de/en/news/Interstellar-comet-3I-ATLAS-Now-it-s-the-space-probes-turn-10722441.html"
     },
     {
-      "title": "Google's Android PCs are apparently also coming with Intel chips",
-      "url": "https://www.heise.de/en/news/Google-s-Android-PCs-are-apparently-also-coming-with-Intel-chips-10718728.html"
+      "title": "Waiting for Apple's October event: when the time could come",
+      "url": "https://www.heise.de/en/news/Waiting-for-Apple-s-October-event-when-the-time-could-come-10726023.html"
     },
     {
-      "title": "German Yes to chat control? CCC & Co. warn of threat to fundamental rights",
-      "url": "https://www.heise.de/en/news/German-Yes-to-chat-control-CCC-Co-warn-of-threat-to-fundamental-rights-10712032.html"
-    },
-    {
-      "title": "iPad Pro M5: What hasn't been leaked yet",
-      "url": "https://www.heise.de/en/news/iPad-Pro-M5-What-hasn-t-been-leaked-yet-10722956.html"
-    },
-    {
-      "title": "Filmkritik \"Tron: Ares\": Einmal Transforminator mit Pixels bitte!",
-      "teaser": "Wenn böse Menschen KI missbrauchen, muss der Algorithmus nur auf sein Gewissen hören – dann wird alles gut. Tron: Ares spiegelt den Zeitgeist im Silicon Valley.",
-      "url": "https://www.heise.de/meinung/Filmkritik-Tron-Ares-Einmal-Transforminator-mit-Pixels-bitte-10726016.html"
-    },
-    {
-      "title": "Videoschnitt-App mit KI-Werkzeug: Premiere Pro auf dem iPhone im Test",
-      "teaser": "Nutzer von Adobe Premiere Pro können ihre Clips nun auch auf dem iPhone bearbeiten – mit KI-Werkzeugen und unendlich vielen Spuren. Wir haben die App getestet.",
-      "url": "https://www.heise.de/tests/Videoschnitt-App-mit-KI-Werkzeug-Premiere-Pro-auf-dem-iPhone-im-Test-10678787.html"
+      "title": "Data protection under fire: Messenger services react to EU chat control",
+      "url": "https://www.heise.de/en/news/Data-protection-under-fire-Messenger-services-react-to-EU-chat-control-10716352.html"
     },
     {
       "title": "Im Test: Kompakte Drucker-Scanner-Kombi für den Schreibtisch",
       "teaser": "Der günstige HP LaserJet M234dw passt auf den Schreibtisch und druckt sehr flott, ist aber spärlich ausgestattet und hat nur ein kümmerliches Bedienfeld.",
       "url": "https://www.heise.de/tests/Im-Test-Kompakte-Drucker-Scanner-Kombi-fuer-den-Schreibtisch-10632214.html"
+    },
+    {
+      "title": "Mit OSINT-Tools Sherlock und Maigret nach Nutzernamen suchen",
+      "teaser": "Die OSINT-Tools mit den einprägsamen Namen Sherlock und Maigret helfen Pentestern beim Aufspüren von Benutzernamen auf sozialen Medien.",
+      "url": "https://www.heise.de/ratgeber/Mit-OSINT-Tools-Sherlock-und-Maigret-nach-Nutzernamen-suchen-10638459.html"
+    },
+    {
+      "title": "c't-Workshop: Moderne DHCP-Services implementieren mit Kea",
+      "teaser": "Im c’t-Workshop lernen Sie, den DHCP-Server von Grund auf einzurichten, produktiv einzusetzen und bestehende Setups zu migrieren – praxisnah mit Expertenwissen.",
+      "url": "https://www.heise.de/news/c-t-Workshop-Moderne-DHCP-Services-implementieren-mit-Kea-10681812.html"
     },
     {
       "title": "Fünf Jahre Macs mit Apple SiliconDer Siegeszug der M-Chips",
@@ -636,10 +636,10 @@
       "image_title": "Apple Watch Ultra 3, Series 11 und SE 3"
     },
     {
-      "title": "Tipps zu den NeuerungenApple-Apps in iOS 26 und macOS 26",
-      "teaser": "Apples neue Systeme ergänzen hilfreiche Funktionen in Telefon, Nachrichten, Kamera, Erinnerungen, Safari, Dateien & Co. 19 Tipps für iPhone, iPad und Mac.",
-      "url": "https://www.heise.de/ratgeber/Apple-Apps-in-iOS-26-und-macOS-26-Die-besten-Tipps-zu-den-neuen-Systemen-10652679.html",
-      "image_title": "Tipps für Apple-Apps in den neuen Systemen"
+      "title": "Das ist neuiPhones mit iOS 26 im Unternehmen",
+      "teaser": "Apples neue Betriebssysteme sollen die Firmen-IT entlasten. Was sich für Admins bei der Verwaltung von Geräten mit iOS 26 & Co verändert.",
+      "url": "https://www.heise.de/ratgeber/iOS-26-im-Unternehmen-Das-ist-neu-bei-Apples-iPhone-Betriebssystem-10666725.html",
+      "image_title": ", KI/freepik.com"
     },
     {
       "title": "Kaufberatung: Das passende Oszilloskop für Anfänger oder Profis finden",
@@ -714,9 +714,10 @@
       "image_title": "V8-Motor, Federbein, Zero DS"
     },
     {
-      "title": "Ende der US-E-Auto-Prämie bringt Tesla VerkaufsrekordTesla Verkaufszahlen",
-      "teaser": "Dass die USA den Steuerbonus für E-Autos abschaffen, dürfte deren Verkäufe senken. Das Ende der Förderung erzeugt aber einen Mitnahmeeffekt – auch für Tesla.",
-      "url": "https://www.heise.de/news/Elektroauto-Ende-der-US-Elektroauto-Praemie-bringt-Tesla-Verkaufsrekord-10711189.html"
+      "title": "ElektroautosBilder von Tesla-Prototyp für abgespecktes Modell Y",
+      "teaser": "Aufnahmen eines ungetarnten Tesla auf einem US-Highway und Firmware-Analysen nähren Spekulationen über ein neues abgespecktes Modell.",
+      "url": "https://www.heise.de/news/Bilder-von-Tesla-Prototyp-fuer-abgespecktes-Modell-Y-aufgetaucht-10712264.html",
+      "image_title": "Tesla-Logo auf rotem Auto"
     },
     {
       "title": "Top 10: Die beste Smartwatch mit EKG im Test – Testsieger misst Blutdruck",
@@ -739,22 +740,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Mehr als nur Exportgeschäft: Wie Atomtechnik Russland Verbündete sichert",
+      "teaser": "Russlands Nuklearexporte schaffen langfristige Partnerschaften mit Ländern des Globalen Südens und unterlaufen westliche Sanktionen.",
+      "url": "https://www.heise.de/tp/features/Mehr-als-nur-Exportgeschaeft-Wie-Atomtechnik-Russland-Verbuendete-sichert-10711850.html",
+      "image_title": "Russisches Atomkraftwerk im Bau"
+    },
+    {
+      "title": "Benötigt Deutschland neue Gasspeicher?",
+      "teaser": "Deutschlands größter Gasspeicher in Rehden ist fast leer. Neue Kavernenspeicher könnten helfen, LNG-Gas effizient zu speichern.",
+      "url": "https://www.heise.de/tp/features/Benoetigt-Deutschland-neue-Gasspeicher-10704607.html",
+      "image_title": "Schaubild Poren- und Kavernenspeicher"
+    },
+    {
       "title": "Kirchensteuer: Ein Relikt aus der NS-Zeit?",
       "teaser": "Vom Kirchenrecht bis zur Nazi-Diktatur: Die Geschichte des staatlichen Einzugs der Kirchensteuer ist lang und komplex. Ein Überblick.",
       "url": "https://www.heise.de/tp/features/Kirchensteuer-Ein-Relikt-aus-der-NS-Zeit-10712136.html",
       "image_title": "Priester hält Balkenwaage"
-    },
-    {
-      "title": "Okinawa: Offizielle Statistiken widerlegen Mythos der Langlebigkeit",
-      "teaser": "Amtliche Daten legen nahe: Okinawa ist keine Insel der Hundertjährigen. Aktuelle Statistiken zur Lebenserwartung wecken Zweifel am Mythos der blauen Zone.",
-      "url": "https://www.heise.de/tp/features/Okinawa-Offizielle-Statistiken-widerlegen-Mythos-der-Langlebigkeit-10719957.html",
-      "image_title": "ältere asiatische Frau, die sich im Wohnzimmer zu Hause auf Rollstuhl ausstreckt"
-    },
-    {
-      "title": "Chinas Kampfjet der sechsten Generation: Neue Bilder zeigen Fortschritte bei J-50",
-      "teaser": "Detaillierte Aufnahmen eines schwanzlosen Tarnkappenjets deuten auf schnelle Entwicklung hin. Experten vermuten mehrere Prototypen in paralleler Erprobung.",
-      "url": "https://www.heise.de/tp/features/Chinas-Kampfjet-der-sechsten-Generation-Neue-Bilder-zeigen-Fortschritte-bei-J-50-10699276.html",
-      "image_title": "Ein Kampfjet auf einer Rollbahn"
     },
     {
       "title": "Diebstahl an SB-Kassen: Diese Tricks nutzen moderne Systeme gegen Betrüger",
