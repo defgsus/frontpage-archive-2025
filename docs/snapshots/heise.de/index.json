@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-09T05:10:05",
+  "timestamp": "2025-10-09T06:15:48",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Medizintechnik-Unternehmen Ottobock plant Börsengang",
+      "url": "https://www.heise.de/news/Medizintechnik-Unternehmen-Ottobock-plant-Boersengang-10747728.html"
+    },
+    {
+      "title": "Ubuntu 25.10: Rust statt C, Wayland statt X11",
+      "url": "https://www.heise.de/news/Ubuntu-25-10-Rust-statt-C-Wayland-statt-X11-10722802.html"
+    },
+    {
+      "title": "iX-Workshop: Windows Server absichern und härten",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10673458.html"
+    },
+    {
+      "title": "Wohnklima im Herbst: Schimmelbildung verstehen und gezielt bekämpfen",
+      "url": "https://www.heise.de/ratgeber/Wohnklima-im-Herbst-Schimmelbildung-verstehen-und-gezielt-bekaempfen-10725946.html"
+    },
+    {
       "title": "Landesverfassungsschutz: Drohnen-Gefahr durch Wegwerfagenten",
       "url": "https://www.heise.de/news/Landesverfassungsschutz-Drohnen-Gefahr-durch-Wegwerfagenten-10747718.html"
     },
@@ -50,22 +66,6 @@
       "url": "https://www.heise.de/news/Verbraucherschutz-Kalifornien-schraenkt-Schiedsgerichtsklauseln-ein-10747672.html"
     },
     {
-      "title": "Elon Musk einigt sich in Millionenklage mit ehemaliger Chefriege Twitters",
-      "url": "https://www.heise.de/news/Elon-Musk-einigt-sich-in-Millionenklage-mit-ehemaliger-Chefriege-Twitters-10747688.html"
-    },
-    {
-      "title": "Bundeskartellamt ermittelt gegen Temu wegen Preistreiberei",
-      "url": "https://www.heise.de/news/Preisknebel-Kartellamt-ermittelt-gegen-Temu-10747636.html"
-    },
-    {
-      "title": "E-Evidence: Regierung will internationalen Zugriff auf Cloud-Daten erleichtern",
-      "url": "https://www.heise.de/news/E-Evidence-Regierung-will-internationalen-Zugriff-auf-Cloud-Daten-erleichtern-10747602.html"
-    },
-    {
-      "title": "Nvidia investiert angeblich zwei Milliarden US-Dollar in xAI",
-      "url": "https://www.heise.de/news/Nvidia-investiert-angeblich-zwei-Milliarden-US-Dollar-in-xAI-10747515.html"
-    },
-    {
       "title": "Windows 10 SupportverlängerungRegistrierung auf ersten Rechnern möglich",
       "teaser": "Nach Hinweisen auf eine \"in Kürze\" verfügbare Registrierung zur Supportverlängerung bieten erste Windows-10-Rechner einen Link an.",
       "url": "https://www.heise.de/news/Windows-10-Registrierung-fuer-Supportverlaengerung-auf-ersten-Rechnern-moeglich-10742529.html",
@@ -73,7 +73,7 @@
     },
     {
       "title": "Ab 90 EuroVier günstige AMD-Prozessoren für Gamer",
-      "teaser": "Schon preisgünstige Prozessoren liefern viel Leistung in Spielen. Vier Exemplare ab 90 Euro zeigen im Test, was sie als Zocker-CPU draufhaben.",
+      "teaser": "Schon preisgünstige Prozessoren liefern viel Leistung in Spielen. Vier Exemplare ab 90 Euro zeigen im Test, was sie draufhaben.",
       "url": "https://www.heise.de/tests/Ab-90-Euro-Vier-guenstige-AMD-Prozessoren-fuer-Spieler-im-Vergleich-10486690.html",
       "image_title": "Billige CPUs für Spieler"
     },
@@ -151,10 +151,10 @@
       "url": "https://www.heise.de/meinung/Filmkritik-Tron-Ares-Einmal-Transforminator-mit-Pixels-bitte-10726016.html"
     },
     {
-      "title": "InterviewWarum die Krankenhaus-IT unter Druck ist",
-      "teaser": "Was Fachkräftemangel und Co. für die Krankenhaus-IT und deren Sicherheit bedeutet und was helfen könnte.",
-      "url": "https://www.heise.de/hintergrund/Interview-Warum-die-Krankenhaus-IT-unter-Druck-ist-10734422.html",
-      "image_title": "Andreas Lockau auf der Herbsttagung der Krankenhaus-IT-Leiter"
+      "title": "QuickticketGegen sinnlose Zeit im Wartezimmer",
+      "teaser": "Über die Herausforderungen und Entwicklungen von Quickticket haben wir mit der Gründerin Katharina Feiertag gesprochen.",
+      "url": "https://www.heise.de/hintergrund/Gegen-sinnlose-Zeit-im-Wartezimmer-Ein-Start-up-verspricht-Abhilfe-10656414.html",
+      "image_title": "Katharina Feiertag bei der Vorstellung von Quickticket"
     },
     {
       "title": "Ab 39 EuroQualcomm kauft Arduino und stellt Raspi-Konkurrenten vor",
@@ -186,21 +186,38 @@
       "image_title": "E-Scooter mit Fahrer"
     },
     {
+      "title": "Medizintechnik-Unternehmen Ottobock plant Börsengang",
+      "teaser": "Ottobock will heute seine Aktien an die Frankfurter Börse bringen. Anleger zeigten vor dem Börsengang großes Interesse.",
+      "url": "https://www.heise.de/news/Medizintechnik-Unternehmen-Ottobock-plant-Boersengang-10747728.html",
+      "image_title": "Ottobock Firmenzentrale Eingang Pförtnerhaus Duderstadt"
+    },
+    {
+      "title": "Ubuntu 25.10: Rust statt C, Wayland statt X11",
+      "teaser": "Die Linux-Distribution Ubuntu 25.10 nutzt Rust-basierte Systemkomponenten. Der auf Version 49 aktualisierte GNOME-Desktop läuft nur noch auf Wayland.",
+      "url": "https://www.heise.de/news/Ubuntu-25-10-Rust-statt-C-Wayland-statt-X11-10722802.html"
+    },
+    {
+      "title": "Starke Marken werden digital souverän",
+      "teaser": "Beim Wunsch nach Sicherheit und Kontrolle über die eigenen Daten und Systeme vertrauen renommierte Unternehmen den Lösungen von Schwarz Digits. Wie und was genau getan wurde, haben sie aufgeschrieben.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7098811084&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "iX-Workshop: Windows Server absichern und härten",
+      "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-10673458.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Wohnklima im Herbst: Schimmelbildung verstehen und gezielt bekämpfen",
+      "teaser": "Mit sinkender Temperatur steigt die relative Luftfeuchtigkeit. Das hat erheblichen Einfluss auf die Schimmelbildung. So reduzieren Sie die Schimmelgefahr.",
+      "url": "https://www.heise.de/ratgeber/Wohnklima-im-Herbst-Schimmelbildung-verstehen-und-gezielt-bekaempfen-10725946.html",
+      "image_title": "Eine Frau schaut fassungslos auf großen Schimmelfleck an der Wand unter einem Fenster."
+    },
+    {
       "title": "Landesverfassungsschutz: Drohnen-Gefahr durch Wegwerfagenten",
       "teaser": "Thüringens Verfassungsschutzchef warnt vor der Anwerbung von Low-Level-Agenten, die mit Drohnen Informationen sammeln könnten.",
       "url": "https://www.heise.de/news/Landesverfassungsschutz-Drohnen-Gefahr-durch-Wegwerfagenten-10747718.html",
       "image_title": "Drohne vor Sonne"
-    },
-    {
-      "title": "Gegen sinnlose Zeit im Wartezimmer: Ein Start-up verspricht Abhilfe",
-      "teaser": "Über Herausforderungen und die Entwicklungen bei der Gründung eines Start-ups haben wir mit Quickticket-Mitgründerin Katharina Feiertag gesprochen.",
-      "url": "https://www.heise.de/hintergrund/Gegen-sinnlose-Zeit-im-Wartezimmer-Ein-Start-up-verspricht-Abhilfe-10656414.html",
-      "image_title": "Katharina Feiertag bei der Vorstellung von Quickticket"
-    },
-    {
-      "title": "Smartes Heizen – Freude am Sparen",
-      "teaser": "Intelligent gesteuerte Heizkörperthermostate sorgen für die Wohlfühltemperatur in jedem Raum und senken dabei den Energieverbrauch. Möglich macht das eine smarte Automatisierung mit zwei Grundregeln.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092032808&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Meilenstein: Genetisch veränderte Schweineleber funktioniert 38 Tage im Mensch",
@@ -218,24 +235,6 @@
       "title": "#heiseshow: rabbitOS 2, Cariad-Neuanfang, E-Scooter-Gesetz",
       "teaser": "In der #heiseshow: Rabbit R1 bekommt mit rabbitOS 2 ein großes Update, VW-Tochter Cariad stellt Software-Entwicklung um und neue Regeln für E-Scooter.",
       "url": "https://www.heise.de/news/heiseshow-rabbitOS-2-Cariad-Neuanfang-E-Scooter-Gesetz-10747422.html"
-    },
-    {
-      "title": "Kalifornien verbietet unendliche Schiedsgerichtsklauseln",
-      "teaser": "Schiedsgerichtsklauseln versperren immer öfter den Zugang zum Gericht, oft in ganz anderen Zusammenhängen. Davor schützt Kalifornien jetzt Konsumenten.",
-      "url": "https://www.heise.de/news/Verbraucherschutz-Kalifornien-schraenkt-Schiedsgerichtsklauseln-ein-10747672.html",
-      "image_title": "Eine einen Kugelschreiber führende Hand unterzeichnet ein Papier"
-    },
-    {
-      "title": "Elon Musk einigt sich in Millionenklage mit ehemaliger Chefriege Twitters",
-      "teaser": "Vier frühere Twitter-Führungskräfte haben Elon Musk auf 128 Millionen US-Dollar verklagt. Vor Gericht haben sie sich jetzt mit dem neuen Eigentümer geeinigt.",
-      "url": "https://www.heise.de/news/Elon-Musk-einigt-sich-in-Millionenklage-mit-ehemaliger-Chefriege-Twitters-10747688.html",
-      "image_title": "Schattenriss von Elon Musk vor Twitter-Logo"
-    },
-    {
-      "title": "Bundeskartellamt ermittelt gegen Temu wegen Preistreiberei",
-      "teaser": "Das deutsche Bundeskartellamt untersucht Temus Konditionen und Gebaren gegenüber Händlern. Sorgt Temu indirekt für höhere Preise?",
-      "url": "https://www.heise.de/news/Preisknebel-Kartellamt-ermittelt-gegen-Temu-10747636.html",
-      "image_title": "Einkaufswagen mit Temu-Website auf einem Laptop und auf dem Smartphone im Hintergrund"
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -304,6 +303,24 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Kalifornien verbietet unendliche Schiedsgerichtsklauseln",
+      "teaser": "Schiedsgerichtsklauseln versperren immer öfter den Zugang zum Gericht, oft in ganz anderen Zusammenhängen. Davor schützt Kalifornien jetzt Konsumenten.",
+      "url": "https://www.heise.de/news/Verbraucherschutz-Kalifornien-schraenkt-Schiedsgerichtsklauseln-ein-10747672.html",
+      "image_title": "Eine einen Kugelschreiber führende Hand unterzeichnet ein Papier"
+    },
+    {
+      "title": "Elon Musk einigt sich in Millionenklage mit ehemaliger Chefriege Twitters",
+      "teaser": "Vier frühere Twitter-Führungskräfte haben Elon Musk auf 128 Millionen US-Dollar verklagt. Vor Gericht haben sie sich jetzt mit dem neuen Eigentümer geeinigt.",
+      "url": "https://www.heise.de/news/Elon-Musk-einigt-sich-in-Millionenklage-mit-ehemaliger-Chefriege-Twitters-10747688.html",
+      "image_title": "Schattenriss von Elon Musk vor Twitter-Logo"
+    },
+    {
+      "title": "Bundeskartellamt ermittelt gegen Temu wegen Preistreiberei",
+      "teaser": "Das deutsche Bundeskartellamt untersucht Temus Konditionen und Gebaren gegenüber Händlern. Sorgt Temu indirekt für höhere Preise?",
+      "url": "https://www.heise.de/news/Preisknebel-Kartellamt-ermittelt-gegen-Temu-10747636.html",
+      "image_title": "Einkaufswagen mit Temu-Website auf einem Laptop und auf dem Smartphone im Hintergrund"
+    },
+    {
       "title": "E-Evidence: Regierung will internationalen Zugriff auf Cloud-Daten erleichtern",
       "teaser": "Bei Ermittlungen soll es möglich sein, Daten direkt bei IT-Anbietern in anderen Mitgliedstaaten anzufordern. Es geht etwa um Chatverläufe.",
       "url": "https://www.heise.de/news/E-Evidence-Regierung-will-internationalen-Zugriff-auf-Cloud-Daten-erleichtern-10747602.html",
@@ -360,6 +377,11 @@
       "image_title": "Steve Jobs während der Pressekonferenz zum Antennagate"
     },
     {
+      "title": "Warum Sie jetzt Ihre Server modernisieren sollten",
+      "teaser": "Veraltete Technologien können die Produktivität hemmen, die Sicherheit gefährden und die Kosten in die Höhe treiben. In einem Webcast erfahren Sie, wie Sie mit einem „Technologie-Refresh“ Ihr Unternehmen modernisieren können.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-sie-jetzt-ihre-server-modernisieren-sollten-4968/?source=nat_teas"
+    },
+    {
       "title": "Open Source: Neue React Foundation unter dem Dach der Linux Foundation",
       "teaser": "Die Linux Foundation hat die neue React Foundation angekündigt, die für React und verwandte Projekte zuständig sein wird.",
       "url": "https://www.heise.de/news/Open-Source-Neue-React-Foundation-unter-dem-Dach-der-Linux-Foundation-10745508.html",
@@ -374,11 +396,6 @@
       "title": "Cisco: Neuer Router für verteilte KI-Workloads",
       "teaser": "Mit seinem neuen Router 8223 und dem Netzwerkprozessor Silicon One P200 will Cisco den Bau skalierbarer KI-Netzwerke über mehrere RZ hinweg erleichtern.",
       "url": "https://www.heise.de/news/Ciso-Neuer-Router-fuer-verteilte-KI-Workloads-10740187.html"
-    },
-    {
-      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
-      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? In einem Webcast können Sie erfahren, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
-      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
     },
     {
       "title": "KI-Update kompakt: ChatGPT, OpenAI & AMD, Anthropics Petri, Dragon Copilot",
@@ -422,24 +439,6 @@
       "image_title": "AltStore auf dem iPhone"
     },
     {
-      "title": "Ab 90 Euro: Vier günstige AMD-Prozessoren für Spieler im Vergleich",
-      "teaser": "Schon preisgünstige Prozessoren liefern viel Leistung in Spielen. Vier Exemplare ab 90 Euro zeigen im Test, was sie als Zocker-CPU draufhaben.",
-      "url": "https://www.heise.de/tests/Ab-90-Euro-Vier-guenstige-AMD-Prozessoren-fuer-Spieler-im-Vergleich-10486690.html",
-      "image_title": "Billige CPUs für Spieler"
-    },
-    {
-      "title": "Chemienobelpreis für die Entwicklung von metallorganischen Gerüsten",
-      "teaser": "Metallorganische Gerüste bieten viele Einsatzmöglichkeiten. Für ihre Entwicklung erhalten drei Forscher den Chemienobelpreis.",
-      "url": "https://www.heise.de/news/Chemienobelpreis-fuer-die-Entwicklung-von-metallorganischen-Geruesten-10741875.html",
-      "image_title": "Chemie-Nobelpreisträger 2025: Susumu Kitagawa, Richard Robson, Omar Yaghi"
-    },
-    {
-      "title": "Docker macht sichere Container-Images für kleine Unternehmen bezahlbar",
-      "teaser": "Docker verspricht Unternehmen umfassenden Zugang zu seinen sicherheitsoptimierten Container-Images – per Abo-Modell mit kostenloser Testphase.",
-      "url": "https://www.heise.de/news/Docker-oeffnet-Zugang-zu-sicheren-Images-fuer-Entwicklungsteams-aller-Groessen-10740632.html",
-      "image_title": "Container"
-    },
-    {
       "title": "KI-Müll: Beratungsfirma Deloitte gibt Australien Geld zurück",
       "url": "https://www.heise.de/news/KI-Muell-Consulter-gibt-Australien-Geld-zurueck-10726094.html",
       "image_title": "Digitales Schild warnt \"GPT-4 Ahead\""
@@ -450,9 +449,9 @@
       "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
     },
     {
-      "title": "Google deutet neues Smart-Display an",
-      "url": "https://www.heise.de/news/Google-deutet-neues-Smart-Display-an-10734844.html",
-      "image_title": "Bild vom Google Nest Hub"
+      "title": "Interview: Warum die Krankenhaus-IT unter Druck ist",
+      "url": "https://www.heise.de/hintergrund/Interview-Warum-die-Krankenhaus-IT-unter-Druck-ist-10734422.html",
+      "image_title": "Andreas Lockau auf der Herbsttagung der Krankenhaus-IT-Leiter"
     },
     {
       "title": "Starlink: Schon ein bis zwei Satellitenabstürze pro Tag – bald sind es fünf",
@@ -609,19 +608,19 @@
       "url": "https://www.heise.de/en/news/Easier-debugging-Python-3-14-eliminates-unclear-error-messages-10725855.html"
     },
     {
-      "title": "Kommentar zur Umstellung auf Open SourceSchaut auf Schleswig-Holstein!",
-      "teaser": "Schleswig-Holsteins Digitalminister Schrödter hat einen entscheidenden Beitrag für Deutschlands digitale Souveränität geleistet.",
-      "url": "https://www.heise.de/meinung/Kommentar-zur-Umstellung-auf-Open-Source-Schaut-auf-Schleswig-Holstein-10733441.html"
-    },
-    {
-      "title": "Filmkritik \"Tron: Ares\"Einmal Transforminator mit Pixels bitte!",
-      "teaser": "Wenn böse Menschen KI missbrauchen, muss der Algorithmus nur auf sein Gewissen hören. Tron: Ares spiegelt den Zeitgeist.",
-      "url": "https://www.heise.de/meinung/Filmkritik-Tron-Ares-Einmal-Transforminator-mit-Pixels-bitte-10726016.html"
+      "title": "Zwischenstand bei der Migration zu Open Source in Schleswig-Holstein",
+      "teaser": "Bei der Umstellung auf quelloffene Software in Schleswig-Holstein knarzt es. Das hat aber überraschend wenig mit Open Source zu tun.",
+      "url": "https://www.heise.de/hintergrund/Zwischenstand-bei-der-Migration-zu-Open-Source-in-Schleswig-Holstein-10672370.html"
     },
     {
       "title": "Erhöhung um 24 Prozent: Der Personalausweis soll bald 46 Euro kosten",
       "teaser": "Die Bundesregierung will die Perso-Gebühr spürbar anheben. Um die Pläne gibt es Streit: Private Anbieter von Passfoto-Systemen beklagen unfairen Wettbewerb.",
       "url": "https://www.heise.de/news/Erhoehung-um-24-Prozent-Der-Personalausweis-soll-bald-46-Euro-kosten-10733649.html"
+    },
+    {
+      "title": "Kommentar zur Umstellung auf Open SourceSchaut auf Schleswig-Holstein!",
+      "teaser": "Schleswig-Holsteins Digitalminister Schrödter hat einen entscheidenden Beitrag für Deutschlands digitale Souveränität geleistet.",
+      "url": "https://www.heise.de/meinung/Kommentar-zur-Umstellung-auf-Open-Source-Schaut-auf-Schleswig-Holstein-10733441.html"
     },
     {
       "title": "Fünf Jahre Macs mit Apple SiliconDer Siegeszug der M-Chips",
@@ -696,7 +695,7 @@
       "url": "https://www.heise.de/hintergrund/Kratix-kubriX-und-OpenChoreo-Developer-Plattformen-fuer-Kubernetes-im-Vergleich-10513140.html"
     },
     {
-      "title": "Motorrad-Test Yamaha Ténéré 700: Sinnvoll verbessert",
+      "title": "Sinnvoll verbessertMotorrad Yamaha Ténéré 700 im Test",
       "teaser": "Der Bestseller Yamaha Ténéré 700 bekommt unter anderem ein einstellbares Fahrwerk und eine elektronische Drossel. Die Verbesserungen tun der Reiseenduro gut.",
       "url": "https://www.heise.de/tests/Motorrad-Test-Yamaha-Tenere-700-Sinnvoll-verbessert-10677288.html",
       "image_title": "Yamaha Ténéré 700"
@@ -739,22 +738,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wandel der Investitionspolitik: Wie Chinas Firmen in Afrika neue Wege gehen",
-      "teaser": "Jahrelang floss viel chinesisches Geld nach Afrika. Doch seit 2017 ziehen sich Chinas Banken zurück. Wie schaffen es die Unternehmen trotzdem, dort weiter zu expandieren?",
-      "url": "https://www.heise.de/tp/features/Wandel-der-Investitionspolitik-Wie-Chinas-Firmen-in-Afrika-neue-Wege-gehen-10739346.html",
-      "image_title": "Eine Eisenbahnstrecke auf einem Viadukt, im Hintergrund afrikanische Savanne"
+      "title": "\"Veggie-Wurst\"-Verbot: Darf nur noch Schwein in die Pelle?",
+      "teaser": "Konservative EU-Politiker wollen Begriffe wie \"Wurst\" für pflanzliche Produkte verbieten. Verbraucherschützer kritisieren den Vorstoß scharf.",
+      "url": "https://www.heise.de/tp/features/Veggie-Wurst-Verbot-Darf-nur-noch-Schwein-in-die-Pelle-10736162.html",
+      "image_title": "Schweinekopf hinter Bratwurst"
     },
     {
-      "title": "Trotz Exportbeschränkungen: Huawei verbaut (noch) Chips von TSMC und Samsung",
-      "teaser": "Huawei nutzt Chips von TSMC und Samsung trotz US-Sanktionen. Analysten fanden Bauteile in KI-Prozessoren. Es könnten die letzten derartigen Funde sein.",
-      "url": "https://www.heise.de/tp/features/Trotz-Exportbeschraenkungen-Huawei-verbaut-noch-Chips-von-TSMC-und-Samsung-10720762.html",
-      "image_title": "Aufnahme eines Ascend910-Chips von Huawei"
+      "title": "Generation Z auf der Straße: Der Aufstand unter der Piratenflagge",
+      "teaser": "Von Asunción bis Rabat gehen junge Menschen auf die Straße. Sie eint ein Symbol: die Piratenflagge aus der Anime-Serie \"One Piece\". Was treibt sie an? Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Generation-Z-auf-der-Strasse-Der-Aufstand-unter-der-Piratenflagge-10727689.html",
+      "image_title": "Proteste Ende August in Indonesien, zu sehen die Piratenflagge"
     },
     {
-      "title": "Rente: Dänemark schützt vor Armut, Deutschland belohnt Leistung",
-      "teaser": "Zwei Rentensysteme im Vergleich: Dänemark setzt auf eine Grundrente für alle, Deutschland auf das Äquivalenzprinzip. Was ist gerechter?",
-      "url": "https://www.heise.de/tp/features/Rente-Daenemark-schuetzt-vor-Armut-Deutschland-belohnt-Leistung-10747482.html",
-      "image_title": "Glückliches Senioren-Paar freut sich über die Rente."
+      "title": "Chinas erstes Unterwasser-Rechenzentrum nimmt Betrieb auf",
+      "teaser": "Vor der Küste Hainans ist das weltweit erste kommerzielle Unterwasser-Rechenzentrum in Betrieb gegangen. Durch Meerwasserkühlung soll die Anlage besonders effizient sein.",
+      "url": "https://www.heise.de/tp/features/Chinas-erstes-Unterwasser-Rechenzentrum-nimmt-Betrieb-auf-10730093.html",
+      "image_title": "Kapseln über dem Meer an einem Krahn"
     },
     {
       "title": "iPhone geortet, Diebe geschnappt: Wie die Polizei 2.000 gestohlene Handys fand",
@@ -772,9 +771,9 @@
       "url": "https://t3n.de/news/diebstahl-an-sb-kassen-1704621/"
     },
     {
-      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "WordPress-Hosting: Anbieter im Vergleich",
+      "teaser": "WordPress ist heutzutage das wichtigste Content-Management-System im Internet. Wir nennen die Stärken, Schwächen und Besonderheiten einiger WordPress-Hoster.",
+      "url": "https://www.heise.de/download/specials/WordPress-Hosting-Anbieter-im-Vergleich-10458509"
     },
     {
       "title": "Desinfec't",
