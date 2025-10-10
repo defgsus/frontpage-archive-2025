@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-10T12:19:58",
+  "timestamp": "2025-10-10T13:20:48",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,40 @@
   ],
   "articles": [
     {
+      "title": "DxO FilmPack 8 im Test: Analoge Filme simulieren und Foto-Effekte ergänzen",
+      "teaser": "DxO FilmPack 8 emuliert analoge Filme und überträgt deren Look auf digitale Fotos. Photoshop-Nutzer können FilmPack direkt als native Palette nutzen.",
+      "url": "https://www.heise.de/tests/DxO-FilmPack-8-im-Test-Analoge-Filme-simulieren-und-Foto-Effekte-ergaenzen-10661367.html"
+    },
+    {
+      "title": "l+f: Neues Foto vom Hinterteil des Flipper One",
+      "teaser": "Das Hacking-Gadget Flipper Zero geht in die zweite Runde und Flipper-Erfinder Zhovner zeigt einen Prototyp von hinten.",
+      "url": "https://www.heise.de/news/l-f-Neues-Foto-vom-Hinterteil-des-Flipper-One-10750230.html",
+      "image_title": "Prototypen des Flipper One"
+    },
+    {
+      "title": "AMD und Sony zeigen erste Technik der mutmaßlichen Playstation 6",
+      "teaser": "Kommende Radeon-GPUs sollen deutlich schnelleres Raytracing und bessere KI-Beschleunigung erhalten. Sony ist mit an Bord.",
+      "url": "https://www.heise.de/news/AMD-und-Sony-zeigen-erste-Technik-der-mutmasslichen-Playstation-6-10750226.html",
+      "image_title": "Zwei Playstation-Controller auf einem Holztisch, im Hintergrund ein verwaschener Fernseher"
+    },
+    {
       "title": "Neue Apple-Werbung macht sich über CrowdStrike-Bug lustig",
       "teaser": "Apple hat eine neue Folge seiner Reihe \"The Underdogs\" veröffentlicht, die Macs in der Arbeitswelt bewirbt. Dieses Mal geht es um den Blue Screen of Death.",
       "url": "https://www.heise.de/news/Neue-Apple-Werbung-macht-sich-ueber-CrowdStrike-Bug-lustig-10733854.html",
       "image_title": "Szene aus \"The Underdogs: BSOD\""
+    },
+    {
+      "title": "HintergrundWas man beim Self-Hosting von LLMs wissen muss: Recht und Compliance",
+      "url": "https://www.heise.de/hintergrund/Was-man-beim-Self-Hosting-von-LLMs-wissen-muss-Recht-und-Compliance-10730539.html"
+    },
+    {
+      "title": "HintergrundRohstoff Gallium: Recycling in Deutschland soll Abhängigkeit von China mindern",
+      "url": "https://www.heise.de/hintergrund/Rohstoff-Gallium-Recycling-in-Deutschland-soll-Abhaengigkeit-von-China-mindern-10671026.html",
+      "image_title": "Bearbeitung von Galliumarsenid-Wafern bei Freiberger Compound Materials"
+    },
+    {
+      "title": "RatgeberRoboter und Baukästen: Lern-Gadgets für Kinder ausprobiert",
+      "url": "https://www.heise.de/ratgeber/Roboter-und-Baukaesten-Lern-Gadgets-fuer-Kinder-ausprobiert-10642803.html"
     },
     {
       "title": "iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage",
@@ -50,19 +80,6 @@
       "image_title": "7-zip-Logo mit Update-Stempel"
     },
     {
-      "title": "HintergrundWas man beim Self-Hosting von LLMs wissen muss: Recht und Compliance",
-      "url": "https://www.heise.de/hintergrund/Was-man-beim-Self-Hosting-von-LLMs-wissen-muss-Recht-und-Compliance-10730539.html"
-    },
-    {
-      "title": "HintergrundRohstoff Gallium: Recycling in Deutschland soll Abhängigkeit von China mindern",
-      "url": "https://www.heise.de/hintergrund/Rohstoff-Gallium-Recycling-in-Deutschland-soll-Abhaengigkeit-von-China-mindern-10671026.html",
-      "image_title": "Bearbeitung von Galliumarsenid-Wafern bei Freiberger Compound Materials"
-    },
-    {
-      "title": "RatgeberRoboter und Baukästen: Lern-Gadgets für Kinder ausprobiert",
-      "url": "https://www.heise.de/ratgeber/Roboter-und-Baukaesten-Lern-Gadgets-fuer-Kinder-ausprobiert-10642803.html"
-    },
-    {
       "title": "Wireshark 4.6: Neue Funktionen für verschlüsselte Daten",
       "teaser": "Version 4.6 des freien Netzwerkanalysetools Wireshark bringt Verbesserungen bei Entschlüsselung und Export.",
       "url": "https://www.heise.de/news/Wireshark-4-6-Neue-Funktionen-fuer-verschluesselte-Daten-10749865.html"
@@ -79,7 +96,7 @@
       "url": "https://www.heise.de/news/c-t-Workshop-Physische-IT-Sicherheit-10742172.html"
     },
     {
-      "title": "AlertMonitoring-Software Checkmk: Rechteausweitungslücke in Windows-Version",
+      "title": "AlertMonitoring-Software Checkmk: Rechteausweitungslücke in Windows-Agent",
       "teaser": "Die Monitoring-Software Checkmk enthält eine Schwachstelle, durch die Angreifer ihre Rechte ausweiten können. Ein Update steht bereit.",
       "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-Rechteausweitungsluecke-in-Windows-Version-10749613.html",
       "image_title": "Finger tippt auf Update-Button"
@@ -102,7 +119,7 @@
       "image_title": "Symbolbild Cross-Plattform-Entwicklung"
     },
     {
-      "title": "Aus Softwarefehlern lernen – Teil 3: Ein Marssonde gerät außer Kontrolle",
+      "title": "Aus Softwarefehlern lernen – Teil 3: Eine Marssonde gerät außer Kontrolle",
       "teaser": "Ein niedrig priorisierter Prozess blockiert die Marssonde – IT-Pannen wiederholen sich nach immer gleichen Mustern. Aber wir können daraus lernen.",
       "url": "https://www.heise.de/hintergrund/Aus-Softwarefehlern-lernen-Teil-3-Ein-Marssonde-geraet-ausser-Kontrolle-10699153.html",
       "image_title": "Tastatur mit \"Oops-Taste\""
@@ -130,23 +147,6 @@
       "teaser": "Chinas Führung hat drastische Exportkontrollen für die verbleibenden Seltenen Erden angekündigt, die Folgen für die Halbleiterindustrie könnten drastisch sein.",
       "url": "https://www.heise.de/news/Potenziell-drastische-Folgen-China-sanktioniert-Export-weiterer-Seltener-Erden-10749203.html",
       "image_title": "Holzblöcke mit den Symbolen Seltener Erden auf eine Karte Chinas"
-    },
-    {
-      "title": "Ivanti Endpoint Manager: Zero Day Initiative veröffentlicht 13 Zero-Days",
-      "teaser": "Mehrere Lücken mit hohem Schweregrad klafften monatelang in Ivanti EPM. Das Unternehmen wollte mehr als ein halbes Jahr Frist zu deren Behebung.",
-      "url": "https://www.heise.de/news/Ivanti-Endpoint-Manager-Zero-Day-Initiative-veroeffentlicht-13-Zero-Days-10749054.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "Wie man Kinder für Elektronik und Programmieren begeistert",
-      "teaser": "Wo bekommen Kinder, die sich für Technik interessieren, Anregung und Unterstützung? Wir haben uns das Angebot on- und offline angeschaut.",
-      "url": "https://www.heise.de/ratgeber/Wie-man-Kinder-fuer-Elektronik-und-Programmieren-begeistert-10564591.html"
-    },
-    {
-      "title": "AlertDatenleck bei Sonicwall: Alle Cloud-Backups von Firewalls gestohlen",
-      "teaser": "Hieß es zunächst, es seien nur wenige Prozent der Sicherungsdaten betroffen, wird nun klar: Es sind tatsächlich 100 Prozent - Admins sollten handeln.",
-      "url": "https://www.heise.de/news/Datenleck-bei-Sonicwall-Alle-Cloud-Backups-von-Firewalls-gestohlen-10748910.html",
-      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
     },
     {
       "title": "NewsKaufprämie für Elektroautos kehrt zurück",
