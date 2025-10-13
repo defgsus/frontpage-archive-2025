@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T12:19:49",
+  "timestamp": "2025-10-13T13:23:29",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Schutz in der Krise: Gold oder Bitcoin? Was Anleger in unsicheren Zeiten schützt",
+      "teaser": "Anleger wollen auf den Dollar verzichten und setzen auf Alternativen. Bisher profitierte davon vor allem das Gold, jetzt auch die Digitalwährung Bitcoin. Was ist besser geeignet?",
+      "url": "https://www.faz.net/aktuell/finanzen/gold-oder-bitcoin-welche-anlage-schuetzt-besser-in-krisen-accg-110726425.html"
+    },
+    {
       "title": "Digitaler Anlagebetrug: Behörden legen gefälschte Handelsplattformen lahm – Millionen fallen darauf rein",
       "teaser": "Sie leiten Anleger für Wertpapier-Investments auf Fake-Seiten, um an hohe Summen zu gelangen. Nun haben die Finanzaufsicht und Ermittlungsbehörden mehr als 1400 Websiten von Betrügern gesperrt.",
-      "url": "https://www.faz.net/aktuell/finanzen/digitaler-anlagebetrug-behoerden-legen-tausende-falsche-handelsplattformen-lahm-accg-110729737.html"
+      "url": "https://www.faz.net/aktuell/finanzen/digitaler-anlagebetrug-behoerden-legen-tausende-falsche-handelsplattformen-lahm-accg-110729737.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/1819579920/1.10729790/16x9/mithilfe-von-kuenstlicher.jpg",
+      "image_title": "Mithilfe von Künstlicher Intelligenz können Betrüger illegale Websites wie am Fließband erstellen."
     },
     {
       "title": "FAZ+Gewinne mit Immobilien: So verkaufen Sie Ihr Haus steuerfrei",
@@ -90,18 +97,18 @@
       "image_title": "Klare Ansage: Zum aktuellen Firmenjubiläum plakatierte Arag die Innenstädte und zeigte damit auch, wo man künftig mehr aktiv sein will."
     },
     {
-      "title": "Initiative im Bundesrat: Spritpreise sollen nur noch einmal am Tag steigen",
-      "teaser": "In Österreich dürfen Tankstellenbetreiber lediglich einmal täglich die Preise erhöhen. Auf Anregung von Baden-Württemberg könnte der Bundesrat die Regierung nun auffordern, diese Regel auch in Deutschland einzuführen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/spritpreise-sollen-nur-noch-einmal-am-tag-steigen-accg-110728341.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/wirtschaft/2905419956/1.10728427/16x9/haeufig-ein-wechselspiel.jpg",
-      "image_title": "Häufig ein Wechselspiel: Preise an einer Tankstelle in Brandenburg"
-    },
-    {
       "title": "Geldanlage: Die Risiken der KI-Verflechtung",
       "teaser": "Viele Konzerne aus der Welt der Künstlichen Intelligenz sind mittlerweile eng miteinander verflochten. Das kann unangenehme Konsequenzen für die Börsenkurse haben.",
       "url": "https://www.faz.net/aktuell/finanzen/geldanlage-die-risiken-der-ki-verflechtung-110726448.html",
       "image_url": "https://media0.faz.net/ppmedia/w100/redaktion/3556141920/1.6168894/format_jsonld_1x1/autorenportraet-kremer-dennis.jpg",
       "image_title": "Dennis Kremer"
+    },
+    {
+      "title": "Assekuranz und Anwälte: Koexistenz im Rechtsmarkt",
+      "teaser": "Der Deutsche Anwaltverein führt gut nachvollziehbare Argumente gegen eine Öffnung des Anwaltsmonopols für Versicherer ins Feld. Doch nicht alles, was neu ist, muss automatisch schlecht sein.",
+      "url": "https://www.faz.net/aktuell/finanzen/debatte-um-oeffnung-anwaltsmonopol-koexistenz-110726824.html",
+      "image_url": "https://media1.faz.net/ppmedia/w100/aktuell/655535199/1.4587969/format_jsonld_1x1/hq/autorenbild-marcus-jung.jpg",
+      "image_title": "Marcus Jung"
     },
     {
       "title": "Rekordpreis 4000 Dollar: Willkommen im Goldzeitalter",
@@ -125,6 +132,13 @@
       "image_title": "Christian Siedenbiedel"
     },
     {
+      "title": "Initiative im Bundesrat: Spritpreise sollen nur noch einmal am Tag steigen",
+      "teaser": "In Österreich dürfen Tankstellenbetreiber lediglich einmal täglich die Preise erhöhen. Auf Anregung von Baden-Württemberg könnte der Bundesrat die Regierung nun auffordern, diese Regel auch in Deutschland einzuführen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/spritpreise-sollen-nur-noch-einmal-am-tag-steigen-accg-110728341.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/wirtschaft/2905419956/1.10728427/16x9/haeufig-ein-wechselspiel.jpg",
+      "image_title": "Häufig ein Wechselspiel: Preise an einer Tankstelle in Brandenburg"
+    },
+    {
       "title": "Echtzeitüberweisung: Banken melden problemlosen Start der Empfängerüberprüfung",
       "teaser": "Seit Donnerstag findet bei jeder Überweisung eine Empfängerüberprüfung statt. Die Umsetzung der EU-Verordnung hat problemlos geklappt, sagen Banken und Sparkassen. Wenn Sie andere Erfahrungen gemacht haben, schreiben Sie es in die Kommentare.",
       "url": "https://www.faz.net/aktuell/finanzen/banken-melden-problemlosen-start-der-empfaengerueberpruefung-110727087.html",
@@ -132,25 +146,11 @@
       "image_title": "Echtzeitüberweisungen sind seit Donnerstag ohne Mehrkosten möglich, sie gehen jedoch mit einer Empfängerüberprüfung einher."
     },
     {
-      "title": "Assekuranz und Anwälte: Koexistenz im Rechtsmarkt",
-      "teaser": "Der Deutsche Anwaltverein führt gut nachvollziehbare Argumente gegen eine Öffnung des Anwaltsmonopols für Versicherer ins Feld. Doch nicht alles, was neu ist, muss automatisch schlecht sein.",
-      "url": "https://www.faz.net/aktuell/finanzen/debatte-um-oeffnung-anwaltsmonopol-koexistenz-110726824.html",
-      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/2838531235/1.10727112/16x9/bislang-bekommen-anwaelte.jpg",
-      "image_title": "Bislang bekommen Anwälte Aufträge vom Rechtsschutzversicherer. Vielleicht findet die Rechtsberatung eines Tages schon in der Assekuranz statt."
-    },
-    {
       "title": "FAZ+Finanzfachmann Ulrich Stephan: „Ich habe für Anleger fünf Tipps“",
       "teaser": "Trump, Krieg, Wirtschaftsflaute: Ulrich Stephan, Chefanlagestratege der Deutschen Bank für Privat- und Firmenkunden, verrät, wie Sparer in schwierigen Zeiten ihr Geld retten.",
       "url": "https://www.faz.net/aktuell/finanzen/finanzfachmann-ulrich-stephan-verraet-wie-sparer-in-schwierigen-zeiten-ihr-geld-retten-110718755.html",
       "image_url": "https://media1.faz.net/ppmedia/w1200/aktuell/finanzen/844339958/1.10719885/16x9/ulrich-stephan.jpg",
       "image_title": "Ulrich Stephan ist Chefanlagestratege der Deutschen Bank für Privat- und Firmenkunden."
-    },
-    {
-      "title": "FAZ+Wohnvermögen nutzen: Immobilie verkaufen, ohne auszuziehen",
-      "teaser": "Immobilienverrentung bietet die Möglichkeit, in der gewohnten Umgebung zu bleiben und gebundenes Vermögen trotzdem zu nutzen. Hier die wichtigsten Fragen und Antworten.",
-      "url": "https://www.faz.net/aktuell/finanzen/pro-finanzen/fuer-wen-sich-die-immobilienverrentung-lohnt-accg-110718899.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/2025513360/1.10719011/16x9/den-sommer-geniessen-die.jpg",
-      "image_title": "Den Sommer genießen - die Verrentung der Immobilie kann es möglich machen."
     },
     {
       "title": "FAZ+Goldpreis 4000 Dollar: Jetzt Gold zu Geld machen?",
@@ -165,6 +165,13 @@
       "url": "https://www.faz.net/aktuell/finanzen/altersvorsorge-in-deutschland-die-staatliche-rente-muessen-wir-abhaken-accg-110724440.html",
       "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/finanzen/1365802293/1.10724439/16x9/ralph-lochmueller-gruender-von-lupus-alpha.jpg",
       "image_title": "Ralph Lochmüller, Gründer der Fondsgesellschaft Lupus Alpha: Schwerer Start in die Selbständigkeit, danach großer Anlageerfolg."
+    },
+    {
+      "title": "FAZ+Goldrekord: „Der Markt will die 4000 Dollar für Gold sehen“",
+      "teaser": "Der Goldpreis erreicht abermals einen Rekord. Analysten sehen die Lage in den USA als einen Grund unter mehreren. Was ist jetzt zu erwarten?",
+      "url": "https://www.faz.net/aktuell/finanzen/der-markt-will-die-4000-dollar-fuer-gold-sehen-110718751.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/finanzen/1268164337/1.10718988/16x9/gold.jpg",
+      "image_title": "Wie sich die Wirklichkeit verändern kann: Goldpreise, die heute vollkommen alltäglich sind, gehörten noch vor einen paar Jahren ins Reich blühender Phantasie."
     },
     {
       "title": "FAZ+Scheerbaums Börse: Microsofts stille Milliardenwette zahlt sich aus",
@@ -210,7 +217,7 @@
     {
       "title": "Ottobock: Der Markt mit Börsengängen erwacht",
       "teaser": "Ottobock ist bisher die einzige bedeutende Neuemission des Jahres in Frankfurt. Etwas munterer zeigt sich der Fusionsmarkt.",
-      "url": "https://www.faz.net/aktuell/finanzen/ottobock-boersengang-starkes-signal-fuer-deutschen-ipo-markt-110724236.html",
+      "url": "https://www.faz.net/aktuell/finanzen/pro-finanzen/ottobock-boersengang-starkes-signal-fuer-deutschen-ipo-markt-110724236.html",
       "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/finanzen/1186238642/1.10724235/16x9/ottobock.jpg",
       "image_title": "Zum Börsengang von Ottobock läutet Verwaltungsratschef Hans Georg Nader auf dem Frankfurter Parkett."
     }
