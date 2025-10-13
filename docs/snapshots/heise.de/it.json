@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T11:08:56",
+  "timestamp": "2025-10-13T12:19:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Digitaler Euro: Souveränitätsdrang und ein \"glitschiger Fisch\" im EU-Parlament",
+      "teaser": "Die EU-Abgeordneten schwanken beim geplanten digitalen Euro zwischen politischem Widerstand, der Lust an Souveränität und einer Inklusionsforderung.",
+      "url": "https://www.heise.de/news/Digitaler-Euro-Souveraenitaetsdrang-und-ein-glitschiger-Fisch-im-EU-Parlament-10751673.html",
+      "image_title": "Euro,Symbol,In,A,Digital,Raster,Micro,Structure,-,3d"
+    },
+    {
+      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-10733830.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "Manipulierte Wahrnehmung: Forscher zeigen Risiken von Augmented Reality",
+      "teaser": "Virtuelle Schilder, falsche Wege: Eine AR-Demo zeigt, wie gefährlich subtile Manipulation in Augmented Reality werden kann.",
+      "url": "https://www.heise.de/news/Forscher-warnen-vor-visuellen-Angriffen-in-Augmented-Reality-10751458.html"
+    },
+    {
       "title": "AlertBigBlueButton: Update fürs Webkonferenz-System fixt Denial-of-Service-Lücken",
       "teaser": "Über drei Lücken mit \"High\"-Bewertung in der BBB-Software könnten entfernte Störenfriede Online-Unterrichtsstunden sabotieren. Ein Update sperrt sie aus.",
       "url": "https://www.heise.de/news/BigBlueButton-Update-fuers-Webkonferenz-System-fixt-Denial-of-Service-Luecken-10751398.html",
       "image_title": "Holografischer Update-Button"
-    },
-    {
-      "title": "Modernes C++: Trauer um unseren Blogautor Rainer Grimm",
-      "teaser": "Der C++-Experte, Autor und Trainer Rainer Grimm ist im Oktober verstorben. Damit findet dieser Blog sein trauriges Ende.",
-      "url": "https://www.heise.de/blog/Modernes-C-Trauer-um-unseren-Blogautor-Rainer-Grimm-10751342.html"
-    },
-    {
-      "title": "Bericht: Neue Apple-Produkte wie iPads schon in dieser Woche",
-      "teaser": "Apple plant offenbar keine Oktober-Keynote, sondern ein schrittweises Release neuer Hardware. Das erinnert an die \"Mac Week\" aus dem vergangenen Jahr.",
-      "url": "https://www.heise.de/news/Bericht-Neue-Apple-Produkte-wie-iPads-schon-in-dieser-Woche-10751241.html",
-      "image_title": "Apple-CTO John Ternus bei der Vorstellung des Mac mini M4"
-    },
-    {
-      "title": "Live-Webinar: Mit KI-Tools den Softwareentwicklungsprozess optimieren",
-      "teaser": "Von Code-Generierung bis Debugging: Heben Sie Ihre Entwicklungsprozesse mit KI auf ein neues Level. Das Webinar bietet dafür praxisnahes Know-how.",
-      "url": "https://www.heise.de/news/Live-Webinar-Mit-KI-Tools-den-Softwareentwicklungsprozess-optimieren-10749932.html"
     },
     {
       "title": "RatgeberBastel-Projekt: Tretbootaufsatz fürs Stehpaddeln im Liegen bauen",
@@ -62,9 +63,20 @@
       "url": "https://www.heise.de/tests/BrowserOS-KI-Agenten-lokale-LLMs-und-die-Zukunft-des-Surfens-ausprobiert-10749818.html"
     },
     {
-      "title": "Forscher warnen vor visuellen Angriffen in Augmented Reality",
-      "teaser": "Virtuelle Schilder, falsche Wege: Eine AR-Demo zeigt, wie gefährlich subtile Manipulation in Augmented Reality werden kann.",
-      "url": "https://www.heise.de/news/Forscher-warnen-vor-visuellen-Angriffen-in-Augmented-Reality-10751458.html"
+      "title": "Modernes C++: Trauer um unseren Blogautor Rainer Grimm",
+      "teaser": "Der C++-Experte, Autor und Trainer Rainer Grimm ist im Oktober verstorben. Damit findet dieser Blog sein trauriges Ende.",
+      "url": "https://www.heise.de/blog/Modernes-C-Trauer-um-unseren-Blogautor-Rainer-Grimm-10751342.html"
+    },
+    {
+      "title": "Bericht: Neue Apple-Produkte wie iPads schon in dieser Woche",
+      "teaser": "Apple plant offenbar keine Oktober-Keynote, sondern ein schrittweises Release neuer Hardware. Das erinnert an die \"Mac Week\" aus dem vergangenen Jahr.",
+      "url": "https://www.heise.de/news/Bericht-Neue-Apple-Produkte-wie-iPads-schon-in-dieser-Woche-10751241.html",
+      "image_title": "Apple-CTO John Ternus bei der Vorstellung des Mac mini M4"
+    },
+    {
+      "title": "Live-Webinar: Mit KI-Tools den Softwareentwicklungsprozess optimieren",
+      "teaser": "Von Code-Generierung bis Debugging: Heben Sie Ihre Entwicklungsprozesse mit KI auf ein neues Level. Das Webinar bietet dafür praxisnahes Know-how.",
+      "url": "https://www.heise.de/news/Live-Webinar-Mit-KI-Tools-den-Softwareentwicklungsprozess-optimieren-10749932.html"
     },
     {
       "title": "\"Star Trek: Starfleet Academy\": Trailer und Starttermin",
@@ -133,17 +145,6 @@
       "title": "Minds Mastering Machines 2026: Fachkonferenz zu ML und KI jenseits des Hypes",
       "teaser": "Die Konferenz zeigt im April 2026 in Karlsruhe ML in der Praxis und KI-Trends. Bereits am 29. Oktober findet der Online-Deep-Dive LLMs im Unternehmen statt.",
       "url": "https://www.heise.de/news/Minds-Mastering-Machines-2026-Fachkonferenz-zu-ML-und-KI-jenseits-des-Hypes-10749267.html"
-    },
-    {
-      "title": "Buchkritik: Let’s Code Lua!",
-      "teaser": "Maxime Wegesin lädt junge Leser dazu ein, mit der Skriptsprache Lua auf spielerische Weise den Sprung ins Programmieren zu wagen.",
-      "url": "https://www.heise.de/tests/Buchkritik-Let-s-Code-Lua-10644099.html",
-      "image_title": "Buchkritik: Let's code Lua!"
-    },
-    {
-      "title": "Visual Studio Code 1.105 erweitert KI-Chat um vollqualifizierte Tool-Namen",
-      "teaser": "Microsofts Visual Studio Code bringt in Version 1.105 unter anderem umfangreiche Verbesserungen für den KI-gestützten Chat sowie neue MCP-Funktionen mit.",
-      "url": "https://www.heise.de/news/Visual-Studio-Code-1-105-erweitert-KI-Chat-um-vollqualifizierte-Tool-Namen-10750790.html"
     },
     {
       "title": "NewsDramatische Warnung: US-Satelliten sollen Sonnenlicht zur Erde reflektieren",
