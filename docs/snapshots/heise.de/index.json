@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-13T10:12:33",
+  "timestamp": "2025-10-13T11:08:51",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "LineageOS 23 auf Basis von Android 16 ist fertig",
+      "url": "https://www.heise.de/news/LineageOS-23-auf-Basis-von-Android-16-ist-fertig-10751464.html"
+    },
+    {
+      "title": "Forscher warnen vor visuellen Angriffen in Augmented Reality",
+      "url": "https://www.heise.de/news/Forscher-warnen-vor-visuellen-Angriffen-in-Augmented-Reality-10751458.html"
+    },
+    {
+      "title": "US-Behörde wirft The Boring Company Verstoß gegen Umweltauflagen vor",
+      "url": "https://www.heise.de/news/US-Behoerde-wirft-The-Boring-Company-Verstoss-gegen-Umweltauflagen-vor-10751479.html"
+    },
     {
       "title": "BigBlueButton: Update fürs Webkonferenz-System fixt Denial-of-Service-Lücken",
       "url": "https://www.heise.de/news/BigBlueButton-Update-fuers-Webkonferenz-System-fixt-Denial-of-Service-Luecken-10751398.html"
@@ -52,18 +64,6 @@
     {
       "title": "Im Raketenfeuer: Click Boom Flash # 48 \"Optische Diagnostik in der Brennkammer\"",
       "url": "https://www.heise.de/news/Im-Raketenfeuer-Click-Boom-Flash-48-Optische-Diagnostik-in-der-Brennkammer-10748671.html"
-    },
-    {
-      "title": "Google verwehrt erster Pixel Watch das Wear-OS-6-Update",
-      "url": "https://www.heise.de/news/Google-Pixel-Watch-1-erhaelt-kein-Update-auf-Wear-OS-6-10751165.html"
-    },
-    {
-      "title": "Unpünktliche Züge: Wie die Bahn Kapazität und Zuverlässigkeit steigern will",
-      "url": "https://www.heise.de/hintergrund/Unpuenktliche-Zuege-Wie-die-Bahn-Kapazitaet-und-Zuverlaessigkeit-steigern-will-10623246.html"
-    },
-    {
-      "title": "Last Call: DevSecOps und KI – Sichere Software mit Künstlicher Intelligenz",
-      "url": "https://www.heise.de/news/Last-Call-DevSecOps-und-KI-Sichere-Software-mit-Kuenstlicher-Intelligenz-10721548.html"
     },
     {
       "title": "Von smart zu doofKundenfrust bei Bose: SoundTouch-Geräte verlieren smarte Funktionen",
@@ -112,7 +112,7 @@
     },
     {
       "title": "Kleines E-SUVElektroauto Renault 4 E-Tech 150 im Test",
-      "teaser": "Bescheidenheit ist mega-out und so wurde der Renault 4 kein Nutz-Pkw, sondern ein kleines SUV. Dennoch überzeugt das E-Auto mit einigen gut gedachten Details.",
+      "teaser": "Bescheidenheit ist mega-out und so wurde der Renault 4 kein Nutz-Pkw, sondern ein kleines SUV.",
       "url": "https://www.heise.de/tests/Elektroauto-Renault-4-E-Tech-150-im-Test-Mehr-Lifestyle-als-Nutzwert-10670013.html",
       "image_title": "Renault 4"
     },
@@ -186,6 +186,27 @@
       "image_title": "Angestrahlte Solarpanele unter NAchthimmel"
     },
     {
+      "title": "LineageOS 23 auf Basis von Android 16 ist fertig",
+      "teaser": "Das Custom-ROM LineageOS 23 auf Basis von Android 16 für über 100 Geräte ist fertig. Die Entwickler gehen im Zuge der Ankündigung mit Google ins Gericht.",
+      "url": "https://www.heise.de/news/LineageOS-23-auf-Basis-von-Android-16-ist-fertig-10751464.html"
+    },
+    {
+      "title": "Forscher warnen vor visuellen Angriffen in Augmented Reality",
+      "teaser": "Virtuelle Schilder, falsche Wege: Eine AR-Demo zeigt, wie gefährlich subtile Manipulation in Augmented Reality werden kann.",
+      "url": "https://www.heise.de/news/Forscher-warnen-vor-visuellen-Angriffen-in-Augmented-Reality-10751458.html"
+    },
+    {
+      "title": "Wie smartes Wohnen komfortabel wurde – ein Jubiläum",
+      "teaser": "Vom Pionier zum Spitzenreiter bei den Smart-Home-Systemen – Homematic IP feiert zehn Jahre Innovationen. Einfachheit und Sicherheit stehen bei Heizung, Haustür oder dem ganzen Gebäude im Fokus.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092575235&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "US-Behörde wirft The Boring Company Verstoß gegen Umweltauflagen vor",
+      "teaser": "Seit 2021 buddelt The Boring Company unter las Vegas. Auf Umweltauflagen kümmert sich das Unternehmen dabei wenig, wie eine Umweltbehörde rügt.",
+      "url": "https://www.heise.de/news/US-Behoerde-wirft-The-Boring-Company-Verstoss-gegen-Umweltauflagen-vor-10751479.html",
+      "image_title": "Vegas Loop"
+    },
+    {
       "title": "AlertBigBlueButton: Update fürs Webkonferenz-System fixt Denial-of-Service-Lücken",
       "teaser": "Über drei Lücken mit \"High\"-Bewertung in der BBB-Software könnten entfernte Störenfriede Online-Unterrichtsstunden sabotieren. Ein Update sperrt sie aus.",
       "url": "https://www.heise.de/news/BigBlueButton-Update-fuers-Webkonferenz-System-fixt-Denial-of-Service-Luecken-10751398.html",
@@ -196,11 +217,6 @@
       "teaser": "Apple plant offenbar keine Oktober-Keynote, sondern ein schrittweises Release neuer Hardware. Das erinnert an die \"Mac Week\" aus dem vergangenen Jahr.",
       "url": "https://www.heise.de/news/Bericht-Neue-Apple-Produkte-wie-iPads-schon-in-dieser-Woche-10751241.html",
       "image_title": "Apple-CTO John Ternus bei der Vorstellung des Mac mini M4"
-    },
-    {
-      "title": "Warum gerade jetzt eine Server-Colocation angesagt ist",
-      "teaser": "Bei einer Colocation bleiben die Server Eigentum des Unternehmens, stehen aber in einem professionell betriebenen Rechenzentrum. Diese Herangehensweise bringt gleich mehrere Vorteile.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7108211440&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Live-Webinar: Mit KI-Tools den Softwareentwicklungsprozess optimieren",
@@ -217,24 +233,6 @@
       "teaser": "Zur Technik hinter Apples kommenden Computerbrillen gibt es neue Infos. Offenbar kommt erst die zweite Generation mit Display – und ist speziell.",
       "url": "https://www.heise.de/news/Apples-Smartglasses-Mobiler-Modus-unterwegs-voller-Modus-am-Mac-10751175.html",
       "image_title": "Ray-Ban-Display-Brille von Meta"
-    },
-    {
-      "title": "\"Star Trek: Starfleet Academy\": Trailer und Starttermin",
-      "teaser": "Paramount hat einen ersten Trailer zu \"Star Trek: Starfleet Academy\" veröffentlicht. Die Serie wird im Januar bei Paramount+ ausgestrahlt.",
-      "url": "https://www.heise.de/news/Starfleet-Academy-Erster-Trailer-zur-kommenden-Star-Trek-Serie-bei-Paramount-10751227.html",
-      "image_title": "Screenshot aus Starfleet Academy"
-    },
-    {
-      "title": "Im Raketenfeuer: Click Boom Flash # 48 \"Optische Diagnostik in der Brennkammer\"",
-      "teaser": "\"Man gewöhnt sich nicht dran. Da beschleunigt der Puls und man hofft, dass alles gut geht\", sagt Michael Börner vom Deutschen Zentrum für Luft- und Raumfahrt.",
-      "url": "https://www.heise.de/news/Im-Raketenfeuer-Click-Boom-Flash-48-Optische-Diagnostik-in-der-Brennkammer-10748671.html",
-      "image_title": "Test eines LOX/Methan-Technologiedemonstrators am Prüfstand P3"
-    },
-    {
-      "title": "Google verwehrt erster Pixel Watch das Wear-OS-6-Update",
-      "teaser": "Die erste Pixel Watch von Google wird kein Update auf WearOS 6 erhalten.",
-      "url": "https://www.heise.de/news/Google-Pixel-Watch-1-erhaelt-kein-Update-auf-Wear-OS-6-10751165.html",
-      "image_title": "Google Pixel Watch 1"
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -303,6 +301,24 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "\"Star Trek: Starfleet Academy\": Trailer und Starttermin",
+      "teaser": "Paramount hat einen ersten Trailer zu \"Star Trek: Starfleet Academy\" veröffentlicht. Die Serie wird im Januar bei Paramount+ ausgestrahlt.",
+      "url": "https://www.heise.de/news/Starfleet-Academy-Erster-Trailer-zur-kommenden-Star-Trek-Serie-bei-Paramount-10751227.html",
+      "image_title": "Screenshot aus Starfleet Academy"
+    },
+    {
+      "title": "Im Raketenfeuer: Click Boom Flash # 48 \"Optische Diagnostik in der Brennkammer\"",
+      "teaser": "\"Man gewöhnt sich nicht dran. Da beschleunigt der Puls und man hofft, dass alles gut geht\", sagt Michael Börner vom Deutschen Zentrum für Luft- und Raumfahrt.",
+      "url": "https://www.heise.de/news/Im-Raketenfeuer-Click-Boom-Flash-48-Optische-Diagnostik-in-der-Brennkammer-10748671.html",
+      "image_title": "Test eines LOX/Methan-Technologiedemonstrators am Prüfstand P3"
+    },
+    {
+      "title": "Google verwehrt erster Pixel Watch das Wear-OS-6-Update",
+      "teaser": "Die erste Pixel Watch von Google wird kein Update auf WearOS 6 erhalten.",
+      "url": "https://www.heise.de/news/Google-Pixel-Watch-1-erhaelt-kein-Update-auf-Wear-OS-6-10751165.html",
+      "image_title": "Google Pixel Watch 1"
+    },
+    {
       "title": "Unpünktliche Züge: Wie die Bahn Kapazität und Zuverlässigkeit steigern will",
       "teaser": "Wer mehr Züge einsetzen und die Pünktlichkeit erhöhen möchte, muss die Infrastruktur erweitern. Die Rolle der Hauptbahnhöfe darf man dabei nicht unterschätzen.",
       "url": "https://www.heise.de/hintergrund/Unpuenktliche-Zuege-Wie-die-Bahn-Kapazitaet-und-Zuverlaessigkeit-steigern-will-10623246.html",
@@ -359,6 +375,11 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-vorne-intel-holt-auf/6cybv8w?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "KI ohne Hype: Business GPT in der Praxis",
+      "teaser": "Welchen Mehrwert schafft künstliche Intelligenz in Unternehmen? In einem Webcast sprechen wir darüber, was von der KI-Euphorie übriggeblieben ist – und betrachten ganz nüchtern die KI-Möglichkeiten von Firmen und Behörden.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ki-ohne-hype-business-gpt-in-der-praxis-4977//?source=hbsad-ersatz"
+    },
+    {
       "title": "Affinity vor Umbruch und ZR-Ansturm – Fotonews der Woche 41/2025",
       "teaser": "Der Onlineshop für die Affinity-Tools ist offline, und Nikon warnt vor Knappheit seiner neuen Cine-Kamera ZR – eine Kurzausgabe der Fotonews.",
       "url": "https://www.heise.de/news/Affinity-vor-Umbruch-und-ZR-Ansturm-Fotonews-der-Woche-41-2025-10750960.html"
@@ -372,11 +393,6 @@
       "title": "Kundendaten von Qantas im Netz – auch die von Troy Hunt",
       "teaser": "Im Juli erbeuteten Angreifer wichtige Daten bei der australischen Airline. Noch ist nicht klar, was davon jetzt im Netz kursiert.",
       "url": "https://www.heise.de/news/Qantas-Kundendaten-tauchen-nach-Cyberangriff-im-Netz-auf-10750869.html"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Schlankheitswahn: Apple iPhone Air vs. Samsung Galaxy S25 Edge im Vergleich",
@@ -416,22 +432,6 @@
       "title": "Handheld-Konsolen im Überblick: Nintendo Switch 2 vs. Steam Deck, Rog Ally & Co.",
       "teaser": "Nintendo Switch 2, Steam Deck oder Rog Ally: Es gibt immer mehr Gaming-Handhelds, die sich bei der Hardware unterscheiden, aber auch im Spielangebot.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/handheld-konsolen-im-ueberblick-nintendo-switch-2-vs-steam-deck-rog-ally-und-co/mffk46r?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Airline-Verbandschef fordert Abschuss von Drohnen",
-      "teaser": "Der Chef des deutschen Airline-Verbands ist über die Zögerlichkeit der Politik verärgert – und hat schlechte Nachrichten für Passagiere.",
-      "url": "https://www.heise.de/news/Airline-Verbandschef-fordert-Abschuss-von-Drohnen-10750808.html"
-    },
-    {
-      "title": "Visual Studio Code 1.105 erweitert KI-Chat um vollqualifizierte Tool-Namen",
-      "teaser": "Microsofts Visual Studio Code bringt in Version 1.105 unter anderem umfangreiche Verbesserungen für den KI-gestützten Chat sowie neue MCP-Funktionen mit.",
-      "url": "https://www.heise.de/news/Visual-Studio-Code-1-105-erweitert-KI-Chat-um-vollqualifizierte-Tool-Namen-10750790.html"
-    },
-    {
-      "title": "Kaum Abweichler: Mehrheit der EU-Staaten ist für Social-Media-Verbot für Kinder",
-      "teaser": "Die dänische EU-Ratspräsidentschaft hat eine Erklärung vorgelegt, wonach Minderjährige viele Apps nicht mehr nutzen können sollen. Nur zwei Länder sind dagegen.",
-      "url": "https://www.heise.de/news/Kaum-Abweichler-Mehrheit-der-EU-Staaten-ist-fuer-Social-Media-Verbot-fuer-Kinder-10750780.html",
-      "image_title": "Nahaufnahme eines Smartphone-Bildschirms mit den Symbolen verschiedener Social-Media-Apps."
     },
     {
       "title": "Windows 10: Registrierung für Supportverlängerung auf ersten Rechnern möglich",
@@ -501,8 +501,13 @@
       "image_title": "Visualisierung des geplanten Fehmarnsundtunnels"
     },
     {
-      "title": "Rasant steigende Rückrufe: Haben Autos ein Qualitätsproblem?",
-      "url": "https://www.heise.de/hintergrund/Rasant-steigende-Rueckrufe-Haben-Autos-ein-Qualitaetsproblem-10747567.html"
+      "title": "Airline-Verbandschef fordert Abschuss von Drohnen",
+      "url": "https://www.heise.de/news/Airline-Verbandschef-fordert-Abschuss-von-Drohnen-10750808.html"
+    },
+    {
+      "title": "Kaum Abweichler: Mehrheit der EU-Staaten ist für Social-Media-Verbot für Kinder",
+      "url": "https://www.heise.de/news/Kaum-Abweichler-Mehrheit-der-EU-Staaten-ist-fuer-Social-Media-Verbot-fuer-Kinder-10750780.html",
+      "image_title": "Nahaufnahme eines Smartphone-Bildschirms mit den Symbolen verschiedener Social-Media-Apps."
     },
     {
       "title": "Verwaltungsgericht München: Pornhub und YouPorn bleiben zunächst gesperrt",
@@ -514,23 +519,18 @@
       "url": "https://www.heise.de/meinung/Kommentar-zur-Umstellung-auf-Open-Source-Schaut-auf-Schleswig-Holstein-10733441.html"
     },
     {
-      "title": "LG Hamburg: xAI darf Unwahrheiten nicht als Fakten verbreiten",
-      "url": "https://www.heise.de/news/LG-Hamburg-xAI-darf-Unwahrheiten-nicht-als-Fakten-verbreiten-10750390.html",
-      "image_title": "Das Logo von Grok auf einem Smartphone"
-    },
-    {
       "title": "Buchkritik: The Magic of Code",
       "url": "https://www.heise.de/tests/Buchkritik-The-Magic-of-Code-10643378.html",
       "image_title": "Buchkritik: The Magic of Code"
     },
     {
-      "title": "#TGIQF – Das Quiz um Jupiter, Juno und Co.",
-      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-um-Jupiter-Juno-und-Co-10749493.html"
+      "title": "LG Hamburg: xAI darf Unwahrheiten nicht als Fakten verbreiten",
+      "url": "https://www.heise.de/news/LG-Hamburg-xAI-darf-Unwahrheiten-nicht-als-Fakten-verbreiten-10750390.html",
+      "image_title": "Das Logo von Grok auf einem Smartphone"
     },
     {
-      "title": "Raspberry Pi OS wechselt auf Debian-Trixie-Basis",
-      "url": "https://www.heise.de/news/Raspberry-Pi-OS-wechselt-auf-Debian-Trixie-Basis-10722458.html",
-      "image_title": "Raspi"
+      "title": "#TGIQF – Das Quiz um Jupiter, Juno und Co.",
+      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-um-Jupiter-Juno-und-Co-10749493.html"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Berater in Deutschland",
@@ -598,21 +598,21 @@
       "url": "https://www.heise.de/en/news/iPhone-18-Bank-believes-upgrade-cycle-will-run-smoothly-10749538.html"
     },
     {
-      "title": "Buchkritik: Let’s Code Lua!",
-      "teaser": "Maxime Wegesin lädt junge Leser dazu ein, mit der Skriptsprache Lua auf spielerische Weise den Sprung ins Programmieren zu wagen.",
-      "url": "https://www.heise.de/tests/Buchkritik-Let-s-Code-Lua-10644099.html",
-      "image_title": "Buchkritik: Let's code Lua!"
-    },
-    {
-      "title": "c’t uplinkWindows 10 in eine Linux-VM umziehen",
-      "teaser": "Zum Support-Ende von Windows 10 kann man sein altes Windows in eine VM umziehen.",
-      "url": "https://www.heise.de/news/Windows-10-in-eine-Linux-VM-umziehen-c-t-uplink-10749006.html"
-    },
-    {
       "title": "Buchkritik: The Magic of Code",
       "teaser": "Für Samuel Arbesman ist Code geradezu allgegenwärtig. Nicht nur bei Programmierkundigen möchte er ein Bewusstsein dafür wecken.",
       "url": "https://www.heise.de/tests/Buchkritik-The-Magic-of-Code-10643378.html",
       "image_title": "Buchkritik: The Magic of Code"
+    },
+    {
+      "title": "Last call: c't-Webinar – Chancen, Grenzen, Kosten von Wärmepumpen",
+      "teaser": "Fossile Brennstoffe haben ausgedient. Erfahren Sie im c’t-Webinar, wie Wärmepumpen funktionieren und ob sie für Ihr Zuhause geeignet sind.",
+      "url": "https://www.heise.de/news/Last-call-c-t-Webinar-Chancen-Grenzen-Kosten-von-Waermepumpen-10747815.html"
+    },
+    {
+      "title": "Buchkritik: Let’s Code Lua!",
+      "teaser": "Maxime Wegesin lädt junge Leser dazu ein, mit der Skriptsprache Lua auf spielerische Weise den Sprung ins Programmieren zu wagen.",
+      "url": "https://www.heise.de/tests/Buchkritik-Let-s-Code-Lua-10644099.html",
+      "image_title": "Buchkritik: Let's code Lua!"
     },
     {
       "title": "Erweiterungen für Mac, iPhone, iPadSafari pimpen",
@@ -621,16 +621,16 @@
       "image_title": "Safari-Erweiterungen"
     },
     {
+      "title": "Doppelkopf-SpeicherUSB-Sticks mit Steckern für USB-C und USB-A im Test",
+      "teaser": "Kleine Speicher sind ungemein praktisch für den bequemen Datenaustausch. Inzwischen gibt es sie trotz des kompakten Formats mit der Geschwindigkeit von SSDs.",
+      "url": "https://www.heise.de/tests/Doppelkopf-Speicher-USB-Sticks-mit-Steckern-fuer-USB-C-und-USB-A-im-Test-10678834.html",
+      "image_title": ","
+    },
+    {
       "title": "Knicken und tippenLogitech Flip Folio fürs iPad im Test",
       "teaser": "Der Zubehörspezialist bringt eine herausnehmbare Tastatur in einer iPad-Hülle unter. Taugt sie etwas im Vergleich zum Magic Keyboard?",
       "url": "https://www.heise.de/tests/Knicken-und-tippen-Logitech-Flip-Folio-fuers-iPad-im-Test-10666719.html",
       "image_title": "Flip Folio von Logitech"
-    },
-    {
-      "title": "Das ist neuiPhones mit iOS 26 im Unternehmen",
-      "teaser": "Apples neue Betriebssysteme sollen die Firmen-IT entlasten. Was sich für Admins bei der Verwaltung von Geräten mit iOS 26 & Co verändert.",
-      "url": "https://www.heise.de/ratgeber/iOS-26-im-Unternehmen-Das-ist-neu-bei-Apples-iPhone-Betriebssystem-10666725.html",
-      "image_title": ", KI/freepik.com"
     },
     {
       "title": "Zusammensteckbare 3D-Objekte mit 3D-Sliceforms und Blender Add-on erzeugen",
@@ -728,22 +728,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Blockade: Wie fünf Vetomächte die UN seit 80 Jahren lähmen",
-      "teaser": "Zum 80. Jubiläum der Vereinten Nationen mahnt Generalsekretär Guterres eindringlich Reformen an, um die Handlungsfähigkeit der UN zu stärken.",
-      "url": "https://www.heise.de/tp/features/Blockade-Wie-fuenf-Vetomaechte-die-UN-seit-80-Jahren-laehmen-10749746.html",
-      "image_title": "Schematische Darstellung der Reformvorschläge für den Sicherheitsrat"
+      "title": "Israels neue Propagandaoffensive: Gen Z im Visier",
+      "teaser": "Israels Regierung setzt auf Gen Z. Millionendeal mit konservativer Medienfirma Clock Tower. Wird ChatGPT bald israelfreundlicher?",
+      "url": "https://www.heise.de/tp/features/Israels-neue-Propagandaoffensive-Gen-Z-im-Visier-10723605.html",
+      "image_title": "Flagge Israels"
     },
     {
-      "title": "Seltene Erden: Pekings Exportstopp trifft deutsche Industrie",
-      "teaser": "Berlin zeigt sich alarmiert: Die neuen Beschränkungen betreffen auch Verarbeitungsanlagen und könnten europäische Lieferketten lahmlegen.",
-      "url": "https://www.heise.de/tp/features/Seltene-Erden-Pekings-Exportstopp-trifft-deutsche-Industrie-10750364.html",
-      "image_title": "Mine für Seltene Erden in Californien."
+      "title": "Grimms Märchen: Wenn Ökonomen den Sozialstaat zum Sündenbock machen",
+      "teaser": "Professorin Veronika Grimm fordert radikale Kürzungen bei Renten und Sozialleistungen. Doch ihre Argumente zur Demografie sind falsch.",
+      "url": "https://www.heise.de/tp/features/Grimms-Maerchen-Wenn-Oekonomen-den-Sozialstaat-zum-Suendenbock-machen-10749662.html",
+      "image_title": "Rollator auf Mirarbeiter-Parkplatz"
     },
     {
-      "title": "Vetivergras: Natürlicher Schutzschild gegen Bodenerosion",
-      "teaser": "Eine erstaunliche Pflanze: Aus Südostasien stammend, erobert Vetivergras die Welt. Seine tiefen Wurzeln bremsen Erosion und halten Böden feucht.",
-      "url": "https://www.heise.de/tp/features/Vetivergras-Natuerlicher-Schutzschild-gegen-Bodenerosion-10733075.html",
-      "image_title": "Ein Feld mit Vetivergras darauf"
+      "title": "Aufstand in Nepal: Zwischen Aufbruch und Ernüchterung",
+      "teaser": "Im Zuge der Generation Z-Proteste kam es in Nepal zum Sturz der Regierung. Warum trotzdem Stillstand droht und was dies für die Region bedeutet. Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Aufstand-in-Nepal-Zwischen-Aufbruch-und-Ernuechterung-10749782.html",
+      "image_title": "Ein brennendes Regierungsgebäude in Nepal"
     },
     {
       "title": "Warum ChatGPT nicht wirklich Webseiten besucht – und was es für Inhalte bedeutet",
