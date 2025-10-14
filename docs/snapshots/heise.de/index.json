@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-14T05:09:43",
+  "timestamp": "2025-10-14T06:16:04",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "c’t-Workshop: Effiziente Softwareentwicklung mit GitLab",
+      "url": "https://www.heise.de/news/c-t-Workshop-Effiziente-Softwareentwicklung-mit-GitLab-10751026.html"
+    },
+    {
+      "title": "Finanzdaten in Home Assistant: So tracken Sie Aktien, ETFs und Kryptos",
+      "url": "https://www.heise.de/ratgeber/Finanzdaten-in-Home-Assistant-So-tracken-Sie-Aktien-ETFs-und-Kryptos-10750055.html"
+    },
+    {
+      "title": "UK: Gesichtserkennung von Clearview unterliegt europäischen Datenschutzregeln",
+      "url": "https://www.heise.de/news/UK-Gesichtserkennung-von-Clearview-unterliegt-europaeischen-Datenschutzregeln-10752341.html"
+    },
     {
       "title": "Unbegrenzte Beweissicherung: EU ratifiziert umkämpfte UN-Cybercrime-Konvention",
       "url": "https://www.heise.de/news/Unbegrenzte-Beweissicherung-EU-ratifiziert-umkaempfte-UN-Cybercrime-Konvention-10752315.html"
@@ -52,18 +64,6 @@
     {
       "title": "TikTok & OpenAI: Milliardeninvestitionen in Rechenzentren in Südamerika",
       "url": "https://www.heise.de/news/TikTok-OpenAI-Milliardeninvestitionen-in-Rechenzentren-in-Suedamerika-10752228.html"
-    },
-    {
-      "title": "Erster eigener KI-Chip: OpenAI beauftragt Broadcom mit der Entwicklung",
-      "url": "https://www.heise.de/news/Chip-Deal-OpenAI-und-Broadcom-entwickeln-eigenen-KI-Prozessor-10752214.html"
-    },
-    {
-      "title": "Top 10: Das beste Fat-E-Bike für Herbst & Winter im Test – Testsieger Himiway",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-fat-e-bike-fuer-herbst-und-winter-im-test-testsieger-himiway/gjfmsd1"
-    },
-    {
-      "title": "Nobel-Gedenkpreis Wirtschaft für Forschung zu anhaltendem Wachstum",
-      "url": "https://www.heise.de/news/Nobel-Gedenkpreis-Wirtschaft-fuer-Forschung-zu-anhaltendem-Wachstum-10752188.html"
     },
     {
       "title": "Teils während der FahrtJeeps nach OTA-Software-Update unbrauchbar",
@@ -185,6 +185,28 @@
       "image_title": "iPhone-17-Kommentar"
     },
     {
+      "title": "c’t-Workshop: Effiziente Softwareentwicklung mit GitLab",
+      "teaser": "Im c’t-Workshop lernen Administratoren praxisnah, GitLab sicher zu betreiben, Projekte zu verwalten und CI/CD-Pipelines optimal einzusetzen.",
+      "url": "https://www.heise.de/news/c-t-Workshop-Effiziente-Softwareentwicklung-mit-GitLab-10751026.html"
+    },
+    {
+      "title": "Finanzdaten in Home Assistant: So tracken Sie Aktien, ETFs und Kryptos",
+      "teaser": "Mal schnell das Portfolio checken: Wir zeigen, wie Sie Yahoo Finance mit Home Assistant verknüpfen und die Kurse all ihrer Anlagen ins Dashboard bringen.",
+      "url": "https://www.heise.de/ratgeber/Finanzdaten-in-Home-Assistant-So-tracken-Sie-Aktien-ETFs-und-Kryptos-10750055.html",
+      "image_title": "Kursdaten von Finanzprodukten im Dashboard von Home Assistant."
+    },
+    {
+      "title": "Hybrides UEM – der Schlüssel zu moderner IT-Sicherheit",
+      "teaser": "Eine heterogene IT-Landschaft effizient und sicher zu verwalten, ist herausfordernd. Aber es ist machbar mit hybriden UEM-Plattformen, mit denen sich Richtlinien zentral umsetzen lassen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7091827877&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "UK: Gesichtserkennung von Clearview unterliegt europäischen Datenschutzregeln",
+      "teaser": "Ein britisches Berufungsgericht hat eine vom UK-Datenschutzbeauftragten verhängte Millionenstrafe gegen die US-Firma Clearview AI wegen Mega-Scraping bestätigt.",
+      "url": "https://www.heise.de/news/UK-Gesichtserkennung-von-Clearview-unterliegt-europaeischen-Datenschutzregeln-10752341.html",
+      "image_title": "Gesichtserkennungs-KI im Einsatz"
+    },
+    {
       "title": "Unbegrenzte Beweissicherung: EU ratifiziert umkämpfte UN-Cybercrime-Konvention",
       "teaser": "Der EU-Rat hat die Kommission und die Mitgliedstaaten ermächtigt, das Abkommen der Uno gegen Cyberkriminalität zu unterzeichnen. Bürgerrechte? Kleingeschrieben.",
       "url": "https://www.heise.de/news/Unbegrenzte-Beweissicherung-EU-ratifiziert-umkaempfte-UN-Cybercrime-Konvention-10752315.html",
@@ -195,11 +217,6 @@
       "teaser": "KI-Chip von OpenAI und Broadcom + Kurseinbruch bei Kryptogeld + Kolumbien mit Drohnenbataillon + Apple-Produkte vor Release + Online-Kriminelle ermittelt",
       "url": "https://www.heise.de/news/Dienstag-OpenAI-und-Broadcom-tun-sich-zusammen-Anleger-verlieren-Geld-10752283.html",
       "image_title": "Nahaufnahme einer Maschine, die Chips von einem Silizium-Wafer entnimmt und auf ein Substrat aufbringt., dazu Text: DIENSTAG Chip-Vereinbarung, Insiderhandel, Drohnenbataillon, Apple-Produkte & Jobcenter"
-    },
-    {
-      "title": "Hybrides UEM – der Schlüssel zu moderner IT-Sicherheit",
-      "teaser": "Eine heterogene IT-Landschaft effizient und sicher zu verwalten, ist herausfordernd. Aber es ist machbar mit hybriden UEM-Plattformen, mit denen sich Richtlinien zentral umsetzen lassen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7091827877&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Finanzanlage-Betrug: Deutsche Ermittler beschlagnahmen 1.400 Domains",
@@ -218,24 +235,6 @@
       "teaser": "Wenn an einer Ikea-Kasse mit Karte bezahlt wurde, filmte eine Kamera die PINs. Auch Passanten außerhalb der Wiener Filiale wurden aufgezeichnet. Das kostet.",
       "url": "https://www.heise.de/news/PIN-Tastatur-gefilmt-1-5-Millionen-Euro-Strafe-fuer-Wiener-Ikea-10751145.html",
       "image_title": "Überwachungskamera in Dome-Ausführung"
-    },
-    {
-      "title": "Bekämpfung bewaffneter Gruppen: Kolumbien stellt erstes Drohnenbataillon vor",
-      "teaser": "Kolumbiens Armee präsentiert ein Drohnenbataillon, das mit KI-Technologie ausgestattet ist. Es soll gegen Drogenbanden und bewaffnete Gruppen eingesetzt werden.",
-      "url": "https://www.heise.de/news/Bekaempfung-bewaffneter-Gruppen-Kolumbien-stellt-erstes-Drohnenbataillon-vor-10752265.html",
-      "image_title": "Soldat, der Drohne am Himmel mit Smartphone steuert"
-    },
-    {
-      "title": "TikTok & OpenAI: Milliardeninvestitionen in Rechenzentren in Südamerika",
-      "teaser": "ByteDance konkretisiert Pläne zum Bau eines TikTok-Rechenzentrums in Brasilien. OpenAI erwägt ein 25-Milliarden-US-Dollar-Projekt in Argentinien.",
-      "url": "https://www.heise.de/news/TikTok-OpenAI-Milliardeninvestitionen-in-Rechenzentren-in-Suedamerika-10752228.html",
-      "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
-    },
-    {
-      "title": "Erster eigener KI-Chip: OpenAI beauftragt Broadcom mit der Entwicklung",
-      "teaser": "OpenAI und Broadcom wollen gemeinsam maßgeschneiderte KI-Chips entwickeln. Die Einführung ist für die zweite Hälfte des Jahres 2026 geplant.",
-      "url": "https://www.heise.de/news/Chip-Deal-OpenAI-und-Broadcom-entwickeln-eigenen-KI-Prozessor-10752214.html",
-      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
     },
     {
       "title": "Smart HomeWaschmaschinen in Home Assistant einbinden und smart machen",
@@ -304,6 +303,24 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Bekämpfung bewaffneter Gruppen: Kolumbien stellt erstes Drohnenbataillon vor",
+      "teaser": "Kolumbiens Armee präsentiert ein Drohnenbataillon, das mit KI-Technologie ausgestattet ist. Es soll gegen Drogenbanden und bewaffnete Gruppen eingesetzt werden.",
+      "url": "https://www.heise.de/news/Bekaempfung-bewaffneter-Gruppen-Kolumbien-stellt-erstes-Drohnenbataillon-vor-10752265.html",
+      "image_title": "Soldat, der Drohne am Himmel mit Smartphone steuert"
+    },
+    {
+      "title": "TikTok & OpenAI: Milliardeninvestitionen in Rechenzentren in Südamerika",
+      "teaser": "ByteDance konkretisiert Pläne zum Bau eines TikTok-Rechenzentrums in Brasilien. OpenAI erwägt ein 25-Milliarden-US-Dollar-Projekt in Argentinien.",
+      "url": "https://www.heise.de/news/TikTok-OpenAI-Milliardeninvestitionen-in-Rechenzentren-in-Suedamerika-10752228.html",
+      "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
+    },
+    {
+      "title": "Erster eigener KI-Chip: OpenAI beauftragt Broadcom mit der Entwicklung",
+      "teaser": "OpenAI und Broadcom wollen gemeinsam maßgeschneiderte KI-Chips entwickeln. Die Einführung ist für die zweite Hälfte des Jahres 2026 geplant.",
+      "url": "https://www.heise.de/news/Chip-Deal-OpenAI-und-Broadcom-entwickeln-eigenen-KI-Prozessor-10752214.html",
+      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
+    },
+    {
       "title": "Top 10: Das beste Fat-E-Bike für Herbst & Winter im Test – Testsieger Himiway",
       "teaser": "E-Bikes sind gut, aber E-Fatbikes sind gerade im Herbst und Winter dank fetter XXL-Reifen für viele besser. Wir zeigen die 10 besten, günstigen E-Fatbikes.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-fat-e-bike-fuer-herbst-und-winter-im-test-testsieger-himiway/gjfmsd1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -360,6 +377,11 @@
       "image_title": "Guy,Student,Using,Laptop,,Artificial,Intelligence,For,Education."
     },
     {
+      "title": "Digitale Souveränität: Schluss mit dem Buzzwords!",
+      "teaser": "Alle reden über digitale Souveränität, aber wie geht es praktisch weiter? Ein Webcast erklärt, welche Abstufungen für welche Anwendungsfälle sinnvoll sind, und hilft bei der Frage: Wie mache ich konkret weiter?",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/digitale-souveraenitaet-weg-vom-buzzword-bingo-hin-zur-umsetzung-4979?source=hbsadersatz"
+    },
+    {
       "title": "Apple stellt Clips-App für Videos ein",
       "teaser": "Schon seit Längerem keine Updates mehr, Abzug aus dem App Store und ein neues Supportdokument mit Export-Angaben: Clips ist wohl tot.",
       "url": "https://www.heise.de/news/Clips-App-fuer-Video-Apple-stellt-sie-offenbar-ein-10751293.html",
@@ -375,11 +397,6 @@
       "title": "Salesforce veröffentlicht KI-Plattform für Unternehmen",
       "teaser": "Mit der KI-Agentenplattform Salesforce Agentforce 360 sollen Unternehmen künftig KI-Agenten bauen. Im Agentforce IT Service sollen diese IT-Probleme bearbeiten.",
       "url": "https://www.heise.de/news/Salesforce-veroeffentlicht-KI-Plattform-fuer-Unternehmen-10751301.html"
-    },
-    {
-      "title": "Digitale Souveränität: Schluss mit dem Buzzwords!",
-      "teaser": "Alle reden über digitale Souveränität, aber wie geht es praktisch weiter? Ein Webcast erklärt, welche Abstufungen für welche Anwendungsfälle sinnvoll sind, und hilft bei der Frage: Wie mache ich konkret weiter?",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/digitale-souveraenitaet-weg-vom-buzzword-bingo-hin-zur-umsetzung-4979?source=hbsadersatz"
     },
     {
       "title": "KI-Update: KI-Vorurteile, Campact gegen xAI, Schwachstelle in LLMs, rabbitAI",
@@ -420,23 +437,6 @@
       "teaser": "Der Zubehörspezialist bringt eine herausnehmbare Tastatur in einer iPad-Hülle unter. Taugt sie etwas im Vergleich zum Magic Keyboard?",
       "url": "https://www.heise.de/tests/Knicken-und-tippen-Logitech-Flip-Folio-fuers-iPad-im-Test-10666719.html",
       "image_title": "Flip Folio von Logitech"
-    },
-    {
-      "title": "US-Behörde wirft The Boring Company Verstoß gegen Umweltauflagen vor",
-      "teaser": "Seit 2021 buddelt The Boring Company unter las Vegas. Um Umweltauflagen kümmert sich das Unternehmen dabei wenig, wie eine Umweltbehörde rügt.",
-      "url": "https://www.heise.de/news/US-Behoerde-wirft-The-Boring-Company-Verstoss-gegen-Umweltauflagen-vor-10751479.html",
-      "image_title": "Vegas Loop"
-    },
-    {
-      "title": "AlertBigBlueButton: Update fürs Webkonferenz-System fixt Denial-of-Service-Lücken",
-      "teaser": "Über drei Lücken mit \"High\"-Bewertung in der BBB-Software könnten entfernte Störenfriede Online-Unterrichtsstunden sabotieren. Ein Update sperrt sie aus.",
-      "url": "https://www.heise.de/news/BigBlueButton-Update-fuers-Webkonferenz-System-fixt-Denial-of-Service-Luecken-10751398.html",
-      "image_title": "Holografischer Update-Button"
-    },
-    {
-      "title": "Live-Webinar: Mit KI-Tools den Softwareentwicklungsprozess optimieren",
-      "teaser": "Von Code-Generierung bis Debugging: Heben Sie Ihre Entwicklungsprozesse mit KI auf ein neues Level. Das Webinar bietet dafür praxisnahes Know-how.",
-      "url": "https://www.heise.de/news/Live-Webinar-Mit-KI-Tools-den-Softwareentwicklungsprozess-optimieren-10749932.html"
     },
     {
       "title": "Windows 10: Registrierung für Supportverlängerung auf ersten Rechnern möglich",
@@ -606,20 +606,26 @@
       "url": "https://www.heise.de/en/news/Upheaval-at-Aleph-Alpha-Founder-leaves-Schwarz-Group-moves-up-10750654.html"
     },
     {
-      "title": "Der Wumms der 90erKultfilm \"Hackers\" mit Atmos-Ton im Heimkinotest",
-      "teaser": "Der kultige Feelgood-Film entführt Zuschauer in die 90er, als Daten noch durch Telefonleitungen krochen.",
-      "url": "https://www.heise.de/tests/Der-Wumms-der-90er-Kultfilm-Hackers-mit-Atmos-Ton-im-Heimkinotest-10748976.html"
+      "title": "Schlankheitswahn: Apple iPhone Air vs. Samsung Galaxy S25 Edge im Vergleich",
+      "teaser": "Apple und Samsung wollen eine Nachfrage hin zu besonders flachen Smartphones erkannt haben und bedienen sie mit dem iPhone Air und dem Galaxy S25 Edge.",
+      "url": "https://www.heise.de/tests/Schlankheitswahn-Apple-iPhone-Air-vs-Samsung-Galaxy-S25-Edge-im-Vergleich-10638224.html"
     },
     {
-      "title": "Buchkritik: The Magic of Code",
-      "teaser": "Für Samuel Arbesman ist Code geradezu allgegenwärtig. Nicht nur bei Programmierkundigen möchte er ein Bewusstsein dafür wecken.",
-      "url": "https://www.heise.de/tests/Buchkritik-The-Magic-of-Code-10643378.html",
-      "image_title": "Buchkritik: The Magic of Code"
+      "title": "Buchkritik: Let’s Code Lua!",
+      "teaser": "Maxime Wegesin lädt junge Leser dazu ein, mit der Skriptsprache Lua auf spielerische Weise den Sprung ins Programmieren zu wagen.",
+      "url": "https://www.heise.de/tests/Buchkritik-Let-s-Code-Lua-10644099.html",
+      "image_title": "Buchkritik: Let's code Lua!"
     },
     {
-      "title": "OpenStreetMap spielerisch verbessern mit StreetComplete",
-      "teaser": "Eine einfach zu bedienende Android-App hilft, Lücken in der OpenStreetMap-Karte zu schließen. StreetComplete stellt dazu handliche Aufgaben für unterwegs.",
-      "url": "https://www.heise.de/tests/OpenStreetMap-spielerisch-verbessern-mit-StreetComplete-10682794.html"
+      "title": "c’t uplinkWindows 10 in eine Linux-VM umziehen",
+      "teaser": "Zum Support-Ende von Windows 10 kann man sein altes Windows in eine VM umziehen.",
+      "url": "https://www.heise.de/news/Windows-10-in-eine-Linux-VM-umziehen-c-t-uplink-10749006.html"
+    },
+    {
+      "title": "Doppelkopf-SpeicherUSB-Sticks mit Steckern für USB-C und USB-A im Test",
+      "teaser": "Kleine Speicher sind ungemein praktisch für den bequemen Datenaustausch. Inzwischen gibt es sie trotz des kompakten Formats mit der Geschwindigkeit von SSDs.",
+      "url": "https://www.heise.de/tests/Doppelkopf-Speicher-USB-Sticks-mit-Steckern-fuer-USB-C-und-USB-A-im-Test-10678834.html",
+      "image_title": ","
     },
     {
       "title": "Erweiterungen für Mac, iPhone, iPadSafari pimpen",
@@ -634,10 +640,10 @@
       "image_title": "Flip Folio von Logitech"
     },
     {
-      "title": "Das ist neuiPhones mit iOS 26 im Unternehmen",
-      "teaser": "Apples neue Betriebssysteme sollen die Firmen-IT entlasten. Was sich für Admins bei der Verwaltung von Geräten mit iOS 26 & Co verändert.",
-      "url": "https://www.heise.de/ratgeber/iOS-26-im-Unternehmen-Das-ist-neu-bei-Apples-iPhone-Betriebssystem-10666725.html",
-      "image_title": ", KI/freepik.com"
+      "title": "Bastel-Projekt: Tretbootaufsatz fürs Stehpaddeln im Liegen bauen",
+      "teaser": "Mit einem Tretbootaufsatz wird aus dem wackligen Stehpaddeln eine Fahrt im Liegen. Aus einer spontanen Bastelidee entwickelte sich ein cleveres DIY-Projekt.",
+      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Tretbootaufsatz-fuers-Stehpaddeln-im-Liegen-bauen-10637640.html",
+      "image_title": ","
     },
     {
       "title": "Zusammensteckbare 3D-Objekte mit 3D-Sliceforms und Blender Add-on erzeugen",
@@ -649,11 +655,6 @@
       "teaser": "Zwei Grayscale-Sensoren und ein Regler verhelfen dem Fischertechnik-Maker-Kit-Car zu einem Spurhalteassistenten. Wir zeigen Automobiltechnik zum Anfassen.",
       "url": "https://www.heise.de/ratgeber/Oxocard-Projekt-Spurhalteassistent-mit-Fischertechnik-10630296.html",
       "image_title": ","
-    },
-    {
-      "title": "Maker Bits: Software, Hardware und Infos für Maker",
-      "teaser": "Oft finden wir bei der Recherche auch Beifang in Form von kleinen Tools, neuer Hard- und Software sowie spannenden Themen. Hier eine kleine Auswahl.",
-      "url": "https://www.heise.de/news/Maker-Bits-Software-Hardware-und-Infos-fuer-Maker-10733429.html"
     },
     {
       "title": "Goldene Momente, klare Formen und stille Geschichten: Die Bilder der Woche 41",
@@ -697,6 +698,12 @@
       "image_title": "Honda CB 1000 F"
     },
     {
+      "title": "US-Behörde wirft The Boring Company Verstoß gegen Umweltauflagen vor",
+      "teaser": "Seit 2021 buddelt The Boring Company unter las Vegas. Um Umweltauflagen kümmert sich das Unternehmen dabei wenig, wie eine Umweltbehörde rügt.",
+      "url": "https://www.heise.de/news/US-Behoerde-wirft-The-Boring-Company-Verstoss-gegen-Umweltauflagen-vor-10751479.html",
+      "image_title": "Vegas Loop"
+    },
+    {
       "title": "München an der SpitzeImmer mehr Pendler in Deutschland",
       "teaser": "Nach der Covid-19-Pandemie nehmen offenbar mehr Menschen lange Arbeitswege auf sich – vor allem in Städte, in denen Wohnen teuer ist.",
       "url": "https://www.heise.de/news/Immer-mehr-Pendler-in-Deutschland-Muenchen-an-der-Spitze-10751107.html",
@@ -707,12 +714,6 @@
       "teaser": "Der GV60 ist ein Elektro-Crossover der Mittelklasse von Hyundais Nobelmarke Genesis. Was kann der Unbekannte mit Anspruch? Im Test: das Basismodell mit 168 kW",
       "url": "https://www.heise.de/tests/Elektroauto-Genesis-GV60-im-Test-Fein-verpackt-rasant-ladend-10749774.html",
       "image_title": "Genesis GV60"
-    },
-    {
-      "title": "Studie: Die EU wird ihr Ladeziel 2030 für E-Autos deutlich verfehlen",
-      "teaser": "Die EU hat erst ein Viertel ihres Ziels von 3,5 Millionen Ladepunkten bis 2030 erreicht. Pro Jahr müssten statt aktuell 150.000 über 500.000 Ladepunkte kommen.",
-      "url": "https://www.heise.de/news/Studie-Die-EU-wird-ihr-Ladeziel-2030-fuer-E-Autos-deutlich-verfehlen-10750382.html",
-      "image_title": "Symbol auf einem Parkplatz für Elektroautos."
     },
     {
       "title": "Top 10: Die beste Smartwatch mit EKG im Test – Testsieger misst Blutdruck",
@@ -735,22 +736,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Asteroid 2024 YR4: Wegschieben, rammen oder sprengen?",
-      "teaser": "Der Asteroid 2024 YR4 sorgt weiter für Aufregung, weil er vielleicht den Mond trifft. Ist das ein Grund zum Handeln? Und wenn ja – welche Optionen gibt es?",
-      "url": "https://www.heise.de/tp/features/Asteroid-2024-YR4-Wegschieben-rammen-oder-sprengen-10750688.html",
-      "image_title": "Meteoriten im Nachthimmel"
+      "title": "Niederlande entreißen China Kontrolle über Schlüssel-Chiphersteller",
+      "teaser": "Die Niederlande greifen bei Nexperia ein. Die Regierung beruft sich auf ein Notstandsgesetz. China spricht von geopolitischen Vorurteilen.",
+      "url": "https://www.heise.de/tp/features/Niederlande-entreissen-China-Kontrolle-ueber-Schluessel-Chiphersteller-10751877.html",
+      "image_title": "Die Niederlande übernehmen den chinesischen Chiphersteller Nexperia."
     },
     {
-      "title": "Rente: Dänemark schützt vor Armut, Deutschland belohnt Leistung",
-      "teaser": "Zwei Rentensysteme im Vergleich: Dänemark setzt auf eine Grundrente für alle, Deutschland auf das Äquivalenzprinzip. Was ist gerechter?",
-      "url": "https://www.heise.de/tp/features/Rente-Daenemark-schuetzt-vor-Armut-Deutschland-belohnt-Leistung-10747482.html",
-      "image_title": "Glückliches Senioren-Paar freut sich über die Rente."
+      "title": "Längere Dürren, stärkerer Regen – globaler Wasserkreislauf im Chaos",
+      "teaser": "Nur ein Drittel aller Flüsse weltweit führt noch normale Wassermengen. Der Rest schwankt zwischen Extremen – mit dramatischen Folgen.",
+      "url": "https://www.heise.de/tp/features/Laengere-Duerren-staerkerer-Regen-globaler-Wasserkreislauf-im-Chaos-10712234.html",
+      "image_title": "Globus als Wassertropfen Umringt con blauem und rotem Pfeil"
     },
     {
-      "title": "Ist die Geran-Drohne jetzt die gefährlichste Waffe des Ukraine-Krieges?",
-      "teaser": "Russische Geran-Drohnen jagen nun Züge und greifen direkt an der Front an. Die Technologie dahinter verändert den Kriegsverlauf.",
-      "url": "https://www.heise.de/tp/features/Ist-die-Geran-Drohne-jetzt-die-gefaehrlichste-Waffe-des-Ukraine-Krieges-10750928.html",
-      "image_title": "Russische Drohne Geran (Shahed) auf einer Straße in Moskau vor der Parade zum Tag des Sieges"
+      "title": "Israels neue Propagandaoffensive: Gen Z im Visier",
+      "teaser": "Israels Regierung setzt auf Gen Z. Millionendeal mit konservativer Medienfirma Clock Tower. Wird ChatGPT bald israelfreundlicher?",
+      "url": "https://www.heise.de/tp/features/Israels-neue-Propagandaoffensive-Gen-Z-im-Visier-10723605.html",
+      "image_title": "Flagge Israels"
     },
     {
       "title": "Wenn ChatGPT einkauft: Wie Agentic Commerce die Zukunft des Handels gestaltet",
