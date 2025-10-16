@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-16T16:12:59",
+  "timestamp": "2025-10-16T17:09:09",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
     {
       "type": "module",
       "src": "https://www.sueddeutsche.de/szde-assets/js/header-full-433216b2914909bb9c7c.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
       "id": null,
       "text": null
     }
@@ -68,6 +74,11 @@
       "image_url": "https://www.sueddeutsche.de/2025/10/16/4dde00ee-34a5-49a3-abd1-cded272d7c38.jpg?rect=167,0,2667,2000&width=115&fm=jpeg&q=60"
     },
     {
+      "title": "SZ PlusFörderung der E-Mobilität:Union kritisiert SPD-Pläne für Verbrenner-Dienstwagen",
+      "url": "https://www.sueddeutsche.de/wirtschaft/foerderung-der-e-mobilitaet-union-kritisiert-spd-plaene-fuer-verbrenner-dienstwagen-li.3326583",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/ee962adb-a200-42e7-852b-9353549cd896.jpg?rect=222,0,3556,2667&width=115&fm=jpeg&q=60"
+    },
+    {
       "title": "LiveKrieg in Nahost:Israel droht Hamas mit Wiederaufnahme der Kämpfe",
       "url": "https://www.sueddeutsche.de/politik/nahost-liveblog-news-gaza-israel-hamas-leichen-li.3321949",
       "image_url": "https://www.sueddeutsche.de/2025/10/16/fe35ee4b-011d-4648-aacc-f307e9ebe12d.jpg?rect=46,155,1174,881&width=115&fm=jpeg&q=60"
@@ -78,36 +89,22 @@
       "image_url": "https://www.sueddeutsche.de/2025/10/16/0f3b621e-f486-453b-a304-9b0fa223bf9a.jpg?rect=189,0,3395,2546&width=115&fm=jpeg&q=60"
     },
     {
-      "title": "SZ PlusFrankreich:Misstrauensvotum überstanden: Jetzt kann Lecornu regieren",
-      "url": "https://www.sueddeutsche.de/politik/frankreich-lecornu-misstrauensantraege-ueberstanden-regieren-li.3326535",
-      "image_url": "https://www.sueddeutsche.de/2025/10/16/092dced2-f9d5-40e7-8b6b-113989b86c3f.jpg?rect=181,407,1596,1197&width=115&fm=jpeg&q=60"
-    },
-    {
-      "title": "Live:„Mit Polemik werden wir nicht verteidigungsfähig“",
-      "teaser": "CDU-Verteidigungspolitiker Röttgen verteidigt das gescheiterte Lotterie-Modell für den Wehrdienst – und greift die Grünen für ihre scharfe Kritik an der Idee an.",
-      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-bundestag-wehrpflicht-pistorius-lotterie-roettgen-li.3323200",
-      "image_url": "https://www.sueddeutsche.de/2025/10/16/d50eaac1-4065-44e6-8d14-05d29ed6a3d9.jpg?rect=0,209,4000,2250&width=1000&fm=jpeg&q=60"
-    },
-    {
-      "title": "Fünf Erkenntnisse zu Merz’ Regierungserklärung",
-      "teaser": "Der Bundeskanzler spricht über Europa, Russland und Wettbewerbsfähigkeit – während die Opposition Antworten auf ganz andere Fragen erwartet.",
-      "url": "https://www.sueddeutsche.de/politik/bundestag-merz-regierungserklaerung-koalition-eu-herausforderungen-li.3326162"
-    },
-    {
       "title": "Meinung:Merz sollte stärker auf seine Wortwahl achten",
       "url": "https://www.sueddeutsche.de/meinung/merz-migration-stadtbild-kommentar-li.3326576",
       "image_url": "https://www.sueddeutsche.de/2024/07/15/59270f02-2427-49b6-aec5-a1223520bcb4.png?width=45&ar=1:1&fit=crop&fm=png&q=60",
       "image_title": "Portrait Leiter der Parlamentsredaktion Nicolas Richter"
     },
     {
-      "title": "ExklusivGleiss-Lutz-Report:Ministerium und Aufsicht bei Bahn-Sicherheit im Blindflug",
-      "teaser": "Seit sechs Wochen liegt bei der Deutschen Bahn ein 340-Seiten-Report über Sicherheitsmängel im Schienennetz vor. Doch der Bund kennt nur eine Kurzfassung – und bekam vorher von den Missständen gar nichts mit.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/garmisch-bahn-unglueck-ministerium-eba-bericht-li.3326503",
-      "image_url": "https://www.sueddeutsche.de/2022/06/17/1331b236-4e80-41fe-9310-f733d138414a.jpeg?rect=0,34,1478,831&width=630&fm=jpeg&q=60"
+      "title": "SZ Plus:Fünf Erkenntnisse zu Merz’ Regierungserklärung",
+      "url": "https://www.sueddeutsche.de/politik/bundestag-merz-regierungserklaerung-koalition-eu-herausforderungen-li.3326162"
     },
     {
-      "title": "Neue Überweisungsregeln:Schreib meinen Namen",
-      "teaser": "Seit einer Woche gleichen Banken ab, ob die IBAN und der Kontoinhaber übereinstimmen. Vereinzelt sind Kunden verwirrt. Aber alles ist ganz einfach, wenn man ein paar Dinge beachtet.",
+      "title": "Live:„Mit Polemik werden wir nicht verteidigungsfähig“",
+      "url": "https://www.sueddeutsche.de/politik/bundesregierung-liveblog-bundestag-wehrpflicht-pistorius-lotterie-roettgen-li.3323200"
+    },
+    {
+      "title": "Neue Überweisungsregeln:Schreib meinen Namen – aber richtig",
+      "teaser": "Seit einer Woche gleichen Banken ab, ob die IBAN und der Kontoinhaber übereinstimmen. Manche Kunden sind verwirrt. Was man nun beachten sollte.",
       "url": "https://www.sueddeutsche.de/wirtschaft/ueberweisungen-namen-banken-betrug-eu-verordnung-empfaengerpruefung-li.3320665",
       "image_url": "https://www.sueddeutsche.de/2025/01/10/e8560ede-2379-4a4e-bdb5-a6cf1feb4af1.jpeg?rect=0,156,3000,1687&width=630&fm=jpeg&q=60"
     },
@@ -116,31 +113,54 @@
       "url": "https://www.sueddeutsche.de/meinung/banken-ueberweisungen-eu-kommentar-li.3325788"
     },
     {
+      "title": "MeinungBücher:Junge Frauen lesen wieder viel. Und doch: Das ist vor allem tragisch",
+      "url": "https://www.sueddeutsche.de/meinung/new-adult-buecher-hype-kommentar-li.3325678",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/1780f053-4808-49b7-aa83-0cba5e511f24.jpg?rect=0,0,4000,2250&width=630&fm=jpeg&q=60"
+    },
+    {
+      "title": "Grüner Kapitalismus:Strategische Überforderung",
+      "teaser": "Nichts beunruhigt so viele Menschen so sehr wie der Klimawandel – trotzdem passiert fast nichts, um ihn abzumildern. Der Berliner Soziologe Philipp Staab analysiert scharfsinnig, warum es uns so schwerfällt, uns aus dieser paradoxen Situation zu befreien.",
+      "url": "https://www.sueddeutsche.de/kultur/philipp-staab-systemkrise-rezension-klimakrise-li.3316920"
+    },
+    {
+      "title": "Frankfurter Buchmesse:Weißwein jetzt im Schlösschen",
+      "teaser": "Suhrkamp lädt erstmals nicht in die veräußerte Verlagsvilla zum Kritikerempfang. Durch die neuen Räume weht viel traditioneller Wind – und Hans Ulrich Gumbrecht gibt Einblicke in seine Wahlheimat Amerika unter Trump.",
+      "url": "https://www.sueddeutsche.de/kultur/suhrkamp-verlag-empfang-frankfurter-buchmesse-li.3316870"
+    },
+    {
+      "title": "ExklusivNeuer Plan für Großmarkthalle:Mitten in München sollen Tausende günstige Wohnungen gebaut werden",
+      "teaser": "Auf dem riesigen Gelände der Großmarkthalle wird seit Jahrzehnten Obst und Gemüse gehandelt. Mit den Grünen verabschiedet sich nun die erste große Partei von dem Standort. Wie das Viertel in Zukunft aufblühen könnte.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-grossmarkthalle-guenstige-wohnungen-neubau-bueschl-neuer-plan-li.3325770",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/f10eb496-3d6a-47dd-9b17-28a3b8cf9988.jpg?rect=0,0,4000,2250&width=630&fm=jpeg&q=60"
+    },
+    {
       "title": "Namensrecht:Wie Gerichte mit verunglückten Vornamen umgehen",
       "teaser": "Eltern sind bei der Namenswahl kreativer geworden. Das ist nicht nur eine gute Nachricht.",
       "url": "https://www.sueddeutsche.de/projekte/artikel/panorama/vornamen-kreativ-recht-justiz-gerichte-e333362/",
       "image_url": "https://www.sueddeutsche.de/2025/10/16/2fe673d1-1c21-4fcb-bf60-ff89b8b7525a.jpg?rect=331,238,3155,1775&width=630&fm=jpeg&q=60"
     },
     {
-      "title": "Schwedischer Fußball:Das Wunder der Heringserwürger",
-      "teaser": "Sie spielen, wo die Welt endet und das Meer anfängt: Ein winziger Klub aus der 1300-Seelen-Gemeinde Mjällby steht unmittelbar vor dem Gewinn der schwedischen Fußballmeisterschaft. Wie das Unmögliche gelingen konnte?",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/sport/mjaellby-schweden-fussballmaerchen-ortsbesuch-e578586/",
-      "image_url": "https://www.sueddeutsche.de/2025/10/16/1faddcf3-82b3-46f9-8efe-593a8ae12c35.jpg?rect=0,208,4000,2249&width=630&fm=jpeg&q=60"
-    },
-    {
-      "title": "Bücher:Junge Frauen lesen wieder viel. Und doch: Das ist vor allem tragisch",
-      "url": "https://www.sueddeutsche.de/meinung/new-adult-buecher-hype-kommentar-li.3325678",
-      "image_url": "https://www.sueddeutsche.de/2025/10/16/1780f053-4808-49b7-aa83-0cba5e511f24.jpg?rect=0,26,4000,2250&width=630&fm=jpeg&q=60"
+      "title": "Bequem radeln:„Eigentlich sitzt fast niemand optimal auf dem Fahrrad“",
+      "teaser": "Bikefitter Kim Alexander Tofaute arbeitet seit 20 Jahren mit Alltagsradlern und Profis. Und zeigt, wie man mit einfachen Tricks Schmerzen vermeiden kann.",
+      "url": "https://www.sueddeutsche.de/auto/fahrradfahren-bikefitting-sattelhoehe-sitzposition-li.3315966",
+      "image_url": "https://www.sueddeutsche.de/2025/09/22/42023189-d39f-4148-8546-da39ed071476.jpg?rect=0,209,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
       "title": "Öffentlich-Rechtliche:Das Programm gefällt Ihnen nicht? Beschweren Sie sich",
-      "url": "https://www.sueddeutsche.de/meinung/oerr-ard-zdf-rundfunkbeitrag-gerichte-kommentar-li.3326398"
+      "url": "https://www.sueddeutsche.de/meinung/oerr-ard-zdf-rundfunkbeitrag-gerichte-kommentar-li.3326398",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/7a19953c-e4c4-4dee-b17e-4bd5ee30b40e.jpg?rect=0,0,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
       "title": "Gesundheit:Ja, die Deutschen können vom Alkohol loskommen – und das sollten sie",
       "url": "https://www.sueddeutsche.de/meinung/alkoholkonsum-deutschland-rueckgang-auswirkungen-kommentar-li.3325763",
       "image_url": "https://www.sueddeutsche.de/2024/07/31/68b33321-1c2e-4433-bd9e-c7f183d5908d.png?width=45&ar=1:1&fit=crop&fm=png&q=60",
       "image_title": "Portrait Leitende Redakteurin, Wissen Christina Berndt"
+    },
+    {
+      "title": "Venezuela:Präsident Maduro muss weg. Aber nicht durch einen Umsturz, den die CIA anzettelt",
+      "url": "https://www.sueddeutsche.de/meinung/venezuela-maduro-trump-usa-cia-kommentar-li.3326539",
+      "image_url": "https://www.sueddeutsche.de/2024/07/15/ccde523c-321e-427a-a9ab-37764552e8d5.png?width=45&ar=1:1&fit=crop&fm=png&q=60",
+      "image_title": "Portrait undefined Benedikt Peters"
     },
     {
       "title": "Schauturnier in Saudi-Arabien:Tennis muss nicht von einer Persiflage des Profisports gerettet werden",
@@ -155,48 +175,48 @@
       "image_url": "https://www.sueddeutsche.de/2025/10/07/857b0fd6-9dd2-43fc-b1ad-4db8e520d719.jpg?rect=0,207,4000,2250&width=1000&fm=jpeg&q=60"
     },
     {
+      "title": "ExklusivGleiss-Lutz-Report:Ministerium und Aufsicht bei Bahn-Sicherheit im Blindflug",
+      "teaser": "Seit sechs Wochen liegt bei der Deutschen Bahn ein 340-Seiten-Report über Sicherheitsmängel im Schienennetz vor. Doch der Bund kennt nur eine Kurzfassung – und bekam vorher von den Missständen gar nichts mit.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/garmisch-bahn-unglueck-ministerium-eba-bericht-li.3326503",
+      "image_url": "https://www.sueddeutsche.de/2022/06/17/1331b236-4e80-41fe-9310-f733d138414a.jpeg?rect=0,34,1478,831&width=465&fm=jpeg&q=60"
+    },
+    {
       "title": "Stromversorgung:Warum das Sonnenland Italien kaum Solarkraft nutzt",
       "teaser": "Italien hat ideale Voraussetzungen, um grünen Strom zu gewinnen. Dennoch sind Photovoltaikanlagen weniger verbreitet als in Deutschland. Aber genau das könnte jetzt ein Vorteil sein.",
       "url": "https://www.sueddeutsche.de/wirtschaft/italien-solarenergie-wenig-genutzt-vorteil-li.3322893",
       "image_url": "https://www.sueddeutsche.de/2025/10/14/2b961f9c-c9fa-4f8b-9929-b4805d42c42d.jpg?rect=0,206,4000,2250&width=465&fm=jpeg&q=60"
     },
     {
-      "title": "Energie:Oben fließt Strom, unten der Verkehr",
-      "teaser": "Mit Photovoltaik-Modulen über der Fahrbahn werden Straßen zum Solarkraftwerk. Ist das die Zukunft?",
-      "url": "https://www.sueddeutsche.de/wissen/muenchen-solardach-flughafen-zubringer-strom-schutz-li.3319923",
-      "image_url": "https://www.sueddeutsche.de/2025/08/26/95fcc688-1061-4406-9aaa-872402129480.jpg?rect=0,110,4000,2250&width=465&fm=jpeg&q=60"
+      "title": "Schwedischer Fußball:Das Wunder der Heringserwürger",
+      "teaser": "Sie spielen, wo die Welt endet und das Meer anfängt: Ein winziger Klub aus der 1300-Seelen-Gemeinde Mjällby steht unmittelbar vor dem Gewinn der schwedischen Fußballmeisterschaft. Wie das Unmögliche gelingen konnte?",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/sport/mjaellby-schweden-fussballmaerchen-ortsbesuch-e578586/",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/1faddcf3-82b3-46f9-8efe-593a8ae12c35.jpg?rect=0,208,4000,2249&width=465&fm=jpeg&q=60"
     },
     {
       "title": "Tödliche Messerattacke in Aschaffenburg:„Er hat sich in einem Wahn befunden“",
       "teaser": "Ein kleiner Junge tot, der Mann, der ihm helfen wollte, ebenfalls. In Aschaffenburg beginnt das Verfahren gegen Enamullah O. Sein Anwalt sagt, er sei ein „sehr, sehr kranker Mensch“.",
-      "url": "https://www.sueddeutsche.de/bayern/aschaffenburg-messerattacke-kinder-park-schoental-prozess-enamullah-o-li.3326502",
-      "image_url": "https://www.sueddeutsche.de/2025/10/16/0a47bc81-576a-4cec-ad72-d732b4dd6afb.jpg?rect=0,365,3500,1969&width=465&fm=jpeg&q=60"
+      "url": "https://www.sueddeutsche.de/bayern/aschaffenburg-messerattacke-kinder-park-schoental-prozess-enamullah-o-li.3326502"
     },
     {
-      "title": "Madagaskar:Ist Madagaskars Protestbewegung am Ziel – oder schon wieder am Ende?",
-      "teaser": "Wochenlang demonstrieren Tausende junge Leute gegen die Regierung, dann übernimmt das Militär die Macht.",
-      "url": "https://www.sueddeutsche.de/politik/madagaskar-proteste-machtuebernahme-militaer-li.3326537"
-    },
-    {
-      "title": "Brandenburg:Von links in die Brandmauer gebohrt",
-      "teaser": "Im brandenburgischen Steinhöfel will ein Mitglied der Linken mit einem Mitglied der AfD eine Fraktion bilden. Das sorgt für Unruhe in beiden Parteien. Ungewöhnlich ist es aber nur aus einem Grund.",
-      "url": "https://www.sueddeutsche.de/politik/brandenburg-steinhoefel-brandmauer-linke-afd-zusammenarbeit-li.3326554"
-    },
-    {
-      "title": "ExklusivNeuer Plan für Großmarkthalle:Mitten in München sollen Tausende günstige Wohnungen gebaut werden",
-      "teaser": "Auf dem riesigen Gelände der Großmarkthalle wird seit Jahrzehnten Obst und Gemüse gehandelt. Mit den Grünen verabschiedet sich nun die erste große Partei von dem Standort. Wie das Viertel in Zukunft aufblühen könnte.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-grossmarkthalle-guenstige-wohnungen-neubau-bueschl-neuer-plan-li.3325770",
-      "image_url": "https://www.sueddeutsche.de/2025/10/16/f10eb496-3d6a-47dd-9b17-28a3b8cf9988.jpg?rect=0,0,4000,2250&width=630&fm=jpeg&q=60"
+      "title": "Wehrdienst in Dänemark:99 Prozent Freiwillige und etwas Zufall",
+      "teaser": "Per Losverfahren zum Wehrdienst? In Dänemark gilt das schon. Allerdings wird bisher niemand gegen seinen Willen eingezogen, es gibt auch so genug Rekruten und Rekrutinnen.",
+      "url": "https://www.sueddeutsche.de/politik/daenemark-wehrpflicht-freiwillige-losverfahren-li.3326001"
     },
     {
       "title": "Prozess am Landgericht München:Mann zündet Wohnung an, in der Ex-Geliebte und Sohn schlafen",
+      "teaser": "Der 31-Jährige, der Schulden und eine Vorliebe für teure Autos hat, soll so versucht haben, sich den Unterhaltsverpflichtungen zu entziehen. Die Staatsanwaltschaft wirft ihm nun zweifachen versuchten Mord vor.",
       "url": "https://www.sueddeutsche.de/muenchen/prozess-taufkirchen-brand-versuchter-mord-frau-und-kind-li.3324428",
-      "image_url": "https://www.sueddeutsche.de/2024/03/26/8e03cd4f-21df-42da-a623-3f1f50091cc7.jpeg?rect=75,0,1200,900&width=217&fm=jpeg&q=60"
+      "image_url": "https://www.sueddeutsche.de/2024/03/26/8e03cd4f-21df-42da-a623-3f1f50091cc7.jpeg?rect=0,70,1350,759&width=630&fm=jpeg&q=60"
     },
     {
       "title": "Initiative „Hochhausstopp“:Niederlage für Gegner der Hochhauspläne an der Paketposthalle",
       "url": "https://www.sueddeutsche.de/muenchen/muenchen-paketposthalle-neubau-tuerme-initiative-hochhausstopp-robert-brannekaemper-csu-niederlage-li.3326813",
       "image_url": "https://www.sueddeutsche.de/2024/12/10/d2d633a7-d4da-42f0-893e-cee0087f806a.jpeg?rect=256,0,1536,1152&width=217&fm=jpeg&q=60"
+    },
+    {
+      "title": "Sturz ins Wasser:Springbrunnen an der Staatskanzlei: Unfallopfer ist tot",
+      "url": "https://www.sueddeutsche.de/muenchen/unfall-staatskanzlei-muenchen-mann-tot-li.3326677",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/89e77c68-b27f-4cc5-b3bb-d4d6b7c171d1.jpg?rect=222,0,3556,2667&width=217&fm=jpeg&q=60"
     },
     {
       "title": "Sportpolitik:Eine Anlaufstelle, die viele Opfer sehnsüchtig erwarten",
@@ -275,10 +295,28 @@
       "image_url": "https://www.sueddeutsche.de/2025/09/10/6ee12a8c-f83f-4119-9a4d-12cc1d912ccf.jpg?rect=292,129,1714,1285&width=217&fm=jpeg&q=60"
     },
     {
+      "title": "Kulturtipps:Zum Sehen, zum Lesen, zum Hören",
+      "teaser": "Keanu Reeves als Engel, drei Texte der jungen Virginia Wolf und eine Netflix-Serie, die die Geschichte einer Brauereidynastie beleuchtet. Neun Empfehlungen für ein unterhaltsames Wochenende.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/kultur/kultur-empfehlungen-serien-filme-buecher-podcast-e507648/",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/4cedb1a6-4a29-457f-be9b-17502c791d0b.jpg?rect=0,0,4000,2250&width=630&fm=jpeg&q=60"
+    },
+    {
       "title": "Leute:„Das ständige Gaslighting meines Ex-Ehemannes ist extrem verletzend und anstrengend“",
       "teaser": "Britney Spears wehrt sich gegen Anschuldigungen von Kevin Federline, Kim Kardashian verkauft jetzt haarige Unterwäsche, und Prinz Louis darf seine Leidenschaft für Kastanien nicht zum Beruf machen.",
       "url": "https://www.sueddeutsche.de/panorama/promi-news-britney-spears-kevin-federline-kim-kardashian-prinz-louis-li.3326508",
       "image_url": "https://www.sueddeutsche.de/2025/10/16/dd64a1a7-3a23-403f-ad37-ba5d3b1f4b39.jpg?rect=0,124,1403,789&width=630&fm=jpeg&q=60"
+    },
+    {
+      "title": "ARD:Schatz, sie zeigen unser’n Film",
+      "teaser": "Zwei Filmemacher wollen ihr Debüt bei Festivals einreichen und stellen fest: Das hat schon jemand getan. Die Doku „Der talentierte Mr. F.“ zeigt ihre Jagd auf den Dieb – mit überraschenden Wendungen.",
+      "url": "https://www.sueddeutsche.de/medien/der-talentierte-mr-f-ard-mediathek-li.3325175",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/45d2f0c5-f849-4613-b256-5a3f2ec5cd78.jpg?rect=0,0,2953,1661&width=465&fm=jpeg&q=60"
+    },
+    {
+      "title": "SZ MagazinReise:Wie ich Venedig nicht lieben wollte – und einfach nicht anders konnte",
+      "teaser": "Ja Kitsch-Alarm, ja Touristenmassen: Doch eine Schönheit wie diese kriegt nichts klein, stellt unsere Autorin bei ihrem allerersten Besuch der Lagunenstadt fest.",
+      "url": "https://sz-magazin.sueddeutsche.de/reise/boote-venedig-verhuellt-95514",
+      "image_url": "https://www.sueddeutsche.de/2025/10/14/0a5fba40-5f84-493a-bc02-d778abc5a178.jpg?rect=0,86,853,480&width=465&fm=jpeg&q=60"
     },
     {
       "title": "Kino:Ein Laborexperiment mit Cancel-Culture",
@@ -608,6 +646,11 @@
       "image_url": "https://www.sueddeutsche.de/2025/10/07/c1caebe7-2176-415c-b712-61223c4f5fa8.jpg?rect=44,375,1829,1371&width=217&fm=jpeg&q=60"
     },
     {
+      "title": "SZ PlusEssen und Trinken:„Ein Taco sollte in drei Bissen gegessen werden“",
+      "url": "https://sz-magazin.sueddeutsche.de/essen-und-trinken/mexiko-kueche-taco-quesadilla-burito-95506",
+      "image_url": "https://www.sueddeutsche.de/2025/10/08/204c448e-1748-4f08-ae28-9b04a364fd2a.jpg?rect=0,898,2667,2000&width=217&fm=jpeg&q=60"
+    },
+    {
       "title": "SZ PlusLiteratur:„Ich musste über diesen Wahnsinn schreiben“",
       "url": "https://sz-magazin.sueddeutsche.de/literatur/arundhati-roy-literatur-mutter-95487",
       "image_url": "https://www.sueddeutsche.de/2025/10/09/742b0c5a-fe4d-42d3-b2df-c923f2542769.jpg?rect=0,368,1400,1050&width=217&fm=jpeg&q=60"
@@ -643,20 +686,20 @@
       "image_url": "https://www.sueddeutsche.de/2025/09/26/51d31f3d-e31e-44eb-83ef-e354f528288d.jpg?rect=0,85,3004,2253&width=217&fm=jpeg&q=60"
     },
     {
+      "title": "Heimbewohnerin stirbt nach Insulingabe:Pfleger wegen Körperverletzung mit Todesfolge verurteilt",
+      "teaser": "Die Schwurgerichtskammer des Landshuter Landgerichts hält den Mordvorwurf gegen einen Pfleger mit autistischer Störung, der in seinem Job fehl am Platz gewesen sei, für nicht angemessen – und bemängelt die staatlichen Kontrollmechanismen.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-landshut-landgericht-prozess-mord-koerperverletzung-seniorenheim-pfleger-li.3326651",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/76b8b5f9-d669-42e5-bc9b-c2923965cc1d.jpg?rect=0,0,4000,2250&width=630&fm=jpeg&q=60"
+    },
+    {
       "title": "Politik in Bayern:Wenn die Gemeinderätin mal eine Auszeit braucht",
-      "teaser": "Die Grünen fordern, dass sich kommunale Mandatsträger bei längerer Abwesenheit vertreten lassen können. Das ist Teil eines Ideenpakets zur „Stärkung der Demokratie“ in Städten und Gemeinden. Im Landtag wird der Gesetzentwurf von allen anderen Fraktionen zerpflückt.",
       "url": "https://www.sueddeutsche.de/bayern/bayern-landtag-gruene-kommunalpolitik-li.3326563",
-      "image_url": "https://www.sueddeutsche.de/2023/05/09/e523e015-346b-47d0-b678-3b9db81f3046.jpeg?rect=0,64,1371,771&width=630&fm=jpeg&q=60"
+      "image_url": "https://www.sueddeutsche.de/2023/05/09/e523e015-346b-47d0-b678-3b9db81f3046.jpeg?rect=86,0,1200,900&width=217&fm=jpeg&q=60"
     },
     {
       "title": "Rott am Inn in Oberbayern:Blockade bei Flüchtlingsunterkunft - wegen Sanitäranlagen",
       "url": "https://www.sueddeutsche.de/bayern/bayern-rott-am-inn-fluechtlinge-unterkunft-blockade-li.3326211",
       "image_url": "https://www.sueddeutsche.de/2024/11/27/3da06575-afcd-40c3-a189-742ba10ea677.jpeg?rect=0,0,4000,3000&width=217&fm=jpeg&q=60"
-    },
-    {
-      "title": "Rita Falks Roman „Apfelstrudel-Alibi“:An diesem Krimi nagt der Zahn der Zeit",
-      "url": "https://www.sueddeutsche.de/bayern/rita-falk-eberhofer-neuer-krimi-apfelstrudel-alibi-muenchen-lesung-li.3319071",
-      "image_url": "https://www.sueddeutsche.de/2023/09/12/1b197008-7311-4b9a-a4ae-4a1261a9aa5e.jpeg?rect=101,16,1091,818&width=217&fm=jpeg&q=60"
     },
     {
       "title": "ExklusivPlan der Parteispitze:Wie die Grünen ihren Klimakurs verschärfen wollen",
@@ -784,9 +827,9 @@
       "image_url": "https://www.sueddeutsche.de/2025/10/07/3a9c7cf4-7c54-4c2e-bdf3-cf52bd68c38b.jpg?rect=0,865,2670,2003&width=217&fm=jpeg&q=60"
     },
     {
-      "title": "Kulturtipps:Zum Sehen, zum Lesen, zum Hören",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/kultur/kultur-empfehlungen-serien-filme-buecher-podcast-e507648/",
-      "image_url": "https://www.sueddeutsche.de/2025/10/16/4cedb1a6-4a29-457f-be9b-17502c791d0b.jpg?rect=500,0,3000,2250&width=217&fm=jpeg&q=60"
+      "title": "SZ PlusLiteratur und Kunstfreiheit:Die Räume werden enger",
+      "url": "https://www.sueddeutsche.de/kultur/kunstfreiheit-roman-verbote-persoenlichkeitsrechte-verlage-li.3316868",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/8c5637dd-ca09-4d64-b651-a028b467bdfd.png?rect=240,0,1440,1080&width=217&fm=png&q=60"
     },
     {
       "title": "Medien in den USA:„Ein schwarzer Tag für die Pressefreiheit“",
@@ -795,14 +838,14 @@
       "image_url": "https://www.sueddeutsche.de/2025/10/16/d52b8d64-36b7-4862-bec9-0a385fed0e9f.jpg?rect=0,209,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
-      "title": "ARD:Schatz, sie zeigen unser’n Film",
-      "url": "https://www.sueddeutsche.de/medien/der-talentierte-mr-f-ard-mediathek-li.3325175",
-      "image_url": "https://www.sueddeutsche.de/2025/10/16/45d2f0c5-f849-4613-b256-5a3f2ec5cd78.jpg?rect=149,0,2599,1949&width=217&fm=jpeg&q=60"
-    },
-    {
       "title": "SZ PlusFernsehen:„Es ist lustig, wie berechenbar das Ganze ist“",
       "url": "https://www.sueddeutsche.de/medien/tiktok-levi-penell-hart-aber-fair-bild-li.3325509",
       "image_url": "https://www.sueddeutsche.de/2025/10/14/7f2057aa-a222-4fd8-ab90-5a9b0e52367d.jpg?rect=223,0,3555,2666&width=217&fm=jpeg&q=60"
+    },
+    {
+      "title": "SZ PlusDokuserie über Martin Scorsese:Ein Leben voller Cliffhanger",
+      "url": "https://www.sueddeutsche.de/medien/mr-scorsese-doku-martin-apple-tv-kritik-li.3323997",
+      "image_url": "https://www.sueddeutsche.de/2025/10/16/8073e007-baa9-46f8-a79f-d1f2e1247956.jpg?rect=407,0,3568,2676&width=217&fm=jpeg&q=60"
     },
     {
       "title": "Fernsehen:So ein Schmarrn",
@@ -936,14 +979,14 @@
       "image_url": "https://www.sueddeutsche.de/2025/10/15/36adf3ab-90cd-452a-8cd0-560a19d5084f.jpg?rect=0,207,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
+      "title": "Energie:Oben fließt Strom, unten der Verkehr",
+      "url": "https://www.sueddeutsche.de/wissen/muenchen-solardach-flughafen-zubringer-strom-schutz-li.3319923",
+      "image_url": "https://www.sueddeutsche.de/2025/08/26/95fcc688-1061-4406-9aaa-872402129480.jpg?rect=354,0,3292,2469&width=217&fm=jpeg&q=60"
+    },
+    {
       "title": "Corona:Zahl der Covid-Fälle gestiegen",
       "url": "https://www.sueddeutsche.de/wissen/rki-wochenbericht-corona-zahlen-anstieg-li.3326545",
       "image_url": "https://www.sueddeutsche.de/2023/11/05/2d67f53b-2811-4734-91ff-b30fc804f7c7.jpeg?rect=76,0,1200,900&width=217&fm=jpeg&q=60"
-    },
-    {
-      "title": "Wetter in Deutschland:So weit so normal?",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/wetter/hitze-temperatur-deutschland-vergleich-karte-e360874/",
-      "image_url": "https://www.sueddeutsche.de/2025/07/02/6580e8a7-d35e-4a19-984f-0c7cf265e36b.png?rect=260,0,1558,1169&width=217&fm=png&q=60"
     },
     {
       "title": "„Ewigkeitschemikalien“:PFAS in Speisefisch: Grund zur Sorge, aber nicht zur Panik",
@@ -1026,36 +1069,36 @@
       "image_url": "https://www.sueddeutsche.de/2025/10/09/36070023-1262-4406-98a7-af21734d26de.jpg?rect=222,0,3556,2667&width=217&fm=jpeg&q=60"
     },
     {
-      "title": "Tierseuche:Vogelgrippeausbruch - Landkreis verhängt Schutzmaßnahmen",
-      "url": "https://www.sueddeutsche.de/wissen/tierseuche-vogelgrippeausbruch-landkreis-verhaengt-schutzmassnahmen-dpa.urn-newsml-dpa-com-20090101-251016-930-171016"
+      "title": "Streit in Salzgitter:Nachbar mit Schreckschusswaffe bedroht",
+      "url": "https://www.sueddeutsche.de/panorama/streit-in-salzgitter-nachbar-mit-schreckschusswaffe-bedroht-dpa.urn-newsml-dpa-com-20090101-251016-930-171640"
     },
     {
-      "title": "Mount Everest:Teilnehmer an Mount-Everest-Expedition von 1953 gestorben",
-      "url": "https://www.sueddeutsche.de/sport/mount-everest-teilnehmer-an-mount-everest-expedition-von-1953-gestorben-dpa.urn-newsml-dpa-com-20090101-251016-930-171516"
+      "title": "Nordwestbahn:Einkaufswagen verkeilt sich unter Regionalzug",
+      "url": "https://www.sueddeutsche.de/wirtschaft/nordwestbahn-einkaufswagen-verkeilt-sich-unter-regionalzug-dpa.urn-newsml-dpa-com-20090101-251016-930-171629"
     },
     {
-      "title": "Deutschlandweite Studie:Bildungstrend: Bremen Schlusslicht, Niedersachsen schwächelt",
-      "url": "https://www.sueddeutsche.de/bildung/deutschlandweite-studie-bildungstrend-bremen-schlusslicht-niedersachsen-schwaechelt-dpa.urn-newsml-dpa-com-20090101-251016-930-171086"
+      "title": "Neckargemünd:Mann tötet Käfer mit Feuerstrahl aus Deo und löst Brand aus",
+      "url": "https://www.sueddeutsche.de/panorama/neckargemuend-mann-toetet-kaefer-mit-feuerstrahl-aus-deo-und-loest-brand-aus-dpa.urn-newsml-dpa-com-20090101-251016-930-168903"
     },
     {
-      "title": "Ländervergleich:Schüler in Rheinland-Pfalz schwächeln bei Mathe und Physik",
-      "url": "https://www.sueddeutsche.de/bildung/laendervergleich-schueler-in-rheinland-pfalz-schwaecheln-bei-mathe-und-physik-dpa.urn-newsml-dpa-com-20090101-251016-930-171234"
+      "title": "Vogelgrippe:Tote Kraniche am Stausee Kelbra – Verdacht auf Vogelgrippe",
+      "url": "https://www.sueddeutsche.de/wissen/vogelgrippe-tote-kraniche-am-stausee-kelbra-verdacht-auf-vogelgrippe-dpa.urn-newsml-dpa-com-20090101-251016-930-171612"
     },
     {
-      "title": "Befragung:OECD-Studie warnt: Einsamkeit unter Jungen und Alten wächst",
-      "url": "https://www.sueddeutsche.de/leben/befragung-oecd-studie-warnt-einsamkeit-unter-jungen-und-alten-waechst-dpa.urn-newsml-dpa-com-20090101-251016-930-171498"
+      "title": "Mönchengladbach:Prozess um Kopfschuss am Bahnhof - Haftstrafe für Angreifer",
+      "url": "https://www.sueddeutsche.de/panorama/moenchengladbach-prozess-um-kopfschuss-am-bahnhof-haftstrafe-fuer-angreifer-dpa.urn-newsml-dpa-com-20090101-251016-930-171609"
     },
     {
-      "title": "Leute:„Körper ist am Ende“: Ayliva sagt Konzerte in Stuttgart ab",
-      "url": "https://www.sueddeutsche.de/panorama/leute-koerper-ist-am-ende-ayliva-sagt-konzerte-in-stuttgart-ab-dpa.urn-newsml-dpa-com-20090101-251016-930-171481"
+      "title": "Im Grenzgebiet zu Sachsen:Zwei Tote durch Schüsse in tschechischer Kleinstadt",
+      "url": "https://www.sueddeutsche.de/panorama/im-grenzgebiet-zu-sachsen-zwei-tote-durch-schuesse-in-tschechischer-kleinstadt-dpa.urn-newsml-dpa-com-20090101-251016-930-171594"
     },
     {
-      "title": "Abends ins Gericht:„Justiz-Cocktail“ im Kammergericht - abendlicher Streifzug",
-      "url": "https://www.sueddeutsche.de/panorama/abends-ins-gericht-justiz-cocktail-im-kammergericht-abendlicher-streifzug-dpa.urn-newsml-dpa-com-20090101-251016-930-171467"
+      "title": "Fotografie:Bilder des Tages",
+      "url": "https://www.sueddeutsche.de/kultur/fotografie-bilder-des-tages-dpa.urn-newsml-dpa-com-20090101-251015-930-167476"
     },
     {
-      "title": "Debatte:Streit um Annäherung an AfD flammt in Brandenburg auf",
-      "url": "https://www.sueddeutsche.de/politik/debatte-streit-um-annaeherung-an-afd-flammt-in-brandenburg-auf-dpa.urn-newsml-dpa-com-20090101-251016-930-171456"
+      "title": "Garten:Nabu empfiehlt Reinigung von Nistkästen im Herbst",
+      "url": "https://www.sueddeutsche.de/wirtschaft/garten-nabu-empfiehlt-reinigung-von-nistkaesten-im-herbst-dpa.urn-newsml-dpa-com-20090101-251016-930-171569"
     },
     {
       "title": "Historie:Wie die Deutschen ihr liebstes Urlaubsland entdeckten",
