@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-17T11:08:53",
+  "timestamp": "2025-10-17T12:19:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,15 +26,16 @@
   ],
   "articles": [
     {
+      "title": "Nach GroßangriffPaketmanager NPM schneidet alte Sicherheits-Zöpfe ab",
+      "teaser": "NPM hat bereits erste Schritte unternommen. Nutzer und Entwickler im NPM-Ökosystem müssen in den nächsten Wochen handeln.",
+      "url": "https://www.heise.de/news/Nach-Grossangriff-Paketmanager-NPM-schneidet-alte-Sicherheits-Zoepfe-ab-10767942.html",
+      "image_title": "Github-Logo an Gebäudewand"
+    },
+    {
       "title": "AlertDatenklau bei NetzwerkanbieterF5: Angreifer stehlen Code und Sicherheitslücken",
       "teaser": "Der Netzwerkausstatter vermutet staatliche Angreifer und hat dutzende Sicherheitsflicken veröffentlicht. Behörden warnen vor weiteren Angriffen.",
       "url": "https://www.heise.de/news/Datenklau-bei-Netzwerkanbieter-F5-Angreifer-stehlen-Code-und-Sicherheitsluecken-10767663.html",
       "image_title": "Kabel"
-    },
-    {
-      "title": "Wohl Tausende Opfer ausgespähtHandy-Spionage mit SS7",
-      "teaser": "Ein österreichisch-indonesisches Unternehmen ermöglicht die Überwachung von Mobilfunknutzern ohne Malware, aber mit tiefem Netzzugang.",
-      "url": "https://www.heise.de/news/Handy-Spionage-mit-SS7-Tausende-Opfer-wurden-wohl-ausgespaeht-10767347.html"
     },
     {
       "title": "AlertSamba bei bestimmter Konfiguration über kritische Lücke angreifbar",
@@ -75,6 +76,17 @@
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
+      "title": "iX-Workshop: ISO 27001 als Admin im Unternehmen praktisch umsetzen",
+      "teaser": "Administratoren und IT-Verantwortliche lernen ihre Rolle im ISMS kennen und trainieren, wie sie Maßnahmen der ISO 27001 technisch und organisatorisch umsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-als-Admin-im-Unternehmen-praktisch-umsetzen-10733886.html",
+      "image_title": "iX-Workshop ISO 27001 für Admins – ISMS praktisch umsetzen"
+    },
+    {
+      "title": "Adobe Experience Manager: Ältere Lücke im Visier von Angreifern",
+      "teaser": "Die US-Behörde CISA meldet aktive Angriffe auf eine schon im August geschlossene kritische AEM-Lücke. Wer das Update versäumt hat, sollte es umgehend nachholen.",
+      "url": "https://www.heise.de/news/Adobe-Experience-Manager-Aeltere-Luecke-im-Visier-von-Angreifern-10777560.html"
+    },
+    {
       "title": "IP-Telefonie: Cisco und Ubiquiti stellen Sicherheits-Updates bereit",
       "teaser": "Aktualisierungen für Ubiquitis UniFi Talk sowie für mehrere IP-Telefonserien von Cisco schließen Sicherheitslücken mit \"High\"-Einstufung.",
       "url": "https://www.heise.de/news/IP-Telefonie-Cisco-und-Ubiquiti-stellen-Sicherheits-Updates-bereit-10776154.html"
@@ -109,12 +121,6 @@
       "image_title": "Notebook mit Tails 7.0"
     },
     {
-      "title": "Nach Großangriff: Paketmanager NPM schneidet alte Sicherheits-Zöpfe ab",
-      "teaser": "Bereits vor einigen Tagen starteten erste Schritte, weitere sollen folgen. Nutzer und Entwickler im NPM-Ökosystem müssen in den nächsten Wochen handeln.",
-      "url": "https://www.heise.de/news/Nach-Grossangriff-Paketmanager-NPM-schneidet-alte-Sicherheits-Zoepfe-ab-10767942.html",
-      "image_title": "Github-Logo an Gebäudewand"
-    },
-    {
       "title": "Chrome, Firefox und Thunderbird: Updates beseitigen potenzielle Einfallstore",
       "teaser": "Frische Releases schließen Sicherheitslücken in Browsern und E-Mail-Clients. Kritisch ist keine. Auch der neu veröffentlichte Firefox 144 enthält die Fixes.",
       "url": "https://www.heise.de/news/Chrome-Firefox-und-Thunderbird-Updates-beseitigen-potenzielle-Einfallstore-10769022.html",
@@ -125,6 +131,11 @@
       "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-10733868.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Handy-Spionage mit SS7: Tausende Opfer wurden wohl ausgespäht",
+      "teaser": "Ein österreichisch-indonesisches Unternehmen bietet die Überwachung von Mobilfunkkunden an. Malware ist dafür nicht nötig, aber weitreichender Netzzugriff.",
+      "url": "https://www.heise.de/news/Handy-Spionage-mit-SS7-Tausende-Opfer-wurden-wohl-ausgespaeht-10767347.html"
     },
     {
       "title": "US-Forscher belauschen unverschlüsselte Satellitenkommunikation",
@@ -153,18 +164,6 @@
       "title": "AlertPatchday XXL: Microsoft schließt teils aktiv attackierte Schwachstellen",
       "teaser": "Im Zuge einer besonders ausgiebigen Patchrunde hat Microsoft unter anderem kritische Azure- und Office-Lücken behoben sowie drei aktive Exploits ausgehebelt.",
       "url": "https://www.heise.de/news/Patchday-XXL-Microsoft-schliesst-teils-aktiv-attackierte-Schwachstellen-10764876.html"
-    },
-    {
-      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
-      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-10673516.html",
-      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
-    },
-    {
-      "title": "Data Poisoning bei LLMs: Feste Zahl Gift-Dokumente reicht für Angriff",
-      "teaser": "Eine neue Studie widerlegt eine alte Sicherheitsannahme. Nicht der prozentuale Anteil, sondern eine geringe, feste Anzahl an Gift-Daten kompromittiert LLMs.",
-      "url": "https://www.heise.de/news/Data-Poisoning-bei-LLMs-Feste-Zahl-Gift-Dokumente-reicht-fuer-Angriff-10764834.html",
-      "image_title": "Gift in einer Flasche mit Zettel, auf dem ein Totenkopf gemalt ist"
     },
     {
       "title": "Classroom | 10.11. – 08.12.2025Fortgeschrittenes Ethical Hacking – Deep Dive ins Pentesting für Admins",
