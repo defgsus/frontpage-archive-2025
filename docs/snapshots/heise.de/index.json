@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-18T09:09:02",
+  "timestamp": "2025-10-18T10:08:54",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kommentar: KI-Blase platzt – ja bitte!",
+      "url": "https://www.heise.de/meinung/Kommentar-KI-Blase-Platzen-bitte-10777708.html"
+    },
     {
       "title": "Auslegungssache: Wärmepumpen im Bestandshaus bewerten",
       "url": "https://www.heise.de/ratgeber/Auslegungssache-Waermepumpen-im-Bestandshaus-bewerten-10624150.html"
@@ -60,10 +64,6 @@
     {
       "title": "Top 10: Das beste USB-C-Ladegerät ab 65 W – Testsieger mit 100 W für 23 Euro",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-usb-c-ladegeraet-ab-65-w-testsieger-mit-100-w-fuer-23-euro/7cpzjbb"
-    },
-    {
-      "title": "BVG startet größtes Pilotprojekt für autonome Kleinbusse",
-      "url": "https://www.heise.de/news/BVG-startet-groesstes-Pilotprojekt-fuer-autonome-Kleinbusse-10778244.html"
     },
     {
       "title": "40 Jahre Intel 80386Der 386er – Intels wichtigstes Produkt",
@@ -180,20 +180,26 @@
       "url": "https://www.heise.de/news/Sicher-im-Internet-Wie-MullvadVPN-ProtonVPN-NordVPN-Co-helfen-c-t-uplink-10773762.html"
     },
     {
+      "title": "Kommentar: KI-Blase platzt – ja bitte!",
+      "teaser": "Obwohl der Crash die Aufbläer der KI-Aktienblase nicht am härtesten treffen wird, muss die Bubble endlich platzen. Ein Kommentar von Philipp Steevens.",
+      "url": "https://www.heise.de/meinung/Kommentar-KI-Blase-Platzen-bitte-10777708.html",
+      "image_title": "Rote Handelskurve, die nach unten zeigt"
+    },
+    {
       "title": "Auslegungssache: Wärmepumpen im Bestandshaus bewerten",
       "teaser": "Der Kauf eines Hauses mit Wärmepumpe hat den Vorteil, dass schon Daten zum realen Betrieb vorliegen. Eine schlechte Auslegung kann man jedoch kaum korrigieren.",
       "url": "https://www.heise.de/ratgeber/Auslegungssache-Waermepumpen-im-Bestandshaus-bewerten-10624150.html"
+    },
+    {
+      "title": "Hybrides UEM – der Schlüssel zu moderner IT-Sicherheit",
+      "teaser": "Eine heterogene IT-Landschaft effizient und sicher zu verwalten, ist herausfordernd. Aber es ist machbar mit hybriden UEM-Plattformen, mit denen sich Richtlinien zentral umsetzen lassen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7091827877&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Developer Snapshots: Kleinere News der Woche",
       "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Eclipse Theia, Prometheus, Crystal, Qt Design Studio, PyTorch, ripgrep, Cloud Canvas,",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10767159.html",
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
-    },
-    {
-      "title": "Digitales Vertrauen aufbauen und Cyber-Risiken senken",
-      "teaser": "Ob bei Cloud-Sicherheit, KI-Ethik oder Datenschutz – der Aufbau von digitalem Vertrauen ist nicht nur ein Schlagwort, sondern eine stetige Aufgabe. Ein globaler Berufsverband dient als Wegbereiter.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7077467230&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iX-Workshop: Souveräne Cloud – Strategien für digitale Unabhängigkeit",
@@ -221,12 +227,6 @@
       "title": "Top 10: Das beste USB-C-Ladegerät ab 65 W – Testsieger mit 100 W für 23 Euro",
       "teaser": "Starke Netzteile, die Smartphones, Tablets, Laptops und Macbooks per USB-C laden, gibt es schon unter 20 Euro. Wir zeigen die besten Ladegeräte ab 65 Watt.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-usb-c-ladegeraet-ab-65-w-testsieger-mit-100-w-fuer-23-euro/7cpzjbb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "BVG startet größtes Pilotprojekt für autonome Kleinbusse",
-      "teaser": "Fünf E-Kleinbusse starten im Berliner Nordwesten – noch ohne Fahrgäste. Was die BVG beim autonomen Fahren mit Testgruppen und App-Buchung vorhat.",
-      "url": "https://www.heise.de/news/BVG-startet-groesstes-Pilotprojekt-fuer-autonome-Kleinbusse-10778244.html",
-      "image_title": "Ein selbst fahrender ID.Buzz rollt durch die Stadt."
     },
     {
       "title": "ChatGPT & Co. als AnlageberaterWie Sie mit KI an der Börse Geld verdienen",
@@ -294,6 +294,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "BVG startet größtes Pilotprojekt für autonome Kleinbusse",
+      "teaser": "Fünf E-Kleinbusse starten im Berliner Nordwesten – noch ohne Fahrgäste. Was die BVG beim autonomen Fahren mit Testgruppen und App-Buchung vorhat.",
+      "url": "https://www.heise.de/news/BVG-startet-groesstes-Pilotprojekt-fuer-autonome-Kleinbusse-10778244.html",
+      "image_title": "Ein selbst fahrender ID.Buzz rollt durch die Stadt."
     },
     {
       "title": "Erster Blick auf die Vision Pro M5 | TNBT-Podcast",
@@ -365,14 +371,14 @@
       "image_title": "Mythic für den Mac"
     },
     {
+      "title": "Warum Sie jetzt Ihre Server modernisieren sollten",
+      "teaser": "Veraltete Technologien können die Produktivität hemmen, die Sicherheit gefährden und die Kosten in die Höhe treiben. Warum gerade jetzt ein guter Zeitpunkt ist, Ihre Server zu modernisieren.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-sie-jetzt-ihre-server-modernisieren-sollten-4968/?source=nat_teas"
+    },
+    {
       "title": "Adobe Experience Manager: Ältere Lücke im Visier von Angreifern",
       "teaser": "Die US-Behörde CISA meldet aktive Angriffe auf eine schon im August geschlossene kritische AEM-Lücke. Wer das Update versäumt hat, sollte es umgehend nachholen.",
       "url": "https://www.heise.de/news/Adobe-Experience-Manager-Aeltere-Luecke-im-Visier-von-Angreifern-10777560.html"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Brompton elektrifiziert T-Line: Der leichteste und teuerste Falter der Briten",
@@ -424,11 +430,6 @@
       "teaser": "Im agilen Podcast mit Ina Einemann und Sebastian Bauer spricht Simon Flossmann darüber, wie aktives Lernen und Interaktion nachhaltiges Wissen fördern.",
       "url": "https://www.heise.de/blog/Mein-Scrum-ist-kaputt-141-Training-from-the-Back-of-the-Room-10776099.html",
       "image_title": "Mein Scrum ist kaputt"
-    },
-    {
-      "title": "Alexa+: Wie Amazons Assistentin in der kommenden Plus-Variante tickt",
-      "teaser": "Noch immer ist Alexa+ nur begrenzt und ausschließlich in den USA verfügbar. c’t sprach mit dem Entwicklerteam über die KI-Technik und den Herausforderungen.",
-      "url": "https://www.heise.de/hintergrund/Alexa-Wie-Amazons-Assistentin-in-der-kommenden-Plus-Variante-tickt-10671901.html"
     },
     {
       "title": "\"Hey Copilot\" – Windows 11 bekommt lokale KI-Agenten",
@@ -599,19 +600,20 @@
       "url": "https://www.heise.de/en/news/Like-brushing-your-teeth-SAP-plans-continuous-job-cuts-10639836.html"
     },
     {
+      "title": "HeimkinotestLast Action Hero: Die letzte Mission Impossible von Tom Cruise",
+      "teaser": "Teil 7 und 8 sind auf UHD verfügbar. Ob der Action-Held im Stream und auf Disc ein makelloses Finale hinlegt, verrät unser Test.",
+      "url": "https://www.heise.de/tests/Last-Action-Hero-Die-letzte-Mission-Impossible-von-Tom-Cruise-im-Heimkinotest-10773499.html",
+      "image_title": "Szene aus Mission Impossible: Dead Reckoning"
+    },
+    {
+      "title": "c’t uplinkSicher im Internet: Wie MullvadVPN, ProtonVPN, NordVPN & Co. helfen",
+      "teaser": "Kommerzielle VPN-Anbieter versprechen, quasi alles Böse im Internet auszusperren. Wir diskutieren, was davon stimmt und wann ein eigenes VPN sinnvoll ist.",
+      "url": "https://www.heise.de/news/Sicher-im-Internet-Wie-MullvadVPN-ProtonVPN-NordVPN-Co-helfen-c-t-uplink-10773762.html"
+    },
+    {
       "title": "Sicher surfenNeun VPN-Anbieter im Vergleichstest",
       "teaser": "Die Entscheidung für oder gegen einen VPN-Anbieter stützt sich auf eine Mischung aus Wissen und Bauchgefühl. Wir liefern Anhaltspunkte für eine fundierte Wahl.",
       "url": "https://www.heise.de/ratgeber/Neun-VPN-Anbieter-in-der-Uebersicht-10637716.html"
-    },
-    {
-      "title": "Im Vergleich: Apple iPhone 17 vs. Google Pixel 10 und Samsung Galaxy S25",
-      "teaser": "Alle Welt schaut auf die teuren Pro- und Ultra-Modelle, doch die Basis bietet oft mehr fürs Geld. Das iPhone 17 legt mächtig zu und zeigt seine Qualitäten.",
-      "url": "https://www.heise.de/tests/Im-Vergleich-Apple-iPhone-17-vs-Google-Pixel-10-und-Samsung-Galaxy-S25-10661807.html"
-    },
-    {
-      "title": "c't 3003Sora 2 ist beeindruckend (und unangenehm)",
-      "teaser": "Sora 2 ist eher um ein TikTok-Klon – und zeigt das riesige Problem der KI-Branche.",
-      "url": "https://www.heise.de/news/Sora-2-ist-beeindruckend-und-unangenehm-10777838.html"
     },
     {
       "title": "Doppelkopf-SpeicherUSB-Sticks mit Steckern für USB-C und USB-A im Test",
@@ -732,22 +734,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-segway-ninebot-vor-xiaomi-und-egret/bgmnj08?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Forscher an die Front: Nordkoreas KI-Drohnen-Offensive",
-      "teaser": "Kim Jong Un erklärt künstliche Intelligenz zur \"obersten Priorität\" bei der Modernisierung seiner Streitkräfte. Waffenforscher sollen nun dauerhaft bei Luftwaffeneinheiten arbeiten.",
-      "url": "https://www.heise.de/tp/features/Forscher-an-die-Front-Nordkoreas-KI-Drohnen-Offensive-10752053.html",
-      "image_title": "Eine Drohne vor der nordkoreanischen Flagge"
-    },
-    {
-      "title": "Nexperia-Übernahme: Europas Autoindustrie plötzlich unter Druck",
-      "teaser": "Die niederländische Übernahme des Chipherstellers trifft BMW und VW. Auch Mercedes beobachtet die Lage mit Sorge.",
-      "url": "https://www.heise.de/tp/features/Nexperia-Uebernahme-Europas-Autoindustrie-ploetzlich-unter-Druck-10773425.html",
-      "image_title": "Logo der Marke BMW - Der Konzern ist vom Streit um Nexperia betroffen."
-    },
-    {
       "title": "Forschung warnt: Nanoplastik erreicht Tierzellen",
       "teaser": "Forscher weisen erstmals die winzigen Partikel in Rinder- und Schweinezellen nach. Auch Weizenwurzeln sind betroffen.",
       "url": "https://www.heise.de/tp/features/Forschung-warnt-Nanoplastik-erreicht-Tierzellen-10778284.html",
       "image_title": "Kühe und Schweine im Stall"
+    },
+    {
+      "title": "Steht uns eine Finanzkrise bevor – wegen eingefrorener russischer Gelder?",
+      "teaser": "Die EU will eingefrorene russische Vermögen für die Ukraine nutzen. Großbritannien und Kanada schließen sich an. Doch Belgien fordert Garantien.",
+      "url": "https://www.heise.de/tp/features/Steht-uns-eine-Finanzkrise-bevor-wegen-eingefrorener-russischer-Gelder-10765393.html",
+      "image_title": "EU-Zeichen vor der EZB in Frankfurt - Symbol dafür, dass die Nutzung russischer Gelder zu einer tiefgehenden Finanzkrise führen könnte."
+    },
+    {
+      "title": "Euro-7: Reifenabrieb wird zur neuen Umweltbaustelle",
+      "teaser": "Viele Hersteller stehen vor einem Problem: Für die neuen Grenzwerte fehlt noch die passende Prüfmethode für den Reifenabrieb.",
+      "url": "https://www.heise.de/tp/features/Euro-7-Reifenabrieb-wird-zur-neuen-Umweltbaustelle-10767611.html",
+      "image_title": "mehrere Autoreifen stehen nebeneinander"
     },
     {
       "title": "Dieser Test könnte Aufschluss über die Gesundheit Deines Immunsystems geben",
