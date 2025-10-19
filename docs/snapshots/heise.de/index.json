@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-19T10:08:58",
+  "timestamp": "2025-10-19T11:07:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-10750117.html"
+    },
     {
       "title": "China: USA hacken Smartphones, um Zeitbehörde anzugreifen",
       "url": "https://www.heise.de/news/China-USA-hacken-Smartphones-um-Zeitbehoerde-anzugreifen-10778482.html"
@@ -60,10 +64,6 @@
     {
       "title": "Lenovo Idea Tab im Test: Günstiges Tablet mit Stift und 11-Zoll-Display",
       "url": "https://www.heise.de/bestenlisten/testbericht/lenovo-idea-tab-im-test-guenstiges-tablet-mit-stift-und-11-zoll-display/qkl5494"
-    },
-    {
-      "title": "Retrocomputing mit Visual Studio Code",
-      "url": "https://www.heise.de/ratgeber/Retrocomputing-mit-Visual-Studio-Code-10630226.html"
     },
     {
       "title": "Missing LinkTaxi vs Uber – Lösen Mindesttarife für Mietwagen den Streit?",
@@ -186,21 +186,27 @@
       "url": "https://www.heise.de/news/Sicher-im-Internet-Wie-MullvadVPN-ProtonVPN-NordVPN-Co-helfen-c-t-uplink-10773762.html"
     },
     {
+      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
+      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-10750117.html",
+      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
+    },
+    {
       "title": "China: USA hacken Smartphones, um Zeitbehörde anzugreifen",
       "teaser": "Peking beschuldigt die US-Nachrichtendienstbehörde NSA, das nationale Zentrum zur Zeit-Verbreitung attackiert zu haben.",
       "url": "https://www.heise.de/news/China-USA-hacken-Smartphones-um-Zeitbehoerde-anzugreifen-10778482.html",
       "image_title": "Unbeschriftete Tasten einer Tastatur; eine zeigt die Flagge der USA, die andere der Volksrepublik China, die übrigens sind einfärbig hellgrau"
     },
     {
+      "title": "Schluss mit Lizenzfallen bei Remote Access",
+      "teaser": "Firmen möchten keine teuren Lizenzmodelle und starren Verträge beim IT-Support. Sie wollen eine Lösung, die sicher, flexibel und fair ist – und bei der sich Support nicht wie ein Hindernis anfühlt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7095375826&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Neue Bahnchefin kündigt kompletten Neuanfang an",
       "teaser": "Evelyn Palla will die Deutsche Bahn umkrempeln: Mehr Macht für Mitarbeitende vor Ort, weniger Bürokratie, Schluss mit schmuddeligen Zügen.",
       "url": "https://www.heise.de/news/Neue-Bahnchefin-kuendigt-kompletten-Neuanfang-an-10778472.html",
       "image_title": "Evelyn Palla"
-    },
-    {
-      "title": "Wie smartes Wohnen komfortabel wurde – ein Jubiläum",
-      "teaser": "Vom Pionier zum Spitzenreiter bei den Smart-Home-Systemen – Homematic IP feiert zehn Jahre Innovationen. Einfachheit und Sicherheit stehen bei Heizung, Haustür oder dem ganzen Gebäude im Fokus.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092575235&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "BioForge & Diablo: Reverse Engineering bringt alte Spiele in neuem Glanz zurück",
@@ -227,12 +233,6 @@
       "title": "Lenovo Idea Tab im Test: Günstiges Tablet mit Stift und 11-Zoll-Display",
       "teaser": "Das Lenovo Idea Tab bietet überraschend viel für wenig Geld: ein brillantes LC-Display mit 2,5K-Auflösung, ordentliche Ausstattung und sogar einen Stylus.",
       "url": "https://www.heise.de/bestenlisten/testbericht/lenovo-idea-tab-im-test-guenstiges-tablet-mit-stift-und-11-zoll-display/qkl5494?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Retrocomputing mit Visual Studio Code",
-      "teaser": "Das Interesse an Retrocomputing steigt. Programmierer entwickeln nicht auf Originalrechnern, sondern nutzen dazu Emulator-Plug-ins für Visual Studio Code.",
-      "url": "https://www.heise.de/ratgeber/Retrocomputing-mit-Visual-Studio-Code-10630226.html",
-      "image_title": ","
     },
     {
       "title": "ChatGPT & Co. als AnlageberaterWie Sie mit KI an der Börse Geld verdienen",
@@ -302,6 +302,12 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Retrocomputing mit Visual Studio Code",
+      "teaser": "Das Interesse an Retrocomputing steigt. Programmierer entwickeln nicht auf Originalrechnern, sondern nutzen dazu Emulator-Plug-ins für Visual Studio Code.",
+      "url": "https://www.heise.de/ratgeber/Retrocomputing-mit-Visual-Studio-Code-10630226.html",
+      "image_title": ","
+    },
+    {
       "title": "Last Call: c't-Webinar – Sicher durch den digitalen Zahlungsalltag",
       "teaser": "Wo Geld im Spiel ist, tummeln sich Kriminelle. Das gilt auch für die digitale Welt. Das Webinar hilft, Betrugsversuche zu erkennen und Schäden zu vermeiden.",
       "url": "https://www.heise.de/news/Last-Call-c-t-Webinar-Sicher-durch-den-digitalen-Zahlungsalltag-10751133.html"
@@ -367,15 +373,15 @@
       "image_title": "Ein selbst fahrender ID.Buzz rollt durch die Stadt."
     },
     {
+      "title": "Wie sieht die Zukunft der Videokonferenzen aus?",
+      "teaser": "Videokonferenzen gehören für die meisten Angestellten zum täglichen Alltag. Welche Trends, Techniken und Innovationen Sie im Auge behalten sollten, erfahren Sie in unserem aktuellen Themenspecial mit HP Poly.",
+      "url": "https://it-kenner.heise.de/zukunft-der-videokonferenzen//?source=hbsadersatz"
+    },
+    {
       "title": "Erster Blick auf die Vision Pro M5 | TNBT-Podcast",
       "teaser": "Die erste Hardware-Revision der Vision Pro ist da: Wir besprechen, was der M5-Chip und das (vermutlich) bequemere Kopfband wohl bringen.",
       "url": "https://www.heise.de/news/Erster-Blick-auf-die-Vision-Pro-M5-TNBT-Podcast-10778176.html",
       "image_title": "Erster Blick auf die Vision Pro M5 TNBT-Podcast"
-    },
-    {
-      "title": "So schützen Sie Ihre Anwendungen vor bösen Bots",
-      "teaser": "Bösartige Bots ahmen mit KI-Unterstützung menschliches Verhalten nach und versuchen, klassische Abwehrmaßnahmen auszutricksen. In einem Webcast erfahren Sie, wie Sie selbst KI nutzen können, um Bot-Angriffe in Echtzeit abzuwehren und Sicherheitsrisiken zu reduzieren.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/bad-bots-im-visier-echtzeit-schutz-vor-den-haeufigsten-angriffen-4970/?source=hbsad-ersatz"
     },
     {
       "title": "Fotografie: Unterwegs in der Normandie – auf den Spuren der Impressionisten",
@@ -427,12 +433,6 @@
       "teaser": "Administratoren und IT-Verantwortliche lernen ihre Rolle im ISMS kennen und trainieren, wie sie Maßnahmen der ISO 27001 technisch und organisatorisch umsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-als-Admin-im-Unternehmen-praktisch-umsetzen-10733886.html",
       "image_title": "iX-Workshop ISO 27001 für Admins – ISMS praktisch umsetzen"
-    },
-    {
-      "title": "smolBSD: Einfach ein eigenes BSD-System erstellen",
-      "teaser": "Mit smolBSD soll NetBSD als Basis für MicroVMs unter QEMU oder Firecracker tauglich werden. Das Projekt zeigt, wie einfach das Erzeugen von MicroVMs sein kann.",
-      "url": "https://www.heise.de/news/smolBSD-Einfach-ein-eigenes-BSD-System-erstellen-10777714.html",
-      "image_title": "BSD-Teufel, Schriftzug smolBSD, schwarzer Hintergrund"
     },
     {
       "title": "Data Poisoning bei LLMs: Feste Zahl Gift-Dokumente reicht für Angriff",
@@ -604,20 +604,19 @@
       "url": "https://www.heise.de/en/news/India-Billions-in-taxes-threaten-Apple-production-lobbying-the-state-10775436.html"
     },
     {
-      "title": "Im Vergleich: Apple iPhone 17 vs. Google Pixel 10 und Samsung Galaxy S25",
-      "teaser": "Alle Welt schaut auf die teuren Pro- und Ultra-Modelle, doch die Basis bietet oft mehr fürs Geld. Das iPhone 17 legt mächtig zu und zeigt seine Qualitäten.",
-      "url": "https://www.heise.de/tests/Im-Vergleich-Apple-iPhone-17-vs-Google-Pixel-10-und-Samsung-Galaxy-S25-10661807.html"
-    },
-    {
       "title": "c’t uplinkSicher im Internet: Wie MullvadVPN, ProtonVPN, NordVPN & Co. helfen",
       "teaser": "Kommerzielle VPN-Anbieter versprechen, quasi alles Böse im Internet auszusperren. Wir diskutieren, was davon stimmt und wann ein eigenes VPN sinnvoll ist.",
       "url": "https://www.heise.de/news/Sicher-im-Internet-Wie-MullvadVPN-ProtonVPN-NordVPN-Co-helfen-c-t-uplink-10773762.html"
     },
     {
-      "title": "Security: Wie WLAN-Geräte Passanten ausspionieren",
-      "teaser": "Verbundene WLAN-Geräte verraten dem Router auch etwas über die Umgebung. Variiert die Stärke der Funksignale, kann man damit sogar Passanten identifizieren.",
-      "url": "https://www.heise.de/hintergrund/Security-Wie-WLAN-Geraete-Passanten-ausspionieren-10773306.html",
-      "image_title": "Logo \"WLAN/WiFi\""
+      "title": "Im Vergleich: Apple iPhone 17 vs. Google Pixel 10 und Samsung Galaxy S25",
+      "teaser": "Alle Welt schaut auf die teuren Pro- und Ultra-Modelle, doch die Basis bietet oft mehr fürs Geld. Das iPhone 17 legt mächtig zu und zeigt seine Qualitäten.",
+      "url": "https://www.heise.de/tests/Im-Vergleich-Apple-iPhone-17-vs-Google-Pixel-10-und-Samsung-Galaxy-S25-10661807.html"
+    },
+    {
+      "title": "Last Call: c't-Webinar – Sicher durch den digitalen Zahlungsalltag",
+      "teaser": "Wo Geld im Spiel ist, tummeln sich Kriminelle. Das gilt auch für die digitale Welt. Das Webinar hilft, Betrugsversuche zu erkennen und Schäden zu vermeiden.",
+      "url": "https://www.heise.de/news/Last-Call-c-t-Webinar-Sicher-durch-den-digitalen-Zahlungsalltag-10751133.html"
     },
     {
       "title": "Doppelkopf-SpeicherUSB-Sticks mit Steckern für USB-C und USB-A im Test",
@@ -738,22 +737,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kabellose-ueberwachungskamera-im-test/0spn5e4?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Führerschein soll günstiger werden: Schnieders Reform-Pläne für 2026",
-      "teaser": "Regierung will mit Reform Führerscheinkosten senken. Geplant sind weniger Theoriefragen, mehr Simulator-Einsatz und kürzere Prüfungen.",
-      "url": "https://www.heise.de/tp/features/Fuehrerschein-soll-guenstiger-werden-Schnieders-Reform-Plaene-fuer-2026-10776805.html",
-      "image_title": "Ein Auto mit Schild Fahrschule"
+      "title": "Porenspeicher: Deutschlands Gasreserve wankt plötzlich",
+      "teaser": "Die Umstellung von Pipeline- auf Tankschiff-Lieferung macht die riesigen Porenspeicher unwirtschaftlich. Nun drohen Stilllegungen.",
+      "url": "https://www.heise.de/tp/features/Porenspeicher-Deutschlands-Gasreserve-wankt-ploetzlich-10778294.html",
+      "image_title": "Darstellung von Poren- und Kavernenspeicher"
     },
     {
-      "title": "Pest, Vulkane, Hunnen: Warum Rom wirklich unterging",
-      "teaser": "Nicht Dekadenz oder schwache Kaiser besiegelten das Schicksal Roms. Auch nicht die Barbaren an den Grenzen. Vom Ende eines Imperiums.",
-      "url": "https://www.heise.de/tp/features/Pest-Vulkane-Hunnen-Warum-Rom-wirklich-unterging-10777442.html",
-      "image_title": "Mosaik von Justinian I."
+      "title": "Schlaf als Schlüssel zur geistigen Frische",
+      "teaser": "Schlaf ist für die Gesundheit des Gehirns unverzichtbar. Forscher zeigen nun: Tiefschlaf reguliert die Hirnflüssigkeit anders als andere Schlafphasen.",
+      "url": "https://www.heise.de/tp/features/Schlaf-als-Schluessel-zur-geistigen-Frische-10776472.html",
+      "image_title": "Junge Frau schläft in ihrem Bett"
     },
     {
-      "title": "Nanoplastik: Die stille Vergiftung unserer Lebensmittel",
-      "teaser": "Unsichtbar, aber gefährlich: Winzige Plastikpartikel reichern sich in Tieren und Pflanzen an - mit ungewissen Folgen für unsere Gesundheit.",
-      "url": "https://www.heise.de/tp/features/Nanoplastik-Die-stille-Vergiftung-unserer-Lebensmittel-10778284.html",
-      "image_title": "Kühe und Schweine im Stall"
+      "title": "Der deutsche Drohnenjäger: Wie das Kinetic Defence Vehicle im Ukraine-Krieg zum Testfall wird",
+      "teaser": "Innovation oder Illusion? Ein Fahrzeug, das Drohnen orten, verfolgen und abschießen soll – halb Roboter, halb Soldat. Was das Konzept über die Zukunft des Kriegs verrät.",
+      "url": "https://www.heise.de/tp/features/Der-deutsche-Drohnenjaeger-Wie-das-Kinetic-Defence-Vehicle-im-Ukraine-Krieg-zum-Testfall-wird-10778312.html",
+      "image_title": "KI-generierte Illustration zeigt ein hell gezeichnetes, gepanzertes Militärfahrzeug mit ausfahrbarem Sensormast und Waffenstation, das auf einer offenen, sandfarbenen Ebene steht; über ihm fliegen mehrere kleine Drohnen."
     },
     {
       "title": "Dieser Test könnte Aufschluss über die Gesundheit Deines Immunsystems geben",
