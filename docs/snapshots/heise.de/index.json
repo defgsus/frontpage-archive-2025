@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-21T14:10:21",
+  "timestamp": "2025-10-21T15:11:29",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mercedes GLC EQ: Das soll er kosten",
+      "url": "https://www.heise.de/news/Mercedes-GLC-EQ-Das-soll-er-kosten-10793423.html"
+    },
     {
       "title": "JBL Bar 800MK2 im Test: Soundbar mit Subwoofer und Akku-Rear-Speakern",
       "url": "https://www.heise.de/bestenlisten/testbericht/jbl-bar-800mk2-im-test-soundbar-mit-subwoofer-und-akku-rear-speakern/8yjyfb2"
@@ -60,10 +64,6 @@
     {
       "title": "Vorwurf der Aktienmanipulation: Südkoreanischer Tech-Milliardär freigesprochen",
       "url": "https://www.heise.de/news/Vorwurf-der-Aktienmanipulation-Suedkoreanischer-Tech-Milliardaer-freigesprochen-10793052.html"
-    },
-    {
-      "title": "Digitale-Fahrerlaubnis, EU-weite Verbote: Die neuen Führerscheinvorgaben der EU",
-      "url": "https://www.heise.de/news/Digitale-Fahrerlaubnis-EU-weite-Verbote-Die-neuen-Fuehrerscheinvorgaben-der-EU-10792819.html"
     },
     {
       "title": "AlertSupply-Chain-AngriffGefährlicher und unsichtbarer Wurm in Visual Studio Code Extensions",
@@ -102,7 +102,7 @@
     },
     {
       "title": "WeltraummüllÜberrest einer Rakete brennend auf Straße in Australien gestürzt",
-      "teaser": "Im Westen Australiens ist offenbar ein Überrest einer chinesischen Rakete abgestürzt, als es gefunden wurde, hat es noch gebrannt.",
+      "teaser": "Im Westen Australiens ist offenbar ein Teil einer chinesischen Rakete abgestürzt. Als es gefunden wurde, hat es noch gebrannt.",
       "url": "https://www.heise.de/news/Weltraummuell-Ueberrest-einer-Rakete-brennend-auf-Strasse-in-Australien-gefunden-10789340.html",
       "image_title": "Eine sandige Straße, auf der ein dunkles Objekt liegt. Im Hintergrund ein Blitz am Himmel"
     },
@@ -184,20 +184,26 @@
       "url": "https://www.heise.de/hintergrund/Der-neue-ICE-L-Ein-ganz-besonderer-Zug-10778290.html"
     },
     {
+      "title": "Mercedes GLC EQ: Das soll er kosten",
+      "teaser": "Ab dem 29. Oktober kann der Mercedes GLC EQ offiziell bestellt werden. Er wird vorerst einen Hauch teurer als der BMW iX3.",
+      "url": "https://www.heise.de/news/Mercedes-GLC-EQ-Das-soll-er-kosten-10793423.html",
+      "image_title": "Mercedes GLC EQ"
+    },
+    {
       "title": "JBL Bar 800MK2 im Test: Soundbar mit Subwoofer und Akku-Rear-Speakern",
       "teaser": "Dank akkubetriebener Rear-Lautsprecher zeigt sich die JBL Bar 800MK2 sehr flexibel. Wie gut die Soundbar inklusive riesigen Subwoofer klingt, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/jbl-bar-800mk2-im-test-soundbar-mit-subwoofer-und-akku-rear-speakern/8yjyfb2?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Der perfekte Server für kleine und mittelständische Firmen",
+      "teaser": "Um die Digitalisierung voranzutreiben, braucht der Mittelstand Rechner, die die Leistung maßgeschneidert und kosteneffizient bereitstellen – erhältlich zum Beispiel über das HPE Smart Choice Programm.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7105867339&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Claude Code: Neue Web-Version bringt mehrere Vorteile für Entwickler",
       "teaser": "Anthropic bietet Claude Code ab sofort eine neue Plattform. Künftig ist die Coding-KI auch im Web nutzbar.",
       "url": "https://www.heise.de/news/Claude-Code-Neue-Web-Version-bringt-mehrere-Vorteile-fuer-Entwickler-mit-sich-10793149.html",
       "image_title": "IP-Adresse"
-    },
-    {
-      "title": "Smartes Heizen – Freude am Sparen",
-      "teaser": "Intelligent gesteuerte Heizkörperthermostate sorgen für die Wohlfühltemperatur in jedem Raum und senken dabei den Energieverbrauch. Möglich macht das eine smarte Automatisierung mit zwei Grundregeln.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092032808&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Flach und flott: Das neue iPad Pro M5 im Test",
@@ -228,12 +234,6 @@
       "teaser": "Im Dolby Unified Decoder klaffte eine Sicherheitslücke, die einen Zero-Click-Exploit etwa in Android ermöglichte.",
       "url": "https://www.heise.de/news/Sicherheitsleck-in-Dolby-Digital-Plus-Decoder-in-Android-iOS-macOS-und-Windows-10793034.html",
       "image_title": "Erde"
-    },
-    {
-      "title": "Passierschein A38: 325.000 Jobs nur für Bürokratie-Compliance",
-      "teaser": "Deutsche Betriebe mussten laut IAB-Studie in drei Jahren 325.000 zusätzliche Arbeitskräfte einstellen, um gestiegene Bürokratie zu bewältigen.",
-      "url": "https://www.heise.de/news/Studie-325-000-Jobs-nur-fuer-Buerokratie-Bewaeltigung-10792769.html",
-      "image_title": "Papierstapel"
     },
     {
       "title": "ChatGPT & Co. als AnlageberaterWie Sie mit KI an der Börse Geld verdienen",
@@ -301,6 +301,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Passierschein A38: 325.000 Jobs nur für Bürokratie-Compliance",
+      "teaser": "Deutsche Betriebe mussten laut IAB-Studie in drei Jahren 325.000 zusätzliche Arbeitskräfte einstellen, um gestiegene Bürokratie zu bewältigen.",
+      "url": "https://www.heise.de/news/Studie-325-000-Jobs-nur-fuer-Buerokratie-Bewaeltigung-10792769.html",
+      "image_title": "Papierstapel"
     },
     {
       "title": "Vorwurf der Aktienmanipulation: Südkoreanischer Tech-Milliardär freigesprochen",
@@ -371,15 +377,15 @@
       "image_title": "MCS Stecker"
     },
     {
+      "title": "Digitale Souveränität: Schluss mit dem Buzzwords!",
+      "teaser": "Alle reden über digitale Souveränität, aber wie geht es praktisch weiter? Ein Webcast erklärt, welche Abstufungen für welche Anwendungsfälle sinnvoll sind, und hilft bei der Frage: Wie mache ich konkret weiter?",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/digitale-souveraenitaet-weg-vom-buzzword-bingo-hin-zur-umsetzung-4979?source=hbsadersatz"
+    },
+    {
       "title": "Sort A Brick stellt gebrauchte Klemmbausteine automatisch zu Sets zusammen",
       "teaser": "Sort A Brick stellt mit Computer Vision und KI aus gebrauchten Klemmbausteinen automatisch Sets zusammen. Fehlende Teile werden ergänzt.",
       "url": "https://www.heise.de/news/Sort-A-Brick-stellt-gebrauchte-Klemmbausteine-automatisch-zu-Sets-zusammen-10792056.html",
       "image_title": "Tüten mit Lego-Klemmbausteinen"
-    },
-    {
-      "title": "Warum ist digitale Souveränität wichtig? Und warum nicht gleich Autonomie oder Autarkie?",
-      "teaser": "Wer kontrolliert die Cloud-Daten wirklich? Welche Zugriffsmöglichkeiten haben ausländische Behörden? Ein Webcast gibt konkrete Empfehlungen, um Abhängigkeiten zu reduzieren – und differenziert zwischen Autarkie, Autonomie und Souveränität.",
-      "url": "https://business-services.heise.de/it-management/digitalisierung/beitrag/digitale-souveraenitaet-schluessel-zur-strategischen-unabhaengigkeit-4965/?source=hbsad-ersatz"
     },
     {
       "title": "Zattoo verlinkt Inhalte der ARD-Mediathek",
@@ -433,12 +439,6 @@
       "teaser": "Der Open Source Hardware Summit 2026 findet am 23. und 24. Mai 2026 an der TU Berlin statt – ein Treffpunkt für alle, die auch für Hardware offen denken.",
       "url": "https://www.heise.de/news/Open-Source-Hardware-Summit-2026-kommt-nach-Berlin-10778005.html",
       "image_title": "Open Source Hardware Summit Berlin 2026"
-    },
-    {
-      "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
-      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
-      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-10749357.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "Windows-Updates: Probleme nach dem Patchday",
@@ -607,10 +607,9 @@
       "url": "https://www.heise.de/en/news/TypeScript-on-the-rise-PHP-matures-JetBrains-shows-ecosystem-change-10771317.html"
     },
     {
-      "title": "Ein Überblick über den verlängerten Windows-10-Support (ESU)",
-      "teaser": "Wie die Windows-10-Supportverlängerung für europäische Endkunden aussieht und was man dabei beachten sollte.",
-      "url": "https://www.heise.de/hintergrund/Ein-Ueberblick-ueber-den-verlaengerten-Windows-10-Support-ESU-10751443.html",
-      "image_title": "Windows 10"
+      "title": "Amateurfunk mit OpenWebRX: Mit SDR-Software Funkfrequenzen im Browser abhören",
+      "teaser": "Ein günstiger RTL-SDR-USB-Stick ermöglicht jedem, mit wenig Aufwand einem großen Teil des Funkspektrums zuzuhören. Mit OpenWebRX klappt das im Browser.",
+      "url": "https://www.heise.de/ratgeber/Amateurfunk-mit-OpenWebRX-Mit-SDR-Software-Funkfrequenzen-im-Browser-abhoeren-10717559.html"
     },
     {
       "title": "Bit-Rauschen: Qualcomms Mobil-CPU Snapdragon X2 Elite soll alle überholen",
@@ -648,15 +647,15 @@
       "image_title": ","
     },
     {
-      "title": "Retrocomputing mit Visual Studio Code",
-      "teaser": "Das Interesse an Retrocomputing steigt. Programmierer entwickeln nicht auf Originalrechnern, sondern nutzen dazu Emulator-Plug-ins für Visual Studio Code.",
-      "url": "https://www.heise.de/ratgeber/Retrocomputing-mit-Visual-Studio-Code-10630226.html",
-      "image_title": ","
-    },
-    {
       "title": "Bambu Lab P2SÜberarbeiteter Klassiker setzt neue Maßstäbe im 3D-Druck",
       "teaser": "Bambu Lab hebt mit dem P2S den 3D-Druck auf ein neues Niveau – mit neuem Extruder, KI-Fehlererkennung und adaptiver Kühlung.",
       "url": "https://www.heise.de/news/Bambu-Lab-P2S-Smarter-schneller-praeziser-ein-3D-Drucker-fuer-Maker-10771226.html"
+    },
+    {
+      "title": "LattePanda IOTA kombiniert Intel-CPU mit RP2040",
+      "teaser": "Das neue LattePanda IOTA kombiniert eine Intel-x86-CPU mit RP2040-Co-Prozessor – interessant für Maker.",
+      "url": "https://www.heise.de/news/LattePanda-IOTA-kombiniert-Intel-CPU-mit-RP2040-10767169.html",
+      "image_title": "Man sieht das Board von schräg oben. Es ist ein kleines Board mit PC-IO."
     },
     {
       "title": "Noch eine kurze, dicke Tüte und APS-C-Nikkore – Fotonews der Woche 42/2025",
@@ -740,22 +739,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Neolithische Dörfer in Syrien: Neuankömmlinge wurden vollständig integriert",
+      "teaser": "Archäologen analysierten Überreste aus der Zeit vor 11.600 bis 7.500 Jahren. Der Befund: Frühe Bauerngemeinschaften waren offen für Fremde und integrierten sie vollständig.",
+      "url": "https://www.heise.de/tp/features/Neolithische-Doerfer-in-Syrien-Neuankoemmlinge-wurden-vollstaendig-integriert-10752103.html",
+      "image_title": "Ausgrabungsstätte in Syrien"
+    },
+    {
+      "title": "Tarnkappenjäger: China macht die F-35 sichtbar",
+      "teaser": "Chinas weltraumgestütztes Radarsystem könnte die teuerste Waffe des Westens entzaubern – und die Ära der Stealth-Technik beenden. Eine Einschätzung.",
+      "url": "https://www.heise.de/tp/features/Tarnkappenjaeger-China-macht-die-F-35-sichtbar-10781343.html",
+      "image_title": "Eine KI generierte, stilisierte, comic-hafte Illustration zeigt im Weltraum einen Satelliten, der mit roten Radarstrahlen auf ein Tarnkappenflugzeug vom Typ F-35 zielt, während darunter die Erde in bläulich-grünen Tönen sichtbar ist."
+    },
+    {
       "title": "Ukraine: Trump drängt Selenskyj zu Putins Bedingungen",
       "teaser": "Trump übernahm Putins Argumente und forderte territoriale Zugeständnisse. Selenskyj lehnt ab. Die Friedensdiplomatie steht vor dem Scheitern.",
       "url": "https://www.heise.de/tp/features/Ukraine-Trump-draengt-Selenskyj-zu-Putins-Bedingungen-10779155.html",
       "image_title": "Die Porträts von Putin, Trump und Selenskyj"
-    },
-    {
-      "title": "\"Frankenstein\": Schluss mit der Achtsamkeit – Kein Mitleid für die Monster!",
-      "teaser": "Guillermo del Toro entzaubert den Mythos: eine extravagante Generalüberholung – kein Kuschelkurs mit Kreaturen, sondern Größe und Fall des Forschers.",
-      "url": "https://www.heise.de/tp/features/Frankenstein-Schluss-mit-der-Achtsamkeit-Kein-Mitleid-fuer-die-Monster-10792958.html",
-      "image_title": "Stillbild aus dem Film: das Mosnter knieend auf dem Tisch, herumstehende Wissenschaftler"
-    },
-    {
-      "title": "Porenspeicher: Deutschlands Gasreserve wankt plötzlich",
-      "teaser": "Die Umstellung von Pipeline- auf Tankschiff-Lieferung macht die riesigen Porenspeicher unwirtschaftlich. Nun drohen Stilllegungen.",
-      "url": "https://www.heise.de/tp/features/Porenspeicher-Deutschlands-Gasreserve-wankt-ploetzlich-10778294.html",
-      "image_title": "Darstellung von Poren- und Kavernenspeicher"
     },
     {
       "title": "ChatGPT statt eigener Ideen: Macht uns KI am Ende alle denkfaul?",
