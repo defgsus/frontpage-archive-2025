@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-22T04:13:17",
+  "timestamp": "2025-10-22T05:10:26",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "\"Alle Systeme blinken rot\" – Klimaschutz laut Studie zu lahm",
+      "url": "https://www.heise.de/news/Alle-Systeme-blinken-rot-Klimaschutz-laut-Studie-zu-lahm-10793837.html"
+    },
+    {
+      "title": "Mittwoch: Amazon-Einsparungen mit Robotern, Google-Bestellungen eines 7-Jährigen",
+      "url": "https://www.heise.de/news/Mittwoch-Amazon-Einsparungen-mit-Robotern-Google-Bestellungen-eines-7-Jaehrigen-10793811.html"
+    },
+    {
+      "title": "Bit-Rauschen, der Prozessor-Podcast: USB-C-Ladezwang für Notebooks kommt 2026",
+      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-USB-C-Ladezwang-fuer-Notebooks-kommt-2026-10682046.html"
+    },
     {
       "title": "Samsung Galaxy XR: Premium-Headset zum halben Preis der Apple Vision Pro",
       "url": "https://www.heise.de/news/Samsung-Galaxy-XR-Premium-Headset-zum-halben-Preis-der-Apple-Vision-Pro-10793585.html"
@@ -54,22 +66,10 @@
       "url": "https://www.heise.de/tests/Test-Das-neue-MacBook-Pro-mit-M5-und-ohne-Netzteil-10793514.html"
     },
     {
-      "title": "Banana Pi BPI-R4 Pro: High-End-Mainboard für Selbstbau-Router",
-      "url": "https://www.heise.de/news/Banana-Pi-BPI-R4-Pro-High-End-Mainboard-fuer-Selbstbau-Router-10793510.html"
-    },
-    {
-      "title": "Krise bei DB Cargo – Gutachten erhöht Druck auf Chefin Nikutta",
-      "url": "https://www.heise.de/news/Krise-bei-DB-Cargo-Gutachten-erhoeht-Druck-auf-Chefin-Nikutta-10793593.html"
-    },
-    {
-      "title": "DeepSeek-OCR: Wie Bilder Chatbots helfen, lange Gespräche zu führen",
-      "url": "https://www.heise.de/news/DeepSeek-OCR-Wie-Bilder-Chatbots-helfen-lange-Gespraeche-zu-fuehren-10793565.html"
-    },
-    {
-      "title": "AlertSupply-Chain-AngriffGefährlicher und unsichtbarer Wurm in Visual Studio Code Extensions",
-      "teaser": "Eine Malware, die Credentials und Kryptowährungen abgreift, nutzt Unicode für unsichtbaren Code und installiert einen Trojaner",
-      "url": "https://www.heise.de/news/Gefaehrlicher-und-unsichtbarer-Wurm-in-Visual-Studio-Code-Extensions-gefunden-10789320.html",
-      "image_title": "Dialog \"Attack successful\""
+      "title": "LegoSort A Brick stellt automatisch Sets zusammen",
+      "teaser": "Sort A Brick stellt aus gebrauchten Klemmbausteinen automatisch Sets zusammen. Fehlende Teile werden ergänzt.",
+      "url": "https://www.heise.de/news/Sort-A-Brick-stellt-gebrauchte-Klemmbausteine-automatisch-zu-Sets-zusammen-10792056.html",
+      "image_title": "Tüten mit Lego-Klemmbausteinen"
     },
     {
       "title": "Mit M5-Chip – und ohne NetzteilDas neue MacBook Pro im Test",
@@ -78,10 +78,9 @@
       "image_title": "Das neue MacBook Pro M5"
     },
     {
-      "title": "LegoSort A Brick stellt automatisch Sets zusammen",
-      "teaser": "Sort A Brick stellt aus gebrauchten Klemmbausteinen automatisch Sets zusammen. Fehlende Teile werden ergänzt.",
-      "url": "https://www.heise.de/news/Sort-A-Brick-stellt-gebrauchte-Klemmbausteine-automatisch-zu-Sets-zusammen-10792056.html",
-      "image_title": "Tüten mit Lego-Klemmbausteinen"
+      "title": "Papa muss zahlen7-Jähriger bestellt auf Google Play für 34.000 Euro",
+      "teaser": "Ein Siebenjähriger kauft mit Papas Google-Play-Konto über 1.000 Mal Spieleinhalte. Der Vater bleibt auf dem Schaden sitzen.",
+      "url": "https://www.heise.de/news/7-Jaehriger-bestellt-auf-Google-Play-fuer-34-000-Euro-Papa-muss-zahlen-10793754.html"
     },
     {
       "title": "Flach und flottDas neue iPad Pro M5 im Test",
@@ -96,9 +95,10 @@
       "image_title": "BMW i7 Montage im Werk Dingolfing"
     },
     {
-      "title": "Papa muss zahlen7-Jähriger bestellt auf Google Play für 34.000 Euro",
-      "teaser": "Ein Siebenjähriger kauft mit Papas Google-Play-Konto über 1.000 Mal Spieleinhalte. Der Vater bleibt auf dem Schaden sitzen.",
-      "url": "https://www.heise.de/news/7-Jaehriger-bestellt-auf-Google-Play-fuer-34-000-Euro-Papa-muss-zahlen-10793754.html"
+      "title": "AlertSupply-Chain-AngriffGefährlicher und unsichtbarer Wurm in Visual Studio Code Extensions",
+      "teaser": "Eine Malware, die Credentials und Kryptowährungen abgreift, nutzt Unicode für unsichtbaren Code und installiert einen Trojaner",
+      "url": "https://www.heise.de/news/Gefaehrlicher-und-unsichtbarer-Wurm-in-Visual-Studio-Code-Extensions-gefunden-10789320.html",
+      "image_title": "Dialog \"Attack successful\""
     },
     {
       "title": "Amazon.com600.000 US-Mitarbeiter sollen durch Roboter ersetzt werden",
@@ -151,26 +151,20 @@
       "image_title": "Kreisförmige Sternspuren über einer Vielzahl von Radioteleskopen"
     },
     {
-      "title": "Open-Source-TreiberAbermals neuer NTFS-Treiber für Linux vorgestellt",
-      "teaser": "Ein erfahrener Kernel-Hacker stellt den Dateisystem-Treiber \"ntfsplus\" vor, der Schwächen bisheriger Lösungen vermeidet.",
-      "url": "https://www.heise.de/news/Abermals-neuer-NTFS-Treiber-fuer-Linux-vorgestellt-10789388.html",
-      "image_title": "Ein Pinguin guckt, vor Wasser"
-    },
-    {
       "title": "WeltraummüllÜberrest einer Rakete brennend auf Straße in Australien gestürzt",
       "teaser": "Im Westen Australiens ist offenbar ein Teil einer chinesischen Rakete abgestürzt. Als es gefunden wurde, hat es noch gebrannt.",
       "url": "https://www.heise.de/news/Weltraummuell-Ueberrest-einer-Rakete-brennend-auf-Strasse-in-Australien-gefunden-10789340.html",
       "image_title": "Eine sandige Straße, auf der ein dunkles Objekt liegt. Im Hintergrund ein Blitz am Himmel"
     },
     {
-      "title": "AnalyseWarum Wärmepumpen in Deutschland teurer sind",
-      "teaser": "Beim Blick auf Heizungsinstallationen in europäischen Nachbarländern fällt auf, dass dort die Wärmepumpenheizung billiger ist. Warum?",
-      "url": "https://www.heise.de/hintergrund/Analyse-Warum-Waermepumpen-in-Deutschland-teurer-sind-als-in-Nachbarlaendern-10624108.html"
-    },
-    {
       "title": "Operation SimcartelEuropol sprengt Betrügerring und beschlagnahmt 40.000 SIM-Karten",
       "teaser": "Strafermittler von Europol haben die IT-Infrastruktur von Cyberkriminellen lahmgelegt, die für Millionenschäden gesorgt haben.",
       "url": "https://www.heise.de/news/40-000-SIM-Karten-konfisziert-Europol-sprengt-SIMCARTEL-Betruegerring-10784925.html"
+    },
+    {
+      "title": "AnalyseWarum Wärmepumpen in Deutschland teurer sind",
+      "teaser": "Beim Blick auf Heizungsinstallationen in europäischen Nachbarländern fällt auf, dass dort die Wärmepumpenheizung billiger ist. Warum?",
+      "url": "https://www.heise.de/hintergrund/Analyse-Warum-Waermepumpen-in-Deutschland-teurer-sind-als-in-Nachbarlaendern-10624108.html"
     },
     {
       "title": "Trotz VerbesserungenElektronische Patientenakte für besonders sensible Daten ungeeignet",
@@ -179,10 +173,39 @@
       "image_title": "Frau am Smartphone, aus diesem kommen Gesundheits-Icons."
     },
     {
+      "title": "Open-Source-TreiberAbermals neuer NTFS-Treiber für Linux vorgestellt",
+      "teaser": "Ein erfahrener Kernel-Hacker stellt den Dateisystem-Treiber \"ntfsplus\" vor, der Schwächen bisheriger Lösungen vermeidet.",
+      "url": "https://www.heise.de/news/Abermals-neuer-NTFS-Treiber-fuer-Linux-vorgestellt-10789388.html",
+      "image_title": "Ein Pinguin guckt, vor Wasser"
+    },
+    {
       "title": "Melancholie und Wehmut20 Jahre \"Shadow of the Colossus\"",
       "teaser": "\"Shadow of the Colossus\" gilt als letztes Meisterwerk der Playstation-2-Ära. Wir blicken zurück auf 20 Jahre Melancholie und Wehmut.",
       "url": "https://www.heise.de/hintergrund/20-Jahre-Shadow-of-the-Colossus-Gewissensbisse-zum-Mitspielen-10779125.html",
       "image_title": "Artwork zu Shadow of the Colossus"
+    },
+    {
+      "title": "\"Alle Systeme blinken rot\" – Klimaschutz laut Studie zu lahm",
+      "teaser": "Die Subventionen für fossile Energien sind gestiegen. Drastische Schritte sind laut einer Studie nötig, um die Pariser Klimaziele noch zu erreichen.",
+      "url": "https://www.heise.de/news/Alle-Systeme-blinken-rot-Klimaschutz-laut-Studie-zu-lahm-10793837.html",
+      "image_title": "Abgase aus Schornstein"
+    },
+    {
+      "title": "Mittwoch: Amazon-Einsparungen mit Robotern, Google-Bestellungen eines 7-Jährigen",
+      "teaser": "Stellenkürzungen durch Roboter + Haftung für Spielkind + Samsungs Mixed-Reality-Headset + GM ohne Elektro-Lkw + Autobauer in Nexperia-Chipkrise + Bit-Rauschen",
+      "url": "https://www.heise.de/news/Mittwoch-Amazon-Einsparungen-mit-Robotern-Google-Bestellungen-eines-7-Jaehrigen-10793811.html",
+      "image_title": "Roboter zeigt auf auf Symbol eines Roboters; Mittwoch: Amazon-Roboter, Google-Haftung, Android-XR-Headset, E-Lieferwagen-Stopp, Nexperia-Chipkrise & Bit-Rauschen"
+    },
+    {
+      "title": "Wie smartes Wohnen komfortabel wurde – ein Jubiläum",
+      "teaser": "Vom Pionier zum Spitzenreiter bei den Smart-Home-Systemen – Homematic IP feiert zehn Jahre Innovationen. Einfachheit und Sicherheit stehen bei Heizung, Haustür oder dem ganzen Gebäude im Fokus.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092575235&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Bit-Rauschen, der Prozessor-Podcast: USB-C-Ladezwang für Notebooks kommt 2026",
+      "teaser": "So wie Smartphones müssen sich in der EU verkaufte Notebooks bald per USB-C laden lassen. Risiken und Nebenwirkungen: Folge 2025/22 des Podcasts Bit-Rauschen.",
+      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-USB-C-Ladezwang-fuer-Notebooks-kommt-2026-10682046.html",
+      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
     },
     {
       "title": "Samsung Galaxy XR: Premium-Headset zum halben Preis der Apple Vision Pro",
@@ -195,11 +218,6 @@
       "teaser": "Fedex, DHL, Walmart und Hertz reservierten elektrische Lieferwägen von GM, aber gekauft wurde wenig. Das Brightdrop-Werk in Kanada steht still.",
       "url": "https://www.heise.de/news/General-Motors-gibt-elektrischen-Lieferwagen-auf-10793766.html",
       "image_title": "Brightdrop 600"
-    },
-    {
-      "title": "KI-Automatisierung im IT-Servicemanagement",
-      "teaser": "Im ITSM gibt es zahlreiche Anwendungsfelder für KI-Automatisierung – und alles führt zu schnelleren Lösungen, weniger Engpässen und zufriedeneren Nutzern. Wichtig ist, klein anzufangen und Schritt für Schritt zu erweitern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7080346554&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Der beste günstige Mini-PC mit Windows 11 bis 300 Euro – erstaunlich gut",
@@ -217,24 +235,6 @@
       "teaser": "Ein Gutachten kommt zu dem Ergebnis, dass das Sanierungskonzept für DB Cargo nicht greift. Wie geht es nun weiter mit der Bahn-Tochter – und ihrer Chefin?",
       "url": "https://www.heise.de/news/Krise-bei-DB-Cargo-Gutachten-erhoeht-Druck-auf-Chefin-Nikutta-10793593.html",
       "image_title": "Autotransportzug der DB Cargo bei Hattenhofen"
-    },
-    {
-      "title": "DeepSeek-OCR: Wie Bilder Chatbots helfen, lange Gespräche zu führen",
-      "teaser": "Chinesische KI-Forscher wollen Chatbots mit Bildern bei langen Kontexten schnell und günstig halten. Optische Kontextkompression soll KI-Assistenten verbessern.",
-      "url": "https://www.heise.de/news/DeepSeek-OCR-Wie-Bilder-Chatbots-helfen-lange-Gespraeche-zu-fuehren-10793565.html",
-      "image_title": "Handybildschirm mit DeepSeeks Logo"
-    },
-    {
-      "title": "Security: Wie WLAN-Geräte Passanten ausspionieren",
-      "teaser": "Verbundene WLAN-Geräte verraten dem Router auch etwas über die Umgebung. Variiert die Stärke der Funksignale, kann man damit sogar Passanten identifizieren.",
-      "url": "https://www.heise.de/hintergrund/Security-Wie-WLAN-Geraete-Passanten-ausspionieren-10773306.html",
-      "image_title": "Logo \"WLAN/WiFi\""
-    },
-    {
-      "title": "Mercedes GLC EQ: Das soll er kosten",
-      "teaser": "Ab dem 29. Oktober kann der Mercedes GLC EQ offiziell bestellt werden. Er wird vorerst einen Hauch teurer als der BMW iX3.",
-      "url": "https://www.heise.de/news/Mercedes-GLC-EQ-Das-soll-er-kosten-10793423.html",
-      "image_title": "Mercedes GLC EQ"
     },
     {
       "title": "ChatGPT & Co. als AnlageberaterWie Sie mit KI an der Börse Geld verdienen",
@@ -304,6 +304,24 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "DeepSeek-OCR: Wie Bilder Chatbots helfen, lange Gespräche zu führen",
+      "teaser": "Chinesische KI-Forscher wollen Chatbots mit Bildern bei langen Kontexten schnell und günstig halten. Optische Kontextkompression soll KI-Assistenten verbessern.",
+      "url": "https://www.heise.de/news/DeepSeek-OCR-Wie-Bilder-Chatbots-helfen-lange-Gespraeche-zu-fuehren-10793565.html",
+      "image_title": "Handybildschirm mit DeepSeeks Logo"
+    },
+    {
+      "title": "Security: Wie WLAN-Geräte Passanten ausspionieren",
+      "teaser": "Verbundene WLAN-Geräte verraten dem Router auch etwas über die Umgebung. Variiert die Stärke der Funksignale, kann man damit sogar Passanten identifizieren.",
+      "url": "https://www.heise.de/hintergrund/Security-Wie-WLAN-Geraete-Passanten-ausspionieren-10773306.html",
+      "image_title": "Logo \"WLAN/WiFi\""
+    },
+    {
+      "title": "Mercedes GLC EQ: Das soll er kosten",
+      "teaser": "Ab dem 29. Oktober kann der Mercedes GLC EQ offiziell bestellt werden. Er wird vorerst einen Hauch teurer als der BMW iX3.",
+      "url": "https://www.heise.de/news/Mercedes-GLC-EQ-Das-soll-er-kosten-10793423.html",
+      "image_title": "Mercedes GLC EQ"
+    },
+    {
       "title": "JBL Bar 800MK2 im Test: Soundbar mit Subwoofer und Akku-Rear-Speakern",
       "teaser": "Dank akkubetriebener Rear-Lautsprecher zeigt sich die JBL Bar 800MK2 sehr flexibel. Wie gut die Soundbar inklusive riesigen Subwoofer klingt, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/jbl-bar-800mk2-im-test-soundbar-mit-subwoofer-und-akku-rear-speakern/8yjyfb2?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -363,6 +381,11 @@
       "image_title": "Aufmacherbild Zahlen bitte"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Erfahren Sie in einem Webcast, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "Fischertechnik-Set für Micro:Bit: Baukasten für Coding-Einsteiger im Test",
       "teaser": "Das Starter-Set verkoppelt das bekannte Bausteinsystem mit dem Einplatinenrechner BBC Micro:Bit, um Grundschulkindern das Programmieren nahezubringen.",
       "url": "https://www.heise.de/tests/Fischertechnik-Set-fuer-Micro-Bit-Baukasten-fuer-Coding-Einsteiger-im-Test-10717549.html"
@@ -377,11 +400,6 @@
       "teaser": "WhatsApp plant eine Begrenzung von Nachrichten, wenn diese ohne Reaktion bleiben. Das soll unerwünschte Werbenachrichten eindämmen.",
       "url": "https://www.heise.de/news/WhatsApp-kaempft-gegen-Spam-Nachrichtenlimit-bei-ausbleibender-Reaktion-10792924.html",
       "image_title": "Finger zeigt auf Whatsapp-App auf dem Smartphone-Bildschirm"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "Audeering-Chefin zum AI Act: \"Wir brauchen Vertrauen statt Überregulierung\"",
@@ -424,24 +442,6 @@
       "image_title": "Fünf Roboter auf einem schwarzen Hügel, gelber Hintergrund"
     },
     {
-      "title": "Pixel-\"Superfans\" dürfen neue Top-Smartphones schon früher testen",
-      "teaser": "Google lädt eine kleine Gruppe seiner treuesten Pixel-Nutzer ein, das kommende Pixel 11 vor der offiziellen Markteinführung zu testen und Feedback zu geben.",
-      "url": "https://www.heise.de/news/Pixel-Superfans-duerfen-neue-Top-Smartphones-schon-frueher-testen-10789518.html",
-      "image_title": "Frau mit Pixel-Smartphone"
-    },
-    {
-      "title": "Browser-Engine Servo veröffentlicht erstes offizielle Release 0.0.1",
-      "teaser": "Mit dem ersten offiziellen Release gibt es Servo erstmals für ARM-Macs. Trotz des Meilensteins ist die Browser-Engine noch nicht bereit für Endanwender.",
-      "url": "https://www.heise.de/news/Browser-Engine-Servo-veroeffentlicht-erstes-offizielle-Release-0-0-1-10789486.html",
-      "image_title": "blaue Weltkugel vor gelbem Hintergrund"
-    },
-    {
-      "title": "MLS: Apple TV-Abonnenten bekommen Gratis-Fußball",
-      "teaser": "Partien aus dem Major League Soccer gab es bislang gegen Extragebühr. Nun soll es auch einige Gratisspiele geben.",
-      "url": "https://www.heise.de/news/MLS-Apple-TV-Abonnenten-bekommen-Gratis-Fussball-10785483.html",
-      "image_title": "Ex-Bayern-Profi Thomas Müller spielt in der MLS"
-    },
-    {
       "title": "\"Glasfaser-DSL\": Gericht verbietet Werbung von 1&1",
       "url": "https://www.heise.de/news/Glasfaser-DSL-Gericht-verbietet-Werbung-von-1-1-10781152.html",
       "image_title": "Ein schwarzer Router"
@@ -482,9 +482,9 @@
       "image_title": "Liquid-Glass-Einstellmöglichkeiten in iOS 26.1"
     },
     {
-      "title": "UpdateSignal down: Messenger-App weltweit ausgefallen",
-      "url": "https://www.heise.de/news/Messenger-App-Signal-offenbar-weltweit-mit-Stoerungen-10778899.html",
-      "image_title": "Signal-App auf einem Smartphone, darüber eine Fignerspitze"
+      "title": "Pixel-\"Superfans\" dürfen neue Top-Smartphones schon früher testen",
+      "url": "https://www.heise.de/news/Pixel-Superfans-duerfen-neue-Top-Smartphones-schon-frueher-testen-10789518.html",
+      "image_title": "Frau mit Pixel-Smartphone"
     },
     {
       "title": "Elektroauto Volvo ES90 im ersten Fahrbericht: Der leise Cruiser",
@@ -612,11 +612,6 @@
       "url": "https://www.heise.de/en/news/Lithography-systems-ASML-s-China-revenue-expected-to-collapse-in-2026-10773273.html"
     },
     {
-      "title": "Amateurfunk mit OpenWebRX: Mit SDR-Software Funkfrequenzen im Browser abhören",
-      "teaser": "Ein günstiger RTL-SDR-USB-Stick ermöglicht jedem, mit wenig Aufwand einem großen Teil des Funkspektrums zuzuhören. Mit OpenWebRX klappt das im Browser.",
-      "url": "https://www.heise.de/ratgeber/Amateurfunk-mit-OpenWebRX-Mit-SDR-Software-Funkfrequenzen-im-Browser-abhoeren-10717559.html"
-    },
-    {
       "title": "Data ProfilingWie Sie anhand Ihrer digitalen Spuren verfolgt werden",
       "teaser": "Jede Interaktion erzeugt Datenspuren. Unser Schwerpunkt erklärt, wer welche Informationen sammelt, mit welchen Risiken das verbunden ist und was Sie tun können.",
       "url": "https://www.heise.de/ratgeber/Data-Profiling-Wie-Sie-anhand-Ihrer-digitalen-Spuren-verfolgt-werden-10663239.html"
@@ -625,6 +620,11 @@
       "title": "Fischertechnik-Set für Micro:Bit: Baukasten für Coding-Einsteiger im Test",
       "teaser": "Das Starter-Set verkoppelt das bekannte Bausteinsystem mit dem Einplatinenrechner BBC Micro:Bit, um Grundschulkindern das Programmieren nahezubringen.",
       "url": "https://www.heise.de/tests/Fischertechnik-Set-fuer-Micro-Bit-Baukasten-fuer-Coding-Einsteiger-im-Test-10717549.html"
+    },
+    {
+      "title": "Amateurfunk mit OpenWebRX: Mit SDR-Software Funkfrequenzen im Browser abhören",
+      "teaser": "Ein günstiger RTL-SDR-USB-Stick ermöglicht jedem, mit wenig Aufwand einem großen Teil des Funkspektrums zuzuhören. Mit OpenWebRX klappt das im Browser.",
+      "url": "https://www.heise.de/ratgeber/Amateurfunk-mit-OpenWebRX-Mit-SDR-Software-Funkfrequenzen-im-Browser-abhoeren-10717559.html"
     },
     {
       "title": "UpdateAusprobiertLive-Übersetzung mit iOS 26 und AirPods Pro",
@@ -657,10 +657,9 @@
       "image_title": ","
     },
     {
-      "title": "Retrocomputing mit Visual Studio Code",
-      "teaser": "Das Interesse an Retrocomputing steigt. Programmierer entwickeln nicht auf Originalrechnern, sondern nutzen dazu Emulator-Plug-ins für Visual Studio Code.",
-      "url": "https://www.heise.de/ratgeber/Retrocomputing-mit-Visual-Studio-Code-10630226.html",
-      "image_title": ","
+      "title": "Bambu Lab P2SÜberarbeiteter Klassiker setzt neue Maßstäbe im 3D-Druck",
+      "teaser": "Bambu Lab hebt mit dem P2S den 3D-Druck auf ein neues Niveau – mit neuem Extruder, KI-Fehlererkennung und adaptiver Kühlung.",
+      "url": "https://www.heise.de/news/Bambu-Lab-P2S-Smarter-schneller-praeziser-ein-3D-Drucker-fuer-Maker-10771226.html"
     },
     {
       "title": "Noch eine kurze, dicke Tüte und APS-C-Nikkore – Fotonews der Woche 42/2025",
@@ -743,22 +742,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Nasa und Lockheed erwägen Orion-Starts mit anderen Raketen",
-      "teaser": "Das Orion-Raumschiff könnte künftig ohne das SLS-System fliegen. Lockheed Martin plant Kostensenkungen durch Wiederverwendung und kommerzielle Dienstleistungen.",
-      "url": "https://www.heise.de/tp/features/Nasa-und-Lockheed-erwaegen-Orion-Starts-mit-anderen-Raketen-10772217.html",
-      "image_title": "3D-Rendering des Orion-Raumschiffs im Orbit"
+      "title": "Zeitenwende föderal: Wie die Bundesländer auf Kriegswirtschaft umschalten",
+      "teaser": "Deutschland rüstet auf. Vom Rüstungs-Primus bis zum Zulieferer: Alle suchen ihre Rolle. Was bedeutet das auf Länderebene?",
+      "url": "https://www.heise.de/tp/features/Zeitenwende-foederal-Wie-die-Bundeslaender-auf-Kriegswirtschaft-umschalten-10793020.html",
+      "image_title": "Ein Bundeswehrfahrzeug auf einer Straße"
     },
     {
-      "title": "Enthüllt: Tagesschau übernimmt ungeprüft BND-Propaganda",
-      "teaser": "Eine \"Analyse\" der Tagesschau reiht Zitate von BND-Chef und Co. aneinander – ohne die Aussagen zu hinterfragen oder zu prüfen.",
-      "url": "https://www.heise.de/tp/features/Enthuellt-Tagesschau-uebernimmt-ungeprueft-BND-Propaganda-10778603.html",
-      "image_title": "Fotografie zeigt den Eingang zu einer Dienststelle des Bundesnachrichtendienstes in Berlin-Mitte"
+      "title": "256 Milliardäre: Die Gewinner der deutschen Wirtschaftskrise",
+      "teaser": "Während die Wirtschaft stagniert, wächst die Zahl der Milliardäre. Ihr Gesamtvermögen stieg dreimal so stark wie das BIP.",
+      "url": "https://www.heise.de/tp/features/256-Milliardaere-Die-Gewinner-der-deutschen-Wirtschaftskrise-10778609.html",
+      "image_title": "Portrait von zwei gut aussehenden jungen Männern in eleganten klassischen Anzügen, die in einem Luxusappartement mit klassischem Interieur stehen."
     },
     {
-      "title": "Erdgas: Der Dinosaurier unter den Energieträgern",
-      "teaser": "Ursprünglich diente Gas zur Straßenbeleuchtung. Doch heute kämpft der fossile Brennstoff ums Überleben – und das hat Gründe.",
-      "url": "https://www.heise.de/tp/features/Erdgas-Der-Dinosaurier-unter-den-Energietraegern-10789181.html",
-      "image_title": "Eine Flamme auf einem Gasherd"
+      "title": "Öffentlich-rechtlicher Rundfunk: Vertrauen kostet – und muss verdient werden",
+      "teaser": "Rundfunkbeitrag: Hohe Intendantengehälter, schwindendes Vertrauen. (K)eine Neiddebatte um Gehälter? Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Oeffentlich-rechtlicher-Rundfunk-Vertrauen-kostet-und-muss-verdient-werden-10789408.html",
+      "image_title": "Geldscheine und eine Aufforderung zum Rundfunkbeitrag"
     },
     {
       "title": "ChatGPT statt eigener Ideen: Macht uns KI am Ende alle denkfaul?",
