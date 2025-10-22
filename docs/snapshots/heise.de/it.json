@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-22T08:15:42",
+  "timestamp": "2025-10-22T09:12:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,9 +26,42 @@
   ],
   "articles": [
     {
-      "title": "FAQ zu Windows 10 als VM unter Linux",
-      "teaser": "Wir haben gezeigt, wie eine Installation von Windows 10 unter Linux in einer VM weiterleben kann. Heute antworten wir auf Fragen, die uns dazu erreicht haben.",
+      "title": "Azure Storage Discovery: Microsoft bringt Analysedienst für Cloud-Speicher",
+      "teaser": "Microsoft hat Azure Storage Discovery offiziell gestartet. Der Dienst analysiert Blob Storage und Data Lake Storage und optimiert den gebuchten Speicher.",
+      "url": "https://www.heise.de/news/Azure-Storage-Discovery-Microsoft-bringt-Analysedienst-fuer-Cloud-Speicher-10794101.html",
+      "image_title": "Server-Hardware"
+    },
+    {
+      "title": "Schwachstelle in Rust-Library für tar-Archive entdeckt",
+      "teaser": "Die Library async-tar und ihre Forks enthalten eine als TARmageddon benannte Schwachstelle. Der am weitesten verbreitete Fork tokio-tar bekommt keinen Patch.",
+      "url": "https://www.heise.de/news/Schwachstelle-in-Rust-Library-fuer-tar-Archive-entdeckt-10793899.html",
+      "image_title": "Viele schwarze Würfel. In der Mitte ist ein roter Würfel mit einem Käfer darauf."
+    },
+    {
+      "title": "AlertSicherheitsupdate: Unberechtigte Zugriffe auf Zyxel-Firewalls möglich",
+      "teaser": "Angreifer können bestimmte Firewalls von Zyxel attackieren. Angriffe sind aber nicht ohne Weiteres möglich.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Unberechtigte-Zugriffe-auf-Zyxel-Firewalls-moeglich-10794033.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
+      "title": "React-Framework Next.js 16 macht Turbopack zum Standard-Bundler",
+      "teaser": "Turbopack und der Support für den React Compiler sind nun stabil. Das Caching soll durch die neuen Cache Components flexibler werden.",
+      "url": "https://www.heise.de/news/React-Framework-Next-js-16-macht-Turbopack-zum-Standard-Bundler-10794045.html",
+      "image_title": "Straße mit Langzeitbelichtung"
+    },
+    {
+      "title": "RatgeberFAQ zu Windows 10 als VM unter Linux",
       "url": "https://www.heise.de/ratgeber/FAQ-zu-Windows-10-als-VM-unter-Linux-10765022.html"
+    },
+    {
+      "title": "TestsApple Vision Pro M5 im Test: Doppelt hält besser",
+      "url": "https://www.heise.de/tests/Apple-Vision-Pro-M5-im-Test-Doppelt-haelt-besser-10793698.html",
+      "image_title": "Vision Pro M5"
+    },
+    {
+      "title": "TestsTest: Das neue MacBook Pro mit M5 – und ohne Netzteil",
+      "url": "https://www.heise.de/tests/Test-Das-neue-MacBook-Pro-mit-M5-und-ohne-Netzteil-10793514.html",
+      "image_title": "Das neue MacBook Pro M5"
     },
     {
       "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
@@ -46,20 +79,6 @@
       "title": "\"Passwort\" Folge 43: Oracle-Exploits, Post-Quanten-Kryptografie und andere News",
       "teaser": "Der Podcast wird zum Wechselbad der Gefühle, weil es um Lücken in Oracle-Software, Verbesserungen bei Signal und seltsame Geheimdienst-Empfehlungen geht.",
       "url": "https://www.heise.de/news/Passwort-Folge-43-Oracle-Exploits-Post-Quanten-Kryptografie-und-andere-News-10793235.html"
-    },
-    {
-      "title": "RatgeberFAQ zu Windows 10 als VM unter Linux",
-      "url": "https://www.heise.de/ratgeber/FAQ-zu-Windows-10-als-VM-unter-Linux-10765022.html"
-    },
-    {
-      "title": "TestsApple Vision Pro M5 im Test: Doppelt hält besser",
-      "url": "https://www.heise.de/tests/Apple-Vision-Pro-M5-im-Test-Doppelt-haelt-besser-10793698.html",
-      "image_title": "Vision Pro M5"
-    },
-    {
-      "title": "TestsTest: Das neue MacBook Pro mit M5 – und ohne Netzteil",
-      "url": "https://www.heise.de/tests/Test-Das-neue-MacBook-Pro-mit-M5-und-ohne-Netzteil-10793514.html",
-      "image_title": "Das neue MacBook Pro M5"
     },
     {
       "title": "Oracle CPU: Groß-Patch-Tag mit 374 Softwareflicken",
@@ -130,24 +149,6 @@
       "teaser": "Anthropic bietet Claude Code ab sofort eine neue Plattform. Künftig ist die Coding-KI auch im Web nutzbar.",
       "url": "https://www.heise.de/news/Claude-Code-Neue-Web-Version-bringt-mehrere-Vorteile-fuer-Entwickler-mit-sich-10793149.html",
       "image_title": "IP-Adresse"
-    },
-    {
-      "title": "BentoPDF 1.0: Neues Open-Source-PDF-Werkzeug fürs Self-Hosting",
-      "teaser": "Das neue Open-Source-Tool BentoPDF erscheint in Version 1.0 mit umfangreichen PDF-Funktionen, Docker-Integration und Fokus auf lokale Datenverarbeitung.",
-      "url": "https://www.heise.de/news/BentoPDF-1-0-0-Open-Source-PDF-Tool-mit-Privacy-Fokus-erschienen-10793109.html",
-      "image_title": "Abzeichen mit Schriftzug Open Source, lila Hintergrund"
-    },
-    {
-      "title": "Galaxy S25 und A26: Samsung ändert Angaben zu Akkuwechsel in EPREL-Datenbank",
-      "teaser": "Die Deutsche Umwelthilfe erwirkt die Rücknahme der Behauptung, dass der Akku des Galaxy S25 und A26 nutzerseitig auswechselbar sind. Samsung reagiert gelassen.",
-      "url": "https://www.heise.de/news/Galaxy-S25-und-A26-Samsung-aendert-Angaben-zu-Akkuwechsel-in-EPREL-Datenbank-10793044.html",
-      "image_title": "Samsung Galaxy S25 in Hand"
-    },
-    {
-      "title": "Sicherheitsleck in Dolby Digital Plus Decoder in Android, iOS, macOS und Windows",
-      "teaser": "Im Dolby Unified Decoder klaffte eine Sicherheitslücke, die einen Zero-Click-Exploit etwa in Android ermöglichte.",
-      "url": "https://www.heise.de/news/Sicherheitsleck-in-Dolby-Digital-Plus-Decoder-in-Android-iOS-macOS-und-Windows-10793034.html",
-      "image_title": "Erde"
     },
     {
       "title": "UpdateNewsAmazon Web Services: Globale Störung am Montagmorgen",
