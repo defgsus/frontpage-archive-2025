@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-22T14:11:04",
+  "timestamp": "2025-10-22T15:09:51",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,42 @@
   ],
   "articles": [
     {
+      "title": "Bericht: Apple fährt iPhone-Air-Produktion massiv herunter",
+      "teaser": "Während iPhone 17 und 17 Pro die Erwartungen übertreffen, bremst Apple die Fertigung des iPhone Air angeblich drastisch. Dies ist jetzt aus Asien zu hören.",
+      "url": "https://www.heise.de/news/Bericht-Apple-faehrt-iPhone-Air-Produktion-massiv-herunter-10794765.html",
+      "image_title": "Das iPhone Air in allen vier Farben"
+    },
+    {
+      "title": "Doppelt hält besserApple Vision Pro M5 im Test: Doppelt hält besser",
+      "teaser": "Mit M5-Speed und gewichtigem Kopfband: Unser Test klärt, ob die Neuerungen der Vision Pro M5 einen handfesten Unterschied machen.",
+      "url": "https://www.heise.de/tests/Apple-Vision-Pro-M5-im-Test-Doppelt-haelt-besser-10793698.html",
+      "image_title": "Vision Pro M5"
+    },
+    {
+      "title": "Kommentar zum Totalausfall bei AWS: Nichts gelernt in den letzten 30 Jahren",
+      "teaser": "Nach dem jüngsten AWS-Ausfall muss angeblich die Multi-Cloud her. Aber das führt in die Irre – die US-Abhängigkeit ist das Kernproblem, meint Martin Loschwitz.",
+      "url": "https://www.heise.de/meinung/Kommentar-zum-Totalausfall-bei-AWS-Nichts-gelernt-in-den-letzten-30-Jahren-10794622.html",
+      "image_title": "Wolke mit EU-Flagge, gelber Hintergrund"
+    },
+    {
       "title": "OpenInfra Foundation: Die zu vorsichtige VMware-Alternative",
       "teaser": "Die OpenInfra Foundation diskutierte auf ihrer Hauskonferenz digitale Souveränität, KI und OpenStack. Doch der Start einer VMware-Alternative kam zu kurz.",
       "url": "https://www.heise.de/news/OpenInfra-Foundation-KI-digitale-Souveraenitaet-und-OpenStack-10794522.html",
       "image_title": "Wolken vor blauem Himmel"
+    },
+    {
+      "title": "RatgeberFAQ zu Windows 10 als VM unter Linux",
+      "url": "https://www.heise.de/ratgeber/FAQ-zu-Windows-10-als-VM-unter-Linux-10765022.html"
+    },
+    {
+      "title": "TestsApple Vision Pro M5 im Test: Doppelt hält besser",
+      "url": "https://www.heise.de/tests/Apple-Vision-Pro-M5-im-Test-Doppelt-haelt-besser-10793698.html",
+      "image_title": "Vision Pro M5"
+    },
+    {
+      "title": "TestsTest: Das neue MacBook Pro mit M5 – und ohne Netzteil",
+      "url": "https://www.heise.de/tests/Test-Das-neue-MacBook-Pro-mit-M5-und-ohne-Netzteil-10793514.html",
+      "image_title": "Das neue MacBook Pro M5"
     },
     {
       "title": "Hackbarer KI-Pod auf Kickstarter",
@@ -48,20 +80,6 @@
       "teaser": "Seit den Update-Vorschauen aus dem August klemmt die Netzwerkanmeldung von geklonten Windows-Installationen mit identischen SIDs.",
       "url": "https://www.heise.de/news/Windows-Anmeldeprobleme-im-Netz-mit-geklonten-SIDs-10794271.html",
       "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
-    },
-    {
-      "title": "RatgeberFAQ zu Windows 10 als VM unter Linux",
-      "url": "https://www.heise.de/ratgeber/FAQ-zu-Windows-10-als-VM-unter-Linux-10765022.html"
-    },
-    {
-      "title": "TestsApple Vision Pro M5 im Test: Doppelt hält besser",
-      "url": "https://www.heise.de/tests/Apple-Vision-Pro-M5-im-Test-Doppelt-haelt-besser-10793698.html",
-      "image_title": "Vision Pro M5"
-    },
-    {
-      "title": "TestsTest: Das neue MacBook Pro mit M5 – und ohne Netzteil",
-      "url": "https://www.heise.de/tests/Test-Das-neue-MacBook-Pro-mit-M5-und-ohne-Netzteil-10793514.html",
-      "image_title": "Das neue MacBook Pro M5"
     },
     {
       "title": "AlertKritische Schadcode-Lücken bedrohen TP-Link Omada Gateways",
@@ -132,24 +150,6 @@
       "teaser": "Netflix ist die klare Nummer eins beim Videostreaming – und hat einen Meilenstein bei der Zuschauerzahl vor Augen.",
       "url": "https://www.heise.de/news/Netflix-Auf-Kurs-zu-einer-Milliarde-Zuschauer-10793863.html",
       "image_title": "Netflix-Schriftzug an Hauptquarter"
-    },
-    {
-      "title": "Eventarchitektur für die JVM: OpenCQRS 1.0 ist erschienen",
-      "teaser": "OpenCQRS bringt Event Sourcing auf die JVM – mit nativer EventSourcingDB-Integration, Spring-Boot-Support und produktionsreifem Tooling.",
-      "url": "https://www.heise.de/blog/Eventarchitektur-fuer-die-JVM-OpenCQRS-1-0-ist-erschienen-10778433.html",
-      "image_title": "AAbstraktes Hologramm"
-    },
-    {
-      "title": "CLC 2025 setzt auf Praxis: Platform Engineering und KI-Integration im Fokus",
-      "teaser": "Praxisrelevantes Know-how zu Platform Engineering, KI-Integration, Security-Automatisierung und Developer Experience. Jetzt noch Tickets zur CLC 2025 sichern.",
-      "url": "https://www.heise.de/news/CLC-2025-setzt-auf-Praxis-Platform-Engineering-und-KI-Integration-im-Fokus-10762460.html",
-      "image_title": "CLC 2025: Programm veröffentlicht"
-    },
-    {
-      "title": "Monitoring-Software Uptime Kuma erreicht Version 2.0",
-      "teaser": "Das Open-Source-Monitoring-Tool Uptime Kuma ist in Version 2.0 erschienen. Sie bringt MariaDB-Support und neue Benachrichtigungsanbieter.",
-      "url": "https://www.heise.de/news/Uptime-Kuma-2-0-Monitoring-Tool-jetzt-mit-MariaDB-Support-10793371.html",
-      "image_title": "Dahsboard im Dark-Modus von Uptime Kuma"
     },
     {
       "title": "UpdateNewsAmazon Web Services: Globale Störung am Montagmorgen",
