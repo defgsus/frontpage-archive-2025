@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-24T16:12:26",
+  "timestamp": "2025-10-24T17:09:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "WD will Probleme älterer SMR-Festplatten untersuchen",
+      "teaser": "Western Digital reagiert auf die Vorwürfe von Datenrettern. Betroffene sollen den Hersteller kontaktieren.",
+      "url": "https://www.heise.de/news/WD-will-Probleme-aelterer-SMR-Festplatten-untersuchen-10870140.html",
+      "image_title": "Bild einer geöffneten Festplatte"
+    },
+    {
+      "title": "Kampf gegen Schimmel: So kann Home Assistant helfen",
+      "teaser": "Messen, rechnen, handeln: Mit Home Assistant und passenden Sensoren lassen sich leicht Automationen erstellen, mit denen Sie Schimmelbildung zuvorkommen.",
+      "url": "https://www.heise.de/ratgeber/Kampf-gegen-Schimmel-So-kann-Home-Assistant-helfen-10855096.html",
+      "image_title": "Temperatur- und Feuchtigkeitssensoren vor einem Home-Assistant-Dashboard. Das System kann helfen, Schimmel vorzubeugen."
+    },
+    {
       "title": "Lokale KI-Modelle sind jetzt brauchbar (und auf dieser Hardware laufen sie)",
       "teaser": "KI-Modelle, die auf eigener Hardware laufen, sind inzwischen deutlich besser als noch vor einigen Monaten. c't 3003 hat mehrere brauchbare Modelle gefunden.",
       "url": "https://www.heise.de/news/Lokale-KI-Modelle-sind-jetzt-brauchbar-und-auf-dieser-Hardware-laufen-sie-10864518.html"
@@ -37,16 +49,9 @@
       "image_title": "Halbleiterbauelement von Nexperia im Chipgehäuse."
     },
     {
-      "title": "Intel kommt für ein einziges Quartal aus dem Minus",
-      "teaser": "Zahlreiche außerordentliche Einnahmen bescheren Intel ein einmalig gutes Geschäftsergebnis. Schon in drei Monaten soll es wieder bergab gehen.",
-      "url": "https://www.heise.de/news/Intel-kommt-fuer-ein-einziges-Quartal-aus-dem-Minus-10864112.html",
-      "image_title": "Intel Core Ultra 200S im Mainboard"
-    },
-    {
-      "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-      "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
-      "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-10749427.html",
-      "image_title": "Workshop Mobile Device Management mit Intune"
+      "title": "RatgeberKampf gegen Schimmel: So kann Home Assistant helfen",
+      "url": "https://www.heise.de/ratgeber/Kampf-gegen-Schimmel-So-kann-Home-Assistant-helfen-10855096.html",
+      "image_title": "Temperatur- und Feuchtigkeitssensoren vor einem Home-Assistant-Dashboard. Das System kann helfen, Schimmel vorzubeugen."
     },
     {
       "title": "HintergrundNexperia-Chipkrise: Sehenden Auges ins Desaster",
@@ -58,13 +63,21 @@
       "url": "https://www.heise.de/tests/Kaufberatung-Welcher-Smart-Thermostat-der-richtige-fuer-Sie-ist-10751183.html"
     },
     {
-      "title": "RatgeberWindows sichern mit c’t-WIMage 4: Tipps & Tricks zu unserem Backup-Skript",
-      "url": "https://www.heise.de/ratgeber/Windows-sichern-mit-c-t-WIMage-4-Tipps-Tricks-zu-unserem-Backup-Skript-10637654.html"
+      "title": "Intel kommt für ein einziges Quartal aus dem Minus",
+      "teaser": "Zahlreiche außerordentliche Einnahmen bescheren Intel ein einmalig gutes Geschäftsergebnis. Schon in drei Monaten soll es wieder bergab gehen.",
+      "url": "https://www.heise.de/news/Intel-kommt-fuer-ein-einziges-Quartal-aus-dem-Minus-10864112.html",
+      "image_title": "Intel Core Ultra 200S im Mainboard"
     },
     {
       "title": "Ecovacs Deebot X11 Omni Cyclone im Test: Saugroboter mit Station ohne Beutel",
       "teaser": "Der Ecovacs X11 Omni Cyclone setzt auf beutellose Staubentsorgung und Kletterfunktion. Zudem bietet das Flaggschiff wieder eine selbstreinigende Wischwalze.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ecovacs-deebot-x11-omni-cyclone-im-test-saugroboter-mit-station-ohne-beutel/ehxtqnp?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
+      "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
+      "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-10749427.html",
+      "image_title": "Workshop Mobile Device Management mit Intune"
     },
     {
       "title": "Powertoys 0.95.1: Hotfix-Release beseitigt nervige Fehler",
@@ -115,6 +128,11 @@
       "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
     },
     {
+      "title": "Windows sichern mit c’t-WIMage 4: Tipps & Tricks zu unserem Backup-Skript",
+      "teaser": "Unser Skript c’t-WIMage erstellt Kopien Ihrer Windows-Installationen, die Sie bei Bedarf auf quasi beliebiger Hardware wiederherstellen können.",
+      "url": "https://www.heise.de/ratgeber/Windows-sichern-mit-c-t-WIMage-4-Tipps-Tricks-zu-unserem-Backup-Skript-10637654.html"
+    },
+    {
       "title": "Drei Fragen und Antworten: Identitätsmanagement ohne Identitätskrise – so geht's",
       "teaser": "Identitätsmanagement betrifft fast die ganze Unternehmens-IT – steht aber vor großen Herausforderungen. Security-Verantwortliche brauchen jetzt neue Strategien.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Identitaetsmanagement-ohne-Identitaetskrise-so-geht-s-10830677.html",
@@ -131,24 +149,6 @@
       "teaser": "Im September hat Adobe Updates für Commerce und Magento veröffentlicht, die eine kritische Lücke schließen. Die wird nun angegriffen.",
       "url": "https://www.heise.de/news/Angreifer-attackieren-kritische-Luecke-in-Adobe-Commerce-und-Magento-10845752.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "Aus Softwarefehlern lernen – Teil 5: 440 Millionen Dollar Verlust in Minuten",
-      "teaser": "Ein vergessenes Feature Flag sorgt für einen Fehlkauf an der Börse – IT-Pannen wiederholen sich nach immer gleichen Mustern. Aber wir können daraus lernen.",
-      "url": "https://www.heise.de/hintergrund/Aus-Softwarefehlern-lernen-Teil-5-440-Millionen-Dollar-Verlust-in-Minuten-10748532.html",
-      "image_title": "Tastatur mit \"Oops-Taste\""
-    },
-    {
-      "title": "AlertMicrosoft WSUS: Notfallupdate stopft kritische Codeschmuggel-Lücke",
-      "teaser": "Am Freitagmorgen hat Microsoft ein Notfall-Update für eine kritische Sicherheitslücke in WSUS veröffentlicht. Ein Exploit wurde gesichtet.",
-      "url": "https://www.heise.de/news/Microsoft-WSUS-Notfallupdate-stopft-kritische-Codeschmuggel-Luecke-10845666.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
-    },
-    {
-      "title": "Keycloak: Der anpassbare Identity Provider im Überblick",
-      "teaser": "Flexibel, leistungsfähig, quelloffen – damit bietet sich der Identity Provider Keycloak fürs Identity and Access Management on Premises und in der Cloud an.",
-      "url": "https://www.heise.de/hintergrund/Keycloak-Der-anpassbare-Identity-Provider-im-Ueberblick-10749295.html",
-      "image_title": ","
     },
     {
       "title": "News40.000 SIM-Karten konfisziert: Europol sprengt Betrügerring",
