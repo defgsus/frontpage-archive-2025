@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-24T08:13:56",
+  "timestamp": "2025-10-24T09:12:03",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,26 @@
   ],
   "articles": [
     {
+      "title": "DeepSeek-OCR: Bilder vereinfachen Texte für große Sprachmodelle",
+      "url": "https://www.heise.de/hintergrund/DeepSeek-OCR-Bilder-vereinfachen-Texte-fuer-grosse-Sprachmodelle-10845788.html"
+    },
+    {
+      "title": "OpenAI kauft Entwickler der Apple-Kurzbefehle-App – tiefer KI-Einbau in macOS",
+      "url": "https://www.heise.de/news/Tiefere-KI-Integration-fuer-macOS-Macher-von-Apples-Kurzbefehlen-gehen-zu-OpenAI-10846001.html"
+    },
+    {
+      "title": "EU-Staaten für Mindestalter in sozialen Netzen",
+      "url": "https://www.heise.de/news/EU-Staaten-fuer-Mindestalter-in-sozialen-Netzen-10849733.html"
+    },
+    {
+      "title": "Reverse Engineering: Wie sich Malware selbst verteidigt",
+      "url": "https://www.heise.de/ratgeber/Reverse-Engineering-Wie-sich-Malware-selbst-verteidigt-10638312.html"
+    },
+    {
+      "title": "Projektmanagement: Wir sind eine große Familie",
+      "url": "https://www.heise.de/blog/Projektmanagement-Wir-sind-eine-grosse-Familie-9871007.html"
+    },
+    {
       "title": "Google \"Broadwing\": 400-MW-Gaskraftwerk speichert CO₂ tief unter der Erde",
       "url": "https://www.heise.de/news/Google-Broadwing-400-MW-Gaskraftwerk-speichert-CO-tief-unter-der-Erde-10846354.html"
     },
@@ -38,32 +58,12 @@
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Identitaetsmanagement-ohne-Identitaetskrise-so-geht-s-10830677.html"
     },
     {
-      "title": "NET: Ein Herz und Sponsoring für NuGet-Maintainer",
+      "title": ".NET: Ein Herz und Sponsoring für NuGet-Maintainer",
       "url": "https://www.heise.de/news/NET-Ein-Herz-und-Sponsoring-fuer-NuGet-Maintainer-10846299.html"
     },
     {
       "title": "Netflix, Amazon und Apple angeblich an Warner-Bros.-Kauf interessiert",
       "url": "https://www.heise.de/news/Netflix-Amazon-und-Apple-angeblich-an-Warner-Bros-Kauf-interessiert-10845782.html"
-    },
-    {
-      "title": "Angreifer attackieren kritische Lücke in Adobe Commerce und Magento",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-kritische-Luecke-in-Adobe-Commerce-und-Magento-10845752.html"
-    },
-    {
-      "title": "Vor der Zeitumstellung am Wochenende: Spanien tritt alte Debatte wieder los",
-      "url": "https://www.heise.de/news/Vor-der-Zeitumstellung-am-Wochenende-Spanien-tritt-alte-Debatte-wieder-los-10845730.html"
-    },
-    {
-      "title": "Aus Softwarefehlern lernen – Teil 5: 440 Millionen Dollar Verlust in Minuten",
-      "url": "https://www.heise.de/hintergrund/Aus-Softwarefehlern-lernen-Teil-5-440-Millionen-Dollar-Verlust-in-Minuten-10748532.html"
-    },
-    {
-      "title": "Sonos-Soundbar Arc Ultra im Test",
-      "url": "https://www.heise.de/tests/Sonos-Soundbar-Arc-Ultra-im-Test-10734018.html"
-    },
-    {
-      "title": "Zehn Jahre nach Release: \"Fallout 4\" wird als Anniversary Edition neu aufgelegt",
-      "url": "https://www.heise.de/news/Zehn-Jahre-nach-Release-Fallout-4-wird-als-Anniversary-Edition-neu-aufgelegt-10845736.html"
     },
     {
       "title": "AlertMicrosoft WSUSNotfallupdate stopft kritische Codeschmuggel-Lücke",
@@ -79,7 +79,7 @@
     },
     {
       "title": "EntertainmentsystemGeneral Motors killt CarPlay und Android Auto in allen Autos",
-      "teaser": "General Motors alias GM will seinen Kunden nur noch sein eigenes Entertainmentsystem verkaufen. CarPlay muss weg – aber auch Android Auto.",
+      "teaser": "General Motors will seinen Kunden nur noch sein eigenes Entertainmentsystem verkaufen. CarPlay muss weg – aber auch Android Auto.",
       "url": "https://www.heise.de/news/General-Motors-killt-CarPlay-und-Android-Auto-in-allen-Autos-10812373.html",
       "image_title": "Ein Gebäude von General Motors"
     },
@@ -185,6 +185,40 @@
       "image_title": "Blick durch die Amazon-Datenbrille"
     },
     {
+      "title": "DeepSeek-OCR: Bilder vereinfachen Texte für große Sprachmodelle",
+      "teaser": "DeepSeek experimentiert mit einem OCR-Modell und zeigt, dass komprimierte Bilder für Berechnungen auf GPUs speicherfreundlicher sind als viele Text-Token.",
+      "url": "https://www.heise.de/hintergrund/DeepSeek-OCR-Bilder-vereinfachen-Texte-fuer-grosse-Sprachmodelle-10845788.html",
+      "image_title": "Handybildschirm mit DeepSeeks Logo"
+    },
+    {
+      "title": "OpenAI kauft Entwickler der Apple-Kurzbefehle-App – tiefer KI-Einbau in macOS",
+      "teaser": "Ari Weinstein und Conrad Kramer hatten Workflow gegründet, das dann Apple kaufte. Danach bauten sie eine KI-App für den Mac. Die Firma landet nun bei OpenAI.",
+      "url": "https://www.heise.de/news/Tiefere-KI-Integration-fuer-macOS-Macher-von-Apples-Kurzbefehlen-gehen-zu-OpenAI-10846001.html",
+      "image_title": "Sky in Aktion"
+    },
+    {
+      "title": "Schluss mit Lizenzfallen bei Remote Access",
+      "teaser": "Firmen möchten keine teuren Lizenzmodelle und starren Verträge beim IT-Support. Sie wollen eine Lösung, die sicher, flexibel und fair ist – und bei der sich Support nicht wie ein Hindernis anfühlt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7095375826&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "EU-Staaten für Mindestalter in sozialen Netzen",
+      "teaser": "In der EU mehren sich die Stimmen für Altersgrenzen auf Social Media. Nun sprechen sich auch die Mitgliedstaaten dafür aus – mit einem entscheidenden Zusatz.",
+      "url": "https://www.heise.de/news/EU-Staaten-fuer-Mindestalter-in-sozialen-Netzen-10849733.html",
+      "image_title": "Kinderhand mit Smartphone"
+    },
+    {
+      "title": "Reverse Engineering: Wie sich Malware selbst verteidigt",
+      "teaser": "Es ist eine Herausforderung, Malware aufzubrechen. Schadsoftware weist zudem häufig Funktionen auf, mit denen sie sich einer Untersuchung entzieht.",
+      "url": "https://www.heise.de/ratgeber/Reverse-Engineering-Wie-sich-Malware-selbst-verteidigt-10638312.html"
+    },
+    {
+      "title": "Projektmanagement: Wir sind eine große Familie",
+      "teaser": "Wenn der Vorgesetzte darauf hinweist, dass \"wir eine große Familie sind\", geht es meist nicht um ein bevorstehendes Fest.",
+      "url": "https://www.heise.de/blog/Projektmanagement-Wir-sind-eine-grosse-Familie-9871007.html",
+      "image_title": "Familie"
+    },
+    {
       "title": "Google \"Broadwing\": 400-MW-Gaskraftwerk speichert CO₂ tief unter der Erde",
       "teaser": "Google will Strom für seine Rechenzentren möglichst \"grün\" produzieren. Eine Möglichkeit sind Gaskraftwerke, die entstehendes CO₂ unter der Erde speichern.",
       "url": "https://www.heise.de/news/Google-Broadwing-400-MW-Gaskraftwerk-speichert-CO-tief-unter-der-Erde-10846354.html",
@@ -197,44 +231,10 @@
       "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
     },
     {
-      "title": "Stets souverän: Die digitale Strategie des FC Bayern München",
-      "teaser": "Wenn der Ticket-Shop öffnet oder am Spieltag zehntausende Fans gleichzeitig auf die digitalen Angebote zugreifen, erleben die IT-Systeme beim FC Bayern Lastspitzen. Aufgefangen wird das durch eine Cloud-Lösung, die skalierbar ist und die volle Kontrolle über die eigenen Daten bietet.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7119168128&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Drei Fragen und Antworten: Identitätsmanagement ohne Identitätskrise – so geht's",
       "teaser": "Identitätsmanagement betrifft fast die ganze Unternehmens-IT – steht aber vor großen Herausforderungen. Security-Verantwortliche brauchen jetzt neue Strategien.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Identitaetsmanagement-ohne-Identitaetskrise-so-geht-s-10830677.html",
       "image_title": "Ein roter Spielzeugroboter mit Sprechblase"
-    },
-    {
-      "title": "NET: Ein Herz und Sponsoring für NuGet-Maintainer",
-      "teaser": "NuGet-Package-Maintainer können nun finanzielle Unterstützung durch ihre User erhalten, indem sie Sponsorship-URLs zu ihren Paketen hinzufügen.",
-      "url": "https://www.heise.de/news/NET-Ein-Herz-und-Sponsoring-fuer-NuGet-Maintainer-10846299.html",
-      "image_title": "Geldzahlung per Kreditkarte und Smartphone"
-    },
-    {
-      "title": "Netflix, Amazon und Apple angeblich an Warner-Bros.-Kauf interessiert",
-      "teaser": "Die Interessentenliste für eine Übernahme von Warner Bros. wächst. Neben Paramount sollen auch Apple, Netflix und Amazon interessiert sein, schreibt Bloomberg.",
-      "url": "https://www.heise.de/news/Netflix-Amazon-und-Apple-angeblich-an-Warner-Bros-Kauf-interessiert-10845782.html",
-      "image_title": "Logo von Warner Bros. Discovery auf Handy"
-    },
-    {
-      "title": "AlertAngreifer attackieren kritische Lücke in Adobe Commerce und Magento",
-      "teaser": "Im September hat Adobe Updates für Commerce und Magento veröffentlicht, die eine kritische Lücke schließen. Die wird nun angegriffen.",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-kritische-Luecke-in-Adobe-Commerce-und-Magento-10845752.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "Aus Softwarefehlern lernen – Teil 5: 440 Millionen Dollar Verlust in Minuten",
-      "teaser": "Ein vergessenes Feature Flag sorgt für einen Fehlkauf an der Börse – IT-Pannen wiederholen sich nach immer gleichen Mustern. Aber wir können daraus lernen.",
-      "url": "https://www.heise.de/hintergrund/Aus-Softwarefehlern-lernen-Teil-5-440-Millionen-Dollar-Verlust-in-Minuten-10748532.html",
-      "image_title": "Tastatur mit \"Oops-Taste\""
-    },
-    {
-      "title": "Sonos-Soundbar Arc Ultra im Test",
-      "teaser": "Sonos hat seine Top-Soundbar mit neuer Hard- und Software gepimpt. Doch nicht alles klingt besser.",
-      "url": "https://www.heise.de/tests/Sonos-Soundbar-Arc-Ultra-im-Test-10734018.html"
     },
     {
       "title": "ChatGPT & Co. als AnlageberaterWie Sie mit KI an der Börse Geld verdienen",
@@ -302,6 +302,35 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": ".NET: Ein Herz und Sponsoring für NuGet-Maintainer",
+      "teaser": "NuGet-Package-Maintainer können nun finanzielle Unterstützung durch ihre User erhalten, indem sie Sponsorship-URLs zu ihren Paketen hinzufügen.",
+      "url": "https://www.heise.de/news/NET-Ein-Herz-und-Sponsoring-fuer-NuGet-Maintainer-10846299.html",
+      "image_title": "Geldzahlung per Kreditkarte und Smartphone"
+    },
+    {
+      "title": "Netflix, Amazon und Apple angeblich an Warner-Bros.-Kauf interessiert",
+      "teaser": "Die Interessentenliste für eine Übernahme von Warner Bros. wächst. Neben Paramount sollen auch Apple, Netflix und Amazon interessiert sein, schreibt Bloomberg.",
+      "url": "https://www.heise.de/news/Netflix-Amazon-und-Apple-angeblich-an-Warner-Bros-Kauf-interessiert-10845782.html",
+      "image_title": "Logo von Warner Bros. Discovery auf Handy"
+    },
+    {
+      "title": "AlertAngreifer attackieren kritische Lücke in Adobe Commerce und Magento",
+      "teaser": "Im September hat Adobe Updates für Commerce und Magento veröffentlicht, die eine kritische Lücke schließen. Die wird nun angegriffen.",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-kritische-Luecke-in-Adobe-Commerce-und-Magento-10845752.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
+      "title": "Aus Softwarefehlern lernen – Teil 5: 440 Millionen Dollar Verlust in Minuten",
+      "teaser": "Ein vergessenes Feature Flag sorgt für einen Fehlkauf an der Börse – IT-Pannen wiederholen sich nach immer gleichen Mustern. Aber wir können daraus lernen.",
+      "url": "https://www.heise.de/hintergrund/Aus-Softwarefehlern-lernen-Teil-5-440-Millionen-Dollar-Verlust-in-Minuten-10748532.html",
+      "image_title": "Tastatur mit \"Oops-Taste\""
+    },
+    {
+      "title": "Sonos-Soundbar Arc Ultra im Test",
+      "teaser": "Sonos hat seine Top-Soundbar mit neuer Hard- und Software gepimpt. Doch nicht alles klingt besser.",
+      "url": "https://www.heise.de/tests/Sonos-Soundbar-Arc-Ultra-im-Test-10734018.html"
+    },
+    {
       "title": "Zehn Jahre nach Release: \"Fallout 4\" wird als Anniversary Edition neu aufgelegt",
       "teaser": "\"Fallout 4\" wird zehn Jahre – und bekommt einen Re-Release als Anniversary Edition. Die neuen Inhalte beschränken sich auf Mods aus dem Creation Club.",
       "url": "https://www.heise.de/news/Zehn-Jahre-nach-Release-Fallout-4-wird-als-Anniversary-Edition-neu-aufgelegt-10845736.html",
@@ -349,6 +378,11 @@
       "image_title": "Figur der Justitia auf Tisch; Freitag: KI-Gerichtsurteile, Google-Datenschutz, Apple-Abzocke, Binance-Begnadigung & GM-Verzicht"
     },
     {
+      "title": "Warum eine moderne Firewall KI \"sprechen\" sollte",
+      "teaser": "Künstliche Intelligenz verändert Geschäftsprozesse in rasantem Tempo – gleichzeitig nützen Kriminelle dies für ihre eigenen Zwecke. Erfahren Sie hier, wie smarte AI Firewalls helfen, neue Bedrohungen abzuwehren.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ai-firewall-so-sichern-sie-ihr-unternehmen-vor-den-risiken-von-genai-llms-4976/?source=nat_teas"
+    },
+    {
       "title": "Kläger verlangen 2,36 Milliarden US-Dollar von Google nach Datenschutzurteil",
       "teaser": "Wegen Irreführung beim Datenschutz soll Google 425 Millionen US-Dollar zahlen. Das genügt den Klägern nicht. Google sieht sich missverstanden und wehrt sich.",
       "url": "https://www.heise.de/news/Klaeger-verlangen-2-36-Milliarden-US-Dollar-von-Google-nach-Datenschutzurteil-10845598.html",
@@ -375,11 +409,6 @@
       "teaser": "iOS verrät Apps die Werbe-ID nur, wenn der Nutzer zustimmt. Die Anti-Tracking-Nachfrage könnte wegen Wettbewerbsverfahren verschwinden, warnt Apple.",
       "url": "https://www.heise.de/news/Werbe-Tracking-Nachfrage-Apple-warnt-vor-Zwangs-Aus-in-Deutschland-10830148.html",
       "image_title": "Apples ATT-Nachfrage in Apps"
-    },
-    {
-      "title": "Warum eine moderne Firewall KI \"sprechen\" sollte",
-      "teaser": "Künstliche Intelligenz verändert Geschäftsprozesse in rasantem Tempo – gleichzeitig nützen Kriminelle dies für ihre eigenen Zwecke. Erfahren Sie hier, wie smarte AI Firewalls helfen, neue Bedrohungen abzuwehren.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ai-firewall-so-sichern-sie-ihr-unternehmen-vor-den-risiken-von-genai-llms-4976/?source=nat_teas"
     },
     {
       "title": "Geoengineering gegen den Klimawandel: Viel mehr Risiken als bisher eingestanden",
@@ -409,34 +438,6 @@
       "teaser": "Fujitsu zeigt in Japan, dass auch leichte Notebooks einen einfach wechselbaren Akku haben können. Ein 16-Zöller kommt zudem mit optischem Laufwerk.",
       "url": "https://www.heise.de/news/Einhoerner-unter-Notebooks-Fujitsu-Modelle-mit-Wechselakku-Blu-ray-Laufwerk-10826614.html",
       "image_title": "Notebook von vorn vor blau-weißem Hintergrund"
-    },
-    {
-      "title": "\"Staatliche russische Unterstützung\": EU sanktioniert die Kryptowährung A7A5",
-      "teaser": "Erstmals richtet sich eine EU-Maßnahme aufgrund des Kriegs Russlands in der Ukraine gegen eine Krypto-Plattform. Es geht um einen Rubel-gedeckten Stablecoin.",
-      "url": "https://www.heise.de/news/Staatliche-russische-Unterstuetzung-EU-sanktioniert-die-Kryptowaehrung-A7A5-10826771.html",
-      "image_title": "Russische Flagge"
-    },
-    {
-      "title": "Kompakt und schnell: Fujifilm hat die APS-C-Systemkamera X-T30 III vorgestellt",
-      "teaser": "Fujifilm verbessert mit der 3. Generation der X-T30 hauptsächlich Autofokus und Prozessor. Ein neuer Weitwinkelzoom deckt 20 bis 50 Millimeter Brennweite ab.",
-      "url": "https://www.heise.de/news/Kompakt-und-schnell-Fujifilm-hat-die-APS-C-Systemkamera-X-T30-III-vorgestellt-10818769.html"
-    },
-    {
-      "title": "Nexperia-Ausfall: Die Autoindustrie versucht, einem Halbleitermangel zu begegnen",
-      "teaser": "Wie will die Autoindustrie Produktionsausfälle durch mögliche Lieferausfälle beim Halbleiter-Lieferanten Nexperia verhindern?",
-      "url": "https://www.heise.de/news/Nexperia-Ausfall-Die-Autoindustrie-versucht-einem-Halbleitermangel-zu-begegnen-10823128.html",
-      "image_title": "Autofertigung_bei_VW"
-    },
-    {
-      "title": "Seekabel: EU warnt vor Abhängigkeit von US-Hyperscalern",
-      "teaser": "Ein EU-Bericht warnt vor Europas Abhängigkeit von US-Technologiekonzernen bei Unterseekabeln und kritischen Komponenten. Auch die Reparatur ist gefährdet.",
-      "url": "https://www.heise.de/news/Seekabel-EU-warnt-vor-Abhaengigkeit-von-US-Hyperscalern-10824923.html",
-      "image_title": "Unterseekabel"
-    },
-    {
-      "title": "Saugroboter Mova Z60 Ultra Roller im Test: Der walzt alles weg",
-      "teaser": "Der Mova Z60 Ultra Roller bietet eine Wischwalze mit Selbstreinigung, Doppelbürste gegen Haare, starke Hindernisüberwindung und eine große All-in-One-Station.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-mova-z60-ultra-roller-im-test-der-walzt-alles-weg/2qg9jq8?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Falschinformation durch KI: 45 Prozent der Antworten fehlerhaft",
@@ -489,14 +490,13 @@
       "image_title": "Screenshot aus \"Star Wars Outlaws\""
     },
     {
+      "title": "Kompakt und schnell: Fujifilm hat die APS-C-Systemkamera X-T30 III vorgestellt",
+      "url": "https://www.heise.de/news/Kompakt-und-schnell-Fujifilm-hat-die-APS-C-Systemkamera-X-T30-III-vorgestellt-10818769.html"
+    },
+    {
       "title": "Leica M EV1: Die M-Serie im Wandel – erstmals mit elektronischem Sucher",
       "url": "https://www.heise.de/news/Leica-M-EV1-Die-M-Serie-im-Wandel-erstmals-mit-elektronischem-Sucher-10766674.html",
       "image_title": "Leica M EV1"
-    },
-    {
-      "title": "Unterschätzte Dreier: Der BMW 318is – der M3 des kleinen Mannes",
-      "url": "https://www.heise.de/hintergrund/Unterschaetzte-Dreier-Der-BMW-318is-der-M3-des-kleinen-Mannes-10666328.html",
-      "image_title": "BMW 318is"
     },
     {
       "title": "Verbrenner-Aus: Frankreich und Spanien schlagen Super-Credits vor",
@@ -609,9 +609,9 @@
       "url": "https://www.heise.de/en/news/Have-I-Been-Pwned-183-Million-Credentials-Stolen-by-Infostealers-Added-10794050.html"
     },
     {
-      "title": "Sonos-Soundbar Arc Ultra im Test",
-      "teaser": "Sonos hat seine Top-Soundbar mit neuer Hard- und Software gepimpt. Doch nicht alles klingt besser.",
-      "url": "https://www.heise.de/tests/Sonos-Soundbar-Arc-Ultra-im-Test-10734018.html"
+      "title": "Filmkritik BugoniaKlassenkampf gegen Aliens",
+      "teaser": "Wer ist hier verrückt? Die Konzernchefin, die den Planeten ausbeutet, oder der Verschwörungstheoretiker, der sie stoppen will?",
+      "url": "https://www.heise.de/meinung/Filmkritik-Bugonia-Klassenkampf-gegen-Aliens-10789153.html"
     },
     {
       "title": "Vorsicht KundeUnsichere Packstation",
@@ -619,9 +619,10 @@
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Unsichere-Packstation-10845620.html"
     },
     {
-      "title": "FAQ zu Windows 10 als VM unter Linux",
-      "teaser": "Wir haben gezeigt, wie eine Installation von Windows 10 unter Linux in einer VM weiterleben kann. Heute antworten wir auf Fragen, die uns dazu erreicht haben.",
-      "url": "https://www.heise.de/ratgeber/FAQ-zu-Windows-10-als-VM-unter-Linux-10765022.html"
+      "title": "\"Quantum Echoes\"Google präsentiert neuen Quantenalgorithmus",
+      "teaser": "13.000-mal schneller als herkömmliche Methoden: Googles Algorithmus dreht die Zeit zurück und bringt reale Quanten-Anwendungen näher.",
+      "url": "https://www.heise.de/news/Google-praesentiert-neuen-Quantenalgorithmus-Quantum-Echos-10794626.html",
+      "image_title": "Quantencomputer von Google"
     },
     {
       "title": "Zocken ohne MühenMythic startet Windows-Spiele am Mac",
@@ -659,11 +660,6 @@
       "image_title": "Der Pod ist mit aufgeschraubtem Gehäuse zu sehen. Man sieht Platinen und Kabel."
     },
     {
-      "title": "Standardzoom im Test: Nikkor Z 24-70 mm f/2.8 S II",
-      "teaser": "Nikons Standardzoom vereint einen flexiblen Brennweitenbereich mit hoher Lichtstärke und exzellenter Leistung. Nun geht die zweite Generation ins Rennen.",
-      "url": "https://www.heise.de/tests/Standardzoom-im-Test-Nikkor-Z-24-70-mm-f-2-8-S-II-10793999.html"
-    },
-    {
       "title": "Noch eine kurze, dicke Tüte und APS-C-Nikkore – Fotonews der Woche 42/2025",
       "teaser": "Nach Sigma stellt auch Laowa ein 200mm, f/2.0 vor – auch für Canons EF-Bajonett. Und Nikon bringt endlich lichtstarke APS-C-Objektive für den Z-Mount.",
       "url": "https://www.heise.de/news/Noch-eine-kurze-dicke-Tuete-und-APS-C-Nikkore-Fotonews-der-Woche-42-2025-10778581.html"
@@ -678,6 +674,12 @@
       "teaser": "Die Normandie ist bekannt für ihre alabasterfarbenen Felsklippen, die bereits Ende des 19. Jahrhunderts vielen Künstlern als Inspirationsquelle dienten.",
       "url": "https://www.heise.de/ratgeber/Fotografie-Unterwegs-in-der-Normandie-auf-den-Spuren-der-Impressionisten-10733354.html",
       "image_title": "Alabasterküste, Alle Bilder: Mark Robertz"
+    },
+    {
+      "title": "Im Raketenfeuer: Click Boom Flash # 48 \"Optische Diagnostik in der Brennkammer\"",
+      "teaser": "\"Man gewöhnt sich nicht dran. Da beschleunigt der Puls und man hofft, dass alles gut geht\", sagt Michael Börner vom Deutschen Zentrum für Luft- und Raumfahrt.",
+      "url": "https://www.heise.de/news/Im-Raketenfeuer-Click-Boom-Flash-48-Optische-Diagnostik-in-der-Brennkammer-10748671.html",
+      "image_title": "Test eines LOX/Methan-Technologiedemonstrators am Prüfstand P3"
     },
     {
       "title": "Platform EngineeringDeveloper-Plattformen systematisch bewerten",
@@ -695,6 +697,17 @@
       "url": "https://www.heise.de/hintergrund/Kratix-kubriX-und-OpenChoreo-Developer-Plattformen-fuer-Kubernetes-im-Vergleich-10513140.html"
     },
     {
+      "title": "Unterhaltskosten im VergleichAudi Q4, BMW iX1 und VW ID.4 im Check",
+      "teaser": "Mit Premiumherstellern verbindet man oftmals auch Premiumpreise. Eine Einschätzung, die beim Vergleich dreier Elektro-SUVs aus Deutschland nicht ganz zutrifft.",
+      "url": "https://www.heise.de/ratgeber/Kompakte-Elektro-SUVs-im-Vergleich-Das-kosten-Audi-Q4-BMW-iX1-und-VW-ID-4-10621153.html"
+    },
+    {
+      "title": "Wie die Autoindustrie Chipmangel begegnen willNexperia-Ausfall",
+      "teaser": "Wie will die Autoindustrie Produktionsausfälle durch mögliche Lieferausfälle beim Halbleiter-Lieferanten Nexperia verhindern?",
+      "url": "https://www.heise.de/news/Nexperia-Ausfall-Die-Autoindustrie-versucht-einem-Halbleitermangel-zu-begegnen-10823128.html",
+      "image_title": "Autofertigung_bei_VW"
+    },
+    {
       "title": "Ab 2026 keine E-Tretroller mehr in PragPrag reformiert Mikromobilität",
       "teaser": "In der tschechischen Hauptstadt Prag dürfen nach einem Referendum und einem Stadtratsbeschluss ab 2026 keine E-Scooter mehr aufgestellt werden.",
       "url": "https://www.heise.de/news/Prag-verbannt-Elektro-Tretroller-ab-2026-aus-der-Innenstadt-10811535.html",
@@ -705,18 +718,6 @@
       "teaser": "Der ehemalige Konzernchef Diess verlässt Volkswagen und geht in den Ruhestand, nachdem er zuletzt mehr Geld bekam als der aktuelle CEO.",
       "url": "https://www.heise.de/news/Herbert-Diess-verlaesst-Volkswagen-endgueltig-10811082.html",
       "image_title": "VW ID.3 2020"
-    },
-    {
-      "title": "Gewinnrückgang trotz VerkaufsrekordTesla verkauft mehr Autos als zuvor",
-      "teaser": "Für Tesla läuft es derzeit nicht gut. Die Marke konnte im dritten Quartal durch einen Sondereffekt zwar mehr Autos verkaufen, macht aber weniger Gewinn.",
-      "url": "https://www.heise.de/news/Tesla-Verkaufsrekord-und-Gewinnrueckgang-10811066.html",
-      "image_title": "Tesla Model Y"
-    },
-    {
-      "title": "Drohende ChipkriseVW spricht von \"dynamischer Lage\", Mercedes bleibt gelassen",
-      "teaser": "Produktionsengpässen durch das Lieferverbot für Nexperia sieht Mercedes gelassen entgegen, VW hält sie für möglich.",
-      "url": "https://www.heise.de/news/Drohende-Chipkrise-VW-spricht-von-dynamischer-Lage-Mercedes-bleibt-gelassen-10794555.html",
-      "image_title": "BMW Steuergeräte"
     },
     {
       "title": "Top 10: Balkonkraftwerk mit Speicher im Test – Top-Modelle zum Bestpreis",
@@ -739,22 +740,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Sanktionswelle trifft russische Ölindustrie ins Mark",
-      "teaser": "Die USA setzen Rosneft und Lukoil auf die schwarze Liste. Indien und China müssen ihre Ölimporte drastisch kürzen.",
-      "url": "https://www.heise.de/tp/features/Sanktionswelle-trifft-russische-Oelindustrie-ins-Mark-10826661.html",
-      "image_title": "Ölfasser mit russischer Trikolore."
+      "title": "Supermacht-Konkurrenz: China überholt die USA bei der Atomenergie",
+      "teaser": "Während die USA bei Kernkraftwerken mit Verzögerungen und Kostenexplosionen kämpfen, baut China Reaktoren in Rekordzeit. Ein Wettlauf mit globalen Folgen.",
+      "url": "https://www.heise.de/tp/features/Supermacht-Konkurrenz-China-ueberholt-die-USA-bei-der-Atomenergie-10817861.html",
+      "image_title": "Das Foto zeigt Kühltürme eines chinesischen Kraftwerks."
     },
     {
-      "title": "Von Verbündeten zu Feinden: Pakistan und die Taliban im Clinch",
-      "teaser": "Die Bombardierung Kabuls durch Pakistan eskalierte die Lage im Oktober. Nun verhandeln beide Seiten in Doha, allerdings mit wenig Aussicht auf Erfolg.",
-      "url": "https://www.heise.de/tp/features/Von-Verbuendeten-zu-Feinden-Pakistan-und-die-Taliban-im-Clinch-10783507.html",
-      "image_title": "Lkw auf einem staubigen Parkplatz inmitten hoher Berge"
+      "title": "Gesetzesnovelle: Energiespeicher weiter im Schatten des Gases",
+      "teaser": "Die Regierung plant Milliarden für Gasspeicher ein, während private Investoren 200 Milliarden in Stromspeicher stecken wollen – ohne Erfolg.",
+      "url": "https://www.heise.de/tp/features/Gesetzesnovelle-Energiespeicher-weiter-im-Schatten-des-Gases-10807462.html",
+      "image_title": "Zwei Ingenieure mit Sicherheitsausrüstung und Schutzhüten für hohe Sicht diskutieren auf einem Laptop vor großen kugelförmigen Gasspeichertanks in einer industriellen Küstenanlage über Projektpläne."
     },
     {
-      "title": "Polens Blockade: Warum die Nord-Stream-Aufklärung stockt",
-      "teaser": "Polens Gericht blockiert Auslieferung eines Nord-Stream-Verdächtigen. Die Regierung begrüßt die Entscheidung. Was steckt dahinter? Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Polens-Blockade-Warum-die-Nord-Stream-Aufklaerung-stockt-10794367.html",
-      "image_title": "Zwei Gasflammen"
+      "title": "Weichenstellung bei der Bahn: DB Cargo-Chefin Nikutta muss gehen",
+      "teaser": "Sigrid Nikutta verliert ihren Posten als Vorstandschefin der Güterverkehrssparte. Ein vernichtendes Gutachten und Gewerkschaftskritik haben ihr Schicksal besiegelt.",
+      "url": "https://www.heise.de/tp/features/Weichenstellung-bei-der-Bahn-DB-Cargo-Chefin-Nikutta-muss-gehen-10813227.html",
+      "image_title": "Zugweichen"
     },
     {
       "title": "Rückenprobleme im Homeoffice? Die unbequeme Wahrheit über meinen Bürostuhl",
