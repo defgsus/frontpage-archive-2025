@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-28T09:11:14",
+  "timestamp": "2025-10-28T10:11:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,18 @@
   ],
   "articles": [
     {
-      "title": "Python Software Foundation: Chancengleichheit wichtiger als US-Fördergelder",
+      "title": "Software Testing: Dynamische Analyse für Embedded Systems",
+      "teaser": "Richard Seidl diskutiert in dieser Podcastepisode mit Alexander Weiss und Martin Heininger über die Tücken beim Test von Gerätefirmware.",
+      "url": "https://www.heise.de/blog/Software-Testing-Dynamische-Analyse-fuer-Embedded-Systems-10960957.html",
+      "image_title": "Software Testing: Dynamische Analyse für Embedded Systeme"
+    },
+    {
+      "title": "Docker Desktop: Windows-Installer für Ausführung von Schadcode anfällig",
+      "teaser": "Eine aktualisierte Docker-Desktop-Version schließt unter anderem eine DLL-Hijacking-Lücke im Windows-Installer.",
+      "url": "https://www.heise.de/news/Docker-Desktop-Windows-Installer-fuer-Ausfuehrung-von-Schadcode-anfaellig-10961071.html"
+    },
+    {
+      "title": "DiversityDEI-Abschaffung in den USA: Python Software Foundation zieht Förderantrag zurück",
       "teaser": "Die PSF verzichtet auf mögliche Fördergelder, weil die Vorgaben dafür explizit Programme zur Förderung der Chancengleichheit nach dem DEI verbieten.",
       "url": "https://www.heise.de/news/Python-Software-Foundation-Chancengleichheit-wichtiger-als-US-Foerdergelder-10960933.html",
       "image_title": "Mann in Anzug hält breit gefächerte Dollarscheine in die Kamera"
@@ -38,15 +49,9 @@
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
-      "title": "Tipp: Apple Handoff an Mac, iPhone und iPad deaktivieren",
-      "teaser": "Apples praktische Handoff-Funktionen können stören, wenn etwa unerwartet auf einem anderen Gerät kopierter Text eingefügt wird. So schalten Sie das ab.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Apple-Handoff-an-Mac-iPhone-und-iPad-deaktivieren-6350403.html"
-    },
-    {
-      "title": "Für Googles KI: Stillgelegtes US-Atomkraftwerk wird reaktiviert",
-      "teaser": "Anwendungen mit Künstlicher Intelligenz brauchen immer mehr Energie. Die Tech-Konzerne setzen verstärkt auf Atomkraft.",
-      "url": "https://www.heise.de/news/US-Atomkraftwerk-soll-fuer-Google-KI-wieder-ans-Netz-10961029.html",
-      "image_title": "Atomkraftwerk Duane Arnold Energy Center"
+      "title": "RatgeberFAQ zu iOS 26 und iPadOS 26: So lösen Sie Probleme mit Apples neuen Systemen",
+      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Die-besten-Tipps-zu-iOS-26-und-iPadOS-26-10782011.html",
+      "image_title": "FAQ zu iOS 26 und iPadOS 26"
     },
     {
       "title": "HintergrundMarktübersicht: Ethernet-Switches mit Ports für 2,5 und 5 GBit/s",
@@ -58,8 +63,15 @@
       "url": "https://www.heise.de/ratgeber/Wasserabschalter-mit-Ikea-ZigBee-Komponenten-basteln-10679032.html"
     },
     {
-      "title": "RatgeberWie man mit Fan Control die Lüftersteuerung optimiert",
-      "url": "https://www.heise.de/ratgeber/Wie-man-mit-Fan-Control-die-Lueftersteuerung-optimiert-10641217.html"
+      "title": "Tipp: Apple Handoff an Mac, iPhone und iPad deaktivieren",
+      "teaser": "Apples praktische Handoff-Funktionen können stören, wenn etwa unerwartet auf einem anderen Gerät kopierter Text eingefügt wird. So schalten Sie das ab.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Apple-Handoff-an-Mac-iPhone-und-iPad-deaktivieren-6350403.html"
+    },
+    {
+      "title": "Für Googles KI: Stillgelegtes US-Atomkraftwerk wird reaktiviert",
+      "teaser": "Anwendungen mit Künstlicher Intelligenz brauchen immer mehr Energie. Die Tech-Konzerne setzen verstärkt auf Atomkraft.",
+      "url": "https://www.heise.de/news/US-Atomkraftwerk-soll-fuer-Google-KI-wieder-ans-Netz-10961029.html",
+      "image_title": "Atomkraftwerk Duane Arnold Energy Center"
     },
     {
       "title": "c't-Workshop: Docker und Container in der Praxis",
@@ -83,6 +95,11 @@
       "teaser": "Die Lüfterregelung des Mini-ITX-Gaming-Bauvorschlags wird mit Fan Control noch besser. Wir zeigen, wie man mit Sensoren und Lüfterkurven ein Regelwerk erstellt.",
       "url": "https://www.heise.de/ratgeber/Mit-Fan-Control-die-Luefter-des-Mini-ITX-Gaming-Bauvorschlag-leise-machen-10676008.html",
       "image_title": "Der Mini-ITX-Bauvorschlag aus c’t 19/2025."
+    },
+    {
+      "title": "Wie man mit Fan Control die Lüftersteuerung optimiert",
+      "teaser": "Das kostenlose Windows-Tool Fan Control steuert Gehäuse-, Grafikkarten- und CPU-Lüfter, fasst Sensoren zu Gruppen zusammen und hat noch einige Tricks auf Lager.",
+      "url": "https://www.heise.de/ratgeber/Wie-man-mit-Fan-Control-die-Lueftersteuerung-optimiert-10641217.html"
     },
     {
       "title": "Scharfe Kritik am EU-Rahmenwerk für Cloud-Souveränität",
@@ -130,22 +147,6 @@
       "teaser": "Kann KI mit der Google-Suche mithalten? Forscher sind dem nachgegangen und stellten fest, dass es noch einige gravierende Unterschiede zwischen den Tools gibt.",
       "url": "https://www.heise.de/news/KI-Suche-statt-Google-Forscher-zeigen-wo-die-Chatbots-noch-hinterherhinken-10916914.html",
       "image_title": "Person nutzt auf einem iPhone die Google-Suche"
-    },
-    {
-      "title": "Wie quantensichere Kryptografie Computer langfristig absichert",
-      "teaser": "Große und mächtige Quantencomputer bedrohen in der Zukunft die klassischen kryptografischen Verfahren. Doch es gibt eine Lösung: Post-Quanten-Kryptografie.",
-      "url": "https://www.heise.de/hintergrund/Wie-quantensichere-Kryptografie-Computer-langfristig-absichert-10646508.html"
-    },
-    {
-      "title": "Wie Quantencomputer Banken und Versicherungen bedrohen",
-      "teaser": "Sobald Quantencomputer leistungsfähig genug sind, wäre herkömmliche Kryptografie in Gefahr. Wir zeigen am Beispiel der Finanzindustrie, was das bedeutet.",
-      "url": "https://www.heise.de/ratgeber/Wie-Quantencomputer-Banken-und-Versicherungen-bedrohen-10646496.html"
-    },
-    {
-      "title": "Neuer Expertenrat für KI-Leapfrogging: Bundesregierung holt sich Unterstützung",
-      "teaser": "15 Wissenschaftler und Unternehmer sollen der Bundesregierung beim Künstliche-Intelligenz-Leapfrogging helfen.",
-      "url": "https://www.heise.de/news/KI-und-Wettbewerb-Kommission-soll-Wirtschaftsministerium-beraten-10917215.html",
-      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
     },
     {
       "title": "NewsMicrosoft Teams kann ab Dezember Büroanwesenheit erfassen",
