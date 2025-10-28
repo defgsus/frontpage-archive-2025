@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-28T11:08:46",
+  "timestamp": "2025-10-28T12:19:41",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,42 @@
   ],
   "articles": [
     {
-      "title": "Keycloak: Der anpassbare Identity Provider im Überblick",
-      "teaser": "Flexibel, leistungsfähig, quelloffen – damit bietet sich der Identity Provider Keycloak fürs Identity and Access Management on Premises und in der Cloud an.",
-      "url": "https://www.heise.de/hintergrund/Keycloak-Der-anpassbare-Identity-Provider-im-Ueberblick-10749295.html",
+      "title": "Python-Webframework: Django-Developer nutzen zunehmend HTMX und Alpine.js",
+      "teaser": "Das Webframework für Python feiert schon seinen 20. Geburtstag. Eine neue Studie zeigt, welche JavaScript-Libraries am häufigsten damit kombiniert werden.",
+      "url": "https://www.heise.de/news/Python-Webframework-Django-Developer-nutzen-zunehmend-HTMX-und-Alpine-js-10961300.html",
+      "image_title": "Eine Hand deutet auf den Schriftzug Python"
+    },
+    {
+      "title": "ChatGPT reagiert jetzt fast immer erwünscht auf sensible Themen",
+      "teaser": "Millionen Menschen sprechen wöchentlich weltweit mit ChatGPT über suizidale Pläne. OpenAI möchte besser reagieren.",
+      "url": "https://www.heise.de/news/ChatGPT-OpenAI-verbessert-Antworten-bei-sensiblen-Fragen-10961059.html",
+      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
+    },
+    {
+      "title": "IBM CloudIBM zieht sich aus VMware-Geschäft zurück",
+      "teaser": "Ab Ende Oktober können Neukunden keine VMware-Lizenzen mehr über IBM Cloud beziehen. Bestandskunden sind aktuell nicht betroffen.",
+      "url": "https://www.heise.de/news/IBM-stellt-Vertrieb-von-VMware-on-IBM-Cloud-ein-10961380.html",
+      "image_title": "IBM-Logo auf einem Gebäude, blauer Himmel"
+    },
+    {
+      "title": "Anthropic bringt KI-Assistent Claude als Excel-Add-in",
+      "teaser": "Anthropic veröffentlicht Claude for Excel als Beta-Version. Die KI liest, analysiert und modifiziert Tabellen direkt in der Tabellenkalkulation.",
+      "url": "https://www.heise.de/news/Anthropic-bringt-KI-Assistent-Claude-als-Excel-Add-in-10961244.html",
+      "image_title": "Würfel mit Börsenkurve, Münzen und Taschenrechner"
+    },
+    {
+      "title": "RatgeberFAQ zu iOS 26 und iPadOS 26: So lösen Sie Probleme mit Apples neuen Systemen",
+      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Die-besten-Tipps-zu-iOS-26-und-iPadOS-26-10782011.html",
+      "image_title": "FAQ zu iOS 26 und iPadOS 26"
+    },
+    {
+      "title": "HintergrundMarktübersicht: Ethernet-Switches mit Ports für 2,5 und 5 GBit/s",
+      "url": "https://www.heise.de/hintergrund/Marktuebersicht-Ethernet-Switches-mit-Ports-fuer-2-5-und-5-GBit-s-10751125.html",
       "image_title": ","
+    },
+    {
+      "title": "RatgeberWasserabschalter mit Ikea-ZigBee-Komponenten basteln",
+      "url": "https://www.heise.de/ratgeber/Wasserabschalter-mit-Ikea-ZigBee-Komponenten-basteln-10679032.html"
     },
     {
       "title": "Apple liefert Trainingsdaten für KI-Bild-Editierung mit Googles Nano Banana",
@@ -48,20 +80,6 @@
       "teaser": "Die Smallthing Studios erwecken mit \"Simon the Sorcerer Origins\" eine alte Point & Click-Legende zu neuem Leben. Clever, witzig, unterhaltsam.",
       "url": "https://www.heise.de/news/Simon-the-Sorcerer-Origins-Cleveres-Comeback-10961214.html",
       "image_title": "Neue Simon-Optik"
-    },
-    {
-      "title": "RatgeberFAQ zu iOS 26 und iPadOS 26: So lösen Sie Probleme mit Apples neuen Systemen",
-      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Die-besten-Tipps-zu-iOS-26-und-iPadOS-26-10782011.html",
-      "image_title": "FAQ zu iOS 26 und iPadOS 26"
-    },
-    {
-      "title": "HintergrundMarktübersicht: Ethernet-Switches mit Ports für 2,5 und 5 GBit/s",
-      "url": "https://www.heise.de/hintergrund/Marktuebersicht-Ethernet-Switches-mit-Ports-fuer-2-5-und-5-GBit-s-10751125.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberWasserabschalter mit Ikea-ZigBee-Komponenten basteln",
-      "url": "https://www.heise.de/ratgeber/Wasserabschalter-mit-Ikea-ZigBee-Komponenten-basteln-10679032.html"
     },
     {
       "title": "Ikea: Kampagne wirbt mit \"Äpple\" und angebissenem Apfel – Apple involviert?",
@@ -130,23 +148,6 @@
       "teaser": "Die Wikipedia ist Elon Musk ein Dorn im Auge, Anfang des Monats hat er eine KI-generierte Alternative angekündigt. Diese Grokipedia ist nun abrufbar.",
       "url": "https://www.heise.de/news/Wikipedia-Alternative-von-Elon-Musk-Grokipedia-mit-885-000-Artikeln-freigegeben-10960496.html",
       "image_title": "Das Logo von Grok auf einem Smartphone"
-    },
-    {
-      "title": "Mit Fan Control die Lüfter des Mini-ITX-Gaming-Bauvorschlag leise machen",
-      "teaser": "Die Lüfterregelung des Mini-ITX-Gaming-Bauvorschlags wird mit Fan Control noch besser. Wir zeigen, wie man mit Sensoren und Lüfterkurven ein Regelwerk erstellt.",
-      "url": "https://www.heise.de/ratgeber/Mit-Fan-Control-die-Luefter-des-Mini-ITX-Gaming-Bauvorschlag-leise-machen-10676008.html",
-      "image_title": "Der Mini-ITX-Bauvorschlag aus c’t 19/2025."
-    },
-    {
-      "title": "Wie man mit Fan Control die Lüftersteuerung optimiert",
-      "teaser": "Das kostenlose Windows-Tool Fan Control steuert Gehäuse-, Grafikkarten- und CPU-Lüfter, fasst Sensoren zu Gruppen zusammen und hat noch einige Tricks auf Lager.",
-      "url": "https://www.heise.de/ratgeber/Wie-man-mit-Fan-Control-die-Lueftersteuerung-optimiert-10641217.html"
-    },
-    {
-      "title": "Scharfe Kritik am EU-Rahmenwerk für Cloud-Souveränität",
-      "teaser": "Der europäische Cloud-Anbieterverband CISPE wirft der EU vor, mit ihrem neuen Souveränitäts-Framework Verwirrung zu stiften und US-Anbieter zu bevorzugen.",
-      "url": "https://www.heise.de/news/Scharfe-Kritik-am-EU-Rahmenwerk-fuer-Cloud-Souveraenitaet-10919739.html",
-      "image_title": "Wolke mit rotem X"
     },
     {
       "title": "NewsMicrosoft Teams kann ab Dezember Büroanwesenheit erfassen",
