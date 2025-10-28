@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-28T10:11:40",
+  "timestamp": "2025-10-28T11:08:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,20 @@
   ],
   "articles": [
     {
+      "title": "AlertDocker Desktop:Windows-Installer für Ausführung von Schadcode anfällig",
+      "teaser": "Eine aktualisierte Docker-Desktop-Version schließt unter anderem eine DLL-Hijacking-Lücke im Windows-Installer.",
+      "url": "https://www.heise.de/news/Docker-Desktop-Windows-Installer-fuer-Ausfuehrung-von-Schadcode-anfaellig-10961071.html"
+    },
+    {
       "title": "AlertUbiquiti UniFi AccessAngreifer können sich unbefugt Zugriff verschaffen",
       "teaser": "In Ubiquitis UniFi Door Access klafft eine kritische Sicherheitslücke, die Angreifern unbefugten Zugriff ermöglicht.",
       "url": "https://www.heise.de/news/Ubiquiti-UniFi-Access-Angreifer-koennen-sich-unbefugt-Zugriff-verschaffen-10900318.html",
       "image_title": "Ubiquiti UniFi Door Access mit Warndreieck"
     },
     {
-      "title": "heise security WebinarNIS-2 rechtssicher im Unternehmen umsetzen",
-      "teaser": "Unser Webinar erklärt, ob Ihr Unternehmen von NIS-2 betroffen ist, welche Pflichten da auf Sie zukommen und wie Sie das praktisch hinbekommen.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-NIS-2-rechtssicher-im-Unternehmen-umsetzen-10793343.html",
-      "image_title": "NIS-2"
-    },
-    {
-      "title": "AlertAngreifer können Authentifizierung bei Dell Storage Manager umgehen",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Authentifizierung-bei-Dell-Storage-Manager-umgehen-10900228.html",
-      "image_title": "Ein symbolisches Schild erinnert ein Updates."
+      "title": "AlertProxmon Backup Server: Angreifer können Backup-Snapshots zerstören",
+      "url": "https://www.heise.de/news/Proxmon-Backup-Server-Angreifer-koennen-Backup-Snapshots-zerstoeren-10961168.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "Auslegungssache 145: Social Media im Würgegriff der EU?",
@@ -77,15 +76,16 @@
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
+      "title": "AlertProxmon Backup Server: Angreifer können Backup-Snapshots zerstören",
+      "teaser": "Die Entwickler der Backuplösung Proxmon Backup Server haben Sicherheitslücken geschlossen. Bislang gibt es keine Berichte zu Attacken.",
+      "url": "https://www.heise.de/news/Proxmon-Backup-Server-Angreifer-koennen-Backup-Snapshots-zerstoeren-10961168.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
       "title": "\"Darknet Diaries Deutsch\": Angriffspunkt Mensch",
       "teaser": "Der Sicherheitsberater und Meister des Social Engineering Christopher Hadnagy erzählt spannende Geschichten aus seiner langen Karriere als Human Hacker.",
       "url": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Angriffspunkt-Mensch-10811226.html",
       "image_title": "Aufmacherbild Darknet Diaries Deutsch"
-    },
-    {
-      "title": "Docker Desktop: Windows-Installer für Ausführung von Schadcode anfällig",
-      "teaser": "Eine aktualisierte Docker-Desktop-Version schließt unter anderem eine DLL-Hijacking-Lücke im Windows-Installer.",
-      "url": "https://www.heise.de/news/Docker-Desktop-Windows-Installer-fuer-Ausfuehrung-von-Schadcode-anfaellig-10961071.html"
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -147,6 +147,12 @@
       "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
+      "title": "heise security Webinar: NIS-2 rechtssicher im Unternehmen umsetzen",
+      "teaser": "Unser Webinar erklärt, ob Ihr Unternehmen von NIS-2 betroffen ist, welche Pflichten da auf Sie zukommen und wie Sie das praktisch hinbekommen.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-NIS-2-rechtssicher-im-Unternehmen-umsetzen-10793343.html",
+      "image_title": "NIS-2"
+    },
+    {
       "title": "AlertOpenWrt: Updates schließen Sicherheitslücken in Router-Betriebssystem",
       "teaser": "Zwei als hochriskant geltende Sicherheitslücken haben die Entwickler des quelloffenen Router-Betriebssystems OpenWrt geschlossen.",
       "url": "https://www.heise.de/news/OpenWRT-Updates-schliessen-Sicherheitsluecken-in-Router-Betriebssystem-10811056.html",
@@ -163,12 +169,6 @@
       "teaser": "Seit den Update-Vorschauen aus dem August klemmt die Netzwerkanmeldung von geklonten Windows-Installationen mit identischen SIDs.",
       "url": "https://www.heise.de/news/Windows-Anmeldeprobleme-im-Netz-mit-geklonten-SIDs-10794271.html",
       "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
-    },
-    {
-      "title": "AlertKritische Schadcode-Lücken bedrohen TP-Link Omada Gateways",
-      "teaser": "Wichtige Sicherheitspatches schließen Schwachstellen in Omada Gateways. Netzwerkadmins sollten zügig handeln.",
-      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-TP-Link-Omada-Gateways-10794139.html",
-      "image_title": "Eine Frau drück auf einen symbolischen Updateknopf."
     },
     {
       "title": "Workshop | 10. – 12.11.2025Sich selbst hacken - Pentesting mit Open-Source-Werkzeugen",
