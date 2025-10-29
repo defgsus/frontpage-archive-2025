@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-29T11:09:15",
+  "timestamp": "2025-10-29T12:20:29",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,7 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Rust für unternehmenskritische Anwendungen: Online-Konferenz betterCode() Rust",
+      "title": "China nimmt windkraftbetriebenes Unterwasser-Rechenzentrum in Betrieb",
+      "url": "https://www.heise.de/news/China-nimmt-windkraftbetriebenes-Unterwasser-Rechenzentrum-in-Betrieb-10963063.html"
+    },
+    {
+      "title": "\"Flekst0re\": Alternativer iOS-Marktplatz verändert bekannte Apps",
+      "url": "https://www.heise.de/news/iOS-Sicherheitsforscher-warnen-vor-Third-Party-App-Store-Flekst0re-10961981.html"
+    },
+    {
+      "title": "U.S. Air Force fliegt in Hurrikan \"Melissa\" und zeigt Bilder",
+      "url": "https://www.heise.de/news/U-S-Air-Force-fliegt-in-Hurrikan-Melissa-und-zeigt-Bilder-10962950.html"
+    },
+    {
+      "title": "Programmiersprache Rust: Alles Wichtige für unternehmenskritische Anwendungen",
       "url": "https://www.heise.de/news/Rust-fuer-unternehmenskritische-Anwendungen-Online-Konferenz-betterCode-Rust-10907163.html"
     },
     {
@@ -34,7 +46,7 @@
       "url": "https://www.heise.de/ratgeber/Bastelanleitung-Joystick-aus-IKEA-Kiste-bauen-10734027.html"
     },
     {
-      "title": "Chrome warnt ab 2026 standardmäßig vor HTTP-Verbindungen",
+      "title": "Google macht Schluss mit unsicheren HTTP-Verbindungen in Chrome",
       "url": "https://www.heise.de/news/Chrome-warnt-ab-2026-standardmaessig-vor-HTTP-Verbindungen-10962838.html"
     },
     {
@@ -52,18 +64,6 @@
     {
       "title": "Jetzt patchen! Attacken auf DELMIA Apriso beobachtet",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-DELMIA-Apriso-beobachtet-10962858.html"
-    },
-    {
-      "title": "Kinderporno-Plattformen im Darknet stillgelegt",
-      "url": "https://www.heise.de/news/Schlag-gegen-paedokriminelle-Darknet-Videoplattformen-10962747.html"
-    },
-    {
-      "title": "Bericht: Apples Diensteabteilung überholt Umsatz von Tesla",
-      "url": "https://www.heise.de/news/Bericht-Apples-Diensteabteilung-ueberholt-Umsatz-von-Tesla-10961580.html"
-    },
-    {
-      "title": "Eclipse ADL: Standardisierte Sprache für Entwurf und Steuerung von KI-Agenten",
-      "url": "https://www.heise.de/news/Eclipse-ADL-Standardisierte-Sprache-fuer-Entwurf-und-Steuerung-von-KI-Agenten-10962462.html"
     },
     {
       "title": "CO₂-Flottenbilanz 2025Welcher Autohersteller nachlegen muss",
@@ -88,6 +88,12 @@
       "url": "https://www.heise.de/tests/Fuenf-guenstige-Office-Notebooks-mit-USB4-im-Test-10634647.html"
     },
     {
+      "title": "KI und die HalluzinationenWarum so viele KI-Antworten falsch sind",
+      "teaser": "Falsche Informationen, unstimmige Zusammenhänge und sogar ausgedachte Quellen: Das weiterhin ungelöste Problem der KI-Modelle.",
+      "url": "https://www.heise.de/hintergrund/KI-und-die-Halluzinationen-Warum-sind-so-viele-Antworten-falsch-10962482.html",
+      "image_title": "Die Buchstaben KI umfliegen Haken und Warndreiecke."
+    },
+    {
       "title": "Auflösung des Auges größer als gedachtFernsehbildschirme trotzdem meist mit zu vielen Pixeln",
       "teaser": "Einer wissenschaftlichen Studie zufolge kann unser Auge mehr Pixel auflösen als angenommen – aber nicht so viele wie die besten Fernseher.",
       "url": "https://www.heise.de/news/Fernseher-mit-FullHD-4K-oder-8K-Aufloesungsvermoegen-des-Auges-neu-vermessen-10961720.html",
@@ -98,12 +104,6 @@
       "teaser": "Mit einer Übersicht der Funklöcher in Deutschland will das Digitalministerium den Rahmen für deren Schließung abstecken.",
       "url": "https://www.heise.de/news/Weisse-Flecken-Funkloecher-halb-so-gross-wie-Schleswig-Holstein-10962212.html",
       "image_title": "Mobilfunkmast auf einem Feld"
-    },
-    {
-      "title": "KI und die HalluzinationenWarum so viele KI-Antworten falsch sind",
-      "teaser": "Falsche Informationen, unstimmige Zusammenhänge und sogar ausgedachte Quellen: Das weiterhin ungelöste Problem der KI-Modelle.",
-      "url": "https://www.heise.de/hintergrund/KI-und-die-Halluzinationen-Warum-sind-so-viele-Antworten-falsch-10962482.html",
-      "image_title": "Die Buchstaben KI umfliegen Haken und Warndreiecke."
     },
     {
       "title": "Mit M5-Chip – und ohne NetzteilDas neue MacBook Pro im Test",
@@ -186,7 +186,30 @@
       "image_title": "Das Microsoft Teams Logo wird auf einem Smartphone Bildschirm angezeigt."
     },
     {
-      "title": "Rust für unternehmenskritische Anwendungen: Online-Konferenz betterCode() Rust",
+      "title": "China nimmt windkraftbetriebenes Unterwasser-Rechenzentrum in Betrieb",
+      "teaser": "In China wurde der erste Teil eines windkraftbetriebenen Unterwasser-Rechenzentrums fertiggestellt. Es gilt als weltweit erste kommerziell betriebene Anlage.",
+      "url": "https://www.heise.de/news/China-nimmt-windkraftbetriebenes-Unterwasser-Rechenzentrum-in-Betrieb-10963063.html",
+      "image_title": "Arbeiten am Unterwasser-Rechenzentrum"
+    },
+    {
+      "title": "\"Flekst0re\": Alternativer iOS-Marktplatz verändert bekannte Apps",
+      "teaser": "Apple muss in der EU Konkurrenten zum iOS App Store zulassen. Flekst0re ist eines der Angebote, wobei es Sonderwege beschreitet. Das reißt Sicherheitslücken.",
+      "url": "https://www.heise.de/news/iOS-Sicherheitsforscher-warnen-vor-Third-Party-App-Store-Flekst0re-10961981.html",
+      "image_title": "Apps im Flekst0re"
+    },
+    {
+      "title": "Wie smartes Wohnen komfortabel wurde – ein Jubiläum",
+      "teaser": "Vom Pionier zum Spitzenreiter bei den Smart-Home-Systemen – Homematic IP feiert zehn Jahre Innovationen. Einfachheit und Sicherheit stehen bei Heizung, Haustür oder dem ganzen Gebäude im Fokus.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7092575235&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "U.S. Air Force fliegt in Hurrikan \"Melissa\" und zeigt Bilder",
+      "teaser": "Eine Crew der \"Hurricane Hunters\" der U.S. Air Force ist durch den wohl stärksten Hurrikan des Jahres 2025 geflogen und hat dabei Daten gesammelt.",
+      "url": "https://www.heise.de/news/U-S-Air-Force-fliegt-in-Hurrikan-Melissa-und-zeigt-Bilder-10962950.html",
+      "image_title": "Der Hurrikan \"Melissa\" von einem Flugzeug aus."
+    },
+    {
+      "title": "Programmiersprache Rust: Alles Wichtige für unternehmenskritische Anwendungen",
       "teaser": "Warum Rust sich besonders gut für industrielle Anwendungen eignet, zeigt die betterCode() Rust am 10. November.",
       "url": "https://www.heise.de/news/Rust-fuer-unternehmenskritische-Anwendungen-Online-Konferenz-betterCode-Rust-10907163.html",
       "image_title": "Rostige Werkzeuge"
@@ -197,12 +220,7 @@
       "url": "https://www.heise.de/ratgeber/Bastelanleitung-Joystick-aus-IKEA-Kiste-bauen-10734027.html"
     },
     {
-      "title": "KI-Automatisierung im IT-Servicemanagement",
-      "teaser": "Im ITSM gibt es zahlreiche Anwendungsfelder für KI-Automatisierung – und alles führt zu schnelleren Lösungen, weniger Engpässen und zufriedeneren Nutzern. Wichtig ist, klein anzufangen und Schritt für Schritt zu erweitern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7080346554&iu=%2F6514%2FClicktracking"
-    },
-    {
-      "title": "Chrome warnt ab 2026 standardmäßig vor HTTP-Verbindungen",
+      "title": "Google macht Schluss mit unsicheren HTTP-Verbindungen in Chrome",
       "teaser": "Ab Oktober 2026 warnt Chrome vor jedem Aufruf unverschlüsselter Websites. Google aktiviert die Sicherheitsfunktion standardmäßig für alle Nutzer.",
       "url": "https://www.heise.de/news/Chrome-warnt-ab-2026-standardmaessig-vor-HTTP-Verbindungen-10962838.html",
       "image_title": "blaue Computermaus vor gelbem Hintergrund, gelbes Chrome-Logo vor blauem Hintergrund"
@@ -218,24 +236,6 @@
       "teaser": "Wer darf Raketen starten und wer ist für etwaige Schäden verantwortlich? Ein Überblick über Weltraumrecht, nationale Gesetze und internationale Haftungsregeln.",
       "url": "https://www.heise.de/hintergrund/Wer-darf-Satelliten-starten-und-wer-haftet-fuer-den-Schrott-10789195.html",
       "image_title": "Sternenhimmel, davor Rakete mit Feuerstrahl"
-    },
-    {
-      "title": "MacBook Pro M5 im Teardown: Weiter nur mittelprächtig zu reparieren",
-      "teaser": "Apple hat zwar kleinere Verbesserungen bei der Reparierbarkeit seines neuesten MacBook Pro implementiert. Perfekt ist sie nach wir vor nicht.",
-      "url": "https://www.heise.de/news/MacBook-Pro-M5-im-Teardown-Weiter-nur-mittelpraechtig-zu-reparieren-10961751.html",
-      "image_title": "Batterie-\"Pulltabs\" beim MacBook Pro M5"
-    },
-    {
-      "title": "AlertJetzt patchen! Attacken auf DELMIA Apriso beobachtet",
-      "teaser": "Das Fertigungsmanagementtool DELMIA Apriso ist derzeit im Fokus von Angreifern. Sicherheitspatches stehen schon seit Sommer dieses Jahres zum Download bereit.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-DELMIA-Apriso-beobachtet-10962858.html",
-      "image_title": "Ein Updatebalken füllt sich."
-    },
-    {
-      "title": "Kinderporno-Plattformen im Darknet stillgelegt",
-      "teaser": "Bayerischen Strafermittlern ist ein Schlag gegen zwei pädokriminelle Kinderporno-Plattformen im Darknet gelungen. Sie hatten 350.000 Nutzer.",
-      "url": "https://www.heise.de/news/Schlag-gegen-paedokriminelle-Darknet-Videoplattformen-10962747.html",
-      "image_title": "Hinweis-Plakette auf den Darknet-Plattformen"
     },
     {
       "title": "HauskaufWärmepumpen im Bestandshaus bewerten",
@@ -305,6 +305,24 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "MacBook Pro M5 im Teardown: Weiter nur mittelprächtig zu reparieren",
+      "teaser": "Apple hat zwar kleinere Verbesserungen bei der Reparierbarkeit seines neuesten MacBook Pro implementiert. Perfekt ist sie nach wir vor nicht.",
+      "url": "https://www.heise.de/news/MacBook-Pro-M5-im-Teardown-Weiter-nur-mittelpraechtig-zu-reparieren-10961751.html",
+      "image_title": "Batterie-\"Pulltabs\" beim MacBook Pro M5"
+    },
+    {
+      "title": "AlertJetzt patchen! Attacken auf DELMIA Apriso beobachtet",
+      "teaser": "Das Fertigungsmanagementtool DELMIA Apriso ist derzeit im Fokus von Angreifern. Sicherheitspatches stehen schon seit Sommer dieses Jahres zum Download bereit.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-DELMIA-Apriso-beobachtet-10962858.html",
+      "image_title": "Ein Updatebalken füllt sich."
+    },
+    {
+      "title": "Kinderporno-Plattformen im Darknet stillgelegt",
+      "teaser": "Bayerischen Strafermittlern ist ein Schlag gegen zwei pädokriminelle Kinderporno-Plattformen im Darknet gelungen. Sie hatten 350.000 Nutzer.",
+      "url": "https://www.heise.de/news/Schlag-gegen-paedokriminelle-Darknet-Videoplattformen-10962747.html",
+      "image_title": "Hinweis-Plakette auf den Darknet-Plattformen"
+    },
+    {
       "title": "Bericht: Apples Diensteabteilung überholt Umsatz von Tesla",
       "teaser": "Analysten glauben, dass Apple sein Dienstegeschäft mit App Store, iCloud, Apple Music & Co. weiter ausbauen kann. Tesla, Disney oder Tencent werden geschlagen.",
       "url": "https://www.heise.de/news/Bericht-Apples-Diensteabteilung-ueberholt-Umsatz-von-Tesla-10961580.html",
@@ -364,6 +382,11 @@
       "image_title": "Roboter Neo mit älterem Mann"
     },
     {
+      "title": "KI ohne Hype: Business GPT in der Praxis",
+      "teaser": "Welchen Mehrwert schafft künstliche Intelligenz in Unternehmen? In einem Webcast sprechen wir darüber, was von der KI-Euphorie übriggeblieben ist – und betrachten ganz nüchtern die KI-Möglichkeiten von Firmen und Behörden.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ki-ohne-hype-business-gpt-in-der-praxis-4977//?source=hbsad-ersatz"
+    },
+    {
       "title": "Datenschutz schlägt Preis: Cloud-Nutzer zahlen lieber mehr für EU-Server",
       "teaser": "Die Mehrheit der deutschen Cloud-Nutzer legt Wert auf europäische Datenhoheit – Tendenz steigend. Und dafür sind sie auch bereit, zu zahlen.",
       "url": "https://www.heise.de/news/Datenschutz-schlaegt-Preis-Cloud-Nutzer-zahlen-lieber-mehr-fuer-EU-Server-10962380.html",
@@ -376,15 +399,10 @@
       "image_title": "Ein symbolisches Updateschild."
     },
     {
-      "title": "Studie: Solarstrom sorgt längst für merklich geringere Strompreise",
+      "title": "Studie: Solarenergie lässt Strompreise längst merklich weniger steigen",
       "teaser": "Der Anteil der Solarenergie am deutschen Strommix steigt und laut einer Analyse macht sich das beim Strompreis bemerkbar. Davon profitierten alle Haushalte.",
       "url": "https://www.heise.de/news/Studie-Solarstrom-sorgt-laengst-fuer-merklich-geringere-Strompreise-10962553.html",
       "image_title": "Solaranlage auf einem Haus"
-    },
-    {
-      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
-      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Erfahren Sie in einem Webcast, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
     },
     {
       "title": "\"Flight Unlimited\": Realistischer VR-Flugsimulator für Meta Quest angekündigt",
@@ -427,23 +445,6 @@
       "teaser": "Wer sein X-Konto mit FIDO-Stick als zweiten Faktor schützt, muss diesen nun neu anmelden. Bis zum 10. November ist dafür noch Zeit.",
       "url": "https://www.heise.de/news/X-FIDO-Sticks-muessen-neu-angemeldet-werden-10962376.html",
       "image_title": "Altes und neues Logo von Twitter (jetzt X)"
-    },
-    {
-      "title": "Prime Video: Erstmals standardisierte Quotenmessung bei einem Streaming-Riesen",
-      "teaser": "Die internationalen Streamingdienste haben hierzulande bislang nicht an der standardisierten Quotenmessung teilgenommen. Das ändert sich mit Amazon Prime Video.",
-      "url": "https://www.heise.de/news/Prime-Video-Erstmals-standardisierte-Quotenmessung-bei-einem-Streaming-Riesen-10962370.html",
-      "image_title": "Popcorn neben einer Fernbedienung"
-    },
-    {
-      "title": "Wasserabschalter mit Ikea-ZigBee-Komponenten basteln",
-      "teaser": "Ein Wasserschaden kann eine Katastrophe sein. Abhilfe schafft ein Projekt zum Abschalten des Hauswasseranschlusses und zur Alarmierung bei einer Leckage.",
-      "url": "https://www.heise.de/ratgeber/Wasserabschalter-mit-Ikea-ZigBee-Komponenten-basteln-10679032.html"
-    },
-    {
-      "title": "OpenAI schließt Umbau zu Gewinnorientierung ab, Microsoft-Aktie macht Sprung",
-      "teaser": "Lange hat OpenAI daran gearbeitet, die eigene Struktur zu ändern, damit Investoren Geld zurückbekommen können. Nach der Einigung mit Microsoft ist das gelungen.",
-      "url": "https://www.heise.de/news/OpenAI-schliesst-Umbau-zu-Gewinnorientierung-ab-Microsoft-Aktie-macht-Sprung-10962354.html",
-      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
     },
     {
       "title": "IBM zieht sich aus VMware-Geschäft zurück",
@@ -613,21 +614,21 @@
       "url": "https://www.heise.de/en/news/AWS-Outage-Amazon-Releases-Full-Root-Cause-Report-10859261.html"
     },
     {
-      "title": "Raspberry Pi Touch Display 2: Vergleich der 5- und 7-Zoll-Version",
-      "teaser": "Mit einem Touchdisplay eröffnen sich viele spannende Projekte für den Raspberry Pi. Wir nehmen das offizielle Raspberry Touch Display 2 unter die Lupe.",
-      "url": "https://www.heise.de/tests/Raspberry-Pi-Touch-Display-2-Vergleich-der-5-und-7-Zoll-Version-10720517.html",
-      "image_title": "5 und 7-Zoll-Display nebeneinander gestellt"
-    },
-    {
-      "title": "Warum Quantencomputer die moderne Verschlüsselung bedrohen",
-      "teaser": "Quantenrechner sollen eines Tages leistungsfähiger sein als jeder Supercomputer. Grund ist, dass sie grundlegend anders arbeiten als herkömmliche Computer.",
-      "url": "https://www.heise.de/hintergrund/Warum-Quantencomputer-die-moderne-Verschluesselung-bedrohen-10646500.html",
-      "image_title": "Quantencomputer mit geknacktem Schloss"
+      "title": "Chinesischer \"KI-Kühlschrank\" steht unterm Schreibtisch",
+      "teaser": "Der Computer Neogenint BIE-1 soll große KI-Modelle verarbeiten, aber auch kompakt, leise und sparsam genug sein für Büros.",
+      "url": "https://www.heise.de/news/Chinesischer-KI-Kuehlschrank-steht-unterm-Schreibtisch-10962055.html",
+      "image_title": "KI-Workstation Neogenint BIE-1 unter einem Schreibtisch."
     },
     {
       "title": "Wie Quantencomputer Banken und Versicherungen bedrohen",
       "teaser": "Sobald Quantencomputer leistungsfähig genug sind, wäre herkömmliche Kryptografie in Gefahr. Wir zeigen am Beispiel der Finanzindustrie, was das bedeutet.",
       "url": "https://www.heise.de/ratgeber/Wie-Quantencomputer-Banken-und-Versicherungen-bedrohen-10646496.html"
+    },
+    {
+      "title": "Raspberry Pi Touch Display 2: Vergleich der 5- und 7-Zoll-Version",
+      "teaser": "Mit einem Touchdisplay eröffnen sich viele spannende Projekte für den Raspberry Pi. Wir nehmen das offizielle Raspberry Touch Display 2 unter die Lupe.",
+      "url": "https://www.heise.de/tests/Raspberry-Pi-Touch-Display-2-Vergleich-der-5-und-7-Zoll-Version-10720517.html",
+      "image_title": "5 und 7-Zoll-Display nebeneinander gestellt"
     },
     {
       "title": "Flach und flottDas iPad Pro M5 im Test",
@@ -653,14 +654,14 @@
       "url": "https://www.heise.de/ratgeber/Wasserabschalter-mit-Ikea-ZigBee-Komponenten-basteln-10679032.html"
     },
     {
+      "title": "Ikea-Hack: Flexibles Lötlicht selbst bauen",
+      "teaser": "Gutes Licht ist beim Löten entscheidend, um präzise zu arbeiten. Mit etwas Geschick lässt sich die Jansjö-Lampe von Ikea in ein biegbares Lötlicht verwandeln.",
+      "url": "https://www.heise.de/ratgeber/Ikea-Hack-Flexibles-Loetlicht-selbst-bauen-10669426.html"
+    },
+    {
       "title": "Bastelanleitung: Joystick aus IKEA-Kiste bauen",
       "teaser": "Fehlt für Retro-Games am PC der passende Joystick? Aus einer Ikea-Glis-Kiste lässt sich leicht ein schicker Gamecontroller samt LED-Beleuchtung basteln.",
       "url": "https://www.heise.de/ratgeber/Bastelanleitung-Joystick-aus-IKEA-Kiste-bauen-10734027.html"
-    },
-    {
-      "title": "Jetzt im Make-Sonderheft 6/25: Ikea-Hacks",
-      "teaser": "Für Maker ist Ikea eine Fundgrube für kreative Hacks und Projekte. Welche Unikate daraus entstehen können, verraten wir in der Make 6/25.",
-      "url": "https://www.heise.de/news/Jetzt-im-Make-Sonderheft-6-25-Ikea-Hacks-10818952.html"
     },
     {
       "title": "Insta360 X4 Air: leichte 360-Grad-Kamera mit 8K",
@@ -743,22 +744,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Hurrikan Melissa: So bereiten sich Kuba und Jamaika auf den stärksten Sturm des Jahres vor",
-      "teaser": "Der Kategorie-5-Hurrikan soll am Dienstag auf Jamaika treffen. In Kuba werden knapp 650.000 Menschen evakuiert. Bereits jetzt gibt es erste Todesopfer.",
-      "url": "https://www.heise.de/tp/features/Hurrikan-Melissa-So-bereiten-sich-Kuba-und-Jamaika-auf-den-staerksten-Sturm-des-Jahres-vor-10961286.html",
-      "image_title": "Ein Sturm vom Satellit aus gesehen"
+      "title": "Der Tag, an dem der Spiegel die KI vergaß",
+      "teaser": "Plötzlich tippt eine Maschine mit – und verrät sich selbst. Ein Ausrutscher oder ein Blick in die Zukunft des Journalismus? Die Medienkolumne über eine Woche voller Offenbarungen.",
+      "url": "https://www.heise.de/tp/features/Der-Tag-an-dem-der-Spiegel-die-KI-vergass-10961023.html",
+      "image_title": "Tastatur mit Spiegel-Logo und KI-Logo"
     },
     {
-      "title": "Der gefährlichste Showdown des Jahres: USA gegen Venezuela",
-      "teaser": "Venezuelas Militär bereitet sich auf mögliche US-Invasion vor. Trumps Karibik-Manöver soll Stärke zeigen – und provoziert eine unberechenbare Gegenwehr. Analyse.",
-      "url": "https://www.heise.de/tp/features/Der-gefaehrlichste-Showdown-des-Jahres-USA-gegen-Venezuela-10907434.html",
-      "image_title": "Foto zeigt den US-Flugzeugträger USS Gerald R. Ford (CVN-78) der US-Marine im Atlantik im Jahr 2022."
+      "title": "Deutsche Fusionsenergie in 15 Jahren? Bayern prescht schon mal vor",
+      "teaser": "Im Zuge des Aktionsplans \"Fusion 2040\" plant die Bundesregierung das erste Fusionskraftwerk der Welt in Deutschland. Wird der Bau schneller fertig als Stuttgart 21?",
+      "url": "https://www.heise.de/tp/features/Deutsche-Fusionsenergie-in-15-Jahren-Bayern-prescht-schon-mal-vor-10859097.html",
+      "image_title": "Luftbildaufnahme einer großen Gruppe von industriell wirkenden Gebäuden und anlagen im Bergwald."
     },
     {
-      "title": "Die Ernährungspyramide: Auch eine gute Idee kann noch besser werden",
-      "teaser": "Entworfen, um Proteste gegen hohe Lebensmittelpreise zu kontern, dient die Ernährungspyramide heute der gesundheitlichen Aufklärung. Was macht sie so beliebt?",
-      "url": "https://www.heise.de/tp/features/Die-Ernaehrungspyramide-Auch-eine-gute-Idee-kann-noch-besser-werden-10864365.html",
-      "image_title": "viele verschiedene weit überwiegend unverarbeitete Lebenmittel"
+      "title": "Hurrikan Melissa verwüstet Jamaika und erreicht Kuba",
+      "teaser": "Wirbelsturm der Kategorie 5 hinterlässt auf Jamaika schwere Schäden. Abschwächung vor Landfall in Kuba. Mindestens sieben Todesopfer in der Karibik.",
+      "url": "https://www.heise.de/tp/features/Hurrikan-Melissa-verwuestet-Jamaika-und-erreicht-Kuba-10962753.html",
+      "image_title": "Palmen im Wind"
     },
     {
       "title": "KI-Bilder erstellen: Warum kurze Textbausteine besser sind als komplexe Prompts",

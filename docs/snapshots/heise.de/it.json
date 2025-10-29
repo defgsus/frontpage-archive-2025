@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-29T11:09:19",
+  "timestamp": "2025-10-29T12:20:33",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Rust für unternehmenskritische Anwendungen: Online-Konferenz betterCode() Rust",
+      "title": "China nimmt windkraftbetriebenes Unterwasser-Rechenzentrum in Betrieb",
+      "teaser": "In China wurde der erste Teil eines windkraftbetriebenen Unterwasser-Rechenzentrums fertiggestellt. Es gilt als weltweit erste kommerziell betriebene Anlage.",
+      "url": "https://www.heise.de/news/China-nimmt-windkraftbetriebenes-Unterwasser-Rechenzentrum-in-Betrieb-10963063.html",
+      "image_title": "Arbeiten am Unterwasser-Rechenzentrum"
+    },
+    {
+      "title": "Programmiersprache Rust: Alles Wichtige für unternehmenskritische Anwendungen",
       "teaser": "Warum Rust sich besonders gut für industrielle Anwendungen eignet, zeigt die betterCode() Rust am 10. November.",
       "url": "https://www.heise.de/news/Rust-fuer-unternehmenskritische-Anwendungen-Online-Konferenz-betterCode-Rust-10907163.html",
       "image_title": "Rostige Werkzeuge"
+    },
+    {
+      "title": "Google macht Schluss mit unsicheren HTTP-Verbindungen in Chrome",
+      "teaser": "Ab Oktober 2026 warnt Chrome vor jedem Aufruf unverschlüsselter Websites. Google aktiviert die Sicherheitsfunktion standardmäßig für alle Nutzer.",
+      "url": "https://www.heise.de/news/Chrome-warnt-ab-2026-standardmaessig-vor-HTTP-Verbindungen-10962838.html",
+      "image_title": "blaue Computermaus vor gelbem Hintergrund, gelbes Chrome-Logo vor blauem Hintergrund"
     },
     {
       "title": "Wer darf Satelliten starten – und wer haftet für den Schrott?",
       "teaser": "Wer darf Raketen starten und wer ist für etwaige Schäden verantwortlich? Ein Überblick über Weltraumrecht, nationale Gesetze und internationale Haftungsregeln.",
       "url": "https://www.heise.de/hintergrund/Wer-darf-Satelliten-starten-und-wer-haftet-fuer-den-Schrott-10789195.html",
       "image_title": "Sternenhimmel, davor Rakete mit Feuerstrahl"
-    },
-    {
-      "title": "MacBook Pro M5 im Teardown: Weiter nur mittelprächtig zu reparieren",
-      "teaser": "Apple hat zwar kleinere Verbesserungen bei der Reparierbarkeit seines neuesten MacBook Pro implementiert. Perfekt ist sie nach wir vor nicht.",
-      "url": "https://www.heise.de/news/MacBook-Pro-M5-im-Teardown-Weiter-nur-mittelpraechtig-zu-reparieren-10961751.html",
-      "image_title": "Batterie-\"Pulltabs\" beim MacBook Pro M5"
-    },
-    {
-      "title": "AlertJetzt patchen! Attacken auf DELMIA Apriso beobachtet",
-      "teaser": "Das Fertigungsmanagementtool DELMIA Apriso ist derzeit im Fokus von Angreifern. Sicherheitspatches stehen schon seit Sommer dieses Jahres zum Download bereit.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-DELMIA-Apriso-beobachtet-10962858.html",
-      "image_title": "Ein Updatebalken füllt sich."
     },
     {
       "title": "HintergrundWer darf Satelliten starten – und wer haftet für den Schrott?",
@@ -65,10 +65,16 @@
       "image_title": "FAQ zu iOS 26 und iPadOS 26"
     },
     {
-      "title": "Chrome warnt ab 2026 standardmäßig vor HTTP-Verbindungen",
-      "teaser": "Ab Oktober 2026 warnt Chrome vor jedem Aufruf unverschlüsselter Websites. Google aktiviert die Sicherheitsfunktion standardmäßig für alle Nutzer.",
-      "url": "https://www.heise.de/news/Chrome-warnt-ab-2026-standardmaessig-vor-HTTP-Verbindungen-10962838.html",
-      "image_title": "blaue Computermaus vor gelbem Hintergrund, gelbes Chrome-Logo vor blauem Hintergrund"
+      "title": "MacBook Pro M5 im Teardown: Weiter nur mittelprächtig zu reparieren",
+      "teaser": "Apple hat zwar kleinere Verbesserungen bei der Reparierbarkeit seines neuesten MacBook Pro implementiert. Perfekt ist sie nach wir vor nicht.",
+      "url": "https://www.heise.de/news/MacBook-Pro-M5-im-Teardown-Weiter-nur-mittelpraechtig-zu-reparieren-10961751.html",
+      "image_title": "Batterie-\"Pulltabs\" beim MacBook Pro M5"
+    },
+    {
+      "title": "AlertJetzt patchen! Attacken auf DELMIA Apriso beobachtet",
+      "teaser": "Das Fertigungsmanagementtool DELMIA Apriso ist derzeit im Fokus von Angreifern. Sicherheitspatches stehen schon seit Sommer dieses Jahres zum Download bereit.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-DELMIA-Apriso-beobachtet-10962858.html",
+      "image_title": "Ein Updatebalken füllt sich."
     },
     {
       "title": "Kinderporno-Plattformen im Darknet stillgelegt",
@@ -147,12 +153,6 @@
       "teaser": "Microsoft hat im Oktober auch Exchange Server 2016 und 2019 die Update-Versorgung gekappt. Das BSI warnt vor zigtausend veralteten Servern.",
       "url": "https://www.heise.de/news/BSI-Warnung-Ueber-30-000-veraltete-Exchange-Server-in-Deutschland-10962510.html",
       "image_title": "Email,Marketing,Concept,,Company,Sending,Many,E-mails,Or,Digital,Newsletter"
-    },
-    {
-      "title": "AlertDNS-Server BIND: Gefahr durch Proof-of-Concept-Exploit für Sicherheitslücke",
-      "teaser": "Im DNS-Server BIND klaffen drei Sicherheitslücken. Ein öffentlicher Proof-of-Concept macht Angriffe wahrscheinlicher.",
-      "url": "https://www.heise.de/news/DNS-Server-BIND-Gefahr-durch-Proof-of-Concept-Exploit-fuer-Sicherheitsluecke-10962426.html",
-      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
     },
     {
       "title": "NewsMicrosoft Teams kann ab Dezember Büroanwesenheit erfassen",
