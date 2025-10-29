@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-29T13:26:14",
+  "timestamp": "2025-10-29T14:11:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,27 @@
   ],
   "articles": [
     {
+      "title": "ESP32 mit Display, Kamera und IoT-Funk",
+      "teaser": "Elecrow stellt ein 7-Zoll-Display mit ESP32-P4 und Wi-Fi 6 vor – gedacht für interaktive IoT- und KI-Projekte im Maker-Umfeld.",
+      "url": "https://www.heise.de/news/ESP32-mit-Display-Kamera-und-IoT-Funk-10963297.html",
+      "image_title": "Man sieht einen Bildschirm, auf dem ein generisches Smart-Home-Mockup angezeigt wird. Oben ragt eine ESP-Cam heraus und links und rechts USB-Ports"
+    },
+    {
+      "title": "Für KI-Workloads: Ciscos neuer RZ-Switch auch mit Open-Source-Betriebssystem",
+      "teaser": "Ciscos neuer Rechenzentrumsswitch mit Nvidias Spectrum-4-ASIC und Option aufs quelloffene Netzwerkbetriebssystem SONiC zielt vor allem auf KI-Workloads.",
+      "url": "https://www.heise.de/news/Fuer-KI-Workloads-Ciscos-neuer-RZ-Switch-auch-mit-Open-Source-Betriebssystem-10963223.html",
+      "image_title": "Cisco-Firmenschild"
+    },
+    {
+      "title": "Collins Aerospace: Mangelhafte Passwörter ermöglichten Nachrichten an Cockpits",
+      "teaser": "Durch mangelhaften Zugriffsschutz bei Collins Aerospace ließen sich Nachrichten an Flugzeug-Cockpits schicken.",
+      "url": "https://www.heise.de/news/Collins-Aerospace-Mangelhafte-Passwoerter-ermoeglichten-Nachrichten-an-Cockpits-10963151.html"
+    },
+    {
       "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
       "url": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-10777957.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Tansania parallel zur Wahl fast vollständig offline",
-      "teaser": "In Tansania sind die Menschen in die Wahllokale gerufen, eine richtige Auswahl haben sie nicht. Zeitgleich wurde dann wohl das Internet weitgehend blockiert.",
-      "url": "https://www.heise.de/news/Digitaler-Blackout-Parallel-zur-Wahl-weitgehende-Internetblockade-in-Tansania-10963173.html",
-      "image_title": "Luftaufnahme von Sansibar"
-    },
-    {
-      "title": "Windows-Update-VorschauNeues Startmenü und farbige Akku-Anzeige",
-      "teaser": "Microsoft verteilt die Windows-Update-Vorschauen für Oktober. Am auffälligsten sind das Startmenü und farbige Akkusymbole.",
-      "url": "https://www.heise.de/news/Windows-Update-Vorschau-Neues-Startmenue-und-farbige-Akku-Anzeige-10962866.html",
-      "image_title": "Windows-Update-Vorschau wurde gefunden"
-    },
-    {
-      "title": "China nimmt windkraftbetriebenes Unterwasser-Rechenzentrum in Betrieb",
-      "teaser": "In China wurde der erste Teil eines windkraftbetriebenen Unterwasser-Rechenzentrums fertiggestellt. Es gilt als weltweit erste kommerziell betriebene Anlage.",
-      "url": "https://www.heise.de/news/China-nimmt-windkraftbetriebenes-Unterwasser-Rechenzentrum-in-Betrieb-10963063.html",
-      "image_title": "Arbeiten am Unterwasser-Rechenzentrum"
     },
     {
       "title": "HintergrundWer darf Satelliten starten – und wer haftet für den Schrott?",
@@ -65,9 +64,22 @@
       "image_title": "FAQ zu iOS 26 und iPadOS 26"
     },
     {
-      "title": "Collins Aerospace: Mangelhafte Passwörter ermöglichten Nachrichten an Cockpits",
-      "teaser": "Durch mangelhaften Zugriffsschutz bei Collins Aerospace ließen sich Nachrichten an Flugzeug-Cockpits schicken.",
-      "url": "https://www.heise.de/news/Collins-Aerospace-Mangelhafte-Passwoerter-ermoeglichten-Nachrichten-an-Cockpits-10963151.html"
+      "title": "Tansania parallel zur Wahl fast vollständig offline",
+      "teaser": "In Tansania sind die Menschen in die Wahllokale gerufen, eine richtige Auswahl haben sie nicht. Zeitgleich wurde dann wohl das Internet weitgehend blockiert.",
+      "url": "https://www.heise.de/news/Digitaler-Blackout-Parallel-zur-Wahl-weitgehende-Internetblockade-in-Tansania-10963173.html",
+      "image_title": "Luftaufnahme von Sansibar"
+    },
+    {
+      "title": "Windows-Update-Vorschau: Neues Startmenü und farbige Akku-Anzeige",
+      "teaser": "Microsoft verteilt die Windows-Update-Vorschauen für Oktober. Am auffälligsten sind das aktualisierte Startmenü und farbige Akkusymbole.",
+      "url": "https://www.heise.de/news/Windows-Update-Vorschau-Neues-Startmenue-und-farbige-Akku-Anzeige-10962866.html",
+      "image_title": "Windows-Update-Vorschau wurde gefunden"
+    },
+    {
+      "title": "China nimmt windkraftbetriebenes Unterwasser-Rechenzentrum in Betrieb",
+      "teaser": "In China wurde der erste Teil eines windkraftbetriebenen Unterwasser-Rechenzentrums fertiggestellt. Es gilt als weltweit erste kommerziell betriebene Anlage.",
+      "url": "https://www.heise.de/news/China-nimmt-windkraftbetriebenes-Unterwasser-Rechenzentrum-in-Betrieb-10963063.html",
+      "image_title": "Arbeiten am Unterwasser-Rechenzentrum"
     },
     {
       "title": "Programmiersprache Rust: Alles Wichtige für unternehmenskritische Anwendungen",
@@ -140,18 +152,6 @@
       "teaser": "Im Mai 2026 trifft sich die Community im Heide Park Soltau. Wer als Speaker oder Moderatorin mitwirken möchte, kann bis zum 28. November Vorschläge einreichen.",
       "url": "https://www.heise.de/news/CloudLand-2026-Mitmacher-fuer-das-Cloud-Native-Festival-gesucht-10961230.html",
       "image_title": "CloudLand 2026: Call for Papers"
-    },
-    {
-      "title": "Datenschutz schlägt Preis: Cloud-Nutzer zahlen lieber mehr für EU-Server",
-      "teaser": "Die Mehrheit der deutschen Cloud-Nutzer legt Wert auf europäische Datenhoheit – Tendenz steigend. Und dafür sind sie auch bereit, zu zahlen.",
-      "url": "https://www.heise.de/news/Datenschutz-schlaegt-Preis-Cloud-Nutzer-zahlen-lieber-mehr-fuer-EU-Server-10962380.html",
-      "image_title": "Festplatte mit Wolken"
-    },
-    {
-      "title": "AlertAttacken auf PCs mit IBMs Sicherheitslösungen Concert und QRadar SIEM möglich",
-      "teaser": "Angreifer können an mehreren Sicherheitslücken in IBM Concert und QRadar SIEM ansetzen. Patches sind verfügbar.",
-      "url": "https://www.heise.de/news/Luecken-gefaehrden-Systeme-mit-IBMs-Sicherheitsloesungen-Concert-und-QRadar-SIEM-10962406.html",
-      "image_title": "Ein symbolisches Updateschild."
     },
     {
       "title": "NewsMicrosoft Teams kann ab Dezember Büroanwesenheit erfassen",
