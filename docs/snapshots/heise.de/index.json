@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-31T09:11:24",
+  "timestamp": "2025-10-31T10:11:02",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wissen clever organisieren: Notion, Obsidian und Anytype im Vergleich",
+      "url": "https://www.heise.de/ratgeber/Wissen-clever-organisieren-Notion-Obsidian-und-Anytype-im-Vergleich-10767104.html"
+    },
+    {
+      "title": "Apple-Quartalszahlen: Rekordumsatz und gute Aussichten fürs Weihnachtsgeschäft",
+      "url": "https://www.heise.de/news/Dank-iPhone-17-Apple-erwartet-bestes-Weihnachtsquartal-wieder-Umsatzrekord-10965375.html"
+    },
+    {
+      "title": "FreeBSD kurz vor 15.0: Vertrauen ist gut, Reproduzierbarkeit ist besser",
+      "url": "https://www.heise.de/news/FreeBSD-kurz-vor-15-0-Vertrauen-ist-gut-Reproduzierbarkeit-ist-besser-10965056.html"
+    },
     {
       "title": "iX-Workshop Softwarearchitektur für KI-Systeme – skalierbare Lösungen entwickeln",
       "url": "https://www.heise.de/news/iX-Workshop-Softwarearchitektur-fuer-KI-Systeme-skalierbare-Loesungen-entwickeln-10777983.html"
@@ -52,18 +64,6 @@
     {
       "title": "Fire TV: Amazon sperrt künftig Piraterie-Apps",
       "url": "https://www.heise.de/news/Fire-TV-Amazon-sperrt-kuenftig-Piraterie-Apps-10964785.html"
-    },
-    {
-      "title": "BKA: 548 Millionen Fluggastdatensätze durchsucht – 1525 Verdächtige verhaftet",
-      "url": "https://www.heise.de/news/BKA-548-Millionen-Fluggastdatensaetze-durchsucht-1525-Verdaechtige-verhaftet-10965210.html"
-    },
-    {
-      "title": "Auslegungssache 146: Wieviel Macht den Daten?",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-146-Wieviel-Macht-den-Daten-10963569.html"
-    },
-    {
-      "title": "Keine andere Kalender-App darf Standard sein: Apple bügelt Proton-Anfrage ab",
-      "url": "https://www.heise.de/news/Keine-andere-Kalender-App-darf-Standard-sein-Apple-buegelt-Proton-Anfrage-ab-10965277.html"
     },
     {
       "title": "Verbindungen nach ChinaUS-Verkaufsverbot für TP-Link-Router wird immer wahrscheinlicher",
@@ -184,6 +184,28 @@
       "image_title": "Die Buchstaben KI umfliegen Haken und Warndreiecke."
     },
     {
+      "title": "Wissen clever organisieren: Notion, Obsidian und Anytype im Vergleich",
+      "teaser": "Notion, Obsidian und Anytype ordnen das digitale Chaos und verwalten persönliches Wissen. Welche App sich für wen am besten eignet, erklärt unser Ratgeber.",
+      "url": "https://www.heise.de/ratgeber/Wissen-clever-organisieren-Notion-Obsidian-und-Anytype-im-Vergleich-10767104.html"
+    },
+    {
+      "title": "Apple-Quartalszahlen: Rekordumsatz und gute Aussichten fürs Weihnachtsgeschäft",
+      "teaser": "Apple hat am Donnerstagabend seine Quartalszahlen für Juli bis September vorgelegt. Der Umsatz landet bei 102,5 Milliarden US-Dollar.",
+      "url": "https://www.heise.de/news/Dank-iPhone-17-Apple-erwartet-bestes-Weihnachtsquartal-wieder-Umsatzrekord-10965375.html",
+      "image_title": "Apples iPhone 17 Pro"
+    },
+    {
+      "title": "Der perfekte Server für kleine und mittelständische Firmen",
+      "teaser": "Um die Digitalisierung voranzutreiben, braucht der Mittelstand Rechner, die die Leistung maßgeschneidert und kosteneffizient bereitstellen – erhältlich zum Beispiel über das HPE Smart Choice Programm.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7105867339&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "FreeBSD kurz vor 15.0: Vertrauen ist gut, Reproduzierbarkeit ist besser",
+      "teaser": "Für das im Dezember kommende FreeBSD 15 haben die Entwickler Zero-Trust Builds und Reproducible Builds implementiert.",
+      "url": "https://www.heise.de/news/FreeBSD-kurz-vor-15-0-Vertrauen-ist-gut-Reproduzierbarkeit-ist-besser-10965056.html",
+      "image_title": "Schriftzug FreeBSD mit 0ern und 1ern"
+    },
+    {
       "title": "iX-Workshop Softwarearchitektur für KI-Systeme – skalierbare Lösungen entwickeln",
       "teaser": "Lernen Sie, wie Sie KI-gestützte Architekturen konzipieren, die skalierbar, sicher und wartbar sind - mit Fokus auf ML, GenKI, Datenstrategie und Compliance.",
       "url": "https://www.heise.de/news/iX-Workshop-Softwarearchitektur-fuer-KI-Systeme-skalierbare-Loesungen-entwickeln-10777983.html",
@@ -194,11 +216,6 @@
       "teaser": "Veraltete Plattformen und Medienbrüche treiben laut einer Studie des ERP-Herstellers Planat die Modernisierung voran. Support-Qualität bleibt die Problemzone.",
       "url": "https://www.heise.de/news/Studie-Mittelstand-investiert-massiv-in-neue-ERP-Systeme-10964980.html",
       "image_title": "Verbundene Kreise, zwei Zahnräder in der Mitte"
-    },
-    {
-      "title": "Warum gerade jetzt eine Server-Colocation angesagt ist",
-      "teaser": "Bei einer Colocation bleiben die Server Eigentum des Unternehmens, stehen aber in einem professionell betriebenen Rechenzentrum. Diese Herangehensweise bringt gleich mehrere Vorteile.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7108211440&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Aus Softwarefehlern lernen – Teil 6: Eine Zeile Code mit fatalen Auswirkungen",
@@ -216,24 +233,6 @@
       "title": "Wie man das Passwort eines Windows-Kontos knackt",
       "teaser": "Wir haben uns dem Gedankenspiel gestellt, das Passwort eines verlorenen Windows-Accounts nicht zu überschreiben, sondern tatsächlich zu knacken.",
       "url": "https://www.heise.de/hintergrund/Wie-man-das-Passwort-eines-Windows-Kontos-knackt-10688318.html"
-    },
-    {
-      "title": "Fire TV: Amazon sperrt künftig Piraterie-Apps",
-      "teaser": "Auf Fire-TV-Geräten per Sideloading installierte Piraterie-Apps werden anhand einer Blacklist der Alliance for Creativity and Entertainment unbenutzbar gemacht.",
-      "url": "https://www.heise.de/news/Fire-TV-Amazon-sperrt-kuenftig-Piraterie-Apps-10964785.html",
-      "image_title": "Popcornbecher mit Piratenflaage und Verbotsschild"
-    },
-    {
-      "title": "BKA: 548 Millionen Fluggastdatensätze durchsucht – 1525 Verdächtige verhaftet",
-      "teaser": "Die Erfolgsquote der Fluggastdatenanalyse liegt weiterhin im untersten Promillebereich. Die Anzahl der weiter verfolgten Vorgänge betrug 2024 nur knapp 90.000.",
-      "url": "https://www.heise.de/news/BKA-548-Millionen-Fluggastdatensaetze-durchsucht-1525-Verdaechtige-verhaftet-10965210.html",
-      "image_title": "Stewardess zeig, wie man die Masken im Flugzeug nutzt. Alles verschwommen."
-    },
-    {
-      "title": "Auslegungssache 146: Wieviel Macht den Daten?",
-      "teaser": "Die Rechtsprofessorin Hannah Ruschemeier spricht im c't-Podcast über die Zukunft des Datenschutzes. Sie fordert ein Umdenken.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-146-Wieviel-Macht-den-Daten-10963569.html",
-      "image_title": "Prof. Hannah Ruschemeier (links), Joerg Heidrich (rechts), Holger Bleich (unten)"
     },
     {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
@@ -303,6 +302,24 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Fire TV: Amazon sperrt künftig Piraterie-Apps",
+      "teaser": "Auf Fire-TV-Geräten per Sideloading installierte Piraterie-Apps werden anhand einer Blacklist der Alliance for Creativity and Entertainment unbenutzbar gemacht.",
+      "url": "https://www.heise.de/news/Fire-TV-Amazon-sperrt-kuenftig-Piraterie-Apps-10964785.html",
+      "image_title": "Popcornbecher mit Piratenflaage und Verbotsschild"
+    },
+    {
+      "title": "BKA: 548 Millionen Fluggastdatensätze durchsucht – 1525 Verdächtige verhaftet",
+      "teaser": "Die Erfolgsquote der Fluggastdatenanalyse liegt weiterhin im untersten Promillebereich. Die Anzahl der weiter verfolgten Vorgänge betrug 2024 nur knapp 90.000.",
+      "url": "https://www.heise.de/news/BKA-548-Millionen-Fluggastdatensaetze-durchsucht-1525-Verdaechtige-verhaftet-10965210.html",
+      "image_title": "Stewardess zeig, wie man die Masken im Flugzeug nutzt. Alles verschwommen."
+    },
+    {
+      "title": "Auslegungssache 146: Wieviel Macht den Daten?",
+      "teaser": "Die Rechtsprofessorin Hannah Ruschemeier spricht im c't-Podcast über die Zukunft des Datenschutzes. Sie fordert ein Umdenken.",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-146-Wieviel-Macht-den-Daten-10963569.html",
+      "image_title": "Prof. Hannah Ruschemeier (links), Joerg Heidrich (rechts), Holger Bleich (unten)"
+    },
+    {
       "title": "Keine andere Kalender-App darf Standard sein: Apple bügelt Proton-Anfrage ab",
       "teaser": "Auf Druck der EU musste Apple seinen Kunden erlauben, iPhone-Apps von Drittanbietern als Standard zu wählen. Bei Kalendern mauert der Konzern.",
       "url": "https://www.heise.de/news/Keine-andere-Kalender-App-darf-Standard-sein-Apple-buegelt-Proton-Anfrage-ab-10965277.html",
@@ -360,6 +377,11 @@
       "url": "https://www.heise.de/hintergrund/Fernwaerme-Der-Hoffnungstraeger-der-stark-an-der-Verbrennung-haengt-10624114.html"
     },
     {
+      "title": "Digitale Souveränität: Schluss mit dem Buzzwords!",
+      "teaser": "Alle reden über digitale Souveränität, aber wie geht es praktisch weiter? Ein Webcast erklärt, welche Abstufungen für welche Anwendungsfälle sinnvoll sind, und hilft bei der Frage: Wie mache ich konkret weiter?",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/digitale-souveraenitaet-weg-vom-buzzword-bingo-hin-zur-umsetzung-4979?source=hbsadersatz"
+    },
+    {
       "title": "Smart Meter: Verband sieht Fortschritte bei Einbau digitaler Stromzähler",
       "teaser": "Digitale Stromzähler haben Vorteile für Verbraucher international. Bisher waren solche Smart Meter kaum verbreitet. Das ändert sich langsam.",
       "url": "https://www.heise.de/news/Smart-Meter-Verband-sieht-Fortschritte-bei-Einbau-digitaler-Stromzaehler-10964883.html",
@@ -376,11 +398,6 @@
       "teaser": "App-Entwickler können mehrere Einreichungen gleichzeitig im App Store prüfen lassen. Neuigkeiten gibt es auch bei Custom Product Pages und Offer Codes.",
       "url": "https://www.heise.de/news/Apple-App-Store-Mehrere-Einreichungen-gleichzeitig-pruefen-lassen-10964956.html",
       "image_title": "App-Store-Icon vor wolkigem Hintergrund"
-    },
-    {
-      "title": "Cybersicherheit dank KI: Weniger Risiko, mehr Reaktionsfähigkeit",
-      "teaser": "Wie können Unternehmen ihre Cybersicherheit strategisch verbessern? Einzelmaßnahmen reichen oft nicht aus. Erfahren Sie hier, wie ein 360-Grad-Ansatz mit einer KI-basierten Security-Plattform Unternehmen langfristig helfen könnte .",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/ganzheitliche-cybersicherheit-dank-ki-risiken-minimieren-reaktionsfaehigkeit-staerken-4969/?source=hbsad-ersatz"
     },
     {
       "title": "Speicher für große BKWs und kleine PV-Anlagen: Marstek Venus E 3.0 im Test",
@@ -421,23 +438,6 @@
       "teaser": "Technik-Themen in zehn Minuten auf der Bühne präsentiert – das ist die Idee des ersten c't slam. Tickets für das Event in Köln gibt es ab sofort zu kaufen.",
       "url": "https://www.heise.de/news/Tickets-fuer-den-ersten-c-t-slam-in-Koeln-10823199.html",
       "image_title": "c't slam Aufmacher"
-    },
-    {
-      "title": "KI-Musik: Universal Music lizenziert Katalog für Udio-Training",
-      "teaser": "Universal Music öffnet die Tür für das Training Künstlicher Intelligenz mit Werken seiner Künstler. Eine Klage gegen den Dienst Udio wird beigelegt.",
-      "url": "https://www.heise.de/news/Universal-Music-laesst-Musik-zum-Training-von-KI-verwenden-10964753.html",
-      "image_title": "Symbolbild KI-Musik: Schattenriss eines menschlichen Kopfes, dafür künstlicher Darstellung von Musik symbolisierenden Wellen und Balkengrafiken"
-    },
-    {
-      "title": "Ubuntu 25.10 führt optimierte Pakete für moderne x86-64-CPUs ein",
-      "teaser": "Canonical führt mit Ubuntu 25.10 neue Architektur-Varianten ein. Die optimierten Pakete nutzen moderne CPU-Features wie AVX2, ohne alte Hardware auszuschließen.",
-      "url": "https://www.heise.de/news/Ubuntu-25-10-fuehrt-optimierte-Pakete-fuer-moderne-x86-64-CPUs-ein-10964427.html",
-      "image_title": "Lila Hintergrund, Quokka Strichzeichnung in weiß"
-    },
-    {
-      "title": "Fitnessarmbänder ohne Display im Test: Helio Strap, Polar Loop und Whoop MG",
-      "teaser": "Das Whoop-Band erfasst permanent die Körperdaten des Trägers und ermöglicht tiefgehende Analysen. Bieten Helio Strap und Polars Loop solche Einblicke ohne Abo?",
-      "url": "https://www.heise.de/tests/Fitnessarmbaender-ohne-Display-im-Test-Helio-Strap-Polar-Loop-und-Whoop-MG-10520194.html"
     },
     {
       "title": "Microsofts Cloud ist auf dem Weg der Besserung",
@@ -608,15 +608,15 @@
       "url": "https://www.heise.de/en/news/Collins-Aerospace-Weak-Passwords-Allowed-Messages-to-Cockpits-10963332.html"
     },
     {
+      "title": "WLAN-Steuerung: Hama Smarter Garagentor-Öffner im Test",
+      "teaser": "Die Garagentoraufrüstung ist zwar nicht ganz so smart wie der Name sagt, eignet sich aber sogar für mehr Tore, als Hama angibt.",
+      "url": "https://www.heise.de/tests/WLAN-Steuerung-Hama-Smarter-Garagentor-Oeffner-im-Test-10494648.html"
+    },
+    {
       "title": "Kathedralen aus LichtDie 4K-Restaurationen von Tron und Tron: Legacy im Test",
       "teaser": "Disney hat die Klassiker Tron und Tron: Legacy neu restauriert. Lohnen sich die UHDs gegenüber den Streams und Blu-rays?",
       "url": "https://www.heise.de/tests/Kathedralen-aus-Licht-Die-4K-Restaurationen-von-Tron-und-Tron-Legacy-im-Test-10793437.html",
       "image_title": "Eine Frau sitzt am Volant eines futuristischen Wagens und blickt ihren Beifaherer an"
-    },
-    {
-      "title": "WLAN-Steuerung: Hama Smarter Garagentor-Öffner im Test",
-      "teaser": "Die Garagentoraufrüstung ist zwar nicht ganz so smart wie der Name sagt, eignet sich aber sogar für mehr Tore, als Hama angibt.",
-      "url": "https://www.heise.de/tests/WLAN-Steuerung-Hama-Smarter-Garagentor-Oeffner-im-Test-10494648.html"
     },
     {
       "title": "Wie man das Passwort eines Windows-Kontos knackt",
@@ -739,21 +739,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Die geteilte Intelligenz – was wir der KI überlassen, und was nicht",
-      "teaser": "Noch nie war Wissen so leicht zugänglich. KI kann auch neue Kompetenzen fördern, sagt die Forschung. Wie viel wollen wir selbst noch denken?",
-      "url": "https://www.heise.de/tp/features/Die-geteilte-Intelligenz-was-wir-der-KI-ueberlassen-und-was-nicht-10963205.html",
-      "image_title": "Grafik zeigt ein \"Denkerteam\" zusammengestellt aus der berühmten Skulptur \"Der Denke\" von Rodin. Über einer der Figuren leuchtet ein Licht."
+      "title": "Die Ernährungspyramide: Auch eine gute Idee kann noch besser werden",
+      "teaser": "Entworfen, um Proteste gegen hohe Lebensmittelpreise zu kontern, dient die Ernährungspyramide heute der gesundheitlichen Aufklärung. Was macht sie so beliebt?",
+      "url": "https://www.heise.de/tp/features/Die-Ernaehrungspyramide-Auch-eine-gute-Idee-kann-noch-besser-werden-10864365.html",
+      "image_title": "viele verschiedene weit überwiegend unverarbeitete Lebenmittel"
     },
     {
-      "title": "Präzision oder Untergang: Planetare Verteidigung braucht mehr als Raketen",
-      "teaser": "Die Abwehr von gefährlichen Asteroiden ist keineswegs trivial. Je weiter die Forschung fortschreitet, desto mehr Schwierigkeiten tauchen auf. Was wird getan?",
-      "url": "https://www.heise.de/tp/features/Praezision-oder-Untergang-Planetare-Verteidigung-braucht-mehr-als-Raketen-10963050.html",
-      "image_title": "mehrere Gesteinsbrocken in der Nähe der Erde vom Weltraum aus gesehen."
+      "title": "Russland-Venezuela: Strategische Partnerschaft mit Zukunft?",
+      "teaser": "Russland und Venezuela haben ein Partnerschaftsabkommen unterzeichnet. Dabei spitzt sich jetzt die Lage in der Karibik dramatisch zu. Ein Überblick.",
+      "url": "https://www.heise.de/tp/features/Russland-Venezuela-Strategische-Partnerschaft-mit-Zukunft-10965222.html",
+      "image_title": "Hände mit russischer und venezolanischer Flagge reichen einnander. Darüber Gewitterwolke mit Trump"
     },
     {
-      "title": "In eigener Sache: Artikel \"Die vertane Friedenschance im Ukraine-Krieg\" wegen Verdacht auf Deep-Fake-Video offline genommen",
-      "teaser": "Begründete Zweifel an der Authentizität eines Videobeitrags von Professor John Mearsheimer.",
-      "url": "https://www.heise.de/tp/features/In-eigener-Sache-Artikel-Die-vertane-Friedenschance-im-Ukraine-Krieg-wegen-Verdacht-auf-Deep-Fake-10964643.html"
+      "title": "GJ-X: Chinas 42-Meter-Stealth-Drohne, die die Inselketten neu vermisst",
+      "teaser": "Erster Flug, erstmals im Bild. Nurflügel-Nurserie mit 7.000+ km Reichweite und internem Waffenschacht. Wer die Inselketten bewacht, muss jetzt neu rechnen.",
+      "url": "https://www.heise.de/tp/features/GJ-X-Chinas-42-Meter-Stealth-Drohne-die-die-Inselketten-neu-vermisst-10965427.html",
+      "image_title": "KI-generierte Illustration zeigt eine große, pfeilförmige Tarnkappen-Drohne gleitet lautlos durch einen hellen, friedlich wirkenden Himmel über einer weiten, sandfarbenen Wüstenlandschaft."
     },
     {
       "title": "Microsofts KI-Chef: „Einen Sexroboter werden wir nie bauen“",
