@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-01T06:13:44",
+  "timestamp": "2025-11-01T07:08:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Docker Image Security – Teil 3: Minimale, sichere Container-Images selbst bauen",
+      "url": "https://www.heise.de/hintergrund/Docker-Image-Security-Teil-3-Minimale-sichere-Container-Images-selbst-bauen-10964627.html"
+    },
+    {
+      "title": "Reale Orte in VR-Umgebungen verwandeln: \"Meta Hyperscape\" für Quest 3 im Test",
+      "url": "https://www.heise.de/tests/Reale-Ort-in-VR-Umgebungen-verwandeln-Meta-Hyperscape-fuer-Quest-3-im-Test-10900350.html"
+    },
     {
       "title": "Digitaler Euro: Verhandlungsführer des EU-Parlaments ist gegen Online-Nutzung",
       "url": "https://www.heise.de/news/Digitaler-Euro-Verhandlungsfuehrer-des-EU-Parlaments-ist-gegen-Online-Nutzung-10965775.html"
@@ -56,14 +64,6 @@
     {
       "title": "Vorsicht, Kunde: EVNG trägt Haushaltsstromzähler nicht in die Datenbank ein",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-EVNG-traegt-Haushaltsstromzaehler-nicht-in-die-Datenbank-ein-10705082.html"
-    },
-    {
-      "title": "Neue VR-Spiele im November 2025: \"Deadpool\", \"Syberia\" & \"Dungeons & Dragons\"",
-      "url": "https://www.heise.de/news/Neue-VR-Spiele-im-November-2025-Deadpool-Syberia-Dungeons-Dragons-10965639.html"
-    },
-    {
-      "title": "Geplant: WhatsApp bekommt Apple-Watch-Anwendung",
-      "url": "https://www.heise.de/news/Geplant-WhatsApp-bekommt-Apple-Watch-Anwendung-10965538.html"
     },
     {
       "title": "ChipkriseNexperia stoppt Ausfuhr von Wafern nach China",
@@ -184,6 +184,23 @@
       "image_title": "Wikipedia-Schriftzug auf einem Smartphone"
     },
     {
+      "title": "Docker Image Security – Teil 3: Minimale, sichere Container-Images selbst bauen",
+      "teaser": "Minimale Container-Images reduzieren Schwachstellen durch weniger Komponenten. Anleitung für eigene Images mit Ubuntu Chiseled, WolfiOS und Azure Linux.",
+      "url": "https://www.heise.de/hintergrund/Docker-Image-Security-Teil-3-Minimale-sichere-Container-Images-selbst-bauen-10964627.html",
+      "image_title": "Skala von Rot bis Grün"
+    },
+    {
+      "title": "Reale Orte in VR-Umgebungen verwandeln: \"Meta Hyperscape\" für Quest 3 im Test",
+      "teaser": "Mit \"Meta Hyperscape\" lassen sich aus echten Räumen fotorealistische VR-Umgebungen erschaffen. Wir haben das in Innenräumen und im Freien ausprobiert.",
+      "url": "https://www.heise.de/tests/Reale-Ort-in-VR-Umgebungen-verwandeln-Meta-Hyperscape-fuer-Quest-3-im-Test-10900350.html",
+      "image_title": "Ein Fahrrad neben einem Abhang vor mediterraner Kulisse."
+    },
+    {
+      "title": "Warum gerade jetzt eine Server-Colocation angesagt ist",
+      "teaser": "Bei einer Colocation bleiben die Server Eigentum des Unternehmens, stehen aber in einem professionell betriebenen Rechenzentrum. Diese Herangehensweise bringt gleich mehrere Vorteile.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7108211440&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Digitaler Euro: Verhandlungsführer des EU-Parlaments ist gegen Online-Nutzung",
       "teaser": "Der Berichterstatter der EU-Abgeordneten, Fernando Navarrete Rojas, will den digitalen Euro nur, wenn die Wirtschaft keine eigene einschlägige Lösung anbietet.",
       "url": "https://www.heise.de/news/Digitaler-Euro-Verhandlungsfuehrer-des-EU-Parlaments-ist-gegen-Online-Nutzung-10965775.html"
@@ -192,11 +209,6 @@
       "title": "Top 10: Das beste Outdoor-Handy im Test – robust, mit Beamer, Nachtsicht & Co.",
       "teaser": "Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Smartphones sind nicht nur stabil und wasserdicht. Wir zeigen die besten Outdoor-Handys aus den Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test-robust-mit-beamer-nachtsicht-und-co/l7bnxjv?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "NIS-2-Vorgaben meistern – und trotzdem produktiv bleiben",
-      "teaser": "Durch die NIS-2-Vorgaben müssen Unternehmen streng Sicherheitsstandards einhalten. Aber diese bieten ihnen auch die Chance, die eigene Resilienz zu stärken. Bestimmte Tools können dabei helfen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7109463335&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Apples Familienfreigabe: Konfliktpotenzial bei einer Trennung",
@@ -220,17 +232,6 @@
       "teaser": "Im November starten gleich mehrere ambitionierte VR-Spiele, darunter ein abgedrehtes Marvel-Abenteuer, ein taktischer PvP-Shooter und ein Adventure-Klassiker.",
       "url": "https://www.heise.de/news/Neue-VR-Spiele-im-November-2025-Deadpool-Syberia-Dungeons-Dragons-10965639.html",
       "image_title": "Collage mit verschiedenen Spielmotiven: Im Hintergrund ist ein strategisches Fantasy-Brettspiel mit Figuren auf einer Brücke zu sehen, während im Vordergrund eine realistisch gerenderte Frau und eine Comicfigur in rotem Kostüm mit gezeichneten Effekten und Schriftzügen wie „BOOM!“ dargestellt sind."
-    },
-    {
-      "title": "Windows-Tablet und Laptop in einem: Ninkear T40 für unter 400 Euro im Test",
-      "teaser": "Der Ninkear T40 vereint Windows-Tablet und günstigen Laptop in einem Gerät. Mit Intel N100, 16 GB RAM und abnehmbarer Tastatur kostet er unter 400 Euro.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/windows-tablet-und-laptop-in-einem-ninkear-t40-fuer-unter-400-euro-im-test/80mkm7g?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Datenschutz: Bundesregierung will kleine Änderungen mit großer Wirkung",
-      "teaser": "Die schwarz-rote Bundesregierung hat fast 20 Seiten Reformideen für die DSGVO an die EU-Kommission übersandt. Einige davon hätten weitreichende Auswirkungen.",
-      "url": "https://www.heise.de/news/Datenschutz-Bundesregierung-will-kleine-Aenderungen-mit-grosser-Wirkung-10965609.html",
-      "image_title": "Die zwölf gelben EU-Sterne auf blauem Hintergrund; im Kreis sind ein weißes Vorhängeschloss und die Buchstaben DSGVO (Datenschutzgrundverordnung) zu sehen; der blaue Hintergrund ist eine Landkarte Europas"
     },
     {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
@@ -300,6 +301,17 @@
       "image_title": "heise+ Aktionsangebot"
     },
     {
+      "title": "Windows-Tablet und Laptop in einem: Ninkear T40 für unter 400 Euro im Test",
+      "teaser": "Der Ninkear T40 vereint Windows-Tablet und günstigen Laptop in einem Gerät. Mit Intel N100, 16 GB RAM und abnehmbarer Tastatur kostet er unter 400 Euro.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/windows-tablet-und-laptop-in-einem-ninkear-t40-fuer-unter-400-euro-im-test/80mkm7g?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Datenschutz: Bundesregierung will kleine Änderungen mit großer Wirkung",
+      "teaser": "Die schwarz-rote Bundesregierung hat fast 20 Seiten Reformideen für die DSGVO an die EU-Kommission übersandt. Einige davon hätten weitreichende Auswirkungen.",
+      "url": "https://www.heise.de/news/Datenschutz-Bundesregierung-will-kleine-Aenderungen-mit-grosser-Wirkung-10965609.html",
+      "image_title": "Die zwölf gelben EU-Sterne auf blauem Hintergrund; im Kreis sind ein weißes Vorhängeschloss und die Buchstaben DSGVO (Datenschutzgrundverordnung) zu sehen; der blaue Hintergrund ist eine Landkarte Europas"
+    },
+    {
       "title": "heise+ Update vom 31. Oktober 2025: Lesetipps fürs Wochenende",
       "teaser": "Der wöchentliche Newsletter von heise+ mit Quantencomputer vs. Verschlüsselung, Programmieren lernen, Ethernet-Switches, DIY-Wasserabschalter, Raumfahrtrecht",
       "url": "https://www.heise.de/news/heise-Update-vom-31-Oktober-2025-Lesetipps-fuers-Wochenende-10965369.html",
@@ -363,6 +375,11 @@
       "url": "https://www.heise.de/ratgeber/Wissen-clever-organisieren-Notion-Obsidian-und-Anytype-im-Vergleich-10767104.html"
     },
     {
+      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
+      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
+    },
+    {
       "title": "Apple-Quartalszahlen: Rekordumsatz und gute Aussichten fürs Weihnachtsgeschäft",
       "teaser": "Apple hat am Donnerstagabend seine Quartalszahlen für Juli bis September vorgelegt. Der Umsatz landet bei 102,5 Milliarden US-Dollar.",
       "url": "https://www.heise.de/news/Dank-iPhone-17-Apple-erwartet-bestes-Weihnachtsquartal-wieder-Umsatzrekord-10965375.html",
@@ -373,11 +390,6 @@
       "teaser": "Für das im Dezember kommende FreeBSD 15 haben die Entwickler Zero-Trust Builds und Reproducible Builds implementiert.",
       "url": "https://www.heise.de/news/FreeBSD-kurz-vor-15-0-Vertrauen-ist-gut-Reproduzierbarkeit-ist-besser-10965056.html",
       "image_title": "Schriftzug FreeBSD mit 0ern und 1ern"
-    },
-    {
-      "title": "Warum eine moderne Firewall KI \"sprechen\" sollte",
-      "teaser": "Künstliche Intelligenz verändert Geschäftsprozesse in rasantem Tempo – gleichzeitig nützen Kriminelle dies für ihre eigenen Zwecke. Erfahren Sie hier, wie smarte AI Firewalls helfen, neue Bedrohungen abzuwehren.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ai-firewall-so-sichern-sie-ihr-unternehmen-vor-den-risiken-von-genai-llms-4976/?source=nat_teas"
     },
     {
       "title": "iX-Workshop Softwarearchitektur für KI-Systeme – skalierbare Lösungen entwickeln",
@@ -425,17 +437,6 @@
       "teaser": "Auf Druck der EU musste Apple seinen Kunden erlauben, iPhone-Apps von Drittanbietern als Standard zu wählen. Bei Kalendern mauert der Konzern.",
       "url": "https://www.heise.de/news/Keine-andere-Kalender-App-darf-Standard-sein-Apple-buegelt-Proton-Anfrage-ab-10965277.html",
       "image_title": "Grünes iPhone (von hinten) neben seiner Verpackung"
-    },
-    {
-      "title": "OLG bestätigt: Preiserhöhung bei Amazon Prime ist unwirksam",
-      "teaser": "Die Preiserhöhung bei Amazon Prime vom Herbst 2022 bleibt ungültig. Der Konzern hat auch beim OLG Düsseldorf verloren.",
-      "url": "https://www.heise.de/news/Unzulaessige-Preiserhoehung-Amazons-Berufung-abgewiesen-10965289.html",
-      "image_title": "Miniatureinkaufskorb links neben einem Laptop mit Amazon-Logo. Im Hintergrund ein riesiger Bildschirm mit Produktfotos."
-    },
-    {
-      "title": "Top 10: Der beste Over-Ear-Kopfhörer im Test – Sony vor JBL & Apple",
-      "teaser": "Over-Ear-Kopfhörer bieten besten Klang, perfektes ANC und bequemen Halt. Wir zeigen die besten Modelle und Preis-Leistungs-Tipps aus dutzenden Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-over-ear-kopfhoerer-im-test-sony-vor-jbl-und-apple/sl68nkv?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "UpdateGroßes Update für Canva, Affinity wird kostenlos",
@@ -503,14 +504,14 @@
       "image_title": "FSRU \"Höegh Esperanza\" in Wilhelmshaven"
     },
     {
+      "title": "OLG bestätigt: Preiserhöhung bei Amazon Prime ist unwirksam",
+      "url": "https://www.heise.de/news/Unzulaessige-Preiserhoehung-Amazons-Berufung-abgewiesen-10965289.html",
+      "image_title": "Miniatureinkaufskorb links neben einem Laptop mit Amazon-Logo. Im Hintergrund ein riesiger Bildschirm mit Produktfotos."
+    },
+    {
       "title": "China bestätigt Pause bei Kontrollen auf Seltene Erden, Forderung an die EU",
       "url": "https://www.heise.de/news/Nach-Trump-Treffen-China-bestaetigt-Pause-bei-Kontrollen-auf-Seltene-Erden-10964433.html",
       "image_title": "Karte seltener Erden in China"
-    },
-    {
-      "title": "Smart Meter: Verband sieht Fortschritte bei Einbau digitaler Stromzähler",
-      "url": "https://www.heise.de/news/Smart-Meter-Verband-sieht-Fortschritte-bei-Einbau-digitaler-Stromzaehler-10964883.html",
-      "image_title": "Two,Smart,Electric,Power,Meter,Counter,Measuring,Power,Usage.banner,advertisement.close-up,Of"
     },
     {
       "title": "Patientenakten: Arzt-Patientenverhältnis wegen Abrechnungsdilemma unter Druck",
@@ -607,19 +608,19 @@
       "url": "https://www.heise.de/en/news/Study-325-000-Jobs-Solely-for-Bureaucracy-Management-10793184.html"
     },
     {
+      "title": "WLAN-Steuerung: Hama Smarter Garagentor-Öffner im Test",
+      "teaser": "Die Garagentoraufrüstung ist zwar nicht ganz so smart wie der Name sagt, eignet sich aber sogar für mehr Tore, als Hama angibt.",
+      "url": "https://www.heise.de/tests/WLAN-Steuerung-Hama-Smarter-Garagentor-Oeffner-im-Test-10494648.html"
+    },
+    {
       "title": "Vorsicht, Kunde: EVNG trägt Haushaltsstromzähler nicht in die Datenbank ein",
       "teaser": "Günstige Stromtarife für Wärmepumpen gibt es nur mit einem separaten Zähler – sonst wird es für den Kunden teuer.",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-EVNG-traegt-Haushaltsstromzaehler-nicht-in-die-Datenbank-ein-10705082.html"
     },
     {
-      "title": "Wie man das Passwort eines Windows-Kontos knackt",
-      "teaser": "Wir haben uns dem Gedankenspiel gestellt, das Passwort eines verlorenen Windows-Accounts nicht zu überschreiben, sondern tatsächlich zu knacken.",
-      "url": "https://www.heise.de/hintergrund/Wie-man-das-Passwort-eines-Windows-Kontos-knackt-10688318.html"
-    },
-    {
-      "title": "WLAN-Steuerung: Hama Smarter Garagentor-Öffner im Test",
-      "teaser": "Die Garagentoraufrüstung ist zwar nicht ganz so smart wie der Name sagt, eignet sich aber sogar für mehr Tore, als Hama angibt.",
-      "url": "https://www.heise.de/tests/WLAN-Steuerung-Hama-Smarter-Garagentor-Oeffner-im-Test-10494648.html"
+      "title": "Visualisierung ohne Coden: CSV-Daten in Blender importieren",
+      "teaser": "Blender 4.5 kann CSV-Dateien direkt über Geometry Nodes importieren, Skripte benötigt man nicht mehr: Das ist ideal für 3D-Datenvisualisierungen. So gehts.",
+      "url": "https://www.heise.de/ratgeber/Visualisierung-ohne-Coden-CSV-Daten-in-Blender-importieren-10692885.html"
     },
     {
       "title": "Mit M5-Chip – und ohne NetzteilDas neue MacBook Pro im Test",
@@ -656,6 +657,12 @@
       "url": "https://www.heise.de/ratgeber/Wasserabschalter-mit-Ikea-ZigBee-Komponenten-basteln-10679032.html"
     },
     {
+      "title": "Sinnliche Fotografie: Die besten Techniken für Boudoir-Fotos",
+      "teaser": "Fotografin Nadine Wisser bringt mit ihrem ganz persönlichen Ansatz Menschen und ihre echten Emotionen vor die Kamera und ins richtige Licht.",
+      "url": "https://www.heise.de/ratgeber/Sinnliche-Fotografie-Die-besten-Techniken-fuer-Boudoir-Fotos-10900242.html",
+      "image_title": ", Alle Bilder: Nadine Wisser"
+    },
+    {
       "title": "Insta360 X4 Air: leichte 360-Grad-Kamera mit 8K",
       "teaser": "Das günstigere Modell soll vor allem Einsteiger locken. Die Kamera wiegt weniger als ihre Schwestermodelle und wählt automatisch den Bildausschnitt.",
       "url": "https://www.heise.de/news/Insta360-X4-Air-leichte-360-Grad-Kamera-mit-8K-10961349.html"
@@ -670,11 +677,6 @@
       "teaser": "\"Ich fürchte, dass die fortschreitende Entwicklung der KI bald dazu führt, dass diese Fehler nicht mehr passieren\", sagt Thomas Hoffmann über KI-Bilder.",
       "url": "https://www.heise.de/news/Zwischen-Fakten-und-Fakes-Click-Boom-Flash-49-Die-Macht-der-Bilder-10861420.html",
       "image_title": "Ki Redakteure auf Berggipfel"
-    },
-    {
-      "title": "Große Zahlen und kleine, effektive Veränderungen – Fotonews der Woche 43/2025",
-      "teaser": "Canon erreicht 170 Millionen Objektive, Leica bricht mit einer Tradition und Fujifilm bringt mit der X-T30 III eine optimierte Variante des Einsteigermodells.",
-      "url": "https://www.heise.de/news/Grosse-Zahlen-und-kleine-effektive-Veraenderungen-Fotonews-der-Woche-43-2025-10865889.html"
     },
     {
       "title": "Agentic AI: Wenn KI autonom wird und wie man damit umgeht",
@@ -736,22 +738,21 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "\"Momo\" 2025: Zeitdiebe verkaufen jetzt transhumane Effizienz",
-      "teaser": "Der Klassiker kommt als modernes Remake ins Kino. Statt grauer Herren mit Zigarren jagen nun smarte Tech-Manager nach der Zeit der Menschen. Filmkritik.",
-      "url": "https://www.heise.de/tp/features/Momo-2025-Zeitdiebe-verkaufen-jetzt-transhumane-Effizienz-10965659.html",
-      "image_title": "Momo vor einem großen unterirdischen See, über dem ein goldenes Gefäß an einer goldenen Kette hängt"
+      "title": "Die geteilte Intelligenz – was wir der KI überlassen, und was nicht",
+      "teaser": "Noch nie war Wissen so leicht zugänglich. KI kann auch neue Kompetenzen fördern, sagt die Forschung. Wie viel wollen wir selbst noch denken?",
+      "url": "https://www.heise.de/tp/features/Die-geteilte-Intelligenz-was-wir-der-KI-ueberlassen-und-was-nicht-10963205.html",
+      "image_title": "Grafik zeigt ein \"Denkerteam\" zusammengestellt aus der berühmten Skulptur \"Der Denke\" von Rodin. Über einer der Figuren leuchtet ein Licht."
     },
     {
-      "title": "Strategien des Widerstands: Warum List effektiver ist als Konfrontation",
-      "teaser": "Ein Gefängnispsychologe erklärt, warum der Hofnarr klüger handelt als der Revolutionär – und was Orwell mit heruntergelassenen Hosen zu tun hat.",
-      "url": "https://www.heise.de/tp/features/Strategien-des-Widerstands-Warum-List-effektiver-ist-als-Konfrontation-10965512.html",
-      "image_title": "Eine flache Kämpferfaust im Nichts. Darauf steht ein Schaukelstuhl.."
+      "title": "In eigener Sache: Artikel \"Die vertane Friedenschance im Ukraine-Krieg\" wegen Verdacht auf Deep-Fake-Video offline genommen",
+      "teaser": "Begründete Zweifel an der Authentizität eines Videobeitrags von Professor John Mearsheimer.",
+      "url": "https://www.heise.de/tp/features/In-eigener-Sache-Artikel-Die-vertane-Friedenschance-im-Ukraine-Krieg-wegen-Verdacht-auf-Deep-Fake-10964643.html"
     },
     {
-      "title": "USA und China einigen sich auf Handelserleichterungen nach Xi-Trump-Treffen",
-      "teaser": "Donald Trump und Xi Jinping vereinbaren gegenseitige Zugeständnisse bei Zöllen und Exportkontrollen. Die Einigung soll zunächst für ein Jahr gelten.",
-      "url": "https://www.heise.de/tp/features/USA-und-China-einigen-sich-auf-Handelserleichterungen-nach-Xi-Trump-Treffen-10964210.html",
-      "image_title": "Xi und trump"
+      "title": "Indiens Antwort auf den Westen: \"Wir brauchen eure Flugzeuge nicht!\"",
+      "teaser": "Indien trotzt den USA. Der staatliche Konzern HAL produziert mit Moskau den Superjet-100. Ein Industrieprojekt als geopolitisches Statement.",
+      "url": "https://www.heise.de/tp/features/Indiens-Antwort-auf-den-Westen-Wir-brauchen-eure-Flugzeuge-nicht-10963790.html",
+      "image_title": "Foto zeigte das Passagierflugzeug Sukhoi Superjet 100-95 im blauen Himmel."
     },
     {
       "title": "Canva veröffentlicht Gratis-Alternative zu Photoshop und Illustrator",
