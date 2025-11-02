@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-02T08:11:40",
+  "timestamp": "2025-11-02T09:09:17",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-10777987.html"
+    },
     {
       "title": "Investieren in Sport: Wie Anleger von Toren und Titeln profitieren können",
       "url": "https://www.heise.de/ratgeber/Investieren-in-Sport-Wie-Anleger-von-Toren-und-Titeln-profitieren-koennen-10962420.html"
@@ -60,10 +64,6 @@
     {
       "title": "Bildaufhübscher: Elgato Facecam 4K im Test",
       "url": "https://www.heise.de/tests/Bildaufhuebscher-Elgato-Facecam-4K-im-Test-10782162.html"
-    },
-    {
-      "title": "c’t Sonderheft KI-Wissen 2/2025 – Jetzt erhältlich",
-      "url": "https://www.heise.de/news/c-t-Sonderheft-KI-Wissen-2-2025-Jetzt-erhaeltlich-10963730.html"
     },
     {
       "title": "WLAN-AbsageBundesregierung will das obere 6-GHz-Band dem Mobilfunk zuweisen",
@@ -184,21 +184,27 @@
       "image_title": "Wikipedia-Schriftzug auf einem Smartphone"
     },
     {
+      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+      "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-10777987.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
       "title": "Investieren in Sport: Wie Anleger von Toren und Titeln profitieren können",
       "teaser": "Die Aktien von Fußballvereinen und Sportartikelherstellern können höhere Renditen als der MSCI World generieren. Trotzdem ist Vorsicht geboten.",
       "url": "https://www.heise.de/ratgeber/Investieren-in-Sport-Wie-Anleger-von-Toren-und-Titeln-profitieren-koennen-10962420.html",
       "image_title": "Fußballstadtion mit Börsenkursen auf der Videowand"
     },
     {
+      "title": "NIS-2-Vorgaben meistern – und trotzdem produktiv bleiben",
+      "teaser": "Durch die NIS-2-Vorgaben müssen Unternehmen streng Sicherheitsstandards einhalten. Aber diese bieten ihnen auch die Chance, die eigene Resilienz zu stärken. Bestimmte Tools können dabei helfen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7109463335&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Missing Link: Prävention an der Quelle – Chatkontrolle und Upload-Filter",
       "teaser": "EU-Pläne für die \"Chatkontrolle\" sind heftig umstritten. Der neue \"Kompromiss\": Upload-Filter. Wer sind die Befürworter und was schlagen sie vor?",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Praevention-an-der-Quelle-Chatkontrolle-und-Upload-Filter-10963637.html",
       "image_title": "Verschwommene Hände an Tastatur"
-    },
-    {
-      "title": "Maßgeschneiderte E-Mail-Sicherheit aus Europa",
-      "teaser": "Die E-Mail bleibt als Kommunikationskanal ein Hauptziel für Cyberangriffe. Unternehmen brauchen daher einen individuell anpassbaren E-Mail-Security-Ansatz, der Sicherheit und Zuverlässigkeit vereint.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7113241897&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Deutsche Forschungsgemeinschaft will Daten aus US-Clouds holen",
@@ -225,12 +231,6 @@
       "title": "Telco-Manager: Europas digitale Wettbewerbsfähigkeit und Sicherheit in Gefahr",
       "teaser": "Die Chefs der größten Telekommunikationskonzerne Europas kritisieren in einem Brief an von der Leyen ihre große Sorge über das Zögern beim Digital Networks Act.",
       "url": "https://www.heise.de/news/Telco-Manager-Europas-digitale-Wettbewerbsfaehigkeit-und-Sicherheit-in-Gefahr-10966006.html"
-    },
-    {
-      "title": "Bildaufhübscher: Elgato Facecam 4K im Test",
-      "teaser": "Mit Wechselfiltern und hoher Bildqualität will Elgatos Facecam 4K Streamer überzeugen. Wie schlägt sie sich gegenüber der Konkurrenz?",
-      "url": "https://www.heise.de/tests/Bildaufhuebscher-Elgato-Facecam-4K-im-Test-10782162.html",
-      "image_title": "Facecam 4K von Elgato"
     },
     {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
@@ -297,6 +297,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Aktionsangebot"
+    },
+    {
+      "title": "Bildaufhübscher: Elgato Facecam 4K im Test",
+      "teaser": "Mit Wechselfiltern und hoher Bildqualität will Elgatos Facecam 4K Streamer überzeugen. Wie schlägt sie sich gegenüber der Konkurrenz?",
+      "url": "https://www.heise.de/tests/Bildaufhuebscher-Elgato-Facecam-4K-im-Test-10782162.html",
+      "image_title": "Facecam 4K von Elgato"
     },
     {
       "title": "c’t Sonderheft KI-Wissen 2/2025 – Jetzt erhältlich",
@@ -367,15 +373,15 @@
       "image_title": "Ein Smartphone mit geöffneter Messaging-App in einer menschlichen Hand, auf dem Bildschirm ist verschwommen ein Chat zu sehen."
     },
     {
+      "title": "Warum eine moderne Firewall KI \"sprechen\" sollte",
+      "teaser": "Künstliche Intelligenz verändert Geschäftsprozesse in rasantem Tempo – gleichzeitig nützen Kriminelle dies für ihre eigenen Zwecke. Erfahren Sie hier, wie smarte AI Firewalls helfen, neue Bedrohungen abzuwehren.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ai-firewall-so-sichern-sie-ihr-unternehmen-vor-den-risiken-von-genai-llms-4976/?source=nat_teas"
+    },
+    {
       "title": "KI: Apple steckt mehr Geld rein – verspricht weiter neue Siri für 2026",
       "teaser": "Neben den iPhone-Verkäufen interessierten sich Analysten bei den Apple-Zahlen vor allem für das Thema KI. Die Chefetage blieb eher schmallippig.",
       "url": "https://www.heise.de/news/KI-Apple-steckt-mehr-Geld-rein-verspricht-weiter-neue-Siri-fuer-2026-10965464.html",
       "image_title": "Tim Cook bei einer Produktvorstellung im September 2022"
-    },
-    {
-      "title": "Cybersicherheit dank KI: Weniger Risiko, mehr Reaktionsfähigkeit",
-      "teaser": "Wie können Unternehmen ihre Cybersicherheit strategisch verbessern? Einzelmaßnahmen reichen oft nicht aus. Erfahren Sie hier, wie ein 360-Grad-Ansatz mit einer KI-basierten Security-Plattform Unternehmen langfristig helfen könnte .",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/ganzheitliche-cybersicherheit-dank-ki-risiken-minimieren-reaktionsfaehigkeit-staerken-4969/?source=hbsad-ersatz"
     },
     {
       "title": "Vorsicht, Kunde: EVNG trägt Haushaltsstromzähler nicht in die Datenbank ein",
@@ -428,12 +434,6 @@
       "url": "https://www.heise.de/news/c-t-Webinar-MCP-verstehen-und-KI-Agenten-im-Alltag-nutzen-10962528.html"
     },
     {
-      "title": "E-SUV Alpine A390 GTS im Fahrbericht: Ungewöhnlich dynamisch",
-      "teaser": "Die französische Marke Alpine, Spezialist für kompromisslose Sportler, bringt ein E-SUV auf den Markt. Kann das gutgehen? Na aber Hallo!",
-      "url": "https://www.heise.de/tests/E-SUV-Alpine-A390-GTS-im-Fahrbericht-Ungewoehnlich-dynamisch-10965504.html",
-      "image_title": "Alpine A390 GTS"
-    },
-    {
       "title": "Keine andere Kalender-App darf Standard sein: Apple bügelt Proton-Anfrage ab",
       "url": "https://www.heise.de/news/Keine-andere-Kalender-App-darf-Standard-sein-Apple-buegelt-Proton-Anfrage-ab-10965277.html",
       "image_title": "Grünes iPhone (von hinten) neben seiner Verpackung"
@@ -484,14 +484,14 @@
       "image_title": "Screenshot zeigt eine Szene aus Frankenstein"
     },
     {
+      "title": "E-SUV Alpine A390 GTS im Fahrbericht: Ungewöhnlich dynamisch",
+      "url": "https://www.heise.de/tests/E-SUV-Alpine-A390-GTS-im-Fahrbericht-Ungewoehnlich-dynamisch-10965504.html",
+      "image_title": "Alpine A390 GTS"
+    },
+    {
       "title": "Vorstellung KTM 990 RC R: Ehre wieder hergestellt",
       "url": "https://www.heise.de/news/Vorstellung-KTM-990-RC-R-Ehre-wieder-hergestellt-10961875.html",
       "image_title": "KTM 990 RC R"
-    },
-    {
-      "title": "Apple TV 4K: Kommt ein neues Modell noch dieses Jahr?",
-      "url": "https://www.heise.de/news/Apple-TV-4K-Kommt-ein-neues-Modell-noch-dieses-Jahr-10961315.html",
-      "image_title": "Apple TV 4K mit HomePod mini."
     },
     {
       "title": "LNG-Terminals: Deutschland importiert mehr Gas als je zuvor",
@@ -603,6 +603,11 @@
       "url": "https://www.heise.de/en/news/Nike-Amplify-Motorized-Running-Shoe-Aims-to-Relieve-Runners-10900355.html"
     },
     {
+      "title": "c’t Sonderheft KI-Wissen 2/2025 – Jetzt erhältlich",
+      "teaser": "KI erobert alles – Medizin, Musik, Umwelt, Wirtschaft und Politik. Doch wem gehören Daten, Kreativität und Verantwortung? Antworten im neuen c’t-Sonderheft.",
+      "url": "https://www.heise.de/news/c-t-Sonderheft-KI-Wissen-2-2025-Jetzt-erhaeltlich-10963730.html"
+    },
+    {
       "title": "macOS: Eingekreiste Ziffern eintippen",
       "teaser": "Ich erhalte manchmal Rechnungen im PDF-Format, in denen eingekreiste Ziffern vorkommen. Ich will das auch machen, aber finde auf meinem Mac keinen Weg dazu.",
       "url": "https://www.heise.de/ratgeber/macOS-Eingekreiste-Ziffern-eintippen-10963341.html"
@@ -612,12 +617,6 @@
       "teaser": "Exakte Messwerte spielen für manchen eine geradezu religiöse Rolle. So gesehen läutet Ichendorfs unmögliche Quadratgeschichte eine Art Götterdämmerung ein.",
       "url": "https://www.heise.de/hintergrund/c-t-Story-Das-Ende-der-perfekten-Vermessung-10689437.html",
       "image_title": "c't-Story: Das Ende der perfekten Vermessung"
-    },
-    {
-      "title": "Cathedrals of Light: Tron and Tron: Legacy in 4K Restoration Reviewed",
-      "teaser": "Disney has newly restored the classics Tron and Tron: Legacy. Are the UHDs worth it compared to the streams and Blu-rays?",
-      "url": "https://www.heise.de/en/tests/Cathedrals-of-Light-Tron-and-Tron-Legacy-in-4K-Restoration-Reviewed-10965350.html",
-      "image_title": "A woman sits at the steering wheel of a futuristic car and looks at her co-driver"
     },
     {
       "title": "Mit M5-Chip – und ohne NetzteilDas neue MacBook Pro im Test",
@@ -638,6 +637,11 @@
       "image_title": ", KI-generiert mit freepik; bearbeitet von heise medien"
     },
     {
+      "title": "Ikea-Hack: Vom Servier- zum Werkstattwagen",
+      "teaser": "Am Beispiel des Servierwagens Bror von Ikea zeigen wir, wie sich ein Wohnaccessoire schnell in eine mobile Arbeitsfläche für die Werkstatt verwandeln lässt.",
+      "url": "https://www.heise.de/ratgeber/Ikea-Hack-Vom-Servier-zum-Werkstattwagen-10671734.html"
+    },
+    {
       "title": "ESP32 mit Display, Kamera und IoT-Funk",
       "teaser": "Elecrow stellt ein 7-Zoll-Display mit ESP32-P4 und Wi-Fi 6 vor – gedacht für interaktive IoT- und KI-Projekte im Maker-Umfeld.",
       "url": "https://www.heise.de/news/ESP32-mit-Display-Kamera-und-IoT-Funk-10963297.html",
@@ -647,12 +651,6 @@
       "title": "Wasserabschalter mit Ikea-ZigBee-Komponenten basteln",
       "teaser": "Ein Wasserschaden kann eine Katastrophe sein. Abhilfe schafft ein Projekt zum Abschalten des Hauswasseranschlusses und zur Alarmierung bei einer Leckage.",
       "url": "https://www.heise.de/ratgeber/Wasserabschalter-mit-Ikea-ZigBee-Komponenten-basteln-10679032.html"
-    },
-    {
-      "title": "Hidden GemsBundesweiter Programmier-Wettbewerb für Schüler",
-      "teaser": "Das Berliner Gymnasium Steglitz hat den Coding-Wettbewerb Hidden Gems gestartet, bei dem Schüler Bots programmieren.",
-      "url": "https://www.heise.de/news/Bundesweiter-Programmierwettbewerb-gestartet-10908083.html",
-      "image_title": "Screenshot einer Spieleumgebung, in der Bots virtuelle Edelsteine finden und einsammeln."
     },
     {
       "title": "Sinnliche Fotografie: Die besten Techniken für Boudoir-Fotos",
@@ -736,22 +734,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ist Leucin der geheime Booster für unsere Gesundheit?",
-      "teaser": "Aminosäure reguliert Zellkraftwerke binnen Stunden. Kölner Forscher zeigen: Leucin beeinflusst Proteine und Atmung der Mitochondrien.",
-      "url": "https://www.heise.de/tp/features/Ist-Leucin-der-geheime-Booster-fuer-unsere-Gesundheit-10966071.html",
-      "image_title": "Schaubild mit einem Konzept für die Gesundheit der Mitochondrien."
+      "title": "Nexperia-Lieferung startet wieder: Rettung für Europas Autobauer",
+      "teaser": "Handelsabkommen zwischen Trump und Xi soll Nexperia-Chip-Exporte freigeben. Europas Autoindustrie atmet auf – drohende Stillstände könnten abgewendet werden.",
+      "url": "https://www.heise.de/tp/features/Nexperia-Lieferung-startet-wieder-Rettung-fuer-Europas-Autobauer-10965981.html",
+      "image_title": "Flagge der Republik China und USA auf einem PC-Mainboard mit CPU."
     },
     {
-      "title": "Atomkraft: USA schließen 80-Milliarden-Abkommen mit Westinghouse für Reaktorbau",
-      "teaser": "Die Trump-Regierung will massiv in neue Atomreaktoren investieren. Doch Kritiker befürchten Sicherheitsrisiken durch finanzielle Anreize.",
-      "url": "https://www.heise.de/tp/features/Atomkraft-USA-schliessen-80-Milliarden-Abkommen-mit-Westinghouse-fuer-Reaktorbau-10965936.html",
-      "image_title": "Das Kernkraftwerk Sizewell B an der Küste von Suffolk"
+      "title": "Preisdruck statt Sicherheit: Wie abhängig sind wir von Chinas Pharmaprodukten?",
+      "teaser": "Seit Corona will Deutschland von Medikamentengrundstoffen aus China unabhängiger werden. Bislang ist es jedoch beim Wollen geblieben.",
+      "url": "https://www.heise.de/tp/features/Preisdruck-statt-Sicherheit-Wie-abhaengig-sind-wir-von-Chinas-Pharmaprodukten-10963057.html",
+      "image_title": "Arzenei-Kapsel mit EU-Aufdruck umringt von Erlenmeierkolben mit China-Aufdruck"
     },
     {
-      "title": "Indiens Antwort auf den Westen: \"Wir brauchen eure Flugzeuge nicht!\"",
-      "teaser": "Indien trotzt den USA. Der staatliche Konzern HAL produziert mit Moskau den Superjet-100. Ein Industrieprojekt als geopolitisches Statement.",
-      "url": "https://www.heise.de/tp/features/Indiens-Antwort-auf-den-Westen-Wir-brauchen-eure-Flugzeuge-nicht-10963790.html",
-      "image_title": "Foto zeigte das Passagierflugzeug Sukhoi Superjet 100-95 im blauen Himmel."
+      "title": "Vogelgrippe: Weihnachtsgans bleibt sicher, Freilandhaltung nicht",
+      "teaser": "Die Vogelgrippe breitet sich in Deutschland rasant aus. Bereits 400.000 Nutztiere mussten gekeult werden. Worauf Verbraucher achten sollten.",
+      "url": "https://www.heise.de/tp/features/Vogelgrippe-Weihnachtsgans-bleibt-sicher-Freilandhaltung-nicht-10965588.html",
+      "image_title": "Kraniche, Vogelgrippe-Viren und Mensch mit Schutzhülle"
     },
     {
       "title": "Canva veröffentlicht Gratis-Alternative zu Photoshop und Illustrator",
