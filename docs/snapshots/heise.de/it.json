@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-03T09:13:26",
+  "timestamp": "2025-11-03T10:12:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,25 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Windows bekommt gemeinsames Musikhören mit Bluetooth LE Shared Audio",
+      "teaser": "Neue Windows-Insider-Vorschauen bringen \"Shared Audio\" für Bluetooth LE mit. Damit lässt sich der Klang auf zwei Geräten zugleich ausgeben.",
+      "url": "https://www.heise.de/news/Windows-bekommt-gemeinsames-Musikhoeren-mit-Bluetooth-LE-Shared-Audio-10967210.html",
+      "image_title": "Beach,Horn,Or,Speaker,On,Pole"
+    },
+    {
+      "title": "Zeiss-Kameras und Android 16: Vivo bringt X300-Serie nach Deutschland",
+      "teaser": "Der Hersteller Vivo meldet sich mit dem X300 und X300 Pro zurück auf dem deutschen Markt. Die Akkus fallen jedoch kleiner aus als bei den Modellen für China.",
+      "url": "https://www.heise.de/news/Zeiss-Kameras-und-Android-16-Vivo-bringt-X300-Serie-nach-Deutschland-10970695.html",
+      "image_title": "Vivo X300 Serie mitsamt Telekonverter"
+    },
+    {
       "title": "c't-Workshop: Kea im Praxiseinsatz – moderne DHCP-Administration",
       "teaser": "Der c’t-Workshop vermittelt praxisnah, wie Sie Kea produktiv einsetzen, bestehende DHCP-Setups migrieren und Verwaltungsprozesse automatisieren.",
       "url": "https://www.heise.de/news/c-t-Workshop-Kea-im-Praxiseinsatz-moderne-DHCP-Administration-10962617.html"
     },
     {
-      "title": "Wissen clever organisieren: Notion, Obsidian und Anytype im Vergleich",
-      "teaser": "Notion, Obsidian und Anytype ordnen das digitale Chaos und verwalten persönliches Wissen. Welche App sich für wen am besten eignet, erklärt unser Ratgeber.",
-      "url": "https://www.heise.de/ratgeber/Wissen-clever-organisieren-Notion-Obsidian-und-Anytype-im-Vergleich-10767104.html"
-    },
-    {
-      "title": "AlertWarnungAngriffe auf Lücken in VMware und XWiki",
-      "teaser": "Angreifer missbauchen Schwachstellen in VMware und XWiki, warnt die IT-Sicherheitsbehörde CISA. Updates stopfen die Lücken.",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Luecken-in-VMware-und-XWiki-10966431.html"
-    },
-    {
-      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
-      "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
-      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10915571.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+      "title": "AlertMonitoring-Software: Schwachstellen bedrohen IBM Tivoli Monitoring und Nagios XI",
+      "teaser": "Angreifer können IBM Tivoli Monitoring und Nagios XI attackieren und Dateien manipulieren oder sogar Schadcode ausführen. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Monitoring-Software-IBM-Tivoli-Monitoring-und-Nagios-XI-sind-verwundbar-10968689.html",
+      "image_title": "Ein symbolisches Schild weist auf Updates hin."
     },
     {
       "title": "RatgeberVisualisierung ohne Coden: CSV-Daten in Blender importieren",
@@ -59,10 +61,15 @@
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-EVNG-traegt-Haushaltsstromzaehler-nicht-in-die-Datenbank-ein-10705082.html"
     },
     {
-      "title": "AlertMonitoring-Software: Schwachstellen bedrohen IBM Tivoli Monitoring und Nagios XI",
-      "teaser": "Angreifer können IBM Tivoli Monitoring und Nagios XI attackieren und Dateien manipulieren oder sogar Schadcode ausführen. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Monitoring-Software-IBM-Tivoli-Monitoring-und-Nagios-XI-sind-verwundbar-10968689.html",
-      "image_title": "Ein symbolisches Schild weist auf Updates hin."
+      "title": "AlertWarnung vor Angriffen auf Lücken in VMware und XWiki",
+      "teaser": "Angreifer missbauchen Schwachstellen in VMware und XWiki, warnt die IT-Sicherheitsbehörde CISA. Updates stopfen die Lücken.",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Luecken-in-VMware-und-XWiki-10966431.html"
+    },
+    {
+      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
+      "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-10915571.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
       "title": "Pornhub & Co.: Auch Italien verlangt für Pornografie nun Altersverifikation",
@@ -133,12 +140,6 @@
       "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Qt Creator, Amber, GitHub, Rust, Theia AI, Google, Apache Arrow, Rspack und OpenAPI.",
       "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-10965399.html",
       "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
-    },
-    {
-      "title": "Docker Image Security – Teil 3: Minimale, sichere Container-Images selbst bauen",
-      "teaser": "Minimale Container-Images reduzieren Schwachstellen durch weniger Komponenten. Anleitung für eigene Images mit Ubuntu Chiseled, WolfiOS und Azure Linux.",
-      "url": "https://www.heise.de/hintergrund/Docker-Image-Security-Teil-3-Minimale-sichere-Container-Images-selbst-bauen-10964627.html",
-      "image_title": "Skala von Rot bis Grün"
     },
     {
       "title": "NewsWLAN-Absage: Bundesregierung will das obere 6-GHz-Band dem Mobilfunk zuweisen",
