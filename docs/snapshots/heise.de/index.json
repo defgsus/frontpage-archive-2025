@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-03T23:09:32",
+  "timestamp": "2025-11-04T00:49:31",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iOS 26.1 & Co: Apple aktualisiert die Liquid-Glass-Systeme",
+      "url": "https://www.heise.de/news/iOS-26-1-Co-Apple-aktualisiert-die-Liquid-Glass-Systeme-10989024.html"
+    },
     {
       "title": "Trump: Nvidias leistungsfähigster KI-Chip Blackwell nur für die USA",
       "url": "https://www.heise.de/news/Trump-Nvidias-leistungsfaehigster-KI-Chip-Blackwell-nur-fuer-die-USA-11005660.html"
@@ -60,10 +64,6 @@
     {
       "title": "Londoner Polizei und Apple streiten über Umgang mit gestohlenen iPhones",
       "url": "https://www.heise.de/news/Londoner-Polizei-und-Apple-streiten-ueber-Umgang-mit-gestohlenen-iPhones-10992205.html"
-    },
-    {
-      "title": "Reale Orte in VR-Umgebungen verwandeln: \"Meta Hyperscape\" für Quest 3 im Test",
-      "url": "https://www.heise.de/tests/Reale-Ort-in-VR-Umgebungen-verwandeln-Meta-Hyperscape-fuer-Quest-3-im-Test-10900350.html"
     },
     {
       "title": "BundesnetzagenturVerschärfte Sicherheits-Anforderungen für Telcos",
@@ -182,21 +182,27 @@
       "image_title": "Miners,Hold,In,Their,Hands,Platinum,Or,Silver,Or,Rare"
     },
     {
+      "title": "iOS 26.1 & Co: Apple aktualisiert die Liquid-Glass-Systeme",
+      "teaser": "Das erste große Punkt-Release für Version 26 der Apple-Systeme sorgt für Neuerungen und wichtige Fehlerbehebungen auf iPhones, iPads und Macs.",
+      "url": "https://www.heise.de/news/iOS-26-1-Co-Apple-aktualisiert-die-Liquid-Glass-Systeme-10989024.html",
+      "image_title": "iPhone 17 Pro in Techwoven-Hülle"
+    },
+    {
       "title": "Trump: Nvidias leistungsfähigster KI-Chip Blackwell nur für die USA",
       "teaser": "US-Präsident Donald Trump will neben China auch andere Länder von den fortschrittlichsten KI-Chips von Nvidia ausschließen. Darauf deuten jüngste Äußerungen.",
       "url": "https://www.heise.de/news/Trump-Nvidias-leistungsfaehigster-KI-Chip-Blackwell-nur-fuer-die-USA-11005660.html",
       "image_title": "Donald Trump vor US-Flagge"
     },
     {
+      "title": "KI-Automatisierung im IT-Servicemanagement",
+      "teaser": "Im ITSM gibt es zahlreiche Anwendungsfelder für KI-Automatisierung – und alles führt zu schnelleren Lösungen, weniger Engpässen und zufriedeneren Nutzern. Wichtig ist, klein anzufangen und Schritt für Schritt zu erweitern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7080346554&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Brüssel räumt ein: Substanzielle EU-Gelder sind an Spyware-Hersteller geflossen",
       "teaser": "Die EU-Kommission will unverzüglich die Finanzierung von Spyware-Produzenten einstellen, die sich \"schweren beruflichen Fehlverhaltens\" schuldig gemacht haben.",
       "url": "https://www.heise.de/news/Bruessel-raeumt-ein-Substanzielle-EU-Gelder-sind-an-Spyware-Hersteller-geflossen-11000926.html",
       "image_title": "Hand auf Computertatastatur in dunklem Zimmer"
-    },
-    {
-      "title": "Die natürlichste Art, mit KI zu interagieren",
-      "teaser": "Das laute Sprechen mit einer KI ist noch ungewohnt. Doch eine generative KI ist nur so gut wie die Qualität der Eingabe. Wer deshalb passende Endgeräte nutzt, sichert sich Produktivitätsvorteile.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7012492724&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Monatlich kündbar: Der beste Handyvertrag im November – 20 GB 1&1 für 5 Euro",
@@ -225,12 +231,6 @@
       "teaser": "Londoner Polizei und Apple streiten über Umgang mit gestohlenen iPhones. Die Polizei wirft Apple vor, eine nationale Datenbank gestohlener Geräte zu ignorieren.",
       "url": "https://www.heise.de/news/Londoner-Polizei-und-Apple-streiten-ueber-Umgang-mit-gestohlenen-iPhones-10992205.html",
       "image_title": "London"
-    },
-    {
-      "title": "Reale Orte in VR-Umgebungen verwandeln: \"Meta Hyperscape\" für Quest 3 im Test",
-      "teaser": "Mit \"Meta Hyperscape\" lassen sich aus echten Räumen fotorealistische VR-Umgebungen erschaffen. Wir haben das in Innenräumen und im Freien ausprobiert.",
-      "url": "https://www.heise.de/tests/Reale-Ort-in-VR-Umgebungen-verwandeln-Meta-Hyperscape-fuer-Quest-3-im-Test-10900350.html",
-      "image_title": "Ein Fahrrad neben einem Abhang vor mediterraner Kulisse."
     },
     {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
@@ -296,6 +296,12 @@
       "title": "1 Jahr heise+ mit 50 % Rabatt",
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 1 Jahr mit 50 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Reale Orte in VR-Umgebungen verwandeln: \"Meta Hyperscape\" für Quest 3 im Test",
+      "teaser": "Mit \"Meta Hyperscape\" lassen sich aus echten Räumen fotorealistische VR-Umgebungen erschaffen. Wir haben das in Innenräumen und im Freien ausprobiert.",
+      "url": "https://www.heise.de/tests/Reale-Ort-in-VR-Umgebungen-verwandeln-Meta-Hyperscape-fuer-Quest-3-im-Test-10900350.html",
+      "image_title": "Ein Fahrrad neben einem Abhang vor mediterraner Kulisse."
     },
     {
       "title": "System-Monitor Glances: Große Neuerungen in Version 4.4.0",
@@ -367,15 +373,15 @@
       "image_title": "Frau hält sich die Hand vors Gesicht"
     },
     {
+      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
+      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
+      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
+    },
+    {
       "title": "iX-Workshops im Dezember: Windows Server und Active Directory gezielt absichern",
       "teaser": "Erfahren Sie in unseren Präsenz-Workshops in Frankfurt und München, wie Sie Windows Server und Active Directory wirksam vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshops-im-Dezember-Windows-Server-und-Active-Directory-gezielt-absichern-10915477.html",
       "image_title": "iX-Workshops zur Microsoft-Security in Präsenz"
-    },
-    {
-      "title": "Cybersicherheit dank KI: Weniger Risiko, mehr Reaktionsfähigkeit",
-      "teaser": "Wie können Unternehmen ihre Cybersicherheit strategisch verbessern? Einzelmaßnahmen reichen oft nicht aus. Erfahren Sie hier, wie ein 360-Grad-Ansatz mit einer KI-basierten Security-Plattform Unternehmen langfristig helfen könnte .",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/ganzheitliche-cybersicherheit-dank-ki-risiken-minimieren-reaktionsfaehigkeit-staerken-4969/?source=hbsad-ersatz"
     },
     {
       "title": "KI-Musik: Nutzer-Frust nach Einigung zwischen Universal Music und Udio",
@@ -430,12 +436,6 @@
       "teaser": "Wieviel mehr wären Unternehmen bereit, für sicherere Chiplieferketten auszugeben? Die Antwort darauf ist eindeutig.",
       "url": "https://www.heise.de/news/Umfrage-Chips-aus-Europa-duerften-nur-wenig-teurer-sein-10977077.html",
       "image_title": "Silizium-Wafer mit aufgedruckten Mikroprozessoren."
-    },
-    {
-      "title": "Disney und Epic kooperieren für \"Simpsons\"-Monat in \"Fortnite\"",
-      "teaser": "Epic Games und Disney veranstalten im November ein Crossover-Event von \"Die Simpsons\" und \"Fortnite\". Auf Disney+ erscheinen dazu vier Kurzvideos.",
-      "url": "https://www.heise.de/news/Disney-und-Epic-kooperieren-fuer-Simpsons-Monat-in-Fortnite-10975903.html",
-      "image_title": "Werbebild für Simpsons in Fortnite"
     },
     {
       "title": "WLAN-Absage: Bundesregierung will das obere 6-GHz-Band dem Mobilfunk zuweisen",
@@ -605,20 +605,20 @@
       "url": "https://www.heise.de/en/tests/New-Benchmark-for-Mixed-Reality-Tried-Laser-Dance-on-Meta-Quest-3-10860484.html"
     },
     {
-      "title": "XXL-Tablet mit Android: Samsung Galaxy Tab S11 Ultra im Test",
-      "teaser": "Samsungs Ultra-Tablet ist wohl das größte Android-Tablet auf dem Markt. Das riesige Display macht was her und die Software hilft dabei, die Fläche auszunutzen.",
-      "url": "https://www.heise.de/tests/XXL-Tablet-mit-Android-Samsung-Galaxy-Tab-S11-Ultra-im-Test-10639111.html"
+      "title": "Bundeswettbewerb KI für Schüler: Vom preisgekrönten Projekt zur Marktreife",
+      "teaser": "Jedes Jahr ruft das Tübingen AI Center Schüler dazu auf, KI-Projekte einzureichen; aus manchen werden später Produkte. Jetzt stehen die Finalisten 2025 fest.",
+      "url": "https://www.heise.de/hintergrund/Bundeswettbewerb-KI-fuer-Schueler-Vom-preisgekroenten-Projekt-zur-Marktreife-10632160.html",
+      "image_title": "Künstliche Intelligenz als Hilfswissenschaftler: KI revolutioniert die Forschung"
     },
     {
-      "title": "Dirac ART im Test: Wie aktive Raumkorrektur den Klang im Heimkino verbessert",
-      "teaser": "Dirac Live ART kompensiert Resonanzen und Bassprobleme mit aktivem Gegenschall – für besseren Klang im Wohnzimmer und Heimkino. Wir messen, wir gut das klappt.",
-      "url": "https://www.heise.de/tests/Dirac-ART-im-Test-Wie-aktive-Raumkorrektur-den-Klang-im-Heimkino-verbessert-10739468.html"
+      "title": "c't-Workshop: Kea im Praxiseinsatz – moderne DHCP-Administration",
+      "teaser": "Der c’t-Workshop vermittelt praxisnah, wie Sie Kea produktiv einsetzen, bestehende DHCP-Setups migrieren und Verwaltungsprozesse automatisieren.",
+      "url": "https://www.heise.de/news/c-t-Workshop-Kea-im-Praxiseinsatz-moderne-DHCP-Administration-10962617.html"
     },
     {
-      "title": "Bit-Rauschen: Milliarden-Deal für AMD",
-      "teaser": "AMD tauscht KI-Beschleuniger für OpenAI gegen Firmenanteile ein. Intel zeigt die ersten Prozessoren aus 18A-Fertigung. Qualcomm gewinnt gegen ARM.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Milliarden-Deal-fuer-AMD-10653263.html",
-      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+      "title": "Digital Detox: Apple Watch statt iPhone nutzen",
+      "teaser": "Keine zeitfressenden Social-Media-Apps, aber alle wichtigen Features für unterwegs: So gelingt Digital Detox mit der Apple Watch.",
+      "url": "https://www.heise.de/ratgeber/Digital-Detox-Apple-Watch-statt-iPhone-nutzen-10671634.html"
     },
     {
       "title": "Mit M5-Chip – und ohne NetzteilDas neue MacBook Pro im Test",
@@ -674,9 +674,10 @@
       "image_title": "Schemazeichnung des Canva Creative Operating System."
     },
     {
-      "title": "Insta360 X4 Air: leichte 360-Grad-Kamera mit 8K",
-      "teaser": "Das günstigere Modell soll vor allem Einsteiger locken. Die Kamera wiegt weniger als ihre Schwestermodelle und wählt automatisch den Bildausschnitt.",
-      "url": "https://www.heise.de/news/Insta360-X4-Air-leichte-360-Grad-Kamera-mit-8K-10961349.html"
+      "title": "Sinnliche Fotografie: Die besten Techniken für Boudoir-Fotos",
+      "teaser": "Fotografin Nadine Wisser bringt mit ihrem ganz persönlichen Ansatz Menschen und ihre echten Emotionen vor die Kamera und ins richtige Licht.",
+      "url": "https://www.heise.de/ratgeber/Sinnliche-Fotografie-Die-besten-Techniken-fuer-Boudoir-Fotos-10900242.html",
+      "image_title": ", Alle Bilder: Nadine Wisser"
     },
     {
       "title": "Agentic AI: Wenn KI autonom wird und wie man damit umgeht",
@@ -700,6 +701,11 @@
       "image_title": "Flagge der USA"
     },
     {
+      "title": "Frisst Strom, Reifen und KilometerKia EV6 GT mit fast 480 kW im Test",
+      "teaser": "Kias Sportversion des EV6 erhält ein Update. Der Aktuelle ist mit seinen 478 kW ein rasend schneller E-GT, verbraucht allerdings auch Strom wie ein Aluwerk.",
+      "url": "https://www.heise.de/tests/Frisst-Strom-Reifen-und-Kilometer-Elektroauto-Kia-EV6-GT-im-Test-10624050.html"
+    },
+    {
       "title": "Über die deutschen FirmenwagenPodcast \"Die Hupe\"",
       "teaser": "In dieser Folge sprechen wir mit dem Bundesverband betriebliche Mobilität e. V. (BBM) über Dienstwagen, die Debatte dazu und was sich gerade ändert.",
       "url": "https://www.heise.de/hintergrund/Podcast-Die-Hupe-Ueber-die-deutschen-Firmenwagen-10965028.html",
@@ -710,12 +716,6 @@
       "teaser": "China lenkt etwas ein: Wer vom Lieferstopp betroffen ist, soll sich melden.",
       "url": "https://www.heise.de/news/China-deutet-Ausnahmen-von-Nexperia-Lieferstopp-an-10965916.html",
       "image_title": "Luftbild der Nexperia-Zentrale"
-    },
-    {
-      "title": "Gewinnsprung mit leidigem HintergrundAudis Quartalszahlen",
-      "teaser": "Im dritten Quartal hat Audi deutlich mehr verdient als im Vorjahr. Doch der rechnerische Gewinnsprung trügt. Und die nächsten Probleme drohen schon.",
-      "url": "https://www.heise.de/news/Audi-vervielfacht-Gewinn-mit-eher-schwachen-Zahlen-10965625.html",
-      "image_title": "Das Audi-Logo hängt außen an der Wand eines Gebäudes."
     },
     {
       "title": "Top 10: Das beste Heizkörperthermostat im Test – smart heizen und Geld sparen",
@@ -738,22 +738,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ostrich-Effekt: Ab wann Menschen unangenehme Wahrheiten meiden",
-      "teaser": "Aus neugierigen Fragestellern werden plötzlich Informationsvermeider – Forscher haben herausgefunden, wann genau dieser Wandel einsetzt.",
-      "url": "https://www.heise.de/tp/features/Ostrich-Effekt-Ab-wann-Menschen-unangenehme-Wahrheiten-meiden-10966161.html",
-      "image_title": "Grafik, die einen Strauß zeigt, der seinen Kopf in den Sand steckt."
+      "title": "Ist Leucin der geheime Booster für unsere Gesundheit?",
+      "teaser": "Aminosäure reguliert Zellkraftwerke binnen Stunden. Kölner Forscher zeigen: Leucin beeinflusst Proteine und Atmung der Mitochondrien.",
+      "url": "https://www.heise.de/tp/features/Ist-Leucin-der-geheime-Booster-fuer-unsere-Gesundheit-10966071.html",
+      "image_title": "Schaubild mit einem Konzept für die Gesundheit der Mitochondrien."
     },
     {
-      "title": "CO2-Hufabdruck: Warum unser Steak das Klima sprengt",
-      "teaser": "Eine US-Studie zeigt: Der Fleischkonsum amerikanischer Städte verursacht mehr CO2 als ganz Großbritannien oder Italien zusammen.",
-      "url": "https://www.heise.de/tp/features/CO2-Hufabdruck-Warum-unser-Steak-das-Klima-sprengt-10965617.html",
-      "image_title": "Fleisch und CO2-Wolke"
+      "title": "LNG-Megaprojekt in Mosambik: Neustart trotz Terror und Milliarden-Mehrkosten",
+      "teaser": "TotalEnergies will das gestoppte Gasprojekt wieder starten. Doch die Kosten explodieren – und Großbritannien will jetzt aussteigen.",
+      "url": "https://www.heise.de/tp/features/LNG-Megaprojekt-in-Mosambik-Neustart-trotz-Terror-und-Milliarden-Mehrkosten-10965943.html",
+      "image_title": "Luftaufnahme von Erdgasspeichern und -leitungen"
     },
     {
-      "title": "Starmers Botschaft ist klar: Der Westen hält länger durch als der Kreml",
-      "teaser": "London schickt neue Storm-Shadow-Marschflugkörper nach Kiew – vor dem Winter, in dem Russland verstärkt Zivilisten angreifen könnte.",
-      "url": "https://www.heise.de/tp/features/Starmers-Botschaft-ist-klar-Der-Westen-haelt-laenger-durch-als-der-Kreml-10983877.html",
-      "image_title": "Storm-Shadow-Marschflugkörper bei der Waffenausstellung."
+      "title": "Warum Patienten Gesundheitsinfos meiden: Ursachen, Folgen und Lösungen",
+      "teaser": "Fast jeder Dritte meidet bewusst Infos über schwere Krankheiten. Eine Studie mit 500.000 Teilnehmern zeigt die wahren Gründe.",
+      "url": "https://www.heise.de/tp/features/Warum-Patienten-Gesundheitsinfos-meiden-Ursachen-Folgen-und-Loesungen-10966171.html",
+      "image_title": "Ein Patient wird von seiner Ärztin beraten."
     },
     {
       "title": "Studie entlarvt Fokuszeit-Mythos: Wer Ruhe sucht, wird unkonzentrierter",
@@ -796,14 +796,14 @@
       "url": "https://www.heise.de/download/product/WhyNotWin11"
     },
     {
-      "title": "Rufus",
-      "teaser": "Rufus kopiert ISO-Images bootfähig auf einen USB-Stick, um damit etwa Windows 11 oder andere Betriebssysteme zu installieren.",
-      "url": "https://www.heise.de/download/product/rufus"
-    },
-    {
       "title": "H2testw",
       "teaser": "H2testw erkennt gefälschte USB-Sticks, indem es deren tatsächliche Speicherkapazität ermittelt. Auch andere Wechselmedien sowie Festplatten lassen sich testen.",
       "url": "https://www.heise.de/download/product/h2testw-50539"
+    },
+    {
+      "title": "Rufus",
+      "teaser": "Rufus kopiert ISO-Images bootfähig auf einen USB-Stick, um damit etwa Windows 11 oder andere Betriebssysteme zu installieren.",
+      "url": "https://www.heise.de/download/product/rufus"
     }
   ]
 }
