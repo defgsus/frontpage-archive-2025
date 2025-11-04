@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-04T12:21:21",
+  "timestamp": "2025-11-04T13:27:17",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,42 @@
   ],
   "articles": [
     {
-      "title": "\"Init Freedom\": Devuan GNU+Linux \"Excalibur\" ist Debian 13 \"Trixie\" ohne systemd",
+      "title": "AlertDatenbank Redis: Schwachstelle ermöglicht Ausführung von Schadcode",
+      "teaser": "In der Datenbank Redis klafft eine Sicherheitslücke, die Angreifern das Einschleusen und Ausführen von Schadcode ermöglicht. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/Datenbank-Redis-Schwachstelle-ermoeglicht-Ausfuehrung-von-Schadcode-11051573.html",
+      "image_title": "Virus detected steht vor Servern"
+    },
+    {
+      "title": "iX-Workshop: Deep Dive in die OpenAI API – KI in eigene Anwendungen integrieren",
+      "teaser": "Erfahren Sie, wie Sie die OpenAI API nutzen können, um KI-Funktionen in Ihre Projekte zu integrieren und innovative Lösungen zu entwickeln.",
+      "url": "https://www.heise.de/news/iX-Workshop-Deep-Dive-in-die-OpenAI-API-KI-in-eigene-Anwendungen-integrieren-10915650.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+    },
+    {
+      "title": "AlertSicherheitspatch: IBM InfoSphere Information Server für DoS-Attacken anfällig",
+      "teaser": "Angreifer können Systeme mit IBM InfoSphere Information Server attackieren. Admins sollten zeitnah handeln.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-IBM-InfoSphere-Information-Server-fuer-DoS-Attacken-anfaellig-11050114.html",
+      "image_title": "Ein symbolsicher Updateknopf."
+    },
+    {
+      "title": "\"Init Freedom\"Devuan GNU+Linux \"Excalibur\" ist Debian 13 \"Trixie\" ohne systemd",
       "teaser": "Mit Devuan GNU+Linux 6.0 \"Excalibur\" erscheint die neueste Version der bekannten Debian-Abspaltung, die bewusst auf systemd verzichtet.",
       "url": "https://www.heise.de/news/Init-Freedom-Devuan-GNU-Linux-Excalibur-ist-Debian-13-Trixie-ohne-systemd-11048657.html",
       "image_title": "Devuan GNU+Linux 6.0 \"Excalibur\" als Live-System mit Xfce-Desktop"
+    },
+    {
+      "title": "RatgeberFAQ: Windows-10-Ende aus Hardware-Sicht",
+      "url": "https://www.heise.de/ratgeber/FAQ-Windows-10-Ende-aus-Hardware-Sicht-10773596.html"
+    },
+    {
+      "title": "RatgeberFragen und Antworten: Alles zu macOS 26 Tahoe",
+      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Alles-zu-macOS-26-Tahoe-10962027.html",
+      "image_title": "Ein Mac, auf dem Tahoe läuft"
+    },
+    {
+      "title": "RatgeberJetzt wird’s märchenhaft: Lokal generierte KI-Extras für Ihre Urlaubsfotos",
+      "url": "https://www.heise.de/ratgeber/Jetzt-wird-s-maerchenhaft-Lokal-generierte-KI-Extras-fuer-Ihre-Urlaubsfotos-10977952.html",
+      "image_title": "Mit KI-Inpainting Urlaubsfotos verändern: Hier unterbricht ein Drachenkampf den Wanderausflug."
     },
     {
       "title": "Saubere Sache: Fensterputzroboter von 80 bis 500 Euro im Test | c’t uplink",
@@ -47,20 +79,6 @@
       "teaser": "Attacken auf eine Sicherheitslücke im WordPress -Plug-in Post SMTP laufen. Sie erlaubt unangemeldeten Angreifern die Übernahme der Instanz.",
       "url": "https://www.heise.de/news/Angriffe-beobachtet-Luecke-in-WordPress-Post-SMTP-Plug-in-ermoeglicht-Uebernahme-11044198.html",
       "image_title": "Wordpress-Logo auf Smartphone"
-    },
-    {
-      "title": "RatgeberFAQ: Windows-10-Ende aus Hardware-Sicht",
-      "url": "https://www.heise.de/ratgeber/FAQ-Windows-10-Ende-aus-Hardware-Sicht-10773596.html"
-    },
-    {
-      "title": "RatgeberFragen und Antworten: Alles zu macOS 26 Tahoe",
-      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Alles-zu-macOS-26-Tahoe-10962027.html",
-      "image_title": "Ein Mac, auf dem Tahoe läuft"
-    },
-    {
-      "title": "RatgeberJetzt wird’s märchenhaft: Lokal generierte KI-Extras für Ihre Urlaubsfotos",
-      "url": "https://www.heise.de/ratgeber/Jetzt-wird-s-maerchenhaft-Lokal-generierte-KI-Extras-fuer-Ihre-Urlaubsfotos-10977952.html",
-      "image_title": "Mit KI-Inpainting Urlaubsfotos verändern: Hier unterbricht ein Drachenkampf den Wanderausflug."
     },
     {
       "title": "Neue HomeKit-Architektur: Apple verlängert Gnadenfrist",
@@ -131,23 +149,6 @@
       "title": "Last Call: Effiziente Workflows für stabile Software im c't-Workshop entwickeln",
       "teaser": "Builds, Tests und Deployments automatisieren: Der Workshop \"CI/CD mit GitLab\" zeigt, wie Sie den gesamten Softwareprozess in einer Instanz effizient steuern.",
       "url": "https://www.heise.de/news/Last-Call-Effiziente-Workflows-fuer-stabile-Software-im-c-t-Workshop-entwickeln-10970830.html"
-    },
-    {
-      "title": "Einsam vor dem Bildschirm – Studie warnt vor Lage im Land",
-      "teaser": "Wer länger am Bildschirm sitzt, fühlt sich laut einer Studie häufiger einsam. Warum die Experten mehr Aufklärung über den Umgang mit digitalen Medien fordern.",
-      "url": "https://www.heise.de/news/Einsam-vor-dem-Bildschirm-Studie-warnt-vor-Lage-im-Land-11036695.html",
-      "image_title": "Nachdenkliche Frau mit braunen Haaren und Brille, über ein Sofapolster gelehnt und ein Handy in der linken Hand haltend."
-    },
-    {
-      "title": "Anklage: Angestellte von Cybersicherheitsfirmen führten Ransomware-Angriffe aus",
-      "teaser": "Drei Angestellte von Cybersicherheitsfirmen in den USA sollen selbst Angriffe mit Ransomware ausgeführt haben, um Geld zu erpressen. Zwei wurden nun angeklagt.",
-      "url": "https://www.heise.de/news/Anklage-Angestellte-von-Cybersicherheitsfirmen-fuehrten-Ransomware-Angriffe-aus-11034436.html",
-      "image_title": "Hand tippt auf Tastatur"
-    },
-    {
-      "title": "Abbrüche bei Cloud-Backup",
-      "teaser": "Ich habe einen Glasfaseranschluss und mache jede Nacht ein Backup meines NAS zu einer Storage-Cloud. Manchmal klappt das nicht und schlägt fehl. Was ist da los?",
-      "url": "https://www.heise.de/ratgeber/Abbrueche-bei-Cloud-Backup-10963573.html"
     },
     {
       "title": "NewsWLAN-Absage: Bundesregierung will das obere 6-GHz-Band dem Mobilfunk zuweisen",
