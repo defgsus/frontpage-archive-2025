@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T12:20:10",
+  "timestamp": "2025-11-05T13:25:26",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,17 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Netzwerkanalyse und Fehlersuche mit Wireshark",
+      "teaser": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
+      "url": "https://www.heise.de/news/iX-Workshop-Netzwerkanalyse-und-Fehlersuche-mit-Wireshark-10915822.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "FAQ: Windows-10-Ende aus Hardware-Sicht",
+      "teaser": "Antworten auf die häufigsten Fragen zum Windows-10-Ende für Desktop-PCs und Notebooks",
+      "url": "https://www.heise.de/ratgeber/FAQ-Windows-10-Ende-aus-Hardware-Sicht-10773596.html"
+    },
+    {
       "title": "Rennen um autonomes Fahren: VW baut in China eigene KI-Chips",
       "teaser": "Sorgen vor ausbleibenden China-Chiplieferungen und Entwicklungsdruck bei autonomem Fahren plagen die Autoindustrie. VW kündigt nun einen eigenen Chip an.",
       "url": "https://www.heise.de/news/Rennen-um-autonomes-Fahren-VW-baut-in-China-eigene-KI-Chips-11066492.html"
@@ -34,17 +45,6 @@
       "title": "Edge 70: Motorolas dünnes Smartphone mit 4800 mAh Akku",
       "teaser": "Nach Samsung und Apple hat jetzt auch Motorola mit dem Moto Edge 70 ein schlankes Smartphone vorgestellt. Dabei spart der Hersteller nicht beim Akku.",
       "url": "https://www.heise.de/news/Edge-70-Motorolas-duennes-Smartphone-mit-4800-mAh-Akku-11066221.html"
-    },
-    {
-      "title": "Badcandy: Angreifer brechen tausendfach in alte Cisco-IOS-XE-Lücke ein",
-      "teaser": "Ein Update gegen die Cisco-IOS-XE-Lücke CVE-2023-20198 gibt es seit 2023. Die Shadowserver Foundation sieht 15.000 infizierte Geräte.",
-      "url": "https://www.heise.de/news/Badcandy-Alte-Luecke-in-Cisco-IOS-XE-noch-tausendfach-missbraucht-11064981.html",
-      "image_title": "Nahaufnahme des Cisco-Logos auf einem Gerät in einem Rechenzentrum."
-    },
-    {
-      "title": "software-architektur.tv: Teamwork – Müssen wir darüber sprechen?",
-      "teaser": "In dieser Episode gehen Aino Vonge Corry und Lisa Maria Schäfer der Frage nach, ob man heute überhaupt noch über Teamwork diskutieren muss.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Teamwork-Muessen-wir-darueber-sprechen-10986000.html"
     },
     {
       "title": "TestsMacBook Pro 14\" mit rasantem M5 gegen die x86- und ARM-Konkurrenten",
@@ -58,6 +58,17 @@
     {
       "title": "HintergrundHome Assistant: Interview über Erfolg, KI-Code und das nächste Feature",
       "url": "https://www.heise.de/hintergrund/Home-Assistant-Interview-ueber-Erfolg-KI-Code-und-das-naechste-Feature-10623378.html"
+    },
+    {
+      "title": "Badcandy: Angreifer brechen tausendfach in alte Cisco-IOS-XE-Lücke ein",
+      "teaser": "Ein Update gegen die Cisco-IOS-XE-Lücke CVE-2023-20198 gibt es seit 2023. Die Shadowserver Foundation sieht 15.000 infizierte Geräte.",
+      "url": "https://www.heise.de/news/Badcandy-Alte-Luecke-in-Cisco-IOS-XE-noch-tausendfach-missbraucht-11064981.html",
+      "image_title": "Nahaufnahme des Cisco-Logos auf einem Gerät in einem Rechenzentrum."
+    },
+    {
+      "title": "software-architektur.tv: Teamwork – Müssen wir darüber sprechen?",
+      "teaser": "In dieser Episode gehen Aino Vonge Corry und Lisa Maria Schäfer der Frage nach, ob man heute überhaupt noch über Teamwork diskutieren muss.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Teamwork-Muessen-wir-darueber-sprechen-10986000.html"
     },
     {
       "title": "heise jobs IT Tag am 11. November in Berlin",
@@ -134,18 +145,6 @@
       "teaser": "Developer-Teams ändern ihre Strukturen und Arbeitsweisen durch den Einsatz von KI. Sie müssen sich neu aufstellen, meint Facundo Giuliani.",
       "url": "https://www.heise.de/news/Coden-mit-KI-veraendert-die-Teamarbeit-und-den-agilen-Prozess-11056350.html",
       "image_title": "Business,Project,Team,Working,Together,At,Meeting,Room,At,Office.horizontal.blurred"
-    },
-    {
-      "title": "Grafana Mimir 3.0: Zeitreihendatenbank jetzt mit neuer Query-Engine",
-      "teaser": "Das Grafana-Tool Mimir bringt die neue Mimir Query Engine mit, die als schnellere Alternative zur PromQL Engine von Prometheus dienen soll.",
-      "url": "https://www.heise.de/news/Grafana-Mimir-3-0-Zeitreihendatenbank-jetzt-mit-neuer-Query-Engine-11055426.html",
-      "image_title": "Eine Hand zeigt auf Daten"
-    },
-    {
-      "title": "Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr",
-      "teaser": "Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.",
-      "url": "https://www.heise.de/news/Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-10915894.html",
-      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
       "title": "NewsAltmans Reaktion auf OpenAIs Milliardenverlust: \"Es reicht\"",
