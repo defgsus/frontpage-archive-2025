@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T17:10:27",
+  "timestamp": "2025-11-05T18:14:51",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "KI schlägt Meteorologen: DeepMind hatte in der Hurrikan-Saison die Nase vorn",
+      "url": "https://www.heise.de/news/KI-schlaegt-Meteorologen-DeepMind-hatte-in-der-Hurrikan-Saison-die-Nase-vorn-11067107.html"
+    },
+    {
+      "title": "Digitalfunk-Desaster der Bundeswehr: Millionen für Berater sollen es richten",
+      "url": "https://www.heise.de/news/Digitalfunk-Desaster-der-Bundeswehr-Millionen-fuer-Berater-sollen-es-richten-11067079.html"
+    },
+    {
+      "title": "Anschluss an Stromnetze: Halbleiter statt Kupfer im Solid State Transformer",
+      "url": "https://www.heise.de/news/Anschluss-an-Stromnetze-Halbleiter-statt-Kupfer-im-Solid-State-Transformer-11067013.html"
+    },
     {
       "title": "Gnome wirft X11-Backend endgültig raus",
       "url": "https://www.heise.de/news/X11-in-Gnome-ist-Geschichte-Backend-entfernt-11066916.html"
@@ -52,18 +64,6 @@
     {
       "title": "Diskussion um \"Digitalokratie\": \"Aktuell gibt es keine digitale Souveränität\"",
       "url": "https://www.heise.de/news/Ueber-Monopole-Medienmacht-und-die-Rueckeroberung-der-digitalen-Souveraenitaet-11066578.html"
-    },
-    {
-      "title": "Vertrag soll bis Jahresende stehen: Bayern will in die Microsoft-Cloud",
-      "url": "https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html"
-    },
-    {
-      "title": "Thermostat für Fußbodenheizung: Aqara W500 im Test – auch für Home Assistant",
-      "url": "https://www.heise.de/bestenlisten/testbericht/thermostat-fuer-fussbodenheizung-aqara-w500-im-test-auch-fuer-home-assistant/g8vt4n4"
-    },
-    {
-      "title": "EU-Länder wollen 90 Prozent weniger Emissionen bis 2040",
-      "url": "https://www.heise.de/news/EU-Laender-wollen-90-Prozent-weniger-Emissionen-bis-2040-11066866.html"
     },
     {
       "title": "ArbeitsspeicherRAM-Preise schießen hoch",
@@ -143,10 +143,33 @@
       "url": "https://www.heise.de/tests/Heizluefter-mit-Bitcoin-Miner-Ofen-2-im-Test-10779015.html"
     },
     {
+      "title": "Nur noch WaylandGnome wirft X11-Backend endgültig raus",
+      "teaser": "Angedeutet hatte es sich schon, nun haben die Entwickler durchgezogen: Sie haben den X11-Backend-Code aus Gnome entfernt.",
+      "url": "https://www.heise.de/news/X11-in-Gnome-ist-Geschichte-Backend-entfernt-11066916.html",
+      "image_title": "Gnome 48 Desktop auf Laptop"
+    },
+    {
+      "title": "Diskussion um \"Digitalokratie\"\"Aktuell gibt es keine digitale Souveränität\"",
+      "teaser": "Europas digitale Zukunft und der Weg aus der Abhängigkeit von Tech-Giganten waren Thema der KI-Woche Stuttgart.",
+      "url": "https://www.heise.de/news/Ueber-Monopole-Medienmacht-und-die-Rueckeroberung-der-digitalen-Souveraenitaet-11066578.html",
+      "image_title": "Tobias Keber, Martin André und Peter Nägele"
+    },
+    {
       "title": "Fahrradmesse in der KriseBosch und der ZIV brechen mit der Eurobike",
       "teaser": "Europas größte Fahrradmesse, die Eurobike in Frankfurt, steht nach der Absage von Bosch und dem ZIV vor einer ungewissen Zukunft.",
       "url": "https://www.heise.de/news/Fahrradmesse-in-der-Krise-Bosch-und-der-ZIV-brechen-mit-der-Eurobike-11066287.html",
       "image_title": "Blick auf die Eurobike-Messe"
+    },
+    {
+      "title": "Von Beruf HackerjägerWas macht ein Threat Intelligence Researcher?",
+      "teaser": "Holger Unterbrink ist Threat Intelligence Researcher für Cisco. Er steht im Wettlauf mit Kriminellen. Und wird selbst zum Angriffsziel.",
+      "url": "https://www.heise.de/hintergrund/Von-Beruf-Hackerjaeger-Was-macht-eigentlich-ein-Threat-Intelligence-Researcher-10820679.html"
+    },
+    {
+      "title": "Arbeitslos wegen KILaut einer Studie holen Unternehmen ihre Mitarbeiter zurück",
+      "teaser": "KI ersetzt Menschen nicht – Entlassene könnten bald wieder an ihren alten Arbeitsplatz zurückkehren, zeigen Studien.",
+      "url": "https://www.heise.de/news/Arbeitslos-wegen-KI-Laut-einer-Studie-holen-Unternehmen-ihre-Mitarbeiter-zurueck-11066882.html",
+      "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox"
     },
     {
       "title": "Pilze statt SiliziumShiitake-Myzel zeigt Memristor-Eigenschaften",
@@ -155,50 +178,39 @@
       "image_title": "Man sieht Pilze, die mit Kabeln an ein Breadboard angeschlossen sind."
     },
     {
-      "title": "Europa und AsienStarke Winde gefährden über 40 Prozent der Offshore-Windparks",
-      "teaser": "Viele Windturbinen europäischer und asiatischer Offshore-Windkraftanlagen sind Winden ausgesetzt, für die sie nicht ausgelegt sind.",
-      "url": "https://www.heise.de/news/Hohe-Winde-Ueber-40-Prozent-der-Offshore-Windparks-in-Europa-und-Asien-gefaehrdet-11057097.html",
-      "image_title": "Wind,Turbine,From,Aerial,View,,Drone,View,At,Windpark,Westermeerdijk"
-    },
-    {
-      "title": "Von Beruf HackerjägerWas macht ein Threat Intelligence Researcher?",
-      "teaser": "Holger Unterbrink ist Threat Intelligence Researcher für Cisco. Er steht im Wettlauf mit Kriminellen. Und wird selbst zum Angriffsziel.",
-      "url": "https://www.heise.de/hintergrund/Von-Beruf-Hackerjaeger-Was-macht-eigentlich-ein-Threat-Intelligence-Researcher-10820679.html"
-    },
-    {
       "title": "Wind- und SolaranlagenChina installiert in halsbrecherischem Tempo",
       "teaser": "China wird oft vorgeworfen, neue Kohlekraftwerke zu bauen. Der Zuwachs bei Wind- und Solarenergie ist jedoch deutlich rasanter.",
       "url": "https://www.heise.de/news/China-installiert-Wind-und-Solaranlagen-in-halsbrecherischem-Tempo-11056816.html",
       "image_title": "Yuxian,,Zhangjiakou,,China,-,March,8th,2025,-,Aerial,Photography"
     },
     {
-      "title": "Nach möglichem WeltraumschrotttrefferChina verschiebt Taikonauten-Rückkehr",
-      "teaser": "Die Crew der Weltraummission \"Shenzhou 20\" sollte zur Erde zurückkehren. Ein möglicher Zwischenfall verzögert die Rückreise.",
-      "url": "https://www.heise.de/news/China-verschiebt-Taikonauten-Rueckkehr-nach-moeglichem-Weltraumschrotttreffer-11057917.html",
-      "image_title": "Computergeneriertes Bild der Raumstation Tiangong"
+      "title": "KI schlägt Meteorologen: DeepMind hatte in der Hurrikan-Saison die Nase vorn",
+      "teaser": "Die Hurrikan-Saison 2025 war ein Lackmustest für Künstliche Intelligenz in der Wettervorhersage – und Google DeepMind hat bestanden.",
+      "url": "https://www.heise.de/news/KI-schlaegt-Meteorologen-DeepMind-hatte-in-der-Hurrikan-Saison-die-Nase-vorn-11067107.html",
+      "image_title": "Hurrikan Melissa"
     },
     {
-      "title": "Android-ReformGoogle und Epic einigen sich auf weltweite Änderungen",
-      "teaser": "Google und Epic haben sich im Android-Gerichtsstreit auf einen gemeinsamen Vorschlag geeinigt, der weltweit gelten soll.",
-      "url": "https://www.heise.de/news/Google-und-Epic-einigen-sich-auf-weltweite-Android-Aenderungen-11057051.html",
-      "image_title": "Grüner Android Bugdroid vor Smartphone"
+      "title": "Digitalfunk-Desaster der Bundeswehr: Millionen für Berater sollen es richten",
+      "teaser": "Capgemini, PwC & Co. sollen helfen, die Probleme beim Digitalfunk des Heeres in den Griff zu bekommen. Es geht um Aufträge in Höhe von knapp 160 Millionen Euro.",
+      "url": "https://www.heise.de/news/Digitalfunk-Desaster-der-Bundeswehr-Millionen-fuer-Berater-sollen-es-richten-11067079.html",
+      "image_title": "Schulter eines Soldaten der Bundeswehr im gefleckten Tarnanzug mit Schulterklappe und Deutschlandflagge auf dem Oberarm."
     },
     {
-      "title": "Gnome wirft X11-Backend endgültig raus",
-      "teaser": "Angedeutet hatte es sich schon, nun haben die Entwickler durchgezogen: Sie haben den X11-Backend-Code aus Gnome entfernt.",
-      "url": "https://www.heise.de/news/X11-in-Gnome-ist-Geschichte-Backend-entfernt-11066916.html",
-      "image_title": "Gnome 48 Desktop auf Laptop"
+      "title": "Das europäische Cloud-Paradoxon überwinden",
+      "teaser": "Deutsche Unternehmen wünschen sich europäische Cloud-Lösungen, nutzen aber Hyperscaler aus Nicht-EU-Staaten, weil sie Funktionseinbußen befürchten. Doch es gibt souveräne Alternativen aus Europa.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7101019094&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Anschluss an Stromnetze: Halbleiter statt Kupfer im Solid State Transformer",
+      "teaser": "Um Rechenzentren oder Stromtankstellen ans Netz zu koppeln, ersetzen Solid State Transformer (SST) zunehmend klassische Transformatoren.",
+      "url": "https://www.heise.de/news/Anschluss-an-Stromnetze-Halbleiter-statt-Kupfer-im-Solid-State-Transformer-11067013.html",
+      "image_title": "Transformatoren und Umspannwerk"
     },
     {
       "title": "Gezielt trainieren: Suunto Race 2 im Test",
       "teaser": "Suunto ergänzt bei seiner Sportuhr Race 2 ein Sprachfeedback und Trainingspläne. Wie gut ist die Fitness-Smartwatch?",
       "url": "https://www.heise.de/tests/Gezielt-trainieren-Suunto-Race-2-im-Test-10781721.html",
       "image_title": "Suunto Race 2"
-    },
-    {
-      "title": "Kein Ärger mehr bei der Softwarebeschaffung",
-      "teaser": "Was früher eine einfache Sache war, ist heute wegen Datenschutz, Sicherheit und Compliance ein komplexer Prüfprozess. Mit einer Wissensplattform wird die Softwarebeschaffung aber wieder effizienter.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7123442838&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Dia-Browser für den Mac: Ein bisschen Arc",
@@ -211,18 +223,6 @@
       "teaser": "Die EU-Kommission will Europa durch schnellere Bahnverbindungen näher zusammenbringen. Bis 2040 sollen Reisezeiten drastisch sinken.",
       "url": "https://www.heise.de/news/EU-plant-Hochgeschwindigkeitsnetz-In-vier-Stunden-von-Berlin-nach-Kopenhagen-11066826.html",
       "image_title": "Ein italienischer Schnellzug vom Typ Frecciarossa saust durch Frankreich."
-    },
-    {
-      "title": "Arbeitslos wegen KI: Laut einer Studie holen Unternehmen ihre Mitarbeiter zurück",
-      "teaser": "Studien zeigen: Bisher können KI-Modelle menschliche Mitarbeiter nicht ersetzen. Wer entlassen wird, könnte deshalb bald wieder am selben Schreibtisch sitzen.",
-      "url": "https://www.heise.de/news/Arbeitslos-wegen-KI-Laut-einer-Studie-holen-Unternehmen-ihre-Mitarbeiter-zurueck-11066882.html",
-      "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox"
-    },
-    {
-      "title": "Diskussion um \"Digitalokratie\": \"Aktuell gibt es keine digitale Souveränität\"",
-      "teaser": "Was Europas digitaler Zukunft helfen könnte und wie die Befreiung aus den Fängen der Tech-Monopolisten gelingen kann, war Thema auf der KI-Woche in Stuttgart.",
-      "url": "https://www.heise.de/news/Ueber-Monopole-Medienmacht-und-die-Rueckeroberung-der-digitalen-Souveraenitaet-11066578.html",
-      "image_title": "Tobias Keber, Martin André und Peter Nägele"
     },
     {
       "title": "bestenlistenThermostat für Fußbodenheizung: Aqara W500 im Test – auch für Home Assistant",
@@ -374,9 +374,9 @@
       "url": "https://www.heise.de/news/Edge-70-Motorolas-duennes-Smartphone-mit-4800-mAh-Akku-11066221.html"
     },
     {
-      "title": "Rechenzentren modernisieren: Was führende Unternehmen besser machen",
-      "teaser": "Warum gelingt es manchen Unternehmen besser als anderen, die Chancen von KI zu nutzen? Welche Faktoren sind für den Erfolg entscheidend, welche Herausforderungen zu bewältigen? Antworten gibt dieses Whitepaper.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/rechenzentren-modernisieren-was-fuehrende-unternehmen-besser-machen/?source=hbsadersatz"
+      "title": "Mit proaktivem Security-Management Schaden verhindern",
+      "teaser": "Beim Schutz Ihrer IT vor Angriffen spielt Zeit eine wichtige Rolle. Wie Sie, anstatt nur zu reagieren, proaktiv Angriffe abwehren können, erfahren Sie im Live-Webcast am 20.11. um 11 Uhr.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/mit-proaktivem-security-management-schaden-verhindern-4989/?source=hbsadersatz"
     },
     {
       "title": "\"Entlastungskabinett\": Mehr als nur das offizielle Aus für DE-Mail",
@@ -604,20 +604,20 @@
       "url": "https://www.heise.de/en/news/Monitoring-Software-IBM-Tivoli-Monitoring-and-Nagios-XI-are-vulnerable-10970167.html"
     },
     {
-      "title": "FAQ: Windows-10-Ende aus Hardware-Sicht",
-      "teaser": "Antworten auf die häufigsten Fragen zum Windows-10-Ende für Desktop-PCs und Notebooks",
-      "url": "https://www.heise.de/ratgeber/FAQ-Windows-10-Ende-aus-Hardware-Sicht-10773596.html"
-    },
-    {
-      "title": "Fahrradmesse in der KriseBosch und der ZIV brechen mit der Eurobike",
-      "teaser": "Europas größte Fahrradmesse, die Eurobike in Frankfurt, steht nach der Absage von Bosch und dem ZIV vor einer ungewissen Zukunft.",
-      "url": "https://www.heise.de/news/Fahrradmesse-in-der-Krise-Bosch-und-der-ZIV-brechen-mit-der-Eurobike-11066287.html",
-      "image_title": "Blick auf die Eurobike-Messe"
+      "title": "ArbeitsspeicherRAM-Preise schießen hoch",
+      "teaser": "Befürchtungen werden wahr: Auch in Europa steigen die Verkaufspreise für Speichermodule deutlich an. Besserung ist nicht in Sicht.",
+      "url": "https://www.heise.de/news/Arbeitsspeicher-RAM-Preise-schiessen-hoch-11066715.html",
+      "image_title": "DDR4-Speichermodule auf einem Desktop-PC-Mainboard"
     },
     {
       "title": "Vertragsschluss bis JahresendeBayern will in die Microsoft-Cloud",
       "teaser": "Bayern will seine Behörden mit M365 ausstatten. Kritiker rechnen mit enormen Kosten und warnen vor dem Verlust digitaler Souveränität.",
       "url": "https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html"
+    },
+    {
+      "title": "Streit um Smart-Meter-Zahlen: Erfolgreicher Rollout oder Stillstand?",
+      "teaser": "Laut jüngsten Zahlen stockt die Installation von Smart Metern. Manche Experten vermuten dahinter ein Statistikproblem, doch es dürfte weitere Ursachen geben.",
+      "url": "https://www.heise.de/hintergrund/Streit-um-Smart-Meter-Zahlen-Erfolgreicher-Rollout-oder-Stillstand-10792934.html"
     },
     {
       "title": "FAQiOS 26 und iPadOS 26: So lösen Sie Probleme",
