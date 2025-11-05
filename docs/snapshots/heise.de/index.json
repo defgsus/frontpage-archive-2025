@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T03:37:57",
+  "timestamp": "2025-11-05T04:13:42",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "AMDs Rekordumsatz und Gewinnanstieg übertreffen Erwartungen, doch Aktie sinkt",
+      "url": "https://www.heise.de/news/AMDs-Rekordumsatz-und-Gewinnanstieg-uebertreffen-Erwartungen-doch-Aktie-sinkt-11056979.html"
+    },
     {
       "title": "Enormer Finanzanlage-Betrug: 9 Europäer verhaftet",
       "url": "https://www.heise.de/news/Enormer-Finanzanlage-Betrug-9-Europaeer-verhaftet-11056948.html"
@@ -60,10 +64,6 @@
     {
       "title": "iOS 26.1: 11 Tipps zu den Neuerungen",
       "url": "https://www.heise.de/ratgeber/iOS-26-1-11-Tipps-zu-den-Neuerungen-11056734.html"
-    },
-    {
-      "title": "AirPods Pro und AirPods 4: Live-Übersetzung kommt nach Europa",
-      "url": "https://www.heise.de/news/AirPods-Pro-und-AirPods-4-Live-Uebersetzung-kommt-nach-Europa-11055015.html"
     },
     {
       "title": "OutboundIndie-Game bricht Wunschlisten-Rekorde und veröffentlicht neue Beta",
@@ -182,21 +182,27 @@
       "image_title": "Robotaxi-Van von Waymo"
     },
     {
+      "title": "AMDs Rekordumsatz und Gewinnanstieg übertreffen Erwartungen, doch Aktie sinkt",
+      "teaser": "Neben anhaltenden Erfolgen mit Prozessoren verkauft AMD jetzt auch wieder mehr Radeon-Grafikkarten. Die Aktie sinkt trotzdem erneut, wohl auch wegen Amazon.",
+      "url": "https://www.heise.de/news/AMDs-Rekordumsatz-und-Gewinnanstieg-uebertreffen-Erwartungen-doch-Aktie-sinkt-11056979.html",
+      "image_title": "AMDs Ryzen-CPU auf Mainboard"
+    },
+    {
       "title": "Enormer Finanzanlage-Betrug: 9 Europäer verhaftet",
       "teaser": "Über 600 Millionen Euro in Kryptowährungen soll eine Bande eingenommen und gewaschen haben. In Deutschland, Spanien und auf Zypern klickten Handschellen.",
       "url": "https://www.heise.de/news/Enormer-Finanzanlage-Betrug-9-Europaeer-verhaftet-11056948.html",
       "image_title": "2 Hände in Handschellen"
     },
     {
+      "title": "Die natürlichste Art, mit KI zu interagieren",
+      "teaser": "Das laute Sprechen mit einer KI ist noch ungewohnt. Doch eine generative KI ist nur so gut wie die Qualität der Eingabe. Wer deshalb passende Endgeräte nutzt, sichert sich Produktivitätsvorteile.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7012492724&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Bundesdatenschutzbehörde erkennt ersten Dienst gegen die Cookie-Banner-Flut an",
       "teaser": "Der erste Dienst zur Einwilligungsverwaltung von Cookies trägt einen amtlichen Stempel. Viele Nutzer wissen gar nicht, was Cookies sind und machen.",
       "url": "https://www.heise.de/news/Bundesdatenschutzbehoerde-erkennt-ersten-Dienst-gegen-die-Cookie-Banner-Flut-an-11056908.html",
       "image_title": "Ein Tablet zeigt das Wort \"Einwilligung\" an; auf dem Tablet liegen zwei Kekse"
-    },
-    {
-      "title": "Das europäische Cloud-Paradoxon überwinden",
-      "teaser": "Deutsche Unternehmen wünschen sich europäische Cloud-Lösungen, nutzen aber Hyperscaler aus Nicht-EU-Staaten, weil sie Funktionseinbußen befürchten. Doch es gibt souveräne Alternativen aus Europa.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7101019094&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Analyse: Wie die Dominanz von Big-Tech und der KI-Hype die Wirtschaft bedrohen",
@@ -228,12 +234,6 @@
       "image_title": "Yuxian,,Zhangjiakou,,China,-,March,8th,2025,-,Aerial,Photography"
     },
     {
-      "title": "iOS 26.1: 11 Tipps zu den Neuerungen",
-      "teaser": "Das erste große Punkt-Update macht iOS 26 rund und liefert praktische Funktionen nach. So setzen Sie die Neuerungen auf iPhone und iPad konkret ein.",
-      "url": "https://www.heise.de/ratgeber/iOS-26-1-11-Tipps-zu-den-Neuerungen-11056734.html",
-      "image_title": "Tipps zu iOS 26.1"
-    },
-    {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
       "teaser": "Vernetzte Stellregler erleichtern es, Heizkörper auf Wohlfühltemperatur zu regeln und Verschwendung zu vermeiden.",
       "url": "https://www.heise.de/tests/Kaufberatung-Welcher-Smart-Thermostat-der-richtige-fuer-Sie-ist-10751183.html"
@@ -250,29 +250,29 @@
       "url": "https://www.heise.de/ratgeber/Neun-VPN-Anbieter-in-der-Uebersicht-10637716.html"
     },
     {
-      "title": "Microsoft Teams kann ab Dezember Büroanwesenheit erfassen",
-      "url": "https://www.heise.de/news/Microsoft-Teams-kann-ab-Dezember-Bueroanwesenheit-erfassen-10899898.html",
-      "image_title": "Das Microsoft Teams Logo wird auf einem Smartphone Bildschirm angezeigt."
+      "title": "Altmans Reaktion auf OpenAIs Milliardenverlust: \"Es reicht\"",
+      "url": "https://www.heise.de/news/Altmans-Reaktion-auf-OpenAIs-Milliardenverlust-Es-reicht-10967280.html",
+      "image_title": "Das Logo von OpenAI an einer Glasfassade"
+    },
+    {
+      "title": "Kassenärzte warnen: Zehntausende Praxen müssen wohl bald zurück zum Papierrezept",
+      "url": "https://www.heise.de/news/E-Rezept-bald-auf-Papier-Kassenaerzte-warnen-vor-fehlenden-Heilberufsausweisen-10979411.html"
     },
     {
       "title": "Internationaler Strafgerichtshof wirft Microsoft raus",
       "url": "https://www.heise.de/news/Internationaler-Strafgerichtshof-wirft-Microsoft-raus-10964080.html"
     },
     {
-      "title": "USA: Verkaufsverbot für TP-Link-Router wird immer wahrscheinlicher",
-      "url": "https://www.heise.de/news/USA-Verkaufsverbot-fuer-TP-Link-Router-wird-immer-wahrscheinlicher-10964555.html"
-    },
-    {
       "title": "Heizlüfter mit Bitcoin-Miner: Ofen 2 im Test",
       "url": "https://www.heise.de/tests/Heizluefter-mit-Bitcoin-Miner-Ofen-2-im-Test-10779015.html"
     },
     {
-      "title": "Fünf günstige Office-Notebooks mit USB4 im Test",
-      "url": "https://www.heise.de/tests/Fuenf-guenstige-Office-Notebooks-mit-USB4-im-Test-10634647.html"
-    },
-    {
       "title": "Wie man das Passwort eines Windows-Kontos knackt",
       "url": "https://www.heise.de/hintergrund/Wie-man-das-Passwort-eines-Windows-Kontos-knackt-10688318.html"
+    },
+    {
+      "title": "Falsche Weichenstellung: Warum Geld allein die Bahn nicht rettet",
+      "url": "https://www.heise.de/hintergrund/Falsche-Weichenstellung-Warum-Geld-allein-die-Bahn-nicht-rettet-10764950.html"
     },
     {
       "title": "CO₂-Flottenbilanz 2025: Welcher Autohersteller nachlegen muss",
@@ -297,6 +297,12 @@
       "title": "1 Jahr heise+ mit 50 % Rabatt",
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 1 Jahr mit 50 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "iOS 26.1: 11 Tipps zu den Neuerungen",
+      "teaser": "Das erste große Punkt-Update macht iOS 26 rund und liefert praktische Funktionen nach. So setzen Sie die Neuerungen auf iPhone und iPad konkret ein.",
+      "url": "https://www.heise.de/ratgeber/iOS-26-1-11-Tipps-zu-den-Neuerungen-11056734.html",
+      "image_title": "Tipps zu iOS 26.1"
     },
     {
       "title": "AirPods Pro und AirPods 4: Live-Übersetzung kommt nach Europa",
@@ -368,15 +374,15 @@
       "image_title": "Bild von einem Tänzer oder Kämpfer, dessen Oberkörper frei ist. Er trägt eine Hose, die an Kampfsport erinnert. Hinter ihm sind blaue, halbdurchsichtige Streifen, die von Armen und Beinen auszugehen scheinen."
     },
     {
+      "title": "Cybersicherheit dank KI: Weniger Risiko, mehr Reaktionsfähigkeit",
+      "teaser": "Wie können Unternehmen ihre Cybersicherheit strategisch verbessern? Einzelmaßnahmen reichen oft nicht aus. Erfahren Sie hier, wie ein 360-Grad-Ansatz mit einer KI-basierten Security-Plattform Unternehmen langfristig helfen könnte .",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/ganzheitliche-cybersicherheit-dank-ki-risiken-minimieren-reaktionsfaehigkeit-staerken-4969/?source=hbsad-ersatz"
+    },
+    {
       "title": "Sharp stellt kompakte VR-Brille mit Dioptrinregler für PC und Smartphones vor",
       "teaser": "Mit der \"Xrostella VR1\" will Sharp eine besonders kompakte VR-Brille anbieten, die als eines der wenigen Geräte am Markt über einen Dioptrienregler verfügt.",
       "url": "https://www.heise.de/news/Unter-200-Gramm-Sharp-will-kompakte-VR-Brille-per-Crowdfunding-veroeffentlichen-11053916.html",
       "image_title": "Modernes weißes VR-Headset mit spiegelnder Frontabdeckung und zwei passenden Controllern mit kreisförmigem Design – futuristisches Virtual-Reality-Gerät von Sharp."
-    },
-    {
-      "title": "Digitale Souveränität: Schluss mit dem Buzzwords!",
-      "teaser": "Alle reden über digitale Souveränität, aber wie geht es praktisch weiter? Ein Webcast erklärt, welche Abstufungen für welche Anwendungsfälle sinnvoll sind, und hilft bei der Frage: Wie mache ich konkret weiter?",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/digitale-souveraenitaet-weg-vom-buzzword-bingo-hin-zur-umsetzung-4979?source=hbsadersatz"
     },
     {
       "title": "Pflichtprogramm für Weltraumfans: \"Space Explorers Ultimate Edition\" für Quest 3",
@@ -433,43 +439,14 @@
       "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
-      "title": "AlertSicherheitspatch: IBM InfoSphere Information Server für DoS-Attacken anfällig",
-      "teaser": "Angreifer können Systeme mit IBM InfoSphere Information Server attackieren. Admins sollten zeitnah handeln.",
-      "url": "https://www.heise.de/news/Sicherheitspatch-IBM-InfoSphere-Information-Server-fuer-DoS-Attacken-anfaellig-11050114.html",
-      "image_title": "Ein symbolsicher Updateknopf."
-    },
-    {
-      "title": "Optionales Windows-Update sorgt für Task-Manager-Zombie",
-      "url": "https://www.heise.de/news/Optionales-Windows-Update-sorgt-fuer-Task-Manager-Zombie-10966177.html"
-    },
-    {
       "title": "Phishing-Opfer geht leer aus: Versicherung lehnt SMS-Betrug ab",
       "url": "https://www.heise.de/news/Online-Versicherungsschutz-greift-nicht-bei-Phishing-per-SMS-10977336.html",
       "image_title": "Handy in einer Hand, darum viele rote Warnsymbole"
     },
     {
-      "title": "AlertWarnung vor Angriffen auf Lücken in VMware und XWiki",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Luecken-in-VMware-und-XWiki-10966431.html"
-    },
-    {
-      "title": "Geschmolzenes Glas: Erstmals fahrendes Fahrzeug von einem Meteoriten getroffen?",
-      "url": "https://www.heise.de/news/Australien-Moeglicherweise-erstmals-fahrendes-Fahrzeug-von-Meteorit-getroffen-10966995.html",
-      "image_title": "Eine Windschutzscheibe mit einem großen gesplitterten Stück"
-    },
-    {
-      "title": "Reine Solardrohne hebt ohne Pufferkondensator oder Batterie ab",
-      "url": "https://www.heise.de/news/Suedafrikanischer-Ingenieur-baut-reine-Solardrohne-10968236.html",
-      "image_title": "Solardrohne fliegt, reckts am Boden steht der Pilot"
-    },
-    {
-      "title": "SpaceX deutet nach verzögerten Plänen für Mondlandung \"einfacheres\" Starship an",
-      "url": "https://www.heise.de/news/SpaceX-deutet-nach-verzoegerten-Plaenen-fuer-Mondlandung-einfacheres-Starship-an-10966325.html",
-      "image_title": "Starship steht auf Mondoberfläche, im Hintergrund die Erde"
-    },
-    {
-      "title": "Upgrade oder iPhone-Wechsel: Apple erläutert, warum Akkulaufzeit reduziert ist",
-      "url": "https://www.heise.de/news/Upgrade-oder-iPhone-Wechsel-Apple-erlaeutert-warum-Akkulaufzeit-reduziert-ist-10966231.html",
-      "image_title": "Akku-Handhabung beim iPhone"
+      "title": "Tansania: Internetblockade nach fünf Tagen beendet, WhatsApp & Co. noch gesperrt",
+      "url": "https://www.heise.de/news/Tansania-Internetblockade-nach-fuenf-Tagen-beendet-WhatsApp-Co-noch-gesperrt-11038139.html",
+      "image_title": "Eine Karte von Tansania"
     },
     {
       "title": "WLAN-Absage: Bundesregierung will das obere 6-GHz-Band dem Mobilfunk zuweisen",
@@ -477,9 +454,44 @@
       "image_title": "Funkmast vor einem bewölten Himmel."
     },
     {
+      "title": "Reine Solardrohne hebt ohne Pufferkondensator oder Batterie ab",
+      "url": "https://www.heise.de/news/Suedafrikanischer-Ingenieur-baut-reine-Solardrohne-10968236.html",
+      "image_title": "Solardrohne fliegt, reckts am Boden steht der Pilot"
+    },
+    {
+      "title": "Natrium-Ionen-Batterie: Fraunhofer ersetzt kritische Rohstoffe durch Holz",
+      "url": "https://www.heise.de/news/Fraunhofer-forscht-an-kleinen-aufladbaren-Batterien-mit-Material-aus-Holzresten-11039553.html",
+      "image_title": "Gefäß mit Hard Carbon"
+    },
+    {
+      "title": "Geschmolzenes Glas: Erstmals fahrendes Fahrzeug von einem Meteoriten getroffen?",
+      "url": "https://www.heise.de/news/Australien-Moeglicherweise-erstmals-fahrendes-Fahrzeug-von-Meteorit-getroffen-10966995.html",
+      "image_title": "Eine Windschutzscheibe mit einem großen gesplitterten Stück"
+    },
+    {
       "title": "Pixel 7 bis 10: Google veröffentlicht überraschend zweites Oktober-Update",
       "url": "https://www.heise.de/news/Pixel-7-bis-10-Google-veroeffentlicht-ueberraschend-zweites-Oktober-Update-10986061.html",
       "image_title": "Pixel 10 Familie von hinten"
+    },
+    {
+      "title": "UpdateiPhone, Mac & mehr: Jede Menge Sicherheitsupdates – iOS 18 bleibt ungepatcht",
+      "url": "https://www.heise.de/news/iPhone-Mac-mehr-Jede-Menge-Sicherheitsupdates-iOS-18-bleibt-ungepatcht-11041224.html",
+      "image_title": "Liquid Glass in iOS 26"
+    },
+    {
+      "title": "AlertPatchday: Kritische Schadcode-Lücke in Android 13, 14, 15, 16 geschlossen",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-in-Android-13-14-15-16-geschlossen-11039341.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "Zehn Jahre später: \"Pillars of Eternity\" bekommt rundenbasierten Kampfmodus",
+      "url": "https://www.heise.de/news/Zehn-Jahre-spaeter-Pillars-of-Eternity-bekommt-rundenbasierten-Kampfmodus-11039557.html",
+      "image_title": "Screenshot aus Pillars of Eternity"
+    },
+    {
+      "title": "Rapper verklagt Spotify wegen Bot-Streams",
+      "url": "https://www.heise.de/news/Rapper-verklagt-Spotify-wegen-Bot-Streams-11038240.html",
+      "image_title": "Spotify-Logo auf Handy"
     },
     {
       "title": "Fire TV: Amazon sperrt künftig Piraterie-Apps",
@@ -487,33 +499,24 @@
       "image_title": "Popcornbecher mit Piratenflaage und Verbotsschild"
     },
     {
-      "title": "Eine Woche Atlas-Browser: Ich bin jetzt dümmer",
-      "url": "https://www.heise.de/news/ChatGPT-Atlas-ist-ein-Quatsch-Browser-10964861.html"
+      "title": "\"Walk Me\": Toyota zeigt laufenden Roboterstuhl",
+      "url": "https://www.heise.de/news/Walk-Me-Toyota-zeigt-laufenden-Roboterstuhl-11046811.html",
+      "image_title": "Walk-Me-Roboterstuhl verfrachtet eine Frau in ein Auto"
     },
     {
-      "title": "KI-Musik: Nutzer-Frust nach Einigung zwischen Universal Music und Udio",
-      "url": "https://www.heise.de/news/KI-Musik-Nutzer-Frust-nach-Einigung-zwischen-Universal-Music-und-Udio-10980796.html",
-      "image_title": "Kopf-Silhouette vor Musik-Visualisierung"
+      "title": "Elektroauto-Prämie in den USA ausgelaufen: Verkäufe brechen kräftig ein",
+      "url": "https://www.heise.de/news/Elektroauto-Praemie-in-den-USA-ausgelaufen-Verkaeufe-brechen-kraeftig-ein-11039543.html",
+      "image_title": "Hyundai Ioniq 5"
     },
     {
-      "title": "China: Aussetzung der Exportkontrollen für Seltene Erden gilt auch für die EU",
-      "url": "https://www.heise.de/news/China-Aussetzung-der-Exportkontrollen-fuer-Seltene-Erden-gilt-auch-fuer-die-EU-10966118.html",
-      "image_title": "Miners,Hold,In,Their,Hands,Platinum,Or,Silver,Or,Rare"
+      "title": "ADAC untersucht E-Auto-Ladeinfrastruktur entlang der Autobahnen",
+      "url": "https://www.heise.de/news/ADAC-Hohes-Verbesserungspotenzial-beim-Laden-entlang-der-Autobahnen-11044914.html",
+      "image_title": "Gespann laden an der Autobahn"
     },
     {
-      "title": "Microsoft-Quartalsbericht offenbart zweistelligen Milliardenverlust bei OpenAI",
-      "url": "https://www.heise.de/news/Microsoft-Quartalsbericht-offenbart-zweistelligen-Milliardenverlust-bei-OpenAI-10966153.html",
-      "image_title": "OpenAI-Logo auf dem Bildschirm eines Smartphones, in dem sich das Microsoft-Logo spiegelt"
-    },
-    {
-      "title": "Siri by Gemini: Apple hat sich angeblich auf Google-KI festgelegt",
-      "url": "https://www.heise.de/news/Neue-Siri-Wie-viel-Google-steckt-in-Apples-neuer-Assistentin-10966245.html",
-      "image_title": "Finger schwebt über Gemini-App-Icon auf dem Smartphone-Bildschirm."
-    },
-    {
-      "title": "Sexpuppen in Kinderoptik: Frankreich droht Shein",
-      "url": "https://www.heise.de/news/Sexpuppen-in-Kinderoptik-Frankreich-droht-Shein-10979589.html",
-      "image_title": "Startseite von Shein auf einem Smartphone"
+      "title": "Brüssel räumt ein: Substanzielle EU-Gelder sind an Spyware-Hersteller geflossen",
+      "url": "https://www.heise.de/news/Bruessel-raeumt-ein-Substanzielle-EU-Gelder-sind-an-Spyware-Hersteller-geflossen-11000926.html",
+      "image_title": "Hand auf Computertatastatur in dunklem Zimmer"
     },
     {
       "title": "Bundesnetzagentur verschärft Sicherheitsanforderungen für TK-Anbieter",
@@ -521,23 +524,21 @@
       "image_title": "Mobilfunkmast"
     },
     {
-      "title": "Pornhub & Co.: Auch Italien verlangt für Pornografie nun Altersverifikation",
-      "url": "https://www.heise.de/news/Pornografie-im-Internet-Auch-Italien-verpflichtet-nun-zur-Altersverifizierung-10966343.html",
-      "image_title": "Man im Bett hält Smartphone in der Hand, das verdeckt das Gesicht"
+      "title": "Für Entkriminalisierung: BSI-Chefin fordert Überarbeitung des Hackerparagrafen",
+      "url": "https://www.heise.de/news/Hackerparagraf-BSI-Chefin-fordert-Sicherheitsforscher-Entkriminalisierung-11044176.html"
     },
     {
-      "title": "Montag: China-Mineralien für die EU, SpaceX für vereinfachte Mondmission",
-      "url": "https://www.heise.de/news/Montag-China-Mineralien-fuer-die-EU-SpaceX-fuer-vereinfachte-Mondmission-10966335.html",
-      "image_title": "Starships auf dem Mond; Montag: Exportkontrollen-Ausnahme, SpaceX-Vereinfachung, OpenAI-Verluste, Daten-Rückholung & Fernverkehr-Konkurrenz"
+      "title": "Dienstag: Blackwell-Chip nur für die USA, EU-Gelder gingen an Spyware-Hersteller",
+      "url": "https://www.heise.de/news/Dienstag-Blackwell-Chip-nur-fuer-die-USA-EU-Gelder-gingen-an-Spyware-Hersteller-11014327.html",
+      "image_title": "Nvidia-Logo auf GPU, dazu Text: DIENSTAG Nvidias KI-Chip, Spyware-Hersteller, Sam Altman, 2-Faktor-SMS & Bundesnetzagentur"
     },
     {
-      "title": "Character.AI: US-Chatbots künftig mit Beschränkungen für Minderjährige",
-      "url": "https://www.heise.de/news/Character-AI-US-Chatbots-kuenftig-mit-Beschraenkungen-fuer-Minderjaehrige-10966241.html",
-      "image_title": "Abstraktes Bild von einer Künstliche Intelligenz. Zu sehen ist eine helle Maske mit verschiedenen Schichten."
+      "title": "Optionales Windows-Update sorgt für Task-Manager-Zombie",
+      "url": "https://www.heise.de/news/Optionales-Windows-Update-sorgt-fuer-Task-Manager-Zombie-10966177.html"
     },
     {
-      "title": "KI-Update kompakt: OpenAI, Microsofts Web-Agent, selbstbewusste KI, Apple",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-OpenAI-Microsofts-Web-Agent-selbstbewusste-KI-Apple-10977251.html"
+      "title": "Saubere Sache: Fensterputzroboter von 80 bis 500 Euro im Test | c’t uplink",
+      "url": "https://www.heise.de/news/Saubere-Sache-Fensterputzroboter-von-80-bis-500-Euro-im-Test-c-t-uplink-10963464.html"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Berater in Deutschland",
@@ -583,26 +584,26 @@
       "url": "https://www.heise.de/news/heiseshow-Buero-Ortung-in-Teams-Cyberangriff-Abwehr-Grokipedia-10963658.html"
     },
     {
-      "title": "Fire TV: Amazon to block piracy apps in the future",
-      "url": "https://www.heise.de/en/news/Fire-TV-Amazon-to-block-piracy-apps-in-the-future-10964878.html",
-      "image_title": "Popcorn cup with pirate flag and prohibition sign"
-    },
-    {
-      "title": "WLAN Rejection: Germany Favors Mobile for Upper 6 GHz Band",
-      "url": "https://www.heise.de/en/news/WLAN-Rejection-Germany-Favors-Mobile-for-Upper-6-GHz-Band-10965806.html",
-      "image_title": "Radio mast in front of a cloudy sky."
+      "title": "Apple TV 4K and HomePod mini: New models still in November?",
+      "url": "https://www.heise.de/en/news/Apple-TV-4K-and-HomePod-mini-New-models-still-in-November-11053947.html",
+      "image_title": "Apple TV 4K with HomePod mini."
     },
     {
       "title": "Cathedrals of Light: Tron and Tron: Legacy in 4K Restoration Reviewed",
-      "url": "https://www.heise.de/en/tests/Cathedrals-of-Light-Tron-and-Tron-Legacy-in-4K-Restoration-Reviewed-10965350.html"
+      "url": "https://www.heise.de/en/tests/Cathedrals-of-Light-Tron-and-Tron-Legacy-in-4K-Restoration-Reviewed-10965350.html",
+      "image_title": "A woman sits at the steering wheel of a futuristic car and looks at her co-driver"
     },
     {
-      "title": "Microsoft Teams can record office presence from December",
-      "url": "https://www.heise.de/en/news/Microsoft-Teams-can-record-office-presence-from-December-10899943.html"
+      "title": "WLAN Rejection: Germany Favors Mobile for Upper 6 GHz Band",
+      "url": "https://www.heise.de/en/news/WLAN-Rejection-Germany-Favors-Mobile-for-Upper-6-GHz-Band-10965806.html"
     },
     {
-      "title": "Microsoft quarterly report reveals double-digit billion loss at OpenAI",
-      "url": "https://www.heise.de/en/news/Microsoft-quarterly-report-reveals-double-digit-billion-loss-at-OpenAI-10966190.html"
+      "title": "Astronomy: Interstellar comet 3I/ATLAS again visible from Earth",
+      "url": "https://www.heise.de/en/news/Astronomy-Interstellar-comet-3I-ATLAS-again-visible-from-Earth-11044186.html"
+    },
+    {
+      "title": "Monitoring Software: IBM Tivoli Monitoring and Nagios XI are vulnerable",
+      "url": "https://www.heise.de/en/news/Monitoring-Software-IBM-Tivoli-Monitoring-and-Nagios-XI-are-vulnerable-10970167.html"
     },
     {
       "title": "Bit-Rauschen: Milliarden-Deal für AMD",
@@ -611,9 +612,10 @@
       "image_title": "Aufmacher Kolumne Bit-Rauschen"
     },
     {
-      "title": "XXL-Tablet mit Android: Samsung Galaxy Tab S11 Ultra im Test",
-      "teaser": "Samsungs Ultra-Tablet ist wohl das größte Android-Tablet auf dem Markt. Das riesige Display macht was her und die Software hilft dabei, die Fläche auszunutzen.",
-      "url": "https://www.heise.de/tests/XXL-Tablet-mit-Android-Samsung-Galaxy-Tab-S11-Ultra-im-Test-10639111.html"
+      "title": "Chip-Lithografie mit Röntgenstrahlung will ASML und TSMC herausfordern",
+      "teaser": "Peter Thiel finanziert ein Startup, das Halbleiter in den USA billiger fertigen will als TSMC – dank Strahlung aus dem Beschleuniger.",
+      "url": "https://www.heise.de/news/Chip-Lithografie-mit-Roentgenstrahlung-will-ASML-und-TSMC-herausfordern-11053963.html",
+      "image_title": "Chipstrukturen auf Silizium-Wafer"
     },
     {
       "title": "OutboundIndie-Game bricht Wunschlisten-Rekorde und veröffentlicht neue Beta",
@@ -628,16 +630,16 @@
       "image_title": "FAQ zu iOS 26 und iPadOS 26"
     },
     {
-      "title": "Mit M5-Chip – und ohne NetzteilDas neue MacBook Pro im Test",
-      "teaser": "Der neue M5-Chip zieht im MacBook Pro 14 Zoll ein und verspricht mehr Leistung, insbesondere für SSD und KI. Wie viel besser ist es wirklich?",
-      "url": "https://www.heise.de/tests/Test-Das-neue-MacBook-Pro-mit-M5-und-ohne-Netzteil-10793514.html",
-      "image_title": "Das neue MacBook Pro M5"
-    },
-    {
       "title": "Bildaufhübscher: Elgato Facecam 4K im Test",
       "teaser": "Mit Wechselfiltern und hoher Bildqualität will Elgatos Facecam 4K Streamer überzeugen. Wie schlägt sie sich gegenüber der Konkurrenz?",
       "url": "https://www.heise.de/tests/Bildaufhuebscher-Elgato-Facecam-4K-im-Test-10782162.html",
       "image_title": "Facecam 4K von Elgato"
+    },
+    {
+      "title": "Mit M5-Chip – und ohne NetzteilDas neue MacBook Pro im Test",
+      "teaser": "Der neue M5-Chip zieht im MacBook Pro 14 Zoll ein und verspricht mehr Leistung, insbesondere für SSD und KI. Wie viel besser ist es wirklich?",
+      "url": "https://www.heise.de/tests/Test-Das-neue-MacBook-Pro-mit-M5-und-ohne-Netzteil-10793514.html",
+      "image_title": "Das neue MacBook Pro M5"
     },
     {
       "title": "Wie man aus einem Ikea-Gewürzregal eine Designerlampe baut",
@@ -701,12 +703,6 @@
       "image_title": "Honda CB 1000 GT"
     },
     {
-      "title": "E-Auto-Tauglichkeitstest des ADACLadeinfrastruktur entlang der Autobahnen",
-      "teaser": "Der ADAC hat untersucht, wie weit die Lademöglichkeiten der Raststätten entlang der Autobahnen dem Ziel \"Laden so einfach wie tanken\" schon gekommen sind.",
-      "url": "https://www.heise.de/news/ADAC-Hohes-Verbesserungspotenzial-beim-Laden-entlang-der-Autobahnen-11044914.html",
-      "image_title": "Gespann laden an der Autobahn"
-    },
-    {
       "title": "E-Auto günstiger Laden bei StromüberschussNiedersachsen will Anreiz schaffen",
       "teaser": "Niedersachsens Umweltminister fordert, dass E-Autos bei Stromüberschuss günstiger geladen werden können. Das soll Anreize schaffen und Kosten senken.",
       "url": "https://www.heise.de/news/Niedersachsen-fordert-E-Auto-Laden-guenstiger-bei-Stromueberschuss-11043657.html",
@@ -717,6 +713,12 @@
       "teaser": "Die Zahl der öffentlichen Ladepunkte wächst je nach Bundesland unterschiedlich schnell. Wo herrscht die größte Konkurrenz, wo findet man einfacher Anschluss?",
       "url": "https://www.heise.de/news/Elektroauto-Zahl-der-oeffentlichen-Ladepunkte-waechst-weiter-11039618.html",
       "image_title": "Fiat 500e"
+    },
+    {
+      "title": "In Konkurrenz zum E-BikeMarktübersicht mit 16 E-Rollern",
+      "teaser": "Elektroroller könnten die urbane Mobilität verbessern, aber die deutschen Zulassungszahlen bleiben dürftig, trotz einer ansehnlichen Vielfalt von Modellen.",
+      "url": "https://www.heise.de/ratgeber/Elektroroller-In-Konkurrenz-zum-E-Bike-Marktuebersicht-mit-16-E-Rollern-10915116.html",
+      "image_title": "BMW CE 04"
     },
     {
       "title": "Top 10: Das beste Heizkörperthermostat im Test – smart heizen und Geld sparen",
@@ -739,16 +741,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Laubbläser: Der Lärm des beschleunigten Ordnungswahns",
-      "teaser": "Laut wie Presslufthämmer – nervig und zerstörerisch: Sie schaden Igeln und Kleinstlebewesen, rauben dem Boden seinen Dünger. Warum nicht einfach zum Rechen greifen?",
-      "url": "https://www.heise.de/tp/features/Laubblaeser-Der-Laerm-des-beschleunigten-Ordnungswahns-10981310.html",
-      "image_title": "Mann mit gelbem Laubbläser, den er anwirft."
+      "title": "Bürgergeld: Nur das Existenzminimum bleibt",
+      "teaser": "Eine neue Studie zeigt: Das Bürgergeld sichert nur das nackte Überleben. Die Inflation frisst die Anpassungen auf. Über die Hälfte der Bezieher ist von Entbehrungen betroffen.",
+      "url": "https://www.heise.de/tp/features/Buergergeld-Nur-das-Existenzminimum-bleibt-10858683.html",
+      "image_title": "Der Schriftzug Bürgergeld und Euro-Banknoten"
     },
     {
-      "title": "Medien: Ist Wichtiges weglassen das neue \"Faken\"?",
-      "teaser": "Zwei Wahrheiten, ein Wahlergebnis: Die Kraft der Auswahl. Medienkritik.",
-      "url": "https://www.heise.de/tp/features/Medien-Ist-Wichtiges-weglassen-das-neue-Faken-11039567.html",
-      "image_title": "Tastatur mit einer Hand, die schreibt"
+      "title": "Clean-Tech-Aktien mit Kursgewinnen von bis zu 500 Prozent",
+      "teaser": "Rechenzentren für KI benötigen massiv Strom – und machen Clean-Tech-Investments plötzlich wieder hochprofitabel. Bloom Energy zeigt, wie.",
+      "url": "https://www.heise.de/tp/features/Clean-Tech-Aktien-mit-Kursgewinnen-von-bis-zu-500-Prozent-10966308.html",
+      "image_title": "Saubere Energie, Solarfarm und Windturbine mit schönem blauem Hintergrund."
     },
     {
       "title": "Bürgergeld-Reform: Plötzlich droht der völlige Leistungsentzug",
