@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T16:14:25",
+  "timestamp": "2025-11-05T17:10:43",
   "url": "https://www.faz.net/aktuell/feuilleton/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Gedenken an die Schoa: Wie eine KI die Namen von Holocaust-Opfern wiederfindet",
+      "teaser": "Ein Name, der lange fehlte: Erst Künstliche Intelligenz brachte Licht in das Rätsel um Peter Swajlach, ein Opfer des Holocaust. Wie die Technologie gegen das Vergessen hilft – und warum die Arbeit noch lange nicht abgeschlossen ist.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/ki-hilft-verlorene-namen-von-holocaustopfern-wiederzufinden-110766406.html"
+    },
+    {
       "title": "Roman von Walter Moers: Von einem, der auszog, unfreiwillig das Lieben zu lernen",
       "teaser": "Aller Anfang ist Q: Der neue Roman von Walter Moers erzählt weiter, was vor einem Vierteljahrhundert schon beendet schien. Und da stellen sich nun doch einige Fragen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/walter-moers-roman-qwert-110764177.html"
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/walter-moers-roman-qwert-110764177.html",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/2651583334/1.10764194/16x9/bizarre-architektur-die-helden.jpg",
+      "image_title": "Bizarre Architektur: Die Helden von Walter Moers werden auf ihren Reisen permanent herausgefordert."
     },
     {
       "title": "„Theken-Cowboys“ im Ersten: „F.A.Z. ist aus. – Die hängt doch da!“",
@@ -62,18 +69,18 @@
       "image_title": "Alexander Wipprecht, Aurel Manthei und Johannes Allmayer spielen die Drei von der Trinhalle."
     },
     {
-      "title": "Ballett in Kopenhagen: Die Schönheit ist dem Menschen zumutbar",
-      "teaser": "Charmant, aber nie seicht, komplex, doch nie ermüdend: Alexei Ratmansky macht in Kopenhagen Johann Sebastian Bachs „Kunst der Fuge” zum Ballett.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/tanz/alexei-ratmanskys-mit-die-kunst-der-fuge-110764754.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/253404386/1.10764753/16x9/dank-dem-ernst-der-fuge.jpg",
-      "image_title": "Dank dem Ernst der Fuge vergeht die Zeit im Fluge: das Königlich-Dänische Ballett verleibt sich Bach ein."
-    },
-    {
       "title": "Einhorn in der Kunst: Dieses Horn ist für die Jungfrau Maria",
       "teaser": "Im Mittelalter galt das Einhorn als Symbol für Christus, aber auch als Verkörperung der erotisch aufgeladenen Natur. Später wurde es zum Spielmaterial der Kunst. Eine Ausstellung in Potsdam folgt dem Weg des Fabeltiers durch die Zeiten.",
       "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/das-einhorn-in-der-kunst-ausstellung-im-museum-barberini-potsdam-110764584.html",
       "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/1631425582/1.10764813/16x9/keusche-umklammerung-dario-di.jpg",
       "image_title": "Keusche Umklammerung: Dario di Giovanni, „Jungfrau mit Einhorn“, um 1468"
+    },
+    {
+      "title": "Ballett in Kopenhagen: Die Schönheit ist dem Menschen zumutbar",
+      "teaser": "Charmant, aber nie seicht, komplex, doch nie ermüdend: Alexei Ratmansky macht in Kopenhagen Johann Sebastian Bachs „Kunst der Fuge” zum Ballett.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/tanz/alexei-ratmanskys-mit-die-kunst-der-fuge-110764754.html",
+      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/253404386/1.10764753/16x9/dank-dem-ernst-der-fuge.jpg",
+      "image_title": "Dank dem Ernst der Fuge vergeht die Zeit im Fluge: das Königlich-Dänische Ballett verleibt sich Bach ein."
     },
     {
       "title": "FAZ+„Rote Sterne überm Feld“: Wo eine Leiche im Moor Hoffnung weckt",
@@ -88,13 +95,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/elzbieta-penderecka-gestorben-accg-110765979.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/2054257731/1.10766024/16x9/el-bieta-penderecka-am-30.jpg",
       "image_title": "Elżbieta Penderecka am 30. März 2022 bei der Verleihung der Ehrendoktorwürde der Universität Krakau an die Geigerin Anne-Sophie Mutter"
-    },
-    {
-      "title": "Orden in Moskau: Justus Frantz von Putin ausgezeichnet",
-      "teaser": "In Deutschland ist der Pianist und Dirigent Justus Frantz nicht mehr so gefragt wie einst, in Russland umso mehr. Wladimir Putin hat ihn nun ausgezeichnet - und Frantz fühlt sich geehrt.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/justus-frantz-nimmt-orden-von-putin-an-accg-110765855.html",
-      "image_url": "https://media1.faz.net/ppmedia/w730/aktuell/feuilleton/2151671090/1.10765873/16x9/wladimir-putin-und-justus.jpg",
-      "image_title": "Wladimir Putin und Justus Frantz am 4. November 2025 in Moskau"
     },
     {
       "title": "Berliner Baumgesetz: Big Beautiful Baum Bill",
@@ -205,10 +205,11 @@
       "image_title": "Ohne kognitive Dissonanz: Szene aus „Der zerbrochene Krug“"
     },
     {
-      "title": "FAZ+Vom Gerede zur Diskussion: Eine erfreuliche Wende in der Stadtbilddebatte",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/friedrich-merz-und-die-stadtbild-debatte-eine-erfreuliche-wende-accg-110764612.html",
-      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/feuilleton/6551675/1.10751877/16x9/demonstration-gegen-die.jpg",
-      "image_title": "Demonstration gegen die Stadtbild-Äußerungen von Kanzler Merz in Bremen am 26. Oktober"
+      "title": "Orden in Moskau: Justus Frantz von Putin ausgezeichnet",
+      "teaser": "In Deutschland ist der Pianist und Dirigent Justus Frantz nicht mehr so gefragt wie einst, in Russland umso mehr. Wladimir Putin hat ihn nun ausgezeichnet - und Frantz fühlt sich geehrt.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/justus-frantz-nimmt-orden-von-putin-an-accg-110765855.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/feuilleton/2151671090/1.10765873/16x9/wladimir-putin-und-justus.jpg",
+      "image_title": "Wladimir Putin und Justus Frantz am 4. November 2025 in Moskau"
     },
     {
       "title": "FAZ+Zu Besuch bei T. C. Boyle: Ich habe meine eigenen Obsessionen",
@@ -239,9 +240,15 @@
       "image_title": "Mit dieser Geste bei Trumps Amtseinführung schaffte es Elon Musk in die Wikipedia. Mit seiner Grokipedia hält er dagegen."
     },
     {
+      "title": "FAZ+Vom Gerede zur Diskussion: Eine erfreuliche Wende in der Stadtbilddebatte",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/friedrich-merz-und-die-stadtbild-debatte-eine-erfreuliche-wende-accg-110764612.html",
+      "image_url": "https://media1.faz.net/ppmedia/w920/aktuell/feuilleton/6551675/1.10751877/21x9/demonstration-gegen-die.jpg",
+      "image_title": "Demonstration gegen die Stadtbild-Äußerungen von Kanzler Merz in Bremen am 26. Oktober"
+    },
+    {
       "title": "FAZ+Dankesrede zum Freud-Preis: Von der Angst, die alle fühlen, aber von der niemand spricht",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/dankesrede-zum-sigmund-freud-preis-das-gefuehl-chronischer-angst-110757798.html",
-      "image_url": "https://media0.faz.net/ppmedia/w920/aktuell/1111010632/1.10762660/21x9/algerische-kinder-werden-1956-nach-frankreich-evakuiert.jpg",
+      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/1111010632/1.10762660/16x9/algerische-kinder-werden-1956-nach-frankreich-evakuiert.jpg",
       "image_title": "Was wird nach dem Verlust der Heimat aus ihnen werden? Evakuierung von Pieds-Noirs-Kindern aus Algerien 1956 nach Frankreich."
     },
     {
@@ -250,13 +257,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/prinzipienreiterei-der-afd-gegner-ruiniert-die-republik-accg-110762351.html",
       "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/politik/1127560223/1.10488534/16x9/brandmauer-protest-beim.jpg",
       "image_title": "Brandmauer-Protest beim Bundesparteitag der CDU am 3. Februar in Berlin"
-    },
-    {
-      "title": "Opernhaus Zürich: Anna Netrebko für den Krieg missbraucht",
-      "teaser": "Den Auftritt der Sängerin hat Matthias Schulz, Intendant des Opernhauses Zürich, gegen pro-ukrainische Proteste verteidigt. Und was macht die Regisseurin? Drückt der Sängerin eine Maschinenpistole in die Hand! Wenn das kein Missbrauch ist!",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/oper/opernhaus-zuerich-anna-netrebko-fuer-den-krieg-missbraucht-accg-110762572.html",
-      "image_url": "https://media0.faz.net/ppmedia/w730/aktuell/feuilleton/929494567/1.10762590/16x9/anna-netrebko-im-sommer-2025.jpg",
-      "image_title": "Anna Netrebko im Sommer 2025 in Berlin"
     },
     {
       "title": "Jugendbuch von Jenny Valentine: So ungeheuer wertvoll ist es, das bloße Sein!",
