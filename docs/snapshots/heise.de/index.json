@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T09:12:09",
+  "timestamp": "2025-11-05T10:12:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Cybercrime: Apache OpenOffice dementiert Ransomware-Attacke",
+      "url": "https://www.heise.de/news/Cybercrime-Apache-OpenOffice-dementiert-Ransomware-Attacke-11061654.html"
+    },
+    {
+      "title": "Kehrtwende: Donald Trump nominiert Jared Isaacman zum zweiten Mal als NASA-Chef",
+      "url": "https://www.heise.de/news/Kehrtwende-Donald-Trump-nominiert-Jared-Isaacman-zum-zweiten-Mal-als-NASA-Chef-11059300.html"
+    },
+    {
+      "title": "Fragen und Antworten: Alles zu macOS 26 Tahoe",
+      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Alles-zu-macOS-26-Tahoe-10962027.html"
+    },
+    {
+      "title": "Daily am Morgen vertreibt Kummer und Sorgen. Oder nicht?",
+      "url": "https://www.heise.de/blog/Daily-am-Morgen-vertreibt-Kummer-und-Sorgen-Oder-nicht-10879776.html"
+    },
+    {
       "title": "Agile Leadership Conference 2025: Führung und Selbstführung aktiv gestalten",
       "url": "https://www.heise.de/news/Agile-Leadership-Conference-2025-Fuehrung-und-Selbstfuehrung-aktiv-gestalten-10965665.html"
     },
@@ -34,7 +50,7 @@
       "url": "https://www.heise.de/news/China-verschiebt-Taikonauten-Rueckkehr-nach-moeglichem-Weltraumschrotttreffer-11057917.html"
     },
     {
-      "title": "Insomnia 12: Kong erweitert API-Tool um MCP-Unterstützung und KI-Hilfen",
+      "title": "Insomnia 12 bringt MCP-Unterstützung und neue KI-Funktionen",
       "url": "https://www.heise.de/news/Insomnia-12-Kong-erweitert-API-Tool-um-MCP-Unterstuetzung-und-KI-Hilfen-11057170.html"
     },
     {
@@ -48,22 +64,6 @@
     {
       "title": "Home Assistant: Interview über Erfolg, KI-Code und das nächste Feature",
       "url": "https://www.heise.de/hintergrund/Home-Assistant-Interview-ueber-Erfolg-KI-Code-und-das-naechste-Feature-10623378.html"
-    },
-    {
-      "title": "Zahlungsdienstleister kompromittiert: Durchsuchungen auf drei Kontinenten",
-      "url": "https://www.heise.de/news/Kreditkartenbetrug-Durchsuchungen-auf-drei-Kontinenten-11057117.html"
-    },
-    {
-      "title": "Hohe Winde gefährden über 40 Prozent der Offshore-Windparks in Europa und Asien",
-      "url": "https://www.heise.de/news/Hohe-Winde-Ueber-40-Prozent-der-Offshore-Windparks-in-Europa-und-Asien-gefaehrdet-11057097.html"
-    },
-    {
-      "title": "Paukenschlag: Google und Epic einigen sich auf weltweite Android-Änderungen",
-      "url": "https://www.heise.de/news/Google-und-Epic-einigen-sich-auf-weltweite-Android-Aenderungen-11057051.html"
-    },
-    {
-      "title": "Coden mit KI verändert die Teamarbeit und den agilen Prozess",
-      "url": "https://www.heise.de/news/Coden-mit-KI-veraendert-die-Teamarbeit-und-den-agilen-Prozess-11056350.html"
     },
     {
       "title": "Wind- und SolaranlagenChina installiert in halsbrecherischem Tempo",
@@ -127,7 +127,7 @@
       "url": "https://www.heise.de/hintergrund/Amateurfunk-Ein-Einblick-in-das-faszinierende-Hobby-10789101.html"
     },
     {
-      "title": "Europa und AsienHohe Winde gefährden über 40 Prozent der Offshore-Windparks",
+      "title": "Europa und AsienStarke Winde gefährden über 40 Prozent der Offshore-Windparks",
       "teaser": "Viele Windturbinen europäischer und asiatischer Offshore-Windkraftanlagen sind Winden ausgesetzt, für die sie nicht ausgelegt sind.",
       "url": "https://www.heise.de/news/Hohe-Winde-Ueber-40-Prozent-der-Offshore-Windparks-in-Europa-und-Asien-gefaehrdet-11057097.html",
       "image_title": "Wind,Turbine,From,Aerial,View,,Drone,View,At,Windpark,Westermeerdijk"
@@ -184,6 +184,35 @@
       "image_title": "Sonnenaufgang hinter der Erde"
     },
     {
+      "title": "Cybercrime: Apache OpenOffice dementiert Ransomware-Attacke",
+      "teaser": "Die Ransomwaregruppe Akira behauptet, im Zuge eines Angriffs auf Apache OpenOffice 23 Gigabyte an Daten kopiert zu haben. Das treffe aber nicht zu.",
+      "url": "https://www.heise.de/news/Cybercrime-Apache-OpenOffice-dementiert-Ransomware-Attacke-11061654.html",
+      "image_title": "Polizei, Cybercrime, Sicherheit"
+    },
+    {
+      "title": "Kehrtwende: Donald Trump nominiert Jared Isaacman zum zweiten Mal als NASA-Chef",
+      "teaser": "Im Frühjahr sollte Jared Isaacman Chef der NASA werden, dann ließ ihn Donald Trump im letzten Moment fallen. Jetzt ändert der US-Präsident erneut seine Meinung.",
+      "url": "https://www.heise.de/news/Kehrtwende-Donald-Trump-nominiert-Jared-Isaacman-zum-zweiten-Mal-als-NASA-Chef-11059300.html",
+      "image_title": "Zwei Männer an einem Schreibtisch im Oval Office"
+    },
+    {
+      "title": "Die natürlichste Art, mit KI zu interagieren",
+      "teaser": "Das laute Sprechen mit einer KI ist noch ungewohnt. Doch eine generative KI ist nur so gut wie die Qualität der Eingabe. Wer deshalb passende Endgeräte nutzt, sichert sich Produktivitätsvorteile.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7012492724&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Fragen und Antworten: Alles zu macOS 26 Tahoe",
+      "teaser": "Das Upgrade liefert nicht nur tolle Neuerungen, sondern sorgt auch für Unklarheiten und Probleme. 16 Hilfestellungen und Tipps zu Tahoe.",
+      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Alles-zu-macOS-26-Tahoe-10962027.html",
+      "image_title": "Ein Mac, auf dem Tahoe läuft"
+    },
+    {
+      "title": "Daily am Morgen vertreibt Kummer und Sorgen. Oder nicht?",
+      "teaser": "Ich glaube zwar nicht an \"Best\" Practices, aber trotzdem frage ich manchmal danach. So auch bei der Frage, wann der beste Zeitpunkt für ein Daily ist.",
+      "url": "https://www.heise.de/blog/Daily-am-Morgen-vertreibt-Kummer-und-Sorgen-Oder-nicht-10879776.html",
+      "image_title": "Kaffetrinken im Team"
+    },
+    {
       "title": "Agile Leadership Conference 2025: Führung und Selbstführung aktiv gestalten",
       "teaser": "Die Online-Konferenz für Führungskräfte findet am 27. November und 3. Dezember statt – für starke Produkte, Unternehmen und Teams.",
       "url": "https://www.heise.de/news/Agile-Leadership-Conference-2025-Fuehrung-und-Selbstfuehrung-aktiv-gestalten-10965665.html",
@@ -196,12 +225,7 @@
       "image_title": "Computergeneriertes Bild der Raumstation Tiangong"
     },
     {
-      "title": "Das europäische Cloud-Paradoxon überwinden",
-      "teaser": "Deutsche Unternehmen wünschen sich europäische Cloud-Lösungen, nutzen aber Hyperscaler aus Nicht-EU-Staaten, weil sie Funktionseinbußen befürchten. Doch es gibt souveräne Alternativen aus Europa.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7101019094&iu=%2F6514%2FClicktracking"
-    },
-    {
-      "title": "Insomnia 12: Kong erweitert API-Tool um MCP-Unterstützung und KI-Hilfen",
+      "title": "Insomnia 12 bringt MCP-Unterstützung und neue KI-Funktionen",
       "teaser": "Kong erweitert seinen API-Designer mit Version 12 um MCP-Unterstützung, KI-Funktionen und verbesserte Teamfeatures für API- und Agentenentwicklung.",
       "url": "https://www.heise.de/news/Insomnia-12-Kong-erweitert-API-Tool-um-MCP-Unterstuetzung-und-KI-Hilfen-11057170.html",
       "image_title": "Distance,Education,Online,Learning,Concept.,Robot,Teacher,,Abstract,Classroom,Interior"
@@ -211,29 +235,6 @@
       "teaser": "Nachdem der Bitcoin im Oktober stark an Wert verloren hat, ist der Preis jetzt zumindest kurzzeitig sogar unter 100.000 US-Dollar gefallen.",
       "url": "https://www.heise.de/news/Schlechtester-Oktober-seit-2018-Bitcoin-Preis-faellt-unter-100-000-US-Dollar-11057111.html",
       "image_title": "Rote Handelskurve, die nach unten zeigt"
-    },
-    {
-      "title": "Home Assistant: Interview über Erfolg, KI-Code und das nächste Feature",
-      "teaser": "Franck Nijhof leitet die Home-Assistant-Entwicklung bei der Open Home Foundation. Im Interview erzählt er, welche Neuerungen Nutzer 2025 noch erwarten.",
-      "url": "https://www.heise.de/hintergrund/Home-Assistant-Interview-ueber-Erfolg-KI-Code-und-das-naechste-Feature-10623378.html"
-    },
-    {
-      "title": "Zahlungsdienstleister kompromittiert: Durchsuchungen auf drei Kontinenten",
-      "teaser": "Durchsucht wurden unter anderem Objekte in Kanada, Singapur – und Deutschland. Die Betrüger sollen einen dreistelligen Millionenschaden verursacht haben.",
-      "url": "https://www.heise.de/news/Kreditkartenbetrug-Durchsuchungen-auf-drei-Kontinenten-11057117.html",
-      "image_title": "Person hält ihre Bankkarte bereit, vermutlich für eine Finanztransaktion"
-    },
-    {
-      "title": "Coden mit KI verändert die Teamarbeit und den agilen Prozess",
-      "teaser": "Developer-Teams ändern ihre Strukturen und Arbeitsweisen durch den Einsatz von KI. Sie müssen sich neu aufstellen, meint Facundo Giuliani.",
-      "url": "https://www.heise.de/news/Coden-mit-KI-veraendert-die-Teamarbeit-und-den-agilen-Prozess-11056350.html",
-      "image_title": "Business,Project,Team,Working,Together,At,Meeting,Room,At,Office.horizontal.blurred"
-    },
-    {
-      "title": "Supermond: Größter Vollmond des Jahres am späten Abend",
-      "teaser": "Der Mond ist am Mittwochabend der Erde besonders nah. Wann ist der Höhepunkt? Und wie wird das Wetter für den Supermond?",
-      "url": "https://www.heise.de/news/Supermond-Groesster-Vollmond-des-Jahres-am-spaeten-Abend-11057071.html",
-      "image_title": "Supermond"
     },
     {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
@@ -301,6 +302,29 @@
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
     },
     {
+      "title": "Home Assistant: Interview über Erfolg, KI-Code und das nächste Feature",
+      "teaser": "Franck Nijhof leitet die Home-Assistant-Entwicklung bei der Open Home Foundation. Im Interview erzählt er, welche Neuerungen Nutzer 2025 noch erwarten.",
+      "url": "https://www.heise.de/hintergrund/Home-Assistant-Interview-ueber-Erfolg-KI-Code-und-das-naechste-Feature-10623378.html"
+    },
+    {
+      "title": "Zahlungsdienstleister kompromittiert: Durchsuchungen auf drei Kontinenten",
+      "teaser": "Durchsucht wurden unter anderem Objekte in Kanada, Singapur – und Deutschland. Die Betrüger sollen einen dreistelligen Millionenschaden verursacht haben.",
+      "url": "https://www.heise.de/news/Kreditkartenbetrug-Durchsuchungen-auf-drei-Kontinenten-11057117.html",
+      "image_title": "Person hält ihre Bankkarte bereit, vermutlich für eine Finanztransaktion"
+    },
+    {
+      "title": "Coden mit KI verändert die Teamarbeit und den agilen Prozess",
+      "teaser": "Developer-Teams ändern ihre Strukturen und Arbeitsweisen durch den Einsatz von KI. Sie müssen sich neu aufstellen, meint Facundo Giuliani.",
+      "url": "https://www.heise.de/news/Coden-mit-KI-veraendert-die-Teamarbeit-und-den-agilen-Prozess-11056350.html",
+      "image_title": "Business,Project,Team,Working,Together,At,Meeting,Room,At,Office.horizontal.blurred"
+    },
+    {
+      "title": "Supermond: Größter Vollmond des Jahres am späten Abend",
+      "teaser": "Der Mond ist am Mittwochabend der Erde besonders nah. Wann ist der Höhepunkt? Und wie wird das Wetter für den Supermond?",
+      "url": "https://www.heise.de/news/Supermond-Groesster-Vollmond-des-Jahres-am-spaeten-Abend-11057071.html",
+      "image_title": "Supermond"
+    },
+    {
       "title": "Grafana Mimir 3.0: Zeitreihendatenbank jetzt mit neuer Query-Engine",
       "teaser": "Das Grafana-Tool Mimir bringt die neue Mimir Query Engine mit, die als schnellere Alternative zur PromQL Engine von Prometheus dienen soll.",
       "url": "https://www.heise.de/news/Grafana-Mimir-3-0-Zeitreihendatenbank-jetzt-mit-neuer-Query-Engine-11055426.html",
@@ -355,6 +379,11 @@
       "image_title": "2 Hände in Handschellen"
     },
     {
+      "title": "KI ohne Hype: Business GPT in der Praxis",
+      "teaser": "Welchen Mehrwert schafft künstliche Intelligenz in Unternehmen? In einem Webcast sprechen wir darüber, was von der KI-Euphorie übriggeblieben ist – und betrachten ganz nüchtern die KI-Möglichkeiten von Firmen und Behörden.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ki-ohne-hype-business-gpt-in-der-praxis-4977//?source=hbsad-ersatz"
+    },
+    {
       "title": "Analyse: Wie die Dominanz von Big-Tech und der KI-Hype die Wirtschaft bedrohen",
       "teaser": "US-Konzerne wie Google und Amazon kontrollieren weltweit Märkte und Datenflüsse. KI verschafft ihnen nun ein neues Machtinstrument. Droht der Crash?",
       "url": "https://www.heise.de/ratgeber/Analyse-Wie-die-Dominanz-von-Big-Tech-und-der-KI-Hype-die-Wirtschaft-bedrohen-10508666.html"
@@ -376,11 +405,6 @@
       "teaser": "Die KI-Übersetzungsfunktion kommt im Dezember auf unterstützte iPhones und Apple-Hörer. Als Grund für die Verzögerung nennt Apple den Digital Markets Act.",
       "url": "https://www.heise.de/news/AirPods-Pro-und-AirPods-4-Live-Uebersetzung-kommt-nach-Europa-11055015.html",
       "image_title": "Ein Mann und eine Frau unterhalten sich beim Kamffee, der Mann trägt AIrPods Pro im Ohr"
-    },
-    {
-      "title": "ChromeOS - das Betriebssystem für eine neue Ära",
-      "teaser": "Googles Betriebssystem punktet gleich mehrfach: höhere Sicherheit, geringerer Stromverbrauch im Betrieb - und außerdem lassen sich so Neuanschaffungen vermeiden und Geräte länger nutzen. Informieren Sie sich über die Vorzüge des Betriebssystems in unserem Themenspecial!",
-      "url": "https://it-kenner.heise.de/das-betriebssystem-fuer-eine-neue-aera/"
     },
     {
       "title": "WhatsApp für die Apple Watch ist da",
@@ -416,28 +440,6 @@
       "teaser": "Der Foldable-Markt in Westeuropa entwickelt sich von einem Duell zu einem Vierkampf. Hersteller wie Motorola und Google gewinnen Marktanteile hinzu.",
       "url": "https://www.heise.de/news/Foldable-Markt-in-Westeuropa-Neue-Konkurrenz-fuer-Samsung-11056615.html",
       "image_title": "Ein Mann hält einen Finger auf einen faltbaren Bildschirm eines Smartphones oder Tablets."
-    },
-    {
-      "title": "Das dreifache Lottchen: Apples große TV-Ambitionen | Mac & i-Podcast",
-      "teaser": "Einen Apple-Fernseher gab es nie, ins Wohnzimmer will der Konzern trotzdem. In Episode 108 widmen wir uns Apple TV – Streaming-Dienst, App und Settop-Box.",
-      "url": "https://www.heise.de/news/Das-dreifache-Lottchen-Apples-grosse-TV-Ambitionen-Mac-i-Podcast-11056629.html",
-      "image_title": "Das dreifache Lottchen: Apples große TV-Ambitionen"
-    },
-    {
-      "title": "TrueNAS 25.10 mit NVMe-oF-Unterstützung, schneller API und neuem OpenZFS",
-      "teaser": "iXsystems hat TrueNAS 25.10 \"Goldeye\" vorgestellt, das mit NVMe-oF an superschnelle Storage-Systeme angebunden werden kann. Dazu kommen weitere neue Funktionen.",
-      "url": "https://www.heise.de/news/TrueNAS-25-10-mit-NVMe-oF-Unterstuetzung-schneller-API-und-neuem-OpenZFS-11056587.html"
-    },
-    {
-      "title": "Chip-Lithografie mit Röntgenstrahlung will ASML und TSMC herausfordern",
-      "teaser": "Peter Thiel finanziert ein Startup, das Halbleiter in den USA billiger fertigen will als TSMC – dank Strahlung aus dem Beschleuniger.",
-      "url": "https://www.heise.de/news/Chip-Lithografie-mit-Roentgenstrahlung-will-ASML-und-TSMC-herausfordern-11053963.html",
-      "image_title": "Chipstrukturen auf Silizium-Wafer"
-    },
-    {
-      "title": "Test: Atoto Carwave CB6B – Youtube ohne Handy, Android Auto & Carplay Wireless",
-      "teaser": "Vom Dongle zum Entertainment-Center: Der Carwave-Adapter von Atoto kombiniert Carplay, Android Auto und ein vollwertiges Android-System im Auto.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/test-atoto-carwave-cb6b-youtube-ohne-handy-android-auto-und-carplay-wireless/bw744fr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "UpdateiOS 26.1 & Co: Apple aktualisiert die Liquid-Glass-Systeme",
@@ -607,19 +609,20 @@
       "url": "https://www.heise.de/en/news/Monitoring-Software-IBM-Tivoli-Monitoring-and-Nagios-XI-are-vulnerable-10970167.html"
     },
     {
-      "title": "XXL-Tablet mit Android: Samsung Galaxy Tab S11 Ultra im Test",
-      "teaser": "Samsungs Ultra-Tablet ist wohl das größte Android-Tablet auf dem Markt. Das riesige Display macht was her und die Software hilft dabei, die Fläche auszunutzen.",
-      "url": "https://www.heise.de/tests/XXL-Tablet-mit-Android-Samsung-Galaxy-Tab-S11-Ultra-im-Test-10639111.html"
-    },
-    {
-      "title": "Auracast für Kopfhörer- und Hörgeräteträger im Test",
-      "teaser": "Auracast verspricht Inklusion für Hörgeräteträger, die sich einfach in Streams für Kopfhörer und Lautsprecher einklinken sollen. Wir haben das ausprobiert.",
-      "url": "https://www.heise.de/tests/Auracast-fuer-Kopfhoerer-und-Hoergeraetetraeger-im-Test-10712388.html"
-    },
-    {
       "title": "MacBook Pro 14\" mit rasantem M5 gegen die x86- und ARM-Konkurrenten",
       "teaser": "Schon an die Performance von Apples M4 kommt kein anderer Mobilprozessor heran, doch der M5 im neuen MacBook Pro 14\" legt die Messlatte nochmals höher.",
       "url": "https://www.heise.de/tests/MacBook-Pro-14-mit-rasantem-M5-gegen-die-x86-und-ARM-Konkurrenten-10794988.html"
+    },
+    {
+      "title": "OutboundIndie-Game bricht Wunschlisten-Rekorde und veröffentlicht neue Beta",
+      "teaser": "Das Indie-Game Outbound bricht schon jetzt Rekorde und steht bei einer Million Menschen auf der Steam-Wunschliste.",
+      "url": "https://www.heise.de/news/Outbound-Indie-Game-bricht-Wunschlisten-Rekorde-und-veroeffentlicht-neue-Beta-10992825.html",
+      "image_title": "Ein Camper-Van fährt durch die Landschaft in Outbound."
+    },
+    {
+      "title": "XXL-Tablet mit Android: Samsung Galaxy Tab S11 Ultra im Test",
+      "teaser": "Samsungs Ultra-Tablet ist wohl das größte Android-Tablet auf dem Markt. Das riesige Display macht was her und die Software hilft dabei, die Fläche auszunutzen.",
+      "url": "https://www.heise.de/tests/XXL-Tablet-mit-Android-Samsung-Galaxy-Tab-S11-Ultra-im-Test-10639111.html"
     },
     {
       "title": "FAQiOS 26 und iPadOS 26: So lösen Sie Probleme",
@@ -739,22 +742,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Agrivoltaik: Die doppelte Revolution – Strom ernten, Leben säen",
-      "teaser": "Zwei Systeme, ein Boden, ein Ziel. Schafe im Schatten, Pflanzen im Gleichgewicht. Ist das der Anfang einer neuen Landwirtschaft?",
-      "url": "https://www.heise.de/tp/features/Agrivoltaik-Die-doppelte-Revolution-Strom-ernten-Leben-saeen-11045743.html",
-      "image_title": "KI-generierte Illustration zeigt hügelige Landschaft mit Reihen von Solarpaneelen, unter denen weiße Schafe auf grünem Gras weiden, während daneben in ordentlichen Reihen Gemüse wächst ."
+      "title": "Verbrenner-Debatte: Deutschlands industriepolitischer Irrweg",
+      "teaser": "Kanzler Merz fordert ein Ende des Verbrenner-Aus ab 2035. Doch die Zeit für Kehrtwenden könnte längst abgelaufen sein. Eine Analyse.",
+      "url": "https://www.heise.de/tp/features/Verbrenner-Debatte-Deutschlands-industriepolitischer-Irrweg-11047978.html",
+      "image_title": "Zündkerze auf EU-Flagge"
     },
     {
-      "title": "Steinzeitliche Werkzeuge enthüllen überraschende Route der ersten Amerikaner",
-      "teaser": "Forscher haben Belege für eine Küstenroute nach Asien gefunden. Die Besiedlung erfolgte demnach nicht über eine Landbrücke, sondern per Seeweg.",
-      "url": "https://www.heise.de/tp/features/Steinzeitliche-Werkzeuge-enthuellen-ueberraschende-Route-der-ersten-Amerikaner-10930172.html",
-      "image_title": "Steinwerkzeuge"
+      "title": "Wie 1945: Atomtests sind zurück – haben wir nichts gelernt?",
+      "teaser": "Trump ordnet sofortige Atomwaffentests an. UN-Experten warnen: Das Risiko eines Atomwaffeneinsatzes ist so hoch wie seit dem Kalten Krieg nicht mehr.",
+      "url": "https://www.heise.de/tp/features/Wie-1945-Atomtests-sind-zurueck-haben-wir-nichts-gelernt-10966948.html",
+      "image_title": "Atombombe an der Kette, an die eine Beißzange angreift"
     },
     {
-      "title": "Chinas neuer Fünfjahresplan setzt auf wirtschaftliche Sicherheit und Innovation",
-      "teaser": "Erstmals seit 1978 bricht Peking mit seiner Wachstumsstrategie. Elektroautos fallen aus der Liste strategischer Branchen.",
-      "url": "https://www.heise.de/tp/features/Chinas-neuer-Fuenfjahresplan-setzt-auf-wirtschaftliche-Sicherheit-und-Innovation-10965977.html",
-      "image_title": "Menschen sitzen in einem großen Beratungsraum, der architektonische Züge eines Parlaments aufweist."
+      "title": "Fairwork-Report 2025: Arbeitsstandards bei Lieferdiensten verschlechtern sich deutlich",
+      "teaser": "Moderne Tagelöhnerei per App: Wie Lieferdienste mit einem simplen Trick den Mindestlohn aushebeln und Fahrer zu Selbstständigen machen.",
+      "url": "https://www.heise.de/tp/features/Fairwork-Report-2025-Arbeitsstandards-bei-Lieferdiensten-verschlechtern-sich-deutlich-10965468.html",
+      "image_title": "Radkuriere fahren Paragraphenzeichen entlang"
     },
     {
       "title": "KI-Agenten: Wollen wir wirklich die Kontrolle abgeben?",
