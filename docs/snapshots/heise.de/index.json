@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-06T04:16:31",
+  "timestamp": "2025-11-06T05:11:01",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Microsoft: \"Souveräne Datenverarbeitung\" für M365-Copilot kommt 2026",
+      "url": "https://www.heise.de/news/Microsoft-Souveraene-Datenverarbeitung-fuer-M365-Copilot-kommt-2026-11067149.html"
+    },
     {
       "title": "Office-Alternative aus Deutschland von Ionos und Nextcloud ist jetzt verfügbar",
       "url": "https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html"
@@ -60,10 +64,6 @@
     {
       "title": "Gnome wirft X11-Backend endgültig raus",
       "url": "https://www.heise.de/news/X11-in-Gnome-ist-Geschichte-Backend-entfernt-11066916.html"
-    },
-    {
-      "title": "Gezielt trainieren: Suunto Race 2 im Test",
-      "url": "https://www.heise.de/tests/Gezielt-trainieren-Suunto-Race-2-im-Test-10781721.html"
     },
     {
       "title": "ArbeitsspeicherRAM-Preise schießen hoch",
@@ -184,21 +184,27 @@
       "image_title": "Yuxian,,Zhangjiakou,,China,-,March,8th,2025,-,Aerial,Photography"
     },
     {
+      "title": "Microsoft: \"Souveräne Datenverarbeitung\" für M365-Copilot kommt 2026",
+      "teaser": "Bis Ende nächsten Jahres sollen auch Cloud-Kunden in Deutschland die Option bekommen, dass ihre Copilot-Daten die Landesgrenze nicht überschreiten.",
+      "url": "https://www.heise.de/news/Microsoft-Souveraene-Datenverarbeitung-fuer-M365-Copilot-kommt-2026-11067149.html",
+      "image_title": "Microsoft Copilot app icon is seen among other Microsoft 365 apps on an iPhone."
+    },
+    {
       "title": "Office-Alternative aus Deutschland von Ionos und Nextcloud ist jetzt verfügbar",
       "teaser": "Mit \"Ionos Nextcloud Workspace\" gibt es jetzt eine deutsche Konkurrenz zu Microsoft 365. Der Verzicht auf US-Clouds soll die digitale Souveränität stärken.",
       "url": "https://www.heise.de/news/Office-Alternative-aus-Deutschland-von-Ionos-und-Nextcloud-ist-jetzt-verfuegbar-11067303.html",
       "image_title": "Präsentation von Nextcloud Workspace auf Bühne mit 2 Personen"
     },
     {
+      "title": "Das europäische Cloud-Paradoxon überwinden",
+      "teaser": "Deutsche Unternehmen wünschen sich europäische Cloud-Lösungen, nutzen aber Hyperscaler aus Nicht-EU-Staaten, weil sie Funktionseinbußen befürchten. Doch es gibt souveräne Alternativen aus Europa.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7101019094&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Digitaler Omnibus: EU-Kommission will Datengesetze zusammenfassen",
       "teaser": "Aus gleich vier Datengesetzen soll eines werden - und die Cookie-Problematik adressiert werden.",
       "url": "https://www.heise.de/news/Digitaler-Omnibus-EU-Kommission-will-Datengesetze-zusammenfassen-11067269.html",
       "image_title": "Hand malt mit Kreide Tastatur, deren Kabel in einem Vorhängeschloss endet"
-    },
-    {
-      "title": "Kein Ärger mehr bei der Softwarebeschaffung",
-      "teaser": "Was früher eine einfache Sache war, ist heute wegen Datenschutz, Sicherheit und Compliance ein komplexer Prüfprozess. Mit einer Wissensplattform wird die Softwarebeschaffung aber wieder effizienter.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7123442838&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "FT: Deutsche Bank sucht Ausweg aus dem Risiko der KI-Finanzierung",
@@ -228,12 +234,6 @@
       "teaser": "Capgemini, PwC & Co. sollen helfen, die Probleme beim Digitalfunk des Heeres in den Griff zu bekommen. Es geht um Aufträge in Höhe von knapp 160 Millionen Euro.",
       "url": "https://www.heise.de/news/Digitalfunk-Desaster-der-Bundeswehr-Millionen-fuer-Berater-sollen-es-richten-11067079.html",
       "image_title": "Schulter eines Soldaten der Bundeswehr im gefleckten Tarnanzug mit Schulterklappe und Deutschlandflagge auf dem Oberarm."
-    },
-    {
-      "title": "Anschluss an Stromnetze: Halbleiter statt Kupfer im Solid State Transformer",
-      "teaser": "Um Rechenzentren oder Stromtankstellen ans Netz zu koppeln, ersetzen Solid State Transformer (SST) zunehmend klassische Transformatoren.",
-      "url": "https://www.heise.de/news/Anschluss-an-Stromnetze-Halbleiter-statt-Kupfer-im-Solid-State-Transformer-11067013.html",
-      "image_title": "Transformatoren und Umspannwerk"
     },
     {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
@@ -299,6 +299,12 @@
       "title": "1 Jahr heise+ mit 50 % Rabatt",
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 1 Jahr mit 50 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Anschluss an Stromnetze: Halbleiter statt Kupfer im Solid State Transformer",
+      "teaser": "Um Rechenzentren oder Stromtankstellen ans Netz zu koppeln, ersetzen Solid State Transformer (SST) zunehmend klassische Transformatoren.",
+      "url": "https://www.heise.de/news/Anschluss-an-Stromnetze-Halbleiter-statt-Kupfer-im-Solid-State-Transformer-11067013.html",
+      "image_title": "Transformatoren und Umspannwerk"
     },
     {
       "title": "Gezielt trainieren: Suunto Race 2 im Test",
@@ -370,15 +376,15 @@
       "image_title": "iOS 26 auf dem iPhone"
     },
     {
+      "title": "KI-Einführung: Die 3 größten Hürden und wie man sie überwindet",
+      "teaser": "Der Einsatz von KI ist für die Wettbewerbsfähigkeit von Unternehmen entscheidend. Wie man die richtigen Investitionsentscheidungen trifft, um das volle Potenzial der KI-Nutzung auszuschöpfen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/ki-einfuehrung-die-3-groessten-huerden-und-wie-man-sie-ueberwindet/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Netzwerkanalyse und Fehlersuche mit Wireshark",
       "teaser": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
       "url": "https://www.heise.de/news/iX-Workshop-Netzwerkanalyse-und-Fehlersuche-mit-Wireshark-10915822.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Warum eine moderne Firewall KI \"sprechen\" sollte",
-      "teaser": "Künstliche Intelligenz verändert Geschäftsprozesse in rasantem Tempo – gleichzeitig nützen Kriminelle dies für ihre eigenen Zwecke. Erfahren Sie hier, wie smarte AI Firewalls helfen, neue Bedrohungen abzuwehren.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/ai-firewall-so-sichern-sie-ihr-unternehmen-vor-den-risiken-von-genai-llms-4976/?source=nat_teas"
     },
     {
       "title": "FAQ: Windows-10-Ende aus Hardware-Sicht",
@@ -430,11 +436,6 @@
       "teaser": "Ein Fehler im Akku kann Pluginhybrid-Jeeps in Flammen aufgehen lassen. Eine Lösung für das Problem hat Chrysler bisher nicht.",
       "url": "https://www.heise.de/news/320-000-Jeeps-wegen-Feuergefahr-zurueckgerufen-11066317.html",
       "image_title": "Jeep Wrangler 4xe"
-    },
-    {
-      "title": "software-architektur.tv: Teamwork – Müssen wir darüber sprechen?",
-      "teaser": "In dieser Episode gehen Aino Vonge Corry und Lisa Maria Schäfer der Frage nach, ob man heute überhaupt noch über Teamwork diskutieren muss.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Teamwork-Muessen-wir-darueber-sprechen-10986000.html"
     },
     {
       "title": "Budget-Modell soll MacBooks erschwinglicher machen",
