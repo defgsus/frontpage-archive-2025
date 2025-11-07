@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07T10:12:16",
+  "timestamp": "2025-11-07T11:09:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,40 @@
   ],
   "articles": [
     {
+      "title": "Kooperation mit heise academy: HsH-Kurs zu IT-Sicherheit in Produktionsanlagen",
+      "teaser": "OT-Security, Risikoanalyse und Schutzmaßnahmen: Der HsH-Kurs zeigt, wie Produktionsanlagen gegen Cyberangriffe und gesetzliche Vorgaben abgesichert werden.",
+      "url": "https://www.heise.de/news/Kooperation-mit-heise-academy-HsH-Kurs-zu-IT-Sicherheit-in-Produktionsanlagen-10471588.html"
+    },
+    {
+      "title": "Umami v3: Google-Analytics-Alternative mit neuen Tracking-Features",
+      "teaser": "Die Open-Source-Webanalyse Umami v3 bietet eine neue Oberfläche, Kohortenanalyse und Pixel-Tracking. Die MySQL-Unterstützung wurde jedoch entfernt.",
+      "url": "https://www.heise.de/news/Umami-v3-Google-Analytics-Alternative-mit-neuen-Tracking-Features-11069179.html",
+      "image_title": "Umami Dashboard"
+    },
+    {
+      "title": "Europäischer SFS-Award 2025 geht an VLC-Entwickler Jean-Baptiste Kempf",
+      "teaser": "Die Free Software Foundation Europe hat den diesjährigen europäischen SFS-Award dem VLC-Entwickler Jean-Baptiste Kempf verliehen.",
+      "url": "https://www.heise.de/news/Europaeischer-SFS-Award-2025-geht-an-VLC-Entwickler-Jean-Baptiste-Kempf-11069050.html",
+      "image_title": "Jean-Baptiste Kempf"
+    },
+    {
       "title": "KI Navigator #14: Muss KI gläsern sein? Zwischen Regulierung und Realität",
       "teaser": "Bei der Regulierung von KI ist wie in der Physik der Blick auf das Gesamtsystem sinnvoller als die Detailanalyse, meinen Benjamin Linnik und Alex Meistrenko.",
       "url": "https://www.heise.de/hintergrund/KI-Navigator-14-Muss-KI-glaesern-sein-Zwischen-Regulierung-und-Realitaet-11067941.html",
       "image_title": "Kompass im Sternenhimmel"
+    },
+    {
+      "title": "TestsNvidias Workstation-Grafikkarte RTX 2000 Ada mit 16 GByte im Test",
+      "url": "https://www.heise.de/tests/Nvidias-Workstation-Grafikkarte-RTX-2000-Ada-mit-16-GByte-im-Test-10777971.html"
+    },
+    {
+      "title": "RatgeberEffiziente Teams-Arbeit: So holen Sie mehr aus dem Microsoft-Werkzeug raus",
+      "url": "https://www.heise.de/ratgeber/Effiziente-Teams-Arbeit-So-holen-Sie-mehr-aus-dem-Microsoft-Werkzeug-raus-10751681.html",
+      "image_title": "Nutzer von Microsoft Teams"
+    },
+    {
+      "title": "TestsMacBook Pro 14\" mit rasantem M5 gegen die x86- und ARM-Konkurrenten",
+      "url": "https://www.heise.de/tests/MacBook-Pro-14-mit-rasantem-M5-gegen-die-x86-und-ARM-Konkurrenten-10794988.html"
     },
     {
       "title": "Vodafone und AST SpaceMobile bauen Satelliten-Betriebszentrum in Deutschland",
@@ -48,19 +78,6 @@
       "teaser": "Großbritanniens Stromnetz droht zum Flaschenhals für den digitalen Ausbau. Tech-Konzerne überfluten Netzbetreiber mit spekulativen Rechenzentren-Anträgen.",
       "url": "https://www.heise.de/news/Rechenzentren-Boom-Grossbritannien-steht-vor-Stromanschluss-Problemen-11069191.html",
       "image_title": "Strommasten vor Sonnenuntergang"
-    },
-    {
-      "title": "TestsNvidias Workstation-Grafikkarte RTX 2000 Ada mit 16 GByte im Test",
-      "url": "https://www.heise.de/tests/Nvidias-Workstation-Grafikkarte-RTX-2000-Ada-mit-16-GByte-im-Test-10777971.html"
-    },
-    {
-      "title": "RatgeberEffiziente Teams-Arbeit: So holen Sie mehr aus dem Microsoft-Werkzeug raus",
-      "url": "https://www.heise.de/ratgeber/Effiziente-Teams-Arbeit-So-holen-Sie-mehr-aus-dem-Microsoft-Werkzeug-raus-10751681.html",
-      "image_title": "Nutzer von Microsoft Teams"
-    },
-    {
-      "title": "TestsMacBook Pro 14\" mit rasantem M5 gegen die x86- und ARM-Konkurrenten",
-      "url": "https://www.heise.de/tests/MacBook-Pro-14-mit-rasantem-M5-gegen-die-x86-und-ARM-Konkurrenten-10794988.html"
     },
     {
       "title": "AWS startet Planungstool für regionale Service-Verfügbarkeit",
@@ -129,24 +146,6 @@
       "title": "Smart Home von Ikea: 21 neue Matter-Geräte kommen in die Regale",
       "teaser": "Ikea hat ein neues Sortiment an Lampen, Sensoren, Fernbedienungen und Steckern mit dem Smart-Home-Standard Matter angekündigt.",
       "url": "https://www.heise.de/news/Smart-Home-von-Ikea-21-neue-Matter-Geraete-kommen-in-die-Regale-11068364.html"
-    },
-    {
-      "title": "KI in der App-Security: Chancen und Risiken",
-      "teaser": "KI prägt die App-Security – zwischen Angreifern und Verteidigern. Der German OWASP Day beleuchtet Chancen und Risiken des Hypes.",
-      "url": "https://www.heise.de/news/KI-in-der-App-Security-Chancen-und-Risiken-11067777.html",
-      "image_title": "Fadenkreuz, roter Hintergrund, Overlay mit Sprechblasen"
-    },
-    {
-      "title": "Machtwort: Yukihiro \"Matz\" Matsumoto beendet Streit in der Ruby-Community",
-      "teaser": "In der Ruby-Community kehrt Ruhe ein, nachdem sie ein heftiger Machtstreit um Open-Source erschüttert hat.",
-      "url": "https://www.heise.de/news/Machtwort-Yukihiro-Matz-Matsumoto-beendet-Streit-in-der-Ruby-Community-11067871.html",
-      "image_title": "Bahnübergang mit Schranke und roter Ampel"
-    },
-    {
-      "title": "Google soll auf Weihnachtsinsel KI-Rechenzentrum für US-Militär errichten",
-      "teaser": "Sollte es in Südostasien zu einem regionalen Konflikt kommen, will das US-Militär mit IT-Infrastruktur vorbereitet sein. Dabei soll nun Google helfen.",
-      "url": "https://www.heise.de/news/Google-soll-auf-Weihnachtsinsel-KI-Rechenzentrum-fuer-US-Militaer-errichten-11068232.html",
-      "image_title": "Eine Karte mit dem Standort der Weihnachtsinsel"
     },
     {
       "title": "NewsKassenärzte warnen: Zehntausende Praxen müssen wohl bald zurück zum Papierrezept",
