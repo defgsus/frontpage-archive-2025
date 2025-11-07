@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-07T04:13:17",
+  "timestamp": "2025-11-07T05:10:57",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Vorsicht Kunde: Strafen im Bahnverkehr",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Strafen-im-Bahnverkehr-11067893.html"
+    },
     {
       "title": "Große Mehrheit der Tesla-Aktionäre billigt Elon Musks Milliarden-Vergütungspaket",
       "url": "https://www.heise.de/news/Grosse-Mehrheit-der-Tesla-Aktionaere-billigt-Elon-Musks-Milliarden-Verguetungspaket-11068929.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/tests/Bildaufhuebscher-Elgato-Facecam-4K-im-Test-10782162.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Schweizer Regierung rudert zurück: E-Gesundheitsdossier statt E-Patientendossier",
-      "url": "https://www.heise.de/news/Schweizer-Regierung-rudert-zurueck-E-Gesundheitsdossier-statt-E-Patientendossier-11068528.html"
     },
     {
       "title": "Smart Home von Ikea21 neue Matter-Geräte kommen in die Regale",
@@ -186,21 +186,27 @@
       "image_title": "Sternenhimmel, in der Mitte ein heller Fleck"
     },
     {
+      "title": "Vorsicht Kunde: Strafen im Bahnverkehr",
+      "teaser": "Das Bahnticket in der App ist praktisch. Doch fällt die App bei einer Kontrolle aus, droht eine Strafe. Wir erklären die Rechtslage und geben Tipps.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Strafen-im-Bahnverkehr-11067893.html",
+      "image_title": "Germany,-,April,2023:,Mobile,App,For,49,Euro,Ticket,"
+    },
+    {
       "title": "Große Mehrheit der Tesla-Aktionäre billigt Elon Musks Milliarden-Vergütungspaket",
       "teaser": "Mehr als 75 Prozent der Tesla-Anteilseigner befürworten das umstrittene und historische Aktienpaket für Elon Musk. Es könnte rund eine Billion Dollar wert sein.",
       "url": "https://www.heise.de/news/Grosse-Mehrheit-der-Tesla-Aktionaere-billigt-Elon-Musks-Milliarden-Verguetungspaket-11068929.html",
       "image_title": "Elon Musk im Anzug mit Fliege"
     },
     {
+      "title": "NIS-2-Vorgaben meistern – und trotzdem produktiv bleiben",
+      "teaser": "Durch die NIS-2-Vorgaben müssen Unternehmen streng Sicherheitsstandards einhalten. Aber diese bieten ihnen auch die Chance, die eigene Resilienz zu stärken. Bestimmte Tools können dabei helfen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7109463335&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "US-Strafprozess gegen Boeing platzt",
       "teaser": "Boeing hat Behörden in die Irre geführt. Probleme führten zu 346 Toten. Die US-Regierung erwirkt dennoch die Einstellung des Strafprozesses.",
       "url": "https://www.heise.de/news/US-Strafprozess-gegen-Boeing-platzt-11068897.html",
       "image_title": "Flugzeugrumpf mit Aufschrift \"Boeing\""
-    },
-    {
-      "title": "Kein Ärger mehr bei der Softwarebeschaffung",
-      "teaser": "Was früher eine einfache Sache war, ist heute wegen Datenschutz, Sicherheit und Compliance ein komplexer Prüfprozess. Mit einer Wissensplattform wird die Softwarebeschaffung aber wieder effizienter.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7123442838&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Vodafone verlässt öffentliche Internetknoten",
@@ -231,12 +237,6 @@
       "teaser": "Gefährliche Spielzeuge, gefälschte Kosmetik und verbotene Produkte: Frankreich nimmt 200.000 Shein-Pakete am Flughafen auseinander. Was dahinter steckt.",
       "url": "https://www.heise.de/news/Frankreich-kontrolliert-200-000-Shein-Pakete-am-Flughafen-11068739.html",
       "image_title": "Hände, die ein Päckchen öffnen"
-    },
-    {
-      "title": "Bildaufhübscher: Elgato Facecam 4K im Test",
-      "teaser": "Mit Wechselfiltern und hoher Bildqualität will Elgatos Facecam 4K Streamer überzeugen. Wie schlägt sie sich gegenüber der Konkurrenz?",
-      "url": "https://www.heise.de/tests/Bildaufhuebscher-Elgato-Facecam-4K-im-Test-10782162.html",
-      "image_title": "Facecam 4K von Elgato"
     },
     {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
@@ -308,6 +308,12 @@
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
     },
     {
+      "title": "Bildaufhübscher: Elgato Facecam 4K im Test",
+      "teaser": "Mit Wechselfiltern und hoher Bildqualität will Elgatos Facecam 4K Streamer überzeugen. Wie schlägt sie sich gegenüber der Konkurrenz?",
+      "url": "https://www.heise.de/tests/Bildaufhuebscher-Elgato-Facecam-4K-im-Test-10782162.html",
+      "image_title": "Facecam 4K von Elgato"
+    },
+    {
       "title": "Schweizer Regierung rudert zurück: E-Gesundheitsdossier statt E-Patientendossier",
       "teaser": "Die Schweizer Regierung plant, das elektronische Patientendossier zum elektronischen Gesundheitsdossier umzubauen. Mit einigen erheblichen Veränderungen.",
       "url": "https://www.heise.de/news/Schweizer-Regierung-rudert-zurueck-E-Gesundheitsdossier-statt-E-Patientendossier-11068528.html",
@@ -377,15 +383,15 @@
       "image_title": "Ladekurve"
     },
     {
+      "title": "KI sei Dank – dynamische und automatische Cybersicherheit",
+      "teaser": "Sind Ihre Teams so produktiv, wie sie sein könnten? In einem Webcast können Sie erfahren, wie KI-gestützte Collaboration-Technologien die hybride Zusammenarbeit verbessern, Ablenkungen minimieren und den Arbeitsalltag erleichtern",
+      "url": "https://business-services.heise.de/software/workflow-collaboration/beitrag/produktive-meetings-starke-teams-mit-smarten-collaboration-loesungen-mehr-erreichen-4957/?source=hbsad_ersatz"
+    },
+    {
       "title": "KI: Kein Job bleibt wie bisher – Dauerlernen wird zur Norm",
       "teaser": "Die schlechten Nachrichten über umfangreiche Stellenstreichungen durch KI häufen sich. Die Anbieter verweisen dabei stets auf neue Jobs, die durch KI entstehen.",
       "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-Jobkiller-und-Jobmaschine-zugleich-11067921.html",
       "image_title": "Business-Team arbeitet mit künstlicher Intelligenz am Computer. Eher eine abstrakte Darstellung."
-    },
-    {
-      "title": "KI-Leistung maximieren: Warum die Wahl der CPU entscheidend ist",
-      "teaser": "KI-Systeme müssen möglichst effizient betrieben werden, um den Energiebedarf im Griff zu behalten. Welche Rolle die CPU des Host-Systems für die Gesamtperformance spielt.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-leistung-maximieren-warum-die-wahl-der-cpu-entscheidend-ist/?source=hbsadersatz"
     },
     {
       "title": "Microsoft: Millionen-Rückzahlungen in Australien wegen teurer Office-Abos mit KI",
@@ -439,12 +445,6 @@
       "teaser": "Identity and Access Management ist essenziell für Sicherheit und Abläufe. Unternehmen können mit einer Identity Fabric einen ganzheitlichen Ansatz verfolgen.",
       "url": "https://www.heise.de/hintergrund/Die-Identity-Fabric-Identity-und-Access-Management-ganzheitlich-gedacht-10752353.html",
       "image_title": ","
-    },
-    {
-      "title": "dstask 1.0: Git-basierter Task-Manager jetzt auch für Windows",
-      "teaser": "Der terminalbasierte Task-Manager dstask hat Version 1.0 erreicht. Die wichtigste Neuerung: Entwickler können das Tool nun auch unter Windows nutzen.",
-      "url": "https://www.heise.de/news/dstask-1-0-Git-basierter-Task-Manager-jetzt-auch-fuer-Windows-11067643.html",
-      "image_title": "Rolodex, aus dem die Karten wegfliegen, grüner Hintergrund"
     },
     {
       "title": "Arbeitsspeicher: RAM-Preise schießen hoch",
@@ -616,21 +616,21 @@
       "url": "https://www.heise.de/en/news/Have-I-Been-Pwned-Billions-of-New-Passwords-in-Collection-11067582.html"
     },
     {
-      "title": "Vertragsschluss bis JahresendeBayern will in die Microsoft-Cloud",
-      "teaser": "Bayern will seine Behörden mit M365 ausstatten. Kritiker rechnen mit enormen Kosten und warnen vor dem Verlust digitaler Souveränität.",
-      "url": "https://www.heise.de/news/Vertrag-soll-bis-Jahresende-stehen-Bayern-will-in-die-Microsoft-Cloud-11066618.html"
-    },
-    {
       "title": "Trotz Kritik aus der Wirtschaft: Kabinett beschließt höhere Ausweisgebühr",
       "teaser": "Die DIHK erhebt schwere Vorwürfe gegen die Bundesregierung: Mit der nun beschlossenen Anhebung der Ausweisgebühr verschaffe sie der Bundesdruckerei ein Monopol.",
       "url": "https://www.heise.de/news/Trotz-Kritik-aus-der-Wirtschaft-Kabinett-beschliesst-hoehere-Ausweisgebuehr-11066966.html",
       "image_title": "Personalsausweis-Dummy"
     },
     {
-      "title": "ArbeitsspeicherRAM-Preise schießen hoch",
-      "teaser": "Befürchtungen werden wahr: Auch in Europa steigen die Verkaufspreise für Speichermodule deutlich an. Besserung ist nicht in Sicht.",
-      "url": "https://www.heise.de/news/Arbeitsspeicher-RAM-Preise-schiessen-hoch-11066715.html",
-      "image_title": "DDR4-Speichermodule auf einem Desktop-PC-Mainboard"
+      "title": "Streit um Smart-Meter-Zahlen: Erfolgreicher Rollout oder Stillstand?",
+      "teaser": "Laut jüngsten Zahlen stockt die Installation von Smart Metern. Manche Experten vermuten dahinter ein Statistikproblem, doch es dürfte weitere Ursachen geben.",
+      "url": "https://www.heise.de/hintergrund/Streit-um-Smart-Meter-Zahlen-Erfolgreicher-Rollout-oder-Stillstand-10792934.html"
+    },
+    {
+      "title": "Fahrradmesse in der KriseBosch und der ZIV brechen mit der Eurobike",
+      "teaser": "Europas größte Fahrradmesse, die Eurobike in Frankfurt, steht nach der Absage von Bosch und dem ZIV vor einer ungewissen Zukunft.",
+      "url": "https://www.heise.de/news/Fahrradmesse-in-der-Krise-Bosch-und-der-ZIV-brechen-mit-der-Eurobike-11066287.html",
+      "image_title": "Blick auf die Eurobike-Messe"
     },
     {
       "title": "FAQiOS 26 und iPadOS 26: So lösen Sie Probleme",
@@ -645,10 +645,10 @@
       "image_title": "Facecam 4K von Elgato"
     },
     {
-      "title": "Gezielt trainieren: Suunto Race 2 im Test",
-      "teaser": "Suunto ergänzt bei seiner Sportuhr Race 2 ein Sprachfeedback und Trainingspläne. Wie gut ist die Fitness-Smartwatch?",
-      "url": "https://www.heise.de/tests/Gezielt-trainieren-Suunto-Race-2-im-Test-10781721.html",
-      "image_title": "Suunto Race 2"
+      "title": "FAQFragen und Antworten: Alles zu macOS 26 Tahoe",
+      "teaser": "Das Upgrade liefert nicht nur tolle Neuerungen, sondern sorgt auch für Unklarheiten und Probleme. 16 Hilfestellungen und Tipps zu Tahoe.",
+      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Alles-zu-macOS-26-Tahoe-10962027.html",
+      "image_title": "Ein Mac, auf dem Tahoe läuft"
     },
     {
       "title": "Upcycling: Verstärkte Ikea-Tragetasche zum Nachbauen",
@@ -751,21 +751,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-ryzen-dominiert/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Selbstspülendes Geschirr durch Lotuseffekt",
-      "teaser": "Erfindung soll Beitrag zum Umwelt- und Klimaschutz sein",
-      "url": "https://www.heise.de/-10582926"
+      "title": "Verbrenner-Debatte: Deutschlands industriepolitischer Irrweg",
+      "teaser": "Kanzler Merz fordert ein Ende des Verbrenner-Aus ab 2035. Doch die Zeit für Kehrtwenden könnte längst abgelaufen sein. Eine Analyse.",
+      "url": "https://www.heise.de/-11047978",
+      "image_title": "Zündkerze auf EU-Flagge"
     },
     {
-      "title": "Digitale Kontrolle: Warum die Chatkontrolle alle betrifft",
-      "teaser": "Software auf jedem Handy, die jede Nachricht mitliest – klingt nach Science-Fiction, ist aber ein konkretes EU-Projekt. Und es kommt wieder.",
-      "url": "https://www.heise.de/-11039587",
-      "image_title": "Zeiger zwischen Jugendschutzsignet mit Kinderkopf und Lupe über Sprechblasen"
+      "title": "Mamdani in New York: Wenn linke Politik plötzlich mehrheitsfähig wird",
+      "teaser": "Der neue New Yorker Bürgermeister verspricht kostenlosen ÖPNV und eingefrorene Mieten. Doch woher soll das Geld dafür kommen?",
+      "url": "https://www.heise.de/-11067529",
+      "image_title": "Zohran Mamdani nimmt an der Pride Parade zum Thema 'Rise Up: Pride in Protest' auf der 5th Avenue in New York am 29. Juni 2025."
     },
     {
-      "title": "3.000 Quadratmeter Segel: Frachtschiff Neoliner Origin schreibt Schifffahrtsgeschichte",
-      "teaser": "Der 136 Meter lange Frachter überquerte den Atlantik fast nur mit Windkraft. Eine Panne verzögerte die historische Jungfernfahrt.",
-      "url": "https://www.heise.de/-11066460",
-      "image_title": "Schiff mit drei Masten in einem ferundlichen Meer"
+      "title": "Atomkraft-Projekt Sizewell C: Finanzierung über 5 Milliarden Pfund steht",
+      "teaser": "Britisches Kernkraftwerk erreicht Financial Close. Erstmals finanzieren private Investoren ein Atomkraft-Projekt weltweit. Frankreichs Industrie profitiert.",
+      "url": "https://www.heise.de/-11067075",
+      "image_title": "Kernkraftwerk von Sizwell"
     },
     {
       "title": "Wie ein Selbstständiger mit KI-Automatisierung sein Unternehmen voranbringt",
