@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-08T07:08:45",
+  "timestamp": "2025-11-08T08:12:10",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-11066369.html"
+    },
     {
       "title": "Fritzbox als Medienserver nutzen: Videos auf Fernseher, Tablet und PC streamen",
       "url": "https://www.heise.de/ratgeber/Fritzbox-als-Medienserver-nutzen-Videos-auf-Fernseher-Tablet-und-PC-streamen-10622092.html",
@@ -64,10 +68,6 @@
     {
       "title": "Fahrbericht Hyundai Ioniq 6N: Erste Pistenrunde mit dem Taycan-Konkurrenten",
       "url": "https://www.heise.de/tests/Fahrbericht-Hyundai-Ioniq-6N-Erste-Pistenrunde-mit-dem-Taycan-Konkurrenten-11071105.html"
-    },
-    {
-      "title": "Apple-Brief: EU-Gesetze widersprechen sich und machen Plattformen unsicher",
-      "url": "https://www.heise.de/news/Apple-Brief-EU-Gesetze-widersprechen-sich-und-machen-Plattformen-unsicher-11071084.html"
     },
     {
       "title": "Kunden getäuschtVerbraucherschützer: 1N Telecom ignoriert Urteil des Bundesgerichtshofs",
@@ -186,19 +186,25 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Videospielverfilmungen-11069329.html"
     },
     {
+      "title": "Developer Snapshots: Kleinere News der Woche",
+      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Jupyter, Android-Entwicklung, Vitess, GitLab, GitHub, Databricks, OpenTofu, Hermit und Parasoft.",
+      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-11066369.html",
+      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
+    },
+    {
       "title": "Fritzbox als Medienserver nutzen: Videos auf Fernseher, Tablet und PC streamen",
       "teaser": "Die Fritzbox erlaubt es, Medien für jeden im Heimnetz zentral zur Verfügung zu stellen. So einfach lässt sich der Mediaserver einrichten und nutzen.",
       "url": "https://www.heise.de/ratgeber/Fritzbox-als-Medienserver-nutzen-Videos-auf-Fernseher-Tablet-und-PC-streamen-10622092.html"
     },
     {
+      "title": "Stets souverän: Die digitale Strategie des FC Bayern München",
+      "teaser": "Wenn der Ticket-Shop öffnet oder am Spieltag zehntausende Fans gleichzeitig auf die digitalen Angebote zugreifen, erleben die IT-Systeme beim FC Bayern Lastspitzen. Aufgefangen wird das durch eine Cloud-Lösung, die skalierbar ist und die volle Kontrolle über die eigenen Daten bietet.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7119168128&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Vergessen, verloren, geklaut: So helfen AirTags, GPS-Tracker & Co. | c’t uplink",
       "teaser": "Beim Wiederfinden von verlorenen Gegenständen oder entlaufenden Haustieren können GPS-Tracker und BLE-Tags helfen. Im Podcast diskutieren wir beide Bauarten.",
       "url": "https://www.heise.de/news/Vergessen-verloren-geklaut-So-helfen-AirTags-GPS-Tracker-Co-c-t-uplink-11068684.html"
-    },
-    {
-      "title": "Das europäische Cloud-Paradoxon überwinden",
-      "teaser": "Deutsche Unternehmen wünschen sich europäische Cloud-Lösungen, nutzen aber Hyperscaler aus Nicht-EU-Staaten, weil sie Funktionseinbußen befürchten. Doch es gibt souveräne Alternativen aus Europa.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7101019094&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Der beste höhenverstellbare Schreibtisch im Test",
@@ -227,12 +233,6 @@
       "teaser": "Fitnessgerätehersteller Peloton muss in den USA und Kanada einen Hometrainer zurückrufen. In mehreren Fällen war die Sattelstütze gebrochen.",
       "url": "https://www.heise.de/news/Peloton-ruft-833-000-Bike-Hometrainer-zurueck-11070992.html",
       "image_title": "Füße einer Person strampeln auf einem Peloton-Hometrainer."
-    },
-    {
-      "title": "Fahrbericht Hyundai Ioniq 6N: Erste Pistenrunde mit dem Taycan-Konkurrenten",
-      "teaser": "Hyundai zeigt mit dem Ioniq 6N eine bis in Antrieb und Fahrwerk seriös sportliche Version seiner E-Limousine mit vielversprechendem Preis-Leistungs-Verhältnis.",
-      "url": "https://www.heise.de/tests/Fahrbericht-Hyundai-Ioniq-6N-Erste-Pistenrunde-mit-dem-Taycan-Konkurrenten-11071105.html",
-      "image_title": "Hyundai Ioniq 6N"
     },
     {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
@@ -305,6 +305,12 @@
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
     },
     {
+      "title": "Fahrbericht Hyundai Ioniq 6N: Erste Pistenrunde mit dem Taycan-Konkurrenten",
+      "teaser": "Hyundai zeigt mit dem Ioniq 6N eine bis in Antrieb und Fahrwerk seriös sportliche Version seiner E-Limousine mit vielversprechendem Preis-Leistungs-Verhältnis.",
+      "url": "https://www.heise.de/tests/Fahrbericht-Hyundai-Ioniq-6N-Erste-Pistenrunde-mit-dem-Taycan-Konkurrenten-11071105.html",
+      "image_title": "Hyundai Ioniq 6N"
+    },
+    {
       "title": "Apple-Brief: EU-Gesetze widersprechen sich und machen Plattformen unsicher",
       "teaser": "Apple wirft der Europäischen Union vor, dass sich ihre Digitalgesetze gegenseitig in die Quere kommen und mobile Plattformen für Verbraucher unsicherer machen.",
       "url": "https://www.heise.de/news/Apple-Brief-EU-Gesetze-widersprechen-sich-und-machen-Plattformen-unsicher-11071084.html",
@@ -375,15 +381,15 @@
       "image_title": "Active Directory Hardening - Vom Audit zur sicheren Umgebung"
     },
     {
+      "title": "KI-Einführung: Die 3 größten Hürden und wie man sie überwindet",
+      "teaser": "Der Einsatz von KI ist für die Wettbewerbsfähigkeit von Unternehmen entscheidend. Wie man die richtigen Investitionsentscheidungen trifft, um das volle Potenzial der KI-Nutzung auszuschöpfen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/ki-einfuehrung-die-3-groessten-huerden-und-wie-man-sie-ueberwindet/?source=hbsadersatz"
+    },
+    {
       "title": "iOS: Alternative App-Marktplätze jetzt in 29 Ländern",
       "teaser": "Apple verliert in immer mehr Ländern sein App-Store-Monopol. Die Liste ist bald bei 30 Regionen angekommen.",
       "url": "https://www.heise.de/news/iOS-Alternative-App-Marktplaetze-jetzt-in-29-Laendern-11070639.html",
       "image_title": "Icons von App Store und Epic Games Store"
-    },
-    {
-      "title": "Rechenzentren modernisieren: Was führende Unternehmen besser machen",
-      "teaser": "Warum gelingt es manchen Unternehmen besser als anderen, die Chancen von KI zu nutzen? Welche Faktoren sind für den Erfolg entscheidend, welche Herausforderungen zu bewältigen? Antworten gibt dieses Whitepaper.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/rechenzentren-modernisieren-was-fuehrende-unternehmen-besser-machen/?source=hbsadersatz"
     },
     {
       "title": "Google veröffentlicht Magika 1.0 zur KI-gestützten Dateityp-Erkennung",
@@ -438,11 +444,6 @@
       "teaser": "Apple hat mit iOS 26.1, iPadOS 26.1 und macOS 26.1 eine neue Sicherheitsfunktion scharfgeschaltet. Das sind die Hintergründe.",
       "url": "https://www.heise.de/news/Background-Security-Improvements-Wenig-Klarheit-zu-Apples-neuartigen-Updates-11069474.html",
       "image_title": "Installation von iOS auf einem iPhone"
-    },
-    {
-      "title": "heise+ Update vom 7. November 2025: Lesetipps fürs Wochenende",
-      "teaser": "Der wöchentliche Newsletter von heise+ mit Organisations-Apps, lokaler KI-Bildbearbeitung, Anlegen in Sport, Home Assistant und dem Expertentalk.",
-      "url": "https://www.heise.de/news/heise-Update-vom-7-November-2025-Lesetipps-fuers-Wochenende-11069148.html"
     },
     {
       "title": "Smart Home von Ikea: 21 neue Matter-Geräte kommen in die Regale",
@@ -613,11 +614,6 @@
       "url": "https://www.heise.de/en/news/Bavaria-wants-to-move-to-Microsoft-cloud-by-year-end-11066929.html"
     },
     {
-      "title": "Vergessen, verloren, geklaut: So helfen AirTags, GPS-Tracker & Co. | c’t uplink",
-      "teaser": "Beim Wiederfinden von verlorenen Gegenständen oder entlaufenden Haustieren können GPS-Tracker und BLE-Tags helfen. Im Podcast diskutieren wir beide Bauarten.",
-      "url": "https://www.heise.de/news/Vergessen-verloren-geklaut-So-helfen-AirTags-GPS-Tracker-Co-c-t-uplink-11068684.html"
-    },
-    {
       "title": "Bahn kassiert Strafzahlung trotz gültigem Deutschlandticket",
       "teaser": "Kommt es bei der Kontrolle digitaler Tickets zu technischen Problemen, versucht die Bahn fast immer, ein erhöhtes Beförderungsentgelt durchzudrücken.",
       "url": "https://www.heise.de/ratgeber/Bahn-kassiert-Strafzahlung-trotz-gueltigem-Deutschlandticket-10466943.html"
@@ -626,6 +622,12 @@
       "title": "\"Das Schweigen der Lämmer\" im Heimkinotest4K-Dinner mit Hannibal Lecter",
       "teaser": "Jonathan Demmes Meisterwerk litt bisher unter Ton- und Bildproblemen. Hat die neue UHD diese endlich gelöst?",
       "url": "https://www.heise.de/tests/4K-Dinner-mit-Hannibal-Lecter-Das-Schweigen-der-Laemmer-im-Heimkinotest-10793453.html"
+    },
+    {
+      "title": "Vorsicht KundeDie Rechtslage bei Strafen im Bahnverkehr",
+      "teaser": "Das Bahnticket in der App ist praktisch. Doch fällt die App bei einer Kontrolle aus, droht eine Strafe. Wir erklären die Rechtslage.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Strafen-im-Bahnverkehr-11067893.html",
+      "image_title": "Germany,-,April,2023:,Mobile,App,For,49,Euro,Ticket,"
     },
     {
       "title": "FAQiOS 26 und iPadOS 26: So lösen Sie Probleme",
@@ -747,22 +749,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-vorne-intel-holt-auf/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "3.000 Quadratmeter Segel: Frachtschiff Neoliner Origin schreibt Schifffahrtsgeschichte",
-      "teaser": "Der 136 Meter lange Frachter überquerte den Atlantik fast nur mit Windkraft. Eine Panne verzögerte die historische Jungfernfahrt.",
-      "url": "https://www.heise.de/-11066460",
-      "image_title": "Schiff mit drei Masten in einem ferundlichen Meer"
-    },
-    {
-      "title": "Atomkraft-Projekt Sizewell C: Finanzierung über 5 Milliarden Pfund steht",
-      "teaser": "Britisches Kernkraftwerk erreicht Financial Close. Erstmals finanzieren private Investoren ein Atomkraft-Projekt weltweit. Frankreichs Industrie profitiert.",
-      "url": "https://www.heise.de/-11067075",
-      "image_title": "Kernkraftwerk von Sizwell"
+      "title": "Autonome Segelroboter vor dem militärischen Durchbruch",
+      "teaser": "Der US-Rüstungskonzern Lockheed Martin steckt 50 Millionen Dollar in den Hersteller Saildrone. Dessen Segeldrohnen sollen künftig Raketen tragen. Doch die Technologie hat Schwächen.",
+      "url": "https://www.heise.de/-10974611",
+      "image_title": "Ein zweigeteiltes Bild: Links die Segekdrohne mir Metallsegel, rechts eine Rakenabschussrampe"
     },
     {
       "title": "Venezuela unter US-Druck, Regierung bittet um militärische Hilfe",
       "teaser": "Russland liefert offenbar Waffen nach Caracas. Ein Frachtflugzeug mit bis zu 50 Tonnen Ladung ist eingetroffen.",
       "url": "https://www.heise.de/-11066331",
       "image_title": "Trainings- und Schießmanöver von Rekruten der Reserve und Milizen."
+    },
+    {
+      "title": "Mamdani in New York: Wenn linke Politik plötzlich mehrheitsfähig wird",
+      "teaser": "Der neue New Yorker Bürgermeister verspricht kostenlosen ÖPNV und eingefrorene Mieten. Doch woher soll das Geld dafür kommen?",
+      "url": "https://www.heise.de/-11067529",
+      "image_title": "Zohran Mamdani nimmt an der Pride Parade zum Thema 'Rise Up: Pride in Protest' auf der 5th Avenue in New York am 29. Juni 2025."
     },
     {
       "title": "Vom Trend zum Wort des Jahres: Was ihr zu Vibe-Coding wissen müsst",
@@ -780,9 +782,9 @@
       "url": "https://t3n.de/news/immich-fotos-open-source-1715511/"
     },
     {
-      "title": "VPN-Test 2025: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2025 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "Alternative ID im Test: Mit Surfshark inkognito im Netz",
+      "teaser": "Mit \"Alternative ID\" und \"Alternative Number\" lassen sich anonyme Online-Identitäten erstellen – inklusive funktionierender Mail-Adresse und Telefonnummer.",
+      "url": "https://www.heise.de/download/specials/Alternative-ID-im-Test-Mit-Surfshark-inkognito-im-Netz-10626112"
     },
     {
       "title": "Desinfec't",
