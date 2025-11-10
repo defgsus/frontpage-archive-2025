@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-10T07:11:46",
+  "timestamp": "2025-11-10T08:15:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,10 +26,9 @@
   ],
   "articles": [
     {
-      "title": "Have I Been PwnedMilliarden neuer Passwörter in Sammlung",
-      "teaser": "Aus Infostealer-Datensätzen konnte Have-I-Been-Pwned-Betreiber Troy Hunt 1,3 Milliarden einzigartige Passwörter extrahieren.",
-      "url": "https://www.heise.de/news/Have-I-Been-Pwned-Milliarden-neuer-Passwoerter-in-Sammlung-11067453.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+      "title": "CyberangriffStadtverwaltung Ludwigshafen nicht erreichbar",
+      "teaser": "Ludwigshafen hat die IT-Systeme offline genommen und ist nicht mehr erreichbar. Hinweise auf einen Cyberangriff verdichten sich.",
+      "url": "https://www.heise.de/news/Cyberangriff-Stadtverwaltung-Ludwigshafen-nicht-erreichbar-11071798.html"
     },
     {
       "title": "Am Mittwoch - jetzt buchen!Der heise security Crashkurs zum Schutz vor Cybercrime",
@@ -37,30 +36,31 @@
       "url": "https://www.heise.de/news/Am-Mittwoch-Der-heise-security-Crashkurs-zum-Schutz-vor-Cybercrime-11051324.html"
     },
     {
-      "title": "AlertGroupware Zimbra: Updates stopfen mehrere Sicherheitslücken",
-      "url": "https://www.heise.de/news/Groupware-Zimbra-Updates-stopfen-mehrere-Sicherheitsluecken-11069504.html",
-      "image_title": "Email,Marketing,Concept,,Company,Sending,Many,E-mails,Or,Digital,Newsletter"
+      "title": "AlertQnap dichtet einen Schwung Pwn2Own-2025-Sicherheitslücken ab",
+      "url": "https://www.heise.de/news/Qnap-dichtet-einen-Schwung-Pwn2Own-2025-Sicherheitsluecken-ab-11071830.html",
+      "image_title": "Server-Hardware"
     },
     {
-      "title": "Webinar am 12. NovemberDie Bedrohung durch Cybercrime – und wie man sich davor schützt",
+      "title": "Die Bedrohung durch Cybercrime – und wie man sich davor schützt",
       "url": "https://heise-academy.de/webinare/cybercrime_2025?wt_mc=intern.academy.security.web_cybercrime.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Webinar am 26. NovemberEinführung in das Opensource-SIEM Wazuh",
+      "title": "Einführung in das Opensource-SIEM Wazuh",
       "url": "https://heise-academy.de/webinare/wazuh?wt_mc=intern.academy.security.web_wazuh.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Webinar am 10. DezemberNIS-2 kommt – Rechtskonforme IT-Sicherheit umsetzen",
+      "title": "NIS-2 kommt – Rechtskonforme IT-Sicherheit umsetzen",
       "url": "https://heise-academy.de/webinare/nis2-umsetzungsgesetz?wt_mc=intern.academy.security.web_nis2.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Jetzt Blind-Bird Tickets sichern!heise security Tour 2026",
+      "title": "heise security Tour 2026",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
-      "title": "Cyberangriff: Stadtverwaltung Ludwigshafen nicht erreichbar",
-      "teaser": "Ludwigshafen hat die IT-Systeme offline genommen und ist nicht mehr erreichbar. Hinweise auf einen Cyberangriff verdichten sich.",
-      "url": "https://www.heise.de/news/Cyberangriff-Stadtverwaltung-Ludwigshafen-nicht-erreichbar-11071798.html"
+      "title": "AlertQnap dichtet einen Schwung Pwn2Own-2025-Sicherheitslücken ab",
+      "teaser": "Die NAS-Systeme von Qnap waren Ziel einiger Angriffe bei der diesjährigen Pwn2Own-Veranstaltung. Updates schließen die gefundenen Lücken.",
+      "url": "https://www.heise.de/news/Qnap-dichtet-einen-Schwung-Pwn2Own-2025-Sicherheitsluecken-ab-11071830.html",
+      "image_title": "Server-Hardware"
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -111,6 +111,12 @@
       "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
     },
     {
+      "title": "Have I Been Pwned: Milliarden neuer Passwörter in Sammlung",
+      "teaser": "Aus Infostealer-Datensätzen konnte Have-I-Been-Pwned-Betreiber Troy Hunt 1,3 Milliarden einzigartige Passwörter extrahieren.",
+      "url": "https://www.heise.de/news/Have-I-Been-Pwned-Milliarden-neuer-Passwoerter-in-Sammlung-11067453.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
       "title": "AlertCisco: Teils kritische Sicherheitslücken in mehreren Produkten",
       "teaser": "Cisco hat Sicherheitsmitteilungen zu Lücken in mehreren Produkten veröffentlicht. Admins sollten die Updates zügig anwenden.",
       "url": "https://www.heise.de/news/Cisco-Teils-kritische-Sicherheitsluecken-in-mehreren-Produkten-11067359.html",
@@ -147,28 +153,22 @@
       "image_title": "Aufmacherbild Security Podcast"
     },
     {
-      "title": "AlertWordPress-Plug-in AI Engine: Angreifer könnten Rechte ausweiten",
-      "teaser": "Im WordPress-Plug-in AI Engine können Angreifer unter Umständen eine Lücke missbrauchen und Webseiten kompromittieren.",
-      "url": "https://www.heise.de/news/WordPress-Plug-in-AI-Engine-Angreifer-koennten-Rechte-ausweiten-11059620.html",
-      "image_title": "Lupe auf der Website Wordpress.com"
-    },
-    {
-      "title": "Workshop | 17.11.2025Recht für Admins – Rechtssicherer IT-Betrieb",
-      "teaser": "Im Workshop erfahren Sie praxisnah, welche rechtlichen Pflichten und Rechte für IT-Verantwortliche gelten und wie Sie diese im Alltag umsetzen.",
-      "url": "https://heise-academy.de/Workshops/rechtadmins?wt_mc=intern.academy.ix.ws_rechtadmins.security_buehne_2.teaser.teaser"
-    },
-    {
-      "title": "Konferenz | 18.11.2025IT-Sicherheitstag in Gelsenkirchen",
+      "title": "IT-Sicherheitstag in Gelsenkirchen",
       "teaser": "Resilienz steigern: So bereiten Unternehmen sich wirksam auf digitale Bedrohungen vor und stellen sich widerstandsfähiger auf.",
       "url": "https://it-sicherheitstage.de/gelsenkirchen/?wt_mc=intern.academy.academy.konf_it-si_gelsenkirchen.heisec_de.teaser.teaser"
     },
     {
-      "title": "Workshop | 21.01. – 22.01.2026IT-Sicherheitsstrategien für kleine und mittlere Unternehmen",
+      "title": "Cyber Deception: Angreifer mit Honeypots gezielt in die Falle locken",
+      "teaser": "Im Workshop lernen Administratoren, wie sie mit Täuschungstechniken und Honeypots Angreifer wirksam ausbremsen.",
+      "url": "https://heise-academy.de/Workshops/cyberdeception?wt_mc=intern.academy.ix.ws_cyberdeception.security_buehne_2.teaser.teaser"
+    },
+    {
+      "title": "IT-Sicherheitsstrategien für kleine und mittlere Unternehmen",
       "teaser": "Der Workshop zeigt, wie sich KMU mit überschaubarem Aufwand wirksam absichern können.",
       "url": "https://heise-academy.de/Workshops/it-sicherheit-fuer-kmu/?wt_mc=intern.conf.ct.ws_kmu-sicherheit.heisec_de.teaser.teaser"
     },
     {
-      "title": "Kongressmesse | 18. – 19.03.2026secIT by heise",
+      "title": "secIT by heise",
       "teaser": "Kongressmesse für IT-Sicherheitsbeauftragte, Rechenzentrumsleiter, Netzwerkadministratoren und Entscheider in Sicherheitsfragen. Jetzt kostenfrei anmelden!",
       "url": "https://secit-heise.de/?wt_mc=intern.sales.events.konf_secit.security.link.link"
     },
