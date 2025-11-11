@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-11T09:12:08",
+  "timestamp": "2025-11-11T10:12:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "Firefox 145 bringt PDF-Kommentare und verbesserten Fingerprinting-Schutz",
+      "teaser": "Der neue Firefox 145 bietet PDF-Kommentarfunktionen, Text-Highlighting-Links und einen verbesserten Fingerprinting-Schutz. Für 32-Bit-Linux endet der Support.",
+      "url": "https://www.heise.de/news/Firefox-145-bringt-PDF-Kommentare-und-verbesserten-Fingerprinting-Schutz-11073174.html",
+      "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
+    },
+    {
+      "title": "PDF-Standard soll JPEG XL als bevorzugtes Bildformat erhalten",
+      "teaser": "Die PDF Association will JPEG XL in die PDF-Spezifikation aufnehmen. Das könnte dem von Google 2022 für obsolet erklärten Bildformat neuen Schwung geben.",
+      "url": "https://www.heise.de/news/PDF-Association-will-JPEG-XL-unterstuetzen-zweite-Chance-fuer-das-Format-11073342.html",
+      "image_title": "Dokumente mit Comic-Symbolen, blauer Hintergrund"
+    },
+    {
       "title": "Software Testing: Mensch vs. Maschine – wer urteilt fairer?",
       "teaser": "In dieser Episode des Podcasts sprechen Richard Seidl und Sam Goetjes über Vertrauen in KI-Ergebnisse.",
       "url": "https://www.heise.de/blog/Software-Testing-Mensch-vs-Maschine-wer-urteilt-fairer-11073300.html",
@@ -36,17 +48,6 @@
       "teaser": "Werden Sie zum Certified Professional for Software Architecture (CPSA). Online Intensiv-Schulung mit anschließender iSAQB-Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-Der-schnelle-Weg-zum-zertifizierten-Softwarearchitekten-CPSA-F-11072676.html",
       "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
-    },
-    {
-      "title": "Tipp: Sonneneinfall per iPhone-App bestimmen",
-      "teaser": "Mit einer Augmented-Reality-App lässt sich anschaulich sehen, wie viel Sonne zu erwarten ist, etwa für eine Photovoltaikanlage – und ob Bäume im Weg im sind.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Sonneneinfall-per-iPhone-App-bestimmen-6550193.html"
-    },
-    {
-      "title": "AlertSicherheitslücke in Dell Display and Peripheral Manager gefährdet PCs",
-      "teaser": "Ein Sicherheitspatch beugt mögliche Attacken auf Windows-PCs mit Dell Display and Peripheral Manager vor.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Dell-Display-and-Peripheral-Manager-gefaehrdet-PCs-11073226.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "Ratgeber16 Fritzbox-Tipps: So setzen Sie den Router richtig an Mac, iPhone & Co. ein",
@@ -61,6 +62,23 @@
     {
       "title": "TestsKI-Browser Opera Neon im Test: Agenten im Abo",
       "url": "https://www.heise.de/tests/Opera-Neon-ausprobiert-was-kann-der-agentische-Browser-10973645.html"
+    },
+    {
+      "title": "GEMA vs. OpenAI: Niederlage für ChatGPT vor Münchner Gericht",
+      "teaser": "Das Landgericht München hat gegen OpenAI entschieden. Geklagt hatte die GEMA – es geht um Liedtexte von Helene Fischer und mehr.",
+      "url": "https://www.heise.de/news/GEMA-vs-OpenAI-Niederlage-fuer-ChatGPT-vor-Muenchner-Gericht-11073532.html",
+      "image_title": "Hölzerner Richterhammer, dahinter unscharf eine Statue der Justizia"
+    },
+    {
+      "title": "Tipp: Sonneneinfall per iPhone-App bestimmen",
+      "teaser": "Mit einer Augmented-Reality-App lässt sich anschaulich sehen, wie viel Sonne zu erwarten ist, etwa für eine Photovoltaikanlage – und ob Bäume im Weg im sind.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Sonneneinfall-per-iPhone-App-bestimmen-6550193.html"
+    },
+    {
+      "title": "AlertSicherheitslücke in Dell Display and Peripheral Manager gefährdet PCs",
+      "teaser": "Ein Sicherheitspatch beugt mögliche Attacken auf Windows-PCs mit Dell Display and Peripheral Manager vor.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Dell-Display-and-Peripheral-Manager-gefaehrdet-PCs-11073226.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "AlertSynology schließt kritische Pwn2Own-Sicherheitslücke",
@@ -131,24 +149,6 @@
       "teaser": "Der plattformübergreifende SSH-Client erhält umfangreiche Terminal-Anpassungen, SSH-Snippets und erweiterte Server-Überwachung.",
       "url": "https://www.heise.de/news/Termix-1-8-0-SSH-Client-mit-komplett-ueberarbeitetem-Server-Monitoring-11072277.html",
       "image_title": "Termix-Schriftzug vor Terminal-Dashboard"
-    },
-    {
-      "title": "Himmelblau: Linux-Entra-ID-Authentifizierung integrieren",
-      "teaser": "Mit Linux als Client und Azure Entra ID treffen zwei Welten aufeinander, die sich nur mit Aufwand verbinden lassen. Himmelblau kann hier einiges vereinfachen.",
-      "url": "https://www.heise.de/ratgeber/Himmelblau-Linux-Entra-ID-Authentifizierung-integrieren-11067945.html",
-      "image_title": ","
-    },
-    {
-      "title": "AlertMonsta FTP: Kritische Lücke ermöglicht Angreifern Schadcode-Ausführung",
-      "teaser": "In Monsta FTP, einem Web-basierten FTP-Client, können Angreifer durch eine Schwachstelle Schadcode einschleusen und ausführen.",
-      "url": "https://www.heise.de/news/Monsta-FTP-Kritische-Luecke-ermoeglicht-Angreifern-Schadcode-Ausfuehrung-11072415.html",
-      "image_title": "Ausrufezeichen mit Warndreieck"
-    },
-    {
-      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
-      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
-      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-10966373.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "NewsWindows 11 26H1: Unterstützung für bestimmte Prozessoren",
