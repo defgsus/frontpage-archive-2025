@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-11T12:19:58",
+  "timestamp": "2025-11-11T13:24:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,42 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Netzwerkanalyse und Fehlersuche mit Wireshark",
+      "teaser": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
+      "url": "https://www.heise.de/news/iX-Workshop-Netzwerkanalyse-und-Fehlersuche-mit-Wireshark-10995833.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "AlertSAP-Patchday bringt 18 neue Sicherheitsmitteilungen",
+      "teaser": "SAP korrigiert Schwachstellen in mehrere Produkten und dokumentiert dies in 18 Sicherheitsmitteilungen zum November-Patchday.",
+      "url": "https://www.heise.de/news/SAP-Patchday-bringt-18-neue-Sicherheitsmitteilungen-11073912.html",
+      "image_title": "SAP-Logo neben \"Achtung\"-Schild"
+    },
+    {
       "title": "fish 4.2.0: Mehrzeilige Befehle und UTF-8 als Standard",
       "teaser": "Die Shell fish 4.2.0 bietet mehrzeilige Befehle in der Autovervollständigung und setzt UTF-8 als Standard voraus.",
       "url": "https://www.heise.de/news/fish-4-2-0-Mehrzeilige-Befehle-und-UTF-8-als-Standard-11073639.html",
       "image_title": "Schriftzug Open Source, lila Hintergrund"
+    },
+    {
+      "title": "SicherheitslückeUnsichtbarer Wurm in Visual Studio Extensions: GlassWorm lebt",
+      "teaser": "Weitere Instanzen der Schadsoftware, die Credentials und Kryptowährung abgreift, sind auf Open VSX aufgetaucht und wollen sich auf GitHub einnisten.",
+      "url": "https://www.heise.de/news/Schadsoftware-weiter-aktiv-GlassWorm-erneut-in-Open-VSX-Paketen-gefunden-11073146.html",
+      "image_title": "Fenster \"Attack Successful\""
+    },
+    {
+      "title": "Ratgeber16 Fritzbox-Tipps: So setzen Sie den Router richtig an Mac, iPhone & Co. ein",
+      "url": "https://www.heise.de/ratgeber/16-Fritzbox-Tipps-So-setzen-Sie-den-Router-richtig-an-Mac-iPhone-Co-ein-11018379.html",
+      "image_title": "Nutzer mit Fritzbox"
+    },
+    {
+      "title": "RatgeberBastel-Projekt: ZigBee-Gateway mit Raspberry Pi bauen",
+      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-ZigBee-Gateway-mit-Raspberry-Pi-bauen-10749597.html",
+      "image_title": ","
+    },
+    {
+      "title": "TestsKI-Browser Opera Neon im Test: Agenten im Abo",
+      "url": "https://www.heise.de/tests/Opera-Neon-ausprobiert-was-kann-der-agentische-Browser-10973645.html"
     },
     {
       "title": "heise security Webinar: NIS-2 rechtssicher im Unternehmen umsetzen",
@@ -48,26 +80,6 @@
       "teaser": "Die EU-Kommission plant laut einem Bericht, eine Empfehlung zum Verzicht auf chinesische Netzwerktechnik in eine rechtlich bindende Verpflichtung umzuwandeln.",
       "url": "https://www.heise.de/news/Bericht-EU-will-haertere-Massnahmen-gegen-Huawei-und-ZTE-11073661.html",
       "image_title": "Das Huawei-Logo an eine Wand projiziert; im Vordergrund Schattenrisse zweier Menschen"
-    },
-    {
-      "title": "Ratgeber16 Fritzbox-Tipps: So setzen Sie den Router richtig an Mac, iPhone & Co. ein",
-      "url": "https://www.heise.de/ratgeber/16-Fritzbox-Tipps-So-setzen-Sie-den-Router-richtig-an-Mac-iPhone-Co-ein-11018379.html",
-      "image_title": "Nutzer mit Fritzbox"
-    },
-    {
-      "title": "RatgeberBastel-Projekt: ZigBee-Gateway mit Raspberry Pi bauen",
-      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-ZigBee-Gateway-mit-Raspberry-Pi-bauen-10749597.html",
-      "image_title": ","
-    },
-    {
-      "title": "TestsKI-Browser Opera Neon im Test: Agenten im Abo",
-      "url": "https://www.heise.de/tests/Opera-Neon-ausprobiert-was-kann-der-agentische-Browser-10973645.html"
-    },
-    {
-      "title": "Schadsoftware weiter aktiv: GlassWorm erneut in Open-VSX-Paketen gefunden",
-      "teaser": "Weitere Instanzen der Schadsoftware, die Credentials und Kryptowährung abgreift, sind auf Open VSX aufgetaucht und wollen sich auf GitHub einnisten.",
-      "url": "https://www.heise.de/news/Schadsoftware-weiter-aktiv-GlassWorm-erneut-in-Open-VSX-Paketen-gefunden-11073146.html",
-      "image_title": "Fenster \"Attack Successful\""
     },
     {
       "title": "Speicherkrise: Flash-Speicher für 2026 ist schon fast ausverkauft",
@@ -138,18 +150,6 @@
       "title": "Held oder Märtyrer – Willkommen im Projektchaos",
       "teaser": "Oft scheitern IT-Projekte an unklaren Anforderungen und unrealistischen Deadlines. Strategien zur Rettung können entscheidende Verbesserungen bringen.",
       "url": "https://www.heise.de/hintergrund/Sanierungsfaelle-Erfolgreiche-Strategien-gegen-Projektchaos-11069022.html"
-    },
-    {
-      "title": "betterCode() .NET 10.0: Jetzt noch Tickets sichern",
-      "teaser": "Die neue Long-Term-Support-Version .NET 10.0 bringt einige neue Features. Am 18. November zeigen erfahrene .NET-Entwickler die Änderungen im Detail.",
-      "url": "https://www.heise.de/news/betterCode-NET-10-0-Jetzt-noch-Tickets-sichern-11072289.html",
-      "image_title": "betterCode() .NET 10.0, Online-Konferenz 18. November 2025"
-    },
-    {
-      "title": "Ab 12. November: Ryanair zwingt Passagiere auf den digitalen Weg",
-      "teaser": "Ryanair hat der ausgedruckten Bordkarte den Kampf angesagt. Passagiere sollen ihre Smartphones nutzen und auf die hauseigene App gezwungen werden.",
-      "url": "https://www.heise.de/news/Ab-12-November-Ryanair-zwingt-Passagiere-auf-den-digitalen-Weg-11073108.html",
-      "image_title": "Fluggäste besteigen ein Ryai Air Flugzeug"
     },
     {
       "title": "NewsWindows 11 26H1: Unterstützung für bestimmte Prozessoren",
