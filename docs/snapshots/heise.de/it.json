@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-12T14:11:41",
+  "timestamp": "2025-11-12T15:11:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,25 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Smarter Tischtennisschläger mit Arduino",
+      "teaser": "Ein 3D-gedruckter Tischtennisschläger nutzt einen Arduino, Bewegungssensoren und KI, um Schläge zu zählen und zu bewerten.",
+      "url": "https://www.heise.de/news/Smarter-Tischtennisschlaeger-mit-Arduino-11075890.html",
+      "image_title": "Man sieht einen Tischtennisschläger, in dessen Griff ein Display eingelassen ist."
+    },
+    {
+      "title": "Webmin 2.600 mit komplett überarbeitetem Interface erschienen",
+      "teaser": "Die Server-Management-Software Webmin ist jetzt in Version 2.600 verfügbar. Das Update bringt das größte UI-Redesign der Projektgeschichte.",
+      "url": "https://www.heise.de/news/Webmin-2-600-Groesstes-UI-Update-der-Server-Management-Software-11075882.html",
+      "image_title": "Webim Dashboard"
+    },
+    {
+      "title": "Warum objektive Schätzungen in der Softwareentwicklung nicht funktionieren",
+      "teaser": "Der geschätzte Aufwand eines Softwareprojekts bezieht sich meist auf das jeweilige Team. Aber Aufwand ist nicht objektiv und unabhängig vom Team schätzbar.",
+      "url": "https://www.heise.de/blog/Warum-objektive-Schaetzungen-in-der-Softwareentwicklung-nicht-funktionieren-11074323.html",
+      "image_title": "Taschenrechner"
+    },
+    {
       "title": "Ryzen 5 7500X3D: Bezahlbare Gaming-CPU mit besonders viel Cache im Test",
       "teaser": "AMD schickt einen neuen X3D-Prozessor mit sechs Kernen für unter 280 Euro ins Rennen. Doch lohnt er sich für Gamer im Vergleich zu noch günstigeren AM5-CPUs?",
       "url": "https://www.heise.de/tests/Ryzen-5-7500X3D-Bezahlbare-Gaming-CPU-mit-besonders-viel-Cache-im-Test-11074174.html"
-    },
-    {
-      "title": "Wie man einen Raspi als OpenWrt-Router für mehrere Netze konfiguriert",
-      "teaser": "Sie haben noch einen Raspi über? Nutzen Sie ihn doch als Router, um Ihr Netz aufzutrennen: Gäste, Kinder, IoT-Geräte und Büro erhalten so jeder ein Séparée.",
-      "url": "https://www.heise.de/ratgeber/Wie-man-einen-Raspi-als-OpenWrt-Router-fuer-mehrere-Netze-konfiguriert-10751111.html"
-    },
-    {
-      "title": "Avast und AVG: Kritische Sicherheitslücke stillschweigend behoben",
-      "teaser": "In den Virenscannern von Avast und AVG konnten Angreifer ihre Rechte im System ausweiten. Updates hat der Hersteller stillschweigend verteilt.",
-      "url": "https://www.heise.de/news/Avast-und-AVG-Kritische-Sicherheitsluecke-stillschweigend-behoben-11075740.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "Linux-Distribution Fedora 43 bringt neuen Installer für Spins und Wayland pur",
-      "teaser": "Die Linux-Distribution Fedora 43 rollt den neuen Web-Installer für offizielle Spins aus. Die Workstation-Variante läuft nur noch im Wayland-Modus.",
-      "url": "https://www.heise.de/tests/Linux-Distribution-Fedora-43-bringt-neuen-Installer-fuer-Spins-und-Wayland-pur-10969393.html"
     },
     {
       "title": "TestsRyzen 5 7500X3D: Bezahlbare Gaming-CPU mit besonders viel Cache im Test",
@@ -58,6 +60,17 @@
       "title": "HintergrundNeue Betrugsmaschen im Kryptohandel: Wie Sie sie erkennen und sich wehren",
       "url": "https://www.heise.de/hintergrund/Neue-Betrugsmaschen-im-Kryptohandel-Wie-Sie-sie-erkennen-und-sich-wehren-10918623.html",
       "image_title": "Bitcoin"
+    },
+    {
+      "title": "Avast und AVG: Kritische Sicherheitslücke stillschweigend behoben",
+      "teaser": "In den Virenscannern von Avast und AVG konnten Angreifer ihre Rechte im System ausweiten. Updates hat der Hersteller stillschweigend verteilt.",
+      "url": "https://www.heise.de/news/Avast-und-AVG-Kritische-Sicherheitsluecke-stillschweigend-behoben-11075740.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
+    },
+    {
+      "title": "Linux-Distribution Fedora 43 bringt neuen Installer für Spins und Wayland pur",
+      "teaser": "Die Linux-Distribution Fedora 43 rollt den neuen Web-Installer für offizielle Spins aus. Die Workstation-Variante läuft nur noch im Wayland-Modus.",
+      "url": "https://www.heise.de/tests/Linux-Distribution-Fedora-43-bringt-neuen-Installer-fuer-Spins-und-Wayland-pur-10969393.html"
     },
     {
       "title": "iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage",
@@ -135,17 +148,6 @@
       "teaser": "Mit Private AI Compute macht Google das große Datenschutzversprechen: Leistungsfähige Cloud-KI soll sich ohne Datenabfluss nutzen lassen.",
       "url": "https://www.heise.de/news/Google-Private-AI-Compute-soll-Cloud-KI-mit-Datenschutz-vereinen-11075038.html",
       "image_title": "Google Private AI Compute Schriftzug, Architektur-Infografik, dunkelblauer Hintergrund"
-    },
-    {
-      "title": "Australien: Geheimdienstchef warnt vor chinesischen Hackern",
-      "teaser": "Australiens Geheimdienst ASIO schlägt Alarm: Chinesische Hackergruppen attackieren Telekommunikations- und Kritische Infrastruktur des Landes.",
-      "url": "https://www.heise.de/news/Australien-Geheimdienstchef-warnt-vor-chinesischen-Hackern-11075137.html",
-      "image_title": "Planet,Earth,With,Detailed,Relief,Is,Covered,With,A,Complex"
-    },
-    {
-      "title": "Proaktive IT-Security mit Pentesting: Ethical Hacking für Admins",
-      "teaser": "In fünf Terminen lernen Admins und Security-Verantwortliche ab dem 3. Februar 2026, wie sie mit Ethical Hacking Systeme absichern und Schwachstellen aufdecken.",
-      "url": "https://www.heise.de/news/Proaktive-IT-Security-mit-Pentesting-Ethical-Hacking-fuer-Admins-11070849.html"
     },
     {
       "title": "NewsStudie: Auch Menschen können Objekte taktil ohne physische Berührung erspüren",
