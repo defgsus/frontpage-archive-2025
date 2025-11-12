@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-12T07:11:02",
+  "timestamp": "2025-11-12T08:15:19",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
+      "title": "AlertMicrosoft-PatchdayAttacken auf Windows-Kernel beobachtet",
+      "teaser": "Microsofts Entwickler haben Sicherheitslücken in unter anderem Azure, Office und Windows geschlossen. Es gibt bereits Attacken.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Attacken-auf-Windows-Kernel-beobachtet-11074858.html",
+      "image_title": "Windows-Logo mit Riss, hinter dem MAtrix-Code durchscheint"
+    },
+    {
+      "title": "programmier.bar: Embedded Development mit Jakob Czekansky",
+      "teaser": "Jakob Czekansky erläutert, wieso Embedded Systems wichtiger Teil unseres Alltags sind, wie sie entwickelt werden und wie sie die technologische Zukunft prägen.",
+      "url": "https://www.heise.de/blog/programmier-bar-Embedded-Development-mit-Jakob-Czekansky-11074291.html",
+      "image_title": "programmier.bar: Embedded Development"
+    },
+    {
+      "title": "Linux: KI-Richtlinien für Kernel-Entwickler in der Diskussion",
+      "teaser": "Der Linux-Erfinder will KI-Tools genauso behandeln wie andere Werkzeuge – und sieht auch beim Copyright von KI-Beiträgen keine Gründe für Sonderbehandlungen.",
+      "url": "https://www.heise.de/news/Linux-KI-Richtlinien-fuer-Kernel-Entwickler-in-der-Diskussion-11074886.html",
+      "image_title": "Die Buchstaben AI umfliegen Haken und Warndreiecke."
+    },
+    {
       "title": "Mac als lokales KI-System: So geht's",
       "teaser": "Wer Aufgaben an Chatbots wie ChatGPT & Co. delegiert, muss den Betreibern oft sensible Daten anvertrauen. Mit dem Open-Source-Projekt Ollama geht das lokal.",
       "url": "https://www.heise.de/ratgeber/Mac-als-lokales-KI-System-So-geht-s-11019113.html",
       "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10966385.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Windows 10 22H2: Update außer der Reihe – korrigiert ESU-Probleme",
-      "teaser": "Einige Windows-10-Nutzer erhalten ein Update-Angebot nach dem Support-Ende. Es korrigiert Probleme mit der Supportverlängerung.",
-      "url": "https://www.heise.de/news/Windows-10-22H2-Update-ausser-der-Reihe-korrigiert-ESU-Probleme-11074832.html"
-    },
-    {
-      "title": "Über 127.000 Bitcoin entwendetChina wirft US-Regierung Milliardendiebstahl vor",
-      "teaser": "Vor fünf Jahren wurden einer Kryptofirma über 127.000 Bitcoin gestohlen. Nun wirft China der US-Regierung vor, dahinterzustecken.",
-      "url": "https://www.heise.de/news/Ueber-127-000-Bitcoin-entwendet-China-wirft-US-Regierung-Milliardendiebstahl-vor-11074826.html",
-      "image_title": "Viele Bitcoin-Münzen"
     },
     {
       "title": "RatgeberMac als lokales KI-System: So geht's",
@@ -61,6 +62,23 @@
       "title": "Ratgeber16 Fritzbox-Tipps: So setzen Sie den Router richtig an Mac, iPhone & Co. ein",
       "url": "https://www.heise.de/ratgeber/16-Fritzbox-Tipps-So-setzen-Sie-den-Router-richtig-an-Mac-iPhone-Co-ein-11018379.html",
       "image_title": "Nutzer mit Fritzbox"
+    },
+    {
+      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
+      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10966385.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
+    },
+    {
+      "title": "Windows 10 22H2: Update außer der Reihe – korrigiert ESU-Probleme",
+      "teaser": "Einige Windows-10-Nutzer erhalten ein Update-Angebot nach dem Support-Ende. Es korrigiert Probleme mit der Supportverlängerung.",
+      "url": "https://www.heise.de/news/Windows-10-22H2-Update-ausser-der-Reihe-korrigiert-ESU-Probleme-11074832.html"
+    },
+    {
+      "title": "Über 127.000 Bitcoin entwendet: China wirft US-Regierung Milliardendiebstahl vor",
+      "teaser": "Vor fünf Jahren wurden einer Kryptofirma über 127.000 Bitcoin gestohlen, jetzt werden Details bekannt. Nun wirft China der US-Regierung vor, dahinterzustecken.",
+      "url": "https://www.heise.de/news/Ueber-127-000-Bitcoin-entwendet-China-wirft-US-Regierung-Milliardendiebstahl-vor-11074826.html",
+      "image_title": "Viele Bitcoin-Münzen"
     },
     {
       "title": "Microsoft investiert Milliarden in portugiesisches KI-Rechenzentrum",
@@ -132,24 +150,6 @@
       "teaser": "SAP korrigiert Schwachstellen in mehrere Produkten und dokumentiert dies in 18 Sicherheitsmitteilungen zum November-Patchday.",
       "url": "https://www.heise.de/news/SAP-Patchday-bringt-18-neue-Sicherheitsmitteilungen-11073912.html",
       "image_title": "SAP-Logo neben \"Achtung\"-Schild"
-    },
-    {
-      "title": "fish 4.2.0: Mehrzeilige Befehle und UTF-8 als Standard",
-      "teaser": "Die Shell fish 4.2.0 bietet mehrzeilige Befehle in der Autovervollständigung und setzt UTF-8 als Standard voraus.",
-      "url": "https://www.heise.de/news/fish-4-2-0-Mehrzeilige-Befehle-und-UTF-8-als-Standard-11073639.html",
-      "image_title": "Schriftzug Open Source, lila Hintergrund"
-    },
-    {
-      "title": "Unsichtbarer Wurm in Visual Studio Extensions: GlassWorm lebt",
-      "teaser": "Weitere Instanzen der Schadsoftware, die Credentials und Kryptowährung abgreift, sind auf Open VSX aufgetaucht und wollen sich auf GitHub einnisten.",
-      "url": "https://www.heise.de/news/Schadsoftware-weiter-aktiv-GlassWorm-erneut-in-Open-VSX-Paketen-gefunden-11073146.html",
-      "image_title": "Fenster \"Attack Successful\""
-    },
-    {
-      "title": "heise security Webinar: NIS-2 rechtssicher im Unternehmen umsetzen",
-      "teaser": "Unser Webinar erklärt, ob Ihr Unternehmen von NIS-2 betroffen ist, welche Pflichten da auf Sie zukommen und wie Sie das praktisch hinbekommen.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-NIS-2-rechtssicher-im-Unternehmen-umsetzen-11073382.html",
-      "image_title": "NIS-2"
     },
     {
       "title": "NewsStudie: Auch Menschen können Objekte taktil ohne physische Berührung erspüren",
