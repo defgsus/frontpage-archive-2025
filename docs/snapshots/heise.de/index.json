@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-12T03:38:56",
+  "timestamp": "2025-11-12T04:14:12",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Softbank verkauft Millionen Nvidia- und Telekom-Aktien für neue KI-Investitionen",
+      "url": "https://www.heise.de/news/Softbank-verkauft-Millionen-Nvidia-und-Telekom-Aktien-fuer-neue-KI-Investitionen-11074800.html"
+    },
     {
       "title": "Microsoft investiert Milliarden in portugiesisches KI-Rechenzentrum",
       "url": "https://www.heise.de/news/Microsoft-investiert-Milliarden-in-portugiesisches-KI-Rechenzentrum-11074762.html"
@@ -62,10 +66,6 @@
     {
       "title": "CNCF standardisiert KI-Infrastruktur mit neuem Kubernetes-Programm",
       "url": "https://www.heise.de/news/CNCF-standardisiert-KI-Infrastruktur-mit-neuem-Kubernetes-Programm-11074337.html"
-    },
-    {
-      "title": "GEMA-ChatGPT-Urteil: Das kann kein Zufall sein!",
-      "url": "https://www.heise.de/meinung/Analyse-Das-GEMA-Urteil-ruettelt-am-Selbstverstaendnis-der-KI-Branche-11074431.html"
     },
     {
       "title": "GEMA vs. ChatGPTKI-Urteil: Das kann kein Zufall sein!",
@@ -185,21 +185,27 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-screenbar-im-test-das-beste-licht-fuer-den-schreibtisch/1y3x1w6?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
     },
     {
+      "title": "Softbank verkauft Millionen Nvidia- und Telekom-Aktien für neue KI-Investitionen",
+      "teaser": "Aktienverkäufe in Milliardenhöhe befeuern Befürchtungen um ein Platzen der KI-Blase. Doch Softbank braucht wohl nur neue Finanzmittel für OpenAI und Ampere.",
+      "url": "https://www.heise.de/news/Softbank-verkauft-Millionen-Nvidia-und-Telekom-Aktien-fuer-neue-KI-Investitionen-11074800.html",
+      "image_title": "Softbank-Firmenschilder an einem Gebäude"
+    },
+    {
       "title": "Microsoft investiert Milliarden in portugiesisches KI-Rechenzentrum",
       "teaser": "90 Kilometer südlich Lissabons entsteht ein Campus für KI-Rechenanlagen. Microsoft steigt groß ein.",
       "url": "https://www.heise.de/news/Microsoft-investiert-Milliarden-in-portugiesisches-KI-Rechenzentrum-11074762.html",
       "image_title": "Schriftzug \"Microsoft\" an Gebäude"
     },
     {
+      "title": "NIS-2-Vorgaben meistern – und trotzdem produktiv bleiben",
+      "teaser": "Durch die NIS-2-Vorgaben müssen Unternehmen streng Sicherheitsstandards einhalten. Aber diese bieten ihnen auch die Chance, die eigene Resilienz zu stärken. Bestimmte Tools können dabei helfen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7109463335&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Wikimedia bittet KI-Firmen zur Kasse",
       "teaser": "Die Wikimedia-Stiftung möchte das Überleben der Wikipedia im KI-Zeitalter sichern. Die Profiteure sollen für Aufwand zahlen, den sie verursachen.",
       "url": "https://www.heise.de/news/Wikipedia-wird-kostenpflichtig-fuer-KI-Bots-11074749.html",
       "image_title": "Hintergrund: Ein wandfüllendes Bücherregal; Vordergrund: Eine Hand halt ein Smartphone, dessen Bildschirm die Wikipedia-Homepage zeigt"
-    },
-    {
-      "title": "Die natürlichste Art, mit KI zu interagieren",
-      "teaser": "Das laute Sprechen mit einer KI ist noch ungewohnt. Doch eine generative KI ist nur so gut wie die Qualität der Eingabe. Wer deshalb passende Endgeräte nutzt, sichert sich Produktivitätsvorteile.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7012492724&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Bundesregierung: IT-Sicherheit im Kanzleramt ist über-geheim",
@@ -231,11 +237,6 @@
       "image_title": "Mercedes GLB EQ 2026"
     },
     {
-      "title": "Digital Detox: Apple Watch statt iPhone nutzen",
-      "teaser": "Keine zeitfressenden Social-Media-Apps, aber alle wichtigen Features für unterwegs: So gelingt Digital Detox mit der Apple Watch.",
-      "url": "https://www.heise.de/ratgeber/Digital-Detox-Apple-Watch-statt-iPhone-nutzen-10671634.html"
-    },
-    {
       "title": "KaufberatungDas passende smarte Heizkörperthermostat",
       "teaser": "Vernetzte Stellregler erleichtern es, Heizkörper auf Wohlfühltemperatur zu regeln und Verschwendung zu vermeiden.",
       "url": "https://www.heise.de/tests/Kaufberatung-Welcher-Smart-Thermostat-der-richtige-fuer-Sie-ist-10751183.html"
@@ -252,13 +253,13 @@
       "url": "https://www.heise.de/ratgeber/Neun-VPN-Anbieter-in-der-Uebersicht-10637716.html"
     },
     {
-      "title": "Kassenärzte warnen: Zehntausende Praxen müssen wohl bald zurück zum Papierrezept",
-      "url": "https://www.heise.de/news/E-Rezept-bald-auf-Papier-Kassenaerzte-warnen-vor-fehlenden-Heilberufsausweisen-10979411.html",
-      "image_title": "Gestresste junge Frau vor dem Laptop mit Zettelwirtschaft."
+      "title": "Vodafone verlässt öffentliche Internetknoten",
+      "url": "https://www.heise.de/news/Vodafone-verlaesst-oeffentliche-Internetknoten-11068819.html",
+      "image_title": "Rote und blaue Ethernet-Kabel hängen an einem Rack"
     },
     {
-      "title": "Vodafone verlässt öffentliche Internetknoten",
-      "url": "https://www.heise.de/news/Vodafone-verlaesst-oeffentliche-Internetknoten-11068819.html"
+      "title": "Studie: Auch Menschen können Objekte taktil ohne physische Berührung erspüren",
+      "url": "https://www.heise.de/news/Studie-Auch-Menschen-koennen-ueber-Fernberuehrungsfaehigkeiten-verfuegen-11071820.html"
     },
     {
       "title": "China installiert Wind- und Solaranlagen in halsbrecherischem Tempo",
@@ -276,8 +277,8 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Ikea-Bilderrahmen zum E-Paper-Schaufenster für Smart-Home-Daten umbauen",
-      "url": "https://www.heise.de/ratgeber/Ikea-Bilderrahmen-zum-E-Paper-Schaufenster-fuer-Smart-Home-Daten-umbauen-10673394.html",
+      "title": "Home Assistant: Interview über Erfolg, KI-Code und das nächste Feature",
+      "url": "https://www.heise.de/hintergrund/Home-Assistant-Interview-ueber-Erfolg-KI-Code-und-das-naechste-Feature-10623378.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -304,6 +305,11 @@
       "title": "1 Jahr heise+ mit 50 % Rabatt",
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 1 Jahr mit 50 % Rabatt lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
+    },
+    {
+      "title": "Digital Detox: Apple Watch statt iPhone nutzen",
+      "teaser": "Keine zeitfressenden Social-Media-Apps, aber alle wichtigen Features für unterwegs: So gelingt Digital Detox mit der Apple Watch.",
+      "url": "https://www.heise.de/ratgeber/Digital-Detox-Apple-Watch-statt-iPhone-nutzen-10671634.html"
     },
     {
       "title": "CNCF standardisiert KI-Infrastruktur mit neuem Kubernetes-Programm",
@@ -375,15 +381,15 @@
       "image_title": "Hyundai Nexo"
     },
     {
+      "title": "Cybersicherheit dank KI: Weniger Risiko, mehr Reaktionsfähigkeit",
+      "teaser": "Wie können Unternehmen ihre Cybersicherheit strategisch verbessern? Einzelmaßnahmen reichen oft nicht aus. Erfahren Sie hier, wie ein 360-Grad-Ansatz mit einer KI-basierten Security-Plattform Unternehmen langfristig helfen könnte .",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/ganzheitliche-cybersicherheit-dank-ki-risiken-minimieren-reaktionsfaehigkeit-staerken-4969/?source=hbsad-ersatz"
+    },
+    {
       "title": "iX-Workshop: Netzwerkanalyse und Fehlersuche mit Wireshark",
       "teaser": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
       "url": "https://www.heise.de/news/iX-Workshop-Netzwerkanalyse-und-Fehlersuche-mit-Wireshark-10995833.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Gartner-Analyse: In drei Schritten zu erfolgreichen KI-Investitionen",
-      "teaser": "Welche Auswirkungen hat KI auf Produktivität, Wirtschaftlichkeit und Zukunftsfähigkeit von Unternehmen? Welche Rendite bringen Investitionen in KI-Systeme? Antworten liefert Gartner.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/gartner-analyse-in-drei-schritten-zu-erfolgreichen-ki-investitionen/?source=hbsadersatz"
     },
     {
       "title": "Zahlen, bitte! Jupitermond Europa: Spannender Kandidat auf der Suche nach Leben",
@@ -439,34 +445,28 @@
       "image_title": ","
     },
     {
-      "title": "Muse-Stift von Logitech wird in visionOS 26.2 zur Luftmaus",
-      "teaser": "Fingereingaben beherrscht die Vision Pro präzise. Wenn das nicht ausreicht, gibt es nun ein neues Eingabegerät von Logitech. Mit visionOS 26.2 wird es besser.",
-      "url": "https://www.heise.de/news/Muse-Stift-von-Logitech-wird-in-visionOS-26-2-zur-Luftmaus-11072880.html",
-      "image_title": "Muse mit Nutzerperson"
+      "title": "GEMA vs. OpenAI: Niederlage für ChatGPT vor Münchner Gericht",
+      "url": "https://www.heise.de/news/GEMA-vs-OpenAI-Niederlage-fuer-ChatGPT-vor-Muenchner-Gericht-11073532.html",
+      "image_title": "Hölzerner Richterhammer, dahinter unscharf eine Statue der Justizia"
     },
     {
-      "title": "Missing Link: Wie es bei Linux ohne Linus Torvalds weiterginge",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Wie-es-bei-Linux-ohne-Linus-Torvalds-weiterginge-10749319.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
+      "title": "Nach 15 Jahren: Facebook nimmt externe Like- und Kommentar-Buttons offline",
+      "url": "https://www.heise.de/news/Nach-15-Jahren-Facebook-nimmt-Like-und-Kommentar-Buttons-offline-11073094.html",
+      "image_title": "Daumen hoch"
     },
     {
-      "title": "Untersuchung: Elektrobusse in Großbritannien aus China abschaltbar?",
-      "url": "https://www.heise.de/news/Untersuchung-Elektrobusse-in-Grossbritannien-aus-China-abschaltbar-11072255.html",
-      "image_title": "Bus-Test in einem Bergwerk"
+      "title": "Speicherkrise: Flash-Speicher für 2026 ist schon fast ausverkauft",
+      "url": "https://www.heise.de/news/Speicherkrise-Flash-ist-knapp-wie-nie-11073558.html",
+      "image_title": "Macro,Shot,Of,Silicon,Wafer,During,Production,At,Advanced,Semiconductor"
     },
     {
-      "title": "Cyberangriff: Stadtverwaltung Ludwigshafen nicht erreichbar",
-      "url": "https://www.heise.de/news/Cyberangriff-Stadtverwaltung-Ludwigshafen-nicht-erreichbar-11071798.html"
+      "title": "Buchkritik: Warum niemand die Quantenphysik versteht",
+      "url": "https://www.heise.de/tests/Buchkritik-Warum-niemand-die-Quantenphysik-versteht-10748482.html"
     },
     {
-      "title": "Studie: Auch Menschen können Objekte taktil ohne physische Berührung erspüren",
-      "url": "https://www.heise.de/news/Studie-Auch-Menschen-koennen-ueber-Fernberuehrungsfaehigkeiten-verfuegen-11071820.html",
-      "image_title": "Finger"
-    },
-    {
-      "title": "Fast 300.000 km: Mit Abstand umfangreichste Karte der Römerstraßen online",
-      "url": "https://www.heise.de/news/Fast-300-000-km-Mit-Abstand-umfangreichste-Karte-der-Roemerstrassen-online-11069074.html",
-      "image_title": "Screenshot einer Satellitenaufnahme von Augsburg, darüber gelegt mehrere rote Linien an der Position antiker Römerstraßen"
+      "title": "ESA will Astronautennahrung aus Luft und Urin herstellen",
+      "url": "https://www.heise.de/news/ESA-will-Astronautennahrung-aus-Luft-und-Urin-herstellen-11072760.html",
+      "image_title": "Solein"
     },
     {
       "title": "Blue Origin verschiebt zweiten Start der New Glenn",
@@ -474,9 +474,14 @@
       "image_title": "New Glenn auf der Startrampe"
     },
     {
-      "title": "Android Auto: Gemini ersetzt den Google Assistant",
-      "url": "https://www.heise.de/news/Android-Auto-Gemini-ersetzt-den-Google-Assistant-11071858.html",
-      "image_title": "Android Auto App-Icon auf einem runden Bildschirm im Mini"
+      "title": "1&1 hat seine Handykunden im eigenen Netz – überwiegend mit Vodafone-Roaming",
+      "url": "https://www.heise.de/news/1-1-hat-seine-Handykunden-im-eigenen-Netz-ueberwiegend-mit-Vodafone-Roaming-11073132.html",
+      "image_title": "1&1-Logo auf Handy"
+    },
+    {
+      "title": "Ab 12. November: Ryanair zwingt Passagiere auf den digitalen Weg",
+      "url": "https://www.heise.de/news/Ab-12-November-Ryanair-zwingt-Passagiere-auf-den-digitalen-Weg-11073108.html",
+      "image_title": "Fluggäste besteigen ein Ryai Air Flugzeug"
     },
     {
       "title": "Apple zeigt, wie App-Entwickler Liquid Glass einsetzen",
@@ -484,43 +489,34 @@
       "image_title": "App-Umbau für Liquid Glass"
     },
     {
-      "title": "Fitness+-Dienst bei Apple: Zu viele Kündigungen, zu wenig Kunden?",
-      "url": "https://www.heise.de/news/Fitness-Dienst-bei-Apple-Zu-viele-Kuendigungen-zu-wenig-Kunden-11071674.html",
-      "image_title": "Apple Fitness+"
+      "title": "\"Surviving Mars\": Paradox-Ausbaustrategie in neuer Version erschienen",
+      "url": "https://www.heise.de/news/Surviving-Mars-Paradox-Ausbaustrategie-in-neuer-Version-erschienen-11073182.html",
+      "image_title": "Screenshot aus Surviving Mars"
     },
     {
-      "title": "Valve passt Steam Store auf Breitbildschirme an",
-      "url": "https://www.heise.de/news/Der-Steam-Store-wird-breiter-11071889.html",
-      "image_title": "Neues Shop-Design von Steam"
+      "title": "Keine Dates für Schwule: Apple folgt chinesischem Zensurbefehl",
+      "url": "https://www.heise.de/news/Volksrepublik-China-sperrt-schwule-Dating-Apps-11073056.html",
+      "image_title": "Rote Webpage mit chinesischer Schrift und dem Abbild eines Handys, auf dessen Bildschirm ein Chinesischer Mann in seinen 20ern zu sehen ist; außerdem gibtes Schaltflächen für Android und iOS"
     },
     {
-      "title": "Stop Killing Games: Debatte im britischen Parlament",
-      "url": "https://www.heise.de/news/Stop-Killing-Games-Debatte-im-britischen-Parlament-11071636.html",
-      "image_title": "Screenshot des Rennspiels \"The Crew\" zeigt ein Autorennen mit Supersportwagen."
+      "title": "Geheimtipp im Test: \"Rue Valley\" ist mehr als das kleine \"Disco Elysium\"",
+      "url": "https://www.heise.de/tests/Geheimtipp-Rue-Valley-im-Test-Immer-und-immer-und-immer-wieder-ein-Hit-11072556.html",
+      "image_title": "Stilisierte, sonnendurchflutete Straße in der Wüste mit einem „Rue Valley“-Schild und einem alten Motel im Hintergrund. Im Vordergrund hängt eine Person kopfüber mit einer digitalen Zeitanzeige „20:47“ vor dem Gesicht – symbolisch für Verwirrung oder psychische Spannung."
     },
     {
-      "title": "YouTube geht wieder gegen Adblocker vor",
-      "url": "https://www.heise.de/news/YouTube-geht-wieder-gegen-Adblocker-vor-11071585.html",
-      "image_title": "Handy, auf dem Youtube-Logo und -Schriftzug zu sehen sind; links und rechts davon liegt jeweils ein schwarzer, kabelloser In-Ohr-Kopfhörer"
+      "title": "Kommentar zur KI-Blase: Sam Altman mimt den Oppenheimer des 21. Jahrhunderts",
+      "url": "https://www.heise.de/hintergrund/Kommentar-zur-KI-Blase-Sam-Altman-mimt-den-Oppenheimer-des-21-Jahrhunderts-10794233.html",
+      "image_title": "Openai,Ceo,Sam,Altman,Attends,The,Artificial,Intelligence(ai),Revolution,Forum, SamAltman"
     },
     {
-      "title": "Fendt Xaver GT: Autonomer Roboter für Unkrautbekämpfung ohne Fahrer",
-      "url": "https://www.heise.de/news/Fendt-Xaver-GT-Autonomer-Roboter-fuer-Unkrautbekaempfung-ohne-Fahrer-11071771.html",
-      "image_title": "Der autonome Fendt Xaver GT im Feldeinsatz"
+      "title": "Untersuchung: Elektrobusse in Großbritannien aus China abschaltbar?",
+      "url": "https://www.heise.de/news/Untersuchung-Elektrobusse-in-Grossbritannien-aus-China-abschaltbar-11072255.html",
+      "image_title": "Bus-Test in einem Bergwerk"
     },
     {
-      "title": "Entlassungswellen und Rekordgewinne in den USA – der \"Jobless Boom\" durch KI",
-      "url": "https://www.heise.de/news/KI-Boom-US-Gewinne-steigen-sprunghaft-an-fast-eine-Million-Stellen-fallen-weg-11071503.html",
-      "image_title": "Die Buchstaben KI, eine Waage und Warndreiecke schweben vor einem Laptop."
-    },
-    {
-      "title": "ChatGPT-Prompts tauchten offenbar in der Google Search Console auf",
-      "url": "https://www.heise.de/news/ChatGPT-Prompts-tauchten-offenbar-in-der-Google-Search-Console-auf-11071457.html",
-      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
-    },
-    {
-      "title": "EU will DSGVO schleifen – nicht nur bei Cookie-Bannern",
-      "url": "https://www.heise.de/news/EU-will-DSGVO-schleifen-fuer-KI-und-Cookie-Banner-11071630.html"
+      "title": "Arbeitslos wegen KI: Laut einer Studie holen Unternehmen ihre Mitarbeiter zurück",
+      "url": "https://www.heise.de/news/Arbeitslos-wegen-KI-Laut-einer-Studie-holen-Unternehmen-ihre-Mitarbeiter-zurueck-11066882.html",
+      "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox"
     },
     {
       "title": "Philosoph: KI ist kein Werkzeug, sondern ein Machtinstrument",
@@ -528,22 +524,26 @@
       "image_title": "Rainer Mühlhoff"
     },
     {
-      "title": "Wer darf Satelliten starten – und wer haftet für den Schrott?",
-      "url": "https://www.heise.de/hintergrund/Wer-darf-Satelliten-starten-und-wer-haftet-fuer-den-Schrott-10789195.html",
-      "image_title": "Sternenhimmel, davor Rakete mit Feuerstrahl"
+      "title": "EU will DSGVO schleifen – nicht nur bei Cookie-Bannern",
+      "url": "https://www.heise.de/news/EU-will-DSGVO-schleifen-fuer-KI-und-Cookie-Banner-11071630.html"
+    },
+    {
+      "title": "Wie Europol mit Microsoft, Palantir, Clearview & Co. auf Kuschelkurs geht",
+      "url": "https://www.heise.de/news/Wie-Europol-mit-Microsoft-Palantir-Clearview-Co-auf-Kuschelkurs-geht-11072724.html",
+      "image_title": "Person arbeitet an einem Schreibtisch mit zwei Monitoren, auf denen komplexe Software- und Netzwerkdiagramme angezeigt werden."
+    },
+    {
+      "title": "Cyberangriff: Stadtverwaltung Ludwigshafen nicht erreichbar",
+      "url": "https://www.heise.de/news/Cyberangriff-Stadtverwaltung-Ludwigshafen-nicht-erreichbar-11071798.html"
     },
     {
       "title": "Canon-Preisbrecher und Leicas Reporter-SL3 – Fotonews der Woche 45/2025",
       "url": "https://www.heise.de/news/Canon-Preisbrecher-und-Leicas-Reporter-SL3-Fotonews-der-Woche-45-2025-11071718.html"
     },
     {
-      "title": "Verbraucherschützer: 1N Telecom ignoriert Urteil des Bundesgerichtshofs",
-      "url": "https://www.heise.de/news/Verbraucherschuetzer-1N-Telecom-ignoriert-Urteil-des-Bundesgerichtshofs-11071150.html",
-      "image_title": "Älterer Mann öffnet einen Brief"
-    },
-    {
-      "title": "Googles KI-Phrasendreschmaschine für Fußball-Ticker",
-      "url": "https://www.heise.de/news/Googles-KI-Phrasendreschmaschine-fuer-Fussball-Ticker-11071682.html"
+      "title": "Dienstag: Rumble übernimmt Northern Data, Debatte um Social Media ab 16 Jahren",
+      "url": "https://www.heise.de/news/Dienstag-Rumble-uebernimmt-Northern-Data-Debatte-um-Social-Media-ab-16-Jahren-11073052.html",
+      "image_title": "Cloud-Server, dazu Text: DIENSTAG Northern Data, Social Media, Überwachung, Elektrobusse & Google"
     },
     {
       "title": "Gehälter 2025Das verdienen IT-Berater in Deutschland",
@@ -589,18 +589,14 @@
       "url": "https://www.heise.de/multimediadatei/E-Rezept-Chaos-Android-Oeffnung-ISS-Jubilaeum-heiseshow-11068706.html"
     },
     {
-      "title": "Apple letter: EU laws contradict each other and make platforms insecure",
-      "url": "https://www.heise.de/en/news/Apple-letter-EU-laws-contradict-each-other-and-make-platforms-insecure-11071145.html",
-      "image_title": "Europe flag and an iPhone with Apple logo"
+      "title": "Have I Been Pwned: Billions of New Passwords in Collection",
+      "url": "https://www.heise.de/en/news/Have-I-Been-Pwned-Billions-of-New-Passwords-in-Collection-11067582.html",
+      "image_title": "Stylized image with reddish circuit traces, an open lock in the foreground, and the words Data Leak, Security, Exploit found"
     },
     {
-      "title": "Archive.today: FBI Demands Data from Provider Tucows",
-      "url": "https://www.heise.de/en/news/Archive-today-FBI-Demands-Data-from-Provider-Tucows-11066346.html",
-      "image_title": "Screenshot of Archive Today"
-    },
-    {
-      "title": "dstask 1.0: Git-based task manager now also for Windows",
-      "url": "https://www.heise.de/en/news/dstask-1-0-Git-based-task-manager-now-also-for-Windows-11067904.html"
+      "title": "Missing Link: How Linux would continue without Linus Torvalds",
+      "url": "https://www.heise.de/en/background/Missing-Link-How-Linux-would-continue-without-Linus-Torvalds-11070718.html",
+      "image_title": "Linux penguin Tux against an abstract background"
     },
     {
       "title": "\"Anno 117\" in Review: Rome for Confectioners",
@@ -608,13 +604,17 @@
       "image_url": "https://www.heise.de/icons/svg/icons/svg/video_outline_grey_light.svg"
     },
     {
-      "title": "Blue Origin postpones second New Glenn launch",
-      "url": "https://www.heise.de/en/news/Blue-Origin-postpones-second-New-Glenn-launch-11072272.html"
+      "title": "Apple TV to remain ad-free – at least for now",
+      "url": "https://www.heise.de/en/news/Apple-TV-to-remain-ad-free-at-least-for-now-11073985.html"
     },
     {
-      "title": "PC-Hardware upgraden: Wie Sie den Budget-Gaming-Bauvorschlag von 2020 aufrüsten",
-      "teaser": "Mit aktuellen Spielen ist der fünf Jahre alte c’t-Bauvorschlag überfordert. Zwei gezielte Upgrades machen ihn wieder fit für den Einsatz in Full HD – und mehr.",
-      "url": "https://www.heise.de/ratgeber/PC-Hardware-upgraden-Wie-Sie-den-Budget-Gaming-Bauvorschlag-von-2020-aufruesten-10767375.html"
+      "title": "AI boom: Data centers in Germany are growing rapidly",
+      "url": "https://www.heise.de/en/news/AI-boom-Data-centers-in-Germany-are-growing-rapidly-11072785.html"
+    },
+    {
+      "title": "Buchkritik: Warum niemand die Quantenphysik versteht",
+      "teaser": "Von Mechanik bis Quanteninformation: Verstraete und Broeckart bringen Nichtphysikern Quantentheoretisches nahe. Bisweilen geraten sie dabei ins Schwelgen.",
+      "url": "https://www.heise.de/tests/Buchkritik-Warum-niemand-die-Quantenphysik-versteht-10748482.html"
     },
     {
       "title": "Kommentar zur KI-BlaseSam Altman mimt den Oppenheimer des 21. Jahrhunderts",
@@ -623,9 +623,9 @@
       "image_title": "Openai,Ceo,Sam,Altman,Attends,The,Artificial,Intelligence(ai),Revolution,Forum, SamAltman"
     },
     {
-      "title": "Buchkritik: Warum niemand die Quantenphysik versteht",
-      "teaser": "Von Mechanik bis Quanteninformation: Verstraete und Broeckart bringen Nichtphysikern Quantentheoretisches nahe. Bisweilen geraten sie dabei ins Schwelgen.",
-      "url": "https://www.heise.de/tests/Buchkritik-Warum-niemand-die-Quantenphysik-versteht-10748482.html"
+      "title": "PC-Hardware upgraden: Wie Sie den Budget-Gaming-Bauvorschlag von 2020 aufrüsten",
+      "teaser": "Mit aktuellen Spielen ist der fünf Jahre alte c’t-Bauvorschlag überfordert. Zwei gezielte Upgrades machen ihn wieder fit für den Einsatz in Full HD – und mehr.",
+      "url": "https://www.heise.de/ratgeber/PC-Hardware-upgraden-Wie-Sie-den-Budget-Gaming-Bauvorschlag-von-2020-aufruesten-10767375.html"
     },
     {
       "title": "Was das iPhone-OS-Update bringt11 Tipps zu den Neuerungen von iOS 26.1",
@@ -634,16 +634,16 @@
       "image_title": "Tipps zu iOS 26.1"
     },
     {
-      "title": "FAQFragen und Antworten: Alles zu macOS 26 Tahoe",
-      "teaser": "Das Upgrade liefert nicht nur tolle Neuerungen, sondern sorgt auch für Unklarheiten und Probleme. 16 Hilfestellungen und Tipps zu Tahoe.",
-      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Alles-zu-macOS-26-Tahoe-10962027.html",
-      "image_title": "Ein Mac, auf dem Tahoe läuft"
-    },
-    {
       "title": "Effiziente Teams-Arbeit: So holen Sie mehr aus dem Microsoft-Werkzeug raus",
       "teaser": "Mit Chats, Arbeitsgruppen, Videokonferenzen und vielen Besprechungswerkzeugen ist Microsoft Teams ziemlich mächtig. Unser Workshop zeigt, wie das geht.",
       "url": "https://www.heise.de/ratgeber/Effiziente-Teams-Arbeit-So-holen-Sie-mehr-aus-dem-Microsoft-Werkzeug-raus-10751681.html",
       "image_title": "Nutzer von Microsoft Teams"
+    },
+    {
+      "title": "FAQFragen und Antworten: Alles zu macOS 26 Tahoe",
+      "teaser": "Das Upgrade liefert nicht nur tolle Neuerungen, sondern sorgt auch für Unklarheiten und Probleme. 16 Hilfestellungen und Tipps zu Tahoe.",
+      "url": "https://www.heise.de/ratgeber/Fragen-und-Antworten-Alles-zu-macOS-26-Tahoe-10962027.html",
+      "image_title": "Ein Mac, auf dem Tahoe läuft"
     },
     {
       "title": "Bastel-Projekt: ZigBee-Gateway mit Raspberry Pi bauen",
@@ -715,10 +715,10 @@
       "image_title": "Anwohnerparken"
     },
     {
-      "title": "Kompaktes E-SUV mit SoftwareschwächenElektroauto MG S5 EV im Test",
-      "teaser": "MG hat mit dem S5 EV ein E-SUV im Sortiment, das in viele Profile passen könnte. Doch bei der Software müssen die Chinesen nachlegen – dringend.",
-      "url": "https://www.heise.de/tests/Elektroauto-MG-S5-EV-im-Test-Es-bleibt-noch-viel-zu-tun-10964411.html",
-      "image_title": "MG S5 EV"
+      "title": "Fendt Xaver GTAutonomer Roboter für Unkrautbekämpfung ohne Fahrer",
+      "teaser": "Fendt präsentiert auf der Agritechnica den vollautonomen Roboter Xaver GT für mechanische Unkrautbekämpfung in Reihenkulturen.",
+      "url": "https://www.heise.de/news/Fendt-Xaver-GT-Autonomer-Roboter-fuer-Unkrautbekaempfung-ohne-Fahrer-11071771.html",
+      "image_title": "Der autonome Fendt Xaver GT im Feldeinsatz"
     },
     {
       "title": "Erste FortschritteChina vereinfacht Export von Nexperia-Chips in die EU",
@@ -746,21 +746,22 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-vorne-intel-holt-auf/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wo könnte das deutsche Atommüllendlager gebaut werden?",
-      "teaser": "Die Suche wurde auf 25 Prozent der Fläche eingegrenzt. Bayern wehrt sich, obwohl der Freistaat den meisten Atommüll produziert hat.",
-      "url": "https://www.heise.de/-11069391",
-      "image_title": "Münchner Frauenkirche, davor gleichhohes Atommüllfass"
+      "title": "TSMC-Umsätze verlangsamen sich: Zweifel an KI-Boom wachsen",
+      "teaser": "Taiwans größter Chiphersteller meldet schwächstes Wachstum seit Februar 2024. Experten warnen vor Marktkorrektur.",
+      "url": "https://www.heise.de/-11072449",
+      "image_title": "TSMC Logo an einem Gebäude"
     },
     {
-      "title": "Studie: Dinosaurier lebten bis zum Asteroideneinschlag in voller Blüte",
-      "teaser": "Neue Datierungen von Gesteinsschichten in New Mexico widerlegen die These vom bereits beginnenden Niedergang. Was bedeutet das für unser Verständnis der Evolution?",
-      "url": "https://www.heise.de/-10856149",
-      "image_title": "Dinosaurier schaut auf einen Asteroid der auf die Erde rast"
+      "title": "Massentierhaltung: Das wahre Virus hinter der Vogelgrippe?",
+      "teaser": "Experten sehen die Ursache nicht bei Wildvögeln, sondern in der industriellen Geflügelhaltung. Dort mutiert das Virus zu gefährlichen Varianten.",
+      "url": "https://www.heise.de/-11071969",
+      "image_title": "Huhn und Kranich vor VIrus mit sich drehenden Pfeilen"
     },
     {
-      "title": "Für die ganze Familie nur begrenzt geeignet",
-      "teaser": "Die Kriegskitschfantasy \"Die Chroniken von Narnia\" geht in die dritte Runde",
-      "url": "https://www.heise.de/-10585741"
+      "title": "Bundesanwaltschaft nimmt \"Reichsbürger\" wegen Mordaufrufen gegen Politiker fest",
+      "teaser": "Mann aus Dortmund soll Darknet-Plattform betrieben haben, um Anschläge auf Politiker zu koordinieren. Bundesanwaltschaft ermittelt. Ein Überblick.",
+      "url": "https://www.heise.de/-11073884",
+      "image_title": "Protestzelt vor Gebäude"
     },
     {
       "title": "Unterwasser-Station Vanguard: Wie Forscher am Meeresboden arbeiten sollen",
