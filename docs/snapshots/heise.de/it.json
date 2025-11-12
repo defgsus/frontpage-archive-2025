@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-12T11:09:01",
+  "timestamp": "2025-11-12T12:20:25",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,50 @@
   ],
   "articles": [
     {
+      "title": "Bitcoin & Co.: Sachsen fahndet mit KI-Hilfe nach steuerpflichtigen Transaktionen",
+      "teaser": "Eine in dem Bundesland entwickelte Software soll Sachsens Steuerfahndung dabei helfen, in der Steuererklärung verschwiegene Kryptotransaktionen aufzudecken.",
+      "url": "https://www.heise.de/news/Bitcoin-Co-Sachsen-fahndet-mit-KI-Hilfe-nach-steuerpflichtigen-Transaktionen-11075548.html",
+      "image_title": "Kryptomünzen auf Laptop mit Binance geöffnet"
+    },
+    {
+      "title": "AMD bestätigt Zen-6-Prozessoren für 2026 und nennt erste Zen-7-Details",
+      "teaser": "Die AMD-Führungsriege präsentierte auf dem Financial Analyst Day viele Pläne für die kommenden Jahre. Vieles blieb unkonkret, aber es gab spannende Details.",
+      "url": "https://www.heise.de/news/AMD-bestaetigt-Zen-6-Prozessoren-fuer-2026-und-nennt-erste-Zen-7-Details-11075358.html",
+      "image_title": "AMD-Prozessorkerne bis Zen 7"
+    },
+    {
+      "title": "Microsoft veröffentlicht Datenschutz-Hilfen für M365 und Copilot",
+      "teaser": "Mit einem neuen M365-Kit, aktualisiertem Cloud Compendium und DSFA-Vorlagen will Microsoft Unternehmen die DSGVO-Dokumentation erleichtern.",
+      "url": "https://www.heise.de/news/Microsoft-veroeffentlicht-Datenschutz-Hilfen-fuer-M365-und-Copilot-11075444.html",
+      "image_title": "Landkarte mit Microsoft 365 Schriftzug, Computer mit Ordner-Icon und DSGVO-Symbol, Person mit Lupe"
+    },
+    {
+      "title": "Falschparkerfotograf als Datensünder: Ein Grundsatzurteil, das keines ist",
+      "teaser": "Das Oberlandesgericht Dresden hat den Nutzer einer Falschparker-App wegen Datenschutzverstößen verurteilt. Ist die Nutzung jetzt illegal?",
+      "url": "https://www.heise.de/news/Falschparkerfotograf-als-Datensuender-Ein-Grundsatzurteil-das-keines-ist-11075486.html"
+    },
+    {
+      "title": "TestsLinux-Distribution Omarchy für Entwickler im Test",
+      "url": "https://www.heise.de/tests/Linux-Distribution-Omarchy-fuer-Entwickler-im-Test-11069460.html",
+      "image_title": ","
+    },
+    {
+      "title": "TestsKali Linux 2025-3 mit GenAI und MCP zur einfachen Penteststeuerung im Test",
+      "url": "https://www.heise.de/tests/Kali-Linux-2025-3-mit-GenAI-und-MCP-zur-einfachen-Penteststeuerung-im-Test-11039523.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberMac als lokales KI-System: So geht's",
+      "url": "https://www.heise.de/ratgeber/Mac-als-lokales-KI-System-So-geht-s-11019113.html",
+      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
+    },
+    {
+      "title": "Icons in macOS 26: Kampf gegen das \"Squircle\"-Gefängnis",
+      "teaser": "Apple hat die Form seiner App-Icons in macOS 26 alias Tahoe überarbeitet. Halten sich Apps nicht daran, gibt es einen optischen Eingriff. Das hilft dagegen.",
+      "url": "https://www.heise.de/news/Icons-in-macOS-26-Kampf-gegen-das-Squircle-Gefaengnis-11073775.html",
+      "image_title": "Eingesperrte Icons in Tahoe (obere Reihe)"
+    },
+    {
       "title": "enterJS 2026 in Mannheim: Jetzt noch Vortragsideen einreichen",
       "teaser": "Der Call for Proposals für die enterJS 2026 in Mannheim läuft noch bis zum 19. November. Die Veranstalter suchen nach Ideen für Vorträge und Workshops.",
       "url": "https://www.heise.de/news/enterJS-2026-in-Mannheim-Jetzt-noch-Vortragsideen-einreichen-11073581.html",
@@ -48,21 +92,6 @@
       "teaser": "Vier aktuelle .NET-Bücher des Dotnet-Doktors sind bereits auf dem Stand des gestern veröffentlichten stabilen Release verfügbar.",
       "url": "https://www.heise.de/blog/Fachbuecher-zu-NET-10-0-C-14-0-Entity-Framework-Core-10-0-und-Blazor-10-0-11075034.html",
       "image_title": "Bücherstapel"
-    },
-    {
-      "title": "TestsLinux-Distribution Omarchy für Entwickler im Test",
-      "url": "https://www.heise.de/tests/Linux-Distribution-Omarchy-fuer-Entwickler-im-Test-11069460.html",
-      "image_title": ","
-    },
-    {
-      "title": "TestsKali Linux 2025-3 mit GenAI und MCP zur einfachen Penteststeuerung im Test",
-      "url": "https://www.heise.de/tests/Kali-Linux-2025-3-mit-GenAI-und-MCP-zur-einfachen-Penteststeuerung-im-Test-11039523.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberMac als lokales KI-System: So geht's",
-      "url": "https://www.heise.de/ratgeber/Mac-als-lokales-KI-System-So-geht-s-11019113.html",
-      "image_title": ", KI-generiert mit freepik; bearbeitet von Mac & i"
     },
     {
       "title": "Pixel Drop bringt KI-Zusammenfassungen, Themenpakete und mehr",
@@ -122,35 +151,6 @@
       "teaser": "Jakob Czekansky erläutert, wieso Embedded Systems wichtiger Teil unseres Alltags sind, wie sie entwickelt werden und wie sie die technologische Zukunft prägen.",
       "url": "https://www.heise.de/blog/programmier-bar-Embedded-Development-mit-Jakob-Czekansky-11074291.html",
       "image_title": "programmier.bar: Embedded Development"
-    },
-    {
-      "title": "Linux: KI-Richtlinien für Kernel-Entwickler in der Diskussion",
-      "teaser": "Der Linux-Erfinder will KI-Tools genauso behandeln wie andere Werkzeuge – und sieht auch beim Copyright von KI-Beiträgen keine Gründe für Sonderbehandlungen.",
-      "url": "https://www.heise.de/news/Linux-KI-Richtlinien-fuer-Kernel-Entwickler-in-der-Diskussion-11074886.html",
-      "image_title": "Die Buchstaben AI umfliegen Haken und Warndreiecke."
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-10966385.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Windows 10 22H2: Update außer der Reihe – korrigiert ESU-Probleme",
-      "teaser": "Einige Windows-10-Nutzer erhalten ein Update-Angebot nach dem Support-Ende. Es korrigiert Probleme mit der Supportverlängerung.",
-      "url": "https://www.heise.de/news/Windows-10-22H2-Update-ausser-der-Reihe-korrigiert-ESU-Probleme-11074832.html"
-    },
-    {
-      "title": "Über 127.000 Bitcoin entwendet: China wirft US-Regierung Milliardendiebstahl vor",
-      "teaser": "Vor fünf Jahren wurden einer Kryptofirma über 127.000 Bitcoin gestohlen, jetzt werden Details bekannt. Nun wirft China der US-Regierung vor, dahinterzustecken.",
-      "url": "https://www.heise.de/news/Ueber-127-000-Bitcoin-entwendet-China-wirft-US-Regierung-Milliardendiebstahl-vor-11074826.html",
-      "image_title": "Viele Bitcoin-Münzen"
-    },
-    {
-      "title": "Microsoft investiert Milliarden in portugiesisches KI-Rechenzentrum",
-      "teaser": "90 Kilometer südlich Lissabons entsteht ein Campus für KI-Rechenanlagen. Microsoft steigt groß ein.",
-      "url": "https://www.heise.de/news/Microsoft-investiert-Milliarden-in-portugiesisches-KI-Rechenzentrum-11074762.html",
-      "image_title": "Schriftzug \"Microsoft\" an Gebäude"
     },
     {
       "title": "NewsStudie: Auch Menschen können Objekte taktil ohne physische Berührung erspüren",
