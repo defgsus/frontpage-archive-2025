@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T15:10:37",
+  "timestamp": "2025-11-14T16:12:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,27 @@
   ],
   "articles": [
     {
-      "title": "Duell der KI-Kisten: Nvidia DGX Spark vs AMD Strix Halo",
-      "teaser": "OpenAI wollte den Browser neu erfinden. Herausgekommen ist dabei ein schlechterer Chrome mit ChatGPT als Startseite, findet c't 3003.",
-      "url": "https://www.heise.de/news/Duell-der-KI-Kisten-Nvidia-DGX-Spark-vs-AMD-Strix-Halo-11079206.html"
+      "title": "AMD nimmt Intel weitere x86-Marktanteile ab",
+      "teaser": "Mehr als 30 Prozent der von Juli bis September verkauften x86-Prozessoren lieferte AMD. Im Vorjahr waren es erst 25 Prozent.",
+      "url": "https://www.heise.de/news/AMD-nimmt-Intel-weitere-x86-Marktanteile-ab-11079422.html",
+      "image_title": "Desktop-PC-Prozessoren von Intel und AMD."
     },
     {
-      "title": "US-Strompreise steigen: KI ist einer der Treiber",
-      "teaser": "In den USA steigen die Strompreise für Verbraucher. Ein Grund ist die erhöhte Stromnachfrage durch neue KI-Rechenzentren. In Virginia waren sie Wahlkampfthema.",
-      "url": "https://www.heise.de/hintergrund/US-Strompreise-steigen-KI-ist-einer-der-Treiber-10831574.html"
+      "title": "KubeCon: Fortschritte, aber auch mehr Arbeit bei Cloud-Native und Cybersecurity",
+      "teaser": "Angesichts wachsender Angriffsflächen bei OSS sollten Entwickler Schwachstellen beheben, Software auditieren und sichere Container-Images nutzen.",
+      "url": "https://www.heise.de/news/KubeCon-Fortschritte-aber-auch-mehr-Arbeit-bei-Cloud-Native-und-Cybersecurity-11078678.html",
+      "image_title": "Container und Weltkugel auf Tastatur"
+    },
+    {
+      "title": "Nvidia DGX Spark: Ist das wirklich der KI-\"Supercomputer\"?",
+      "teaser": "Was kann der \"KI-Supercomputer\" von Nvidia? Wir haben den DGX Spark mit einem AMD AI Max+ 395 und einem Gaming-PC verglichen. Die Ergebnisse sind erstaunlich.",
+      "url": "https://www.heise.de/news/Duell-der-KI-Kisten-Nvidia-DGX-Spark-vs-AMD-Strix-Halo-11079206.html"
     },
     {
       "title": "Cybergang cl0p will Daten von Carglass, Fluke und NHS erbeutet haben",
       "teaser": "Auf der Darknet-Seite der kriminellen Bande cl0p sind neue Einträge zu Carglass, Fluke und NHS aufgetaucht. Dort will sie Daten geklaut haben.",
       "url": "https://www.heise.de/news/Datenlecks-Cybergang-cl0p-will-Daten-von-Carglass-Fluke-und-NHS-erbeutet-haben-11079113.html",
       "image_title": "Screenshot von cl0p-Darknetseite"
-    },
-    {
-      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
-      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-10966405.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "TestsKompakte KI-Workstation: Gigabyte AI Top Atom alias Nvidia DGX Spark im Test",
@@ -61,6 +62,17 @@
       "title": "RatgeberBluetooth-Reichweite mit ESP32 erhöhen: Einsteigerprojekt für Home Assistant",
       "url": "https://www.heise.de/ratgeber/Bluetooth-Reichweite-mit-ESP32-erhoehen-Einsteigerprojekt-fuer-Home-Assistant-11073916.html",
       "image_title": "Ein ESP32 kann in Home Assistant als Bluetooth-Proxy die Reichweite für Bluetooth-Sensoren erhöhen."
+    },
+    {
+      "title": "Heizkörperthermostat Meross MTS150 im Test",
+      "teaser": "Dank Matter-Support des neuen Hubs MSH450 findet das Meross-Heizkörperthermostat Anschluss an vielen Smart-Home-Lösungen. Wie gut das gelingt, zeigt der Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/heizkoerperthermostat-meross-mts150-im-test-alter-wein-im-neuen-matter-schlauch/sb5pjxs?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
+      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-10966405.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "WhatsApp: Chats mit ersten anderen Messengern möglich",
@@ -138,17 +150,6 @@
       "teaser": "IT-Forscher haben neuen Exploit-Code in ihrem Honeypot gefunden. Der attackiert eine bislang unbekannte Fortinet-Sicherheitslücke.",
       "url": "https://www.heise.de/news/Fortinet-Neuer-Exploit-missbraucht-Zero-Day-Luecke-in-Firewalls-11078310.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "c't-Workshop: IT-Sicherheitsstrategien für kleine und mittlere Unternehmen",
-      "teaser": "Von der Bedrohungslage bis zu Best Practices: Der c't-Workshop zeigt, wie sich KMU mit überschaubarem Aufwand wirksam gegen Cyberangriffe absichern können.",
-      "url": "https://www.heise.de/news/c-t-Workshop-IT-Sicherheitsstrategien-fuer-kleine-und-mittlere-Unternehmen-11076557.html"
-    },
-    {
-      "title": "Wikipedia-Gründer widerspricht Musk: Keine linke Übernahme",
-      "teaser": "Elon Musk wirft Wikipedia eine linke Ausrichtung vor. Wikipedia-Gründer Jimmy Wales hält bei seiner Buchvorstellung in Berlin dagegen.",
-      "url": "https://www.heise.de/news/Wikipedia-Gruender-widerspricht-Musk-Keine-linke-Uebernahme-11078253.html",
-      "image_title": "Wikipedia-Schriftzug auf einem Smartphone"
     },
     {
       "title": "NewsMegaprojekt The Line ist wohl gescheitert",
