@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-14T09:11:49",
+  "timestamp": "2025-11-14T10:12:17",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,44 @@
   ],
   "articles": [
     {
+      "title": "Spring Framework 7 bringt neues Konzept für Null Safety und setzt auf Java 25",
+      "teaser": "Das neue Spring Framework verwendet JSpecify für Null Safety. Außerdem führt es API-Versionierung ein und bietet ein neues Retry-Konzept für die Resilienz an.",
+      "url": "https://www.heise.de/news/Spring-Framework-7-bringt-neues-Konzept-fuer-Null-Safety-und-setzt-auf-Java-25-11078318.html",
+      "image_title": "Frühlingshafte Blumenwiese"
+    },
+    {
+      "title": "Idealo vs. GoogleSuchmaschine zu 465 Millionen Euro Schadenersatz verurteilt",
+      "teaser": "Idealo hat vor Gericht gegen Google gesiegt. Der Schadenersatz ist beträchtlich, aber auch beträchtlich kleiner als gefordert.",
+      "url": "https://www.heise.de/news/Idealo-Prozess-Google-zu-465-Millionen-Euro-Schadenersatz-verurteilt-11078424.html",
+      "image_title": "Google-Schriftzug auf farbiger Wand in einem Bürogebäude"
+    },
+    {
+      "title": "Aus Softwarefehlern lernen – Teil 8: Rundungs- und Gleitkommafehler",
+      "teaser": "Ein minimaler Rundungsfehler führte zum scheinbaren Markteinbruch an der Börse in Vancouver. Mit der richtigen Dezimalarithmetik lässt sich das vermeiden.",
+      "url": "https://www.heise.de/hintergrund/Aus-Softwarefehlern-lernen-Teil-8-Rundungs-und-Gleitkommafehler-11078354.html",
+      "image_title": "Tastatur mit \"Oops-Taste\""
+    },
+    {
+      "title": "KI-Quellen sicher einbinden – JFrog kündigt MCP Registry an",
+      "teaser": "JFrog stellt eine MCP Registry vor, die lokale und externe KI-Quellen auf Sicherheit prüft. Für den AI Catalog gibt es ferner eine Suche nach Schatten-KI.",
+      "url": "https://www.heise.de/news/KI-Quellen-sicher-einbinden-JFrog-kuendigt-MCP-Registry-an-11078282.html",
+      "image_title": "Ai,Legal,Regulations,And,Laws,Concept,,Artificial,Intelligence,Ethics,Standards"
+    },
+    {
+      "title": "HintergrundCheckliste: Einkauf von KI-Anwendungen",
+      "url": "https://www.heise.de/hintergrund/Checkliste-Einkauf-von-KI-Anwendungen-11063123.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberBluetooth-Reichweite mit ESP32 erhöhen: Einsteigerprojekt für Home Assistant",
+      "url": "https://www.heise.de/ratgeber/Bluetooth-Reichweite-mit-ESP32-erhoehen-Einsteigerprojekt-fuer-Home-Assistant-11073916.html",
+      "image_title": "Ein ESP32 kann in Home Assistant als Bluetooth-Proxy die Reichweite für Bluetooth-Sensoren erhöhen."
+    },
+    {
+      "title": "HintergrundBeamer-Kaufberatung: Auf was Sie beim Kauf eines Heimprojektors achten müssen",
+      "url": "https://www.heise.de/hintergrund/Beamer-Kaufberatung-Auf-was-Sie-beim-Kauf-eines-Heimprojektors-achten-muessen-10489427.html"
+    },
+    {
       "title": "iX-Workshop: RAG-Systeme effizient evaluieren und optimieren",
       "teaser": "Lernen Sie, RAG-Systeme professionell zu analysieren und gezielt zu optimieren – mit praxiserprobten Techniken und echten Anwendungsfällen.",
       "url": "https://www.heise.de/news/iX-Workshop-RAG-Systeme-effizient-evaluieren-und-optimieren-10966411.html",
@@ -44,24 +82,10 @@
       "image_title": "Orangenes Wrndreieck auf blauem Grund"
     },
     {
-      "title": "Kommentar zum AWS-FailHinter dem Sündenbock DNS steht Hyperscaler-Inkompetenz",
-      "teaser": "Nach den Cloudausfällen bei AWS und Azure war schnell DNS als Sündenbock ausgemacht. Das greift zu kurz, findet Carsten Strotmann.",
+      "title": "Kommentar zum AWS-Fail: Hinter dem Sündenbock DNS steht Hyperscaler-Inkompetenz",
+      "teaser": "Nach den massiven Cloudausfällen bei AWS und Azure war schnell DNS als Sündenbock ausgemacht. Das greift zu kurz, findet Carsten Strotmann.",
       "url": "https://www.heise.de/meinung/Kommentar-zum-AWS-Ausfall-It-s-always-DNS-unless-it-isn-t-11077553.html",
       "image_title": "Eine gezeichnete dunkle Wolke, aus der ein Lichtstrahl kommt"
-    },
-    {
-      "title": "HintergrundCheckliste: Einkauf von KI-Anwendungen",
-      "url": "https://www.heise.de/hintergrund/Checkliste-Einkauf-von-KI-Anwendungen-11063123.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberBluetooth-Reichweite mit ESP32 erhöhen: Einsteigerprojekt für Home Assistant",
-      "url": "https://www.heise.de/ratgeber/Bluetooth-Reichweite-mit-ESP32-erhoehen-Einsteigerprojekt-fuer-Home-Assistant-11073916.html",
-      "image_title": "Ein ESP32 kann in Home Assistant als Bluetooth-Proxy die Reichweite für Bluetooth-Sensoren erhöhen."
-    },
-    {
-      "title": "HintergrundBeamer-Kaufberatung: Auf was Sie beim Kauf eines Heimprojektors achten müssen",
-      "url": "https://www.heise.de/hintergrund/Beamer-Kaufberatung-Auf-was-Sie-beim-Kauf-eines-Heimprojektors-achten-muessen-10489427.html"
     },
     {
       "title": "AlertUpdateFortinet: Neuer Exploit missbraucht Zero-Day-Lücke in Firewalls",
@@ -125,29 +149,6 @@
       "teaser": "Kubernetes wird flexibler beim Versionsmanagement. Die CNCF treibt KI-Integration voran und stellt neue Projekte für Cloud-Native-Entwickler vor.",
       "url": "https://www.heise.de/news/10-Jahre-CNCF-Neuigkeiten-von-Kubernetes-Cloud-Native-und-KI-wachsen-zusammen-11077448.html",
       "image_title": "Container,Ship,In,The,Ocean,At,Sunset,Sky,Background,With"
-    },
-    {
-      "title": "Anker Solix: Power Dock bündelt bis zu vier Balkonkraftwerke zum Multisystem",
-      "teaser": "Die Grenzen zwischen Balkonsolar und großer PV-Anlage verschwimmen: Anker kombiniert mit dem Power Dock Balkonspeicher mit bis zu 64 kWh Kapazität. Ein Test.",
-      "url": "https://www.heise.de/tests/Anker-Solix-Power-Dock-buendelt-bis-zu-vier-Balkonkraftwerke-zum-Multisystem-10674767.html"
-    },
-    {
-      "title": "Bundeswehr sucht IT-Spezialisten: Hohe Abbrecherquote als Problem",
-      "teaser": "Die Truppenstärke der Bundeswehr soll stark steigen – durch den neuen Wehrdienst sowie Berufs- und Zeitsoldaten mit speziellem Fachwissen, etwa in der IT.",
-      "url": "https://www.heise.de/news/Digitale-Aufruestung-Die-Bundeswehr-sucht-IT-Experten-11077507.html",
-      "image_title": "Soldier,Using,Map,On,Tablet,For,Orientation,At,Forest,Soldat,Bundeswehr"
-    },
-    {
-      "title": "Dragonwing IQ-X: Qualcomm bringt Embedded-Varianten des Snapdragon X",
-      "teaser": "Qualcomms Mobilprozessor Snapdragon X findet man als Dragonwing IQ-X künftig auch in Industrie-PCs und anderen Embedded-Anwendungen.",
-      "url": "https://www.heise.de/news/Dragonwing-IQ-X-Qualcomm-bringt-Embedded-Varianten-des-Snapdragon-X-11076451.html",
-      "image_title": "Dragonwing"
-    },
-    {
-      "title": "SAPs KI: Unternehmen kämpfen mit S/4-Umstellung und lassen Joule liegen",
-      "teaser": "SAPs KI-Assistent Joule soll eigentlich die Automatisierung vorantreiben. Laut einer aktuellen Studie kommt das derzeit noch nicht Schwung.",
-      "url": "https://www.heise.de/news/SAPs-KI-Unternehmen-kaempfen-mit-S-4-Umstellung-und-lassen-Joule-liegen-11077415.html",
-      "image_title": "SAP-Schriftzug auf einem Gebäude"
     },
     {
       "title": "NewsMegaprojekt The Line ist wohl gescheitert",
