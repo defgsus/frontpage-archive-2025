@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-15T02:22:02",
+  "timestamp": "2025-11-15T03:34:08",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -146,11 +152,11 @@
       "image_title": "Diese Woche in der ZEIT: Die aufregendste Familie Deutschlands"
     },
     {
-      "title": "Affäre um Jeffrey Epstein: Trump wirft Demokraten wegen der Epstein-Mails \"Schwindel\" vor",
-      "teaser": "In E-Mails hatte Epstein angedeutet, Trump habe von seinem Missbrauch gewusst. Der US-Präsident spricht von einem Täuschungsversuch und fordert Ermittlungen gegen andere.",
-      "url": "https://www.zeit.de/politik/ausland/2025-11/affaere-um-jeffrey-epstein-trump-demokraten",
-      "image_url": "https://img.zeit.de/politik/2025-11/affaere-um-jeffrey-epstein-trump-demokraten-bild/super__430x287",
-      "image_title": "Affäre um Jeffrey Epstein: US President Donald Trump speaks with the press upon arrival at Joint Base Andrews in Maryland on November 9, 2025. Trump is returning to Washington DC after spending part of the weekend at his Florida residence of Mar-a-Lago. (Photo by Jim WATSON / AFP) (Photo by JIM WATSON/AFP via Getty Images)"
+      "title": "Inflation: Donald Trump nimmt Zölle auf Lebensmittelimporte zurück",
+      "teaser": "Die US-Regierung streicht Zölle auf eine Reihe von Lebensmitteln, darunter Rindfleisch, Tomaten, Kaffee und Bananen. Zuletzt wuchsen in den USA die Inflationssorgen.",
+      "url": "https://www.zeit.de/politik/ausland/2025-11/zoelle-lebensmittel-usa-ruecknahme",
+      "image_url": "https://img.zeit.de/politik/ausland/2025-11/file-photo-people-shop-for-groceries-at-eastern-market-in-washington-bild/super__430x287",
+      "image_title": "Inflation: Vor einem Jahr war Rindfleisch in den USA deutlich günstiger (Archivbild)."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Michael Wolff: Der Mann, der Trump zum Fall bringen wollte, stolpert selbst",
@@ -160,12 +166,6 @@
       "image_title": "Michael Wolff: COLOGNE, GERMANY - FEBRUARY 28: (EDITORS NOTE: This image has been converted to black and white.) Michael Wolff during the reading of his book 'Fire and Fury: Inside the Trump White House' ( Feuer und Zorn - Im Weissen Haus von Donald Trump ) at the lit.cologne on February 28, 2018 in Cologne, Germany. (Photo by Ralf Juergens/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Peter Thiel: Warum die Welt bald untergeht",
-      "teaser": "An vier Abenden hat der Techmilliardär Peter Thiel seine Ideologie erklärt. Sehr vertraulich, vor exklusivem Publikum. Es ist ein Blick in den Abgrund.",
-      "url": "https://www.zeit.de/2025/48/peter-thiel-antichrist-donald-trump-j-d-vance-usa",
-      "image_url": "https://img.zeit.de/2025/48/seine-gedanken-beherrschen-die-usa-bild-5/super__430x287"
-    },
-    {
       "title": "Infektionskrankheit: Marburg-Virus bricht an der Grenze von Äthiopien und Südsudan aus",
       "teaser": "Äthiopien hat den ersten Ausbruch des Marburg-Virus im Land bestätigt. Eine Behandlung gibt es nicht. Die Weltgesundheitsorganisation entsandte ein Expertenteam.",
       "url": "https://www.zeit.de/gesundheit/2025-11/marburg-virus-aethiopien-erste-faelle",
@@ -173,11 +173,17 @@
       "image_title": "Infektionskrankheit: Das oft tödliche Marburg-Virus ist erstmals in Äthiopien ausgebrochen."
     },
     {
-      "title": "Inflation: Donald Trump nimmt Zölle auf Lebensmittelimporte zurück",
-      "teaser": "Die US-Regierung streicht Zölle auf eine Reihe von Lebensmitteln, darunter Rindfleisch, Tomaten, Kaffee und Bananen. Zuletzt wuchsen in den USA die Inflationssorgen.",
-      "url": "https://www.zeit.de/politik/ausland/2025-11/zoelle-lebensmittel-usa-ruecknahme",
-      "image_url": "https://img.zeit.de/politik/ausland/2025-11/trump-dekret-lebensmittel-zoelle-ruecknahme/super__430x287",
-      "image_title": "Inflation: President Donald Trump speaks before signing the funding bill to reopen the government, in the Oval Office of the White House, Wednesday, Nov. 12, 2025, in Washington."
+      "title": "Z+ (abopflichtiger Inhalt); Peter Thiel: Warum die Welt bald untergeht",
+      "teaser": "An vier Abenden hat der Techmilliardär Peter Thiel seine Ideologie erklärt. Sehr vertraulich, vor exklusivem Publikum. Es ist ein Blick in den Abgrund.",
+      "url": "https://www.zeit.de/2025/48/peter-thiel-antichrist-donald-trump-j-d-vance-usa",
+      "image_url": "https://img.zeit.de/2025/48/seine-gedanken-beherrschen-die-usa-bild-5/super__430x287"
+    },
+    {
+      "title": "Affäre um Jeffrey Epstein: Trump wirft Demokraten wegen der Epstein-Mails \"Schwindel\" vor",
+      "teaser": "Neu veröffentlichte Epstein-Mails setzen Trump unter Druck. Auf seine Initiative ermittelt nun das US-Justizministerium – unter anderem gegen Ex-Präsident Bill Clinton.",
+      "url": "https://www.zeit.de/politik/ausland/2025-11/affaere-um-jeffrey-epstein-trump-demokraten",
+      "image_url": "https://img.zeit.de/politik/2025-11/affaere-um-jeffrey-epstein-trump-demokraten-bild/super__430x287",
+      "image_title": "Affäre um Jeffrey Epstein: US President Donald Trump speaks with the press upon arrival at Joint Base Andrews in Maryland on November 9, 2025. Trump is returning to Washington DC after spending part of the weekend at his Florida residence of Mar-a-Lago. (Photo by Jim WATSON / AFP) (Photo by JIM WATSON/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Parov Stelar : \"Für mich tat sich damals die Unterwelt auf\"",
@@ -199,13 +205,6 @@
       "url": "https://www.zeit.de/hamburg/2025-11/jubilaeum-hamburg-newsletter-podcast-elbvertiefung",
       "image_url": "https://img.zeit.de/hamburg/2025-11/jubilaeum-hamburg-newsletter-podcast-elbvertiefung-bild/super__430x287",
       "image_title": "Hamburg-Podcast \"Elbvertiefung\": 22.09.2017, Hamburg, Speersort, Hansestadt Hamburg, B¸ste von Helmut Schmidt im Helmut Schmidt Haus, Hamburg, Helmut Schmidt, ehemaliger Bundeskanzler, Bundeskanzler, B¸ste, Bronze, Bronzeb¸ste, Bildhauer, Rainer Fetting, Die Zeit, Wochenzeitung, Zeitung, Die Zeit Verlagsgruppe, Herausgeber, Nachrichten, Politik, Wirtschaft, Gesellschaft, Helmut Schmidt Haus *** 22 09 2017 Hamburg Speer place Hanseatic city Hamburg Bust from Helmut Schmidt in Helmut Schmidt House Hamburg Helmut Schmidt former Federal Chancellor Federal Chancellor Bust Bronze Bronze bust Sculptors Rainer Fetting the Time Weekly Newspaper the Time Publishing Group Editor Messages politics Economy Society Helmut Schmidt House"
-    },
-    {
-      "title": "Schweden: Tote und Verletzte bei schwerem Busunfall in Stockholm",
-      "teaser": "Ein Doppeldeckerbus hat im Zentrum von Stockholm eine Bushaltestelle gerammt. Der schwedischen Polizei zufolge starben bei dem Unglück drei Menschen.",
-      "url": "https://www.zeit.de/gesellschaft/2025-11/schweden-busunfall-tote-verletzte",
-      "image_url": "https://img.zeit.de/gesellschaft/2025-11/busunfall-in-stockholm-bild/super__430x287",
-      "image_title": "Schweden: Sweden Bus Crash A double-decker bus crashed into a bus shelter in Stockholm on Friday, Nov. 14, 2025, causing fatalities and injuries."
     },
     {
       "title": "Opioidkrise: Richter signalisiert Zustimmung zu Vergleich in Opioidkrise",
@@ -570,7 +569,7 @@
     },
     {
       "title": "Liveblog:Krieg in Gaza: UN melden mehr als 260 Angriffe auf Palästinenser im Westjordanland",
-      "teaser": "Ein UN-Sprecher spricht von einem Muster wachsender Gewalt gegen Palästinenser im Westjordanland. Die Journalistenvereinigung IJF fordert Zugang zu Gaza. Das Liveblog",
+      "teaser": "Ein UN-Sprecher spricht von einem Muster wachsender Gewalt gegen Palästinenser im Westjordanland. Die Journalistenvereinigung IFJ fordert Zugang zu Gaza. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2025-10/krieg-gaza-israel-hamas-liveblog",
       "image_url": "https://img.zeit.de/politik/ausland/2025-11/558466091-bild/wide__892x502",
       "image_title": "Krieg in Gaza: Schäden in einem Industriegebiet nach einem Angriff israelischer Siedler am Rande des Dorfes Beit Lid im nördlichen Westjordanland"
@@ -743,11 +742,11 @@
       "image_title": "Fridays for Future: Klimastreik Fridays for Future - Berlin Bei einer Demonstration der Klimabewegung Fridays for Future zur Weltklimakonferenz COP30 am Brandenburger Tor ist der LED-Schriftzug „Keep Your Promises“ zu sehen. Es finden weltweit Klimaproteste statt, auch an zahlreichen Orten in Deutschland. +++ dpa-Bildfunk +++ 14/11/2025"
     },
     {
-      "title": "Weltklimakonferenz : Indigene blockieren Eingang zum UN-Klimagipfel in Brasilien",
-      "teaser": "Indigene und Aktivisten haben bei der Weltklimakonferenz für einen besseren Schutz ihrer Gebiete protestiert. Der Präsident des Gipfels setzte sich mit ihnen zusammen.",
-      "url": "https://www.zeit.de/gesellschaft/2025-11/weltklimakonferenz-indigene-protest-zugang",
-      "image_url": "https://img.zeit.de/politik/2025-11/indigene-blockieren-eingang-der-weltklimakonferenz-im-brasilianischen-belem-bild/super__430x287",
-      "image_title": "Weltklimakonferenz: Weltklimakonferenz COP30 Eine indigene Gruppe blockiert den Eingang zum UN-Klimagipfel COP30, während Teilnehmer um sie herumgehen. +++ dpa-Bildfunk +++ 14/11/2025"
+      "title": "Schweden: Tote und Verletzte bei schwerem Busunfall in Stockholm",
+      "teaser": "Ein Doppeldeckerbus hat im Zentrum von Stockholm eine Bushaltestelle gerammt. Der schwedischen Polizei zufolge starben bei dem Unglück drei Menschen.",
+      "url": "https://www.zeit.de/gesellschaft/2025-11/schweden-busunfall-tote-verletzte",
+      "image_url": "https://img.zeit.de/gesellschaft/2025-11/busunfall-in-stockholm-bild/super__430x287",
+      "image_title": "Schweden: Sweden Bus Crash A double-decker bus crashed into a bus shelter in Stockholm on Friday, Nov. 14, 2025, causing fatalities and injuries."
     },
     {
       "title": "Kino: Deutscher Filmemacher und Autor Hark Bohm ist tot",
@@ -1049,11 +1048,11 @@
       "image_title": "Ungesendete Nachrichten: Welche Nachricht haben Sie nie abgeschickt?"
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
       "url": "https://studiengaenge.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wege nach dem Schulabschluss: \"Man muss sich nicht so viel Druck machen\"",
@@ -1098,36 +1097,36 @@
       "image_title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Wie ein Hamburger Klimaforscher die COP30 in Brasilien erlebt"
     },
     {
-      "title": "Bären-Alarm: Rekordzahl an Todesfällen - Japan bläst zur Bärenjagd",
-      "url": "https://www.zeit.de/news/2025-11/15/rekordzahl-an-todesfaellen-japan-blaest-zur-baerenjagd"
+      "title": "Fotografie: Bilder des Tages",
+      "url": "https://www.zeit.de/news/2025-11/15/bilder-des-tages"
     },
     {
-      "title": "Medien: Trump kündigt Milliardenklage gegen BBC an",
-      "url": "https://www.zeit.de/news/2025-11/15/trump-kuendigt-milliardenklage-gegen-bbc-an"
+      "title": "Fernsehen: Wilsberg ermittelt analog in der digitalen Welt",
+      "url": "https://www.zeit.de/news/2025-11/15/wilsberg-ermittelt-analog-in-der-digitalen-welt"
     },
     {
-      "title": "Verkehr: Frau nach Unfall schwer verletzt",
-      "url": "https://www.zeit.de/news/2025-11/15/frau-nach-unfall-schwer-verletzt"
+      "title": "Kuriosität: Warum sich die \"Hobby Dogging\"-Lehrerin unverstanden fühlt",
+      "url": "https://www.zeit.de/news/2025-11/15/warum-sich-die-hobby-dogging-lehrerin-unverstanden-fuehlt"
     },
     {
-      "title": "Rentenstreit: Kretschmer: Aktuelle Rentenpolitik vergrößert das Problem",
-      "url": "https://www.zeit.de/news/2025-11/15/kretschmer-aktuelle-rentenpolitik-vergroessert-das-problem"
+      "title": "Bestattungen: Asche-Diamant oder Waldgrab? Was in Sachsen erlaubt ist",
+      "url": "https://www.zeit.de/news/2025-11/15/asche-diamant-oder-waldgrab-was-in-sachsen-erlaubt-ist"
     },
     {
-      "title": "Leute: Heidi Klum will auch Männer mit Halbglatzen in Werbung sehen",
-      "url": "https://www.zeit.de/news/2025-11/15/heidi-klum-will-auch-maenner-mit-halbglatzen-in-werbung-sehen"
+      "title": "Cold-Case-Ermittlungen: Sexualmord vor 44 Jahren: Rückschlag für Ermittler",
+      "url": "https://www.zeit.de/news/2025-11/15/sexualmord-vor-44-jahren-rueckschlag-fuer-ermittler"
     },
     {
-      "title": "Feuerwehreinsatz: Explosion in Obdachlosenunterkunft - ein Verletzter",
-      "url": "https://www.zeit.de/news/2025-11/14/explosion-in-duesseldorfer-obdachlosenunterkunft"
+      "title": "Software: Grünes Licht für Microsoft 365 in Hessens Verwaltung",
+      "url": "https://www.zeit.de/news/2025-11/15/gruenes-licht-fuer-microsoft-365-in-hessens-verwaltung"
     },
     {
-      "title": "Kalenderblatt: Was geschah am 15. November?",
-      "url": "https://www.zeit.de/news/2025-11/14/was-geschah-am-15-november"
+      "title": "Straßenreinigung: Salz, Sole, Splitt: Wie halten es Kommunen mit dem Winter?",
+      "url": "https://www.zeit.de/news/2025-11/15/salz-sole-splitt-wie-halten-es-kommunen-mit-dem-winter"
     },
     {
-      "title": "Reitturnier in Stuttgart: Französischer Sieg beim Springen in Stuttgart",
-      "url": "https://www.zeit.de/news/2025-11/14/schulze-topphoff-gewinnt-springen-in-stuttgart"
+      "title": "Tiere: Vom Aussterben bedroht – Junge Auerhühner zeigen sich",
+      "url": "https://www.zeit.de/news/2025-11/15/vom-aussterben-bedroht-junge-auerhuehner-zeigen-sich"
     }
   ]
 }
