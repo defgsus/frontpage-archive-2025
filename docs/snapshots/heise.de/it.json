@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-16T14:08:19",
+  "timestamp": "2025-11-16T15:08:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,47 @@
   ],
   "articles": [
     {
+      "title": "AlertSicherheitslücken: Attacken auf Dell Alienware Command Center möglich",
+      "teaser": "Ein Sicherheitsupdate schließt Schwachstellen in Dell Alienware Command Center.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Attacken-auf-Dell-Alienware-Command-Center-moeglich-11080361.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
+      "title": "Angreifer steigen über Zero-Day-Lücke bei Logitech ein",
+      "teaser": "Beim Hersteller für Computerperipherie Logitech gab es einen IT-Sicherheitsvorfall. Dabei konnten Angreifer auf interne Daten zugreifen.",
+      "url": "https://www.heise.de/news/Angreifer-steigen-ueber-Zero-Day-Luecke-bei-Logitech-ein-11080333.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
+    },
+    {
+      "title": "Sam Altman: ChatGPT macht weniger Gedankenstriche",
+      "teaser": "In einem Post bei X erklärt der OpenAI-Chef, dass man ein leidiges Problem mit den überlangen Querstrichen in den Griff bekommen hat.",
+      "url": "https://www.heise.de/news/Sam-Altman-ChatGPT-macht-weniger-Gedankenstriche-11080329.html"
+    },
+    {
       "title": "Arista und Palo Alto tun sich zusammen für Rechenzentrums-Sicherheit",
       "teaser": "Netzwerkausrüster Arista und Sicherheitsspezialist Palo Alto kombinieren ihre Ansätze bei Switches und Firewalls für mehr Sicherheit im Rechenzentrums-Netzwerk.",
       "url": "https://www.heise.de/news/Arista-und-Palo-Alto-tun-sich-zusammen-fuer-Rechenzentrums-Sicherheit-11080021.html",
       "image_title": "Server-Hardware"
+    },
+    {
+      "title": "TestsKompakte KI-Workstation: Gigabyte AI Top Atom alias Nvidia DGX Spark im Test",
+      "url": "https://www.heise.de/tests/Kompakte-KI-Workstation-Gigabyte-AI-Top-Atom-alias-Nvidia-DGX-Spark-im-Test-10867427.html",
+      "image_title": "Die Gigabyte AI Top Atom ist die Gigabyte-Version der Nvidia DGX Spark."
+    },
+    {
+      "title": "HintergrundCheckliste: Einkauf von KI-Anwendungen",
+      "url": "https://www.heise.de/hintergrund/Checkliste-Einkauf-von-KI-Anwendungen-11063123.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberBluetooth-Reichweite mit ESP32 erhöhen: Einsteigerprojekt für Home Assistant",
+      "url": "https://www.heise.de/ratgeber/Bluetooth-Reichweite-mit-ESP32-erhoehen-Einsteigerprojekt-fuer-Home-Assistant-11073916.html",
+      "image_title": "Ein ESP32 kann in Home Assistant als Bluetooth-Proxy die Reichweite für Bluetooth-Sensoren erhöhen."
+    },
+    {
+      "title": "Günstiger Laptop Blackview Acebook 6 ab 270 Euro im Test",
+      "teaser": "Der 15,6-Zoll-Laptop Blackview Acebook 6 bietet einen Intel N150 und lockt mit einem Kampfpreis von nur 244 Euro.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/guenstiger-laptop-fuers-office-ab-270-euro-im-test-blackview-acebook-6/v3q1g8v?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Autonome KI-Cyberattacke: Hat sie wirklich so stattgefunden?",
@@ -46,21 +83,6 @@
       "title": "Lange Datenträgerauswertung: Gerichte erkennen Verstoß gegen Grundrechte",
       "teaser": "Die Justiz zieht zunehmend die Notbremse gegen unverhältnismäßige Verfahrensdauern beim Durchforsten von IT-Geräten und legt Obergrenzen für Einbehalte fest.",
       "url": "https://www.heise.de/news/Lange-Datentraegerauswertung-Gerichte-erkennen-Verstoss-gegen-Grundrechte-11080063.html"
-    },
-    {
-      "title": "TestsKompakte KI-Workstation: Gigabyte AI Top Atom alias Nvidia DGX Spark im Test",
-      "url": "https://www.heise.de/tests/Kompakte-KI-Workstation-Gigabyte-AI-Top-Atom-alias-Nvidia-DGX-Spark-im-Test-10867427.html",
-      "image_title": "Die Gigabyte AI Top Atom ist die Gigabyte-Version der Nvidia DGX Spark."
-    },
-    {
-      "title": "HintergrundCheckliste: Einkauf von KI-Anwendungen",
-      "url": "https://www.heise.de/hintergrund/Checkliste-Einkauf-von-KI-Anwendungen-11063123.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberBluetooth-Reichweite mit ESP32 erhöhen: Einsteigerprojekt für Home Assistant",
-      "url": "https://www.heise.de/ratgeber/Bluetooth-Reichweite-mit-ESP32-erhoehen-Einsteigerprojekt-fuer-Home-Assistant-11073916.html",
-      "image_title": "Ein ESP32 kann in Home Assistant als Bluetooth-Proxy die Reichweite für Bluetooth-Sensoren erhöhen."
     },
     {
       "title": "Meta investierte 100 Milliarden Dollar ins Metaverse – Wo bleibt es?",
@@ -122,28 +144,6 @@
       "teaser": "Aufgrund von Engpässen bei der Produktion müssen Ärzte und Apotheker doch erst Mitte 2026 über einen ECC-fähigen elektronischen Heilberufsausweis verfügen.",
       "url": "https://www.heise.de/news/Aerzte-Apotheker-erleichtert-Frist-fuer-neue-E-Heilberufsausweise-verlaengert-11079750.html",
       "image_title": "Arzt vor einem Bildschirm, auf dem ein Verwaltungssystem zu sehen ist."
-    },
-    {
-      "title": "Developer Snapshots: Kleinere News der Woche",
-      "teaser": "Die Übersicht enthält kleine, aber interessante Meldungen zu Google, Unreal, Rust, Databricks, Docker, BoxLang, Keycloak und W3C.",
-      "url": "https://www.heise.de/news/Developer-Snapshots-Kleinere-News-der-Woche-11078459.html",
-      "image_title": "Kopf von einem Mann auf blauem Hintergrund zu sehen, der sich selbst mit Blitzlicht fotografiert"
-    },
-    {
-      "title": "Post Quantum Cryptography | c’t uplink",
-      "teaser": "In dieser Folge des c’t uplink sprechen wir über die Folgen leistungsstarker Quantencomputer für gängige Verschlüsselungsalgorithmen.",
-      "url": "https://www.heise.de/news/Post-Quantum-Cryptography-c-t-uplink-11076058.html"
-    },
-    {
-      "title": "Top 10: Das beste Handy-Ladegerät bis 65 Watt im Test",
-      "teaser": "Um Handys zu laden, benötigt man kein teures Ladegerät. Wir zeigen die besten USB-Netzteile unter 65 Watt.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-handy-ladegeraet-bis-65-w-im-test-auch-guenstig-schnell-laden/y3c3lpe?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Galaxy XR im Einsatz, Muse-Pencil für die Vision Pro | TNBT-Podcast",
-      "teaser": "Themen: Erste persönliche Erfahrungen mit Samsungs Galaxy XR und Vergleich zur Vision Pro; Logitechs Muse mit tiefer visionOS-Integration.",
-      "url": "https://www.heise.de/news/Galaxy-XR-im-Einsatz-Muse-Pencil-fuer-die-Vision-Pro-TNBT-Podcast-11079541.html",
-      "image_title": "Galaxy XR und Android XR im Hands-on TNBT-Podcast"
     },
     {
       "title": "NewsTelekom verdient nicht genug Geld mit Glasfaser-Internet",
