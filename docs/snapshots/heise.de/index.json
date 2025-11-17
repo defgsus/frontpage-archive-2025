@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-17T16:14:04",
+  "timestamp": "2025-11-17T17:10:29",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "X Chat: Überarbeiteter Messenger mit Verschlüsselung",
+      "url": "https://www.heise.de/news/X-Chat-Ueberarbeiteter-Messenger-mit-Verschluesselung-11082028.html"
+    },
+    {
+      "title": "Kali Linux 2025-3 mit GenAI und MCP zur einfachen Penteststeuerung im Test",
+      "url": "https://www.heise.de/tests/Kali-Linux-2025-3-mit-GenAI-und-MCP-zur-einfachen-Penteststeuerung-im-Test-11039523.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "3D-Druck mit Holz",
+      "url": "https://www.heise.de/news/Holzprodukte-aus-dem-3D-Drucker-11081195.html"
+    },
     {
       "title": "Finanzminister fordert in Peking fairen Wettbewerb",
       "url": "https://www.heise.de/news/Klingbeil-fordert-in-Peking-fairen-Wettbewerb-11081958.html"
@@ -52,20 +66,6 @@
     {
       "title": "Cyberangriffe erschüttern Börsen: Massive finanzielle Folgen",
       "url": "https://www.heise.de/news/Studie-Cyberangriffe-treffen-Aktienkurse-und-Finanzprognosen-hart-11081606.html"
-    },
-    {
-      "title": "KI-Update kompakt: KI-Cyberattacke, Firefox KI-Fenster, Prometheus, AI-Racing",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Cyberattacke-Firefox-KI-Fenster-Prometheus-AI-Racing-11081075.html"
-    },
-    {
-      "title": "Vorsicht Kunde: IT-Chaos bei der Münchner Verkehrsgesellschaft",
-      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-IT-Chaos-bei-der-Muenchner-Verkehrsgesellschaft-10639671.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Washington Post: Daten von rund 10.000 Menschen bei IT-Einbruch kopiert",
-      "url": "https://www.heise.de/news/IT-Vorfall-bei-Washington-Post-Daten-von-knapp-10-000-Leuten-abgeflossen-11081532.html"
     },
     {
       "title": "ABSWarum die Sicherheitstechnik bei E-Bikes kaum genutzt wird",
@@ -184,6 +184,29 @@
       "image_title": "Signal-App auf einem Smartphone"
     },
     {
+      "title": "X Chat: Überarbeiteter Messenger mit Verschlüsselung",
+      "teaser": "Die Kurznachrichtenplattform X hat ihren Messenger überarbeitet. Die neue Version bietet neue Features, die von Mitbewerbern bekannt sind.",
+      "url": "https://www.heise.de/news/X-Chat-Ueberarbeiteter-Messenger-mit-Verschluesselung-11082028.html",
+      "image_title": "X-Logo auf einem Smartphone"
+    },
+    {
+      "title": "Kali Linux 2025-3 mit GenAI und MCP zur einfachen Penteststeuerung im Test",
+      "teaser": "Die Pentesting-Distribution Kali Linux hat in Version 2025-3 KI-Unterstützung erhalten. Dank MCP lassen sich viele der enthaltenen Tools per KI-Prompt steuern.",
+      "url": "https://www.heise.de/tests/Kali-Linux-2025-3-mit-GenAI-und-MCP-zur-einfachen-Penteststeuerung-im-Test-11039523.html",
+      "image_title": ","
+    },
+    {
+      "title": "Das europäische Cloud-Paradoxon überwinden",
+      "teaser": "Deutsche Unternehmen wünschen sich europäische Cloud-Lösungen, nutzen aber Hyperscaler aus Nicht-EU-Staaten, weil sie Funktionseinbußen befürchten. Doch es gibt souveräne Alternativen aus Europa.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7101019094&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "3D-Druck mit Holz",
+      "teaser": "Holzabfälle eignen sich hervorragend als Basis für 3D-Filamente, aus denen viele nützliche Dinge bis hin zu umweltfreundlichen Holzmöbeln entstehen können.",
+      "url": "https://www.heise.de/news/Holzprodukte-aus-dem-3D-Drucker-11081195.html",
+      "image_title": "Mosaik aus Abbildungen eines Workshops, bei dem unterschiedliche Holzprodukte durch 3D-Druck entstanden."
+    },
+    {
       "title": "Finanzminister fordert in Peking fairen Wettbewerb",
       "teaser": "Bundesfinanzminister Klingbeil hat bei Gesprächen mit der chinesischen Regierung die Sorgen deutscher Firmen angesprochen.",
       "url": "https://www.heise.de/news/Klingbeil-fordert-in-Peking-fairen-Wettbewerb-11081958.html",
@@ -194,11 +217,6 @@
       "teaser": "Es kracht, scheppert, rumpelt und quatscht ohne Unterbrechung: \"Marvel’s Deadpool VR\" ist ein unterhaltsames, aber zweischneidiges Schwert für VR-Fans.",
       "url": "https://www.heise.de/tests/Marvel-s-Deadpool-VR-ist-ein-schwer-auszuhaltendes-Feuerwerk-fuer-Meta-Quest-3-11081747.html",
       "image_title": "Deadpool sprintet in Marvel’s Deadpool VR mit gezückter Pistole durch eine futuristische Arena, im Hintergrund das leuchtende Logo von Mojo TV."
-    },
-    {
-      "title": "Security-as-a-Service als ganzheitliches Schutzkonzept",
-      "teaser": "Cyberangriffe gehören längst zum Alltag, klassische Sicherheitslösungen reichen nicht mehr. Es braucht ein Konzept, das Technik, Prozesse und Compliance verbindet – flexibel, skalierbar und aktuell.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7125783019&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Datenschutz-Reform: EU-Staaten einigen sich auf schnellere DSGVO-Durchsetzung",
@@ -216,24 +234,6 @@
       "teaser": "Google will mit Android 17 alternative App-Stores neben dem Play Store zulassen. Ein Mockup zeigt, wie einfach die Installation sein soll.",
       "url": "https://www.heise.de/news/Mit-Android-17-Google-ermoeglicht-einfache-Installation-alternativer-App-Stores-11081728.html",
       "image_title": "Android-Logo auf Smartphone vor verschwommenem Hintergrund"
-    },
-    {
-      "title": "Lufthansa Technik macht den Tisch im Flugzeug zum Touchscreen",
-      "teaser": "Lufthansa Technik integriert einen Touchscreen in den Klapptisch im Flugzeug. Einen Prototyp stellt das Unternehmen auf der Luftfahrtmesse in Dubai vor.",
-      "url": "https://www.heise.de/news/Lufthansa-Technik-macht-den-Tisch-im-Flugzeug-zum-Touchscreen-11081809.html",
-      "image_title": "Der Klapptisch im Flugzeug wird zum Touchscreen"
-    },
-    {
-      "title": "Cyberangriffe erschüttern Börsen: Massive finanzielle Folgen",
-      "teaser": "Eine neue Umfrage zeigt drastische finanzielle Folgen von Cyberangriffen: 70 Prozent der börsennotierten Unternehmen mussten ihre Gewinnprognosen anpassen.",
-      "url": "https://www.heise.de/news/Studie-Cyberangriffe-treffen-Aktienkurse-und-Finanzprognosen-hart-11081606.html",
-      "image_title": "Computer-Platine in blau, rotes Schloss, rote Spinne, roter Totenschädel"
-    },
-    {
-      "title": "KI-Update kompakt: KI-Cyberattacke, Firefox KI-Fenster, Prometheus, AI-Racing",
-      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Cyberattacke-Firefox-KI-Fenster-Prometheus-AI-Racing-11081075.html",
-      "image_title": "KI-Update Podcast-Bild"
     },
     {
       "title": "UpdateBitcoins erheizenHeizlüfter mit Bitcoin-Miner: Ofen 2 im Test",
@@ -306,6 +306,24 @@
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
     },
     {
+      "title": "Lufthansa Technik macht den Tisch im Flugzeug zum Touchscreen",
+      "teaser": "Lufthansa Technik integriert einen Touchscreen in den Klapptisch im Flugzeug. Einen Prototyp stellt das Unternehmen auf der Luftfahrtmesse in Dubai vor.",
+      "url": "https://www.heise.de/news/Lufthansa-Technik-macht-den-Tisch-im-Flugzeug-zum-Touchscreen-11081809.html",
+      "image_title": "Der Klapptisch im Flugzeug wird zum Touchscreen"
+    },
+    {
+      "title": "Cyberangriffe erschüttern Börsen: Massive finanzielle Folgen",
+      "teaser": "Eine neue Umfrage zeigt drastische finanzielle Folgen von Cyberangriffen: 70 Prozent der börsennotierten Unternehmen mussten ihre Gewinnprognosen anpassen.",
+      "url": "https://www.heise.de/news/Studie-Cyberangriffe-treffen-Aktienkurse-und-Finanzprognosen-hart-11081606.html",
+      "image_title": "Computer-Platine in blau, rotes Schloss, rote Spinne, roter Totenschädel"
+    },
+    {
+      "title": "KI-Update kompakt: KI-Cyberattacke, Firefox KI-Fenster, Prometheus, AI-Racing",
+      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Cyberattacke-Firefox-KI-Fenster-Prometheus-AI-Racing-11081075.html",
+      "image_title": "KI-Update Podcast-Bild"
+    },
+    {
       "title": "Vorsicht Kunde: IT-Chaos bei der Münchner Verkehrsgesellschaft",
       "teaser": "Besonders Pendler sind auf eine funktionierende Vertriebsinfrastruktur für ihre ÖPNV-Tickets angewiesen. In München gibt es da offenbar Schwachstellen.",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-IT-Chaos-bei-der-Muenchner-Verkehrsgesellschaft-10639671.html"
@@ -364,6 +382,11 @@
       "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
+      "title": "Cybersicherheit dank KI: Weniger Risiko, mehr Reaktionsfähigkeit",
+      "teaser": "Wie können Unternehmen ihre Cybersicherheit strategisch verbessern? Einzelmaßnahmen reichen oft nicht aus. Erfahren Sie hier, wie ein 360-Grad-Ansatz mit einer KI-basierten Security-Plattform Unternehmen langfristig helfen könnte .",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/ganzheitliche-cybersicherheit-dank-ki-risiken-minimieren-reaktionsfaehigkeit-staerken-4969/?source=hbsad-ersatz"
+    },
+    {
       "title": "XPipe 19: SSH-Manager unterstützt nun auch alte Unix-Systeme",
       "teaser": "Der Open-Source-SSH-Manager XPipe verbindet sich in Version 19 erstmals auch mit veralteten Unix-Varianten und beherrscht reines SFTP.",
       "url": "https://www.heise.de/news/XPipe-19-SSH-Manager-unterstuetzt-nun-auch-alte-Unix-Systeme-11081005.html",
@@ -380,11 +403,6 @@
       "teaser": "Die Programme des ZDF gibt es ab Dienstag nur noch in HD. Betroffen sind neben Satellitennutzern auch viele Kabelkunden.",
       "url": "https://www.heise.de/news/ZDF-Abschaltung-der-SD-Kanaele-steht-bevor-11081219.html",
       "image_title": "ZDF-Studio in Berlin"
-    },
-    {
-      "title": "Gartner-Analyse: In drei Schritten zu erfolgreichen KI-Investitionen",
-      "teaser": "Welche Auswirkungen hat KI auf Produktivität, Wirtschaftlichkeit und Zukunftsfähigkeit von Unternehmen? Welche Rendite bringen Investitionen in KI-Systeme? Antworten liefert Gartner.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/gartner-analyse-in-drei-schritten-zu-erfolgreichen-ki-investitionen/?source=hbsadersatz"
     },
     {
       "title": "Live-Webinar: Den Arbeitsalltag rechtssicher mit KI erleichtern",
@@ -426,22 +444,6 @@
       "teaser": "Wir schauen uns den Markt der Monoblock-Propan-Luft-Wasser-Wärmepumpen für 12 +-1 kW Heizlast an und sortieren nach Funktion und Herstellerländern.",
       "url": "https://www.heise.de/ratgeber/Vergleich-Die-44-interessantesten-Monoblock-Waermepumpen-mit-R290-zur-Sanierung-10962735.html",
       "image_title": "Leistungsstarke Vaillant-Wärmepumpe vor leistungsbedürftigem Bestandshaus."
-    },
-    {
-      "title": "Tape-Backup: LTO-10 erhöht auf 40 TByte",
-      "teaser": "Bei der Vorstellung der zehnten LTO-Generation gab es lange Gesichter, die Kapazitätserhöhung zum Vorgänger fiel gering aus. Nun legt das Konsortium nach.",
-      "url": "https://www.heise.de/news/Tape-Backup-LTO-10-erhoeht-auf-40-TByte-11081019.html"
-    },
-    {
-      "title": "Dickes Schwergewicht: Legt Apple beim iPhone 18 Pro Max nochmal einen drauf?",
-      "teaser": "Schon das iPhone 17 Pro Max ist ein Brummer. Doch beim Nachfolger will Apple offenbar wegen Kamera, Kühlung und neuen Chips nochmals draufsatteln.",
-      "url": "https://www.heise.de/news/Dickes-Schwergewicht-Legt-Apple-beim-iPhone-18-Pro-Max-nochmal-einen-drauf-11080077.html",
-      "image_title": "Apples iPhone 17 Pro"
-    },
-    {
-      "title": "Vergleichstest: Fünf Heimkinobeamer für kleine und große Geldbeutel",
-      "teaser": "Kinofilme in groß zu schauen, macht Spaß. Wer keinen riesigen Fernseher ins Wohnzimmer stellen will, greift zum Heimkinoprojektor mit Laser- oder LED-Lampen.",
-      "url": "https://www.heise.de/tests/Vergleichstest-Fuenf-Heimkinobeamer-fuer-kleine-und-grosse-Geldbeutel-10489413.html"
     },
     {
       "title": "Smarte Brille \"Inmo Air 3\" ist ein vollwertiger Android-Computer auf der Nase",
@@ -607,19 +609,20 @@
       "url": "https://www.heise.de/en/news/Steam-Machine-Price-reportedly-at-the-level-of-a-comparable-PC-11076845.html"
     },
     {
-      "title": "Last Call: MCP verstehen und KI-Agenten im Alltag nutzen – das c't-Webinar",
-      "teaser": "KI-Agenten übernehmen bald mehr als Textarbeit. Im c’t-Webinar erfahren Sie, wie MCP funktioniert, welche Chancen es bietet und wo Vorsicht geboten ist.",
-      "url": "https://www.heise.de/news/Last-Call-MCP-verstehen-und-KI-Agenten-im-Alltag-nutzen-das-c-t-Webinar-11076932.html"
+      "title": "Hohe DRAM- und Flash-Preise bremsen Verkäufe von Notebooks, Smartphones und PCs",
+      "teaser": "Marktforscher senken ihre Prognose für 2026: Wegen hoher Preise für RAM und Flash-Speicherchips erwarten sie geringeres Wachstum bei Computern und Handys.",
+      "url": "https://www.heise.de/news/Hohe-DRAM-und-Flash-Preise-bremsen-Verkaeufe-von-Notebooks-Smartphones-und-PCs-11081502.html",
+      "image_title": "Älterer Mensch am Smartphone vor dem Laptop"
+    },
+    {
+      "title": "Nützliche ProjekteRaspberry Pi als universeller Helfer im Netzwerk",
+      "teaser": "Mit eingebautem WLAN-Chip und Ethernet-Anschluss ist ein Raspberry Pi prädestiniert, Aufgaben im Netz zu übernehmen.",
+      "url": "https://www.heise.de/ratgeber/Raspberry-Pi-als-universeller-Helfer-im-Netzwerk-10712472.html"
     },
     {
       "title": "Tape-Backup: LTO-10 erhöht auf 40 TByte",
       "teaser": "Bei der Vorstellung der zehnten LTO-Generation gab es lange Gesichter, die Kapazitätserhöhung zum Vorgänger fiel gering aus. Nun legt das Konsortium nach.",
       "url": "https://www.heise.de/news/Tape-Backup-LTO-10-erhoeht-auf-40-TByte-11081019.html"
-    },
-    {
-      "title": "Philips TV-Topmodell 65OLED950 im Test: brillantes HDR und Ambilight",
-      "teaser": "Leuchtstarkes OLED-Panel, effektive Bildoptimierung, guter Sound und Ambilight machen den 65OLED950 zum Top-TV. Das Flair früherer Philips-Fernseher fehlt aber.",
-      "url": "https://www.heise.de/tests/Philips-TV-Topmodell-65OLED950-im-Test-brillantes-HDR-und-Ambilight-10962252.html"
     },
     {
       "title": "16 Fritzbox-Tipps: So setzen Sie den Router richtig an Mac, iPhone & Co. ein",
@@ -640,7 +643,7 @@
       "image_title": "Nutzer von Microsoft Teams"
     },
     {
-      "title": "Küchenschrank als Mediacenter",
+      "title": "Bastelprojekt: Ikea-Küchenschrank in Mediacenter verwandeln",
       "teaser": "Eine ausgediente Ikea-Hängevitrine lässt sich leicht in einen eleganten und flexibel nutzbaren Medienschrank mit verstellbarer Projektorplattform verwandeln.",
       "url": "https://www.heise.de/ratgeber/Kuechenschrank-als-Mediacenter-10737451.html"
     },
@@ -655,7 +658,7 @@
       "url": "https://www.heise.de/ratgeber/Bastler-Wissen-Aufbau-und-Funktionsweise-von-Topfbaendern-verstehen-10763262.html"
     },
     {
-      "title": "Photoshops Neural Filters: KI für kreative und präzise Bildbearbeitung",
+      "title": "Photoshops Neural Filters: KI für kreative und präzise Bildbearbeitung nutzen",
       "teaser": "Von Porträtretusche bis Restaurierung: So nutzen Fotografen Photoshops KI-Filter effektiv für bessere und natürlichere Bilder.",
       "url": "https://www.heise.de/ratgeber/Photoshops-Neural-Filters-KI-fuer-kreative-und-praezise-Bildbearbeitung-11075482.html",
       "image_title": ","
@@ -667,16 +670,16 @@
       "image_title": "Schwebend im Dunkel, wirkt diese Qualle fast wie ein Wesen aus einer anderen Welt. Das blaue Licht hebt ihre feinen Strukturen hervor und lässt die Tentakel durchscheinend wirken."
     },
     {
-      "title": "Techniken und Stile zur Bearbeitung von Porträts",
-      "teaser": "Ob Porträts in verschiedenen Stilen und mit der gewünschten Stimmung gelingen, hängt auch von der Bildbearbeitung ab. Wir zeigen Ihnen verschiedene Techniken.",
-      "url": "https://www.heise.de/ratgeber/Techniken-und-Stile-zur-Bearbeitung-von-Portraets-11072423.html",
-      "image_title": "Vier Porträts – vier Stimmungen. Von klassisch reduziert über farbintensiv und verträumt bis hin zum dramatischen Low-Key-Look – die Bildbearbeitung prägt die Wirkung maßgeblich., Alle Bilder: Markus Thoma"
-    },
-    {
       "title": "Polarlichter bis nach SüddeutschlandKräftiger Sonnensturm sorgt für Schauspiel am Himmel",
       "teaser": "Polarlichter gab es in den vergangenen Monaten schon häufiger mal zu sehen – jetzt aber so weit südlich wie selten.",
       "url": "https://www.heise.de/news/Kraeftiger-Sonnensturm-sorgt-fuer-Polarlichter-bis-nach-Bayern-11075171.html",
       "image_title": "Stunning,Aurora,Borealis,Green,And,Purple,Photography,From,Icela"
+    },
+    {
+      "title": "Apps zur Planung von Fotos im Praxistest",
+      "teaser": "Von Studiolicht bis Wetterplanung: Diese Apps helfen bei der Vorbereitung Ihrer nächsten Fotoaktion.",
+      "url": "https://www.heise.de/tests/Verschiedene-Apps-zur-Planung-von-Fotos-im-Praxistest-11071939.html",
+      "image_title": ", Big Shot Theory / stock.adobe.com"
     },
     {
       "title": "Agentic AI: Wenn KI autonom wird und wie man damit umgeht",
@@ -692,6 +695,12 @@
       "title": "Künstliche Intelligenz: Prozesse automatisieren mit orchestrierter KI",
       "teaser": "Orchestrierte Agenten übernehmen End-to-End-Prozesse: Die Low-Code-Plattformen n8n, Make und Zapier fungieren als Schicht zwischen klassischem System und KI.",
       "url": "https://www.heise.de/hintergrund/Kuenstliche-Intelligenz-Prozesse-automatisieren-mit-orchestrierter-KI-10639515.html"
+    },
+    {
+      "title": "Stark wie ein Bär, schwach bei der SoftwareSmart #5 Brabus im Test",
+      "teaser": "Der Smart #5 Brabus ist kräftig motorisiert und kann enorm schnell laden. Doch bei der Software hat die Marke noch einen weiten Weg vor sich.",
+      "url": "https://www.heise.de/tests/E-Auto-Smart-5-Brabus-im-Test-Stark-wie-ein-Baer-schwach-bei-der-Software-10963485.html",
+      "image_title": "Smart #5"
     },
     {
       "title": "Plan zum Weg an die SpitzeKommende Elektroautos von Mercedes",
@@ -710,12 +719,6 @@
       "teaser": "BMW hat auf der Eicma die F 450 GS vorgestellt. Die 450er soll Führerschein-A2-Besitzer ansprechen, benötigt fürs Gelände jedoch teure Nachrüstungen.",
       "url": "https://www.heise.de/news/Vorstellung-Enduro-BMW-F-450-GS-Die-kleine-GS-11071909.html",
       "image_title": "BMW F 450 GS"
-    },
-    {
-      "title": "Befreiung verlängertKeine Maut für E-Lkw",
-      "teaser": "Bis 2031 bleiben Lkw mit batterieelektrischem Antrieb von der Maut auf deutschen Autobahnen befreit.",
-      "url": "https://www.heise.de/news/Lkw-Maut-Befreiung-fuer-Elektro-Lkw-verlaengert-11078302.html",
-      "image_title": "Mercedes-Benz eActros 600"
     },
     {
       "title": "Testsieger misst BlutdruckTop 10: Die beste Smartwatch mit EKG im Test",
@@ -738,16 +741,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-amd-vorne-intel-holt-auf/6cybv8w?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Zwei Stunden täglich: Japans Antwort auf die Handy-Sucht",
-      "teaser": "Die Stadt Toyoake will die Handynutzung auch von Erwachsenen in der Freizeit limitieren – doch Strafen gibt es keine. Kann das funktionieren?",
-      "url": "https://www.heise.de/-11080269",
-      "image_title": "verschiedene Menschen gucken auf ihre Handys"
+      "title": "Neandertaler starben nicht aus – sie gingen in uns auf",
+      "teaser": "Ein mathematisches Modell zeigt: Wiederholte Vermischung mit Homo sapiens ließ die Neandertaler in nur 10.000 Jahren genetisch verschwinden.",
+      "url": "https://www.heise.de/-11079607",
+      "image_title": "Figur eines Neanderthalers in einem Museum."
     },
     {
-      "title": "Rente: Große Änderungen ab Dezember – Was Rentner jetzt wissen müssen",
-      "teaser": "Erwerbsminderungsrentner müssen mit Änderungen beim Zuschlag rechnen – in manchen Fällen gibt es sogar eine Nachzahlung.",
-      "url": "https://www.heise.de/-11079700",
-      "image_title": "Rentnerpaar sitzt vor dem Computer und verwaltet die Finanzen."
+      "title": "Älteste Münze Sachsens: Keltisches Gold belegt Handel vor 2200 Jahren",
+      "teaser": "Ein Sondengänger hat bei Leipzig eine keltische Goldmünze gefunden. Der Fund wirft neues Licht auf Handelsbeziehungen zwischen Kelten und Germanen.",
+      "url": "https://www.heise.de/-11074571",
+      "image_title": "Eine Goldmünze"
     },
     {
       "title": "Generationenkonflikt in der CDU: Warum die Junge Union gegen Merz rebelliert",
