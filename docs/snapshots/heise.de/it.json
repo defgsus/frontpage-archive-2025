@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-21T11:08:45",
+  "timestamp": "2025-11-21T12:19:22",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
+      "title": "AlertIBM AIX/VIOS: Angreifer können Ressourcen blockieren",
+      "teaser": "Die Entwickler von IBM haben das Betriebssystem AIX gegen mögliche Angriffe abgesichert.",
+      "url": "https://www.heise.de/news/IBM-AIX-VIOS-Angreifer-koennen-Ressourcen-blockieren-11087315.html",
+      "image_title": "Eine Tastatur mit einem symbolischen Updateknopf."
+    },
+    {
+      "title": "Fußball in 8K und 180 Grad: Apple tastet sich an europäische Top-Klubs heran",
+      "teaser": "In der Hoffnung auf zahlungskräftige Fans setzt Apple für die Vision Pro auch auf Sportinhalte. Nun rückt europäischer Spitzenfußball auf die Agenda.",
+      "url": "https://www.heise.de/news/Fussball-in-8K-und-180-Grad-Apple-tastet-sich-an-europaeische-Top-Klubs-heran-11087672.html",
+      "image_title": "Apple-Logo auf einem iPhone"
+    },
+    {
+      "title": "Virenscanner ClamAV: Große Aufräumaktion der Entwickler angekündigt",
+      "teaser": "Entrümpelung beim Virenscanner ClamAV: Cisco lässt die Entwickler alte Signaturen rauswerfen, auch alte Docker-Images müssen gehen.",
+      "url": "https://www.heise.de/news/Virenscanner-ClamAV-Entwickler-starten-Entruempelung-11087471.html",
+      "image_title": "ClamAV-Logo auf Hintergrund"
+    },
+    {
       "title": "CloudLand 2026: Jetzt noch Vorschläge einreichen für das Cloud-Native-Festival",
       "teaser": "Im Mai 2026 trifft sich die Community im Heide Park Soltau. Noch bis zum 28. November können interessierte Mitmacher:innen Vorschläge einreichen.",
       "url": "https://www.heise.de/news/CloudLand-2026-Jetzt-noch-Vorschlaege-einreichen-fuer-das-Cloud-Native-Festival-11082902.html",
       "image_title": "CloudLand 2026: Call for Papers"
-    },
-    {
-      "title": "Wie JMAP die E-Mail-Verwaltung modernisieren soll",
-      "teaser": "Das Mailprotokoll JMAP vereinheitlicht und vereinfacht die Kommunikation von Mailprogrammen und stellt einen modernen, offenen Standard zur Mailverwaltung dar.",
-      "url": "https://www.heise.de/hintergrund/Wie-JMAP-die-E-Mail-Verwaltung-modernisieren-soll-10617650.html"
-    },
-    {
-      "title": "PHP 8.5 bringt Klarheit in Syntax und Objektverarbeitung",
-      "teaser": "PHP 8.5 ist da: Die neue Hauptversion liefert einen Pipe Operator, Clone With, eine URI-Erweiterung und mehr Sicherheit für sauberen, lesbaren Code.",
-      "url": "https://www.heise.de/news/PHP-8-5-bringt-neue-Sprachfeatures-und-mehr-Lesbarkeit-fuer-Developer-11087166.html",
-      "image_title": "Kacheln, die mit Namen von Programmiersprachen beschriftet sind"
-    },
-    {
-      "title": "Windows 11 24H2Nach Juli-Updates treten nervende Probleme auf",
-      "teaser": "Microsoft räumt Probleme nach der Installation der Juli-Updates für Windows 11 24H2 ein – besonders für nicht persistente Installationen.",
-      "url": "https://www.heise.de/news/Microsoft-bestaetigt-Probleme-nach-Juli-Updates-fuer-Windows-11-24H2-11087291.html",
-      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
       "title": "RatgeberSecurity: AWS Organizations mit erweiterten Schutzmaßnahmen absichern",
@@ -62,6 +63,18 @@
       "title": "HintergrundKI-Rechenzentren: Plötzlicher Boom in Deutschland",
       "url": "https://www.heise.de/hintergrund/KI-Rechenzentren-Ploetzlicher-Boom-in-Deutschland-11083928.html",
       "image_title": "Der erste Spatenstich für das KI-Rechenzentrum von Schwarz Digits in Lübbenau mit 200 Megawatt."
+    },
+    {
+      "title": "PHP 8.5 bringt Klarheit in Syntax und Objektverarbeitung",
+      "teaser": "PHP 8.5 ist da: Die neue Hauptversion liefert einen Pipe Operator, Clone With, eine URI-Erweiterung und mehr Sicherheit für sauberen, lesbaren Code.",
+      "url": "https://www.heise.de/news/PHP-8-5-bringt-neue-Sprachfeatures-und-mehr-Lesbarkeit-fuer-Developer-11087166.html",
+      "image_title": "Kacheln, die mit Namen von Programmiersprachen beschriftet sind"
+    },
+    {
+      "title": "Windows 11 24H2: Nach Juli-Updates treten nervende Probleme auf",
+      "teaser": "Microsoft räumt Probleme nach der Installation der Juli-Updates für Windows 11 24H2 ein – besonders für nicht persistente Installationen.",
+      "url": "https://www.heise.de/news/Microsoft-bestaetigt-Probleme-nach-Juli-Updates-fuer-Windows-11-24H2-11087291.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
       "title": "Aus Softwarefehlern lernen – Teil 9: Bugs entscheiden über Leben und Tod",
@@ -136,18 +149,6 @@
       "teaser": "Mona TeleICU von Clinomic soll medizinische Daten schnell für die Intensivmedizin verfügbar machen und auch Videokonferenzen mit Spezialisten ermöglichen.",
       "url": "https://www.heise.de/news/Mona-Aachener-Projekt-stellt-Teleintensivmedizin-fuer-Europa-bereit-11086942.html",
       "image_title": "Mona-Plattform für die Intensivmedizin"
-    },
-    {
-      "title": "EU: iPhone muss WLAN-Infos teilen, Apple beschneidet die Watch",
-      "teaser": "Erste Details sickern durch, wie iPhones künftig WLAN-Zugangsdaten teilen. Für Geräte anderer Hersteller wird es wohl besser, für die Watch schlechter.",
-      "url": "https://www.heise.de/news/EU-Vorgabe-Wie-das-iPhone-bald-WLAN-Infos-teilt-und-die-Watch-beschneidet-11086879.html",
-      "image_title": "iPhone 17 Pro und iPhone 17"
-    },
-    {
-      "title": "\"Dungeons & Dragons: Battlemarked\" – Was taugt das Tabletop-Rollenspiel?",
-      "teaser": "\"Demeo\" feiert ein Comeback mit offizieller D&D-Lizenz. Wir klären, wie der Nachfolger \"Battlemarked\" das Spiel weiterentwickelt.",
-      "url": "https://www.heise.de/tests/Dungeons-Dragons-Battlemarked-Was-taugt-das-Tabletop-Rollenspiel-11081920.html",
-      "image_title": "Eine typische Battlemarked-Kampfszene aus dem Tutorial."
     },
     {
       "title": "News3,5 Milliarden User: Gesamtes WhatsApp-Verzeichnis abgeschnorchelt",
