@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-22T09:09:44",
+  "timestamp": "2025-11-22T10:09:51",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -74,14 +80,14 @@
   ],
   "articles": [
     {
-      "title": "FAZ+Anton Hofreiter im Gespräch: „Alles, was das Auto sieht, kann auch jemand in China sehen “",
-      "teaser": "Anton Hofreiter warnt vor russischen Drohnenangriffen auf die NATO. Im Interview spricht der Grüne auch über mögliche intime Gespräche in chinesischen Autos.",
-      "url": "https://www.faz.net/aktuell/politik/inland/anton-hofreiter-warnt-vor-angriffen-von-russland-und-autos-aus-china-110788748.html"
+      "title": "Klimaschutz: Das Comeback des Erdöls",
+      "teaser": "Das Ende der fossilen Energie schien manchen schon besiegelt. Doch jetzt zeigt sich: Die Nachfrage droht noch jahrzehntelang zu wachsen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/fossile-energien-und-klimawandel-erdoel-feiert-comeback-110788759.html"
     },
     {
-      "title": "FAZ+General Freuding: „Wir sind bereit für den Fight tonight“",
-      "teaser": "Christian Freuding ist der oberste Soldat des deutschen Heeres. Im Gespräch sagt der Inspekteur: Deutschland kann durch Hingabe und Innovationen kriegstüchtig werden.",
-      "url": "https://www.faz.net/aktuell/politik/inland/general-christian-freuding-wir-sind-bereit-fuer-den-fight-tonight-110786858.html"
+      "title": "Umweltminister Schneider: „So kann der Text nicht bleiben“",
+      "teaser": "Brasiliens Entwurf für ein Abschlussdokument der Weltklimakonferenz erzürnt die Europäer. Stehen die Verhandlungen gar vor dem Aus?",
+      "url": "https://www.faz.net/aktuell/politik/ausland/scheitern-die-cop-verhandlungen-accg-200254817.html"
     },
     {
       "title": "Krieg in der Ukraine: Strack-Zimmermann: US-Friedensplan wäre irrer Diktatfrieden",
@@ -115,6 +121,13 @@
       "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/ex-kanzleramtschef-schmit-ueber-ukraine-hilfen-frieden-und-eigene-fehler-200252317.html"
     },
     {
+      "title": "FAZ+Sicherheit in Innenstädten: „Abends wird die Zeil zum Angstraum“",
+      "teaser": "Nach der „Stadtbild-Debatte“ spricht der Frankfurter Polizeipräsident Stefan Müller über die Zustände in der City. Dabei sieht er auch die Stadtpolitik in der Pflicht.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/stadtbild-debatte-wie-sicher-ist-die-zeil-110788112.html",
+      "image_url": "https://media0.faz.net/image/w730/9050dee645b4/w2988h1681x5y317/112025/1.10782859/an-den-wochenenden-werden-auf.webp",
+      "image_title": "An den Wochenenden werden auf der Zeil die meisten Straftaten erfasst."
+    },
+    {
       "title": "Unmut im Fußballstadion: Ist die Inszenierung wichtiger als das Spiel?",
       "teaser": "In deutschen Fußballstadien werden riesige Fahnen geschwenkt, die eine attraktive Kulisse schaffen, aber anderen Zuschauern die Sicht versperren. Viele Fans ärgert das. Doch die Klubs wirken machtlos.",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/wie-ultras-anderen-bundesliga-fans-mit-fahnen-die-sicht-nehmen-110788310.html",
@@ -129,10 +142,11 @@
       "image_title": "Schlüsselposition: Hausverwaltungen spielen eine wichtige Rolle für Eigentümergemeinschaften."
     },
     {
-      "title": "FAZ+IG-Metall-Chefin Benner: „Dann gibt’s wirklich Krawall“",
-      "teaser": "Gewerkschaftschefin Christiane Benner wirft den deutschen Chefs Planlosigkeit vor. Im Interview warnt sie davor, dass zunehmend jüngere Arbeiter von den Sparprogrammen der Unternehmen betroffen sein werden.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ig-metall-chefin-dann-gibts-wirklich-krawall-110787460.html",
-      "image_url": "https://media0.faz.net/image/w730/4f751c9a0fbf/w3000h1688x0y62/112025/1.10787459/pp-1-10787459.webp"
+      "title": "FAZ+Anton Hofreiter im Gespräch: „Alles, was das Auto sieht, kann auch jemand in China sehen “",
+      "teaser": "Anton Hofreiter warnt vor russischen Drohnenangriffen auf die NATO. Im Interview spricht der Grüne auch über mögliche intime Gespräche in chinesischen Autos.",
+      "url": "https://www.faz.net/aktuell/politik/inland/anton-hofreiter-warnt-vor-angriffen-von-russland-und-autos-aus-china-110788748.html",
+      "image_url": "https://media0.faz.net/image/w730/434c8c77afcf/w3712h2088x0y194/202511/43601.0.1502710164/anton-hofreiter-buendnis-90.webp",
+      "image_title": "Anton Hofreiter (Bündnis 90/ Die Grünen)"
     },
     {
       "title": "FAZ+„Mr. Nobody against Putin“: „Unsere Schule wurde zu einer kleinen Militärbasis“",
@@ -142,18 +156,11 @@
       "image_title": "„Die Jugend wächst nicht mit Empathie auf, ­sondern mit erlerntem Hass“: Szene aus der Dokumentation „Mr. Nobody Against Putin“."
     },
     {
-      "title": "FAZ+Sexualerziehung: Woher kommen die Babys?",
-      "teaser": "Die Aufklärung von Kita- oder Grundschulkindern wird von manchen Politikern als „Frühsexualisierung“ bekämpft. Dabei ist es bereits für kleine Kinder wichtig, Bescheid zu wissen.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/sexualaufklaerung-kleiner-kinder-woher-kommen-die-babys-110779825.html",
-      "image_url": "https://media0.faz.net/image/w730/41364b2ab911/w6000h3375x0y476/202511/43601.0.1494519715/kinder-wollen-vor-allem-dann.webp",
-      "image_title": "Kinder wollen vor allem dann alles über Geburt und Zeugung wissen, wenn ein Geschwisterchen unterwegs ist."
-    },
-    {
-      "title": "Das Beste lesen mit FAZ+: Was ein Aida-Kapitän verdient und welchen Rat Warren Buffett gibt",
-      "teaser": "Mit unserem Angebot FAZ+ erhalten Sie jeden Monat Zugriff auf mehr als 1000 exklusive Beiträge auf FAZ.NET. Unter anderem auf diese beliebtesten Stücke der Woche.",
-      "url": "https://www.faz.net/aktuell/aida-was-ein-kreuzfahrt-kapitaen-verdient-accg-200253186.html",
-      "image_url": "https://media0.faz.net/image/w730/6bf230f00c13/w3000h1687x0y156/202509/43601.0.1281342351/das-kreuzfahrtschiff-aidasol.webp",
-      "image_title": "Das Kreuzfahrtschiff „AIDAsol“ läuft in den Hamburger Hafen ein."
+      "title": "Schlaftracker im Test: Herzrasen um Mitternacht",
+      "teaser": "Daten zur Schlafqualität zu sammeln, geht auch ohne unbequeme Smartwatch. Ein Selbstversuch mit Trackern von Amazfit und Garmin.",
+      "url": "https://www.faz.net/aktuell/technik-motor/digital/so-gut-sind-die-schlaftracker-von-garmin-und-amazfit-110782894.html",
+      "image_url": "https://media0.faz.net/image/w730/cbcf01daed31/w5595h3147x2380y729/202511/43601.0.1453159810/gute-nacht-elektronische.webp",
+      "image_title": "Gute Nacht: Elektronische Gadgets vermessen den Schlaf. Hier trägt die Dame Garmin am Oberarm"
     },
     {
       "title": "Bundestrainer Nagelsmann: Es lebe das Schw-!",
@@ -191,38 +198,38 @@
       "image_title": "Jochen Remmert"
     },
     {
+      "title": "Rot-Rekord für Kohr: „Lange kein so hartes Foul mehr gesehen“",
+      "teaser": "Dominik Kohr ist nun alleiniger Rekordhalter: Niemand ist in der Bundesliga so oft vom Platz gefolgen wie der Mainzer. Seine Mitspieler nehmen ihn in Schutz. Die Gegner aus Hoffenheim haben ganz andere Probleme.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/rot-rekord-fuer-mainzer-kohr-es-war-nicht-klug-accg-200255704.html"
+    },
+    {
+      "title": "Torwart Michael Zetterer: „Ein Kandidat für die Nationalmannschaft“",
+      "teaser": "Torhüter Michael Zetterer ist in kurzer Zeit zur festen Größe bei der Eintracht geworden. Für seinen jungen Rivalen Kauã Santos ist das keine gute Nachricht.",
+      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-michael-zetterer-ein-kandidat-fuers-dfb-team-110788910.html"
+    },
+    {
+      "title": "Mutwillig gefällt: So lebt der „Robin Hood“-Baum weiter",
+      "teaser": "Vor zwei Jahren fällten zwei Männer illegal den berühmten „Robin Hood“-Baum in Nordengland – warum, ist bis heute unklar. Nun können erste Setzlinge des Baumes eingepflanzt werden.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/so-lebt-der-robin-hood-baum-weiter-accg-200255754.html"
+    },
+    {
       "title": "Zerwürfnis mit Trump: Marjorie Taylor Greene kündigt Rückzug aus Kongress an",
       "teaser": "Die rechte Hardlinerin galt lange als eine der engsten Verbündeten von Donald Trump. Dann kam es zum Streit über die Epstein-Akten. Nun will die Abgeordnete ihr Amt niederlegen.",
       "url": "https://www.faz.net/aktuell/politik/ausland/streit-mit-trump-marjorie-taylor-greene-kuendigt-ruecktritt-an-accg-200255335.html"
     },
     {
-      "title": "Stopp des Sparpakets: Krankenkassen-Chef erwartet Welle an Beitragserhöhungen",
-      "teaser": "Der Bundesrat hat das Sparpaket von Gesundheitsministerin Warken vorerst gestoppt. Der Chef der Techniker Krankenkassen spricht von einem „fatalen Signal für Millionen Beitragszahler“.",
-      "url": "https://www.faz.net/aktuell/politik/inland/krankenkassen-chef-erwartet-welle-an-beitragserhoehungen-accg-200255447.html"
+      "title": "„Stranger Things“ endet: Wie ist es, als Serienstar aufzuwachsen?",
+      "teaser": "Früher Ruhm hat schon manchen Jungstar beschädigt. Nun endet die Serie „Stranger Things“, die gleich mehrere junge Menschen berühmt gemacht hat. Wie ist ihnen der Hype bekommen? Ein Treffen in Berlin.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/neue-staffel-stranger-things-kindheit-vor-der-kamera-110788742.html",
+      "image_url": "https://media0.faz.net/image/w920/98d1b4c3774b/w3000h1688x0y157/112025/1.10788730/vier-freunde-in-der-fremde.webp",
+      "image_title": "Vier Freunde in der Fremde: „Stranger Things“-Stars Finn Wolfhard, Gaten Matarazzo, Caleb McLaughlin und Noah Schnapp (v. l.) beim Berliner Fan-Event"
     },
     {
-      "title": "Liveblog USA unter Trump: Trump über Mamdani: „Ich glaube er wird einige Konservative überraschen“",
-      "teaser": "Künftiger Bürgermeister von New York zu Besuch im Oval Office +++ Geistliche verklagen Trump +++ US-Gesundheitsministerium suggeriert Verbindung von Impfung und Autismus +++ alle Neuigkeiten im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-ueber-mamdani-ich-glaube-er-wird-einige-konservative-ueberraschen-faz-19444916.html"
-    },
-    {
-      "title": "FAZ+Digitalwirtschaft-podcast: Nvidia verdient weiter prächtig – gibt es jetzt eine KI-Blase oder nicht?",
-      "teaser": "Was die neue Geschäftszahlen des inzwischen wichtigsten Chip-Konzerns der Welt bedeuten.",
-      "url": "https://www.faz.net/podcasts/f-a-z-digitalwirtschaft/nvidia-verdient-weiter-praechtig-gibt-es-jetzt-eine-ki-blase-oder-nicht-200254567.html"
-    },
-    {
-      "title": "Pole für norris in Vegas: „Es war stressig wie die Hölle“",
-      "teaser": "Regen in Las Vegas? Das kannten die Formel-1-Fahrer bislang nicht. Die Qualifikation wird zum Glücksspiel. Am besten macht es Lando Norris. Lewis Hamilton erlebt einen rabenschwarzen Tag.",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-las-vegas-pole-fuer-lando-norris-lews-hamilton-wird-letzter-accg-200255555.html",
-      "image_url": "https://media0.faz.net/image/w920/7c013544637e/w3371h1896x0y0/202511/43601.0.1508085273/lando-norris-faehrt-auf.webp",
-      "image_title": "Lando Norris fährt auf regennasser Strecke beim Qualifying in Las Vegas."
-    },
-    {
-      "title": "FAZ+F.A.Z. Gesundheitspodcast: So reinigen Sie Ihre Zähne richtig!",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-gesundheit-der-podcast/die-wichtigsten-aerztlichen-tipps-zum-richtigen-zaehneputzen-200239151.html",
-      "image_url": "https://media0.faz.net/image/w920/17727fc46eb4/w3000h1687x0y85/202410/43601.0.621694441/um-gesunde-zaehne-zu-behalten.webp",
-      "image_title": "Um gesunde Zähne zu behalten, braucht man mehr als nur eine Zahnbürste mit Zahnpasta."
+      "title": "FAZ+Catwalk-Ausstellung: Nur diese fünfzehn Minuten",
+      "teaser": "Im Bann der Überbietungsduelle: Das Vitra Design Museum in Weil am Rhein widmet dem Catwalk eine fulminante Ausstellung.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/vitra-design-museum-catwalk-art-of-the-fashion-show-110787447.html",
+      "image_url": "https://media0.faz.net/image/w920/6039b02cca3b/w3000h1688x0y311/112025/1.10787446/die-jacquemus-show-fruehling.webp",
+      "image_title": "Die Jacquemus-Show Frühling/Sommer 2020 im französischen Valensole"
     },
     {
       "title": "FAZ+Katharina zweig im Interview: „Verwenden Sie ChatGPT nicht als Suchmaschine“",
@@ -253,10 +260,17 @@
       "image_title": "Als Täter ermittelt wurde der Sexualstraftäter Peter F. Knapp 40 Jahre nach der Tat wurde er überführt, das Landgericht Darmstadt verurteilte ihn zu lebenslanger Haft."
     },
     {
+      "title": "Nach Monaten der Beleidigungen: Unerwartete Harmonie zwischen Trump und Mamdani",
+      "teaser": "Video",
+      "url": "https://www.faz.net/video/trump-und-mamdani-ueberraschende-einigkeit-im-weissen-haus-200255763.html",
+      "image_url": "https://media0.faz.net/image/w920/4c97bc5c0b61/w3000h1285x0y354/202511/43601.0.1507422322/dpa.webp",
+      "image_title": "dpa"
+    },
+    {
       "title": "Trendfood in Deutschland: Marburger Gastronom bietet Insekten-Gerichte an",
       "teaser": "Video",
       "url": "https://www.faz.net/video/marburger-gastronom-bietet-insekten-gerichte-an-200254234.html",
-      "image_url": "https://media0.faz.net/image/w920/be1ef138187a/w4821h2066x0y658/202511/2d2b4743-a9a2-46e1-a14f-5122dd2cd64b/helmut-fohringer.webp",
+      "image_url": "https://media0.faz.net/image/w730/41bb4595b395/w4821h2712x0y336/202511/2d2b4743-a9a2-46e1-a14f-5122dd2cd64b/helmut-fohringer.webp",
       "image_title": "HELMUT FOHRINGER"
     },
     {
@@ -267,88 +281,81 @@
       "image_title": "dpa"
     },
     {
-      "title": "Erklärvideo: Wie sieht Trumps Friedensplan für die Ukraine aus?",
-      "teaser": "Video",
-      "url": "https://www.faz.net/video/wie-sieht-trumps-friedensplan-fuer-die-ukraine-aus-200253884.html",
-      "image_url": "https://media0.faz.net/image/w730/2798862e25a9/w5791h3257x0y0/202511/43601.0.1491631782/afp.webp",
-      "image_title": "AFP"
+      "title": "FAZ+F.A.Z. Gesundheitspodcast: So reinigen Sie Ihre Zähne richtig!",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/f-a-z-gesundheit-der-podcast/die-wichtigsten-aerztlichen-tipps-zum-richtigen-zaehneputzen-200239151.html",
+      "image_url": "https://media0.faz.net/image/w920/25932f276e4a/w3000h1285x0y285/202410/43601.0.621694441/um-gesunde-zaehne-zu-behalten.webp",
+      "image_title": "Um gesunde Zähne zu behalten, braucht man mehr als nur eine Zahnbürste mit Zahnpasta."
+    },
+    {
+      "title": "FAZ+Digitalwirtschaft-podcast: Nvidia verdient weiter prächtig – gibt es jetzt eine KI-Blase oder nicht?",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/f-a-z-digitalwirtschaft/nvidia-verdient-weiter-praechtig-gibt-es-jetzt-eine-ki-blase-oder-nicht-200254567.html",
+      "image_url": "https://media0.faz.net/image/w730/9d97120b6b8c/w3000h1687x0y156/202511/43601.0.1499530919/nvidia-chef-jensen-huang-war.webp",
+      "image_title": "Nvidia-Chef Jensen Huang war gerade im Weißen Haus während des Besuchts des saudischen Kronprinzen."
     },
     {
       "title": "Rhein-Main-Feierabendbriefing: Mousonturm verliert 600.000 Euro an Förderung",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/rhein-main-feierabendbriefing-mousonturm-in-frankfurt-verliert-600-000-euro-an-foerderung-200254385.html",
-      "image_url": "https://media0.faz.net/image/w920/35e4939e4a78/w5785h2479x0y710/202501/43601.0.776130443/foerderung-gestrichen-das.webp",
+      "image_url": "https://media0.faz.net/image/w730/9024a20b3135/w5785h3254x0y298/202501/43601.0.776130443/foerderung-gestrichen-das.webp",
       "image_title": "Förderung gestrichen: Das Künstlerhaus Mousonturm muss eine Finanzierungslücke von 600.000 Euro schließen."
     },
     {
-      "title": "FAZ+F.A.Z. Podcast für Deutschland: Schaut auf diese Stadt, Prenzlau ein Jahr danach: „Jetzt bricht ganz viel auf\"",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/schaut-auf-diese-stadt-prenzlau-ein-jahr-danach-200254107.html",
-      "image_url": "https://media0.faz.net/image/w730/466c28fd6ae4/w3000h1687x0y124/202308/43600.0.1990270373/ehemaliges-buerogebaeude-in.webp",
-      "image_title": "Ehemaliges Bürogebäude in einem Prenzlauer Gewerbegebiet"
+      "title": "FAZ+Nathanael Liminski im Gespräch: „AfD-Leute sind vaterlands­lose Gesellen“",
+      "teaser": "Der nordrhein-westfälische Minister Nathanael Liminski über die politische Mitte, linke Schadenfreude und rechte Verklärung – und warum die Union von der MAGA-Bewegung in Amerika nichts übernehmen sollte.",
+      "url": "https://www.faz.net/aktuell/politik/inland/nathanael-liminski-ueber-konservativsein-und-die-maga-bewegung-110787492.html",
+      "image_url": "https://media0.faz.net/image/w1200/380d8b7d4bb0/w3000h1688x0y281/102025/1.10787490/nathanael-liminski-minister.webp",
+      "image_title": "Nathanael Liminski, Minister für Bundes- und Europaangelegenheiten, Internationales sowie Medien des Landes Nordrhein-Westfalen und Chef der Staatskanzlei in Düsseldorf."
     },
     {
-      "title": "FAZ+F.A.Z. PODCAST WISSEN: Warum sprechen bei der Klimakonferenz jetzt alle vom „BAM“?",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-wissen-der-podcast/wie-erfolgreich-wird-die-klimakonferenz-von-belem-200253713.html",
-      "image_url": "https://media0.faz.net/image/w730/d5f3a2125073/w3000h1687x0y313/202511/43601.0.1491049491/mitglieder-indigener.webp",
-      "image_title": "Mitglieder indigener Gemeinschaften fordern bei der Klimakonferenz mehr Rechte"
+      "title": "Stopp des Sparpakets: Krankenkassen-Chef erwartet Welle an Beitragserhöhungen",
+      "teaser": "Der Bundesrat hat das Sparpaket von Gesundheitsministerin Warken vorerst gestoppt. Der Chef der Techniker Krankenkassen spricht von einem „fatalen Signal für Millionen Beitragszahler“.",
+      "url": "https://www.faz.net/aktuell/politik/inland/krankenkassen-chef-erwartet-welle-an-beitragserhoehungen-accg-200255447.html",
+      "image_url": "https://media0.faz.net/image/w730/4230e3ba083a/w3000h1687x0y162/202511/43601.0.1489770676/eine-pflegerin-schiebt-ein.webp",
+      "image_title": "Eine Pflegerin schiebt ein Krankenbett durch einen Krankenhausflur. funk +++"
     },
     {
       "title": "In jeder Höhe: USA warnen vor Flügen über Venezuela wegen „erhöhter militärischer Aktivität“",
       "teaser": "Die USA haben ihre Militärpräsenz rund um Venezuela stark erhöht. US-Behörden warnen nun vor Gefahren für die zivile Luftfahrt. Bedroht seien Maschinen in allen Flughöhen.",
       "url": "https://www.faz.net/aktuell/politik/ausland/usa-warnen-airlines-vor-fluegen-ueber-venezuela-accg-200255387.html",
-      "image_url": "https://media0.faz.net/image/w1200/0897a83293ef/w5000h2812x0y260/202509/43601.0.1277165777/us-praesident-donald-trump.webp",
+      "image_url": "https://media0.faz.net/image/w730/0897a83293ef/w5000h2812x0y260/202509/43601.0.1277165777/us-praesident-donald-trump.webp",
       "image_title": "US-Präsident Donald Trump verlegt angesichts der Spannungen mit Venezuela Kampfjets nach Puerto Rico."
     },
     {
-      "title": "Trumps „Friedensplan“: 28 Punkte, die auch Brüssel schocken",
-      "teaser": "Der sogenannte Friedensplan der USA entsetzt die Verbündeten der Ukraine. Deren Präsident Selenskyj stellt seine Landsleute auf schwierige Tage ein.",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-trumps-friedensplan-schockt-die-europaeer-110789227.html",
-      "image_url": "https://media0.faz.net/image/w730/edf7c00f0de4/w3000h1688x0y156/112025/1.10789224/naeher-am-frieden-wolodymyr.webp",
-      "image_title": "Näher am Frieden? Wolodymyr Selenskyj und der US-Staatssekretär für das Heer, Dan Driscoll, am Donnerstag in Kiew"
+      "title": "Liveblog USA unter Trump: Trump über Mamdani: „Ich glaube er wird einige Konservative überraschen“",
+      "teaser": "Künftiger Bürgermeister von New York zu Besuch im Oval Office +++ Geistliche verklagen Trump +++ US-Gesundheitsministerium suggeriert Verbindung von Impfung und Autismus +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-ueber-mamdani-ich-glaube-er-wird-einige-konservative-ueberraschen-faz-19444916.html",
+      "image_url": "https://media0.faz.net/image/w730/46a988713a6d/w6494h3653x0y214/202511/43601.0.1507124724/zohran-mamdani-und-donald.webp",
+      "image_title": "Zohran Mamdani und Donald Trump im Oval Office"
     },
     {
-      "title": "FAZ+Überalterung in Finnland: Wo keine Kinder sind, kommt der Bagger",
-      "teaser": "Weil der Nachwuchs fehlt, werden in Finnlands Peripherie Schulen abgerissen. Einwanderung könnte helfen. Doch das will die Regierung in Helsinki nicht.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/ueberalterung-in-finnland-wo-keine-kinder-sind-kommt-der-bagger-110777194.html",
-      "image_url": "https://media0.faz.net/image/w730/5d41fc573618/w3000h1687x0y142/102025/1.10777235/hier-ist-der-abriss-in-vollem.webp",
-      "image_title": "Hier ist der Abriss in vollem Gang: Abbruch einer Schule in einem Dorf bei Kouvola"
+      "title": "FAZ+Wachsender Schwarzmarkt: Wettrüsten gegen illegale Glücksspielwerbung",
+      "teaser": "Wege zum illegalen Glücksspiel sind im Internet zahllos. Regulierer und legale Anbieter versuchen, einige davon zu versperren.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/online-wetten-wettruesten-gegen-illegale-gluecksspielwerbung-110788885.html",
+      "image_url": "https://media0.faz.net/image/w1200/abce3a59a216/w3000h1688x0y16/112025/1.10788884/in-costa-rica-mit-einem-klick.webp",
+      "image_title": "In Costa Rica mit einem Klick: Glücksspielwerbung kann Nutzer schnell zu unerlaubten Angeboten führen."
     },
     {
-      "title": "Umweltminister Schneider: „So kann der Text nicht bleiben“",
-      "teaser": "Brasiliens Entwurf für ein Abschlussdokument der Weltklimakonferenz erzürnt die Europäer. Stehen die Verhandlungen gar vor dem Aus?",
-      "url": "https://www.faz.net/aktuell/politik/ausland/scheitern-die-cop-verhandlungen-accg-200254817.html",
-      "image_url": "https://media0.faz.net/image/w730/e76158c80334/w2368h1332x0y123/202511/43601.0.1492046254/bundesumweltminister-carsten.webp",
-      "image_title": "Bundesumweltminister Carsten Schneider in Belém"
+      "title": "Heißes Jahresendgetränk: Glühwein könnte mancherorts etwas teurer werden",
+      "teaser": "Die Weinkellereien rechnen dieses Jahr mit Preissteigerungen um zwei und zehn Prozent. Allerdings gibt es auch Städte, in denen Besucher stabile Preise erwarten können.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/weihnachtsmaerkte-gluehwein-koennte-etwas-mehr-kosten-accg-200255641.html",
+      "image_url": "https://media0.faz.net/image/w730/fad233e73971/w3000h1687x0y156/202511/43601.0.1491745150/weihnachtsmarktbesucherinnen.webp",
+      "image_title": "Weihnachtsmarktbesucherinnen in Hamburg:"
+    },
+    {
+      "title": "FAZ+IG-Metall-Chefin Benner: „Die einzig erkennbare Strategie ist, die Leute rauszuschmeißen und den Sozialstaat zu schreddern“",
+      "teaser": "Gewerkschaftschefin Christiane Benner wirft den deutschen Chefs Planlosigkeit vor. Im Interview warnt sie davor, dass zunehmend jüngere Arbeiter von den Sparprogrammen der Unternehmen betroffen sein werden.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ig-metall-chefin-dann-gibts-wirklich-krawall-110787460.html",
+      "image_url": "https://media0.faz.net/image/w730/4f751c9a0fbf/w3000h1688x0y62/112025/1.10787459/gewerkschaftschefin-christiane.webp",
+      "image_title": "Gewerkschaftschefin Christiane Benner."
     },
     {
       "title": "Erfolg für Giorgia Meloni: Moody's stuft Italiens Kreditwürdigkeit erstmals seit 23 Jahren herauf",
       "teaser": "Die Ratingagentur Moody's lobt Italiens anhaltende politische Stabilität. Die Regierung von Ministerpräsidentin Giorgia Meloni sieht sich in ihrem Kurs bestätigt.",
       "url": "https://www.faz.net/aktuell/wirtschaft/moody-s-stuft-italiens-kreditwuerdigkeit-erstmals-seit-23-jahren-herauf-accg-200255455.html",
-      "image_url": "https://media0.faz.net/image/w1200/76bd96e113cd/w3000h1687x0y212/202511/43601.0.1484606967/suedtirols-hauptstadt-bozen.webp",
+      "image_url": "https://media0.faz.net/image/w730/76bd96e113cd/w3000h1687x0y212/202511/43601.0.1484606967/suedtirols-hauptstadt-bozen.webp",
       "image_title": "Südtirols Hauptstadt Bozen: Moody's sieht Fortschritte bei der Umsetzung des nationalen Aufbau- und Resilienzplans."
-    },
-    {
-      "title": "Champions League-Rechte: Der neue Fußballmogul",
-      "teaser": "Der US-Medienkonzern Paramount kauft die Rechte für die Champions League in Deutschland und Großbritannien. Damit setzt David Ellison eine Serie aggressiver Manöver fort – und das nächste könnte bald folgen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/david-ellison-der-neue-fussballmogul-110789095.html",
-      "image_url": "https://media0.faz.net/image/w730/4b8f767e828c/w2999h1687x0y0/102025/1.10789089/david-ellison-hat-offenbar.webp",
-      "image_title": "David Ellison hat offenbar noch weitere Pläne mit Paramount"
-    },
-    {
-      "title": "Organisiertes Verbrechen: Jan Marsalek hatte Verbindung zu Geldwäschenetzwerk",
-      "teaser": "Britische und internationale Ermittler haben inzwischen 128 Personen eines Geldwäscherings verhaftet. Der hat auch dem Ex-Wirecard-Vorstand Marsalek geholfen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/jan-marsalek-hatte-verbindung-zu-milliarden-geldwaeschenetzwerk-110788922.html",
-      "image_url": "https://media0.faz.net/image/w730/d11ce9591175/w2479h1394x229y126/202403/43601.0.232197182/fahndungsaufruf-nach-jan.webp",
-      "image_title": "Fahndungsaufruf nach Jan Marsalek, Ex-Vertriebsvorstand des 2020 kollabierten Dax-Konzerns Wirecard."
-    },
-    {
-      "title": "Deutz-Chef Schulte: „Es geht uns noch zu gut“",
-      "teaser": "Sebastian Schulte führt den Motorenhersteller Deutz. Im Interview sagt er, wie das Geschäft unabhängiger vom Verbrenner wird – und warum es in Deutschland an echtem Reformwillen fehlt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutz-chef-sebastian-schulte-es-geht-uns-noch-zu-gut-110781262.html",
-      "image_url": "https://media0.faz.net/image/w730/ffd5fed059cb/w3000h1688x0y62/112025/1.10781257/sebastian-schulte-46-ist-seit.webp",
-      "image_title": "Sebastian Schulte, 46, ist seit 2022 Chef des Motorenherstellers Deutz."
     },
     {
       "title": "FAZ+Prompt der Woche: Die besten Prompts für den Kundenservice",
@@ -371,25 +378,24 @@
       "image_title": "Der Alibaba-Präsident Kuo Zhang hat eine klare Vision: Er will den Einkauf mithilfe der KI neu denken."
     },
     {
+      "title": "plan für Schullandschaft: Erstes Gymnasium für Bad Soden",
+      "teaser": "Noch werden die Schüler ­immer mehr. Daher wird im Main-Taunus-Kreis zusätzlich zu vielen Erweiterungen eine neue Schule gebaut.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/main-taunus-kreis-erstes-gymnasium-in-bad-soden-geplant-110789283.html",
+      "image_url": "https://media0.faz.net/image/w920/477b89764543/w3000h1285x0y482/032023/1.10789282/pp-1-10789282.webp"
+    },
+    {
+      "title": "FAZ+Sexualerziehung: Woher kommen die Babys?",
+      "teaser": "Die Aufklärung von Kita- oder Grundschulkindern wird von manchen Politikern als „Frühsexualisierung“ bekämpft. Dabei ist es bereits für kleine Kinder wichtig, Bescheid zu wissen.",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/sexualaufklaerung-kleiner-kinder-woher-kommen-die-babys-110779825.html",
+      "image_url": "https://media0.faz.net/image/w730/41364b2ab911/w6000h3375x0y476/202511/43601.0.1494519715/kinder-wollen-vor-allem-dann.webp",
+      "image_title": "Kinder wollen vor allem dann alles über Geburt und Zeugung wissen, wenn ein Geschwisterchen unterwegs ist."
+    },
+    {
       "title": "FAZ+Schwarz-rote Unterhändler: „Niemand fordert eine Rentenkürzung“",
       "teaser": "Erst ein halbes Jahr im Amt, und schon in der Dauerkrise: Die beiden Koordinatoren der Regierung, Thorsten Frei und Björn Böhning, über den Rentenstreit, tägliche SMS und Politik als Seifenoper.",
       "url": "https://www.faz.net/aktuell/politik/inland/frei-und-boehning-erwarten-einigung-im-rentenstreit-110789153.html",
-      "image_url": "https://media0.faz.net/image/w920/2cea441972fc/w3000h1285x0y32/112025/1.10789152/boehning-und-frei-im-gespraech.webp",
+      "image_url": "https://media0.faz.net/image/w730/07f009adee92/w2254h1268x62y0/112025/1.10789152/boehning-und-frei-im-gespraech.webp",
       "image_title": "Böhning und Frei im Gespräch mit der F.A.Z."
-    },
-    {
-      "title": "FAZ+Preise im Handel: Die „besorgniserregende“ Macht der Supermärkte",
-      "teaser": "Der Lebensmittelhandel verfügt über eine wachsende Marktmacht, mahnt die Monopolkommission. Die „großen Vier“ teilen sich den Markt fast untereinander auf. Das geht zulasten von Verbrauchern und Bauern.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/starker-handel-schwache-bauern-110788999.html",
-      "image_url": "https://media0.faz.net/image/w730/2153b446d878/w3000h1687x0y205/202507/43601.0.1142497620/preisbewusste-kaeufer-im.webp",
-      "image_title": "Preisbewusste Käufer: Im Geburtsland des Discounters waren Verbraucher lange günstige Lebensmittelpreise gewohnt."
-    },
-    {
-      "title": "WEltklimakonferenz: Drei Schritte in den Klimahimmel?",
-      "teaser": "In Belém wird noch gerungen. Derweil haben Wissenschaftler den Verhandlern eine Rechnung präsentiert, wie die Erderwärmung rasch zu halbieren wäre – ohne Wirtschaft und Politik aus den Angeln zu heben.",
-      "url": "https://www.faz.net/aktuell/wissen/aktuell-aus-belem-plaene-die-erderwaermung-zu-halbieren-accg-200253198.html",
-      "image_url": "https://media0.faz.net/image/w730/3c11f1692334/w3000h1687x0y69/202509/43601.0.1283023699/solarpanels-auf-einem-parkhaus.webp",
-      "image_title": "Solarpanels auf einem Parkhaus am Münchner Flughafen. Sie produzieren den Strom für den bislang größten öffentlichen Ladepark für E-Autos in Bayern."
     },
     {
       "title": "FAZ+Investitionen in Klimaschutz: Grüne Fonds machen ernst",
@@ -465,10 +471,17 @@
       "image_title": "Der Schlüssel dazu, diskriminierenden Aussagen etwas entgegenzusetzen, liegt in ruhiger Kommunikation."
     },
     {
+      "title": "Pole für norris in Vegas: „Es war stressig wie die Hölle“",
+      "teaser": "Regen in Las Vegas? Das kannten die Formel-1-Fahrer bislang nicht. Die Qualifikation wird zum Glücksspiel. Am besten macht es Lando Norris. Lewis Hamilton erlebt einen rabenschwarzen Tag.",
+      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-las-vegas-pole-fuer-lando-norris-lews-hamilton-wird-letzter-accg-200255555.html",
+      "image_url": "https://media0.faz.net/image/w1200/7c013544637e/w3371h1896x0y0/202511/43601.0.1508085273/lando-norris-faehrt-auf.webp",
+      "image_title": "Lando Norris fährt auf regennasser Strecke beim Qualifying in Las Vegas."
+    },
+    {
       "title": "Hitziges Unentschieden: Mainz erkämpft Punkt gegen Hoffenheim",
       "teaser": "Beim Jubiläumseinsatz des deutschen Nationaltorhüters stoppt Mainz die Siegesserie der auswärtsstarken Gäste. Ein Mainzer stellt dabei einen unrühmlichen Ligarekord auf.",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-remis-fsv-mainz-05-erkaempft-punkt-gegen-tsg-hoffenheim-accg-200251376.html",
-      "image_url": "https://media0.faz.net/image/w1200/ff08f81f1930/w2049h1152x329y91/202511/43601.0.1507133367/der-mainzer-kaishu-sano-links.webp",
+      "image_url": "https://media0.faz.net/image/w730/ff08f81f1930/w2049h1152x329y91/202511/43601.0.1507133367/der-mainzer-kaishu-sano-links.webp",
       "image_title": "Der Mainzer Kaishu Sano (links) und Hoffenheims Bazoumana Touré im Zweikampf."
     },
     {
@@ -486,16 +499,9 @@
       "image_title": "Mannheim, 8. Juni 2025: Die Berliner bejubeln den Meistertitel der Bundesliga-Saison 2024/25."
     },
     {
-      "title": "1:0 gegen Braunschweig: Berlin baut Siegesserie aus",
-      "teaser": "In der zweiten Liga schafft Hertha BSC einen knappen Sieg gegen glücklose Braunschweiger und rückt an die Spitzengruppe heran. Währenddessen erkämpft Dynamo Dresden in Bochum die Wende.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-liga-hertha-bsc-berlin-baut-siegesserie-gegen-braunschweig-aus-accg-200244040.html",
-      "image_url": "https://media0.faz.net/image/w730/1479d3bfbfc5/w1974h1111x415y29/202511/43601.0.1506870399/erfreuter-vorbereiter-fabian.webp",
-      "image_title": "Erfreuter Vorbereiter: Fabian Reese (rechts) jubelt nach Marten Winklers Treffer zum 1:0."
-    },
-    {
-      "title": "Nigeria: Bewaffnete entführen mehr als 200 Schüler von katholischer Schule",
-      "teaser": "Nigeria unternehme zu wenige gegen Christenverfolgung, beklagte US-Präsident Donald Trump erst vor wenigen Wochen. Nun meldet das Land einen großangelegten Angriff auf eine katholische Schule.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/nigeria-bewaffnete-entfuehren-mehr-als-200-schueler-accg-200255327.html",
+      "title": "Nigeria: Bewaffnete entführen mehr als 300 Mädchen von katholischer Schule",
+      "teaser": "Seit Jahren greifen schwer bewaffnete kriminelle Banden immer wieder in Nigeria an, um Menschen zu entführen und Lösegeld zu erpressen. Nun haben sie mehr als 300 Schülerinnen und zwölf Lehrer in ihrer Gewalt.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/nigeria-bewaffnete-entfuehren-mehr-als-300-schuelerinnen-accg-200255327.html",
       "image_url": "https://media0.faz.net/image/w1200/f41e1d54688d/w1600h900x200y0/202511/43601.0.1507384077/leere-schlafsaele-einer.webp",
       "image_title": "Leere Schlafsäle einer katholischen Grundschule in Nigeria nach einem Angriff durch Bewaffnete"
     },
@@ -534,10 +540,18 @@
       "image_title": "Nur Pecorino, Ei und dazu noch Guanciale-Speck: In das Original kommt keine Sahne."
     },
     {
-      "title": "plan für Schullandschaft: Erstes Gymnasium für Bad Soden",
-      "teaser": "Noch werden die Schüler ­immer mehr. Daher wird im Main-Taunus-Kreis zusätzlich zu vielen Erweiterungen eine neue Schule gebaut.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/main-taunus-kreis-erstes-gymnasium-in-bad-soden-geplant-110789283.html",
-      "image_url": "https://media0.faz.net/image/w1200/43b80a79f294/w3000h1688x0y281/032023/1.10789282/pp-1-10789282.webp"
+      "title": "Liveticker Hessen & Frankfurt: Ermittlungen wegen Gewalt in Psychiatrie in Wiesbaden",
+      "teaser": "Minustemperaturen in Hessen +++ Gasalarm in Turnhalle – sieben Kinder vorsorglich in Klinik +++ Aufregung wegen Amokalarms an Mainzer Schule +++ Regierungspräsidium warnt: Tote Vögel nicht anfassen +++ Ehemaliges AKW Biblis: Korrosion an Atommüll-Fass+++ Liveblog für Frankfurt und Hessen",
+      "url": "https://www.faz.net/aktuell/rhein-main/ermittlungen-wegen-gewalt-in-psychiatrie-in-wiesbaden-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+      "image_url": "https://media0.faz.net/image/w1200/80d7da617d1c/w4219h2373x821y776/201406/431.0.38117119/ermittlungen-in-den-dr-horst.webp",
+      "image_title": "Ermittlungen: In den Dr. Horst Schmidt Kliniken wurden Räume durchsucht."
+    },
+    {
+      "title": "Debatte zur Innenstadt: Wie dreckig ist Wiesbadens City?",
+      "teaser": "Die CDU fordert ein Sofortprogramm für Wiesbadens Innenstadt. Die Linkskoalition sieht hingegen keinen akuten Handlungsbedarf.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/wiesbadener-innenstadt-streit-um-sauberkeit-110788937.html",
+      "image_url": "https://media0.faz.net/image/w730/b923e2eed2dd/w3000h1688x0y56/012025/1.10788936/mehr-als-zwoelf-millionen.webp",
+      "image_title": "Mehr als zwölf Millionen Besucher wurden im vergangenen Jahr in der Fußgängerzone gezählt."
     },
     {
       "title": "Nach Insolvenz: Segula unter neuer Führung",
@@ -554,25 +568,17 @@
       "image_title": "Damit Frankfurt funktioniert: Die VGF befördert im Jahr rund 180 Millionen Fahrgäste in ihren Bahnen."
     },
     {
-      "title": "Prozess gegen Rentner: „Ich glaube, ich habe die Irene getötet“",
-      "teaser": "Ein 83 Jahre alter Mann soll vor drei Jahren seine an Demenz erkrankte Frau getötet haben. Vor dem Frankfurter Landgericht sagt er: „Es vergeht kein Tag, an dem ich mich nicht frage: Was hast du da getan?“",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/prozess-in-frankfurt-rentner-toetet-demenzkranke-110789255.html",
-      "image_url": "https://media0.faz.net/image/w730/dc0e8fc7be5d/w3000h1687x0y15/202511/43601.0.1460071154/abwaegungssache-die-richter.webp",
-      "image_title": "Abwägungssache: Die Richter des Landgerichts Frankfurt müssen über tödliche Gewalt zwischen Eheleuten urteilen"
-    },
-    {
-      "title": "Schlaftracker im Test: Herzrasen um Mitternacht",
-      "teaser": "Daten zur Schlafqualität zu sammeln, geht auch ohne unbequeme Smartwatch. Ein Selbstversuch mit Trackern von Amazfit und Garmin.",
-      "url": "https://www.faz.net/aktuell/technik-motor/digital/so-gut-sind-die-schlaftracker-von-garmin-und-amazfit-110782894.html",
-      "image_url": "https://media0.faz.net/image/w730/cbcf01daed31/w5595h3147x2380y729/202511/43601.0.1453159810/gute-nacht-elektronische.webp",
-      "image_title": "Gute Nacht: Elektronische Gadgets vermessen den Schlaf. Hier trägt die Dame Garmin am Oberarm"
-    },
-    {
       "title": "Wohnmobil im Winter: Überwintern",
       "teaser": "Der Winter ist lang, der Urlaub im Wohnmobil zu ungemütlich. Doch wo bleibt das gute Stück? Der Camper-Boom zeigt zur kalten Jahreszeit auch Schattenseiten.",
       "url": "https://www.faz.net/aktuell/technik-motor/so-ueberwintern-wohnmobile-110782962.html",
       "image_url": "https://media0.faz.net/image/w730/c7211572984b/w3000h1687x0y132/202505/43601.0.1046064252/stehen-in-der-gegend-rum.webp",
       "image_title": "Stehen in der Gegend rum."
+    },
+    {
+      "title": "Der F.A.Z.-Autoticker: Fahrtenschreiber",
+      "teaser": "Kleiner Vorteil für das E-Kennzeichen ++ Polestar mit Google Gemini ++ Generation Z sieht Mobilität nüchtern und pragmatisch",
+      "url": "https://www.faz.net/aktuell/technik-motor/auto-liveticker-comeback-fuer-den-renault-twingo-faz-18137164.html",
+      "image_url": "https://media0.faz.net/image/w730/6a3620dffed8/w1600h900x0y0/202204/1.7951806/pp-1-7951806.webp"
     },
     {
       "title": "FAZ+Inselstaat auf Klimagipfel: „Wir müssen weiter versuchen, die USA einzubeziehen“",
@@ -582,18 +588,18 @@
       "image_title": "Maina Talia, Umweltminister von Tuvalu, auf der COP30."
     },
     {
+      "title": "WEltklimakonferenz: Drei Schritte in den Klimahimmel?",
+      "teaser": "In Belém wird noch gerungen. Derweil haben Wissenschaftler den Verhandlern eine Rechnung präsentiert, wie die Erderwärmung rasch zu halbieren wäre – ohne Wirtschaft und Politik aus den Angeln zu heben.",
+      "url": "https://www.faz.net/aktuell/wissen/aktuell-aus-belem-plaene-die-erderwaermung-zu-halbieren-accg-200253198.html",
+      "image_url": "https://media0.faz.net/image/w730/3c11f1692334/w3000h1687x0y69/202509/43601.0.1283023699/solarpanels-auf-einem-parkhaus.webp",
+      "image_title": "Solarpanels auf einem Parkhaus am Münchner Flughafen. Sie produzieren den Strom für den bislang größten öffentlichen Ladepark für E-Autos in Bayern."
+    },
+    {
       "title": "Raumfahrtvision: Ultraleicht zu den Planeten",
       "teaser": "In nur 20 Jahren nach Alpha Centauri? Das wird schwierig, auch wenn ein Milliardär dergleichen einmal finanzieren wollte. Aber die dafür vorgeschlagene Technologie taugt vielleicht auch für näher liegende Ziele.",
       "url": "https://www.faz.net/aktuell/wissen/weltraum/lasergetriebene-miniatursonden-zu-interplanetaren-zielen-waeren-heute-schon-moeglich-110776061.html",
       "image_url": "https://media0.faz.net/image/w730/00f565c022b0/w3600h2025x0y428/202309/43600.0.2028230494/mit-weltraum-segel-fuer.webp",
       "image_title": "Mit Weltraum-Segel für Sonnenlicht hat die NASA bereits experimentiert. Doch das waren Panzerplatten im Vergleich zu den Segeln für Laserlicht, die man jetzt zu fertigen versucht."
-    },
-    {
-      "title": "FAZ+Artensuche: „Wir untersuchen auch Dachrinnen“",
-      "teaser": "Eine neue Initiative will alle Arten in Deutschland aufspüren. Ricarda Lemitz erklärt, wo Forscher noch unbekanntene Organismen vermuten – und wozu Milben, Springschwänze und Pilze gut sind.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/artenvielfalt-in-deutschland-grossangelegte-suche-nach-unbekannten-spezies-110780410.html",
-      "image_url": "https://media0.faz.net/image/w730/6a1e01dc444b/w2417h1359x570y210/112025/1.10780409/ein-kugelspringer-sitzt-auf.webp",
-      "image_title": "Ein Kugelspringer sitzt auf Pilzen und wartet darauf, entdeckt zu werden."
     },
     {
       "title": "Greser & Lenz: Immer im Bilde",
