@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-24T08:15:57",
+  "timestamp": "2025-11-24T09:14:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
-      "title": "Virenscanner ClamAVGroße Aufräumaktion der Entwickler angekündigt",
-      "teaser": "Entrümpelung beim Virenscanner ClamAV: Cisco lässt die Entwickler alte Signaturen rauswerfen, auch alte Docker-Images müssen gehen.",
-      "url": "https://www.heise.de/news/Virenscanner-ClamAV-Entwickler-starten-Entruempelung-11087471.html",
-      "image_title": "ClamAV-Logo auf Hintergrund"
+      "title": "AlertSicherheitslücke: Angreifer können auf Synology-NAS zugreifen",
+      "teaser": "Unbefugte Zugriffe auf NAS möglich: Ein Update schließt eine Schwachstelle in Synology DiskStation Manager.",
+      "url": "https://www.heise.de/news/Synology-schliesst-weitere-Sicherheitsluecke-aus-Hacker-Wettbewerb-Pwn2Own-11088719.html",
+      "image_title": "Ein symbolisches Updateschild."
     },
     {
-      "title": "Microsoft-Cloud-SecurityDrei kostenlose Tools, die jeder Admin kennen sollte",
-      "teaser": "M365 ist kein Security-Highlight. Firmen und Behörden sollten deshalb ihre Cloud-Dienste prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-M365-Sicherheit-selbst-testen-und-verbessern-11083172.html",
-      "image_title": "Microsoft-Cloud-Webinar"
+      "title": "OnlinebetrugDHL-Phishing zur Online-Handel-Blütezeit",
+      "teaser": "Mit der \"Cyber-Week\" startet der Online-Handel in den Jahresendspurt. Online-Betrüger wollen Opfer mit angeblichen Nachzahlungen ködern.",
+      "url": "https://www.heise.de/news/DHL-Phishing-zur-Online-Handel-Bluetezeit-11088448.html",
+      "image_title": "Echt aufgemachte Phishing-Seite"
     },
     {
-      "title": "AlertIBM AIX/VIOS: Angreifer können Ressourcen blockieren",
-      "url": "https://www.heise.de/news/IBM-AIX-VIOS-Angreifer-koennen-Ressourcen-blockieren-11087315.html",
-      "image_title": "Eine Tastatur mit einem symbolischen Updateknopf."
+      "title": "AlertSicherheitslücke: Angreifer können auf Synology-NAS zugreifen",
+      "url": "https://www.heise.de/news/Synology-schliesst-weitere-Sicherheitsluecke-aus-Hacker-Wettbewerb-Pwn2Own-11088719.html",
+      "image_title": "Ein symbolisches Updateschild."
     },
     {
       "title": "Webinar am 26. NovemberEinführung in das Opensource-SIEM Wazuh",
@@ -55,12 +55,6 @@
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
-      "title": "DHL-Phishing zur Online-Handel-Blütezeit",
-      "teaser": "Mit der \"Cyber-Week\" startet der Online-Handel in den Jahresendspurt. Online-Betrüger wollen Opfer mit angeblichen Nachzahlungen ködern.",
-      "url": "https://www.heise.de/news/DHL-Phishing-zur-Online-Handel-Bluetezeit-11088448.html",
-      "image_title": "Echt aufgemachte Phishing-Seite"
-    },
-    {
       "title": "iX-Workshop: AWS-Sicherheit - Angriffe erkennen und abwehren",
       "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-AWS-Sicherheit-Angriffe-erkennen-und-abwehren-11073250.html",
@@ -71,6 +65,12 @@
       "teaser": "Die Entwickler von IBM haben das Betriebssystem AIX gegen mögliche Angriffe abgesichert.",
       "url": "https://www.heise.de/news/IBM-AIX-VIOS-Angreifer-koennen-Ressourcen-blockieren-11087315.html",
       "image_title": "Eine Tastatur mit einem symbolischen Updateknopf."
+    },
+    {
+      "title": "Virenscanner ClamAV: Große Aufräumaktion der Entwickler angekündigt",
+      "teaser": "Entrümpelung beim Virenscanner ClamAV: Cisco lässt die Entwickler alte Signaturen rauswerfen, auch alte Docker-Images müssen gehen.",
+      "url": "https://www.heise.de/news/Virenscanner-ClamAV-Entwickler-starten-Entruempelung-11087471.html",
+      "image_title": "ClamAV-Logo auf Hintergrund"
     },
     {
       "title": "Windows 11 24H2: Nach Juli-Updates treten nervende Probleme auf",
@@ -138,16 +138,16 @@
       "image_title": "7-zip-Logo mit Update-Stempel"
     },
     {
+      "title": "Microsoft-Cloud-Security: Drei kostenlose Tools, die jeder Admin kennen sollte",
+      "teaser": "M365 ist kein Security-Highlight. Firmen und Behörden sollten deshalb ihre Cloud-Dienste prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-M365-Sicherheit-selbst-testen-und-verbessern-11083172.html",
+      "image_title": "Microsoft-Cloud-Webinar"
+    },
+    {
       "title": "Windows integriert Sysmon nativ",
       "teaser": "Mark Russinovich hat angekündigt, dass das Diagnosetool Sysmon im kommenden Jahr Windows-Bestandteil wird.",
       "url": "https://www.heise.de/news/Sysmon-wird-Windows-Bestandteil-11084871.html",
       "image_title": "Finger auf der Windows-Taste auf einer Tastatur"
-    },
-    {
-      "title": "AlertSicherheitslücken: Solarwinds Platform und Serv-U für Attacken anfällig",
-      "teaser": "Angreifer können Solarwinds Netzwerkmonitoringlösung Platform und die Dateitransfersoftware Serv-U attackieren.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Solarwinds-Platform-und-Serv-U-fuer-Attacken-anfaellig-11084806.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
     },
     {
       "title": "Videokurs-Serie | IT-SecurityPenetration Testing – Grundkurs",
