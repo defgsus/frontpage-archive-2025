@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T16:12:56",
+  "timestamp": "2025-11-26T17:09:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,41 @@
   ],
   "articles": [
     {
+      "title": "FLUX.2: Bild-KI-Modell mit besserer Textdarstellung und Weltwissen",
+      "teaser": "FLUX.2, der Nachfolger des beliebten Bild-KI-Modells FLUX.1, bietet verbesserte Textdarstellung, erweitertes Weltwissen und höhere Auflösung.",
+      "url": "https://www.heise.de/news/FLUX-2-Bild-KI-Modell-mit-besserer-Textdarstellung-und-Weltwissen-11093413.html",
+      "image_title": "Beispielbilder von FLUX.2"
+    },
+    {
+      "title": "Schweiz: Datenschützer verhängen breites Cloud-Verbot für Behörden",
+      "teaser": "Eidgenössische Ämter dürfen US-Hyperscaler wie AWS, Google oder Microsoft laut der Datenschutzkonferenz nur noch eingeschränkt nutzen.",
+      "url": "https://www.heise.de/news/Schweiz-Datenschuetzer-verhaengen-breites-Cloud-Verbot-fuer-Behoerden-11093438.html"
+    },
+    {
+      "title": "Speicher: Die Preisexplosionen zeigen sich beim Umsatz der „großen Drei“",
+      "teaser": "In nur drei Monaten haben DRAM-Hersteller ihren Umsatz um über 30 Prozent gesteigert. Weitere Preissteigerungen stehen ins Haus.",
+      "url": "https://www.heise.de/news/Speicher-Die-Preisexplosionen-zeigen-sich-beim-Umsatz-der-grossen-Drei-11093391.html",
+      "image_title": "Grüne Speicherriegel in einem Mainboard"
+    },
+    {
+      "title": "Black Friday: Zubehör für Apple-Nutzer",
+      "teaser": "Die schwarze Shopping-Woche ist in vollem Gange. Auch für Nutzer von Apple-Produkten gibt es jede Menge verbilligte Peripherie. Einige gute Deals.",
+      "url": "https://www.heise.de/news/Black-Friday-Zubehoer-fuer-Apple-Nutzer-11093347.html",
+      "image_title": "Eine Person sitzt vor dem Bildschirm. Man sieht den Kopf nicht, aber beide Hände. In der rechten Hand hat die Person ein Smartphone, in der linken eine Kreditkarte."
+    },
+    {
+      "title": "RatgeberWhatWeb: Webseiten-Scanner im Test",
+      "url": "https://www.heise.de/ratgeber/WhatsWeb-Webseiten-Scanner-im-Test-11078848.html"
+    },
+    {
+      "title": "RatgeberLokal und kostenlos: Videos in Fantasy, Zeichentrick oder SciFi verwandeln",
+      "url": "https://www.heise.de/ratgeber/Lokal-und-kostenlos-Videos-in-Zeichentrick-Realfilm-oder-Fantasy-verwandeln-10983164.html"
+    },
+    {
+      "title": "RatgeberBundID: Wenn die elektronische Ummeldung zum Kraftakt wird",
+      "url": "https://www.heise.de/ratgeber/BundID-Wenn-die-elektronische-Ummeldung-zum-Kraftakt-wird-11069371.html"
+    },
+    {
       "title": "Cell Broadcast: BBK führt Entwarnungen ein",
       "teaser": "Warnmeldungen über Cell Broadcast gibt es in Deutschland seit 2023. Jetzt hat das BBK auch Entwarnungen eingeführt.",
       "url": "https://www.heise.de/news/Cell-Broadcast-BBK-fuehrt-Entwarnungen-ein-11093309.html",
@@ -48,18 +83,6 @@
       "teaser": "Souveräner Cloud-Support, KI und Virtualisierung ohne Broadcom-Daumenschrauben – das waren die zentralen Themen auf Red Hats Hauskonferenz.",
       "url": "https://www.heise.de/news/Red-Hat-Summit-Connect-Souveraener-Support-und-Virtualisierungsflucht-nach-vorn-11092782.html",
       "image_title": "Blick auf Rednerbühne und Publikum bei der Red-Hat-Konferenz."
-    },
-    {
-      "title": "RatgeberWhatWeb: Webseiten-Scanner im Test",
-      "url": "https://www.heise.de/ratgeber/WhatsWeb-Webseiten-Scanner-im-Test-11078848.html"
-    },
-    {
-      "title": "RatgeberLokal und kostenlos: Videos in Fantasy, Zeichentrick oder SciFi verwandeln",
-      "url": "https://www.heise.de/ratgeber/Lokal-und-kostenlos-Videos-in-Zeichentrick-Realfilm-oder-Fantasy-verwandeln-10983164.html"
-    },
-    {
-      "title": "RatgeberBundID: Wenn die elektronische Ummeldung zum Kraftakt wird",
-      "url": "https://www.heise.de/ratgeber/BundID-Wenn-die-elektronische-Ummeldung-zum-Kraftakt-wird-11069371.html"
     },
     {
       "title": "Weder Apple noch Nintendo: Die beliebtesten Black-Friday-Deals",
@@ -125,30 +148,6 @@
       "teaser": "Angreifer können unter anderem an einer kritischen Sicherheitslücke in Nvidias KI-Computer DGX Spark ansetzen.",
       "url": "https://www.heise.de/news/Nvidia-DGX-Spark-NeMo-Kritische-Luecken-gefaehrden-KI-Hard-und-Software-11092387.html",
       "image_title": "Ein symbolischer Updatebalken füllt sich."
-    },
-    {
-      "title": "JetBrains veröffentlicht GitHub Actions für IntelliJ IDEA als Open Source",
-      "teaser": "JetBrains liefert zum offenen Code der IntelliJ-Entwicklungsumgebung nun CI/CD-Pipelines für den Build-Prozess und fertige Builds.",
-      "url": "https://www.heise.de/news/Open-Source-GitHub-Actions-und-fertige-Builds-fuer-JetBrains-IntelliJ-IDEA-11092285.html",
-      "image_title": "Screenshot aus dem GitHub-Repo"
-    },
-    {
-      "title": "Microsoft: Visual Studio erhält kürzere Releasezyklen",
-      "teaser": "Bereits nächstes Jahr soll die neue Hauptversion Visual Studio 2027 erscheinen. Feature-Updates erscheinen nun monatlich statt vierteljährlich.",
-      "url": "https://www.heise.de/news/Schnellere-Updates-Visual-Studio-wechselt-zu-jaehrlichem-Releasezyklus-11092249.html",
-      "image_title": "Person bindet sich die Schuhe auf einer Rennbahn"
-    },
-    {
-      "title": "programmier.bar: AI-Recht mit Dr. Peggy Müller",
-      "teaser": "Dr. Peggy Müller erklärt, welche rechtlichen Fallstricke bei der Nutzung von KI-Systemen lauern und wie der AI Act künftig die Anwendung regeln wird.",
-      "url": "https://www.heise.de/blog/programmier-bar-AI-Recht-mit-Dr-Peggy-Mueller-11092157.html",
-      "image_title": "programmier.bar: AI-Recht"
-    },
-    {
-      "title": "FileRise 2.0: DSGVO-konformer Web-Dateimanager mit Client-Portals",
-      "teaser": "Der freie Web-Dateimanager FileRise ist in Version 2.0 erschienen. Neu sind unter anderem anpassbare Client-Portals mit Intake-Formularen.",
-      "url": "https://www.heise.de/news/FileRise-2-0-Web-Dateimanager-mit-Client-Portals-11092171.html",
-      "image_title": "Dashboard FileRise mit Fenster Client Portals"
     },
     {
       "title": "NewsUkraine-Krieg: Internetbeschränkungen in Russland mit immer heftigeren Folgen",
