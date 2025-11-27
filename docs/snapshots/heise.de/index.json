@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-27T08:15:47",
+  "timestamp": "2025-11-27T09:12:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Produktiver programmieren mit GitHub Copilot, Claude Code & Co.",
+      "url": "https://www.heise.de/news/iX-Workshop-Produktiver-programmieren-mit-GitHub-Copilot-Claude-Code-Co-11075746.html"
+    },
+    {
+      "title": "AWS führt DNS-Notfallsystem nach US-East-Ausfällen ein",
+      "url": "https://www.heise.de/news/AWS-fuehrt-DNS-Notfallsystem-nach-US-East-Ausfaellen-ein-11093837.html"
+    },
+    {
+      "title": "OpenAI meldet Datenklau bei Webanalyse-Dienstleister Mixpanel",
+      "url": "https://www.heise.de/news/OpenAI-meldet-Datenklau-bei-Webanalyse-Dienstleister-Mixpanel-11093777.html"
+    },
+    {
+      "title": "KI-Bildgeneratoren: So viel Strom braucht das Generieren von Bildern",
+      "url": "https://www.heise.de/news/KI-Bildgeneratoren-So-viel-Strom-braucht-das-Generieren-von-Bildern-11093707.html"
+    },
+    {
       "title": "Green Deals: Rabattaktion mit hohen Nachlässen im heise Shop",
       "url": "https://www.heise.de/news/Green-Deals-Rabattaktion-mit-hohen-Nachlaessen-im-heise-Shop-11091577.html"
     },
@@ -48,24 +64,6 @@
     {
       "title": "heise academy TECH-WEEK 2025",
       "url": "https://www.heise.de/news/heise-academy-TECH-WEEK-2025-11090881.html"
-    },
-    {
-      "title": "Sexpuppen in Kinderoptik – EU verlangt Auskunft von Shein",
-      "url": "https://www.heise.de/news/Sexpuppen-in-Kinderoptik-EU-verlangt-Auskunft-von-Shein-11093689.html"
-    },
-    {
-      "title": "Viture Luma Ultra ausprobiert: Zu viel des Guten",
-      "url": "https://www.heise.de/tests/Viture-Luma-Ultra-ausprobiert-Mobiles-146-Zoll-Display-mit-6DoF-Handtracking-11093574.html"
-    },
-    {
-      "title": "Von Spitzenleistung bis Rekordzeit: So schnell laden Elektroautos im Jahr 2025",
-      "url": "https://www.heise.de/hintergrund/Von-Spitzenleistung-bis-Rekordzeit-So-schnell-laden-Elektroautos-Im-Jahr-2025-10621189.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Zahl der Retouren steigt auf Rekordwert",
-      "url": "https://www.heise.de/news/Zahl-der-Retouren-steigt-auf-Rekordwert-11093679.html"
     },
     {
       "title": "SchweizDatenschützer verhängen breites Cloud-Verbot für Behörden",
@@ -176,8 +174,8 @@
       "image_title": "Chromebook von Lenovo mit halb geöffnetem Bildschirm"
     },
     {
-      "title": "Blutzuckersensoren melden falsche Werte: Abbott warnt vor fehlerhaften Sensoren",
-      "teaser": "Der US-amerikanische Hersteller Abbott warnt Kunden per Mail vor fehlerhaften Blutzuckersensoren. Die Geräte liefern zu niedrige Werte.",
+      "title": "MedizinBlutzuckersensoren melden falsche Werte",
+      "teaser": "Abbott warnt Kunden per Mail vor fehlerhaften Blutzuckersensoren. Die Geräte liefern zu niedrige Werte.",
       "url": "https://www.heise.de/news/Abbott-warnt-vor-fehlerhaften-Sensoren-Blutzuckersensoren-melden-falsche-Werte-11093494.html",
       "image_title": "Person mit Blutzuckersensor mit Smartphone in der Hand"
     },
@@ -188,8 +186,38 @@
       "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
     },
     {
+      "title": "iX-Workshop: Produktiver programmieren mit GitHub Copilot, Claude Code & Co.",
+      "teaser": "Erfahren Sie, wie Sie produktiv mit KI-Assistenten programmieren und lernen Sie die Stärken und Schwächen der Tools für den Einsatz in eigenen Projekten kennen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Produktiver-programmieren-mit-GitHub-Copilot-Claude-Code-Co-11075746.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+    },
+    {
+      "title": "AWS führt DNS-Notfallsystem nach US-East-Ausfällen ein",
+      "teaser": "Amazon Web Services führt eine DNS-Notfallfunktion ein. Sie soll bei Störungen in der US-East-Region DNS-Änderungen ermöglichen.",
+      "url": "https://www.heise.de/news/AWS-fuehrt-DNS-Notfallsystem-nach-US-East-Ausfaellen-ein-11093837.html",
+      "image_title": "Orange Wolke mit AWS-Logo, blauer Hintergrund mit blauen Wolken und Schilden"
+    },
+    {
+      "title": "IT-Risiken erkennen und mindern, bevor Schaden entsteht",
+      "teaser": "Attack Surface Management hilft Ihnen, angesichts ständiger Veränderunen den Überblick zu bewahren. Neue Schwachstellen werden rechtzeitig entdeckt und können besitigt werden, bevor Schlimmeres passiert.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/attack-surface-management-risiken-erkennen-und-mindern-bevor-schaden-entsteht-4998/?source=hbs-ersatz",
+      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
+    },
+    {
+      "title": "OpenAI meldet Datenklau bei Webanalyse-Dienstleister Mixpanel",
+      "teaser": "OpenAI meldet Datendiebstahl bei dem Webanalyser-Dienstleister Mixpanel. Daten von OpenAI-API-Nutzern sind betroffen.",
+      "url": "https://www.heise.de/news/OpenAI-meldet-Datenklau-bei-Webanalyse-Dienstleister-Mixpanel-11093777.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
+      "title": "KI-Bildgeneratoren: So viel Strom braucht das Generieren von Bildern",
+      "teaser": "Forscher haben eine Methode entwickelt, die den Stromverbrauch von KI-Bildgeneratoren vorhersagen kann. Das soll auch mit proprietären Systemen funktionieren.",
+      "url": "https://www.heise.de/news/KI-Bildgeneratoren-So-viel-Strom-braucht-das-Generieren-von-Bildern-11093707.html",
+      "image_title": "Strommasten vor wolkigem Himmel"
+    },
+    {
       "title": "Green Deals: Rabattaktion mit hohen Nachlässen im heise Shop",
-      "teaser": "Rabatte von bis zu 833 Prozent gibt es am Donnerstag und Freitag auf Webinare zu IT-Sicherheit und Energie sowie digitale Heftausgaben.",
+      "teaser": "Rabatte von bis zu 83 Prozent gibt es am Donnerstag und Freitag auf Webinare zu IT-Sicherheit und Energie sowie digitale Heftausgaben.",
       "url": "https://www.heise.de/news/Green-Deals-Rabattaktion-mit-hohen-Nachlaessen-im-heise-Shop-11091577.html"
     },
     {
@@ -197,12 +225,6 @@
       "teaser": "Das Energieeffizienzgesetz zwingt Rechenzentren, ihre Abwärme anzubieten. Doch die Nutzung ist komplex. AWANetz soll nun mit Know-how und Kontakten helfen.",
       "url": "https://www.heise.de/news/Bundesabwaermetagung-Abwaerme-aus-Rechenzentren-soll-zum-Mainstream-werden-11093731.html",
       "image_title": "Rechenzentrum"
-    },
-    {
-      "title": "IT-Risiken erkennen und mindern, bevor Schaden entsteht",
-      "teaser": "Attack Surface Management hilft Ihnen, angesichts ständiger Veränderunen den Überblick zu bewahren. Neue Schwachstellen werden rechtzeitig entdeckt und können besitigt werden, bevor Schlimmeres passiert.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/attack-surface-management-risiken-erkennen-und-mindern-bevor-schaden-entsteht-4998/?source=hbs-ersatz",
-      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
     },
     {
       "title": "Neue EU-Regeln: Bargeld im Supermarkt abheben und mehr Schutz",
@@ -215,28 +237,6 @@
       "teaser": "Private Autokäufer steigen derzeit zunehmend, aber nur in geringer Zahl vom Verbrenner auf ein E-Auto um. Das zeigt die Auswertung eines großen Versicherers.",
       "url": "https://www.heise.de/news/Untersuchung-Umstieg-auf-das-Elektroauto-kommt-nur-langsam-in-Schwung-11093721.html",
       "image_title": "Skoda Elroq 85"
-    },
-    {
-      "title": "heise academy TECH-WEEK 2025",
-      "teaser": "Die heise academy lädt IT-Professionals zur TECH-WEEK 2025 ein - mit Fokus auf flexible Weiterbildung und einem exklusiven Rabatt auf den Essential Pass.",
-      "url": "https://www.heise.de/news/heise-academy-TECH-WEEK-2025-11090881.html"
-    },
-    {
-      "title": "Sexpuppen in Kinderoptik – EU verlangt Auskunft von Shein",
-      "teaser": "Der Online-Händler Shein steht in Frankreich bereits seit Wochen wegen illegaler Produkte unter Druck. Nun schaltet sich auch die EU ein und verlangt Auskunft.",
-      "url": "https://www.heise.de/news/Sexpuppen-in-Kinderoptik-EU-verlangt-Auskunft-von-Shein-11093689.html",
-      "image_title": "Apps von Temu und Shein auf einem Smartphone"
-    },
-    {
-      "title": "Viture Luma Ultra ausprobiert: Zu viel des Guten",
-      "teaser": "Die Display-Brille Viture Luma Ultra verspricht neben einem mobilen Bildschirm für unterwegs auch AR und Handtracking. Doch wie zuverlässig funktioniert das?",
-      "url": "https://www.heise.de/tests/Viture-Luma-Ultra-ausprobiert-Mobiles-146-Zoll-Display-mit-6DoF-Handtracking-11093574.html",
-      "image_title": "Ein Mann trägt eine schwarze Sonnenbrille, blickt nach oben und gestikuliert mit den Händen."
-    },
-    {
-      "title": "Von Spitzenleistung bis Rekordzeit: So schnell laden Elektroautos im Jahr 2025",
-      "teaser": "Geringe Ladeleistungen, lange Ladezeiten: Zwei oft genannte Argumente gegen Elektroautos sind häufig keine mehr, wie ein Blick auf 14 Modelle zeigt.",
-      "url": "https://www.heise.de/hintergrund/Von-Spitzenleistung-bis-Rekordzeit-So-schnell-laden-Elektroautos-Im-Jahr-2025-10621189.html"
     },
     {
       "title": "Religion und KIWenn Kirche KI einsetzt: Betrug am Menschen?",
@@ -329,6 +329,28 @@
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=32355&wt_mc=intern.abo.plus.hp_2025_herbst.ho_advt.ad1.ad1"
     },
     {
+      "title": "heise academy TECH-WEEK 2025",
+      "teaser": "Die heise academy lädt IT-Professionals zur TECH-WEEK 2025 ein - mit Fokus auf flexible Weiterbildung und einem exklusiven Rabatt auf den Essential Pass.",
+      "url": "https://www.heise.de/news/heise-academy-TECH-WEEK-2025-11090881.html"
+    },
+    {
+      "title": "Sexpuppen in Kinderoptik – EU verlangt Auskunft von Shein",
+      "teaser": "Der Online-Händler Shein steht in Frankreich bereits seit Wochen wegen illegaler Produkte unter Druck. Nun schaltet sich auch die EU ein und verlangt Auskunft.",
+      "url": "https://www.heise.de/news/Sexpuppen-in-Kinderoptik-EU-verlangt-Auskunft-von-Shein-11093689.html",
+      "image_title": "Apps von Temu und Shein auf einem Smartphone"
+    },
+    {
+      "title": "Viture Luma Ultra ausprobiert: Zu viel des Guten",
+      "teaser": "Die Display-Brille Viture Luma Ultra verspricht neben einem mobilen Bildschirm für unterwegs auch AR und Handtracking. Doch wie zuverlässig funktioniert das?",
+      "url": "https://www.heise.de/tests/Viture-Luma-Ultra-ausprobiert-Mobiles-146-Zoll-Display-mit-6DoF-Handtracking-11093574.html",
+      "image_title": "Ein Mann trägt eine schwarze Sonnenbrille, blickt nach oben und gestikuliert mit den Händen."
+    },
+    {
+      "title": "Von Spitzenleistung bis Rekordzeit: So schnell laden Elektroautos im Jahr 2025",
+      "teaser": "Geringe Ladeleistungen, lange Ladezeiten: Zwei oft genannte Argumente gegen Elektroautos sind häufig keine mehr, wie ein Blick auf 14 Modelle zeigt.",
+      "url": "https://www.heise.de/hintergrund/Von-Spitzenleistung-bis-Rekordzeit-So-schnell-laden-Elektroautos-Im-Jahr-2025-10621189.html"
+    },
+    {
       "title": "Zahl der Retouren steigt auf Rekordwert",
       "teaser": "Rücksendungen von Online-Bestellungen sind oft kostenfrei. Kunden machen davon ausgiebig Gebrauch, wie aktuelle Zahlen zeigen.",
       "url": "https://www.heise.de/news/Zahl-der-Retouren-steigt-auf-Rekordwert-11093679.html",
@@ -382,6 +404,11 @@
       "image_title": "Grüne Speicherriegel in einem Mainboard"
     },
     {
+      "title": "KI-Einführung: Die 3 größten Hürden und wie man sie überwindet",
+      "teaser": "Der Einsatz von KI ist für die Wettbewerbsfähigkeit von Unternehmen entscheidend. Wie man die richtigen Investitionsentscheidungen trifft, um das volle Potenzial der KI-Nutzung auszuschöpfen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/ki-einfuehrung-die-3-groessten-huerden-und-wie-man-sie-ueberwindet/?source=hbsadersatz"
+    },
+    {
       "title": "Black Friday: Zubehör für Apple-Nutzer",
       "teaser": "Die schwarze Shopping-Woche ist in vollem Gange. Auch für Nutzer von Apple-Produkten gibt es jede Menge verbilligte Peripherie. Einige gute Deals.",
       "url": "https://www.heise.de/news/Black-Friday-Zubehoer-fuer-Apple-Nutzer-11093347.html",
@@ -402,11 +429,6 @@
       "title": "EU-Parlament: Jugendliche sollen TikTok & Co. erst ab 16 nutzen dürfen",
       "teaser": "Die EU-Abgeordneten fordern umfassende Maßnahmen zum Schutz von Minderjährigen im Netz. Dazu zählt ein EU-weites Mindestalter von 16 Jahren für Social Media.",
       "url": "https://www.heise.de/news/EU-Parlament-Jugendliche-sollen-TikTok-Co-erst-ab-16-nutzen-duerfen-11093317.html"
-    },
-    {
-      "title": "Warum Sie jetzt Ihre Server modernisieren sollten",
-      "teaser": "Veraltete Technologien können die Produktivität hemmen, die Sicherheit gefährden und die Kosten in die Höhe treiben. Warum gerade jetzt ein guter Zeitpunkt ist, Ihre Server zu modernisieren.",
-      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-sie-jetzt-ihre-server-modernisieren-sollten-4968/?source=nat_teas"
     },
     {
       "title": "Cell Broadcast: BBK führt Entwarnungen ein",
@@ -442,29 +464,6 @@
       "teaser": "Souveräner Cloud-Support, KI und Virtualisierung ohne Broadcom-Daumenschrauben – das waren die zentralen Themen auf Red Hats Hauskonferenz.",
       "url": "https://www.heise.de/news/Red-Hat-Summit-Connect-Souveraener-Support-und-Virtualisierungsflucht-nach-vorn-11092782.html",
       "image_title": "Blick auf Rednerbühne und Publikum bei der Red-Hat-Konferenz."
-    },
-    {
-      "title": "KI-Update kompakt: KI-Rechenzentren, Flux 2, KI-Framework MLX, OpenAI-Hardware",
-      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Rechenzentren-Flux-2-KI-Framework-MLX-OpenAI-Hardware-11092405.html",
-      "image_title": "heise-Logo vom KI-Update"
-    },
-    {
-      "title": "Asus GeForce RTX 5080 Noctua-Edition: Extrem leise High-End-Karte",
-      "teaser": "Mit drei Lüftern und Riesenkühler schlich die High-End-Grafikkarte von Asus und Noctua auch unter Volllast in 4K-Auflösung auf leisen Sohlen durchs Testlabor.",
-      "url": "https://www.heise.de/tests/Asus-GeForce-RTX-5080-Noctua-Edition-Extrem-leise-High-End-Karte-10777991.html"
-    },
-    {
-      "title": "Weihnachtliche Lötkits: Blinke-Schmuck für Maker",
-      "teaser": "Weihnachtszeit für Maker: Mit roten und grünen Platinen von Olimex lassen sich blinkende Ornamente selbst löten.",
-      "url": "https://www.heise.de/news/Weihnachtliche-Loetkits-Blinke-Schmuck-fuer-Maker-11093068.html",
-      "image_title": "Die drei Platinen sind nebeneinander vor einem Schneehintergrund zu sehen. Ein roter Weihnachtsmann, ein grüner Tannenbaum und eine rote Christbaumkugel"
-    },
-    {
-      "title": "Streichen unmöglich: AirPods 4 mit und ohne ANC fehlt die Lautstärkeeinstellung",
-      "teaser": "Wer Apples Standard-Stöpsel besitzt, wird früher oder später mit einem Problem konfrontiert: Wie macht man sie lauter oder leiser?",
-      "url": "https://www.heise.de/news/Streichen-unmoeglich-AirPods-4-mit-und-ohne-ANC-fehlt-die-Lautstaerkeeinstellung-11091897.html",
-      "image_title": "AirPods-4-Nutzerin"
     },
     {
       "title": "Deutsche Bahn spart Millionen mit 3D-Druck-Ersatzteilen",
@@ -636,19 +635,19 @@
       "url": "https://www.heise.de/en/news/Telekom-and-Vodafone-do-not-have-to-block-Pornhub-and-YouPorn-for-now-11088034.html"
     },
     {
-      "title": "Wie IBM mit Nighthawk Quantenüberlegenheit zeigen will",
-      "teaser": "Der Nighthawk-Quantenprozessor von IBM verknüpft 120 Qubits und greift nach der Quantenüberlegenheit. Eine zweite Chipreihe reizt die Quantenfehlertoleranz aus.",
-      "url": "https://www.heise.de/hintergrund/Wie-IBM-mit-Nighthawk-Quantenueberlegenheit-zeigen-will-11075977.html"
-    },
-    {
       "title": "BundID: Wenn die elektronische Ummeldung zum Kraftakt wird",
       "teaser": "Die BundID gleicht noch immer eher einem holprigen Feldweg als einer Datenautobahn.",
       "url": "https://www.heise.de/ratgeber/BundID-Wenn-die-elektronische-Ummeldung-zum-Kraftakt-wird-11069371.html"
     },
     {
-      "title": "Wero in ersten Onlineshops: Überblick und Hintergrund",
-      "teaser": "Wero ist im Onlinehandel gestartet. Wir geben einen aktuellen Überblick zum Stand des europäischen Bezahlsystems und haben es im Shop ausprobiert.",
-      "url": "https://www.heise.de/hintergrund/Wero-in-ersten-Onlineshops-Ueberblick-und-Hintergrund-11077850.html"
+      "title": "WhatWeb: Webseiten-Scanner im Test",
+      "teaser": "Manchmal braucht man ein Tool, mit dem man hinter die Fassade einer Seite schauen kann. Das Urgestein WhatWeb erledigt das in Windeseile.",
+      "url": "https://www.heise.de/ratgeber/WhatsWeb-Webseiten-Scanner-im-Test-11078848.html"
+    },
+    {
+      "title": "Wie IBM mit Nighthawk Quantenüberlegenheit zeigen will",
+      "teaser": "Der Nighthawk-Quantenprozessor von IBM verknüpft 120 Qubits und greift nach der Quantenüberlegenheit. Eine zweite Chipreihe reizt die Quantenfehlertoleranz aus.",
+      "url": "https://www.heise.de/hintergrund/Wie-IBM-mit-Nighthawk-Quantenueberlegenheit-zeigen-will-11075977.html"
     },
     {
       "title": "Direktstreamer für den Mac: Das kann Airflow",
@@ -669,6 +668,12 @@
       "image_title": "Nutzer mit Fritzbox"
     },
     {
+      "title": "Weihnachtliche Lötkits: Blinke-Schmuck für Maker",
+      "teaser": "Weihnachtszeit für Maker: Mit roten und grünen Platinen von Olimex lassen sich blinkende Ornamente selbst löten.",
+      "url": "https://www.heise.de/news/Weihnachtliche-Loetkits-Blinke-Schmuck-fuer-Maker-11093068.html",
+      "image_title": "Die drei Platinen sind nebeneinander vor einem Schneehintergrund zu sehen. Ein roter Weihnachtsmann, ein grüner Tannenbaum und eine rote Christbaumkugel"
+    },
+    {
       "title": "Raspberry PiOS-Update und neuer Raspberry-Pi-Imager",
       "teaser": "Das Raspberry-Pi-Projekt hat eine neue Version des Raspberry Pi Imagers vorgelegt. Raspberry Pi OS erhält sanfte Versionspflege.",
       "url": "https://www.heise.de/news/RaspberryPi-OS-Update-und-neuer-Raspberry-Pi-Imager-11090409.html",
@@ -679,17 +684,6 @@
       "teaser": "Mehrere Leser haben unseren Filamentschrank nachgebaut und dabei Verbesserungen und neue Funktionen entwickelt. Wir stellen sie in diesem Artikel vor.",
       "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Filamentschrank-2-0-mit-verbesserter-Aufbewahrung-10748169.html",
       "image_title": ","
-    },
-    {
-      "title": "Spielerische Matheaufgaben im Adventskalender",
-      "teaser": "Die 24 Aufgaben der MATH+ Adventskalender bieten Schülern, Studierenden und Interessierten Unterhaltung und Einblicke in den Berufsalltag von Mathematikern.",
-      "url": "https://www.heise.de/news/Mathe-Adventskalender-starten-am-1-Dezember-11089190.html",
-      "image_title": "Adventskalender"
-    },
-    {
-      "title": "AffinityProfessionelle Fotobücher und Magazine gratis gestalten",
-      "teaser": "Mit Affinity kann jeder ein Fotobuch nach eigenen Vorstellungen gestalten – wie einfach das geht, zeigt unser Ratgeber.",
-      "url": "https://www.heise.de/ratgeber/Affinity-Professionelle-Fotobuecher-und-Magazine-gratis-gestalten-11089027.html"
     },
     {
       "title": "Die Bilder der Woche 47 – Blick durch die Linse",
@@ -708,6 +702,11 @@
       "teaser": "Das richtige Geschenk für Fotobegeisterte zu finden, ist gar nicht so einfach. In der Preisklasse bis 150 Euro stellen wir Highlights vor, die Freude bringen.",
       "url": "https://www.heise.de/ratgeber/Geschenke-fuer-Fotografen-Die-Tipps-unserer-Redaktion-10762141.html",
       "image_title": ", Nito/Stocksy / stock.adobe.com / Bearbeitung heise medien"
+    },
+    {
+      "title": "Mono-Leica und variable Osmo – die Fotonews der Woche 47/2025",
+      "teaser": "Zwei Kameras, die unterschiedlicher nicht sein könnten: Die Leica ist exklusiv und teuer, die neue DJI robust und fast ein Preisbrecher.",
+      "url": "https://www.heise.de/news/Mono-Leica-und-variable-Osmo-die-Fotonews-der-Woche-47-2025-11088589.html"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -750,21 +749,22 @@
       "image_title": "KBA vor 60 Jahren Zentralregister"
     },
     {
-      "title": "Sniper-Tourismus in Sarajevo: Wenn Menschenleben zur Trophäe werden",
-      "teaser": "Sarajevo in den 1990er Jahren: Reiche Touristen sollen für Schüsse auf Zivilisten gezahlt haben. Ermittlungen laufen. Was wussten die Geheimdienste?",
-      "url": "https://www.heise.de/-11089315"
+      "title": "Migration statt Konflikt: Wie sich eine alte Zivilisation an das Klima anpasste",
+      "teaser": "Amerikas älteste Zivilisation in Caral überstand eine Klimakrise. Statt Konflikten wählten die Menschen Kooperation. Wandreliefs liefern Zeugnis davon ab.",
+      "url": "https://www.heise.de/-11090843",
+      "image_title": "Eine Ausgrabungsstätte in karger Landschaft"
     },
     {
-      "title": "ERP-Systeme: Wenn Software den Arbeitsalltag diktiert",
-      "teaser": "ERP-Software plant Schichten, überwacht jeden Schritt und verhindert den Abbau von Überstunden – die Digitalisierung verändert Fabriken radikal.",
-      "url": "https://www.heise.de/-11090708",
-      "image_title": "Headset mit Flügelschrauben an den Hörmuscheln"
+      "title": "Kann die Türkei mit der Hedschasbahn Afrika und Asien verbinden?",
+      "teaser": "Eine über 100 Jahre alte Bahnstrecke soll Handel und Pilgerreisen revolutionieren – doch der Westen könnte das Projekt stoppen.",
+      "url": "https://www.heise.de/-11088285",
+      "image_title": "Blick aus dem Fenster eines altertümlichen Eisenbahnzuges auf eine arabische Stadt"
     },
     {
-      "title": "Hat Europa gerade die Ukraine vor Trump und Putin gerettet?",
-      "teaser": "Ein US-Entwurf basierte wohl auf Putins Wunschliste – bis Europa und Kiew in Genf neun Punkte streichen ließen und die Verhandlungen drehten.",
-      "url": "https://www.heise.de/-11093608",
-      "image_title": "erschwommene ukrainische Flagge zwischen den USA und Russland als Symbol für Diplomatie, Friedensgespräche und geopolitische Spannungen im Ukraine-Krieg"
+      "title": "Atomkraft: Warum die Entwicklungsbank in Asien jetzt Atomprojekte fördert",
+      "teaser": "Die Bank will damit den wachsenden Energiebedarf in der Region decken – und folgt einem Trend, den auch die Weltbank einschlägt.",
+      "url": "https://www.heise.de/-11093423",
+      "image_title": "Der Bau des Kernkraftwerks Rooppur in Ishwardi in Pabna, Bangladesch."
     },
     {
       "title": "Schluss mit Ordnerchaos: Diese App sortiert deine Notizen automatisch mit KI",
