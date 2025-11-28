@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T15:10:14",
+  "timestamp": "2025-11-28T16:12:33",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -62,26 +68,33 @@
   ],
   "articles": [
     {
-      "title": "Bundeshaushalt 2026: 197,3 Milliarden Euro für Soziales",
-      "teaser": "Die Koalition setzt ihre Ausgabenpläne durch. Ein Versprechen krönt die Haushaltswoche.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/baerbel-bas-und-der-haushalt-197-3-milliarden-euro-fuer-soziales-110793531.html"
+      "title": "FAZ+Grüne Fraktionsvorsitzende: Katharina, die Harte",
+      "teaser": "Die Fraktionschefin der Grünen wird für ihre gute Laune geschätzt, aber auch für ihre Durchsetzungsstärke. Reicht das, um die Lücke zu füllen, die Robert Habeck und Annalena Baerbock hinterlassen haben?",
+      "url": "https://www.faz.net/aktuell/politik/inland/die-gruenen-katharina-droege-im-portraet-110793698.html"
     },
     {
-      "title": "Schwarz-rote Koalition: Der Renten-Begleittext birgt neue Sprengkraft",
-      "teaser": "Die Koalition formuliert Zugeständnisse an junge Unionsabgeordnete, um ihr Rentenpaket zu retten. Allerdings soll eine neue Rentenkommission auch teure Lieblingsprojekte der SPD prüfen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/rentenpaket-welche-zugestaendnisse-die-koalition-macht-accg-200305423.html"
+      "title": "FAZ+Parteitag der Grünen: Sie reden über Sicherheitspolitik und Homöopathie",
+      "teaser": "Auf dem Parteitag der Grünen werden kontroverse Debatten erwartet: Nicht alle Delegierten wollen eine kriegstüchtige Bundeswehr.",
+      "url": "https://www.faz.net/aktuell/politik/inland/parteitag-der-gruenen-sie-reden-ueber-homoeopathie-und-sicherheitspolitik-110792794.html"
+    },
+    {
+      "title": "FAZ+Bundeshaushalt 2026: 197,3 Milliarden Euro für Soziales",
+      "teaser": "Die Koalition setzt ihre Ausgabenpläne durch. Ein Versprechen krönt die Haushaltswoche.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/baerbel-bas-und-der-haushalt-197-3-milliarden-euro-fuer-soziales-110793531.html",
+      "image_url": "https://media0.faz.net/image/w920/2e95390f0f31/w3000h1687x0y0/202511/43601.0.1530182094/arbeitsministerin-und-spd.webp",
+      "image_title": "Arbeitsministerin und SPD-Chefin Bärbel Bas an diesem Freitag im Bundestag"
+    },
+    {
+      "title": "FAZ+Neues Förderprogramm: Bis zu 5000 Euro Zuschuss zum E-Auto",
+      "teaser": "Die Bundesregierung plant die Wiedereinführung einer Kaufprämie – anders als unter der Ampel allerdings nicht nur für reine Elektroautos. Bestimmte Haushalte sollen besonders profitieren.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/bis-zu-5000-euro-zuschuss-zum-e-auto-110793736.html",
+      "image_url": "https://media0.faz.net/image/w730/8b2b86576f50/w4256h2394x0y219/202503/43601.0.917900134/der-kauf-von-elektroautos-hier.webp",
+      "image_title": "Der Kauf von Elektroautos - hier der i3 von BMW - soll in Zukunft wieder gefördert werden."
     },
     {
       "title": "FAZ+Neues Förderprogramm: Bis zu 5000 Euro Zuschuss zum E-Auto",
       "teaser": "Die Bundesregierung plant die Wiedereinführung einer Kaufprämie – anders als unter der Ampel allerdings nicht nur für reine Elektroautos. Bestimmte Haushalte sollen besonders profitieren.",
       "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/bis-zu-5000-euro-zuschuss-zum-e-auto-110793736.html"
-    },
-    {
-      "title": "FAZ+Zu wenige Elektroautos: Koalition will das Verbrenner-Aus aufweichen",
-      "teaser": "Union und SPD haben sich auf eine gemeinsame Position zur Überarbeitung der Flottengrenzwerte geeinigt. CSU-Chef Markus Söder spricht von einem „Aus vom ganz starren Verbrenner-Aus“.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/koalition-will-das-verbrenner-aus-aufweichen-110793829.html",
-      "image_url": "https://media0.faz.net/image/w730/8668a7446e27/w3000h1687x0y58/202511/43601.0.1455250138/bald-nur-noch-elektrisch-stau.webp",
-      "image_title": "Bald nur noch elektrisch? Stau auf der Autobahn"
     },
     {
       "title": "Rente und Verbrenner: Die Koalition der Hartnäckigen",
@@ -94,6 +107,13 @@
       "title": "Rente und Verbrenner: Die Koalition der Hartnäckigen",
       "teaser": "Diese Koalition ist doch besser als ihr Ruf, also besser als die Ampel. Sie hat keine andere Wahl. Der Streit aber wird bleiben. Dafür ist die SPD zu weit von der Reformagenda der CDU entfernt.",
       "url": "https://www.faz.net/aktuell/politik/rentenstreit-und-verbrenner-aus-die-koalition-der-hartnaeckigen-110793453.html"
+    },
+    {
+      "title": "Krieg in der Ukraine: Ukrainischer Präsidialamtschef Jermak tritt zurück",
+      "teaser": "Nach Vorwürfen der Korruption gegen den Selenskyj-Vertrauten +++ Putin hat Orbán in Moskau empfangen +++ Mutmaßlicher Nord-Stream-Drahtzieher in Deutschland in U-Haft +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-ukrainischer-praesidialamtschef-jermak-tritt-zurueck-faz-110683325.html",
+      "image_url": "https://media0.faz.net/image/w730/cf608bd66453/w3000h1687x0y156/202505/43601.0.1021892652/andrij-jermak-im-februar-2024.webp",
+      "image_title": "Andrij Jermak im Februar 2024 in Kiew"
     },
     {
       "title": "FAZ+FRAKTUR: Nicht verzagen, Witkoff fragen!",
@@ -110,18 +130,18 @@
       "image_title": "Ingrid van Bergen in „Rosen für den Staatsanwalt“ von 1959."
     },
     {
-      "title": "FAZ+f.a.z. podcast für deutschland: AfD-Aussteiger zur neuen Parteijugend: „Den Begriff Sekte benutze ich ganz bewusst“",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/afd-aussteiger-zur-neuen-parteijugend-den-begriff-sekte-benutze-ich-ganz-bewusst-200305024.html",
-      "image_url": "https://media0.faz.net/image/w730/5a5cfdc7761f/w3000h1687x0y156/202502/43601.0.838619940/07-02-2025-zwei-maenner-tragen.webp",
-      "image_title": "07.02.2025, Zwei Männer tragen auf einer Wahlkampfveranstaltung der AfD Kapuzenpullover mit der Aufschrift «AfD Jugend»"
+      "title": "FAZ+Empfang im Kreml: Putins warme Worte für Orbán",
+      "teaser": "Russlands Staatschef lobt in Moskau Orbáns „abgewogene Position zur ukrainischen Problematik“. Ungarns Regierungschef will lieber über russisches Öl und Gas reden.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/empfang-im-kreml-putins-warme-worte-fuer-orban-110793811.html",
+      "image_url": "https://media0.faz.net/image/w730/10822df66c7b/w3000h1688x0y175/112025/1.10793810/ungarns-ministerpraesident.webp",
+      "image_title": "Ungarns Ministerpräsident Viktor Orbán und Russlands Präsident Wladimir Putin am Freitag im Senatspalast des Kremls in Moskau"
     },
     {
-      "title": "Sadisten-Netzwerk: Stiftete die Gruppe „764“ ein Mädchen zur Tötung ihrer Schwester an?",
-      "teaser": "Ermittler sollen Verbindungen zwischen einem Sadisten-Netzwerk und der Tötung eines Kindes in Leipzig prüfen. Dort hatte vor einem Jahr ein 13-jähriges Mädchen seine jüngere Schwester erstochen.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/hat-764-mit-der-toetung-eines-kindes-durch-schwester-zu-tun-110793756.html",
-      "image_url": "https://media0.faz.net/image/w730/d77622d5a673/w3000h1687x0y156/202510/43601.0.1382993565/zehn-von-16.webp",
-      "image_title": "Zehn von 16 Landeskriminalämtern führen Ermittlungsverfahren mit Bezug zu „764“ (Symbolbild)"
+      "title": "Hochhausbrand in Hongkong: Die Styroporplatten übertrugen das Feuer",
+      "teaser": "Nach dem Hochhausbrand in Hongkong steigt die Zahl der Toten auf mindestens 128. Sechs weitere Personen werden festgenommen – und die Ursachenforschung richtet sich auch auf die verbrannten Baumaterialien.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/wie-kam-es-zum-hochhausbrand-in-hongkong-110793772.html",
+      "image_url": "https://media0.faz.net/image/w730/2b10f67d083b/w3000h1687x0y156/202511/43601.0.1530552716/blick-aus-der-luft-auch-die.webp",
+      "image_title": "Blick aus der Luft: Auch die Feuermelder versagten in allen acht betroffenen Gebäuden."
     },
     {
       "title": "FAZ+Kritik an Hitachi: Stuttgart 21 – Wer ist schuld am Desaster?",
@@ -129,13 +149,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/stuttgart-21-warum-das-milliardenprojekt-nicht-fertig-wird-110792734.html",
       "image_url": "https://media0.faz.net/image/w730/ac80dfcfed08/w3000h1688x0y156/112025/1.10792730/grossbaustelle-der-unter-die.webp",
       "image_title": "Großbaustelle: der unter die Erde verlegte Hauptbahnhof Stuttgarts"
-    },
-    {
-      "title": "FAZ+1500 Entlassungen: Lieferandos umstrittener Lieferplan",
-      "teaser": "Lieferando will 1500 Kuriere entlassen und setzt stattdessen teils auf Drittanbieter. Deutschlandchef Lennard Neubauer verrät, wie es jetzt weitergeht – und schwärmt von der neuen „Agilität“. Der Betriebsrat ist entsetzt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lieferando-konkretisiert-kuendigungsplaene-1500-statt-2000-kuriere-betroffen-110793754.html",
-      "image_url": "https://media0.faz.net/image/w730/9fd719c2ef60/w3000h1688x0y156/032025/1.10793753/in-ballungszentren-auch.webp",
-      "image_title": "In Ballungszentren auch künftig noch angestellt: Ein Lieferando-Fahrer ist auf der Freßgass’ unterwegs."
     },
     {
       "title": "Gemeindefusionen: Mutiger Rat an die Kommunen",
@@ -159,11 +172,11 @@
       "image_title": "Stephan Löwenstein"
     },
     {
-      "title": "Verbraucher: Keine Entlastung trotz niedriger Ölpreise",
-      "teaser": "Obwohl Rohöl auf den Weltmärkten billiger wird, ist an den Tankstellen und beim Heizöl-Kauf nicht viel davon zu spüren. Was ist davon zu halten?",
-      "url": "https://www.faz.net/aktuell/finanzen/darum-gibt-es-keine-entlastung-trotz-niedriger-oelpreise-110790489.html",
-      "image_url": "https://media0.faz.net/image/w100/f7ded4680e52/w1000h1000x0y136/201311/1.2906937/christian-siedenbiedel.webp",
-      "image_title": "Christian Siedenbiedel"
+      "title": "„Ostdeutsche Allgemeine“: Der eiserne Meinungsvorhang",
+      "teaser": "Holger Friedrich hat eine „Osterweiterung“ seines Berliner Verlags angekündigt. Um dem angeblich herabsetzenden Blick auf Ostdeutschland etwas entgegenzuhalten. Seine Geheimwaffe: Querdenker aus dem Westen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/holger-friedrich-plant-osterweiterung-seines-verlags-110788316.html",
+      "image_url": "https://media0.faz.net/image/w100/7070790e40d5/w422h422x312y73/201911/1.6467789/harald-staun.webp",
+      "image_title": "Harald Staun"
     },
     {
       "title": "FAZ+Neuer Verwaltungsrat: „Springer-Alarm“ im ZDF",
@@ -171,6 +184,13 @@
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/einstiger-springer-mann-nienhaus-kandidat-fuer-zdf-verwaltungsrat-110792804.html",
       "image_url": "https://media0.faz.net/image/w100/b0a2a04968a9/w1830h1830x598y194/201311/1.2906553/michael-hanfeld.webp",
       "image_title": "Michael Hanfeld"
+    },
+    {
+      "title": "Verbraucher: Keine Entlastung trotz niedriger Ölpreise",
+      "teaser": "Obwohl Rohöl auf den Weltmärkten billiger wird, ist an den Tankstellen und beim Heizöl-Kauf nicht viel davon zu spüren. Was ist davon zu halten?",
+      "url": "https://www.faz.net/aktuell/finanzen/darum-gibt-es-keine-entlastung-trotz-niedriger-oelpreise-110790489.html",
+      "image_url": "https://media0.faz.net/image/w100/f7ded4680e52/w1000h1000x0y136/201311/1.2906937/christian-siedenbiedel.webp",
+      "image_title": "Christian Siedenbiedel"
     },
     {
       "title": "FAZ+Kunstausstellung abgesagt: Neues aus der Bundessparhalle",
@@ -222,21 +242,14 @@
       "image_title": "Julia Fietz"
     },
     {
-      "title": "FAZ+Social-Media-Entgiftung: Ein Wundermittel, das Tech-Konzerne lieber verschweigen",
-      "teaser": "Eine Woche ohne Instagram, Tiktok und Snapchat – schon sinken Depressionen und Schlafstörungen. Das zeigt eine Harvard-Studie. Der Politik sollte sie zu denken geben.",
-      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/digital-detox-studie-social-media-entgiftung-heilt-die-psyche-110790963.html",
-      "image_url": "https://media0.faz.net/image/w100/fb601c64b388/w448h448x274y61/202404/1.9638796/piotr-heller.webp",
-      "image_title": "Piotr Heller"
-    },
-    {
-      "title": "FAZ+Russische Vermögen: Belgien weist EU-Plan für Reperationsdarlehen zurück",
+      "title": "FAZ+Russische Vermögen: Belgien weist EU-Plan für Reparationsdarlehen zurück",
       "teaser": "Ministerpräsident De Wever hat Ursula von der Leyen einen Brandbrief geschrieben, er liegt der F.A.Z. vor. Die Finanzierung der Ukraine wird damit noch schwieriger.",
       "url": "https://www.faz.net/aktuell/politik/ukraine/belgien-weist-reparationsdarlehen-fuer-kiew-zurueck-110793633.html"
     },
     {
-      "title": "FAZ+Klimastiftung und Nord Stream: „Mit dem Wissen von heute würden wir so etwas nicht beginnen“",
-      "teaser": "Landesinnenminister Christian Pegel wird zu Nord Stream und der Klimastiftung befragt. Die Hoffnung auf Wandel durch Handel habe sich nicht erfüllt. Doch was folgt aus den Erkenntnissen?",
-      "url": "https://www.faz.net/aktuell/politik/inland/nord-stream-und-klimastiftung-die-geloeschten-mails-des-ministers-110793618.html"
+      "title": "Urteil in München: Mann will Ex-Freundin und Sohn verbrennen – lange Haft",
+      "teaser": "Ein Mann will keinen Unterhalt für seinen Sohn bezahlen – also setzt er nachts die Wohnung seiner Ex-Partnerin in Brand. Nun muss er wegen versuchten Mordes für mehr als zwölf Jahre in Haft.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/mann-will-ex-freundin-und-sohn-verbrennen-lebenslange-haft-accg-200307607.html"
     },
     {
       "title": "Sexuelle Übergriffe: Drei Männer verklagen Kevin Spacey",
@@ -249,18 +262,18 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/mann-soll-ehefrau-getoetet-und-einbetoniert-haben-accg-200306351.html"
     },
     {
-      "title": "FAZ+Jordanien vor dem Ansturm: Auf der richtigen Seite der Religionsgeschichte",
-      "teaser": "Die Jordanier sind davon überzeugt, dass Jesus am östlichen Ufer des Jordans getauft wurde – und hoffen auf Pilger. Dabei hat das Land außer heiligen Stätten auch eine Landschaft zu bieten, die nicht nur Science-Fiction-Fans magisch anzieht.",
-      "url": "https://www.faz.net/aktuell/reise/auf-der-richtigen-seite-der-religionsgeschichte-110791021.html",
-      "image_url": "https://media0.faz.net/image/w920/68b3f50f93ba/w2057h1157x472y0/032025/1.10791019/im-wadi-rum-kann-man-sich-in.webp",
-      "image_title": "Im Wadi Rum kann man sich in fremde Universen träumen."
+      "title": "FAZ+Audi Q6 Sportback: Schneller als der Blutzucker",
+      "teaser": "Der Audi Q6 Sportback lädt ziemlich flott. Das Schnellladen macht sich allerdings im Verbrauch bemerkbar. Den schlanken Rücken finden wir trotzdem entzückend.",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/schneller-als-der-blutzucker-110789822.html",
+      "image_url": "https://media0.faz.net/image/w920/f72672da5970/w2800h1575x1650y1093/202511/43601.0.1494680311/sportlicher-ruecken-der-audi.webp",
+      "image_title": "Sportlicher Rücken: Der Audi Q6 mit Schrägheck"
     },
     {
-      "title": "FAZ+Botanik-Kolumne: Wie Sie Spinnenmilben loswerden",
-      "teaser": "Spinnenmilben suchen vor allem im Winter Zimmerpflanzen heim. Das hat einen bestimmten Grund. Wer ihn kennt, kann gegen die Schädlinge vorgehen.",
-      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/boese-biester-110788170.html",
-      "image_url": "https://media0.faz.net/image/w920/16b5c0a11416/w4013h2257x0y2559/201812/431.0.17144838/im-winter-beginnt-die-schwere.webp",
-      "image_title": "Im Winter beginnt die schwere Zeit für Zimmerpflanzen"
+      "title": "Deutsche handball-Frauen: Riesenchance für Gen Z bei Handball-WM",
+      "teaser": "Bundestrainer Gaugisch präsentiert zum gelungenen Start der deutschen Handball-Frauen bei der Heim-WM nicht nur die alte Achse, sondern ein sehr vielfältiges Team.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/was-die-deutschen-handballspielerinnen-ueberraschend-stark-macht-110792470.html",
+      "image_url": "https://media0.faz.net/image/w920/105a4c86d360/w3000h1687x0y0/202511/43601.0.1524532815/bringt-spass-in-die-kabine-und.webp",
+      "image_title": "Bringt Spaß in die Kabine und Dynamik ins Spiel: Nieke Kühne (rechts) nutzt ihre Chance gegen Island"
     },
     {
       "title": "FAZ+Einspruch Exklusiv: Warum die Bundestagspolizei ein eigenes Gesetz braucht",
@@ -320,10 +333,17 @@
       "image_title": "Als Täter ermittelt wurde der Sexualstraftäter Peter F. Knapp 40 Jahre nach der Tat wurde er überführt, das Landgericht Darmstadt verurteilte ihn zu lebenslanger Haft."
     },
     {
+      "title": "Konflikt USA Venezuela: Trump will Antidrogeneinsatz auf das Festland ausweiten",
+      "teaser": "Video",
+      "url": "https://www.faz.net/video/trump-venezuela-drogenschmuggel-einsaetze-an-land-geplant-200307422.html",
+      "image_url": "https://media0.faz.net/image/w920/afa4ebe4cda9/w3000h1285x0y357/202511/43601.0.1529387409/ap.webp",
+      "image_title": "AP"
+    },
+    {
       "title": "Korruption in der Ukraine: Ermittler durchsuchen Wohnung von Selenskyjs Vertrautem",
       "teaser": "Video",
       "url": "https://www.faz.net/video/ermittler-durchsuchen-wohnung-von-selenskyjs-vertrautem-200307320.html",
-      "image_url": "https://media0.faz.net/image/w920/b9181533eba9/w3000h1285x0y357/202505/43601.0.1021892652/dpa.webp",
+      "image_url": "https://media0.faz.net/image/w730/cf608bd66453/w3000h1687x0y156/202505/43601.0.1021892652/dpa.webp",
       "image_title": "dpa"
     },
     {
@@ -334,38 +354,38 @@
       "image_title": "dpa"
     },
     {
-      "title": "Kloster Goldenstein: Nonnen dürfen unter Auflagen bleiben",
-      "teaser": "Video",
-      "url": "https://www.faz.net/video/kloster-goldenstein-nonnen-bleiben-vorerst-unter-auflagen-200307192.html",
-      "image_url": "https://media0.faz.net/image/w730/ff2175117f43/w5395h3035x0y281/202509/43601.0.1295506033/epa.webp",
-      "image_title": "EPA"
+      "title": "Rhein-Main-Feierabendbriefing: Frankfurt erhöht U-Bahn-Takte",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/fahrplanwechsel-in-frankfurt-busse-und-bahnen-fahren-wieder-haeufiger-200307388.html",
+      "image_url": "https://media0.faz.net/image/w920/f4e294c779cf/w3000h1285x0y272/202510/43601.0.1371865414/kommt-bald-wieder-haeufiger-u.webp",
+      "image_title": "Kommt bald wieder häufiger: U-Bahn in Frankfurt"
+    },
+    {
+      "title": "FAZ+f.a.z. podcast für deutschland: AfD-Aussteiger zur neuen Parteijugend: „Den Begriff Sekte benutze ich ganz bewusst“",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/afd-aussteiger-zur-neuen-parteijugend-den-begriff-sekte-benutze-ich-ganz-bewusst-200305024.html",
+      "image_url": "https://media0.faz.net/image/w730/5a5cfdc7761f/w3000h1687x0y156/202502/43601.0.838619940/07-02-2025-zwei-maenner-tragen.webp",
+      "image_title": "07.02.2025, Zwei Männer tragen auf einer Wahlkampfveranstaltung der AfD Kapuzenpullover mit der Aufschrift «AfD Jugend»"
     },
     {
       "title": "FAZ+F.A.Z. Frühdenker: Kann die Koalition die Rentenrebellen besänftigen?",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/schafft-die-koalition-den-durchbruch-im-rentenstreit-f-a-z-fruehdenker-200273155.html",
-      "image_url": "https://media0.faz.net/image/w920/cd880f0109b1/w6288h2694x0y749/202511/43601.0.1522770673/bundeskanzler-merz-und.webp",
+      "image_url": "https://media0.faz.net/image/w730/fdf23fac87b2/w6288h3537x0y328/202511/43601.0.1522770673/bundeskanzler-merz-und.webp",
       "image_title": "Bundeskanzler Merz und Unionsfraktionschef Spahn müssen noch einige Abweichler in den eigenen Reihen von dem Rentenpaket überzeugen."
     },
     {
-      "title": "Rhein-Main-Feierabendbriefing: Börsenwissen für junge Menschen",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/boerse-fuer-einsteiger-was-junge-anleger-jetzt-wissen-muessen-200272202.html",
-      "image_url": "https://media0.faz.net/image/w730/4ac70bdb5d00/w5200h2925x0y0/202511/c0a7c218-ca31-4099-9659-fcf80c4cd926/der-arbeitskreis-boerse-mainz.webp",
-      "image_title": "Der Arbeitskreis Börse Mainz will jungen Menschen grundlegende Kenntnisse über Börse und Kapitalmarkt vermitteln."
-    },
-    {
-      "title": "FAZ+f.a.z. podcast für deutschland: Kippt die Stimmung im MAGA-Lager? „Unzufriedenheit mit Trump ist ganz konkret“",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/trump-unter-druck-kritische-toene-aus-dem-maga-lager-200270822.html",
-      "image_url": "https://media0.faz.net/image/w730/9dbb08f3edc8/w1863h1047x0y892/202510/43601.0.1387884144/donald-trump-und-jd-vance-im.webp",
-      "image_title": "Donald Trump und JD Vance im Weißen Haus"
+      "title": "FAZ+Klimastiftung und Nord Stream: „Mit dem Wissen von heute würden wir so etwas nicht beginnen“",
+      "teaser": "Landesinnenminister Christian Pegel wird zu Nord Stream und der Klimastiftung befragt. Die Hoffnung auf Wandel durch Handel habe sich nicht erfüllt. Doch was folgt aus den Erkenntnissen?",
+      "url": "https://www.faz.net/aktuell/politik/inland/nord-stream-und-klimastiftung-die-geloeschten-mails-des-ministers-110793618.html",
+      "image_url": "https://media0.faz.net/image/w1200/3470a19708c0/w3000h1688x0y144/112025/1.10793617/minister-christian-pegel.webp",
+      "image_title": "Minister Christian Pegel (rechts) neben seinem Rechtsbeistand im Untersuchungsausschuss"
     },
     {
       "title": "FAZ+Neuauszählung der Wahl?: Warum der BSW-Einspruch wahrscheinlich abgelehnt wird",
       "teaser": "Das BSW fordert eine Neuauszählung der Bundestagswahl. Der Wahlprüfungsausschuss wird sich wohl dagegen aussprechen. Was bedeutet das? Wie geht es dann weiter? Antworten auf die wichtigsten Fragen.",
       "url": "https://www.faz.net/aktuell/politik/inland/warum-der-bsw-einspruch-wahrscheinlich-abgelehnt-wird-accg-200272063.html",
-      "image_url": "https://media0.faz.net/image/w1200/3525a188804d/w3000h1687x0y0/202511/43601.0.1529555286/sahra-wagenknecht-bei-einer.webp",
+      "image_url": "https://media0.faz.net/image/w730/3525a188804d/w3000h1687x0y0/202511/43601.0.1529555286/sahra-wagenknecht-bei-einer.webp",
       "image_title": "Sahra Wagenknecht bei einer Pressekonferenz Anfang November in Berlin"
     },
     {
@@ -383,13 +403,6 @@
       "image_title": "Das Amtsgericht Limburg im September 2024"
     },
     {
-      "title": "Liveblog Bundespolitik: Merz rechnet mit Zustimmung zum Rentenpaket",
-      "teaser": "Weitere Gespräche mit Junger Gruppe am Wochenende +++ Koalitionsausschuss einigt sich auf Begleittext zum Gesetz +++ Absprachen auch zu Verbrenner-Autos +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/bundestagswahl/liveblog-bundespolitik-merz-rechnet-mit-zustimmung-zum-rentenpaket-faz-110093143.html",
-      "image_url": "https://media0.faz.net/image/w730/24f4da0d10ee/w3000h1687x0y156/202511/b452282f-7dbc-439d-80f8-c66ca2d134ae/der-csu-vorsitzende-markus.webp",
-      "image_title": "Der CSU-Vorsitzende Markus Söder, Bundeskanzler Friedrich Merz (CDU) und Finanzminister Lars Klingbeil (SPD) am Freitag in einer Pressekonferenz"
-    },
-    {
       "title": "FAZ+OECD-Analyse: Deutschlands Renten sind im Ländervergleich dürftig",
       "teaser": "Alle zwei Jahre trägt die OECD umfangreiche Daten zur Altersvorsorge zusammen. Es zeigt sich: Die Rentenhöhe ist in Deutschland deutlich niedriger als in anderen Industrieländern. Wer es besser und anders macht.",
       "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/deutschlands-renten-sind-duerftig-analysiert-die-oecd-accg-200270534.html",
@@ -397,25 +410,25 @@
       "image_title": "Vorbild Dänemark? Die Deutschen bekommen niedrigere Renten als Menschen in vielen anderen Ländern."
     },
     {
+      "title": "FAZ+Zu wenige Elektroautos: Koalition will das Verbrenner-Aus aufweichen",
+      "teaser": "Union und SPD haben sich auf eine gemeinsame Position zur Überarbeitung der Flottengrenzwerte geeinigt. CSU-Chef Markus Söder spricht von einem „Aus vom ganz starren Verbrenner-Aus“.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/koalition-will-das-verbrenner-aus-aufweichen-110793829.html",
+      "image_url": "https://media0.faz.net/image/w730/8668a7446e27/w3000h1687x0y58/202511/43601.0.1455250138/bald-nur-noch-elektrisch-stau.webp",
+      "image_title": "Bald nur noch elektrisch? Stau auf der Autobahn"
+    },
+    {
+      "title": "FAZ+1500 Entlassungen: Lieferandos umstrittener Lieferplan",
+      "teaser": "Lieferando will 1500 Kuriere entlassen und setzt stattdessen teils auf Drittanbieter. Deutschlandchef Lennard Neubauer verrät, wie es jetzt weitergeht – und schwärmt von der neuen „Agilität“. Der Betriebsrat ist entsetzt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lieferando-konkretisiert-kuendigungsplaene-1500-statt-2000-kuriere-betroffen-110793754.html",
+      "image_url": "https://media0.faz.net/image/w730/9fd719c2ef60/w3000h1688x0y156/032025/1.10793753/in-ballungszentren-auch.webp",
+      "image_title": "In Ballungszentren auch künftig noch angestellt: Ein Lieferando-Fahrer ist auf der Freßgass’ unterwegs."
+    },
+    {
       "title": "FAZ+Frankreichs Uranhandel: Atomstrom mit russischer Hilfe",
       "teaser": "Frankreich unterhält nach wie vor Geschäftsbeziehungen mit dem russischen Staatskonzern Rosatom. Die Gründe sind wirtschaftlicher Natur.",
       "url": "https://www.faz.net/aktuell/wirtschaft/atomenergie-warum-frankreich-noch-mit-russland-handelt-110792599.html",
       "image_url": "https://media0.faz.net/image/w730/5392bc99cb6f/w2300h1294x0y120/022016/1.10792597/kernkraftwerk-in-frankreich.webp",
       "image_title": "Kernkraftwerk in Frankreich"
-    },
-    {
-      "title": "FAZ+Ernährungsreport 2025: Wenn der Preis stimmt, verzichten die Deutschen auf Qualität",
-      "teaser": "Sonderangebote prägen zunehmend das Einkaufsverhalten in Deutschland. Laut Ernährungsreport 2025 sinken Qualität und Nachhaltigkeit als Prioritäten.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/so-kaufen-deutsche-2025-ein-110792850.html",
-      "image_url": "https://media0.faz.net/image/w730/e7c5cb062d4e/w3000h1688x0y277/112025/1.10792849/fleisch-oder-gemuese-auf-dem.webp",
-      "image_title": "Fleisch oder Gemüse: Auf dem Grill brutzelt Geflügel neben Zwiebeln und Käse."
-    },
-    {
-      "title": "FAZ+Vorwurf der Parteinahme: Vodafone legt sich mit dem Kartellamt an",
-      "teaser": "Der Mobilfunkkonzern greift die Bonner Wettbewerbshüter in ungewöhnlich scharfem Ton an. Es geht um vermeintliche „Parteinahme“ im Streit um Funktürme.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vodafone-legt-sich-mit-dem-kartellamt-an-110792701.html",
-      "image_url": "https://media0.faz.net/image/w730/6bdd26d809bc/w3000h1688x0y156/012025/1.10792699/grund-fuer-mobilfunkstreit.webp",
-      "image_title": "Grund für Mobilfunkstreit: Antennenmasten wie diese in Fürth soll Vantage Towers für 1&1 errichten."
     },
     {
       "title": "FAZ+Sexspielzeug: Wenn Algorithmen die Intimität steuern",
@@ -453,17 +466,24 @@
       "image_title": "Hand drauf: Lando Norris (links) und Oscar Piastri im Juni in Spielberg."
     },
     {
-      "title": "Kommunale Finanzen: Lob und Tadel für das Land",
-      "teaser": "Die hessischen Kommunen warnen vor zusätzlichen Kosten durch Bundesgesetze. Als jüngstes Beispiel führen sie das Gewalthilfegesetz ins Feld. Aber auch die Zukunft des Notfall-Rettungsdienstes macht ihnen Sorgen.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessen-staedtetag-fordert-bund-und-land-zu-fairer-finanzierung-auf-110792529.html",
-      "image_url": "https://media0.faz.net/image/w730/6a073547daf3/w5616h3159x0y293/201102/431.0.52176066/schutz-fuer-mutter-und-kind.webp",
-      "image_title": "Schutz für Mutter und Kind: Frauenhäuser beschäftigen die Politik nicht nur in Kommunen wie Frankfurt, sondern auch im Bund und im Land Hessen."
+      "title": "Schwarz-rote Koalition: Der Renten-Begleittext birgt neue Sprengkraft",
+      "teaser": "Die Koalition formuliert Zugeständnisse an junge Unionsabgeordnete, um ihr Rentenpaket zu retten. Allerdings soll eine neue Rentenkommission auch teure Lieblingsprojekte der SPD prüfen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/rentenpaket-welche-zugestaendnisse-die-koalition-macht-accg-200305423.html",
+      "image_url": "https://media0.faz.net/image/w730/ded25acaeeeb/w8256h4644x0y430/202511/43601.0.1530136041/die-spitzen-von-union-und-spd.webp",
+      "image_title": "Die Spitzen von Union und SPD nach der langen Nachtsitzung"
+    },
+    {
+      "title": "Studie: Deutsche Spenden mehr",
+      "teaser": "Von Januar bis September 2025 flossen 2,8 Milliarden Euro an gemeinnützige Organisationen. Die durchschnittliche Spende pro Spendenakt stieg auf ein Rekordniveau, während die Zahl der Spendenden spürbar zurückging.",
+      "url": "https://www.faz.net/aktuell/finanzen/deutsche-spenden-so-viel-wie-noch-nie-110792593.html",
+      "image_url": "https://media0.faz.net/image/w1200/9fd90af659a9/w3000h1687x0y156/202511/43601.0.1526772972/gerade-in-der.webp",
+      "image_title": "Gerade in der Vorweihnachtszeit wird viel gespendet."
     },
     {
       "title": "FAZ+miles & More: Der Unmut über die Lufthansa-Kreditkarte reißt nicht ab",
       "teaser": "Kunden kritisieren das Design und den Umstellungsprozess. Und Meilen-Pannen sorgen für Verunsicherung.",
       "url": "https://www.faz.net/aktuell/finanzen/darum-sorgt-die-lufthansa-kreditkarte-miles-more-fuer-aerger-110790528.html",
-      "image_url": "https://media0.faz.net/image/w1200/e1b7fc041d21/w4928h2772x0y383/202511/43601.0.1498206785/die-alte-lufthansa-miles-more.webp",
+      "image_url": "https://media0.faz.net/image/w730/e1b7fc041d21/w4928h2772x0y383/202511/43601.0.1498206785/die-alte-lufthansa-miles-more.webp",
       "image_title": "Die alte Lufthansa Miles & More-Kreditkarte."
     },
     {
@@ -481,13 +501,6 @@
       "image_title": "Alphabet, der Mutterkonzern von Google, ist bei Anlegern gerade gefragt."
     },
     {
-      "title": "Offline: Störung in der Terminbörse CME legt Handel lahm",
-      "teaser": "Weil die Kühlung in einem Rechenzentrum nicht richtig funktioniert, wurden Preise etwa für Öl und Gold nicht mehr aktualisiert. Der Handel wurde zum Teil ausgesetzt.",
-      "url": "https://www.faz.net/aktuell/finanzen/terminboerse-cme-offline-accg-200305139.html",
-      "image_url": "https://media0.faz.net/image/w730/fd6e546685d7/w3456h1944x0y180/201309/431.0.41679555/die-terminboerse-cme-in.webp",
-      "image_title": "Die Terminbörse CME in Chicago."
-    },
-    {
       "title": "FAZ+ARD-Korrespondentin Dittert: „Die Briten sind schon sehr anders“",
       "teaser": "17 Jahre lang war Annette Dittert Korrespondentin für die ARD in London. Nun hört sie auf - und blickt zurück auf ein Land, das sie während des Brexits neu kennengelernt hat und dem sie trotzdem treu bleibt.",
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/abschied-von-der-ard-ard-korrespondentin-annette-dittert-blickt-zurueck-110793054.html",
@@ -495,25 +508,25 @@
       "image_title": "Annette Dittert im Herbst 2015 beim Dreh am Fitzroy Square in London"
     },
     {
+      "title": "Film „Steal this story, please!“: Amy Goodmans harter Risikojournalismus",
+      "teaser": "Der Dokumentarfilm „Steal this story, please!“ nähert sich einer Frau, die ihre Nachrichtenarbeit nicht neutral begreift, sondern aktivistisch.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/neuer-dokumentarfilm-steal-this-story-please-ueber-amy-goodmans-harten-risikojournalismus-110791669.html",
+      "image_url": "https://media0.faz.net/image/w730/f003fbe17392/w1280h720x0y0/202511/8bbf3f04-ef57-48be-8e0d-e47eb8b225e9/scheut-keine-gefahr-amy.webp",
+      "image_title": "Scheut keine Gefahr: Amy Goodman"
+    },
+    {
+      "title": "Auktion in Köln: Der Betrachter ist mit im Bild",
+      "teaser": "Gerhard Richter reflektiert unsere kriegerische Vergangenheit, und Andy Warhol setzt eine deutsche Geschäftsfrau glamourös ins Bild: Vorschau auf die Auktion moderner und zeitgenössischer Kunst bei Van Ham in Köln.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/evening-sale-bei-van-ham-110793778.html",
+      "image_url": "https://media0.faz.net/image/w730/efca56ded7e5/w2198h1236x225y564/112025/1.10793777/taxe-300-000-bis-500-000-euro.webp",
+      "image_title": "Taxe 300.000 bis 500.000 Euro: Andy Warhols Siebdruck-Porträt einer deutschen Geschäftsfrau „Beautiful Lady“, 1984"
+    },
+    {
       "title": "Neue Lyrik von Daniela Danz: In tödlicher Eintracht auf dem Meeresgrund",
       "teaser": "Hochgebildet und sinnlich, tieftraurig und zärtlich: Die Gedichte aus dem neuen Band „Portolan“ von Daniela Danz führen uns den doppelten Wortsinn der Versenkung vor.",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/der-neue-gedichtband-portolan-von-daniela-danz-110791663.html",
       "image_url": "https://media0.faz.net/image/w730/1d82a7ee6e10/w3000h1688x0y156/112025/1.10791662/die-lyrikerin-daniela-danz-bei.webp",
       "image_title": "Die Lyrikerin Daniela Danz bei eine Klopstock-Gedenkveranstaltung in Quedlinburg, 2024"
-    },
-    {
-      "title": "F.A.Z.-Ausstellungskalender: Welches Museum zeigt was im Dezember?",
-      "teaser": "Souvenirs aus Herrengrund im Grünen Gewölbe, eine Zeichnungsschau der Renaissance und des Barock in Würzburg und „Catwalk“ in Weil am Rhein: Der kuratierte Ausstellungskalender des F.A.Z.-Feuilletons.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/uebersicht-ausstellungen-im-dezember-2025-110791817.html",
-      "image_url": "https://media0.faz.net/image/w730/8873c58b13aa/w3000h1687x0y187/202510/43601.0.1417162700/blick-in-einen.webp",
-      "image_title": "Blick in einen Ausstellungssaal des Staatlichen Museums Schwerin"
-    },
-    {
-      "title": "FAZ+Reformstaatsvertrag: Bringt der neue Staatsvertrag für ARD und ZDF eine Reform oder nicht?",
-      "teaser": "Am 1. Dezember tritt der Reformstaatsvertrag für ARD, ZDF und Deutschlandradio in Kraft. Welche Reformen bringt er, haben die Beitragszahler etwas davon? Wir stellen ein paar Leitfragen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/reformstaatsvertrag-was-sich-fuer-ard-zdf-und-beitragszahler-aendert-110792805.html",
-      "image_url": "https://media0.faz.net/image/w730/814cf19a9575/w2727h1535x176y322/112025/1.10793005/von-selbst-sind-ard-und-zdf.webp",
-      "image_title": "Von selbst sind ARD und ZDF bislang nicht darauf gekommen, dass sie eine Reform nötig haben"
     },
     {
       "title": "FAZ+Kolumne „Uni live“: Vier Rezepte für wenig Platz, wenig Geld und viele Leute",
@@ -538,7 +551,7 @@
     },
     {
       "title": "Frankfurter Eishockey-Klub: Die Löwen und der Pokel-Effekt",
-      "teaser": "Weniger Gegentore, bessere Special-Teams und eine Mannschaft, die nicht aufgibt: Die Löwen profitieren vom neuen Trainer – nicht nur auf dem Eis. Sportdirektor Barta sieht aber noch weiteren Handlungsbedarf.",
+      "teaser": "Weniger Gegentore, bessere Special-Teams und eine Mannschaft, die nicht aufgibt: Die Löwen profitieren vom neuen Trainer – nicht nur auf dem Eis. Sportdirektor Barta plant schon die neue Saison.",
       "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-mit-neuem-eishockey-trainer-der-pokel-effekt-110791665.html",
       "image_url": "https://media0.faz.net/image/w1200/aec51a50ce93/w3000h1687x0y107/202511/43601.0.1523248698/so-treffsicher-wie-nie-die.webp",
       "image_title": "So treffsicher wie nie: Die deutschen Spieler um Dennis Lobach (r.) kommen immer besser in Fahrt."
@@ -565,17 +578,10 @@
       "image_title": "Schmerzhafte Erinnerung: Aitana Bonmatí (l.) stoppte mit Spanien Janina Minge und die Deutschen im Halbfinale."
     },
     {
-      "title": "Hochhausbrand: Zahl der Toten in Hongkong steigt auf mindestens 128",
-      "teaser": "Noch immer fehlt von zahlreichen Bewohnern jede Spur. Die Baufirma, die die abgebrannten Wohnblöcke renovierte, soll fahrlässig gehandelt haben. Zudem versagte das Alarmsystem in dem Wohnkomplex.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/feuerwehr-sucht-in-hongkongs-hochhausruinen-nach-vermissten-accg-200304667.html",
-      "image_url": "https://media0.faz.net/image/w1200/c2f05951cefd/w3000h1687x0y156/202511/43601.0.1529404182/nach-dem-brand-im-wang-fuk.webp",
-      "image_title": "Nach dem Brand im Wang Fuk Court, einer Wohnsiedlung im Stadtteil Tai Po in Hongkong werden immer neue Opfer geborgen."
-    },
-    {
       "title": "Zum neuen Jahr: Louvre erhöht Eintrittspreise für Nicht-Europäer um 45 Prozent",
       "teaser": "Im Oktober hatte ein Kronjuwelen-Diebstahl für Entsetzen gesorgt – und Sicherheitsprobleme offenbart. Mit den Mehreinnahmen sollen nun „strukturelle Probleme“ angegangen werden.",
       "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/so-viel-wird-ein-louvre-ticket-fuer-nichteuropaeer-im-naechsten-jahr-kosten-accg-200272925.html",
-      "image_url": "https://media0.faz.net/image/w730/c76cb2d0e714/w8012h4507x0y389/202511/43601.0.1528268844/der-eingang-des-louvre-in.webp",
+      "image_url": "https://media0.faz.net/image/w1200/c76cb2d0e714/w8012h4507x0y389/202511/43601.0.1528268844/der-eingang-des-louvre-in.webp",
       "image_title": "Der Eingang des Louvre in Paris."
     },
     {
@@ -593,6 +599,19 @@
       "image_title": "Inbegriff des Spielwarengeschäfts: Wirth in Mainz"
     },
     {
+      "title": "Schildkröte Gramma: Die älteste Zoobewohnerin ist tot",
+      "teaser": "Im Zoo von San Diego war kein Tier so alt wie sie: Die Galapagos-Riesenschildkröte Gramma kam im Jahr 1884 auf die Welt. Nun musste sie eingeschläfert werden.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/tiere/gramma-san-diegos-aelteste-schildkroete-ist-mit-141-jahren-gestorben-accg-200268536.html",
+      "image_url": "https://media0.faz.net/image/w730/8c828370ed88/w2000h1125x0y104/202511/43601.0.1520456409/gramma-eine-galapagos.webp",
+      "image_title": "Gramma, eine Galapagos-Schildkröte, wurde 141 Jahre alt."
+    },
+    {
+      "title": "FAZ+Geschenkematrix: Ein Geben und Nehmen",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/aktuell/stil/geschenkideen-fuer-weihnachten-200260812.html",
+      "image_url": "https://media0.faz.net/image/w730/9bfef96148ed/w1280h720x160y0/202511/7c72136b-122c-43d6-a66e-2e3924b5938a/4b1thjfgfze0.webp"
+    },
+    {
       "title": "FAZ+Mehr Luxus wagen: Das Leben ist so sexy wie eine Auster",
       "teaser": "Nobel geht die Welt zugrunde! Noch bis vor Kurzem waren Austern den Reichen und Mächtigen vorbehalten. Nun werden sie nicht mehr nur aus Dekadenz, sondern der Selbstermächtigung wegen konsumiert. Gut so, findet unsere Autorin.",
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/austern-fuer-alle-jovana-reisinger-feiert-luxus-als-selbstermaechtigung-accg-200260888.html",
@@ -600,17 +619,25 @@
       "image_title": "Genießt ihre Austern: Jovana Reisinger im „Volk“"
     },
     {
-      "title": "Eishockey: Holiday on Ice",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/stil/drinnen-draussen/wie-unser-autor-eishockey-wieder-fuer-sich-entdeckte-110773644.html",
-      "image_url": "https://media0.faz.net/image/w730/70b91e0b2a3e/w2988h1681x0y46/092025/1.10773675/pp-1-10773675.webp"
+      "title": "Black Friday: Streik bei Amazon",
+      "teaser": "Pünktlich zur Schnäppchenjagd am Black Friday hat die Gewerkschaft Verdi die Beschäftigten von Amazon zum Streik aufgerufen. Auch am Standort Bad Hersfeld legte ein Teil der Belegschaft die Arbeit nieder.",
+      "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/black-friday-streik-bei-amazon-accg-200306582.html",
+      "image_url": "https://media0.faz.net/image/w1200/0f6aa7ac2101/w3000h1687x0y156/202412/43601.0.725092470/das-amazon-logistikzentrum.webp",
+      "image_title": "Das Amazon-Logistikzentrum FRA3 an der A4 im Südosten von Bad Hersfeld"
     },
     {
       "title": "20 Jahre Revolverheld: Gemeinsam in Erinnerungen schwelgen",
       "teaser": "20 Jahre Revolverheld: In der Frankfurter Jahrhunderthalle wird daraus ein Abend voller Anekdoten, Nähe und musikalischer Highlights.",
       "url": "https://www.faz.net/aktuell/rhein-main/kultur/frankfurt-revolverheld-feiern-in-der-jahrhunderthalle-110793340.html",
-      "image_url": "https://media0.faz.net/image/w1200/3e612310ab08/w3000h1688x0y167/112025/1.10793337/seminar-zur-bandgeschichte.webp",
+      "image_url": "https://media0.faz.net/image/w730/3e612310ab08/w3000h1688x0y167/112025/1.10793337/seminar-zur-bandgeschichte.webp",
       "image_title": "Seminar zur Bandgeschichte: Johannes Strate und Kollegen, hier beim Tourauftakt im November in Nürnberg"
+    },
+    {
+      "title": "Electric Callboy: Wir haben die Moves",
+      "teaser": "Electric Callboy lassen es in der Frankfurter Festhalle krachen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/tanzneid-world-tour-stoppt-in-frankfurt-electric-callboys-in-der-festhalle-accg-200306074.html",
+      "image_url": "https://media0.faz.net/image/w730/35bf9fbf711e/w3000h1687x0y314/202506/43601.0.1104953464/spektakel-garantiert-electric.webp",
+      "image_title": "Spektakel garantiert: Electric Callboy, hier im Juni 2025 beim Southside-Festival"
     },
     {
       "title": "Liveticker Hessen & Frankfurt: U-Bahn-Bau nach Bad Homburg beginnt früher",
@@ -620,52 +647,38 @@
       "image_title": "Wartestand: Frank Martin, Leiter der Regionaldirektion Hessen der Bundesagentur für Arbeit, vermisst die Herbstbelebung am Arbeitsmarkt."
     },
     {
-      "title": "FAZ+Blockaden gegen AfD-Jugend: „Von uns geht keine Eskalation aus“",
-      "teaser": "Wer steht hinter dem Bündnis „Widersetzen“, das die Gründung einer neuen AfD-Jugend in Gießen mit Straßenblockaden verhindern will? Hessens Innenminister kritisiert scharf, dass die Gruppe für sich ein Recht auf Widerstand reklamiert.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/blockade-der-afd-jugend-wer-steckt-hinter-buendnis-widersetzen-110793516.html",
-      "image_url": "https://media0.faz.net/image/w730/811e18221f46/w3000h1688x0y243/112025/1.10793515/professionell-vorbereitet-afd.webp",
-      "image_title": "Professionell vorbereitet: AfD-Gegner bei einer Straßenblockade."
-    },
-    {
-      "title": "Gefährliches Versteck: Feuerwehr rettet Mädchen aus Waschmaschine",
-      "teaser": "Ausgerechnet die Trommel einer Waschmaschine hat sich eine Achtjährige als Versteck ausgesucht. Sie kam noch halbwegs hinein – aber nicht ohne die Hilfe der Feuerwehr wieder raus.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessen-feuerwehr-befreit-maedchen-aus-waschmaschine-accg-200306655.html",
-      "image_url": "https://media0.faz.net/image/w730/05004481728e/w3000h1687x0y364/202506/43601.0.1059493057/doch-kein-gutes-versteck.webp",
-      "image_title": "Doch kein gutes Versteck: Trommel einer Waschmaschine"
-    },
-    {
-      "title": "FAZ+Audi Q6 Sportback: Schneller als der Blutzucker",
-      "teaser": "Der Audi Q6 Sportback lädt ziemlich flott. Das Schnellladen macht sich allerdings im Verbrauch bemerkbar. Den schlanken Rücken finden wir trotzdem entzückend.",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/schneller-als-der-blutzucker-110789822.html",
-      "image_url": "https://media0.faz.net/image/w730/f72672da5970/w2800h1575x1650y1093/202511/43601.0.1494680311/sportlicher-ruecken-der-audi.webp",
-      "image_title": "Sportlicher Rücken: Der Audi Q6 mit Schrägheck"
-    },
-    {
       "title": "Fünf am Freitag: Völlig losgelöst",
       "teaser": "Eine frühlingsgrüne Vespa, ein Mercedes für die Kleinsten, eine Kamera für Reporter, eine Uhr aus dem 3D-Drucker und eine fliegende Murmelbahn: Das sind unsere Neuheiten aus der Technikkiste.",
       "url": "https://www.faz.net/aktuell/technik-motor/fuenf-am-freitag-voellig-losgeloest-accg-200267455.html",
       "image_url": "https://media0.faz.net/image/w730/38293f86b187/w5453h3067x344y218/202511/43601.0.1501359890/4360101501359890.webp"
     },
     {
+      "title": "FAZ+Lenovo-Notebook im Test: Groß auf Knopfdruck",
+      "teaser": "Das erste Notebook mit ausfahrbarem Display kommt von Lenovo: Aus dem 14-Zöller wird auf Tastendruck ein 16-Zöller. Wie sich der Thinkbook Plus Rollable bewährt.",
+      "url": "https://www.faz.net/aktuell/technik-motor/digital/lenovo-thinkbook-plus-rollable-im-test-auf-knopfdruck-zum-16-zoeller-110789844.html",
+      "image_url": "https://media0.faz.net/image/w730/c693b81372d7/w2726h1534x166y112/112025/1.10789835/von-14-auf-16-zoll-in-wenigen.webp",
+      "image_title": "Von 14 auf 16 Zoll in wenigen Sekunden: Der Lenovo Thinkbook Plus Rollable"
+    },
+    {
+      "title": "FAZ+Simulationen: Ein Zwilling fürs Gehirn",
+      "teaser": "Die Therapie von Hirnleiden soll mithilfe von Computermodellen revolutioniert werden. Nun wird die Technik an Patienten mit Epilepsie erstmals getestet.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/digitale-gehirnzwillinge-neue-hoffnung-fuer-alzheimer-therapien-110783070.html",
+      "image_url": "https://media0.faz.net/image/w920/5082d7966428/w1341h574x0y244/201204/431.0.47974288/die-verschaltung-der.webp",
+      "image_title": "Die Verschaltung der Nervenfasern im Gehirn"
+    },
+    {
+      "title": "FAZ+Botanik-Kolumne: Wie Sie Spinnenmilben loswerden",
+      "teaser": "Spinnenmilben suchen vor allem im Winter Zimmerpflanzen heim. Das hat einen bestimmten Grund. Wer ihn kennt, kann gegen die Schädlinge vorgehen.",
+      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/boese-biester-110788170.html",
+      "image_url": "https://media0.faz.net/image/w730/16b5c0a11416/w4013h2257x0y2559/201812/431.0.17144838/im-winter-beginnt-die-schwere.webp",
+      "image_title": "Im Winter beginnt die schwere Zeit für Zimmerpflanzen"
+    },
+    {
       "title": "FAZ+Folgenreicher Crash: Die Katastrophe näherte sich aus Richtung Sonne",
       "teaser": "Vor 4,5 Milliarden Jahren kollidierte Theia mit der jungen Erde. Aus den Trümmern entstand unser Mond. Doch woher kam der marsgroße Himmelskörper?",
       "url": "https://www.faz.net/aktuell/wissen/weltraum/wie-der-mond-entstand-theia-raste-aus-richtung-sonne-auf-die-erde-zu-110790951.html",
-      "image_url": "https://media0.faz.net/image/w920/b43a03c2ea05/w3000h1285x0y482/112025/1.10790947/illustration-des.webp",
+      "image_url": "https://media0.faz.net/image/w730/d980a863fc0c/w3000h1688x0y281/112025/1.10790947/illustration-des.webp",
       "image_title": "Illustration des Zusammenpralls von Theia mit der jungen Erde."
-    },
-    {
-      "title": "NACH ESA-ankündigung: Astronaut Gerst: „Wir wollen dem Mond Geheimnisse entlocken“",
-      "teaser": "Für einen von ihnen könnte es in Zukunft mit dem US-Programm „Artemis“ Richtung Mond gehen. Was sich die deutschen Astronauten Alexander Gerst und Matthias Maurer von der Mission erhoffen.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/astronaut-gerst-wir-wollen-dem-mond-geheimnisse-entlocken-accg-200273206.html",
-      "image_url": "https://media0.faz.net/image/w730/e44498c811c3/w3000h1687x0y229/202511/43601.0.1528790253/die-astronauten-alexander.webp",
-      "image_title": "Die Astronauten Alexander Gerst (l) und Matthias Maurer bei der Esa-Ministerratstagung."
-    },
-    {
-      "title": "Ankündigung des Esa-Chefs: Ein deutscher Astronaut soll zum Mond fliegen",
-      "teaser": "Gemeinsam mit den USA will Europa zum Mond fliegen. Auch ein Deutscher soll beim Artemis-Programm dabei sein – wenn Trump die Pläne nicht durchkreuzt.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/esa-chef-kuendigt-an-deutscher-soll-zum-mond-fliegen-accg-200271646.html",
-      "image_url": "https://media0.faz.net/image/w730/9e3ca96f872d/w3000h1687x0y93/202511/43601.0.1527116185/josef-aschbacher-esa.webp",
-      "image_title": "Josef Aschbacher, Esa-Generaldirektor, verkündet bei der Esa-Ministerratstagung Details zur Artemis-Mission."
     },
     {
       "title": "Greser & Lenz: Immer im Bilde",
@@ -695,11 +708,11 @@
       "image_title": "Protest gegen neue Gaskraftwerke: Deutsche Klimaschutz-Aktivisten von Fridays for Future auf der Weltklimakonferenz in Brasilien"
     },
     {
-      "title": "FAZ+Heiliger Berg im Himalaya: Pilgerreise zum Wohnsitz des Todes",
-      "teaser": "Der Kailash in Tibet ist für Hindus und Buddhisten ein Heiligtum, die Quelle des Universums. Doch lassen sich die chinessiche Repression und die Fremdheit des religiösen Umfelds bei der Umrundung des Berges einfach ausblenden?",
-      "url": "https://www.faz.net/aktuell/reise/himalaya-pilgerreise-zum-heiligen-berg-kailash-110791015.html",
-      "image_url": "https://media0.faz.net/image/w1200/b37ffd4ae7a4/w3000h1688x0y281/112025/1.10791013/der-blick-interessiert-die.webp",
-      "image_title": "Der Blick interessiert die Wildesel nicht, nur die Qualität des Grases."
+      "title": "FAZ+Jordanien vor dem Ansturm: Auf der richtigen Seite der Religionsgeschichte",
+      "teaser": "Die Jordanier sind davon überzeugt, dass Jesus am östlichen Ufer des Jordans getauft wurde – und hoffen auf Pilger. Dabei hat das Land außer heiligen Stätten auch eine Landschaft zu bieten, die nicht nur Science-Fiction-Fans magisch anzieht.",
+      "url": "https://www.faz.net/aktuell/reise/auf-der-richtigen-seite-der-religionsgeschichte-110791021.html",
+      "image_url": "https://media0.faz.net/image/w1200/68b3f50f93ba/w2057h1157x472y0/032025/1.10791019/im-wadi-rum-kann-man-sich-in.webp",
+      "image_title": "Im Wadi Rum kann man sich in fremde Universen träumen."
     },
     {
       "title": "Der Drink meines Lebens: „Tee? Ein Baileys wär mir lieber“",
@@ -771,22 +784,22 @@
       "image_url": "https://media0.faz.net/image/w730/86e19a52346f/w2000h1125x0y1069/112025/1.10787452/pp-1-10787452.webp"
     },
     {
+      "title": "Eishockey: Holiday on Ice",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/aktuell/stil/drinnen-draussen/wie-unser-autor-eishockey-wieder-fuer-sich-entdeckte-110773644.html",
+      "image_url": "https://media0.faz.net/image/w920/929218ba2b63/w2988h1280x0y246/092025/1.10773675/pp-1-10773675.webp"
+    },
+    {
       "title": "FAZ+Ratschläge für Unentschlossene: Die Weihnachtsempfehlungen der Redaktion",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/geschenktipps-zu-weihnachten-aus-dem-feuilleton-200250792.html",
-      "image_url": "https://media0.faz.net/image/w920/0089dff393fc/w1680h720x853y18/202511/226fe4a0-815c-4fdd-b492-1a258c549d89/9x1pte1nggxj.webp"
+      "image_url": "https://media0.faz.net/image/w730/bacea27045f6/w1344h756x1020y0/202511/226fe4a0-815c-4fdd-b492-1a258c549d89/9x1pte1nggxj.webp"
     },
     {
       "title": "Deutsche Zoos: Zehntausende Tiere, viele Millionen Euro – und ein Dauerthema",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/deutschlands-zoos-ziehen-viele-besucher-an-zwischen-artenschutz-und-tierwohl-200241848.html",
       "image_url": "https://media0.faz.net/image/w730/621691a144cd/w6252h3517x1562y0/202511/e5dc6a93-bbed-45e9-b5f5-ed11fe46f526/uq3chnpk7x66.webp"
-    },
-    {
-      "title": "FAZ+Umgebaute Kirchen: Gottes Nachmieter",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/die-kirche-auf-dem-rueckzug-wie-sakralbauten-modernisiert-werden-110774975.html",
-      "image_url": "https://media0.faz.net/image/w730/41dbbb6029ed/w3000h1688x0y227/112025/1.10774978/pp-1-10774978.webp"
     },
     {
       "title": "Nach den Waldbränden in Spanien: Der Regen bringt neue Probleme",
