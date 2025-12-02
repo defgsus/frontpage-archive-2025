@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T11:10:11",
+  "timestamp": "2025-12-02T12:22:04",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Nvidias KI ist jetzt Teil aller großen Chipdesign-EDA-Tools",
-      "teaser": "Nvidia führt seine Aktien-Einkaufstour fort. Neu im Portfolio: Der weltweit größte Anbieter von EDA-Tools für Chipdesigns, Synopsys.",
-      "url": "https://www.heise.de/news/Nvidias-KI-ist-jetzt-Teil-aller-grossen-Chipdesign-EDA-Tools-11099654.html",
-      "image_title": "Nvidia-Chef Jensen Huang auf einer Bühne mit Serverboards in den Händen"
+      "title": "OpenCloud 4.0.0: Neues Release bringt Mandantenfähigkeit",
+      "teaser": "OpenCloud unterstützt nun Mandantenfähigkeit und verspricht mit neuen Helm Charts eine fünffache Effizienzsteigerung in Kubernetes-Umgebungen.",
+      "url": "https://www.heise.de/news/OpenCloud-4-0-0-Neues-Release-bringt-Mandantenfaehigkeit-11099628.html",
+      "image_title": "Server mit Wolke davor"
     },
     {
-      "title": "heise security Webinar: NIS-2 rechtssicher im Unternehmen umsetzen",
+      "title": "Apple probiert bei Video-KI einen anderen Weg",
+      "teaser": "Apples KI-Abteilung veröffentlicht STARFlow-V, ein neues Video-KI-Modell. Es fällt durch realitätsnahe Videogenerierung mittels Normalizing Flows auf.",
+      "url": "https://www.heise.de/news/Apple-probiert-bei-Video-KI-einen-anderen-Weg-11099726.html",
+      "image_title": "Beispiele, die mit Apples Video-KI-Modell erstellt wurden"
+    },
+    {
+      "title": "heise security WebinarNIS-2 rechtssicher im Unternehmen umsetzen",
       "teaser": "Unser Webinar erklärt, ob Ihr Unternehmen von NIS-2 betroffen ist, welche Pflichten da auf Sie zukommen und wie Sie das praktisch hinbekommen.",
       "url": "https://www.heise.de/news/heise-security-Webinar-NIS-2-rechtssicher-im-Unternehmen-umsetzen-11098375.html",
       "image_title": "NIS-2"
     },
     {
-      "title": "Bonitätsprüfung: Schufa-Score ab 2026 für Verbraucher einsehbar",
-      "teaser": "Ab Ende März 2026 können Verbraucher ihren Schufa-Score selbst entschlüsseln. Was hinter den zwölf Kriterien steckt – und warum der Zugang nicht einfach wird.",
-      "url": "https://www.heise.de/news/Schufa-oeffnet-Blackbox-Neuer-Score-ab-Ende-Maerz-einsehbar-11099500.html"
-    },
-    {
-      "title": "Nach Apple-Intelligence-Debakel: Apple streicht KI-Chefposten",
-      "teaser": "Das Siri-Debakel sorgt weiter für internen Tumult bei Apple, einen KI-Chef gibt es bald nicht mehr. Ein Spezialist für Google Gemini soll es richten.",
-      "url": "https://www.heise.de/news/Nach-Apple-Intelligence-Debakel-Apple-streicht-KI-Chefposten-11099412.html",
-      "image_title": "Siri auf verschiedenen Geräten"
+      "title": "ChatGPT: Zieht bald Werbung in OpenAIs Chatbot?",
+      "teaser": "OpenAI braucht ein neues Finanzierungsmodell. Das wird nun offensichtlich doch Werbung im Chatbot. Ist das die Enshittification?",
+      "url": "https://www.heise.de/news/ChatGPT-Zieht-bald-Werbung-in-OpenAIs-Chatbot-11099390.html",
+      "image_title": "Chatgpt,Chat,With,Ai,Or,Artificial,Intelligence.,Young,Businessman,Chatting"
     },
     {
       "title": "RatgeberOpenStreetMap: Wie Sie Orte mit natürlicher Sprache finden",
@@ -60,6 +61,23 @@
     {
       "title": "TestsTreedix USB-Kabeltester mit E-Marker-Abfrage im Test",
       "url": "https://www.heise.de/tests/Treedix-USB-Kabeltester-mit-E-Marker-Abfrage-im-Test-11069797.html"
+    },
+    {
+      "title": "Nvidias KI ist jetzt Teil aller großen Chipdesign-EDA-Tools",
+      "teaser": "Nvidia führt seine Aktien-Einkaufstour fort. Neu im Portfolio: Der weltweit größte Anbieter von EDA-Tools für Chipdesigns, Synopsys.",
+      "url": "https://www.heise.de/news/Nvidias-KI-ist-jetzt-Teil-aller-grossen-Chipdesign-EDA-Tools-11099654.html",
+      "image_title": "Nvidia-Chef Jensen Huang auf einer Bühne mit Serverboards in den Händen"
+    },
+    {
+      "title": "Bonitätsprüfung: Schufa-Score ab 2026 für Verbraucher einsehbar",
+      "teaser": "Ab Ende März 2026 können Verbraucher ihren Schufa-Score selbst entschlüsseln. Was hinter den zwölf Kriterien steckt – und warum der Zugang nicht einfach wird.",
+      "url": "https://www.heise.de/news/Schufa-oeffnet-Blackbox-Neuer-Score-ab-Ende-Maerz-einsehbar-11099500.html"
+    },
+    {
+      "title": "Nach Apple-Intelligence-Debakel: Apple streicht KI-Chefposten",
+      "teaser": "Das Siri-Debakel sorgt weiter für internen Tumult bei Apple, einen KI-Chef gibt es bald nicht mehr. Ein Spezialist für Google Gemini soll es richten.",
+      "url": "https://www.heise.de/news/Nach-Apple-Intelligence-Debakel-Apple-streicht-KI-Chefposten-11099412.html",
+      "image_title": "Siri auf verschiedenen Geräten"
     },
     {
       "title": "AlertAndroid TV: YouTube-Client SmartTube war mit Malware verseucht",
@@ -132,24 +150,6 @@
       "teaser": "Ein neuer Gesetzentwurf in den USA will App-Store-Betreiber wie Apple und Google für Alterskontrollen verantwortlich machen. Apple soll nicht begeistert sein.",
       "url": "https://www.heise.de/news/USA-App-Store-Betreiber-sollen-Alterskontrollen-uebernehmen-11099044.html",
       "image_title": "Der App Store auf dem iPhone"
-    },
-    {
-      "title": "Raspberry Pi 4 und 5 werden teurer",
-      "teaser": "Der Raspi-Hersteller hebt die Preise für alle Raspberry Pis der vierten und fünften Generation an. Die Aufpreise liegen bei 9 bis 21 Prozent.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-4-und-5-werden-teurer-11098873.html",
-      "image_title": "Raspberry Pi 4 in der Produktion"
-    },
-    {
-      "title": "Online-Behördengänge: 82 Prozent fordern mehr digitale Verwaltung",
-      "teaser": "Sechs von zehn Deutschen ist Digitalpolitik wichtig. Ganz oben auf der Prioritätenliste stehen Online-Behördengänge, so eine Bitkom-Umfrage.",
-      "url": "https://www.heise.de/news/Online-Behoerdengaenge-82-Prozent-fordern-mehr-digitale-Verwaltung-11098754.html",
-      "image_title": "Papierstapel, Bürokratie, Zettelwirtschaft"
-    },
-    {
-      "title": "SSD-Preise steigen rasant an",
-      "teaser": "SSD-Hersteller müssen bis zu 65 Prozent mehr für NAND-Bausteine bezahlen. Im Handel steigen die Preise bereits erheblich.",
-      "url": "https://www.heise.de/news/SSD-Preise-steigen-rasant-an-11098696.html",
-      "image_title": "Mehrere M.2-SSDs diagonal nebeneinander auf weißem Untergrund"
     },
     {
       "title": "NewsGrabenkampf um Kupfer-Aus: Telekom verteidigt DSL, Konkurrenz will Abschaltrecht",
