@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-02T20:12:28",
+  "timestamp": "2025-12-02T21:10:30",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Amazon mit neuem KI-Beschleuniger und künftig mit Nvidia-Technologie",
+      "url": "https://www.heise.de/news/Amazon-mit-neuem-KI-Beschleuniger-und-kuenftig-mit-Nvidia-Technologie-11100599.html"
+    },
     {
       "title": "iPhone Air, Pro, 15, 16 oder 17: Welches Modell passt zu mir?",
       "url": "https://www.heise.de/bestenlisten/ratgeber/iphone-air-pro-15-16-oder-17-welches-passt-zu-mir-apple-handys-im-vergleich/wewd9vz?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -62,10 +66,6 @@
     {
       "title": "Web-PKI: Let's Encrypt verkürzt Laufzeit von Zertifikaten auf 45 Tage",
       "url": "https://www.heise.de/news/Web-PKI-Let-s-Encrypt-verkuerzt-Laufzeit-von-Zertifikaten-auf-45-Tage-11100233.html"
-    },
-    {
-      "title": "„Metroid Prime 4: Beyond“: Spektakuläre Rückkehr ohne große Überraschungen",
-      "url": "https://www.heise.de/tests/Metroid-Prime-4-Beyond-Spektakulaere-Rueckkehr-ohne-grosse-Ueberraschungen-11099251.html"
     },
     {
       "title": "EuGH-UrteilOnline-Marktplätze müssen Anzeigen datenschutzrechtlich überprüfen",
@@ -184,20 +184,26 @@
       "url": "https://www.heise.de/news/Relativitaetstheorie-Uhren-sind-auf-dem-Mars-pro-Tag-477-Mikrosekunden-schneller-11099370.html"
     },
     {
+      "title": "Amazon mit neuem KI-Beschleuniger und künftig mit Nvidia-Technologie",
+      "teaser": "AWS stellt mit Trainium3 einen viermal schnelleren und energieeffizienteren Chip vor. Ab der nächsten Chip-Generation kommt Nvidias NVLink Fusion zum Einsatz.",
+      "url": "https://www.heise.de/news/Amazon-mit-neuem-KI-Beschleuniger-und-kuenftig-mit-Nvidia-Technologie-11100599.html",
+      "image_title": "AWS-Logo an einer Glasfassade"
+    },
+    {
       "title": "iPhone Air, Pro, 15, 16 oder 17: Welches Modell passt zu mir?",
       "teaser": "Muss es wirklich das neue iPhone 17 sein – oder reicht auch ein älteres iPhone 16 oder iPhone 15? Wir helfen bei der Auswahl.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/iphone-air-pro-15-16-oder-17-welches-passt-zu-mir-apple-handys-im-vergleich/wewd9vz?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Das europäische Cloud-Paradoxon überwinden",
+      "teaser": "Deutsche Unternehmen wünschen sich europäische Cloud-Lösungen, nutzen aber Hyperscaler aus Nicht-EU-Staaten, weil sie Funktionseinbußen befürchten. Doch es gibt souveräne Alternativen aus Europa.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7101019094&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Northvolt-Millionen: Abgeordnete fordern mehr Transparenz",
       "teaser": "Im Streit um Millionen für Northvolt kritisieren Abgeordnete fehlende Transparenz. Dass eine Anwaltskanzlei mehr weiß als das Parlament, sorgt für Unmut.",
       "url": "https://www.heise.de/news/Northvolt-Millionen-Abgeordnete-fordern-mehr-Transparenz-11100523.html",
       "image_title": "Stuttgart,,Germany,-,08-13-2024:,Person,Holding,Cellphone,With,Logo,Of"
-    },
-    {
-      "title": "Wie große Sprachmodelle den IT-Support unterstützen können",
-      "teaser": "Mit generativer KI lässt sich der IT-Support effizient und skalierbar gestalten. Doch es gibt Hürden: Ohne saubere Datenbasis und durchdachte Architektur bleibt vieles hinter den Erwartungen zurück.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7123541893&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "3D-Drucker Snapmaker U1 im Test",
@@ -227,12 +233,6 @@
       "title": "Hikmicro Minix im Test: Drahtlose Wärmebildkamera für Handy & PC",
       "teaser": "Die Hikmicro Minix setzt auf Smartphone-Anbindung statt Handheld-Bedienung – das bringt Flexibilität, aber auch Kompromisse.",
       "url": "https://www.heise.de/bestenlisten/testbericht/hikmicro-minix-im-test-drahtlose-waermebildkamera-fuer-handy-und-pc-ab-300-euro/98bnj7q?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "39C3 ist aufgegleist: Der Fahrplan des Chaos Communication Congress ist da",
-      "teaser": "Vier Wochen vor Deutschlands größtem Hackerkongress gibt es eine erste Version des Programms mit über 160 Vorträgen. Einige Überraschungen bleiben jedoch noch.",
-      "url": "https://www.heise.de/news/39C3-ist-aufgegleist-Der-Fahrplan-des-Chaos-Communication-Congress-ist-da-11099880.html",
-      "image_title": "Impression vom 38C3"
     },
     {
       "title": "Im VergleichDie 44 interessantesten Monoblock-Wärmepumpen mit R290 zur Sanierung",
@@ -327,6 +327,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "39C3 ist aufgegleist: Der Fahrplan des Chaos Communication Congress ist da",
+      "teaser": "Vier Wochen vor Deutschlands größtem Hackerkongress gibt es eine erste Version des Programms mit über 160 Vorträgen. Einige Überraschungen bleiben jedoch noch.",
+      "url": "https://www.heise.de/news/39C3-ist-aufgegleist-Der-Fahrplan-des-Chaos-Communication-Congress-ist-da-11099880.html",
+      "image_title": "Impression vom 38C3"
+    },
+    {
       "title": "Portfolio: Bilder zwischen Dokumentation und Poesie von Hannah Modigh",
       "teaser": "Die schwedische Fotografin erkundet mit feinem Blick das Menschliche und schafft dabei stille, poetische Bildgeschichten zwischen Nähe und Distanz.",
       "url": "https://www.heise.de/hintergrund/Portfolio-Bilder-zwischen-Dokumentation-und-Poesie-von-Hannah-Modigh-11093053.html",
@@ -399,15 +405,15 @@
       "image_title": "NIS-2"
     },
     {
+      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
+      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Erfahren Sie in einem Webcast, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
+    },
+    {
       "title": "ChatGPT: Zieht bald Werbung in OpenAIs Chatbot?",
       "teaser": "OpenAI braucht ein neues Finanzierungsmodell. Das wird nun offensichtlich doch Werbung im Chatbot. Ist das die Enshittification?",
       "url": "https://www.heise.de/news/ChatGPT-Zieht-bald-Werbung-in-OpenAIs-Chatbot-11099390.html",
       "image_title": "Chatgpt,Chat,With,Ai,Or,Artificial,Intelligence.,Young,Businessman,Chatting"
-    },
-    {
-      "title": "KI-Datacenter: offene Standards für mehr Effizienz und Leistung",
-      "teaser": "Leistungsdichte und Energiebedarf von KI-Rechenzentren erfordern neue Hardware-Lösungen. Das Open Compute Project treibt mit offenen Standards die Entwicklung leistungsfähiger Infrastrukturen voran.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/ki-datacenter-offene-standards-fuer-mehr-effizienz-und-leistung/?source=hbsadersatz"
     },
     {
       "title": "Nvidias KI ist jetzt Teil aller großen Chipdesign-EDA-Tools",
@@ -460,12 +466,6 @@
       "teaser": "Was darf KI beim wissenschaftlichen Schreiben? Das praxisnahe Webinar stellt Tools vor und bietet Orientierung im Spannungsfeld zwischen Technik und Ethik.",
       "url": "https://www.heise.de/news/Last-Call-c-t-Webinar-KI-fuer-Fachtexte-nutzen-11098113.html",
       "image_title": "Blauer Laptop mit aufgerolltem weißen Papier und bunter Feder, umgeben von bunten Kugeln vor orangefarbenem Hintergrund."
-    },
-    {
-      "title": "Nach Apple-Intelligence-Debakel: Apple streicht KI-Chefposten",
-      "teaser": "Das Siri-Debakel sorgt weiter für internen Tumult bei Apple, einen KI-Chef gibt es bald nicht mehr. Ein Spezialist für Google Gemini soll es richten.",
-      "url": "https://www.heise.de/news/Nach-Apple-Intelligence-Debakel-Apple-streicht-KI-Chefposten-11099412.html",
-      "image_title": "Siri auf verschiedenen Geräten"
     },
     {
       "title": "Datenkrake neues Outlook: Klassisches Outlook bis 2029 erhältlich",
@@ -635,9 +635,9 @@
       "url": "https://www.heise.de/en/news/Stirling-PDF-2-0-Major-update-of-the-open-source-alternative-to-Adobe-Acrobat-11095732.html"
     },
     {
-      "title": "OLED- vs. LCD-Fernseher im Test: Wer macht bei Mittelklasse-TVs das Rennen?",
-      "teaser": "HDR-Inhalte mit Glanzlichtern und sattem Schwarz waren bislang eine Domäne der organischen Displays. Im Test zeigen aktuelle LCDs, dass sie mithalten können.",
-      "url": "https://www.heise.de/tests/OLED-vs-LCD-Fernseher-im-Test-Wer-macht-bei-Mittelklasse-TVs-das-Rennen-11084754.html"
+      "title": "Open-Source-KI: Was es gibt und wie offen die Modelle wirklich sind",
+      "teaser": "Viele Sprachmodelle bezeichnen sich als Open Source, segeln aber unter falscher Flagge. Wer strenge Anforderungen erfüllen muss, sollte genauer hinschauen.",
+      "url": "https://www.heise.de/hintergrund/Open-Source-KI-Was-es-gibt-und-wie-offen-die-Modelle-wirklich-sind-10903968.html"
     },
     {
       "title": "Mesh-WLAN mit Wi-Fi 7: Sechs Kits im Vergleich",
@@ -645,10 +645,9 @@
       "url": "https://www.heise.de/tests/Mesh-WLAN-mit-Wi-Fi-7-Sechs-Kits-im-Vergleich-10670169.html"
     },
     {
-      "title": "Deutschland-StackBundesländer bereit, nur Bayern stimmt gegen Beschluss",
-      "teaser": "15 Bundesländer würden laut einem gemeinsamen Beschluss den Deutschland-Stack übernehmen, wenn der Bund bezahlt.",
-      "url": "https://www.heise.de/news/Deutschland-Stack-Bayern-will-keine-Katze-im-Sack-kaufen-11099632.html",
-      "image_title": "Deutschland auf holografischer Landkarte"
+      "title": "OLED- vs. LCD-Fernseher im Test: Wer macht bei Mittelklasse-TVs das Rennen?",
+      "teaser": "HDR-Inhalte mit Glanzlichtern und sattem Schwarz waren bislang eine Domäne der organischen Displays. Im Test zeigen aktuelle LCDs, dass sie mithalten können.",
+      "url": "https://www.heise.de/tests/OLED-vs-LCD-Fernseher-im-Test-Wer-macht-bei-Mittelklasse-TVs-das-Rennen-11084754.html"
     },
     {
       "title": "Mit OllamaMac als lokales KI-System einsetzen",
@@ -669,6 +668,12 @@
       "image_title": "Expenses-App auf allen Plattformen"
     },
     {
+      "title": "3D-Drucker Snapmaker U1 im Test",
+      "teaser": "Der Snapmaker U1 verfügt über vier Druckköpfe, zwischen denen er bei Mehrfarbdrucken wechseln kann. Das spart Zeit und Filament.",
+      "url": "https://www.heise.de/ratgeber/3D-Drucker-Snapmaker-U1-im-Test-11066562.html",
+      "image_title": ","
+    },
+    {
       "title": "Jetzt in der Make 7/25: Einstieg in Meshtastic",
       "teaser": "Ob beim Wandern oder auf dem Festival – Meshtastic macht sichere und unabhängige Kommunikation überall möglich. Wir zeigen im Heft, wie das funktioniert.",
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-7-25-Einstieg-in-Meshtastic-11095578.html"
@@ -677,12 +682,6 @@
       "title": "Meshtastic: offenes Funknetz ohne Infrastruktur zum Selbstbasteln",
       "teaser": "Meshtastic basiert nicht auf einer festen Infrastruktur, sondern die Geräte formen mithilfe einer Open-Source-Software und günstiger Hardware ihr eigenes Netz.",
       "url": "https://www.heise.de/ratgeber/Meshtastic-offenes-Funknetz-ohne-Infrastruktur-zum-Selbstbasteln-11088967.html"
-    },
-    {
-      "title": "Schwedisches Start-up hinter Kippenstummel sammelnden Krähen meldet Insolvenz an",
-      "teaser": "Ein schwedisches Start-up trainiert Krähen, um Kippenstummel einzusammeln – so eine Meldung aus 2022, die viral ging. Jetzt hat die Firma Insolvenz angemeldet.",
-      "url": "https://www.heise.de/news/Schwedisches-Start-up-hinter-Kippenstummel-sammelnden-Kraehen-meldet-Insolvenz-an-11094091.html",
-      "image_title": "Eine Krähe mit einem Zigarettenstummel im Mund"
     },
     {
       "title": "Portfolio: Bilder zwischen Dokumentation und Poesie von Hannah Modigh",
@@ -743,16 +742,10 @@
       "image_title": "Collage von Motorrädern der EICMA"
     },
     {
-      "title": "Blitzartig geladenElektroauto Xpeng G6 im Test",
-      "teaser": "Xpeng hat den G6 überarbeitet und von NMC- auf LFP-Zellen umgestellt. Die Ladezeit von zehn auf 80 Prozent sinkt laut Werk von 20 auf 12 Minuten.",
-      "url": "https://www.heise.de/tests/E-Auto-Xpeng-G6-im-Test-Blitzartig-geladen-11091282.html",
-      "image_title": "Xpeng G6"
-    },
-    {
-      "title": "Trumps Ukraine-Deal: Milliarden-Geschäfte statt Diplomatie",
-      "teaser": "Geschäftsleute aus Trumps Umfeld verhandeln mit Moskau über Frieden. Doch geht es wirklich um die Ukraine – oder um Profit?",
-      "url": "https://www.heise.de/-11097739",
-      "image_title": "Trumps Unterhändler Steve Witkoff"
+      "title": "Von einstigen Zielen weit entferntFast zwei Millionen Elektroautos auf der Straße",
+      "teaser": "Die Zahl ist deutlich gestiegen, noch vor Jahresende könnte die Zwei-Millionen-Schwelle erreicht werden. Von früheren Plänen sind die Zahlen aber weit entfernt.",
+      "url": "https://www.heise.de/news/Fast-zwei-Millionen-Elektroautos-auf-der-Strasse-11097275.html",
+      "image_title": "VW ID.3 Pure"
     },
     {
       "title": "Bitcoin im freien Fall: Kryptomarkt hat bereits eine Billion Dollar verloren",
@@ -765,6 +758,12 @@
       "teaser": "Zwei Mann gegen eine Armee? In der Ostukraine zeigt sich, wer den Stoß längst übernommen hat – und es ist kein Mensch.",
       "url": "https://www.heise.de/-11097593",
       "image_title": "Ki-generierte Grafik zeigt in einem comicartigen Stil einen Soldaten mit Sturmgewehr und darüber eine Drohne."
+    },
+    {
+      "title": "Besser schlafen mit Magnesium: Welche Form wirklich hilft (und welche nicht)",
+      "teaser": "Magnesium kann den Schlaf verbessern – doch nicht jede Form wirkt gleich. Erfahre, welches Magnesium wirklich beim Einschlafen hilft und wie viel du brauchst.",
+      "url": "https://www.heise.de/-11098513",
+      "image_title": "Ältere Frau schläft entspannt im Bett – Magnesium kann bei Schlafproblemen unterstützen"
     },
     {
       "title": "Massenentlassungen durch KI? Arbeitsmarktexperte erklärt, was wirklich passiert",
