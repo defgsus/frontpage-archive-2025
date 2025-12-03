@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-03T03:44:39",
+  "timestamp": "2025-12-03T04:19:09",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kooperation von AWS und Google Cloud soll Nutzung mehrerer Clouds vereinfachen",
+      "url": "https://www.heise.de/news/Kooperation-von-AWS-und-Google-Cloud-soll-Nutzung-mehrerer-Clouds-vereinfachen-11100725.html"
+    },
     {
       "title": "Deutscher Entwicklerpreis: „Tiny Bookshop“ gewinnt die Hauptauszeichnung",
       "url": "https://www.heise.de/news/Deutscher-Entwicklerpreis-Tiny-Bookshop-ist-Spiel-des-Jahres-11099496.html"
@@ -62,10 +66,6 @@
     {
       "title": "Schätzung: Intel verkaufte fast eine halbe Million Grafikkarten im 3. Quartal",
       "url": "https://www.heise.de/news/Desktop-Grafikkarten-Intel-mit-Wohlwollen-wieder-bei-einem-Prozent-Marktanteil-11100259.html"
-    },
-    {
-      "title": "Ferngelenkte Autos dürfen auf öffentlichen Straßen fahren",
-      "url": "https://www.heise.de/news/Ferngelenkte-Autos-duerfen-auf-oeffentlichen-Strassen-fahren-11100401.html"
     },
     {
       "title": "EuGH-UrteilOnline-Marktplätze müssen Anzeigen datenschutzrechtlich überprüfen",
@@ -184,21 +184,27 @@
       "url": "https://www.heise.de/news/Relativitaetstheorie-Uhren-sind-auf-dem-Mars-pro-Tag-477-Mikrosekunden-schneller-11099370.html"
     },
     {
+      "title": "Kooperation von AWS und Google Cloud soll Nutzung mehrerer Clouds vereinfachen",
+      "teaser": "Zwei der drei größten Cloud-Anbieter kooperieren für vereinfachten Multicloud-Betrieb. AWS und Google Cloud betonen verbesserte Zuverlässigkeit und Sicherheit.",
+      "url": "https://www.heise.de/news/Kooperation-von-AWS-und-Google-Cloud-soll-Nutzung-mehrerer-Clouds-vereinfachen-11100725.html",
+      "image_title": "Server-Hardware"
+    },
+    {
       "title": "Deutscher Entwicklerpreis: „Tiny Bookshop“ gewinnt die Hauptauszeichnung",
       "teaser": "Das gemütliche Management-Spiel „Tiny Bookshop“ wurde beim Deutschen Entwicklerpreis als bestes Spiel des Jahres ausgezeichnet.",
       "url": "https://www.heise.de/news/Deutscher-Entwicklerpreis-Tiny-Bookshop-ist-Spiel-des-Jahres-11099496.html",
       "image_title": "Screenshot aus Tiny Bookshop"
     },
     {
+      "title": "Wie KI das End-to-End-Testing verändert",
+      "teaser": "End-to-End-Tests in verteilten Systemen werden für QA-Teams immer aufwändiger. Ein KI-gestütztes Testen hilft und bringt kürzere Feedback-Schleifen, eine höhere Testabdeckung und stabilere Releases.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7137094690&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Amazon mit neuem KI-Beschleuniger und künftig mit Nvidia-Technologie",
       "teaser": "AWS stellt mit Trainium3 einen viermal schnelleren und energieeffizienteren Chip vor. Ab der nächsten Chip-Generation kommt Nvidias NVLink Fusion zum Einsatz.",
       "url": "https://www.heise.de/news/Amazon-mit-neuem-KI-Beschleuniger-und-kuenftig-mit-Nvidia-Technologie-11100599.html",
       "image_title": "AWS-Logo an einer Glasfassade"
-    },
-    {
-      "title": "Wenn das Backup unter Beschuss gerät",
-      "teaser": "Moderne Angriffe nutzen Backup-Server, Repositorys oder API-Schnittstellen aus, um Sicherungskopien zu verschlüsseln oder zu löschen. Deshalb muss eine Sicherung mehr als nur Daten erfassen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7119070922&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iPhone Air, Pro, 15, 16 oder 17: Welches Modell passt zu mir?",
@@ -230,12 +236,6 @@
       "image_title": "Fernlenker von Vay in Aktion"
     },
     {
-      "title": "Web-PKI: Let's Encrypt verkürzt Laufzeit von Zertifikaten auf 45 Tage",
-      "teaser": "Die Entscheidung des CA- und Browser-Forums kappt Zertifikate nach 45 Tagen. Die Änderung kommt jedoch nicht schlagartig, Admins können ausgiebig testen.",
-      "url": "https://www.heise.de/news/Web-PKI-Let-s-Encrypt-verkuerzt-Laufzeit-von-Zertifikaten-auf-45-Tage-11100233.html",
-      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
-    },
-    {
       "title": "Im VergleichDie 44 interessantesten Monoblock-Wärmepumpen mit R290 zur Sanierung",
       "teaser": "Wir schauen uns den Markt der Monoblock-Propan-Luft-Wasser-Wärmepumpen für 12 +-1 kW Heizlast an und sortieren nach Funktion und Herstellerländern.",
       "url": "https://www.heise.de/ratgeber/Vergleich-Die-44-interessantesten-Monoblock-Waermepumpen-mit-R290-zur-Sanierung-10962735.html",
@@ -254,13 +254,13 @@
       "image_title": "KI generiertes Bild zu einer Cyberpunk-Geschichte: Mann im Laborkittel stürzt aus Hochhaus."
     },
     {
-      "title": "Ukraine-Krieg: Internetbeschränkungen in Russland mit immer heftigeren Folgen",
-      "url": "https://www.heise.de/news/Ukraine-Krieg-Internetbeschraenkungen-in-Russland-mit-immer-heftigeren-Folgen-11088797.html",
-      "image_title": "Der Kreml in Moskau"
+      "title": "Deutsche Bahn spart Millionen mit 3D-Druck-Ersatzteilen",
+      "url": "https://www.heise.de/news/Deutsche-Bahn-spart-Millionen-mit-3D-Druck-Ersatzteilen-11091654.html",
+      "image_title": "Eine Schablone aus dem 3D-Drucker, die bei der Deutschen Bahn im Einsatz ist"
     },
     {
-      "title": "Deutsche Bahn spart Millionen mit 3D-Druck-Ersatzteilen",
-      "url": "https://www.heise.de/news/Deutsche-Bahn-spart-Millionen-mit-3D-Druck-Ersatzteilen-11091654.html"
+      "title": "Produktionsverlagerung nach China: Deutsche Firma Cherry kämpft ums Überleben",
+      "url": "https://www.heise.de/news/Cherry-gibt-deutsche-Produktion-auf-und-will-Kernsparte-verkaufen-11092581.html"
     },
     {
       "title": "Black Friday: Erste wirklich gute Angebote für Apple-Hardware",
@@ -271,14 +271,14 @@
       "url": "https://www.heise.de/hintergrund/Im-Bestandshaus-Warum-Waermepumpen-echte-Alternativen-zu-Oel-Gas-Heizungen-sind-11080753.html"
     },
     {
-      "title": "Heizungen von Bosch, Buderus und Junkers ohne Cloud auswerten und steuern",
-      "url": "https://www.heise.de/ratgeber/Heizungen-von-Bosch-Buderus-und-Junkers-ohne-Cloud-auswerten-und-steuern-10972705.html",
+      "title": "Was 100 Kilometer mit dem Elektroauto Ende 2025 wirklich kosten",
+      "url": "https://www.heise.de/ratgeber/Was-100-Kilometer-mit-dem-Elektroauto-Ende-2025-wirklich-kosten-10454604.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
     {
-      "title": "Was 100 Kilometer mit dem Elektroauto Ende 2025 wirklich kosten",
-      "url": "https://www.heise.de/ratgeber/Was-100-Kilometer-mit-dem-Elektroauto-Ende-2025-wirklich-kosten-10454604.html",
+      "title": "Bahn-Chaos im Griff: Strategien bei Zugausfall und Verspätung",
+      "url": "https://www.heise.de/ratgeber/Bahn-Chaos-im-Griff-Strategien-bei-Zugausfall-und-Verspaetung-10991199.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -326,6 +326,12 @@
       "teaser": "Täglich neue Angebote und Geschenke in 24 Türchen! Jeden Tag wartet ein neues heise-Angebot sowie eine Software-Vollversion zum kostenlosen Download auf Sie. Jetzt Türchen öffnen!",
       "url": "https://www.heise.de/download/blog/Der-heise-Adventskalender-2025-11078286?wt_mc=intern.abo.all.advent25.ho_advt.ad1.ad1",
       "image_title": "heise Adventskalender🎄"
+    },
+    {
+      "title": "Web-PKI: Let's Encrypt verkürzt Laufzeit von Zertifikaten auf 45 Tage",
+      "teaser": "Die Entscheidung des CA- und Browser-Forums kappt Zertifikate nach 45 Tagen. Die Änderung kommt jedoch nicht schlagartig, Admins können ausgiebig testen.",
+      "url": "https://www.heise.de/news/Web-PKI-Let-s-Encrypt-verkuerzt-Laufzeit-von-Zertifikaten-auf-45-Tage-11100233.html",
+      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
     },
     {
       "title": "Hikmicro Minix im Test: Drahtlose Wärmebildkamera für Handy & PC",
@@ -399,15 +405,15 @@
       "image_title": "Server mit Wolke davor"
     },
     {
+      "title": "Rechenzentren modernisieren: Was führende Unternehmen besser machen",
+      "teaser": "Warum gelingt es manchen Unternehmen besser als anderen, die Chancen von KI zu nutzen? Welche Faktoren sind für den Erfolg entscheidend, welche Herausforderungen zu bewältigen? Antworten gibt dieses Whitepaper.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/rechenzentren-modernisieren-was-fuehrende-unternehmen-besser-machen/?source=hbsadersatz"
+    },
+    {
       "title": "Apple probiert bei Video-KI einen anderen Weg",
       "teaser": "Apples KI-Abteilung veröffentlicht STARFlow-V, ein neues Video-KI-Modell. Es fällt durch realitätsnahe Videogenerierung mittels Normalizing Flows auf.",
       "url": "https://www.heise.de/news/Apple-probiert-bei-Video-KI-einen-anderen-Weg-11099726.html",
       "image_title": "Beispiele, die mit Apples Video-KI-Modell erstellt wurden"
-    },
-    {
-      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
-      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Erfahren Sie in einem Webcast, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
     },
     {
       "title": "heise security Webinar: NIS-2 rechtssicher im Unternehmen umsetzen",
@@ -462,17 +468,6 @@
       "url": "https://www.heise.de/tests/Mesh-WLAN-mit-Wi-Fi-7-Sechs-Kits-im-Vergleich-10670169.html"
     },
     {
-      "title": "Verbrenner-Ende: Eine Aufweichung von Zielen wird der Industrie nicht nützen",
-      "teaser": "Merz kann darauf hoffen, dass die EU seine Bitte um Aufschub beim Verbrenner-Ende erhören wird. Der Autoindustrie hilft das aber nicht, meint Florian Pillau",
-      "url": "https://www.heise.de/meinung/Verbrenner-Ende-Eine-Aufweichung-von-Zielen-wird-der-Industrie-nicht-nuetzen-11098782.html",
-      "image_title": "Montage von Pkw-Hybridgetrieben ZF-Werk Saarbruecken"
-    },
-    {
-      "title": "Datenkrake neues Outlook: Klassisches Outlook bis 2029 erhältlich",
-      "url": "https://www.heise.de/news/Datenkrake-neues-Outlook-Klassisches-Outlook-bis-2029-erhaeltlich-11098133.html",
-      "image_title": "Startmenü zeigt neues Outlook und Outlook (Classic)"
-    },
-    {
       "title": "SSD-Preise steigen rasant an",
       "url": "https://www.heise.de/news/SSD-Preise-steigen-rasant-an-11098696.html",
       "image_title": "Mehrere M.2-SSDs diagonal nebeneinander auf weißem Untergrund"
@@ -483,9 +478,9 @@
       "image_title": "Laptop mit Windows 11"
     },
     {
-      "title": "Schäden an Startrampe russischer Raketen könnten Versorgung der ISS gefährden",
-      "url": "https://www.heise.de/news/Schaeden-an-Startrampe-russischer-Raketen-koennten-Versorgung-der-ISS-gefaehrden-11097811.html",
-      "image_title": "Sojus MS-28 Rakete beim Start in Baikonur"
+      "title": "Samsung Galaxy Z TriFold: Zweimal faltbares Foldable",
+      "url": "https://www.heise.de/news/Samsung-Galaxy-Z-TriFold-Zweimal-faltbares-Foldable-11098827.html",
+      "image_title": "Samsung Galaxy Z TriFold von der Seite"
     },
     {
       "title": "Make-Adventskalender präsentiert 3D-Modelle",
@@ -493,9 +488,14 @@
       "image_title": "Schriftzug \"PRINTEMBER - 24 Drucke bis Weihnachten\" mit einer Christbaumkugel und der Zahl 24 darauf."
     },
     {
-      "title": "Eros zieht an Andromeda vorbei: Seltenes Himmelsereignis steht bevor",
-      "url": "https://www.heise.de/news/Eros-zieht-an-Andromeda-vorbei-Seltenes-Himmelsereignis-steht-bevor-11097701.html",
-      "image_title": "Asteroid Eros"
+      "title": "China dominiert Umwelttechnik, Deutschand büßt Wettbewerbsfähigkeit ein",
+      "url": "https://www.heise.de/news/Umwelttechnik-auf-dem-Vormarsch-EU-im-Rueckstand-11099183.html",
+      "image_title": "Hand,Holding,Light,Bulb,Ideas,On,A,Background,Of,Blurred"
+    },
+    {
+      "title": "Schäden an Startrampe russischer Raketen könnten Versorgung der ISS gefährden",
+      "url": "https://www.heise.de/news/Schaeden-an-Startrampe-russischer-Raketen-koennten-Versorgung-der-ISS-gefaehrden-11097811.html",
+      "image_title": "Sojus MS-28 Rakete beim Start in Baikonur"
     },
     {
       "title": "Netflix streicht Casting-Support für Smart-TVs und Streaming-Geräte",
@@ -503,38 +503,9 @@
       "image_title": "Chromecast mit Google TV und Fernbedienung"
     },
     {
-      "title": "WhatsApp & Co: Indien verlangt permanente SIM-Bindung",
-      "url": "https://www.heise.de/news/Indien-zwingt-WhatsApp-und-Telegram-zur-permanenten-SIM-Bindung-11098310.html",
-      "image_title": "An,Overhead,View,Of,Different,Mini,And,Micro,Sim,Cards"
-    },
-    {
       "title": "Automatisierte Drohnen sollen Münchener Feuerwehr künftig vorausfliegen",
       "url": "https://www.heise.de/news/Automatisierte-Drohnen-sollen-Muenchener-Feuerwehr-kuenftig-vorausfliegen-11098613.html",
       "image_title": "Eine rot-gelbe folierte Drohne"
-    },
-    {
-      "title": "„Yuki's Revenge“: Tarantino produziert neue „Kill Bill“-Szene in Unreal Engine",
-      "url": "https://www.heise.de/news/Yuki-s-Revenge-Tarantino-produziert-neue-Kill-Bill-Szene-in-Unreal-Engine-11098053.html",
-      "image_title": "Werbebild für Kill Bill in Fortnite"
-    },
-    {
-      "title": "Taugen iPhones für Kinofilme? 28 Years Later und June & John im Heimkinotest",
-      "url": "https://www.heise.de/tests/Taugen-iPhones-fuer-Kinofilme-28-Years-Later-und-June-John-im-Heimkinotest-11074236.html"
-    },
-    {
-      "title": "\"Battlefield 6\": Über 2 Millionen Cheat-Versuche verhindert",
-      "url": "https://www.heise.de/news/Battlefield-6-EA-zeigt-sich-mit-Kampf-gegen-Cheater-zufrieden-11097917.html",
-      "image_title": "Screenshot aus Battlefield 6"
-    },
-    {
-      "title": "Airlines reagieren rasch auf Airbus-Update nach Zwischenfall",
-      "url": "https://www.heise.de/news/Airbus-Update-nach-Zwischenfall-Airlines-reagieren-rasch-11097561.html",
-      "image_title": "Ein Flugzeug in der Luft, im Hintergrund Wolken"
-    },
-    {
-      "title": "Guinness-Rekord: Humanoider Roboter Agibot A2 läuft über 100 km an einem Stück",
-      "url": "https://www.heise.de/news/Guinness-Rekord-Humanoider-Roboter-Agibot-A2-laeuft-ueber-100-km-an-einem-Stueck-11097913.html",
-      "image_title": "Humanoider Roboter Agibot A2 läuft auf einem Gehweg."
     },
     {
       "title": "Nach Gerichtspleite: Bundesnetzagentur startet 5G-Frequenzverfahren neu",
@@ -542,12 +513,43 @@
       "image_title": "Detail eines Mobilfunk-Antennenmastes mit kleinen 5G-Funkzellen."
     },
     {
-      "title": "US-Patentamt ändert Regeln für KI-gestützte Erfindungen",
-      "url": "https://www.heise.de/news/US-Patentamt-aendert-Regeln-fuer-KI-gestuetzte-Erfindungen-11097295.html"
+      "title": "„Yuki's Revenge“: Tarantino produziert neue „Kill Bill“-Szene in Unreal Engine",
+      "url": "https://www.heise.de/news/Yuki-s-Revenge-Tarantino-produziert-neue-Kill-Bill-Szene-in-Unreal-Engine-11098053.html",
+      "image_title": "Werbebild für Kill Bill in Fortnite"
     },
     {
-      "title": "Schweiz: Datenschützer empfehlen breites Cloud-Verbot für Behörden",
-      "url": "https://www.heise.de/news/Schweiz-Datenschuetzer-verhaengen-breites-Cloud-Verbot-fuer-Behoerden-11093438.html"
+      "title": "\"Battlefield 6\": Über 2 Millionen Cheat-Versuche verhindert",
+      "url": "https://www.heise.de/news/Battlefield-6-EA-zeigt-sich-mit-Kampf-gegen-Cheater-zufrieden-11097917.html",
+      "image_title": "Screenshot aus Battlefield 6"
+    },
+    {
+      "title": "Steam Frame: Wie deutsche VR-Entwickler die VR-Brille bewerten",
+      "url": "https://www.heise.de/hintergrund/Steam-Frame-Wie-deutsche-VR-Entwickler-die-VR-Brille-bewerten-11096513.html",
+      "image_title": "Ein Mann trägt eine Steam Frame im Wohnzimmer."
+    },
+    {
+      "title": "Verbraucherschützer klagen gegen Vodafone – EuGH soll entscheiden",
+      "url": "https://www.heise.de/news/Sammelklage-gegen-Vodafone-zieht-sich-in-die-Laenge-11099239.html"
+    },
+    {
+      "title": "Verbrenner-Ende: Eine Aufweichung von Zielen wird der Industrie nicht nützen",
+      "url": "https://www.heise.de/meinung/Verbrenner-Ende-Eine-Aufweichung-von-Zielen-wird-der-Industrie-nicht-nuetzen-11098782.html",
+      "image_title": "Montage von Pkw-Hybridgetrieben ZF-Werk Saarbruecken"
+    },
+    {
+      "title": "Nach Apple-Intelligence-Debakel: Apple streicht KI-Chefposten",
+      "url": "https://www.heise.de/news/Nach-Apple-Intelligence-Debakel-Apple-streicht-KI-Chefposten-11099412.html",
+      "image_title": "Siri auf verschiedenen Geräten"
+    },
+    {
+      "title": "WhatsApp & Co: Indien verlangt permanente SIM-Bindung",
+      "url": "https://www.heise.de/news/Indien-zwingt-WhatsApp-und-Telegram-zur-permanenten-SIM-Bindung-11098310.html",
+      "image_title": "An,Overhead,View,Of,Different,Mini,And,Micro,Sim,Cards"
+    },
+    {
+      "title": "PoPP: RISE erhält von Gematik Auftrag für Nachweis der Patientenanwesenheit",
+      "url": "https://www.heise.de/news/PoPP-RISE-erhaelt-von-Gematik-Auftrag-fuer-Nachweis-der-Patientenanwesenheit-11098764.html",
+      "image_title": "Älterer Patient bekommt von einer Ärztin eine App erklärt."
     },
     {
       "title": "Das KI-Energie-Dilemma: Wenn der digitale Boom die Netze überlastet",
@@ -555,17 +557,18 @@
       "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
     },
     {
-      "title": "Montag: Wachstum der Black-Friday-Umsätze, ISS-Sorgen nach Startrampen-Schäden",
-      "url": "https://www.heise.de/news/Montag-Wachstum-der-Black-Friday-Umsaetze-ISS-Sorgen-nach-Startrampen-Schaeden-11097827.html",
-      "image_title": "Ein Laptop, auf dessen Tastatur ein kleiner Einkaufswagen mit einem Paket platziert ist. Drumherum liegen auf der Tastatur vier weitere Pakete; Montag: Black-Friday-Wachstum, ISS-Versorgungsängste, Nexperia-Lieferkettenvorwürfe, KI-Therapeuten & Airbus-Update"
+      "title": "Dienstag: Sicherheits-App wird Pflicht in Indien, Digitalboom wird zum Dilemma",
+      "url": "https://www.heise.de/news/Dienstag-Sicherheits-App-wird-Pflicht-in-Indien-Digitalboom-wird-zum-Dilemma-11099173.html",
+      "image_title": "Hand mit Smartphone, Cybersicherheit, dazu Text: DIENSTAG Cybersicherheit, KI-Rechenzentren, Galaxy Z Trifold, „Cryptomixer“ & App Store"
     },
     {
       "title": "KI-Lightroom und der Film zum Foto „Napalm Girl“ – Fotonews der Woche 48/2025",
       "url": "https://www.heise.de/news/KI-Lightroom-und-der-Film-zum-Foto-Napalm-Girl-Fotonews-der-Woche-48-2025-11097727.html"
     },
     {
-      "title": "FAQ zum Reformstaatsvertrag: Was sich für ARD, ZDF und Co ändert",
-      "url": "https://www.heise.de/news/FAQ-zum-Reformstaatsvertrag-Was-sich-fuer-ARD-ZDF-und-Co-aendert-11097619.html"
+      "title": "KI-Update kompakt: 3 Jahre ChatGPT, KI-Gedächtnis, KI-Assistent, Genesis-Mission",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-3-Jahre-ChatGPT-KI-Gedaechtnis-KI-Assistent-Genesis-Mission-11098519.html",
+      "image_title": "Aufmacherbild KI Update"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -631,8 +634,13 @@
       "image_url": "https://www.heise.de/icons/svg/icons/svg/video_outline_grey_light.svg"
     },
     {
-      "title": "Stirling PDF 2.0: Major update of the open-source alternative to Adobe Acrobat",
-      "url": "https://www.heise.de/en/news/Stirling-PDF-2-0-Major-update-of-the-open-source-alternative-to-Adobe-Acrobat-11095732.html"
+      "title": "EU backs away from chat control",
+      "url": "https://www.heise.de/en/news/EU-backs-away-from-chat-control-11092724.html"
+    },
+    {
+      "title": "Mesh-WLAN mit Wi-Fi 7: Sechs Kits im Vergleich",
+      "teaser": "Mit Mesh soll das WLAN größere Flächen abdecken. Wir haben sechs Sets fürs aktuelle Wi-Fi 7 ausprobiert und geprüft, wie flink die Daten flutschen.",
+      "url": "https://www.heise.de/tests/Mesh-WLAN-mit-Wi-Fi-7-Sechs-Kits-im-Vergleich-10670169.html"
     },
     {
       "title": "Treedix USB-Kabeltester mit E-Marker-Abfrage im Test",
@@ -640,15 +648,15 @@
       "url": "https://www.heise.de/tests/Treedix-USB-Kabeltester-mit-E-Marker-Abfrage-im-Test-11069797.html"
     },
     {
-      "title": "Deutschland-StackBundesländer bereit, nur Bayern stimmt gegen Beschluss",
-      "teaser": "15 Bundesländer würden laut einem gemeinsamen Beschluss den Deutschland-Stack übernehmen, wenn der Bund bezahlt.",
-      "url": "https://www.heise.de/news/Deutschland-Stack-Bayern-will-keine-Katze-im-Sack-kaufen-11099632.html",
-      "image_title": "Deutschland auf holografischer Landkarte"
+      "title": "OLED- vs. LCD-Fernseher im Test: Wer macht bei Mittelklasse-TVs das Rennen?",
+      "teaser": "HDR-Inhalte mit Glanzlichtern und sattem Schwarz waren bislang eine Domäne der organischen Displays. Im Test zeigen aktuelle LCDs, dass sie mithalten können.",
+      "url": "https://www.heise.de/tests/OLED-vs-LCD-Fernseher-im-Test-Wer-macht-bei-Mittelklasse-TVs-das-Rennen-11084754.html"
     },
     {
-      "title": "Spieleentwicklung: So entstehen erfolgreiche Indie-Games",
-      "teaser": "Während große Spielestudios unter Druck stehen, florieren kleinere Studios – indem sie solide haushalten und gute Spiele machen. Wie schaffen die das?",
-      "url": "https://www.heise.de/hintergrund/Spieleentwicklung-So-entstehen-erfolgreiche-Indie-Games-10748966.html"
+      "title": "Finanzbegleiter: Ausgabentool Expenses für iPhone, iPad und Mac im Test",
+      "teaser": "Expenses hilft dabei, den Überblick über Einnahmen und Ausgaben zu behalten. Das geht nicht nur auf dem Mac, sondern auch mobil.",
+      "url": "https://www.heise.de/tests/Finanzbegleiter-Ausgabentool-Expenses-fuer-IPhone-iPad-und-Mac-im-Test-11079961.html",
+      "image_title": "Expenses-App auf allen Plattformen"
     },
     {
       "title": "Mit OllamaMac als lokales KI-System einsetzen",
@@ -657,16 +665,10 @@
       "image_title": "Roboterkörper mit iMac als Kopf"
     },
     {
-      "title": "Turbo fürs Netzwerk: 10-Gigabit-Adapter am Mac im Test",
-      "teaser": "10-Gigabit-Adapter steigern die Geschwindigkeit des lokalen Netzwerks um den Faktor 10. Neun Adapter für die Thunderbolt-Schnittstelle getestet.",
-      "url": "https://www.heise.de/tests/Turbo-fuers-Netzwerk-10-Gigabit-Adapter-am-Mac-im-Test-11079945.html",
-      "image_title": ","
-    },
-    {
-      "title": "Finanzbegleiter: Ausgabentool Expenses für iPhone, iPad und Mac im Test",
-      "teaser": "Expenses hilft dabei, den Überblick über Einnahmen und Ausgaben zu behalten. Das geht nicht nur auf dem Mac, sondern auch mobil.",
-      "url": "https://www.heise.de/tests/Finanzbegleiter-Ausgabentool-Expenses-fuer-IPhone-iPad-und-Mac-im-Test-11079961.html",
-      "image_title": "Expenses-App auf allen Plattformen"
+      "title": "Workshop: Mit Numbers das Budget schick im Blick",
+      "teaser": "Apples kostenlose Tabellenkalkulation Numbers bietet mehr Funktionen, als den meisten Mac-Nutzern bewusst sein dürfte. So geht mehr als schnöde Tabellen.",
+      "url": "https://www.heise.de/ratgeber/Workshop-Mit-Numbers-das-Budget-schick-im-Blick-11079955.html",
+      "image_title": ", Soloviova Liudmyla, stock.adobe.com"
     },
     {
       "title": "3D-Drucker Snapmaker U1 im Test",
@@ -685,12 +687,6 @@
       "url": "https://www.heise.de/ratgeber/Meshtastic-offenes-Funknetz-ohne-Infrastruktur-zum-Selbstbasteln-11088967.html"
     },
     {
-      "title": "Portfolio: Bilder zwischen Dokumentation und Poesie von Hannah Modigh",
-      "teaser": "Die schwedische Fotografin erkundet mit feinem Blick das Menschliche und schafft dabei stille, poetische Bildgeschichten zwischen Nähe und Distanz.",
-      "url": "https://www.heise.de/hintergrund/Portfolio-Bilder-zwischen-Dokumentation-und-Poesie-von-Hannah-Modigh-11093053.html",
-      "image_title": "\"Ich beginne meine Arbeit immer mit einer Untersuchung zu einem bestimmten Thema oder einer Frage. Das können Dinge in meinem Leben oder in unserer Welt sein, die ich nicht verstehe. Ich beobachte andere, um auch Einblicke in mich selbst zu gewinnen.\" – The Hurricane Season, Alle Bilder: Hannah Modigh"
-    },
-    {
       "title": "Fotokunst: Die Bilder der Woche 48",
       "teaser": "Tauchen Sie ein in eine Auswahl außergewöhnlicher Fotografien, die durch Kreativität und Technik begeistern.",
       "url": "https://www.heise.de/news/Fotokunst-Die-Bilder-der-Woche-48-11096217.html",
@@ -706,6 +702,12 @@
       "teaser": "In Athen treffen Tempel auf Graffiti und Sonnenlicht auf Marmor. Die Stadt der Kontraste inspiriert Fotografen mit Geschichte, Farbe und Kreativität.",
       "url": "https://www.heise.de/hintergrund/Fotostadt-Athen-Kontraste-zwischen-Antike-und-Moderne-11076882.html",
       "image_title": "Blick vom Stadtteil Anafiotika über die Dächer von Athen. Der hier angeleuchtete Stadtberg Lykabettus ist mit 277 Metern Höhe der höchste Berg der Stadt., Vasilis Germanis"
+    },
+    {
+      "title": "Die Bilder der Woche 47 – Blick durch die Linse",
+      "teaser": "Faszinierende geometrische Formen, emotionale Porträts, neugierige Tiere und atemberaubende Naturaufnahmen – eine Bildersammlung, die inspiriert.",
+      "url": "https://www.heise.de/news/Blick-durch-die-Linse-Die-Bilder-der-Woche-47-11087252.html",
+      "image_title": "Im makellosen Schnee führen Spuren durch in eine endlos stille Winterlandschaft. Die klare Luft lässt die Farben des Sonnenuntergangs besonders pastellig erscheinen. Das Licht malt sanfte Schatten und schafft so eine Tiefe ohne Härte"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -743,28 +745,26 @@
       "image_title": "Collage von Motorrädern der EICMA"
     },
     {
-      "title": "Blitzartig geladenElektroauto Xpeng G6 im Test",
-      "teaser": "Xpeng hat den G6 überarbeitet und von NMC- auf LFP-Zellen umgestellt. Die Ladezeit von zehn auf 80 Prozent sinkt laut Werk von 20 auf 12 Minuten.",
-      "url": "https://www.heise.de/tests/E-Auto-Xpeng-G6-im-Test-Blitzartig-geladen-11091282.html",
-      "image_title": "Xpeng G6"
+      "title": "Von einstigen Zielen weit entferntFast zwei Millionen Elektroautos auf der Straße",
+      "teaser": "Die Zahl ist deutlich gestiegen, noch vor Jahresende könnte die Zwei-Millionen-Schwelle erreicht werden. Von früheren Plänen sind die Zahlen aber weit entfernt.",
+      "url": "https://www.heise.de/news/Fast-zwei-Millionen-Elektroautos-auf-der-Strasse-11097275.html",
+      "image_title": "VW ID.3 Pure"
+    },
+    {
+      "title": "Problematische Doppelbedeutung",
+      "teaser": "Der Stern hat Deutschland versehentlich eine \"Sexismusdebatte\" beschert",
+      "url": "https://www.heise.de/-10534938"
+    },
+    {
+      "title": "Windkraftanlagen sollen zahlen",
+      "teaser": "Brandenburger Gemeinde erfindet neue Steuer auf Windräder",
+      "url": "https://www.heise.de/-10526810"
     },
     {
       "title": "Texas: Der Preis des Fracking-Booms",
       "teaser": "In Texas schießen giftige Abwassergeysire aus alten Bohrlöchern. Die Erde bebt und sinkt ein. Die Ölbranche steht vor einem schier unlösbaren Dilemma.",
       "url": "https://www.heise.de/-11097581",
       "image_title": "Vier Schraubverschluss-Gläser mit Wasser-Erdölgemischen"
-    },
-    {
-      "title": "Gold und Silber auf Höhenflug: Rekorde trotz Markt-Chaos",
-      "teaser": "Silber erreicht neuen Höchststand, Gold steuert auf bestes Jahr seit 1979 zu. Doch Handelsstörungen und fehlende US-Daten verunsichern.",
-      "url": "https://www.heise.de/-11097764",
-      "image_title": "Ein Haufen Gold- und Silberbarren, Goldschmuck und Goldgranulat. Isoliert auf weißem Hintergrund."
-    },
-    {
-      "title": "Kritik am KI-Hype: Fehlende Produktivitätssteigerung und Robotik-Probleme",
-      "teaser": "Mitarbeiter spüren den KI-Boost – doch die Chefs sehen in den Zahlen etwas ganz anderes. Was läuft da schief?",
-      "url": "https://www.heise.de/-11096465",
-      "image_title": "Zwei Roboter, einer mit Aufschrift \"KI\" mit Funktionsstörung"
     },
     {
       "title": "Massenentlassungen durch KI? Arbeitsmarktexperte erklärt, was wirklich passiert",
