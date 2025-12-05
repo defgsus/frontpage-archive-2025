@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-05T14:11:16",
+  "timestamp": "2025-12-05T15:11:39",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "KI-Modelle: New York Times klagt gegen Perplexity, Meta schließt Lizenzabkommen",
+      "teaser": "Der Streit um Medieninhalte in KI-Modellen spitzt sich zu. OpenAI muss Chatprotokolle herausgeben, NYT klagt gegen Perplexity. Meta setzt auf Lizenzabkommen.",
+      "url": "https://www.heise.de/news/KI-Modelle-New-York-Times-klagt-gegen-Perplexity-Meta-schliesst-Lizenzabkommen-11104846.html",
+      "image_title": "Gebäude der New York Times"
+    },
+    {
+      "title": "Proxmox zentral steuern mit dem neuen Datacenter Manager",
+      "teaser": "Proxmox-Systeme erhalten mit dem neuen Datacenter Manager 1.0 eine komfortable zentrale Verwaltung. Außerdem gibt's ein Update für den Backup Server.",
+      "url": "https://www.heise.de/news/Proxmox-zentral-steuern-mit-dem-neuen-Datacenter-Manager-11104333.html",
+      "image_title": "Dashboard des Proxmox Datacenter Manager"
+    },
+    {
       "title": "Herausforderung London: Bahn und Eurostar wollen Direktverbindung",
       "teaser": "Deutsche Bahn und Eurostar planen eine direkte Zugverbindung von Deutschland nach London. Viele Hürden sind zu überwinden.",
       "url": "https://www.heise.de/news/Deutsche-Bahn-und-Eurostar-planen-Direktverbindung-nach-London-11104459.html",
@@ -36,18 +48,6 @@
       "teaser": "Lernen Sie, wie Sie KI-gestützte Architekturen konzipieren, die skalierbar, sicher und wartbar sind - mit Fokus auf ML, GenKI, Datenstrategie und Compliance.",
       "url": "https://www.heise.de/news/iX-Workshop-Softwarearchitektur-fuer-KI-Systeme-skalierbare-Loesungen-entwickeln-11082562.html",
       "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
-    },
-    {
-      "title": "re:Invent 2025: AWS zündet nächste Stufe bei Custom Silicon und KI-Hardware",
-      "teaser": "Bei der re:Invent-Konferenz präsentiert AWS eine Parade an neuer Hardware und gibt einen Ausblick auf die kommenden Graviton5-Prozessoren.",
-      "url": "https://www.heise.de/news/re-Invent-2025-AWS-zuendet-naechste-Stufe-bei-Custom-Silicon-und-KI-Hardware-11104295.html",
-      "image_title": "Blick auf die Bühne der AWS re:Invent"
-    },
-    {
-      "title": "Linux 6.18: LTS-Kernel mit vielen Last-Minute-Bugfixes",
-      "teaser": "Linus Torvalds hat den Linux-Kernel 6.18 herausgegeben. Auf den letzten Metern gab es noch viele Korrekturen. Der Support läuft bis 2027.",
-      "url": "https://www.heise.de/news/Linux-6-18-LTS-Kernel-mit-vielen-Bugfixes-kurz-vor-Veroeffentlichung-11104048.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
     },
     {
       "title": "RatgeberAuswandern nach Polen: Was ITler verdienen, Lebenshaltungskosten und Steuern",
@@ -61,6 +61,23 @@
     {
       "title": "TestsThinkBook Plus G6: Notebook mit ausrollbarem OLED-Bildschirm im Test",
       "url": "https://www.heise.de/tests/ThinkBook-Plus-G6-Notebook-mit-ausrollbarem-OLED-Bildschirm-im-Test-11081373.html"
+    },
+    {
+      "title": "Waipu TV Box im Test: Das ist unser neuer Testsieger",
+      "teaser": "Die Waipu TV Box überrascht mit guter Performance, einer automatisch beleuchteten Fernbedienung und starker Ausstattung.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/waipu-tv-box-fuer-4k-im-test-das-ist-unser-neuer-testsieger/1d74jty?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "re:Invent 2025: AWS zündet nächste Stufe bei Custom Silicon und KI-Hardware",
+      "teaser": "Bei der re:Invent-Konferenz präsentiert AWS eine Parade an neuer Hardware und gibt einen Ausblick auf die kommenden Graviton5-Prozessoren.",
+      "url": "https://www.heise.de/news/re-Invent-2025-AWS-zuendet-naechste-Stufe-bei-Custom-Silicon-und-KI-Hardware-11104295.html",
+      "image_title": "Blick auf die Bühne der AWS re:Invent"
+    },
+    {
+      "title": "Linux 6.18: LTS-Kernel mit vielen Last-Minute-Bugfixes",
+      "teaser": "Linus Torvalds hat den Linux-Kernel 6.18 herausgegeben. Auf den letzten Metern gab es noch viele Korrekturen. Der Support läuft bis 2027.",
+      "url": "https://www.heise.de/news/Linux-6-18-LTS-Kernel-mit-vielen-Bugfixes-kurz-vor-Veroeffentlichung-11104048.html",
+      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
     },
     {
       "title": "Jetzt noch schnell buchen: Jubiläumsangebot von heise security PRO endet bald",
@@ -132,22 +149,6 @@
       "title": "Sulu 3.0: CMS mit neuem Content-Speicher und klarerer Architektur",
       "teaser": "Das Symfony‑basierte CMS in Version 3.0 bringt ein neues Content‑Storage‑System sowie flexiblere Speicher‑ und Suchoptionen für Entwicklerteams.",
       "url": "https://www.heise.de/news/Sulu-3-0-CMS-mit-neuem-Content-Speicher-und-klarerer-Architektur-11103711.html"
-    },
-    {
-      "title": "Neue Mac & i mit Health-Schwerpunkt, vielen Tests und OS-26-Troubleshooting",
-      "teaser": "Themen: Wie Sie mit Apple Health Ihre Gesundheit im Blick behalten, was die neuen M5-Geräte können und wie Sie Probleme mit macOS und iOS 26 angehen.",
-      "url": "https://www.heise.de/news/Neue-Mac-i-mit-Health-Schwerpunkt-vielen-Tests-und-OS-26-Troubleshooting-11098338.html",
-      "image_title": "Cover der Mac & i 6/2025 mit Health-Schwerpunkt"
-    },
-    {
-      "title": "„Brickstorm“-Hintertür in VMware vSphere: Warnung vor Angriff aus China",
-      "teaser": "Die CISA und die NSA warnen vor einem hochentwickelten Angriff auf Technik von VMware, mit dem sich Akteure aus China einen dauerhaften Zugang sichern könnten.",
-      "url": "https://www.heise.de/news/Brickstorm-Hintertuer-in-VMware-vSphere-Warnung-vor-Angriff-aus-China-11103648.html"
-    },
-    {
-      "title": "TikTok: Erstes Rechenzentrum in Lateinamerika",
-      "teaser": "In Brasilien entsteht das erste Rechenzentrum von TikTok in Lateinamerika. Es wird ausschließlich mit erneuerbarer Energie betrieben. Aber es gibt Misstöne.",
-      "url": "https://www.heise.de/news/TikTok-Erstes-Rechenzentrum-in-Lateinamerika-11103496.html"
     },
     {
       "title": "NewsBundesländer bereit für den Deutschland-Stack, nur Bayern stimmt gegen Beschluss",
