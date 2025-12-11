@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T20:13:05",
+  "timestamp": "2025-12-11T21:11:54",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutsche eID-Karte als Geldwäsche-Hilfe kritisiert",
+      "url": "https://www.heise.de/news/Deutsche-eID-Karte-als-Geldwaesche-Hilfe-kritisiert-11112667.html"
+    },
     {
       "title": "Broadcoms VMware-Übernahme: EU-Kommission soll Warnsignale ignoriert haben",
       "url": "https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Kommission-soll-Warnsignale-ignoriert-haben-11112591.html"
@@ -62,10 +66,6 @@
     {
       "title": "Gutachten: Massive Datenschutzverstöße bei PayPal",
       "url": "https://www.heise.de/news/PayPal-Gutachten-Viele-Maengel-beim-Datenschutz-11111140.html"
-    },
-    {
-      "title": "Wendelstein 7-X: Vor zehn Jahren begann die Fusionsforschung in Greifswald",
-      "url": "https://www.heise.de/news/Wendelstein-7-X-Vor-zehn-Jahren-begann-die-Fusionsforschung-in-Greifswald-11112343.html"
     },
     {
       "title": "GutachtenMassive Datenschutzverstöße bei PayPal",
@@ -187,20 +187,26 @@
       "image_title": "Notepad++ zeigt sein Changelog an"
     },
     {
+      "title": "Deutsche eID-Karte als Geldwäsche-Hilfe kritisiert",
+      "teaser": "EWR-Bürger können sich in Deutschland einen elektronischen Ausweis lösen. Laut einer Recherche prüfen aber nicht alle Einwohnermeldeämter ordentlich.",
+      "url": "https://www.heise.de/news/Deutsche-eID-Karte-als-Geldwaesche-Hilfe-kritisiert-11112667.html",
+      "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich wohl ein Smartphone."
+    },
+    {
       "title": "Broadcoms VMware-Übernahme: EU-Kommission soll Warnsignale ignoriert haben",
       "teaser": "Der Cloud-Verband CISPE greift die EU-Kommission vor Gericht scharf an: Bei der Genehmigung der VMware-Akquisition durch Broadcom habe die Aufsicht versagt.",
       "url": "https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Kommission-soll-Warnsignale-ignoriert-haben-11112591.html",
       "image_title": "Schriftzug \"vmware by Broadcom\" auf einem Smartphone"
     },
     {
-      "title": "Top 10: Das beste Mittelklasse-Smartphone mit guter Kamera",
-      "teaser": "Ein Flaggschiff sprengt das Budget? Dann lohnt sich ein Mittelklasse-Smartphone. Wir zeigen die besten Handys bis 600 Euro.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mittelklasse-smartphone-mit-guter-kamera-im-vergleich/z2jyxsr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Wie KI das End-to-End-Testing verändert",
       "teaser": "End-to-End-Tests in verteilten Systemen werden für QA-Teams immer aufwändiger. Ein KI-gestütztes Testen hilft und bringt kürzere Feedback-Schleifen, eine höhere Testabdeckung und stabilere Releases.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7137094690&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Das beste Mittelklasse-Smartphone mit guter Kamera",
+      "teaser": "Ein Flaggschiff sprengt das Budget? Dann lohnt sich ein Mittelklasse-Smartphone. Wir zeigen die besten Handys bis 600 Euro.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mittelklasse-smartphone-mit-guter-kamera-im-vergleich/z2jyxsr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Verkehrssicherheit: Elektroautos stellen keine größere Gefahr für Fußgänger dar",
@@ -230,12 +236,6 @@
       "title": "software-architektur.tv: Modelle und Modularisierung mit Alistair Cockburn",
       "teaser": "Eberhard Wolff und Alistair Cockburn sprechen über Modelle, Modularisierung, Bounded Contexts und Architekturansätze wie Ports and Adapters.",
       "url": "https://www.heise.de/news/software-architektur-tv-Modelle-und-Modularisierung-mit-Alistair-Cockburn-11109697.html"
-    },
-    {
-      "title": "Wendelstein 7-X: Vor zehn Jahren begann die Fusionsforschung in Greifswald",
-      "teaser": "Im Dezember 2015 wurde am Wendelstein 7-X erstmals Plasma gezündet. Seither wurden an der Fusionsforschungsanlage in Greifswald diverse Rekorde erzielt.",
-      "url": "https://www.heise.de/news/Wendelstein-7-X-Vor-zehn-Jahren-begann-die-Fusionsforschung-in-Greifswald-11112343.html",
-      "image_title": "Wartungsarbeiten im Plasmagefäß von Wendelstein 7-X in Greifswald (November 2025)"
     },
     {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
@@ -329,6 +329,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "Wendelstein 7-X: Vor zehn Jahren begann die Fusionsforschung in Greifswald",
+      "teaser": "Im Dezember 2015 wurde am Wendelstein 7-X erstmals Plasma gezündet. Seither wurden an der Fusionsforschungsanlage in Greifswald diverse Rekorde erzielt.",
+      "url": "https://www.heise.de/news/Wendelstein-7-X-Vor-zehn-Jahren-begann-die-Fusionsforschung-in-Greifswald-11112343.html",
+      "image_title": "Wartungsarbeiten im Plasmagefäß von Wendelstein 7-X in Greifswald (November 2025)"
+    },
+    {
       "title": "KI-Geräte: OpenAI und Jony Ive planen ein „Always-on“-Device",
       "teaser": "Ein neues KI-Gerät von OpenAI und Apples Ex-Chefdesigner Jony Ive soll „Always-on“ sein und den Datenschutz wahren. Ein Prototyp zirkuliert bereits.",
       "url": "https://www.heise.de/news/KI-Geraete-OpenAI-und-Jony-Ive-planen-ein-Always-on-Device-11112355.html",
@@ -397,15 +403,15 @@
       "url": "https://www.heise.de/news/Wie-sich-mit-KI-verborgene-geothermische-Energiequellen-aufspueren-lassen-11112047.html"
     },
     {
+      "title": "8K, 3D, KI: Wie sich Medien-Workflows beschleunigen lassen",
+      "teaser": "8K-Videos, 3D-Formate und der Einsatz von KI machen die Medienproduktion immer anspruchsvoller. Kreative benötigen deshalb leistungsfähige Hardware, die sie bei ihrer Arbeit optimal unterstützt.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/8k-3d-ki-wie-sich-medien-workflows-beschleunigen-lassen/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
       "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11090455.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Autonome Agenten: Wie KI die Prozessautomatisierung revolutioniert",
-      "teaser": "KI-Agenten planen und lösen komplexe Aufgaben selbständig und systemübergreifend. In der Prozessautomatisierung bringen sie aber auch neue Risiken und höhere Anforderungen an die IT-Infrastruktur mit sich.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/autonome-agenten-wie-ki-die-prozessautomatisierung-revolutioniert/?source=hbsadersatz"
     },
     {
       "title": "Anonymisierendes Linux: Tails 7.3.1 pflegt Kern-Programme",
@@ -456,12 +462,6 @@
       "teaser": "SpaceX plant einen Börsengang für die zweite Jahreshälfte 2026. Dabei will das Raumfahrtunternehmen ein Rekordergebnis erzielen.",
       "url": "https://www.heise.de/news/Boersengang-SpaceX-will-30-Milliarden-US-Dollar-einnehmen-11111687.html",
       "image_title": "SpacesX-Schriftzug an Gebäude"
-    },
-    {
-      "title": "Die Produktwerker: Was man selbst tun kann, um mehr Ownership zu erhalten",
-      "teaser": "Die Produktwerker diskutieren in dieser Folge darüber, dass man einiges selbst tun kann, um mehr Product Ownership zu bekommen beziehungsweise zu übernehmen.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Was-man-selbst-tun-kann-um-mehr-Ownership-zu-erhalten-11105880.html",
-      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
     },
     {
       "title": "BSI prüft Passwort-Manager: Einige ermöglichen theoretisch Herstellerzugriff",
@@ -638,9 +638,10 @@
       "url": "https://www.heise.de/ratgeber/Kaufberatung-So-finden-Sie-die-passenden-PC-Komponenten-fuer-Ihre-Anwendungen-10512727.html"
     },
     {
-      "title": "PC-Bauvorschlag: High-End-Allrounder mit Ryzen 9000 und Radeon RX 9070 XT",
-      "teaser": "Unser leistungsfähiger, aber leiser Bauvorschlag tritt in zwei Varianten an. Sie können ihn für Gaming, KI-Anwendungen sowie Foto- und Videobearbeitung nutzen.",
-      "url": "https://www.heise.de/ratgeber/PC-Bauvorschlag-High-End-Allrounder-mit-Ryzen-9000-und-Radeon-RX-9070-XT-10735235.html"
+      "title": "Linux auf dem Framework Laptop 12 im Test",
+      "teaser": "Framework ist bei vielen Linux-Fans beliebt. Doch wie schlägt sich der finger- und stiftbedienbare Laptop 12 mit dem freien Betriebssystem?",
+      "url": "https://www.heise.de/tests/Linux-auf-dem-Framework-Laptop-12-im-Test-11074922.html",
+      "image_title": "Framework steht leicht auffrecht im Tablet-Modus, davor liegt der Stift, auf dem Display sieht man den KDE-Plasma-Desktop von Bazzite"
     },
     {
       "title": "Teure Speichermodule: Gründe für die extremen RAM-Preise",
@@ -684,12 +685,6 @@
       "image_title": "Arduino Modulino Kette"
     },
     {
-      "title": "Fototour: Sechs Lost Places in Niedersachsen – verlassene Schönheiten im Fokus",
-      "teaser": "Verlassene Heilstätten, leer stehende Gasthäuser und Puppen, die stumm im Wald hängen: „Lost Places“ sind mehr als nur Abenteuer oder bloße Fotokulissen.",
-      "url": "https://www.heise.de/ratgeber/Fototour-Sechs-Lost-Places-in-Niedersachsen-verlassene-Schoenheiten-im-Fokus-11107797.html",
-      "image_title": "Canon EOS 5D IV 50 mm ISO 4000 f/4.0 1/50 s, Alle Bilder: Daniel Boberg"
-    },
-    {
       "title": "Adobe Express, Photoshop, Acrobat in ChatGPT nutzbar",
       "teaser": "Adobe Photoshop, Acrobat und Express lassen sich künftig in ChatGPT nutzen. Nutzer sollen Fotos, Dokumente und Designs per Texteingabe erstellen und bearbeiten.",
       "url": "https://www.heise.de/news/Adobe-Express-Photoshop-Acrobat-in-ChatGPT-nutzbar-11108480.html",
@@ -705,6 +700,12 @@
       "title": "Die Fotobücher des Jahres 2025 im Überblick",
       "teaser": "Die Auswahl an Fotobüchern ist immer wieder beeindruckend. Wir stellen Ihnen die Bücher des Jahres vor, die unsere Redaktion besonders begeistert haben.",
       "url": "https://www.heise.de/ratgeber/Die-Fotobuecher-des-Jahres-2025-im-Ueberblick-11104899.html"
+    },
+    {
+      "title": "Martin Parr gestorben: Chronist der farbigen Alltäglichkeit",
+      "teaser": "Der britische Fotograf Martin Parr prägte die Dokumentarfotografie mit Humor, Farbe und Kritik am Konsum – nun ist er mit 73 Jahren gestorben.",
+      "url": "https://www.heise.de/news/Martin-Parr-gestorben-Chronist-der-farbigen-Alltaeglichkeit-11106086.html",
+      "image_title": "Ein Mann auf einem Stuhl"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -748,22 +749,22 @@
       "image_title": "Auspuffanlage"
     },
     {
-      "title": "Nvidia-Aktie: Warum China die H200-Chips trotz US-Exportfreigabe blockiert",
-      "teaser": "Peking will die US-Chips streng rationieren. Dahinter steckt eine langfristige Strategie, die Nvidia-Chef Huang bereits fürchtet.",
-      "url": "https://www.heise.de/-11110555",
-      "image_title": "Ein Server in der Draufsicht"
+      "title": "Schwarze Löcher: Die turbulente Umgebung von M87*",
+      "teaser": "Das Magnetfeld um das supermassereiche Schwarze Loch M87* hat sich vollständig umgekehrt. Simulationen helfen, solche extremen Bedingungen zu verstehen.",
+      "url": "https://www.heise.de/-11110328",
+      "image_title": "Leuchtender Ring aus Gasen um eine dunkle kreisförmige Region."
     },
     {
-      "title": "\"Indianer-Debatte\": Wie Political Correctness Kulturen und Solidarität schadet",
-      "teaser": "Wer das Wort \"Indianer\" verbannt, beraubt die \"Native Americans\" der Unterstützung – und uns des kritischen Denkens. Aber warum ist das so?",
-      "url": "https://www.heise.de/-11103852",
-      "image_title": "Feder schreibt \"Indianer\" und Radiergummi löscht schon den Wortanfang"
+      "title": "Rente mit 70: Welche Jahrgänge wirklich betroffen wären",
+      "teaser": "Millennials und Gen Z im Fokus: Experten fordern höheres Rentenalter. Doch ab wann würde die Rente mit 70 greifen – und wen träfe es wirklich?",
+      "url": "https://www.heise.de/-11110711",
+      "image_title": "Junges Paar berechnet Rentenansprüche – wann trifft die Rente mit 70 welchen Jahrgang?"
     },
     {
-      "title": "48 Prozent Rentenniveau: Eine Garantie, die nichts garantiert",
-      "teaser": "Die SPD feiert die Haltelinie – doch real können Renten trotzdem sinken. Der Grund liegt woanders als in der Demografie. Gastbeitrag.",
-      "url": "https://www.heise.de/-11111588",
-      "image_title": "Ein älteres Paar, das einem Theaterstück bewohnt"
+      "title": "Diagnose Krebs: Der Weg durch die ersten wichtigen Entscheidungen",
+      "teaser": "Diese Diagnose erschüttert die Betroffenen zutiefst. Doch fast immer ist Zeit, die nächsten Schritte in Ruhe zu planen. Was ist zuerst zu tun? Ein Ratgeber.",
+      "url": "https://www.heise.de/-11104367",
+      "image_title": "Junge niedergeschlagene Frau im Gespräch mit ihrer Ärztin"
     },
     {
       "title": "Wie geht digitale Souveränität? Marc-Uwe Kling und sein Känguru erklären es",
@@ -781,9 +782,9 @@
       "url": "https://t3n.de/news/microsoft-studie-zur-ki-nutzung-copilot-wird-je-nach-uhrzeit-unterschiedlich-eingesetzt-1721285/"
     },
     {
-      "title": "Incogni im Test: Echte Hilfe oder Schlangenöl?",
-      "teaser": "Was tun, wenn persönliche Daten in falsche Hände geraten? Incogni verspricht Abhilfe, indem es automatisiert Löschanträge stellt. Wir haben den Dienst getestet.",
-      "url": "https://www.heise.de/download/specials/Incogni-im-Test-Echte-Hilfe-oder-Schlangenoel-11101369"
+      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
+      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
+      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
     },
     {
       "title": "Desinfec't",
