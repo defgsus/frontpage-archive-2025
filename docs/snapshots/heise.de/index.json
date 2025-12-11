@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T03:52:17",
+  "timestamp": "2025-12-11T04:26:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bericht: Nvidia arbeitet an Tracking-Funktion für KI-Chips gegen Schmuggel",
+      "url": "https://www.heise.de/news/Bericht-Nvidia-arbeitet-an-Tracking-Funktion-fuer-KI-Chips-gegen-Schmuggel-11111153.html"
+    },
     {
       "title": "\"AI-Powered Price Optimization\": US-Zustelldienst Instacart manipuliert Preise",
       "url": "https://www.heise.de/news/AI-Powered-Price-Optimization-US-Zustelldienst-Instacart-manipuliert-Preise-11111130.html"
@@ -62,10 +66,6 @@
     {
       "title": "FritzOS 8.21: Fritz verteilt Hotfix-Update",
       "url": "https://www.heise.de/news/FritzOS-8-21-Fritz-verteilt-Hotfix-Update-11110918.html"
-    },
-    {
-      "title": "Xiaomi Poco F8 Pro im Test: High-End-Smartphone zum fairen Preis",
-      "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-poco-f8-pro-im-test-high-end-smartphone-zum-mittelklasse-preis/0qp7xjc?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "FritzOS 8.21Fritz verteilt Hotfix-Update",
@@ -187,21 +187,27 @@
       "image_title": "Flughafenterminal"
     },
     {
+      "title": "Bericht: Nvidia arbeitet an Tracking-Funktion für KI-Chips gegen Schmuggel",
+      "teaser": "Nvidia-Software könnte den Standort KI-fähiger Chips bestimmen, um Exporte in sanktionierte Länder zu verhindern. Das ist zunächst für Blackwell-GPUs geplant.",
+      "url": "https://www.heise.de/news/Bericht-Nvidia-arbeitet-an-Tracking-Funktion-fuer-KI-Chips-gegen-Schmuggel-11111153.html",
+      "image_title": "Nvidia-Logo auf Grafikkarte"
+    },
+    {
       "title": "\"AI-Powered Price Optimization\": US-Zustelldienst Instacart manipuliert Preise",
       "teaser": "Sogar bei Selbstabholung setzt Instacart für bestellte Lebensmittel höhere Preise an, individuell unterschiedlich. Selbes Produkt, selbe Zeit, selbe Filiale.",
       "url": "https://www.heise.de/news/AI-Powered-Price-Optimization-US-Zustelldienst-Instacart-manipuliert-Preise-11111130.html",
       "image_title": "Grüne Einkaufstasche mit Instacart-Schriftzug und Aufschrift \"Kale & Avocados & Quinoa & Blueberries & Chocolate.\""
     },
     {
+      "title": "Wenn das Backup unter Beschuss gerät",
+      "teaser": "Moderne Angriffe nutzen Backup-Server, Repositorys oder API-Schnittstellen aus, um Sicherungskopien zu verschlüsseln oder zu löschen. Deshalb muss eine Sicherung mehr als nur Daten erfassen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7119070922&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Europäische Temu-Büros durchsucht",
       "teaser": "Temus europäische Niederlassung ist durchsucht worden. Anlass ist der Verdacht verbotener ausländischer Subventionen.",
       "url": "https://www.heise.de/news/Europaeische-Temu-Bueros-durchsucht-11111085.html",
       "image_title": "Einkaufswagen mit Temu-Website auf einem Laptop und auf dem Smartphone im Hintergrund"
-    },
-    {
-      "title": "KI als Motor von Innovation, Sicherheit und Fortschritt",
-      "teaser": "Beim Elastic AI Executive Circle diskutierten Experten über Innovation, Sicherheit und Verantwortung im KI-Bereich. Man war sich einig: Nicht die Nutzung von KI birgt ein Risiko, sondern der Verzicht.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442303&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Die beste Smartwatch mit EKG – Testsieger misst Blutdruck",
@@ -232,12 +238,6 @@
       "url": "https://www.heise.de/tests/Machine-Learning-Dienste-der-Hyperscaler-ein-Ueberblick-10673488.html"
     },
     {
-      "title": "Bundesregierung legt Gesetzentwurf für „klimafreundlicheres Tanken“ vor",
-      "teaser": "Die Bundesregierung will Treibhausgase im Verkehrssektor senken. Dafür wurden verschiedene Maßnahmen in einen Gesetzentwurf eingebracht.",
-      "url": "https://www.heise.de/news/Bundesregierung-legt-Gesetzentwurf-fuer-klimafreundlicheres-Tanken-vor-11110924.html",
-      "image_title": "Auspuffanlage"
-    },
-    {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
       "teaser": "Tipps und Tricks, wie man beim Bahnfahren mehr weiß und seltener überrascht wird.",
       "url": "https://www.heise.de/ratgeber/Bahn-Chaos-im-Griff-Strategien-bei-Zugausfall-und-Verspaetung-10991199.html",
@@ -260,21 +260,20 @@
       "image_title": "Worker,Installing,Solar,Energy,Panels.,Alternative,Energy,System.,Eco,Concept"
     },
     {
-      "title": "Bundesländer bereit für den Deutschland-Stack, nur Bayern stimmt gegen Beschluss",
-      "url": "https://www.heise.de/news/Deutschland-Stack-Bayern-will-keine-Katze-im-Sack-kaufen-11099632.html"
+      "title": "Millionenstrafe gegen X: Musk fordert Abschaffung der EU, Account wird gesperrt",
+      "url": "https://www.heise.de/news/Millionenstrafe-gegen-X-Musk-fordert-Abschaffung-der-EU-Account-wird-gesperrt-11105798.html"
     },
     {
-      "title": "Ärztin zur E-Patientenakte: „Unverschämtheit, dass die Preise da so drin stehen“",
-      "url": "https://www.heise.de/news/Aerztin-zur-E-Patientenakte-Unverschaemtheit-dass-die-Preise-da-drin-stehen-11099687.html"
-    },
-    {
-      "title": "Elektroauto Hyundai Ioniq 6 im winterlichen Langstreckentest: Grenzen aufgezeigt",
-      "url": "https://www.heise.de/tests/Elektroauto-Hyundai-Ioniq-6-im-winterlichen-Langstreckentest-Grenzen-aufgezeigt-11098692.html",
-      "image_title": "Hyundai Ioniq 6 2026"
+      "title": "Arbeitsmarkt für Informatiker: Keine besseren Aussichten",
+      "url": "https://www.heise.de/news/Arbeitsmarkt-fuer-Informatiker-Keine-besseren-Aussichten-11095815.html"
     },
     {
       "title": "Glasfasermodem oder -router: Was rechnet sich mehr für den Glasfaseranschluss?",
-      "url": "https://www.heise.de/tests/Glasfasermodem-oder-router-Was-rechnet-sich-mehr-fuer-den-Glasfaseranschluss-11066548.html",
+      "url": "https://www.heise.de/tests/Glasfasermodem-oder-router-Was-rechnet-sich-mehr-fuer-den-Glasfaseranschluss-11066548.html"
+    },
+    {
+      "title": "Analyse: Projektsterben in der Cloud-Native-Welt",
+      "url": "https://www.heise.de/hintergrund/Analyse-Projektsterben-in-der-Cloud-Native-Welt-11107110.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -328,6 +327,12 @@
       "teaser": "Täglich neue Angebote und Geschenke in 24 Türchen! Jeden Tag wartet ein neues heise-Angebot sowie eine Software-Vollversion zum kostenlosen Download auf Sie. Jetzt Türchen öffnen!",
       "url": "https://www.heise.de/download/blog/Der-heise-Adventskalender-2025-11078286?wt_mc=intern.abo.all.advent25.ho_advt.ad1.ad1",
       "image_title": "heise Adventskalender🎄"
+    },
+    {
+      "title": "Bundesregierung legt Gesetzentwurf für „klimafreundlicheres Tanken“ vor",
+      "teaser": "Die Bundesregierung will Treibhausgase im Verkehrssektor senken. Dafür wurden verschiedene Maßnahmen in einen Gesetzentwurf eingebracht.",
+      "url": "https://www.heise.de/news/Bundesregierung-legt-Gesetzentwurf-fuer-klimafreundlicheres-Tanken-vor-11110924.html",
+      "image_title": "Auspuffanlage"
     },
     {
       "title": "Xiaomi Poco F8 Pro im Test: High-End-Smartphone zum fairen Preis",
@@ -399,15 +404,15 @@
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
+      "title": "8K, 3D, KI: Wie sich Medien-Workflows beschleunigen lassen",
+      "teaser": "8K-Videos, 3D-Formate und der Einsatz von KI machen die Medienproduktion immer anspruchsvoller. Kreative benötigen deshalb leistungsfähige Hardware, die sie bei ihrer Arbeit optimal unterstützt.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/8k-3d-ki-wie-sich-medien-workflows-beschleunigen-lassen/?source=hbsadersatz"
+    },
+    {
       "title": "Werden die Landesdatenschutzbehörden entmachtet?",
       "teaser": "Die Regierung prüft \"die Aufhebung der Pflicht zur Bestellung eines Landesdatenschutzbeauftragten\". Kritiker warnen vor einem föderalen Kahlschlag.",
       "url": "https://www.heise.de/news/Werden-die-Landesdatenschutzbehoerden-entmachtet-11110492.html",
       "image_title": "Frau im Anzug, die auf ein geöffnetes Sicherheitsschloss zeigt"
-    },
-    {
-      "title": "Cyberresilienz: So überstehen Unternehmen einen Cyberangriff!",
-      "teaser": "Eine gute IT-Security-Strategie muss neben Vorsorgemaßnahmen die rasche Erkennung und Eindämmung eines Angriffs sowie die schnelle Wiederherstellung betroffener Systeme umfassen. Die Hardware-Plattform spielt dabei eine Schlüsselrolle.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/security/cyberresilienz-so-ueberstehen-unternehmen-einen-cyberangriff/"
     },
     {
       "title": "Schülervertreter: Social-Media-Verbot ist keine Lösung",
@@ -463,23 +468,27 @@
     },
     {
       "title": "AlertPatchday: Microsoft warnt vor Attacken auf Windows und Windows Server",
-      "teaser": "Am Microsoft-Patchday sind wichtige Sicherheitsupdates erschienen. Mehrere Schwachstellen sind öffentlich bekannt. Es gibt bereits Attacken.",
       "url": "https://www.heise.de/news/Patchday-Angreifer-nutzen-Sicherheitsluecke-in-Windows-und-Windows-Server-aus-11109585.html"
     },
     {
-      "title": "Valve: HDMI-Forum blockiert weiter HDMI 2.1 für Linux",
-      "url": "https://www.heise.de/news/Valve-HDMI-Forum-blockiert-weiter-HDMI-2-1-fuer-Linux-11107364.html",
-      "image_title": "Steam Machine auf beigefarbenem Untergrund"
+      "title": "Tech-Gadget Flipper One: Neue Rendergrafiken des Innenlebens geben Rätsel auf",
+      "url": "https://www.heise.de/news/Tech-Gadget-Flipper-One-Neue-Rendergrafiken-des-Innenlebens-geben-Raetsel-auf-11108574.html",
+      "image_title": "Flipper mit Verpixelungen"
     },
     {
-      "title": "Porsche in Russland: Autos lassen sich nicht starten",
-      "url": "https://www.heise.de/news/Porsche-in-Russland-Autos-lassen-sich-nicht-starten-11105814.html",
-      "image_title": "Portland,,Or,,Usa,December,8,,2023,Porsche,356,Coupe,Parked"
+      "title": "Linux-Kernel: Rust-Support offiziell abgesegnet",
+      "url": "https://www.heise.de/news/Linux-Kernel-Rust-Support-offiziell-abgesegnet-11109733.html",
+      "image_title": "Linux-Pinguin Tux mit Rust-Logo vor abstraktem Hintergrund"
     },
     {
-      "title": "iOS 26.2: Apple behebt kritische Bugs im zweiten Release Candidate",
-      "url": "https://www.heise.de/news/iOS-26-2-Apple-veroeffentlicht-zweiten-Release-Candidate-11108257.html",
-      "image_title": "Liquid Glass in iOS 26"
+      "title": "AIS-Ausfälle bei Putins Schattenflotte verdoppelt",
+      "url": "https://www.heise.de/news/Russische-Schattenflotte-AIS-Manipulation-hat-sich-verdoppelt-11109030.html",
+      "image_title": "Schiff zur Inspektion von Unterwasserkabeln vor Sonnenuntergang"
+    },
+    {
+      "title": "Tank- und Heizkosten: EU verschiebt CO₂-Bepreisung für Verbraucher",
+      "url": "https://www.heise.de/news/EU-setzt-sich-neues-Ziel-fuer-den-Klimaschutz-11109505.html",
+      "image_title": "Reduce,Co2,Emissions,To,Limit,Climate,Change,And,Global,Warming."
     },
     {
       "title": "US-Forscher laden Elektro-Lkw drahtlos bei Autobahngeschwindigkeit auf",
@@ -487,34 +496,19 @@
       "image_title": "Senderspulen Ladetechnik"
     },
     {
-      "title": "Missing Link: Hubble Deep Field – ein Foto und seine Geschichte",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Hubble-Deep-Field-ein-Foto-und-seine-Geschichte-11101499.html",
-      "image_title": "Hubble-Foto Säulen der Schöpfung"
-    },
-    {
-      "title": "KI: Erfundene Quellenangaben belasten Archive und Bibliotheken",
-      "url": "https://www.heise.de/news/KI-Erfundene-Quellenangaben-belasten-Archive-und-Bibliotheken-11107805.html",
-      "image_title": "Reihen von Büchern in einer Bibliothek"
-    },
-    {
       "title": "Markenrechte von X aufgegeben: Neues soziales Netzwerk soll „Twitter“ heißen",
       "url": "https://www.heise.de/news/Markenrechte-von-X-aufgegeben-Neues-soziales-Netzwerk-soll-Twitter-heissen-11107999.html",
       "image_title": "Altes und neues Logo von Twitter (jetzt X)"
     },
     {
-      "title": "UpdateAndroid XR: Neue Features für Galaxy XR und erste KI-Brillen in 2026",
-      "url": "https://www.heise.de/news/Android-XR-Google-kuendigt-erste-Smart-Glasses-fuer-2026-an-11107511.html",
-      "image_title": "Blick durch Smart Glasses auf einen Gehweg, darunter eine digital eingeblendete AR-Navigation."
+      "title": "iOS 26.2: Apple behebt kritische Bugs im zweiten Release Candidate",
+      "url": "https://www.heise.de/news/iOS-26-2-Apple-veroeffentlicht-zweiten-Release-Candidate-11108257.html",
+      "image_title": "Liquid Glass in iOS 26"
     },
     {
-      "title": "Syncthing‑Fork unter fremder Kontrolle? Community schluckt das nicht",
-      "url": "https://www.heise.de/news/Schluesseluebergabe-im-Dunkeln-Syncthing-Fork-Community-schlaegt-Alarm-11107154.html",
-      "image_title": "Schlüsselloch mit Person"
-    },
-    {
-      "title": "Warner-Wettbieten: Netflix-Chef reagiert gelassen auf Paramount-Angebot",
-      "url": "https://www.heise.de/news/Warner-Wettbieten-Netflix-Chef-reagiert-gelassen-auf-Paramount-Angebot-11107769.html",
-      "image_title": "Warner Bros. Logo an Gebäude"
+      "title": "Kleiner E-Book-Reader nimmt Smartphones huckepack",
+      "url": "https://www.heise.de/news/Kleiner-E-Book-Reader-nimmt-Smartphones-huckepack-11109140.html",
+      "image_title": "Mann hält einen E-Book-Reader in der Hand"
     },
     {
       "title": "Siedler-Erfinder Wertich liefert mit „Pioneers of Pagonia“ ab",
@@ -522,9 +516,14 @@
       "image_title": "Screenshot aus Pioneers of Pagonia"
     },
     {
-      "title": "Nach Netflix-Deal: Paramount bietet 108 Milliarden US-Dollar für Warner Bros.",
-      "url": "https://www.heise.de/news/Nach-Netflix-Deal-Paramount-bietet-108-Milliarden-US-Dollar-fuer-Warner-Bros-11107266.html",
-      "image_title": "Logo von Warner BRos. auf Handy"
+      "title": "Opel Astra Facelift: Front geglättet, Batterie vergrößert",
+      "url": "https://www.heise.de/news/Opel-Astra-Facelift-Front-geglaettet-Batterie-vergroessert-11109501.html",
+      "image_title": "Opel Astra Facelift"
+    },
+    {
+      "title": "Warner-Wettbieten: Netflix-Chef reagiert gelassen auf Paramount-Angebot",
+      "url": "https://www.heise.de/news/Warner-Wettbieten-Netflix-Chef-reagiert-gelassen-auf-Paramount-Angebot-11107769.html",
+      "image_title": "Warner Bros. Logo an Gebäude"
     },
     {
       "title": "Ford: Zwei günstige E-Autos auf Basis von Renault",
@@ -532,13 +531,14 @@
       "image_title": "Ford Capri"
     },
     {
-      "title": "Telekom wird schärfer reguliert – Eckpunktepapier der Bundesnetzagentur",
-      "url": "https://www.heise.de/news/Bundesnetzagentur-Schaerfere-Regeln-fuer-die-Telekom-im-Geschaeftskundenmarkt-11107515.html"
+      "title": "Kafka in Blau: IBM kauft Confluent",
+      "url": "https://www.heise.de/news/Kafka-in-Blau-IBM-kauft-Confluent-11109914.html",
+      "image_title": "IBM-Logo"
     },
     {
-      "title": "Die S-Klasse von Mercedes-Benz wird zum Robotaxi",
-      "url": "https://www.heise.de/news/Die-S-Klasse-von-Mercedes-Benz-wird-zum-Robotaxi-11108211.html",
-      "image_title": "S-Klasse von Mercedes-Benz als Robotaxi"
+      "title": "Kia Seltos beerbt den Niro",
+      "url": "https://www.heise.de/news/Kia-Seltos-beerbt-den-Niro-11109942.html",
+      "image_title": "Kia Seltos"
     },
     {
       "title": "DNS-Überwachung: Verfassungsgericht stoppt gerichtliche Anordnungen",
@@ -550,24 +550,24 @@
       "image_title": "USA und Europa mit Flaggen, Schild in der Mitte"
     },
     {
-      "title": "Elektronische Patientenakte: Kelber kritisiert Sicherheit und Reklamekampagne",
-      "url": "https://www.heise.de/news/Scharfe-Abrechnung-an-der-ePA-Kelber-kritisiert-Sicherheit-und-Reklamekampagne-11107555.html",
-      "image_title": "Mann im Weißkittel am Tablet, vor ihm ein Laptop"
+      "title": "Berlin: Polizei darf Wohnungen zur Staatstrojaner-Installation heimlich betreten",
+      "url": "https://www.heise.de/news/Berlin-Polizei-darf-Wohnungen-zur-Staatstrojaner-Installation-heimlich-betreten-11103253.html",
+      "image_title": "Gesichtserkennungs-KI im Einsatz"
     },
     {
-      "title": "Dienstag: Russen-Porsche von Satelliten abhängig, Musk will EU abschaffen",
-      "url": "https://www.heise.de/news/Dienstag-Russen-Porsche-von-Satelliten-abhaengig-Musk-will-EU-abschaffen-11107655.html",
-      "image_title": "Giftgrünes Porsche-Modellauto, dazu Text: \"Dienstag - DDoS-Rekord, Musk mag EU nicht, LLM-Prompting, Porsche streiken in Russland\""
+      "title": "Porsche in Russland: Autos lassen sich nicht starten",
+      "url": "https://www.heise.de/news/Porsche-in-Russland-Autos-lassen-sich-nicht-starten-11105814.html",
+      "image_title": "Portland,,Or,,Usa,December,8,,2023,Porsche,356,Coupe,Parked"
+    },
+    {
+      "title": "Mittwoch: Facebook-Redesign nach IG-Vorbild, Pebble-Ring für kurze Sprachnotizen",
+      "url": "https://www.heise.de/news/Mittwoch-Facebook-Redesign-nach-IG-Vorbild-Pebble-Ring-fuer-kurze-Sprachnotizen-11109491.html",
+      "image_title": "Hand hält Lupe über Facebook-Logo auf der Anmeldeseite; Mittwoch: Facebook-Redesign, Pebble-Minimalismus, Google-Video-Editor, Schiffsverkehr-Risiko & Social-Media-Negativpreis"
     },
     {
       "title": "Der neue Sarkophag in Tschernobyl ist nicht mehr sicher",
       "url": "https://www.heise.de/news/Tschernobyl-Schutzhuelle-nach-Drohnenangriff-nicht-mehr-sicher-11105685.html",
       "image_title": "Blick auf die Einschlagstelle der russischen Drohne in die Schutzhülle des havarierten Reaktors von Tschernobyl am 14. Februar 2025."
-    },
-    {
-      "title": "AIS-Ausfälle bei Putins Schattenflotte verdoppelt",
-      "url": "https://www.heise.de/news/Russische-Schattenflotte-AIS-Manipulation-hat-sich-verdoppelt-11109030.html",
-      "image_title": "Schiff zur Inspektion von Unterwasserkabeln vor Sonnenuntergang"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -614,35 +614,36 @@
       "url": "https://www.heise.de/multimediadatei/Cloudflare-Ausfall-WhatsApp-Daten-Souveraenitaetsgipfel-heiseshow-11086873.html"
     },
     {
+      "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
+      "url": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html",
+      "image_title": "Steam Machine on a beige background"
+    },
+    {
+      "title": "Notepad++ updater installed malware",
+      "url": "https://www.heise.de/en/news/Notepad-updater-installed-malware-11109726.html",
+      "image_title": "Notepad++ displays its changelog"
+    },
+    {
+      "title": "ESTA: USA wants to check social media accounts of European travelers as well",
+      "url": "https://www.heise.de/en/news/ESTA-USA-wants-to-check-social-media-accounts-of-European-travelers-as-well-11109526.html"
+    },
+    {
       "title": "Goodbye, Microsoft: Schleswig-Holstein relies on Open Source and saves millions",
       "url": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html"
-    },
-    {
-      "title": "Berlin: Police can secretly enter homes for state trojan installation",
-      "url": "https://www.heise.de/en/news/Berlin-Police-can-secretly-enter-homes-for-state-trojan-installation-11103284.html",
-      "image_title": "Facial recognition AI in use"
-    },
-    {
-      "title": "Adobe Acrobat Reader no longer starts for many users",
-      "url": "https://www.heise.de/en/news/Adobe-Acrobat-Reader-no-longer-starts-for-many-users-11103050.html"
     },
     {
       "title": "Microsoft Entra: Certificate Change – Some Admins Need to Take Action",
       "url": "https://www.heise.de/en/news/Microsoft-Entra-Certificate-Change-Some-Admins-Need-to-Take-Action-11108138.html"
     },
     {
-      "title": "iOS 26.2: Apple releases second Release Candidate",
-      "url": "https://www.heise.de/en/news/iOS-26-2-Apple-releases-second-Release-Candidate-11108423.html"
+      "title": "KaufberatungSo finden Sie die passenden PC-Komponenten für Ihre Anwendungen",
+      "teaser": "PC-Selbstbauer stehen vor einer riesigen Auswahl an CPUs, SSDs und Grafikkarten. Wir geben Tipps, wie Sie die richtigen Teile auswählen.",
+      "url": "https://www.heise.de/ratgeber/Kaufberatung-So-finden-Sie-die-passenden-PC-Komponenten-fuer-Ihre-Anwendungen-10512727.html"
     },
     {
-      "title": "Jetzt abstimmen: Social Media-Negativpreis „Grauer Haken 2025”",
-      "teaser": "Mit dem „Grauen Haken 2025“ verleiht der c't-Podcast „Haken dran - das Social-Media-Update“ einen Negativpreis für bemerkenswerte Leistungen in Social Media.",
-      "url": "https://www.heise.de/news/Jetzt-abstimmen-Social-Media-Negativpreis-Grauer-Haken-2025-11109178.html"
-    },
-    {
-      "title": "19 M.2-SSDs mit PCIe 4.0 und 5.0 im Test",
-      "teaser": "Dieser Artikel versammelt SSDs von schnell bis superschnell. Darunter sind Neuheiten von Samsung und Raspberry Pi sowie aktuelle sparsame PCIe-5.0-Technik.",
-      "url": "https://www.heise.de/tests/19-M-2-SSDs-mit-PCIe-4-0-und-5-0-im-Test-10514412.html"
+      "title": "Android-Smartphone Motorola Edge 70 im Test",
+      "teaser": "Motorola probiert sich an einem sehr flachen Smartphone, treibt den Schlankheitswahn aber nicht auf die Spitze. Gut so, das Edge 70 ist so alltagstauglicher.",
+      "url": "https://www.heise.de/tests/Android-Smartphone-Motorola-Edge-70-im-Test-11087921.html"
     },
     {
       "title": "Vier In-Ear-Kopfhörer im Test",
@@ -667,12 +668,6 @@
       "image_title": ", Inge Schwabe"
     },
     {
-      "title": "Tech-Gadget Flipper OneRendergrafiken des Innenlebens geben Rätsel auf",
-      "teaser": "Erfinder Pavel Zhovner zeigt, wie die Platinen von Flipper One aussehen. Wichtige Komponenten bleiben vorerst verpixelt.",
-      "url": "https://www.heise.de/news/Tech-Gadget-Flipper-One-Neue-Rendergrafiken-des-Innenlebens-geben-Raetsel-auf-11108574.html",
-      "image_title": "Flipper mit Verpixelungen"
-    },
-    {
       "title": "Arduino erweitert Modulino-Familie um vier neue Module",
       "teaser": "Von der Idee zum Prototyp in Minuten: Arduino baut sein Modulino-Ökosystem mit vier neuen Modulen aus – Prototypen schnell und ohne Verkabelungschaos erstellen.",
       "url": "https://www.heise.de/news/Arduino-erweitert-Modulino-Familie-um-vier-neue-Module-11108101.html",
@@ -683,6 +678,12 @@
       "teaser": "Der Leibniz-Gründungspreis 2026 geht an ein Start-up für ein neuartiges Verfahren zur Herstellung gedruckter Elektronik auf 3D-Drucken.",
       "url": "https://www.heise.de/news/Dresdner-Start-up-bekommt-Leibniz-Gruendungspreis-fuer-3D-gedruckte-Elektronik-11106172.html",
       "image_title": "Die fünf Personen aus dem Gewinnerteam für den Leipniz-Gründungspreis auf der Bühne stehend."
+    },
+    {
+      "title": "Besseres Google-„Mein Gerät finden“-Netz mit optimierter Einstellung",
+      "teaser": "Android-Nutzer können mit einer einfachen Einstellungsänderung mithelfen, Googles „Mein Gerät finden\"-Netzwerk zu verbessern.",
+      "url": "https://www.heise.de/news/Besseres-Google-Mein-Geraet-finden-Netz-mit-optimierter-Einstellung-11106117.html",
+      "image_title": "Logog zu Googles \"Find Hub\""
     },
     {
       "title": "Google Photos wird zum Video-Editor für Android",
@@ -725,18 +726,6 @@
       "url": "https://www.heise.de/hintergrund/Kluge-Strategien-fuer-mehr-Gehalt-11068296.html"
     },
     {
-      "title": "Kia Seltos beerbt den NiroKompakt-SUV ohne E-Antrieb",
-      "teaser": "Kia zeigt erste Bilder eines konventionell angetriebenen Kompakt-SUV, der im kommenden Jahr auch nach Europa kommen soll.",
-      "url": "https://www.heise.de/news/Kia-Seltos-beerbt-den-Niro-11109942.html",
-      "image_title": "Kia Seltos"
-    },
-    {
-      "title": "Front geglättet, Batterie vergrößertVorstellung Opel Astra Facelift",
-      "teaser": "Drei Jahre nach dem Start modernisiert Opel seinen Bestseller Astra behutsam. Technisch wie optisch bleiben die Veränderungen gering.",
-      "url": "https://www.heise.de/news/Opel-Astra-Facelift-Front-geglaettet-Batterie-vergroessert-11109501.html",
-      "image_title": "Opel Astra Facelift"
-    },
-    {
       "title": "Kompakter auf Basis des Toyota C-HR+Vorstellung E-SUV Subaru Uncharted",
       "teaser": "Mit dem Uncharted kommt Subarus erstes elektrisches Kompakt-SUV 2026 nach Deutschland. Basis des Konkurrenten für den Skoda Elroq ist der Toyota C-HR+.",
       "url": "https://www.heise.de/news/Elektro-SUV-Subaru-Uncharted-Subaru-kartiert-neue-Geschaeftsfelder-11108971.html",
@@ -749,22 +738,34 @@
       "image_title": "Bolt-Van und mit Stoff verdecktes Stellantis-Fahrzeug"
     },
     {
+      "title": "Shuttle-DienstDie S-Klasse von Mercedes-Benz wird zum Robotaxi",
+      "teaser": "In Abu Dhabi startet ein Shuttle-Dienst mit autonom fahrenden Luxuskarossen. Dabei handelt es sich um Mercedes-Benz' S-Klasse.",
+      "url": "https://www.heise.de/news/Die-S-Klasse-von-Mercedes-Benz-wird-zum-Robotaxi-11108211.html",
+      "image_title": "S-Klasse von Mercedes-Benz als Robotaxi"
+    },
+    {
+      "title": "CEO Zipse geht, Nedeljković kommtBMW: Wechsel an der Spitze",
+      "teaser": "Im Mai 2026 wird es einen Wechsel an der Spitze von BMW geben: Auf Oliver Zipse folgt Milan Nedeljković",
+      "url": "https://www.heise.de/news/BMW-Wechsel-an-der-Spitze-CEO-Zipse-geht-Nedeljkovic-kommt-11108155.html",
+      "image_title": "Milan Nedeljković"
+    },
+    {
+      "title": "Paramount gegen Netflix: Der Kampf um Hollywood",
+      "teaser": "Bieterwettstreit um Warner Bros. Discovery erschüttert Hollywood. Netflix bot 72 Milliarden Dollar, Paramount kontert. Doch Trump könnte alles kippen.",
+      "url": "https://www.heise.de/-11108071",
+      "image_title": "Warner Bros Logo auf einem Gebäude"
+    },
+    {
       "title": "Marine 2035+: Wie Deutschland zur Seemacht aufrüstet",
       "teaser": "Die Zeitenwende umfasst neben den Luft- und Landstreitkräften auch eine massive Aufrüstung der Marine. Welche neue Strategie vorgesehen ist. Eine Analyse.",
       "url": "https://www.heise.de/-11100028",
       "image_title": "Ein Kriegsschiff der deutschen Marine"
     },
     {
-      "title": "Berlin erlaubt heimliche Wohnungseinbrüche für Staatstrojaner",
-      "teaser": "Das Berliner Abgeordnetenhaus hat die Polizeibefugnisse massiv erweitert. CDU, SPD und AfD stimmten dafür. Was bedeutet das für die Privatsphäre der Bürger?",
-      "url": "https://www.heise.de/-11108351",
-      "image_title": "Eine Person vor einem Überwachungsmonitpr"
-    },
-    {
-      "title": "Bundestag lehnt Beschlagnahmung russischer Vermögenswerte ab",
-      "teaser": "Nur 13 Prozent der Abgeordneten stimmten für einen entsprechenden Antrag der Grünen. Auch ein Verbot russischer Geschäfte im Atomsektor fand keine Mehrheit.",
-      "url": "https://www.heise.de/-11105962",
-      "image_title": "Blick auf den Bundestag von innen"
+      "title": "Steigende Speicherpreise: Darum wird Ihr nächster Laptop teurer",
+      "teaser": "Die Speicherknappheit trifft jetzt die PC-Branche mit voller Wucht. Dell und Lenovo kündigen drastische Preiserhöhungen an. Wie lange wird der Engpass dauern?",
+      "url": "https://www.heise.de/-11106153",
+      "image_title": "Eine leere Arbeitsspeicherbank auf einem Mainboard"
     },
     {
       "title": "Digitale Souveränität: Wie Deutschland bei Cybersicherheit hinterherhängt",
