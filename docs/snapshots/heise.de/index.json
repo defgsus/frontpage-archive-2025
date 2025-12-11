@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T21:11:54",
+  "timestamp": "2025-12-11T22:10:27",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Disney beschuldigt Google massiver Copyright-Verletzung mit KI",
+      "url": "https://www.heise.de/news/Generative-KI-Disney-wirft-Google-massive-Copyright-Verletzung-vor-11112691.html"
+    },
     {
       "title": "Deutsche eID-Karte als Geldwäsche-Hilfe kritisiert",
       "url": "https://www.heise.de/news/Deutsche-eID-Karte-als-Geldwaesche-Hilfe-kritisiert-11112667.html"
@@ -62,10 +66,6 @@
     {
       "title": "software-architektur.tv: Modelle und Modularisierung mit Alistair Cockburn",
       "url": "https://www.heise.de/news/software-architektur-tv-Modelle-und-Modularisierung-mit-Alistair-Cockburn-11109697.html"
-    },
-    {
-      "title": "Gutachten: Massive Datenschutzverstöße bei PayPal",
-      "url": "https://www.heise.de/news/PayPal-Gutachten-Viele-Maengel-beim-Datenschutz-11111140.html"
     },
     {
       "title": "GutachtenMassive Datenschutzverstöße bei PayPal",
@@ -187,21 +187,27 @@
       "image_title": "Notepad++ zeigt sein Changelog an"
     },
     {
+      "title": "Disney beschuldigt Google massiver Copyright-Verletzung mit KI",
+      "teaser": "Googles generative KI soll in großem Umfang Disney-Rechte verletzen. Die Ausgaben würden dann auch noch auf Youtube verbreitet. Disney ist sauer.",
+      "url": "https://www.heise.de/news/Generative-KI-Disney-wirft-Google-massive-Copyright-Verletzung-vor-11112691.html",
+      "image_title": "Disney+-Schriftzug auf einem Bildschirm; dahinter kreuzen zwei Schattengestalten Lichtschwerter"
+    },
+    {
       "title": "Deutsche eID-Karte als Geldwäsche-Hilfe kritisiert",
       "teaser": "EWR-Bürger können sich in Deutschland einen elektronischen Ausweis lösen. Laut einer Recherche prüfen aber nicht alle Einwohnermeldeämter ordentlich.",
       "url": "https://www.heise.de/news/Deutsche-eID-Karte-als-Geldwaesche-Hilfe-kritisiert-11112667.html",
       "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich wohl ein Smartphone."
     },
     {
+      "title": "Wenn das Backup unter Beschuss gerät",
+      "teaser": "Moderne Angriffe nutzen Backup-Server, Repositorys oder API-Schnittstellen aus, um Sicherungskopien zu verschlüsseln oder zu löschen. Deshalb muss eine Sicherung mehr als nur Daten erfassen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7119070922&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Broadcoms VMware-Übernahme: EU-Kommission soll Warnsignale ignoriert haben",
       "teaser": "Der Cloud-Verband CISPE greift die EU-Kommission vor Gericht scharf an: Bei der Genehmigung der VMware-Akquisition durch Broadcom habe die Aufsicht versagt.",
       "url": "https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Kommission-soll-Warnsignale-ignoriert-haben-11112591.html",
       "image_title": "Schriftzug \"vmware by Broadcom\" auf einem Smartphone"
-    },
-    {
-      "title": "Wie KI das End-to-End-Testing verändert",
-      "teaser": "End-to-End-Tests in verteilten Systemen werden für QA-Teams immer aufwändiger. Ein KI-gestütztes Testen hilft und bringt kürzere Feedback-Schleifen, eine höhere Testabdeckung und stabilere Releases.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7137094690&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Das beste Mittelklasse-Smartphone mit guter Kamera",
@@ -231,11 +237,6 @@
       "teaser": "Framework ist bei vielen Linux-Fans beliebt. Doch wie schlägt sich der finger- und stiftbedienbare Laptop 12 mit dem freien Betriebssystem?",
       "url": "https://www.heise.de/tests/Linux-auf-dem-Framework-Laptop-12-im-Test-11074922.html",
       "image_title": "Framework steht leicht auffrecht im Tablet-Modus, davor liegt der Stift, auf dem Display sieht man den KDE-Plasma-Desktop von Bazzite"
-    },
-    {
-      "title": "software-architektur.tv: Modelle und Modularisierung mit Alistair Cockburn",
-      "teaser": "Eberhard Wolff und Alistair Cockburn sprechen über Modelle, Modularisierung, Bounded Contexts und Architekturansätze wie Ports and Adapters.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Modelle-und-Modularisierung-mit-Alistair-Cockburn-11109697.html"
     },
     {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
@@ -329,6 +330,11 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "software-architektur.tv: Modelle und Modularisierung mit Alistair Cockburn",
+      "teaser": "Eberhard Wolff und Alistair Cockburn sprechen über Modelle, Modularisierung, Bounded Contexts und Architekturansätze wie Ports and Adapters.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Modelle-und-Modularisierung-mit-Alistair-Cockburn-11109697.html"
+    },
+    {
       "title": "Wendelstein 7-X: Vor zehn Jahren begann die Fusionsforschung in Greifswald",
       "teaser": "Im Dezember 2015 wurde am Wendelstein 7-X erstmals Plasma gezündet. Seither wurden an der Fusionsforschungsanlage in Greifswald diverse Rekorde erzielt.",
       "url": "https://www.heise.de/news/Wendelstein-7-X-Vor-zehn-Jahren-begann-die-Fusionsforschung-in-Greifswald-11112343.html",
@@ -398,14 +404,14 @@
       "image_title": "Wappen des Zoll auf einer Jacke"
     },
     {
-      "title": "Wie sich mit KI verborgene geothermische Energiequellen aufspüren lassen",
-      "teaser": "Standorte für Geothermie sind schwer zu entdecken. Das US-Startup Zanskar hat für die Suche jetzt ein KI-Modell integriert – und das ist schon fündig geworden.",
-      "url": "https://www.heise.de/news/Wie-sich-mit-KI-verborgene-geothermische-Energiequellen-aufspueren-lassen-11112047.html"
-    },
-    {
       "title": "8K, 3D, KI: Wie sich Medien-Workflows beschleunigen lassen",
       "teaser": "8K-Videos, 3D-Formate und der Einsatz von KI machen die Medienproduktion immer anspruchsvoller. Kreative benötigen deshalb leistungsfähige Hardware, die sie bei ihrer Arbeit optimal unterstützt.",
       "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/8k-3d-ki-wie-sich-medien-workflows-beschleunigen-lassen/?source=hbsadersatz"
+    },
+    {
+      "title": "Wie sich mit KI verborgene geothermische Energiequellen aufspüren lassen",
+      "teaser": "Standorte für Geothermie sind schwer zu entdecken. Das US-Startup Zanskar hat für die Suche jetzt ein KI-Modell integriert – und das ist schon fündig geworden.",
+      "url": "https://www.heise.de/news/Wie-sich-mit-KI-verborgene-geothermische-Energiequellen-aufspueren-lassen-11112047.html"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -456,12 +462,6 @@
       "title": "Framework 12 im Test: Reparaturfreundlicher Laptop",
       "teaser": "Frameworks Konzept der leichten Reparierbarkeit und freien Betriebssystemwahl kommt mit dem finger- und stiftbedienbaren Laptop 12 in die Mittelklasse.",
       "url": "https://www.heise.de/tests/Framework-12-im-Test-Reparaturfreundlicher-Laptop-10794860.html"
-    },
-    {
-      "title": "SpaceX-Börsengang: Elon Musk strebt Bewertung von 1,5 Billionen US-Dollar an",
-      "teaser": "SpaceX plant einen Börsengang für die zweite Jahreshälfte 2026. Dabei will das Raumfahrtunternehmen ein Rekordergebnis erzielen.",
-      "url": "https://www.heise.de/news/Boersengang-SpaceX-will-30-Milliarden-US-Dollar-einnehmen-11111687.html",
-      "image_title": "SpacesX-Schriftzug an Gebäude"
     },
     {
       "title": "BSI prüft Passwort-Manager: Einige ermöglichen theoretisch Herstellerzugriff",
@@ -685,6 +685,12 @@
       "image_title": "Arduino Modulino Kette"
     },
     {
+      "title": "Fototour: Sechs Lost Places in Niedersachsen – verlassene Schönheiten im Fokus",
+      "teaser": "Verlassene Heilstätten, leer stehende Gasthäuser und Puppen, die stumm im Wald hängen: „Lost Places“ sind mehr als nur Abenteuer oder bloße Fotokulissen.",
+      "url": "https://www.heise.de/ratgeber/Fototour-Sechs-Lost-Places-in-Niedersachsen-verlassene-Schoenheiten-im-Fokus-11107797.html",
+      "image_title": "Canon EOS 5D IV 50 mm ISO 4000 f/4.0 1/50 s, Alle Bilder: Daniel Boberg"
+    },
+    {
       "title": "Adobe Express, Photoshop, Acrobat in ChatGPT nutzbar",
       "teaser": "Adobe Photoshop, Acrobat und Express lassen sich künftig in ChatGPT nutzen. Nutzer sollen Fotos, Dokumente und Designs per Texteingabe erstellen und bearbeiten.",
       "url": "https://www.heise.de/news/Adobe-Express-Photoshop-Acrobat-in-ChatGPT-nutzbar-11108480.html",
@@ -700,12 +706,6 @@
       "title": "Die Fotobücher des Jahres 2025 im Überblick",
       "teaser": "Die Auswahl an Fotobüchern ist immer wieder beeindruckend. Wir stellen Ihnen die Bücher des Jahres vor, die unsere Redaktion besonders begeistert haben.",
       "url": "https://www.heise.de/ratgeber/Die-Fotobuecher-des-Jahres-2025-im-Ueberblick-11104899.html"
-    },
-    {
-      "title": "Martin Parr gestorben: Chronist der farbigen Alltäglichkeit",
-      "teaser": "Der britische Fotograf Martin Parr prägte die Dokumentarfotografie mit Humor, Farbe und Kritik am Konsum – nun ist er mit 73 Jahren gestorben.",
-      "url": "https://www.heise.de/news/Martin-Parr-gestorben-Chronist-der-farbigen-Alltaeglichkeit-11106086.html",
-      "image_title": "Ein Mann auf einem Stuhl"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -749,22 +749,22 @@
       "image_title": "Auspuffanlage"
     },
     {
+      "title": "EU und Deutschland verschärfen Asylrecht",
+      "teaser": "Abschiebungen werden beschleunigt, \"Rückführungszentren\" in Drittstaaten gebaut und der Pflichtanwalt bei Abschiebehaft abgeschafft.",
+      "url": "https://www.heise.de/-11108233",
+      "image_title": "Symbolbild: Eine Presse in scharz-rot-gold drückt Flüchtlinge an den Bildrand."
+    },
+    {
       "title": "Schwarze Löcher: Die turbulente Umgebung von M87*",
       "teaser": "Das Magnetfeld um das supermassereiche Schwarze Loch M87* hat sich vollständig umgekehrt. Simulationen helfen, solche extremen Bedingungen zu verstehen.",
       "url": "https://www.heise.de/-11110328",
       "image_title": "Leuchtender Ring aus Gasen um eine dunkle kreisförmige Region."
     },
     {
-      "title": "Rente mit 70: Welche Jahrgänge wirklich betroffen wären",
-      "teaser": "Millennials und Gen Z im Fokus: Experten fordern höheres Rentenalter. Doch ab wann würde die Rente mit 70 greifen – und wen träfe es wirklich?",
-      "url": "https://www.heise.de/-11110711",
-      "image_title": "Junges Paar berechnet Rentenansprüche – wann trifft die Rente mit 70 welchen Jahrgang?"
-    },
-    {
-      "title": "Diagnose Krebs: Der Weg durch die ersten wichtigen Entscheidungen",
-      "teaser": "Diese Diagnose erschüttert die Betroffenen zutiefst. Doch fast immer ist Zeit, die nächsten Schritte in Ruhe zu planen. Was ist zuerst zu tun? Ein Ratgeber.",
-      "url": "https://www.heise.de/-11104367",
-      "image_title": "Junge niedergeschlagene Frau im Gespräch mit ihrer Ärztin"
+      "title": "Grüner Wasserstoff: Technologie, Kosten und Zukunft",
+      "teaser": "Grüner Wasserstoff soll Industrie und Verkehr klimaneutral machen. Doch zwischen Vision und Realität liegen Welten. Ein Überblick.",
+      "url": "https://www.heise.de/-11108597",
+      "image_title": "Rote Gasflasche mit der Aufschrift: Wasserstoff"
     },
     {
       "title": "Wie geht digitale Souveränität? Marc-Uwe Kling und sein Känguru erklären es",
