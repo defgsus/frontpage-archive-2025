@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-11T19:11:43",
+  "timestamp": "2025-12-11T20:13:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Broadcoms VMware-Übernahme: EU-Kommission soll Warnsignale ignoriert haben",
+      "url": "https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Kommission-soll-Warnsignale-ignoriert-haben-11112591.html"
+    },
     {
       "title": "Top 10: Das beste Mittelklasse-Smartphone mit guter Kamera",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mittelklasse-smartphone-mit-guter-kamera-im-vergleich/z2jyxsr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -62,10 +66,6 @@
     {
       "title": "Wendelstein 7-X: Vor zehn Jahren begann die Fusionsforschung in Greifswald",
       "url": "https://www.heise.de/news/Wendelstein-7-X-Vor-zehn-Jahren-begann-die-Fusionsforschung-in-Greifswald-11112343.html"
-    },
-    {
-      "title": "KI-Geräte: OpenAI und Jony Ive planen ein „Always-on“-Device",
-      "url": "https://www.heise.de/news/KI-Geraete-OpenAI-und-Jony-Ive-planen-ein-Always-on-Device-11112355.html"
     },
     {
       "title": "GutachtenMassive Datenschutzverstöße bei PayPal",
@@ -187,20 +187,26 @@
       "image_title": "Notepad++ zeigt sein Changelog an"
     },
     {
+      "title": "Broadcoms VMware-Übernahme: EU-Kommission soll Warnsignale ignoriert haben",
+      "teaser": "Der Cloud-Verband CISPE greift die EU-Kommission vor Gericht scharf an: Bei der Genehmigung der VMware-Akquisition durch Broadcom habe die Aufsicht versagt.",
+      "url": "https://www.heise.de/news/Broadcoms-VMware-Uebernahme-EU-Kommission-soll-Warnsignale-ignoriert-haben-11112591.html",
+      "image_title": "Schriftzug \"vmware by Broadcom\" auf einem Smartphone"
+    },
+    {
       "title": "Top 10: Das beste Mittelklasse-Smartphone mit guter Kamera",
       "teaser": "Ein Flaggschiff sprengt das Budget? Dann lohnt sich ein Mittelklasse-Smartphone. Wir zeigen die besten Handys bis 600 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mittelklasse-smartphone-mit-guter-kamera-im-vergleich/z2jyxsr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wie KI das End-to-End-Testing verändert",
+      "teaser": "End-to-End-Tests in verteilten Systemen werden für QA-Teams immer aufwändiger. Ein KI-gestütztes Testen hilft und bringt kürzere Feedback-Schleifen, eine höhere Testabdeckung und stabilere Releases.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7137094690&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Verkehrssicherheit: Elektroautos stellen keine größere Gefahr für Fußgänger dar",
       "teaser": "Weil sie leiser und schwerer sind als Verbrenner, werden Elektroautos als Gefahr für Fußgänger angesehen. Zu Unrecht, sagen Forscher.",
       "url": "https://www.heise.de/news/Verkehrssicherheit-Elektroautos-stellen-keine-groessere-Gefahr-fuer-Fussgaenger-dar-11112607.html",
       "image_title": "Elektroauto in Fahrt"
-    },
-    {
-      "title": "Wenn das Backup unter Beschuss gerät",
-      "teaser": "Moderne Angriffe nutzen Backup-Server, Repositorys oder API-Schnittstellen aus, um Sicherungskopien zu verschlüsseln oder zu löschen. Deshalb muss eine Sicherung mehr als nur Daten erfassen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7119070922&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Gamer-Linux Pop!_OS 24.04 LTS mit neuer Cosmic-Desktop-Umgebung",
@@ -230,12 +236,6 @@
       "teaser": "Im Dezember 2015 wurde am Wendelstein 7-X erstmals Plasma gezündet. Seither wurden an der Fusionsforschungsanlage in Greifswald diverse Rekorde erzielt.",
       "url": "https://www.heise.de/news/Wendelstein-7-X-Vor-zehn-Jahren-begann-die-Fusionsforschung-in-Greifswald-11112343.html",
       "image_title": "Wartungsarbeiten im Plasmagefäß von Wendelstein 7-X in Greifswald (November 2025)"
-    },
-    {
-      "title": "KI-Geräte: OpenAI und Jony Ive planen ein „Always-on“-Device",
-      "teaser": "Ein neues KI-Gerät von OpenAI und Apples Ex-Chefdesigner Jony Ive soll „Always-on“ sein und den Datenschutz wahren. Ein Prototyp zirkuliert bereits.",
-      "url": "https://www.heise.de/news/KI-Geraete-OpenAI-und-Jony-Ive-planen-ein-Always-on-Device-11112355.html",
-      "image_title": "Jony Ive und Sam Altman"
     },
     {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
@@ -329,6 +329,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "KI-Geräte: OpenAI und Jony Ive planen ein „Always-on“-Device",
+      "teaser": "Ein neues KI-Gerät von OpenAI und Apples Ex-Chefdesigner Jony Ive soll „Always-on“ sein und den Datenschutz wahren. Ein Prototyp zirkuliert bereits.",
+      "url": "https://www.heise.de/news/KI-Geraete-OpenAI-und-Jony-Ive-planen-ein-Always-on-Device-11112355.html",
+      "image_title": "Jony Ive und Sam Altman"
+    },
+    {
       "title": "Gar keine Eisriesen? Neptun und Uranus Im Innern womöglich doch eher felsig",
       "teaser": "Die beiden äußersten Planeten des Sonnensystems gelten allgemein als Eisriesen, dabei wissen wir nur wenig über ihr Inneres. Das unterstreicht eine neue Studie.",
       "url": "https://www.heise.de/news/Gar-keine-Eisriesen-Neptun-und-Uranus-Im-Innern-womoeglich-doch-eher-felsig-11112189.html",
@@ -397,15 +403,15 @@
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
+      "title": "Autonome Agenten: Wie KI die Prozessautomatisierung revolutioniert",
+      "teaser": "KI-Agenten planen und lösen komplexe Aufgaben selbständig und systemübergreifend. In der Prozessautomatisierung bringen sie aber auch neue Risiken und höhere Anforderungen an die IT-Infrastruktur mit sich.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/autonome-agenten-wie-ki-die-prozessautomatisierung-revolutioniert/?source=hbsadersatz"
+    },
+    {
       "title": "Anonymisierendes Linux: Tails 7.3.1 pflegt Kern-Programme",
       "teaser": "Das anonymisierende Linux Tails aktualisiert in Version 7.3.1 die wichtigsten Programme. Version 7.3 wurde übersprungen.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-3-1-aktualisiert-Kernkomponenten-11111948.html",
       "image_title": "Desktop von Tails 7.3.1 auf Notebook"
-    },
-    {
-      "title": "KI-Datacenter: offene Standards für mehr Effizienz und Leistung",
-      "teaser": "Leistungsdichte und Energiebedarf von KI-Rechenzentren erfordern neue Hardware-Lösungen. Das Open Compute Project treibt mit offenen Standards die Entwicklung leistungsfähiger Infrastrukturen voran.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/ki-datacenter-offene-standards-fuer-mehr-effizienz-und-leistung/?source=hbsadersatz"
     },
     {
       "title": "Vier In-Ear-Kopfhörer im Test",
@@ -456,12 +462,6 @@
       "teaser": "Die Produktwerker diskutieren in dieser Folge darüber, dass man einiges selbst tun kann, um mehr Product Ownership zu bekommen beziehungsweise zu übernehmen.",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Was-man-selbst-tun-kann-um-mehr-Ownership-zu-erhalten-11105880.html",
       "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "Preiserhöhung bei RTL+: „Menschen sparen eher beim Restaurant oder beim Outfit“",
-      "teaser": "Der Streaming-Dienst von RTL wird wieder teurer: Für das Premium-Abo von RTL+ werden künftig 10 Euro pro Monat fällig.",
-      "url": "https://www.heise.de/news/Streaming-Dienst-RTL-Premium-wird-teurer-11111642.html",
-      "image_title": "Startseite von RTL+"
     },
     {
       "title": "BSI prüft Passwort-Manager: Einige ermöglichen theoretisch Herstellerzugriff",
@@ -633,21 +633,20 @@
       "url": "https://www.heise.de/en/news/Microsoft-Entra-Certificate-Change-Some-Admins-Need-to-Take-Action-11108138.html"
     },
     {
-      "title": "Linux auf dem Framework Laptop 12 im Test",
-      "teaser": "Framework ist bei vielen Linux-Fans beliebt. Doch wie schlägt sich der finger- und stiftbedienbare Laptop 12 mit dem freien Betriebssystem?",
-      "url": "https://www.heise.de/tests/Linux-auf-dem-Framework-Laptop-12-im-Test-11074922.html",
-      "image_title": "Framework steht leicht auffrecht im Tablet-Modus, davor liegt der Stift, auf dem Display sieht man den KDE-Plasma-Desktop von Bazzite"
+      "title": "KaufberatungSo finden Sie die passenden PC-Komponenten für Ihre Anwendungen",
+      "teaser": "PC-Selbstbauer stehen vor einer riesigen Auswahl an CPUs, SSDs und Grafikkarten. Wir geben Tipps, wie Sie die richtigen Teile auswählen.",
+      "url": "https://www.heise.de/ratgeber/Kaufberatung-So-finden-Sie-die-passenden-PC-Komponenten-fuer-Ihre-Anwendungen-10512727.html"
+    },
+    {
+      "title": "PC-Bauvorschlag: High-End-Allrounder mit Ryzen 9000 und Radeon RX 9070 XT",
+      "teaser": "Unser leistungsfähiger, aber leiser Bauvorschlag tritt in zwei Varianten an. Sie können ihn für Gaming, KI-Anwendungen sowie Foto- und Videobearbeitung nutzen.",
+      "url": "https://www.heise.de/ratgeber/PC-Bauvorschlag-High-End-Allrounder-mit-Ryzen-9000-und-Radeon-RX-9070-XT-10735235.html"
     },
     {
       "title": "Teure Speichermodule: Gründe für die extremen RAM-Preise",
       "teaser": "Die Preise für PC-Arbeitsspeicher sind explodiert. Das liegt vor allem, aber nicht nur am extremen RAM-Bedarf von KI-Rechenzentren: Eine Analyse mit Ausblick.",
       "url": "https://www.heise.de/hintergrund/Teure-Speichermodule-Gruende-fuer-die-extremen-RAM-Preise-11109897.html",
       "image_title": "DDR5-Speichermodul"
-    },
-    {
-      "title": "PC-Bauvorschlag: High-End-Allrounder mit Ryzen 9000 und Radeon RX 9070 XT",
-      "teaser": "Unser leistungsfähiger, aber leiser Bauvorschlag tritt in zwei Varianten an. Sie können ihn für Gaming, KI-Anwendungen sowie Foto- und Videobearbeitung nutzen.",
-      "url": "https://www.heise.de/ratgeber/PC-Bauvorschlag-High-End-Allrounder-mit-Ryzen-9000-und-Radeon-RX-9070-XT-10735235.html"
     },
     {
       "title": "Das bringt Ihnen die neue FunktionBluthochdruckwarner in der Apple Watch",
@@ -749,22 +748,22 @@
       "image_title": "Auspuffanlage"
     },
     {
-      "title": "USA beschlagnahmen venezolanischen Öltanker – Caracas spricht von Piraterie",
-      "teaser": "Die USA haben einen Öltanker vor Venezuelas Küste beschlagnahmt. Das Schiff transportierte Öl nach Kuba. Wie weit wird Trump noch eskalieren?",
-      "url": "https://www.heise.de/-11111600",
-      "image_title": "Ein Öltanker auf Hoher See"
+      "title": "Nvidia-Aktie: Warum China die H200-Chips trotz US-Exportfreigabe blockiert",
+      "teaser": "Peking will die US-Chips streng rationieren. Dahinter steckt eine langfristige Strategie, die Nvidia-Chef Huang bereits fürchtet.",
+      "url": "https://www.heise.de/-11110555",
+      "image_title": "Ein Server in der Draufsicht"
     },
     {
-      "title": "Chinas nächster Flugzeugträger: Der Riese von Dalian fordert die US-Navy heraus",
-      "teaser": "China baut seinen ersten Atom-Flugzeugträger. Der Typ 004 soll mit US-Schiffen konkurrieren können. Wird er die maritime Dominanz der USA beenden?",
-      "url": "https://www.heise.de/-11110024",
-      "image_title": "Ein Flugzeugträger in einer Schiffswerft unter freiem Himmel"
+      "title": "\"Indianer-Debatte\": Wie Political Correctness Kulturen und Solidarität schadet",
+      "teaser": "Wer das Wort \"Indianer\" verbannt, beraubt die \"Native Americans\" der Unterstützung – und uns des kritischen Denkens. Aber warum ist das so?",
+      "url": "https://www.heise.de/-11103852",
+      "image_title": "Feder schreibt \"Indianer\" und Radiergummi löscht schon den Wortanfang"
     },
     {
-      "title": "Permanente Erreichbarkeit: Die neue soziale Hölle",
-      "teaser": "Der Terror der permanenten Anwesenheit: Was wir ignorieren und warum ein Verbot sozialer Medien für Jugendliche mehr ist als Bevormundung – eine Analyse.",
-      "url": "https://www.heise.de/-11101509",
-      "image_title": "Von Klammern aufgehaltenes Auge"
+      "title": "48 Prozent Rentenniveau: Eine Garantie, die nichts garantiert",
+      "teaser": "Die SPD feiert die Haltelinie – doch real können Renten trotzdem sinken. Der Grund liegt woanders als in der Demografie. Gastbeitrag.",
+      "url": "https://www.heise.de/-11111588",
+      "image_title": "Ein älteres Paar, das einem Theaterstück bewohnt"
     },
     {
       "title": "Wie geht digitale Souveränität? Marc-Uwe Kling und sein Känguru erklären es",
