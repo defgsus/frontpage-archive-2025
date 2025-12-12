@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T12:21:30",
+  "timestamp": "2025-12-12T13:27:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
+      "title": "Das Paradox der Softwarearchitektur",
+      "teaser": "Die Frage ob Softwarearchitektur eine Kunst, Wissenschaft, Ingenieurwesen oder etwas völlig Neues bezeichnet, treibt die Community schon lange um.",
+      "url": "https://www.heise.de/blog/Das-Paradox-der-Softwarearchitektur-11056593.html",
+      "image_title": "Was ist die Disziplin Softwarearchitektur?"
+    },
+    {
+      "title": "Proaktive IT-Security mit Pentesting: Ethical Hacking für Admins",
+      "teaser": "In fünf Terminen lernen Admins und Security-Verantwortliche ab dem 3. Februar 2026, wie sie mit Ethical Hacking Systeme absichern und Schwachstellen aufdecken.",
+      "url": "https://www.heise.de/news/Proaktive-IT-Security-mit-Pentesting-Ethical-Hacking-fuer-Admins-11111383.html",
+      "image_title": "Ethical Hacking"
+    },
+    {
+      "title": "Salesforce Agentforce 360: KI-Agenten mit Kontext",
+      "teaser": "Salesforce erweitert Agentforce 360 um neue KI-Funktionen, die die Kontextlücke heutiger Agenten schließen sollen. Partner können so eigene Produkte entwickeln.",
+      "url": "https://www.heise.de/news/Salesforce-Agentforce-360-KI-Agenten-mit-Kontext-11113452.html",
+      "image_title": "Salesforce-Logo auf Gebäude"
+    },
+    {
       "title": "DMA: Google droht hohe EU-Geldstrafe wegen Play Store",
       "teaser": "Google könnte Anfang nächsten Jahres mit einer möglicherweise hohen Geldstrafe der EU rechnen, wenn es keine weiteren Anpassungen am Play Store vornimmt.",
       "url": "https://www.heise.de/news/DMA-Google-droht-hohe-EU-Geldstrafe-wegen-Play-Store-11113513.html",
       "image_title": "Google-Play-Store-App auf einem Smartphone"
-    },
-    {
-      "title": "Nach EU-Zwang: Volksbanken bringen eigene iPhone-Zahlungslösung",
-      "teaser": "Die VR-Banking-App erlaubt nun kontaktloses Bezahlen mit der Girocard auf dem iPhone. Der Start erfolgt mit Verzögerung bei ersten Instituten.",
-      "url": "https://www.heise.de/news/Apple-Pay-Ersatz-Volksbanken-starten-NFC-Zahlungen-auf-dem-iPhone-11113380.html",
-      "image_title": "Die VR-Banking-App"
-    },
-    {
-      "title": "Rauchmelder: Hekatron Genius mit Gateway im Test",
-      "teaser": "Rauchmelder retten Leben und schützen Sachwerte. Aber was passiert, wenn niemand zu Hause ist? Hekatrons Gateway sendet den Feueralarm auch aufs Handy.",
-      "url": "https://www.heise.de/tests/Rauchmelder-Hekatron-Genius-mit-Gateway-im-Test-11084626.html"
-    },
-    {
-      "title": "UpdateGroßer Cyberangriff vor der BundestagswahlBundesregierung bestellt Russlands Botschafter ein",
-      "teaser": "Nachdem Russland ein großer Cyberangriff und eine Desinformationskampagne zugeschrieben wurde, wurde der Botschafter einbestellt.",
-      "url": "https://www.heise.de/news/Grosser-Cyberangriff-Bundesregierung-bestellt-Russlands-Botschafter-ein-11113565.html",
-      "image_title": "Moscow,Kremlin,At,Dusk,,Russia.,Panoramic,View,Of,The,Famous"
     },
     {
       "title": "TestsRauchmelder: Hekatron Genius mit Gateway im Test",
@@ -64,6 +65,18 @@
       "title": "Bosch Raumthermostat II 230V mit Zigbee im Test: Fußbodenheizung smart regeln",
       "teaser": "Das smarte Bosch-Thermostat für Fußbodenheizungen findet dank Zigbee direkten Anschluss an Home Assistant. Was es sonst noch bietet, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/bosch-raumthermostat-ii-230v-mit-zigbee-im-test-fussbodenheizung-smart-regeln/1yh6erz?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Nach EU-Zwang: Volksbanken bringen eigene iPhone-Zahlungslösung",
+      "teaser": "Die VR-Banking-App erlaubt nun kontaktloses Bezahlen mit der Girocard auf dem iPhone. Der Start erfolgt mit Verzögerung bei ersten Instituten.",
+      "url": "https://www.heise.de/news/Apple-Pay-Ersatz-Volksbanken-starten-NFC-Zahlungen-auf-dem-iPhone-11113380.html",
+      "image_title": "Die VR-Banking-App"
+    },
+    {
+      "title": "UpdateGroßer Cyberangriff: Bundesregierung bestellt Russlands Botschafter ein",
+      "teaser": "Nachdem Russland ein großer Cyberangriff und eine Desinformationskampagne zugeschrieben wurde, hat die Bundesregierung am Freitag den Botschafter einbestellt.",
+      "url": "https://www.heise.de/news/Grosser-Cyberangriff-Bundesregierung-bestellt-Russlands-Botschafter-ein-11113565.html",
+      "image_title": "Moscow,Kremlin,At,Dusk,,Russia.,Panoramic,View,Of,The,Famous"
     },
     {
       "title": "Mehr als 10.000 Docker-Hub-Images enthalten geheime Zugangsdaten",
@@ -135,17 +148,6 @@
       "teaser": "Sicherheitspatches schließen mehrere Schwachstellen in der Entwicklungsumgebung GitLab.",
       "url": "https://www.heise.de/news/GitLab-Angreifer-koennen-Wiki-Seiten-mit-Malware-anlegen-11112911.html",
       "image_title": "Eine symbolische Update-Erinnerung."
-    },
-    {
-      "title": "Reddit will Social-Media-Verbot in Australien kippen",
-      "teaser": "Die Nutzung sozialer Medien ist in Australien für alle unter 16 Jahren verboten. Viele Online-Plattformen protestieren dagegen. Reddit zieht nun vor Gericht.",
-      "url": "https://www.heise.de/news/Reddit-will-Social-Media-Verbot-in-Australien-kippen-11112958.html",
-      "image_title": "Reddit-Logo auf Smartphone-Bildschirm"
-    },
-    {
-      "title": "Tesla-Rivale Rivian setzt auf Lidar für autonomes Fahren",
-      "teaser": "Tesla verspricht selbstfahrende Autos, VW-Partner Rivian auch. Anders als Musk wollen die Herausforderer dafür aber mehr als nur Kameras nutzen.",
-      "url": "https://www.heise.de/news/Tesla-Rivale-Rivian-setzt-auf-autonomes-Fahren-11112849.html"
     },
     {
       "title": "AlertNewsNotepad++-Updater installierte Malware",
