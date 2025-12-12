@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-12T03:51:52",
+  "timestamp": "2025-12-12T04:24:27",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "GPT-5.2: Neues KI-Modell von OpenAI soll Büroarbeiten besser unterstützen",
+      "url": "https://www.heise.de/news/GPT-5-2-Neues-KI-Modell-von-OpenAI-soll-Bueroarbeiten-besser-unterstuetzen-11112709.html"
+    },
     {
       "title": "Disney beschuldigt Google massiver Copyright-Verletzung mit KI",
       "url": "https://www.heise.de/news/Generative-KI-Disney-wirft-Google-massive-Copyright-Verletzung-vor-11112691.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/tests/Linux-auf-dem-Framework-Laptop-12-im-Test-11074922.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "software-architektur.tv: Modelle und Modularisierung mit Alistair Cockburn",
-      "url": "https://www.heise.de/news/software-architektur-tv-Modelle-und-Modularisierung-mit-Alistair-Cockburn-11109697.html"
     },
     {
       "title": "GutachtenMassive Datenschutzverstöße bei PayPal",
@@ -187,21 +187,27 @@
       "image_title": "Notepad++ zeigt sein Changelog an"
     },
     {
+      "title": "GPT-5.2: Neues KI-Modell von OpenAI soll Büroarbeiten besser unterstützen",
+      "teaser": "Nur einen Monat nach GPT-5.1 kommt ein neues KI-Modell der ChatGPT-Entwickler. GPT-5.2 soll bessere Tabellen, Präsentationen und Code produzieren können.",
+      "url": "https://www.heise.de/news/GPT-5-2-Neues-KI-Modell-von-OpenAI-soll-Bueroarbeiten-besser-unterstuetzen-11112709.html",
+      "image_title": "Ein offener Laptop wird von einer Person mit blauem Hemd bedient; über der Tastatur schweben der Schriftzug ChatGPT und einigen abstrakte Symbole"
+    },
+    {
       "title": "Disney beschuldigt Google massiver Copyright-Verletzung mit KI",
       "teaser": "Googles generative KI soll in großem Umfang Disney-Rechte verletzen. Die Ausgaben würden dann auch noch auf YouTube verbreitet. Disney ist sauer.",
       "url": "https://www.heise.de/news/Generative-KI-Disney-wirft-Google-massive-Copyright-Verletzung-vor-11112691.html",
       "image_title": "Disney+-Schriftzug auf einem Bildschirm; dahinter kreuzen zwei Schattengestalten Lichtschwerter"
     },
     {
+      "title": "KI als Motor von Innovation, Sicherheit und Fortschritt",
+      "teaser": "Beim Elastic AI Executive Circle diskutierten Experten über Innovation, Sicherheit und Verantwortung im KI-Bereich. Man war sich einig: Nicht die Nutzung von KI birgt ein Risiko, sondern der Verzicht.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442303&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Deutsche eID-Karte als Geldwäsche-Hilfe kritisiert",
       "teaser": "EWR-Bürger können sich in Deutschland einen elektronischen Ausweis lösen. Laut einer Recherche prüfen aber nicht alle Einwohnermeldeämter ordentlich.",
       "url": "https://www.heise.de/news/Deutsche-eID-Karte-als-Geldwaesche-Hilfe-kritisiert-11112667.html",
       "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich wohl ein Smartphone."
-    },
-    {
-      "title": "Wenn die menschliche Firewall fällt",
-      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Broadcoms VMware-Übernahme: EU-Kommission soll Warnsignale ignoriert haben",
@@ -233,12 +239,6 @@
       "image_title": "Chip auf Mainboard"
     },
     {
-      "title": "Linux auf dem Framework Laptop 12 im Test",
-      "teaser": "Framework ist bei vielen Linux-Fans beliebt. Doch wie schlägt sich der finger- und stiftbedienbare Laptop 12 mit dem freien Betriebssystem?",
-      "url": "https://www.heise.de/tests/Linux-auf-dem-Framework-Laptop-12-im-Test-11074922.html",
-      "image_title": "Framework steht leicht auffrecht im Tablet-Modus, davor liegt der Stift, auf dem Display sieht man den KDE-Plasma-Desktop von Bazzite"
-    },
-    {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
       "teaser": "Tipps und Tricks, wie man beim Bahnfahren mehr weiß und seltener überrascht wird.",
       "url": "https://www.heise.de/ratgeber/Bahn-Chaos-im-Griff-Strategien-bei-Zugausfall-und-Verspaetung-10991199.html",
@@ -256,17 +256,17 @@
       "url": "https://www.heise.de/hintergrund/Im-Bestandshaus-Warum-Waermepumpen-echte-Alternativen-zu-Oel-Gas-Heizungen-sind-11080753.html"
     },
     {
+      "title": "Notepad++-Updater installierte Malware",
+      "url": "https://www.heise.de/news/Notepad-Updater-installierte-Malware-11109571.html",
+      "image_title": "Notepad++ zeigt sein Changelog an"
+    },
+    {
       "title": "Immer größerer Solarstromanteil erreicht das öffentliche Netz nicht",
-      "url": "https://www.heise.de/news/Immer-mehr-Solarstrom-verbrauchen-die-Photovoltaik-Betreiber-selbst-11105373.html",
-      "image_title": "Worker,Installing,Solar,Energy,Panels.,Alternative,Energy,System.,Eco,Concept"
+      "url": "https://www.heise.de/news/Immer-mehr-Solarstrom-verbrauchen-die-Photovoltaik-Betreiber-selbst-11105373.html"
     },
     {
       "title": "Millionenstrafe gegen X: Musk fordert Abschaffung der EU, Account wird gesperrt",
       "url": "https://www.heise.de/news/Millionenstrafe-gegen-X-Musk-fordert-Abschaffung-der-EU-Account-wird-gesperrt-11105798.html"
-    },
-    {
-      "title": "Arbeitsmarkt für Informatiker: Keine besseren Aussichten",
-      "url": "https://www.heise.de/news/Arbeitsmarkt-fuer-Informatiker-Keine-besseren-Aussichten-11095815.html"
     },
     {
       "title": "Glasfasermodem oder -router: Was rechnet sich mehr für den Glasfaseranschluss?",
@@ -279,8 +279,8 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "BMW iX3 im ersten Fahrbericht: Zumutungen und gehaltene Versprechen",
-      "url": "https://www.heise.de/tests/BMW-iX3-im-ersten-Fahrbericht-Zumutungen-und-gehaltene-Versprechen-11101712.html",
+      "title": "Auswandern nach Polen: Was ITler verdienen, Lebenshaltungskosten und Steuern",
+      "url": "https://www.heise.de/ratgeber/Auswandern-nach-Polen-Was-ITler-verdienen-Lebenshaltungskosten-und-Steuern-10458960.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -328,6 +328,12 @@
       "teaser": "Täglich neue Angebote und Geschenke in 24 Türchen! Jeden Tag wartet ein neues heise-Angebot sowie eine Software-Vollversion zum kostenlosen Download auf Sie. Jetzt Türchen öffnen!",
       "url": "https://www.heise.de/download/blog/Der-heise-Adventskalender-2025-11078286?wt_mc=intern.abo.all.advent25.ho_advt.ad1.ad1",
       "image_title": "heise Adventskalender🎄"
+    },
+    {
+      "title": "Linux auf dem Framework Laptop 12 im Test",
+      "teaser": "Framework ist bei vielen Linux-Fans beliebt. Doch wie schlägt sich der finger- und stiftbedienbare Laptop 12 mit dem freien Betriebssystem?",
+      "url": "https://www.heise.de/tests/Linux-auf-dem-Framework-Laptop-12-im-Test-11074922.html",
+      "image_title": "Framework steht leicht auffrecht im Tablet-Modus, davor liegt der Stift, auf dem Display sieht man den KDE-Plasma-Desktop von Bazzite"
     },
     {
       "title": "software-architektur.tv: Modelle und Modularisierung mit Alistair Cockburn",
@@ -398,15 +404,15 @@
       "image_title": "Smartphone-Bildschirm mit ChatGPT-Icon"
     },
     {
+      "title": "8K, 3D, KI: Wie sich Medien-Workflows beschleunigen lassen",
+      "teaser": "8K-Videos, 3D-Formate und der Einsatz von KI machen die Medienproduktion immer anspruchsvoller. Kreative benötigen deshalb leistungsfähige Hardware, die sie bei ihrer Arbeit optimal unterstützt.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/8k-3d-ki-wie-sich-medien-workflows-beschleunigen-lassen/?source=hbsadersatz"
+    },
+    {
       "title": "Rechnungshof-Kritik: 35 Millionen Euro für kaum genutzte Smartphones beim Zoll",
       "teaser": "Der Bundesrechnungshof hat erneut besseres Haushalten angemahnt. Die Negativbeispiele umfassen teure Smartphones für den Zoll, die nicht wirklich nutzbar waren.",
       "url": "https://www.heise.de/news/Rechnungshof-Kritik-35-Millionen-Euro-fuer-kaum-genutzte-Smartphones-beim-Zoll-11111944.html",
       "image_title": "Wappen des Zoll auf einer Jacke"
-    },
-    {
-      "title": "Cybersicherheit dank KI: Weniger Risiko, mehr Reaktionsfähigkeit",
-      "teaser": "Wie können Unternehmen ihre Cybersicherheit strategisch verbessern? Einzelmaßnahmen reichen oft nicht aus. Erfahren Sie hier, wie ein 360-Grad-Ansatz mit einer KI-basierten Security-Plattform Unternehmen langfristig helfen könnte .",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/ganzheitliche-cybersicherheit-dank-ki-risiken-minimieren-reaktionsfaehigkeit-staerken-4969/?source=hbsad-ersatz"
     },
     {
       "title": "Wie sich mit KI verborgene geothermische Energiequellen aufspüren lassen",
@@ -459,19 +465,14 @@
       "url": "https://www.heise.de/news/secIT-2026-Cybersicherheit-im-Weltraum-KI-knackt-Passwoerter-und-vieles-mehr-11109928.html"
     },
     {
-      "title": "Framework 12 im Test: Reparaturfreundlicher Laptop",
-      "teaser": "Frameworks Konzept der leichten Reparierbarkeit und freien Betriebssystemwahl kommt mit dem finger- und stiftbedienbaren Laptop 12 in die Mittelklasse.",
-      "url": "https://www.heise.de/tests/Framework-12-im-Test-Reparaturfreundlicher-Laptop-10794860.html"
-    },
-    {
       "title": "BSI prüft Passwort-Manager: Einige ermöglichen theoretisch Herstellerzugriff",
       "url": "https://www.heise.de/news/BSI-prueft-Passwort-Manager-Einige-ermoeglichen-theoretisch-Herstellerzugriff-11108570.html",
       "image_title": "Zugangsdaten-Eingabefelder"
     },
     {
-      "title": "IT-Selbstständige unter Druck: Aufträge brechen massiv ein",
-      "url": "https://www.heise.de/news/Freelancer-Kompass-IT-Branche-mit-23-Prozent-Auftragsrueckgang-11108309.html",
-      "image_title": "Müder Mann vor einem Laptop"
+      "title": "AlertChrome-Update stopft attackierte Sicherheitslücke",
+      "url": "https://www.heise.de/news/Chrome-Update-stopft-attackierte-Sicherheitsluecke-11111189.html",
+      "image_title": "Verzerrtes Chrome-Logo und Achtung-Schild vor Matrix-Zeichenregen-Hintergrund"
     },
     {
       "title": "Glasfaser: Monopolkommission warnt vor Rückkehr alter Machtverhältnisse",
@@ -488,9 +489,14 @@
       "image_title": "Links zwei Blasen um eine Gaswolke, rechts eine helle Explosion"
     },
     {
-      "title": "AIS-Ausfälle bei Putins Schattenflotte verdoppelt",
-      "url": "https://www.heise.de/news/Russische-Schattenflotte-AIS-Manipulation-hat-sich-verdoppelt-11109030.html",
-      "image_title": "Schiff zur Inspektion von Unterwasserkabeln vor Sonnenuntergang"
+      "title": "Elektronischer Streichelzoo: Kinder streicheln \"Booboo\"-Roboter-Meerschweinchen",
+      "url": "https://www.heise.de/news/Elekronischer-Streichelzoo-Kinder-streicheln-Booboo-Roboter-Meerschweinchen-11111183.html",
+      "image_title": "Kinder und Erwachsene sitzen in einem Raum und streicheln Roboter-Meerschweinchen."
+    },
+    {
+      "title": "Notfälle: Android-Geräte können Live-Videos mit Rettungsdiensten teilen",
+      "url": "https://www.heise.de/news/Android-Google-ermoeglicht-Live-Video-Streaming-an-Notrufzentralen-11111268.html",
+      "image_title": "Bild von einem Smartphone, das auf dem Bildschirm einen auf die Straße gefallenen Baum zeigt"
     },
     {
       "title": "Markenrechte von X aufgegeben: Neues soziales Netzwerk soll „Twitter“ heißen",
@@ -503,14 +509,8 @@
       "image_title": "Liquid Glass in iOS 26"
     },
     {
-      "title": "Kleiner E-Book-Reader nimmt Smartphones huckepack",
-      "url": "https://www.heise.de/news/Kleiner-E-Book-Reader-nimmt-Smartphones-huckepack-11109140.html",
-      "image_title": "Mann hält einen E-Book-Reader in der Hand"
-    },
-    {
-      "title": "Siedler-Erfinder Wertich liefert mit „Pioneers of Pagonia“ ab",
-      "url": "https://www.heise.de/news/Pioneers-of-Pagonia-Wuseln-wundern-wirtschaften-11108645.html",
-      "image_title": "Screenshot aus Pioneers of Pagonia"
+      "title": "HBO Max gibt weitere Details zum deutschen Angebot bekannt",
+      "url": "https://www.heise.de/news/HBO-Max-gibt-weitere-Details-zum-deutschen-Angebot-bekannt-11111463.html"
     },
     {
       "title": "„Routine“ im Test: Im Weltraum hört dich jeder laufen",
@@ -518,14 +518,14 @@
       "image_title": "Screenshot aus Routine"
     },
     {
-      "title": "Opel Astra Facelift: Front geglättet, Batterie vergrößert",
-      "url": "https://www.heise.de/news/Opel-Astra-Facelift-Front-geglaettet-Batterie-vergroessert-11109501.html",
-      "image_title": "Opel Astra Facelift"
+      "title": "Preiserhöhung bei RTL+: „Menschen sparen eher beim Restaurant oder beim Outfit“",
+      "url": "https://www.heise.de/news/Streaming-Dienst-RTL-Premium-wird-teurer-11111642.html",
+      "image_title": "Startseite von RTL+"
     },
     {
-      "title": "Die Hyperscaler gewinnen immer – ein Kommentar zur Speicherkrise",
-      "url": "https://www.heise.de/meinung/Die-Hyperscaler-gewinnen-immer-ein-Kommentar-zur-Speicherkrise-11108585.html",
-      "image_title": "Mehrere bunt funkelnde Wafer in einer Plastikhalterung"
+      "title": "Europäische Temu-Büros durchsucht",
+      "url": "https://www.heise.de/news/Europaeische-Temu-Bueros-durchsucht-11111085.html",
+      "image_title": "Einkaufswagen mit Temu-Website auf einem Laptop und auf dem Smartphone im Hintergrund"
     },
     {
       "title": "3D-Druck: Start-up erzeugt preiswerte Streichinstrumente mit Studioklangqualität",
@@ -533,28 +533,23 @@
       "image_title": "3D-gedrucktes Cello"
     },
     {
-      "title": "Ford: Zwei günstige E-Autos auf Basis von Renault",
-      "url": "https://www.heise.de/news/Ford-Zwei-guenstige-E-Autos-auf-Basis-von-Renault-11107801.html",
-      "image_title": "Ford Capri"
+      "title": "Kupferdiebe verursachen teils große Schäden im Norden",
+      "url": "https://www.heise.de/news/Kupferdiebe-verursachen-teils-grosse-Schaeden-im-Norden-11111218.html",
+      "image_title": "Ladesäule in Hamburg"
     },
     {
       "title": "DNS-Überwachung: Verfassungsgericht stoppt gerichtliche Anordnungen",
       "url": "https://www.heise.de/news/Beschwerde-Karlsruhe-stoppt-umstrittene-DNS-Ueberwachung-einstweilig-11109302.html"
     },
     {
-      "title": "On-Prem: Microsofts umfangreiche Erweiterung von Azure Local",
-      "url": "https://www.heise.de/news/On-Prem-Microsofts-umfangreiche-Erweiterung-von-Azure-Local-11108625.html",
-      "image_title": "USA und Europa mit Flaggen, Schild in der Mitte"
+      "title": "Microsofts Souveränitäts-Debakel: Zwischen \"blumiger Werbung\" und \"keine Panik\"",
+      "url": "https://www.heise.de/news/Microsofts-Souveraenitaets-Debakel-Zwischen-blumiger-Werbung-und-keine-Panik-10495023.html",
+      "image_title": "USA, EU"
     },
     {
-      "title": "Berlin: Polizei darf Wohnungen zur Staatstrojaner-Installation heimlich betreten",
-      "url": "https://www.heise.de/news/Berlin-Polizei-darf-Wohnungen-zur-Staatstrojaner-Installation-heimlich-betreten-11103253.html",
-      "image_title": "Gesichtserkennungs-KI im Einsatz"
-    },
-    {
-      "title": "Linux-Kernel: Rust-Support offiziell abgesegnet",
-      "url": "https://www.heise.de/news/Linux-Kernel-Rust-Support-offiziell-abgesegnet-11109733.html",
-      "image_title": "Linux-Pinguin Tux mit Rust-Logo vor abstraktem Hintergrund"
+      "title": "KI-Training: Normalsprachlicher Nutzungsvorbehalt reicht OLG Hamburg nicht",
+      "url": "https://www.heise.de/news/KI-Training-Normalsprachlicher-Nutzungsvorbehalt-reicht-OLG-Hamburg-nicht-11111489.html",
+      "image_title": "Justizia."
     },
     {
       "title": "Porsche in Russland: Autos lassen sich nicht starten",
@@ -562,9 +557,14 @@
       "image_title": "Portland,,Or,,Usa,December,8,,2023,Porsche,356,Coupe,Parked"
     },
     {
-      "title": "Mittwoch: Facebook-Redesign nach IG-Vorbild, Pebble-Ring für kurze Sprachnotizen",
-      "url": "https://www.heise.de/news/Mittwoch-Facebook-Redesign-nach-IG-Vorbild-Pebble-Ring-fuer-kurze-Sprachnotizen-11109491.html",
-      "image_title": "Hand hält Lupe über Facebook-Logo auf der Anmeldeseite; Mittwoch: Facebook-Redesign, Pebble-Minimalismus, Google-Video-Editor, Schiffsverkehr-Risiko & Social-Media-Negativpreis"
+      "title": "Linux-Kernel: Rust-Support offiziell abgesegnet",
+      "url": "https://www.heise.de/news/Linux-Kernel-Rust-Support-offiziell-abgesegnet-11109733.html",
+      "image_title": "Linux-Pinguin Tux mit Rust-Logo vor abstraktem Hintergrund"
+    },
+    {
+      "title": "AIS-Ausfälle bei Putins Schattenflotte verdoppelt",
+      "url": "https://www.heise.de/news/Russische-Schattenflotte-AIS-Manipulation-hat-sich-verdoppelt-11109030.html",
+      "image_title": "Schiff zur Inspektion von Unterwasserkabeln vor Sonnenuntergang"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -621,28 +621,16 @@
       "image_title": "Notepad++ displays its changelog"
     },
     {
-      "title": "ESTA: USA wants to check social media accounts of European travelers as well",
-      "url": "https://www.heise.de/en/news/ESTA-USA-wants-to-check-social-media-accounts-of-European-travelers-as-well-11109526.html"
+      "title": "Berlin: Police can secretly enter homes for state trojan installation",
+      "url": "https://www.heise.de/en/news/Berlin-Police-can-secretly-enter-homes-for-state-trojan-installation-11103284.html"
     },
     {
       "title": "Goodbye, Microsoft: Schleswig-Holstein relies on Open Source and saves millions",
       "url": "https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html"
     },
     {
-      "title": "Microsoft Entra: Certificate Change – Some Admins Need to Take Action",
-      "url": "https://www.heise.de/en/news/Microsoft-Entra-Certificate-Change-Some-Admins-Need-to-Take-Action-11108138.html"
-    },
-    {
-      "title": "Teure Speichermodule: Gründe für die extremen RAM-Preise",
-      "teaser": "Die Preise für PC-Arbeitsspeicher sind explodiert. Das liegt vor allem, aber nicht nur am extremen RAM-Bedarf von KI-Rechenzentren: Eine Analyse mit Ausblick.",
-      "url": "https://www.heise.de/hintergrund/Teure-Speichermodule-Gruende-fuer-die-extremen-RAM-Preise-11109897.html",
-      "image_title": "DDR5-Speichermodul"
-    },
-    {
-      "title": "Linux auf dem Framework Laptop 12 im Test",
-      "teaser": "Framework ist bei vielen Linux-Fans beliebt. Doch wie schlägt sich der finger- und stiftbedienbare Laptop 12 mit dem freien Betriebssystem?",
-      "url": "https://www.heise.de/tests/Linux-auf-dem-Framework-Laptop-12-im-Test-11074922.html",
-      "image_title": "Framework steht leicht auffrecht im Tablet-Modus, davor liegt der Stift, auf dem Display sieht man den KDE-Plasma-Desktop von Bazzite"
+      "title": "ESTA: USA wants to check social media accounts of European travelers as well",
+      "url": "https://www.heise.de/en/news/ESTA-USA-wants-to-check-social-media-accounts-of-European-travelers-as-well-11109526.html"
     },
     {
       "title": "KaufberatungSo finden Sie die passenden PC-Komponenten für Ihre Anwendungen",
@@ -650,15 +638,25 @@
       "url": "https://www.heise.de/ratgeber/Kaufberatung-So-finden-Sie-die-passenden-PC-Komponenten-fuer-Ihre-Anwendungen-10512727.html"
     },
     {
+      "title": "Android-Smartphone Motorola Edge 70 im Test",
+      "teaser": "Motorola probiert sich an einem sehr flachen Smartphone, treibt den Schlankheitswahn aber nicht auf die Spitze. Gut so, das Edge 70 ist so alltagstauglicher.",
+      "url": "https://www.heise.de/tests/Android-Smartphone-Motorola-Edge-70-im-Test-11087921.html"
+    },
+    {
+      "title": "Interview: Warum Deutschlands größte Behörde ihre Abhängigkeit von MS reduziert",
+      "teaser": "Die Bundesagentur für Arbeit nutzt Microsoft Office und Teams, will aber unabhängiger von dem US-Konzern werden. Warum, erklärt CIO Stefan Latuski im Interview.",
+      "url": "https://www.heise.de/hintergrund/Interview-Warum-Deutschlands-groesste-Behoerde-ihre-Abhaengigkeit-von-MS-reduziert-11072445.html"
+    },
+    {
       "title": "Das bringt Ihnen die neue FunktionBluthochdruckwarner in der Apple Watch",
       "teaser": "Hypertonie ist eine oft erst spät entdeckte Volkskrankheit. Die Apple Watch soll das ändern. Wir zeigen, wie gut es funktioniert – und die Einschränkungen.",
       "url": "https://www.heise.de/tests/Bluthochdruckwarner-in-der-Apple-Watch-So-arbeitet-die-neue-Funktion-11090317.html"
     },
     {
-      "title": "So arbeiten Sie mit dem kostenlosen MuseScoreNotensatz leicht gemacht: Liedblatt erstellen",
-      "teaser": "Die Notationssoftware Finale hat der Entwickler eingestellt, Sibelius ist teuer – aber das kostenlose MuseScore hilft. Wir zeigen, wie es geht.",
-      "url": "https://www.heise.de/ratgeber/Notensatz-leicht-gemacht-So-arbeiten-Sie-mit-MuseScore-11079973.html",
-      "image_title": "Piano mit Liedblatt"
+      "title": "Startklar ohne Apples ProgrammstarterSo geht's ohne Launchpad in macOS 26",
+      "teaser": "macOS 26 Tahoe streicht den Programmstarter Launchpad und bietet nur noch eine simplere Ansicht in Spotlight. Acht Tipps, wie es trotzdem weitergeht.",
+      "url": "https://www.heise.de/ratgeber/Startklar-ohne-Launchpad-So-geht-s-ohne-Apples-Programmstarter-in-macOS-26-11091702.html",
+      "image_title": "Launchpad mit Bordmitteln ersetzen: Wie geht das?"
     },
     {
       "title": "FAQ zu Apple HealthSo nutzen Sie Apples Gesundheitsfunktionen",
@@ -737,16 +735,16 @@
       "image_title": "Stau"
     },
     {
-      "title": "Kupferdiebe verursachen teils große Schäden im Norden",
-      "teaser": "Diebe schneiden immer wieder Ladekabel an Schnellladesäulen für E-Autos ab und stehlen sie. Meist schlagen die Täter nachts auf verlassenen Parkplätzen zu.",
-      "url": "https://www.heise.de/news/Kupferdiebe-verursachen-teils-grosse-Schaeden-im-Norden-11111218.html",
-      "image_title": "Ladesäule in Hamburg"
-    },
-    {
       "title": "„Klimafreundlicheres Tanken“Gesetzentwurf der Bundesregierung",
       "teaser": "Die Bundesregierung will Treibhausgase im Verkehrssektor senken. Dafür wurden verschiedene Maßnahmen in einen Gesetzentwurf eingebracht.",
       "url": "https://www.heise.de/news/Bundesregierung-legt-Gesetzentwurf-fuer-klimafreundlicheres-Tanken-vor-11110924.html",
       "image_title": "Auspuffanlage"
+    },
+    {
+      "title": "Kia Seltos beerbt den NiroKompakt-SUV ohne E-Antrieb",
+      "teaser": "Kia zeigt erste Bilder eines konventionell angetriebenen Kompakt-SUV, der im kommenden Jahr auch nach Europa kommen soll.",
+      "url": "https://www.heise.de/news/Kia-Seltos-beerbt-den-Niro-11109942.html",
+      "image_title": "Kia Seltos"
     },
     {
       "title": "48 Prozent Rentenniveau: Eine Garantie, die nichts garantiert",
@@ -755,16 +753,16 @@
       "image_title": "Ein älteres Paar, das einem Theaterstück bewohnt"
     },
     {
-      "title": "Grüner Wasserstoff: Technologie, Kosten und Zukunft",
-      "teaser": "Grüner Wasserstoff soll Industrie und Verkehr klimaneutral machen. Doch zwischen Vision und Realität liegen Welten. Ein Überblick.",
-      "url": "https://www.heise.de/-11108597",
-      "image_title": "Rote Gasflasche mit der Aufschrift: Wasserstoff"
+      "title": "USA beschlagnahmen venezolanischen Öltanker – Caracas spricht von Piraterie",
+      "teaser": "Die USA haben einen Öltanker vor Venezuelas Küste beschlagnahmt. Das Schiff transportierte Öl nach Kuba. Wie weit wird Trump noch eskalieren?",
+      "url": "https://www.heise.de/-11111600",
+      "image_title": "Ein Öltanker auf Hoher See"
     },
     {
-      "title": "Chinas nächster Flugzeugträger: Der Riese von Dalian fordert die US-Navy heraus",
-      "teaser": "China baut seinen ersten Atom-Flugzeugträger. Der Typ 004 soll mit US-Schiffen konkurrieren können. Wird er die maritime Dominanz der USA beenden?",
-      "url": "https://www.heise.de/-11110024",
-      "image_title": "Ein Flugzeugträger in einer Schiffswerft unter freiem Himmel"
+      "title": "\"Jetzt. Wohin\" – Der Film über Robert Habeck: Rechthaben genügt nicht",
+      "teaser": "Der Gott der Grünen und sein Fall: Lars Jessens sehenswerter Dokumentarfilm über Robert Habeck ist nicht nur interessanter Journalismus.",
+      "url": "https://www.heise.de/-11111280",
+      "image_title": "Habeck in einem Stuhl - Filmbild"
     },
     {
       "title": "Wie geht digitale Souveränität? Marc-Uwe Kling und sein Känguru erklären es",
