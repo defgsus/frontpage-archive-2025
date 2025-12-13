@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T10:09:56",
+  "timestamp": "2025-12-13T11:08:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Warum die Elektromobilität nur langsam abhebt",
+      "url": "https://www.heise.de/hintergrund/Warum-die-Elektromobilitaet-nur-langsam-abhebt-11114367.html"
+    },
     {
       "title": "100 Jahre „Panzerkreuzer Potemkin“: Zwischen Zensur und popkultureller Umdeutung",
       "url": "https://www.heise.de/tests/100-Jahre-Panzerkreuzer-Potemkin-Zwischen-Zensur-und-popkultureller-Umdeutung-11079334.html",
@@ -64,10 +68,6 @@
     {
       "title": "iOS 26.2 & Co zum Download bereit: Updates für alle Apple-Betriebssysteme",
       "url": "https://www.heise.de/news/iOS-26-2-Co-zum-Download-bereit-Updates-fuer-alle-Apple-Betriebssysteme-11107348.html"
-    },
-    {
-      "title": "Nach fast 12 Jahren: „Star Citizen“ bekommt wieder einen VR-Modus",
-      "url": "https://www.heise.de/news/Nach-fast-12-Jahren-Star-Citizen-bekommt-wieder-einen-VR-Modus-11114157.html"
     },
     {
       "title": "ChipfertigungChina verbessert seine 7-Nanometer-Technik weiter",
@@ -213,20 +213,26 @@
       "url": "https://www.heise.de/news/Den-optimalen-PC-2026-selbst-bauen-c-t-uplink-11113571.html"
     },
     {
+      "title": "Warum die Elektromobilität nur langsam abhebt",
+      "teaser": "Die Stromerzahlen steigen, allerdings langsamer als einst erwartet. Das ist ein Problem für Autokonzerne und EU. Woran es liegt.",
+      "url": "https://www.heise.de/hintergrund/Warum-die-Elektromobilitaet-nur-langsam-abhebt-11114367.html",
+      "image_title": "Symbol auf einem Parkplatz für Elektroautos."
+    },
+    {
       "title": "100 Jahre „Panzerkreuzer Potemkin“: Zwischen Zensur und popkultureller Umdeutung",
       "teaser": "Zensiert, restauriert und jüngst von den Pet Shop Boys revisioniert, stellt Eisensteins Jahrhundertfilm noch heute wichtige Fragen über Macht und Manipulation.",
       "url": "https://www.heise.de/tests/100-Jahre-Panzerkreuzer-Potemkin-Zwischen-Zensur-und-popkultureller-Umdeutung-11079334.html"
+    },
+    {
+      "title": "KI als Motor von Innovation, Sicherheit und Fortschritt",
+      "teaser": "Beim Elastic AI Executive Circle diskutierten Experten über Innovation, Sicherheit und Verantwortung im KI-Bereich. Man war sich einig: Nicht die Nutzung von KI birgt ein Risiko, sondern der Verzicht.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442303&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
       "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11090556.html",
       "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
-    },
-    {
-      "title": "Die „Legacy-Falle“ umgehen, ohne den Betrieb zu gefährden",
-      "teaser": "IT-Beschäftigte stehen vor einem Dilemma: Der Aufwand für Legacy-Systeme, Support-Verträge und Patch-Management lässt kaum Raum für Modernisierung. Die Lösung: Da „Run“-Betrieb an Partner übergeben.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7160913073&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Weihnachtsgeschenke für Kinder: Lern-Gadgets im Test",
@@ -255,12 +261,6 @@
       "teaser": "Die Weltraumsimulation „Star Citizen“ hat einen experimentellen VR-Modus erhalten und es sieht so aus, als meint es das Studio ernst mit der VR-Unterstützung.",
       "url": "https://www.heise.de/news/Nach-fast-12-Jahren-Star-Citizen-bekommt-wieder-einen-VR-Modus-11114157.html",
       "image_title": "Eine Figur steht auf einem kargen Planeten neben einem eleganten Raumschiff."
-    },
-    {
-      "title": "Schweiz: Kartellbehörde prüft Apples NFC-Zugangsbedingungen",
-      "teaser": "Die Schweizer Wettbewerbskommission prüft, ob Apple Drittanbieter beim kontaktlosen Bezahlen unfair benachteiligt.",
-      "url": "https://www.heise.de/news/Schweiz-Kartellbehoerde-prueft-Apples-NFC-Zugangsbedingungen-11114103.html",
-      "image_title": "Verschwommenes iPhone"
     },
     {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
@@ -355,6 +355,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "Schweiz: Kartellbehörde prüft Apples NFC-Zugangsbedingungen",
+      "teaser": "Die Schweizer Wettbewerbskommission prüft, ob Apple Drittanbieter beim kontaktlosen Bezahlen unfair benachteiligt.",
+      "url": "https://www.heise.de/news/Schweiz-Kartellbehoerde-prueft-Apples-NFC-Zugangsbedingungen-11114103.html",
+      "image_title": "Verschwommenes iPhone"
+    },
+    {
       "title": "AMS-IX kehrt den USA den Rücken",
       "teaser": "AMS-IX, einer der größten Internet-Knoten, zieht sich aus den USA zurück. Worauf sich der Fokus jetzt verlagert und wie der DE-CIX die Lage in den USA bewertet.",
       "url": "https://www.heise.de/news/AMS-IX-kehrt-den-USA-den-Ruecken-11114084.html"
@@ -424,15 +430,15 @@
       "image_title": "Ethical Hacking"
     },
     {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
+    },
+    {
       "title": "EU: 3 Euro Pauschal-Zoll auf Pakete bis 150 Euro ab 2026",
       "teaser": "Die EU erhöht im Kampf gegen Billigimporte die Kosten. Ab Juli 2026 wird jedes Paket bis 150 Euro mit drei Euro Abgabe belegt.",
       "url": "https://www.heise.de/news/EU-beschliesst-Pauschal-Zoll-von-3-Euro-auf-Pakete-mit-geringem-Warenwert-11113789.html",
       "image_title": "Pakete auf einem Laufband"
-    },
-    {
-      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
-      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
     },
     {
       "title": "36 Geschenketipps der c’t-Redaktion zu Weihnachten 2025",
@@ -485,12 +491,6 @@
       "teaser": "Wackelige US-Datentransfers, kontroverse EuGH-Urteile, Datenomnibus, und vieles mehr. Im c't-Datenschutz-Podcast ziehen wir eine kritische Jahresbilanz.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-Jahresrueckblick-Datenschutz-unter-Beschuss-11113304.html",
       "image_title": "Anna Cardillo (links), Holger Bleich (rechts), Joerg Heidrich (unten)"
-    },
-    {
-      "title": "\"Die schrecklichste Zeit des Jahres\": McDonald’s entfernt KI-Weihnachtswerbespot",
-      "teaser": "Ein weihnachtlicher Werbespot von McDonald’s Niederlande auf YouTube ist nach hinten losgegangen – auch, weil er mit KI generiert wurde.",
-      "url": "https://www.heise.de/news/McDonald-s-entfernt-umstrittenen-KI-Weihnachtswerbespot-auf-YouTube-11113290.html",
-      "image_title": "Elektrischer Funkenschlag beim Einstöpseln einer Weihnachtsbaumlichterkette."
     },
     {
       "title": "Apple verteilt neue Firmware für AirPods Pro 2 und Pro 3",
@@ -663,20 +663,19 @@
       "url": "https://www.heise.de/en/news/Apple-rolls-out-new-firmware-for-AirPods-Pro-2-and-3-11113413.html"
     },
     {
+      "title": "c’t uplinkDen optimalen PC 2026 selbst bauen",
+      "teaser": "In dieser Folge des c’t uplink gehts um die neuen c’t-Bauvorschläge für PCs, wie sie entstanden sind und was sie können.",
+      "url": "https://www.heise.de/news/Den-optimalen-PC-2026-selbst-bauen-c-t-uplink-11113571.html"
+    },
+    {
+      "title": "Podcast-Mikrofon im Test: Rauschende Knisterdose Shure MV6",
+      "teaser": "Shure ist bekannt für sein Radiomikrofon SM7B. Das USB-Mikrofon M6V verspricht ähnlich guten Klang für einen Bruchteil des Preises. Kann das klappen?",
+      "url": "https://www.heise.de/tests/Podcast-Mikrofon-im-Test-Rauschende-Knisterdose-Shure-MV6-11098961.html"
+    },
+    {
       "title": "Game-Streaming via GeForce NOW auf Steam Deck ausprobiert",
       "teaser": "GeForce NOW bringt High-End-Grafik auf Low-End-Hardware. Wir haben den Online-Dienst auf dem Steam Deck getestet und geben Tipps für optimale Bildqualität.",
       "url": "https://www.heise.de/ratgeber/Game-Streaming-via-GeForce-NOW-auf-Steam-Deck-ausprobiert-11091260.html"
-    },
-    {
-      "title": "Teure SpeichermoduleDas sind die Gründe für die extremen RAM-Preise",
-      "teaser": "Die Preise für PC-Arbeitsspeicher sind explodiert. Das liegt vor allem am extremen RAM-Bedarf von KI-Rechenzentren: Eine Analyse.",
-      "url": "https://www.heise.de/hintergrund/Teure-Speichermodule-Gruende-fuer-die-extremen-RAM-Preise-11109897.html",
-      "image_title": "DDR5-Speichermodul"
-    },
-    {
-      "title": "100 Jahre „Panzerkreuzer Potemkin“Zwischen Zensur und popkultureller Umdeutung",
-      "teaser": "Eisensteins Jahrhundertfilm stellt noch heute wichtige Fragen über Macht und Manipulation.",
-      "url": "https://www.heise.de/tests/100-Jahre-Panzerkreuzer-Potemkin-Zwischen-Zensur-und-popkultureller-Umdeutung-11079334.html"
     },
     {
       "title": "Startklar ohne Apples ProgrammstarterSo geht's ohne Launchpad in macOS 26",
@@ -775,22 +774,22 @@
       "image_title": "Elektroauto in Fahrt"
     },
     {
-      "title": "\"All I want for Christmas...\": Vorsicht bei der betrieblichen Weihnachtsfeier!",
-      "teaser": "Weihnachtsfeiern bergen Risiken für Arbeitnehmer. Regeln des Arbeitsalltags gelten auch dort. Was passiert, wenn man zu weit geht?",
-      "url": "https://www.heise.de/-11108237",
-      "image_title": "Kündigungsschreiben kommt aus Nikolausmütze"
+      "title": "Eingefrorene russische Gelder: EU braucht die Mittel auch zur Kredittilgung",
+      "teaser": "EU plant Nutzung russischer Gelder für Ukraine-Kredit. Großteil flösse in Rüstung, nicht Wiederaufbau. Deutschland soll 52 Milliarden Euro garantieren.",
+      "url": "https://www.heise.de/-11110442",
+      "image_title": "Zwei Männer im Anzug an einem Geländer"
     },
     {
-      "title": "Rheinmetalls Skyranger schießt 6.000-Euro-Munition auf 500-Euro-Drohnen",
-      "teaser": "Ukraine-Krieg: FPV-Drohnen erzwingen neue Abwehrsysteme. USA, Russland und Deutschland testen automatisierte Waffenstationen. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11112954",
-      "image_title": "Geschützturm, der auf eine Drohne schießt. Grafik im Comicstil."
+      "title": "48 Prozent Rentenniveau: Eine Garantie, die nichts garantiert",
+      "teaser": "Die SPD feiert die Haltelinie – doch real können Renten trotzdem sinken. Der Grund liegt woanders als in der Demografie. Gastbeitrag.",
+      "url": "https://www.heise.de/-11111588",
+      "image_title": "Ein älteres Paar, das einem Theaterstück bewohnt"
     },
     {
-      "title": "Chinas nächster Flugzeugträger: Der Riese von Dalian fordert die US-Navy heraus",
-      "teaser": "China baut seinen ersten Atom-Flugzeugträger. Der Typ 004 soll mit US-Schiffen konkurrieren können. Wird er die maritime Dominanz der USA beenden?",
-      "url": "https://www.heise.de/-11110024",
-      "image_title": "Ein Flugzeugträger in einer Schiffswerft unter freiem Himmel"
+      "title": "Türkei und Ungarn hebeln Europas Energiekurs aus",
+      "teaser": "Orbán sichert sich Russlands Gas-Transit trotz EU-Verbot – und verlegt den Pipeline-Betreiber kurzerhand nach Budapest.",
+      "url": "https://www.heise.de/-11113559",
+      "image_title": "Pipeline mit Farben Ungarns, Russlands und der Tütkei"
     },
     {
       "title": "Mit der richtigen Schrift bis zu 35 Prozent schneller lesen",
