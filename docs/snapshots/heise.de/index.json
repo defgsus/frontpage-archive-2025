@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-13T17:08:32",
+  "timestamp": "2025-12-13T18:13:57",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Attacken von APT28 und Co.: Was die Bundesregierung Russland vorwirft",
+      "url": "https://www.heise.de/news/Attacken-von-APT28-und-Co-Was-die-Bundesregierung-Russland-vorwirft-11114473.html"
+    },
     {
       "title": "Für 1,6 Milliarden: Intel will wohl SambaNova übernehmen",
       "url": "https://www.heise.de/news/Intels-Uebernahme-von-SambaNova-fuer-1-6-Milliarden-wohl-kurz-vor-Abschluss-11114449.html"
@@ -66,10 +70,6 @@
       "url": "https://www.heise.de/tests/100-Jahre-Panzerkreuzer-Potemkin-Zwischen-Zensur-und-popkultureller-Umdeutung-11079334.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
-      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11090556.html"
     },
     {
       "title": "Cyberangriffe und Desinformation\"Der Russe war es\" reicht nicht",
@@ -214,20 +214,26 @@
       "url": "https://www.heise.de/news/Den-optimalen-PC-2026-selbst-bauen-c-t-uplink-11113571.html"
     },
     {
+      "title": "Attacken von APT28 und Co.: Was die Bundesregierung Russland vorwirft",
+      "teaser": "Falschnachrichten, Fake-Videos und eine Cyberattacke: Die Bundesregierung ordnet Russland hybride Angriffe unter anderem auf den Bundestagswahlkampf zu.",
+      "url": "https://www.heise.de/news/Attacken-von-APT28-und-Co-Was-die-Bundesregierung-Russland-vorwirft-11114473.html",
+      "image_title": "Fake,News,Written,In,Red,On,A,Backlit,Laptop,Keyboard"
+    },
+    {
       "title": "Für 1,6 Milliarden: Intel will wohl SambaNova übernehmen",
       "teaser": "Mehreren US-Berichten zufolge ist der Deal fast abgeschlossen: Intel will das Startup für KI-Chips vollständig kaufen.",
       "url": "https://www.heise.de/news/Intels-Uebernahme-von-SambaNova-fuer-1-6-Milliarden-wohl-kurz-vor-Abschluss-11114449.html",
       "image_title": "Intel-Schriftzug auf einem Chip"
     },
     {
+      "title": "KI als Motor von Innovation, Sicherheit und Fortschritt",
+      "teaser": "Beim Elastic AI Executive Circle diskutierten Experten über Innovation, Sicherheit und Verantwortung im KI-Bereich. Man war sich einig: Nicht die Nutzung von KI birgt ein Risiko, sondern der Verzicht.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442303&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Ottocast Mini Cube im Test: Carplay und Android Auto kabellos",
       "teaser": "Winzig, vielseitig, günstig: Der neue Ottocast Mini Cube rüstet die Funktion Carplay und Android Auto drahtlos nach.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ottocast-mini-cube-im-test-wireless-adapter-fuer-carplay-und-android-auto/6npqwpg?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Wie KI das End-to-End-Testing verändert",
-      "teaser": "End-to-End-Tests in verteilten Systemen werden für QA-Teams immer aufwändiger. Ein KI-gestütztes Testen hilft und bringt kürzere Feedback-Schleifen, eine höhere Testabdeckung und stabilere Releases.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7137094690&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Nextcloud mit Apps erweitern: Fotoverwaltung, Aufgaben, Notizen und Kochbuch",
@@ -255,12 +261,6 @@
       "title": "100 Jahre „Panzerkreuzer Potemkin“: Zwischen Zensur und popkultureller Umdeutung",
       "teaser": "Zensiert, restauriert und jüngst von den Pet Shop Boys revisioniert, stellt Eisensteins Jahrhundertfilm noch heute wichtige Fragen über Macht und Manipulation.",
       "url": "https://www.heise.de/tests/100-Jahre-Panzerkreuzer-Potemkin-Zwischen-Zensur-und-popkultureller-Umdeutung-11079334.html"
-    },
-    {
-      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
-      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11090556.html",
-      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
     },
     {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
@@ -355,6 +355,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
+      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11090556.html",
+      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+    },
+    {
       "title": "Weihnachtsgeschenke für Kinder: Lern-Gadgets im Test",
       "teaser": "Coden und experimentieren statt glotzen und zocken: Wir haben Roboter und Baukästen getestet, mit denen Kinder spielerisch MINT-Themen erkunden.",
       "url": "https://www.heise.de/ratgeber/Roboter-und-Baukaesten-Lern-Gadgets-fuer-Kinder-ausprobiert-10642803.html"
@@ -423,15 +429,15 @@
       "image_title": "Screenshot von Xournal++"
     },
     {
+      "title": "KI-Datacenter: offene Standards für mehr Effizienz und Leistung",
+      "teaser": "Leistungsdichte und Energiebedarf von KI-Rechenzentren erfordern neue Hardware-Lösungen. Das Open Compute Project treibt mit offenen Standards die Entwicklung leistungsfähiger Infrastrukturen voran.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/ki-datacenter-offene-standards-fuer-mehr-effizienz-und-leistung/?source=hbsadersatz"
+    },
+    {
       "title": "Entwicklungsumgebung Eclipse IDE 2025-12: Java 25, JUnit 6, Multi-Release-JAR",
       "teaser": "Das neue Quartals-Release der Open-Source-IDE unterstützt Programmieren mit den neuesten Sprachversionen: Java 25 inklusive JUnit 6, TypeScript 5.9 und PHP 8.5.",
       "url": "https://www.heise.de/news/Entwicklungsumgebung-Eclipse-IDE-2025-12-Java-25-JUnit-6-Multi-Release-JAR-11113811.html",
       "image_title": "Eclipse IDE 2025-12 Splashscreen"
-    },
-    {
-      "title": "KI-Datacenter: offene Standards für mehr Effizienz und Leistung",
-      "teaser": "Leistungsdichte und Energiebedarf von KI-Rechenzentren erfordern neue Hardware-Lösungen. Das Open Compute Project treibt mit offenen Standards die Entwicklung leistungsfähiger Infrastrukturen voran.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/ki-datacenter-offene-standards-fuer-mehr-effizienz-und-leistung/?source=hbsadersatz"
     },
     {
       "title": "Laser Limbo: Deutsches Mixed-Reality-Spiel für Meta Quest",
@@ -484,12 +490,6 @@
       "teaser": "Salesforce erweitert Agentforce 360 um neue KI-Funktionen, die die Kontextlücke heutiger Agenten schließen sollen. Partner können so eigene Produkte entwickeln.",
       "url": "https://www.heise.de/news/Salesforce-Agentforce-360-KI-Agenten-mit-Kontext-11113452.html",
       "image_title": "Salesforce-Logo auf Gebäude"
-    },
-    {
-      "title": "DMA: Google droht hohe EU-Geldstrafe wegen Play Store",
-      "teaser": "Google könnte Anfang nächsten Jahres mit einer möglicherweise hohen Geldstrafe der EU rechnen, wenn es keine weiteren Anpassungen am Play Store vornimmt.",
-      "url": "https://www.heise.de/news/DMA-Google-droht-hohe-EU-Geldstrafe-wegen-Play-Store-11113513.html",
-      "image_title": "Google-Play-Store-App auf einem Smartphone"
     },
     {
       "title": "Falscher Druckertoner: Amazon und Brother gewinnen Prozess",
@@ -576,9 +576,9 @@
       "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich wohl ein Smartphone."
     },
     {
-      "title": "KI in der Psychotherapie: Nutzung steigt, Sorgen wachsen",
-      "url": "https://www.heise.de/news/KI-in-der-Psychotherapie-Nutzung-steigt-Sorgen-wachsen-11113104.html",
-      "image_title": "Zwei Personen, die sich im Gespräch gegenüber sitzen"
+      "title": "DMA: Google droht hohe EU-Geldstrafe wegen Play Store",
+      "url": "https://www.heise.de/news/DMA-Google-droht-hohe-EU-Geldstrafe-wegen-Play-Store-11113513.html",
+      "image_title": "Google-Play-Store-App auf einem Smartphone"
     },
     {
       "title": "BSI prüft Passwort-Manager: Einige ermöglichen theoretisch Herstellerzugriff",
@@ -662,19 +662,19 @@
       "url": "https://www.heise.de/en/news/Apple-rolls-out-new-firmware-for-AirPods-Pro-2-and-3-11113413.html"
     },
     {
+      "title": "c’t-Story: Das neue Modell",
+      "teaser": "In fast jeder IT-Abteilung gibt es diese speziellen Kollegen, die einfach neugieriger sind als andere. Gelegentlich erlebt man mit ihnen haarsträubende Dinge.",
+      "url": "https://www.heise.de/hintergrund/c-t-Story-Das-neue-Modell-11060412.html"
+    },
+    {
+      "title": "c’t uplinkDen optimalen PC 2026 selbst bauen",
+      "teaser": "In dieser Folge des c’t uplink gehts um die neuen c’t-Bauvorschläge für PCs, wie sie entstanden sind und was sie können.",
+      "url": "https://www.heise.de/news/Den-optimalen-PC-2026-selbst-bauen-c-t-uplink-11113571.html"
+    },
+    {
       "title": "Game-Streaming via GeForce NOW auf Steam Deck ausprobiert",
       "teaser": "GeForce NOW bringt High-End-Grafik auf Low-End-Hardware. Wir haben den Online-Dienst auf dem Steam Deck getestet und geben Tipps für optimale Bildqualität.",
       "url": "https://www.heise.de/ratgeber/Game-Streaming-via-GeForce-NOW-auf-Steam-Deck-ausprobiert-11091260.html"
-    },
-    {
-      "title": "Videostreaming: Übernahme von Warner Bros. Discover, Start von HBO Max",
-      "teaser": "Während hierzulande der Start von HBO Max bevorsteht, tobt ein Milliardenpoker um den Mutterkonzern, dessen Ausgang die Streamingwelt verändern wird.",
-      "url": "https://www.heise.de/hintergrund/Videostreaming-Uebernahme-von-Warner-Bros-Discover-Start-von-HBO-Max-11102461.html"
-    },
-    {
-      "title": "100 Jahre „Panzerkreuzer Potemkin“Zwischen Zensur und popkultureller Umdeutung",
-      "teaser": "Eisensteins Jahrhundertfilm stellt noch heute wichtige Fragen über Macht und Manipulation.",
-      "url": "https://www.heise.de/tests/100-Jahre-Panzerkreuzer-Potemkin-Zwischen-Zensur-und-popkultureller-Umdeutung-11079334.html"
     },
     {
       "title": "Startklar ohne Apples ProgrammstarterSo geht's ohne Launchpad in macOS 26",
@@ -773,22 +773,22 @@
       "image_title": "Elektroauto in Fahrt"
     },
     {
-      "title": "Nasa verliert Kontakt zu Mars-Orbiter Maven",
-      "teaser": "Seit dem 6. Dezember schweigt die Raumsonde Maven. Die Nasa untersucht die Ursachen für den Kommunikationsabbruch mit dem wichtigen Mars-Orbiter.",
-      "url": "https://www.heise.de/-11111681",
-      "image_title": "Eine Sonde im Marsorbit"
+      "title": "Schwarze Löcher: Die turbulente Umgebung von M87*",
+      "teaser": "Das Magnetfeld um das supermassereiche Schwarze Loch M87* hat sich vollständig umgekehrt. Simulationen helfen, solche extremen Bedingungen zu verstehen.",
+      "url": "https://www.heise.de/-11110328",
+      "image_title": "Leuchtender Ring aus Gasen um eine dunkle kreisförmige Region."
     },
     {
-      "title": "Börsengänge 2026: Raumfahrt, Rekorde, Risiken",
-      "teaser": "Nicht nur SpaceX plant für 2026 einen Börsengang. Doch die extremen Bewertungen wecken Erinnerungen an die Dotcom-Blase. Wer drängt außerdem noch an die Börse?",
-      "url": "https://www.heise.de/-11112026",
-      "image_title": "Menschen in einem großen Saal voller elektronischer SAnzeigetafeln und Computerbildschirmen"
+      "title": "Rente mit ETFs: Für wen sich die staatliche Förderung wirklich lohnt",
+      "teaser": "Verbraucherschützer warnt: Beim Altersvorsorgedepot könnte die Förderung zur Steuerfalle werden – ungeförderte ETFs bringen oft mehr.",
+      "url": "https://www.heise.de/-11114422",
+      "image_title": "Infografik-/Foto-Szene: Sparen, Einkommen, Rendite und Ruhestand im Zusammenhang mit dem geplanten Altersvorsorgedepot."
     },
     {
-      "title": "Entmenschlichung als Strategie: Amerikas jahrhundertealte Kriegsrhetorik",
-      "teaser": "Neues Buch zeigt, dass die Geschichte vom \"Narko-Boot\" altbekannt ist. Die USA haben schon immer bestimmt, wer vom Gesetz ausgeschlossen wird. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/-11113245",
-      "image_title": "Eine Person blickt auf eine Explosion in einem Ort"
+      "title": "Türkei und Ungarn hebeln Europas Energiekurs aus",
+      "teaser": "Orbán sichert sich Russlands Gas-Transit trotz EU-Verbot – und verlegt den Pipeline-Betreiber kurzerhand nach Budapest.",
+      "url": "https://www.heise.de/-11113559",
+      "image_title": "Pipeline mit Farben Ungarns, Russlands und der Tütkei"
     },
     {
       "title": "Mit der richtigen Schrift bis zu 35 Prozent schneller lesen",
