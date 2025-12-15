@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-15T12:23:12",
+  "timestamp": "2025-12-15T13:33:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,24 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: LLMs lokal mit eigenen Daten betreiben und Prozesse automatisieren",
+      "url": "https://www.heise.de/news/iX-Workshop-Unternehmensprozesse-mit-Multi-Agenten-Systemen-automatisieren-11107559.html"
+    },
+    {
+      "title": "„Gefährlich nahe“: Starlink-Satellit angeblich knapp einer Kollision entgangen",
+      "url": "https://www.heise.de/news/Gefaehrlich-nahe-Starlink-Satellit-angeblich-knapp-einer-Kollision-entgangen-11115249.html"
+    },
+    {
+      "title": "BSI checkt E-Mail-Programme",
+      "url": "https://www.heise.de/news/BSI-checkt-E-Mail-Programme-11115384.html"
+    },
+    {
+      "title": "Game-Streaming via GeForce NOW auf Steam Deck ausprobiert",
+      "url": "https://www.heise.de/ratgeber/Game-Streaming-via-GeForce-NOW-auf-Steam-Deck-ausprobiert-11091260.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
     {
       "title": "Pentest-Linux Kali 2025.4 mit neuen Desktops, Wayland und Halloween-Modus",
       "url": "https://www.heise.de/news/Pentest-Linux-Kali-2025-4-mit-neuen-Desktops-Wayland-und-Halloween-Modus-11115229.html"
@@ -54,28 +72,10 @@
       "url": "https://www.heise.de/news/Rollender-Roboter-Steppenlaeufer-nutzt-Wind-zur-Fortbewegung-und-fliegt-11114961.html"
     },
     {
-      "title": "Gartner-Prognosen: KI macht denkfaul und schafft neue Abhängigkeiten",
-      "url": "https://www.heise.de/news/Gartner-Prognosen-KI-macht-denkfaul-und-schafft-neue-Abhaengigkeiten-11114957.html"
-    },
-    {
-      "title": "Streamingsoftware: Wie man Music Assistant installiert und einrichtet",
-      "url": "https://www.heise.de/ratgeber/Streamingsoftware-Wie-man-Music-Assistant-installiert-und-einrichtet-11076137.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Google integriert KI in Translate und erweitert Lerntool",
-      "url": "https://www.heise.de/news/Google-integriert-KI-in-Translate-und-erweitert-Lerntool-11114965.html"
-    },
-    {
-      "title": "Das ändert sich für Autofahrer 2026",
-      "url": "https://www.heise.de/ratgeber/Das-aendert-sich-fuer-Autofahrer-2026-11072578.html"
-    },
-    {
-      "title": "Zoff in BayernMilliardenauftrag an Microsoft ohne Ausschreibung",
-      "teaser": "Das Open-Source-Lager, Informatiker und IT-Wirtschaft fordern den Stopp der Microsoft-Verhandlungen.",
-      "url": "https://www.heise.de/news/Cloud-Zoff-in-Bayern-wegen-Milliardenauftrag-an-Microsoft-ohne-Ausschreibung-11114453.html",
-      "image_title": "Microsoft-Schild an dunklem Gebäude"
+      "title": "BSI checkt E-Mail-Programme",
+      "teaser": "Das Bundesamt für Sicherheit in der Informationstechnik hat getestet, wie sicher E-Mail-Programme sind. Die sind offenbar ok.",
+      "url": "https://www.heise.de/news/BSI-checkt-E-Mail-Programme-11115384.html",
+      "image_title": "E-Mail-Hologramm"
     },
     {
       "title": "KaufberatungWallboxen für bidirektionales Laden",
@@ -84,10 +84,10 @@
       "image_title": "Elektroauto lädt an bidrektionaler Wallbox"
     },
     {
-      "title": "MTVAb Januar ganz ohne Musikvideos",
-      "teaser": "In der Nacht zum 1. Januar 2026 ist Schluss, dann läuft das letzte Musikvideo bei MTV Germany.",
-      "url": "https://www.heise.de/news/MTV-ab-Januar-ganz-ohne-Musikvideos-11114658.html",
-      "image_title": "Screenshot aus einem Musikvideo von November Rain."
+      "title": "Chinesischer RaketenstartStarlink-Satellit wohl knapp einer Kollision entgangen",
+      "teaser": "Vor wenigen Tagen ist ein neu gestarteter Satellit vergleichsweise knapp an einem Starlink-Satelliten vorbeigerast. SpaceX übt Kritik.",
+      "url": "https://www.heise.de/news/Gefaehrlich-nahe-Starlink-Satellit-angeblich-knapp-einer-Kollision-entgangen-11115249.html",
+      "image_title": "Generiertes Satellitenbild der Erde, mit teilen in der Nacht"
     },
     {
       "title": "Wärme auf KnopfdruckWas Infrarotstrahler als Zusatzheizung leisten",
@@ -102,16 +102,16 @@
       "image_title": "Kia EV6 GT-Line"
     },
     {
+      "title": "Zoff in BayernMilliardenauftrag an Microsoft ohne Ausschreibung",
+      "teaser": "Das Open-Source-Lager, Informatiker und IT-Wirtschaft fordern den Stopp der Microsoft-Verhandlungen.",
+      "url": "https://www.heise.de/news/Cloud-Zoff-in-Bayern-wegen-Milliardenauftrag-an-Microsoft-ohne-Ausschreibung-11114453.html",
+      "image_title": "Microsoft-Schild an dunklem Gebäude"
+    },
+    {
       "title": "StaubsaugerroboteriRobot ist insolvent, Zulieferer Picea übernimmt Geschäft",
       "teaser": "Der Staubsaugerroboterhersteller iRobot hat Insolvenz angemeldet. Retten soll ihn der chinesische Zulieferer Picea.",
       "url": "https://www.heise.de/news/iRobot-ist-insolvent-chinesischer-Zulieferer-Picea-uebernimmt-Geschaeft-11114819.html",
       "image_title": "Roomba-Staubsaugerroboter von iRobot in Wohnzimmer"
-    },
-    {
-      "title": "Patchday-ProblemMessage-Queuing-Störungen in Windows 10, Server 2016 und 2019",
-      "teaser": "Die Sicherheitsupdates im Dezember stören das Message Queuing in Windows 10, Server 2016 und 2019. Fehlermeldungen sind die Folge.",
-      "url": "https://www.heise.de/news/Patchday-Problem-Message-Queuing-Stoerungen-in-Windows-10-Server-2016-und-2019-11114815.html",
-      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
       "title": "KaufberatungPassende PC-Komponenten für Ihre Anwendungen finden",
@@ -158,10 +158,10 @@
       "image_title": "Laptop mit Code-Zeilen"
     },
     {
-      "title": "Roblox-Sperre in RusslandImmer mehr Kritik und erste Proteste auf der Straße",
-      "teaser": "Für öffentliche Kritik am Staat gibt es in Russland so gut wie keinen Raum. Trotzdem wird die Kritik an der Roblox-Blockade lauter.",
-      "url": "https://www.heise.de/news/Roblox-Sperre-in-Russland-Immer-mehr-Kritik-und-erste-Proteste-auf-der-Strasse-11114877.html",
-      "image_title": "Roblox-Logo auf einem Smartphone"
+      "title": "MTVAb Januar ganz ohne Musikvideos",
+      "teaser": "In der Nacht zum 1. Januar 2026 ist Schluss, dann läuft das letzte Musikvideo bei MTV Germany.",
+      "url": "https://www.heise.de/news/MTV-ab-Januar-ganz-ohne-Musikvideos-11114658.html",
+      "image_title": "Screenshot aus einem Musikvideo von November Rain."
     },
     {
       "title": "UpdateDer heise Adventskalender 2025Jeden Tag Angebote, Geschenke & Gewinnspiele",
@@ -174,10 +174,16 @@
       "url": "https://www.heise.de/ratgeber/Guenstiger-Waermepumpen-Strom-So-halten-Sie-die-Energiekosten-klein-11088824.html"
     },
     {
-      "title": "Verbrenner-Ende in NeuwagenÖkonomen warnen vor Aufweichung von Zielen",
-      "teaser": "Am 16. Dezember soll das Aus des kompletten Verbrenner-Aus verkündet werden. Doch schon jetzt gibt es an diesem Vorhaben reichlich Kritik.",
-      "url": "https://www.heise.de/news/Verbrenner-Ende-in-Neuwagen-Oekonomen-warnen-vor-Aufweichung-von-Zielen-11114809.html",
-      "image_title": "VW ID.3 Pure"
+      "title": "Patchday-ProblemMessage-Queuing-Störungen in Windows 10, Server 2016 und 2019",
+      "teaser": "Die Sicherheitsupdates im Dezember stören das Message Queuing in Windows 10, Server 2016 und 2019. Fehlermeldungen sind die Folge.",
+      "url": "https://www.heise.de/news/Patchday-Problem-Message-Queuing-Stoerungen-in-Windows-10-Server-2016-und-2019-11114815.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
+    },
+    {
+      "title": "Roblox-Sperre in RusslandImmer mehr Kritik und erste Proteste auf der Straße",
+      "teaser": "Für öffentliche Kritik am Staat gibt es in Russland so gut wie keinen Raum. Trotzdem wird die Kritik an der Roblox-Blockade lauter.",
+      "url": "https://www.heise.de/news/Roblox-Sperre-in-Russland-Immer-mehr-Kritik-und-erste-Proteste-auf-der-Strasse-11114877.html",
+      "image_title": "Roblox-Logo auf einem Smartphone"
     },
     {
       "title": "\"Rücksichtslose\" CyberattackenGroßbritannien geht gegen Akteure aus China vor",
@@ -186,10 +192,20 @@
       "image_title": "Netzwerkgeräte, im Vordergrund eine chinesische Flagge"
     },
     {
-      "title": "UpdateiOS 26.2 & Co zum Download bereitUpdates für Apple-Betriebssysteme",
-      "teaser": "Die Apple-Updates stopfen attackierte Lücken und bringen Bugfixes sowie teils Änderungen auf Anordnung der EU-Kommission.",
-      "url": "https://www.heise.de/news/iOS-26-2-Co-zum-Download-bereit-Updates-fuer-alle-Apple-Betriebssysteme-11107348.html",
-      "image_title": "Person hält iPhone in der Hand."
+      "title": "iX-Workshop: LLMs lokal mit eigenen Daten betreiben und Prozesse automatisieren",
+      "teaser": "Lernen Sie, wie Sie LLMs lokal ausführen, für spezifische Einsatzzwecke im Unternehmen konfigurieren und Prozesse mit Multi-Agenten-Systemen automatisieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Unternehmensprozesse-mit-Multi-Agenten-Systemen-automatisieren-11107559.html",
+      "image_title": "iX-Workshop: Generative KI nach Maß"
+    },
+    {
+      "title": "Game-Streaming via GeForce NOW auf Steam Deck ausprobiert",
+      "teaser": "GeForce NOW bringt High-End-Grafik auf Low-End-Hardware. Wir haben den Online-Dienst auf dem Steam Deck getestet und geben Tipps für optimale Bildqualität.",
+      "url": "https://www.heise.de/ratgeber/Game-Streaming-via-GeForce-NOW-auf-Steam-Deck-ausprobiert-11091260.html"
+    },
+    {
+      "title": "KI als Motor von Innovation, Sicherheit und Fortschritt",
+      "teaser": "Beim Elastic AI Executive Circle diskutierten Experten über Innovation, Sicherheit und Verantwortung im KI-Bereich. Man war sich einig: Nicht die Nutzung von KI birgt ein Risiko, sondern der Verzicht.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442303&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Pentest-Linux Kali 2025.4 mit neuen Desktops, Wayland und Halloween-Modus",
@@ -202,11 +218,6 @@
       "teaser": "VW verrät erste Details zur technischen Ausstattung des ID. Polo. Daraus lässt sich einiges ableiten, auch für die kommenden Ableger von anderen Marken.",
       "url": "https://www.heise.de/news/VW-ID-Polo-Technik-erklaert-Ein-Baukasten-fuer-die-Kleinen-11106964.html",
       "image_title": "VW ID. Polo GTI"
-    },
-    {
-      "title": "Wenn die menschliche Firewall fällt",
-      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Microsoft-Cloud-Security: Drei kostenlose Tools, die jeder Admin kennen sollte",
@@ -231,17 +242,6 @@
       "teaser": "Roboter Hermes hat einen Steppenläufer als Vorbild und wird von Wind angetrieben. Der Roboter funktioniert sogar noch effizienter als das biologische Vorbild.",
       "url": "https://www.heise.de/news/Rollender-Roboter-Steppenlaeufer-nutzt-Wind-zur-Fortbewegung-und-fliegt-11114961.html",
       "image_title": "Steppenläuferoboter neben seinem biologischen Pendant"
-    },
-    {
-      "title": "Gartner-Prognosen: KI macht denkfaul und schafft neue Abhängigkeiten",
-      "teaser": "Gartner prognostiziert gravierende Umbrüche durch KI: von KI als Zauberer über neue Abhängigkeiten bis zu Milliardenkosten durch Regulierung.",
-      "url": "https://www.heise.de/news/Gartner-Prognosen-KI-macht-denkfaul-und-schafft-neue-Abhaengigkeiten-11114957.html",
-      "image_title": "Frau schaut im Museum Gemälde mit Roboterhand und Menschenhand an"
-    },
-    {
-      "title": "Streamingsoftware: Wie man Music Assistant installiert und einrichtet",
-      "teaser": "Music Assistant vereinfacht das Streaming, indem es verschiedene Anbieter und Lautsprecher unter einer Oberfläche vereint.",
-      "url": "https://www.heise.de/ratgeber/Streamingsoftware-Wie-man-Music-Assistant-installiert-und-einrichtet-11076137.html"
     },
     {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
@@ -336,6 +336,17 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "Gartner-Prognosen: KI macht denkfaul und schafft neue Abhängigkeiten",
+      "teaser": "Gartner prognostiziert gravierende Umbrüche durch KI: von KI als Zauberer über neue Abhängigkeiten bis zu Milliardenkosten durch Regulierung.",
+      "url": "https://www.heise.de/news/Gartner-Prognosen-KI-macht-denkfaul-und-schafft-neue-Abhaengigkeiten-11114957.html",
+      "image_title": "Frau schaut im Museum Gemälde mit Roboterhand und Menschenhand an"
+    },
+    {
+      "title": "Streamingsoftware: Wie man Music Assistant installiert und einrichtet",
+      "teaser": "Music Assistant vereinfacht das Streaming, indem es verschiedene Anbieter und Lautsprecher unter einer Oberfläche vereint.",
+      "url": "https://www.heise.de/ratgeber/Streamingsoftware-Wie-man-Music-Assistant-installiert-und-einrichtet-11076137.html"
+    },
+    {
       "title": "Google integriert KI in Translate und erweitert Lerntool",
       "teaser": "Google will Übersetzungen mit Gemini in Translate verbessern. Ferner bringt Google Live-Übersetzungen für alle Kopfhörer und das Lerntool nach Deutschland.",
       "url": "https://www.heise.de/news/Google-integriert-KI-in-Translate-und-erweitert-Lerntool-11114965.html",
@@ -357,6 +368,12 @@
       "title": "Von Kika bis Youtube Kids: So sicher sind Streaming-Dienste für Kinder",
       "teaser": "Die Kinder im Feiertagsstress kurz mit einer Serie zu beschäftigen, klingt verlockend. Wir erklären, wie Sie für ein altersgerechtes Programm sorgen.",
       "url": "https://www.heise.de/ratgeber/Von-Kika-bis-Youtube-Kids-So-sicher-sind-Streaming-Dienste-fuer-Kinder-10617636.html"
+    },
+    {
+      "title": "Verbrenner-Ende in Neuwagen: Ökonomen warnen vor Aufweichung von Zielen",
+      "teaser": "Am 16. Dezember soll das Aus des kompletten Verbrenner-Aus verkündet werden. Doch schon jetzt gibt es an diesem Vorhaben reichlich Kritik.",
+      "url": "https://www.heise.de/news/Verbrenner-Ende-in-Neuwagen-Oekonomen-warnen-vor-Aufweichung-von-Zielen-11114809.html",
+      "image_title": "VW ID.3 Pure"
     },
     {
       "title": "Bahn-Chaos im Griff: Strategien bei Zugausfall und Verspätung",
@@ -393,6 +410,11 @@
       "image_title": "Mann am Rechner mit Kreditkarte"
     },
     {
+      "title": "KI-Datacenter: offene Standards für mehr Effizienz und Leistung",
+      "teaser": "Leistungsdichte und Energiebedarf von KI-Rechenzentren erfordern neue Hardware-Lösungen. Das Open Compute Project treibt mit offenen Standards die Entwicklung leistungsfähiger Infrastrukturen voran.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/ki-datacenter-offene-standards-fuer-mehr-effizienz-und-leistung/?source=hbsadersatz"
+    },
+    {
       "title": "Montag: Musikvideos am Ende nach MTV-Verzicht, Kritik an Bayerns M365-Auftrag",
       "teaser": "MTV ohne Musikvideos + Microsoft-Milliardenauftrag umstritten + Zuständigkeiten bei Fakenews-Kampagnen + Briten gegen Chinas Cyberangreifer + Technik des E-Polo",
       "url": "https://www.heise.de/news/Montag-Musikvideos-am-Ende-nach-MTV-Verzicht-Kritik-an-Bayerns-M365-Auftrag-11114743.html",
@@ -408,12 +430,6 @@
       "title": "Top 10: Carplay & Android Auto nachrüsten – das beste Display",
       "teaser": "Kann man Android Auto und Apple Carplay nachrüsten? Die Lösung sind portable Auto-Displays. Wir zeigen die besten Modelle.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-carplay-nachruesten-das-beste-display-fuer-iphone-und-android-auto-im-test/xns29ee?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
-      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
-      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
     },
     {
       "title": "36 Geschenketipps der c’t-Redaktion zu Weihnachten 2025",
@@ -454,22 +470,9 @@
       "image_title": "Zwei orangefarbene Lautsprecher mit blauen Membranen links und rechts von einem orangefarbenen Sofa, auf dem eine Person sitzt, umgeben von bunten Schallwellen."
     },
     {
-      "title": "Mehrheit für Social-Media-Verbot für unter 16-Jährige",
-      "teaser": "In Australien gilt jetzt das weltweit erste Social-Media-Verbot für Kinder und Jugendliche unter 16 Jahren. Auch in Deutschland befürworten das viele.",
-      "url": "https://www.heise.de/news/Mehrheit-fuer-Social-Media-Verbot-fuer-unter-16-Jaehrige-11114564.html",
-      "image_title": "Teenagers,Covering,Their,Faces,With,Social,Media,Icons"
-    },
-    {
-      "title": "Teure Speichermodule: Gründe für die extremen RAM-Preise",
-      "teaser": "Die Preise für PC-Arbeitsspeicher sind explodiert. Das liegt vor allem, aber nicht nur am extremen RAM-Bedarf von KI-Rechenzentren: Eine Analyse mit Ausblick.",
-      "url": "https://www.heise.de/hintergrund/Teure-Speichermodule-Gruende-fuer-die-extremen-RAM-Preise-11109897.html",
-      "image_title": "DDR5-Speichermodul"
-    },
-    {
-      "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
-      "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11104876.html",
-      "image_title": "iX-Workshop: Cyberabwehr mit Microsoft Defender XDR"
+      "title": "UpdateiOS 26.2 & Co zum Download bereit: Updates für alle Apple-Betriebssysteme",
+      "url": "https://www.heise.de/news/iOS-26-2-Co-zum-Download-bereit-Updates-fuer-alle-Apple-Betriebssysteme-11107348.html",
+      "image_title": "Person hält iPhone in der Hand."
     },
     {
       "title": "Apple verteilt neue Firmware für AirPods Pro 2 und Pro 3",
@@ -480,11 +483,6 @@
       "title": "Vier 4K-Displays, 220 Grad Sichtfeld: Hypervision zeigt kompakten VR-Prototyp",
       "url": "https://www.heise.de/hintergrund/Vier-4K-Displays-220-Grad-Sichtfeld-Hypervision-zeigt-kompakten-VR-Prototyp-11112287.html",
       "image_title": "Christian Steiner probiert Ultraslim 220 aus."
-    },
-    {
-      "title": "Für 1,6 Milliarden: Intel will wohl SambaNova übernehmen",
-      "url": "https://www.heise.de/news/Intels-Uebernahme-von-SambaNova-fuer-1-6-Milliarden-wohl-kurz-vor-Abschluss-11114449.html",
-      "image_title": "Intel-Schriftzug auf einem Chip"
     },
     {
       "title": "Weltraumteleskop James Webb: \"Erster richtiger Beweis\" für erste Sterngeneration",
@@ -540,8 +538,14 @@
       "url": "https://www.heise.de/news/Wirecard-Skandal-Wirtschaftspruefer-EY-muss-laut-BGH-alle-Unterlagen-offenlegen-11114231.html"
     },
     {
-      "title": "AMS-IX kehrt den USA den Rücken",
-      "url": "https://www.heise.de/news/AMS-IX-kehrt-den-USA-den-Ruecken-11114084.html"
+      "title": "Für 1,6 Milliarden: Intel will wohl SambaNova übernehmen",
+      "url": "https://www.heise.de/news/Intels-Uebernahme-von-SambaNova-fuer-1-6-Milliarden-wohl-kurz-vor-Abschluss-11114449.html",
+      "image_title": "Intel-Schriftzug auf einem Chip"
+    },
+    {
+      "title": "Mehrheit für Social-Media-Verbot für unter 16-Jährige",
+      "url": "https://www.heise.de/news/Mehrheit-fuer-Social-Media-Verbot-fuer-unter-16-Jaehrige-11114564.html",
+      "image_title": "Teenagers,Covering,Their,Faces,With,Social,Media,Icons"
     },
     {
       "title": "Gutachten: Massive Datenschutzverstöße bei PayPal",
@@ -552,11 +556,6 @@
       "title": "Attacken von APT28 und Co.: Was die Bundesregierung Russland vorwirft",
       "url": "https://www.heise.de/news/Attacken-von-APT28-und-Co-Was-die-Bundesregierung-Russland-vorwirft-11114473.html",
       "image_title": "Fake,News,Written,In,Red,On,A,Backlit,Laptop,Keyboard"
-    },
-    {
-      "title": "EU: 3 Euro Pauschal-Zoll auf Pakete bis 150 Euro ab 2026",
-      "url": "https://www.heise.de/news/EU-beschliesst-Pauschal-Zoll-von-3-Euro-auf-Pakete-mit-geringem-Warenwert-11113789.html",
-      "image_title": "Pakete auf einem Laufband"
     },
     {
       "title": "Problembär-Dressur: \"Der Russe war es\" reicht nicht",
@@ -638,15 +637,15 @@
       "url": "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html"
     },
     {
-      "title": "100 Jahre „Panzerkreuzer Potemkin“Zwischen Zensur und popkultureller Umdeutung",
-      "teaser": "Eisensteins Jahrhundertfilm stellt noch heute wichtige Fragen über Macht und Manipulation.",
-      "url": "https://www.heise.de/tests/100-Jahre-Panzerkreuzer-Potemkin-Zwischen-Zensur-und-popkultureller-Umdeutung-11079334.html"
+      "title": "Teure SpeichermoduleDas sind die Gründe für die extremen RAM-Preise",
+      "teaser": "Die Preise für PC-Arbeitsspeicher sind explodiert. Das liegt vor allem am extremen RAM-Bedarf von KI-Rechenzentren: Eine Analyse.",
+      "url": "https://www.heise.de/hintergrund/Teure-Speichermodule-Gruende-fuer-die-extremen-RAM-Preise-11109897.html",
+      "image_title": "DDR5-Speichermodul"
     },
     {
-      "title": "c’t-Webinar: Heimkino- und Musikanlagen gezielt optimieren",
-      "teaser": "Raumakustik und Lautsprecherpositionierung beeinflussen den Klang maßgeblich. Lernen Sie im Webinar, wie Sie Ihr Setup Schritt für Schritt optimieren.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Heimkino-und-Musikanlagen-gezielt-optimieren-11109677.html",
-      "image_title": "Zwei orangefarbene Lautsprecher mit blauen Membranen links und rechts von einem orangefarbenen Sofa, auf dem eine Person sitzt, umgeben von bunten Schallwellen."
+      "title": "Game-Streaming via GeForce NOW auf Steam Deck ausprobiert",
+      "teaser": "GeForce NOW bringt High-End-Grafik auf Low-End-Hardware. Wir haben den Online-Dienst auf dem Steam Deck getestet und geben Tipps für optimale Bildqualität.",
+      "url": "https://www.heise.de/ratgeber/Game-Streaming-via-GeForce-NOW-auf-Steam-Deck-ausprobiert-11091260.html"
     },
     {
       "title": "Web-Tipps: Volle Philosophiedosis",
@@ -751,22 +750,22 @@
       "image_title": "Elektroauto in Fahrt"
     },
     {
-      "title": "Klimabedingte Gesundheitsrisiken im Fokus der Profis",
-      "teaser": "Der Klimawandel führt zu vermehrten und neuen Gesundheitsproblemen wie Infektionen, Allergien, psychischen Belastungen und zu lebensbedrohlicher Hitze.",
-      "url": "https://www.heise.de/-11110498",
-      "image_title": "Eine junge Frau leidet unter der Hitze und hat sich vor einen Ventilator gesetzt."
+      "title": "Muss Deutschland den Ostermontag opfern, damit die Wirtschaft wächst?",
+      "teaser": "Wirtschaftsbosse fordern die Abschaffung des Ostermontags. Der Grund: 2026 arbeitet Deutschland 2,4 Tage mehr – und das kurbelt das Wachstum an.",
+      "url": "https://www.heise.de/-11114505",
+      "image_title": "Weniger Feiertage sollen ein Stimulus für das Wirtschaftswachstum sein."
     },
     {
-      "title": "Jacza von Köpenick: Der letzte freie Slawenfürst",
-      "teaser": "Er war der erste namentlich bekannte Berliner und regierte von seiner Burg in Köpenick. Als Slawenfürst prägte er eigene Münzen – und das Schicksal der Region.",
-      "url": "https://www.heise.de/-11106940",
-      "image_title": "Ein Denkmal in der Landschaft, rechts eine Person"
+      "title": "Entmenschlichung als Strategie: Amerikas jahrhundertealte Kriegsrhetorik",
+      "teaser": "Neues Buch zeigt, dass die Geschichte vom \"Narko-Boot\" altbekannt ist. Die USA haben schon immer bestimmt, wer vom Gesetz ausgeschlossen wird. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/-11113245",
+      "image_title": "Eine Person blickt auf eine Explosion in einem Ort"
     },
     {
-      "title": "Interview: Wie Russland Assad den Stecker zog",
-      "teaser": "Ein Jahr nach dem Sturz des syrischen Regimes erklärt Neil Partrick, wie eine 50-jährige Dynastie in wenigen Wochen zusammenbrach. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/-11108715",
-      "image_title": "Ein Mann winkt von einem Balkon"
+      "title": "Die Stadt, die niemand kennt – und drei Weltkulturerbe-Stätten besitzt",
+      "teaser": "Dessau birgt ungeahnte Schätze. Die Stadt hat drei UNESCO-Welterbestätten zu bieten. Was verbirgt sich hinter der Fassade? (Teil 1)",
+      "url": "https://www.heise.de/-11106180",
+      "image_title": "Bauhausmuseum"
     },
     {
       "title": "Mit der richtigen Schrift bis zu 35 Prozent schneller lesen",
