@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T15:14:05",
+  "timestamp": "2025-12-16T16:15:03",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Botanik-Kolumne: Wo die riesigen Weihnachtsbäume herkommen",
+      "teaser": "In der Adventszeit schmücken die Kolosse Weihnachtsmärkte und Bürofoyers. Doch nicht alle Riesenweihnachtsbäume sind echt.",
+      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/wo-die-riesigen-weihnachtsbaeume-herkommen-110801871.html"
+    },
+    {
       "title": "Wissenschaftssoziologie: Wie gehen Forscher mit Ideenklau um?",
       "teaser": "Angst vor geistigem Diebstahl bremst den wissenschaftlichen Fortschritt. Doch nicht in allen Fällen üben sich Forscher in Geheimniskrämerei.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/wissenschaft-wie-angst-vor-geistigem-diebstahl-die-forschung-beeinflusst-accg-110801869.html"
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/wissenschaft-wie-angst-vor-geistigem-diebstahl-die-forschung-beeinflusst-accg-110801869.html",
+      "image_url": "https://media0.faz.net/image/w730/cc16c5321ff0/w3000h1688x0y62/122025/1.10801866/wie-lassen-sich-ideen-vor-dem.webp",
+      "image_title": "Wie lassen sich Ideen vor dem Diebstahl sichern?"
     },
     {
       "title": "KlimaKrise: Der Gipfel der Gletscherschmelze",
@@ -93,13 +100,6 @@
       "teaser": "Es gibt so gut wie nichts, was es nicht gibt im Netz der Netze: Geniales, Kurioses, Nostalgisches und liebevoll Zweckfreies. Diesmal: Spaß mit Physik",
       "url": "https://www.faz.net/aktuell/wissen/netzraetsel/netzraetsel-physik-zum-spielen-accg-110801870.html",
       "image_url": "https://media0.faz.net/image/w730/365ccefe67d7/w1500h844x0y28/202512/3d183418-6f33-4b12-9846-9adae37dbd8e/xxqx7pkoauld.webp"
-    },
-    {
-      "title": "FAZ+Wilde Gewächse: Botaniker auf Rettungsmission",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/wie-samenbanken-die-vielfalt-von-pflanzen-retten-200344032.html",
-      "image_url": "https://media0.faz.net/image/w730/93ba5b22cf94/w6315h3552x0y0/202512/2bcf2ffe-4ce7-4f22-98f2-8d28b7d74f40/botanischer-name-in-der.webp",
-      "image_title": "Botanischer Name in der Dateibezeichnung"
     },
     {
       "title": "FAZ+Liebe in der Natur: Der Mensch, ein monogames Tier?",
@@ -170,18 +170,18 @@
       "image_title": "Pia Heinemann"
     },
     {
+      "title": "FAZ+Wilde Gewächse: Botaniker auf Rettungsmission",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/wie-samenbanken-die-vielfalt-von-pflanzen-retten-200344032.html",
+      "image_url": "https://media0.faz.net/image/w920/93ba5b22cf94/w6315h3552x0y0/202512/2bcf2ffe-4ce7-4f22-98f2-8d28b7d74f40/botanischer-name-in-der.webp",
+      "image_title": "Botanischer Name in der Dateibezeichnung"
+    },
+    {
       "title": "FAZ+Kolumne „Gesundheitsmythen“: Warum Ängste zum Kater dazugehören",
       "teaser": "Nach zu viel Alkohol ist einem alles so schrecklich peinlich. Für dieses Gefühl gibt es eine einfache medizinische Erklärung. Welche Menschen besonders von „Hangxiety“ betroffen sind – und was (nicht) hilft.",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-alkohol-zu-aengsten-fuehrt-kolumne-gesundheitsmythen-accg-200346856.html",
       "image_url": "https://media0.faz.net/image/w920/64ad09cd7820/w3000h1688x0y156/122025/1.10802464/aengstlichkeit-ist-eine.webp",
       "image_title": "Ängstlichkeit ist eine natürliche Folge des Alkoholexzesses. So wie Leergut."
-    },
-    {
-      "title": "FAZ+„Genesis Mission“: Revolutioniert Trump die Wissenschaft mit KI?",
-      "teaser": "Doppelt so produktiv, doppelt so einflussreich: Donald Trump will die Wissenschaft im Land mit einer Industrie-Partnerschaft transformieren. Kann das gut gehen?",
-      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/genesis-mission-revolutioniert-trump-die-wissenschaschaft-mit-ki-110799984.html",
-      "image_url": "https://media0.faz.net/image/w920/d0c0548fd2e2/w6080h3420x0y314/202511/43601.0.1520534840/us-praesident-trump-hat-ein.webp",
-      "image_title": "US-Präsident Trump hat ein Dekret verabschiedet, das die Forschung in den USA mittels KI beschleunigen soll. (Archivaufnahme)"
     },
     {
       "title": "FAZ+Wärmewende am Südpol: Wehe, diese Blase platzt",
@@ -400,10 +400,17 @@
       "image_title": "Als Thomas Nipperdey in Köln studierte, war das Gelände gegenüber dem zwischen 1929 und 1934 errichteten Hauptgebäude der Universität noch nicht bebaut. Sein Vater Hans Carl Nipperdey war 1925 als Arbeitsrechtler nach Köln berufen worden. Von der britischen Militärregierung im Oktober 1946 entlassen, kehrte er im Mai 1947 auf seinen Lehrstuhl zurück."
     },
     {
+      "title": "FAZ+„Genesis Mission“: Revolutioniert Trump die Wissenschaft mit KI?",
+      "teaser": "Doppelt so produktiv, doppelt so einflussreich: Donald Trump will die Wissenschaft im Land mit einer Industrie-Partnerschaft transformieren. Kann das gut gehen?",
+      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/genesis-mission-revolutioniert-trump-die-wissenschaschaft-mit-ki-110799984.html",
+      "image_url": "https://media0.faz.net/image/w920/f333ff9d9f75/w6080h2605x0y721/202511/43601.0.1520534840/us-praesident-trump-hat-ein.webp",
+      "image_title": "US-Präsident Trump hat ein Dekret verabschiedet, das die Forschung in den USA mittels KI beschleunigen soll. (Archivaufnahme)"
+    },
+    {
       "title": "FAZ+Vertrauenswürdige Wissenschaft: „Raus aus dem Elfenbeinturm“",
       "teaser": "Die Forscher müssen sich selbst darum kümmern, dass ihnen die Gesellschaft vertraut und ihre Erkenntnisse annimmt.",
       "url": "https://www.faz.net/aktuell/wissen/forschung-politik/vertrauen-zurueckgewinnen-110776064.html",
-      "image_url": "https://media0.faz.net/image/w920/45183b02a621/w2146h919x177y144/022009/1.10780425/spiel-zwischen-roboter-und.webp",
+      "image_url": "https://media0.faz.net/image/w730/bb8058bdd85c/w2146h1207x177y0/022009/1.10780425/spiel-zwischen-roboter-und.webp",
       "image_title": "Spiel zwischen Roboter und Mensch im Londoner Science Museum."
     },
     {
@@ -412,13 +419,6 @@
       "url": "https://www.faz.net/aktuell/wissen/forschung-politik/falling-walls-2025-ein-wissenschaftsgipfel-der-gefluegelten-worte-110775466.html",
       "image_url": "https://media0.faz.net/image/w730/76a1d38a9dee/w3000h1688x0y156/112025/1.10776109/das-zentrale-diskussionsforum.webp",
       "image_title": "Das zentrale Diskussionsforum „Curie“ im Café Moskau an der Karl-Marx-Allee."
-    },
-    {
-      "title": "FAZ+Innovationen: „Deutschland steckt in der Mitteltechnologiefalle“",
-      "teaser": "Die Bundesregierung veröffentlicht einen Plan, welche Forschungsfelder künftig stärker gefördert werden sollen. Carolin Häussler, Professorin für Organisation und Technologiemanagement, erklärt Schwerpunkte und Schwächen des Papiers.",
-      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/hightech-agenda-deutschland-steckt-in-der-mitteltechnologiefalle-110751245.html",
-      "image_url": "https://media0.faz.net/image/w730/afb64d7c7089/w2565h1443x141y148/102025/1.10751441/die-forschung-zur-herstellung.webp",
-      "image_title": "Die Forschung zur Herstellung von Mikrochips wird auch künftig wichtig bleiben."
     }
   ]
 }
