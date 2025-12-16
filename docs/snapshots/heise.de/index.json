@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-16T03:52:37",
+  "timestamp": "2025-12-16T04:26:29",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Rezension: Pink Floyds „Wish You Were Here 50“ in Dolby Atmos",
+      "url": "https://www.heise.de/hintergrund/Rezension-Pink-Floyds-Wish-You-Were-Here-50-in-Dolby-Atmos-11115778.html"
+    },
     {
       "title": "El Salvador: Weltweit erstes landesweites KI-Bildungsprogramm zusammen mit xAI",
       "url": "https://www.heise.de/news/El-Salvador-Weltweit-erstes-landesweites-KI-Bildungsprogramm-zusammen-mit-xAI-11115890.html"
@@ -62,10 +66,6 @@
     {
       "title": "Bericht: Großbritannien will Apple und Google zu Nacktfotos-Blockade zwingen",
       "url": "https://www.heise.de/news/Bericht-Grossbritannien-will-Apple-und-Google-zu-Nacktfotos-Blockade-zwingen-11115708.html"
-    },
-    {
-      "title": "5G-Versorgung: Mobilfunkausbau nimmt Fahrt auf – Funklöcher bleiben",
-      "url": "https://www.heise.de/news/95-Prozent-5G-Versorgung-Mobilfunkausbau-nimmt-Fahrt-auf-Funkloecher-bleiben-11115684.html"
     },
     {
       "title": "SecurityBSI checkt E-Mail-Programme",
@@ -188,21 +188,27 @@
       "image_title": "Netzwerkgeräte, im Vordergrund eine chinesische Flagge"
     },
     {
+      "title": "Rezension: Pink Floyds „Wish You Were Here 50“ in Dolby Atmos",
+      "teaser": "Zum 50. Geburtstag veröffentlicht Pink Floyd eine Neuabmischung. Die Blu-ray erlaubt Vergleiche des originalen Stereo-Mix' mit Quadro bis hin zu Dolby Atmos.",
+      "url": "https://www.heise.de/hintergrund/Rezension-Pink-Floyds-Wish-You-Were-Here-50-in-Dolby-Atmos-11115778.html",
+      "image_title": "Cover \"Pink Floyd - Wish you were here\", dazu ein Foto zweier Männer in Anzügen, die einander die Hand geben, während einer davon in Flammen steht"
+    },
+    {
       "title": "El Salvador: Weltweit erstes landesweites KI-Bildungsprogramm zusammen mit xAI",
       "teaser": "Nayib Bukele und Elon Musk vereinbaren den Einsatz des KI-Chatbots Grok in El Salvadors öffentlichen Schulen. Andernorts ist Grok durchaus umstritten.",
       "url": "https://www.heise.de/news/El-Salvador-Weltweit-erstes-landesweites-KI-Bildungsprogramm-zusammen-mit-xAI-11115890.html",
       "image_title": "Das Logo von Grok auf einem Smartphone"
     },
     {
+      "title": "Die „Legacy-Falle“ umgehen, ohne den Betrieb zu gefährden",
+      "teaser": "IT-Beschäftigte stehen vor einem Dilemma: Der Aufwand für Legacy-Systeme, Support-Verträge und Patch-Management lässt kaum Raum für Modernisierung. Die Lösung: Da „Run“-Betrieb an Partner übergeben.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7160913073&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Nvidia übernimmt den Open-Source-Anbieter SchedMD",
       "teaser": "Um sein Open-Source-Software-Ökosystem zu stärken und KI-Innovationen voranzutreiben, adquiriert Nvidia den Softwareentwickler SchedMD.",
       "url": "https://www.heise.de/news/Nvidia-uebernimmt-den-Open-Source-Anbieter-SchedMD-11115874.html",
       "image_title": "Nvidia logo and sign on headquarters. Blurred foreground with green trees - Santa Clara, California, USA"
-    },
-    {
-      "title": "Die „Legacy-Falle“ umgehen, ohne den Betrieb zu gefährden",
-      "teaser": "IT-Beschäftigte stehen vor einem Dilemma: Der Aufwand für Legacy-Systeme, Support-Verträge und Patch-Management lässt kaum Raum für Modernisierung. Die Lösung: Da „Run“-Betrieb an Partner übergeben.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7160913073&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Snapmaker U1 im Test: Der beste mehrfarbige 3D-Drucker",
@@ -233,12 +239,6 @@
       "image_title": "Blick auf ein Puppenhaus, im Hintergrund ein Reißbrett mit Fotos."
     },
     {
-      "title": "Webcams unter Linux optimal einstellen ohne Hersteller-Software",
-      "teaser": "Bildausschnitt, Helligkeit, Kontraste, Farben & mehr: Mit diesen Tools holen Sie unter Linux das beste Bild aus Ihrer Webcam.",
-      "url": "https://www.heise.de/ratgeber/Webcams-unter-Linux-optimal-einstellen-ohne-Hersteller-Software-10925808.html",
-      "image_title": "Fenster, die Cameractrl und guvcview zeigen"
-    },
-    {
       "title": "Bahn-Chaos im GriffStrategien bei Zugausfall und Verspätung",
       "teaser": "Tipps und Tricks, wie man beim Bahnfahren mehr weiß und seltener überrascht wird.",
       "url": "https://www.heise.de/ratgeber/Bahn-Chaos-im-Griff-Strategien-bei-Zugausfall-und-Verspaetung-10991199.html",
@@ -265,8 +265,8 @@
       "url": "https://www.heise.de/news/Gutachten-US-Behoerden-haben-weitreichenden-Zugriff-auf-europaeische-Cloud-Daten-11111043.html"
     },
     {
-      "title": "Millionenstrafe gegen X: Musk fordert Abschaffung der EU, Account wird gesperrt",
-      "url": "https://www.heise.de/news/Millionenstrafe-gegen-X-Musk-fordert-Abschaffung-der-EU-Account-wird-gesperrt-11105798.html"
+      "title": "Cloud: Zoff in Bayern wegen Milliardenauftrag an Microsoft ohne Ausschreibung",
+      "url": "https://www.heise.de/news/Cloud-Zoff-in-Bayern-wegen-Milliardenauftrag-an-Microsoft-ohne-Ausschreibung-11114453.html"
     },
     {
       "title": "Analyse: Projektsterben in der Cloud-Native-Welt",
@@ -280,8 +280,8 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Auswandern nach Polen: Was ITler verdienen, Lebenshaltungskosten und Steuern",
-      "url": "https://www.heise.de/ratgeber/Auswandern-nach-Polen-Was-ITler-verdienen-Lebenshaltungskosten-und-Steuern-10458960.html",
+      "title": "Kaufberatung: Wallboxen mit Gleich- und Wechselstrom für bidirektionales Laden",
+      "url": "https://www.heise.de/ratgeber/Kaufberatung-Wallboxen-mit-Gleich-und-Wechselstrom-fuer-bidirektionales-Laden-10688466.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -329,6 +329,12 @@
       "teaser": "Täglich neue Angebote und Geschenke in 24 Türchen! Jeden Tag wartet ein neues heise-Angebot sowie eine Software-Vollversion zum kostenlosen Download auf Sie. Jetzt Türchen öffnen!",
       "url": "https://www.heise.de/download/blog/Der-heise-Adventskalender-2025-11078286?wt_mc=intern.abo.all.advent25.ho_advt.ad1.ad1",
       "image_title": "heise Adventskalender🎄"
+    },
+    {
+      "title": "Webcams unter Linux optimal einstellen ohne Hersteller-Software",
+      "teaser": "Bildausschnitt, Helligkeit, Kontraste, Farben & mehr: Mit diesen Tools holen Sie unter Linux das beste Bild aus Ihrer Webcam.",
+      "url": "https://www.heise.de/ratgeber/Webcams-unter-Linux-optimal-einstellen-ohne-Hersteller-Software-10925808.html",
+      "image_title": "Fenster, die Cameractrl und guvcview zeigen"
     },
     {
       "title": "Bericht: Großbritannien will Apple und Google zu Nacktfotos-Blockade zwingen",
@@ -400,15 +406,15 @@
       "image_title": "VW ID. Polo GTI"
     },
     {
+      "title": "Warum Sie jetzt Ihre Server modernisieren sollten",
+      "teaser": "Veraltete Technologien können die Produktivität hemmen, die Sicherheit gefährden und die Kosten in die Höhe treiben. Warum gerade jetzt ein guter Zeitpunkt ist, Ihre Server zu modernisieren.",
+      "url": "https://business-services.heise.de/hardware/server/beitrag/warum-sie-jetzt-ihre-server-modernisieren-sollten-4968/?source=nat_teas"
+    },
+    {
       "title": "Microsoft-Cloud-Security: Drei kostenlose Tools, die jeder Admin kennen sollte",
       "teaser": "M365 ist kein Security-Highlight. Firmen und Behörden sollten deshalb ihre Cloud-Dienste prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
       "url": "https://www.heise.de/news/Microsoft-Cloud-Security-Drei-kostenlose-Tools-die-jeder-Admin-kennen-sollte-11113757.html",
       "image_title": "Microsoft-Cloud-Webinar"
-    },
-    {
-      "title": "KI-Datacenter: offene Standards für mehr Effizienz und Leistung",
-      "teaser": "Leistungsdichte und Energiebedarf von KI-Rechenzentren erfordern neue Hardware-Lösungen. Das Open Compute Project treibt mit offenen Standards die Entwicklung leistungsfähiger Infrastrukturen voran.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/ki-datacenter-offene-standards-fuer-mehr-effizienz-und-leistung/?source=hbsadersatz"
     },
     {
       "title": "Kleine Batterie, großer Preis: VW e-Transporter im Test",
@@ -463,12 +469,6 @@
       "url": "https://www.heise.de/ratgeber/Von-Kika-bis-Youtube-Kids-So-sicher-sind-Streaming-Dienste-fuer-Kinder-10617636.html"
     },
     {
-      "title": "Verbrenner-Ende in Neuwagen: Ökonomen warnen vor Aufweichung von Zielen",
-      "teaser": "Am 16. Dezember soll das Aus des kompletten Verbrenner-Aus verkündet werden. Doch schon jetzt gibt es an diesem Vorhaben reichlich Kritik.",
-      "url": "https://www.heise.de/news/Verbrenner-Ende-in-Neuwagen-Oekonomen-warnen-vor-Aufweichung-von-Zielen-11114809.html",
-      "image_title": "VW ID.3 Pure"
-    },
-    {
       "title": "UpdateiOS 26.2 & Co zum Download bereit: Updates für alle Apple-Betriebssysteme",
       "url": "https://www.heise.de/news/iOS-26-2-Co-zum-Download-bereit-Updates-fuer-alle-Apple-Betriebssysteme-11107348.html",
       "image_title": "Person hält iPhone in der Hand."
@@ -479,9 +479,9 @@
       "image_title": "AirPods Pro"
     },
     {
-      "title": "Vier 4K-Displays, 220 Grad Sichtfeld: Hypervision zeigt kompakten VR-Prototyp",
-      "url": "https://www.heise.de/hintergrund/Vier-4K-Displays-220-Grad-Sichtfeld-Hypervision-zeigt-kompakten-VR-Prototyp-11112287.html",
-      "image_title": "Christian Steiner probiert Ultraslim 220 aus."
+      "title": "BSI prüft Passwort-Manager: Einige ermöglichen theoretisch Herstellerzugriff",
+      "url": "https://www.heise.de/news/BSI-prueft-Passwort-Manager-Einige-ermoeglichen-theoretisch-Herstellerzugriff-11108570.html",
+      "image_title": "Zugangsdaten-Eingabefelder"
     },
     {
       "title": "Weltraumteleskop James Webb: \"Erster richtiger Beweis\" für erste Sterngeneration",
@@ -508,19 +508,9 @@
       "image_title": "Die VR-Banking-App"
     },
     {
-      "title": "Laser Limbo: Deutsches Mixed-Reality-Spiel für Meta Quest",
-      "url": "https://www.heise.de/news/Laser-Limbo-Deutsches-Mixed-Reality-Spiel-fuer-Meta-Quest-11113853.html",
-      "image_title": "Ein buntes Laser-Schußgefecht im Wohnzimmer."
-    },
-    {
-      "title": "Lara Croft kehrt zurück: Zwei neue „Tomb Raider“-Spiele angekündigt",
-      "url": "https://www.heise.de/news/Lara-Croft-kehrt-zurueck-Zwei-neue-Tomb-Raider-Spiele-angekuendigt-11112845.html",
-      "image_title": "Lara Croft mit zwei Pistolen in Kampfpose – Heldin der Tomb-Raider-Reihe im modernen Look, Action-Szene aus dem neuen Tomb Raider Teaser."
-    },
-    {
-      "title": "„Divinity“: Larian will „Baldur's Gate 3\" übertreffen",
-      "url": "https://www.heise.de/news/Divinity-Larian-will-Baldur-s-Gate-3-uebertreffen-11112773.html",
-      "image_title": "Screenshot aus dem Trailer zu \"Divinity\""
+      "title": "Tesla: Neue Dashcam-Funktion zeigt detaillierte Telemetriedaten im Video",
+      "url": "https://www.heise.de/news/Tesla-Neue-Dashcam-Funktion-zeigt-detaillierte-Telemetriedaten-im-Video-11111931.html",
+      "image_title": "Tesla-Logo auf rotem Auto"
     },
     {
       "title": "Fahrbericht Peugeot e-308 SW Facelift: Fährt angenehm und ist ohne Chance",
@@ -528,23 +518,32 @@
       "image_title": "Peugeot e-308"
     },
     {
-      "title": "UpdateEpic Systems: US-Anbieter gewinnt Ausschreibung der Charité",
-      "url": "https://www.heise.de/news/Epic-Systems-US-Anbieter-gewinnt-Ausschreibung-der-Charite-11114030.html",
-      "image_title": "Goldener Schriftzug am Campus Charité Mitte – Charitéplatz 1 (Friedrich-Althoff-Haus)"
+      "title": "UpdateJeden Tag Geschenke und exklusive Angebote im heise Adventskalender 2025",
+      "url": "https://www.heise.de/news/Jeden-Tag-Geschenke-und-exklusive-Angebote-im-heise-Adventskalender-2025-11112757.html"
+    },
+    {
+      "title": "Vier 4K-Displays, 220 Grad Sichtfeld: Hypervision zeigt kompakten VR-Prototyp",
+      "url": "https://www.heise.de/hintergrund/Vier-4K-Displays-220-Grad-Sichtfeld-Hypervision-zeigt-kompakten-VR-Prototyp-11112287.html",
+      "image_title": "Christian Steiner probiert Ultraslim 220 aus."
+    },
+    {
+      "title": "Verbrenner-Ende in Neuwagen: Ökonomen warnen vor Aufweichung von Zielen",
+      "url": "https://www.heise.de/news/Verbrenner-Ende-in-Neuwagen-Oekonomen-warnen-vor-Aufweichung-von-Zielen-11114809.html",
+      "image_title": "VW ID.3 Pure"
+    },
+    {
+      "title": "Fußball: Familie Agnelli lehnt Kaufangebot für Juventus Turin von Tether ab",
+      "url": "https://www.heise.de/news/Tether-will-Juventus-Turin-kaufen-Unternehmerfamilie-Agnelli-lehnt-ab-11114759.html",
+      "image_title": "Logos von Juventus Turin auf Fußballtrikots"
     },
     {
       "title": "Wirecard-Skandal: EY muss nach BGH-Urteil die Hosen runterlassen",
       "url": "https://www.heise.de/news/Wirecard-Skandal-Wirtschaftspruefer-EY-muss-laut-BGH-alle-Unterlagen-offenlegen-11114231.html"
     },
     {
-      "title": "Für 1,6 Milliarden: Intel will wohl SambaNova übernehmen",
-      "url": "https://www.heise.de/news/Intels-Uebernahme-von-SambaNova-fuer-1-6-Milliarden-wohl-kurz-vor-Abschluss-11114449.html",
-      "image_title": "Intel-Schriftzug auf einem Chip"
-    },
-    {
-      "title": "Mehrheit für Social-Media-Verbot für unter 16-Jährige",
-      "url": "https://www.heise.de/news/Mehrheit-fuer-Social-Media-Verbot-fuer-unter-16-Jaehrige-11114564.html",
-      "image_title": "Teenagers,Covering,Their,Faces,With,Social,Media,Icons"
+      "title": "Hessen: Verfassungsschutz darf Staatstrojaner für Online-Durchsuchung einsetzen",
+      "url": "https://www.heise.de/news/Hessen-Verfassungsschutz-darf-Staatstrojaner-fuer-Online-Durchsuchung-einsetzen-11114779.html",
+      "image_title": "Hände am Smartphone im Dunkeln"
     },
     {
       "title": "Gutachten: Massive Datenschutzverstöße bei PayPal",
@@ -552,22 +551,22 @@
       "image_title": "Paypal-App auf Android-Smartphone mit Datenschutzerklärung"
     },
     {
-      "title": "Attacken von APT28 und Co.: Was die Bundesregierung Russland vorwirft",
-      "url": "https://www.heise.de/news/Attacken-von-APT28-und-Co-Was-die-Bundesregierung-Russland-vorwirft-11114473.html",
-      "image_title": "Fake,News,Written,In,Red,On,A,Backlit,Laptop,Keyboard"
+      "title": "Glasfaser: Monopolkommission warnt vor Rückkehr alter Machtverhältnisse",
+      "url": "https://www.heise.de/news/Glasfaser-Monopolkommission-warnt-vor-Rueckkehr-alter-Machtverhaeltnisse-11110350.html"
+    },
+    {
+      "title": "Montag: Musikvideos am Ende nach MTV-Verzicht, Kritik an Bayerns M365-Auftrag",
+      "url": "https://www.heise.de/news/Montag-Musikvideos-am-Ende-nach-MTV-Verzicht-Kritik-an-Bayerns-M365-Auftrag-11114743.html",
+      "image_title": "Ein Schlagzeug-Set mit Aufschrift \"Major Funk\", links daneben ein Lautsprecher und eine elektrische Kastenhalslaute; Montag: Musikvideo-Stopp, Cloud-Gezeter, Russland-Fakenews, China-Cyberattacken & E-Polo-Technik"
     },
     {
       "title": "Problembär-Dressur: \"Der Russe war es\" reicht nicht",
       "url": "https://www.heise.de/hintergrund/Problembaer-Dressur-Der-Russe-war-es-reicht-nicht-11114387.html"
     },
     {
-      "title": "Den optimalen PC 2026 selbst bauen | c’t uplink",
-      "url": "https://www.heise.de/news/Den-optimalen-PC-2026-selbst-bauen-c-t-uplink-11113571.html"
-    },
-    {
-      "title": "BSI prüft Passwort-Manager: Einige ermöglichen theoretisch Herstellerzugriff",
-      "url": "https://www.heise.de/news/BSI-prueft-Passwort-Manager-Einige-ermoeglichen-theoretisch-Herstellerzugriff-11108570.html",
-      "image_title": "Zugangsdaten-Eingabefelder"
+      "title": "Solidarität in der KI-Ära: Das ethische Dilemma der Zivilgesellschaft",
+      "url": "https://www.heise.de/news/Solidaritaet-in-der-KI-Aera-Das-ethische-Dilemma-der-Zivilgesellschaft-11114641.html",
+      "image_title": "Künstliche Intelligenz, KI, AI"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -619,38 +618,38 @@
       "image_title": "Notepad++ displays its changelog"
     },
     {
-      "title": "\"Hogwarts Legacy\" is free in the Epic Games Store",
-      "url": "https://www.heise.de/en/news/Hogwarts-Legacy-is-free-in-the-Epic-Games-Store-11113206.html",
-      "image_title": "Screenshot from Hogwarts Legacy"
+      "title": "Epic Systems: US provider wins Charité tender",
+      "url": "https://www.heise.de/en/news/Epic-Systems-US-provider-wins-Charite-tender-11114132.html",
+      "image_title": "Gold lettering at Campus Charité Mitte – Charitéplatz 1 (Friedrich-Althoff-Haus)"
     },
     {
-      "title": "Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux",
-      "url": "https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html"
+      "title": "MTV without music videos from January",
+      "url": "https://www.heise.de/en/news/MTV-without-music-videos-from-January-11114670.html"
     },
     {
       "title": "Cloud: Row in Bavaria over billion-euro Microsoft contract without tender",
       "url": "https://www.heise.de/en/news/Cloud-Row-in-Bavaria-over-billion-euro-Microsoft-contract-without-tender-11114488.html"
     },
     {
-      "title": "How a French judge was digitally cut off by the USA",
-      "url": "https://www.heise.de/en/news/How-a-French-judge-was-digitally-cut-off-by-the-USA-11087561.html"
+      "title": "\"Hogwarts Legacy\" is free in the Epic Games Store",
+      "url": "https://www.heise.de/en/news/Hogwarts-Legacy-is-free-in-the-Epic-Games-Store-11113206.html"
     },
     {
-      "title": "Long-term data archiving in quartz glass discs",
-      "teaser": "Data in 5D Optical Memory is intended to last for millennia. The US company SPhotonix is thus competing against rivals such as Cerabyte and Microsoft.",
-      "url": "https://www.heise.de/en/news/Long-term-data-archiving-in-quartz-glass-discs-11115675.html",
-      "image_title": "SPhotonix 5D Optical Memory"
-    },
-    {
-      "title": "Drohnen-Recht: Luftfahrt-Bundesamt zieht Kostenbescheide zurück",
-      "teaser": "Das LBA verschickte für Drohnenführerscheinprüfungen Rechnungen, selbst wenn keine Kostenpflicht ersichtlich war. Trotz Kehrtwende bleiben Fragen.",
-      "url": "https://www.heise.de/hintergrund/Drohnen-Recht-Luftfahrt-Bundesamt-zieht-Kostenbescheide-zurueck-11085829.html"
+      "title": "Auslegungssache-Jahresrückblick: Datenschutz unter Beschuss",
+      "teaser": "Wackelige US-Datentransfers, kontroverse EuGH-Urteile, Datenomnibus, und vieles mehr. Im c't-Datenschutz-Podcast ziehen wir eine kritische Jahresbilanz.",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-Jahresrueckblick-Datenschutz-unter-Beschuss-11113304.html",
+      "image_title": "Anna Cardillo (links), Holger Bleich (rechts), Joerg Heidrich (unten)"
     },
     {
       "title": "Langzeit-Datenarchivierung in Quarzglasplättchen",
       "teaser": "Daten in 5D Optical Memory sollen Jahrtausende überdauern. Das US-Unternehmen SPhotonix tritt damit gegen Konkurrenten wie Cerabyte und Microsoft an.",
       "url": "https://www.heise.de/news/Langzeit-Datenarchivierung-in-Quarzglasplaettchen-11115580.html",
       "image_title": "SPhotonix 5D Optical Memory"
+    },
+    {
+      "title": "Drohnen-Recht: Luftfahrt-Bundesamt zieht Kostenbescheide zurück",
+      "teaser": "Das LBA verschickte für Drohnenführerscheinprüfungen Rechnungen, selbst wenn keine Kostenpflicht ersichtlich war. Trotz Kehrtwende bleiben Fragen.",
+      "url": "https://www.heise.de/hintergrund/Drohnen-Recht-Luftfahrt-Bundesamt-zieht-Kostenbescheide-zurueck-11085829.html"
     },
     {
       "title": "Startklar ohne Apples ProgrammstarterSo geht's ohne Launchpad in macOS 26",
@@ -664,9 +663,16 @@
       "url": "https://www.heise.de/hintergrund/Portraet-von-John-Ternus-Ist-er-Apples-naechster-CEO-11091127.html"
     },
     {
-      "title": "Das bringt Ihnen die neue FunktionBluthochdruckwarner in der Apple Watch",
-      "teaser": "Hypertonie ist eine oft erst spät entdeckte Volkskrankheit. Die Apple Watch soll das ändern. Wir zeigen, wie gut es funktioniert – und die Einschränkungen.",
-      "url": "https://www.heise.de/tests/Bluthochdruckwarner-in-der-Apple-Watch-So-arbeitet-die-neue-Funktion-11090317.html"
+      "title": "Was das iPhone-OS-Update bringt11 Tipps zu den Neuerungen von iOS 26.1",
+      "teaser": "Das erste Punkt-Update macht iOS 26 rund und liefert praktische Funktionen nach. So setzen Sie die Neuerungen auf iPhone und iPad konkret ein.",
+      "url": "https://www.heise.de/ratgeber/18-Tipps-Die-besten-Neuerungen-von-iOS-26-1-und-26-2-im-Praxiseinsatz-11056734.html",
+      "image_title": "Tipps zu iOS 26.1 und 26.2"
+    },
+    {
+      "title": "Wie man mit einem ESP32 eine LED-Lichterkette über eine Webpage ansteuert",
+      "teaser": "Damit auch alle Lichter brennen, wenn das Christkind anklopft, zeigen wir, wie man mit einem ESP32 Lichterketten über eine Webpage ansteuern kann.",
+      "url": "https://www.heise.de/ratgeber/Wie-man-mit-einem-ESP32-eine-LED-Lichterkette-ueber-eine-Webpage-ansteuert-11098983.html",
+      "image_title": ","
     },
     {
       "title": "Oxocard in C programmieren",
@@ -678,17 +684,6 @@
       "teaser": "Mit Akku und Ladefunktion eignet sich ein neues Devkit für mobile Sensoren und batteriebetriebene Funkknoten.",
       "url": "https://www.heise.de/news/ESP32-C6-Devkit-mit-LiPo-Versorgung-11110404.html",
       "image_title": "ESP32-C6-Devkit-Lipo: Rotes, kompaktes RISC-V-Entwicklungsboard mit ESP32-C6-Modul, zwei USB-C-Buchsen (Power/Debug und JTAG), mittigem schwarzem UEXT-Steckverbinder, seitlichen Stiftleisten und weißem LiPo-Steckverbinder für Akkuversorgung."
-    },
-    {
-      "title": "Tech-Gadget Flipper OneRendergrafiken des Innenlebens geben Rätsel auf",
-      "teaser": "Erfinder Pavel Zhovner zeigt, wie die Platinen von Flipper One aussehen. Wichtige Komponenten bleiben vorerst verpixelt.",
-      "url": "https://www.heise.de/news/Tech-Gadget-Flipper-One-Neue-Rendergrafiken-des-Innenlebens-geben-Raetsel-auf-11108574.html",
-      "image_title": "Flipper mit Verpixelungen"
-    },
-    {
-      "title": "Photoshop 2026: Update bringt neue KI-Modelle und Bearbeitungsoptionen",
-      "teaser": "Adobe integriert die KI von Flux, Google und Topaz – für präzisere Retusche, realistischere Montagen und bessere Hochskalierung.",
-      "url": "https://www.heise.de/ratgeber/Photoshop-2026-Update-bringt-neue-KI-Modelle-und-Bearbeitungsoptionen-11108440.html"
     },
     {
       "title": "Fels, Federn, Flammen: Die Bilder der Woche 50",
@@ -707,6 +702,12 @@
       "teaser": "Adobe Photoshop, Acrobat und Express lassen sich künftig in ChatGPT nutzen. Nutzer sollen Fotos, Dokumente und Designs per Texteingabe erstellen und bearbeiten.",
       "url": "https://www.heise.de/news/Adobe-Express-Photoshop-Acrobat-in-ChatGPT-nutzbar-11108480.html",
       "image_title": "A wall sign for the American software company Adobe on an office building."
+    },
+    {
+      "title": "Google Photos wird zum Video-Editor für Android",
+      "teaser": "Google Photos wird videolastiger. Ein neuer Video-Editor wird zum Standardprogramm für Android. Zudem sollen Nutzer mehr Videos basteln.",
+      "url": "https://www.heise.de/news/Google-Photos-wird-zum-Video-Editor-fuer-Android-11109459.html",
+      "image_title": "Google-Schriftzug"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -749,22 +750,22 @@
       "image_title": "Elektroauto in Fahrt"
     },
     {
-      "title": "Klimabedingte Gesundheitsrisiken im Fokus der Profis",
-      "teaser": "Der Klimawandel führt zu vermehrten und neuen Gesundheitsproblemen wie Infektionen, Allergien, psychischen Belastungen und zu lebensbedrohlicher Hitze.",
-      "url": "https://www.heise.de/-11110498",
-      "image_title": "Eine junge Frau leidet unter der Hitze und hat sich vor einen Ventilator gesetzt."
+      "title": "Chinas Lebenserwartung erreicht US-Niveau früher als erwartet",
+      "teaser": "Chinesen leben mittlerweile genauso lang wie US-Amerikaner. Experten hatten diesen Meilenstein erst für 2044 prognostiziert. Ein Überblick.",
+      "url": "https://www.heise.de/-11106763",
+      "image_title": "Mehrere alte Chinesen im Park"
     },
     {
-      "title": "Deutschlands humanitäre Hilfe: Gekürzt, geschrumpft, gescheitert",
-      "teaser": "Deutschland kürzt humanitäre Hilfe drastisch, während Milliarden in Panzer fließen – die UN warnen vor einer Flüchtlingskatastrophe.",
-      "url": "https://www.heise.de/-11113086",
-      "image_title": "Zwei Leopard 2 Panzer - Gegenüber rdkugel mit Essensschale"
+      "title": "Interview: Wie Russland Assad den Stecker zog",
+      "teaser": "Ein Jahr nach dem Sturz des syrischen Regimes erklärt Neil Partrick, wie eine 50-jährige Dynastie in wenigen Wochen zusammenbrach. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/-11108715",
+      "image_title": "Ein Mann winkt von einem Balkon"
     },
     {
-      "title": "Muss Deutschland den Ostermontag opfern, damit die Wirtschaft wächst?",
-      "teaser": "Wirtschaftsbosse fordern die Abschaffung des Ostermontags. Der Grund: 2026 arbeitet Deutschland 2,4 Tage mehr – und das kurbelt das Wachstum an.",
-      "url": "https://www.heise.de/-11114505",
-      "image_title": "Weniger Feiertage sollen ein Stimulus für das Wirtschaftswachstum sein."
+      "title": "Berlin gibt Ukraine Milliarden-Garantie für eingefrorene Russland-Gelder",
+      "teaser": "Deutschland garantiert 50 Milliarden Euro für eingefrorene Russland-Gelder. Doch Moskau schlägt vor Gericht zurück – und droht mit Vergeltung.",
+      "url": "https://www.heise.de/-11114604",
+      "image_title": "Gebäude der russischen Zentralbank in Moskau (Inschrift \"Bank of Russia\")"
     },
     {
       "title": "Von wegen Urlaub: Viele Beschäftigte bleiben auch an den Feiertagen erreichbar",
