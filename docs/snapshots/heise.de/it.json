@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-18T13:29:39",
+  "timestamp": "2025-12-18T14:13:27",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,26 @@
   ],
   "articles": [
     {
+      "title": "FAQ: Teurer Arbeitsspeicher",
+      "teaser": "Die Preise für RAM haben sich seit August verdreifacht und DDR5-Module sind derzeit rar. Wir geben Tipps für Bastler, die jetzt einen PC bauen möchten.",
+      "url": "https://www.heise.de/ratgeber/FAQ-Teurer-Arbeitsspeicher-11110332.html"
+    },
+    {
+      "title": "Kubernetes 1.35 bringt in-place Pod-Updates und beendet Support für cgroup-v1",
+      "teaser": "Mit Version 1.35 \"Timbernetes\" lassen sich CPU- und Speicherressourcen von Pods nun ohne Neustart anpassen. Der Support für cgroup v1 und containerd 1.x endet.",
+      "url": "https://www.heise.de/news/Kubernetes-1-35-bringt-in-place-Pod-Updates-und-beendet-Support-fuer-cgroup-v1-11119859.html",
+      "image_title": "Container im Hafen"
+    },
+    {
+      "title": "Nach Malware-Fund auf FähreFrankreich untersucht „ausländische Einmischung“",
+      "teaser": "Die französische Polizei hat zwei Crew-Mitglieder auf einer Fähre festgenommen. Die wollten sich Zugang zu DV-Systemen verschaffen.",
+      "url": "https://www.heise.de/news/Frankreich-untersucht-auslaendische-Einmischung-nach-Malware-Fund-auf-Faehre-11119833.html"
+    },
+    {
       "title": "iX-Workshop: Microsoft 365 Copilot für IT-Administratoren",
       "teaser": "Microsoft 365 Copilot - Lernen Sie, wie Sie das KI-gestützte Tool sicher und datenschutzkonform implementieren.",
       "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-Copilot-fuer-IT-Administratoren-11107585.html",
       "image_title": "Microsoft 365 Copilot für IT-Administratoren"
-    },
-    {
-      "title": "Kindle: Amazon erlaubt ab 20. Januar Download von DRM-freien E-Books",
-      "teaser": "Amazon öffnet sich ein wenig: Ab dem 20. Januar 2026 können DRM-freie E-Books aus dem Kindle-Shop als EPUB und PDF heruntergeladen werden.",
-      "url": "https://www.heise.de/news/Kindle-Amazon-erlaubt-ab-20-Januar-Download-von-DRM-freien-E-Books-11119807.html",
-      "image_title": "Woman,Reading,A,Novel,On,A,Tablet,And,Drinking,Her, E-Book, Kindle, Reader"
-    },
-    {
-      "title": "Web-Suche für die lokale KI: So schließen Ihre LLMs Wissenslücken",
-      "teaser": "Das Wissen lokaler KI-Modelle ist auf ihre alten Trainingsdaten beschränkt. Dieser Workflow bringt ihnen Online-Recherche bei: mit quelloffener Gratis-Software.",
-      "url": "https://www.heise.de/ratgeber/Web-Suche-fuer-die-lokale-KI-So-schliessen-Ihre-LLMs-Wissensluecken-11116805.html",
-      "image_title": "Ein KI-Roboter schaut in ein globusartiges Hologram mit vielen Websites und macht sich Notizen."
-    },
-    {
-      "title": "EMBA 2.0: Firmware-Analyzer erreicht 95 Prozent Emulationserfolg",
-      "teaser": "Das Firmware-Analysetool EMBA erreicht in Version 2.0 eine Emulationserfolgsrate von 95 Prozent und lässt damit ältere Werkzeuge deutlich hinter sich.",
-      "url": "https://www.heise.de/news/EMBA-2-0-Firmware-Analyzer-erreicht-95-Prozent-Emulationserfolg-11119450.html",
-      "image_title": "Radar-Scanner, blauer Hintergrund"
     },
     {
       "title": "RatgeberWeb-Suche für die lokale KI: So schließen Ihre LLMs Wissenslücken",
@@ -61,6 +59,18 @@
     {
       "title": "HintergrundWie Volvo Software für seine Autos testet",
       "url": "https://www.heise.de/hintergrund/Wie-Volvo-Software-fuer-seine-Autos-testet-11099040.html"
+    },
+    {
+      "title": "Kindle: Amazon erlaubt ab 20. Januar Download von DRM-freien E-Books",
+      "teaser": "Amazon öffnet sich ein wenig: Ab dem 20. Januar 2026 können DRM-freie E-Books aus dem Kindle-Shop als EPUB und PDF heruntergeladen werden.",
+      "url": "https://www.heise.de/news/Kindle-Amazon-erlaubt-ab-20-Januar-Download-von-DRM-freien-E-Books-11119807.html",
+      "image_title": "Woman,Reading,A,Novel,On,A,Tablet,And,Drinking,Her, E-Book, Kindle, Reader"
+    },
+    {
+      "title": "EMBA 2.0: Firmware-Analyzer erreicht 95 Prozent Emulationserfolg",
+      "teaser": "Das Firmware-Analysetool EMBA erreicht in Version 2.0 eine Emulationserfolgsrate von 95 Prozent und lässt damit ältere Werkzeuge deutlich hinter sich.",
+      "url": "https://www.heise.de/news/EMBA-2-0-Firmware-Analyzer-erreicht-95-Prozent-Emulationserfolg-11119450.html",
+      "image_title": "Radar-Scanner, blauer Hintergrund"
     },
     {
       "title": "AlertApache Commons Text: Kritische Lücke in älterer Version der Bibliothek",
@@ -139,18 +149,6 @@
       "teaser": "OpenAI bekommt Amazon-Gelder, die sollen dann unter anderem in Trainium-Chips investiert werden. Amazons Angriff auf Nvidia.",
       "url": "https://www.heise.de/news/Frisches-Geld-fuer-OpenAI-Amazon-soll-10-Milliarden-investieren-11119089.html",
       "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
-    },
-    {
-      "title": "Es geht bei Cowboy weiter: Rebirth Group übernimmt Mehrheit",
-      "teaser": "Der belgische E-Bike-Hersteller Cowboy ist nun gerettet. Die französische Rebirth Group wird Mehrheitseigner und will das Unternehmen stabilisieren.",
-      "url": "https://www.heise.de/news/Es-geht-bei-Cowboy-weiter-Rebirth-Group-uebernimmt-Mehrheit-11118552.html",
-      "image_title": "Mann auf Cowboy-Bike."
-    },
-    {
-      "title": "KI-Coding-Tools im Vergleich – GitHub Copilot, Cursor, Claude Code und mehr",
-      "teaser": "KI-gestützte Entwicklungstools prägen den Programmieralltag. Unser Experte zeigt die wichtigsten Tools und demonstriert, wie man sie optimal einsetzt.",
-      "url": "https://www.heise.de/news/KI-Coding-Tools-im-Vergleich-GitHub-Copilot-Cursor-Claude-Code-und-mehr-11117637.html",
-      "image_title": "KI-Coding-Tools"
     },
     {
       "title": "NewsWeltweit kleinster programmierbarer autonomer Roboter kostet nur einen US-Cent",
