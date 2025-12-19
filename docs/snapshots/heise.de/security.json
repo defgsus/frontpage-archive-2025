@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T08:16:10",
+  "timestamp": "2025-12-19T09:14:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,9 +26,10 @@
   ],
   "articles": [
     {
-      "title": "AlertCisco, Sonicwall und Asus Live UpdateAngriffe auf Zero-Day-Lücken",
-      "teaser": "Die CISA warnt vor beobachteten Angriffen auf Cisco-, Sonicwall- und Asus-Sicherheitslücken. Updates sind teils verfügbar.",
-      "url": "https://www.heise.de/news/Angriffe-auf-Zero-Day-Luecken-Cisco-Sonicwall-und-Asus-Live-Update-11119069.html"
+      "title": "WindowsNotfall-Update korrigiert Message-Queuing-Probleme",
+      "teaser": "Windows-Sicherheitsupdates führen zu Störungen des Message Queuing (MSMQ) von Windows 10 und Server bis 2019. Notfallupdates lösen das.",
+      "url": "https://www.heise.de/news/Update-ausser-der-Reihe-Microsoft-fixt-Message-Queuing-Probleme-11120586.html",
+      "image_title": "Windows Updates verfügbar: Herunterladen"
     },
     {
       "title": "AlertUpdateWhatsApp und SignalPrivatsphäre angreifbar, Tracker-Software verfügbar",
@@ -37,9 +38,8 @@
       "image_title": "App-Symbole von Signal und WhatsApp"
     },
     {
-      "title": "AlertApache Commons Text: Kritische Lücke in älterer Version der Bibliothek",
-      "url": "https://www.heise.de/news/Apache-Commons-Text-Codeschmuggel-Luecke-in-aelteren-Versionen-11119672.html",
-      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
+      "title": "AlertJetzt patchen! Angreifer schieben Schadcode auf WatchGuard Firebox",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-schieben-Schadcode-auf-WatchGuard-Firebox-11120684.html"
     },
     {
       "title": "Webinar am 28. JanuarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
@@ -54,10 +54,15 @@
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Windows-Notfall-Update korrigiert Message-Queuing-Probleme",
-      "teaser": "Windows-Sicherheitsupdates führen zu Störungen des Message Queuing (MSMQ) von Windows 10 und Server bis 2019. Notfallupdates lösen das.",
-      "url": "https://www.heise.de/news/Update-ausser-der-Reihe-Microsoft-fixt-Message-Queuing-Probleme-11120586.html",
-      "image_title": "Windows Updates verfügbar: Herunterladen"
+      "title": "iX-Workshop: Linux-Server absichern – effektiv und umfassend",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11107605.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "AlertJetzt patchen! Angreifer schieben Schadcode auf WatchGuard Firebox",
+      "teaser": "Derzeit haben es Angreifer auf WatchGuard-Firewalls der Firebox-Serie abgesehen. Sicherheitspatches stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-schieben-Schadcode-auf-WatchGuard-Firebox-11120684.html"
     },
     {
       "title": "Tastatur-Verzögerung entlarvt nordkoreanischen IT-Maulwurf bei Amazon.com",
@@ -100,6 +105,11 @@
       "image_title": "Update-Taste auf Tastatur"
     },
     {
+      "title": "AlertAngriffe auf Zero-Day-Lücken: Cisco, Sonicwall und Asus Live Update",
+      "teaser": "Die CISA warnt vor beobachteten Angriffen auf Cisco-, Sonicwall- und Asus-Sicherheitslücken. Updates sind teils verfügbar.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Zero-Day-Luecken-Cisco-Sonicwall-und-Asus-Live-Update-11119069.html"
+    },
+    {
       "title": "Russlands Einfluss – Kritik an Lücken bei Cybersicherheit",
       "teaser": "Die Grünen sehen sich in ihrer Einschätzung bestärkt, dass die aktuellen Maßnahmen zum Schutz der Demokratie gegen russische Einflussoperationen nicht reichen.",
       "url": "https://www.heise.de/news/Russlands-Einfluss-Kritik-an-Luecken-bei-Cybersicherheit-11119063.html"
@@ -132,18 +142,6 @@
       "teaser": "Cyberkriminelle haben Daten von Pornhub-Premium-Nutzern gestohlen. Nun droht die Ransomware-Gang ShinyHunters mit Veröffentlichung.",
       "url": "https://www.heise.de/news/Pornhub-Premium-Nutzer-Cyberbande-ShinyHunters-droht-mit-Veroeffentlichung-11117881.html",
       "image_title": "Blick auf Pornhub"
-    },
-    {
-      "title": "AlertHPE OneView: Kritische Lücke erlaubt Codeschmuggel aus dem Netz",
-      "teaser": "In HPEs OneView können bösartige Akteure aus dem Netz ohne Authentifizierung Schadcode einschleusen. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/HPE-OneView-Kritische-Luecke-erlaubt-Codeschmuggel-aus-dem-Netz-11117707.html",
-      "image_title": "Rote und blaue Ethernet-Kabel hängen an einem Rack"
-    },
-    {
-      "title": "iX-Workshop: Sicheres Active Directory – Adminrechte mit Tiering schützen",
-      "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11091290.html",
-      "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
     },
     {
       "title": "Workshop | 21.01. – 22.01.2026IT-Sicherheitsstrategien für kleine und mittlere Unternehmen",
