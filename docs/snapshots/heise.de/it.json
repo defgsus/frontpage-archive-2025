@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T09:14:32",
+  "timestamp": "2025-12-19T10:11:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,41 @@
   ],
   "articles": [
     {
+      "title": "Schülertablets in Niedersachsen: Mehr als nur eine Geräteausgabe geplant",
+      "teaser": "Die SPD in Niedersachsen will endlich ihr Wahlversprechen von 2022 einlösen: Tablets für Schüler. Diese sollen in Schulen größere Veränderungen anschieben.",
+      "url": "https://www.heise.de/news/Schuelertablets-in-Niedersachsen-Mehr-als-nur-eine-Geraeteausgabe-geplant-11120744.html",
+      "image_title": "Close,Up,Of,Hand,Touching,Tablet,In,Library"
+    },
+    {
+      "title": "Kommentar: Wenn Copilot zum KO-Pilot wird",
+      "teaser": "Volker Weber macht sich in einer Wutrede Luft, dass ihm die Techkonzerne an jeder Ecke KI verkaufen wollen.",
+      "url": "https://www.heise.de/meinung/Kommentar-Wenn-Copilot-zum-KO-Pilot-wird-11119489.html"
+    },
+    {
+      "title": "Jugendschutz: OpenAI und Anthropic erweitern Sicherheit",
+      "teaser": "Anthropic schätzt künftig das Alter der Claude-Nutzer. Bei OpenAI ist Sicherheit neuerdings die oberste Priorität.",
+      "url": "https://www.heise.de/news/Jugendschutz-OpenAI-und-Anthropic-erweitern-Sicherheit-11120712.html",
+      "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
+    },
+    {
       "title": "Apple-Bugs: AirDrop-Ausfall, AirPods-Pro-3-Knacken und Studio-Display-Flickern",
       "teaser": "Seit den jüngsten iOS- und macOS-Versionen berichten Nutzer über Schwierigkeiten mit AirDrop und Apple-Displays. Ein weiterer Fehler betrifft AirPods Pro 3.",
       "url": "https://www.heise.de/news/Apple-Bugs-AirDrop-Ausfall-AirPods-Pro-3-Knacken-und-Studio-Display-Flickern-11120724.html",
       "image_title": "iPhone-Display"
+    },
+    {
+      "title": "RatgeberBastel-Projekt: Oxocard in Circuit-Python programmieren",
+      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Oxocard-in-Circuit-Python-programmieren-11078838.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundUnabhängiger Browser Ladybird mit neuer Engine im Check",
+      "url": "https://www.heise.de/hintergrund/Unabhaengiger-Browser-Ladybird-mit-neuer-Engine-im-Check-10699290.html"
+    },
+    {
+      "title": "RatgeberDynamics 365 mit TypeScript anpassen",
+      "url": "https://www.heise.de/ratgeber/Dynamics-365-mit-TypeScript-anpassen-11091618.html",
+      "image_title": ","
     },
     {
       "title": "iX-Workshop: Linux-Server absichern – effektiv und umfassend",
@@ -47,20 +78,6 @@
       "teaser": "Zuletzt kamen die erfolgreichen, transparenteren KI-Sprachmodelle von chinesischen Entwicklern. Mit Nemotron 3 Nano legt Nvidia jetzt nach.",
       "url": "https://www.heise.de/hintergrund/Innovativ-und-fast-vollstaendig-Open-Source-Nvidia-Nemotron-3-Nano-11120636.html",
       "image_title": "Nvidia-Logo an einer Hauswand"
-    },
-    {
-      "title": "RatgeberBastel-Projekt: Oxocard in Circuit-Python programmieren",
-      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Oxocard-in-Circuit-Python-programmieren-11078838.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundUnabhängiger Browser Ladybird mit neuer Engine im Check",
-      "url": "https://www.heise.de/hintergrund/Unabhaengiger-Browser-Ladybird-mit-neuer-Engine-im-Check-10699290.html"
-    },
-    {
-      "title": "RatgeberDynamics 365 mit TypeScript anpassen",
-      "url": "https://www.heise.de/ratgeber/Dynamics-365-mit-TypeScript-anpassen-11091618.html",
-      "image_title": ","
     },
     {
       "title": "Neu in .NET 10.0 [2]: Support für 36 Monate",
@@ -84,11 +101,6 @@
       "teaser": "Windows-Sicherheitsupdates führen zu Störungen des Message Queuing (MSMQ) von Windows 10 und Server bis 2019. Notfallupdates lösen das.",
       "url": "https://www.heise.de/news/Update-ausser-der-Reihe-Microsoft-fixt-Message-Queuing-Probleme-11120586.html",
       "image_title": "Windows Updates verfügbar: Herunterladen"
-    },
-    {
-      "title": "Kommentar: Wenn Copilot zum KO-Pilot wird",
-      "teaser": "Volker Weber macht sich in einer Wutrede Luft, dass ihm die Techkonzerne an jeder Ecke KI verkaufen wollen.",
-      "url": "https://www.heise.de/meinung/Kommentar-Wenn-Copilot-zum-KO-Pilot-wird-11119489.html"
     },
     {
       "title": "Tastatur-Verzögerung entlarvt nordkoreanischen IT-Maulwurf bei Amazon.com",
@@ -136,17 +148,6 @@
       "teaser": "Ein Blick auf das Jahr 2025 zeigt, welche Online-Dienste die weitreichendsten Ausfälle in Europa verzeichneten – von Gaming-Plattformen bis zu Cloud-Anbietern.",
       "url": "https://www.heise.de/news/Jahresrueckblick-der-Stoerungen-Die-groessten-Online-Ausfaelle-2025-11119971.html",
       "image_title": "Ein Hand tippt auf einem Smartphone, darüber gelegt die Ansicht eines Chats mit einem Chatbot"
-    },
-    {
-      "title": "Kubernetes 1.35 bringt in-place Pod-Updates und beendet Support für cgroup-v1",
-      "teaser": "Mit Version 1.35 \"Timbernetes\" lassen sich CPU- und Speicherressourcen von Pods nun ohne Neustart anpassen. Der Support für cgroup v1 und containerd 1.x endet.",
-      "url": "https://www.heise.de/news/Kubernetes-1-35-bringt-in-place-Pod-Updates-und-beendet-Support-fuer-cgroup-v1-11119859.html",
-      "image_title": "Container im Hafen"
-    },
-    {
-      "title": "Frankreich untersucht „ausländische Einmischung“ nach Malware-Fund auf Fähre",
-      "teaser": "Die französische Polizei hat zwei Crew-Mitglieder auf einer Fähre festgenommen. Die wollten sich Zugang zu DV-Systemen verschaffen.",
-      "url": "https://www.heise.de/news/Frankreich-untersucht-auslaendische-Einmischung-nach-Malware-Fund-auf-Faehre-11119833.html"
     },
     {
       "title": "NewsWeltweit kleinster programmierbarer autonomer Roboter kostet nur einen US-Cent",
