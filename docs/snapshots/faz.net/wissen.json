@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-19T15:12:10",
+  "timestamp": "2025-12-19T16:13:35",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "Klima: US-Regierung will Institut für Atmosphärenforschung schließen",
+      "teaser": "Eine der renommiertesten Einrichtungen für Atmosphärenforschung steht möglicherweise vor dem Aus. Eine Katastrophe für die internationale Klimawissenschaft, sagen Experten.",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/us-regierung-will-das-institut-fuer-klimaforschung-ncar-schliessen-200373414.html"
+    },
+    {
       "title": "FAZ+Energiewende: Sturm am Rotorblatt",
       "teaser": "Durch die steigende Wassertemperatur der Meere nehmen Starkwinde zu. Wie gut sind Windräder darauf vorbereitet?",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/sturm-am-rotor-110803875.html"
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/sturm-am-rotor-110803875.html",
+      "image_url": "https://media0.faz.net/image/w730/f936de1245e5/w7849h4415x0y320/202512/874c4435-793a-4968-9edc-95dc4aa7fedc/windkraftanlagen-vor-der.webp",
+      "image_title": "Windkraftanlagen vor der dänischen Küste, von der Nordsee her zieht ein Unwetter auf."
     },
     {
       "title": "Fleischallergie: Tod nach Hamburger",
@@ -93,13 +100,6 @@
       "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/einzigartige-dinosaurier-spuren-in-den-italienischen-alpen-entdeckt-200364133.html",
       "image_url": "https://media0.faz.net/image/w730/1cfda2e8dc95/w2502h1407x0y136/202512/43601.0.1588529538/ein-fussabdruck-eines.webp",
       "image_title": "Ein Fußabdruck eines Prosauropoden aus der späten Trias, der im Fraele-Tal in Norditalien entdeckt wurde"
-    },
-    {
-      "title": "FAZ+Botanik-Kolumne: Wo die riesigen Weihnachtsbäume herkommen",
-      "teaser": "In der Adventszeit schmücken die Kolosse Weihnachtsmärkte und Bürofoyers. Doch nicht alle Riesenweihnachtsbäume sind echt.",
-      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/wo-die-riesigen-weihnachtsbaeume-herkommen-110801871.html",
-      "image_url": "https://media0.faz.net/image/w730/671be4992feb/w3000h1687x0y156/202511/43601.0.1537221030/der-weihnachtsbaum-vor-dem.webp",
-      "image_title": "Der Weihnachtsbaum vor dem Brandenburger Tor kommt in diesem Jahr aus Thüringen."
     },
     {
       "title": "FAZ+Liebe in der Natur: Der Mensch, ein monogames Tier?",
@@ -170,18 +170,18 @@
       "image_title": "Pia Heinemann"
     },
     {
+      "title": "FAZ+Botanik-Kolumne: Wo die riesigen Weihnachtsbäume herkommen",
+      "teaser": "In der Adventszeit schmücken die Kolosse Weihnachtsmärkte und Bürofoyers. Doch nicht alle Riesenweihnachtsbäume sind echt.",
+      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/wo-die-riesigen-weihnachtsbaeume-herkommen-110801871.html",
+      "image_url": "https://media0.faz.net/image/w920/671be4992feb/w3000h1687x0y156/202511/43601.0.1537221030/der-weihnachtsbaum-vor-dem.webp",
+      "image_title": "Der Weihnachtsbaum vor dem Brandenburger Tor kommt in diesem Jahr aus Thüringen."
+    },
+    {
       "title": "Verhaltensforschung: Müssen Tiere in Zukunft mehr kooperieren?",
       "teaser": "Orcas und Delfine unterstützen einander bei der Jagd. Ein solches Verhalten ist selten. Eine Theorie geht davon aus, dass das in Zukunft häufiger vorkommen wird.",
       "url": "https://www.faz.net/aktuell/wissen/leben-gene/kooperation-von-orcas-und-delfinen-zukunftsmodell-der-evolution-accg-110803864.html",
       "image_url": "https://media0.faz.net/image/w920/71939161c034/w1693h952x1056y437/102025/1.10803574/ein-orca-folgt-einer-gruppe.webp",
       "image_title": "Ein Orca folgt einer Gruppe von Weißseitendelfinen."
-    },
-    {
-      "title": "Wissenschaftssoziologie: Wie gehen Forscher mit Ideenklau um?",
-      "teaser": "Angst vor geistigem Diebstahl bremst den wissenschaftlichen Fortschritt. Doch nicht in allen Fällen üben sich Forscher in Geheimniskrämerei.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/wissenschaft-wie-angst-vor-geistigem-diebstahl-die-forschung-beeinflusst-accg-110801869.html",
-      "image_url": "https://media0.faz.net/image/w920/cc16c5321ff0/w3000h1688x0y62/122025/1.10801866/wie-lassen-sich-ideen-vor-dem.webp",
-      "image_title": "Wie lassen sich Ideen vor dem Diebstahl sichern?"
     },
     {
       "title": "FAZ+Tipps zur Zahnhygiene: So schützen Sie sich vor Parodontitis",
@@ -200,7 +200,7 @@
     {
       "title": "FAZ+Managementprofi im Interview: „Ich habe sieben große Effizienzkiller ausgemacht“",
       "teaser": "Christian Zielke hat es vom Hauptschüler ins Management und zum Professor gebracht. Im Interview erklärt er, wie viele E-Mails er nach dem Urlaub einfach löscht, wie Konferenzen besser werden – und wofür man seine Zeit nicht opfern sollte.",
-      "url": "https://www.faz.net/aktuell/karriere-hochschule/buero-co/christian-zielke-ueber-effizientes-arbeiten-sieben-grosse-effizienzkiller-accg-110803390.html",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/buero-co/managementprofi-christian-zielke-ueber-effizientes-arbeiten-accg-110803390.html",
       "image_url": "https://media0.faz.net/image/w730/dba5a489fedb/w6484h3647x0y668/202512/b6807ccc-1172-42fb-b408-8e885b09c7a5/die-redezeit-auf-jeweils-60.webp",
       "image_title": "„Die Redezeit auf jeweils 60 Sekunden begrenzen, jedem Punkt maximal zehn Minuten einräumen“, sagt Zielke."
     },
@@ -386,18 +386,18 @@
       "image_title": "„She loves you yeah yeah yeah“ – früher, da hatten Songtexte noch Anspruch. Aber seit 1973 sind sie simpler und negativer geworden, meinen Forscher herausgefunden zu haben."
     },
     {
+      "title": "Wissenschaftssoziologie: Wie gehen Forscher mit Ideenklau um?",
+      "teaser": "Angst vor geistigem Diebstahl bremst den wissenschaftlichen Fortschritt. Doch nicht in allen Fällen üben sich Forscher in Geheimniskrämerei.",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/wissenschaft-wie-angst-vor-geistigem-diebstahl-die-forschung-beeinflusst-accg-110801869.html",
+      "image_url": "https://media0.faz.net/image/w730/cc16c5321ff0/w3000h1688x0y62/122025/1.10801866/wie-lassen-sich-ideen-vor-dem.webp",
+      "image_title": "Wie lassen sich Ideen vor dem Diebstahl sichern?"
+    },
+    {
       "title": "FAZ+Chancengleichheit: Wann soll das Los entscheiden?",
       "teaser": "Die Zufallsauslese blickt auf eine lange Geschichte zurück. Sie zeigt, in welchen Fällen sie sinnvoll war – und es heute noch sein kann.",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/wann-soll-das-los-entscheiden-110788169.html",
       "image_url": "https://media0.faz.net/image/w730/33952cd3c546/w2960h1665x20y0/112025/1.10788162/bei-der-wehrpflicht-ist-das.webp",
       "image_title": "Bei der Wehrpflicht ist das Los erstmal vom Tisch. Dabei hat das Verfahren Vorteile."
-    },
-    {
-      "title": "Nipperdey über Hegel: Der Anfang des neuen Geistes",
-      "teaser": "Hegels Kritik des Christentums auf dem existenzialistischen Prüfstand: Die philosophische Dissertation des Historikers Thomas Nipperdey aus dem Jahr 1953 ist postum ediert worden.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/die-dissertation-des-historikers-thomas-nipperdey-110626325.html",
-      "image_url": "https://media0.faz.net/image/w730/fed568ef6778/w3000h1688x0y215/202508/1.10632814/als-thomas-nipperdey-in-koeln.webp",
-      "image_title": "Als Thomas Nipperdey in Köln studierte, war das Gelände gegenüber dem zwischen 1929 und 1934 errichteten Hauptgebäude der Universität noch nicht bebaut. Sein Vater Hans Carl Nipperdey war 1925 als Arbeitsrechtler nach Köln berufen worden. Von der britischen Militärregierung im Oktober 1946 entlassen, kehrte er im Mai 1947 auf seinen Lehrstuhl zurück."
     },
     {
       "title": "FAZ+„Genesis Mission“: Revolutioniert Trump die Wissenschaft mit KI?",
