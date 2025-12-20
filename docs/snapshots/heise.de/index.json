@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-20T11:08:13",
+  "timestamp": "2025-12-20T12:18:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,7 +26,11 @@
   ],
   "articles": [
     {
-      "title": "Online-Käufe: Gut sichtbarer Widerrufsknopf wird Pflicht",
+      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11107609.html"
+    },
+    {
+      "title": "Widerrufs-Knopf beim Onlineshoppen beschlossen",
       "url": "https://www.heise.de/news/Online-Kaeufe-Gut-sichtbarer-Widerrufsknopf-wird-Pflicht-11122028.html"
     },
     {
@@ -64,10 +68,6 @@
     {
       "title": "Blau, Blase, Badewanne: Die Bilder der Woche 51",
       "url": "https://www.heise.de/news/Blau-Blase-Badewanne-Die-Bilder-der-Woche-51-11121309.html"
-    },
-    {
-      "title": "Die Farbe Blau: Bringen Sie Ihre Favoriten im c't-Foto-Wettbewerb nach vorn",
-      "url": "https://www.heise.de/news/Die-Farbe-Blau-Bringen-Sie-Ihre-Favoriten-im-c-t-Foto-Wettbewerb-nach-vorn-11118570.html"
     },
     {
       "title": "BerichtChina soll funktionierendes EUV-Lithografie-System haben",
@@ -186,20 +186,26 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Konrad-Zuse-11120806.html"
     },
     {
-      "title": "Online-Käufe: Gut sichtbarer Widerrufsknopf wird Pflicht",
+      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11107609.html",
+      "image_title": "iX-Workshop: Advanced Kubernetes Security"
+    },
+    {
+      "title": "Widerrufs-Knopf beim Onlineshoppen beschlossen",
       "teaser": "Ein Klick statt E-Mail-Pingpong: Ein neuer Widerrufsknopf soll Online-Käufer besser schützen. Was sich für Verbraucher und Patienten bald ändert.",
       "url": "https://www.heise.de/news/Online-Kaeufe-Gut-sichtbarer-Widerrufsknopf-wird-Pflicht-11122028.html"
+    },
+    {
+      "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
+      "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Speicherkrise: Europa steckt kollektiv den Kopf in den Sand",
       "teaser": "Hohe Hardware-Preise durch den KI-Hype belasten Rechenzentren. Daniel Menzel berichtet von dramatischen Folgen für Projekte.",
       "url": "https://www.heise.de/news/Speicherkrise-und-Hyperscaler-Bis-die-Konkurrenten-in-Europa-verhungert-sind-11120872.html",
       "image_title": "Mehrere bunt funkelnde Wafer in einer Plastikhalterung"
-    },
-    {
-      "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
-      "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Bonusprogramme: So zahlt die Krankenkasse Ihre neue Apple Watch",
@@ -227,12 +233,6 @@
       "teaser": "Open-Source-Lizenzen werden ersetzt, populäre Projekte beendet und Images entfernt. Die Anzeichen verdichten sich: Die goldenen Cloud-Native-Zeiten sind vorbei.",
       "url": "https://www.heise.de/hintergrund/Analyse-Projektsterben-in-der-Cloud-Native-Welt-11107110.html",
       "image_title": "Weißer Grabstein, weiße Kreuze, dahinter ein Regenbogen"
-    },
-    {
-      "title": "Blau, Blase, Badewanne: Die Bilder der Woche 51",
-      "teaser": "Von Lapplands Licht bis zur bunten Treppe – die spannendsten Fotos der Woche warten auf Sie.",
-      "url": "https://www.heise.de/news/Blau-Blase-Badewanne-Die-Bilder-der-Woche-51-11121309.html",
-      "image_title": "Herbstliches Licht in Lappland"
     },
     {
       "title": "Verdienst, Lebenshaltung und Co.Auswandern nach Polen",
@@ -326,6 +326,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "Blau, Blase, Badewanne: Die Bilder der Woche 51",
+      "teaser": "Von Lapplands Licht bis zur bunten Treppe – die spannendsten Fotos der Woche warten auf Sie.",
+      "url": "https://www.heise.de/news/Blau-Blase-Badewanne-Die-Bilder-der-Woche-51-11121309.html",
+      "image_title": "Herbstliches Licht in Lappland"
+    },
+    {
       "title": "Die Farbe Blau: Bringen Sie Ihre Favoriten im c't-Foto-Wettbewerb nach vorn",
       "teaser": "Das Jahr neigt sich dem Ende zu – ebenso unser Fotowettbewerb \"Die Farbe Blau\". Nutzen Sie die freien Tage, um Ihre Favoriten mit Punkten zu belohnen.",
       "url": "https://www.heise.de/news/Die-Farbe-Blau-Bringen-Sie-Ihre-Favoriten-im-c-t-Foto-Wettbewerb-nach-vorn-11118570.html"
@@ -393,15 +399,15 @@
       "image_title": "Salesforce-Wolke"
     },
     {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
+    },
+    {
       "title": "KI-Update Deep-Dive: Wie wir in den Redaktionen KI einsetzen",
       "teaser": "Von der automatischen Transkription bis zur Bildgenerierung – KI-Werkzeuge sind in den heise-Redaktionen angekommen. Aber es bleibt alles in menschlicher Hand.",
       "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Wie-wir-in-den-Redaktionen-KI-einsetzen-11117168.html",
       "image_title": "KI-Update-Logo"
-    },
-    {
-      "title": "Digitale Angriffe abwehren: So schützen Sie E-Mails und Collaboration-Tools",
-      "teaser": "Cyberangriffe starten oft per E-Mail, aber auch Cloud-Tools und Browser sind gefährdet. Erfahren Sie in einem Webcast, wie Sie mit mehrschichtiger Sicherheit Ihr Unternehmen schützen. Jetzt anmelden!",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/digitale-angriffe-abwehren-so-schuetzen-sie-e-mails-und-collaboration-tools-4949/?source=hbsad-ersatz"
     },
     {
       "title": "Windows: Weshalb bootende USB-Datenträger maximal 2 TByte groß sein dürfen",
@@ -452,11 +458,6 @@
       "title": "Whitepaper inkl. Selbsttest für IT-Leitungen kostenfrei verfügbar",
       "teaser": "Im Whitepaper wird gezeigt, wie man IT-Teams mit gezieltem Skill-Aufbau erfolgreicher macht. Dazu gibt's direkt einen kostenfreien, interaktiven Selbsttest.",
       "url": "https://www.heise.de/news/Whitepaper-inkl-Selbsttest-fuer-IT-Leitungen-kostenfrei-verfuegbar-11118676.html"
-    },
-    {
-      "title": "Raycast AI nun auch für Windows: Launcher und Produktivwerkzeug im Test",
-      "teaser": "Raycast steuert Macs mit Dutzenden Produktivitätswerkzeugen und KI. Der Tausendsassa ist in einer Windows-Version erschienen.",
-      "url": "https://www.heise.de/tests/Raycast-AI-nun-auch-fuer-Windows-Launcher-und-Produktivwerkzeug-im-Test-11080787.html"
     },
     {
       "title": "Kommentar: Wenn Copilot zum KO-Pilot wird",
@@ -627,20 +628,20 @@
       "url": "https://www.heise.de/en/news/VS-Code-deactivates-IntelliCode-in-favor-of-the-paid-Copilot-11115783.html"
     },
     {
-      "title": "Waipu.tv im Test: Streaming-Stick fürs Internetfernsehen",
-      "teaser": "Für den Internet-TV-Dienst Waipu.tv ist der Streaming-Stick in einer zweiten Auflage erschienen. Die Neuerungen sind überschaubar, aber durchaus sinnvoll.",
-      "url": "https://www.heise.de/tests/Waipu-tv-im-Test-Streaming-Stick-fuers-Internetfernsehen-10748165.html"
-    },
-    {
-      "title": "c't 3003KI: Apple besser als Nvidia!",
-      "teaser": "Lokale Sprachmodelle wie gpt-oss-120b laufen auf Macs extrem effizient und überraschend schnell. Bei Bild- und Videogenerierung hat Nvidia weiter die Nase vorn.",
-      "url": "https://www.heise.de/news/Der-beste-Rechner-fuer-lokale-KI-11120129.html"
+      "title": "The Frame Pro im Test: Bilderrahmenfernseher von Samsung",
+      "teaser": "The Frame ist Fernseher und digitaler Bilderrahmen zugleich. Beim Pro-Modell soll ein neues Backlight den Bildeindruck verbessern. Wir haben genau hingeschaut.",
+      "url": "https://www.heise.de/tests/The-Frame-Pro-im-Test-Bilderrahmenfernseher-von-Samsung-11110989.html"
     },
     {
       "title": "Vorsicht, Kunde! – Glasfaseranschluss verzögert sich",
       "teaser": "Was tun, wenn der versprochene Glasfaseranschluss auf sich warten lässt? Wer im Vorfeld handelt und passende Fristen setzt, kann sein Recht besser durchsetzen.",
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Glasfaseranschluss-verzoegert-sich-11120446.html",
       "image_title": "Eine gelbe Rolle Absperrstreifen mit Aufschrift \"Glasfaserkabel\" und einer aufgedruckten Telefonnnummer liegt auf einem kleinen Stoß Ziegel"
+    },
+    {
+      "title": "c't 3003KI: Apple besser als Nvidia!",
+      "teaser": "Lokale Sprachmodelle wie gpt-oss-120b laufen auf Macs extrem effizient und überraschend schnell. Bei Bild- und Videogenerierung hat Nvidia weiter die Nase vorn.",
+      "url": "https://www.heise.de/news/Der-beste-Rechner-fuer-lokale-KI-11120129.html"
     },
     {
       "title": "Was das iPhone-OS-Update bringtTipps zu den Neuerungen von iOS 26.2",
@@ -743,22 +744,22 @@
       "image_title": "VW ID.3 lädt an einem Schnelllader"
     },
     {
-      "title": "EU leiht Ukraine 90 Milliarden – Plan mit russischen Vermögen gescheitert",
-      "teaser": "Brüssel finanziert Kiew mit einem Kredit aus dem EU-Haushalt. Die Nutzung eingefrorener russischer Gelder erwies sich als zu komplex.",
-      "url": "https://www.heise.de/-11120740",
-      "image_title": "Ukraine und EU-Flaggen über blauem Himmel. Ukraine auf dem Weg zur Europäischen Union"
-    },
-    {
       "title": "Bereitwillig zur Bundeswehr?",
       "teaser": "Ab Januar 2026 erhalten alle volljährig gewordenen jungen Menschen Post von der Bundeswehr. Doch was steht im Fragebogen und muss man ihn ausfüllen?",
       "url": "https://www.heise.de/-11121433",
       "image_title": "Emblem der Bundewehr mit zwei Richtungsweisern: \"Wehrpflicht\" und \"Freiwilligkeit\""
     },
     {
-      "title": "Kampfjets: Warum Russlands Su-75 die westliche Luftmacht herausfordert",
-      "teaser": "Der Westen setzt auf Perfektion. Russland setzt auf ein anderes Muster. Der Ukraine-Krieg zeigt, welche Logik überleben könnte. Eine Einschätzung",
-      "url": "https://www.heise.de/-11120716",
-      "image_title": "Foto eines Su 75-Modells auf einer Ausstellung"
+      "title": "Kein Mitleid mit den Armen: Zur Reform des Bürgergeldes",
+      "teaser": "Strafen statt Hilfe. Verachtung statt Solidarität. Die neue Grausamkeit verrät, wer wir geworden sind. Zur Debatte.",
+      "url": "https://www.heise.de/-11119801",
+      "image_title": "Hände mit leerem Portemonnaie"
+    },
+    {
+      "title": "EU leiht Ukraine 90 Milliarden – Plan mit russischen Vermögen gescheitert",
+      "teaser": "Brüssel finanziert Kiew mit einem Kredit aus dem EU-Haushalt. Die Nutzung eingefrorener russischer Gelder erwies sich als zu komplex.",
+      "url": "https://www.heise.de/-11120740",
+      "image_title": "Ukraine und EU-Flaggen über blauem Himmel. Ukraine auf dem Weg zur Europäischen Union"
     },
     {
       "title": "Windows-11-Laptop im Check: Warum scheuen viele Nutzer den Wechsel?",
