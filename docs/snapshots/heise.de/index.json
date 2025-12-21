@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T13:20:43",
+  "timestamp": "2025-12-21T14:09:30",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,12 @@
     }
   ],
   "articles": [
+    {
+      "title": "Medienzeit: Darum dürfen Kinder an Weihnachten auch mal mehr Fernsehen",
+      "url": "https://www.heise.de/hintergrund/Medienzeit-Darum-duerfen-Kinder-an-Weihnachten-auch-mal-mehr-Fernsehen-11107979.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
     {
       "title": "The Frame Pro im Test: Bilderrahmenfernseher von Samsung",
       "url": "https://www.heise.de/tests/The-Frame-Pro-im-Test-Bilderrahmenfernseher-von-Samsung-11110989.html",
@@ -64,12 +70,6 @@
     {
       "title": "iX-Workshop: PowerShell für Systemadministratoren – Effiziente Automatisierung",
       "url": "https://www.heise.de/news/iX-Workshop-PowerShell-fuer-Systemadministratoren-Effiziente-Automatisierung-11107613.html"
-    },
-    {
-      "title": "Digitale Stellwerke: Neue Technik nicht im Zeitplan",
-      "url": "https://www.heise.de/ratgeber/Digitale-Stellwerke-Neue-Technik-nicht-im-Zeitplan-11077223.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
     },
     {
       "title": "Missing LinkApples erster Partner: Vor 50 Jahren eröffnet der Byte Shop",
@@ -192,20 +192,25 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Konrad-Zuse-11120806.html"
     },
     {
+      "title": "Medienzeit: Darum dürfen Kinder an Weihnachten auch mal mehr Fernsehen",
+      "teaser": "An den Feiertagen ist das Tablet oft im Dauereinsatz. Ein Experte erklärt im Interview, warum das nicht schlimm ist – wenn Sie den richtigen Rahmen stecken.",
+      "url": "https://www.heise.de/hintergrund/Medienzeit-Darum-duerfen-Kinder-an-Weihnachten-auch-mal-mehr-Fernsehen-11107979.html"
+    },
+    {
       "title": "The Frame Pro im Test: Bilderrahmenfernseher von Samsung",
       "teaser": "The Frame ist Fernseher und digitaler Bilderrahmen zugleich. Beim Pro-Modell soll ein neues Backlight den Bildeindruck verbessern. Wir haben genau hingeschaut.",
       "url": "https://www.heise.de/tests/The-Frame-Pro-im-Test-Bilderrahmenfernseher-von-Samsung-11110989.html"
+    },
+    {
+      "title": "Wenn die menschliche Firewall fällt",
+      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Datenvolumen in deutschen Handynetzen wächst um 30 Prozent",
       "teaser": "Video-Chats und Streaming sind Alltag. Das wirkt sich auf die Netze aus, die immer mehr Volumen bewältigen müssen.",
       "url": "https://www.heise.de/news/Datenvolumen-in-deutschen-Handynetzen-waechst-um-30-Prozent-11122362.html",
       "image_title": "Techniker klettert an einem Antennenmast mit Mobilfunkantennen hoch."
-    },
-    {
-      "title": "Wenn die menschliche Firewall fällt",
-      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Cloud-Markt: Gartner prognostiziert Billion US-Dollar bis 2027",
@@ -234,11 +239,6 @@
       "teaser": "Aufgaben optimieren und Systeme verwalten: Lernen Sie, wie Sie mit PowerShell Ihre Windows-Administration effizient automatisieren und optimieren.",
       "url": "https://www.heise.de/news/iX-Workshop-PowerShell-fuer-Systemadministratoren-Effiziente-Automatisierung-11107613.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Digitale Stellwerke: Neue Technik nicht im Zeitplan",
-      "teaser": "Im Projekt Digitale Schiene Deutschland will die Bahn eine neue Generation Stellwerke bauen, doch die Umsetzung holpert. Das steckt hinter den Verzögerungen.",
-      "url": "https://www.heise.de/ratgeber/Digitale-Stellwerke-Neue-Technik-nicht-im-Zeitplan-11077223.html"
     },
     {
       "title": "Verdienst, Lebenshaltung und Co.Auswandern nach Polen",
@@ -332,6 +332,11 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "Digitale Stellwerke: Neue Technik nicht im Zeitplan",
+      "teaser": "Im Projekt Digitale Schiene Deutschland will die Bahn eine neue Generation Stellwerke bauen, doch die Umsetzung holpert. Das steckt hinter den Verzögerungen.",
+      "url": "https://www.heise.de/ratgeber/Digitale-Stellwerke-Neue-Technik-nicht-im-Zeitplan-11077223.html"
+    },
+    {
       "title": "Das beste Heizkörperthermostat im Test – smart heizen und Geld sparen",
       "teaser": "Smarte Heizkörperthermostate helfen, Energie zu sparen. Zudem bieten sie auch mehr Komfort. Wir zeigen die besten Modelle aus unseren Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-smart-heizen-und-geld-sparen/1e43f3r?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -397,15 +402,15 @@
       "url": "https://www.heise.de/news/Die-Jagd-nach-den-Sternen-c-t-Fotografie-1-26-11107254.html"
     },
     {
+      "title": "Gartner-Analyse: In drei Schritten zu erfolgreichen KI-Investitionen",
+      "teaser": "Welche Auswirkungen hat KI auf Produktivität, Wirtschaftlichkeit und Zukunftsfähigkeit von Unternehmen? Welche Rendite bringen Investitionen in KI-Systeme? Antworten liefert Gartner.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/gartner-analyse-in-drei-schritten-zu-erfolgreichen-ki-investitionen/?source=hbsadersatz"
+    },
+    {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
       "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitHub, Kubernetes, TypeScript, Kotlin, State of HTML, Delphi, Next.js, GitLab und LangGrant.",
       "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11118574.html",
       "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
-      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
     },
     {
       "title": "Top 10: Die zehn meist gelesenen Developer-Artikel im Jahr 2025",
@@ -456,12 +461,6 @@
       "title": "BND-Agenten sollen Wohnungen betreten und Bundestrojaner installieren dürfen",
       "teaser": "Kanzleramt reformiert BND-Gesetz: Mehr Befugnisse, inklusive Eindringen in Wohnungen zur Installation von Spionagesoftware.",
       "url": "https://www.heise.de/news/Bundestrojaner-BND-soll-zur-Spyware-Installation-in-Wohnungen-eindringen-duerfen-11121838.html"
-    },
-    {
-      "title": "Waterfox positioniert sich als KI-freie Firefox-Alternative",
-      "teaser": "Während Mozilla Firefox mit KI-Funktionen ausstatten will, geht Waterfox einen anderen Weg: Entwickler Alex Kontos verspricht, keine LLMs zu integrieren.",
-      "url": "https://www.heise.de/news/Waterfox-positioniert-sich-als-KI-freie-Firefox-Alternative-11121736.html",
-      "image_title": "Screenshot von Waterfox"
     },
     {
       "title": "Werbefreiheit bei Prime: Kunden können Entschädigung fordern",
@@ -633,21 +632,21 @@
       "url": "https://www.heise.de/en/news/GeForce-graphics-cards-Nvidia-to-massively-reduce-GPU-production-11118827.html"
     },
     {
+      "title": "c’t uplinkZugreisen: Smarter planen und buchen, Hintergründe verstehen",
+      "teaser": "Im Podcast diskutieren wir, was die Bahn-Digitalisierung bremst. Wir erklären, wie Sie smart buchen, und stellen Tools vor, mit denen Sie unterwegs mehr wissen.",
+      "url": "https://www.heise.de/news/Zugreisen-Smarter-planen-und-buchen-Hintergruende-verstehen-c-t-uplink-11120966.html"
+    },
+    {
+      "title": "c’t-Webinar – Wärmepumpentechnik verstehen",
+      "teaser": "Das c’t-Webinar vermittelt das nötige Grundwissen, um die Eignung von Wärmepumpen für das eigene Haus oder die Wohnung realistisch einzuschätzen.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-verstehen-11111199.html",
+      "image_title": "Wärmepumpe mit Außeneinheit und Steuergerät, ein rosa Sparschwein darauf, blauer Hintergrund, daneben ein Logo: c't Webinar"
+    },
+    {
       "title": "Vorsicht, Kunde! – Glasfaseranschluss verzögert sich",
       "teaser": "Was tun, wenn der versprochene Glasfaseranschluss auf sich warten lässt? Wer im Vorfeld handelt und passende Fristen setzt, kann sein Recht besser durchsetzen.",
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Glasfaseranschluss-verzoegert-sich-11120446.html",
       "image_title": "Eine gelbe Rolle Absperrstreifen mit Aufschrift \"Glasfaserkabel\" und einer aufgedruckten Telefonnnummer liegt auf einem kleinen Stoß Ziegel"
-    },
-    {
-      "title": "Deutsche Glasfaser will Kundin an leeren Anschluss fesseln",
-      "teaser": "Ein Vertrag über einen Internet-Anschluss muss innerhalb vernünftiger Zeit realisiert werden. Die Deutsche Glasfaser will Kunden trotzdem ewig warten lassen.",
-      "url": "https://www.heise.de/ratgeber/Deutsche-Glasfaser-will-Kundin-an-leeren-Anschluss-fesseln-10387729.html",
-      "image_title": "Eine Frau ist wütend, weil ihre Arme durch ein Spule Ethernetkabel an ihren Oberkörper gefesselt sind"
-    },
-    {
-      "title": "c’t uplinkZugreisen: Smarter planen und buchen, Hintergründe verstehen",
-      "teaser": "Im Podcast diskutieren wir, was die Bahn-Digitalisierung bremst. Wir erklären, wie Sie smart buchen, und stellen Tools vor, mit denen Sie unterwegs mehr wissen.",
-      "url": "https://www.heise.de/news/Zugreisen-Smarter-planen-und-buchen-Hintergruende-verstehen-c-t-uplink-11120966.html"
     },
     {
       "title": "Was das iPhone-OS-Update bringtTipps zu den Neuerungen von iOS 26.2",
@@ -745,27 +744,28 @@
       "image_title": "Symbol auf einem Parkplatz für Elektroautos."
     },
     {
-      "title": "Wie Volvo Software für seine Autos testet",
-      "teaser": "Volvo betreibt im schwedischen Göteborg ein Testzentrum, in dem es nicht um die Autos an sich dreht, sondern rein um deren Software. Ein Ortsbesuch.",
-      "url": "https://www.heise.de/hintergrund/Wie-Volvo-Software-fuer-seine-Autos-testet-11099040.html"
+      "title": "Ladeinfrastruktur für ElektroautosLeistung an DC-Ladesäulen steigt deutlich",
+      "teaser": "Der Ausbau der Ladeinfrastruktur hat sich im Jahr 2025 weiter verlangsamt. Dafür hat die Bedeutung von DC-Ladesäulen weiter zugenommen.",
+      "url": "https://www.heise.de/news/Ladeinfrastruktur-2025-Geringeres-Wachstum-und-mehr-Leistung-an-Schnellladern-11116482.html",
+      "image_title": "VW ID.3 lädt an einem Schnelllader"
     },
     {
-      "title": "Ukraine-Hilfen: Warum 185 Milliarden Euro an russischen Geldern die EU spalten",
-      "teaser": "Die EU will 90 Milliarden Euro aus russischem Vermögen für Kiew nutzen – doch manche EU-Staaten fürchten Klagen, Vergeltung und den Kollaps des Euro.",
-      "url": "https://www.heise.de/-11119975",
-      "image_title": "Euroscheine eingefroren in einem Eisblock"
+      "title": "Palantir und Deutschland: Digitale Souveränität muss 2026 zur Priorität werden",
+      "teaser": "Palantir-Chef Karp vermisst deutschen Erfindergeist. Die Antwort muss digitale Souveränität heißen – mit europäischer Software, Datenschutz und Fediverse.",
+      "url": "https://www.heise.de/-11121973",
+      "image_title": "EU-Fahne mit Sternen auf technologischem Hintergrund."
     },
     {
-      "title": "Das Wasser entfernt den Mond von uns",
-      "teaser": "Warum genau entfernt sich der Mond langsam aber stetig von der Erde? Vermittelt durch die Gezeiten wechselwirken Erde und Mond. Und das hat erstaunliche Folgen.",
-      "url": "https://www.heise.de/-11112247",
-      "image_title": "Die Erdkugel geht über dem Mond auf"
+      "title": "83 Milliarden für Panzer: Deutschland rüstet im Eiltempo auf",
+      "teaser": "Deutschland investiert so viel wie nie in Militärfahrzeuge. Im Dezember genehmigte der Bundestag Rüstung für 50 Milliarden Euro. Eine strategische Einordnung.",
+      "url": "https://www.heise.de/-11122275",
+      "image_title": "Puma-Panzer auf einem Foto"
     },
     {
-      "title": "Worauf du bei Weihnachtsgeschenken auf Arbeit achten musst",
-      "teaser": "Geschenke im Büro können schnell zur Compliance-Falle werden. Schon eine Tasse Kaffee kann für Beamte strafbar sein.",
-      "url": "https://www.heise.de/-11122368",
-      "image_title": "Angestellte in einem Unternehmen schenken sich zu Weihnachten Geschenke. Einer sitzt in der Mitte und soll sein Geschenk vor allen anderen auspacken."
+      "title": "EU leiht Ukraine 90 Milliarden – Plan mit russischen Vermögen gescheitert",
+      "teaser": "Brüssel finanziert Kiew mit einem Kredit aus dem EU-Haushalt. Die Nutzung eingefrorener russischer Gelder erwies sich als zu komplex.",
+      "url": "https://www.heise.de/-11120740",
+      "image_title": "Ukraine und EU-Flaggen über blauem Himmel. Ukraine auf dem Weg zur Europäischen Union"
     },
     {
       "title": "Windows-11-Laptop im Check: Warum scheuen viele Nutzer den Wechsel?",
