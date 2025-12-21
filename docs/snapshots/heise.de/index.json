@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T06:15:57",
+  "timestamp": "2025-12-21T07:11:20",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Gaming-Tipps: Was die Redaktion über die Feiertage spielt",
+      "url": "https://www.heise.de/hintergrund/Gaming-Tipps-Was-die-Redaktion-ueber-die-Feiertage-spielt-11112112.html"
+    },
     {
       "title": "Das beste Heizkörperthermostat im Test – smart heizen und Geld sparen",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-smart-heizen-und-geld-sparen/1e43f3r?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -64,10 +68,6 @@
       "url": "https://www.heise.de/tests/Waipu-tv-im-Test-Streaming-Stick-fuers-Internetfernsehen-10748165.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
-      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11107609.html"
     },
     {
       "title": "BerichtChina soll funktionierendes EUV-Lithografie-System haben",
@@ -184,20 +184,26 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Konrad-Zuse-11120806.html"
     },
     {
+      "title": "Gaming-Tipps: Was die Redaktion über die Feiertage spielt",
+      "teaser": "Mit den Feiertagen kommt endlich Zeit für die wichtigen Dinge im Leben. Zwölf persönliche Videospielempfehlungen aus der Redaktion.",
+      "url": "https://www.heise.de/hintergrund/Gaming-Tipps-Was-die-Redaktion-ueber-die-Feiertage-spielt-11112112.html",
+      "image_title": "Screenshot aus \"Hellblade 2\""
+    },
+    {
       "title": "Das beste Heizkörperthermostat im Test – smart heizen und Geld sparen",
       "teaser": "Smarte Heizkörperthermostate helfen, Energie zu sparen. Zudem bieten sie auch mehr Komfort. Wir zeigen die besten Modelle aus unseren Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-smart-heizen-und-geld-sparen/1e43f3r?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wenn die menschliche Firewall fällt",
+      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Bundesrat fordert Digitalabgabe: Tech-Giganten sollen Medienvielfalt finanzieren",
       "teaser": "Die Länderkammer macht Druck auf die Bundesregierung und fordert eine Sonderabgabe für globale Online-Plattformen, um die private Medienlandschaft zu stützen.",
       "url": "https://www.heise.de/news/Bundesrat-fordert-Digitalabgabe-Tech-Giganten-sollen-Medienvielfalt-finanzieren-11122127.html",
       "image_title": "Ein Holzwürfel mit den Buchstaben Small Tech, wobei die beide Würfel mit den Wörtern \"Small\" umgedreht werden zu \"BIG\", was dafür steht, dass Big Tech Produkte kleinere Marktteilnehmer verdrängt."
-    },
-    {
-      "title": "Die „Legacy-Falle“ umgehen, ohne den Betrieb zu gefährden",
-      "teaser": "IT-Beschäftigte stehen vor einem Dilemma: Der Aufwand für Legacy-Systeme, Support-Verträge und Patch-Management lässt kaum Raum für Modernisierung. Die Lösung: Da „Run“-Betrieb an Partner übergeben.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7160913073&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Deutsche nach Kurz-Trip ins All wieder zurück auf der Erde",
@@ -225,12 +231,6 @@
       "title": "Waipu.tv im Test: Streaming-Stick fürs Internetfernsehen",
       "teaser": "Für den Internet-TV-Dienst Waipu.tv ist der Streaming-Stick in einer zweiten Auflage erschienen. Die Neuerungen sind überschaubar, aber durchaus sinnvoll.",
       "url": "https://www.heise.de/tests/Waipu-tv-im-Test-Streaming-Stick-fuers-Internetfernsehen-10748165.html"
-    },
-    {
-      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
-      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11107609.html",
-      "image_title": "iX-Workshop: Advanced Kubernetes Security"
     },
     {
       "title": "Verdienst, Lebenshaltung und Co.Auswandern nach Polen",
@@ -324,6 +324,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11107609.html",
+      "image_title": "iX-Workshop: Advanced Kubernetes Security"
+    },
+    {
       "title": "Widerrufs-Knopf beim Onlineshoppen beschlossen",
       "teaser": "Ein Klick statt E-Mail-Pingpong: Ein neuer Widerrufsknopf soll Online-Käufer besser schützen. Was sich für Verbraucher und Patienten bald ändert.",
       "url": "https://www.heise.de/news/Online-Kaeufe-Gut-sichtbarer-Widerrufsknopf-wird-Pflicht-11122028.html"
@@ -390,15 +396,15 @@
       "image_title": ", Inge Schwabe"
     },
     {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
+    },
+    {
       "title": "Standortdaten: Bundesregierung kauft bei Datenbrokern ein",
       "teaser": "Die Regierung schließt den Kauf von Standortdaten für Sicherheitsbehörden nicht aus, hüllt sich bei Details aber in Schweigen. Experten wittern Rechtsbrüche.",
       "url": "https://www.heise.de/news/Datenhandel-unterm-Radar-Wenn-selbst-der-Staat-beim-Broker-shoppt-11121919.html",
       "image_title": "Gps,Map,,Pin,Address,Location,On,Mobile,Apps.,Double,Exposure"
-    },
-    {
-      "title": "Cyberresilienz: So überstehen Unternehmen einen Cyberangriff!",
-      "teaser": "Eine gute IT-Security-Strategie muss neben Vorsorgemaßnahmen die rasche Erkennung und Eindämmung eines Angriffs sowie die schnelle Wiederherstellung betroffener Systeme umfassen. Die Hardware-Plattform spielt dabei eine Schlüsselrolle.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/security/cyberresilienz-so-ueberstehen-unternehmen-einen-cyberangriff/"
     },
     {
       "title": "Waterfox positioniert sich als KI-freie Firefox-Alternative",
@@ -450,12 +456,6 @@
       "teaser": "Volkswagens Markenchef Thomas Schäfer erteilt neuen Verbrennermodellen in der Kleinwagenklasse eine Absage.",
       "url": "https://www.heise.de/news/VW-Markenchef-Keine-neuen-Verbrenner-Kleinwagen-11121455.html",
       "image_title": "VW ID. Polo von der Seite"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 gegen Angriffe absichern",
-      "teaser": "Lernen Sie effektive technische Maßnahmen kennen, um Microsofts Office-Paket in der Cloud gegen Angriffe abzusichern.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-gegen-Angriffe-absichern-11107593.html",
-      "image_title": "Sichere Konfiguration von Microsoft 365 (iX-Workshop)"
     },
     {
       "title": "Werbefreiheit bei Prime: Kunden können Entschädigung fordern",
@@ -626,14 +626,10 @@
       "url": "https://www.heise.de/en/news/GeForce-graphics-cards-Nvidia-to-massively-reduce-GPU-production-11118827.html"
     },
     {
-      "title": "Unabhängiger Browser Ladybird mit neuer Engine im Check",
-      "teaser": "Der Browser Ladybird basiert auf einer eigenen, neu entwickelten Engine. Wir haben uns das Projekt angesehen und ausprobiert, wie weit Ladybird schon ist.",
-      "url": "https://www.heise.de/hintergrund/Unabhaengiger-Browser-Ladybird-mit-neuer-Engine-im-Check-10699290.html"
-    },
-    {
-      "title": "c’t uplinkZugreisen: Smarter planen und buchen, Hintergründe verstehen",
-      "teaser": "Im Podcast diskutieren wir, was die Bahn-Digitalisierung bremst. Wir erklären, wie Sie smart buchen, und stellen Tools vor, mit denen Sie unterwegs mehr wissen.",
-      "url": "https://www.heise.de/news/Zugreisen-Smarter-planen-und-buchen-Hintergruende-verstehen-c-t-uplink-11120966.html"
+      "title": "Vorsicht, Kunde! – Glasfaseranschluss verzögert sich",
+      "teaser": "Was tun, wenn der versprochene Glasfaseranschluss auf sich warten lässt? Wer im Vorfeld handelt und passende Fristen setzt, kann sein Recht besser durchsetzen.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Glasfaseranschluss-verzoegert-sich-11120446.html",
+      "image_title": "Eine gelbe Rolle Absperrstreifen mit Aufschrift \"Glasfaserkabel\" und einer aufgedruckten Telefonnnummer liegt auf einem kleinen Stoß Ziegel"
     },
     {
       "title": "Deutsche Glasfaser will Kundin an leeren Anschluss fesseln",
@@ -642,22 +638,27 @@
       "image_title": "Eine Frau ist wütend, weil ihre Arme durch ein Spule Ethernetkabel an ihren Oberkörper gefesselt sind"
     },
     {
+      "title": "Unabhängiger Browser Ladybird mit neuer Engine im Check",
+      "teaser": "Der Browser Ladybird basiert auf einer eigenen, neu entwickelten Engine. Wir haben uns das Projekt angesehen und ausprobiert, wie weit Ladybird schon ist.",
+      "url": "https://www.heise.de/hintergrund/Unabhaengiger-Browser-Ladybird-mit-neuer-Engine-im-Check-10699290.html"
+    },
+    {
       "title": "Was das iPhone-OS-Update bringtTipps zu den Neuerungen von iOS 26.2",
       "teaser": "Das erste Punkt-Update macht iOS 26 rund und liefert praktische Funktionen nach. So setzen Sie die Neuerungen auf iPhone und iPad konkret ein.",
       "url": "https://www.heise.de/ratgeber/18-Tipps-Die-besten-Neuerungen-von-iOS-26-1-und-26-2-im-Praxiseinsatz-11056734.html",
       "image_title": "Tipps zu iOS 26.1 und 26.2"
     },
     {
-      "title": "Empfehlungen der Mac & i-RedakteureGeekige Last-Minute-Geschenke für Apple-Nutzer",
-      "teaser": "Weihnachten naht – und der Apple-Nerd in Ihrem Leben benötigt noch ein Geschenk? Die Mac & i-Redaktion hat Tipps für Sie.",
-      "url": "https://www.heise.de/hintergrund/Geekige-Last-Minute-Geschenke-fuer-Apple-Nutzer-11098553.html",
-      "image_title": ", Madlen Grunert / KI / heise medien"
-    },
-    {
       "title": "Bequemer heizen9 smarte Heizkörperthermostate im Test",
       "teaser": "Smarte Heizkörperthermostate regeln die Temperatur und lassen sich aus der Ferne bedienen. Wir testen neun Kandidaten, die man mit dem iPhone steuern kann.",
       "url": "https://www.heise.de/tests/Bequemer-heizen-9-smarte-Heizkoerperthermostate-im-Test-11114056.html",
       "image_title": "Frau mit iPhone vor einem Heizkörper sitzend."
+    },
+    {
+      "title": "Fit für morgenWas Sie für Ihre Gesundheit tun sollten – und wie Apple helfen will",
+      "teaser": "Warum Fitness so wichtig ist, wie die Apple Watch dabei hilft und welche Rolle Apple beim Thema Gesundheit spielen will.",
+      "url": "https://www.heise.de/hintergrund/Fit-fuer-morgen-Apple-Watch-Co-fuer-mehr-Gesundheit-11091101.html",
+      "image_title": "Geräte für die Fitness"
     },
     {
       "title": "AlertSSH-Server Dropbear erlaubt Rechteausweitung",
@@ -742,22 +743,22 @@
       "image_title": "BMW X7"
     },
     {
+      "title": "Das freie Mandat kennt keine Ausnahme – auch nicht bei Richterwahlen",
+      "teaser": "Auch bei Richterwahlen gilt: Abgeordnete dürfen nicht zur Fraktionstreue gezwungen werden. Das Grundgesetz kennt keine Ausnahme. Ein Kommentar.",
+      "url": "https://www.heise.de/-11122119",
+      "image_title": "Lupe über Buch des Grundgesetzes mit der Aufschrift \"Grundgesetz für die Bundesrepublik Deutschland\""
+    },
+    {
       "title": "Die Ära der Biocomputer bricht an – mit menschlichen Hirnzellen",
       "teaser": "Erste Computer mit menschlichen Neuronen sind im Handel. Sie sollen effizienter sein oder der Hirnforschung dienen. Doch Forscher warnen vor ethischen Risiken.",
       "url": "https://www.heise.de/-11121193",
       "image_title": "Ein Labor, in dem menschliche Gehirne an ein Computersystem angeschlossen sind."
     },
     {
-      "title": "EU leiht Ukraine 90 Milliarden – Plan mit russischen Vermögen gescheitert",
-      "teaser": "Brüssel finanziert Kiew mit einem Kredit aus dem EU-Haushalt. Die Nutzung eingefrorener russischer Gelder erwies sich als zu komplex.",
-      "url": "https://www.heise.de/-11120740",
-      "image_title": "Ukraine und EU-Flaggen über blauem Himmel. Ukraine auf dem Weg zur Europäischen Union"
-    },
-    {
-      "title": "Iranisch-russische Bahn: Ein weiterer Nagel im Sarg für westliche Sanktionen",
-      "teaser": "Ein neues Eisenbahnabkommen schließt das letzte Teilstück des wichtigen Nord-Süd-Korridors. Wird das beiden Ländern helfen, westliche Sanktionen zu umgehen?",
-      "url": "https://www.heise.de/-11112147",
-      "image_title": "Händedruck vor den Fahen Russlands und des Irans."
+      "title": "Kein Mitleid mit den Armen: Zur Reform des Bürgergeldes",
+      "teaser": "Strafen statt Hilfe. Verachtung statt Solidarität. Die neue Grausamkeit verrät, wer wir geworden sind. Zur Debatte.",
+      "url": "https://www.heise.de/-11119801",
+      "image_title": "Hände mit leerem Portemonnaie"
     },
     {
       "title": "Windows-11-Laptop im Check: Warum scheuen viele Nutzer den Wechsel?",

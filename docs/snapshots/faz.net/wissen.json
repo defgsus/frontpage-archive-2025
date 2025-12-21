@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-21T06:16:25",
+  "timestamp": "2025-12-21T07:11:43",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "Netzrätsel: Am Rad gedreht",
+      "teaser": "Es gibt so gut wie nichts, was es nicht gibt im Netz der Netze: Geniales, Kurioses, Nostalgisches und liebevoll Zweckfreies. Diesmal: Interaktive Entscheidungshilfe.",
+      "url": "https://www.faz.net/aktuell/wissen/netzraetsel/netzraetsel-am-rad-gedreht-accg-110805737.html"
+    },
+    {
       "title": "„Maven“: NASA verliert Kontakt zu Mars-Sonde",
       "teaser": "Seit zehn Jahren umkreist die NASA-Sonde Maven den Mars und liefert zentrale Daten – nun bleibt sie stumm. Die US-Regierung hält derweil an ihren Plänen für die Rückkehr von Astronauten zum Mond fest.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/maven-nasa-verliert-kontakt-zu-mars-sonde-200377032.html"
+      "url": "https://www.faz.net/aktuell/wissen/weltraum/maven-nasa-verliert-kontakt-zu-mars-sonde-200377032.html",
+      "image_url": "https://media0.faz.net/image/w730/89b0fd8a0224/w1920h1080x0y0/202512/43601.0.1599339457/kuenstlerische-darstellung-der.webp",
+      "image_title": "Künstlerische Darstellung der US-Forschungssonde «Maven» im Orbit des Mars."
     },
     {
       "title": "FAZ+Geologisches Phänomen: Warum Vulkane manchmal nicht explodieren",
@@ -94,13 +101,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/tod-nach-burger-wie-sich-eine-fleischallergie-bemerkbar-macht-110803396.html",
       "image_url": "https://media0.faz.net/image/w730/70354c48da95/w3000h1687x0y156/202504/43601.0.965472417/ein-mann-beisst-in-einen.webp",
       "image_title": "Ein Mann beißt in einen Burger."
-    },
-    {
-      "title": "FAZ+Förderung des Gehirns: Hilft Cheddar gegen Demenz?",
-      "teaser": "Wer Milchprodukte mit viel Fett isst, fördert die Gesundheit seines Gehirns, steht in einer aktuellen Studie. Ist es wirklich so einfach?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/hirngesundheit-schuetzen-fetter-kaese-und-sahne-vor-demenz-accg-200364903.html",
-      "image_url": "https://media0.faz.net/image/w730/5f561c095497/w3000h1687x0y156/202410/43601.0.654278495/cheddar-der-britische-kaese.webp",
-      "image_title": "Cheddar, der britische Käse aus Kuhmilch, enthält in der Trockenmasse rund 50 Prozent Fett, zählt also zu den fettreichen Käsesorten."
     },
     {
       "title": "FAZ+Liebe in der Natur: Der Mensch, ein monogames Tier?",
@@ -171,17 +171,17 @@
       "image_title": "Pia Heinemann"
     },
     {
+      "title": "FAZ+Förderung des Gehirns: Hilft Cheddar gegen Demenz?",
+      "teaser": "Wer Milchprodukte mit viel Fett isst, fördert die Gesundheit seines Gehirns, steht in einer aktuellen Studie. Ist es wirklich so einfach?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/hirngesundheit-schuetzen-fetter-kaese-und-sahne-vor-demenz-accg-200364903.html",
+      "image_url": "https://media0.faz.net/image/w920/5f561c095497/w3000h1687x0y156/202410/43601.0.654278495/cheddar-der-britische-kaese.webp",
+      "image_title": "Cheddar, der britische Käse aus Kuhmilch, enthält in der Trockenmasse rund 50 Prozent Fett, zählt also zu den fettreichen Käsesorten."
+    },
+    {
       "title": "FAZ+Modulares Bauen: Ist das die Zukunft oder nur Plattenbau in neuem Gewand?",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/wissen/forschung-politik/so-hilft-das-baukastenprinzip-beim-bauturbo-der-bundesregierung-200347346.html",
       "image_url": "https://media0.faz.net/image/w920/f42276d5f810/w1920h1080x0y0/202512/17d9b1e2-8443-4c67-ad01-56613bdacc57/8upjtv2xzi7m.webp"
-    },
-    {
-      "title": "FAZ+Manipulation: Forscher durchleuchten die Schattenwirtschaft im Netz",
-      "teaser": "Für Betrug im Internet braucht man Konten auf Online-Plattformen. Forscher decken den Handel damit auf. Deutsche Fake-Accounts sind nicht die billigsten.",
-      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/betrug-im-internet-forscher-durchleuchten-markt-fuer-online-manipulation-110803865.html",
-      "image_url": "https://media0.faz.net/image/w920/c4805271fb63/w3000h1687x0y155/201507/43601.0.269245986/fuer-missetaten-im-netz.webp",
-      "image_title": "Für Missetaten im Netz benötigen Übeltäter oft Handynummern, Forscher decken das Geschäft dahinter auf. Karte der Cybercrime-Aktivität bei einem Workshop des hessischen Justizministeriums (Symbolbild)"
     },
     {
       "title": "FAZ+Tipps zur Zahnhygiene: So schützen Sie sich vor Parodontitis",
@@ -337,10 +337,17 @@
       "image_title": "Leiser und schwerer: Sind E-Autos auch gefährlicher für Fußgänger?"
     },
     {
+      "title": "FAZ+Manipulation: Forscher durchleuchten die Schattenwirtschaft im Netz",
+      "teaser": "Für Betrug im Internet braucht man Konten auf Online-Plattformen. Forscher decken den Handel damit auf. Deutsche Fake-Accounts sind nicht die billigsten.",
+      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/betrug-im-internet-forscher-durchleuchten-markt-fuer-online-manipulation-110803865.html",
+      "image_url": "https://media0.faz.net/image/w920/5d8b04e4ca72/w3000h1285x0y355/201507/43601.0.269245986/fuer-missetaten-im-netz.webp",
+      "image_title": "Für Missetaten im Netz benötigen Übeltäter oft Handynummern, Forscher decken das Geschäft dahinter auf. Karte der Cybercrime-Aktivität bei einem Workshop des hessischen Justizministeriums (Symbolbild)"
+    },
+    {
       "title": "FAZ+Klischees in BIldern: Verzerrte KI-Welt",
       "teaser": "Bildgeneratoren wie Midjourney oder Stable Diffusion sind beliebt. Doch die Ergebnisse stecken voller Stereotype. Warum man das Problem nicht in den Griff bekommt.",
       "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/ai-slop-und-bias-bei-ki-bildgeneratoren-wie-midjourney-stable-diffusion-co-110787426.html",
-      "image_url": "https://media0.faz.net/image/w920/1cfed0a1c1a9/w1252h536x0y230/112025/1.10787413/festgefahren-im-klischee.webp",
+      "image_url": "https://media0.faz.net/image/w730/bb69c0d718b5/w1252h704x0y130/112025/1.10787413/festgefahren-im-klischee.webp",
       "image_title": "Festgefahren im Klischee: Dieses Bild stammt aus einer wissenschaftlichen Studie. Die KI sollte einen „schwarzen afrikanischen Doktor“ zeigen, der „armen und kranken weißen Kindern hilft“."
     },
     {
@@ -349,13 +356,6 @@
       "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/ai-slop-die-flut-der-ki-bilder-zerstoert-unser-vertrauen-110787427.html",
       "image_url": "https://media0.faz.net/image/w730/91a7a849327b/w1080h608x0y63/112025/1.10787416/eine-politikerin-in-den-usa.webp",
       "image_title": "Eine Politikerin in den USA hat dieses KI-Bild im Kontext von Hurrikan Helene als Kritik am politischen Gegner verbreitet."
-    },
-    {
-      "title": "FAZ+Chatbots und Jugendliche: So gewinnen KI-Chatbots das Vertrauen junger Nutzer",
-      "teaser": "Immer da, nie urteilend, scheinbar einfühlsam: So gewinnen Chatbots das Vertrauen junger Nutzer. Manche führen sogar romantische Beziehungen mit der KI. Wann das kippt – und welche Schutzmechanismen fehlen.",
-      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/ki-gefaehrten-und-teenager-wann-der-flirt-mit-dem-chatbot-gefaehrlich-wird-accg-110691944.html",
-      "image_url": "https://media0.faz.net/image/w730/23cdeb584970/w3000h1687x0y313/202509/1.10691937/verlockende-versprechen-laut.webp",
-      "image_title": "Verlockende Versprechen: Laut einer Umfrage aus den USA nutzt jeder zweite Teenager soziale KI-Begleiter."
     },
     {
       "title": "In Norditalien: Forscher entdecken einzigartige Dinosaurier-Spuren",
