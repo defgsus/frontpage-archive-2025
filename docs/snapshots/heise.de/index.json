@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T12:22:15",
+  "timestamp": "2025-12-22T13:27:28",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop Keycloak: Die Grundlagen für effizientes IAM und SSO",
+      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Die-Grundlagen-fuer-effizientes-IAM-und-SSO-11109341.html"
+    },
+    {
+      "title": "Bluthochdruckwarner in der Apple Watch: So arbeitet die neue Funktion",
+      "url": "https://www.heise.de/tests/Bluthochdruckwarner-in-der-Apple-Watch-So-arbeitet-die-neue-Funktion-11090317.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Festplattenfunde im Heizungskeller: Gemeinde erklärt sich",
+      "url": "https://www.heise.de/news/Festplattenfunde-im-Heizungskeller-Gemeinde-erklaert-sich-11122974.html"
+    },
     {
       "title": "Sicherheitspatches: DoS-Attacken auf IBM App Connect Enterprise möglich",
       "url": "https://www.heise.de/news/Sicherheitspatches-DoS-Attacken-auf-IBM-App-Connect-Enterprise-moeglich-11122938.html"
@@ -54,18 +68,6 @@
     {
       "title": "Die Produktwerker: Das Spannungsfeld zwischen Vertrieb und Produktentwicklung",
       "url": "https://www.heise.de/blog/Die-Produktwerker-Das-Spannungsfeld-zwischen-Vertrieb-und-Produktentwicklung-11122722.html"
-    },
-    {
-      "title": "BIOS-Sicherheitslücke: Angreifer können Schadcode auf Dell-Server schieben",
-      "url": "https://www.heise.de/news/BIOS-Sicherheitsluecke-Schadcode-Attacken-auf-Dell-Server-moeglich-11122626.html"
-    },
-    {
-      "title": "Rechtsvorschau 2026: Das ändert sich für ITler im nächsten Jahr",
-      "url": "https://www.heise.de/hintergrund/Vorschau-2026-Was-aendert-sich-im-europaeischen-und-deutschen-IT-Recht-11112525.html"
-    },
-    {
-      "title": "Klingbeil mahnt Autoindustrie, ihre elektrische Zukunft nicht zu vergessen",
-      "url": "https://www.heise.de/news/Klingbeil-mant-Autoindustrie-ihre-elektrische-Zukunft-nicht-zu-vergessen-11122688.html"
     },
     {
       "title": "NASA und BoeingLängere und schmalere Tragflächen sollen Flugeffizienz steigern",
@@ -184,6 +186,28 @@
       "image_title": "Renderbild eines halboffenen ASML-EUV-Lithografie-Systems vom Typ NXE:3400"
     },
     {
+      "title": "iX-Workshop Keycloak: Die Grundlagen für effizientes IAM und SSO",
+      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Die-Grundlagen-fuer-effizientes-IAM-und-SSO-11109341.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "Bluthochdruckwarner in der Apple Watch: So arbeitet die neue Funktion",
+      "teaser": "Hypertonie ist eine oft erst spät entdeckte Volkskrankheit. Die Apple Watch soll das ändern. Wir zeigen, wie gut es funktioniert – und die Einschränkungen.",
+      "url": "https://www.heise.de/tests/Bluthochdruckwarner-in-der-Apple-Watch-So-arbeitet-die-neue-Funktion-11090317.html"
+    },
+    {
+      "title": "Wenn die menschliche Firewall fällt",
+      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Festplattenfunde im Heizungskeller: Gemeinde erklärt sich",
+      "teaser": "Wir berichteten über ungesichert gelagerte Datenträger einer Gemeinde. Der Bürgermeister räumt nun ein, dass er einen Abfluss der Daten nicht ausschließen kann.",
+      "url": "https://www.heise.de/news/Festplattenfunde-im-Heizungskeller-Gemeinde-erklaert-sich-11122974.html",
+      "image_title": "Bild von Datenträgern in der Gemeinde im Heizungskeller"
+    },
+    {
       "title": "AlertSicherheitspatches: DoS-Attacken auf IBM App Connect Enterprise möglich",
       "teaser": "IBMs Integrationssoftwareangebot App Connect Enterprise ist verwundbar. In aktuellen Versionen haben die Entwickler eine Sicherheitslücke geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitspatches-DoS-Attacken-auf-IBM-App-Connect-Enterprise-moeglich-11122938.html",
@@ -194,11 +218,6 @@
       "teaser": "Ein Forschungsteam hat die Evolution des Auges in einer Physik-Simulation nachgebaut. Die Ergebnisse zeigen, warum die Natur so unterschiedliche Formen wählte.",
       "url": "https://www.heise.de/news/KI-simuliert-Evolution-So-entstehen-Insekten-und-Linsenaugen-11122775.html",
       "image_title": "Facettenaugen einer Ormia ochracea"
-    },
-    {
-      "title": "Wenn die menschliche Firewall fällt",
-      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Flugtaxi der Boeing-Tochter Wisk Aero absolviert Erstflug",
@@ -216,24 +235,6 @@
       "title": "30 Jahre Java – Interview mit Community-Vertretern (Teil 1)",
       "teaser": "Java ist 2025 schon 30 Jahre alt. Das ist ein guter Zeitpunkt, zurück, aber auch nach vorn zu blicken.",
       "url": "https://www.heise.de/blog/30-Jahre-Java-Interview-mit-Community-Vertretern-Teil-1-10328653.html"
-    },
-    {
-      "title": "Krisenchat: \"Wenn Familien an den Feiertagen aufeinandersitzen, kracht es oft\"",
-      "teaser": "Für viele junge Menschen bedeuten die Feiertage rund um Weihnachten Stress. Krisenchat stockt aufgrund der steigenden Nachfrage seine Kapazitäten auf.",
-      "url": "https://www.heise.de/hintergrund/Krisenchat-fuer-Kinder-Anfragen-wegen-Konflikten-steigen-an-den-Feiertagen-11121033.html",
-      "image_title": "Jugendliche an einem Smartphone, ein Sofa im Rücken."
-    },
-    {
-      "title": "Die Produktwerker: Das Spannungsfeld zwischen Vertrieb und Produktentwicklung",
-      "teaser": "Die Produktwerker diskutieren darüber, wie unterschiedliche Ziele und Zeithorizonte zu Spannungen zwischen Vertrieb und Produktentwicklung führen können.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Das-Spannungsfeld-zwischen-Vertrieb-und-Produktentwicklung-11122722.html",
-      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
-    },
-    {
-      "title": "AlertBIOS-Sicherheitslücke: Angreifer können Schadcode auf Dell-Server schieben",
-      "teaser": "Verschiedene Modelle von Dells PowerEdge-Server-Reihe sind verwundbar. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/BIOS-Sicherheitsluecke-Schadcode-Attacken-auf-Dell-Server-moeglich-11122626.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "Verdienst, Lebenshaltung und Co.Auswandern nach Polen",
@@ -327,6 +328,24 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "Krisenchat: \"Wenn Familien an den Feiertagen aufeinandersitzen, kracht es oft\"",
+      "teaser": "Für viele junge Menschen bedeuten die Feiertage rund um Weihnachten Stress. Krisenchat stockt aufgrund der steigenden Nachfrage seine Kapazitäten auf.",
+      "url": "https://www.heise.de/hintergrund/Krisenchat-fuer-Kinder-Anfragen-wegen-Konflikten-steigen-an-den-Feiertagen-11121033.html",
+      "image_title": "Jugendliche an einem Smartphone, ein Sofa im Rücken."
+    },
+    {
+      "title": "Die Produktwerker: Das Spannungsfeld zwischen Vertrieb und Produktentwicklung",
+      "teaser": "Die Produktwerker diskutieren darüber, wie unterschiedliche Ziele und Zeithorizonte zu Spannungen zwischen Vertrieb und Produktentwicklung führen können.",
+      "url": "https://www.heise.de/blog/Die-Produktwerker-Das-Spannungsfeld-zwischen-Vertrieb-und-Produktentwicklung-11122722.html",
+      "image_title": "Produktwerker auf einem Bild (3 Männer), dazu Text \"Der Podcast für Product Owner\""
+    },
+    {
+      "title": "AlertBIOS-Sicherheitslücke: Angreifer können Schadcode auf Dell-Server schieben",
+      "teaser": "Verschiedene Modelle von Dells PowerEdge-Server-Reihe sind verwundbar. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsluecke-Schadcode-Attacken-auf-Dell-Server-moeglich-11122626.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
       "title": "Klingbeil mahnt Autoindustrie, ihre elektrische Zukunft nicht zu vergessen",
       "teaser": "Finanzminister Klingbeil fordert Tempo beim E-Auto, weil Verbrenner keine dauerhafte Zukunft haben. Verkehrsminister Schnieder verteidigt die neuen Pläne.",
       "url": "https://www.heise.de/news/Klingbeil-mant-Autoindustrie-ihre-elektrische-Zukunft-nicht-zu-vergessen-11122688.html",
@@ -379,16 +398,15 @@
       "url": "https://www.heise.de/ratgeber/Bonusprogramme-So-zahlt-die-Krankenkasse-Ihre-neue-Apple-Watch-10657327.html"
     },
     {
-      "title": "VW Tayron eHybrid im Test: Der große Brummer",
-      "teaser": "VW gibt der Idee eines vergrößerten Tiguan eine zweite Chance. Der Tayron ist erwartungsgemäß überraschungsarm und gut. Nur an einer Stelle muss VW nachlegen.",
-      "url": "https://www.heise.de/tests/VW-Tayron-eHybrid-im-Test-Der-grosse-Brummer-11104535.html",
-      "image_title": "VW Tayron"
-    },
-    {
       "title": "Funken, Feinstaub, Fotofreude: Click Boom Flash # 53 Feuerwerksfotografie",
       "teaser": "„Das klingt vielleicht merkwürdig, aber wenn man Erfahrung hat, hört man sogar, welcher Effekt als nächstes kommen kann“, sagt Fotograf Reiter über Feuerwerke.",
       "url": "https://www.heise.de/news/Funken-Feinstaub-Fotofreude-Click-Boom-Flash-53-Feuerwerksfotografie-11118293.html",
       "image_title": "Feuerwerksfotografie"
+    },
+    {
+      "title": "Digitale Souveränität muss kein Wunschtraum bleiben",
+      "teaser": "Viele deutsche Unternehmen sind von ausländischer IT abhängig. Ein Webcast zeigt Ihnen, wie Sie das Steuer auf dem Weg in die digitale Zukunft in die eigene Hand nehmen können.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/ihre-it-ihre-regeln-souveraene-strategien-und-technologien-fuer-hybrid-it-compliance-und-datenhoheit-4992/?source=hbsad-ersatz"
     },
     {
       "title": "Bundeskartellamt verhängt 2025 weniger Bußgelder",
@@ -401,11 +419,6 @@
       "teaser": "Gesetzentwurf in ministerieller Abstimmung + Milliarden-Boost für Big-Tech + Warnung von US-Firmen vor Visa-Prüfung + Avatar-Spiel unterschätzt + Trump pro Mond",
       "url": "https://www.heise.de/news/Montag-Rueckkehr-der-Vorratsdatenspeicherung-Deutschlandfonds-fuer-Tech-Boost-11122456.html",
       "image_title": "Hand auf Computertatastatur in dunklem Zimmer; Montag: IP-Speicherung, Big-Tech-Investitionen, US-Visa-Prüfungen, Avatar-Spieljuwel & Trump-Mondfahrt"
-    },
-    {
-      "title": "KI-Datacenter: offene Standards für mehr Effizienz und Leistung",
-      "teaser": "Leistungsdichte und Energiebedarf von KI-Rechenzentren erfordern neue Hardware-Lösungen. Das Open Compute Project treibt mit offenen Standards die Entwicklung leistungsfähiger Infrastrukturen voran.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/ki-datacenter-offene-standards-fuer-mehr-effizienz-und-leistung/?source=hbsadersatz"
     },
     {
       "title": "Milliarden-Boost für Deep Tech: Regierung und KfW zünden den Deutschlandfonds",
@@ -450,16 +463,6 @@
       "teaser": "Das c’t-Webinar vermittelt das nötige Grundwissen, um die Eignung von Wärmepumpen für das eigene Haus oder die Wohnung realistisch einzuschätzen.",
       "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-verstehen-11111199.html",
       "image_title": "Wärmepumpe mit Außeneinheit und Steuergerät, ein rosa Sparschwein darauf, blauer Hintergrund, daneben ein Logo: c't Webinar"
-    },
-    {
-      "title": "Gutachter: EU-Kommission will eine \"uferlose Sonderrechtszone\" für KI",
-      "teaser": "In einer Rechtsanalyse für Verbraucherschützer warnen Experten vor massiven Schutzlücken durch den geplanten \"digitalen EU-Omnibus\". Big Tech werde bevorzugt.",
-      "url": "https://www.heise.de/news/Gutachter-EU-Kommission-will-eine-uferlose-Sonderrechtszone-fuer-KI-11122143.html"
-    },
-    {
-      "title": "Dwarf Mini: Leichtes Smart-Teleskop für Astrofotografie unterwegs im Test",
-      "teaser": "Das Dwarf Mini unterschreitet erstmals die 1-kg-Marke bei Smart-Teleskopen. Der Test zeigt, ob es bei der Bildqualität mit größeren Geräten mithalten kann.",
-      "url": "https://www.heise.de/tests/Dwarf-Mini-Leichtes-Smart-Teleskop-fuer-Astrofotografie-unterwegs-im-Test-11093910.html"
     },
     {
       "title": "Werbefreiheit bei Prime: Kunden können Entschädigung fordern",
@@ -535,6 +538,10 @@
       "image_title": "Airbus"
     },
     {
+      "title": "Gutachter: EU-Kommission will eine \"uferlose Sonderrechtszone\" für KI",
+      "url": "https://www.heise.de/news/Gutachter-EU-Kommission-will-eine-uferlose-Sonderrechtszone-fuer-KI-11122143.html"
+    },
+    {
       "title": "BND-Agenten sollen Wohnungen betreten und Bundestrojaner installieren dürfen",
       "url": "https://www.heise.de/news/Bundestrojaner-BND-soll-zur-Spyware-Installation-in-Wohnungen-eindringen-duerfen-11121838.html"
     },
@@ -542,11 +549,6 @@
       "title": "Standortdaten: Bundesregierung kauft bei Datenbrokern ein",
       "url": "https://www.heise.de/news/Datenhandel-unterm-Radar-Wenn-selbst-der-Staat-beim-Broker-shoppt-11121919.html",
       "image_title": "Gps,Map,,Pin,Address,Location,On,Mobile,Apps.,Double,Exposure"
-    },
-    {
-      "title": "Bundesrat fordert Digitalabgabe: Tech-Giganten sollen Medienvielfalt finanzieren",
-      "url": "https://www.heise.de/news/Bundesrat-fordert-Digitalabgabe-Tech-Giganten-sollen-Medienvielfalt-finanzieren-11122127.html",
-      "image_title": "Ein Holzwürfel mit den Buchstaben Small Tech, wobei die beide Würfel mit den Wörtern \"Small\" umgedreht werden zu \"BIG\", was dafür steht, dass Big Tech Produkte kleinere Marktteilnehmer verdrängt."
     },
     {
       "title": "Deutsche nach Kurz-Trip ins All wieder zurück auf der Erde",
@@ -629,20 +631,19 @@
       "url": "https://www.heise.de/en/news/SSD-Afterburner-Windows-11-also-has-Microsoft-s-new-NVMe-driver-11121667.html"
     },
     {
-      "title": "Die Erfahrungen von Behörden und Unternehmen mit freien MS-Office-Alternativen",
-      "teaser": "Nicht wunschlos glücklich, aber zufrieden: Wir haben Vorreiter wie Schleswig-Holstein und Schwäbisch-Hall zu ihren Erfahrungen mit LibreOffice & Co. befragt.",
-      "url": "https://www.heise.de/ratgeber/Die-Erfahrungen-von-Behoerden-und-Unternehmen-mit-freien-MS-Office-Alternativen-11069385.html"
-    },
-    {
-      "title": "Mathematiker schlussfolgern: Wir leben nicht in einer Simulation",
-      "teaser": "Einer Theorie nach könnte unsere Welt nichts weiter sein als eine Simulation. Mathematiker wollen nun widerlegt haben, dass wir in der Matrix leben.",
-      "url": "https://www.heise.de/hintergrund/Mathematiker-schlussfolgern-Wir-leben-nicht-in-einer-Simulation-11109202.html",
-      "image_title": "Rote und Blaue Kapsel"
-    },
-    {
       "title": "Microsoft Office: Drei gute Alternativen ausprobiert",
       "teaser": "Wer nach datenschutzfreundlichem und günstigerem oder kostenlosem Ersatz für die MS-Office-Programmen sucht, findet mindestens drei gute Alternativen.",
       "url": "https://www.heise.de/ratgeber/Microsoft-Office-Drei-gute-Alternativen-ausprobiert-11069349.html"
+    },
+    {
+      "title": "Für AnwenderWarum Microsoft Office eigentlich nicht mehr tragbar ist",
+      "teaser": "Gründe, Microsoft Office den Rücken zu kehren, gibt es mehr als genug. Der Schritt ist fast immer möglich.",
+      "url": "https://www.heise.de/ratgeber/Warum-Microsoft-Office-fuer-Anwender-eigentlich-nicht-mehr-tragbar-ist-11069337.html"
+    },
+    {
+      "title": "Die Erfahrungen von Behörden und Unternehmen mit freien MS-Office-Alternativen",
+      "teaser": "Nicht wunschlos glücklich, aber zufrieden: Wir haben Vorreiter wie Schleswig-Holstein und Schwäbisch-Hall zu ihren Erfahrungen mit LibreOffice & Co. befragt.",
+      "url": "https://www.heise.de/ratgeber/Die-Erfahrungen-von-Behoerden-und-Unternehmen-mit-freien-MS-Office-Alternativen-11069385.html"
     },
     {
       "title": "Was das iPhone-OS-Update bringtTipps zu den Neuerungen von iOS 26.2",
@@ -663,6 +664,12 @@
       "image_title": "Geräte für die Fitness"
     },
     {
+      "title": "Bastel-Projekt: Oxocard in Circuit-Python programmieren",
+      "teaser": "CircuitPython bietet viele Vorteile, darunter eine breite Auswahl an Bibliotheken und eine große Community. Der Beitrag zeigt, wie der Umstieg gelingt.",
+      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Oxocard-in-Circuit-Python-programmieren-11078838.html",
+      "image_title": ","
+    },
+    {
       "title": "AlertSSH-Server Dropbear erlaubt Rechteausweitung",
       "teaser": "Der schlanke SSH-Server Dropbear stopft mit einer aktualisierten Version unter anderem eine Rechteausweitungslücke.",
       "url": "https://www.heise.de/news/SSH-Server-Dropbear-erlaubt-Rechteausweitung-11119207.html",
@@ -673,12 +680,6 @@
       "teaser": "Das neue Modell bietet die gewohnte Rechenleistung, ist aber dank weniger RAM günstiger für viele Anwendungen.",
       "url": "https://www.heise.de/news/Raspberry-Pi-5-mit-1-GB-RAM-Performance-zum-Einstiegspreis-jeder-Dollar-zaehlt-11116470.html",
       "image_title": "Aufmacher mit CAD und Raspi 5"
-    },
-    {
-      "title": "Forschungsprojekt präsentiert Online-Hilfe für energetische Haussanierung",
-      "teaser": "Das kostenlose Online-Tool „Building Dialogue“ ist ein unabhängiger, praxisnaher Wegweiser für Hausbesitzer, die Wohneigentum energetisch verbessern möchten.",
-      "url": "https://www.heise.de/news/Forschungsprojekt-praesentiert-Online-Hilfe-fuer-energetische-Haussanierung-11115507.html",
-      "image_title": "Grafische Darstellung von einem Weg mit Wegpunkten, die jeweils für unterschiedliche Möglichkeiten der energetischen Sanierung von Häusern stehen."
     },
     {
       "title": "Fototour Hamburger Bunker: Von Kriegsrelikten zur Stadtarchitektur",
@@ -745,37 +746,37 @@
       "image_title": "Hyundai Staria Hybrid"
     },
     {
-      "title": "Sea Baby: Wie Kiew Russlands Schwarzmeerflotte attackiert",
-      "teaser": "Die Ukraine setzt Drohnen ein, die bis zu 850 kg Sprengstoff tragen – und damit Russlands Kriegsfinanzierung empfindlich treffen könnten.",
-      "url": "https://www.heise.de/-11122497",
-      "image_title": "Grafik, die eine ukrainische Seedrohne zeigt, die einen Tanker attackiert."
+      "title": "83 Milliarden für Panzer: Deutschland rüstet im Eiltempo auf",
+      "teaser": "Deutschland investiert so viel wie nie in Militärfahrzeuge. Im Dezember genehmigte der Bundestag Rüstung für 50 Milliarden Euro. Eine strategische Einordnung.",
+      "url": "https://www.heise.de/-11122275",
+      "image_title": "Puma-Panzer auf einem Foto"
     },
     {
-      "title": "Historisches Defizit: Deutschlands Staatsschulden explodieren auf 68 Prozent",
-      "teaser": "Seit der Wiedervereinigung gab es das nicht: Die Defizitquote verdoppelt sich auf 4,8 Prozent. Bundesbankchef fordert jetzt Konsequenzen.",
-      "url": "https://www.heise.de/-11121461",
-      "image_title": "Der Bau steht nicht still - ein kleiner Lichtblick in den Prognosen für die wirtschaftliche Entwicklung der kommenden Jahre."
+      "title": "Palantir und Deutschland: Digitale Souveränität muss 2026 zur Priorität werden",
+      "teaser": "Palantir-Chef Karp vermisst deutschen Erfindergeist. Die Antwort muss digitale Souveränität heißen – mit europäischer Software, Datenschutz und Fediverse.",
+      "url": "https://www.heise.de/-11121973",
+      "image_title": "EU-Fahne mit Sternen auf technologischem Hintergrund."
     },
     {
-      "title": "Palantir: Wenn Software über Leben und Tod entscheidet",
-      "teaser": "Palantir analysiert Daten für Behörden. Die Software erkennt Muster und trifft Entscheidungen. Doch wer kontrolliert die Macht der Algorithmen?",
-      "url": "https://www.heise.de/-11120958",
-      "image_title": "Palantir-Logo"
+      "title": "TFA: Die Ewigkeitschemikalie im deutschen Trinkwasser",
+      "teaser": "Über Jahre wurde TFA legal in öffentlichen Gewässern verklappt. Jetzt wird gerätselt, wie man den unerwünschten Stoff wieder aus der Umwelt entfernen kann.",
+      "url": "https://www.heise.de/-11113332",
+      "image_title": "Totenkopfaufkleber auf Flasche"
+    },
+    {
+      "title": "Diese KI‑Prompts machen aus deinem Selfie ein Business‑Porträt",
+      "teaser": "Du brauchst für eine Bewerbung oder einen Auftritt ein professionelles Foto, kannst aber kurzfristig nicht zu einem Fotografen gehen? Mit KI baust du dir aus einer bestehenden Aufnahme schnell ein passendes Bild.",
+      "url": "https://t3n.de/news/ki-prompts-business-portraet-selfie-1722580/"
+    },
+    {
+      "title": "Zwischen KI-Boom und globalen Turbulenzen: Was Anleger 2026 wissen sollten",
+      "teaser": "2025 war ein Jahr der Extreme an den Finanzmärkten: Während KI-Aktien die US-Börsen zu neuen Höhen trieben, sorgten geopolitische und wirtschaftliche Unsicherheiten immer wieder für Turbulenzen. Wie Anleger:innen sich jetzt auf 2026 vorbereiten können.",
+      "url": "https://t3n.de/news/zwischen-ki-boom-und-globalen-turbulenzen-was-anleger-2026-wissen-sollten-1722555/"
     },
     {
       "title": "Windows-11-Laptop im Check: Warum scheuen viele Nutzer den Wechsel?",
       "teaser": "In den vergangenen Monaten haben die PC-Verkäufe zugenommen. Ein Treiber ist das Support-Aus von Windows 10. Doch längst nicht alle wechseln zum neueren Windows 11. Hat es mit der Hardware zu tun? Wir machen den Check.",
       "url": "https://t3n.de/news/windows-11-laptop-check-warum-scheuen-nutzer-wechsel-1722343/"
-    },
-    {
-      "title": "Selbstständige: Diese kostenlosen Tools helfen bei der Automatisierung",
-      "teaser": "Selbstständige und Marketer: Diese kostenlosen Tools helfen bei der Automatisierung",
-      "url": "https://t3n.de/news/selbststaendige-marketer-kostenlose-tools-1715221/"
-    },
-    {
-      "title": "Von „Vibe-Coding“ bis „Slop“: Das sind die Wörter des Jahres 2025",
-      "teaser": "Sprachgesellschaften und Verlage blicken zurück – und kommen sowohl im Englischen als auch im Deutschen zu einem ähnlichen Ergebnis: Kein Thema hat den Wortschatz in diesem Jahr so sehr geprägt wie KI.",
-      "url": "https://t3n.de/news/von-vibe-coding-bis-slop-das-sind-die-woerter-des-jahres-2025-1722106/"
     },
     {
       "title": "Bitdefender Antivirus Plus im Test: Virenschutz ohne Alarmismus",
