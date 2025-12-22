@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-22T17:10:24",
+  "timestamp": "2025-12-22T18:16:23",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wettlauf um Quantencomputer: Europa droht den Anschluss zu verlieren",
+      "url": "https://www.heise.de/news/Wettlauf-um-Quantencomputer-Europa-droht-den-Anschluss-zu-verlieren-11123329.html"
+    },
     {
       "title": "Aus für digitale Anonymität? Hubig wagt riskanten Vorstoß zur IP-Speicherung",
       "url": "https://www.heise.de/hintergrund/Aus-fuer-digitale-Anonymitaet-Hubig-wagt-riskanten-Vorstoss-zur-IP-Speicherung-11123312.html"
@@ -64,10 +68,6 @@
     {
       "title": "Dänische Eisenbahngesellschaft stellt Batteriezüge von Siemens in Dienst",
       "url": "https://www.heise.de/news/Mireo-Plus-B-Batteriezuege-von-Siemens-starten-in-Daenemark-11123097.html"
-    },
-    {
-      "title": "iX-Workshop: Keycloak – der fundierte Einstieg in IAM und SSO",
-      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Die-Grundlagen-fuer-effizientes-IAM-und-SSO-11109341.html"
     },
     {
       "title": "Unsichere LagerungFestplattenfunde im Heizungskeller: Gemeinde erklärt sich",
@@ -187,20 +187,26 @@
       "url": "https://www.heise.de/news/Fuer-E-Scooter-kommen-neue-Regeln-Bundesrat-stimmt-zu-11122113.html"
     },
     {
+      "title": "Wettlauf um Quantencomputer: Europa droht den Anschluss zu verlieren",
+      "teaser": "Quantentechnologien versprechen eine Revolution von Medizin bis Kryptografie. Die Patentzahlen steigen, doch Europa hinkt bei der Kommerzialisierung hinterher.",
+      "url": "https://www.heise.de/news/Wettlauf-um-Quantencomputer-Europa-droht-den-Anschluss-zu-verlieren-11123329.html",
+      "image_title": "Quantencomputer"
+    },
+    {
       "title": "Aus für digitale Anonymität? Hubig wagt riskanten Vorstoß zur IP-Speicherung",
       "teaser": "Zwischen Ermittlungsdruck und Grundrechten: Der Entwurf zur Vorratsdatenspeicherung setzt auf juristische Kniffe und das „Einfrieren“ sensibler Standortdaten.",
       "url": "https://www.heise.de/hintergrund/Aus-fuer-digitale-Anonymitaet-Hubig-wagt-riskanten-Vorstoss-zur-IP-Speicherung-11123312.html",
       "image_title": "Vorratsdatenspeicherung"
     },
     {
+      "title": "Wenn die menschliche Firewall fällt",
+      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Vorsicht Kunde: Google-Shop kann Smartphone nicht zusenden",
       "teaser": "Onlinehändler müssen die Ware so auf den Weg bringen, dass sie beim Kunden auch ankommt. Aber Google bekommt das nicht immer hin.",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Google-Shop-kann-Smartphone-nicht-zusenden-10639712.html"
-    },
-    {
-      "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
-      "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "RCS: 1&1 gibt Messaging-Protokoll auf iPhone frei",
@@ -230,12 +236,6 @@
       "teaser": "Eine regionale Eisenbahngesellschaft auf dem dänischen Festland setzt Akkuzüge von Siemens ein. Sie sollen Dieselzüge ersetzen.",
       "url": "https://www.heise.de/news/Mireo-Plus-B-Batteriezuege-von-Siemens-starten-in-Daenemark-11123097.html",
       "image_title": "Akkuzug Mireo Plus B der Midtjyske Jernbaner"
-    },
-    {
-      "title": "iX-Workshop: Keycloak – der fundierte Einstieg in IAM und SSO",
-      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
-      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Die-Grundlagen-fuer-effizientes-IAM-und-SSO-11109341.html",
-      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
       "title": "Verdienst, Lebenshaltung und Co.Auswandern nach Polen",
@@ -329,6 +329,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "iX-Workshop: Keycloak – der fundierte Einstieg in IAM und SSO",
+      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Die-Grundlagen-fuer-effizientes-IAM-und-SSO-11109341.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
       "title": "Bluthochdruckwarner in der Apple Watch: So arbeitet die neue Funktion",
       "teaser": "Hypertonie ist eine oft erst spät entdeckte Volkskrankheit. Die Apple Watch soll das ändern. Wir zeigen, wie gut es funktioniert – und die Einschränkungen.",
       "url": "https://www.heise.de/tests/Bluthochdruckwarner-in-der-Apple-Watch-So-arbeitet-die-neue-Funktion-11090317.html"
@@ -398,15 +404,16 @@
       "image_title": "CloudLand 2026: Programm veröffentlicht"
     },
     {
+      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
+      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
+      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
+    },
+    {
       "title": "Alertl+f: Reverse Engineering Schritt-für-Schritt – KI hilft auch mit",
       "teaser": "Ein Sicherheitsforscher nimmt Interessierte mit auf eine Reise in eine IP-Kamera-Firmware. Das Ergebnis sind verspätete Patches für TP-Links Tapo-C200-Modell.",
       "url": "https://www.heise.de/news/l-f-Reverse-Engineering-Schritt-fuer-Schritt-KI-hilft-auch-mit-11122535.html",
       "image_title": "Jackie Niam"
-    },
-    {
-      "title": "So lassen sich wiederkehrende Admin-Aufgaben automatisieren",
-      "teaser": "Der Wunsch vieler IT-Admins ist es, alltägliche IT-Aufgaben mit nur wenigen Klicks zu erledigen. Wie sich das mit einem modernen Unified-Endpoint-Management (UEM) verwirklichen lässt, erfahren Sie in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/vom-handgriff-zum-mausklick-wie-uem-hilft-administrative-aufgaben-zu-automatisieren-5000/?source=hbsad_ersatz"
     },
     {
       "title": "GWM Wey 03 mit Plug-in-Hybrid im Test: Von allem reichlich, aber auch gut?",
@@ -460,11 +467,6 @@
       "teaser": "Mit einer Hebelwirkung von 130 Milliarden Euro soll der Deutschlandfonds private Investoren in Hochtechnologien wie KI, Quantencomputing und Biotech locken.",
       "url": "https://www.heise.de/news/Milliarden-Boost-fuer-Deep-Tech-Regierung-und-KfW-zuenden-den-Deutschlandfonds-11122406.html",
       "image_title": "Deutschland auf holografischer Landkarte"
-    },
-    {
-      "title": "Justizministerin Hubig will Vorratsdatenspeicherung für drei Monate",
-      "teaser": "Gemäß dem schwarz-roten Koalitionsvertrag soll es eine neue Vorratsdatenspeicherung geben. Der erste Entwurf ist nun fertig.",
-      "url": "https://www.heise.de/news/Justizministerin-Hubig-will-Vorratsdatenspeicherung-fuer-drei-Monate-11122442.html"
     },
     {
       "title": "Bericht: China soll funktionierendes EUV-Lithografie-System haben",
@@ -543,13 +545,12 @@
       "url": "https://www.heise.de/news/Gutachter-EU-Kommission-will-eine-uferlose-Sonderrechtszone-fuer-KI-11122143.html"
     },
     {
-      "title": "BND-Agenten sollen Wohnungen betreten und Bundestrojaner installieren dürfen",
-      "url": "https://www.heise.de/news/Bundestrojaner-BND-soll-zur-Spyware-Installation-in-Wohnungen-eindringen-duerfen-11121838.html"
+      "title": "Justizministerin Hubig will Vorratsdatenspeicherung für drei Monate",
+      "url": "https://www.heise.de/news/Justizministerin-Hubig-will-Vorratsdatenspeicherung-fuer-drei-Monate-11122442.html"
     },
     {
-      "title": "Standortdaten: Bundesregierung kauft bei Datenbrokern ein",
-      "url": "https://www.heise.de/news/Datenhandel-unterm-Radar-Wenn-selbst-der-Staat-beim-Broker-shoppt-11121919.html",
-      "image_title": "Gps,Map,,Pin,Address,Location,On,Mobile,Apps.,Double,Exposure"
+      "title": "BND-Agenten sollen Wohnungen betreten und Bundestrojaner installieren dürfen",
+      "url": "https://www.heise.de/news/Bundestrojaner-BND-soll-zur-Spyware-Installation-in-Wohnungen-eindringen-duerfen-11121838.html"
     },
     {
       "title": "Stromausfall: Waymos in San Francisco bleiben massenhaft auf der Straße stehen",
@@ -632,20 +633,20 @@
       "url": "https://www.heise.de/en/news/SSD-Afterburner-Windows-11-also-has-Microsoft-s-new-NVMe-driver-11121667.html"
     },
     {
+      "title": "Die Erfahrungen von Behörden und Unternehmen mit freien MS-Office-Alternativen",
+      "teaser": "Nicht wunschlos glücklich, aber zufrieden: Wir haben Vorreiter wie Schleswig-Holstein und Schwäbisch-Hall zu ihren Erfahrungen mit LibreOffice & Co. befragt.",
+      "url": "https://www.heise.de/ratgeber/Die-Erfahrungen-von-Behoerden-und-Unternehmen-mit-freien-MS-Office-Alternativen-11069385.html"
+    },
+    {
+      "title": "Microsoft Office: Was den Datenaustausch so problematisch macht",
+      "teaser": "Alternative Office-Programme können Microsoft-Dateien grundsätzlich lesen und bearbeiten, bereiten aber im Detail Probleme. Wir beleuchten die Hintergründe.",
+      "url": "https://www.heise.de/ratgeber/Microsoft-Office-Was-den-Datenaustausch-so-problematisch-macht-11069367.html"
+    },
+    {
       "title": "Mathematiker schlussfolgern: Wir leben nicht in einer Simulation",
       "teaser": "Einer Theorie nach könnte unsere Welt nichts weiter sein als eine Simulation. Mathematiker wollen nun widerlegt haben, dass wir in der Matrix leben.",
       "url": "https://www.heise.de/hintergrund/Mathematiker-schlussfolgern-Wir-leben-nicht-in-einer-Simulation-11109202.html",
       "image_title": "Rote und Blaue Kapsel"
-    },
-    {
-      "title": "Microsoft Office: Drei gute Alternativen ausprobiert",
-      "teaser": "Wer nach datenschutzfreundlichem und günstigerem oder kostenlosem Ersatz für die MS-Office-Programmen sucht, findet mindestens drei gute Alternativen.",
-      "url": "https://www.heise.de/ratgeber/Microsoft-Office-Drei-gute-Alternativen-ausprobiert-11069349.html"
-    },
-    {
-      "title": "Für AnwenderWarum Microsoft Office eigentlich nicht mehr tragbar ist",
-      "teaser": "Gründe, Microsoft Office den Rücken zu kehren, gibt es mehr als genug. Der Schritt ist fast immer möglich.",
-      "url": "https://www.heise.de/ratgeber/Warum-Microsoft-Office-fuer-Anwender-eigentlich-nicht-mehr-tragbar-ist-11069337.html"
     },
     {
       "title": "Was das iPhone-OS-Update bringtTipps zu den Neuerungen von iOS 26.2",
@@ -684,6 +685,12 @@
       "image_title": "Aufmacher mit CAD und Raspi 5"
     },
     {
+      "title": "Fototour Hamburger Bunker: Von Kriegsrelikten zur Stadtarchitektur",
+      "teaser": "Beton trifft Kamera – eine fotografische Spurensuche zu den alten, inzwischen jedoch neu genutzten Luftschutzbunkern nördlich und südlich der Elbe.",
+      "url": "https://www.heise.de/ratgeber/Fototour-Hamburger-Bunker-Von-Kriegsrelikten-zur-Stadtarchitektur-11116016.html",
+      "image_title": "Der ehemalige Flakturm IV an der Feldstraße bietet vom Jahrmarktgelände des Hamburger Doms aus in der Blauen Stunde einen spektakulären Anblick. Gut zu erkennen sind das aufgestockte Hotel, die zugehörigen Fahrstuhlschächte sowie der insgesamt 560 Meter lange Bergpfad, der zu einem öffentlichen Dachgarten führt., Alle Bilder: Knut Gielen"
+    },
+    {
       "title": "Die Jagd nach den Sternen: c't Fotografie 1/26",
       "teaser": "Die Astrofotografie hat sich zu einer beliebten Disziplin entwickelt. Doch wer beeindruckende Sternenbilder aufnehmen will, braucht mehr als nur Ausrüstung.",
       "url": "https://www.heise.de/news/Die-Jagd-nach-den-Sternen-c-t-Fotografie-1-26-11107254.html"
@@ -698,12 +705,6 @@
       "title": "Die Farbe Blau: Bringen Sie Ihre Favoriten im c't-Foto-Wettbewerb nach vorn",
       "teaser": "Das Jahr neigt sich dem Ende zu – ebenso unser Fotowettbewerb \"Die Farbe Blau\". Nutzen Sie die freien Tage, um Ihre Favoriten mit Punkten zu belohnen.",
       "url": "https://www.heise.de/news/Die-Farbe-Blau-Bringen-Sie-Ihre-Favoriten-im-c-t-Foto-Wettbewerb-nach-vorn-11118570.html"
-    },
-    {
-      "title": "Lightroom 2026: Bilderserien mit KI aussortieren und neue Landschaftsmasken",
-      "teaser": "Adobe Lightroom sortiert schlechte Bilder nun auf Wunsch beim Import aus und erstellt automatisch Landschaftsmasken nach Motivbereichen.",
-      "url": "https://www.heise.de/ratgeber/Lightroom-2026-Bilderserien-mit-KI-aussortieren-und-neue-Landschaftsmasken-11108428.html",
-      "image_title": "Aufmacher Dummy, KI"
     },
     {
       "title": "Proxmox mit Ansible automatisieren",
@@ -748,21 +749,22 @@
       "image_title": "Hyundai Staria Hybrid"
     },
     {
-      "title": "\"Explosionshähnchen\": Warum gequälte Hühner auf unsere Teller kommen",
-      "teaser": "Die Zucht hat Hühner geschaffen, die in nur fünf Wochen schlachtreif sind – doch ihr Skelett kann nicht mit dem Muskelwachstum mithalten.",
-      "url": "https://www.heise.de/-11120770",
-      "image_title": "Zwei Hühner in transparenten Quadern"
+      "title": "Das freie Mandat kennt keine Ausnahme – auch nicht bei Richterwahlen",
+      "teaser": "Auch bei Richterwahlen gilt: Abgeordnete dürfen nicht zur Fraktionstreue gezwungen werden. Das Grundgesetz kennt keine Ausnahme. Ein Kommentar.",
+      "url": "https://www.heise.de/-11122119",
+      "image_title": "Lupe über Buch des Grundgesetzes mit der Aufschrift \"Grundgesetz für die Bundesrepublik Deutschland\""
     },
     {
-      "title": "Sea Baby: Wie Kiew Russlands Schwarzmeerflotte attackiert",
-      "teaser": "Die Ukraine setzt Drohnen ein, die bis zu 850 kg Sprengstoff tragen – und damit Russlands Kriegsfinanzierung empfindlich treffen könnten.",
-      "url": "https://www.heise.de/-11122497",
-      "image_title": "Grafik, die eine ukrainische Seedrohne zeigt, die einen Tanker attackiert."
+      "title": "Palantir und Deutschland: Digitale Souveränität muss 2026 zur Priorität werden",
+      "teaser": "Palantir-Chef Karp vermisst deutschen Erfindergeist. Die Antwort muss digitale Souveränität heißen – mit europäischer Software, Datenschutz und Fediverse.",
+      "url": "https://www.heise.de/-11121973",
+      "image_title": "EU-Fahne mit Sternen auf technologischem Hintergrund."
     },
     {
-      "title": "Das Renten-Desaster, das 30 Länder kopierten",
-      "teaser": "Chile zwang Arbeitnehmer in private Rentenfonds – doch die Renten reichten nicht zum Leben. Jetzt kehrt das Land zum Solidarsystem zurück.",
-      "url": "https://www.heise.de/-11121546"
+      "title": "Erweiterter Sicherheitsbegriff: Wenn alles zur Bedrohung wird",
+      "teaser": "Der erweiterte Sicherheitsbegriff prägt den politischen Diskurs. Worin die Ausweitung besteht und warum sie gefährlich ist. Eine kritische Analyse.",
+      "url": "https://www.heise.de/-11116586",
+      "image_title": "Zwei Hände, eine Faust"
     },
     {
       "title": "Diese KI‑Prompts machen aus deinem Selfie ein Business‑Porträt",
