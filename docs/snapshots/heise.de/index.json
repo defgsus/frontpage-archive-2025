@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-25T17:10:03",
+  "timestamp": "2025-12-25T18:15:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "MongoDB: kritische Sicherheitslücke in NoSQL-Datenbank",
+      "url": "https://www.heise.de/news/MongoDB-kritische-Sicherheitsluecke-in-NoSQL-Datenbank-11124891.html"
+    },
     {
       "title": "Nasa-Mondmission: Maskottchen-Entwurf aus Deutschland nominiert",
       "url": "https://www.heise.de/news/Nasa-Mondmission-Maskottchen-Entwurf-aus-Deutschland-nominiert-11124865.html"
@@ -68,10 +72,6 @@
       "url": "https://www.heise.de/hintergrund/Langzeit-Datenarchivierung-mit-Glasplatten-und-Femtosekundenlaser-10961921.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-11109361.html"
     },
     {
       "title": "WindowsMicrosoft fängt Gerüchte zur Rust-Portierung ein",
@@ -190,21 +190,26 @@
       "image_title": "Accept cookies with a tablet to illustrate cookie banners for websites with cookies in German Einwilligung in English Consent"
     },
     {
+      "title": "MongoDB: kritische Sicherheitslücke in NoSQL-Datenbank",
+      "teaser": "MongoDB warnt vor einer schwerwiegenden Sicherheitslücke, die neuere Versionen betrifft. Admins sollten umgehend patchen.",
+      "url": "https://www.heise.de/news/MongoDB-kritische-Sicherheitsluecke-in-NoSQL-Datenbank-11124891.html"
+    },
+    {
       "title": "Nasa-Mondmission: Maskottchen-Entwurf aus Deutschland nominiert",
       "teaser": "Mit der Artemis 2-Mission will die US-Raumfahrtbehörde Nasa demnächst wieder Menschen in die Nähe des Mondes schicken. Mit an Bord soll ein Maskottchen sein.",
       "url": "https://www.heise.de/news/Nasa-Mondmission-Maskottchen-Entwurf-aus-Deutschland-nominiert-11124865.html",
       "image_title": "In blauen Anzügen: Jeremy Hansen, Victor Glovers, Reid Wiseman, Christina H. Koch"
     },
     {
+      "title": "Die „Legacy-Falle“ umgehen, ohne den Betrieb zu gefährden",
+      "teaser": "IT-Beschäftigte stehen vor einem Dilemma: Der Aufwand für Legacy-Systeme, Support-Verträge und Patch-Management lässt kaum Raum für Modernisierung. Die Lösung: Da „Run“-Betrieb an Partner übergeben.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7160913073&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Nvidia: Vertragsschluss mit Inferenz-Chip-Startup",
       "teaser": "Nvidia hat einen Lizenzvertrag mit dem Chip-Startup Groq vereinbart, auch wechseln Groq Mitarbeiter im Rahmen des 20-Milliarden-Deals zu Nvidia.",
       "url": "https://www.heise.de/news/Nvidia-Vertragsschluss-mit-Inferenz-Chip-Startup-11124836.html",
       "image_title": "Sign of Nvidia at new headquarters in Silicon Valley."
-    },
-    {
-      "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
-      "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "ÖPNV in Los Angeles: Wo soziale Probleme auf Züge und sehr viele Autos treffen",
@@ -234,11 +239,6 @@
       "teaser": "Ministerpräsident Olaf Lies will im VW-Land Niedersachsen bei der E-Auto-Förderung auf Gebrauchtwagen setzen – die Folgen für Käufer, Preise und Hersteller.",
       "url": "https://www.heise.de/news/Foerderung-fuer-gebrauchte-E-Autos-gefordert-11124818.html",
       "image_title": "Ein Verkehrsschild weißt den Weg zu einer Ladestation für Elektroautos. In dem Foto zeigt der Pfeil auch auf ein Restaurant namens \"Good Fortune\"."
-    },
-    {
-      "title": "Langzeit-Datenarchivierung mit Glasplatten und Femtosekundenlaser",
-      "teaser": "Das Münchener Unternehmen Cerabyte arbeitet an einer neuen Methode zur langfristigen Archivierung digitaler Daten. Wir haben das Entwicklungslabor besucht.",
-      "url": "https://www.heise.de/hintergrund/Langzeit-Datenarchivierung-mit-Glasplatten-und-Femtosekundenlaser-10961921.html"
     },
     {
       "title": "Z-Image in der PraxisSchnelle KI-Bilder ohne Limit – mit wenig RAM",
@@ -331,6 +331,11 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "Langzeit-Datenarchivierung mit Glasplatten und Femtosekundenlaser",
+      "teaser": "Das Münchener Unternehmen Cerabyte arbeitet an einer neuen Methode zur langfristigen Archivierung digitaler Daten. Wir haben das Entwicklungslabor besucht.",
+      "url": "https://www.heise.de/hintergrund/Langzeit-Datenarchivierung-mit-Glasplatten-und-Femtosekundenlaser-10961921.html"
+    },
+    {
       "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
       "teaser": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-11109361.html",
@@ -396,15 +401,15 @@
       "url": "https://www.heise.de/tests/Commodore-64-Ultimate-Das-Multitalent-mit-Hardware-Emulation-im-Test-10526864.html"
     },
     {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
+    },
+    {
       "title": "Cybersicherheit: Von Ninjas, die durchs Dachfenster kommen – bei offenen Türen",
       "teaser": "Ransomware, KI-Spear-Phishing und Angst im Mittelstand: Zac Warren, Chief Security Advisor bei Tanium, über die aktuelle Lage – und Besonderheiten in der EU.",
       "url": "https://www.heise.de/hintergrund/Cybersicherheit-Von-Ninjas-die-durchs-Dachfenster-kommen-bei-offenen-Tueren-11123520.html",
       "image_title": "Aus Binärcode-Einsen und -Nullen gebildete Illustration der US-Flagge und der Europaflagge."
-    },
-    {
-      "title": "Cyberresilienz: So überstehen Unternehmen einen Cyberangriff!",
-      "teaser": "Eine gute IT-Security-Strategie muss neben Vorsorgemaßnahmen die rasche Erkennung und Eindämmung eines Angriffs sowie die schnelle Wiederherstellung betroffener Systeme umfassen. Die Hardware-Plattform spielt dabei eine Schlüsselrolle.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/security/cyberresilienz-so-ueberstehen-unternehmen-einen-cyberangriff/"
     },
     {
       "title": "iX-Workshop: RAG-Systeme effizient evaluieren und optimieren",
@@ -457,12 +462,6 @@
       "teaser": "Das Bayerische Oberste Landesgerichts entscheidet: Wer Dokumente digital manipuliert, kommt unter Umständen straffrei davon. Das sagt viel zu Mails an Behörden.",
       "url": "https://www.heise.de/news/Urkundenbetrug-per-E-Mail-Warum-das-Foto-einer-Faelschung-keine-Faelschung-ist-11124360.html",
       "image_title": "Close-up,Shot,Of,A,Hand,Using,A,Rubber,Stamp,To"
-    },
-    {
-      "title": "VR-Brillen der 90er und 2000er: Ohne sie gäbe es heute keine Meta Quest",
-      "teaser": "Virtual Reality wie wir sie heute kennen, hat einen langen Weg hinter sich. Wir blicken zurück auf eine Ära des Scheiterns und des Lernens.",
-      "url": "https://www.heise.de/hintergrund/VR-Brillen-der-90er-und-2000er-Ohne-sie-gaebe-es-heute-keine-Meta-Quest-11123968.html",
-      "image_title": "i-glasses VR-Headset der 1990er: frühe Virtual-Reality-Brille für PC-Gaming mit integrierten Displays und Kopfhörern."
     },
     {
       "title": "Festplattenfunde im Heizungskeller: Gemeinde erklärt sich",
@@ -520,8 +519,9 @@
       "image_title": "Screenshot aus \"Hellblade 2\""
     },
     {
-      "title": "Commodore 64 Ultimate: Das Multitalent mit Hardware-Emulation im Test",
-      "url": "https://www.heise.de/tests/Commodore-64-Ultimate-Das-Multitalent-mit-Hardware-Emulation-im-Test-10526864.html"
+      "title": "VR-Brillen der 90er und 2000er: Ohne sie gäbe es heute keine Meta Quest",
+      "url": "https://www.heise.de/hintergrund/VR-Brillen-der-90er-und-2000er-Ohne-sie-gaebe-es-heute-keine-Meta-Quest-11123968.html",
+      "image_title": "i-glasses VR-Headset der 1990er: frühe Virtual-Reality-Brille für PC-Gaming mit integrierten Displays und Kopfhörern."
     },
     {
       "title": "Dänische Eisenbahngesellschaft stellt Batteriezüge von Siemens in Dienst",
@@ -633,21 +633,20 @@
       "url": "https://www.heise.de/en/news/SSD-Afterburner-Windows-11-also-has-Microsoft-s-new-NVMe-driver-11121667.html"
     },
     {
-      "title": "Microsoft OfficeDrei gute MS-Office Alternativen ausprobiert",
-      "teaser": "Wer datenschutzfreundlichen, günstigen oder kostenlosen MS-Office-Ersatz sucht, hat drei gute Alternativen.",
-      "url": "https://www.heise.de/ratgeber/Microsoft-Office-Drei-gute-Alternativen-ausprobiert-11069349.html"
+      "title": "Für AnwenderWarum Microsoft Office eigentlich nicht mehr tragbar ist",
+      "teaser": "Gründe, Microsoft Office den Rücken zu kehren, gibt es mehr als genug. Der Schritt ist fast immer möglich.",
+      "url": "https://www.heise.de/ratgeber/Warum-Microsoft-Office-fuer-Anwender-eigentlich-nicht-mehr-tragbar-ist-11069337.html"
     },
     {
-      "title": "Heimkino JahresrückblickDie besten Filme 2025",
-      "teaser": "Welche Filme hörten sich am besten an, sahen am besten aus und wurden am besten restauriert? Hartmut und Timo nennen ihre Highlights.",
-      "url": "https://www.heise.de/meinung/Heimkino-Jahresrueckblick-Die-besten-Filme-2025-11077069.html",
-      "image_title": "Jahres-Rückblick Filme fürs Heimkino"
+      "title": "Buchkritik: Content Creation mit Künstlicher Intelligenz",
+      "teaser": "Wer als Kreativer mit KI loslegen möchte, den versorgt Bujotzeks Ratgeber mit den nötigen Grundlagen und mit praktischen Tipps zu konkreten Tools.",
+      "url": "https://www.heise.de/tests/Buchkritik-Content-Creation-mit-Kuenstlicher-Intelligenz-11081099.html",
+      "image_title": "Buchkritik Rafael Bujotzek: Content Creation mit künstlicher Intelligenz für Dummies"
     },
     {
-      "title": "Mathematiker schlussfolgern: Wir leben nicht in einer Simulation",
-      "teaser": "Einer Theorie nach könnte unsere Welt nichts weiter sein als eine Simulation. Mathematiker wollen nun widerlegt haben, dass wir in der Matrix leben.",
-      "url": "https://www.heise.de/hintergrund/Mathematiker-schlussfolgern-Wir-leben-nicht-in-einer-Simulation-11109202.html",
-      "image_title": "Rote und Blaue Kapsel"
+      "title": "Vorsicht, Kunde: Programmierter Fehler auf Vodafone-Rechnung",
+      "teaser": "Rechnungen sollten keine offenkundigen Fehler enthalten, auch wenn es nur um kleinste Abweichungen geht. Für Vodafone ist das offenbar nicht selbstverständlich.",
+      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Programmierter-Fehler-auf-Vodafone-Rechnung-10639722.html"
     },
     {
       "title": "ParallelweltenWas kann Parallels Desktop 26 auf dem Mac?",
@@ -685,9 +684,9 @@
       "image_title": ","
     },
     {
-      "title": "Astro-Objektive im Praxistest",
-      "teaser": "Sigma-Ultraweitwinkel-Objektive (Sony-E-Mount) für die Astrofotografie: von 14 bis 28 mm, mit hoher Lichtstärke und exzellenter Sternabbildung bis in die Ecken.",
-      "url": "https://www.heise.de/tests/Astro-Objektive-im-Praxistest-11121709.html"
+      "title": "Der Weg zum perfekten Astro-Foto: So gelingt die Reise zum Traumspot",
+      "teaser": "Von Island bis Namibia – entdecken Sie außergewöhnliche Astrospots und erfahren Sie, wie Sie Ihre Fotoreise perfekt planen und ausstatten.",
+      "url": "https://www.heise.de/ratgeber/Der-Weg-zum-perfekten-Astro-Foto-So-gelingt-die-Reise-zum-Traumspot-11121029.html"
     },
     {
       "title": "Gut geplant zum Nachthimmel-Foto: So gelingt die Astrofotografie",
@@ -750,22 +749,21 @@
       "image_title": "Mercedes-Stern auf einer Abdeckung in einem Motorraum"
     },
     {
-      "title": "Die Bagdadbahn: Deutschlands geplatzter Traum im Orient",
-      "teaser": "Deutsche Ingenieure planten 1903 eine Bahnstrecke von Istanbul nach Bagdad. Das Projekt sollte Britanniens Macht brechen. Doch dann kam alles anders.",
-      "url": "https://www.heise.de/-11074628",
-      "image_title": "Eine Eisenbahn"
+      "title": "Warum Taiwan wieder zum gefährlichsten Schauplatz der Weltpolitik wird",
+      "teaser": "Die USA liefern Waffen im Milliardenwert. China erklärt die Wiedervereinigung für unvermeidlich. Japans Atomdebatte verändert die strategische Lage im Pazifik.",
+      "url": "https://www.heise.de/-11124808",
+      "image_title": "KI-generierte Zeichnung mit Insel Taiwan und dem Festland China, Kriegsschiffe und die Flaggen von China, Japan un den USA"
     },
     {
-      "title": "Die leise Kunst, Weihnachten zu überleben",
-      "teaser": "Über dunkle Tage, falsche Lichter und eine leise Kunst. Eine Liebeserklärung an die Weihnachtsverlierer, die trotzdem weitermachen.",
-      "url": "https://www.heise.de/-11117747",
-      "image_title": "Rote Christbaumkugeln und Rettungsring als Christbaumkugel"
+      "title": "Beten per App: Wie Peter Thiel den evangelikalen Glauben digitalisiert",
+      "teaser": "Warum investieren Peter Thiel und J.D. Vance Millionen in eine Gebets-App? Es geht um weit mehr als nur Religion.",
+      "url": "https://www.heise.de/-11122648"
     },
     {
-      "title": "Südostasien: Zwischen Wirtschaftswunder und historischen Wunden",
-      "teaser": "Südostasien wandelt sich rasant zur Wirtschaftsmacht. Doch Kriege und Autokraten hinterließen tiefe Spuren. Wie die Region zwischen Westen und China jongliert.",
-      "url": "https://www.heise.de/-11093078",
-      "image_title": "Eine moderne Skyline in der Abendsonne"
+      "title": "Genuss ohne Reue? Alkoholersatz Sentia auf dem Prüfstand",
+      "teaser": "Entspannung und Frohsinn aus der Flasche, aber ohne Kater – das versprechen neue alkoholfreie Getränke. Doch wie wirkt der Ersatz und ist er wirklich harmlos?",
+      "url": "https://www.heise.de/-11123884",
+      "image_title": "Mann und Frau stoßen mit roten Longdrinks an"
     },
     {
       "title": "Drum prüfe, wer deine Abos nutzt: Die Last durch geteilte Streaming-Accounts",
