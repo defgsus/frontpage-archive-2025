@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T00:52:49",
+  "timestamp": "2025-12-27T02:44:57",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "Ascheregen auf Sizilien: Ätna spuckt glühendes Material",
+      "teaser": "Auf Sizilien rumort es wieder. Der Vulkan spuckt Asche und glühendes Material. Der Zivilschutz erhöhte kurzzeitig die Warnstufe. Noch gibt es keine gravierenden Folgen.",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/sizilien-aetna-spuckt-gluehendes-material-accg-200389860.html"
+    },
+    {
       "title": "Weihnachtsmord 1913: Die Leiche vor dem Höllentor",
       "teaser": "Bei der Schneespurensuche ging Justitia nicht hautfarbenblind zur Sache: Der Historiker Jonathan Swainger untersucht einen kanadischen Weihnachtsmordfall aus dem Jahr 1913.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/ein-kanadischer-weihnachtsmord-von-1913-accg-110807943.html"
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/ein-kanadischer-weihnachtsmord-von-1913-accg-110807943.html",
+      "image_url": "https://media0.faz.net/image/w730/a97c176dde02/w1000h562x0y98/202512/c2de6e62-1817-4b7e-81f4-9611ce741a18/die-beamten-der-royal.webp",
+      "image_title": "Die Beamten der Royal Northwest Mounted Police stellen schon durch ihre Amtstracht etwas dar. Bei den Mordermittlungen 1913 wurden freilich keine so feschen Uniformen benutzt; stattdessen waren die Amtsträger noch in Privatkleidung gewandet."
     },
     {
       "title": "FAZ+KI-Kreativität im Test: Die verflixten Zwölf",
@@ -93,13 +100,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/stille-wie-sie-unser-wohlbefinden-foerdern-kann-und-wann-sie-schadet-110805730.html",
       "image_url": "https://media0.faz.net/image/w730/02855bbcd23e/w2000h1125x0y752/122025/1.10805728/still-ruht-der-see-allerdings.webp",
       "image_title": "Still ruht der See – allerdings häufig nur in unserer Vorstellung."
-    },
-    {
-      "title": "Influenza: Furcht vor der Supergrippe",
-      "teaser": "In diesem Jahr ist die Influenzasaison ungewöhnlich früh gestartet. Besonders hart trifft es derzeit Großbritannien. Was wissen wir über das Virus und die Wirksamkeit des Impfstoffs?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/influenza-was-wissen-wir-ueber-das-grippevirus-h3n2-accg-110805740.html",
-      "image_url": "https://media0.faz.net/image/w730/41b98ce6ba56/w3000h1687x0y245/202512/43601.0.1598503719/kings-cross-bahnhof-in-london.webp",
-      "image_title": "Kings-Cross-Bahnhof in London im Dezember 2025, man trägt wieder Maske."
     },
     {
       "title": "Algorithmus sondiert Songtexte: Ein schriller Stimmungstest für gute Musik",
@@ -170,18 +170,18 @@
       "image_title": "Joachim Müller-Jung"
     },
     {
+      "title": "Influenza: Furcht vor der Supergrippe",
+      "teaser": "In diesem Jahr ist die Influenzasaison ungewöhnlich früh gestartet. Besonders hart trifft es derzeit Großbritannien. Was wissen wir über das Virus und die Wirksamkeit des Impfstoffs?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/influenza-was-wissen-wir-ueber-das-grippevirus-h3n2-accg-110805740.html",
+      "image_url": "https://media0.faz.net/image/w920/41b98ce6ba56/w3000h1687x0y245/202512/43601.0.1598503719/kings-cross-bahnhof-in-london.webp",
+      "image_title": "Kings-Cross-Bahnhof in London im Dezember 2025, man trägt wieder Maske."
+    },
+    {
       "title": "FAZ+Bildungsforschung: Digitalkompetenz jenseits der Daddelei",
       "teaser": "Die Digitalisierung weckte die Hoffnung, mit ihr ließe sich die Ungleichheit an Schulen verringern. Was ist daraus geworden?",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/digitalkompetenz-jenseits-der-daddelei-accg-110805739.html",
       "image_url": "https://media0.faz.net/image/w920/c997c52b6464/w3000h1687x0y156/202512/43601.0.1578030199/schiefertafel-des-21.webp",
       "image_title": "Schiefertafel des 21. Jahrhunderts: Ein Fünftklässler an einem Tablet während des Matheunterrichts"
-    },
-    {
-      "title": "Lama und Alpaka: Die wolligen Kamele der frühen Andenvölker",
-      "teaser": "Lamas und Alpakas sind die einzigen Herdentiere, die in der Neuen Welt domestiziert wurden. Nun haben paläogenetische Untersuchungen etwas Überraschendes gezeigt.",
-      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/lama-domestikation-in-peru-ueberraschende-details-kommen-ans-licht-accg-110803874.html",
-      "image_url": "https://media0.faz.net/image/w920/af1273d98dea/w3000h1688x0y156/122025/1.10803871/wilde-verwandte-der-zahmen.webp",
-      "image_title": "Wilde Verwandte der zahmen Lamas: Guanacos (Lama guanicoë) in Chile."
     },
     {
       "title": "FAZ+Kosmologie: Die Kraft aus einer anderen Dimension",
@@ -351,10 +351,17 @@
       "image_title": "Eine Politikerin in den USA hat dieses KI-Bild im Kontext von Hurrikan Helene als Kritik am politischen Gegner verbreitet."
     },
     {
+      "title": "Lama und Alpaka: Die wolligen Kamele der frühen Andenvölker",
+      "teaser": "Lamas und Alpakas sind die einzigen Herdentiere, die in der Neuen Welt domestiziert wurden. Nun haben paläogenetische Untersuchungen etwas Überraschendes gezeigt.",
+      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/lama-domestikation-in-peru-ueberraschende-details-kommen-ans-licht-accg-110803874.html",
+      "image_url": "https://media0.faz.net/image/w920/c191f414d183/w3000h1285x0y357/122025/1.10803871/wilde-verwandte-der-zahmen.webp",
+      "image_title": "Wilde Verwandte der zahmen Lamas: Guanacos (Lama guanicoë) in Chile."
+    },
+    {
       "title": "In Norditalien: Forscher entdecken einzigartige Dinosaurier-Spuren",
       "teaser": "In den italienischen Alpen stoßen Wissenschaftler auf umfangreiche Dinosaurier-Abdrücke. Von den über 200 Millionen Jahre alten Spuren sind noch hunderte Meter erhalten.",
       "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/einzigartige-dinosaurier-spuren-in-den-italienischen-alpen-entdeckt-200364133.html",
-      "image_url": "https://media0.faz.net/image/w920/0a789a6f37a4/w2502h1072x0y378/202512/43601.0.1588529538/ein-fussabdruck-eines.webp",
+      "image_url": "https://media0.faz.net/image/w730/1cfda2e8dc95/w2502h1407x0y136/202512/43601.0.1588529538/ein-fussabdruck-eines.webp",
       "image_title": "Ein Fußabdruck eines Prosauropoden aus der späten Trias, der im Fraele-Tal in Norditalien entdeckt wurde"
     },
     {
@@ -363,13 +370,6 @@
       "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/dinosaurier-fussspuren-enthuellen-ihr-verhalten-und-leben-110800197.html",
       "image_url": "https://media0.faz.net/image/w730/b52d632ae59a/w3000h1687x0y156/202512/43601.0.1557802670/versteinerter-fussabdruck.webp",
       "image_title": "Versteinerter Fußabdruck eines theropoden Dinosauriers in Carreras Pampa im Torotoro National Park in Bolivien."
-    },
-    {
-      "title": "FAZ+Katzen-Forschung: Die Erbin des Imperiums",
-      "teaser": "Genuntersuchungen zeigen: Die Hauskatze stammt aus Afrika. Wie und wann sie nach Europa kam.",
-      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/hauskatzen-stammen-aus-afrika-wie-sie-europa-eroberten-110795534.html",
-      "image_url": "https://media0.faz.net/image/w730/9d5b7c8d2519/w5173h2910x0y160/202512/43601.0.1542414863/statue-der-bastet-aus-der.webp",
-      "image_title": "Statue der Bastet aus der ägyptischen Spätzeit (715-343 v. Chr.)"
     },
     {
       "title": "Wissenschaftssoziologie: Wie gehen Forscher mit Ideenklau um?",
