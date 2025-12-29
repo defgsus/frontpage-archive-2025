@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-29T12:22:48",
+  "timestamp": "2025-12-29T13:30:48",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,25 @@
   ],
   "articles": [
     {
+      "title": "China will anthropomorphe KI streng regulieren",
+      "teaser": "KI-Systeme, die menschliches Verhalten simulieren, sollen künftig strengeren Regeln unterliegen und Warnhinweise ausgeben.",
+      "url": "https://www.heise.de/news/China-will-anthropomorphe-KI-streng-regulieren-11125712.html"
+    },
+    {
+      "title": "iX-Workshop: Windows 11 im Unternehmen absichern",
+      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-11-im-Unternehmen-absichern-11116632.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "KI-Bilder statt Modefotografie",
+      "teaser": "Nach Zalando und H&M kündigt nun auch die Fast-Fashion-Marke Zara an, anstelle von Fotoshootings KI-generierte Bilder mit digitalen Klonen der Models zu nutzen.",
+      "url": "https://www.heise.de/news/KI-Bilder-statt-Modefotografie-11125753.html"
+    },
+    {
       "title": "QEMU 10.2 ist schneller unter I/O-Last und dank neuer Richtlinie \"sicherer\"",
       "teaser": "QEMU 10.2 überarbeitet Sicherheitsrichtlinien, modernisiert das Krypto-Subsystem und beschleunigt asynchrones I/O unter Linux.",
       "url": "https://www.heise.de/news/QEMU-10-2-ist-schneller-unter-I-O-Last-und-dank-neuer-Richtlinie-sicherer-11125706.html"
-    },
-    {
-      "title": "30 Jahre Java – Interview mit Community-Vertretern (Teil 2)",
-      "teaser": "Java ist 2025 schon 30 Jahre alt. Das ist ein guter Zeitpunkt, zurück, aber auch nach vorn zu blicken.",
-      "url": "https://www.heise.de/blog/30-Jahre-Java-Interview-mit-Community-Vertretern-Teil-2-11122674.html",
-      "image_title": "Zahl 30 auf einer Tasse"
-    },
-    {
-      "title": "39C3KI-Coding-Assistenten mit Prompt Injection",
-      "teaser": "Johann Rehberger zeigte einfache Angriffe auf KI-Coding-Assistenten. Viele Lücken wurden gefixt, doch das Grundproblem bleibt.",
-      "url": "https://www.heise.de/news/39C3-Sicherheitsforscher-kapert-KI-Coding-Assistenten-mit-Prompt-Injection-11125630.html",
-      "image_title": "Ausschnitt aus der Präsentation: KI-Virus \"Agenthopper\""
-    },
-    {
-      "title": "Integration-Tests mit TestContainers: Von der Theorie zur Praxis",
-      "teaser": "TestContainers ermöglichen realistische Integration-Tests mit echten Diensten in Docker-Containern – schnell, isoliert und ohne Mocks.",
-      "url": "https://www.heise.de/hintergrund/Integration-Tests-mit-TestContainers-Von-der-Theorie-zur-Praxis-11123105.html",
-      "image_title": "Miniaturisierter Globus und Container mit Paketen auf einer Computertastatur"
     },
     {
       "title": "HintergrundVirtualisierung: Wie man eine Proxmox-Infrastruktur mit Terraform bereitstellt",
@@ -61,6 +59,24 @@
     {
       "title": "RatgeberSicherheitssysteme mit Atomic Red Team testen",
       "url": "https://www.heise.de/ratgeber/Sicherheitssysteme-mit-Atomic-Red-Team-testen-10792853.html"
+    },
+    {
+      "title": "30 Jahre Java – Interview mit Community-Vertretern (Teil 2)",
+      "teaser": "Java ist 2025 schon 30 Jahre alt. Das ist ein guter Zeitpunkt, zurück, aber auch nach vorn zu blicken.",
+      "url": "https://www.heise.de/blog/30-Jahre-Java-Interview-mit-Community-Vertretern-Teil-2-11122674.html",
+      "image_title": "Zahl 30 auf einer Tasse"
+    },
+    {
+      "title": "39C3: Sicherheitsforscher kapert KI-Coding-Assistenten mit Prompt Injection",
+      "teaser": "Auf dem 39C3 zeigte Johann Rehberger, wie leicht sich KI-Coding-Assistenten kapern lassen. Viele Lücken wurden gefixt, doch das Grundproblem bleibt.",
+      "url": "https://www.heise.de/news/39C3-Sicherheitsforscher-kapert-KI-Coding-Assistenten-mit-Prompt-Injection-11125630.html",
+      "image_title": "Ausschnitt aus der Präsentation: KI-Virus \"Agenthopper\""
+    },
+    {
+      "title": "Integration-Tests mit TestContainers: Von der Theorie zur Praxis",
+      "teaser": "TestContainers ermöglichen realistische Integration-Tests mit echten Diensten in Docker-Containern – schnell, isoliert und ohne Mocks.",
+      "url": "https://www.heise.de/hintergrund/Integration-Tests-mit-TestContainers-Von-der-Theorie-zur-Praxis-11123105.html",
+      "image_title": "Miniaturisierter Globus und Container mit Paketen auf einer Computertastatur"
     },
     {
       "title": "c’t-Workshop: Struktur statt Tool-Chaos in Microsoft 365",
@@ -134,20 +150,7 @@
       "image_title": "Active Directory Hardening - Vom Audit zur sicheren Umgebung"
     },
     {
-      "title": "39C3: Diverse Lücken in GnuPG und anderen kryptografischen Werkzeugen",
-      "teaser": "Sicherheitsforscher haben diverse sicherheitsrelevante Fehler in GnuPG und ähnlichen Programmen gefunden. Viele der Lücken sind (noch) nicht behoben.",
-      "url": "https://www.heise.de/news/39C3-Diverse-Luecken-in-GnuPG-und-anderen-kryptografischen-Werkzeugen-11125308.html",
-      "image_title": "Der 39C3 hat am 27. Dezember in Hamburg begonnen."
-    },
-    {
-      "title": "39C3: Wie ein Forscher das sichere Mail-Netz der Medizin erneut überlistete",
-      "teaser": "Ein Sicherheitsexperte zeigte auf dem 39C3, wie sich bei der E-Ärztepost KIM Nachrichten fälschen, Identitäten stehlen und sensible Metadaten abgreifen lassen.",
-      "url": "https://www.heise.de/news/39C3-Wie-ein-Forscher-das-sichere-Mail-Netz-der-Medizin-erneut-ueberlistete-11125264.html",
-      "image_title": "Der 39C3 hat am 27. Dezember in Hamburg begonnen."
-    },
-    {
-      "title": "Nun auch Gmail: Nutzer dürfen bald ihre Mail-Adresse ändern",
-      "teaser": "Bislang war nur Gmail-Nutzern das Ändern ihrer Mail-Adresse verwehrt. Das soll sich laut einer Supportseite von Google bald ändern.",
+      "title": "NewsNun auch Gmail: Nutzer dürfen bald ihre Mail-Adresse ändern",
       "url": "https://www.heise.de/news/Nun-auch-Gmail-Nutzer-duerfen-bald-ihre-Mail-Adresse-aendern-11125224.html",
       "image_title": "Das Gmail-Logo auf einem Smartphone, hier mit 5590 Benachrichtigungen"
     },
@@ -164,11 +167,6 @@
       "title": "NewsDas Deutschlandticket wird wieder teurer – und ab 2027?",
       "url": "https://www.heise.de/news/Das-Deutschlandticket-wird-wieder-teurer-und-ab-2027-11125090.html",
       "image_title": "Ein italienischer Schnellzug vom Typ Frecciarossa saust durch Frankreich."
-    },
-    {
-      "title": "HintergrundNeue VR-Brillen 2026: Diese Geräte sind zu erwarten",
-      "url": "https://www.heise.de/hintergrund/Neue-VR-Brillen-2026-Diese-Geraete-sind-zu-erwarten-11119742.html",
-      "image_title": "Abbildung der Steam Frame und Controller, von seitlich oben."
     },
     {
       "title": "RatgeberWarum Microsoft Office für Anwender eigentlich nicht mehr tragbar ist",
